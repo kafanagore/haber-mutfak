@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-03T10:00:04.526Z",
+  "generatedAt": "2026-07-03T16:00:03.305Z",
   "categories": {
     "gundem": {
-      "text": "Kırşehir'deki çifte cinayette belediye başkanına ihmalden hapis cezası. Cumhurbaşkanı Yardımcısı Yılmaz Hamaney'in cenaze töreni için Tahran'da. İstanbul’da akılalmaz olay! Hayvanları Koruma Derneği kurup horoz dövüştürdüler!. İstanbul'da binanın bahçesinde çökme: 29 kişi mahsur kaldı. Diyarbakır'da taksiciler durak için birbirine girdi. Aracın çarpıp kaçtığı ayı vatandaşlar tarafından görüntülendi. Balkonda korku dolu anlar: Düşmesin diye dakikalarca tuttu.",
+      "text": "Cumhurbaşkanı Erdoğan, İtalya Başbakanı Meloni ile görüştü. Zonguldak'ta bina yıkılınca gizli giriş ortaya çıktı, İkinci Dünya Savaşı'ndan kalma. AKOM'dan İstanbul için kuvvetli sağanak ve dolu uyarısı. Cumhurbaşkanı Yardımcısı Yılmaz Hamaney'in cenaze törenine katıldı. Yolcu otobüsü yoldan çıktı… Çok sayıda yaralı var. Silahlı saldırıya uğrayan kişi, saldırgana taş atarak karşılık verdi. Tunceli’de kamyonetle otomobil kafa kafaya çarpıştı: 1 ölü, 5 yaralı.",
       "items": [
         {
-          "title": "Kırşehir'deki çifte cinayette belediye başkanına ihmalden hapis cezası",
-          "summary": "Kırşehir'de iki sevgilinin öldürüldüğü olayda ihmalleri olduğu gerekçesiyle haklarında dava açılan belediye başkanı ile belediye yetkilileri hapis cezasına çarptırıldı. Kırşehir'de Hasan Aydoğan ile Şeyma Demir isimli iki gencin belediyede görevli güvenlik görevlilerince öldürüldüğü olayla ilgili yargılanan belediye yetkilileri hapis cezasına çarptırıldı. Olay, 25 Mart'ta 2022'de Bağbaşı Mahallesi'nde meydana geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/kirsehirdeki-cifte-cinayette-belediye-baskanina-ihmalden-hapis-cezasi-1731265"
+          "title": "Cumhurbaşkanı Erdoğan, İtalya Başbakanı Meloni ile görüştü",
+          "summary": "Cumhurbaşkanı Erdoğan, İtalya Başbakanı Giorgia Meloni ile telefonda görüştü. Cumhurbaşkanı Recep Tayyip Erdoğan, İtalya Başbakanı Giorgia Meloni ile telefonda görüştü. Liderler, görüşmede Türkiye-İtalya ikili ilişkileriyle bölgesel ve küresel konuları ele aldı. Cumhurbaşkanı Erdoğan görüşmede, Türkiye ile İtalya arasında savunma sanayii başta olmak üzere her alanda iş birliğini güçlendirmek için çalıştıklarını, ilişkilere ivme kazandıracak yeni adımlar atmanın da önemli olduğunu ifade etti.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-italya-basbakani-meloni-ile-gorustu-1731303"
         },
         {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz Hamaney'in cenaze töreni için Tahran'da",
-          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ve beraberindeki heyet, ABD saldırısında öldürülen dini lider Ali Hamaney için düzenlenen devlet törenine katılmak için İran’ın başkenti Tahran’a geldi. Savaşın ilk günü ABD ile İsrail'in ortak saldırısında İran'ı 37 yıldır yöneten dini lider Ayetullah Ali Hamaney öldürülmüştü. Hamaney için yarın cenaze töreni düzenlenecek. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz da devlet törenine katılmak için Tahran'a gitti.",
+          "title": "Zonguldak'ta bina yıkılınca gizli giriş ortaya çıktı, İkinci Dünya Savaşı'ndan kalma",
+          "summary": "Zonguldak'ta bir iş hanının yıkımı sırasında, girişi yıllar içinde görünmez hale gelen bir yer altı yapısı ortaya çıktı. Kent merkezinde Madenci Anıtı karşısında bulunan Vakıflar İş Hanı'nın yıkımı sırasında, uzun yıllardır kapalı durumda bulunan bir giriş ortaya çıktı. Girişin açığa çıkmasıyla, bölgede yer alan diğer havalandırma bacaları ve girişlerle bağlantılı yer altı yapısı olduğu görüldü. 2.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-zonguldakta-bina-yikilinca-gizli-giris-ortaya-cikti-ikinci-dunya-savasindan-kalma-1731302"
+        },
+        {
+          "title": "AKOM'dan İstanbul için kuvvetli sağanak ve dolu uyarısı",
+          "summary": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), kentte yarın kuvvetli sağanak ve dolunun etkili olabileceği uyarısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/akomdan-istanbul-icin-kuvvetli-saganak-ve-dolu-uyarisi-43227993"
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz Hamaney'in cenaze törenine katıldı",
+          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ve beraberindeki heyet, ABD saldırısında öldürülen dini lider Ali Hamaney için düzenlenen devlet törenine katıldı. Savaşın ilk günü ABD ile İsrail'in ortak saldırısında İran'ı 37 yıldır yöneten dini lider Ayetullah Ali Hamaney öldürülmüştü. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz da devlet törenine katılmak için Tahran'a gitti. Yılmaz'ı havaalanında İran Bilim, Araştırma ve Teknoloji Bakanı Hüseyin Simayi Sarraf ile Türkiye'nin Tahran Büyükelçisi Hicabi Kırlangıç karşıladı.",
           "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-yilmaz-hamaneyin-cenaze-toreni-icin-tahranda-1731264"
         },
         {
-          "title": "İstanbul’da akılalmaz olay! Hayvanları Koruma Derneği kurup horoz dövüştürdüler!",
-          "summary": "Büyükçekmece'de \"Hayvanları Koruma Derneği\" adı altında horoz dövüştürüp kumar oynatılması üzerine düzenlenen operasyonda 4 şüpheli gözaltına alındı. Kumar oynayan 110 kişiye toplam 1 milyon 276 bin 440 lira para cezası uygulanırken, adresteki 35 Hint horozuna el konuldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-akilalmaz-olay-hayvanlari-koruma-dernegi-kurup-horoz-dovusturduler-43227492"
+          "title": "Yolcu otobüsü yoldan çıktı… Çok sayıda yaralı var",
+          "summary": "Aksaray'da yolcu otobüsünün yoldan çıkması sonucu ilk belirlemelere göre 19 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yolcu-otobusu-yoldan-cikti-cok-sayida-yarali-var-43227989"
         },
         {
-          "title": "İstanbul'da binanın bahçesinde çökme: 29 kişi mahsur kaldı",
-          "summary": "İstanbul Küçükçekmece'de bir binanın bahçesinde göçme meydana geldi. İstanbul'da bir binanın bahçesinde göçme meydana geldi. Olay, bu sabah saat 04.00 sıralarında Küçükçekmece Kanarya Mahallesi Bülbül Sokak’ta meydana geldi. İnşaatta sürdürülen temel çalışması sırasında, bitişikte bulunan 10 daireli binanın bahçe kısmında henüz belirlenemeyen nedenle kısmi göçük oluştu. Büyük gürültüyle meydana gelen göçüğün ardından çevredekilerin ihbarı üzerine olay yerine polis, itfaiye ve belediye ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-binanin-bahcesinde-cokme-29-kisi-mahsur-kaldi-1731253"
+          "title": "Silahlı saldırıya uğrayan kişi, saldırgana taş atarak karşılık verdi",
+          "summary": "Kütahya’da motosikletli bir şüphelinin silahlı saldırısında ayağından yaralanan servis işletmecisi R.Ö., sığındığı okul bahçesinde yerden aldığı taşı fırlatarak karşılık verdi. Güvenlik kamerasına yansıyan olayın ardından polis kaçan saldırganı yakalamak için çalışma başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/silahli-saldiriya-ugrayan-kisi-saldirgana-tas-atarak-karsilik-verdi-43227957"
         },
         {
-          "title": "Diyarbakır'da taksiciler durak için birbirine girdi",
-          "summary": "Diyarbakır’da iki taksici arasında durak anlaşmazlığı nedeniyle çıkan tekmeli yumruklu kavga, cep telefonu kamerasıyla kaydedildi. Olay, dün gece saatlerinde Yenişehir ilçesi Gevran Caddesi’nde meydana geldi. İki taksici arasında iddiaya göre, durak anlaşmazlığı nedeniyle başlayan tartışma, kısa sürede büyüyerek tekmeli yumruklu kavgaya dönüştü. Çevredekilerin araya girmesiyle taraflar güçlükle ayrıldı. Kavga anları ise çevredeki bir kişi tarafından cep telefonu kamerasıyla kaydedildi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-diyarbakirda-taksiciler-durak-icin-birbirine-girdi-1731260"
-        },
-        {
-          "title": "Aracın çarpıp kaçtığı ayı vatandaşlar tarafından görüntülendi",
-          "summary": "Kastamonu'da aracın çarptığı ayı vatandaşlar tarafından görüntülendi. Bir süre sonra kalkan ayı bölgeden uzaklaştı. Olay, Kastamonu-İnebolu kara yolu Oyrak mevkiinde seyir halinde olan Mustafa Dikel, yol kenarında bir ayının beklediğini gördü. Ayıyı fark eden ve çevrede araç parçalarının olduğunu gören vatandaş, durumu 112 Acil Çağrı Merkezi'ne bildirdi. Dikel'in ihbarının ardından ayının bulunduğu noktaya Kastamonu Doğa Koruma ve Milli Park Müdürlüğü ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-aracin-carpip-kactigi-ayi-vatandaslar-tarafindan-goruntulendi-1731259"
-        },
-        {
-          "title": "Balkonda korku dolu anlar: Düşmesin diye dakikalarca tuttu",
-          "summary": "Denizli'de küçük bir çocuk balkonun koruma filesinin dışında asılı kaldı. Denizli'de bir apartmanda korku dolu anlar yaşandı. Olay, Merkezefendi ilçesi Sırakapılar Mahallesi'nde akşam saatlerinde meydana geldi. Edinilen bilgilere göre, evde oyun oynadığı sırada odanın penceresinden dışarı çıkan küçük çocuk, balkona gerilen koruma filesinin dışına geçti. Bir süre sonra dengesini kaybeden çocuk, fileye tutunarak boşlukta asılı kaldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-balkonda-korku-dolu-anlar-dusmesin-diye-dakikalarca-tuttu-1731251"
+          "title": "Tunceli’de kamyonetle otomobil kafa kafaya çarpıştı: 1 ölü, 5 yaralı",
+          "summary": "Tunceli'de meydana gelen trafik kazasında 1 kişi hayatını kaybetti, 5 kişi yaralandı. Kazanın ardından sağlık ekipleri yaralıları hastaneye kaldırdı ancak Ali İhsan Kandil isimli vatandaş kurtarılamadı. Kazayla ilgili soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/tuncelide-kamyonetle-otomobil-kafa-kafaya-carpisti-1-olu-5-yarali-43227933"
         }
       ]
     },
     "dunya": {
-      "text": "“Güvenlik işi” diye gittiler, Ukrayna cephesine sürüldüler: Afrikalı gençler Rusya’nın ölüm hattında. BM Genel Merkezi önünde kendini yaktı. Trump'tan NATO çıkışı: Bu yol devam edemez. İran'dan ABD'ye Hürmüz tepkisi: Müdahalesine izin vermeyeceğiz. Pakistan'da yolcu otobüsü uçuruma yuvarlandı: Çok sayıda can kaybı. Netflix yıldızı milletvekili oldu. İlk açıklama geldi. Endonezya'da korkutan deprem.",
+      "text": "Rusya'dan Almanya'ya 'Kuzey Akım' tepkisi: Mantığa aykırı. Şam'da bir kafede patlama. Çok sayıda ölü ve yaralı var. NASA'dan uzay operasyonu: Dünya'ya düşme tehlikesi var. Dışişleri Bakanı Hakan Fidan IKBY Başbakan Yardımcısı Talabani ile görüştü. Hindistan'da korkunç kaza: Gişeler alev topuna döndü. Trump'tan tarihi zirve öncesi dikkat çeken hazırlık! 1000 kişilik heyet, Air Force One ve 'Canavar' geliyor. “Güvenlik işi” diye gittiler, Ukrayna cephesine sürüldüler: Afrikalı gençler Rusya’nın ölüm hattında.",
       "items": [
+        {
+          "title": "Rusya'dan Almanya'ya 'Kuzey Akım' tepkisi: Mantığa aykırı",
+          "summary": "Kremlin Sarayı Sözcüsü Dmitriy Peskov, \"Kiev yönetiminin Kuzey Akım doğalgaz boru hatlarına yönelik saldırılardaki rolüne rağmen Almanya’nın Ukrayna’yı desteklemeye devam etmesi oldukça mantığa aykırı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-almanyaya-kuzey-akim-tepkisi-mantiga-aykiri-43227956"
+        },
+        {
+          "title": "Şam'da bir kafede patlama. Çok sayıda ölü ve yaralı var",
+          "summary": "Suriye'nin başkenti Şam'da bir kafede patlama meydana geldi. Çok sayıda kişinin öldüğü ve yaralandığı olayın bir el yapımı patlayıcı ile gerçekleştirildiğini belirtildi. Suriye'nin başkenti Şam'da bulunan bir kafede patlama meydana geldi. Suriye devlet televizyonu El-İhbariyye’nin haberine göre patlama sonucu hayatını kaybedenlerin sayısı 10'a yükseldi. Yaralı sayısının 21'e yükseldiği aktarılan haberde, patlamayı henüz üstlenen olmadığı, güvenlik güçlerinin ise olayla ilgili çalışmalarını sürdürdüğü belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/samda-bir-kafede-patlama-cok-sayida-yarali-var-1731143"
+        },
+        {
+          "title": "NASA'dan uzay operasyonu: Dünya'ya düşme tehlikesi var",
+          "summary": "Dünya'ya düşme tehlikesiyle karşı karşıya olan NASA teleskobu için başlatılan kurtarma operasyonu kapsamında uzay aracı yörüngeye fırlatıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/nasadan-uzay-operasyonu-dunyaya-dusme-tehlikesi-var-43227900"
+        },
+        {
+          "title": "Dışişleri Bakanı Hakan Fidan IKBY Başbakan Yardımcısı Talabani ile görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Irak Kürt Bölgesel Yönetimi (IKBY) Başbakan Yardımcısı Talabani ile bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-ikby-basbakan-yardimcisi-talabani-ile-gorustu-43227896"
+        },
+        {
+          "title": "Hindistan'da korkunç kaza: Gişeler alev topuna döndü",
+          "summary": "Hindistan’ın Uttar Pradesh eyaletinde otoyol gişelerine çarpan LPG yüklü tankerde meydana gelen sızıntı sonrası çıkan yangında 4 kişi hayatını kaybetti, 2 kişi de yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/hindistanda-korkunc-kaza-giseler-alev-topuna-dondu-43227778"
+        },
+        {
+          "title": "Trump'tan tarihi zirve öncesi dikkat çeken hazırlık! 1000 kişilik heyet, Air Force One ve 'Canavar' geliyor",
+          "summary": "ABD Başkanı Donald Trump'ın, Ankara'da düzenlenecek tarihi NATO Zirvesi öncesi olağanüstü güvenlik ve lojistik hazırlıkları başlatıldı. Trump'ın, yaklaşık 1000 kişilik heyet, yeni Air Force One, Marine One helikopteri ve \"Canavar\" lakaplı başkanlık limuziniyle ziyareti gerçekleştireceği ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-tarihi-zirve-oncesi-dikkat-ceken-hazirlik-1000-kisilik-heyet-air-force-one-ve-canavar-geliyor-43227527"
+        },
         {
           "title": "“Güvenlik işi” diye gittiler, Ukrayna cephesine sürüldüler: Afrikalı gençler Rusya’nın ölüm hattında",
           "summary": "Rusya’nın, Afrika ülkelerinden genç erkekleri iş, eğitim ya da güvenlik görevi vaadiyle ülkeye çekip Ukrayna cephesine gönderdiği iddia ediliyor. Kenya’dan giden bir genç, kendisine eğitim verilmeden tüfek teslim edildiğini ve silah kullanmayı cephede başkalarını izleyerek öğrendiğini anlattı.",
           "source": "https://www.hurriyet.com.tr/dunya/guvenlik-isi-diye-gittiler-ukrayna-cephesine-surulduler-afrikali-gencler-rusyanin-olum-hattinda-43213296"
-        },
-        {
-          "title": "BM Genel Merkezi önünde kendini yaktı",
-          "summary": "ABD'nin New York kentindeki Birleşmiş Milletler (BM) Genel Merkezi önüne gelen bir şahıs, Tibet bayrağı ve protesto içerikli bildiriler bıraktıktan sonra kendini ateşe verdi. Ağır yaralı olarak hastaneye kaldırılan şahıs, yapılan tüm müdahalelere rağmen hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bm-genel-merkezi-onunde-kendini-yakti-43227379"
-        },
-        {
-          "title": "Trump'tan NATO çıkışı: Bu yol devam edemez",
-          "summary": "ABD Başkanı Donald Trump, NATO harcamalarındaki dengesizliğe dikkat çekerek ABD’nin ittifakta orantısız yük üstlendiğini ve mevcut durumun “tek taraflı” olduğunu savundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-nato-cikisi-bu-yol-devam-edemez-43227256"
-        },
-        {
-          "title": "İran'dan ABD'ye Hürmüz tepkisi: Müdahalesine izin vermeyeceğiz",
-          "summary": "İran Meclis ve Müzakere Heyeti Başkanı Muhammed Bakır Kalibaf, Hürmüz Boğazı’nın yönetimi konusunda kararlı olduklarını ve ABD'nin müdahalesine izin vermeyeceklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdye-hurmuz-tepkisi-mudahalesine-izin-vermeyecegiz-43227253"
-        },
-        {
-          "title": "Pakistan'da yolcu otobüsü uçuruma yuvarlandı: Çok sayıda can kaybı",
-          "summary": "Pakistan'ın Belucistan eyaletinde yolcu otobüsünün uçuruma yuvarlanması sonucu ilk belirlemelere göre 40 kişi hayatını kaybetti, 8 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistanda-yolcu-otobusu-ucuruma-yuvarlandi-cok-sayida-can-kaybi-43227233"
-        },
-        {
-          "title": "Netflix yıldızı milletvekili oldu. İlk açıklama geldi",
-          "summary": "Suriyeli Netflix yıldızı Rozina Lazkani, Suriye Devlet Başkanı Ahmed el Şara tarafından Halk Meclisi'ne atanan 70 kişiden biri oldu. Lazkani'den ilk açıklama geldi. Suriye Devlet Başkanı Ahmed el Şara, ülkenin geçiş döneminde görev yapacak yeni parlamentosuna yönelik atamalarını tamamladı. Ülkenin popüler oyuncuları arasında yer alan Rozina Lazkani, Şara'nın 210 üyeli Halk Meclisi'ne doğrudan seçtiği 70 kişiden biri oldu. 36 yaşındaki oyuncu, Netflix'te yayınlanan popüler dizi Al Hayba ile tanınıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-netflix-yildizi-milletvekili-oldu-ilk-aciklama-geldi-1731200"
-        },
-        {
-          "title": "Endonezya'da korkutan deprem",
-          "summary": "Endonezya'da 6,2 büyüklüğünde deprem meydana geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/endonezyada-korkutan-deprem-43227088"
         }
       ]
     },
@@ -124,48 +124,63 @@
       ]
     },
     "spor": {
-      "text": "Arjantin en az 2 gol buluyor; Kolombiya, kaybetmiyor… İşte Misli’den Günün Tüyoları!. Beşiktaş, Sertaç Şanlı ile yollarını ayırdı. Osimhen Okan Buruk'u aradı! Transferler olacak mı?. Arjantin, Yeşil Burun Adaları karşısında! Dünya Kupası heyecanı canlı sohbet ile Misli’de. Fenerbahçe, teklifi kabul edecek! 25 milyon Euro. Portekiz-Hırvatistan maçı sonrası Ronaldo'dan duygusal konuşma: Jota'nın ışığı bizi aydınlatıyor. Dünya Kupası'ndan bir Demokratik Kongo geçti! 'Aynı amaç için mücadele ettiler'.",
+      "text": "Trabzonspor, Kazeem Olaigbe'yi Basel'e kiraladı!. Premier Lig'de ilk Türk patron Acun Ilıcalı: Hayatta En Gurur Duyduğum Başarım Oldu. Fenerbahçeli yönetici Cihan Kamer'den transfer açıklaması!. Fenerbahçe, Nathan Ake transferini resmen açıkladı. Trabzonspor, Andre Onana'yı KAP'a bildirdi! İşte maaşı ve imza ücreti. Safranbolu’da Ultra Trail heyecanı yarın start alacak. Serdar Dursun, “Kupa Günlüğü”ne konuk oluyor.",
       "items": [
         {
-          "title": "Arjantin en az 2 gol buluyor; Kolombiya, kaybetmiyor… İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/arjantin-en-az-2-gol-buluyor-kolombiya-kaybetmiyor-iste-misliden-gunun-tuyolari-43227415"
+          "title": "Trabzonspor, Kazeem Olaigbe'yi Basel'e kiraladı!",
+          "summary": "Trabzonspor, geçtiğimiz sezonu Konyaspor'da kiralık olarak geçiren Belçikalı futbolcusu Kazeem Olaigbe'nin İsviçre takımlarından Basel'e transfer olduğunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-kazeem-olaigbeyi-basele-kiraladi-43228000"
         },
         {
-          "title": "Beşiktaş, Sertaç Şanlı ile yollarını ayırdı",
-          "summary": "Beşiktaş, resmi yayın organından yaptığı açıklamada tecrübeli basketbolcu Sertaç Şanlı'ya teşekkür etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-sertac-sanli-ile-yollarini-ayirdi-43227381"
+          "title": "Premier Lig'de ilk Türk patron Acun Ilıcalı: Hayatta En Gurur Duyduğum Başarım Oldu",
+          "summary": "Bu sezon Hull City ile birlikte futbolun zirvesi Premier Lig'de mücadele edecek olan Acun Ilıcalı, Inbusiness ekonomi dergisinin Temmuz sayısına kapak oldu. Ilıcalı birçok konuda açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/premier-ligde-ilk-turk-patron-acun-ilicali-hayatta-en-gurur-duydugum-basarim-oldu-43227981"
         },
         {
-          "title": "Osimhen Okan Buruk'u aradı! Transferler olacak mı?",
-          "summary": "Galatasaray'ın Nijeryalı starı Victor Osimhen, tatildeyken boş durmuyor Nijeryalı futbolcu, yapılacak transferler için teknik direktör Okan Buruk'tan bilgi aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/osimhen-okan-buruku-aradi-transferler-olacak-mi-43227267"
+          "title": "Fenerbahçeli yönetici Cihan Kamer'den transfer açıklaması!",
+          "summary": "Fenerbahçe Kulübü Futboldan Sorumlu Yönetim Kurulu Üyesi Cihan Kamer, transfer çalışmaları hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-yonetici-cihan-kamerden-transfer-aciklamasi-43227958"
         },
         {
-          "title": "Arjantin, Yeşil Burun Adaları karşısında! Dünya Kupası heyecanı canlı sohbet ile Misli’de",
-          "summary": "FIFA Dünya Kupası Son 32 Turu'nda son şampiyon Arjantin, Yeşil Burun Adaları ile karşılaşıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arjantin-yesil-burun-adalari-karsisinda-dunya-kupasi-heyecani-canli-sohbet-ile-mislide-43227278"
+          "title": "Fenerbahçe, Nathan Ake transferini resmen açıkladı",
+          "summary": "Fenerbahçe, Manchester City’nin Hollandalı savunmacısı Nathan Ake’yi transfer ettiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-nathan-ake-transferini-resmen-acikladi-43227942"
         },
         {
-          "title": "Fenerbahçe, teklifi kabul edecek! 25 milyon Euro",
-          "summary": "Fenerbahçe, bir yandan yapılacak transferler için çalışmalarını sürdürürken, diğer yandan da gönderilecek oyuncuları planlamaya başladı. Bu bağlamda sarı lacivertliler, olası bir teklif gelmesi halinde yıldız oyuncuya dair karar verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-teklifi-kabul-edecek-25-milyon-euro-43227242"
+          "title": "Trabzonspor, Andre Onana'yı KAP'a bildirdi! İşte maaşı ve imza ücreti",
+          "summary": "Trabzonspor, Andre Onana'nın bir sezon daha kiralandığını KAP'a bildirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-andre-onanayi-kapa-bildirdi-43227879"
         },
         {
-          "title": "Portekiz-Hırvatistan maçı sonrası Ronaldo'dan duygusal konuşma: Jota'nın ışığı bizi aydınlatıyor",
-          "summary": "2026 FIFA Dünya Kupası son 32 turunda Portekiz, Hırvatistan'ı 2-1 mağlup etti. Maç sonrası Cristiano Ronaldo açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/portekiz-hirvatistan-maci-sonrasi-ronaldodan-duygusal-konusma-jotanin-isigi-bizi-aydinlatiyor-43227129"
+          "title": "Safranbolu’da Ultra Trail heyecanı yarın start alacak",
+          "summary": "UNESCO Dünya Miras Listesi’nde yer alan Safranbolu’da ilk kez düzenlenecek Safranbolu Ultra Trail (SAFRUN), 10 ülkeden 550 sporcunun katılımıyla yarın başlıyor. ‘Bir koşudan fazlası, tarihte yolculuk’ sloganıyla Karabük’ün Safranbolu ilçesinde gerçekleştirilecek SAFRUN’da 6K, 13K, 19K ve 48,5K olmak üzere dört farklı etapta yarışacak sporcular, tarih ve doğayla iç içe unutulmaz bir deneyim yaşayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/safranboluda-ultra-trail-heyecani-yarin-start-alacak-43227851"
         },
         {
-          "title": "Dünya Kupası'ndan bir Demokratik Kongo geçti! 'Aynı amaç için mücadele ettiler'",
-          "summary": "2026 FIFA Dünya Kupası'nda damga vuran Demokratik Kongo Milli Takımı'nı, Hürriyet yazarlarından Koray Durkal değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasindan-bir-demokratik-kongo-gecti-ayni-amac-icin-mucadele-ettiler-43227092"
+          "title": "Serdar Dursun, “Kupa Günlüğü”ne konuk oluyor",
+          "summary": "Dünya Kupası heyecanını, çarpıcı analizleri ve renkli konuklarıyla ekranlara taşıyan Spor Smart’ın sevilen programı “Kupa Günlüğü”, bu akşam deneyimli golcü Serdar Dursun’u ağırlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdar-dursun-kupa-gunlugune-konuk-oluyor-43227777"
         }
       ]
     },
     "teknoloji": {
-      "text": "Ölü yıldızın çevresinde ikinci hayat. Çin’den “siber sevgili” robotlar. 24 ülke hayranlıkla izledi. Tolga hedefleri tam on ikiden vurdu. ABD'de yeni ev robotu tanıtıldı: Çamaşır katlıyor, yatak topluyor. Microsoft'tan yapay zeka hamlesi: 2,5 milyar dolar yatırım yapacak. 5 yeni iPhone modeli geliyor. NASA’dan Ay’a dev ihale.",
+      "text": "Ceza İnfaz Kurumları ile teknolojik yenilik protokolü. iPhone 18'in test fotoğrafları sızdırıldı. Deneysel ilaçla pankreas kanserinde umut. Ölü yıldızın çevresinde ikinci hayat. Çin’den “siber sevgili” robotlar. 24 ülke hayranlıkla izledi. Tolga hedefleri tam on ikiden vurdu. ABD'de yeni ev robotu tanıtıldı: Çamaşır katlıyor, yatak topluyor.",
       "items": [
+        {
+          "title": "Ceza İnfaz Kurumları ile teknolojik yenilik protokolü",
+          "summary": "Yaklaşık yedi yıl önce başlatılan Akıllı Teknolojilerin Ceza İnfaz Kurumlarına Entegrasyonu Projesi’nin (ACEP) ardından, Türk Telekom CEO’su Ebubekir Şahin ile Ceza ve Tevkifevleri Genel Müdürü Çelebi Yılmaz arasında teknolojik yeniliklere yönelik yeni bir protokol daha imzalandı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/ceza-infaz-kurumlari-ile-teknolojik-yenilik-protokolu-43227959"
+        },
+        {
+          "title": "iPhone 18'in test fotoğrafları sızdırıldı",
+          "summary": "Apple’ın Hindistan’daki üreticisinin hacklenmesi sonrası henüz tanıtılmamış iPhone 18 Pro’nun test fotoğrafları sızdırıldı. Apple’ın, üretim ağını Çin dışına taşıyarak riskleri dağıtmak için Hindistan’da yürüttüğü operasyonlar büyük bir siber skandalla sarsıldı. Şirketin ülkedeki en büyük üretim ortağı Tata Electronics, \"World Leaks\" adlı fidye yazılımı grubunun saldırısına uğradı. Henüz tanıtılmamış iPhone 18 Pro modeline ait 630 GB boyutundaki 200 bin dosya, direkt dark web'de ifşa edildi.",
+          "source": "https://www.ntv.com.tr/teknoloji/iphone-18in-test-fotograflari-sizdirildi-1731284"
+        },
+        {
+          "title": "Deneysel ilaçla pankreas kanserinde umut",
+          "summary": "Pankreas kanserinin en ölümcül türlerinden biri üzerinde yapılan yeni laboratuvar çalışması, uzun yıllardır “ilaçla hedeflenmesi çok zor” kabul edilen KRAS mutasyonlarına karşı dikkat çekici bir sonuç ortaya koydu. Deneysel bileşiklerden biri, kanser hücrelerinin hareketini ve yayılımını düşük dozlarda bile yüzde 90’dan fazla engelledi. Ancak uzmanlar için en kritik not şu: Bulgular henüz yalnızca laboratuvar ortamındaki hücre modellerinde elde edildi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/deneysel-ilacla-pankreas-kanserinde-umut-43227545"
+        },
         {
           "title": "Ölü yıldızın çevresinde ikinci hayat",
           "summary": "Gökbilimciler, ölü bir yıldızın çevresinde dönen dev bir gezegenin atmosferine ilk kez bu kadar yakından baktı. James Webb Uzay Teleskobu ile incelenen WD 1856b adlı gezegen, beklenenden çok daha sıcak çıktı. Araştırmacılara göre bu bulgu, Jüpiter benzeri dev gezegenlerin yıldızları öldükten sonra bile “ikinci bir hayat” yaşayabileceğini gösteriyor.",
@@ -185,21 +200,6 @@
           "title": "ABD'de yeni ev robotu tanıtıldı: Çamaşır katlıyor, yatak topluyor",
           "summary": "ABD'de faaliyet gösteren bir şirket, ev işlerini kolaylaştırmayı hedefleyen yeni nesil ev robotunu tanıttı. Şirketin tanıttığı robot; çamaşır katlama, yatak düzeltme ve evdeki dağınıklığı toplama gibi günlük ev işlerini yerine getirebiliyor. Yapay zekâ destekli sistem sayesinde ev içinde otonom şekilde hareket edebilen robotun, kullanıcıların rutin iş yükünü azaltması amaçlanıyor. Yeni ev robotunun satış fiyatının ise yaklaşık 375 bin TL (yaklaşık 9.500 ABD doları) olduğu açıklandı.",
           "source": "https://www.ntv.com.tr/dunya/video-abdde-yeni-ev-robotu-tanitildi-camasir-katliyor-yatak-topluyor-1731196"
-        },
-        {
-          "title": "Microsoft'tan yapay zeka hamlesi: 2,5 milyar dolar yatırım yapacak",
-          "summary": "ABD'li teknoloji şirketi Microsoft, müşterilerinin yapay zeka ile iş süreçlerini dönüştürmesine yardımcı olmak amacıyla 2,5 milyar dolarlık yatırımla \"Microsoft Frontier Company\" adlı yeni bir kurumsal yapay zeka organizasyonu kuracağını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/microsofttan-yapay-zeka-hamlesi-2-5-milyar-dolar-yatirim-yapacak-43226888"
-        },
-        {
-          "title": "5 yeni iPhone modeli geliyor",
-          "summary": "Dünyada satış rekorları kıran Apple, bellek sıkıntısı nedeniyle pazar payını artırmak için 5 yeni iPhone modeli piyasaya sürecek. Apple yeni serilerini piyasaya sürmeyi planlıyor. Her yıl sonbaharda yaptığı lansmanlarla iPhone severleri Apple Store önlerinde kuyruğa sokan marka 2027 yılı için planlarını hazırladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/5-yeni-iphone-modeli-geliyor-1731047"
-        },
-        {
-          "title": "NASA’dan Ay’a dev ihale",
-          "summary": "NASA, Artemis programı kapsamında Ay’a daha fazla robotik görev göndermek için Astrobotic, Firefly Aerospace ve Intuitive Machines’e toplam 590 milyon dolarlık yeni sözleşme verdi. Görevlerin 2028’in sonlarında gerçekleştirilmesi planlanıyor. Amaç, insanlı Ay görevleri ve gelecekteki Ay üssü öncesinde ticari iniş sistemlerini güvenilir hale getirmek.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/nasadan-aya-dev-ihale-43225437"
         }
       ]
     },
