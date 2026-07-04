@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-04T04:00:03.311Z",
+  "generatedAt": "2026-07-04T10:00:03.402Z",
   "categories": {
     "gundem": {
-      "text": "Esenlik Hizmetleri Yönetmeliği Resmi Gazete’de. Manisa’da mevlit yemeği 19 kişiyi hastanelik etti. Ankaralılar dikkat! NATO Zirvesi nedeniyle park yasağı bugün başlıyor: İşte park yasağı ilan edilen yollar. Ankara’da NATO Zirvesi için önemler arttırıldı. İstanbul için uyarılar arka arkaya geldi. Sabah saatlerinden itibaren başlayacak!. Resmi Gazete’de yayımlandı… Ulaştırma ve Altyapı Bakan Yardımcılığına Ahmet Hamdi Atalay atandı. Ulusal Yeşil Finans Stratejisi ve Eylem Planı Resmi Gazete’de yayımlandı.",
+      "text": "Çorlu'da apartman dairesindeki patlamanın nedeni belli oldu, hasar gün ağarınca ortaya çıktı. Diyarbakır merkezli 6 ilde dolandırıcılık operasyonu: 27 şüpheli yakalandı. İstanbul'u süper hücre vurdu, bu saate kadar etkili olacak. Su baskınlarına dikkat!. Bakan Ersoy: Venezuela'nın yanında olmayı sürdüreceğiz. NATO Zirvesi öncesi büyükelçilerden peş peşe mesajlar. Son 62 yılın en yağışlı geçen kışı yaşandı: 'Bu çok ender rastlanabilecek bir olay'. Samsun’da 8 aracın karıştığı zincirleme kaza: 2 yaralı.",
       "items": [
         {
-          "title": "Esenlik Hizmetleri Yönetmeliği Resmi Gazete’de",
-          "summary": "Esenlik merkezleri ve üniteleri kurulmasına ilişkin yönetmelik Resmi Gazete'de yayımlandı. Yönetmelikle, sağlıklı yaşamı destekleyen koruyucu, geliştirici ve rehabilite edici hizmetler esenlik merkezleri adıyla tek çatı altında toplanacak. Düzenleme ile bireylerin sağlıklı yaşam alışkanlıklarını desteklemek ve yaşam kalitesini artırmak amacıyla yeni bir sağlık hizmeti sunum modeli oluşturuldu.",
-          "source": "https://www.ntv.com.tr/turkiye/esenlik-hizmetleri-yonetmeligi-resmi-gazetede-1731323"
+          "title": "Çorlu'da apartman dairesindeki patlamanın nedeni belli oldu, hasar gün ağarınca ortaya çıktı",
+          "summary": "Tekirdağ'ın Çorlu ilçesinde gece saatlerinde patlama meydana gelen apartman dairesindeki hasar gün ağarınca ortaya çıktı. Patlamanın doğalgaz kaynaklı olduğu öğrenildi. Çorlu'da dün saat 23.00 sıralarında Cemaliye Mahallesi Borsa Meydanı'nda bulunan 6 katlı Adalet Apartmanı'nın en üst katında, Suriye uyruklu ailenin yaşadığı dairede patlama oldu. Patlamayla birlikte dairede yangın çıktı. Patlamanın şiddetiyle aynı katta bitişik 3 dairede de hasar oluştu, pencerelerin bulunduğu ön cephe duvarı kısmen yıkıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-corluda-apartman-dairesindeki-patlamanin-nedeni-belli-oldu-hasar-gun-agarinca-ortaya-cikti-1731401"
         },
         {
-          "title": "Manisa’da mevlit yemeği 19 kişiyi hastanelik etti",
-          "summary": "MANİSA’nın Turgutlu ilçesinde düzenlenen mevlit programında ikram edilen tavuklu pilav sonrası rahatsızlanan 19 kişi, gıda zehirlenmesi şüphesiyle hastaneye başvurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/manisada-mevlit-yemegi-19-kisiyi-hastanelik-etti-43228293"
+          "title": "Diyarbakır merkezli 6 ilde dolandırıcılık operasyonu: 27 şüpheli yakalandı",
+          "summary": "İçişleri Bakanlığı Diyarbakır merkezli 6 ilde kamu kurum ve kuruluşlarının adını ve nüfuzunu kullanarak dolandırıcılık yapan suç örgütüne yönelik operasyonlarda 27 şüphelinin yakalandığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/diyarbakir-merkezli-6-ilde-dolandiricilik-operasyonu-27-supheli-yakalandi-43228609"
         },
         {
-          "title": "Ankaralılar dikkat! NATO Zirvesi nedeniyle park yasağı bugün başlıyor: İşte park yasağı ilan edilen yollar",
-          "summary": "Ankara'da NATO Zirvesi nedeniyle bazı yollarda uygulanacak park yasağı kararı bugün başlayacak. Ankara'da NATO Liderler Zirvesi için geri sayım sürüyor. Zirve kapsamında ittifaka üye ülkelerin liderleri 7-8 Temmuz tarihlerinde Ankara'da olacak. Zirve için Başkent Ankara'da yapılan hazırlıklarda ise sona gelindi. Ankara Valiliği, zirve kapsamında trafikte bazı tedbir kararları aldı. Bu tedbirlerden bazıları yarından itibaren uygulamaya geçecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ankaralilar-dikkat-nato-zirvesi-nedeniyle-park-yasagi-bugun-basliyor-iste-park-yasagi-ilan-edilen-yollar-1731294"
+          "title": "İstanbul'u süper hücre vurdu, bu saate kadar etkili olacak. Su baskınlarına dikkat!",
+          "summary": "Türkiye, bugünden itibaren yeni bir hava sisteminin etkisi altına girdi. İstanbul Valiliği ve AKOM'dan süper hücre uyarıları arka arkaya gelirken sabah saatlerinden itibaren etkili olan sağanak yağış nedeniyle yollar göle döndü. Sıcak hava dalgasının etkisinde olan Türkiye'de hava tersine dönüyor. Hafta sonu birçok ilde gök gürültülü sağanak etkili olacak. SAĞANAK BAŞLADI İstanbul Valiliği ve AKOM'un uyarılarının ardından kentte sabah saatlerinde kuvvetli sağanak etkili olmaya başladı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-super-hucre-vurdu-bu-saate-etkili-olacak-su-baskinlarina-dikkat-1731326"
         },
         {
-          "title": "Ankara’da NATO Zirvesi için önemler arttırıldı",
-          "summary": "Ankara'da 7-8 Temmuz'da düzenlenecek NATO Zirvesi öncesi güvenlik tedbirleri kapsamında hayata geçirilen \"Operasyon Turkuaz\" çerçevesindeki denetim ve uygulamalar aralıksız sürüyor. “Başkentin huzuru, Türkiye'nin huzuru” sloganıyla yürütülen çalışmalar kapsamında, il genelinde 9 ilçede geniş çaplı denetimler gerçekleştirildi. NATO görev alanları ile önceden belirlenen kritik bölgelerde görevlendirilen ekipler, 24 saat esasına göre oluşturulan güvenlik çemberlerini genişleterek denetimlerini sürdürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/ankarada-nato-zirvesi-icin-onemler-arttirildi-1731327"
+          "title": "Bakan Ersoy: Venezuela'nın yanında olmayı sürdüreceğiz",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Venezuela'da meydana gelen depremlerin ardından Kültür ve Turizm Bakanlığına bağlı Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı (TİKA) tarafından bölgeye ulaştırılan insani yardımlara ilişkin yaptığı paylaşımda, Türkiye'nin dost ve kardeş Venezuela halkının yanında olmaya devam edeceğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ersoy-venezuelanin-yaninda-olmayi-surdurecegiz-43228605"
         },
         {
-          "title": "İstanbul için uyarılar arka arkaya geldi. Sabah saatlerinden itibaren başlayacak!",
-          "summary": "Türkiye, bugünden itibaren yeni bir hava sisteminin etkisi altına giriyor. İstanbul Valiliği ve AKOM'dan da uyarılar arka arkaya geldi. Yağışlı havanın sabah saatlerinden itibaren etkili olacağı belirtildi. Sıcak hava dalgasının etkisinde olan Türkiye'de hava tersine dönüyor. Hafta sonu birçok ilde gök gürültülü sağanak etkili olacak. SICAKLIKLAR 5-7 DERECE DÜŞECEK Mevsim normalleri üzerinde seyreden sıcaklıklar bugünden itibaren düşüşe geçecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-uyarilar-arka-arkaya-geldi-sabah-saatlerinden-itibaren-baslayacak-1731326"
+          "title": "NATO Zirvesi öncesi büyükelçilerden peş peşe mesajlar",
+          "summary": "NATO Ankara Zirvesi öncesi büyükelçilerden peş peşe dayanışma mesajları geldi. Diplomatlar, küresel risklere karşı Türkiye'nin stratejik önemine ve İttifak'ın birliğine vurgu yaptı. Ankara, 7-8 Temmuz'da gerçekleştirilecek kritik NATO Zirvesi'ne ev sahipliği yapmaya hazırlanırken, müttefik ülkelerin Ankara büyükelçilerinden peş peşe dayanışma mesajları geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/nato-zirvesi-oncesi-buyukelcilerden-pes-pese-mesajlar-1731389"
         },
         {
-          "title": "Resmi Gazete’de yayımlandı… Ulaştırma ve Altyapı Bakan Yardımcılığına Ahmet Hamdi Atalay atandı",
-          "summary": "RESMİ Gazete’de yayımlanan atama kararlarına göre Ulaştırma ve Altyapı Bakan Yardımcılığına Ahmet Hamdi Atalay atandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/resmi-gazetede-yayimlandi-ulastirma-ve-altyapi-bakan-yardimciligina-ahmet-hamdi-atalay-atandi-43228275"
+          "title": "Son 62 yılın en yağışlı geçen kışı yaşandı: 'Bu çok ender rastlanabilecek bir olay'",
+          "summary": "Uludağ'ın zirvesinde bulunan buzul gölleri, yaz ortasında Antarktika'yı aratmayan görüntülere sahne oldu. Buzların hala erimediği göllerinin bazıları yol seviyesinin üzerine çıktı. Uzmanlar göllerdeki su ve buz yoğunluğunu Uludağ'da son 62 yılın en yağışlı geçen kış mevsimine bağladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-62-yilin-en-yagisli-gecen-kisi-yasandi-bu-cok-ender-rastlanabilecek-bir-olay-43228573"
         },
         {
-          "title": "Ulusal Yeşil Finans Stratejisi ve Eylem Planı Resmi Gazete’de yayımlandı",
-          "summary": "ULUSAL Yeşil Finans Stratejisi ve Eylem Planı (2026-2029) ile ilgili Cumhurbaşkanlığı Genelgesi Resmi Gazete’de yayımlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ulusal-yesil-finans-stratejisi-ve-eylem-plani-resmi-gazetede-yayimlandi-43228274"
+          "title": "Samsun’da 8 aracın karıştığı zincirleme kaza: 2 yaralı",
+          "summary": "Samsun’un İlkadım ilçesinde 8 aracın karıştığı zincirleme trafik kazasında 2 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/samsunda-8-aracin-karistigi-zincirleme-kaza-2-yarali-43228567"
         }
       ]
     },
     "dunya": {
-      "text": "Venezuela'da can kaybı artıyor. Türk arama kurtarma ekiplerine kahramanlık nişanı verildi. TCG Oruçreis, New York Limanı'na demirledi. Pakistan Başbakanı Şahbaz Şerif Türkiye'de. İran’dan Trump’ın “Gıdaya ihtiyaçları var” açıklamasına tepki. Grönland Başbakanı Nielsen’den iddia: Trump vazgeçti. İran'da Hamaney'e veda töreni. \"İntikamını alacağız\". Nijerya'da çobanlar ile çiftçiler arasında çatışma çıktı: 18 ölü.",
+      "text": "Starmer'dan halefine uyarı. \"Küresel krizler gündemi belirlemeyi sürdürecek\". Almanya'da AfD karşıtı protestolar. Binlerce kişi sokakta. Yıllardır konuşulan Mars gizemi yeniden gündemde: Gerçekten silah olabilir mi? ‘Diğer görüntüleri bilerek sildiler’. Hamaney son yolculuğuna uğurlanıyor. Kalabalık \"İntikam\" diye haykırdı. İsrail basınından dikkat çeken analiz: Türkiye'nin gücünü dünyaya gösterecek... En üst düzey isimden itiraf: Yeni ittifak çağrısı. Zelenski açıkladı: Saldırı gerçekleştirdik. Süper tayfun tehdidi büyüyor. Acil durum ilan edildi.",
       "items": [
         {
-          "title": "Venezuela'da can kaybı artıyor. Türk arama kurtarma ekiplerine kahramanlık nişanı verildi",
-          "summary": "Çifte deprem felaketi yaşayan Venezuela'da can kaybı 2 bin 645'e yükseldi. Devlet Başkanı Delcy Rodriguez arama kurtarma çalışmalarının durmadığını açıkladı. Rodriguez, ülkede deprem nedeniyle görev yapan yabancı arama kurtarma ekiplerine kahramanlık nişanı verdi. Rodriguez, Venezuela'da depremden en çok etkilenen La Guaira'da, yabancı arama kurtarma ekiplerinin bulunduğu La Guaira Limanı'nı ziyaret etti.",
-          "source": "https://www.ntv.com.tr/dunya/venezuelada-can-kaybi-artiyor-turk-arama-kurtarma-ekiplerine-kahramanlik-nisani-verildi-1731328"
+          "title": "Starmer'dan halefine uyarı. \"Küresel krizler gündemi belirlemeyi sürdürecek\"",
+          "summary": "Görevden ayrılmaya hazırlanan İngiltere Başbakanı Keir Starmer, kendisinden sonra göreve gelecek ismin uluslararası diplomasiye daha az zaman ayırmasının mümkün olmadığını söyledi. Görevden ayrılmaya hazırlanan İngiltere Başbakanı Keir Starmer, yerine geçecek ismin uluslararası krizler ve diplomasiye kendisinin ayırdığından daha az zaman ayırmasının mümkün olmadığını söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/starmerdan-halefine-uyari-kuresel-krizler-gundemi-belirlemeyi-surdurecek-1731403"
         },
         {
-          "title": "TCG Oruçreis, New York Limanı'na demirledi",
-          "summary": "Türk Deniz Kuvvetlerine ait TCG Oruçreis, ABD'nin 250. kuruluş yılı kutlamaları kapsamında düzenlenecek törene katılmak için New York Limanı'na demir attı.",
-          "source": "https://www.hurriyet.com.tr/dunya/tcg-orucreis-new-york-limanina-demirledi-43228277"
+          "title": "Almanya'da AfD karşıtı protestolar. Binlerce kişi sokakta",
+          "summary": "Almanya'nın Erfurt kentinde bir araya gelen binlerce kişi, aşırı sağcı Almanya için Alternatif Partisi'nin yıllık kongresini engellemek amacıyla ana yolları ve ulaşım hatlarını kapatarak kitlesel protestolar düzenledi. Almanya'nın Thüringen eyaletine bağlı Erfurt kentinde, aşırı sağcı Almanya için Alternatif (AfD) partisinin yıllık kongresini engellemek amacıyla bir araya gelen binlerce kişi, cumartesi günü sokakları doldurarak ulaşım akslarını ve ana yolları barikatlarla kapattı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-afd-karsiti-protestolar-binlerce-kisi-sokakta-1731397"
         },
         {
-          "title": "Pakistan Başbakanı Şahbaz Şerif Türkiye'de",
-          "summary": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine İstanbul'a geldi. Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Recep Tayyip Erdoğan’ın davetine icabetle, Türkiye'ye ziyaret gerçekleştiriyor. Şerif'i İstanbul'da Ticaret Bakanı Ömer Bolat ve beraberindeki heyet karşıladı. Erdoğan ve Şerif'in görüşmede, Türkiye ile Pakistan arasında ticaret ve yatırımlar başta olmak üzere, bölgesel ve küresel gelişmeleri ele alması bekleniyor.",
-          "source": "https://www.ntv.com.tr/dunya/pakistan-basbakani-sahbaz-serif-turkiyede-1731304"
+          "title": "Yıllardır konuşulan Mars gizemi yeniden gündemde: Gerçekten silah olabilir mi? ‘Diğer görüntüleri bilerek sildiler’",
+          "summary": "Mars'ta yıllar önce çekilen bir fotoğraf, sosyal medyada yeniden gündem oldu. Bir araştırmacının dikkat çekici iddiası tartışmaları alevlendirirken, uzmanlar ise görüntüye bambaşka bir açıklama getiriyor. Peki yıllardır konuşulan bu gizemli cisim gerçekten neyi gösteriyor?",
+          "source": "https://www.hurriyet.com.tr/dunya/yillardir-konusulan-mars-gizemi-yeniden-gundemde-gercekten-silah-olabilir-mi-diger-goruntuleri-bilerek-sildiler-43226126"
         },
         {
-          "title": "İran’dan Trump’ın “Gıdaya ihtiyaçları var” açıklamasına tepki",
-          "summary": "İran Meclis ve Müzakere Heyeti Başkanı Muhammed Bakır Kalibaf, ABD Başkanı Donald Trump’ın, “Gıdaya ihtiyaçları var. Mısır, buğday ve soyaya ihtiyaçları var.” şeklindeki açıklamasına tepki göstererek, “Kendi ülkenizde 40 milyondan fazla vatandaşınızın gıda kuponuna bağlı olduğunu düşünün.” dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-trumpin-gidaya-ihtiyaclari-var-aciklamasina-tepki-43228165"
+          "title": "Hamaney son yolculuğuna uğurlanıyor. Kalabalık \"İntikam\" diye haykırdı",
+          "summary": "İran'ın ABD ve İsrail saldırılarında hayatını kaybeden dini lideri Ali Hamaney için Tahran'da cenaze töreni düzenlendi. Binlerce kişinin katıldığı törende \"İntikam\" sloganları atılırken, Hamaney'in naaşı İran bayrağına sarılı tabutla halkın ziyaretine açıldı. CENAZEDE \"İNTİKAM\" SESLERİ YÜKSELİYOR ABD ve İsrail'in şubat ayı sonunda düzenlediği saldırılarda hayatını kaybeden İran'ın eski dini lideri Ali Hamaney için başkent Tahran'da cenaze töreni düzenlendi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-hamaney-son-yolculuguna-ugurlaniyor-kalabalik-intikam-diye-haykirdi-1731386"
         },
         {
-          "title": "Grönland Başbakanı Nielsen’den iddia: Trump vazgeçti",
-          "summary": "Grönland Başbakanı Jens-Frederik Nielsen, ABD Başkanı Donald Trump'ın ülkesini ele geçirme fikrinden vazgeçtiğinin istihbaratını aldıklarını belirtti.",
-          "source": "https://www.hurriyet.com.tr/gundem/gronland-basbakani-nielsenden-iddia-trump-vazgecti-43228086"
+          "title": "İsrail basınından dikkat çeken analiz: Türkiye'nin gücünü dünyaya gösterecek... En üst düzey isimden itiraf: Yeni ittifak çağrısı",
+          "summary": "İsrail basını, Ankara'da düzenlenecek NATO Zirvesi'nin Türkiye'nin savunma sanayii kapasitesini Batı'ya sergileyeceği kritik bir vitrin olacağını yazdı. Haberde, Türkiye'nin artan savunma üretim gücü ve NATO içindeki yükselen rolünün Avrupa ile ABD açısından stratejik öneminin giderek arttığı vurgulandı. İsrail Savunma Bakanlığı Genel Direktörü Amir Baram ise Hindistan, BAE, Yunanistan ve GKRY'yi kapsayan yeni bir güvenlik ittifakı çağrısı geldi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-basinindan-dikkat-ceken-analiz-turkiyenin-gucunu-dunyaya-gosterecek-en-ust-duzey-isimden-itiraf-yeni-ittifak-cagrisi-43228497"
         },
         {
-          "title": "İran'da Hamaney'e veda töreni. \"İntikamını alacağız\"",
-          "summary": "İran Ordu Komutanı Tümgeneral Emir Hatemi, eski ülke lideri Ali Hamaney'in intikamını alacaklarını söyledi. İran devlet televizyonuna konuşan Ordu Komutanı Tümgeneral Emir Hatemi, Hamaney için düzenlenen cenaze töreni münasebetiyle açıklamalarda bulundu. Hatemi, \"Bu şehadet şüphesiz bizim irademizi daha da güçlendirmiştir. İran halkının düşmanları katil ABD ve İsrail bilmelidir ki, şehit İmamımız (Hamaney) ve tüm şehitlerimizin intikamını alacağız.\" dedi.",
-          "source": "https://www.ntv.com.tr/dunya/iranda-hamaneye-veda-toreni-intikamini-alacagiz-1731307"
+          "title": "Zelenski açıkladı: Saldırı gerçekleştirdik",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'nın St. Petersburg kenti limanındaki petrol tesislerine ve kente yakın konumdaki Kronştadt Deniz Üssü'ne saldırılar gerçekleştirdiklerini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenski-acikladi-saldiri-gerceklestirdik-43228528"
         },
         {
-          "title": "Nijerya'da çobanlar ile çiftçiler arasında çatışma çıktı: 18 ölü",
-          "summary": "Nijerya'nın Niger eyaletinde çobanlar ile çiftçiler arasında yaşanan çatışmalarda 18 kişi yaşamını yitirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/nijeryada-cobanlar-ile-ciftciler-arasinda-catisma-cikti-18-olu-43228022"
+          "title": "Süper tayfun tehdidi büyüyor. Acil durum ilan edildi",
+          "summary": "ABD'ye bağlı Pasifik adaları, saatte 259 kilometreye ulaşan rüzgar hızına sahip Süper Tayfun Bavi nedeniyle alarma geçti. Bölgede acil durum ilan edilirken, halk gıda, su ve temel ihtiyaç malzemeleri stoklamaya başladı. ABD'nin Pasifik'teki Guam ve Kuzey Mariana Adaları, bu yıl nisan ayında etkili olan Süper Tayfun Sinlaku'nun ardından ikinci kez \"süper tayfun\" tehdidiyle karşı karşıya. Bavi, Guam'ın doğusunda birkaç yüz kilometre mesafede ilerliyor.",
+          "source": "https://www.ntv.com.tr/dunya/super-tayfun-tehdidi-buyuyor-acil-durum-ilan-edildi-1731383"
         }
       ]
     },
     "ekonomi": {
-      "text": "Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı. Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum. Türkiye’nin bamya ambarı. Türk kirazı tek yön Çin bileti peşinde. Mayısta ABD ve İtalya rüzgârı esti. Alıcıyı fuardan otele taşıdılar.",
+      "text": "JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı. Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum. Türkiye’nin bamya ambarı. Türk kirazı tek yön Çin bileti peşinde. Mayısta ABD ve İtalya rüzgârı esti.",
       "items": [
+        {
+          "title": "JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı",
+          "summary": "Türkiye’nin Genel Müdürlüğüne atanan Jose Luis Amador, JTI’ın Türkiye organizasyonuna dahil olan Kuzey Kıbrıs Türk Cumhuriyeti’ndeki iş süreçlerinin yönetilmesini de üstlenecek.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/jti-turkiye-genel-mudurlugune-jose-luis-amador-atandi-43228288"
+        },
         {
           "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı",
           "summary": "İstanbul'da düzenlenen 5'inci Türkiye Denizcilik Zirvesi Ödül Töreni’nde konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Deniz ulaşımı küresel ekonominin can damarı ve bağlantısallık, alternatif yollar, güzergahlar çok çok önemli. Türkiye Yüzyılı vizyonumuz, denizlerde daha güçlü, denizcilikte daha rekabetçi limanlarıyla, tersaneleriyle, ticaret filosuyla küresel ölçekte söz sahibi bir Türkiye'yi hedeflemektedir\" dedi.",
@@ -115,57 +120,57 @@
           "title": "Mayısta ABD ve İtalya rüzgârı esti",
           "summary": "EGE İhracatçı Birlikleri’nin mayıstaki ihracatında ABD ve İtalya rüzgârı esti. ABD ve İtalya, performanslarıyla Almanya’yı geçerek ilk iki sıraya isimlerini yazdırdı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/mayista-abd-ve-italya-ruzgari-esti-43224610"
-        },
-        {
-          "title": "Alıcıyı fuardan otele taşıdılar",
-          "summary": "EGE Deri ve Deri Mamulleri İhracatçıları Birliği, geleneksel fuarlarda yaşanan yoğunluk, sınırlı görüşme süresi ve doğru alıcılara ulaşmada karşılaşılan güçlükleri aşmak amacıyla çalışma başlattı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/aliciyi-fuardan-otele-tasidilar-43223344"
         }
       ]
     },
     "spor": {
-      "text": "Kassoum Ouattara: 'Beşiktaş dünya çapında bir kulüp!'. Trabzonspor'dan Fatih Tekke'nin maaşına zam!. Fatih Tekke: 'Galatasaray ve Fenerbahçe'yi geçebilirdik'. Galatasaray'ın hazırlık maçlarının programı belli oldu!. Beşiktaş'ın yeni transferi Kassoum Ouattara, ilk idmanına çıktı!. Trabzonspor, Kazeem Olaigbe'yi Basel'e kiraladı!. Premier Lig'de ilk Türk patron Acun Ilıcalı: Hayatta En Gurur Duyduğum Başarım Oldu.",
+      "text": "Beşiktaş 'para'ya karşılık 'proje' sundu! Hedef Barcelona'nın eski yıldızı. Fransa çeyrek final için Paraguay karşısında! Dünya Kupası heyecanı canlı sohbet ile Misli'de. Beşiktaşlı futbolcu Kassoum Ouattara'dan transfer itirafı: 'Teklifi kabul etme konusunda çekinmedim'. Galatasaray'ın ilk transferi belli oldu! 22'lik yetenek geliyor. Galatasaray’ın yeni sezon formaları tanıtıldı. Fenerbahçe, Real Madrid'e projesini anlatacak! Transfer için kritik görüşme. Ronaldo, 'Bismillah' deyip golü attı! 'Ne zaman desem atıyorum'.",
       "items": [
         {
-          "title": "Kassoum Ouattara: 'Beşiktaş dünya çapında bir kulüp!'",
-          "summary": "Beşiktaş'ın yeni transferi Fransız oyuncu Kassoum Ouattara, çok heyecanlı olduğunu belirterek, \"Bir an önce başlamak istiyorum. Takıma katılmak için sabırsızlanıyorum. Bu benim için yeni bir meydan okuma ve çok çok mutluyum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kassoum-ouattara-besiktas-dunya-capinda-bir-kulup-43228150"
+          "title": "Beşiktaş 'para'ya karşılık 'proje' sundu! Hedef Barcelona'nın eski yıldızı",
+          "summary": "Beşiktaş, gelecek sezon iddialı bir kadro kurmak isterken, Futbol Direktörü Önder Özen ve Teknik Direktör Vincenzo Italiano, transferde ince eleyip sık dokuyor. Siyah beyazlılar bu bağlamda, rotasını bir dönem Milan ve Barcelona'da top koşturan yıldız isme çevirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-paraya-karsilik-proje-sundu-hedef-barcelonanin-eski-yildizi-43228448"
         },
         {
-          "title": "Trabzonspor'dan Fatih Tekke'nin maaşına zam!",
-          "summary": "Trabzonspor, teknik direktör Fatih Tekke'nin sözleşmesini iyileştirildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-fatih-tekkenin-maasina-zam-43228127"
+          "title": "Fransa çeyrek final için Paraguay karşısında! Dünya Kupası heyecanı canlı sohbet ile Misli'de",
+          "summary": "Dünya Kupası Son 16 Turu'nda Paraguay ile Fransa karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fransa-ceyrek-final-icin-paraguay-karsisinda-dunya-kupasi-heyecani-canli-sohbet-ile-mislide-43228516"
         },
         {
-          "title": "Fatih Tekke: 'Galatasaray ve Fenerbahçe'yi geçebilirdik'",
-          "summary": "Yeni sezon hazırlıklarını sürdüren Trabzonspor'da teknik direktör Fatih Tekke, A Spor'a değerlendirmelere bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-galatasaray-ve-fenerbahceyi-gecebilirdik-43228104"
+          "title": "Beşiktaşlı futbolcu Kassoum Ouattara'dan transfer itirafı: 'Teklifi kabul etme konusunda çekinmedim'",
+          "summary": "Beşiktaş'ın yeni transferi Kassoum Ouattara, takım halinde hücum futbolu oynayarak iyi bir sezon geçireceklerine inandığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasli-futbolcu-kassoum-ouattaradan-transfer-itirafi-teklifi-kabul-etme-konusunda-cekinmedim-43228452"
         },
         {
-          "title": "Galatasaray'ın hazırlık maçlarının programı belli oldu!",
-          "summary": "Galatasaray hazırlık maçları kapsamında AC Monza ve Venezia FC ile Avusturya'da, Villarreal ile de İstanbul'da karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-hazirlik-maclarinin-programi-belli-oldu-43228097"
+          "title": "Galatasaray'ın ilk transferi belli oldu! 22'lik yetenek geliyor",
+          "summary": "Galatasaray, yaz transfer sezonundaki takviyeler için ince eleyip sık dokurken, kadrosuna katacağı ilk ismi belirledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-ilk-transferi-belli-oldu-22lik-yetenek-geliyor-43228399"
         },
         {
-          "title": "Beşiktaş'ın yeni transferi Kassoum Ouattara, ilk idmanına çıktı!",
-          "summary": "Beşiktaş'ın 4 yıllığına kadrosuna kattığı Fransız futbolcu Kassoum Ouattara, siyah-beyazlıların Slovakya kampında ilk antrenmanına çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-yeni-transferi-kassoum-ouattara-ilk-idmanina-cikti-43228014"
+          "title": "Galatasaray’ın yeni sezon formaları tanıtıldı",
+          "summary": "Galatasaray Futbol Takımı’nın 2026-2027 sezonunda giyeceği iç saha, deplasman ve alternatif formaları tanıtıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-yeni-sezon-formalari-tanitildi-43228402"
         },
         {
-          "title": "Trabzonspor, Kazeem Olaigbe'yi Basel'e kiraladı!",
-          "summary": "Trabzonspor, geçtiğimiz sezonu Konyaspor'da kiralık olarak geçiren Belçikalı futbolcusu Kazeem Olaigbe'nin İsviçre takımlarından Basel'e transfer olduğunu açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-kazeem-olaigbeyi-basele-kiraladi-43228000"
+          "title": "Fenerbahçe, Real Madrid'e projesini anlatacak! Transfer için kritik görüşme",
+          "summary": "Fenerbahçe, Vedat Muriqi ve Nathan Ake'nin ardından transfer çalışmalarına devam ediyor. Bu bağlamda sarı lacivertliler, rotasını Real Madrid'e çevirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-real-madride-projesini-anlatacak-transfer-icin-kritik-gorusme-43228385"
         },
         {
-          "title": "Premier Lig'de ilk Türk patron Acun Ilıcalı: Hayatta En Gurur Duyduğum Başarım Oldu",
-          "summary": "Bu sezon Hull City ile birlikte futbolun zirvesi Premier Lig'de mücadele edecek olan Acun Ilıcalı, Inbusiness ekonomi dergisinin Temmuz sayısına kapak oldu. Ilıcalı birçok konuda açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/premier-ligde-ilk-turk-patron-acun-ilicali-hayatta-en-gurur-duydugum-basarim-oldu-43227981"
+          "title": "Ronaldo, 'Bismillah' deyip golü attı! 'Ne zaman desem atıyorum'",
+          "summary": "Portekiz milli takımı ve dünya futbol tarihinin 1 numara adaylarından Cristiano Ronaldo'nun penaltı golü öncesi 'Bismillah' demesi, dünyada gündem oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ronaldo-bismillah-deyip-golu-atti-ne-zaman-desem-atiyorum-43228320"
         }
       ]
     },
     "teknoloji": {
-      "text": "Ceza İnfaz Kurumları ile teknolojik yenilik protokolü. iPhone 18'in test fotoğrafları sızdırıldı. Deneysel ilaçla pankreas kanserinde umut. Ölü yıldızın çevresinde ikinci hayat. Çin’den “siber sevgili” robotlar. 24 ülke hayranlıkla izledi. Tolga hedefleri tam on ikiden vurdu. ABD'de yeni ev robotu tanıtıldı: Çamaşır katlıyor, yatak topluyor.",
+      "text": "‘Yapay zekâ okuryazarlığı bir gelecek becerisi’. Ceza İnfaz Kurumları ile teknolojik yenilik protokolü. iPhone 18'in test fotoğrafları sızdırıldı. Deneysel ilaçla pankreas kanserinde umut. Ölü yıldızın çevresinde ikinci hayat. Çin’den “siber sevgili” robotlar. 24 ülke hayranlıkla izledi. Tolga hedefleri tam on ikiden vurdu.",
       "items": [
+        {
+          "title": "‘Yapay zekâ okuryazarlığı bir gelecek becerisi’",
+          "summary": "Gizem ve Gülay’ın gündeminde yapay zekâ var. Çocukların bu teknolojiyi nasıl kullandıklarını konuştular ve becerilerini geliştirmelerinin gelecekte sağlayacağı faydaları bir uzmana danıştılar.",
+          "source": "https://www.hurriyet.com.tr/kelebek/cocukla-hayat/yapay-zeka-okuryazarligi-bir-gelecek-becerisi-43228188"
+        },
         {
           "title": "Ceza İnfaz Kurumları ile teknolojik yenilik protokolü",
           "summary": "Yaklaşık yedi yıl önce başlatılan Akıllı Teknolojilerin Ceza İnfaz Kurumlarına Entegrasyonu Projesi’nin (ACEP) ardından, Türk Telekom CEO’su Ebubekir Şahin ile Ceza ve Tevkifevleri Genel Müdürü Çelebi Yılmaz arasında teknolojik yeniliklere yönelik yeni bir protokol daha imzalandı.",
@@ -195,11 +200,6 @@
           "title": "24 ülke hayranlıkla izledi. Tolga hedefleri tam on ikiden vurdu",
           "summary": "Hava tehditlerine karşı geliştirilen \"Tolga\" Yakın Hava Savunma Sistemi'nin atışlı test faaliyetini, 24 ülkeden 64 askeri ve sivil heyet takip etti. Makine ve Kimya Endüstrisi (MKE) Anonim Şirketinin hava tehditlerine karşı geliştirdiği \"Tolga\" Yakın Hava Savunma Sistemi'nin Konya'daki Atış Test ve Değerlendirme Grup Komutanlığı'nda gerçekleştirilen atışlı test faaliyetini, 24 ülkeden 64 askeri ve sivil heyet takip etti.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-24-ulke-hayranlikla-izledi-tolga-hedefleri-tam-on-ikiden-vurdu-1731236"
-        },
-        {
-          "title": "ABD'de yeni ev robotu tanıtıldı: Çamaşır katlıyor, yatak topluyor",
-          "summary": "ABD'de faaliyet gösteren bir şirket, ev işlerini kolaylaştırmayı hedefleyen yeni nesil ev robotunu tanıttı. Şirketin tanıttığı robot; çamaşır katlama, yatak düzeltme ve evdeki dağınıklığı toplama gibi günlük ev işlerini yerine getirebiliyor. Yapay zekâ destekli sistem sayesinde ev içinde otonom şekilde hareket edebilen robotun, kullanıcıların rutin iş yükünü azaltması amaçlanıyor. Yeni ev robotunun satış fiyatının ise yaklaşık 375 bin TL (yaklaşık 9.500 ABD doları) olduğu açıklandı.",
-          "source": "https://www.ntv.com.tr/dunya/video-abdde-yeni-ev-robotu-tanitildi-camasir-katliyor-yatak-topluyor-1731196"
         }
       ]
     },
