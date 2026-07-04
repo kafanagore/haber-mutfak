@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-03T16:00:03.305Z",
+  "generatedAt": "2026-07-04T04:00:03.311Z",
   "categories": {
     "gundem": {
-      "text": "Cumhurbaşkanı Erdoğan, İtalya Başbakanı Meloni ile görüştü. Zonguldak'ta bina yıkılınca gizli giriş ortaya çıktı, İkinci Dünya Savaşı'ndan kalma. AKOM'dan İstanbul için kuvvetli sağanak ve dolu uyarısı. Cumhurbaşkanı Yardımcısı Yılmaz Hamaney'in cenaze törenine katıldı. Yolcu otobüsü yoldan çıktı… Çok sayıda yaralı var. Silahlı saldırıya uğrayan kişi, saldırgana taş atarak karşılık verdi. Tunceli’de kamyonetle otomobil kafa kafaya çarpıştı: 1 ölü, 5 yaralı.",
+      "text": "Esenlik Hizmetleri Yönetmeliği Resmi Gazete’de. Manisa’da mevlit yemeği 19 kişiyi hastanelik etti. Ankaralılar dikkat! NATO Zirvesi nedeniyle park yasağı bugün başlıyor: İşte park yasağı ilan edilen yollar. Ankara’da NATO Zirvesi için önemler arttırıldı. İstanbul için uyarılar arka arkaya geldi. Sabah saatlerinden itibaren başlayacak!. Resmi Gazete’de yayımlandı… Ulaştırma ve Altyapı Bakan Yardımcılığına Ahmet Hamdi Atalay atandı. Ulusal Yeşil Finans Stratejisi ve Eylem Planı Resmi Gazete’de yayımlandı.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan, İtalya Başbakanı Meloni ile görüştü",
-          "summary": "Cumhurbaşkanı Erdoğan, İtalya Başbakanı Giorgia Meloni ile telefonda görüştü. Cumhurbaşkanı Recep Tayyip Erdoğan, İtalya Başbakanı Giorgia Meloni ile telefonda görüştü. Liderler, görüşmede Türkiye-İtalya ikili ilişkileriyle bölgesel ve küresel konuları ele aldı. Cumhurbaşkanı Erdoğan görüşmede, Türkiye ile İtalya arasında savunma sanayii başta olmak üzere her alanda iş birliğini güçlendirmek için çalıştıklarını, ilişkilere ivme kazandıracak yeni adımlar atmanın da önemli olduğunu ifade etti.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-italya-basbakani-meloni-ile-gorustu-1731303"
+          "title": "Esenlik Hizmetleri Yönetmeliği Resmi Gazete’de",
+          "summary": "Esenlik merkezleri ve üniteleri kurulmasına ilişkin yönetmelik Resmi Gazete'de yayımlandı. Yönetmelikle, sağlıklı yaşamı destekleyen koruyucu, geliştirici ve rehabilite edici hizmetler esenlik merkezleri adıyla tek çatı altında toplanacak. Düzenleme ile bireylerin sağlıklı yaşam alışkanlıklarını desteklemek ve yaşam kalitesini artırmak amacıyla yeni bir sağlık hizmeti sunum modeli oluşturuldu.",
+          "source": "https://www.ntv.com.tr/turkiye/esenlik-hizmetleri-yonetmeligi-resmi-gazetede-1731323"
         },
         {
-          "title": "Zonguldak'ta bina yıkılınca gizli giriş ortaya çıktı, İkinci Dünya Savaşı'ndan kalma",
-          "summary": "Zonguldak'ta bir iş hanının yıkımı sırasında, girişi yıllar içinde görünmez hale gelen bir yer altı yapısı ortaya çıktı. Kent merkezinde Madenci Anıtı karşısında bulunan Vakıflar İş Hanı'nın yıkımı sırasında, uzun yıllardır kapalı durumda bulunan bir giriş ortaya çıktı. Girişin açığa çıkmasıyla, bölgede yer alan diğer havalandırma bacaları ve girişlerle bağlantılı yer altı yapısı olduğu görüldü. 2.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-zonguldakta-bina-yikilinca-gizli-giris-ortaya-cikti-ikinci-dunya-savasindan-kalma-1731302"
+          "title": "Manisa’da mevlit yemeği 19 kişiyi hastanelik etti",
+          "summary": "MANİSA’nın Turgutlu ilçesinde düzenlenen mevlit programında ikram edilen tavuklu pilav sonrası rahatsızlanan 19 kişi, gıda zehirlenmesi şüphesiyle hastaneye başvurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/manisada-mevlit-yemegi-19-kisiyi-hastanelik-etti-43228293"
         },
         {
-          "title": "AKOM'dan İstanbul için kuvvetli sağanak ve dolu uyarısı",
-          "summary": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), kentte yarın kuvvetli sağanak ve dolunun etkili olabileceği uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/akomdan-istanbul-icin-kuvvetli-saganak-ve-dolu-uyarisi-43227993"
+          "title": "Ankaralılar dikkat! NATO Zirvesi nedeniyle park yasağı bugün başlıyor: İşte park yasağı ilan edilen yollar",
+          "summary": "Ankara'da NATO Zirvesi nedeniyle bazı yollarda uygulanacak park yasağı kararı bugün başlayacak. Ankara'da NATO Liderler Zirvesi için geri sayım sürüyor. Zirve kapsamında ittifaka üye ülkelerin liderleri 7-8 Temmuz tarihlerinde Ankara'da olacak. Zirve için Başkent Ankara'da yapılan hazırlıklarda ise sona gelindi. Ankara Valiliği, zirve kapsamında trafikte bazı tedbir kararları aldı. Bu tedbirlerden bazıları yarından itibaren uygulamaya geçecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ankaralilar-dikkat-nato-zirvesi-nedeniyle-park-yasagi-bugun-basliyor-iste-park-yasagi-ilan-edilen-yollar-1731294"
         },
         {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz Hamaney'in cenaze törenine katıldı",
-          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ve beraberindeki heyet, ABD saldırısında öldürülen dini lider Ali Hamaney için düzenlenen devlet törenine katıldı. Savaşın ilk günü ABD ile İsrail'in ortak saldırısında İran'ı 37 yıldır yöneten dini lider Ayetullah Ali Hamaney öldürülmüştü. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz da devlet törenine katılmak için Tahran'a gitti. Yılmaz'ı havaalanında İran Bilim, Araştırma ve Teknoloji Bakanı Hüseyin Simayi Sarraf ile Türkiye'nin Tahran Büyükelçisi Hicabi Kırlangıç karşıladı.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-yilmaz-hamaneyin-cenaze-toreni-icin-tahranda-1731264"
+          "title": "Ankara’da NATO Zirvesi için önemler arttırıldı",
+          "summary": "Ankara'da 7-8 Temmuz'da düzenlenecek NATO Zirvesi öncesi güvenlik tedbirleri kapsamında hayata geçirilen \"Operasyon Turkuaz\" çerçevesindeki denetim ve uygulamalar aralıksız sürüyor. “Başkentin huzuru, Türkiye'nin huzuru” sloganıyla yürütülen çalışmalar kapsamında, il genelinde 9 ilçede geniş çaplı denetimler gerçekleştirildi. NATO görev alanları ile önceden belirlenen kritik bölgelerde görevlendirilen ekipler, 24 saat esasına göre oluşturulan güvenlik çemberlerini genişleterek denetimlerini sürdürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/ankarada-nato-zirvesi-icin-onemler-arttirildi-1731327"
         },
         {
-          "title": "Yolcu otobüsü yoldan çıktı… Çok sayıda yaralı var",
-          "summary": "Aksaray'da yolcu otobüsünün yoldan çıkması sonucu ilk belirlemelere göre 19 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yolcu-otobusu-yoldan-cikti-cok-sayida-yarali-var-43227989"
+          "title": "İstanbul için uyarılar arka arkaya geldi. Sabah saatlerinden itibaren başlayacak!",
+          "summary": "Türkiye, bugünden itibaren yeni bir hava sisteminin etkisi altına giriyor. İstanbul Valiliği ve AKOM'dan da uyarılar arka arkaya geldi. Yağışlı havanın sabah saatlerinden itibaren etkili olacağı belirtildi. Sıcak hava dalgasının etkisinde olan Türkiye'de hava tersine dönüyor. Hafta sonu birçok ilde gök gürültülü sağanak etkili olacak. SICAKLIKLAR 5-7 DERECE DÜŞECEK Mevsim normalleri üzerinde seyreden sıcaklıklar bugünden itibaren düşüşe geçecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-uyarilar-arka-arkaya-geldi-sabah-saatlerinden-itibaren-baslayacak-1731326"
         },
         {
-          "title": "Silahlı saldırıya uğrayan kişi, saldırgana taş atarak karşılık verdi",
-          "summary": "Kütahya’da motosikletli bir şüphelinin silahlı saldırısında ayağından yaralanan servis işletmecisi R.Ö., sığındığı okul bahçesinde yerden aldığı taşı fırlatarak karşılık verdi. Güvenlik kamerasına yansıyan olayın ardından polis kaçan saldırganı yakalamak için çalışma başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/silahli-saldiriya-ugrayan-kisi-saldirgana-tas-atarak-karsilik-verdi-43227957"
+          "title": "Resmi Gazete’de yayımlandı… Ulaştırma ve Altyapı Bakan Yardımcılığına Ahmet Hamdi Atalay atandı",
+          "summary": "RESMİ Gazete’de yayımlanan atama kararlarına göre Ulaştırma ve Altyapı Bakan Yardımcılığına Ahmet Hamdi Atalay atandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/resmi-gazetede-yayimlandi-ulastirma-ve-altyapi-bakan-yardimciligina-ahmet-hamdi-atalay-atandi-43228275"
         },
         {
-          "title": "Tunceli’de kamyonetle otomobil kafa kafaya çarpıştı: 1 ölü, 5 yaralı",
-          "summary": "Tunceli'de meydana gelen trafik kazasında 1 kişi hayatını kaybetti, 5 kişi yaralandı. Kazanın ardından sağlık ekipleri yaralıları hastaneye kaldırdı ancak Ali İhsan Kandil isimli vatandaş kurtarılamadı. Kazayla ilgili soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tuncelide-kamyonetle-otomobil-kafa-kafaya-carpisti-1-olu-5-yarali-43227933"
+          "title": "Ulusal Yeşil Finans Stratejisi ve Eylem Planı Resmi Gazete’de yayımlandı",
+          "summary": "ULUSAL Yeşil Finans Stratejisi ve Eylem Planı (2026-2029) ile ilgili Cumhurbaşkanlığı Genelgesi Resmi Gazete’de yayımlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ulusal-yesil-finans-stratejisi-ve-eylem-plani-resmi-gazetede-yayimlandi-43228274"
         }
       ]
     },
     "dunya": {
-      "text": "Rusya'dan Almanya'ya 'Kuzey Akım' tepkisi: Mantığa aykırı. Şam'da bir kafede patlama. Çok sayıda ölü ve yaralı var. NASA'dan uzay operasyonu: Dünya'ya düşme tehlikesi var. Dışişleri Bakanı Hakan Fidan IKBY Başbakan Yardımcısı Talabani ile görüştü. Hindistan'da korkunç kaza: Gişeler alev topuna döndü. Trump'tan tarihi zirve öncesi dikkat çeken hazırlık! 1000 kişilik heyet, Air Force One ve 'Canavar' geliyor. “Güvenlik işi” diye gittiler, Ukrayna cephesine sürüldüler: Afrikalı gençler Rusya’nın ölüm hattında.",
+      "text": "Venezuela'da can kaybı artıyor. Türk arama kurtarma ekiplerine kahramanlık nişanı verildi. TCG Oruçreis, New York Limanı'na demirledi. Pakistan Başbakanı Şahbaz Şerif Türkiye'de. İran’dan Trump’ın “Gıdaya ihtiyaçları var” açıklamasına tepki. Grönland Başbakanı Nielsen’den iddia: Trump vazgeçti. İran'da Hamaney'e veda töreni. \"İntikamını alacağız\". Nijerya'da çobanlar ile çiftçiler arasında çatışma çıktı: 18 ölü.",
       "items": [
         {
-          "title": "Rusya'dan Almanya'ya 'Kuzey Akım' tepkisi: Mantığa aykırı",
-          "summary": "Kremlin Sarayı Sözcüsü Dmitriy Peskov, \"Kiev yönetiminin Kuzey Akım doğalgaz boru hatlarına yönelik saldırılardaki rolüne rağmen Almanya’nın Ukrayna’yı desteklemeye devam etmesi oldukça mantığa aykırı\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-almanyaya-kuzey-akim-tepkisi-mantiga-aykiri-43227956"
+          "title": "Venezuela'da can kaybı artıyor. Türk arama kurtarma ekiplerine kahramanlık nişanı verildi",
+          "summary": "Çifte deprem felaketi yaşayan Venezuela'da can kaybı 2 bin 645'e yükseldi. Devlet Başkanı Delcy Rodriguez arama kurtarma çalışmalarının durmadığını açıkladı. Rodriguez, ülkede deprem nedeniyle görev yapan yabancı arama kurtarma ekiplerine kahramanlık nişanı verdi. Rodriguez, Venezuela'da depremden en çok etkilenen La Guaira'da, yabancı arama kurtarma ekiplerinin bulunduğu La Guaira Limanı'nı ziyaret etti.",
+          "source": "https://www.ntv.com.tr/dunya/venezuelada-can-kaybi-artiyor-turk-arama-kurtarma-ekiplerine-kahramanlik-nisani-verildi-1731328"
         },
         {
-          "title": "Şam'da bir kafede patlama. Çok sayıda ölü ve yaralı var",
-          "summary": "Suriye'nin başkenti Şam'da bir kafede patlama meydana geldi. Çok sayıda kişinin öldüğü ve yaralandığı olayın bir el yapımı patlayıcı ile gerçekleştirildiğini belirtildi. Suriye'nin başkenti Şam'da bulunan bir kafede patlama meydana geldi. Suriye devlet televizyonu El-İhbariyye’nin haberine göre patlama sonucu hayatını kaybedenlerin sayısı 10'a yükseldi. Yaralı sayısının 21'e yükseldiği aktarılan haberde, patlamayı henüz üstlenen olmadığı, güvenlik güçlerinin ise olayla ilgili çalışmalarını sürdürdüğü belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/samda-bir-kafede-patlama-cok-sayida-yarali-var-1731143"
+          "title": "TCG Oruçreis, New York Limanı'na demirledi",
+          "summary": "Türk Deniz Kuvvetlerine ait TCG Oruçreis, ABD'nin 250. kuruluş yılı kutlamaları kapsamında düzenlenecek törene katılmak için New York Limanı'na demir attı.",
+          "source": "https://www.hurriyet.com.tr/dunya/tcg-orucreis-new-york-limanina-demirledi-43228277"
         },
         {
-          "title": "NASA'dan uzay operasyonu: Dünya'ya düşme tehlikesi var",
-          "summary": "Dünya'ya düşme tehlikesiyle karşı karşıya olan NASA teleskobu için başlatılan kurtarma operasyonu kapsamında uzay aracı yörüngeye fırlatıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/nasadan-uzay-operasyonu-dunyaya-dusme-tehlikesi-var-43227900"
+          "title": "Pakistan Başbakanı Şahbaz Şerif Türkiye'de",
+          "summary": "Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine İstanbul'a geldi. Pakistan Başbakanı Şahbaz Şerif, Cumhurbaşkanı Recep Tayyip Erdoğan’ın davetine icabetle, Türkiye'ye ziyaret gerçekleştiriyor. Şerif'i İstanbul'da Ticaret Bakanı Ömer Bolat ve beraberindeki heyet karşıladı. Erdoğan ve Şerif'in görüşmede, Türkiye ile Pakistan arasında ticaret ve yatırımlar başta olmak üzere, bölgesel ve küresel gelişmeleri ele alması bekleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/pakistan-basbakani-sahbaz-serif-turkiyede-1731304"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan IKBY Başbakan Yardımcısı Talabani ile görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Irak Kürt Bölgesel Yönetimi (IKBY) Başbakan Yardımcısı Talabani ile bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-ikby-basbakan-yardimcisi-talabani-ile-gorustu-43227896"
+          "title": "İran’dan Trump’ın “Gıdaya ihtiyaçları var” açıklamasına tepki",
+          "summary": "İran Meclis ve Müzakere Heyeti Başkanı Muhammed Bakır Kalibaf, ABD Başkanı Donald Trump’ın, “Gıdaya ihtiyaçları var. Mısır, buğday ve soyaya ihtiyaçları var.” şeklindeki açıklamasına tepki göstererek, “Kendi ülkenizde 40 milyondan fazla vatandaşınızın gıda kuponuna bağlı olduğunu düşünün.” dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-trumpin-gidaya-ihtiyaclari-var-aciklamasina-tepki-43228165"
         },
         {
-          "title": "Hindistan'da korkunç kaza: Gişeler alev topuna döndü",
-          "summary": "Hindistan’ın Uttar Pradesh eyaletinde otoyol gişelerine çarpan LPG yüklü tankerde meydana gelen sızıntı sonrası çıkan yangında 4 kişi hayatını kaybetti, 2 kişi de yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/hindistanda-korkunc-kaza-giseler-alev-topuna-dondu-43227778"
+          "title": "Grönland Başbakanı Nielsen’den iddia: Trump vazgeçti",
+          "summary": "Grönland Başbakanı Jens-Frederik Nielsen, ABD Başkanı Donald Trump'ın ülkesini ele geçirme fikrinden vazgeçtiğinin istihbaratını aldıklarını belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/gronland-basbakani-nielsenden-iddia-trump-vazgecti-43228086"
         },
         {
-          "title": "Trump'tan tarihi zirve öncesi dikkat çeken hazırlık! 1000 kişilik heyet, Air Force One ve 'Canavar' geliyor",
-          "summary": "ABD Başkanı Donald Trump'ın, Ankara'da düzenlenecek tarihi NATO Zirvesi öncesi olağanüstü güvenlik ve lojistik hazırlıkları başlatıldı. Trump'ın, yaklaşık 1000 kişilik heyet, yeni Air Force One, Marine One helikopteri ve \"Canavar\" lakaplı başkanlık limuziniyle ziyareti gerçekleştireceği ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-tarihi-zirve-oncesi-dikkat-ceken-hazirlik-1000-kisilik-heyet-air-force-one-ve-canavar-geliyor-43227527"
+          "title": "İran'da Hamaney'e veda töreni. \"İntikamını alacağız\"",
+          "summary": "İran Ordu Komutanı Tümgeneral Emir Hatemi, eski ülke lideri Ali Hamaney'in intikamını alacaklarını söyledi. İran devlet televizyonuna konuşan Ordu Komutanı Tümgeneral Emir Hatemi, Hamaney için düzenlenen cenaze töreni münasebetiyle açıklamalarda bulundu. Hatemi, \"Bu şehadet şüphesiz bizim irademizi daha da güçlendirmiştir. İran halkının düşmanları katil ABD ve İsrail bilmelidir ki, şehit İmamımız (Hamaney) ve tüm şehitlerimizin intikamını alacağız.\" dedi.",
+          "source": "https://www.ntv.com.tr/dunya/iranda-hamaneye-veda-toreni-intikamini-alacagiz-1731307"
         },
         {
-          "title": "“Güvenlik işi” diye gittiler, Ukrayna cephesine sürüldüler: Afrikalı gençler Rusya’nın ölüm hattında",
-          "summary": "Rusya’nın, Afrika ülkelerinden genç erkekleri iş, eğitim ya da güvenlik görevi vaadiyle ülkeye çekip Ukrayna cephesine gönderdiği iddia ediliyor. Kenya’dan giden bir genç, kendisine eğitim verilmeden tüfek teslim edildiğini ve silah kullanmayı cephede başkalarını izleyerek öğrendiğini anlattı.",
-          "source": "https://www.hurriyet.com.tr/dunya/guvenlik-isi-diye-gittiler-ukrayna-cephesine-surulduler-afrikali-gencler-rusyanin-olum-hattinda-43213296"
+          "title": "Nijerya'da çobanlar ile çiftçiler arasında çatışma çıktı: 18 ölü",
+          "summary": "Nijerya'nın Niger eyaletinde çobanlar ile çiftçiler arasında yaşanan çatışmalarda 18 kişi yaşamını yitirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/nijeryada-cobanlar-ile-ciftciler-arasinda-catisma-cikti-18-olu-43228022"
         }
       ]
     },
@@ -124,8 +124,33 @@
       ]
     },
     "spor": {
-      "text": "Trabzonspor, Kazeem Olaigbe'yi Basel'e kiraladı!. Premier Lig'de ilk Türk patron Acun Ilıcalı: Hayatta En Gurur Duyduğum Başarım Oldu. Fenerbahçeli yönetici Cihan Kamer'den transfer açıklaması!. Fenerbahçe, Nathan Ake transferini resmen açıkladı. Trabzonspor, Andre Onana'yı KAP'a bildirdi! İşte maaşı ve imza ücreti. Safranbolu’da Ultra Trail heyecanı yarın start alacak. Serdar Dursun, “Kupa Günlüğü”ne konuk oluyor.",
+      "text": "Kassoum Ouattara: 'Beşiktaş dünya çapında bir kulüp!'. Trabzonspor'dan Fatih Tekke'nin maaşına zam!. Fatih Tekke: 'Galatasaray ve Fenerbahçe'yi geçebilirdik'. Galatasaray'ın hazırlık maçlarının programı belli oldu!. Beşiktaş'ın yeni transferi Kassoum Ouattara, ilk idmanına çıktı!. Trabzonspor, Kazeem Olaigbe'yi Basel'e kiraladı!. Premier Lig'de ilk Türk patron Acun Ilıcalı: Hayatta En Gurur Duyduğum Başarım Oldu.",
       "items": [
+        {
+          "title": "Kassoum Ouattara: 'Beşiktaş dünya çapında bir kulüp!'",
+          "summary": "Beşiktaş'ın yeni transferi Fransız oyuncu Kassoum Ouattara, çok heyecanlı olduğunu belirterek, \"Bir an önce başlamak istiyorum. Takıma katılmak için sabırsızlanıyorum. Bu benim için yeni bir meydan okuma ve çok çok mutluyum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kassoum-ouattara-besiktas-dunya-capinda-bir-kulup-43228150"
+        },
+        {
+          "title": "Trabzonspor'dan Fatih Tekke'nin maaşına zam!",
+          "summary": "Trabzonspor, teknik direktör Fatih Tekke'nin sözleşmesini iyileştirildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-fatih-tekkenin-maasina-zam-43228127"
+        },
+        {
+          "title": "Fatih Tekke: 'Galatasaray ve Fenerbahçe'yi geçebilirdik'",
+          "summary": "Yeni sezon hazırlıklarını sürdüren Trabzonspor'da teknik direktör Fatih Tekke, A Spor'a değerlendirmelere bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-galatasaray-ve-fenerbahceyi-gecebilirdik-43228104"
+        },
+        {
+          "title": "Galatasaray'ın hazırlık maçlarının programı belli oldu!",
+          "summary": "Galatasaray hazırlık maçları kapsamında AC Monza ve Venezia FC ile Avusturya'da, Villarreal ile de İstanbul'da karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-hazirlik-maclarinin-programi-belli-oldu-43228097"
+        },
+        {
+          "title": "Beşiktaş'ın yeni transferi Kassoum Ouattara, ilk idmanına çıktı!",
+          "summary": "Beşiktaş'ın 4 yıllığına kadrosuna kattığı Fransız futbolcu Kassoum Ouattara, siyah-beyazlıların Slovakya kampında ilk antrenmanına çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-yeni-transferi-kassoum-ouattara-ilk-idmanina-cikti-43228014"
+        },
         {
           "title": "Trabzonspor, Kazeem Olaigbe'yi Basel'e kiraladı!",
           "summary": "Trabzonspor, geçtiğimiz sezonu Konyaspor'da kiralık olarak geçiren Belçikalı futbolcusu Kazeem Olaigbe'nin İsviçre takımlarından Basel'e transfer olduğunu açıkladı.",
@@ -135,31 +160,6 @@
           "title": "Premier Lig'de ilk Türk patron Acun Ilıcalı: Hayatta En Gurur Duyduğum Başarım Oldu",
           "summary": "Bu sezon Hull City ile birlikte futbolun zirvesi Premier Lig'de mücadele edecek olan Acun Ilıcalı, Inbusiness ekonomi dergisinin Temmuz sayısına kapak oldu. Ilıcalı birçok konuda açıklamalarda bulundu.",
           "source": "https://www.hurriyet.com.tr/sporarena/premier-ligde-ilk-turk-patron-acun-ilicali-hayatta-en-gurur-duydugum-basarim-oldu-43227981"
-        },
-        {
-          "title": "Fenerbahçeli yönetici Cihan Kamer'den transfer açıklaması!",
-          "summary": "Fenerbahçe Kulübü Futboldan Sorumlu Yönetim Kurulu Üyesi Cihan Kamer, transfer çalışmaları hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-yonetici-cihan-kamerden-transfer-aciklamasi-43227958"
-        },
-        {
-          "title": "Fenerbahçe, Nathan Ake transferini resmen açıkladı",
-          "summary": "Fenerbahçe, Manchester City’nin Hollandalı savunmacısı Nathan Ake’yi transfer ettiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-nathan-ake-transferini-resmen-acikladi-43227942"
-        },
-        {
-          "title": "Trabzonspor, Andre Onana'yı KAP'a bildirdi! İşte maaşı ve imza ücreti",
-          "summary": "Trabzonspor, Andre Onana'nın bir sezon daha kiralandığını KAP'a bildirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-andre-onanayi-kapa-bildirdi-43227879"
-        },
-        {
-          "title": "Safranbolu’da Ultra Trail heyecanı yarın start alacak",
-          "summary": "UNESCO Dünya Miras Listesi’nde yer alan Safranbolu’da ilk kez düzenlenecek Safranbolu Ultra Trail (SAFRUN), 10 ülkeden 550 sporcunun katılımıyla yarın başlıyor. ‘Bir koşudan fazlası, tarihte yolculuk’ sloganıyla Karabük’ün Safranbolu ilçesinde gerçekleştirilecek SAFRUN’da 6K, 13K, 19K ve 48,5K olmak üzere dört farklı etapta yarışacak sporcular, tarih ve doğayla iç içe unutulmaz bir deneyim yaşayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/safranboluda-ultra-trail-heyecani-yarin-start-alacak-43227851"
-        },
-        {
-          "title": "Serdar Dursun, “Kupa Günlüğü”ne konuk oluyor",
-          "summary": "Dünya Kupası heyecanını, çarpıcı analizleri ve renkli konuklarıyla ekranlara taşıyan Spor Smart’ın sevilen programı “Kupa Günlüğü”, bu akşam deneyimli golcü Serdar Dursun’u ağırlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdar-dursun-kupa-gunlugune-konuk-oluyor-43227777"
         }
       ]
     },
