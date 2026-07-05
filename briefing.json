@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-05T04:00:03.738Z",
+  "generatedAt": "2026-07-05T10:00:06.404Z",
   "categories": {
     "gundem": {
-      "text": "TIR otoyolda arızalanan otomobile çarptı. 1 çocuk öldü, 3 kişi yaralandı. AFAD'dan Hatay'daki konteyner kentler açıklaması. Karadeniz için kuvvetli yağış uyarısı. Sel, heyelan, doluya dikkat!. Filyos Sahili'ne askeri İHA vurdu. İnceleme başlatıldı. Çocuklar arasında bıçaklı kavga: 1 yaralı, 1 gözaltı. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. Sağlık Bakanı Memişoğlu: CAR-T tedavisini Türkiye'de uygulamaya başladık.",
+      "text": "Apartman görevlisi ile kadın motokurye arasında asansör kullanımı tartışması karakolluk oldu. Apartman görevlisi ile kuryenin asansör kavgası karakolda bitti. Balıkesir'de kontrolden çıkan kamyonet dereye uçtu: 2 ölü, 1 yaralı. İstanbul'da göçmen kaçakçılığı operasyonu: Sahte belgeleri kargoyla yurt dışına gönderen şüpheli tutuklandı. Resmi Gazete'de bugün (5 Temmuz 2026 Resmi Gazete kararları). Maltepe'de iki katlı restoranda yangın. İzmir'de diş ağrısı için gittiği hastanede yapılan iğne hayatını kararttı.",
       "items": [
         {
-          "title": "TIR otoyolda arızalanan otomobile çarptı. 1 çocuk öldü, 3 kişi yaralandı",
-          "summary": "Anadolu Otoyolu'nun Kocaeli kesiminde tırın, arızalanan otomobile çarpması sonucu 7 yaşındaki çocuk hayatını kaybetti, 3 kişi yaralandı. Otoyolun Kartepe geçişi Maşukiye Mahallesi mevkisinde İ.M. idaresindeki otomobil, arızalanması üzerine sürücüsü tarafından emniyet şeridine çekildi. Sürücü İ.M. ile eşi G.M'nin araçtan inerek aracı kontrol ettiği sırada, sürücüsünün kimliği henüz öğrenilemeyen plakalı TIR otomobile çarptı.",
-          "source": "https://www.ntv.com.tr/turkiye/tir-otoyolda-arizalanan-otomobile-carpti-1-cocuk-oldu-3-kisi-yaralandi-1731463"
+          "title": "Apartman görevlisi ile kadın motokurye arasında asansör kullanımı tartışması karakolluk oldu",
+          "summary": "Antalya'da motokurye ile apartman görevlisi arasında asansör kullanımı nedeniyle çıkan tartışma kask kamerasına yansıdı. Apartman görevlisi olduğu öğrenilen şahıs kadın motokuryeye asansörü kullanamayacağını yürüyerek çıkmasını söyledikten sonra çıkan tartışmada, asansörü kullanmasını engellediği genç kadını itekledi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-apartman-gorevlisi-ile-kadin-motokurye-arasinda-asansor-kullanimi-tartismasi-karakolluk-oldu-1731535"
         },
         {
-          "title": "AFAD'dan Hatay'daki konteyner kentler açıklaması",
-          "summary": "Hatay İl Afet ve Acil Durum Müdürlüğü (AFAD), hak sahibi olup konutu henüz teslim edilmemiş ya da Sosyal Yardımlaşma ve Dayanışma Vakıflarınca yapılan incelemeler sonucunda barınma ihtiyacının devam ettiği saptanan vatandaşlar için konteyner desteğinin sürdüğünü bildirdi. Hatay AFAD Müdürlüğünden yapılan yazılı açıklamada, bazı konteyner kentlerin kapatılması sürecinde vatandaşların \"dışarı çıkarıldığı\" yönündeki değerlendirmelerin gerçeği yansıtmadığı bildirildi.",
-          "source": "https://www.ntv.com.tr/turkiye/afaddan-hataydaki-konteyner-kentler-aciklamasi-1731456"
+          "title": "Apartman görevlisi ile kuryenin asansör kavgası karakolda bitti",
+          "summary": "Antalya'da bir apartman görevlisi ile motokurye arasında asansör kullanımı nedeniyle başlayan tartışma karakolluk oldu. Antalya'da motokurye ile apartman görevlisi arasında asansör kullanımı nedeniyle başlayan tartışma karakola taşındı. Konyaaltı ilçesinde önceki akşam saatlerinde yaşanan olayda motokurye olarak çalışan Zehra Yumakoğulları, Uluç Mahallesi'nde bulunan bir siteye platform üzerinden alışveriş yapan müşterinin siparişini teslim etmek üzere gitti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-apartman-gorevlisi-ile-kuryenin-asansor-kavgasi-karakolda-bitti-1731532"
         },
         {
-          "title": "Karadeniz için kuvvetli yağış uyarısı. Sel, heyelan, doluya dikkat!",
-          "summary": "Türkiye'yi etkisi altına alan yağışlı hava sistemi bugün de birçok ilde etkisini gösterecek. Bugün özellikle Doğu Karadeniz ve Akdeniz için kuvvetli yağış etkisi gösterecek. Ülke genelinde hava sıcaklığının bu hafta mevsim ortalamasının altında olması bekleniyor. Dün İstanbul dahil birçok ilde etkisini gösteren kuvvetli yağışlar bugün de birçok ilde etkisini göstermeye devam edecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-karadeniz-icin-kuvvetli-yagis-uyarisi-sel-heyelan-doluya-dikkat-1731459"
+          "title": "Balıkesir'de kontrolden çıkan kamyonet dereye uçtu: 2 ölü, 1 yaralı",
+          "summary": "Edremit ilçesinde dereye uçan kamyonetteki 1'i kadın 2 kişi hayatını kaybetti, sürücü yaralı olarak kurtuldu. Kazayla ilgili soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/balikesirde-kontrolden-cikan-kamyonet-dereye-uctu-2-olu-1-yarali-43229514"
         },
         {
-          "title": "Filyos Sahili'ne askeri İHA vurdu. İnceleme başlatıldı",
-          "summary": "Zonguldak'ta Karadeniz sahiline, askeri amaçlı olduğu değerlendirilen bir insansız hava aracının (İHA) vurması üzerine bölgede geniş güvenlik önlemleri alındı. Edinilen bilgilere göre, Filyos sahilinde kıyıya vurmuş bir insansız hava aracı gören vatandaşlar durumu 112 Acil Çağrı Merkezi'ne bildirdi. İhbar üzerine olay yerine çok sayıda jandarma ekibi sevk edildi. Bölgeyi güvenlik çemberine alan ekipler, vatandaşların İHA'nın bulunduğu alana yaklaşmasına izin vermedi.",
-          "source": "https://www.ntv.com.tr/turkiye/filyos-sahiline-askeri-iha-vurdu-inceleme-baslatildi-1731454"
+          "title": "İstanbul'da göçmen kaçakçılığı operasyonu: Sahte belgeleri kargoyla yurt dışına gönderen şüpheli tutuklandı",
+          "summary": "İstanbul'da bir kargo firmasının yurt dışı transfer merkezinde yapılan denetimlerde, farklı ülkelere gönderilmek üzere hazırlanan çok sayıda sahte pasaport, kimlik ve sürücü belgesi ele geçirildi. Sahte belgeleri kargo şubesine teslim ettiği belirlenen ve yeni bir gönderi hazırlığındayken suçüstü yakalanan 25 yaşındaki A.E.M., çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-gocmen-kacakciligi-operasyonu-sahte-belgeleri-kargoyla-yurt-disina-gonderen-supheli-tutuklandi-43229462"
         },
         {
-          "title": "Çocuklar arasında bıçaklı kavga: 1 yaralı, 1 gözaltı",
-          "summary": "Kayseri’nin Kocasinan ilçesinde çocuklar arasında çıkan bıçaklı kavgada 1 çocuk yaralandı. Olayın ardından yaralı çocuk ve ailesi şüpheli çocuğun babasına saldırırken, polis ekiplerinin müdahalesiyle kavga son buldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/cocuklar-arasinda-bicakli-kavga-1-yarali-1-gozalti-43229201"
+          "title": "Resmi Gazete'de bugün (5 Temmuz 2026 Resmi Gazete kararları)",
+          "summary": "Resmi Gazete'de 5 Temmuz 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 5 Temmuz 2026 tarihli ve 33301 Sayılı Resmi Gazete ayrıntıları. YÜRÜTME VE İDARE BÖLÜMÜ YÖNETMELİKLER – Aydın Adnan Menderes Üniversitesi Tarımsal Biyoteknoloji ve Gıda Güvenliği Uygulama ve Araştırma Merkezi Yönetmeliği – Galatasaray Üniversitesi Üniversite Sektör İş Birliği Uygulama ve Araştırma Merkezi Yönetmeliği İLÂN BÖLÜMÜ a - Yargı İlânları b - Artırma, Eksiltme ve İhale İlânları c - Ç",
+          "source": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-5-temmuz-2026-resmi-gazete-kararlari-1731469"
         },
         {
-          "title": "Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye-Pakistan İş ve Yatırım Forumu'nda iki ülkenin iş dünyası temsilcileriyle bir araya geldiğini belirterek, \"Karşılıklı yatırımları artıracak, sanayi, teknoloji ve inovasyon alanlarında yeni işbirlikleriyle müşterek geleceğimizi birlikte inşa etmeye devam edeceğiz.\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-turkiye-pakistan-is-ve-yatirim-forumuna-iliskin-paylasim-43229200"
+          "title": "Maltepe'de iki katlı restoranda yangın",
+          "summary": "İstanbul Maltepe'de bir restoranda yangın çıktı. Ekipler alevlere müdahale ediyor. İstanbul'un Maltepe ilçesinde bir restoranda yangın çıktı. İki katlı restoranda çıkan yangın üzerine olay yerine itfaiye ekipleri sevk edildi. Ekipler, alevlerin restoranın arka kısmındaki ormanlık alana sıçramaması için çalışmalarını sürdürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/maltepede-iki-katli-restoranda-yangin-1731528"
         },
         {
-          "title": "Sağlık Bakanı Memişoğlu: CAR-T tedavisini Türkiye'de uygulamaya başladık",
-          "summary": "Sağlık Bakanı Kemal Memişoğlu, kanser tedavisinde biyolojik ve moleküler tedavilerin önemli olduğunu belirterek, \"Dünyada çok az ülke tarafından uygulanabilen CAR-T tedavisini Türkiye'de de uygulamaya başladık.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/saglik-bakani-memisoglu-car-t-tedavisini-turkiyede-uygulamaya-basladik-43229199"
+          "title": "İzmir'de diş ağrısı için gittiği hastanede yapılan iğne hayatını kararttı",
+          "summary": "Karabağlar ilçesinde yaşayan 3 çocuk babası mobilya ustası Şerif Osman, hastanede kalçadan yapılan iğne sonrasında sol bacağının işlevini yitirdiğini ve kısaldığını söyledi. Sağlık sorunları nedeniyle çalışamaz hale gelen Şerif Osman, hastane yönetimi ve ilgili doktor hakkında suç duyurusunda bulunarak hukuk mücadelesi başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmirde-dis-agrisi-icin-gittigi-hastanede-yapilan-igne-hayatini-karartti-43229470"
         }
       ]
     },
     "dunya": {
-      "text": "ABD'de paraşütçü masalara düştü. ABD-İran müzakerelerinin yeni yeri ve tarihi belli oldu. İsrailli bakanın \"gözaltına alınma\" korkusu. New York ziyaretini iptal etti. Trump, Putin ve Zelenski ile görüştü. Putin ile Trump arasında 1,5 saatlik telefon görüşmesi. İran: Hürmüz Boğazı’ndan geçişlerde Çin ve diğer dost ülkelere özel ayrıcalıklar tanınacak. Almanya’da AfD kongresine protesto ablukası.",
+      "text": "ABD'de eşsiz kutlama: 'Dünya tarihinin en büyük havai fişek gösterisi olabilir'. Terör örgütü Eş-Şebab'ın elebaşı etkisiz hale getirildi. 'Türkiye'nin NATO'daki rolü büyüyecek!' Hollanda Genelkurmay Başkanı Eichelsheim'dan NATO Zirvesi yorumu. Akdeniz'de 4.1 büyüklüğünde deprem. Mısır Cumhurbaşkanı Sisi, İsrail ile normalleşme şartını açıkladı. ABD'de yolcu uçağında havai fişek paniği. İran'da yeni rejim: Satranç tahtası yeniden şekilleniyor.",
       "items": [
         {
-          "title": "ABD'de paraşütçü masalara düştü",
-          "summary": "ABD Kaliforniya'da bir rodeo etkinliğinde, Amerikan bayrağı ile etkinlik alanı üzerinde gezinen paraşütçü, alçalırken ağaca takıldı. Paraşütten sarkan bayrağın ağaca takılması sonucu paraşütçü, alandaki masaların üzerine düştü. Yetkililer, paraşütçünün kazayı hafif sıyrıklarla atlattığını aktardı.",
-          "source": "https://www.ntv.com.tr/dunya/video-abdde-parasutcu-masalara-dustu-1731465"
+          "title": "ABD'de eşsiz kutlama: 'Dünya tarihinin en büyük havai fişek gösterisi olabilir'",
+          "summary": "ABD'nin kuruluşunun 250. yılı ve 4 Temmuz Bağımsızlık Günü kutlamaları başkent Washington'da 40 dakikalık havai fişek gösterisiyle son buldu. 850 bin havai fişek kullanılan gösterinin, dünya tarihinde bugüne kadar görülen en büyük havai fişek gösterisi olabileceği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-essiz-kutlama-dunya-tarihinin-en-buyuk-havai-fisek-gosterisi-olabilir-43229461"
         },
         {
-          "title": "ABD-İran müzakerelerinin yeni yeri ve tarihi belli oldu",
-          "summary": "ABD ve İran geçtiğimiz günlerde arabulucu ülkelerden Katar'da teknik görüşmeler yürütmüştü. Müzakerelerin 11 Temmuz'da Pakistan'da devam edeceği iddia edildi. Suudi Arabistan merkezli Al Arabiya haber kanalı, ABD ile İran arasında yürütülen müzakerelerin bir sonraki turuna ilişkin dikkat çeken iddialarda bulundu. Haberde, Pakistan'ın taraflar arasında kalıcı bir anlaşmaya varılmasına yönelik diplomatik temaslar kapsamında 11 Temmuz'da yeni bir görüşmeye ev sahipliği yapmasının beklendiği öne sürüldü.",
-          "source": "https://www.ntv.com.tr/dunya/abd-iran-muzakerelerinin-yeni-yeri-ve-tarihi-belli-oldu-1731457"
+          "title": "Terör örgütü Eş-Şebab'ın elebaşı etkisiz hale getirildi",
+          "summary": "Somali'nin Orta Şabele bölgesinde terör örgütü Eş-Şebab'a operasyon düzenlendi. Güvenlik güçlerinin, aralarında örgütün elebaşının da bulunduğu 8 militanı etkisiz hale getirildiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/teror-orgutu-es-sebabin-elebasi-etkisiz-hale-getirildi-43229455"
         },
         {
-          "title": "İsrailli bakanın \"gözaltına alınma\" korkusu. New York ziyaretini iptal etti",
-          "summary": "İsrail basını, aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in, Filistinlilere yönelik politika ve uygulamaları nedeniyle \"gözaltına alınma\" endişesiyle bu hafta New York'a yapacağı ziyareti iptal ettiğini ileri sürdü. İsrail'in Haaretz gazetesinin haberine göre Ben-Gvir, Birleşmiş Milletler (BM) Polis Şefleri Zirvesi'ne katılmak üzere New York'a planladığı ziyareti, insan hakları gruplarının protesto gösterileri düzenlemesi ve hakkındaki gözaltı ile soruşturma taleplerinin artması endişesiyle iptal etti.",
-          "source": "https://www.ntv.com.tr/dunya/israilli-bakanin-gozaltina-alinma-korkusu-new-york-ziyaretini-iptal-etti-1731461"
+          "title": "'Türkiye'nin NATO'daki rolü büyüyecek!' Hollanda Genelkurmay Başkanı Eichelsheim'dan NATO Zirvesi yorumu",
+          "summary": "Hollanda Genelkurmay Başkanı Onno Eichelsheim, ABD'nin NATO'daki bazı askeri kabiliyetlerini geri çekmesiyle Türkiye'nin İttifak içindeki rolünün daha da büyüyeceğini dile getirdi. Ankara ziyaretinde Türk savunma sanayisinin ulaştığı kabiliyet seviyesinden etkilendiğini belirten Eichelsheim, iki ülke arasında bu alanda güçlü bir işbirliği potansiyeli gördüğünü kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiyenin-natodaki-rolu-buyuyecek-hollanda-genelkurmay-baskani-eichelsheimdan-nato-zirvesi-yorumu-43229431"
         },
         {
-          "title": "Trump, Putin ve Zelenski ile görüştü",
-          "summary": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Ukrayna Devlet Başkanı Volodimir Zelenski ile ayrı ayrı telefonda görüştü. Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rus tarafının çatışmaya diplomatik bir çözümden yana olduğunu yineledi. Uşakov, gazetecilere yaptığı açıklamada, ABD tarafının önerisiyle yaklaşık 1,5 saatlik telefon görüşmesinin başında Putin'in Trump ve Amerikan halkının bağımsızlık gününü kutladığını belirtti.",
-          "source": "https://www.ntv.com.tr/dunya/kremlin-putin-ve-trump-telefonla-gorustu-1731455"
+          "title": "Akdeniz'de 4.1 büyüklüğünde deprem",
+          "summary": "AFAD, Yunanistan'ın Girit Adası açıklarında 4.1 büyüklüğünde deprem meydana geldiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/akdenizde-4-1-buyuklugunde-deprem-43229422"
         },
         {
-          "title": "Putin ile Trump arasında 1,5 saatlik telefon görüşmesi",
-          "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in ABD Başkanı Donald Trump ile telefonda görüşme yaptığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/putin-ile-trump-arasinda-1-5-saatlik-telefon-gorusmesi-43229204"
+          "title": "Mısır Cumhurbaşkanı Sisi, İsrail ile normalleşme şartını açıkladı",
+          "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, İsrail ile normalleşmenin Filistin'de çözüm sağlanmadan gerçekleşemeyeceğini belirtti. Sisi, bölgedeki işgal son bulmadan \"İsrail ile halklar arasında\" normalleşmenin mümkün olmadığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/misir-cumhurbaskani-sisi-israil-ile-normallesme-sartini-acikladi-43229400"
         },
         {
-          "title": "İran: Hürmüz Boğazı’ndan geçişlerde Çin ve diğer dost ülkelere özel ayrıcalıklar tanınacak",
-          "summary": "İran’ın Pekin Büyükelçisi Abdulrıza Rahmani Fazli, Hürmüz Boğazı’nı kullanan gemilerden alınacak hizmet ücretlerine ilişkin, \"Çin’e kesinlikle özel ayrıcalıklar sağlayacağız, çünkü Çin dost bir ülkedir. Bize dost olan ülkelere özel muamele uygulamalıyız\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/iran-hurmuz-bogazindan-gecislerde-cin-ve-diger-dost-ulkelere-ozel-ayricaliklar-taninacak-43229186"
+          "title": "ABD'de yolcu uçağında havai fişek paniği",
+          "summary": "ABD'nin 250. yılı ve 4 Temmuz Bağımsızlık Günü kutlamaları sırasında havai fişek kazası yaşandı. Chicago kentindeki Midway Uluslararası Havalimanı'na iniş yapan yolcu uçağına, kutlamalar sırasında fırlatılan havai fişeklerden biri isabet etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-yolcu-ucaginda-havai-fisek-panigi-43229381"
         },
         {
-          "title": "Almanya’da AfD kongresine protesto ablukası",
-          "summary": "Almanya’nın doğusundaki Erfurt kentinde binlerce kişi, aşırı sağcı Almanya için Alternatif Partisi’nin yıllık kongresini protesto etti. Sendikalar, sivil toplum kuruluşları ve sol partilerin çağrısıyla toplanan göstericiler, kongre merkezine giden bazı yolları kapattı. Polis, Erfurt ve çevresindeki protestolara yaklaşık 15 bin kişinin katıldığını açıkladı. YOLLARI KAPATTILAR AfD’nin iki günlük kongresi öncesinde kentte yoğun güvenlik önlemleri alındı.",
-          "source": "https://www.ntv.com.tr/dunya/almanyada-afd-kongresine-protesto-ablukasi-1731448"
+          "title": "İran'da yeni rejim: Satranç tahtası yeniden şekilleniyor",
+          "summary": "İran, eski dini lideri Ayetullah Ali Hamaney'in ABD-İsrail ortak hava saldırılarında öldürülmesinin ardından köklü bir değişim sürecine girdi. Ülke yönetiminde tamamen yeni bir neslin göreve gelmesi, hem iç hem de dış politikada önemli dönüşümlerin habercisi olarak değerlendiriliyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/iranda-yeni-rejim-satranc-tahtasi-yeniden-sekilleniyor-43229331"
         }
       ]
     },
     "ekonomi": {
-      "text": "JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı. Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum. Türkiye’nin bamya ambarı. Türk kirazı tek yön Çin bileti peşinde. Mayısta ABD ve İtalya rüzgârı esti.",
+      "text": "Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı. Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum. Türkiye’nin bamya ambarı. Türk kirazı tek yön Çin bileti peşinde.",
       "items": [
+        {
+          "title": "Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye-Pakistan İş ve Yatırım Forumu'nda iki ülkenin iş dünyası temsilcileriyle bir araya geldiğini belirterek, \"Karşılıklı yatırımları artıracak, sanayi, teknoloji ve inovasyon alanlarında yeni işbirlikleriyle müşterek geleceğimizi birlikte inşa etmeye devam edeceğiz.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-turkiye-pakistan-is-ve-yatirim-forumuna-iliskin-paylasim-43229188"
+        },
         {
           "title": "JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı",
           "summary": "Türkiye’nin Genel Müdürlüğüne atanan Jose Luis Amador, JTI’ın Türkiye organizasyonuna dahil olan Kuzey Kıbrıs Türk Cumhuriyeti’ndeki iş süreçlerinin yönetilmesini de üstlenecek.",
@@ -115,51 +120,46 @@
           "title": "Türk kirazı tek yön Çin bileti peşinde",
           "summary": "Türkiye, 1.4 milyon dekar alanda yıllık 700 bin ton kiraz üretimiyle dünya lideri konumunda. Kiraz üretimindeki gücünü dış pazara yansıtmak isteyen Türkiye, Çin Halk Cumhuriyeti’ne kiraz ihracatının başlaması için kritik bir eşikte.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/turk-kirazi-tek-yon-cin-bileti-pesinde-43224611"
-        },
-        {
-          "title": "Mayısta ABD ve İtalya rüzgârı esti",
-          "summary": "EGE İhracatçı Birlikleri’nin mayıstaki ihracatında ABD ve İtalya rüzgârı esti. ABD ve İtalya, performanslarıyla Almanya’yı geçerek ilk iki sıraya isimlerini yazdırdı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/mayista-abd-ve-italya-ruzgari-esti-43224610"
         }
       ]
     },
     "spor": {
-      "text": "U17 Milli Takım, yarı finalde Sırbistan'a mağlup!. Fenerbahçe'den transfer yalanlaması!. Beşiktaş, çalışmalarına salonda devam etti!. Fenerbahçe'de Mert Hakan Yandaş ile yeni sözleşme! Asgari ücret kazanacak. Beşiktaş'tan Leandro Trossard bombası! Arsenal'la el sıkışıldı, işte maliyeti. Beşiktaş, İlhan Fakılı transferini duyurdu!. Başakşehir, Shomurodov'un bonservisini aldı!.",
+      "text": "Aral Şimşir'de işlem tamam! Milli futbolcu Süper Lig'e 'rekor' kırarak geliyor. Dünya Kupası’nda çeyrek final yolunda favoriler İngiltere ve Brezilya… İşte Misli’de Günün En Çok Oynanan Maçları. Galatasaray'dan ayrıldı, Fenerbahçe'ye imza attı!. Brezilya’nın maçlarında toplam 2-3 gol çıkıyor! Meksika’nın bileği bükülmüyor…İşte Misli’den Günün Tüyoları!. Ergin Ataman, A Milli Basketbol Takımı'nda 'dalya' diyecek. Fenerbahçe'de Diego Carlos gelişmesi! Kulüpten resmi açıklama geldi. Paraguay hocası Fransa maçı sonrası patladı! 'Kızının hayatını kurtarmak için formasını sattı'.",
       "items": [
         {
-          "title": "U17 Milli Takım, yarı finalde Sırbistan'a mağlup!",
-          "summary": "Basketbol FIBA 17 Yaş Altı Dünya Kupası yarı finalinde Türkiye, Sırbistan'a 76-71 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/u17-milli-takim-yari-finalde-sirbistana-maglup-43229164"
+          "title": "Aral Şimşir'de işlem tamam! Milli futbolcu Süper Lig'e 'rekor' kırarak geliyor",
+          "summary": "Midtjylland formasıyla Danimarka'da harika bir sezonu geride bırakan ve transferin gözdesi haline gelen Aral Şimşir, Süper Lig devi Trabzonspor'a imza atmak üzere. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/aral-simsirde-islem-tamam-milli-futbolcu-super-lige-rekor-kirarak-geliyor-43229503"
         },
         {
-          "title": "Fenerbahçe'den transfer yalanlaması!",
-          "summary": "Fenerbahçe, Fransa'da transfer görüşmeleri yürütüldüğüne ilişkin iddiaları yalanladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-transfer-yalanlamasi-43229151"
+          "title": "Dünya Kupası’nda çeyrek final yolunda favoriler İngiltere ve Brezilya… İşte Misli’de Günün En Çok Oynanan Maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasinda-ceyrek-final-yolunda-favoriler-ingiltere-ve-brezilya-iste-mislide-gunun-en-cok-oynanan-maclari-43229496"
         },
         {
-          "title": "Beşiktaş, çalışmalarına salonda devam etti!",
-          "summary": "Beşiktaş, yeni sezon hazırlıklarına Slovakya’nın Bratislava kentinde kamp yaptığı otelde bu akşam salonda yaptığı antrenmanla devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-calismalarina-salonda-devam-etti-43229149"
+          "title": "Galatasaray'dan ayrıldı, Fenerbahçe'ye imza attı!",
+          "summary": "Fenerbahçe, Galatasaray altyapısında forma giyen 18 yaşındaki sol kanat oyuncusu Yiğit Çolak ile sözleşme imzaladığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-ayrildi-fenerbahceye-imza-atti-43229474"
         },
         {
-          "title": "Fenerbahçe'de Mert Hakan Yandaş ile yeni sözleşme! Asgari ücret kazanacak",
-          "summary": "Fenerbahçe'de Mert Hakan Yandaş'ın geleceği netleşti. Sarı-lacivertliler, tecrübeli futbolcuyla 1 yıllık yeni sözleşme konusunda anlaşma sağlarken, alacağı ücret dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-mert-hakan-yandas-ile-yeni-sozlesme-asgari-ucret-kazanacak-43229066"
+          "title": "Brezilya’nın maçlarında toplam 2-3 gol çıkıyor! Meksika’nın bileği bükülmüyor…İşte Misli’den Günün Tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/brezilyanin-maclarinda-toplam-2-3-gol-cikiyor-meksikanin-bilegi-bukulmuyor-iste-misliden-gunun-tuyolari-43229467"
         },
         {
-          "title": "Beşiktaş'tan Leandro Trossard bombası! Arsenal'la el sıkışıldı, işte maliyeti",
-          "summary": "The Athletic, Beşiktaş'ın, Arsenal ile Leandro Trossard'ın bonservisi için anlaşma sağladığını ve Belçikalı yıldızla son görüşmeleri sürdürdüğünü yazdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-leandro-trossard-bombasi-arsenalla-el-sikisildi-iste-maliyeti-43229054"
+          "title": "Ergin Ataman, A Milli Basketbol Takımı'nda 'dalya' diyecek",
+          "summary": "A Milli Erkek Basketbol Takımı Başantrenörü Ergin Ataman, ay-yıldızlı ekibin başında 100. maçına çıkacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ergin-ataman-a-milli-basketbol-takiminda-dalya-diyecek-43229439"
         },
         {
-          "title": "Beşiktaş, İlhan Fakılı transferini duyurdu!",
-          "summary": "Beşiktaş, Clermont forması giyen İlhan Fakılı'nın transfer görüşmelerinin tamamlanması için bu akşam İstanbul'a geleceğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ilhan-fakili-transferini-duyurdu-43229047"
+          "title": "Fenerbahçe'de Diego Carlos gelişmesi! Kulüpten resmi açıklama geldi",
+          "summary": "Fenerbahçe'de sezon öncesi sağlık kontrollerine katılmayan ve hakkında notere tutanak tutturulan Diego Carlos, sağlık kontrolleri ve kamp için İstanbul'a geliyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-diego-carlos-gelismesi-kulupten-resmi-aciklama-geldi-43229376"
         },
         {
-          "title": "Başakşehir, Shomurodov'un bonservisini aldı!",
-          "summary": "Başakşehir, Eldor Shomurodov'un sözleşmesindeki zorunlu satın alma opsiyonunu kullanarak renklerine bağladığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basaksehir-shomurodovun-bonservisini-aldi-43229020"
+          "title": "Paraguay hocası Fransa maçı sonrası patladı! 'Kızının hayatını kurtarmak için formasını sattı'",
+          "summary": "Paraguay Teknik Direktörü Gustavo Alfaro, Dünya Kupası'na veda ettikleri Fransa yenilgisi sonrası dikkat çeken açıklamalarda bulundu. Alfaro, Mbappe'ye tepki gösterirken oyuncularının yaşadığı zorluklara değindi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/paraguay-hocasi-fransa-maci-sonrasi-patladi-kizinin-hayatini-kurtarmak-icin-formasini-satti-43229346"
         }
       ]
     },
