@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-05T10:00:06.404Z",
+  "generatedAt": "2026-07-06T04:00:03.858Z",
   "categories": {
     "gundem": {
-      "text": "Apartman görevlisi ile kadın motokurye arasında asansör kullanımı tartışması karakolluk oldu. Apartman görevlisi ile kuryenin asansör kavgası karakolda bitti. Balıkesir'de kontrolden çıkan kamyonet dereye uçtu: 2 ölü, 1 yaralı. İstanbul'da göçmen kaçakçılığı operasyonu: Sahte belgeleri kargoyla yurt dışına gönderen şüpheli tutuklandı. Resmi Gazete'de bugün (5 Temmuz 2026 Resmi Gazete kararları). Maltepe'de iki katlı restoranda yangın. İzmir'de diş ağrısı için gittiği hastanede yapılan iğne hayatını kararttı.",
+      "text": "Osmaniye'deki düğün kavgasında kan döküldü. Bursa'da korkutan yangın! Geri dönüşüm tesisi alevlere teslim oldu. Çorum'da 50 kişi düğün yemeğinden zehirlendi. Genç kadının şüpheli ölümü. 5'inci kattan düştü. Düğünde kan aktı. 1 ölü, 6 yaralı. Kazada yaralanan sürücüye ilk kontrolü doktor babası yaptı. Siverek'te otomobil koyun sürüsüne daldı: 3 kişi yaralandı, 11 koyun telef oldu.",
       "items": [
         {
-          "title": "Apartman görevlisi ile kadın motokurye arasında asansör kullanımı tartışması karakolluk oldu",
-          "summary": "Antalya'da motokurye ile apartman görevlisi arasında asansör kullanımı nedeniyle çıkan tartışma kask kamerasına yansıdı. Apartman görevlisi olduğu öğrenilen şahıs kadın motokuryeye asansörü kullanamayacağını yürüyerek çıkmasını söyledikten sonra çıkan tartışmada, asansörü kullanmasını engellediği genç kadını itekledi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-apartman-gorevlisi-ile-kadin-motokurye-arasinda-asansor-kullanimi-tartismasi-karakolluk-oldu-1731535"
+          "title": "Osmaniye'deki düğün kavgasında kan döküldü",
+          "summary": "Osmaniye'de düğün salonunda iki grup arasında çıkan ve salonun dışına taşan silahlı kavgada tüfekle vurulan 22 yaşındaki Hüseyin Gönül hayatını kaybetti, 6 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/osmaniyedeki-dugun-kavgasinda-kan-dokuldu-43230100"
         },
         {
-          "title": "Apartman görevlisi ile kuryenin asansör kavgası karakolda bitti",
-          "summary": "Antalya'da bir apartman görevlisi ile motokurye arasında asansör kullanımı nedeniyle başlayan tartışma karakolluk oldu. Antalya'da motokurye ile apartman görevlisi arasında asansör kullanımı nedeniyle başlayan tartışma karakola taşındı. Konyaaltı ilçesinde önceki akşam saatlerinde yaşanan olayda motokurye olarak çalışan Zehra Yumakoğulları, Uluç Mahallesi'nde bulunan bir siteye platform üzerinden alışveriş yapan müşterinin siparişini teslim etmek üzere gitti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-apartman-gorevlisi-ile-kuryenin-asansor-kavgasi-karakolda-bitti-1731532"
+          "title": "Bursa'da korkutan yangın! Geri dönüşüm tesisi alevlere teslim oldu",
+          "summary": "Bursa'da faaliyet gösteren bir geri dönüşüm tesisinde yangın çıktı. Geceyi aydınlatan alevlerle ekiplerin yoğun mücadelesi kameraya yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-korkutan-yangin-geri-donusum-tesisi-alevlere-teslim-oldu-43230098"
         },
         {
-          "title": "Balıkesir'de kontrolden çıkan kamyonet dereye uçtu: 2 ölü, 1 yaralı",
-          "summary": "Edremit ilçesinde dereye uçan kamyonetteki 1'i kadın 2 kişi hayatını kaybetti, sürücü yaralı olarak kurtuldu. Kazayla ilgili soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/balikesirde-kontrolden-cikan-kamyonet-dereye-uctu-2-olu-1-yarali-43229514"
+          "title": "Çorum'da 50 kişi düğün yemeğinden zehirlendi",
+          "summary": "Çorum'da bir düğün salonunda ikram edilen yemekten zehirlendikleri değerlendirilen, aralarında çocukların da bulunduğu yaklaşık 50 kişi hastanelik oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/corumda-50-kisi-dugun-yemeginden-zehirlendi-43230097"
         },
         {
-          "title": "İstanbul'da göçmen kaçakçılığı operasyonu: Sahte belgeleri kargoyla yurt dışına gönderen şüpheli tutuklandı",
-          "summary": "İstanbul'da bir kargo firmasının yurt dışı transfer merkezinde yapılan denetimlerde, farklı ülkelere gönderilmek üzere hazırlanan çok sayıda sahte pasaport, kimlik ve sürücü belgesi ele geçirildi. Sahte belgeleri kargo şubesine teslim ettiği belirlenen ve yeni bir gönderi hazırlığındayken suçüstü yakalanan 25 yaşındaki A.E.M., çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-gocmen-kacakciligi-operasyonu-sahte-belgeleri-kargoyla-yurt-disina-gonderen-supheli-tutuklandi-43229462"
+          "title": "Genç kadının şüpheli ölümü. 5'inci kattan düştü",
+          "summary": "Manisa'da şüpheli şekilde 5'inci kattaki evinin balkonundan düşen 30 yaşındaki İlayda T., hayatını kaybetti. Şüpheli şekilde yüksekten düşerek hayatını kaybeden kadınlara bir yenisi daha eklendi. Olay dün Şehzadeler ilçesinde meydana geldi. Peker Mahallesi'nde 5 katlı apartmanın son katında ikamet eden 30 yaşındaki İlayda T., henüz belirlenemeyen bir nedenle evinin balkonundan zemine düştü. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/genc-kadinin-supheli-olumu-5inci-kattan-dustu-1731603"
         },
         {
-          "title": "Resmi Gazete'de bugün (5 Temmuz 2026 Resmi Gazete kararları)",
-          "summary": "Resmi Gazete'de 5 Temmuz 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 5 Temmuz 2026 tarihli ve 33301 Sayılı Resmi Gazete ayrıntıları. YÜRÜTME VE İDARE BÖLÜMÜ YÖNETMELİKLER – Aydın Adnan Menderes Üniversitesi Tarımsal Biyoteknoloji ve Gıda Güvenliği Uygulama ve Araştırma Merkezi Yönetmeliği – Galatasaray Üniversitesi Üniversite Sektör İş Birliği Uygulama ve Araştırma Merkezi Yönetmeliği İLÂN BÖLÜMÜ a - Yargı İlânları b - Artırma, Eksiltme ve İhale İlânları c - Ç",
-          "source": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-5-temmuz-2026-resmi-gazete-kararlari-1731469"
+          "title": "Düğünde kan aktı. 1 ölü, 6 yaralı",
+          "summary": "Osmaniye'de düğün salonunda iki grup arasında çıkan ve salonun dışına taşan kavgada tüfekle vurulan 22 yaşındaki genç hayatını kaybetti, 6 kişi yaralandı. Osmaniye Fakıuşağı Mahallesi'ndeki düğün salonunda akşam saatlerinde düzenlenen düğün töreninde iki grup arasında henüz belirlenemeyen bir nedenle başlayan tartışma kısa sürede kavgaya dönüştü. Olay düğün salonunun dışına taştı. Henüz kimin kullandığı belirlenemeyen tüfekle açılan ateş sonucu 7 kişi yaralandı.",
+          "source": "https://www.ntv.com.tr/turkiye/dugunde-kan-akti-1-olu-6-yarali-1731602"
         },
         {
-          "title": "Maltepe'de iki katlı restoranda yangın",
-          "summary": "İstanbul Maltepe'de bir restoranda yangın çıktı. Ekipler alevlere müdahale ediyor. İstanbul'un Maltepe ilçesinde bir restoranda yangın çıktı. İki katlı restoranda çıkan yangın üzerine olay yerine itfaiye ekipleri sevk edildi. Ekipler, alevlerin restoranın arka kısmındaki ormanlık alana sıçramaması için çalışmalarını sürdürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/maltepede-iki-katli-restoranda-yangin-1731528"
+          "title": "Kazada yaralanan sürücüye ilk kontrolü doktor babası yaptı",
+          "summary": "Bursa'nın İnegöl ilçesinde kontrolden çıkarak refüje çarpan otomobilin sürücüsü yaralandı. Kazayı haber alarak olay yerine gelen doktor baba, oğlunun sağlık durumunu kontrol edip teselli etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/kazada-yaralanan-surucuye-ilk-kontrolu-doktor-babasi-yapti-43230077"
         },
         {
-          "title": "İzmir'de diş ağrısı için gittiği hastanede yapılan iğne hayatını kararttı",
-          "summary": "Karabağlar ilçesinde yaşayan 3 çocuk babası mobilya ustası Şerif Osman, hastanede kalçadan yapılan iğne sonrasında sol bacağının işlevini yitirdiğini ve kısaldığını söyledi. Sağlık sorunları nedeniyle çalışamaz hale gelen Şerif Osman, hastane yönetimi ve ilgili doktor hakkında suç duyurusunda bulunarak hukuk mücadelesi başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-dis-agrisi-icin-gittigi-hastanede-yapilan-igne-hayatini-karartti-43229470"
+          "title": "Siverek'te otomobil koyun sürüsüne daldı: 3 kişi yaralandı, 11 koyun telef oldu",
+          "summary": "Şanlıurfa'nın Siverek ilçesinde otomobilin karayolundaki koyun sürüsüne çarpması sonucu meydana gelen kazada 3 kişi yaralandı, 11 küçükbaş hayvan telef oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/siverekte-otomobil-koyun-surusune-daldi-3-kisi-yaralandi-11-koyun-telef-oldu-43230075"
         }
       ]
     },
     "dunya": {
-      "text": "ABD'de eşsiz kutlama: 'Dünya tarihinin en büyük havai fişek gösterisi olabilir'. Terör örgütü Eş-Şebab'ın elebaşı etkisiz hale getirildi. 'Türkiye'nin NATO'daki rolü büyüyecek!' Hollanda Genelkurmay Başkanı Eichelsheim'dan NATO Zirvesi yorumu. Akdeniz'de 4.1 büyüklüğünde deprem. Mısır Cumhurbaşkanı Sisi, İsrail ile normalleşme şartını açıkladı. ABD'de yolcu uçağında havai fişek paniği. İran'da yeni rejim: Satranç tahtası yeniden şekilleniyor.",
+      "text": "Telefon şakası Yunan hükümetini sarstı. Venezuela'da bilanço ağırlaşıyor. Can kaybı 3 bin 342’ye yükseldi. Güney Kıbrıs'ta saldırı. Kıbrıs Türkü ağır yaralı. Venezuela’daki depremlerde ölü sayısı 3 bin 342’ye yükseldi. Trump’ın 1,5 milyon dolarlık ''canavar'' aracı depoyu Ankara'da doldurdu. Louvre’dan sonra Lalique. Fransa’da bir müzede daha mücevher soygunu gerçekleşti. Trump'ın Ankara programı netleşiyor. Zelenski ve Şara ile de görüşecek.",
       "items": [
         {
-          "title": "ABD'de eşsiz kutlama: 'Dünya tarihinin en büyük havai fişek gösterisi olabilir'",
-          "summary": "ABD'nin kuruluşunun 250. yılı ve 4 Temmuz Bağımsızlık Günü kutlamaları başkent Washington'da 40 dakikalık havai fişek gösterisiyle son buldu. 850 bin havai fişek kullanılan gösterinin, dünya tarihinde bugüne kadar görülen en büyük havai fişek gösterisi olabileceği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-essiz-kutlama-dunya-tarihinin-en-buyuk-havai-fisek-gosterisi-olabilir-43229461"
+          "title": "Telefon şakası Yunan hükümetini sarstı",
+          "summary": "Yunanistan'da Ulusal Güvenlik Genel Sekreteri Thanos Dokos, kendilerini Ukraynalı yetkililer olarak tanıtan Rus komedyenlerin telefon şakasının hedefi oldu. Muhalefet partileri hükümeti eleştirdi. Yunanistan'ın kritik güvenlik bilgilerine sahip Ulusal Güvenlik Genel Sekreteri Thanos Dokos, kendilerini Ukraynalı yetkililer olarak tanıtan Rus komedyenlerin telefon şakası tuzağına düştü.",
+          "source": "https://www.ntv.com.tr/dunya/telefon-sakasi-yunan-hukumetini-sarsti-1731607"
         },
         {
-          "title": "Terör örgütü Eş-Şebab'ın elebaşı etkisiz hale getirildi",
-          "summary": "Somali'nin Orta Şabele bölgesinde terör örgütü Eş-Şebab'a operasyon düzenlendi. Güvenlik güçlerinin, aralarında örgütün elebaşının da bulunduğu 8 militanı etkisiz hale getirildiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/teror-orgutu-es-sebabin-elebasi-etkisiz-hale-getirildi-43229455"
+          "title": "Venezuela'da bilanço ağırlaşıyor. Can kaybı 3 bin 342’ye yükseldi",
+          "summary": "Venezuela'da, 24 Haziran'da meydana gelen iki büyük depremde hayatını kaybedenlerin sayısı 3 bin 342’ye yükseldi. Venezuela’da 24 Haziran’da 39 saniye arayla meydana gelen 7.2 ve 7.5 büyüklüğündeki depremlerin bilançosu her geçen dakika daha da ağırlaşıyor. İletişim ve Enformasyon Bakanlığı, depremlerde hayatını kaybedenlerin sayısının 3 bin 342’ye, yaralananların sayısının ise 16 bin 740’a ulaştığını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/venezuelada-bilanco-agirlasiyor-can-kaybi-3-bin-342ye-yukseldi-1731606"
         },
         {
-          "title": "'Türkiye'nin NATO'daki rolü büyüyecek!' Hollanda Genelkurmay Başkanı Eichelsheim'dan NATO Zirvesi yorumu",
-          "summary": "Hollanda Genelkurmay Başkanı Onno Eichelsheim, ABD'nin NATO'daki bazı askeri kabiliyetlerini geri çekmesiyle Türkiye'nin İttifak içindeki rolünün daha da büyüyeceğini dile getirdi. Ankara ziyaretinde Türk savunma sanayisinin ulaştığı kabiliyet seviyesinden etkilendiğini belirten Eichelsheim, iki ülke arasında bu alanda güçlü bir işbirliği potansiyeli gördüğünü kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/turkiyenin-natodaki-rolu-buyuyecek-hollanda-genelkurmay-baskani-eichelsheimdan-nato-zirvesi-yorumu-43229431"
+          "title": "Güney Kıbrıs'ta saldırı. Kıbrıs Türkü ağır yaralı",
+          "summary": "Kıbrıslı Türk Ahmet Tan, Güney Kıbrıs Rum Yönetimi'nin turistik bölgesinde saldırıya uğradı. Ağır yaralı olarak hastaneye kaldırılan KKTC vatandaşının hayati tehlikesi sürüyor. Güney Kıbrıs Rum Yönetimi'nin (GKRY) turistik kenti Aya Napa’da 47 yaşındaki Ahmet Tan adlı KKTC vatandaşı, kimliği belirsiz kişi veya kişilerin saldırısına uğradı. Rum basınında yer alan haberlerde, yerel saatle 06.00 sıralarında Ayias Mavris Caddesi’nde ağır yaralı halde bulunan kişinin Kıbrıs Türkü olduğu ve ağır yaralandığı aktarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/guney-kibrista-saldiri-kibris-turku-agir-yarali-1731604"
         },
         {
-          "title": "Akdeniz'de 4.1 büyüklüğünde deprem",
-          "summary": "AFAD, Yunanistan'ın Girit Adası açıklarında 4.1 büyüklüğünde deprem meydana geldiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/akdenizde-4-1-buyuklugunde-deprem-43229422"
+          "title": "Venezuela’daki depremlerde ölü sayısı 3 bin 342’ye yükseldi",
+          "summary": "Venezuela İletişim ve Enformasyon Bakanlığı’ndan yapılan açıklamada, ülkede 24 Haziran’da meydana gelen depremlerde hayatını kaybedenlerin sayısının 3 bin 342’ye, yaralananların sayısının ise 16 bin 740’a ulaştığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/venezueladaki-depremlerde-olu-sayisi-3-bin-342ye-yukseldi-43230096"
         },
         {
-          "title": "Mısır Cumhurbaşkanı Sisi, İsrail ile normalleşme şartını açıkladı",
-          "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, İsrail ile normalleşmenin Filistin'de çözüm sağlanmadan gerçekleşemeyeceğini belirtti. Sisi, bölgedeki işgal son bulmadan \"İsrail ile halklar arasında\" normalleşmenin mümkün olmadığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/misir-cumhurbaskani-sisi-israil-ile-normallesme-sartini-acikladi-43229400"
+          "title": "Trump’ın 1,5 milyon dolarlık ''canavar'' aracı depoyu Ankara'da doldurdu.",
+          "summary": "ABD Başkanı Donald Trump’ın NATO Liderler Zirvesi’nde kullanacağı konvoydaki araçlar Ankara’ya getirildi. 1,5 milyon dolarlık Cadillac, deposunu doldururken görüntülendi. Türkiye'deki NATO zirvesine katılacak olan ABD Başkanı Donald Trump'ın aracı Ankara'da bir benzinlikte görüntülendi. Trump’ın kullandığı başkanlık aracı kamuoyunda “The Beast”, yani “Canavar” olarak biliniyor. Resmi adı genellikle Cadillac One ya da ABD Başkanlık Devlet Aracı diye geçiyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trumpin-15-milyon-dolarlik-canavar-araci-depoyu-ankarada-doldurdu-1731594"
         },
         {
-          "title": "ABD'de yolcu uçağında havai fişek paniği",
-          "summary": "ABD'nin 250. yılı ve 4 Temmuz Bağımsızlık Günü kutlamaları sırasında havai fişek kazası yaşandı. Chicago kentindeki Midway Uluslararası Havalimanı'na iniş yapan yolcu uçağına, kutlamalar sırasında fırlatılan havai fişeklerden biri isabet etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-yolcu-ucaginda-havai-fisek-panigi-43229381"
+          "title": "Louvre’dan sonra Lalique. Fransa’da bir müzede daha mücevher soygunu gerçekleşti",
+          "summary": "Fransız lüks cam üreticisi Lalique’in müzesinde pazar günü düzenlenen soygunda milyonlarca euro değerinde mücevher çalındı. Şirket ve soruşturmaya yakın bir kaynağın aktardığına göre, Fransa’nın kuzeydoğusundaki Wingen-sur-Moder kentinde bulunan Lalique Müzesi’ne sabah saat 05.30 sıralarında giren kişi ya da kişiler, doğrudan mücevher odasına yöneldi. Soruşturmaya yakın kaynak, “Yaklaşık 20 parça mücevher çalındı.",
+          "source": "https://www.ntv.com.tr/dunya/louvredan-sonra-lalique-fransada-bir-muze-de-daha-mucevher-soygunu-1731591"
         },
         {
-          "title": "İran'da yeni rejim: Satranç tahtası yeniden şekilleniyor",
-          "summary": "İran, eski dini lideri Ayetullah Ali Hamaney'in ABD-İsrail ortak hava saldırılarında öldürülmesinin ardından köklü bir değişim sürecine girdi. Ülke yönetiminde tamamen yeni bir neslin göreve gelmesi, hem iç hem de dış politikada önemli dönüşümlerin habercisi olarak değerlendiriliyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/iranda-yeni-rejim-satranc-tahtasi-yeniden-sekilleniyor-43229331"
+          "title": "Trump'ın Ankara programı netleşiyor. Zelenski ve Şara ile de görüşecek",
+          "summary": "ABD Başkanı Donald Trump’ın Ankara’da düzenlenecek NATO Zirvesi görüşmeleri sonrası Ukrayna Devlet Başkanı Volodimir Zelenski ve Suriye Cumhurbaşkanı Ahmed Şara ile de bir araya geleceği bildirildi. Beyaz Saray Baş Basın Sözcü Yardımcısı Anna Kelly, ABD’nin NATO nezdindeki Büyükelçisi Matt Whitaker ile birlikte telekonferans yöntemiyle düzenlenen basın toplantısında, Ankara ziyaretiyle ilgili bazı yeni bilgiler paylaştı.",
+          "source": "https://www.ntv.com.tr/dunya/trumpin-ankara-programi-netlesiyor-zelenski-ve-sara-ile-de-gorusecek-1731592"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Aral Şimşir'de işlem tamam! Milli futbolcu Süper Lig'e 'rekor' kırarak geliyor. Dünya Kupası’nda çeyrek final yolunda favoriler İngiltere ve Brezilya… İşte Misli’de Günün En Çok Oynanan Maçları. Galatasaray'dan ayrıldı, Fenerbahçe'ye imza attı!. Brezilya’nın maçlarında toplam 2-3 gol çıkıyor! Meksika’nın bileği bükülmüyor…İşte Misli’den Günün Tüyoları!. Ergin Ataman, A Milli Basketbol Takımı'nda 'dalya' diyecek. Fenerbahçe'de Diego Carlos gelişmesi! Kulüpten resmi açıklama geldi. Paraguay hocası Fransa maçı sonrası patladı! 'Kızının hayatını kurtarmak için formasını sattı'.",
+      "text": "Brezilya elendi, Neymar gözyaşlarına boğuldu!. Yeni transfer Noah Saviola da Trabzon'da!. Trabzonspor'un yeni transferi Malinovskyi, Trabzon'da! İşte ilk sözleri... Beşiktaş, İlhan Fakılı'yı resmen açıkladı!. Fenerbahçe, ikinci etap çalışmaları için Avusturya’da. Kırmızı kart gören Balogun, Belçika maçında oynayacak!. Safranbolu Ultra Trail’de ödüller sahiplerini buldu.",
       "items": [
         {
-          "title": "Aral Şimşir'de işlem tamam! Milli futbolcu Süper Lig'e 'rekor' kırarak geliyor",
-          "summary": "Midtjylland formasıyla Danimarka'da harika bir sezonu geride bırakan ve transferin gözdesi haline gelen Aral Şimşir, Süper Lig devi Trabzonspor'a imza atmak üzere. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/aral-simsirde-islem-tamam-milli-futbolcu-super-lige-rekor-kirarak-geliyor-43229503"
+          "title": "Brezilya elendi, Neymar gözyaşlarına boğuldu!",
+          "summary": "Brezilya'nın Norveç'e 2-0 yenilerek FIFA 2026 Dünya Kupası'na veda ettiği maçın ardından Neymar, duygusal anlar yaşandı. Son düdüğün ardından gözyaşlarına boğulan yıldız futbolcuyu takım arkadaşları teselli etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/brezilya-elendi-neymar-gozyaslarina-boguldu-43230072"
         },
         {
-          "title": "Dünya Kupası’nda çeyrek final yolunda favoriler İngiltere ve Brezilya… İşte Misli’de Günün En Çok Oynanan Maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasinda-ceyrek-final-yolunda-favoriler-ingiltere-ve-brezilya-iste-mislide-gunun-en-cok-oynanan-maclari-43229496"
+          "title": "Yeni transfer Noah Saviola da Trabzon'da!",
+          "summary": "Trabzonspor, Ruslan Malinovskyi ardından ardından yeni transferlerinden bir ismi daha Trabzon'a getirdi. Bordo-mavililerin bonservis bedeliyle kulüp tarihinin en pahalı transferlerinden biri olan Portekizli kanat oyuncusu Noah Saviola, yeni sezon hazırlıkları öncesinde Trabzon'a geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/yeni-transfer-noah-saviola-da-trabzonda-43230022"
         },
         {
-          "title": "Galatasaray'dan ayrıldı, Fenerbahçe'ye imza attı!",
-          "summary": "Fenerbahçe, Galatasaray altyapısında forma giyen 18 yaşındaki sol kanat oyuncusu Yiğit Çolak ile sözleşme imzaladığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-ayrildi-fenerbahceye-imza-atti-43229474"
+          "title": "Trabzonspor'un yeni transferi Malinovskyi, Trabzon'da! İşte ilk sözleri...",
+          "summary": "Trabzonspor'un İtalya Serie A ekiplerinden Genoa'dan kadrosuna kattığı Ukraynalı orta saha oyuncusu Ruslan Malinovskyi, yeni sezon hazırlıkları öncesinde Trabzon'a geldi. Deneyimli futbolcu, Trabzon Havalimanı'nda kulüp yetkilileri ve bordo-mavili taraftarlar tarafından çiçeklerle karşılandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yeni-transferi-malinovskyi-trabzonda-iste-ilk-sozleri-43229990"
         },
         {
-          "title": "Brezilya’nın maçlarında toplam 2-3 gol çıkıyor! Meksika’nın bileği bükülmüyor…İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/brezilyanin-maclarinda-toplam-2-3-gol-cikiyor-meksikanin-bilegi-bukulmuyor-iste-misliden-gunun-tuyolari-43229467"
+          "title": "Beşiktaş, İlhan Fakılı'yı resmen açıkladı!",
+          "summary": "Beşiktaş, Clermont forması giyen İlhan Fakılı ile 4 yıllık sözleşme imzaladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ilhan-fakiliyi-resmen-acikladi-43229974"
         },
         {
-          "title": "Ergin Ataman, A Milli Basketbol Takımı'nda 'dalya' diyecek",
-          "summary": "A Milli Erkek Basketbol Takımı Başantrenörü Ergin Ataman, ay-yıldızlı ekibin başında 100. maçına çıkacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ergin-ataman-a-milli-basketbol-takiminda-dalya-diyecek-43229439"
+          "title": "Fenerbahçe, ikinci etap çalışmaları için Avusturya’da",
+          "summary": "Yeni sezon hazırlıklarının ilk bölümünü Topuk Yaylası Tesisleri'nde tamamlayan Fenerbahçe, ikinci etap çalışmaları için Avusturya’ya gitti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ikinci-etap-calismalari-icin-avusturyada-43229970"
         },
         {
-          "title": "Fenerbahçe'de Diego Carlos gelişmesi! Kulüpten resmi açıklama geldi",
-          "summary": "Fenerbahçe'de sezon öncesi sağlık kontrollerine katılmayan ve hakkında notere tutanak tutturulan Diego Carlos, sağlık kontrolleri ve kamp için İstanbul'a geliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-diego-carlos-gelismesi-kulupten-resmi-aciklama-geldi-43229376"
+          "title": "Kırmızı kart gören Balogun, Belçika maçında oynayacak!",
+          "summary": "Kırmızı kart gören ABD'li futbolcu Balogun, Belçika karşısında forma giyebilecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kirmizi-kart-goren-balogun-belcika-macinda-oynayacak-43229956"
         },
         {
-          "title": "Paraguay hocası Fransa maçı sonrası patladı! 'Kızının hayatını kurtarmak için formasını sattı'",
-          "summary": "Paraguay Teknik Direktörü Gustavo Alfaro, Dünya Kupası'na veda ettikleri Fransa yenilgisi sonrası dikkat çeken açıklamalarda bulundu. Alfaro, Mbappe'ye tepki gösterirken oyuncularının yaşadığı zorluklara değindi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/paraguay-hocasi-fransa-maci-sonrasi-patladi-kizinin-hayatini-kurtarmak-icin-formasini-satti-43229346"
+          "title": "Safranbolu Ultra Trail’de ödüller sahiplerini buldu",
+          "summary": "İlki düzenlenen SAFRUN 10 ülkeden 550 sporcuyu ağırladı",
+          "source": "https://www.hurriyet.com.tr/sporarena/safranbolu-ultra-trailde-oduller-sahiplerini-buldu-43229913"
         }
       ]
     },
