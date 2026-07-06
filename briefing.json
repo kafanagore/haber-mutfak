@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-06T04:00:03.858Z",
+  "generatedAt": "2026-07-06T10:00:03.501Z",
   "categories": {
     "gundem": {
-      "text": "Osmaniye'deki düğün kavgasında kan döküldü. Bursa'da korkutan yangın! Geri dönüşüm tesisi alevlere teslim oldu. Çorum'da 50 kişi düğün yemeğinden zehirlendi. Genç kadının şüpheli ölümü. 5'inci kattan düştü. Düğünde kan aktı. 1 ölü, 6 yaralı. Kazada yaralanan sürücüye ilk kontrolü doktor babası yaptı. Siverek'te otomobil koyun sürüsüne daldı: 3 kişi yaralandı, 11 koyun telef oldu.",
+      "text": "Ekrem İmamoğlu 3 davada hakim karşısında. Casusluk davasında savcıdan ara mütalaa, diploma davasında erteleme. Arnavutköy’de kuaförden ücret ödemeden kaçan kadın kameralara yakalandı. New York'ta TCG Oruçreis rüzgarı. NATO'ya özel Togg limuzin. Şanlıurfa’da boş arazide bulunan cesedin sırrı çözüldü: Uyuşturucu kuryesi çıktı. AK Parti Sözcüsü Çelik'ten Zihni Göktay'ın ailesine taziye mesajı. İletişim Başkanı Duran, NATO Zirvesi öncesi uluslararası basın mensuplarıyla buluştu.",
       "items": [
         {
-          "title": "Osmaniye'deki düğün kavgasında kan döküldü",
-          "summary": "Osmaniye'de düğün salonunda iki grup arasında çıkan ve salonun dışına taşan silahlı kavgada tüfekle vurulan 22 yaşındaki Hüseyin Gönül hayatını kaybetti, 6 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/osmaniyedeki-dugun-kavgasinda-kan-dokuldu-43230100"
+          "title": "Ekrem İmamoğlu 3 davada hakim karşısında. Casusluk davasında savcıdan ara mütalaa, diploma davasında erteleme",
+          "summary": "Ekrem İmamoğlu bugün İBB, casusluk ve diploma davasında hakim karşısına çıkıyor. İmamoğlu, ilk olarak sahte diploma davasına katıldı ve dava 25 Aralık'a ertelendi. Casusluk davasında ise savcı mütalaasını vererek İmamoğlu ve 3 sanığın tutukluluğunun devamını istedi. DİPLOMA DAVASI 23 Mart 2025'te tutuklanarak Silivri Cezaevi'ne gönderilen ve İçişleri Bakanlığı tarafından İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu bugün yargılandığı üç ayrı davada hakim karşısına çıkıyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ekrem-imamoglu-3-davada-hakim-karsina-cikacak-1731630"
         },
         {
-          "title": "Bursa'da korkutan yangın! Geri dönüşüm tesisi alevlere teslim oldu",
-          "summary": "Bursa'da faaliyet gösteren bir geri dönüşüm tesisinde yangın çıktı. Geceyi aydınlatan alevlerle ekiplerin yoğun mücadelesi kameraya yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursada-korkutan-yangin-geri-donusum-tesisi-alevlere-teslim-oldu-43230098"
+          "title": "Arnavutköy’de kuaförden ücret ödemeden kaçan kadın kameralara yakalandı",
+          "summary": "Yunus Emre Mahallesi’nde bir kadın kuaförde yaptırdığı yaklaşık 3 bin 400 liralık işlemin ardından ödeme yapmadan iş yerinden kaçtı. O anlar güvenlik kameralarına saniye saniye yansırken, işletme sahibi aynı kişinin benzer yöntemle başka esnafı da mağdur ettiğini belirterek meslektaşlarını uyardı.",
+          "source": "https://www.hurriyet.com.tr/gundem/arnavutkoyde-kuaforden-ucret-odemeden-kacan-kadin-kameralara-yakalandi-43230545"
         },
         {
-          "title": "Çorum'da 50 kişi düğün yemeğinden zehirlendi",
-          "summary": "Çorum'da bir düğün salonunda ikram edilen yemekten zehirlendikleri değerlendirilen, aralarında çocukların da bulunduğu yaklaşık 50 kişi hastanelik oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/corumda-50-kisi-dugun-yemeginden-zehirlendi-43230097"
+          "title": "New York'ta TCG Oruçreis rüzgarı",
+          "summary": "Türk Deniz Kuvvetleri Komutanlığı'na bağlı TCG Oruçreis, ABD'nin 250'nci kuruluş yıl dönümü kapsamında düzenlenen uluslararası kutlamalara katılmak üzere New York'ta limanını ziyaret etti. TCG Oruçreis, New York'ta 4 Temmuz'da düzenlenen \"International Naval Review ve Parade of Sail\" etkinliklerine katılmak üzere ABD'ye geldi. Deniz etkinliklerine 20’den fazla ülkeden askeri ve tarihi gemiler katılırken, toplam 176 mürettebatıyla TCG Oruçreis de kutlamalarda Türkiye’yi temsil etti.",
+          "source": "https://www.ntv.com.tr/turkiye/new-yorkta-tcg-orucreis-ruzgari-1731668"
         },
         {
-          "title": "Genç kadının şüpheli ölümü. 5'inci kattan düştü",
-          "summary": "Manisa'da şüpheli şekilde 5'inci kattaki evinin balkonundan düşen 30 yaşındaki İlayda T., hayatını kaybetti. Şüpheli şekilde yüksekten düşerek hayatını kaybeden kadınlara bir yenisi daha eklendi. Olay dün Şehzadeler ilçesinde meydana geldi. Peker Mahallesi'nde 5 katlı apartmanın son katında ikamet eden 30 yaşındaki İlayda T., henüz belirlenemeyen bir nedenle evinin balkonundan zemine düştü. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/genc-kadinin-supheli-olumu-5inci-kattan-dustu-1731603"
+          "title": "NATO'ya özel Togg limuzin",
+          "summary": "36'ncı NATO Liderler Zirvesi için özel hazırlanan Togg T10X'in limuzin modeli ulaşımda kullanılacak. Tam elektrikli yapıya sahip olan ve tek motorla çalışan 8 kişilik araçlar, yaklaşık 50 kilometre hızla hizmet verecek. Ankara'da 36'ncı NATO Devlet ve Hükümet Başkanları Zirvesi kapsamında hazırlıklar tam gaz devam ediyor. Zirveye özel olarak 10 adet Togg T10X'in limuzin modeli özel hazırlandı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-natoya-ozel-togg-limuzin-1731663"
         },
         {
-          "title": "Düğünde kan aktı. 1 ölü, 6 yaralı",
-          "summary": "Osmaniye'de düğün salonunda iki grup arasında çıkan ve salonun dışına taşan kavgada tüfekle vurulan 22 yaşındaki genç hayatını kaybetti, 6 kişi yaralandı. Osmaniye Fakıuşağı Mahallesi'ndeki düğün salonunda akşam saatlerinde düzenlenen düğün töreninde iki grup arasında henüz belirlenemeyen bir nedenle başlayan tartışma kısa sürede kavgaya dönüştü. Olay düğün salonunun dışına taştı. Henüz kimin kullandığı belirlenemeyen tüfekle açılan ateş sonucu 7 kişi yaralandı.",
-          "source": "https://www.ntv.com.tr/turkiye/dugunde-kan-akti-1-olu-6-yarali-1731602"
+          "title": "Şanlıurfa’da boş arazide bulunan cesedin sırrı çözüldü: Uyuşturucu kuryesi çıktı",
+          "summary": "Eyyübiye ilçesinde battaniyeye sarılı halde ölü bulunan İran uyruklu Omid Lotfipour’un uyuşturucu kuryesi olduğu belirlendi. Polis kontrol noktasından kaçarak sığındığı boş arazide geceleyen Lotfipour'un, midesinde taşıdığı uyuşturucu kapsüllerinden birinin patlaması sonucu yaşamını yitirdiği tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sanliurfada-bos-arazide-bulunan-cesedin-sirri-cozuldu-uyusturucu-kuryesi-cikti-43230504"
         },
         {
-          "title": "Kazada yaralanan sürücüye ilk kontrolü doktor babası yaptı",
-          "summary": "Bursa'nın İnegöl ilçesinde kontrolden çıkarak refüje çarpan otomobilin sürücüsü yaralandı. Kazayı haber alarak olay yerine gelen doktor baba, oğlunun sağlık durumunu kontrol edip teselli etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/kazada-yaralanan-surucuye-ilk-kontrolu-doktor-babasi-yapti-43230077"
+          "title": "AK Parti Sözcüsü Çelik'ten Zihni Göktay'ın ailesine taziye mesajı",
+          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, 81 yaşında hayatını kaybeden tiyatro sanatçısı Zihni Göktay'ın ailesine baş sağlığı diledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-zihni-goktayin-ailesine-taziye-mesaji-43230506"
         },
         {
-          "title": "Siverek'te otomobil koyun sürüsüne daldı: 3 kişi yaralandı, 11 koyun telef oldu",
-          "summary": "Şanlıurfa'nın Siverek ilçesinde otomobilin karayolundaki koyun sürüsüne çarpması sonucu meydana gelen kazada 3 kişi yaralandı, 11 küçükbaş hayvan telef oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/siverekte-otomobil-koyun-surusune-daldi-3-kisi-yaralandi-11-koyun-telef-oldu-43230075"
+          "title": "İletişim Başkanı Duran, NATO Zirvesi öncesi uluslararası basın mensuplarıyla buluştu",
+          "summary": "İletişim Başkanı Burhanettin Duran, NATO Liderler Zirvesi öncesi uluslararası basın mensuplarıyla bir araya geldi. Duran, \"Bu denli kritik bir zirvenin dünya kamuoyuna eksiksiz aktarılmasında siz değerli basın mensuplarının rolü hayati önem taşıyor. Türkiye Cumhuriyeti İletişim Başkanlığı olarak, tüm profesyonel beklentilerinizi en üst düzeyde karşılamak için tüm imkanlarımızı seferber ettik. Bu yoğun süreç boyunca sizlere mümkün olan en iyi çalışma ortamını sunmayı arzu ediyoruz.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-nato-zirvesi-oncesi-uluslararasi-basin-mensuplariyla-bulustu-43230486"
         }
       ]
     },
     "dunya": {
-      "text": "Telefon şakası Yunan hükümetini sarstı. Venezuela'da bilanço ağırlaşıyor. Can kaybı 3 bin 342’ye yükseldi. Güney Kıbrıs'ta saldırı. Kıbrıs Türkü ağır yaralı. Venezuela’daki depremlerde ölü sayısı 3 bin 342’ye yükseldi. Trump’ın 1,5 milyon dolarlık ''canavar'' aracı depoyu Ankara'da doldurdu. Louvre’dan sonra Lalique. Fransa’da bir müzede daha mücevher soygunu gerçekleşti. Trump'ın Ankara programı netleşiyor. Zelenski ve Şara ile de görüşecek.",
+      "text": "İngiliz Kraliyet'i yine karıştı, Prens Harry tepkili. \"Son anda vazgeçtiler\". Fransa ve İspanya sınırında orman yangını: 10 bin tahliye. Ahmedinejad ve Kaani yeniden ortaya çıktı: Dünyayı şoke eden görüntüler! ABD ve İsrail'e sert mesaj. Fransa'da ünlü sanatçı Lalique'in milyonlarca avroluk eserleri çalındı. Sri Lanka'da cezaevinde isyan: 7 kişi hayatını kaybetti. NASA Başkanı Isaacman F-5 uçurdu. Dünyada Türkiye rüzgarı: Ankara, NATO Zirvesi'nde belirleyici güç konumunda.",
       "items": [
         {
-          "title": "Telefon şakası Yunan hükümetini sarstı",
-          "summary": "Yunanistan'da Ulusal Güvenlik Genel Sekreteri Thanos Dokos, kendilerini Ukraynalı yetkililer olarak tanıtan Rus komedyenlerin telefon şakasının hedefi oldu. Muhalefet partileri hükümeti eleştirdi. Yunanistan'ın kritik güvenlik bilgilerine sahip Ulusal Güvenlik Genel Sekreteri Thanos Dokos, kendilerini Ukraynalı yetkililer olarak tanıtan Rus komedyenlerin telefon şakası tuzağına düştü.",
-          "source": "https://www.ntv.com.tr/dunya/telefon-sakasi-yunan-hukumetini-sarsti-1731607"
+          "title": "İngiliz Kraliyet'i yine karıştı, Prens Harry tepkili. \"Son anda vazgeçtiler\"",
+          "summary": "Prens Harry'nin bu hafta Londra ziyareti sırasında Buckingham Sarayı'nda kalacağı yönündeki açıklamanın ardından saraydan yalanlama geldi. Taraflar, konaklama teklifinin kabul edilip edilmediği konusunda birbirini suçluyor. İngiltere Prensi Harry, bu hafta gerçekleştireceği Londra ziyaretinin bir bölümünü Buckingham Sarayı'nda geçireceği açıklandı. Sussex Dükü'nün sözcüsü, Harry'nin Buckingham Sarayı'nda konaklaması için yapılan resmi daveti kabul ettiğini doğruladı.",
+          "source": "https://www.ntv.com.tr/dunya/ingiliz-kraliyeti-yine-karisti-prens-harry-tepkili-son-anda-vazgectiler-1731657"
         },
         {
-          "title": "Venezuela'da bilanço ağırlaşıyor. Can kaybı 3 bin 342’ye yükseldi",
-          "summary": "Venezuela'da, 24 Haziran'da meydana gelen iki büyük depremde hayatını kaybedenlerin sayısı 3 bin 342’ye yükseldi. Venezuela’da 24 Haziran’da 39 saniye arayla meydana gelen 7.2 ve 7.5 büyüklüğündeki depremlerin bilançosu her geçen dakika daha da ağırlaşıyor. İletişim ve Enformasyon Bakanlığı, depremlerde hayatını kaybedenlerin sayısının 3 bin 342’ye, yaralananların sayısının ise 16 bin 740’a ulaştığını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/venezuelada-bilanco-agirlasiyor-can-kaybi-3-bin-342ye-yukseldi-1731606"
+          "title": "Fransa ve İspanya sınırında orman yangını: 10 bin tahliye",
+          "summary": "Güneybatı Fransa'da kontrolden çıkan orman yangını nedeniyle İspanya sınırına yakın yirmi kasaba ve köyden 10 bin kişi tahliye edildi. Fransa'nın güneybatısında kontrolden çıkan ve hızla yayılan orman yangını, İspanya sınırına yakın yirmi küçük kasaba ve köyde yaşayan 10 bin kişinin evlerini terk etmesine yol açtı. Yetkililer, bugün etkili olan güçlü rüzgarların alevleri daha da yayabileceği yönünde uyarılarda bulunuyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-ispanya-sinirinda-orman-yangini-10-bin-tahliye-1731666"
         },
         {
-          "title": "Güney Kıbrıs'ta saldırı. Kıbrıs Türkü ağır yaralı",
-          "summary": "Kıbrıslı Türk Ahmet Tan, Güney Kıbrıs Rum Yönetimi'nin turistik bölgesinde saldırıya uğradı. Ağır yaralı olarak hastaneye kaldırılan KKTC vatandaşının hayati tehlikesi sürüyor. Güney Kıbrıs Rum Yönetimi'nin (GKRY) turistik kenti Aya Napa’da 47 yaşındaki Ahmet Tan adlı KKTC vatandaşı, kimliği belirsiz kişi veya kişilerin saldırısına uğradı. Rum basınında yer alan haberlerde, yerel saatle 06.00 sıralarında Ayias Mavris Caddesi’nde ağır yaralı halde bulunan kişinin Kıbrıs Türkü olduğu ve ağır yaralandığı aktarıldı.",
-          "source": "https://www.ntv.com.tr/dunya/guney-kibrista-saldiri-kibris-turku-agir-yarali-1731604"
+          "title": "Ahmedinejad ve Kaani yeniden ortaya çıktı: Dünyayı şoke eden görüntüler! ABD ve İsrail'e sert mesaj",
+          "summary": "ABD ve İsrail ile savaşın başlamasından bu yana haklarında ülkeye ihanet ettikleri, öldürüldükleri ya da kaçtıkları iddiaları ortaya atılan eski İran Cumhurbaşkanı Mahmud Ahmedinejad ve Kudüs Gücü Komutanı İsmail Kaani, Ali Hamaney'in cenaze töreninde görüntülendi. Savaşın başlamasından bu yana ilk kez kamuoyu karşısına çıkan İsmail Kaani, \"direniş ekseninin\" güçlendiğini belirterek, ABD ve İsrail'e meydan okudu. Kaani, Hizbullah'ın yenilemeyeceğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/ahmedinejad-ve-kaani-yeniden-ortaya-cikti-dunyayi-soke-eden-goruntuler-abd-ve-israile-sert-mesaj-43230436"
         },
         {
-          "title": "Venezuela’daki depremlerde ölü sayısı 3 bin 342’ye yükseldi",
-          "summary": "Venezuela İletişim ve Enformasyon Bakanlığı’ndan yapılan açıklamada, ülkede 24 Haziran’da meydana gelen depremlerde hayatını kaybedenlerin sayısının 3 bin 342’ye, yaralananların sayısının ise 16 bin 740’a ulaştığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/venezueladaki-depremlerde-olu-sayisi-3-bin-342ye-yukseldi-43230096"
+          "title": "Fransa'da ünlü sanatçı Lalique'in milyonlarca avroluk eserleri çalındı",
+          "summary": "Fransa'nın kuzeydoğusundaki Bas-Rhin vilayetinde bulunan müzeye giren hırsızlar, eşsiz eserlerin sergilendiği bölümleri tahrip ederek ünlü mücevher ustası Rene Lalique'in işlediği milyonlarca avroluk mücevheri çaldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-unlu-sanatci-laliquein-milyonlarca-avroluk-eserleri-calindi-43230327"
         },
         {
-          "title": "Trump’ın 1,5 milyon dolarlık ''canavar'' aracı depoyu Ankara'da doldurdu.",
-          "summary": "ABD Başkanı Donald Trump’ın NATO Liderler Zirvesi’nde kullanacağı konvoydaki araçlar Ankara’ya getirildi. 1,5 milyon dolarlık Cadillac, deposunu doldururken görüntülendi. Türkiye'deki NATO zirvesine katılacak olan ABD Başkanı Donald Trump'ın aracı Ankara'da bir benzinlikte görüntülendi. Trump’ın kullandığı başkanlık aracı kamuoyunda “The Beast”, yani “Canavar” olarak biliniyor. Resmi adı genellikle Cadillac One ya da ABD Başkanlık Devlet Aracı diye geçiyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trumpin-15-milyon-dolarlik-canavar-araci-depoyu-ankarada-doldurdu-1731594"
+          "title": "Sri Lanka'da cezaevinde isyan: 7 kişi hayatını kaybetti",
+          "summary": "Sri Lanka'da bir cezaevinde çıkan ayaklanma sonucu 7 kişinin yaşamını yitirdiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/sri-lankada-cezaevinde-isyan-7-kisi-hayatini-kaybetti-43230326"
         },
         {
-          "title": "Louvre’dan sonra Lalique. Fransa’da bir müzede daha mücevher soygunu gerçekleşti",
-          "summary": "Fransız lüks cam üreticisi Lalique’in müzesinde pazar günü düzenlenen soygunda milyonlarca euro değerinde mücevher çalındı. Şirket ve soruşturmaya yakın bir kaynağın aktardığına göre, Fransa’nın kuzeydoğusundaki Wingen-sur-Moder kentinde bulunan Lalique Müzesi’ne sabah saat 05.30 sıralarında giren kişi ya da kişiler, doğrudan mücevher odasına yöneldi. Soruşturmaya yakın kaynak, “Yaklaşık 20 parça mücevher çalındı.",
-          "source": "https://www.ntv.com.tr/dunya/louvredan-sonra-lalique-fransada-bir-muze-de-daha-mucevher-soygunu-1731591"
+          "title": "NASA Başkanı Isaacman F-5 uçurdu",
+          "summary": "ABD Ulusal Havacılık ve Uzay Dairesi (NASA) Başkanı Jared Isaacman, ABD'nin 250. kuruluş yılı kutlamaları kapsamında başkent Washington'da düzenlenen hava gösterisine katıldı. Federal Havacılık İdaresinin (FAA) güvenlik gerekçesiyle izin vermediği Isaacman, uyarılara rağmen \"Northrop F-5 Tiger II\" savaş uçağı kullandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/nasa-baskani-isaacman-f-5-ucurdu-43230317"
         },
         {
-          "title": "Trump'ın Ankara programı netleşiyor. Zelenski ve Şara ile de görüşecek",
-          "summary": "ABD Başkanı Donald Trump’ın Ankara’da düzenlenecek NATO Zirvesi görüşmeleri sonrası Ukrayna Devlet Başkanı Volodimir Zelenski ve Suriye Cumhurbaşkanı Ahmed Şara ile de bir araya geleceği bildirildi. Beyaz Saray Baş Basın Sözcü Yardımcısı Anna Kelly, ABD’nin NATO nezdindeki Büyükelçisi Matt Whitaker ile birlikte telekonferans yöntemiyle düzenlenen basın toplantısında, Ankara ziyaretiyle ilgili bazı yeni bilgiler paylaştı.",
-          "source": "https://www.ntv.com.tr/dunya/trumpin-ankara-programi-netlesiyor-zelenski-ve-sara-ile-de-gorusecek-1731592"
+          "title": "Dünyada Türkiye rüzgarı: Ankara, NATO Zirvesi'nde belirleyici güç konumunda",
+          "summary": "Ankara, 7-8 Temmuz tarihlerinde düzenlenecek NATO Zirvesi'nde ittifak içindeki stratejik ağırlığını pekiştirmeye hazırlanıyor. Dünya basını, Türkiye'nin gelişen savunma sanayisi ve Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump arasındaki yakın ilişki sayesinde NATO'daki konumunun güçlendiğine dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/dunya/dunyada-turkiye-ruzgari-ankara-nato-zirvesinde-belirleyici-guc-konumunda-43230225"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı. Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum. Türkiye’nin bamya ambarı. Türk kirazı tek yön Çin bileti peşinde.",
+      "text": "Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı. Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum. Türkiye’nin bamya ambarı.",
       "items": [
+        {
+          "title": "Depozito makineleri Söke’de de hizmette",
+          "summary": "Türkiye genelinde 1 Temmuz’da başlayan “Depozito Yönetim Sistemi” kapsamında DOA makineleri, Aydın Söke’de de hizmet vermeye başladı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/depozito-makineleri-sokede-de-hizmette-43230103"
+        },
         {
           "title": "Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım",
           "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye-Pakistan İş ve Yatırım Forumu'nda iki ülkenin iş dünyası temsilcileriyle bir araya geldiğini belirterek, \"Karşılıklı yatırımları artıracak, sanayi, teknoloji ve inovasyon alanlarında yeni işbirlikleriyle müşterek geleceğimizi birlikte inşa etmeye devam edeceğiz.\" ifadesini kullandı.",
@@ -115,57 +120,57 @@
           "title": "Türkiye’nin bamya ambarı",
           "summary": "AYDIN Koçarlı’da 3 bin 500 dekarlık alanda üretilen ve Türkiye’nin birçok iline gönderilen bamyada hasat dönemi başladı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/turkiyenin-bamya-ambari-43224613"
-        },
-        {
-          "title": "Türk kirazı tek yön Çin bileti peşinde",
-          "summary": "Türkiye, 1.4 milyon dekar alanda yıllık 700 bin ton kiraz üretimiyle dünya lideri konumunda. Kiraz üretimindeki gücünü dış pazara yansıtmak isteyen Türkiye, Çin Halk Cumhuriyeti’ne kiraz ihracatının başlaması için kritik bir eşikte.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/turk-kirazi-tek-yon-cin-bileti-pesinde-43224611"
         }
       ]
     },
     "spor": {
-      "text": "Brezilya elendi, Neymar gözyaşlarına boğuldu!. Yeni transfer Noah Saviola da Trabzon'da!. Trabzonspor'un yeni transferi Malinovskyi, Trabzon'da! İşte ilk sözleri... Beşiktaş, İlhan Fakılı'yı resmen açıkladı!. Fenerbahçe, ikinci etap çalışmaları için Avusturya’da. Kırmızı kart gören Balogun, Belçika maçında oynayacak!. Safranbolu Ultra Trail’de ödüller sahiplerini buldu.",
+      "text": "Vinicius Junior'dan penaltı açıklaması: 'Kararı Ancelotti verdi!'. Beşiktaş'tan sonra Fenerbahçe de devrede! Golcünün bonservisi belli oldu. Galatasaray yeni sezonu açıyor. Novak Djokovic'ten yeni rekor! Roger Federer'i geride bıraktı. A Milliler, İsviçre'yi ağırlıyor! Maçın heyecanı canlı yayın ile Misli'de. Luis de la Fuente'den Ronaldo açıklaması!. ABD, Belçika karşısında! Dünya Kupası heyecanı canlı sohbet ile Misli'de.",
       "items": [
         {
-          "title": "Brezilya elendi, Neymar gözyaşlarına boğuldu!",
-          "summary": "Brezilya'nın Norveç'e 2-0 yenilerek FIFA 2026 Dünya Kupası'na veda ettiği maçın ardından Neymar, duygusal anlar yaşandı. Son düdüğün ardından gözyaşlarına boğulan yıldız futbolcuyu takım arkadaşları teselli etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/brezilya-elendi-neymar-gozyaslarina-boguldu-43230072"
+          "title": "Vinicius Junior'dan penaltı açıklaması: 'Kararı Ancelotti verdi!'",
+          "summary": "FIFA 2026 Dünya Kupası Son 16 Turu'nda Norveç, Brezilya'yı Erling Haaland'ın golleriyle 2-1 mağlup ederek çeyrek finale çıktı. Sambacılar ise turnuvaya veda etti. Vinicius Junior karşılaşma sonrası açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vinicius-juniordan-penalti-aciklamasi-karari-ancelotti-verdi-43230481"
         },
         {
-          "title": "Yeni transfer Noah Saviola da Trabzon'da!",
-          "summary": "Trabzonspor, Ruslan Malinovskyi ardından ardından yeni transferlerinden bir ismi daha Trabzon'a getirdi. Bordo-mavililerin bonservis bedeliyle kulüp tarihinin en pahalı transferlerinden biri olan Portekizli kanat oyuncusu Noah Saviola, yeni sezon hazırlıkları öncesinde Trabzon'a geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/yeni-transfer-noah-saviola-da-trabzonda-43230022"
+          "title": "Beşiktaş'tan sonra Fenerbahçe de devrede! Golcünün bonservisi belli oldu",
+          "summary": "Süper Lig'in 2 devi Beşiktaş ve Fenerbahçe, yeşil sahaların ardından bu kez de transferde rakip oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-sonra-fenerbahce-de-devrede-golcunun-bonservisi-belli-oldu-43230355"
         },
         {
-          "title": "Trabzonspor'un yeni transferi Malinovskyi, Trabzon'da! İşte ilk sözleri...",
-          "summary": "Trabzonspor'un İtalya Serie A ekiplerinden Genoa'dan kadrosuna kattığı Ukraynalı orta saha oyuncusu Ruslan Malinovskyi, yeni sezon hazırlıkları öncesinde Trabzon'a geldi. Deneyimli futbolcu, Trabzon Havalimanı'nda kulüp yetkilileri ve bordo-mavili taraftarlar tarafından çiçeklerle karşılandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yeni-transferi-malinovskyi-trabzonda-iste-ilk-sozleri-43229990"
+          "title": "Galatasaray yeni sezonu açıyor",
+          "summary": "Galatasaray Futbol Takımı, 2026-2027 sezonu hazırlıklarına yarın başlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-yeni-sezonu-aciyor-43230460"
         },
         {
-          "title": "Beşiktaş, İlhan Fakılı'yı resmen açıkladı!",
-          "summary": "Beşiktaş, Clermont forması giyen İlhan Fakılı ile 4 yıllık sözleşme imzaladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ilhan-fakiliyi-resmen-acikladi-43229974"
+          "title": "Novak Djokovic'ten yeni rekor! Roger Federer'i geride bıraktı",
+          "summary": "Novak Djokovic, Wimbledon Tenis Turnuvası'nda kariyerine yeni bir rekor ekledi. Sırp tenisçi, Wimbledon'da 106'ncı maçını kazanarak Roger Federer'in rekorunu kırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/novak-djokovicten-yeni-rekor-roger-federeri-geride-birakti-43230374"
         },
         {
-          "title": "Fenerbahçe, ikinci etap çalışmaları için Avusturya’da",
-          "summary": "Yeni sezon hazırlıklarının ilk bölümünü Topuk Yaylası Tesisleri'nde tamamlayan Fenerbahçe, ikinci etap çalışmaları için Avusturya’ya gitti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ikinci-etap-calismalari-icin-avusturyada-43229970"
+          "title": "A Milliler, İsviçre'yi ağırlıyor! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "A Milli Erkek Basketbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri 1. Tur C Grubu'ndaki 6. ve son maçında İsviçre'yi ağırlıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milliler-isvicreyi-agirliyor-macin-heyecani-canli-yayin-ile-mislide-43230382"
         },
         {
-          "title": "Kırmızı kart gören Balogun, Belçika maçında oynayacak!",
-          "summary": "Kırmızı kart gören ABD'li futbolcu Balogun, Belçika karşısında forma giyebilecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kirmizi-kart-goren-balogun-belcika-macinda-oynayacak-43229956"
+          "title": "Luis de la Fuente'den Ronaldo açıklaması!",
+          "summary": "2026 FIFA Dünya Kupası son 16 turunda yarın Portekiz'le karşılaşacak İspanya'da teknik direktör Luis de la Fuente, Portekizli futbolcu Cristiano Ronaldo'nun çok önemli bir isim olduğunu belirterek \"Biz kendi maçımızı oynamaya çalışacağız, onlardan ve Cristiano'dan üstün olmaya çalışacağız.\" açıklamasını yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/luis-de-la-fuenteden-ronaldo-aciklamasi-43230364"
         },
         {
-          "title": "Safranbolu Ultra Trail’de ödüller sahiplerini buldu",
-          "summary": "İlki düzenlenen SAFRUN 10 ülkeden 550 sporcuyu ağırladı",
-          "source": "https://www.hurriyet.com.tr/sporarena/safranbolu-ultra-trailde-oduller-sahiplerini-buldu-43229913"
+          "title": "ABD, Belçika karşısında! Dünya Kupası heyecanı canlı sohbet ile Misli'de",
+          "summary": "FIFA Dünya Kupası Son 16 Turu’nda turnuvanın ev sahiplerinden ABD, Belçika ile karşılaşıyor. Maçın heyecanı canlı sohbet ile Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/abd-belcika-karsisinda-dunya-kupasi-heyecani-canli-sohbet-ile-mislide-43230365"
         }
       ]
     },
     "teknoloji": {
-      "text": "Microsoft’tan 2,5 milyar dolarlık yeni YZ hamlesi. Laboratuvarda kara delik oluşturdular. ABD'den yörüngede “Top Gun” denemesi. Almanya’dan 5,7 milyar dolarlık dev çip fabrikası. ‘Yapay zekâ okuryazarlığı bir gelecek becerisi’. Ceza İnfaz Kurumları ile teknolojik yenilik protokolü. iPhone 18'in test fotoğrafları sızdırıldı.",
+      "text": "Evrenin bebeklik döneminden gelen ışık keşfedildi. Microsoft’tan 2,5 milyar dolarlık yeni YZ hamlesi. Laboratuvarda kara delik oluşturdular. ABD'den yörüngede “Top Gun” denemesi. Almanya’dan 5,7 milyar dolarlık dev çip fabrikası. ‘Yapay zekâ okuryazarlığı bir gelecek becerisi’. Ceza İnfaz Kurumları ile teknolojik yenilik protokolü.",
       "items": [
+        {
+          "title": "Evrenin bebeklik döneminden gelen ışık keşfedildi",
+          "summary": "Avrupa Uzay Ajansı'nın Euclid Uzay Teleskobu, şimdiye kadar keşfedilen en yaşlı iki kuasarı tespit etti. Bu kuasarlardan Dünya'ya ulaşan ışığın, evren yalnızca yaklaşık 670 milyon yaşındayken yayıldığı hesaplandı. Avrupa Uzay Ajansı'nın (ESA) Euclid Uzay Teleskobu, şimdiye kadar gözlemlenen en yaşlı kuasarları tespit etti. Bilim insanları, keşfin süper kütleli kara deliklerin nasıl bu kadar kısa sürede oluştuğuna dair gizemi daha da derinleştirdiğini belirtiyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/evrenin-bebeklik-doneminden-gelen-isik-kesfedildi-1731637"
+        },
         {
           "title": "Microsoft’tan 2,5 milyar dolarlık yeni YZ hamlesi",
           "summary": "Microsoft, şirketlerin yapay zekâ teknolojilerini iş süreçlerine daha hızlı ve verimli şekilde entegre edebilmesi için yeni bir şirket kurduğunu açıkladı. “Microsoft Frontier Company” adı verilen yeni yapı, 2,5 milyar dolarlık başlangıç fonuyla yola çıkacak ve büyük kurumlara hangi YZ modelinin hangi iş için daha uygun olduğunu belirleme konusunda destek verecek.",
@@ -195,11 +200,6 @@
           "title": "Ceza İnfaz Kurumları ile teknolojik yenilik protokolü",
           "summary": "Yaklaşık yedi yıl önce başlatılan Akıllı Teknolojilerin Ceza İnfaz Kurumlarına Entegrasyonu Projesi’nin (ACEP) ardından, Türk Telekom CEO’su Ebubekir Şahin ile Ceza ve Tevkifevleri Genel Müdürü Çelebi Yılmaz arasında teknolojik yeniliklere yönelik yeni bir protokol daha imzalandı.",
           "source": "https://www.hurriyet.com.tr/teknoloji/ceza-infaz-kurumlari-ile-teknolojik-yenilik-protokolu-43227959"
-        },
-        {
-          "title": "iPhone 18'in test fotoğrafları sızdırıldı",
-          "summary": "Apple’ın Hindistan’daki üreticisinin hacklenmesi sonrası henüz tanıtılmamış iPhone 18 Pro’nun test fotoğrafları sızdırıldı. Apple’ın, üretim ağını Çin dışına taşıyarak riskleri dağıtmak için Hindistan’da yürüttüğü operasyonlar büyük bir siber skandalla sarsıldı. Şirketin ülkedeki en büyük üretim ortağı Tata Electronics, \"World Leaks\" adlı fidye yazılımı grubunun saldırısına uğradı. Henüz tanıtılmamış iPhone 18 Pro modeline ait 630 GB boyutundaki 200 bin dosya, direkt dark web'de ifşa edildi.",
-          "source": "https://www.ntv.com.tr/teknoloji/iphone-18in-test-fotograflari-sizdirildi-1731284"
         }
       ]
     },
