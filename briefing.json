@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-09T04:00:03.886Z",
+  "generatedAt": "2026-07-10T04:00:04.887Z",
   "categories": {
     "gundem": {
-      "text": "Silahlı saldırı şüphelisi polisten kaçarken tırın altında kaldı. Vücuduna yapışan keneyi kendi çıkardı, 4 gün sonra öldü. Bodrum'da korkutan yangın... Alevlerle mücadele sürüyor. Çocuk parkında boşandığı kadını katletti, 4 yaşındaki kızını yaraladı. Kabine üyelerinden NATO Zirvesi paylaşımları. İzlanda Başbakanı Frostadottir, Ankara Kalesi'ni gezdi. Cumhurbaşkanı Erdoğan: Daha güçlü bir NATO'nun temelini Ankara'da attık.",
+      "text": "KKTC'den Avrupa Parlamentosu'nun kararına tepki. Bakan Gürlek'ten NATO Zirvesi'ne ilişkin paylaşım. İletişim Başkanı Duran'dan NATO Ankara Zirvesi paylaşımı. Aliyev, Baykar Yönetim Kurulu Başkanı Bayraktar'ı kabul etti. Haşema ile çocuğun havuza alınmadığı iddiası. Site yöneticisi tutuklandı. YÖK'ten Yeditepe Üniversitesine soruşturma. NATO Zirvesi'nin tek kadın şefi. \"Dönen tabakların hepsi boştu\".",
       "items": [
         {
-          "title": "Silahlı saldırı şüphelisi polisten kaçarken tırın altında kaldı",
-          "summary": "Niğde'de çıkan kavgada bir kişiyi pompalı tüfekle sırtından vurup ormana saklandığı belirlenen C.S., polisten kaçarken tır çarpması sonucu ağır yaralandı. Niğde'nin Nar Mahallesi'nde Emniyet Müdürlüğü Hatıra Ormanı mevkisinde bir grup arasında henüz bilinmeyen nedenle tartışma çıktı. Olay kavgaya dönüştü, gruptan C.S. pompalı tüfekle O.K.'ye ateş açtı. Sırtından vurularak ağır yaralanan O.K., olay yerine sevk edilen sağlık ekibince Niğde Ömer Halisdemir Üniversitesi Eğitim ve Araştırma Hastanesi'ne kaldırıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/silahli-saldiri-suphelisi-polisten-kacarken-tirin-altinda-kaldi-1732018"
+          "title": "KKTC'den Avrupa Parlamentosu'nun kararına tepki",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Dışişleri Bakanlığı, Türk askerinin müdahalesini çarpıttığı, Kıbrıs Türk halkını ve Türkiye’yi hedef aldığı gerekçesiyle Avrupa Parlamentosunun Türkiye'nin 1974 Barış Harekatı'na ilişkin kararını şiddetle kınadı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kktcden-avrupa-parlamentosunun-kararina-tepki-43234759"
         },
         {
-          "title": "Vücuduna yapışan keneyi kendi çıkardı, 4 gün sonra öldü",
-          "summary": "Tokat'ta vücuduna yapışan keneyi kendi imkanlarıyla çıkaran 61 yaşındaki Dursun Almamış hayatını kaybetti. Havaların ısınmasıyla yeniden başlayan kene kabusu devam ediyor. Tokat'ın Sulusaray ilçesinde ikamet eden 2 çocuk babası Dursun Almamış’ı 4 gün önce kene ısırdı. Vücuduna yapışan keneyi kendi imkanlarıyla çıkaran Almamış, dün rahatsızlanınca Kırım Kongo Kanamalı Ateşi (KKKA) şüphesiyle Tokat Gaziosmanpaşa Üniversitesi (TOGÜ) Araştırma ve Uygulama Hastanesi’ne kaldırıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/vucuduna-yapisan-keneyi-kendi-cikardi-4-gun-sonra-oldu-1732017"
+          "title": "Bakan Gürlek'ten NATO Zirvesi'ne ilişkin paylaşım",
+          "summary": "Adalet Bakanı Akın Gürlek, \"36. NATO Devlet ve Hükümet Başkanları Zirvesi, Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde şekillenen \"Türkiye Yüzyılı\" vizyonunun dış politikadaki güçlü karşılığını tüm dünyaya gösteren önemli bir diplomatik zemin olmuştur.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-nato-zirvesine-iliskin-paylasim-43234758"
         },
         {
-          "title": "Bodrum'da korkutan yangın... Alevlerle mücadele sürüyor",
-          "summary": "Muğla'nın Bodrum ilçesinde makilik ve otluk alanda çıkan yangına itfaiye ekiplerince müdahale ediliyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/bodrumda-korkutan-yangin-43233612"
+          "title": "İletişim Başkanı Duran'dan NATO Ankara Zirvesi paylaşımı",
+          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"NATO Ankara Zirvesi kapsamında pazartesi gününden bu yana yürütülen yoğun diplomasi trafiği, Türkiye'nin Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde uluslararası barış, güvenlik ve istikrarın güçlendirilmesindeki etkin rolünü bir kez daha ortaya koymuştur.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-nato-ankara-zirvesi-paylasimi-43234757"
         },
         {
-          "title": "Çocuk parkında boşandığı kadını katletti, 4 yaşındaki kızını yaraladı",
-          "summary": "Kırklareli'nde kızını parka götüren 26 yaşındaki Çisem Çalkantı kısa süre önce boşandığı Y.K.'nin silahlı saldırısına uğradı. Genç kadın hayatını kaybetti, 4 yaşındaki kızı yaralandı. Çisem Çalkantı, 4 yaşındaki kızı Ö.N.K. ile birlikte Kırklareli Demirtaş Mahallesi'ndeki çocuk parkında oturdukları sırada bir süre önce boşandığı eşi Y.K. ile karşılaştı. Y.K., belinden çıkardığı silahla eski eşi ile minik kızına ateş ederek olay yerinden kaçtı.",
-          "source": "https://www.ntv.com.tr/turkiye/cocuk-parkinda-bosandigi-kadini-katletti-4-yasindaki-kizini-yaraladi-1732016"
+          "title": "Aliyev, Baykar Yönetim Kurulu Başkanı Bayraktar'ı kabul etti",
+          "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar'ı kabul etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/aliyev-baykar-yonetim-kurulu-baskani-bayraktari-kabul-etti-43234752"
         },
         {
-          "title": "Kabine üyelerinden NATO Zirvesi paylaşımları",
-          "summary": "Cumhurbaşkanlığı Kabinesi üyeleri, sosyal medya hesaplarından 36. NATO Devlet ve Hükümet Başkanları Zirvesi'ne ilişkin paylaşımlarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/kabine-uyelerinden-nato-zirvesi-paylasimlari-43233574"
+          "title": "Haşema ile çocuğun havuza alınmadığı iddiası. Site yöneticisi tutuklandı",
+          "summary": "Antalya'da kız çocuğunu haşema giydiği için havuza girmesini engellemeye çalıştığı iddia edilen site yöneticisi tutuklandı. Antalya'nın Alanya ilçesinde bir sitede yaşayan H.K. isimli çocuğun, haşema giydiği gerekçesiyle sitenin Rusya uyruklu yöneticisi Ludmina İnan (64) tarafından havuza girmesinin engellenmek istenmesi üzerine jandarmaya şikayette bulunuldu. Şikayet üzerine gözaltına alınan İnan, jandarmadaki işlemlerinin ardından sevk edildiği hakimlikçe tutuklandı.",
+          "source": "https://www.ntv.com.tr/turkiye/hasema-ile-cocugun-havuza-alinmadigi-iddiasi-site-yoneticisi-tutuklandi-1732170"
         },
         {
-          "title": "İzlanda Başbakanı Frostadottir, Ankara Kalesi'ni gezdi",
-          "summary": "İzlanda Başbakanı Kristrun Frostadottir, Ankara Kalesi'ni gezdi. Bir restoranda yemek yiyen Frostadottir, daha sonra şehir manzarasını seyretti. İzlanda Başbakanı Kristrun Frostadottir, Ankara Kalesi'ni gezerek şehir manzarasını seyretti. Başbakan Frostadottir, Ankara Kalesi karşısında bulunan bir restoranda yemek yedi ve ardından Ankara Kalesi'nin içini turladı. Kale esnaflarından birisi de Başbakan Frostadottir'i, kaşıkla Ankara oyun havası oynayarak karşıladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-izlanda-basbakani-frostadottir-ankara-kalesini-gezdi-1732006"
+          "title": "YÖK'ten Yeditepe Üniversitesine soruşturma",
+          "summary": "Yüksek Öğretim Kurulu, mezuniyet töreni sırasında ayetin yer aldığı pankartın bazı öğrenciler tarafından kapatıldığı olayla ilgili soruşturma başlattı. İstanbul'da mezuniyet töreninde Kur'an-ı Kerim'den ayetin yer aldığı pankartın bir grup öğrenci tarafından kapatıldığı görüntüler sosyal medyada paylaşıldı. Yüksek Öğretim Kurulu (YÖK), Yeditepe Üniversitesi Hukuk Fakültesi Mezuniyet Töreni sırasında yaşanan ve kamuoyuna yansıyan olaylarla ilgili olarak soruşturma başlatıldığını duyurdu.",
+          "source": "https://www.ntv.com.tr/turkiye/yokten-yeditepe-universitesine-sorusturma-1732164"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: Daha güçlü bir NATO'nun temelini Ankara'da attık",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, NATO zirvesinin kapanış konuşmasında, daha güçlü bir NATO'nun temellerinin Ankara'da atıldığını söyledi. Cumhurbaşkanı Recep Tayyip Erdoğan, NATO zirvesinin kapanış konuşmasını yaptı. Cumhurbaşkanı Erdoğan, Ankara'nın gerçekleştirilen bu zirvenin, ittifak içinde Avrupalı müttefiklerin daha fazla sorumluluk üstleneceği daha güçlü bir NATO'nun temellerini attığını söyledi. Konuşmasının ardından Erdoğan, gazetecilerin sorularını yanıtladı.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-daha-guclu-bir-natonun-temelini-ankarada-attik-1731999"
+          "title": "NATO Zirvesi'nin tek kadın şefi. \"Dönen tabakların hepsi boştu\"",
+          "summary": "NATO Zirvesi'nde liderlerine sunulan akşam yemeği menüsünü hazırlayan 3 şeften biri olan Sinem Özler, heyetlerden çok güzel geri dönüşler aldıklarını söyledi. Özler, \"Biz şefler için en önemli şey dönen tabaklardır. Tabakların hepsi boştu\" dedi. Türkiye’nin ev sahipliğinde 7-8 Temmuz tarihlerinde Ankara’da düzenlenen 36. NATO Devlet ve Hükümet Başkanları Zirvesi kapsamında Beştepe’de dünya liderlerine sunulan özel akşam yemeği lezzetinin yankıları sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-nato-zirvesinin-tek-kadin-sefi-donen-tabaklarin-hepsi-bostu-1732162"
         }
       ]
     },
     "dunya": {
-      "text": "6.6 tonluk dev uyuşturucu operasyonu. Venezuela'da can kaybı 3 bin 800'ü aştı. ABD'den yeni saldırı dalgası. İran'ın birçok kentinde patlama sesleri duyuldu. Hamas heyeti, ateşkes müzakereleri için Kahire’de. ABD ordusu duyurdu: İran’ı vuruyoruz... İran'da patlama sesleri. NATO Zirvesi sonrası İsrail basınından çarpıcı Erdoğan yorumu: Türkiye'yi bölgesel süper güce dönüştürmeye başladı. Hamaney'in cenazesi Kerbela'da.",
+      "text": "Tayvan 30 yılın en büyük tayfununa hazırlanıyor. Rüzgar hızı 198 kilometreye ulaştı. İngiltere'de başbakanlığa hazırlanan Andy Burnham, İşçi Partisi'nin Gazze tutumu için özür diledi. Zelenski, yakında ABD'den Patriot füzeleri alacaklarını söyledi. ABD basını yazdı: İran’dan Trump’a suikast planı. WSJ: İsrail, Trump'a suikast planladığına dair istihbarat verdi. İspanya’da orman yangını faciası: 12 kişi hayatını kaybetti. İran'ın eski dini lideri Ali Hamaney Meşhed’de toprağa verildi.",
       "items": [
         {
-          "title": "6.6 tonluk dev uyuşturucu operasyonu",
-          "summary": "El Salvador'da ordu, açık denizde düzenlenen operasyonda 167 milyon dolar değerinde 6.6 ton uyuşturucu ele geçirdi. Latin Amerika ülkesi El Salvador'da güvenlik güçleri rekor büyüklükte bir uyuşturucu operasyonuna imza attı. Dünyanın en tehlikeli ülkeleri arasında gösterilen, uyuşturucu çetelerinin 30 yılda 120 bin sivilin ölümüne yol açtığı El Salvador'da Donanma kuvvetleri açık denizde düzenlediği baskında yaklaşık 6.6 ton uyuşturucu ele geçirdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-66-tonluk-dev-uyusturucu-operasyonu-1732020"
+          "title": "Tayvan 30 yılın en büyük tayfununa hazırlanıyor. Rüzgar hızı 198 kilometreye ulaştı",
+          "summary": "Tayvan’da onlarca yılın en büyük tayfunu olması beklenen Bavi’nin yaklaşması nedeniyle binden fazla kişi tahliye edildi, çok sayıda okul ve kamu kurumu kapatıldı. Saatte 198 kilometreye ulaşan rüzgarların ve bir metreye varan yağışın sel ve heyelanlara yol açmasından endişe ediliyor. Tayfunun cuma ve cumartesi günleri Tayvan’ın kuzey ve doğu bölgeleri ile Japonya’nın güneybatısındaki uzak adaları etkisi altına alması, ardından Çin’in doğu kıyılarına ulaşması bekleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/tayvan-30-yilin-en-buyuk-tayfununa-hazirlaniyor-ruzgar-hizi-198-kilometreye-ulasti-1732182"
         },
         {
-          "title": "Venezuela'da can kaybı 3 bin 800'ü aştı",
-          "summary": "Venezuela'da, 24 Haziran'da meydana gelen iki büyük depremde yaşamını yitirenlerin sayısının 3 bin 811'e yükseldiği açıklandı. Binlerce kişi de hala kayıp. 39 saniye arayla 7.2 ve 7.5 büyüklüğündeki iki depremin vurduğu yıkılan Güney Amerika ülkesi Venezuela'da bilanço her geçen gün daha da ağırlaşıyor. Venezuela Ulusal Meclis Başkanı (AN) Jorge Rodriguez, başkent Caracas'ta düzenlediği basın toplantısında felakete ilişkin son verileri paylaştı.",
-          "source": "https://www.ntv.com.tr/dunya/venezuelada-can-kaybi-3-bin-800u-asti-1732021"
+          "title": "İngiltere'de başbakanlığa hazırlanan Andy Burnham, İşçi Partisi'nin Gazze tutumu için özür diledi",
+          "summary": "İngiltere'de başbakanlık koltuğuna oturmaya hazırlanan Andy Burnham, lideri olacağı iktidardaki İşçi Partisi'nin İsrail'in Gazze'ye yönelik saldırılarının başlangıcındaki tutumu nedeniyle özür diledi. İngiltere Başbakanı Keir Starmer'ın İşçi Partisi liderliğinden istifasının ardından parti liderliğine ve başbakanlık koltuğuna oturmaya hazırlanan Burnham, İngiliz The Guardian gazetesine açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/ingilterede-basbakanliga-hazirlanan-andy-burnham-isci-partisinin-gazze-tutumu-icin-ozur-diledi-1732180"
         },
         {
-          "title": "ABD'den yeni saldırı dalgası. İran'ın birçok kentinde patlama sesleri duyuldu",
-          "summary": "ABD ordusu İran'a bu gece de saldırılar gerçekleştirdiğini açıkladı. İran medyası, ülkenin birçok kentinde patlama seslerinin duyulduğunu bildirdi. İran ordusu da Kuveyt ile Bahreyn'deki bazı noktalara füze ve dronlarla saldırarak karşılık verdi. ABD, İran yeni saldırılar gerçekleştirildiğini açıkladı. ABD ordusu, bu saldırılarla İran'ın Hürmüz Boğazı'nda seyir özgürlüğünü tehdit etme kabiliyetlerini daha da zayıflatmanın amaçlandığını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/bender-abbas-ve-sirikte-patlama-sesleri-1732007"
+          "title": "Zelenski, yakında ABD'den Patriot füzeleri alacaklarını söyledi",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, kısa bir süre içerisinde ABD'den Patriot hava savunma sistemlerine ait PAC-3 tipi füzeleri alacaklarını bildirdi. Ukrayna basınına göre Zelenski, sosyal medya hesabı üzerinden gazetecilerin sorularını yanıtladı.",
+          "source": "https://www.ntv.com.tr/dunya/zelenski-yakinda-abdden-patriot-fuzeleri-alacaklarini-soyledi-1732179"
         },
         {
-          "title": "Hamas heyeti, ateşkes müzakereleri için Kahire’de",
-          "summary": "Hamas, Gazze Şeridi'nde kalıcı ateşkesin sağlanması ve varılan anlaşmanın ikinci aşamasına geçilmesi amacıyla yürütülen müzakereleri tamamlamak üzere, Gazze Sorumlusu Halil el-Hayye başkanlığındaki bir heyetin Mısır'ın başkenti Kahire'ye ulaştığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/hamas-heyeti-ateskes-muzakereleri-icin-kahirede-43233609"
+          "title": "ABD basını yazdı: İran’dan Trump’a suikast planı",
+          "summary": "İsrail’in, İran’ın ABD Başkanı Donald Trump’a yönelik yeni ve “somut” bir suikast planı hazırladığına ilişkin istihbaratı Washington yönetimiyle paylaştığı öne sürüldü. İddia, ABD ile İran arasındaki karşılıklı saldırıların yeniden yoğunlaştığı ve kapsamlı savaş endişelerinin arttığı bir dönemde gündeme geldi. ABD basınında yer alan haberlere göre söz konusu istihbarat, daha önce takip edilen genel tehditlerden farklı olarak yeni ve belirli bir plana işaret ediyor.",
+          "source": "https://www.ntv.com.tr/dunya/abd-basini-yazdi-irandan-trumpa-suikast-plani-1732178"
         },
         {
-          "title": "ABD ordusu duyurdu: İran’ı vuruyoruz... İran'da patlama sesleri",
-          "summary": "ABD ordusu, \"ticari gemileri hedef aldığı\" gerekçesiyle İran'a karşı yeni saldırılar başlattığını duyurdu… Öte yandan İran’ın Hürmüzgan Eyaleti'ne bağlı Sirik ile Bender Abbas kentleri ile Sistan ve Beluçistan Eyaleti'ne bağlı Çabahar ve Kunarek kentlerinde patlama seslerinin duyulduğu bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-irani-yeniden-vurdu-43233554"
+          "title": "WSJ: İsrail, Trump'a suikast planladığına dair istihbarat verdi",
+          "summary": "İsrail'in, İran'ın ABD Başkanı Donald Trump'a yönelik yeni bir suikast planı hazırladığına dair ABD ile istihbarat paylaşımında bulunduğu öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/wsj-israil-trumpa-suikast-planladigina-dair-istihbarat-verdi-43234770"
         },
         {
-          "title": "NATO Zirvesi sonrası İsrail basınından çarpıcı Erdoğan yorumu: Türkiye'yi bölgesel süper güce dönüştürmeye başladı",
-          "summary": "İsrail basını, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Türkiye'yi bölgesel bir süper güce dönüştürmeye başladığını yazdı.",
-          "source": "https://www.hurriyet.com.tr/dunya/nato-zirvesi-sonrasi-israil-basinindan-carpici-erdogan-yorumu-turkiyeyi-bolgesel-super-guce-donusturmeye-basladi-43233517"
+          "title": "İspanya’da orman yangını faciası: 12 kişi hayatını kaybetti",
+          "summary": "İspanya’nın güneyindeki Endülüs bölgesine bağlı Almeria vilayetinde çıkan orman yangını, 12 kişinin hayatını kaybetmesine yol açtı. Bedar çevresindeki yerleşimleri etkileyen yangında ölenlerden bazılarının cansız bedenlerinin araçların içinde bulunduğu bildirildi. Bölgesel yönetim, ilk olarak altı açıklanan can kaybı sayısını, yangın bölgesinde altı kişinin daha yaşamını yitirdiğinin doğrulanmasının ardından 12’ye yükseltti.",
+          "source": "https://www.ntv.com.tr/dunya/ispanyada-orman-yangini-faciasi-12-kisi-hayatini-kaybetti-1732176"
         },
         {
-          "title": "Hamaney'in cenazesi Kerbela'da",
-          "summary": "ABD-İsrail saldırılarında hayatını kaybeden İran'ın eski dini lideri Ali Hamaney’in naaşı, düzenlenen tören kapsamında Irak’ın Necef kentinin ardından Kerbela kentine getirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/hamaneyin-cenazesi-kerbelada-43233510"
+          "title": "İran'ın eski dini lideri Ali Hamaney Meşhed’de toprağa verildi",
+          "summary": "ABD ve İsrail'in saldırılarında hayatını kaybeden İran'ın eski dini lideri Ali Hamaney’in naaşı, aile üyelerinin katılımıyla gerçekleştirilen özel merasimin ardından ülkenin Meşhed kentindeki İmam Rıza Türbesi'ne defnedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iranin-eski-dini-lideri-ali-hamaney-meshedde-topraga-verildi-43234760"
         }
       ]
     },
     "ekonomi": {
-      "text": "Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı. Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum. Türkiye’nin bamya ambarı.",
+      "text": "Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız. 87 yılın rekoru. Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı.",
       "items": [
+        {
+          "title": "Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız",
+          "summary": "OTOMOBİL İhracatçıları Birliği İhracat Ödülleri Töreni’nde konuşan Ticaret Bakanı Ömer Bolat, \"Türkiye otobüs ve hafif ticari araç segmentinde dünya devleri arasında yer alıyor. Hafif ticari araç üretiminde 2025 yılı üretim rakamlarımıza göre dünyada dokuzuncuyuz, Avrupa'da birinciyiz. Otobüs üretiminde dünyada dördüncüyüz, Avrupa'da birinci sıradayız. Bunlar gerçekten önemli başarılar. Binek oto üretiminde de Türkiye Avrupa'da beşinci, dünyada 13’üncü büyük otomobil üssü konumundayız\" diye konuştu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-avrupada-besinci-buyuk-otomobil-ussu-konumundayiz-43234688"
+        },
+        {
+          "title": "87 yılın rekoru",
+          "summary": "Haziranda 1.7 milyar dolarlık ihracata ulaşan İEB, 87 yıllık tarihinin en yüksek aylık dış satımına imza attı. Bir önceki rekoru Mart 2024’teki 1.7 milyar dolarlık ihracattı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/87-yilin-rekoru-43233628"
+        },
         {
           "title": "Depozito makineleri Söke’de de hizmette",
           "summary": "Türkiye genelinde 1 Temmuz’da başlayan “Depozito Yönetim Sistemi” kapsamında DOA makineleri, Aydın Söke’de de hizmet vermeye başladı.",
@@ -110,96 +120,86 @@
           "title": "Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı",
           "summary": "Türkiye'nin Kahire Büyükelçisi Salih Mutlu Şen, Türkiye ile Mısır arasındaki ticaret hacminin 2026 yılının ilk 4 ayında geçen yılın aynı dönemine göre yüzde 15 arttığını belirterek, ikili ticaret hacminin yıl sonunda 9 milyar dolara ulaşılmasını beklediklerini söyledi.",
           "source": "https://www.hurriyet.com.tr/gundem/turkiye-ile-misir-arasindaki-ticaret-hacmi-yilin-ilk-4-ayinda-yuzde-15-artti-43226896"
-        },
-        {
-          "title": "Paşinyan, Ermenistan'ın AB hedefini açıkladı: İlk görev tam ve samimi uyum",
-          "summary": "Ermenistan Başbakanı Nikol Paşinyan, ülkesinin önündeki ilk stratejik görevin Avrupa Birliği (AB) standartlarına tam ve samimi şekilde uyum sağlamak olduğunu, tam üyelik konusunun bunun ardından gündeme gelebileceğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/pasinyan-ermenistanin-ab-hedefini-acikladi-ilk-gorev-tam-ve-samimi-uyum-43226465"
-        },
-        {
-          "title": "Türkiye’nin bamya ambarı",
-          "summary": "AYDIN Koçarlı’da 3 bin 500 dekarlık alanda üretilen ve Türkiye’nin birçok iline gönderilen bamyada hasat dönemi başladı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/turkiyenin-bamya-ambari-43224613"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçeli Fred’den İsmail Kartal ve Şampiyonlar Ligi açıklaması. Salih Özcan Beşiktaş'ta! 'Dört gözle bekledim'. Fenerbahçe, Greenwood'u bitirdi! İşte maaşı, bonservisi. Beşiktaş, Nübel transferini resmen duyurdu. Trabzonspor, Aral Şimşir'i resmen açıkladı. Brozovic serbest kaldı! Avrupa'ya bedava dönüyor. Gökhan Sazdağı resmen Çorum FK'da.",
+      "text": "Galatasaray, Lesley Ugochukwu'da sona yakın!. Başakşehir, Emin Bayram transferini duyurdu!. Beşiktaş, Salih Özcan transferini resmen açıkladı!. Fenerbahçe'nin gözdesi Greenwood'da sürpriz! Yeni teklif var. Gençlerbirliği, Kevin Rodrigues'i transfer etti!. Beşiktaş'ın yeni transferi Nübel'den itiraf: 'Sabırsızlanıyorum'. Galatasaray Başkanı Dursun Özbek'ten taraftara çağrı: 'Daha zor olacak'.",
       "items": [
         {
-          "title": "Fenerbahçeli Fred’den İsmail Kartal ve Şampiyonlar Ligi açıklaması",
-          "summary": "Fenerbahçe’nin yıldızlarından Fred ve kaptan Milan Skriniar, Admira Wacker ile yapılan hazırlık maçı sonrası konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-fredden-ismail-kartal-ve-sampiyonlar-ligi-aciklamasi-43233608"
+          "title": "Galatasaray, Lesley Ugochukwu'da sona yakın!",
+          "summary": "Galatasaray'ın, Lesley Ugochukwu ile anlaşma sağladığı ve Burnley ile yapılan görüşmelerde sona yaklaştığı belirtildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-lesley-ugochukwuda-sona-yakin-43234681"
         },
         {
-          "title": "Salih Özcan Beşiktaş'ta! 'Dört gözle bekledim'",
-          "summary": "Beşiktaş, son olarak Borussia Dortmund forması giyen Salih Özcan'ı İstanbul'a getirdi. Salih, ilk açıklamalarını yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/salih-ozcan-besiktasta-dort-gozle-bekledim-43233601"
+          "title": "Başakşehir, Emin Bayram transferini duyurdu!",
+          "summary": "Başakşehir, genç stoper Emin Bayram'ı kadrosuna kattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basaksehir-emin-bayram-transferini-duyurdu-43234614"
         },
         {
-          "title": "Fenerbahçe, Greenwood'u bitirdi! İşte maaşı, bonservisi",
-          "summary": "Fenerbahçe, yaz transfer sezonunda Avrupa'yı sarsacak bir isme imza attırıyor. Sarı lacivertliler, Marsilya'nın 10 numarası Mason Greenwood'u renklerine bağlamaya çok yaklaştı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-greenwoodu-bitirdi-iste-maasi-bonservisi-43233529"
+          "title": "Beşiktaş, Salih Özcan transferini resmen açıkladı!",
+          "summary": "Beşiktaş, Salih Özcan’la 3+1 yıllık sözleşme imzalandığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-salih-ozcan-transferini-resmen-acikladi-43234611"
         },
         {
-          "title": "Beşiktaş, Nübel transferini resmen duyurdu",
-          "summary": "Beşiktaş, Bayern Münih'ten Alexander Nübel'i transfer ettiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-nubel-transferini-resmen-duyurdu-43233452"
+          "title": "Fenerbahçe'nin gözdesi Greenwood'da sürpriz! Yeni teklif var",
+          "summary": "Fenerbahçe'nin transferinde sona yaklaştığı belirtilen Mason Greenwood için La Liga devi devreye girdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-gozdesi-greenwoodda-surpriz-yeni-teklif-var-43234549"
         },
         {
-          "title": "Trabzonspor, Aral Şimşir'i resmen açıkladı",
-          "summary": "Trabzonspor, milli futbolcu Aral Şimşir ile 4 yıllık sözleşme imzalandığını duyurdu. Bordo mavililer, Aral için videolu açıklama yayınladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-aral-simsiri-resmen-acikladi-43233433"
+          "title": "Gençlerbirliği, Kevin Rodrigues'i transfer etti!",
+          "summary": "Gençlerbirliği, Portekizli sol bek Kevin Rodrigues'i transfer etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-kevin-rodriguesi-transfer-etti-43234566"
         },
         {
-          "title": "Brozovic serbest kaldı! Avrupa'ya bedava dönüyor",
-          "summary": "Inter'de uzun yıllar forma giymesinin ardından Al Nassr'a transfe olan Brozovic, Avrupa'ya dönüş yapmaya hazırlanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/brozovic-serbest-kaldi-avrupaya-bedava-donuyor-43233347"
+          "title": "Beşiktaş'ın yeni transferi Nübel'den itiraf: 'Sabırsızlanıyorum'",
+          "summary": "Beşiktaş'ın yeni kalecisi Alexander Nübel, kulübün sosyal medya kanalına önemli açıklamalar yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-yeni-transferi-nubelden-itiraf-sabirsizlaniyorum-43234520"
         },
         {
-          "title": "Gökhan Sazdağı resmen Çorum FK'da",
-          "summary": "Süper Lig ekiplerinden Çorum FK, Beşiktaş'ın tecrübeli sağ beki Gökhan Sazdağı ile bir yılı opsiyonlu olmak üzere 3 yıllık sözleşme imzaladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gokhan-sazdagi-resmen-corum-fkda-43233209"
+          "title": "Galatasaray Başkanı Dursun Özbek'ten taraftara çağrı: 'Daha zor olacak'",
+          "summary": "Galatasaray Başkanı Dursun Özbek, düzenlenen bayrak çekme töreninde açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-baskani-dursun-ozbekten-taraftara-cagri-daha-zor-olacak-43234519"
         }
       ]
     },
     "teknoloji": {
-      "text": "YZ yarışına yeni GPT geliyor. Apple’a Avrupa’da büyük darbe. Starship ile “paylaşımlı kargo” başlıyor. Trump'tan izin çıktı. OpenAI en gelişmiş yapay zeka modelini kullanıma açıyor. Xbox’ta büyük işten çıkarma. Kablolu kulaklıklar geri dönüyor. Dünya'nın \"minik\" uydusu ilk kez görüntülendi.",
+      "text": "Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor. Grok 4.5 sahneye çıktı. İki gökcisminde aynı kimyasal iz bulundu. Samsung Galaxy Z Flip 8 ve Z Fold 8 sızdı. Sait dede teknolojiyi reddetti! Ne televizyonu var ne de telefonu: Tek dostunu yanından ayırmıyor. T3 FPV dron eğitim programı için başvurular başladı. YZ yarışına yeni GPT geliyor.",
       "items": [
+        {
+          "title": "Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor",
+          "summary": "NASA’nın Plüton’u yakından görüntüleyen New Horizons uzay aracı, Güneş Sistemi’nin en gizemli sınırlarından birine doğru ilerliyor. Yaklaşık bir yıllık uyku modunun ardından yeniden uyanan araç, şimdi Güneş’in etkisinin giderek zayıfladığı derin uzay bölgesinden veri toplamaya hazırlanıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/urunler/uzay-araci-gunes-sisteminin-sinirina-yaklasiyor-43234244"
+        },
+        {
+          "title": "Grok 4.5 sahneye çıktı",
+          "summary": "Elon Musk’ın YZ şirketi SpaceXAI, en yeni modeli Grok 4.5’i duyurdu. Şirket, yeni modeli kodlama, uygulama geliştirme, araştırma, yazı üretimi ve rutin bilgi işlerinde kullanılabilecek güçlü bir “iş modeli” olarak konumlandırıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka/grok-4-5-sahneye-cikti-43234229"
+        },
+        {
+          "title": "İki gökcisminde aynı kimyasal iz bulundu",
+          "summary": "Güneş Sistemi’nin birbirinden çok uzak iki dünyasında aynı bilinmeyen kimyasal iz tespit edildi. James Webb Uzay Teleskobu’nun gözlemleri, Satürn’ün uydusu Titan ile cüce gezegen Plüton’un yüzeyinde henüz tanımlanamayan ortak bir kimyasal imza bulunduğunu gösterdi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/iki-gokcisminde-ayni-kimyasal-iz-bulundu-43234152"
+        },
+        {
+          "title": "Samsung Galaxy Z Flip 8 ve Z Fold 8 sızdı",
+          "summary": "Samsung’un 22 Temmuz’da düzenleyeceği Galaxy Unpacked etkinliği öncesi yeni cihazlarına ait olduğu iddia edilen resmi görseller internete sızdı. Görsellerde Galaxy Z Flip 8, Galaxy Z Fold 8, Galaxy Watch 9 ve Galaxy Watch Ultra 2 modelleri yer alıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/urunler/samsung-galaxy-z-flip-8-ve-z-fold-8-sizdi-43234141"
+        },
+        {
+          "title": "Sait dede teknolojiyi reddetti! Ne televizyonu var ne de telefonu: Tek dostunu yanından ayırmıyor",
+          "summary": "Eskişehir'in Sivrihisar ilçesinde yaşayan ve evinde televizyon, telefon gibi teknolojik cihazlar bulunmayan 76 yaşındaki Sait Özünegüven, günün büyük bir kısmını pilli radyosuyla sokakları dolaşarak geçiriyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/sait-dede-teknolojiyi-reddetti-ne-televizyonu-var-ne-de-telefonu-tek-dostunu-yanindan-ayirmiyor-43234053"
+        },
+        {
+          "title": "T3 FPV dron eğitim programı için başvurular başladı",
+          "summary": "Türkiye Teknoloji Takımı Vakfı (T3 Vakfı), gençlerin havacılık ve ileri teknoloji alanlarındaki yetkinliklerini geliştirmeye yönelik çalışmalarına T3 FPV Akademi ile devam ediyor. FPV dron teknolojileri alanında nitelikli insan kaynağı yetiştirmek, gençlerin teknik ve uygulamalı becerilerini artırmak ve FPV dron kültürünü Türkiye genelinde yaygınlaştırmak amacıyla hayata geçirilen Akademi, İstanbul’da gerçekleştirilecek FPV Dron Eğitim Programının ilk dönemi için gençleri başvuruya davet ediyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/t3-fpv-dron-egitim-programi-icin-basvurular-basladi-43233933"
+        },
         {
           "title": "YZ yarışına yeni GPT geliyor",
           "summary": "OpenAI, şimdiye kadarki en yetenekli modeli olarak tanımlanan GPT-5.6’yı perşembe günü geniş kullanıma açmaya hazırlanıyor. Ancak bu kez gündemde yalnızca daha akıllı bir sohbet botu yok; modelin çıkışı, ABD’nin ulusal güvenlik endişeleri nedeniyle geciken bir lansmanın ardından geliyor.",
           "source": "https://www.hurriyet.com.tr/teknoloji/chatgpt/yz-yarisina-yeni-gpt-geliyor-43233135"
-        },
-        {
-          "title": "Apple’a Avrupa’da büyük darbe",
-          "summary": "Avrupa Birliği’nin büyük teknoloji şirketlerini sınırlamayı hedefleyen Dijital Piyasalar Yasası kapsamında Apple’a karşı önemli bir karar çıktı. AB Genel Mahkemesi, Apple’ın App Store ve iOS’un “eşik bekçisi” olarak sınıflandırılmasına yönelik itirazlarını reddetti.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/apple/applea-avrupada-buyuk-darbe-43233126"
-        },
-        {
-          "title": "Starship ile “paylaşımlı kargo” başlıyor",
-          "summary": "Japon Ay taşımacılığı şirketi ispace, SpaceX’in dev Starship roketini kullanarak daha düşük maliyetli yeni bir Ay kargo hizmeti başlatacağını duyurdu. Yeni model, Dünya’dan Ay’a gönderilecek küçük yükleri tek bir görevde bir araya getirerek “paylaşımlı yolculuk” mantığını uzaya taşıyacak.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/starship-ile-paylasimli-kargo-basliyor-43233117"
-        },
-        {
-          "title": "Trump'tan izin çıktı. OpenAI en gelişmiş yapay zeka modelini kullanıma açıyor",
-          "summary": "OpenAI, ABD hükümetinin ulusal güvenlik endişeleri nedeniyle geçen ay talep ettiği ertelemenin ardından, en gelişmiş yapay zeka modeli GPT-5.6'yı perşembe günü genel kullanıma sunacağını açıkladı. Yapay zeka devi OpenAI, güçlü yapay zeka teknolojilerinin kötüye kullanım potansiyeline dair ABD hükümetinin ulusal güvenlik gerekçesiyle ilettiği talepler doğrultusunda geçen ay ertelenen en gelişmiş modeli GPT-5.6'yı perşembe günü kamuoyuna sunacağını duyurdu.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-trumptan-izin-cikti-openai-en-gelismis-yapay-zeka-modelini-kullanima-aciyor-1731978"
-        },
-        {
-          "title": "Xbox’ta büyük işten çıkarma",
-          "summary": "Microsoft, Xbox ve ticari satış ekiplerini kapsayan yeni işten çıkarma dalgasında yaklaşık 4 bin 800 çalışanıyla yollarını ayırıyor. Kesintiler, şirketin küresel iş gücünün yüzde 2,1’ine denk gelirken, en büyük darbenin Xbox tarafında yaşanacağı belirtiliyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/xboxta-buyuk-isten-cikarma-43232228"
-        },
-        {
-          "title": "Kablolu kulaklıklar geri dönüyor",
-          "summary": "Bir dönem “geçmişin teknolojisi” gibi görülen kablolu kulaklıklar yeniden görünür hale geldi. Özellikle genç kullanıcılar, ünlüler ve sosyal medya etkisiyle kablolu kulaklıklar hem fiyat-performans hem de stil açısından yeniden tercih edilmeye başladı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/urunler/kablolu-kulakliklar-geri-donuyor-43232219"
-        },
-        {
-          "title": "Dünya'nın \"minik\" uydusu ilk kez görüntülendi",
-          "summary": "Çin’in Tianwen-2 uzay aracı, Dünya’nın nadir “yarı uydularından” biri olan Kamoʻoalewa’nın ilk yakın plan görüntüsünü gönderdi. Gökbilimciler, bu küçük asteroidin Ay’dan kopmuş bir parça olup olmadığını anlamaya çalışıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/dunyanin-minik-uydusu-ilk-kez-goruntulendi-43232214"
         }
       ]
     },
