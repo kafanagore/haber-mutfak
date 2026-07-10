@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-10T04:00:04.887Z",
+  "generatedAt": "2026-07-10T16:00:03.542Z",
   "categories": {
     "gundem": {
-      "text": "KKTC'den Avrupa Parlamentosu'nun kararına tepki. Bakan Gürlek'ten NATO Zirvesi'ne ilişkin paylaşım. İletişim Başkanı Duran'dan NATO Ankara Zirvesi paylaşımı. Aliyev, Baykar Yönetim Kurulu Başkanı Bayraktar'ı kabul etti. Haşema ile çocuğun havuza alınmadığı iddiası. Site yöneticisi tutuklandı. YÖK'ten Yeditepe Üniversitesine soruşturma. NATO Zirvesi'nin tek kadın şefi. \"Dönen tabakların hepsi boştu\".",
+      "text": "Emine Erdoğan, Lübnan Başbakanı'nın eşi Selam ile görüştü. Son dakika... CHP'de 7 il başkanı daha görevden alındı. 2 insana ait ürperten görüntüler… İnşaat kazısında ortaya çıktı!. Bakan Fidan: CAATSA'da yakında sonuca ulaşacağız. Bursa'da uyuşturucu operasyonu; 3 gözaltı. Cumhurbaşkanı Erdoğan, Liberya Cumhurbaşkanı Boakai ile görüştü. Çorum'da kayalık alandaki mağarada sıkışmıştı: Cenazesine ulaşıldı.",
       "items": [
         {
-          "title": "KKTC'den Avrupa Parlamentosu'nun kararına tepki",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Dışişleri Bakanlığı, Türk askerinin müdahalesini çarpıttığı, Kıbrıs Türk halkını ve Türkiye’yi hedef aldığı gerekçesiyle Avrupa Parlamentosunun Türkiye'nin 1974 Barış Harekatı'na ilişkin kararını şiddetle kınadı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kktcden-avrupa-parlamentosunun-kararina-tepki-43234759"
+          "title": "Emine Erdoğan, Lübnan Başbakanı'nın eşi Selam ile görüştü",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Lübnan Başbakanı Nevvaf Selam'ın eşi Sahar Selam ile bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogan-lubnan-basbakaninin-esi-selam-ile-gorustu-43235703"
         },
         {
-          "title": "Bakan Gürlek'ten NATO Zirvesi'ne ilişkin paylaşım",
-          "summary": "Adalet Bakanı Akın Gürlek, \"36. NATO Devlet ve Hükümet Başkanları Zirvesi, Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde şekillenen \"Türkiye Yüzyılı\" vizyonunun dış politikadaki güçlü karşılığını tüm dünyaya gösteren önemli bir diplomatik zemin olmuştur.\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-nato-zirvesine-iliskin-paylasim-43234758"
+          "title": "Son dakika... CHP'de 7 il başkanı daha görevden alındı",
+          "summary": "Son dakika haberi... Kemal Kılıçdaroğlu yönetimindeki CHP'de 7 il başkanı MYK tarafından görevden alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-chpde-7-il-baskani-daha-gorevden-alindi-43235688"
         },
         {
-          "title": "İletişim Başkanı Duran'dan NATO Ankara Zirvesi paylaşımı",
-          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"NATO Ankara Zirvesi kapsamında pazartesi gününden bu yana yürütülen yoğun diplomasi trafiği, Türkiye'nin Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde uluslararası barış, güvenlik ve istikrarın güçlendirilmesindeki etkin rolünü bir kez daha ortaya koymuştur.\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-nato-ankara-zirvesi-paylasimi-43234757"
+          "title": "2 insana ait ürperten görüntüler… İnşaat kazısında ortaya çıktı!",
+          "summary": "MALATYA'nın Hekimhan ilçesinde inşaat şantiyesinde kazı çalışmaları sırasında insan kemikleri ve 2 kafatası bulundu. Kemikler incelenmek üzere toplanarak Adli Tıp Kurumu'na gönderildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/2-insana-ait-urperten-goruntuler-insaat-kazisinda-ortaya-cikti-43235678"
         },
         {
-          "title": "Aliyev, Baykar Yönetim Kurulu Başkanı Bayraktar'ı kabul etti",
-          "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar'ı kabul etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/aliyev-baykar-yonetim-kurulu-baskani-bayraktari-kabul-etti-43234752"
+          "title": "Bakan Fidan: CAATSA'da yakında sonuca ulaşacağız",
+          "summary": "Bakan Fidan, CAATSA yaptırımları konusunda adımların atıldığını, kısa süre içinde neticeye ulaşılacağını söyledi. Dışişleri Bakanı Hakan Fidan, TRT Haber yayınında gündeme ilişkin açıklamalarda bulundu. ABD ile CAATSA yaptırımlarının kaldırılması konusunda kısa sürede çözüme ulaşacaklarını belirten Bakan Fidan, “Yani biz baştan beri hiçbir şekilde müttefikler arasında yaptırım olmasını istemiyoruz” diyen Fidan, “Amerika'da idari kararlarla alınabilecek konular çok şükür sorun olmaktan çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-fidan-caatsada-yakinda-sonuca-ulasacagiz-1732304"
         },
         {
-          "title": "Haşema ile çocuğun havuza alınmadığı iddiası. Site yöneticisi tutuklandı",
-          "summary": "Antalya'da kız çocuğunu haşema giydiği için havuza girmesini engellemeye çalıştığı iddia edilen site yöneticisi tutuklandı. Antalya'nın Alanya ilçesinde bir sitede yaşayan H.K. isimli çocuğun, haşema giydiği gerekçesiyle sitenin Rusya uyruklu yöneticisi Ludmina İnan (64) tarafından havuza girmesinin engellenmek istenmesi üzerine jandarmaya şikayette bulunuldu. Şikayet üzerine gözaltına alınan İnan, jandarmadaki işlemlerinin ardından sevk edildiği hakimlikçe tutuklandı.",
-          "source": "https://www.ntv.com.tr/turkiye/hasema-ile-cocugun-havuza-alinmadigi-iddiasi-site-yoneticisi-tutuklandi-1732170"
+          "title": "Bursa'da uyuşturucu operasyonu; 3 gözaltı",
+          "summary": "Bursa'da jandarmanın düzenlediği uyuşturucu operasyonunda 3 şüpheli, gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-uyusturucu-operasyonu-3-gozalti-43235667"
         },
         {
-          "title": "YÖK'ten Yeditepe Üniversitesine soruşturma",
-          "summary": "Yüksek Öğretim Kurulu, mezuniyet töreni sırasında ayetin yer aldığı pankartın bazı öğrenciler tarafından kapatıldığı olayla ilgili soruşturma başlattı. İstanbul'da mezuniyet töreninde Kur'an-ı Kerim'den ayetin yer aldığı pankartın bir grup öğrenci tarafından kapatıldığı görüntüler sosyal medyada paylaşıldı. Yüksek Öğretim Kurulu (YÖK), Yeditepe Üniversitesi Hukuk Fakültesi Mezuniyet Töreni sırasında yaşanan ve kamuoyuna yansıyan olaylarla ilgili olarak soruşturma başlatıldığını duyurdu.",
-          "source": "https://www.ntv.com.tr/turkiye/yokten-yeditepe-universitesine-sorusturma-1732164"
+          "title": "Cumhurbaşkanı Erdoğan, Liberya Cumhurbaşkanı Boakai ile görüştü",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Liberya Cumhurbaşkanı Joseph Nyumah Boakai ile bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-liberya-cumhurbaskani-boakai-ile-gorustu-43235665"
         },
         {
-          "title": "NATO Zirvesi'nin tek kadın şefi. \"Dönen tabakların hepsi boştu\"",
-          "summary": "NATO Zirvesi'nde liderlerine sunulan akşam yemeği menüsünü hazırlayan 3 şeften biri olan Sinem Özler, heyetlerden çok güzel geri dönüşler aldıklarını söyledi. Özler, \"Biz şefler için en önemli şey dönen tabaklardır. Tabakların hepsi boştu\" dedi. Türkiye’nin ev sahipliğinde 7-8 Temmuz tarihlerinde Ankara’da düzenlenen 36. NATO Devlet ve Hükümet Başkanları Zirvesi kapsamında Beştepe’de dünya liderlerine sunulan özel akşam yemeği lezzetinin yankıları sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-nato-zirvesinin-tek-kadin-sefi-donen-tabaklarin-hepsi-bostu-1732162"
+          "title": "Çorum'da kayalık alandaki mağarada sıkışmıştı: Cenazesine ulaşıldı",
+          "summary": "Çorum'da izinsiz kazı yapmak amacıyla arkadaşlarıyla girdiği mağarada mahsur kalan kişinin cenazesine ulaşıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/corumda-kayalik-alandaki-magarada-sikismisti-cenazesine-ulasildi-43235655"
         }
       ]
     },
     "dunya": {
-      "text": "Tayvan 30 yılın en büyük tayfununa hazırlanıyor. Rüzgar hızı 198 kilometreye ulaştı. İngiltere'de başbakanlığa hazırlanan Andy Burnham, İşçi Partisi'nin Gazze tutumu için özür diledi. Zelenski, yakında ABD'den Patriot füzeleri alacaklarını söyledi. ABD basını yazdı: İran’dan Trump’a suikast planı. WSJ: İsrail, Trump'a suikast planladığına dair istihbarat verdi. İspanya’da orman yangını faciası: 12 kişi hayatını kaybetti. İran'ın eski dini lideri Ali Hamaney Meşhed’de toprağa verildi.",
+      "text": "İspanya'dan iki üst düzey İsrailli askere Sumud Filosu soruşturması. Trump: Ateşkesin sona erdiğini İran'a açık ve net biçimde ilettik. Dışişleri Bakanı Hakan Fidan, dış basına konuştu: Netanyahu'nun politikaları uluslararası güvenlik için tehdit. İsrail'den skandal hamle: Kudüs ve Filistin Müftüsü gözaltına alındı. Denizde rekor miktarda altın keşfedildi. NATO Zirvesi bitti, balık ekmeğe gitti. Savunma anlaşmasından saatler sonra füze denemesi.",
       "items": [
         {
-          "title": "Tayvan 30 yılın en büyük tayfununa hazırlanıyor. Rüzgar hızı 198 kilometreye ulaştı",
-          "summary": "Tayvan’da onlarca yılın en büyük tayfunu olması beklenen Bavi’nin yaklaşması nedeniyle binden fazla kişi tahliye edildi, çok sayıda okul ve kamu kurumu kapatıldı. Saatte 198 kilometreye ulaşan rüzgarların ve bir metreye varan yağışın sel ve heyelanlara yol açmasından endişe ediliyor. Tayfunun cuma ve cumartesi günleri Tayvan’ın kuzey ve doğu bölgeleri ile Japonya’nın güneybatısındaki uzak adaları etkisi altına alması, ardından Çin’in doğu kıyılarına ulaşması bekleniyor.",
-          "source": "https://www.ntv.com.tr/dunya/tayvan-30-yilin-en-buyuk-tayfununa-hazirlaniyor-ruzgar-hizi-198-kilometreye-ulasti-1732182"
+          "title": "İspanya'dan iki üst düzey İsrailli askere Sumud Filosu soruşturması",
+          "summary": "İspanya Ulusal Mahkemesi, barışçıl bir misyon kapsamında Gazze'ye insani yardım ulaştırmayı amaçlayan Küresel Sumud Filosu'na 1 Ekim 2025'te uluslararası sularda düzenlenen yasa dışı saldırıyla ilgili iki üst düzey İsrailli askeri yetkili hakkında soruşturma açılmasını kabul etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyadan-iki-ust-duzey-israilli-askere-sumud-filosu-sorusturmasi-43235668"
         },
         {
-          "title": "İngiltere'de başbakanlığa hazırlanan Andy Burnham, İşçi Partisi'nin Gazze tutumu için özür diledi",
-          "summary": "İngiltere'de başbakanlık koltuğuna oturmaya hazırlanan Andy Burnham, lideri olacağı iktidardaki İşçi Partisi'nin İsrail'in Gazze'ye yönelik saldırılarının başlangıcındaki tutumu nedeniyle özür diledi. İngiltere Başbakanı Keir Starmer'ın İşçi Partisi liderliğinden istifasının ardından parti liderliğine ve başbakanlık koltuğuna oturmaya hazırlanan Burnham, İngiliz The Guardian gazetesine açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/ingilterede-basbakanliga-hazirlanan-andy-burnham-isci-partisinin-gazze-tutumu-icin-ozur-diledi-1732180"
+          "title": "Trump: Ateşkesin sona erdiğini İran'a açık ve net biçimde ilettik",
+          "summary": "ABD Başkanı Trump, İran'a ateşkesin sona erdiğini ilettiklerini açıkladı. İran'ın görüşme talebini kabul ettiklerini de söyledi. ABD Başkanı Donald Trump, Truth hesabından yaptığı paylaşımında ABD ve İran arasındaki ateşkesin “sona erdiğini” açıkladı. Açıklamasında Trump, “İran görüşmelere devam etmemizi istedi, bunu kabul ettik ancak ateşkesin sona erdiğini onlara açık ve net biçimde ilettik” ifadelerini kullandı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-ateskesin-sona-erdigini-irana-acik-ve-net-bicimde-bildirdik-1732306"
         },
         {
-          "title": "Zelenski, yakında ABD'den Patriot füzeleri alacaklarını söyledi",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, kısa bir süre içerisinde ABD'den Patriot hava savunma sistemlerine ait PAC-3 tipi füzeleri alacaklarını bildirdi. Ukrayna basınına göre Zelenski, sosyal medya hesabı üzerinden gazetecilerin sorularını yanıtladı.",
-          "source": "https://www.ntv.com.tr/dunya/zelenski-yakinda-abdden-patriot-fuzeleri-alacaklarini-soyledi-1732179"
+          "title": "Dışişleri Bakanı Hakan Fidan, dış basına konuştu: Netanyahu'nun politikaları uluslararası güvenlik için tehdit",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Avrupalı liderlerin, İsrail'in oluşturduğu tehdidi fark etmeye başladığını ancak bu sorunu nasıl ele alacağını henüz bulamadığını belirterek, \"(Binyamin) Netanyahu hükümetinin politikaları, sadece bizim için bir sorun değil. Politikaları ve hükümeti, İsrail için bir yük, bölge için bir yük ve uluslararası güvenlik için bir yük ve tehdit.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/bakan-fidan-dis-basina-konustu-netanyahunun-politikalari-uluslararasi-guvenlik-icin-tehdit-43235608"
         },
         {
-          "title": "ABD basını yazdı: İran’dan Trump’a suikast planı",
-          "summary": "İsrail’in, İran’ın ABD Başkanı Donald Trump’a yönelik yeni ve “somut” bir suikast planı hazırladığına ilişkin istihbaratı Washington yönetimiyle paylaştığı öne sürüldü. İddia, ABD ile İran arasındaki karşılıklı saldırıların yeniden yoğunlaştığı ve kapsamlı savaş endişelerinin arttığı bir dönemde gündeme geldi. ABD basınında yer alan haberlere göre söz konusu istihbarat, daha önce takip edilen genel tehditlerden farklı olarak yeni ve belirli bir plana işaret ediyor.",
-          "source": "https://www.ntv.com.tr/dunya/abd-basini-yazdi-irandan-trumpa-suikast-plani-1732178"
+          "title": "İsrail'den skandal hamle: Kudüs ve Filistin Müftüsü gözaltına alındı",
+          "summary": "Kudüs ve Filistin Müftüsü Şeyh Muhammed Hüseyin, Mescid-i Aksa'da kıldığı Cuma namazından sonra İsrail askerleri tarafından gözaltına alındı ve Mescid-i Aksa külliyesine girişi 1 hafta süreyle yasaklandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-skandal-hamle-kudus-ve-filistin-muftusu-gozaltina-alindi-43235545"
         },
         {
-          "title": "WSJ: İsrail, Trump'a suikast planladığına dair istihbarat verdi",
-          "summary": "İsrail'in, İran'ın ABD Başkanı Donald Trump'a yönelik yeni bir suikast planı hazırladığına dair ABD ile istihbarat paylaşımında bulunduğu öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/wsj-israil-trumpa-suikast-planladigina-dair-istihbarat-verdi-43234770"
+          "title": "Denizde rekor miktarda altın keşfedildi",
+          "summary": "Japonya'nın münhasır ekonomik bölgesi içindeki bir su altı volkanik kraterinde, şu ana kadar dünya genelinde tespit edilen en yüksek yoğunlukta altın rezervi bulundu. Japon bilim insanları, Tokyo'nun yaklaşık 350 kilometre güneyindeki Izu takımadalarında yer alan Aogashima Adası'nın 12 kilometre doğusundaki Higashi-Aogashima kalderasında, dünya genelinde şimdiye kadar ölçülmüş en yüksek yoğunlukta altın rezervini tespit etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-denizde-rekor-miktarda-altin-kesfedildi-1732220"
         },
         {
-          "title": "İspanya’da orman yangını faciası: 12 kişi hayatını kaybetti",
-          "summary": "İspanya’nın güneyindeki Endülüs bölgesine bağlı Almeria vilayetinde çıkan orman yangını, 12 kişinin hayatını kaybetmesine yol açtı. Bedar çevresindeki yerleşimleri etkileyen yangında ölenlerden bazılarının cansız bedenlerinin araçların içinde bulunduğu bildirildi. Bölgesel yönetim, ilk olarak altı açıklanan can kaybı sayısını, yangın bölgesinde altı kişinin daha yaşamını yitirdiğinin doğrulanmasının ardından 12’ye yükseltti.",
-          "source": "https://www.ntv.com.tr/dunya/ispanyada-orman-yangini-faciasi-12-kisi-hayatini-kaybetti-1732176"
+          "title": "NATO Zirvesi bitti, balık ekmeğe gitti",
+          "summary": "36. NATO Devlet ve Hükümet Başkanları Zirvesi için Türkiye'ye gelen Japonya Dışişleri Bakanı Motegi Toşimitsu ve Savunma Bakanı Koizumi Şinciro, diplomatik temaslarının yanı sıra yerel kültür deneyimleriyle dikkat çekti. Ankara'da düzenlenen 36. NATO Devlet ve Hükümet Başkanları Zirvesi'ne katılan Japonya kabinesi üyeleri, resmi programlarının dışındaki Türkiye deneyimlerini sosyal medya hesapları üzerinden paylaştı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-nato-zirvesi-bitti-balik-ekmege-gitti-1732239"
         },
         {
-          "title": "İran'ın eski dini lideri Ali Hamaney Meşhed’de toprağa verildi",
-          "summary": "ABD ve İsrail'in saldırılarında hayatını kaybeden İran'ın eski dini lideri Ali Hamaney’in naaşı, aile üyelerinin katılımıyla gerçekleştirilen özel merasimin ardından ülkenin Meşhed kentindeki İmam Rıza Türbesi'ne defnedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iranin-eski-dini-lideri-ali-hamaney-meshedde-topraga-verildi-43234760"
+          "title": "Savunma anlaşmasından saatler sonra füze denemesi",
+          "summary": "Çin, Avustralya ve Fiji arasında imzalanan savunma anlaşmasından saatler sonra Güney Pasifik'te uzun menzilli stratejik füze denemesi gerçekleştirdi. Çin, Güney Pasifik'te uzun menzilli bir füze denemesi gerçekleştirdi. Denemenin, Avustralya'nın Fiji ile bir savunma anlaşması imzalamasından yalnızca birkaç saat sonra yapılması, Canberra yönetimi ve bölgesel liderlerin tepkisini çekti. Avustralya Dışişleri Bakanı Penny Wong, füze denemesinin bölge için \"istikrarsızlaştırıcı\" olduğunu ifade etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-savunma-anlasmasindan-saatler-sonra-fuze-denemesi-1732264"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız. 87 yılın rekoru. Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı. Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı. Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı.",
+      "text": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü. Kumun üzerindeki ekonomi. Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız. 87 yılın rekoru. Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı.",
       "items": [
+        {
+          "title": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü",
+          "summary": "Almanya'nın ihracatı, İran savaşının yarattığı olumsuz koşullara rağmen Mayıs ayında sürpriz bir şekilde dördüncü aydır artış gösterdi. Federal İstatistik Ofisi'nin (Destatis) öncü verilerine göre, takvim ve mevsim etkilerinden arındırılmış ihracat, bir önceki aya göre yüzde 0,9 artarak 137,9 milyar euroya ulaştı. Geçen yılın aynı ayına göre artış ise yüzde 6,1 oldu.",
+          "source": "https://www.hurriyet.com.tr/avrupa/almanyanin-ihracati-iran-savasina-ragmen-4-ayda-buyudu-43235053"
+        },
+        {
+          "title": "Kumun üzerindeki ekonomi",
+          "summary": "SON yıllarda Alaçatı’daki beach kültürü ciddi bir dönüşüm geçirdi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/kumun-uzerindeki-ekonomi-43234771"
+        },
         {
           "title": "Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız",
           "summary": "OTOMOBİL İhracatçıları Birliği İhracat Ödülleri Töreni’nde konuşan Ticaret Bakanı Ömer Bolat, \"Türkiye otobüs ve hafif ticari araç segmentinde dünya devleri arasında yer alıyor. Hafif ticari araç üretiminde 2025 yılı üretim rakamlarımıza göre dünyada dokuzuncuyuz, Avrupa'da birinciyiz. Otobüs üretiminde dünyada dördüncüyüz, Avrupa'da birinci sıradayız. Bunlar gerçekten önemli başarılar. Binek oto üretiminde de Türkiye Avrupa'da beşinci, dünyada 13’üncü büyük otomobil üssü konumundayız\" diye konuştu.",
@@ -110,62 +120,72 @@
           "title": "JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı",
           "summary": "Türkiye’nin Genel Müdürlüğüne atanan Jose Luis Amador, JTI’ın Türkiye organizasyonuna dahil olan Kuzey Kıbrıs Türk Cumhuriyeti’ndeki iş süreçlerinin yönetilmesini de üstlenecek.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/jti-turkiye-genel-mudurlugune-jose-luis-amador-atandi-43228288"
-        },
-        {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Deniz ulaşımı küresel ekonominin can damarı",
-          "summary": "İstanbul'da düzenlenen 5'inci Türkiye Denizcilik Zirvesi Ödül Töreni’nde konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Deniz ulaşımı küresel ekonominin can damarı ve bağlantısallık, alternatif yollar, güzergahlar çok çok önemli. Türkiye Yüzyılı vizyonumuz, denizlerde daha güçlü, denizcilikte daha rekabetçi limanlarıyla, tersaneleriyle, ticaret filosuyla küresel ölçekte söz sahibi bir Türkiye'yi hedeflemektedir\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-deniz-ulasimi-kuresel-ekonominin-can-damari-43226941"
-        },
-        {
-          "title": "Türkiye ile Mısır arasındaki ticaret hacmi yılın ilk 4 ayında yüzde 15 arttı",
-          "summary": "Türkiye'nin Kahire Büyükelçisi Salih Mutlu Şen, Türkiye ile Mısır arasındaki ticaret hacminin 2026 yılının ilk 4 ayında geçen yılın aynı dönemine göre yüzde 15 arttığını belirterek, ikili ticaret hacminin yıl sonunda 9 milyar dolara ulaşılmasını beklediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ile-misir-arasindaki-ticaret-hacmi-yilin-ilk-4-ayinda-yuzde-15-artti-43226896"
         }
       ]
     },
     "spor": {
-      "text": "Galatasaray, Lesley Ugochukwu'da sona yakın!. Başakşehir, Emin Bayram transferini duyurdu!. Beşiktaş, Salih Özcan transferini resmen açıkladı!. Fenerbahçe'nin gözdesi Greenwood'da sürpriz! Yeni teklif var. Gençlerbirliği, Kevin Rodrigues'i transfer etti!. Beşiktaş'ın yeni transferi Nübel'den itiraf: 'Sabırsızlanıyorum'. Galatasaray Başkanı Dursun Özbek'ten taraftara çağrı: 'Daha zor olacak'.",
+      "text": "Portekiz Milli Takımı'nda Jorge Jesus dönemi resmen başladı!. Ertuğrul Doğan yeniden Kulüpler Birliği başkanı seçildi!. Fenerbahçe, hazırlık maçında Pogon Szczecin ile karşılaşacak. Çorum FK'dan Aubameyang açıklaması!. Franchise rekabetinde NBA Europe’tan büyük fark. Anthony Musaba: 'Geçen seneki istatistiklerimi geçmek istiyorum!'. Greenwood'u Fenerbahçe'ye kaptıran Roma, gözünü A Milli Takım'ın yıldızına dikti!.",
       "items": [
         {
-          "title": "Galatasaray, Lesley Ugochukwu'da sona yakın!",
-          "summary": "Galatasaray'ın, Lesley Ugochukwu ile anlaşma sağladığı ve Burnley ile yapılan görüşmelerde sona yaklaştığı belirtildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-lesley-ugochukwuda-sona-yakin-43234681"
+          "title": "Portekiz Milli Takımı'nda Jorge Jesus dönemi resmen başladı!",
+          "summary": "Portekiz Milli Takımı'nda teknik direktörlüğe Jorge Jesus getirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/portekiz-milli-takiminda-jorge-jesus-donemi-resmen-basladi-43235618"
         },
         {
-          "title": "Başakşehir, Emin Bayram transferini duyurdu!",
-          "summary": "Başakşehir, genç stoper Emin Bayram'ı kadrosuna kattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basaksehir-emin-bayram-transferini-duyurdu-43234614"
+          "title": "Ertuğrul Doğan yeniden Kulüpler Birliği başkanı seçildi!",
+          "summary": "Kulüpler Birliği’nin bugün yapılan olağan genel kurul toplantısının ardından Trabzonspor Başkanı Ertuğrul Doğan, yeniden Kulüpler Birliği Başkanı seçildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogan-yeniden-kulupler-birligi-baskani-secildi-43235586"
         },
         {
-          "title": "Beşiktaş, Salih Özcan transferini resmen açıkladı!",
-          "summary": "Beşiktaş, Salih Özcan’la 3+1 yıllık sözleşme imzalandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-salih-ozcan-transferini-resmen-acikladi-43234611"
+          "title": "Fenerbahçe, hazırlık maçında Pogon Szczecin ile karşılaşacak",
+          "summary": "Fenerbahçe, yeni sezon hazırlıkları kapsamındaki ikinci hazırlık maçında yarın Polonya temsilcisi Pogon Szczecin ile karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-hazirlik-macinda-pogon-szczecin-ile-karsilasacak-43235569"
         },
         {
-          "title": "Fenerbahçe'nin gözdesi Greenwood'da sürpriz! Yeni teklif var",
-          "summary": "Fenerbahçe'nin transferinde sona yaklaştığı belirtilen Mason Greenwood için La Liga devi devreye girdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-gozdesi-greenwoodda-surpriz-yeni-teklif-var-43234549"
+          "title": "Çorum FK'dan Aubameyang açıklaması!",
+          "summary": "Süper Lig'in yeni ekiplerinden Çorum FK teknik direktörü Uğur Uçar, ligde kalıcı olmak istediklerini getirirken transfer çalışmalarına da değindi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/corum-fkdan-aubameyang-aciklamasi-43235515"
         },
         {
-          "title": "Gençlerbirliği, Kevin Rodrigues'i transfer etti!",
-          "summary": "Gençlerbirliği, Portekizli sol bek Kevin Rodrigues'i transfer etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-kevin-rodriguesi-transfer-etti-43234566"
+          "title": "Franchise rekabetinde NBA Europe’tan büyük fark",
+          "summary": "Uzun yıllardır franchise modeli denilince akla NBA gelirdi. NBA Europe’un Avrupa’ya getirdiği rekabet, EuroLeague’i de bu modele itti. EuroLeague ilk aşamada olası 20 franchise için 1,2 milyar dolarlık teklif aldığını açıklarken, bu rakam NBA Europe’un sadece Londra franchise’ı için aldığı teklife yakın.",
+          "source": "https://www.hurriyet.com.tr/sporarena/franchise-rekabetinde-nba-europetan-buyuk-fark-43235460"
         },
         {
-          "title": "Beşiktaş'ın yeni transferi Nübel'den itiraf: 'Sabırsızlanıyorum'",
-          "summary": "Beşiktaş'ın yeni kalecisi Alexander Nübel, kulübün sosyal medya kanalına önemli açıklamalar yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-yeni-transferi-nubelden-itiraf-sabirsizlaniyorum-43234520"
+          "title": "Anthony Musaba: 'Geçen seneki istatistiklerimi geçmek istiyorum!'",
+          "summary": "Fenerbahçe'nin Hollandalı kanat oyuncusu Anthony Musaba, sarı-lacivertli formayla geçen seneki istatistiklerinin üzerine çıkmak istediğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anthony-musaba-gecen-seneki-istatistiklerimi-gecmek-istiyorum-43235415"
         },
         {
-          "title": "Galatasaray Başkanı Dursun Özbek'ten taraftara çağrı: 'Daha zor olacak'",
-          "summary": "Galatasaray Başkanı Dursun Özbek, düzenlenen bayrak çekme töreninde açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-baskani-dursun-ozbekten-taraftara-cagri-daha-zor-olacak-43234519"
+          "title": "Greenwood'u Fenerbahçe'ye kaptıran Roma, gözünü A Milli Takım'ın yıldızına dikti!",
+          "summary": "İtalya Serie A ekiplerinden Roma, uzun süredir transferi için uğraş verdiği Mason Greenwood'u Fenerbahçe'ye kaptırmanın şokunu yaşıyor. İngiliz futbolcunun alternatifi için zaman kaybetmeden arayışlara başlayan sarı-kırmızılılar, gözünü A Milli Takım'ın genç yıldızına dikti. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/greenwoodu-fenerbahceye-kaptiran-roma-gozunu-a-milli-takimin-yildizina-dikti-43235302"
         }
       ]
     },
     "teknoloji": {
-      "text": "Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor. Grok 4.5 sahneye çıktı. İki gökcisminde aynı kimyasal iz bulundu. Samsung Galaxy Z Flip 8 ve Z Fold 8 sızdı. Sait dede teknolojiyi reddetti! Ne televizyonu var ne de telefonu: Tek dostunu yanından ayırmıyor. T3 FPV dron eğitim programı için başvurular başladı. YZ yarışına yeni GPT geliyor.",
+      "text": "Yapay zekâ altyapısına beş farklı katmanda yatırım. Mağara duvarında insan DNA'sı bulundu. iPhone 18 Pro Max için dev batarya iddiası. Yapay zeka artık daha doğal konuşuyor: GPT-Live. Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor. Grok 4.5 sahneye çıktı. İki gökcisminde aynı kimyasal iz bulundu.",
       "items": [
+        {
+          "title": "Yapay zekâ altyapısına beş farklı katmanda yatırım",
+          "summary": "Birleşmiş Milletler bünyesindeki Uluslararası Telekomünikasyon Birliği’nin (ITU) düzenlediği İyilik İçin Yapay Zekâ Zirvesi’ne katılan ve iki ayrı oturumda konuşma yapan Turkcell Genel Müdürü Ali Taha Koç, yapay zeka alanında 5 farklı katmanda yatırımlar yaptıklarını ifade ederek, “Zekâyı veri merkezlerinden çıkarıp gerçek dünyaya taşıyacak, yapay zekâ temelli bir altyapı kurabilmek giderek daha kritik hale geliyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-altyapisina-bes-farkli-katmanda-yatirim-43235669"
+        },
+        {
+          "title": "Mağara duvarında insan DNA'sı bulundu",
+          "summary": "İspanya ve Portekiz’deki 11 mağarada yürütülen çalışma, insan DNA’sının kaya yüzeylerinde binlerce yıl korunabildiğini ortaya koydu. Bulgular, tarih öncesi mağara sanatının yaratıcılarına ilişkin genetik ipuçlarının izini sürmenin önünü açıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/magara-duvarinda-insan-dnasi-bulundu-43235491"
+        },
+        {
+          "title": "iPhone 18 Pro Max için dev batarya iddiası",
+          "summary": "Apple’ın henüz resmen duyurmadığı iPhone 18 Pro Max için yeni sızıntılar ortaya çıktı. İddiaya göre cihaz, daha büyük batarya nedeniyle hem kalınlaşacak hem de ağırlaşacak.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/apple/iphone-18-pro-max-icin-dev-batarya-iddiasi-43235487"
+        },
+        {
+          "title": "Yapay zeka artık daha doğal konuşuyor: GPT-Live",
+          "summary": "OpenAI, sesli asistan deneyimini daha doğal hale getirmeyi amaçlayan GPT‑Live’ı kullanıma sundu. Yeni sistem, kullanıcı konuşurken aynı anda dinleyip yanıt verebiliyor; gerektiğinde arama ve daha kapsamlı akıl yürütme için arka planda başka yapay zeka modellerinden destek alıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/chatgpt/yapay-zeka-artik-daha-dogal-konusuyor-gpt-live-43235473"
+        },
         {
           "title": "Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor",
           "summary": "NASA’nın Plüton’u yakından görüntüleyen New Horizons uzay aracı, Güneş Sistemi’nin en gizemli sınırlarından birine doğru ilerliyor. Yaklaşık bir yıllık uyku modunun ardından yeniden uyanan araç, şimdi Güneş’in etkisinin giderek zayıfladığı derin uzay bölgesinden veri toplamaya hazırlanıyor.",
@@ -180,26 +200,6 @@
           "title": "İki gökcisminde aynı kimyasal iz bulundu",
           "summary": "Güneş Sistemi’nin birbirinden çok uzak iki dünyasında aynı bilinmeyen kimyasal iz tespit edildi. James Webb Uzay Teleskobu’nun gözlemleri, Satürn’ün uydusu Titan ile cüce gezegen Plüton’un yüzeyinde henüz tanımlanamayan ortak bir kimyasal imza bulunduğunu gösterdi.",
           "source": "https://www.hurriyet.com.tr/teknoloji/uzay/iki-gokcisminde-ayni-kimyasal-iz-bulundu-43234152"
-        },
-        {
-          "title": "Samsung Galaxy Z Flip 8 ve Z Fold 8 sızdı",
-          "summary": "Samsung’un 22 Temmuz’da düzenleyeceği Galaxy Unpacked etkinliği öncesi yeni cihazlarına ait olduğu iddia edilen resmi görseller internete sızdı. Görsellerde Galaxy Z Flip 8, Galaxy Z Fold 8, Galaxy Watch 9 ve Galaxy Watch Ultra 2 modelleri yer alıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/urunler/samsung-galaxy-z-flip-8-ve-z-fold-8-sizdi-43234141"
-        },
-        {
-          "title": "Sait dede teknolojiyi reddetti! Ne televizyonu var ne de telefonu: Tek dostunu yanından ayırmıyor",
-          "summary": "Eskişehir'in Sivrihisar ilçesinde yaşayan ve evinde televizyon, telefon gibi teknolojik cihazlar bulunmayan 76 yaşındaki Sait Özünegüven, günün büyük bir kısmını pilli radyosuyla sokakları dolaşarak geçiriyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/sait-dede-teknolojiyi-reddetti-ne-televizyonu-var-ne-de-telefonu-tek-dostunu-yanindan-ayirmiyor-43234053"
-        },
-        {
-          "title": "T3 FPV dron eğitim programı için başvurular başladı",
-          "summary": "Türkiye Teknoloji Takımı Vakfı (T3 Vakfı), gençlerin havacılık ve ileri teknoloji alanlarındaki yetkinliklerini geliştirmeye yönelik çalışmalarına T3 FPV Akademi ile devam ediyor. FPV dron teknolojileri alanında nitelikli insan kaynağı yetiştirmek, gençlerin teknik ve uygulamalı becerilerini artırmak ve FPV dron kültürünü Türkiye genelinde yaygınlaştırmak amacıyla hayata geçirilen Akademi, İstanbul’da gerçekleştirilecek FPV Dron Eğitim Programının ilk dönemi için gençleri başvuruya davet ediyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/t3-fpv-dron-egitim-programi-icin-basvurular-basladi-43233933"
-        },
-        {
-          "title": "YZ yarışına yeni GPT geliyor",
-          "summary": "OpenAI, şimdiye kadarki en yetenekli modeli olarak tanımlanan GPT-5.6’yı perşembe günü geniş kullanıma açmaya hazırlanıyor. Ancak bu kez gündemde yalnızca daha akıllı bir sohbet botu yok; modelin çıkışı, ABD’nin ulusal güvenlik endişeleri nedeniyle geciken bir lansmanın ardından geliyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/chatgpt/yz-yarisina-yeni-gpt-geliyor-43233135"
         }
       ]
     },
