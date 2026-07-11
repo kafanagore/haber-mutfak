@@ -1,25 +1,35 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-11T10:00:03.441Z",
+  "generatedAt": "2026-07-11T16:00:03.449Z",
   "categories": {
     "gundem": {
-      "text": "Van’da dokuz gün sürecek kültür, sanat ve lezzet şöleni başladı. Sındırgı depremlerinde 'Venezuela' detayı: Hem hibrit hem ikiz | 'Yeniden aktif hale geldi' dedi ve açıkladı. AK Parti Sözcüsü Çelik'ten Srebrenitsa Soykırımı'nın 31. yılı anma mesajı. Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor. Erkekler dikkat! Eşinin yemeklerini beğenmeyen koca ağır kusurlu sayıldı. Amasya'da tarım işçilerini taşıyan minibüs devrildi: 6’sı çocuk, 16 kişi yaralandı. Tokat'ta korkunç olay! 'Dolaşmak istiyorum’ deyip tekerlekli sandalyesiyle evden ayrıldı, sulama kanalında ölü bulundu.",
+      "text": "Son Dakika... CHP'li Çankaya Belediyesi'ne operasyon. Belediye Başkanı Hüseyin Can Güner havalimanında gözaltına alındı. Eşinin intihar ettiğini iddia ediyordu.... İple boğduğunu itiraf etti. Manisa'da maki yangınında alevler ormana sıçradı. Kocaeli'de cami avlusunda uygunsuz davranış: İmam çifti uyarınca darbedildi! O anlar güvenlik kamerasında. Marmaray'da korku dolu anlar: Raylara oturan yolcu trenin altında sıkıştı. Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor. Mikro deprem kümesi büyük Marmara depreminin habercisi mi? \"Önümüzdeki 7 güne dikkat\".",
       "items": [
         {
-          "title": "Van’da dokuz gün sürecek kültür, sanat ve lezzet şöleni başladı",
-          "summary": "Türkiye Kültür Yolu Festivali, onuncu durağı Van’da, kültür, sanat ve gastronomi maratonunu başlatıyor. Bu sene üçüncüsü düzenlenecek Van Kültür Yolu Festivali, 11-19 Temmuz tarihleri arasında konserlerden sergilere, tiyatrodan atölyelere, söyleşilerden çocuk etkinliklerine uzanan kapsamlı programını ziyaretçilerle buluşturuyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/vanda-dokuz-gun-surecek-kultur-sanat-ve-lezzet-soleni-basladi-43236332"
+          "title": "Son Dakika... CHP'li Çankaya Belediyesi'ne operasyon. Belediye Başkanı Hüseyin Can Güner havalimanında gözaltına alındı",
+          "summary": "CHP'li Çankaya Belediyesi'ne yönelik sabahın erken saatlerinde operasyon düzenlendi. Belediye Başkanı Hüseyin Can Güner dahil 36 kişi hakkında gözaltı kararı verildi. Güner, yurda dönüşünde havalimanında gözaltına alındı. CHP'li belediyelere yönelik yolsuzluk iddialarıyla başlatılan operasyonlar sürüyor. Bugün sabah saatlerinde Ankara CHP'li Çankaya Belediyesi'ne operasyon düzenlendi. Sabah saatlerinde belediye binasına gelen polisin, buradaki çeşitli birimlerde ve odalarda arama çalışması başlattığı belirtildi.",
+          "source": "https://www.ntv.com.tr/turkiye/son-dakika-chpli-cankaya-belediyesine-operasyon-belediye-baskani-huseyin-can-guner-dahil-36-gozalti-karari-1732343"
         },
         {
-          "title": "Sındırgı depremlerinde 'Venezuela' detayı: Hem hibrit hem ikiz | 'Yeniden aktif hale geldi' dedi ve açıkladı",
-          "summary": "Balıkesir'in Sındırgı ilçesinde 10 Ağustos ve 27 Ekim 2025'te meydana gelen 6.1 büyüklüğündeki depremlere ilişkin yürütülen çok disiplinli sismik kaynak analizi, uluslararası Q1 dergilerinden Seismological Research Letters'ta yayımlandı. Çalışmada, depremlerin Emendere Fay Zonu üzerinde geliştiği, 'ikiz deprem' ve 'hibrit deprem' niteliği taşıdığı yönünde dikkat çekici bulgulara ulaşıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sindirgi-depremlerinde-venezuela-detayi-hem-hibrit-hem-ikiz-yeniden-aktif-hale-geldi-dedi-ve-acikladi-43236318"
+          "title": "Eşinin intihar ettiğini iddia ediyordu.... İple boğduğunu itiraf etti",
+          "summary": "Bursa’nın Yenişehir ilçesinde yatağında ölü bulunan Naciye B.’nin (45), intihar ettiğini iddia eden eşi Erol B. (42) tarafından öldürüldüğü ortaya çıktı. 4 çocuğunun annesini iple boğarak öldürdüğünü itiraf eden şüpheli tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/esinin-intihar-ettigini-iddia-ediyordu-iple-bogdugunu-itiraf-etti-43236671"
         },
         {
-          "title": "AK Parti Sözcüsü Çelik'ten Srebrenitsa Soykırımı'nın 31. yılı anma mesajı",
-          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Srebrenitsa Soykırımı'nda hayatını kaybedenleri andı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-srebrenitsa-soykiriminin-31-yili-anma-mesaji-43236302"
+          "title": "Manisa'da maki yangınında alevler ormana sıçradı",
+          "summary": "Manisa'nın Sarıgöl ilçesinde maki yangını çıktı. Rüzgarın da etkisiyle ormana sıçrayan yangına, havadan ve karadan ekiplerin müdahalesi sürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/manisada-maki-yangininda-alevler-ormana-sicradi-43236643"
+        },
+        {
+          "title": "Kocaeli'de cami avlusunda uygunsuz davranış: İmam çifti uyarınca darbedildi! O anlar güvenlik kamerasında",
+          "summary": "Kocaeli’nin İzmit ilçesinde, cami avlusunda uygunsuz davranışlarda bulunduğu iddia edilen çifti uyaran imam Ömer Kahvecioğlu, erkek şüpheli tarafından darbedildi. O anlar güvenlik kamerasına yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kocaelide-cami-avlusunda-uygunsuz-davranis-imam-cifti-uyarinca-darbedildi-o-anlar-guvenlik-kamerasinda-43236628"
+        },
+        {
+          "title": "Marmaray'da korku dolu anlar: Raylara oturan yolcu trenin altında sıkıştı",
+          "summary": "Üsküdar’da Marmaray tren istasyonunda durakta bekleyen kadın yolcu raylara indi. Trenin altında sıkışan kadın istasyondaki yolcular ve güvenlik görevlilerince kurtarıldı. Kurtarılma anları cep telefonu kamerasıyla kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/marmarayda-korku-dolu-anlar-raylara-oturan-yolcu-trenin-altinda-sikisti-43236623"
         },
         {
           "title": "Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor",
@@ -27,59 +37,49 @@
           "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-ciftci-acikladi-polislerin-mesai-saatlerine-duzenleme-geliyor-1732382"
         },
         {
-          "title": "Erkekler dikkat! Eşinin yemeklerini beğenmeyen koca ağır kusurlu sayıldı",
-          "summary": "Yargıtay, eşinin yaptığı yemekleri beğenmeyen ve \"sen cahilsin, sen ne anlarsın, tipe bak, hırsız, utanmaz, senin yemeklerin zehirli\" diyerek hakaretlerde bulunan kocayı ağır kusurlu buldu. Yargıtay, boşanma davasında emsal niteliği taşıyan bir karara imza attı. Bir süredir şiddetli geçimsizlik yaşayan çift, Aile Mahkemesi’ne müracaat ederek karşılıklı boşanma davası açtı.",
-          "source": "https://www.ntv.com.tr/turkiye/erkekler-dikkat-esinin-yemeklerini-begenmeyen-koca-agir-kusurlu-sayildi-1732381"
-        },
-        {
-          "title": "Amasya'da tarım işçilerini taşıyan minibüs devrildi: 6’sı çocuk, 16 kişi yaralandı",
-          "summary": "Amasya’da Tuzsuz Köyü yolunda tarım işçilerini taşıyan minibüs devrildi. Kazada 6’sı çocuk, 16 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/amasyada-tarim-iscilerini-tasiyan-minibus-devrildi-6si-cocuk-16-kisi-yaralandi-43236219"
-        },
-        {
-          "title": "Tokat'ta korkunç olay! 'Dolaşmak istiyorum’ deyip tekerlekli sandalyesiyle evden ayrıldı, sulama kanalında ölü bulundu",
-          "summary": "Tokat’ın Niksar ilçesinde, sabah namazı sonrası ‘Biraz dolaşmak istiyorum’ diyerek tekerlekli sandalyesiyle evden çıkan engelli Mehmet Cıda (71), yol kenarındaki sulama kanalında ölü bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/tokatta-korkunc-olay-dolasmak-istiyorum-deyip-tekerlekli-sandalyesiyle-evden-ayrildi-sulama-kanalinda-olu-bulundu-43236212"
+          "title": "Mikro deprem kümesi büyük Marmara depreminin habercisi mi? \"Önümüzdeki 7 güne dikkat\"",
+          "summary": "Son günlerde Orta Marmara Çukuru'nda meydana gelen mikro deprem kümesine ilişkin Karadeniz Teknik Üniversitesi (KTÜ) eski öğretim üyesi Jeoloji Mühendisi Prof. Dr. Osman Bektaş, önümüzdeki 3 ile 7 gün içindeki deprem hareketliliğine dikkat çekti. Marmara Denizi’nde meydana gelen küçük depremler yeniden dikkatleri bölgeye çevirdi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından yayımlanan verilere göre, son günlerde Marmara Denizi'nde küçük ölçekli depremler meydana geliyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-mikro-deprem-kumesi-buyuk-marmara-depreminin-habercisi-mi-onumuzdeki-7-gune-dikkat-1732436"
         }
       ]
     },
     "dunya": {
-      "text": "Orduların yeni gözdesi. Değeri 1 milyar dolara ulaştı. Japon bakan Türk lezzetlerini öve öve bitiremedi. \"İlk kez tattım, çok lezzetliydi\". NATO Zirvesi bitti, başbakan gitmedi. Türkiye'de tatile devam ediyor. Uydu görüntüleri gösterdi. İran nükleer tesislerindeki altyapıyı onarıyor. Uzay yarışında tarihi başarı: Yeniden kullanılabilir roket ilk kez indirildi. İngiltere okullarını aşırı sıcak vurdu. Termometre 40 dereceyi gösterdi, çocuklar \"anne\" diye ağladı. Bahamalar'da küçük uçak düştü: 10 ölü.",
+      "text": "Boyu 20 metreye kadar çıkabiliyor… Tayland'da yeni dinozor türü keşfedildi. NATO ülkesinde Rusya alarmı: Her kamera bir ajan. İran lideri Mücteba Hamaney'den intikam yemini. \"İsimleri baştan sona listelendi\". Yunan basını gündeme taşıdı: İsrail'le gizli askeri test. Soykırımın acısı dinmiyor: Srebrenitsa'da 10 kurban daha defnedildi. Küba tekrar karanlığa gömüldü. İngiltere'de başbakan olması beklenen Burnham'dan Gazze mesajı. \"Vicdanımızdaki yara\".",
       "items": [
         {
-          "title": "Orduların yeni gözdesi. Değeri 1 milyar dolara ulaştı",
-          "summary": "Deniz savunma şirketi Kraken Technology Group, B serisi yatırım turunda topladığı 152,9 milyon euro ile Avrupa'nın en yeni savunma \"unicorn\"u haline gelerek 1 milyar dolar değerlemeye ulaştı. Londra merkezli deniz savunma şirketi Kraken Technology Group, B serisi yatırım turunda yaklaşık 874,1 milyon euro (1 milyar dolar) değerleme üzerinden 152,9 milyon euro (175 milyon dolar) yatırım topladı. Bu yatırımla birlikte şirket Avrupa'nın deniz savunmada en yeni \"unicorn\" firmalarından biri haline geldi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ordularin-yeni-gozdesi-degeri-1-milyar-dolara-ulasti-1732391"
+          "title": "Boyu 20 metreye kadar çıkabiliyor… Tayland'da yeni dinozor türü keşfedildi",
+          "summary": "Tayland'da bilim insanları, yaklaşık 150 milyon yıl önce yaşadığı değerlendirilen, boyu 20 metreye kadar ulaşabilen ve oldukça uzun boynuyla dikkati çeken yeni bir dinozor türü keşfetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/boyu-20-metreye-kadar-cikabiliyor-taylandda-yeni-dinozor-turu-kesfedildi-43236677"
         },
         {
-          "title": "Japon bakan Türk lezzetlerini öve öve bitiremedi. \"İlk kez tattım, çok lezzetliydi\"",
-          "summary": "Ankara'daki NATO Zirvesi'nin ardından İstanbul'a geçen Japonya Savunma Bakanı Shinjiro Koizumi, balık ekmek yedi. Deneyimini sosyal medya hesabından paylaşan Koizumi, ilk kez balık ekmek yediğini belirterek \"Çok lezzetliydi\" ifadelerini kullandı. Ankara'da düzenlenen NATO Zirvesi'ne katılmak üzere Türkiye'ye gelen Japonya Savunma Bakanı Shinjiro Koizumi, resmi temaslarının ardından İstanbul'da balık ekmek yedi.",
-          "source": "https://www.ntv.com.tr/dunya/japon-bakan-turk-lezzetlerini-ove-ove-bitiremedi-ilk-kez-tattim-cok-lezzetliydi-1732393"
+          "title": "NATO ülkesinde Rusya alarmı: Her kamera bir ajan",
+          "summary": "Hollanda istihbaratı, Rusya'nın internete bağlı güvenlik kameralarını ele geçirerek NATO ülkelerindeki askeri üsleri ve Ukrayna'ya yönelik silah sevkiyatlarını izlediğini açıkladı. Hollandalı yetkililer, kritik noktalardaki tüm kurumlara acil siber güvenlik uyarısı yapıldığını ifade etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/nato-ulkesinde-rusya-alarmi-her-kamera-bir-ajan-43236654"
         },
         {
-          "title": "NATO Zirvesi bitti, başbakan gitmedi. Türkiye'de tatile devam ediyor",
-          "summary": "Macaristan Başbakanı Péter Magyar, Ankara'daki NATO Liderler Zirvesi için geldiği Türkiye'de resmi temaslarını tamamlamasının ardından tatiline devam ediyor. Macaristan Başbakanı Magyar Péter, cumartesi akşamı sosyal medya platformu Reddit üzerinde çevrim içi bir soru-cevap etkinliği düzenleyeceğini duyurdu. Başbakan, katılımcıların kendisine her konuda soru yöneltebileceğini belirtti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-nato-zirvesi-bitti-basbakan-gitmedi-turkiyede-tatile-devam-ediyor-1732395"
+          "title": "İran lideri Mücteba Hamaney'den intikam yemini. \"İsimleri baştan sona listelendi\"",
+          "summary": "İran dini lideri Mücteba Hamaney, ABD-İsrail saldırısında öldürülen babası ve eski dini lider Ali Hamaney’in intikamının alınacağının sözünü vererek, \"İntikam, milletimizin isteğidir ve mutlaka yerine getirilmelidir.\" dedi. İran dini lideri Mücteba Hamaney, 28 Şubat'ta ABD-İsrail saldırısında öldürülen babası ve önceki dini lider Ali Hamaney için İran ve Irak'ta düzenlenen cenaze törenleriyle ilgili yazılı açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/dunya/iran-lideri-mucteba-hamaneyden-intikam-yemini-isimleri-bastan-sona-listelendi-1732437"
         },
         {
-          "title": "Uydu görüntüleri gösterdi. İran nükleer tesislerindeki altyapıyı onarıyor",
-          "summary": "CNN televizyonunun uydu görüntülerine dayandırdığı haberine göre İran, askeri ve nükleer tesislerinde altyapı çalışmalarına ve yeni faaliyetlere başladı. CNN televizyonu, kendi elinde bulunan uydu görüntülerine dayandırarak yaptığı haberde, İran'ın nükleer tesislerindeki altyapıyı yeniden inşa etmekle meşgul olabileceğini ileri sürdü. Kanal, haziran ayının sonu ile temmuz ayının başında ülkedeki birkaç nükleer ve füze tesisinde yeni hareketlilikler tespit edildiğini aktardı.",
-          "source": "https://www.ntv.com.tr/dunya/uydu-goruntuleri-gosterdi-iran-nukleer-tesislerindeki-altyapiyi-onariyor-1732384"
+          "title": "Yunan basını gündeme taşıdı: İsrail'le gizli askeri test",
+          "summary": "Yunan basını, Lavrio Limanı açıklarında Avrupa Birliği destekli bir program kapsamında İsrail'in de katıldığı deniz altı askeri testleri gerçekleştirildiğini öne sürdü. Haberde, testlerin yerel halka bilgi verilmeden yapıldığını iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yunan-basini-gundeme-tasidi-israille-gizli-askeri-test-43236634"
         },
         {
-          "title": "Uzay yarışında tarihi başarı: Yeniden kullanılabilir roket ilk kez indirildi",
-          "summary": "Çin, yeniden kullanılabilir bir roketi ilk kez başarıyla geri indirerek uzay teknolojisinde önemli bir kilometre taşına ulaştı. ROKET DENİZE İNDİRİLDİ Çin Ulusal Uzay İdaresi (CNSA), Long March-10B roketinin cuma günü ülkenin güneyindeki Hainan Adası'ndan fırlatıldığını ve görevin başarıyla tamamlandığını duyurdu. CNSA'nın açıklamasına göre roket, uydusunu başarıyla yörüngeye yerleştirdikten sonra ilk aşaması deniz üzerindeki özel bir platformda bulunan sisteme güvenli bir şekilde indirildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-uzay-yarisinda-tarihi-basari-yeniden-kullanilabilir-roket-ilk-kez-indirildi-1732383"
+          "title": "Soykırımın acısı dinmiyor: Srebrenitsa'da 10 kurban daha defnedildi",
+          "summary": "Bosna Hersek'in doğusundaki Srebrenitsa'da, Sırp birliklerince 1995'te yapılan soykırımda katledilen 10 kurbanın cenazesi, Potoçari Anıt Mezarlığı'nda toprağa verildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/soykirimin-acisi-dinmiyor-srebrenitsada-10-kurban-daha-defnedildi-43236630"
         },
         {
-          "title": "İngiltere okullarını aşırı sıcak vurdu. Termometre 40 dereceyi gösterdi, çocuklar \"anne\" diye ağladı",
-          "summary": "İngiltere'de etkisini artıran sıcak hava dalgaları okulları da vurdu. Bazı sınıflarda sıcaklık 40 dereceyi aşarken, öğrencilerde sıcak çarpması, mide bulantısı ve baş ağrısı görüldü. Son haftalarda İngiltere'yi üst üste iki kez vuran aşırı sıcaklarla bazı okullarda termometreler 40 derecenin üzerini gösterdi. Aşırı sıcakların etkisi, öğretmenlerin sınıftaki öğrencilerle başa çıkmakta zorlanmasına neden oldu.",
-          "source": "https://www.ntv.com.tr/dunya/ingiltere-okullarini-asiri-sicak-vurdu-termometre-40-dereceyi-gosterdi-cocuklar-anne-diye-agladi-1732372"
+          "title": "Küba tekrar karanlığa gömüldü",
+          "summary": "Küba'nın ulusal elektrik şebekesi bir kez daha çökmesi sonucu bu hafta ülke genelinde 2'nci, bu yıl ise 4'üncü elektrik kesintisi yaşandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/kuba-tekrar-karanliga-gomuldu-43236600"
         },
         {
-          "title": "Bahamalar'da küçük uçak düştü: 10 ölü",
-          "summary": "Karayip ülkesi Bahamalar'da küçük bir uçağın düşmesi sonucu 10 kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bahamalarda-kucuk-ucak-dustu-10-olu-43236138"
+          "title": "İngiltere'de başbakan olması beklenen Burnham'dan Gazze mesajı. \"Vicdanımızdaki yara\"",
+          "summary": "İngiltere'de Andy Burnham başbakanlığı neredeyse garantiledi. Burnham bir milletvekilinin daha desteğini alırsa tek aday olacak. Burnham, İsrail'e yaptırımları artırma vaadinde bulundu. İngiltere'de Başbakan olması beklenen İşçi Partili Andy Burnham, Keir Starmer'ın Gazze politikası nedeniyle özür diledi. Burnham, Gazze'deki insani tabloyu \"ortak vicdanımızdaki yara\" olarak niteledi.",
+          "source": "https://www.ntv.com.tr/dunya/ingilterede-basbakan-olmasi-beklenen-burnhamdan-gazze-mesaji-vicdanimizdaki-yara-1732435"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Cedi Osman'ın yeni adresi belli oldu!. Ankara’da Yüksek Komiserler Kurulu ve Fevzi Çakmak Koşusu Heyecanı ! İşte Misli’den Günün Altılı Analizi…. Kuzey Liglerinde En Çok Gol Bahisleri Tercih Ediliyor… İşte Misli’den Günün Tüyoları. Lisandro Martinez: 'İsviçre bu aşamadaysa bunun birçok sebebi var!'. Thomas Tuchel'den Harry Kane açıklaması: 'Kariyerinin en zirve noktasında!'. Galatasaray'dan Gabriel Sara kararı!. Filenin Sultanları, Japonya karşısında! Maçın heyecanı canlı yayın ile Misli'de.",
+      "text": "Fenerbahçe'de 3 yıldız için transfer alarmı! Juventus devrede, İsmail Kartal kararını verecek. Göztepe Başkanı Rasmus Ankersen: 'Yeni Romulo bulmamız lazım!'. Daniele Santarelli: 'Hiçbir zaman odağımız kaybetmedik!'. Fenerbahçe Braxton Key transferini açıkladı!. Fenerbahçe Mikael Jantunen ile yollarını ayırdı!. Bursa 1. Altılısında Misliyle Kazandırdı! İşte Misli’de Günün Kazanan Altılısı…. Salih Özcan'dan Orkun Kökçü açıklaması: 'Transferimde etkisi var!'.",
       "items": [
         {
-          "title": "Cedi Osman'ın yeni adresi belli oldu!",
-          "summary": "Panathinaikos'tan ayrılmaya hazırlanan Cedi Osman'ın EuroCup ekiplerinden PAOK ile anlaşmaya vardığı öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cedi-osmanin-yeni-adresi-belli-oldu-43236304"
+          "title": "Fenerbahçe'de 3 yıldız için transfer alarmı! Juventus devrede, İsmail Kartal kararını verecek",
+          "summary": "Yeni sezon öncesi kadro planlamasını sürdüren Fenerbahçe'de Ederson, Anthony Musaba ve Fred için dikkat çeken transfer gelişmeleri yaşanıyor. Ederson'a Juventus'un ilgi gösterdiği, Musaba'nın İngiltere'den taliplerinin bulunduğu, Fred'in geleceğinin ise İsmail Kartal'ın vereceği rapora göre netleşeceği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-3-yildiz-icin-transfer-alarmi-juventus-devrede-ismail-kartal-kararini-verecek-43236684"
         },
         {
-          "title": "Ankara’da Yüksek Komiserler Kurulu ve Fevzi Çakmak Koşusu Heyecanı ! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-yuksek-komiserler-kurulu-ve-fevzi-cakmak-kosusu-heyecani-iste-misliden-gunun-altili-analizi-43236321"
+          "title": "Göztepe Başkanı Rasmus Ankersen: 'Yeni Romulo bulmamız lazım!'",
+          "summary": "Süper Lig'de yeni sezon hazırlıklarını Slovenya'nın Bled kasabasında sürdüren Göztepe'nin Danimarkalı Başkanı Rasmus Ankersen değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/goztepe-baskani-rasmus-ankersen-yeni-romulo-bulmamiz-lazim-43236616"
         },
         {
-          "title": "Kuzey Liglerinde En Çok Gol Bahisleri Tercih Ediliyor… İşte Misli’den Günün Tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla iddaa keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kuzey-liglerinde-en-cok-gol-bahisleri-tercih-ediliyor-iste-misliden-gunun-tuyolari-43236314"
+          "title": "Daniele Santarelli: 'Hiçbir zaman odağımız kaybetmedik!'",
+          "summary": "Filenin Sultanları, 2026 FIVB Kadınlar Milletler Ligi'nin (VNL) üçüncü etabındaki üçüncü maçında ev sahibi Japonya'yı 3-1 mağlup etti. Daniele Santarelli, karşılaşma sonrası açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-hicbir-zaman-odagimiz-kaybetmedik-43236594"
         },
         {
-          "title": "Lisandro Martinez: 'İsviçre bu aşamadaysa bunun birçok sebebi var!'",
-          "summary": "2026 FIFA Dünya Kupası çeyrek finalinde İsviçre'yle karşılaşacak Arjantin'de savunma oyuncusu Lisandro Martinez, futbolda iyi zekaya sahip olanların kazandığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lisandro-martinez-isvicre-bu-asamadaysa-bunun-bircok-sebebi-var-43236285"
+          "title": "Fenerbahçe Braxton Key transferini açıkladı!",
+          "summary": "Fenerbahçe, Braxton Key'i kadrosuna kattığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-braxton-key-transferini-acikladi-43236518"
         },
         {
-          "title": "Thomas Tuchel'den Harry Kane açıklaması: 'Kariyerinin en zirve noktasında!'",
-          "summary": "İngiltere Milli Takımı Teknik Direktörü Thomas Tuchel, hala başarıya aç bir takım olduklarını ve uğruna oynayacakları hedefleri bulunduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/thomas-tuchelden-harry-kane-aciklamasi-kariyerinin-en-zirve-noktasinda-43236267"
+          "title": "Fenerbahçe Mikael Jantunen ile yollarını ayırdı!",
+          "summary": "Fenerbahçe, Finlandiyalı oyuncu Mikael Jantunen ile yollarını ayırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-mikael-jantunen-ile-yollarini-ayirdi-43236468"
         },
         {
-          "title": "Galatasaray'dan Gabriel Sara kararı!",
-          "summary": "Yeni sezon öncesi kadro planlamasını sürdüren Galatasaray'da ayrılması muhtemel isimler arasında gösterilen Gabriel Sara için yönetimin kararı ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-gabriel-sara-karari-43236173"
+          "title": "Bursa 1. Altılısında Misliyle Kazandırdı! İşte Misli’de Günün Kazanan Altılısı…",
+          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli yazarları kuponlarıyla şov yapıyor! Dün koşulan Bursa 1. 6’lı Ganyan koşularında Misli yazarı Uğur Kocabaşoğlu, hazırladığı 10 misli kuponuyla 62.702,50 TL kazandırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursa-1-altilisinda-misliyle-kazandirdi-iste-mislide-gunun-kazanan-altilisi-43236430"
         },
         {
-          "title": "Filenin Sultanları, Japonya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "A Milli Kadın Voleybol Takımı, Milletler Ligi (VNL) Japonya etabının üçüncü maçında Japonya ile karşı karşıya gelecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-japonya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43236150"
+          "title": "Salih Özcan'dan Orkun Kökçü açıklaması: 'Transferimde etkisi var!'",
+          "summary": "Beşiktaş'ın yeni transferlerinden Salih Özcan, Slovakya kampında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/salih-ozcandan-orkun-kokcu-aciklamasi-transferimde-etkisi-var-43236408"
         }
       ]
     },
