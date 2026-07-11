@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-11T04:00:03.472Z",
+  "generatedAt": "2026-07-11T10:00:03.441Z",
   "categories": {
     "gundem": {
-      "text": "Tekirdağ'da mevlid pilavından yiyen 50 kişi hastanelik oldu. Atama ve görevden alma kararları Resmi Gazete'de. 15 Temmuz’da bazı toplu taşıma seferlerinin ücretsiz olması kararı Resmi Gazete’de. Bolu Belediyesi davasında ara karar. İki sanık tahliye edildi. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Mekke'de mahsur kalan Ali Baybaş, 40 yıl sonra Türkiye'ye döndü. Banka görevlisi yalanıyla 248 kişiyi milyonlarca lira dolandırdılar: 6 tutuklama.",
+      "text": "Van’da dokuz gün sürecek kültür, sanat ve lezzet şöleni başladı. Sındırgı depremlerinde 'Venezuela' detayı: Hem hibrit hem ikiz | 'Yeniden aktif hale geldi' dedi ve açıkladı. AK Parti Sözcüsü Çelik'ten Srebrenitsa Soykırımı'nın 31. yılı anma mesajı. Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor. Erkekler dikkat! Eşinin yemeklerini beğenmeyen koca ağır kusurlu sayıldı. Amasya'da tarım işçilerini taşıyan minibüs devrildi: 6’sı çocuk, 16 kişi yaralandı. Tokat'ta korkunç olay! 'Dolaşmak istiyorum’ deyip tekerlekli sandalyesiyle evden ayrıldı, sulama kanalında ölü bulundu.",
       "items": [
         {
-          "title": "Tekirdağ'da mevlid pilavından yiyen 50 kişi hastanelik oldu",
-          "summary": "TEKİRDAĞ'da mevlidde ikram edilen pilavdan yiyen 50 kişi, zehirlenme şüphesiyle hastanelere başvurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/tekirdagda-mevlid-pilavindan-yiyen-50-kisi-hastanelik-oldu-43236017"
+          "title": "Van’da dokuz gün sürecek kültür, sanat ve lezzet şöleni başladı",
+          "summary": "Türkiye Kültür Yolu Festivali, onuncu durağı Van’da, kültür, sanat ve gastronomi maratonunu başlatıyor. Bu sene üçüncüsü düzenlenecek Van Kültür Yolu Festivali, 11-19 Temmuz tarihleri arasında konserlerden sergilere, tiyatrodan atölyelere, söyleşilerden çocuk etkinliklerine uzanan kapsamlı programını ziyaretçilerle buluşturuyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/vanda-dokuz-gun-surecek-kultur-sanat-ve-lezzet-soleni-basladi-43236332"
         },
         {
-          "title": "Atama ve görevden alma kararları Resmi Gazete'de",
-          "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-43236015"
+          "title": "Sındırgı depremlerinde 'Venezuela' detayı: Hem hibrit hem ikiz | 'Yeniden aktif hale geldi' dedi ve açıkladı",
+          "summary": "Balıkesir'in Sındırgı ilçesinde 10 Ağustos ve 27 Ekim 2025'te meydana gelen 6.1 büyüklüğündeki depremlere ilişkin yürütülen çok disiplinli sismik kaynak analizi, uluslararası Q1 dergilerinden Seismological Research Letters'ta yayımlandı. Çalışmada, depremlerin Emendere Fay Zonu üzerinde geliştiği, 'ikiz deprem' ve 'hibrit deprem' niteliği taşıdığı yönünde dikkat çekici bulgulara ulaşıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sindirgi-depremlerinde-venezuela-detayi-hem-hibrit-hem-ikiz-yeniden-aktif-hale-geldi-dedi-ve-acikladi-43236318"
         },
         {
-          "title": "15 Temmuz’da bazı toplu taşıma seferlerinin ücretsiz olması kararı Resmi Gazete’de",
-          "summary": "15 Temmuz Demokrasi ve Milli Birlik Günü nedeniyle bazı metro seferlerinin ücretsiz olması hakkında karar Resmi Gazete’de yayımlandı. Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzası ile yayımlanan karara göre 15 Temmuz Milli Birlik Günü nedeniyle 15 Temmuz Salı günü Başkentray, Marmaray, İZBAN, Sirkeci-Kazlıçeşme Raylı Sistem Hattı ve Gayrettepe-İstanbul Havalimanı-Arnavutköy Metro Hattı seferleri ücretsiz olacak.",
-          "source": "https://www.ntv.com.tr/turkiye/15-temmuzda-bazi-toplu-tasima-seferlerinin-ucretsiz-olmasi-karari-resmi-gazetede-1732333"
+          "title": "AK Parti Sözcüsü Çelik'ten Srebrenitsa Soykırımı'nın 31. yılı anma mesajı",
+          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Srebrenitsa Soykırımı'nda hayatını kaybedenleri andı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-srebrenitsa-soykiriminin-31-yili-anma-mesaji-43236302"
         },
         {
-          "title": "Bolu Belediyesi davasında ara karar. İki sanık tahliye edildi",
-          "summary": "Bolu Belediyesi'ne yönelik irtikap soruşturmasında, Tanju Özcan'ın da aralarında olduğu 19 sanık hakim karşısına çıktı. 2 tutuklu sanık tahliye edilirken, Tanju Özcan'ın da aralarında olduğu 4 kişinin tutukluluk hallerinin devamına karar verildi. Bolu’da aralarında Belediye Başkanlığı görevinden uzaklaştırılan Tanju Özcan’ın da bulunduğu 19 sanık hakkında açılan davanın görülmesine devam edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/bolu-belediyesi-davasinda-ara-karar-iki-sanik-tahliye-edildi-1732324"
+          "title": "Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, polislerin çalışma saatleriyle ilgili düzenleme yapmak istediklerini söyledi. Çiftçi, \"Yeni mesai düzenine geçtikten sonra fazla çalışma yapanlara ödeme yapmak için çalışmalarımız var. Mevcut kanun teşkilata dar gelmeye başladı. Düzenlemeler yapılacak.\" dedi. İçişleri Bakanı Mustafa Çiftçi, gündemde yer alan konulara ilişkin olarak CNN Türk yayınında açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-ciftci-acikladi-polislerin-mesai-saatlerine-duzenleme-geliyor-1732382"
         },
+        {
+          "title": "Erkekler dikkat! Eşinin yemeklerini beğenmeyen koca ağır kusurlu sayıldı",
+          "summary": "Yargıtay, eşinin yaptığı yemekleri beğenmeyen ve \"sen cahilsin, sen ne anlarsın, tipe bak, hırsız, utanmaz, senin yemeklerin zehirli\" diyerek hakaretlerde bulunan kocayı ağır kusurlu buldu. Yargıtay, boşanma davasında emsal niteliği taşıyan bir karara imza attı. Bir süredir şiddetli geçimsizlik yaşayan çift, Aile Mahkemesi’ne müracaat ederek karşılıklı boşanma davası açtı.",
+          "source": "https://www.ntv.com.tr/turkiye/erkekler-dikkat-esinin-yemeklerini-begenmeyen-koca-agir-kusurlu-sayildi-1732381"
+        },
+        {
+          "title": "Amasya'da tarım işçilerini taşıyan minibüs devrildi: 6’sı çocuk, 16 kişi yaralandı",
+          "summary": "Amasya’da Tuzsuz Köyü yolunda tarım işçilerini taşıyan minibüs devrildi. Kazada 6’sı çocuk, 16 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/amasyada-tarim-iscilerini-tasiyan-minibus-devrildi-6si-cocuk-16-kisi-yaralandi-43236219"
+        },
+        {
+          "title": "Tokat'ta korkunç olay! 'Dolaşmak istiyorum’ deyip tekerlekli sandalyesiyle evden ayrıldı, sulama kanalında ölü bulundu",
+          "summary": "Tokat’ın Niksar ilçesinde, sabah namazı sonrası ‘Biraz dolaşmak istiyorum’ diyerek tekerlekli sandalyesiyle evden çıkan engelli Mehmet Cıda (71), yol kenarındaki sulama kanalında ölü bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/tokatta-korkunc-olay-dolasmak-istiyorum-deyip-tekerlekli-sandalyesiyle-evden-ayrildi-sulama-kanalinda-olu-bulundu-43236212"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Orduların yeni gözdesi. Değeri 1 milyar dolara ulaştı. Japon bakan Türk lezzetlerini öve öve bitiremedi. \"İlk kez tattım, çok lezzetliydi\". NATO Zirvesi bitti, başbakan gitmedi. Türkiye'de tatile devam ediyor. Uydu görüntüleri gösterdi. İran nükleer tesislerindeki altyapıyı onarıyor. Uzay yarışında tarihi başarı: Yeniden kullanılabilir roket ilk kez indirildi. İngiltere okullarını aşırı sıcak vurdu. Termometre 40 dereceyi gösterdi, çocuklar \"anne\" diye ağladı. Bahamalar'da küçük uçak düştü: 10 ölü.",
+      "items": [
+        {
+          "title": "Orduların yeni gözdesi. Değeri 1 milyar dolara ulaştı",
+          "summary": "Deniz savunma şirketi Kraken Technology Group, B serisi yatırım turunda topladığı 152,9 milyon euro ile Avrupa'nın en yeni savunma \"unicorn\"u haline gelerek 1 milyar dolar değerlemeye ulaştı. Londra merkezli deniz savunma şirketi Kraken Technology Group, B serisi yatırım turunda yaklaşık 874,1 milyon euro (1 milyar dolar) değerleme üzerinden 152,9 milyon euro (175 milyon dolar) yatırım topladı. Bu yatırımla birlikte şirket Avrupa'nın deniz savunmada en yeni \"unicorn\" firmalarından biri haline geldi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ordularin-yeni-gozdesi-degeri-1-milyar-dolara-ulasti-1732391"
+        },
+        {
+          "title": "Japon bakan Türk lezzetlerini öve öve bitiremedi. \"İlk kez tattım, çok lezzetliydi\"",
+          "summary": "Ankara'daki NATO Zirvesi'nin ardından İstanbul'a geçen Japonya Savunma Bakanı Shinjiro Koizumi, balık ekmek yedi. Deneyimini sosyal medya hesabından paylaşan Koizumi, ilk kez balık ekmek yediğini belirterek \"Çok lezzetliydi\" ifadelerini kullandı. Ankara'da düzenlenen NATO Zirvesi'ne katılmak üzere Türkiye'ye gelen Japonya Savunma Bakanı Shinjiro Koizumi, resmi temaslarının ardından İstanbul'da balık ekmek yedi.",
+          "source": "https://www.ntv.com.tr/dunya/japon-bakan-turk-lezzetlerini-ove-ove-bitiremedi-ilk-kez-tattim-cok-lezzetliydi-1732393"
+        },
+        {
+          "title": "NATO Zirvesi bitti, başbakan gitmedi. Türkiye'de tatile devam ediyor",
+          "summary": "Macaristan Başbakanı Péter Magyar, Ankara'daki NATO Liderler Zirvesi için geldiği Türkiye'de resmi temaslarını tamamlamasının ardından tatiline devam ediyor. Macaristan Başbakanı Magyar Péter, cumartesi akşamı sosyal medya platformu Reddit üzerinde çevrim içi bir soru-cevap etkinliği düzenleyeceğini duyurdu. Başbakan, katılımcıların kendisine her konuda soru yöneltebileceğini belirtti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-nato-zirvesi-bitti-basbakan-gitmedi-turkiyede-tatile-devam-ediyor-1732395"
+        },
+        {
+          "title": "Uydu görüntüleri gösterdi. İran nükleer tesislerindeki altyapıyı onarıyor",
+          "summary": "CNN televizyonunun uydu görüntülerine dayandırdığı haberine göre İran, askeri ve nükleer tesislerinde altyapı çalışmalarına ve yeni faaliyetlere başladı. CNN televizyonu, kendi elinde bulunan uydu görüntülerine dayandırarak yaptığı haberde, İran'ın nükleer tesislerindeki altyapıyı yeniden inşa etmekle meşgul olabileceğini ileri sürdü. Kanal, haziran ayının sonu ile temmuz ayının başında ülkedeki birkaç nükleer ve füze tesisinde yeni hareketlilikler tespit edildiğini aktardı.",
+          "source": "https://www.ntv.com.tr/dunya/uydu-goruntuleri-gosterdi-iran-nukleer-tesislerindeki-altyapiyi-onariyor-1732384"
+        },
+        {
+          "title": "Uzay yarışında tarihi başarı: Yeniden kullanılabilir roket ilk kez indirildi",
+          "summary": "Çin, yeniden kullanılabilir bir roketi ilk kez başarıyla geri indirerek uzay teknolojisinde önemli bir kilometre taşına ulaştı. ROKET DENİZE İNDİRİLDİ Çin Ulusal Uzay İdaresi (CNSA), Long March-10B roketinin cuma günü ülkenin güneyindeki Hainan Adası'ndan fırlatıldığını ve görevin başarıyla tamamlandığını duyurdu. CNSA'nın açıklamasına göre roket, uydusunu başarıyla yörüngeye yerleştirdikten sonra ilk aşaması deniz üzerindeki özel bir platformda bulunan sisteme güvenli bir şekilde indirildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-uzay-yarisinda-tarihi-basari-yeniden-kullanilabilir-roket-ilk-kez-indirildi-1732383"
+        },
+        {
+          "title": "İngiltere okullarını aşırı sıcak vurdu. Termometre 40 dereceyi gösterdi, çocuklar \"anne\" diye ağladı",
+          "summary": "İngiltere'de etkisini artıran sıcak hava dalgaları okulları da vurdu. Bazı sınıflarda sıcaklık 40 dereceyi aşarken, öğrencilerde sıcak çarpması, mide bulantısı ve baş ağrısı görüldü. Son haftalarda İngiltere'yi üst üste iki kez vuran aşırı sıcaklarla bazı okullarda termometreler 40 derecenin üzerini gösterdi. Aşırı sıcakların etkisi, öğretmenlerin sınıftaki öğrencilerle başa çıkmakta zorlanmasına neden oldu.",
+          "source": "https://www.ntv.com.tr/dunya/ingiltere-okullarini-asiri-sicak-vurdu-termometre-40-dereceyi-gosterdi-cocuklar-anne-diye-agladi-1732372"
+        },
+        {
+          "title": "Bahamalar'da küçük uçak düştü: 10 ölü",
+          "summary": "Karayip ülkesi Bahamalar'da küçük bir uçağın düşmesi sonucu 10 kişi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/bahamalarda-kucuk-ucak-dustu-10-olu-43236138"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü. Kumun üzerindeki ekonomi. Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız. 87 yılın rekoru. Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım.",
+      "items": [
         {
           "title": "Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz",
           "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Türkiye'nin uluslararası alandaki etkinliğinin her geçen gün arttığını belirterek, \"Son 23 çeyrektir istikrarlı şekilde büyüyen ekonomimiz ve artan istihdamımızla Türkiye Yüzyılı hedeflerine emin adımlarla ilerliyoruz\" dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-isikhan-son-23-ceyrektir-istikrarli-buyumemizi-surduruyoruz-43235952"
         },
-        {
-          "title": "Mekke'de mahsur kalan Ali Baybaş, 40 yıl sonra Türkiye'ye döndü",
-          "summary": "40 yıl önce çalışmak için gittiği Suudi Arabistan'da yurt dışı çıkış yasağı nedeniyle mahsur kalan 77 yaşındaki Ali Baybaş, diplomatik girişimlerin ardından memleketine döndü. Yaklaşık 40 yıl önce Sivas'ın Gürün ilçesine bağlı Kavak köyünden Suudi Arabistan'a giden 77 yaşındaki Ali Baybaş, orada açılan bir davanın duruşmalarına katılmadığı gerekçesiyle hukuki engellere takıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/mekkede-mahsur-kalan-ali-baybas-40-yil-sonra-evine-donuyor-1732302"
-        },
-        {
-          "title": "Banka görevlisi yalanıyla 248 kişiyi milyonlarca lira dolandırdılar: 6 tutuklama",
-          "summary": "Kocaeli merkezli 3 ilde düzenlenen eş zamanlı operasyonda, kendilerini banka ve çağrı merkezi görevlisi olarak tanıtarak 248 kişiyi 8 milyon TL dolandırdığı belirlenen 7 şüpheliden 6'sı tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/banka-gorevlisi-yalaniyla-248-kisiyi-milyonlarca-lira-dolandirdilar-6-tutuklama-43235939"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Hürmüz Boğazı gerilimi sürüyor: ABD’den İran’a iki şart. Trump, kendisine yönelik birden fazla saldırı planının engellendiğini söyledi. Trump: İran bana suikast düzenlerse 1000 füze ateşlenmeye hazır. ABD’nin yakıt ablukası sonrası Küba’da elektrik krizi büyüyor. Ülke yine karanlıkta. Cezayir'de bir günde çıkan 119 yangından 114'ü söndürüldü. Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 4 bin 118'e yükseldi. Apple \"ticari sırlarını çaldığı\" iddiasıyla iki eski çalışanı ve OpenAI'a dava açtı.",
-      "items": [
-        {
-          "title": "Hürmüz Boğazı gerilimi sürüyor: ABD’den İran’a iki şart",
-          "summary": "ABD yönetimi, İran'dan Hürmüz Boğazı'ndaki gemilere yönelik saldırıları durdurduğunu ve boğazdaki tüm deniz geçiş hatlarının ücret alınmaksızın ticari gemilere açık olduğunu kamuoyuna açıklamasını talep ediyor. ABD'li üst düzey yetkililer, Washington ile Tahran arasında son günlerde yapılan görüşmelerin \"verimli\" geçtiğini ancak İran'ın Hürmüz Boğazı'ndaki deniz trafiğine ilişkin açık bir taahhütte bulunması gerektiğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/hurmuz-bogazi-gerilimi-suruyor-abdden-irana-iki-sart-1732338"
-        },
-        {
-          "title": "Trump, kendisine yönelik birden fazla saldırı planının engellendiğini söyledi",
-          "summary": "ABD Başkanı Trump'ın olası bir İran suikastına karşı vasiyet bıraktığı ortaya çıktı. Trump verdiği talimatı da açıkladı. Trump ayrıca seçim mitinginde kulağını sıyıran suikast girişiminin ardından kendisine yönelik birden fazla saldırı planının da engellendiğini iddia etti. İsrail'in, İran’ın ABD Başkanı Donald Trump’a yönelik “somut” bir suikast planı hazırladığına ilişkin istihbaratı Washington yönetimiyle paylaştığı öne sürülmüştü.",
-          "source": "https://www.ntv.com.tr/dunya/trump-kendisine-yonelik-birden-fazla-saldiri-planinin-engellendigini-soyledi-1732313"
-        },
-        {
-          "title": "Trump: İran bana suikast düzenlerse 1000 füze ateşlenmeye hazır",
-          "summary": "ABD Başkanı Donald Trump, İran yönetiminin kendisine yönelik bir suikast düzenlemesi ya da girişimde bulunması halinde ABD ordusuna İran’a saldırmaya hazır olma talimatı verdiğini açıkladı. Trump, Truth Social hesabından yaptığı paylaşımda, İran’dan geldiğini öne sürdüğü suikast tehditlerine sert ifadelerle karşılık verdi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-bana-suikast-duzenlenirse-iran-agir-sekilde-bombalansin-1732327"
-        },
-        {
-          "title": "ABD’nin yakıt ablukası sonrası Küba’da elektrik krizi büyüyor. Ülke yine karanlıkta",
-          "summary": "Küba’da enerji ve ekonomik kriz derinleşirken ülke, beş gün içinde ikinci kez ülke çapında elektrik kesintisi yaşadı. Devlete bağlı elektrik şirketi UNE, X hesabından yaptığı açıklamada, yerel saatle 16.30’da “ulusal elektrik sisteminin tamamen çöktüğünü” duyurdu. Şirket, 2024 yılının sonundan bu yana yaşanan dokuzuncu, yıl başından bu yana ise dördüncü ülke çapındaki elektrik kesintisinin nedenine ilişkin ilk aşamada ayrıntılı bilgi vermedi.",
-          "source": "https://www.ntv.com.tr/dunya/abdnin-yakit-ablukasi-sonrasi-kubada-elektrik-krizi-buyuyor-ulke-yine-karanlikta-1732334"
-        },
-        {
-          "title": "Cezayir'de bir günde çıkan 119 yangından 114'ü söndürüldü",
-          "summary": "Cezayir'de bir günde 119 yangın çıktığı ve bunlardan 114'ünün söndürüldüğü bildirildi. Cezayir Sivil Savunma Başkanlığından yapılan açıklamada, ülkenin kuzeyinde 40 dereceyi aşan sıcak havaların etkisiyle artan yangınlara ilişkin bilgi verildi. Açıklamada, ülkenin kuzey bölgelerinde etkili olan ve pazar gününe kadar sürmesi beklenen sıcak hava dalgasının etkisiyle çıkan yangınlarda, ormanlık alanlar ve tarım arazilerinin etkilendiği ifade edildi.",
-          "source": "https://www.ntv.com.tr/dunya/cezayirde-bir-gunde-cikan-119-yangindan-114u-sonduruldu-1732332"
-        },
-        {
-          "title": "Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 4 bin 118'e yükseldi",
-          "summary": "Venezuela'da, 24 Haziran'da meydana gelen iki büyük depremde yaşamını yitirenlerin sayısının 4 bin 118'e yükseldiği bildirildi. Venezuela Ulusal Meclis Başkanı (AN) Jorge Rodriguez, ABD merkezli X sosyal medya platformundaki açıklamasında, felaket sonrası son rakamları paylaştı. Rodriguez, depremlerde hayatını kaybedenlerin sayısının 229 artarak 4 bin 118'e yükseldiğini, yaralı sayısının ise 16 bin 740 olduğunu açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/venezueladaki-depremlerde-hayatini-kaybedenlerin-sayisi-4-bin-118e-yukseldi-1732331"
-        },
-        {
-          "title": "Apple \"ticari sırlarını çaldığı\" iddiasıyla iki eski çalışanı ve OpenAI'a dava açtı",
-          "summary": "ABD'li teknoloji devi Apple, iki eski çalışanı ile yapay zeka şirketi OpenAI'a yeni tüketici donanımları geliştirmek amacıyla şirketin \"ticari sırlarını ve gizli bilgilerini çaldıkları\" gerekçesiyle dava açtı. Kaliforniya Kuzey Bölge Mahkemesi'nde açılan davada, OpenAI'ın Apple'a ait ürün tasarımları, üretim süreçleri ve tedarik zinciri stratejilerini ele geçirmek için koordineli bir çaba yürüttüğü iddia edildi.",
-          "source": "https://www.ntv.com.tr/dunya/apple-ticari-sirlarini-caldigi-iddiasiyla-iki-eski-calisani-ve-openaia-dava-acti-1732329"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü. Kumun üzerindeki ekonomi. Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız. 87 yılın rekoru. Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım. JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı.",
-      "items": [
         {
           "title": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü",
           "summary": "Almanya'nın ihracatı, İran savaşının yarattığı olumsuz koşullara rağmen Mayıs ayında sürpriz bir şekilde dördüncü aydır artış gösterdi. Federal İstatistik Ofisi'nin (Destatis) öncü verilerine göre, takvim ve mevsim etkilerinden arındırılmış ihracat, bir önceki aya göre yüzde 0,9 artarak 137,9 milyar euroya ulaştı. Geçen yılın aynı ayına göre artış ise yüzde 6,1 oldu.",
@@ -115,57 +120,57 @@
           "title": "Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım",
           "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye-Pakistan İş ve Yatırım Forumu'nda iki ülkenin iş dünyası temsilcileriyle bir araya geldiğini belirterek, \"Karşılıklı yatırımları artıracak, sanayi, teknoloji ve inovasyon alanlarında yeni işbirlikleriyle müşterek geleceğimizi birlikte inşa etmeye devam edeceğiz.\" ifadesini kullandı.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-turkiye-pakistan-is-ve-yatirim-forumuna-iliskin-paylasim-43229188"
-        },
-        {
-          "title": "JTI Türkiye Genel Müdürlüğüne Jose Luis Amador atandı",
-          "summary": "Türkiye’nin Genel Müdürlüğüne atanan Jose Luis Amador, JTI’ın Türkiye organizasyonuna dahil olan Kuzey Kıbrıs Türk Cumhuriyeti’ndeki iş süreçlerinin yönetilmesini de üstlenecek.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/jti-turkiye-genel-mudurlugune-jose-luis-amador-atandi-43228288"
         }
       ]
     },
     "spor": {
-      "text": "Oğuz Çetin'den Greenwood sorusuna yanıt: Geliyor. Beşiktaş, Widzew Lodz'a mağlup!. Galatasaray, günü çift antrenmanla tamamladı!. Galatasaray ilk bombayı patlatıyor: Lesley Ugochukwu transferinde mutlu son!. Murat Paluli, 1 yıl daha Sivasspor’da. Beşiktaş, İlhan Fakılı'nın golüyle kazandı!. N'Golo Kanté Dünya Kupası'nda neden oynamıyor? Sebebi ortaya çıktı!.",
+      "text": "Cedi Osman'ın yeni adresi belli oldu!. Ankara’da Yüksek Komiserler Kurulu ve Fevzi Çakmak Koşusu Heyecanı ! İşte Misli’den Günün Altılı Analizi…. Kuzey Liglerinde En Çok Gol Bahisleri Tercih Ediliyor… İşte Misli’den Günün Tüyoları. Lisandro Martinez: 'İsviçre bu aşamadaysa bunun birçok sebebi var!'. Thomas Tuchel'den Harry Kane açıklaması: 'Kariyerinin en zirve noktasında!'. Galatasaray'dan Gabriel Sara kararı!. Filenin Sultanları, Japonya karşısında! Maçın heyecanı canlı yayın ile Misli'de.",
       "items": [
         {
-          "title": "Oğuz Çetin'den Greenwood sorusuna yanıt: Geliyor",
-          "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, Linz Havalimanı'nda taraftarların Mason Greenwood transferiyle ilgili sorusuna ‘Geliyor’ yanıtını verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/oguz-cetinden-greenwood-sorusuna-yanit-geliyor-43235880"
+          "title": "Cedi Osman'ın yeni adresi belli oldu!",
+          "summary": "Panathinaikos'tan ayrılmaya hazırlanan Cedi Osman'ın EuroCup ekiplerinden PAOK ile anlaşmaya vardığı öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cedi-osmanin-yeni-adresi-belli-oldu-43236304"
         },
         {
-          "title": "Beşiktaş, Widzew Lodz'a mağlup!",
-          "summary": "Beşiktaş, Slovakya kampındaki dördüncü hazırlık maçında karşılaştığı Widzew Lodz’a 2-0 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-widzew-lodza-maglup-43235852"
+          "title": "Ankara’da Yüksek Komiserler Kurulu ve Fevzi Çakmak Koşusu Heyecanı ! İşte Misli’den Günün Altılı Analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-yuksek-komiserler-kurulu-ve-fevzi-cakmak-kosusu-heyecani-iste-misliden-gunun-altili-analizi-43236321"
         },
         {
-          "title": "Galatasaray, günü çift antrenmanla tamamladı!",
-          "summary": "Galatasaray, yeni sezon hazırlıklarını bugün yaptığı antrenmanlarla sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-gunu-cift-antrenmanla-tamamladi-43235847"
+          "title": "Kuzey Liglerinde En Çok Gol Bahisleri Tercih Ediliyor… İşte Misli’den Günün Tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla iddaa keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kuzey-liglerinde-en-cok-gol-bahisleri-tercih-ediliyor-iste-misliden-gunun-tuyolari-43236314"
         },
         {
-          "title": "Galatasaray ilk bombayı patlatıyor: Lesley Ugochukwu transferinde mutlu son!",
-          "summary": "Galatasaray sezonun ilk transferini açıklamaya hazırlanıyor. Sarı-kırmızılılar, Burnley forması giyen Lesley Ugochukwu'nun satın alma opsiyonlu kiralık transferi için prensip anlaşmasına vardığı iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ilk-bombayi-patlatiyor-lesley-ugochukwu-transferinde-mutlu-son-43235843"
+          "title": "Lisandro Martinez: 'İsviçre bu aşamadaysa bunun birçok sebebi var!'",
+          "summary": "2026 FIFA Dünya Kupası çeyrek finalinde İsviçre'yle karşılaşacak Arjantin'de savunma oyuncusu Lisandro Martinez, futbolda iyi zekaya sahip olanların kazandığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lisandro-martinez-isvicre-bu-asamadaysa-bunun-bircok-sebebi-var-43236285"
         },
         {
-          "title": "Murat Paluli, 1 yıl daha Sivasspor’da",
-          "summary": "Sivasspor, tecrübeli futbolcusu Murat Paluli’nin sözleşmesini 1 yıl daha uzattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/murat-paluli-1-yil-daha-sivassporda-43235811"
+          "title": "Thomas Tuchel'den Harry Kane açıklaması: 'Kariyerinin en zirve noktasında!'",
+          "summary": "İngiltere Milli Takımı Teknik Direktörü Thomas Tuchel, hala başarıya aç bir takım olduklarını ve uğruna oynayacakları hedefleri bulunduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/thomas-tuchelden-harry-kane-aciklamasi-kariyerinin-en-zirve-noktasinda-43236267"
         },
         {
-          "title": "Beşiktaş, İlhan Fakılı'nın golüyle kazandı!",
-          "summary": "Beşiktaş, hazırlık maçında Mattersburg'u yeni transfer İlhan Fakılı'nın golüyle 1-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ilhan-fakilinin-goluyle-kazandi-43235784"
+          "title": "Galatasaray'dan Gabriel Sara kararı!",
+          "summary": "Yeni sezon öncesi kadro planlamasını sürdüren Galatasaray'da ayrılması muhtemel isimler arasında gösterilen Gabriel Sara için yönetimin kararı ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-gabriel-sara-karari-43236173"
         },
         {
-          "title": "N'Golo Kanté Dünya Kupası'nda neden oynamıyor? Sebebi ortaya çıktı!",
-          "summary": "2026 FIFA Dünya Kupası çeyrek finalinde Fransa, Fas'ı 2-0 mağlup ederek yarı finale yükseldi. Ancak Fenerbahçeli N'Golo Kanté'nin bir kez daha süre alamaması soru işaretlerini artırırken, Fransız basını deneyimli orta saha oyuncusunun son durumuna ilişkin dikkat çeken iddialar ortaya attı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ngolo-kante-dunya-kupasinda-neden-oynamiyor-sebebi-ortaya-cikti-43235776"
+          "title": "Filenin Sultanları, Japonya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "A Milli Kadın Voleybol Takımı, Milletler Ligi (VNL) Japonya etabının üçüncü maçında Japonya ile karşı karşıya gelecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-japonya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43236150"
         }
       ]
     },
     "teknoloji": {
-      "text": "Yapay zeka mı, insan mı? Şarkılara yeni etiket sistemi. Yapay zekâ altyapısına beş farklı katmanda yatırım. Mağara duvarında insan DNA'sı bulundu. iPhone 18 Pro Max için dev batarya iddiası. Yapay zeka artık daha doğal konuşuyor: GPT-Live. Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor. Grok 4.5 sahneye çıktı.",
+      "text": "Apple iş görüşmelerini gösterdi, OpenAI'a dava açtı. Yapay zeka mı, insan mı? Şarkılara yeni etiket sistemi. Yapay zekâ altyapısına beş farklı katmanda yatırım. Mağara duvarında insan DNA'sı bulundu. iPhone 18 Pro Max için dev batarya iddiası. Yapay zeka artık daha doğal konuşuyor: GPT-Live. Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor.",
       "items": [
+        {
+          "title": "Apple iş görüşmelerini gösterdi, OpenAI'a dava açtı",
+          "summary": "Apple, çalışanlarıyla yapılan iş görüşmeleri yoluyla araçları, süreçleri ve henüz piyasaya çıkmamış ürünleri hakkında gizli bilgilere erişmeye ve bu bilgileri çalmaya çalışmakla suçladığı OpenAI'a karşı dava açtı. Apple, çalışanlarıyla yapılan iş görüşmeleri aracılığıyla şirketin araçları, süreçleri ve henüz piyasaya çıkmamış ürünleri hakkındaki gizli bilgilere erişmeye ve bunları çalmaya çalışmakla suçladığı OpenAI'a karşı dava açtı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-apple-is-gorusmelerini-gosterdi-openaia-dava-acti-1732354"
+        },
         {
           "title": "Yapay zeka mı, insan mı? Şarkılara yeni etiket sistemi",
           "summary": "Müzik sektörünün önde gelen kuruluşları, üretken yapay zeka kullanılarak oluşturulan içeriklerin daha şeffaf biçimde ayırt edilmesi amacıyla yeni bir etiketleme sistemi açıkladı. Uluslararası Fonogram Endüstrisi Federasyonu (IFPI) ve Amerika Kayıt Endüstrisi Birliği (RIAA), Grammy Ödülleri’nin arkasındaki Recording Academy ile oyuncular sendikası SAG-AFTRA’nın da aralarında bulunduğu sekiz kuruluşla birlikte gönüllü etiket sistemini duyurdu.",
@@ -195,16 +200,11 @@
           "title": "Uzay aracı Güneş Sistemi’nin sınırına yaklaşıyor",
           "summary": "NASA’nın Plüton’u yakından görüntüleyen New Horizons uzay aracı, Güneş Sistemi’nin en gizemli sınırlarından birine doğru ilerliyor. Yaklaşık bir yıllık uyku modunun ardından yeniden uyanan araç, şimdi Güneş’in etkisinin giderek zayıfladığı derin uzay bölgesinden veri toplamaya hazırlanıyor.",
           "source": "https://www.hurriyet.com.tr/teknoloji/urunler/uzay-araci-gunes-sisteminin-sinirina-yaklasiyor-43234244"
-        },
-        {
-          "title": "Grok 4.5 sahneye çıktı",
-          "summary": "Elon Musk’ın YZ şirketi SpaceXAI, en yeni modeli Grok 4.5’i duyurdu. Şirket, yeni modeli kodlama, uygulama geliştirme, araştırma, yazı üretimi ve rutin bilgi işlerinde kullanılabilecek güçlü bir “iş modeli” olarak konumlandırıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka/grok-4-5-sahneye-cikti-43234229"
         }
       ]
     },
     "saglik": {
-      "text": "Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\". En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\". Sıcak hava dalgası Avrupa’yı sardı. Uzmanlardan çocuklar ve yaşlılar için uyarı. Güzelleşme isteği yarışa dönüştü. Testosteron ve protein tozu bağımlılığı hastalarında artış var. Evde bakım hizmetlerine ilişkin yönetmelik Resmi Gazete’de. Uzmanlar uyarıyor, gencim deyip geçmeyin. Kalp krizi riski 20'li yaşlara kadar düştü. Organlardaki iltihabı kurutuyor. Tüketimi havuç ve patates kadar yaygınlaştı.",
+      "text": "Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\". En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\". Sıcak hava dalgası Avrupa’yı sardı. Uzmanlardan çocuklar ve yaşlılar için uyarı. Güzelleşme isteği yarışa dönüştü. Testosteron ve protein tozu bağımlılığı hastalarında artış var. Evde bakım hizmetlerine ilişkin yönetmelik Resmi Gazete’de. Uzmanlar uyarıyor, gencim deyip geçmeyin. Kalp krizi riski 20'li yaşlara kadar düştü.",
       "items": [
         {
           "title": "Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\"",
@@ -235,11 +235,6 @@
           "title": "Uzmanlar uyarıyor, gencim deyip geçmeyin. Kalp krizi riski 20'li yaşlara kadar düştü",
           "summary": "Kızılcık Şerbeti dizisinin Işıl'ı olarak tanına Ece İrtem henüz 35 yaşında hayatını kaybetti. Oyuncunun hayatını kaybetmesine kalp krizinin neden olduğu değerlendiriliyor. Kalp krizi ve genç yaşta vefat haberleri son dönemde giderek artıyor. (Tuana Çiftçi) Henüz 35 yaşındaydı, ani bir şekilde hayatını kaybetti. Oyuncu Ece İrtem'in kesin ölüm nedeni adli tıp raporundan sonra netleşecek. İlk bulgular ise ünlü oyuncunun kalp krizi geçirdiğine işaret ediyor.",
           "source": "https://www.ntv.com.tr/saglik/galeri-uzmanlar-uyariyor-gencim-deyip-gecmeyin-kalp-krizi-riski-20li-yaslara-kadar-dustu-1728941"
-        },
-        {
-          "title": "Organlardaki iltihabı kurutuyor. Tüketimi havuç ve patates kadar yaygınlaştı",
-          "summary": "Sağlıklı bir vücuda sahip olmak ve hastalıklara karşı direnç kazanmak için doğru ve dengeli beslenmek şart. Özellikle sağlıklı meyvelerin tüketimi genel vücut sağlığı için de büyük önem taşıyor. Bir zamanlar sadece lüks meyve olarak bilinen ancak günümüzde hemen hemen her sofrada yerini almaya başlayan bir meyve var ki, içindeki C vitamini ile bağışıklığı güçlendirmeye destek oluyor. Artan tüketim ve sağlık faydalarıyla dikkat çeken ananas yeniden gündemde.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-organlardaki-iltihabi-kurutuyor-tuketimi-havuc-ve-patates-kadar-yayginlasti-1728152"
         }
       ]
     },
