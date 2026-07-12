@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-11T16:00:03.449Z",
+  "generatedAt": "2026-07-12T04:00:03.654Z",
   "categories": {
     "gundem": {
-      "text": "Son Dakika... CHP'li Çankaya Belediyesi'ne operasyon. Belediye Başkanı Hüseyin Can Güner havalimanında gözaltına alındı. Eşinin intihar ettiğini iddia ediyordu.... İple boğduğunu itiraf etti. Manisa'da maki yangınında alevler ormana sıçradı. Kocaeli'de cami avlusunda uygunsuz davranış: İmam çifti uyarınca darbedildi! O anlar güvenlik kamerasında. Marmaray'da korku dolu anlar: Raylara oturan yolcu trenin altında sıkıştı. Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor. Mikro deprem kümesi büyük Marmara depreminin habercisi mi? \"Önümüzdeki 7 güne dikkat\".",
+      "text": "Ankara Kalesi'nde yangın. Son Dakika... CHP'li Çankaya Belediyesi'ne operasyon. Belediye Başkanı Hüseyin Can Güner gözaltına alındı. Kayseri'de 'dur' ihtarına uymayan alkollü sürücüye 225 bin TL ceza. 15 Temmuz’a ilişkin ‘tiyatro’ ifadesi kullandıkları iddia edilen 2 şüpheliye adli kontrol. Sahilde bulduğu İHA'yı, arazi aracıyla evine götürdü. İmamoğlu'nun Portekizli mankenle buluşmasına aracılık ettiği iddia edilen Nadela Moldova tutuklandı. Araçlarından inip trafikte kavga eden sürücülere 362 bin TL para cezası.",
       "items": [
         {
-          "title": "Son Dakika... CHP'li Çankaya Belediyesi'ne operasyon. Belediye Başkanı Hüseyin Can Güner havalimanında gözaltına alındı",
-          "summary": "CHP'li Çankaya Belediyesi'ne yönelik sabahın erken saatlerinde operasyon düzenlendi. Belediye Başkanı Hüseyin Can Güner dahil 36 kişi hakkında gözaltı kararı verildi. Güner, yurda dönüşünde havalimanında gözaltına alındı. CHP'li belediyelere yönelik yolsuzluk iddialarıyla başlatılan operasyonlar sürüyor. Bugün sabah saatlerinde Ankara CHP'li Çankaya Belediyesi'ne operasyon düzenlendi. Sabah saatlerinde belediye binasına gelen polisin, buradaki çeşitli birimlerde ve odalarda arama çalışması başlattığı belirtildi.",
+          "title": "Ankara Kalesi'nde yangın",
+          "summary": "Ankara Kalesi’nin etrafındaki otluk alanda akşam saatlerinde çıkan yangın söndürüldü. Başkentin Altındağ ilçesinde bulunan Ankara Kalesi etrafındaki otluk alanda akşam saatlerinde yangın çıktı. Alevleri gören vatandaşlar durumu itfaiye ekiplerine bildirdi. Bölgeye sevk edilen ekiplerin müdahalesiyle yangın söndürüldü. Yangının havai fişek atılması sonucu çıktığı iddia edildi. Ekipler inceleme başlattı.",
+          "source": "https://www.ntv.com.tr/turkiye/ankara-kalesinde-yangin-1732470"
+        },
+        {
+          "title": "Son Dakika... CHP'li Çankaya Belediyesi'ne operasyon. Belediye Başkanı Hüseyin Can Güner gözaltına alındı",
+          "summary": "CHP'li Çankaya Belediyesi'ne yönelik dün erken saatlerinde operasyon düzenlendi. Belediye Başkanı Hüseyin Can Güner dahil 36 kişi hakkında gözaltı kararı verildi. Güner, yurda dönüşünde havalimanında gözaltına alındı. Gözaltı sayısı 30 oldu. CHP'li belediyelere yönelik yolsuzluk iddialarıyla başlatılan operasyonlar sürüyor. Dün sabah saatlerinde Ankara CHP'li Çankaya Belediyesi'ne operasyon düzenlendi.",
           "source": "https://www.ntv.com.tr/turkiye/son-dakika-chpli-cankaya-belediyesine-operasyon-belediye-baskani-huseyin-can-guner-dahil-36-gozalti-karari-1732343"
         },
         {
-          "title": "Eşinin intihar ettiğini iddia ediyordu.... İple boğduğunu itiraf etti",
-          "summary": "Bursa’nın Yenişehir ilçesinde yatağında ölü bulunan Naciye B.’nin (45), intihar ettiğini iddia eden eşi Erol B. (42) tarafından öldürüldüğü ortaya çıktı. 4 çocuğunun annesini iple boğarak öldürdüğünü itiraf eden şüpheli tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/esinin-intihar-ettigini-iddia-ediyordu-iple-bogdugunu-itiraf-etti-43236671"
+          "title": "Kayseri'de 'dur' ihtarına uymayan alkollü sürücüye 225 bin TL ceza",
+          "summary": "Kayseri'de polis ekiplerinin ‘dur' ihtarına uymayan sürücünün, yapılan kontrollerde 0,57 promil alkollü olduğu belirlendi. Sürücüye ‘dur ihtarına uymamak' ve ‘alkollü araç kullanmak' suçundan 225 bin TL idari para cezası uygulandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-dur-ihtarina-uymayan-alkollu-surucuye-225-bin-tl-ceza-43236892"
         },
         {
-          "title": "Manisa'da maki yangınında alevler ormana sıçradı",
-          "summary": "Manisa'nın Sarıgöl ilçesinde maki yangını çıktı. Rüzgarın da etkisiyle ormana sıçrayan yangına, havadan ve karadan ekiplerin müdahalesi sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/manisada-maki-yangininda-alevler-ormana-sicradi-43236643"
+          "title": "15 Temmuz’a ilişkin ‘tiyatro’ ifadesi kullandıkları iddia edilen 2 şüpheliye adli kontrol",
+          "summary": "Bahçelievler Belediye Meclisi’nde 15 Temmuz şehitleri ve darbe girişimine yönelik 'tiyatro' ifadesi kullandıkları iddia edilen CHP’li Meclis 1. Başkan Vekili Nazife Aktaş ile Meclis Üyesi Gencay Özkan hakkında resen soruşturma başlatıldı. Savcılıkta ifade veren şüpheliler çıkarıldıkları mahkemece adli kontrol şartıyla serbest bırakıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/15-temmuza-iliskin-tiyatro-ifadesi-kullandiklari-iddia-edilen-2-supheliye-adli-kontrol-43236891"
         },
         {
-          "title": "Kocaeli'de cami avlusunda uygunsuz davranış: İmam çifti uyarınca darbedildi! O anlar güvenlik kamerasında",
-          "summary": "Kocaeli’nin İzmit ilçesinde, cami avlusunda uygunsuz davranışlarda bulunduğu iddia edilen çifti uyaran imam Ömer Kahvecioğlu, erkek şüpheli tarafından darbedildi. O anlar güvenlik kamerasına yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kocaelide-cami-avlusunda-uygunsuz-davranis-imam-cifti-uyarinca-darbedildi-o-anlar-guvenlik-kamerasinda-43236628"
+          "title": "Sahilde bulduğu İHA'yı, arazi aracıyla evine götürdü",
+          "summary": "Sakarya’nın Karasu ilçesi sahilinde bulduğu insansız hava aracını (İHA), arazi aracına yükleyerek evinin bahçesine götüren A.Ç. (61), durumu yetkililere bildirdi. Jandarma ekipleri, İHA’yı incelemek üzere teslim aldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sahilde-buldugu-ihayi-arazi-araciyla-evine-goturdu-43236885"
         },
         {
-          "title": "Marmaray'da korku dolu anlar: Raylara oturan yolcu trenin altında sıkıştı",
-          "summary": "Üsküdar’da Marmaray tren istasyonunda durakta bekleyen kadın yolcu raylara indi. Trenin altında sıkışan kadın istasyondaki yolcular ve güvenlik görevlilerince kurtarıldı. Kurtarılma anları cep telefonu kamerasıyla kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/marmarayda-korku-dolu-anlar-raylara-oturan-yolcu-trenin-altinda-sikisti-43236623"
+          "title": "İmamoğlu'nun Portekizli mankenle buluşmasına aracılık ettiği iddia edilen Nadela Moldova tutuklandı",
+          "summary": "İstanbul Büyükşehir Belediyesi'ne yönelik 'yolsuzluk' soruşturması kapsamında tutuklanarak görevinden uzaklaştırılan Ekrem İmamoğlu'nun, Portekizli manken Tessy Ramos Correia ile buluşmasına aracılık ettiği iddia edilen Nadela Moldova Yalova’da gözaltına alındı. Adliyeye sevk sevk edilen Moldova, tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/imamoglunun-portekizli-mankenle-bulusmasina-aracilik-ettigi-iddia-edilen-nadela-moldova-tutuklandi-43236881"
         },
         {
-          "title": "Bakan Çiftçi açıkladı. Polislerin mesai saatlerine düzenleme geliyor",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, polislerin çalışma saatleriyle ilgili düzenleme yapmak istediklerini söyledi. Çiftçi, \"Yeni mesai düzenine geçtikten sonra fazla çalışma yapanlara ödeme yapmak için çalışmalarımız var. Mevcut kanun teşkilata dar gelmeye başladı. Düzenlemeler yapılacak.\" dedi. İçişleri Bakanı Mustafa Çiftçi, gündemde yer alan konulara ilişkin olarak CNN Türk yayınında açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-ciftci-acikladi-polislerin-mesai-saatlerine-duzenleme-geliyor-1732382"
-        },
-        {
-          "title": "Mikro deprem kümesi büyük Marmara depreminin habercisi mi? \"Önümüzdeki 7 güne dikkat\"",
-          "summary": "Son günlerde Orta Marmara Çukuru'nda meydana gelen mikro deprem kümesine ilişkin Karadeniz Teknik Üniversitesi (KTÜ) eski öğretim üyesi Jeoloji Mühendisi Prof. Dr. Osman Bektaş, önümüzdeki 3 ile 7 gün içindeki deprem hareketliliğine dikkat çekti. Marmara Denizi’nde meydana gelen küçük depremler yeniden dikkatleri bölgeye çevirdi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından yayımlanan verilere göre, son günlerde Marmara Denizi'nde küçük ölçekli depremler meydana geliyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-mikro-deprem-kumesi-buyuk-marmara-depreminin-habercisi-mi-onumuzdeki-7-gune-dikkat-1732436"
+          "title": "Araçlarından inip trafikte kavga eden sürücülere 362 bin TL para cezası",
+          "summary": "Mersin’de trafikte araçlarından inerek kavga eden kamyonet ve motosiklet sürücülerine toplam 362 bin 719 TL para cezası kesildi. Ayrıca, iki sürücünün ehliyetlerine 60 gün el konulurken, araçları da 60 gün trafikten men edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/araclarindan-inip-trafikte-kavga-eden-suruculere-362-bin-tl-para-cezasi-43236878"
         }
       ]
     },
     "dunya": {
-      "text": "Boyu 20 metreye kadar çıkabiliyor… Tayland'da yeni dinozor türü keşfedildi. NATO ülkesinde Rusya alarmı: Her kamera bir ajan. İran lideri Mücteba Hamaney'den intikam yemini. \"İsimleri baştan sona listelendi\". Yunan basını gündeme taşıdı: İsrail'le gizli askeri test. Soykırımın acısı dinmiyor: Srebrenitsa'da 10 kurban daha defnedildi. Küba tekrar karanlığa gömüldü. İngiltere'de başbakan olması beklenen Burnham'dan Gazze mesajı. \"Vicdanımızdaki yara\".",
+      "text": "İran Hürmüz Boğazı'nı yeniden kapattı. Aşırı sıcaklar Tour de France'ı kısalttı. Venezuela'da can kaybı 4 bin 330'u aştı. Trump: Sağlık testinden tam puan aldım. Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 4 bin 333'e yükseldi. Bavi Tayfunu alarmı. 1 milyon 800 bin kişi tahliye edildi. Almanya'da İsrail’e mühimmat üreten Rheinmetall protesto edildi… Çok sayıda kişi gözaltında.",
       "items": [
         {
-          "title": "Boyu 20 metreye kadar çıkabiliyor… Tayland'da yeni dinozor türü keşfedildi",
-          "summary": "Tayland'da bilim insanları, yaklaşık 150 milyon yıl önce yaşadığı değerlendirilen, boyu 20 metreye kadar ulaşabilen ve oldukça uzun boynuyla dikkati çeken yeni bir dinozor türü keşfetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/boyu-20-metreye-kadar-cikabiliyor-taylandda-yeni-dinozor-turu-kesfedildi-43236677"
+          "title": "İran Hürmüz Boğazı'nı yeniden kapattı",
+          "summary": "İran Devrim Muhafızları, savaşın ve ateşkesin en kritik alanı Hürmüz Boğazı'nın ikinci bir duyuruya kadar trafiğe kapatıldığını duyurdu. ABD Hürmüz kıyılarını vurdu, İran ise Bahreyn, Katar ve Birleşik Arap Emirlikleri'ndeki ABD üslerini hedef aldı. ABD ile İran arasındaki gerilimin yükselmesiyle birlikte 14 maddelik mutabakatın fiilen bozulması ve karşılıklı saldırıların yeniden başlaması sonrası Devrim Muhafızları Ordusu'ndan Hürmüz adımı geldi.",
+          "source": "https://www.ntv.com.tr/dunya/iran-hurmuz-bogazini-yine-kapatti-1732461"
         },
         {
-          "title": "NATO ülkesinde Rusya alarmı: Her kamera bir ajan",
-          "summary": "Hollanda istihbaratı, Rusya'nın internete bağlı güvenlik kameralarını ele geçirerek NATO ülkelerindeki askeri üsleri ve Ukrayna'ya yönelik silah sevkiyatlarını izlediğini açıkladı. Hollandalı yetkililer, kritik noktalardaki tüm kurumlara acil siber güvenlik uyarısı yapıldığını ifade etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/nato-ulkesinde-rusya-alarmi-her-kamera-bir-ajan-43236654"
+          "title": "Aşırı sıcaklar Tour de France'ı kısalttı",
+          "summary": "Avrupa'yı kavuran aşırı sıcaklar nedeniyle 113'üncü Fransa Bisiklet Turu'nun (Tour de France) 9'uncu etap parkuru 30 kilometre kısaltıldı. Arupa'da rekor kıran ve yüzlerce kişinin ölümüne neden olan aşırı sıcak havalar, bisiklet dünyasının en prestijli yarışı Tour de France'ı da vurdu. Tour de France'ın sosyal medya hesabından yapılan açıklamaya göre, 113'üncü Fransa Bisiklet Turu'nun yarın Correze kentinde düzenlenecek 9'uncu etap parkurunda değişikliğe gidildi.",
+          "source": "https://www.ntv.com.tr/dunya/asiri-sicaklar-tour-de-francei-kisaltti-1732471"
         },
         {
-          "title": "İran lideri Mücteba Hamaney'den intikam yemini. \"İsimleri baştan sona listelendi\"",
-          "summary": "İran dini lideri Mücteba Hamaney, ABD-İsrail saldırısında öldürülen babası ve eski dini lider Ali Hamaney’in intikamının alınacağının sözünü vererek, \"İntikam, milletimizin isteğidir ve mutlaka yerine getirilmelidir.\" dedi. İran dini lideri Mücteba Hamaney, 28 Şubat'ta ABD-İsrail saldırısında öldürülen babası ve önceki dini lider Ali Hamaney için İran ve Irak'ta düzenlenen cenaze törenleriyle ilgili yazılı açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/iran-lideri-mucteba-hamaneyden-intikam-yemini-isimleri-bastan-sona-listelendi-1732437"
+          "title": "Venezuela'da can kaybı 4 bin 330'u aştı",
+          "summary": "Venezuela'da, 24 Haziran'da peş peşe meydana gelen iki büyük depremde hayatını kaybedenlerin sayısı 4 bin 333'e yükseldi. Venezuela'da 39 saniye arayla 7.2 ve 7.5 büyüklüğündeki 2 depremin 18'inci gününde 215 kişinin daha cansız bedenine ulaşıldı. Venezuela Ulusal Meclis Başkanı (AN) Jorge Rodriguez, başkent Caracas'ta düzenlediği basın toplantısında depremlere ilişkin açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/venezuelada-can-kaybi-4-bin-330u-asti-1732464"
         },
         {
-          "title": "Yunan basını gündeme taşıdı: İsrail'le gizli askeri test",
-          "summary": "Yunan basını, Lavrio Limanı açıklarında Avrupa Birliği destekli bir program kapsamında İsrail'in de katıldığı deniz altı askeri testleri gerçekleştirildiğini öne sürdü. Haberde, testlerin yerel halka bilgi verilmeden yapıldığını iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunan-basini-gundeme-tasidi-israille-gizli-askeri-test-43236634"
+          "title": "Trump: Sağlık testinden tam puan aldım",
+          "summary": "14 Haziran'da 80 yaşına giren ABD Başkanı Donald Trump sağlık testlerinden \"tam puan aldığını\" duyurdu. Walter Reed Ulusal Askeri Tıp Merkezi'nde sağlık taraması yaptıran ABD Başkanı Donald Trump, sosyal medya hesabından kontrollerle ilgili bilgileri paylaştı. Altı ayda bir bu testlere girdiğini ifade eden Trump sağlık taraması sırasında ayrıca beyin sağlığıyla ilgili bir bilişsel test talep ettiğini açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-saglik-testinden-tam-puan-aldim-1732462"
         },
         {
-          "title": "Soykırımın acısı dinmiyor: Srebrenitsa'da 10 kurban daha defnedildi",
-          "summary": "Bosna Hersek'in doğusundaki Srebrenitsa'da, Sırp birliklerince 1995'te yapılan soykırımda katledilen 10 kurbanın cenazesi, Potoçari Anıt Mezarlığı'nda toprağa verildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/soykirimin-acisi-dinmiyor-srebrenitsada-10-kurban-daha-defnedildi-43236630"
+          "title": "Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 4 bin 333'e yükseldi",
+          "summary": "Venezuela'da, 24 Haziran'da meydana gelen iki büyük depremde yaşamını yitirenlerin sayısının 4 bin 333'e yükseldiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/venezueladaki-depremlerde-hayatini-kaybedenlerin-sayisi-4-bin-333e-yukseldi-43236834"
         },
         {
-          "title": "Küba tekrar karanlığa gömüldü",
-          "summary": "Küba'nın ulusal elektrik şebekesi bir kez daha çökmesi sonucu bu hafta ülke genelinde 2'nci, bu yıl ise 4'üncü elektrik kesintisi yaşandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kuba-tekrar-karanliga-gomuldu-43236600"
+          "title": "Bavi Tayfunu alarmı. 1 milyon 800 bin kişi tahliye edildi",
+          "summary": "Çin'de yarın sabah karaya ulaşması beklenen Bavi Tayfunu nedeniyle alarm verildi. Ülkenin doğusundaki Zhejiang ve Fujian eyaletlerinde tahliye edilen kişilerin sayısı 1,8 milyona ulaştı. En üst düzey acil durum önlemleri uygulamaya konuldu. Çin'de Bavi Tayfunu nedeniyle alarm durumu sürerken, ülkenin doğusunda tahliye çalışmaları devam ediyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bavi-tayfunu-alarmi-1-milyon-800-bin-kisi-tahliye-edildi-1732449"
         },
         {
-          "title": "İngiltere'de başbakan olması beklenen Burnham'dan Gazze mesajı. \"Vicdanımızdaki yara\"",
-          "summary": "İngiltere'de Andy Burnham başbakanlığı neredeyse garantiledi. Burnham bir milletvekilinin daha desteğini alırsa tek aday olacak. Burnham, İsrail'e yaptırımları artırma vaadinde bulundu. İngiltere'de Başbakan olması beklenen İşçi Partili Andy Burnham, Keir Starmer'ın Gazze politikası nedeniyle özür diledi. Burnham, Gazze'deki insani tabloyu \"ortak vicdanımızdaki yara\" olarak niteledi.",
-          "source": "https://www.ntv.com.tr/dunya/ingilterede-basbakan-olmasi-beklenen-burnhamdan-gazze-mesaji-vicdanimizdaki-yara-1732435"
+          "title": "Almanya'da İsrail’e mühimmat üreten Rheinmetall protesto edildi… Çok sayıda kişi gözaltında",
+          "summary": "Almanya’nın başkenti Berlin’de İsrail için mühimmat üreten Rheinmetall şirketine karşı düzenlenen protesto gösterisinde polis çok sayıda kişiyi gözaltına aldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-israile-muhimmat-ureten-rheinmetall-protesto-edildi-cok-sayida-kisi-gozaltinda-43236753"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe'de 3 yıldız için transfer alarmı! Juventus devrede, İsmail Kartal kararını verecek. Göztepe Başkanı Rasmus Ankersen: 'Yeni Romulo bulmamız lazım!'. Daniele Santarelli: 'Hiçbir zaman odağımız kaybetmedik!'. Fenerbahçe Braxton Key transferini açıkladı!. Fenerbahçe Mikael Jantunen ile yollarını ayırdı!. Bursa 1. Altılısında Misliyle Kazandırdı! İşte Misli’de Günün Kazanan Altılısı…. Salih Özcan'dan Orkun Kökçü açıklaması: 'Transferimde etkisi var!'.",
+      "text": "Levent Mercan: 'Takımın içerisinde çok iyi bir hava var!'. Ersin Destanoğlu'ndan sürpriz imza! Yeni adresi belli oldu. İtalya Milli Takım'ı Paolo Maldini’ye emanet!. Armand Lauriente'den Sassuolo'ya Beşiktaş baskısı!. Tarık Biberovic resmen NBA'de!. Gökhan Gönül, Gençlerbirliği'nde yardımcı antrenör oldu!. Güney Afrikalı futbolcu Jayden Adams hayatını kaybetti.",
       "items": [
         {
-          "title": "Fenerbahçe'de 3 yıldız için transfer alarmı! Juventus devrede, İsmail Kartal kararını verecek",
-          "summary": "Yeni sezon öncesi kadro planlamasını sürdüren Fenerbahçe'de Ederson, Anthony Musaba ve Fred için dikkat çeken transfer gelişmeleri yaşanıyor. Ederson'a Juventus'un ilgi gösterdiği, Musaba'nın İngiltere'den taliplerinin bulunduğu, Fred'in geleceğinin ise İsmail Kartal'ın vereceği rapora göre netleşeceği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-3-yildiz-icin-transfer-alarmi-juventus-devrede-ismail-kartal-kararini-verecek-43236684"
+          "title": "Levent Mercan: 'Takımın içerisinde çok iyi bir hava var!'",
+          "summary": "Fenerbahçe Futbolcu Levent Mercan, “Takımın içerisinde çok iyi bir hava var. Herkes çok iyi geri döndü tatilden. Herkes de çok istekli. Bence en çok dikkat edilebileceğimiz şey bu şu an” dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/levent-mercan-takimin-icerisinde-cok-iyi-bir-hava-var-43236886"
         },
         {
-          "title": "Göztepe Başkanı Rasmus Ankersen: 'Yeni Romulo bulmamız lazım!'",
-          "summary": "Süper Lig'de yeni sezon hazırlıklarını Slovenya'nın Bled kasabasında sürdüren Göztepe'nin Danimarkalı Başkanı Rasmus Ankersen değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/goztepe-baskani-rasmus-ankersen-yeni-romulo-bulmamiz-lazim-43236616"
+          "title": "Ersin Destanoğlu'ndan sürpriz imza! Yeni adresi belli oldu",
+          "summary": "Beşiktaş ile yollarını ayıran kaleci Ersin Destanoğlu, Birleşik Arap Emirlikleri ekibi Al-Jazira’ye transfer oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ersin-destanoglundan-surpriz-imza-yeni-adresi-belli-oldu-43236848"
         },
         {
-          "title": "Daniele Santarelli: 'Hiçbir zaman odağımız kaybetmedik!'",
-          "summary": "Filenin Sultanları, 2026 FIVB Kadınlar Milletler Ligi'nin (VNL) üçüncü etabındaki üçüncü maçında ev sahibi Japonya'yı 3-1 mağlup etti. Daniele Santarelli, karşılaşma sonrası açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-hicbir-zaman-odagimiz-kaybetmedik-43236594"
+          "title": "İtalya Milli Takım'ı Paolo Maldini’ye emanet!",
+          "summary": "İtalya Futbol Federasyonunun (FIGC), eski milli oyuncu Paolo Maldini'yi milli takımlar teknik sorumlusu görevine getirdiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/italya-milli-takimi-paolo-maldiniye-emanet-43236828"
         },
         {
-          "title": "Fenerbahçe Braxton Key transferini açıkladı!",
-          "summary": "Fenerbahçe, Braxton Key'i kadrosuna kattığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-braxton-key-transferini-acikladi-43236518"
+          "title": "Armand Lauriente'den Sassuolo'ya Beşiktaş baskısı!",
+          "summary": "Yeni sezon öncesi kadrosunu kanat transferiyle güçlendirmek isteyen Beşiktaş'ın listesinde yer alan Armand Lauriente ile ilgili dikkat çeken bir iddia ortaya atıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/armand-laurienteden-sassuoloya-besiktas-baskisi-43236733"
         },
         {
-          "title": "Fenerbahçe Mikael Jantunen ile yollarını ayırdı!",
-          "summary": "Fenerbahçe, Finlandiyalı oyuncu Mikael Jantunen ile yollarını ayırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-mikael-jantunen-ile-yollarini-ayirdi-43236468"
+          "title": "Tarık Biberovic resmen NBA'de!",
+          "summary": "Milli basketbolcu Tarık Biberovic, NBA takımlarından Dallas Mavericks'e transfer oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tarik-biberovic-resmen-nbade-43236699"
         },
         {
-          "title": "Bursa 1. Altılısında Misliyle Kazandırdı! İşte Misli’de Günün Kazanan Altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli yazarları kuponlarıyla şov yapıyor! Dün koşulan Bursa 1. 6’lı Ganyan koşularında Misli yazarı Uğur Kocabaşoğlu, hazırladığı 10 misli kuponuyla 62.702,50 TL kazandırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bursa-1-altilisinda-misliyle-kazandirdi-iste-mislide-gunun-kazanan-altilisi-43236430"
+          "title": "Gökhan Gönül, Gençlerbirliği'nde yardımcı antrenör oldu!",
+          "summary": "Eski milli futbolcu Gökhan Gönül, Gençlerbirliği'nde yardımcı antrenörlük görevine getirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gokhan-gonul-genclerbirliginde-yardimci-antrenor-oldu-43236715"
         },
         {
-          "title": "Salih Özcan'dan Orkun Kökçü açıklaması: 'Transferimde etkisi var!'",
-          "summary": "Beşiktaş'ın yeni transferlerinden Salih Özcan, Slovakya kampında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/salih-ozcandan-orkun-kokcu-aciklamasi-transferimde-etkisi-var-43236408"
+          "title": "Güney Afrikalı futbolcu Jayden Adams hayatını kaybetti",
+          "summary": "Afrika Futbol Konfederasyonu (CAF), 2026 FIFA Dünya Kupası'nda Güney Afrika formasını giyen Jayden Adams'ın hayatını kaybettiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/guney-afrikali-futbolcu-jayden-adams-hayatini-kaybetti-43236712"
         }
       ]
     },
