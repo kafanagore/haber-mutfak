@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-13T10:00:04.677Z",
+  "generatedAt": "2026-07-13T16:00:05.008Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul merkezli 8 ilde FETÖ'nün emniyet mahrem yapılanmasına operasyon: 24 gözaltı. 73 ilde torbacılara operasyon. 935 şüpheli tutuklandı. Kocaeli’de karaya oturan gemi, 7 milyon 411 bin TL bedelle satışa çıkarılacak. İmamoğlu'nun bilirkişi davasında yeni gelişme. Diyarbakır Surları'nda tahta bacakla tehlikeli yürüyüş: Farkındalık için yaptım. İzmir'de denizde sürüklenen 1'i bebek 5 kişi kurtarıldı. Darbe girişimini anlatan \"15 Temmuz Demokrasi Müzesi\"ni 5 yılda 440 bin kişi ziyaret etti.",
+      "text": "Son dakika... Cumhurbaşkanı Erdoğan: Artık reddi miras yapan bir Türkiye yok. Bilal Erdoğan: Notmatix öğretmenin işini kolaylaştıracak, bireysel takibi güçlendirecek. Boks Federasyonu'ndan MHP lideri Bahçeli'ye ziyaret. İş adamı Hüseyin Başaran'ın Haluk Levent hakkındaki şikayet dilekçesi ortaya çıktı: 60 milyon dolarlık mal varlığı hedef alındı. Hüseyin Başaran kimdir, ne iş yapıyor? 8 yıl önce kazada kızını kaybeden iş insanı Hüseyin Başaran'ın hayatı. Tanju Özcan'a açılan ayrımcılık davasında karar. Çankaya Belediye Başkanı Güner’in ifadesi ortaya çıktı: İhalelerle bilgim ve ilgim yoktur.",
       "items": [
         {
-          "title": "İstanbul merkezli 8 ilde FETÖ'nün emniyet mahrem yapılanmasına operasyon: 24 gözaltı",
-          "summary": "İstanbul merkezli 8 ilde FETÖ/PDY silahlı terör örgütünün emniyet mahrem yapılanmasına yönelik düzenlenen eş zamanlı operasyonlarda 24 şüpheli yakalandı. Şüphelilerden 8'inin aktif kamu görevlisi olduğu öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbul-merkezli-8-ilde-fetonun-emniyet-mahrem-yapilanmasina-operasyon-24-gozalti-43238058"
+          "title": "Son dakika... Cumhurbaşkanı Erdoğan: Artık reddi miras yapan bir Türkiye yok",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kabine Toplantısı sonrası açıklamalarda bulundu. Cumhurbaşkanı Erdoğan, \"Daha önce defalarca söylediğim gibi bir gerçeği bugün tekrar ifade ediyorum. Özellikle mehter marşından, yeniçeriden ve merasimlerin tam da tarihimize yaraşır biçimde icra edilmesinden rahatsız olanlara şunu hatırlatıyorum. İster kabul edin ister etmeyin ama artık reddimiras yapan bir Türkiye yok\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-43238504"
         },
         {
-          "title": "73 ilde torbacılara operasyon. 935 şüpheli tutuklandı",
-          "summary": "Torbacı olarak tabir edilen uyuşturucu satıcılarına yönelik 73 ilde düzenlenen operasyonlarda bin 780 şüpheli yakalandı. Uyuşturucuyla mücadele sürüyor. İçişleri Bakanlığı; 73 ilde son 2 haftada düzenlenen operasyonlarda 985 kilo uyuşturucu madde ile 1 milyon 639 bin 239 adet uyuşturucu hap ele geçirildiğini bildirdi. Operasyonlar kapsamında bin 780 şüpheli yakalandı. Şüphelilerden 935’i tutuklandı, 224’ü hakkında adli kontrol hükümleri uygulandı. Diğer şüphelilerin işlemleri devam ediyor.",
-          "source": "https://www.ntv.com.tr/turkiye/73-ilde-torbacilara-operasyon-935-supheli-tutuklandi-1732693"
+          "title": "Bilal Erdoğan: Notmatix öğretmenin işini kolaylaştıracak, bireysel takibi güçlendirecek",
+          "summary": "İbn Haldun Üniversitesi’nde yapay zeka destekli ölçme ve değerlendirme platformu Notmatix’in lansmanı yapıldı. Bilal Erdoğan, projenin eğitimde öğretmenlerin işini kolaylaştıracağını ve öğrencilerin bireysel takibini güçlendireceğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bilal-erdogan-notmatix-ogretmenin-isini-kolaylastiracak-bireysel-takibi-guclendirecek-43238481"
         },
         {
-          "title": "Kocaeli’de karaya oturan gemi, 7 milyon 411 bin TL bedelle satışa çıkarılacak",
-          "summary": "Kandıra ilçesi açıklarında, 18 Eylül 2025’te karaya oturan Tanzanya bayraklı 81 metre uzunluğundaki 'RAPID' isimli kuru yük gemisi için satış ihalesi kararı alındı. Yaklaşık 9 ay 25 gündür atıl durumda bekleyen gemi, 7 milyon 411 bin 754 TL tahmini bedelle açık teklif usulüyle satışa çıkarılacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/kocaelide-karaya-oturan-gemi-7-milyon-411-bin-tl-bedelle-satisa-cikarilacak-43238003"
+          "title": "Boks Federasyonu'ndan MHP lideri Bahçeli'ye ziyaret",
+          "summary": "Türkiye Boks Federasyonu Başkanı Suat Hekimoğlu ve Asbaşkan Sinan Demircioğlu, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli’yi makamında ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/boks-federasyonundan-mhp-lideri-bahceliye-ziyaret-43238475"
         },
         {
-          "title": "İmamoğlu'nun bilirkişi davasında yeni gelişme",
-          "summary": "Tutuklu olan Ekrem İmamoğlu'nun bilirkişiye yönelik sözleri nedeniyle yargılandığı dava 8 Aralık'a ertelendi. Tutuklandıktan sonra görevinden uzaklaştırılan İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu'nun yargılandığı bilirkişi davasında yeni bir gelişme yaşandı. Ekrem İmamoğlu‘nun bilirkişiye yönelik sarf ettiği sözler nedeniyle devam yargılaması 8 Aralık’a ertelendi. Duruşma savcısı değiştiği için süre istendi. İstanbul 2.",
-          "source": "https://www.ntv.com.tr/turkiye/imamoglunun-bilirkisi-davasinda-yeni-gelisme-1732658"
+          "title": "İş adamı Hüseyin Başaran'ın Haluk Levent hakkındaki şikayet dilekçesi ortaya çıktı: 60 milyon dolarlık mal varlığı hedef alındı",
+          "summary": "Ahbap Derneği’ne yönelik soruşturma kapsamında gözaltına alınan Haluk Levent hakkında yeni bir iddia daha ortaya çıktı. Başaran Holding Yönetim Kurulu Başkanı Hüseyin Başaran’ın avukatı, Gaziosmanpaşa Cumhuriyet Başsavcılığı’na yaptığı başvuruda, güncel değeri yaklaşık 60 milyon dolar olan 22 gayrimenkulün Haluk Levent’in de aralarında bulunduğu şüpheliler tarafından hileli yollarla ele geçirilmeye çalışıldığını öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/gundem/is-adami-huseyin-basaranin-haluk-levent-hakkindaki-sikayet-dilekcesi-ortaya-cikti-60-milyon-dolarlik-mal-varligi-hedef-alindi-43238435"
         },
         {
-          "title": "Diyarbakır Surları'nda tahta bacakla tehlikeli yürüyüş: Farkındalık için yaptım",
-          "summary": "Mardin'de yaşayan 22 yaşındaki Refik Ceviz, çıkılması yasak ve tehlikeli olan tarihi Diyarbakır Surları üzerinde tahta bacaklarıyla yürüyerek tehlikeye dikkat çekti. 3 metreyi aşan boyuyla surlarda yürüyüş yapan Ceviz, bu eylemi yalnızca farkındalık oluşturmak amacıyla gerçekleştirdiğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakir-surlarinda-tahta-bacakla-tehlikeli-yuruyus-farkindalik-icin-yaptim-43237991"
+          "title": "Hüseyin Başaran kimdir, ne iş yapıyor? 8 yıl önce kazada kızını kaybeden iş insanı Hüseyin Başaran'ın hayatı",
+          "summary": "Türkiye’nin saygın iş insanlarından biri olan Hüseyin Başaran, iş dünyasındaki başarılarının yanı sıra yıllar önce tüm ülkeyi yasa boğan derin bir ailevi trajediyle de hafızalara kazındı. Sosyal medyada ve basında yeniden gündeme gelen ünlü iş insanının yaşam öyküsü, vatandaşlar tarafından merak ediliyor. Peki, Hüseyin Başaran kimdir, ne iş yapıyor? 8 yıl önce yaşanan uçak kazasında kızı Mina Başaran'ı kaybeden iş insanı Hüseyin Başaran'ın hayatı ve kariyeri hakkında bilgiler merak ediliyor.",
+          "source": "https://www.ntv.com.tr/turkiye/huseyin-basaran-kimdir-ne-is-yapiyor-8-yil-once-kazada-kizini-kaybeden-is-insani-huseyin-basaranin-hayati-1732740"
         },
         {
-          "title": "İzmir'de denizde sürüklenen 1'i bebek 5 kişi kurtarıldı",
-          "summary": "İzmir'de, kürek sörfü yaptıkları sırada denizde sürüklenen 5 kişi, Sahil Güvenlik Komutanlığı ekiplerince kurtarıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-denizde-suruklenen-1i-bebek-5-kisi-kurtarildi-43237953"
+          "title": "Tanju Özcan'a açılan ayrımcılık davasında karar",
+          "summary": "Görevden uzaklaştırılan Bolu Belediye Başkanı Tanju Özcan'a sığınmacılara yönelik sözleri nedeniyle açılan ayrımcılık davasında karar çıktı. Görevden uzaklaştırılan Bolu Belediye Başkanı Tanju Özcan'a sığınmacılara yönelik sözleri nedeniyle açılan davada beraat kararı verildi. Yolsuzluk suçlamasıyla başlatılan soruşturma kapsamında tutuklu bulunan Özcan, sığınmacılara verilen ayni ve nakdi yardımı keserken, su ücretlerine 10 kat zam yapıp, nikah ücretlerinin de 100 bin lira olması yönünde karar almıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/tanju-ozcana-acilan-ayrimcilik-davasinda-karar-1732742"
         },
         {
-          "title": "Darbe girişimini anlatan \"15 Temmuz Demokrasi Müzesi\"ni 5 yılda 440 bin kişi ziyaret etti",
-          "summary": "Fetullahçı Terör Örgütü'nün (FETÖ) 15 Temmuz 2016'da gerçekleştirdiği darbe girişiminin ve o gece yaşananların hafızalarda canlı tutulması amacıyla kurulan 15 Temmuz Demokrasi Müzesi, açıldığı günden bu yana 440 bin 25 ziyaretçiyi ağırladı. Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla Ankara'da 15 Temmuz 2021'de açılan müze, 9 bin 667 metrekare kapalı teşhir, 1827 metrekare açık teşhir alanı olmak üzere toplam 92 bin 820 metrekarelik alanda hizmet veriyor.",
-          "source": "https://www.ntv.com.tr/turkiye/darbe-girisimini-anlatan-15-temmuz-demokrasi-muzesini-5-yilda-440-bin-kisi-ziyaret-etti-1732681"
+          "title": "Çankaya Belediye Başkanı Güner’in ifadesi ortaya çıktı: İhalelerle bilgim ve ilgim yoktur",
+          "summary": "Çankaya Belediyesi'ne yönelik yürütülen soruşturma kapsamında gözaltına alınan Belediye Başkanı Hüseyin Can Güner, emniyetteki ifadesinde mal varlığının belediye başkanı seçilmeden önce kişisel birikim ve miras yoluyla edinildiğini belirtti. İhale süreçlerinin kendi belirlediği usullerle yürütülmediğini ifade eden Güner, \"İhalelerin hazırlanışı ve yapılmasından bilgim ve ilgim yoktur.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cankaya-belediye-baskani-gunerin-ifadesi-ortaya-cikti-ihalelerle-bilgim-ve-ilgim-yoktur-43238394"
         }
       ]
     },
     "dunya": {
-      "text": "Girit Adası açıklarında 3.5 büyüklüğünde deprem. Papua Yeni Gine 6.4 ile sallandı. İran'dan ABD ile gerilime ilişkin açıklama: \"Mutabakat bir kriz sürecine girmiştir\". İsrail'den ABD'li siyasetçinin Batı Şeria'da gözaltına alınmasına ilişkin açıklama. Aliyev Türkiye ve Azerbaycan'ın dostluğunu dünyaya örnek gösterdi: Örnek alınması gereken model. ABD Senatörü Lindsey Graham'ın ani ölümünün nedeni belli oldu. AB, İsrail yerleşimlerine ticaret yasağını masaya yatırdı.",
+      "text": "Yüksek sıcaklıkların etkili olduğu Fransa'da 3 nükleer reaktörün faaliyeti askıya alındı. Putin, Ukrayna'nın saldırılarına güçlü yanıt vereceklerini söyledi. Trump: Hürmüz Boğazı'nı alıyoruz, abluka yeniden başlayacak. Fransa'da kırmızı alarm! Orman yangınları 37 vilayete yayıldı. AB çocukların sosyal medya kullanımını kısıtlamaya hazırlanıyor. Trump, ABD'nin Hürmüz Boğazı'nı ele geçireceğini duyurdu! İran'dan ilk yanıt. Türkiye ve KKTC'den AB Komisyonu'nun Kıbrıs kararına ilişkin art arda açıklamalar.",
       "items": [
         {
-          "title": "Girit Adası açıklarında 3.5 büyüklüğünde deprem",
-          "summary": "Yunanistan'ın Girit Adası açıklarında 3.5 büyüklüğünde deprem meydana geldiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/girit-adasi-aciklarinda-3-5-buyuklugunde-deprem-43238055"
+          "title": "Yüksek sıcaklıkların etkili olduğu Fransa'da 3 nükleer reaktörün faaliyeti askıya alındı",
+          "summary": "Yeni bir sıcak hava dalgasının etkisi altında olan Fransa’da 3 nükleer reaktörün faaliyeti durdurulurken, 8 reaktör de düşük güç moduna alındı. Yerel basının devlete ait enerji şirketi EDF’den yapılan açıklamaya dayandırdığı haberlere göre, 37 vilayetinde yüksek sıcaklıklar nedeniyle kırmızı alarm verilen Fransa’da nükleer reaktörler için de çevresel önlemler alındı.",
+          "source": "https://www.ntv.com.tr/dunya/yuksek-sicakliklarin-etkili-oldugu-fransada-3-nukleer-reaktorun-faaliyeti-askiya-alindi-1732744"
         },
         {
-          "title": "Papua Yeni Gine 6.4 ile sallandı",
-          "summary": "Papua Yeni Gine açıklarında 6.4 büyüklüğünde deprem meydana geldiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/papua-yeni-gine-6-4-ile-sallandi-43238016"
+          "title": "Putin, Ukrayna'nın saldırılarına güçlü yanıt vereceklerini söyledi",
+          "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna'nın Rus topraklarına yönelik saldırılarına güçlü yanıt vereceklerini belirterek, \"Her zaman misilleme yapacağız.\" dedi. Kremlin Sarayı'ndan yapılan açıklamaya göre, Putin, Rusya Halk Cephesi Hareketinin başkent Moskova'da düzenlediği programa ve sergiye katıldı. Putin, burada yaptığı açıklamada, Batı'nın Rusya ile mücadele ettiğini, ancak ülke ekonomisini geliştirmeye ve Rus ordusunu yenilemeye devam ettiklerini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/putin-ukraynanin-saldirilarina-guclu-yanit-vereceklerini-soyledi-1732743"
         },
         {
-          "title": "İran'dan ABD ile gerilime ilişkin açıklama: \"Mutabakat bir kriz sürecine girmiştir\"",
-          "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran ile ABD arasındaki karşılıklı saldırılara ilişkin, \"Şüphesiz mutabakat bir kriz sürecine girmiştir.\" dedi. İran Dışişleri Bakanlığı ve Müzakere Heyeti Sözcüsü İsmail Bekayi, başkent Tahran'da düzenlediği haftalık basın toplantısında gazetecilerin sorularını yanıtladı. “MUTABAKAT KRİZ SÜRECİNDE” İran'ın hiçbir zaman taahhütlerini ihlal etme konusunda öncü olmadığını savunan Bekayi, \"Şüphesiz mutabakat bir kriz sürecine girmiştir.",
-          "source": "https://www.ntv.com.tr/dunya/irandan-abd-ile-gerilime-iliskin-aciklama-mutabakat-bir-kriz-surecine-girmistir-1732689"
+          "title": "Trump: Hürmüz Boğazı'nı alıyoruz, abluka yeniden başlayacak",
+          "summary": "ABD Başkanı Donald Trump, İran ile yaptıkları anlaşmanın karşı tarafça bozulduğunu ileri sürerek, \"Hürmüz Boğazı'nı alıyoruz. Kontrol bizde olacak. Güvenliği sağlamak için ücret alacağız.\" dedi. Trump ablukayı yeniden başlatacaklarını söyledi. ABD Başkanı Donald Trump, Fox News kanalında yayımlanan “Fox & Friends” programına telefonla bağlanarak İran ve Hürmüz Boğazı'na ilişkin açıklamalarda bulundu. Trump, ABD'nin Hürmüz Boğazı'nın güvenliğini üstleneceğini belirterek, \"Hürmüz Boğazı'nı alıyoruz.",
+          "source": "https://www.ntv.com.tr/dunya/trump-hurmuz-bogazini-aliyoruz-1732731"
         },
         {
-          "title": "İsrail'den ABD'li siyasetçinin Batı Şeria'da gözaltına alınmasına ilişkin açıklama",
-          "summary": "ABD'li Demokrat Temsilciler Meclisi Üyesi Ro Khanna'nın işgal altındaki Batı Şeria ziyareti sırasında gözaltına alınmasına ilişkin İsrail'in Washington Büyükelçisi Michael Leiter'den açıklama geldi. Leiter, Khanna'nın ABD'nin İsrail Büyükelçiliği'ne ziyaretini bildirmediğini öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-abdli-siyasetcinin-bati-seriada-gozaltina-alinmasina-iliskin-aciklama-43237868"
+          "title": "Fransa'da kırmızı alarm! Orman yangınları 37 vilayete yayıldı",
+          "summary": "Fransa'da yüksek hava sıcaklıkları sebebiyle 37 vilayette kırmızı alarm verildi, ülkenin güneydoğusundaki yangınlara müdahale sürüyor. Yangınlarda 2 gün içinde 1000 hektar alanın zarar gördüğü kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-kirmizi-alarm-orman-yanginlari-37-vilayete-yayildi-43238455"
         },
         {
-          "title": "Aliyev Türkiye ve Azerbaycan'ın dostluğunu dünyaya örnek gösterdi: Örnek alınması gereken model",
-          "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, Ankara ile Bakü arasındaki dostane ilişkilere dikkat çekerek, \"Türkiye ile Azerbaycan arasındaki ilişki, komşu ülkeler tarafından incelenmesi ve örnek alınması gereken bir modeldir. Komşular da tıpkı Türkiye ile Azerbaycan gibi davranmalıdır.\" açıklamasını yaptı.",
-          "source": "https://www.hurriyet.com.tr/dunya/aliyev-turkiye-ve-azerbaycanin-dostlugunu-dunyaya-ornek-gosterdi-ornek-alinmasi-gereken-model-43237850"
+          "title": "AB çocukların sosyal medya kullanımını kısıtlamaya hazırlanıyor",
+          "summary": "Avrupa Birliği (AB) Komisyonu tarafından yetkilendirilen \"Çocukların Çevrim İçi Güvenliğine İlişkin Özel Uzman Heyeti\" 13 yaşın altındaki çocukların \"sosyal medya plus\" olarak tanımlanan platformlara erişimi için AB genelinde uyumlu bir yaş sınırı getirilmesi tavsiyesinde bulundu. AB Komisyonu, yaz sonrasında çocukların sosyal medya kullanımını düzenlemeye yönelik bir yasa tasarısı sunulacağını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/ab-cocuklarin-sosyal-medya-kullanimini-kisitlamaya-hazirlaniyor-43238442"
         },
         {
-          "title": "ABD Senatörü Lindsey Graham'ın ani ölümünün nedeni belli oldu",
-          "summary": "ABD'de İsrail'e verdiği destekle tanınan ve ani şekilde hayatını kaybeden Cumhuriyetçi Senatör Lindsey Graham'ın ölüm nedeni belli oldu. Cumhuriyetçi Senatör Lindsey Graham'ın ofisi, sosyal medyada spekülasyonlara neden olan ölümüne ilişkin adli tıp kurumunun ön bulgularını açıkladı. Açıklamada, Senatör Graham'ın ölümünün kalpten çıkan ana atardamarda meydana gelen iç duvar yırtılmasından (aort diseksiyonu) kaynaklandığı belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/abd-senatoru-lindsey-grahamin-ani-olumunun-nedeni-belli-oldu-1732661"
+          "title": "Trump, ABD'nin Hürmüz Boğazı'nı ele geçireceğini duyurdu! İran'dan ilk yanıt",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nı ellerinde tutacaklarını, \"muhtemelen\" geçişleri yöneteceklerini ve bunun için ödeme alacaklarını belirtti. İran Silahlı Kuvvetleri'nin savaşı yürüten birimi Hatemu'l Enbiya Merkez Karargahı Sözcüsü Albay İbrahim Zülfikari ise Trump’ın açıklaması hakkında, \"ABD'nin Hürmüz Boğazı'na müdahale etmesine izin vermedik vermeyeceğiz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-abdnin-hurmuz-bogazini-ele-gecirecegini-duyurdu-irandan-ilk-yanit-43238414"
         },
         {
-          "title": "AB, İsrail yerleşimlerine ticaret yasağını masaya yatırdı",
-          "summary": "AB Komisyonu, işgal altındaki Filistin topraklarındaki yasa dışı İsrail yerleşimlerinde üretilen ürünlere yönelik ithalat yasağı ve ek ticaret tedbirlerini içeren seçenek belgesini üye ülkelere sundu Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Brüksel'de düzenlenen AB Dışişleri Bakanları Toplantısı öncesinde basına açıklamalarda bulundu. AB Komisyonunun hazırladığı seçenek belgesinin masaya yatırıldığını belirten Kallas, \"Farklı seçenekler, bu belgede ortaya konuyor.",
-          "source": "https://www.ntv.com.tr/dunya/ab-israil-yerlesimlerine-ticaret-yasagini-masaya-yatirdi-1732654"
+          "title": "Türkiye ve KKTC'den AB Komisyonu'nun Kıbrıs kararına ilişkin art arda açıklamalar",
+          "summary": "Türkiye ve KKTC, Avrupa Birliği (AB) Komisyonu'nun Başkan Yardımcısı Raffaele Fitto’yu Kıbrıs Özel Temsilcisi olarak atamasına tepki gösterdi. Dışişleri Bakanlığı, Türkiye'nin kararı AB'nin iç meselesi olarak gördüğü kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiye-ve-kktcden-ab-komisyonunun-kibris-kararina-iliskin-art-arda-aciklamalar-43238385"
         }
       ]
     },
@@ -124,52 +124,67 @@
       ]
     },
     "spor": {
-      "text": "At Yarışı Tutkusu Bursa’da Yaşanıyor! İşte Misli’den Günün Altılı Analizi…. Dünya Kupası kâbusa dönüştü: Süper Lig'in eski gol kralına ölüm tehditleri yağıyor!. Djurgardens – Halmstads BK Maçı Gollü Geçer, Fylkir Reykjavik Deplasmanda Kazanır! İşte Misli’de Günün En Çok Oynanan Maçları. Kartal Kayra Yılmaz'dan Ersin Destanoğlu açıklaması: 'Paylaşımı gördüğümde çok duygusal anlar yaşadım!'. Mohamed Salah Süper Lig devine! 'Başkan takip ediyor'. 2030 Dünya Kupası'nda 64 takım ihtimali!. Beşiktaş, Slovakya kampını iki hazırlık maçıyla tamamlayacak.",
+      "text": "Beşiktaş'ta yeni sezon hazırlıkları sürüyor. Roma Paulo Dybala'nın sözleşmesini uzattı!. Kerem Aktürkoğlu için dev teklif! Fenerbahçe'nin istediği bonservis bedeli belli oldu. Manchester United Andrey Santos'u kadrosuna kattı!. TVF Başkanı Üstündağ'dan Eda Erdem ve Ebrar Karakurt açıklaması!. Slaven Bilic, yeniden Hırvatistan'ın teknik direktörü oldu. Okan Buruk, Fatih Terim'i geride bıraktı: Galatasaray tarihine geçti!.",
       "items": [
         {
-          "title": "At Yarışı Tutkusu Bursa’da Yaşanıyor! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/at-yarisi-tutkusu-bursada-yasaniyor-iste-misliden-gunun-altili-analizi-43238029"
+          "title": "Beşiktaş'ta yeni sezon hazırlıkları sürüyor",
+          "summary": "Beşiktaş, yeni sezon hazırlıklarını sabah saatlerinde yaptığı antrenmanla sürdürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-yeni-sezon-hazirliklari-suruyor-43238473"
         },
         {
-          "title": "Dünya Kupası kâbusa dönüştü: Süper Lig'in eski gol kralına ölüm tehditleri yağıyor!",
-          "summary": "Süper Lig'de Trabzonspor formasıyla gol krallığı yaşayan Norveçli forvet Alexander Sörloth, 2026 Dünya Kupası çeyrek finalinde İngiltere'ye karşı oynadıkları maçın ardından ölüm tehditleri almaya başladı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasi-kabusa-donustu-super-ligin-eski-gol-kralina-olum-tehditleri-yagiyor-43237980"
+          "title": "Roma Paulo Dybala'nın sözleşmesini uzattı!",
+          "summary": "Serie A ekibi Roma, Paulo Dybala'nın sözleşmesinin 2027'ye kadar uzatıldığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/roma-paulo-dybalanin-sozlesmesini-uzatti-43238436"
         },
         {
-          "title": "Djurgardens – Halmstads BK Maçı Gollü Geçer, Fylkir Reykjavik Deplasmanda Kazanır! İşte Misli’de Günün En Çok Oynanan Maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/djurgardens-halmstads-bk-maci-gollu-gecer-fylkir-reykjavik-deplasmanda-kazanir-iste-mislide-gunun-en-cok-oynanan-maclari-43237992"
+          "title": "Kerem Aktürkoğlu için dev teklif! Fenerbahçe'nin istediği bonservis bedeli belli oldu",
+          "summary": "Fenerbahçe'nin milli futbolcusu Kerem Aktürkoğlu için Suudi kulübü Al-Ahli dev bir teklifte bulundu. Sarı-lacivertliler, 10+4 yabancı oyuncu kuralı nedeniyle kolay kolay vazgeçmeyi düşünmediği yıldız oyuncusunun bonservis bedelini belirledi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/kerem-akturkoglu-icin-dev-teklif-fenerbahcenin-istedigi-bonservis-bedeli-belli-oldu-43238430"
         },
         {
-          "title": "Kartal Kayra Yılmaz'dan Ersin Destanoğlu açıklaması: 'Paylaşımı gördüğümde çok duygusal anlar yaşadım!'",
-          "summary": "Beşiktaş'ta orta saha oyuncusu Kartal Kayra Yılmaz, yeni sezonda tüm kulvarda kupaları kazanmak istediklerini vurgulayarak, \"Bu sene her şey bizim için yeniden başlıyor. Her şey çok daha iyi olacak. Bu sene başka bir Beşiktaş izleteceğiz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kartal-kayra-yilmazdan-ersin-destanoglu-aciklamasi-paylasimi-gordugumde-cok-duygusal-anlar-yasadim-43237984"
+          "title": "Manchester United Andrey Santos'u kadrosuna kattı!",
+          "summary": "Premier Ligi ekibi Manchester United, Chelsea'den Andrey Santos'u transfer etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/manchester-united-andrey-santosu-kadrosuna-katti-43238418"
         },
         {
-          "title": "Mohamed Salah Süper Lig devine! 'Başkan takip ediyor'",
-          "summary": "Liverpool ile yollarını ayırmasının ardından son olarak Dünya Kupası'nda boy gösteren ve bonservisi elinde olan Mohamed Salah'ın bir sonraki durağı Türkiye olabilir.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mohamed-salah-super-lig-devine-baskan-takip-ediyor-43237841"
+          "title": "TVF Başkanı Üstündağ'dan Eda Erdem ve Ebrar Karakurt açıklaması!",
+          "summary": "Türkiye Voleybol Federasyonu Başkanı Mehmet Akif Üstündağ VNL finalleri öncesi açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tvf-baskani-ustundagdan-eda-erdem-ve-ebrar-karakurt-aciklamasi-43238286"
         },
         {
-          "title": "2030 Dünya Kupası'nda 64 takım ihtimali!",
-          "summary": "FIFA Başkanı Gianni Infantino'nun 2030'daki Dünya Kupası öncesinde turnuvayı 16 ülke daha ekleyerek 64 takımlı bir turnuvaya genişletmeyi inceleyeceği iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/2030-dunya-kupasinda-64-takim-ihtimali-43237902"
+          "title": "Slaven Bilic, yeniden Hırvatistan'ın teknik direktörü oldu",
+          "summary": "Bir dönem ülkemizde Beşiktaş'ı da çalıştıran Hırvat teknik adam Slaven Bilic, ülkesinin milli takımının teknik direktörlüğüne getirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/slaven-bilic-yeniden-hirvatistanin-teknik-direktoru-oldu-43238275"
         },
         {
-          "title": "Beşiktaş, Slovakya kampını iki hazırlık maçıyla tamamlayacak",
-          "summary": "Beşiktaş, yeni sezon hazırlıkları kapsamında Slovakya'da sürdürdüğü kampı yarın oynayacağı 2 hazırlık maçıyla tamamlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-slovakya-kampini-iki-hazirlik-maciyla-tamamlayacak-43237804"
+          "title": "Okan Buruk, Fatih Terim'i geride bıraktı: Galatasaray tarihine geçti!",
+          "summary": "Galatasaray'da son 4 sezonda birçok başarı yakalayan ve rekorlar kıran Okan Buruk, sarı-kırmızılıların başında 1481 güne ulaşarak bu alanda Fatih Terim'i (1480 gün) geçerek Galatasaray'da tek dönemde en uzun süre teknik direktörlük yapan isim oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-fatih-terimi-geride-birakti-galatasaray-tarihine-gecti-43238124"
         }
       ]
     },
     "teknoloji": {
-      "text": "Dünyanın en siyah boyası uzay gözlemini kurtarabilir. İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız. Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti. Silikon Vadisi ile Çin arasında gizli YZ savaş. Apple iş görüşmelerini gösterdi, OpenAI'a dava açtı. Yapay zeka mı, insan mı? Şarkılara yeni etiket sistemi. Yapay zekâ altyapısına beş farklı katmanda yatırım.",
+      "text": "Dünyanın en siyah boyası, bilim insanlarının umudu oldu. Meta’dan YZ geri adımı. Yeni Mac’in fiyatı dudak uçuklatabilir. Çin’den Ay'a lazerle enerji planı. İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız. Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti. Silikon Vadisi ile Çin arasında gizli YZ savaş.",
       "items": [
         {
-          "title": "Dünyanın en siyah boyası uzay gözlemini kurtarabilir",
+          "title": "Dünyanın en siyah boyası, bilim insanlarının umudu oldu",
           "summary": "Bilim insanları, uyduların neden olduğu ışık kirliliğini azaltabilecek yeni bir çözüm geliştirdi. \"Dünyanın en siyah boyalarından biri\" olarak tanımlanan Vantablack 310 ile kaplanan uyduların gelen ışığın yalnızca yüzde 2'sini yansıttığı belirlendi. Alçak Dünya yörüngesindeki uydu sayısının hızla artması, gökbilimcilerin gece gökyüzünü gözlemlemesini giderek zorlaştırıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/dunyanin-en-siyah-boyasi-uzay-gozlemini-kurtarabilir-1732678"
+          "source": "https://www.ntv.com.tr/teknoloji/dunyanin-en-siyah-boyasi-bilim-insanlarinin-umudu-oldu-1732678"
+        },
+        {
+          "title": "Meta’dan YZ geri adımı",
+          "summary": "Meta, Instagram’daki herkese açık hesapların fotoğraflarını kullanarak yeni görseller oluşturabilen YZ özelliğini, gizlilik tartışmaları ve Hollywood’dan gelen tepkiler üzerine kullanımdan kaldırdı. Varsayılan olarak etkinleştirildiği belirtilen özellik yalnızca birkaç gün kullanılabildi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/meta/metadan-yz-geri-adimi-43238119"
+        },
+        {
+          "title": "Yeni Mac’in fiyatı dudak uçuklatabilir",
+          "summary": "Apple’ın YZ sistemleri için geliştirdiği öne sürülen M7 Ultra işlemcisi, 1,5 TB’a kadar birleşik bellek desteğiyle gelebilir. Şirket bu kapasiteyi gerçekten satışa sunarsa, en güçlü Mac modellerinin fiyatı bugüne kadar görülmemiş seviyelere çıkabilir.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/apple/yeni-macin-fiyati-dudak-ucuklatabilir-43238114"
+        },
+        {
+          "title": "Çin’den Ay'a lazerle enerji planı",
+          "summary": "Çinli araştırmacılar, Ay’ın güney kutbundaki sürekli karanlıkta kalan kraterlerde çalışan keşif araçlarına lazer ışınlarıyla kablosuz enerji aktarılmasını önerdi. Sistem, ağır bataryalara ve uzun enerji kablolarına duyulan ihtiyacı azaltabilir.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/cinden-aya-lazerle-enerji-plani-43238111"
         },
         {
           "title": "İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız",
@@ -185,21 +200,6 @@
           "title": "Silikon Vadisi ile Çin arasında gizli YZ savaş",
           "summary": "ABD’li yapay zekâ şirketleri, Çinli rakiplerin kendi gelişmiş modellerini “öğretmen” gibi kullanarak daha ucuz ve güçlü sistemler geliştirdiğini savunuyor. Anthropic’in Claude kullanıcılarını izlemek için denediği gizli takip kodu ise Silikon Vadisi ile Çin arasındaki YZ yarışının ne kadar sertleştiğini ortaya koydu.",
           "source": "https://www.hurriyet.com.tr/dunya/silikon-vadisi-ile-cin-arasinda-gizli-yz-savas-43232578"
-        },
-        {
-          "title": "Apple iş görüşmelerini gösterdi, OpenAI'a dava açtı",
-          "summary": "Apple, çalışanlarıyla yapılan iş görüşmeleri yoluyla araçları, süreçleri ve henüz piyasaya çıkmamış ürünleri hakkında gizli bilgilere erişmeye ve bu bilgileri çalmaya çalışmakla suçladığı OpenAI'a karşı dava açtı. Apple, çalışanlarıyla yapılan iş görüşmeleri aracılığıyla şirketin araçları, süreçleri ve henüz piyasaya çıkmamış ürünleri hakkındaki gizli bilgilere erişmeye ve bunları çalmaya çalışmakla suçladığı OpenAI'a karşı dava açtı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-apple-is-gorusmelerini-gosterdi-openaia-dava-acti-1732354"
-        },
-        {
-          "title": "Yapay zeka mı, insan mı? Şarkılara yeni etiket sistemi",
-          "summary": "Müzik sektörünün önde gelen kuruluşları, üretken yapay zeka kullanılarak oluşturulan içeriklerin daha şeffaf biçimde ayırt edilmesi amacıyla yeni bir etiketleme sistemi açıkladı. Uluslararası Fonogram Endüstrisi Federasyonu (IFPI) ve Amerika Kayıt Endüstrisi Birliği (RIAA), Grammy Ödülleri’nin arkasındaki Recording Academy ile oyuncular sendikası SAG-AFTRA’nın da aralarında bulunduğu sekiz kuruluşla birlikte gönüllü etiket sistemini duyurdu.",
-          "source": "https://www.ntv.com.tr/teknoloji/yapay-zeka-mi-insan-mi-sarkilara-yeni-etiket-sistemi-1732336"
-        },
-        {
-          "title": "Yapay zekâ altyapısına beş farklı katmanda yatırım",
-          "summary": "Birleşmiş Milletler bünyesindeki Uluslararası Telekomünikasyon Birliği’nin (ITU) düzenlediği İyilik İçin Yapay Zekâ Zirvesi’ne katılan ve iki ayrı oturumda konuşma yapan Turkcell Genel Müdürü Ali Taha Koç, yapay zeka alanında 5 farklı katmanda yatırımlar yaptıklarını ifade ederek, “Zekâyı veri merkezlerinden çıkarıp gerçek dünyaya taşıyacak, yapay zekâ temelli bir altyapı kurabilmek giderek daha kritik hale geliyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-altyapisina-bes-farkli-katmanda-yatirim-43235669"
         }
       ]
     },
