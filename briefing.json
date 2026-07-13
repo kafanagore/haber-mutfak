@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-13T04:00:05.433Z",
+  "generatedAt": "2026-07-13T10:00:04.677Z",
   "categories": {
     "gundem": {
-      "text": "Pamukkale'de orman yangını. Alevler yeniden yükseldi. Kabine Ankara'daki tarihi NATO zirvesinin ardından toplanıyor. Cumhurbaşkanı Yardımcısı Yılmaz'dan F-35 ve CAATSA açıklaması: Artık top Amerikan yönetiminde. Annesinden istediği parayı alamayan oğul evi ateşe verdi. Bodrum'da, restoranda kanlı infaz. Bodrum’da restoranda silahlı saldırı: 1 ölü. Kaza sonrası kaçmaya çalışırken minibüsüyle yayalara çarptı: 1 ölü, 2 yaralı.",
+      "text": "İstanbul merkezli 8 ilde FETÖ'nün emniyet mahrem yapılanmasına operasyon: 24 gözaltı. 73 ilde torbacılara operasyon. 935 şüpheli tutuklandı. Kocaeli’de karaya oturan gemi, 7 milyon 411 bin TL bedelle satışa çıkarılacak. İmamoğlu'nun bilirkişi davasında yeni gelişme. Diyarbakır Surları'nda tahta bacakla tehlikeli yürüyüş: Farkındalık için yaptım. İzmir'de denizde sürüklenen 1'i bebek 5 kişi kurtarıldı. Darbe girişimini anlatan \"15 Temmuz Demokrasi Müzesi\"ni 5 yılda 440 bin kişi ziyaret etti.",
       "items": [
         {
-          "title": "Pamukkale'de orman yangını. Alevler yeniden yükseldi",
-          "summary": "Denizli'de dünyaca ünlü Pamukkale Travertenleri'ne yakın bölgedeki ormanlık alanda çıkan ve akşam kontrol altına alınan yangın, gece saatlerinde rüzgarın nedeniyle yeniden başladı. Denizli'nin Pamukkale ilçesinde, Karahayıt ve Pamukkale mahalleleri arasında bulunan ormanlık alanda dün yangın çıktı. Henüz belirlenmeyen bir nedenle başlayan yangına Orman Bölge Müdürlüğü ile itfaiye ekipleri karadan ve havadan müdahale etti.",
-          "source": "https://www.ntv.com.tr/turkiye/pamukkalede-orman-yangini-alevler-yeniden-yukseldi-1732600"
+          "title": "İstanbul merkezli 8 ilde FETÖ'nün emniyet mahrem yapılanmasına operasyon: 24 gözaltı",
+          "summary": "İstanbul merkezli 8 ilde FETÖ/PDY silahlı terör örgütünün emniyet mahrem yapılanmasına yönelik düzenlenen eş zamanlı operasyonlarda 24 şüpheli yakalandı. Şüphelilerden 8'inin aktif kamu görevlisi olduğu öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbul-merkezli-8-ilde-fetonun-emniyet-mahrem-yapilanmasina-operasyon-24-gozalti-43238058"
         },
         {
-          "title": "Kabine Ankara'daki tarihi NATO zirvesinin ardından toplanıyor",
-          "summary": "Ankara'daki tarihi NATO zirvesi sonrası ilk Kabine Toplantısı bugün yapılacak. Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığındaki toplantıda gündem yoğun. Kabine iki haftalık aranın ardından Beştepe'de bir araya gelecek. Gündemde dış politika, ekonomi ve güvenlik başlıkları öne çıkıyor. Toplantının en önemli başlıklarından birinin, Ankara'da yapılan NATO Liderler Zirvesi'nin diplomatik sonuçları olması bekleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/kabine-ankaradaki-tarihi-nato-zirvesinin-ardindan-toplaniyor-1732552"
+          "title": "73 ilde torbacılara operasyon. 935 şüpheli tutuklandı",
+          "summary": "Torbacı olarak tabir edilen uyuşturucu satıcılarına yönelik 73 ilde düzenlenen operasyonlarda bin 780 şüpheli yakalandı. Uyuşturucuyla mücadele sürüyor. İçişleri Bakanlığı; 73 ilde son 2 haftada düzenlenen operasyonlarda 985 kilo uyuşturucu madde ile 1 milyon 639 bin 239 adet uyuşturucu hap ele geçirildiğini bildirdi. Operasyonlar kapsamında bin 780 şüpheli yakalandı. Şüphelilerden 935’i tutuklandı, 224’ü hakkında adli kontrol hükümleri uygulandı. Diğer şüphelilerin işlemleri devam ediyor.",
+          "source": "https://www.ntv.com.tr/turkiye/73-ilde-torbacilara-operasyon-935-supheli-tutuklandi-1732693"
         },
         {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan F-35 ve CAATSA açıklaması: Artık top Amerikan yönetiminde",
-          "summary": "ABD Başkanı Donald Trump'ın yaptırımların kaldırılması ve F-35'lerin Türkiye'ye verilmesi konusundaki açıklamasına değinen Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bundan sonraki süreci hep birlikte takip edeceğiz ama artık top Amerikan yönetiminde, onlar mutlaka bu konuda gereğini yapacaklardır.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmazdan-f-35-ve-caatsa-aciklamasi-artik-top-amerikan-yonetiminde-43237649"
+          "title": "Kocaeli’de karaya oturan gemi, 7 milyon 411 bin TL bedelle satışa çıkarılacak",
+          "summary": "Kandıra ilçesi açıklarında, 18 Eylül 2025’te karaya oturan Tanzanya bayraklı 81 metre uzunluğundaki 'RAPID' isimli kuru yük gemisi için satış ihalesi kararı alındı. Yaklaşık 9 ay 25 gündür atıl durumda bekleyen gemi, 7 milyon 411 bin 754 TL tahmini bedelle açık teklif usulüyle satışa çıkarılacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/kocaelide-karaya-oturan-gemi-7-milyon-411-bin-tl-bedelle-satisa-cikarilacak-43238003"
         },
         {
-          "title": "Annesinden istediği parayı alamayan oğul evi ateşe verdi",
-          "summary": "İstanbul Bağcılar'da annesinden para alamayınca evi ateşe verip kaçtığı öne sürülen H.Ç.(20), polis ekipleri tarafından yakalandı. Yangında ölen ya da yaralanan olmazken, dairede hasar meydana geldi. Yapılan incelemelerde şüpheli H.Ç.'nin 'Kundaklama', 'Bilişim Sistemleri Aracılığıyla Dolandırıcılık' ve 'Şantaj' suçlarından kaydı bulunduğu, ayrıca hakkında 2 ayrı yakalama kararı olduğu belirlendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/annesinden-istedigi-parayi-alamayan-ogul-evi-atese-verdi-43237647"
+          "title": "İmamoğlu'nun bilirkişi davasında yeni gelişme",
+          "summary": "Tutuklu olan Ekrem İmamoğlu'nun bilirkişiye yönelik sözleri nedeniyle yargılandığı dava 8 Aralık'a ertelendi. Tutuklandıktan sonra görevinden uzaklaştırılan İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu'nun yargılandığı bilirkişi davasında yeni bir gelişme yaşandı. Ekrem İmamoğlu‘nun bilirkişiye yönelik sarf ettiği sözler nedeniyle devam yargılaması 8 Aralık’a ertelendi. Duruşma savcısı değiştiği için süre istendi. İstanbul 2.",
+          "source": "https://www.ntv.com.tr/turkiye/imamoglunun-bilirkisi-davasinda-yeni-gelisme-1732658"
         },
         {
-          "title": "Bodrum'da, restoranda kanlı infaz",
-          "summary": "Bodrum'da restoranda arkadaşlarıyla birlikte yemek yiyen 28 yaşındaki Muhammer Bilik, uğradığı silahlı saldırıda hayatını kaybetti. Muğla'nın Bodrum ilçesinde restorana düzenlenen silahlı saldırıda 1 kişi hayatını kaybetti. Olay gece saatlerinde Bitez sahili mevkisindeki bir restoranda meydana geldi. Arkadaşlarıyla yemek yiyen 28 yaşındaki Muhammer Bilik, tuvalete gittiği sırada henüz kimliği belirlenemeyen bir kişinin arkadan silahlı saldırısına uğradı.",
-          "source": "https://www.ntv.com.tr/turkiye/bodrumda-restoranda-kanli-infaz-1732596"
+          "title": "Diyarbakır Surları'nda tahta bacakla tehlikeli yürüyüş: Farkındalık için yaptım",
+          "summary": "Mardin'de yaşayan 22 yaşındaki Refik Ceviz, çıkılması yasak ve tehlikeli olan tarihi Diyarbakır Surları üzerinde tahta bacaklarıyla yürüyerek tehlikeye dikkat çekti. 3 metreyi aşan boyuyla surlarda yürüyüş yapan Ceviz, bu eylemi yalnızca farkındalık oluşturmak amacıyla gerçekleştirdiğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/diyarbakir-surlarinda-tahta-bacakla-tehlikeli-yuruyus-farkindalik-icin-yaptim-43237991"
         },
         {
-          "title": "Bodrum’da restoranda silahlı saldırı: 1 ölü",
-          "summary": "Muğla’nın Bodrum ilçesinde bir restoranda silahlı saldırıya uğrayan Muhammer Bilik (28), yaşamını yitirdi. Polis, kaçan şüpheliyi yakalamak için çalışma başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bodrumda-restoranda-silahli-saldiri-1-olu-43237644"
+          "title": "İzmir'de denizde sürüklenen 1'i bebek 5 kişi kurtarıldı",
+          "summary": "İzmir'de, kürek sörfü yaptıkları sırada denizde sürüklenen 5 kişi, Sahil Güvenlik Komutanlığı ekiplerince kurtarıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmirde-denizde-suruklenen-1i-bebek-5-kisi-kurtarildi-43237953"
         },
         {
-          "title": "Kaza sonrası kaçmaya çalışırken minibüsüyle yayalara çarptı: 1 ölü, 2 yaralı",
-          "summary": "Kayseri’de 2 aracın karıştığı kazanın ardından kaçmaya çalışan sürücünün kullandığı minibüsün çarptığı Faruk Utgan hayatını kaybetti, 1'i polis 2 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kaza-sonrasi-kacmaya-calisirken-minibusuyle-yayalara-carpti-1-olu-2-yarali-43237642"
+          "title": "Darbe girişimini anlatan \"15 Temmuz Demokrasi Müzesi\"ni 5 yılda 440 bin kişi ziyaret etti",
+          "summary": "Fetullahçı Terör Örgütü'nün (FETÖ) 15 Temmuz 2016'da gerçekleştirdiği darbe girişiminin ve o gece yaşananların hafızalarda canlı tutulması amacıyla kurulan 15 Temmuz Demokrasi Müzesi, açıldığı günden bu yana 440 bin 25 ziyaretçiyi ağırladı. Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla Ankara'da 15 Temmuz 2021'de açılan müze, 9 bin 667 metrekare kapalı teşhir, 1827 metrekare açık teşhir alanı olmak üzere toplam 92 bin 820 metrekarelik alanda hizmet veriyor.",
+          "source": "https://www.ntv.com.tr/turkiye/darbe-girisimini-anlatan-15-temmuz-demokrasi-muzesini-5-yilda-440-bin-kisi-ziyaret-etti-1732681"
         }
       ]
     },
     "dunya": {
-      "text": "Türkiye'den Venezuela'ya 30 tonluk insani yardım. İran ile ABD arasında yeni saldırı dalgası. Körfez ülkeleri alarma geçti. Venezuela'da can kaybı 4 bin 490'a yükseldi. ABD'nin NATO Daimi Temsilcisi'nden F35 mesajı: Gerçekleşmesi mümkün bir anlaşma. Tayland’da facia! Eğlence mekanında yangın: En az 27 ölü. ABD'nin NATO Daimi Temsilcisi, F-35 uçaklarının \"Türkiye'ye satışının gerçekleşeceğine\" inanıyor. Tayland'da gece kulübü faciası: 27 kişi hayatını kaybetti.",
+      "text": "Girit Adası açıklarında 3.5 büyüklüğünde deprem. Papua Yeni Gine 6.4 ile sallandı. İran'dan ABD ile gerilime ilişkin açıklama: \"Mutabakat bir kriz sürecine girmiştir\". İsrail'den ABD'li siyasetçinin Batı Şeria'da gözaltına alınmasına ilişkin açıklama. Aliyev Türkiye ve Azerbaycan'ın dostluğunu dünyaya örnek gösterdi: Örnek alınması gereken model. ABD Senatörü Lindsey Graham'ın ani ölümünün nedeni belli oldu. AB, İsrail yerleşimlerine ticaret yasağını masaya yatırdı.",
       "items": [
         {
-          "title": "Türkiye'den Venezuela'ya 30 tonluk insani yardım",
-          "summary": "Türkiye'den 7.2 ve 7.5 büyüklüğündeki iki depremin vurduğu Venezuela'ya gönderdiği 30 ton insani yardım malzemesi Simon Bolivar Havalimanı'na ulaştı. Türkiye, 24 Haziran'da 39 saniye arayla 7.2 ve 7.5 büyüklüğündeki iki depremin meydana geldiği Venezuela'ya insani yardım malzemesi gönderdi. Simon Bolivar Havalimanı'na inen uçaklarla taşınan insani yardımları Türkiye'nin Caracas Büyükelçisi Naci Aydan Karamanoğlu ile Venezuela Dışişleri Bakanı Yvan Gil karşıladı.",
-          "source": "https://www.ntv.com.tr/dunya/turkiyeden-venezuelaya-30-tonluk-insani-yardim-1732601"
+          "title": "Girit Adası açıklarında 3.5 büyüklüğünde deprem",
+          "summary": "Yunanistan'ın Girit Adası açıklarında 3.5 büyüklüğünde deprem meydana geldiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/girit-adasi-aciklarinda-3-5-buyuklugunde-deprem-43238055"
         },
         {
-          "title": "İran ile ABD arasında yeni saldırı dalgası. Körfez ülkeleri alarma geçti",
-          "summary": "ABD ile İran arasında karşılıklı füze ve insansız hava aracı saldırıları yeniden şiddetlendi. İran, Hürmüz Boğazı'nı yeniden kapattığını duyurdu. Gece saatlerinde ABD yeni dalfa saldırılara başladı, İran ise Körfez'de misilleme operasyonları düzenliyor. Son saldırılar, İran'ın boğazdaki deniz trafiği üzerinde denetim kurma çabaları sürerken devam eden karşılıklı operasyonların yeni halkası oldu.",
-          "source": "https://www.ntv.com.tr/dunya/iran-ile-abd-arasinda-yeni-saldiri-dalgasi-korfez-ulkeleri-alarma-gecti-1732580"
+          "title": "Papua Yeni Gine 6.4 ile sallandı",
+          "summary": "Papua Yeni Gine açıklarında 6.4 büyüklüğünde deprem meydana geldiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/papua-yeni-gine-6-4-ile-sallandi-43238016"
         },
         {
-          "title": "Venezuela'da can kaybı 4 bin 490'a yükseldi",
-          "summary": "Venezuela'da, meydana gelen iki büyük depremde hayatını kaybedenlerin sayısı 4 bin 490'a ulaştı. 16 bin 740 kişi de yaralı. Güney Amerika ülkesi Venezuela'da 24 Haziran'da 39 saniye arayla meydana gelen 7.2 ve 7.5 büyüklüğündeki 2 depremin 19'uncu gününde 157 kişinin daha cansız bedenine ulaşıldı. Venezuela Ulusal Meclis Başkanı (AN) Jorge Rodriguez, sosyal medya hesabından depremlere ilişkin açıklamalar yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/venezuelada-can-kaybi-4-bin-490a-yukseldi-1732598"
+          "title": "İran'dan ABD ile gerilime ilişkin açıklama: \"Mutabakat bir kriz sürecine girmiştir\"",
+          "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran ile ABD arasındaki karşılıklı saldırılara ilişkin, \"Şüphesiz mutabakat bir kriz sürecine girmiştir.\" dedi. İran Dışişleri Bakanlığı ve Müzakere Heyeti Sözcüsü İsmail Bekayi, başkent Tahran'da düzenlediği haftalık basın toplantısında gazetecilerin sorularını yanıtladı. “MUTABAKAT KRİZ SÜRECİNDE” İran'ın hiçbir zaman taahhütlerini ihlal etme konusunda öncü olmadığını savunan Bekayi, \"Şüphesiz mutabakat bir kriz sürecine girmiştir.",
+          "source": "https://www.ntv.com.tr/dunya/irandan-abd-ile-gerilime-iliskin-aciklama-mutabakat-bir-kriz-surecine-girmistir-1732689"
         },
         {
-          "title": "ABD'nin NATO Daimi Temsilcisi'nden F35 mesajı: Gerçekleşmesi mümkün bir anlaşma",
-          "summary": "ABD'nin NATO Daimi Temsilcisi, Büyükelçi Matt Whitaker, Türkiye'ye F-35 uçaklarının satışının \"gerçekleşmesinin mümkün\" olduğu görüşünü belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdnin-nato-daimi-temsilcisinden-f35-mesaji-gerceklesmesi-mumkun-bir-anlasma-43237610"
+          "title": "İsrail'den ABD'li siyasetçinin Batı Şeria'da gözaltına alınmasına ilişkin açıklama",
+          "summary": "ABD'li Demokrat Temsilciler Meclisi Üyesi Ro Khanna'nın işgal altındaki Batı Şeria ziyareti sırasında gözaltına alınmasına ilişkin İsrail'in Washington Büyükelçisi Michael Leiter'den açıklama geldi. Leiter, Khanna'nın ABD'nin İsrail Büyükelçiliği'ne ziyaretini bildirmediğini öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-abdli-siyasetcinin-bati-seriada-gozaltina-alinmasina-iliskin-aciklama-43237868"
         },
         {
-          "title": "Tayland’da facia! Eğlence mekanında yangın: En az 27 ölü",
-          "summary": "Tayland’ın başkenti Bangkok’taki bir eğlence mekanında çıkan yangında en az 27 kişinin hayatını kaybettiği açıklandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/taylandda-facia-eglence-mekaninda-yangin-en-az-27-olu-43237592"
+          "title": "Aliyev Türkiye ve Azerbaycan'ın dostluğunu dünyaya örnek gösterdi: Örnek alınması gereken model",
+          "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, Ankara ile Bakü arasındaki dostane ilişkilere dikkat çekerek, \"Türkiye ile Azerbaycan arasındaki ilişki, komşu ülkeler tarafından incelenmesi ve örnek alınması gereken bir modeldir. Komşular da tıpkı Türkiye ile Azerbaycan gibi davranmalıdır.\" açıklamasını yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/aliyev-turkiye-ve-azerbaycanin-dostlugunu-dunyaya-ornek-gosterdi-ornek-alinmasi-gereken-model-43237850"
         },
         {
-          "title": "ABD'nin NATO Daimi Temsilcisi, F-35 uçaklarının \"Türkiye'ye satışının gerçekleşeceğine\" inanıyor",
-          "summary": "ABD'nin NATO Daimi Temsilcisi, Büyükelçi Matt Whitaker, Türkiye'ye F-35 uçaklarının satışının \"gerçekleşmesinin mümkün\" olduğu görüşünü belirtti. Whitaker, CNN'e yaptığı açıklamada, Türkiye'ye potansiyel F-35 jeti satışını ve ABD Başkanı Donald Trump'ın bu uçakları Türkiye'ye satma düşüncesini değerlendirdi.",
-          "source": "https://www.ntv.com.tr/dunya/abdnin-nato-daimi-temsilcisi-f-35-ucaklarinin-turkiyeye-satisinin-gerceklesecegine-inaniyor-1732587"
+          "title": "ABD Senatörü Lindsey Graham'ın ani ölümünün nedeni belli oldu",
+          "summary": "ABD'de İsrail'e verdiği destekle tanınan ve ani şekilde hayatını kaybeden Cumhuriyetçi Senatör Lindsey Graham'ın ölüm nedeni belli oldu. Cumhuriyetçi Senatör Lindsey Graham'ın ofisi, sosyal medyada spekülasyonlara neden olan ölümüne ilişkin adli tıp kurumunun ön bulgularını açıkladı. Açıklamada, Senatör Graham'ın ölümünün kalpten çıkan ana atardamarda meydana gelen iç duvar yırtılmasından (aort diseksiyonu) kaynaklandığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-senatoru-lindsey-grahamin-ani-olumunun-nedeni-belli-oldu-1732661"
         },
         {
-          "title": "Tayland'da gece kulübü faciası: 27 kişi hayatını kaybetti",
-          "summary": "Tayland'ın başkenti Bangkok'ta bir eğlence mekanında çıkan yangında en az 27 kişi hayatını kaybetti, çok sayıda kişi yaralandı. Yetkililerin açıklamasına göre yangın, pazartesi günü gece yarısı sıralarında Bangkok'un kuzeyindeki bir eğlence mekanında çıktı. Kısa sürede büyüyen alevler binayı sararken, olay yerine çok sayıda itfaiye ve sağlık ekibi sevk edildi. İlk müdahale ekiplerinin paylaştığı görüntülerde, mekanın girişinden yoğun alevlerin yükseldiği ve gökyüzünü kalın siyah dumanların kapladığı görüldü.",
-          "source": "https://www.ntv.com.tr/dunya/taylandda-gece-kulubu-faciasi-27-kisi-hayatini-kaybetti-1732584"
+          "title": "AB, İsrail yerleşimlerine ticaret yasağını masaya yatırdı",
+          "summary": "AB Komisyonu, işgal altındaki Filistin topraklarındaki yasa dışı İsrail yerleşimlerinde üretilen ürünlere yönelik ithalat yasağı ve ek ticaret tedbirlerini içeren seçenek belgesini üye ülkelere sundu Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Brüksel'de düzenlenen AB Dışişleri Bakanları Toplantısı öncesinde basına açıklamalarda bulundu. AB Komisyonunun hazırladığı seçenek belgesinin masaya yatırıldığını belirten Kallas, \"Farklı seçenekler, bu belgede ortaya konuyor.",
+          "source": "https://www.ntv.com.tr/dunya/ab-israil-yerlesimlerine-ticaret-yasagini-masaya-yatirdi-1732654"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü. Kumun üzerindeki ekonomi. Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız. 87 yılın rekoru. Depozito makineleri Söke’de de hizmette. Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım.",
+      "text": "Egeli hazır giyimciler ABD pazarına odaklandı. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü. Kumun üzerindeki ekonomi. Bakan Bolat: Avrupa'da beşinci büyük otomobil üssü konumundayız. 87 yılın rekoru. Depozito makineleri Söke’de de hizmette.",
       "items": [
+        {
+          "title": "Egeli hazır giyimciler ABD pazarına odaklandı",
+          "summary": "Amerika Birleşik Devletleri’ni hedef pazar olarak belirleyen Ege Hazır Giyim ve Konfeksiyon İhracatçıları Birliği, 14-15 Temmuz’da düzenlenecek Premiere Vision (PV) Manufacturing New York Fuarı’na 13 firmayla Türkiye Milli Katılım Organizasyonu düzenliyor.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egeli-hazir-giyimciler-abd-pazarina-odaklandi-43237643"
+        },
         {
           "title": "Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz",
           "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Türkiye'nin uluslararası alandaki etkinliğinin her geçen gün arttığını belirterek, \"Son 23 çeyrektir istikrarlı şekilde büyüyen ekonomimiz ve artan istihdamımızla Türkiye Yüzyılı hedeflerine emin adımlarla ilerliyoruz\" dedi.",
@@ -115,57 +120,57 @@
           "title": "Depozito makineleri Söke’de de hizmette",
           "summary": "Türkiye genelinde 1 Temmuz’da başlayan “Depozito Yönetim Sistemi” kapsamında DOA makineleri, Aydın Söke’de de hizmet vermeye başladı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/depozito-makineleri-sokede-de-hizmette-43230103"
-        },
-        {
-          "title": "Bakan Kacır'dan Türkiye-Pakistan İş ve Yatırım Forumu'na ilişkin paylaşım",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye-Pakistan İş ve Yatırım Forumu'nda iki ülkenin iş dünyası temsilcileriyle bir araya geldiğini belirterek, \"Karşılıklı yatırımları artıracak, sanayi, teknoloji ve inovasyon alanlarında yeni işbirlikleriyle müşterek geleceğimizi birlikte inşa etmeye devam edeceğiz.\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-turkiye-pakistan-is-ve-yatirim-forumuna-iliskin-paylasim-43229188"
         }
       ]
     },
     "spor": {
-      "text": "Wimbledon'da Jannik Sinner üst üste 2. kez şampiyon!. Fenerbahçe'de Mert Müldür ve Archie Brown gelişmesi!. Beşiktaş, Dusan Alimpijevic'in sözleşmesini uzattı!. Beşiktaş'tan Fenerbahçe'ye transfer çıkarması: Ses getirecek operasyon!. Doğan Alemdar, kalede rekabetin başarı getireceğine inanıyor!. Galatasaray'da 10 numara harekatı: Hedef Julio Enciso!. Mete Gazoz'dan altın madalya!.",
+      "text": "At Yarışı Tutkusu Bursa’da Yaşanıyor! İşte Misli’den Günün Altılı Analizi…. Dünya Kupası kâbusa dönüştü: Süper Lig'in eski gol kralına ölüm tehditleri yağıyor!. Djurgardens – Halmstads BK Maçı Gollü Geçer, Fylkir Reykjavik Deplasmanda Kazanır! İşte Misli’de Günün En Çok Oynanan Maçları. Kartal Kayra Yılmaz'dan Ersin Destanoğlu açıklaması: 'Paylaşımı gördüğümde çok duygusal anlar yaşadım!'. Mohamed Salah Süper Lig devine! 'Başkan takip ediyor'. 2030 Dünya Kupası'nda 64 takım ihtimali!. Beşiktaş, Slovakya kampını iki hazırlık maçıyla tamamlayacak.",
       "items": [
         {
-          "title": "Wimbledon'da Jannik Sinner üst üste 2. kez şampiyon!",
-          "summary": "Wimbledon tek erkekler finalinde İtalyan tenisçi Jannik Sinner, Alexander Zverev'i 3-1 mağlup ederek üst üste ikinci kez zafere ulaşırken, 5. Grand Slam şampiyonluğunu elde etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/wimbledonda-jannik-sinner-ust-uste-2-kez-sampiyon-43237560"
+          "title": "At Yarışı Tutkusu Bursa’da Yaşanıyor! İşte Misli’den Günün Altılı Analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/at-yarisi-tutkusu-bursada-yasaniyor-iste-misliden-gunun-altili-analizi-43238029"
         },
         {
-          "title": "Fenerbahçe'de Mert Müldür ve Archie Brown gelişmesi!",
-          "summary": "Yeni sezon hazırlıklarını Avusturya'nın Windischgarsten bölgesinde sürdüren Fenerbahçe'de hafif ağrıları nedeniyle son yapılan hazırlık maçında kadroya alınmayan Mert Müldür ve Archie Brown takımla birlikte çalıştı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-mert-muldur-ve-archie-brown-gelismesi-43237514"
+          "title": "Dünya Kupası kâbusa dönüştü: Süper Lig'in eski gol kralına ölüm tehditleri yağıyor!",
+          "summary": "Süper Lig'de Trabzonspor formasıyla gol krallığı yaşayan Norveçli forvet Alexander Sörloth, 2026 Dünya Kupası çeyrek finalinde İngiltere'ye karşı oynadıkları maçın ardından ölüm tehditleri almaya başladı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasi-kabusa-donustu-super-ligin-eski-gol-kralina-olum-tehditleri-yagiyor-43237980"
         },
         {
-          "title": "Beşiktaş, Dusan Alimpijevic'in sözleşmesini uzattı!",
-          "summary": "Beşiktaş Erkek Basketbol Takımı'nda Sırp başantrenör Dusan Alimpijevic ile 2 sezonluk yeni sözleşme imzalandığı duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-dusan-alimpijevicin-sozlesmesini-uzatti-43237511"
+          "title": "Djurgardens – Halmstads BK Maçı Gollü Geçer, Fylkir Reykjavik Deplasmanda Kazanır! İşte Misli’de Günün En Çok Oynanan Maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/djurgardens-halmstads-bk-maci-gollu-gecer-fylkir-reykjavik-deplasmanda-kazanir-iste-mislide-gunun-en-cok-oynanan-maclari-43237992"
         },
         {
-          "title": "Beşiktaş'tan Fenerbahçe'ye transfer çıkarması: Ses getirecek operasyon!",
-          "summary": "Beşiktaş’ın, yerli oyuncu rotasyonunu genişletme hedefi doğrultusunda Fenerbahçe'den Oğuz Aydın’ı transfer listesine aldığı öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-fenerbahceye-transfer-cikarmasi-ses-getirecek-operasyon-43237483"
+          "title": "Kartal Kayra Yılmaz'dan Ersin Destanoğlu açıklaması: 'Paylaşımı gördüğümde çok duygusal anlar yaşadım!'",
+          "summary": "Beşiktaş'ta orta saha oyuncusu Kartal Kayra Yılmaz, yeni sezonda tüm kulvarda kupaları kazanmak istediklerini vurgulayarak, \"Bu sene her şey bizim için yeniden başlıyor. Her şey çok daha iyi olacak. Bu sene başka bir Beşiktaş izleteceğiz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kartal-kayra-yilmazdan-ersin-destanoglu-aciklamasi-paylasimi-gordugumde-cok-duygusal-anlar-yasadim-43237984"
         },
         {
-          "title": "Doğan Alemdar, kalede rekabetin başarı getireceğine inanıyor!",
-          "summary": "Beşiktaş'ın Başakşehir'den transfer ettiği 23 yaşındaki kaleci Doğan Alemdar, Alman file bekçisi Alexander Nübel ile rekabetlerinin siyah-beyazlı takıma başarı getireceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dogan-alemdar-kalede-rekabetin-basari-getirecegine-inaniyor-43237479"
+          "title": "Mohamed Salah Süper Lig devine! 'Başkan takip ediyor'",
+          "summary": "Liverpool ile yollarını ayırmasının ardından son olarak Dünya Kupası'nda boy gösteren ve bonservisi elinde olan Mohamed Salah'ın bir sonraki durağı Türkiye olabilir.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mohamed-salah-super-lig-devine-baskan-takip-ediyor-43237841"
         },
         {
-          "title": "Galatasaray'da 10 numara harekatı: Hedef Julio Enciso!",
-          "summary": "Galatasaray, 10 numara transferi için Strasbourg'un Paraguaylı yıldızı Julio Enciso'yu gündemine aldı. Sarı-kırmızılıların, 22 yaşındaki futbolcuyu transfer listesinin ilk sırasına yazdığı öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-10-numara-harekati-hedef-julio-enciso-43237465"
+          "title": "2030 Dünya Kupası'nda 64 takım ihtimali!",
+          "summary": "FIFA Başkanı Gianni Infantino'nun 2030'daki Dünya Kupası öncesinde turnuvayı 16 ülke daha ekleyerek 64 takımlı bir turnuvaya genişletmeyi inceleyeceği iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/2030-dunya-kupasinda-64-takim-ihtimali-43237902"
         },
         {
-          "title": "Mete Gazoz'dan altın madalya!",
-          "summary": "Milli okçumuz, Hyundai Okçuluk Dünya Kupası klasik yay erkekler finalinde İtalya'dan Mauro Nespoli'yi mağlup etti ve altın madalyaya uzandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mete-gazozdan-altin-madalya-43237454"
+          "title": "Beşiktaş, Slovakya kampını iki hazırlık maçıyla tamamlayacak",
+          "summary": "Beşiktaş, yeni sezon hazırlıkları kapsamında Slovakya'da sürdürdüğü kampı yarın oynayacağı 2 hazırlık maçıyla tamamlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-slovakya-kampini-iki-hazirlik-maciyla-tamamlayacak-43237804"
         }
       ]
     },
     "teknoloji": {
-      "text": "İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız. Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti. Silikon Vadisi ile Çin arasında gizli YZ savaş. Apple iş görüşmelerini gösterdi, OpenAI'a dava açtı. Yapay zeka mı, insan mı? Şarkılara yeni etiket sistemi. Yapay zekâ altyapısına beş farklı katmanda yatırım. Mağara duvarında insan DNA'sı bulundu.",
+      "text": "Dünyanın en siyah boyası uzay gözlemini kurtarabilir. İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız. Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti. Silikon Vadisi ile Çin arasında gizli YZ savaş. Apple iş görüşmelerini gösterdi, OpenAI'a dava açtı. Yapay zeka mı, insan mı? Şarkılara yeni etiket sistemi. Yapay zekâ altyapısına beş farklı katmanda yatırım.",
       "items": [
+        {
+          "title": "Dünyanın en siyah boyası uzay gözlemini kurtarabilir",
+          "summary": "Bilim insanları, uyduların neden olduğu ışık kirliliğini azaltabilecek yeni bir çözüm geliştirdi. \"Dünyanın en siyah boyalarından biri\" olarak tanımlanan Vantablack 310 ile kaplanan uyduların gelen ışığın yalnızca yüzde 2'sini yansıttığı belirlendi. Alçak Dünya yörüngesindeki uydu sayısının hızla artması, gökbilimcilerin gece gökyüzünü gözlemlemesini giderek zorlaştırıyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/dunyanin-en-siyah-boyasi-uzay-gozlemini-kurtarabilir-1732678"
+        },
         {
           "title": "İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız",
           "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"yeşil vatan\"ı korumak için havada ve karada tam kadro teyakkuzda olunduğunu bildirdi.",
@@ -195,11 +200,6 @@
           "title": "Yapay zekâ altyapısına beş farklı katmanda yatırım",
           "summary": "Birleşmiş Milletler bünyesindeki Uluslararası Telekomünikasyon Birliği’nin (ITU) düzenlediği İyilik İçin Yapay Zekâ Zirvesi’ne katılan ve iki ayrı oturumda konuşma yapan Turkcell Genel Müdürü Ali Taha Koç, yapay zeka alanında 5 farklı katmanda yatırımlar yaptıklarını ifade ederek, “Zekâyı veri merkezlerinden çıkarıp gerçek dünyaya taşıyacak, yapay zekâ temelli bir altyapı kurabilmek giderek daha kritik hale geliyor.",
           "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-altyapisina-bes-farkli-katmanda-yatirim-43235669"
-        },
-        {
-          "title": "Mağara duvarında insan DNA'sı bulundu",
-          "summary": "İspanya ve Portekiz’deki 11 mağarada yürütülen çalışma, insan DNA’sının kaya yüzeylerinde binlerce yıl korunabildiğini ortaya koydu. Bulgular, tarih öncesi mağara sanatının yaratıcılarına ilişkin genetik ipuçlarının izini sürmenin önünü açıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/magara-duvarinda-insan-dnasi-bulundu-43235491"
         }
       ]
     },
