@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-14T10:00:03.806Z",
+  "generatedAt": "2026-07-14T16:00:03.549Z",
   "categories": {
     "gundem": {
-      "text": "Nihat Kahveci gözaltına alındı. Milli Eğitim Bakanı Tekin: 15 Temmuz sonrası teyakkuzdayız. LGS Türkiye birincisi 11 öğrenciye tam altın hediye edildi: LGS şampiyonları Bosna Hersek’e gidecek. Bakan Gürlek: FETÖ ile mücadelemizi tavizsiz sürdüreceğiz. Dev kruvaziyer Bodrum’a binlerce turist getirdi. İletişim Başkanı Duran: FETÖ, faaliyet gösterdiği her ülke için açık bir tehdit. Kanuni hakkındaki sözler nedeniyle yargılanıyordu: Komedyen Tuba Ulu'ya 5 ay hapis.",
+      "text": "Yürek burkan facia... Evde yalnız bırakılan 2 yaşındaki çocuk, yanarak can verdi. Hastaneye ateş açıp, o anları kaydettiler… Olayla ilgili 2 şüpheli tutuklandı. Emine Erdoğan'dan vefat eden eski Katar Emiri için başsağlığı paylaşımı. Çember daraldı… Özel ekip, Gülistan Doku'nun cenazesini arıyor. Cumhurbaşkanı Erdoğan'dan KKTC Cumhurbaşkanı Erhürman'a \"geçmiş olsun\" telefonu. Suç işleyen çocuklara ilişkin düzenlemenin ayrıntıları ortaya çıktı. Ankara'da panikleyen sürücü ortalığı savaş alanına çevirdi! Park halindeki 7 araca çarptı.",
       "items": [
         {
-          "title": "Nihat Kahveci gözaltına alındı",
-          "summary": "Eski futbolcu ve spor yorumcusu Nihat Kahveci gözaltına alındı. Eşine şiddet uyguladığı iddia edilen Kahveci, ifadesinin ardından serbest bırakıldı. Eski milli futbolcu ve spor yorumcusu Nihat Kahveci gözaltına alındı. Nihat Kahveci'nin eşine şiddet uyguladığı ve bu sebeple gözaltına alındığı iddia edildi. \"RESTORANDA TARTIŞMA\" İDDİASI İddiaya göre Nihat Kahveci ile eşi arasında Sarıyer'deki bir restoranda tartışma çıktı. Tartışma sırasında Kahveci'nin eşini darp ettiği öne sürüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-nihat-kahveci-gozaltina-alindi-1732860"
+          "title": "Yürek burkan facia... Evde yalnız bırakılan 2 yaşındaki çocuk, yanarak can verdi",
+          "summary": "KARABÜK’e bağlı Davutlar köyünde, ailesinin evde yalnız bırakıp, ıhlamur toplamaya gittiği Berkant Kurt (2), çıkan yangında hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/yurek-burkan-facia-evde-yalniz-birakilan-2-yasindaki-cocuk-yanarak-can-verdi-43239888"
         },
         {
-          "title": "Milli Eğitim Bakanı Tekin: 15 Temmuz sonrası teyakkuzdayız",
-          "summary": "Bakan Yusuf Tekin, FETÖ bağlantılı yaklaşık 33 bin kamu personelinin ihraç edildiğini ve 3 bin 500’e yakın kurumun kapatıldığını açıkladı ve \"Demokrasiye, Cumhuriyet’e ve milli iradeye sahip çıkacak adımlar devam edecek.\" dedi. Türkiye Yüzyılı Maarif Modeli ile çocuklara milli değerlerin kazandırılacağını vurguladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/milli-egitim-bakani-tekin-15-temmuz-sonrasi-teyakkuzdayiz-43239262"
+          "title": "Hastaneye ateş açıp, o anları kaydettiler… Olayla ilgili 2 şüpheli tutuklandı",
+          "summary": "DİYARBAKIR’da özel hastaneye silahlı saldırı düzenleyip, o anları cep telefonu kamerasıyla kaydeden 2 şüpheli, çıkarıldığı mahkemece tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/hastaneye-ates-acip-o-anlari-kaydettiler-olayla-ilgili-2-supheli-tutuklandi-43239876"
         },
         {
-          "title": "LGS Türkiye birincisi 11 öğrenciye tam altın hediye edildi: LGS şampiyonları Bosna Hersek’e gidecek",
-          "summary": "Gaziantep Büyükşehir Belediyesi, Liselere Geçiş Sınavı’nda (LGS) 500 tam puan alarak Türkiye birincileri arasına giren Gaziantepli öğrencileri tam altınla ödüllendiriyor. Başkan Fatma Şahin, geleneksel hale getirdiği ev ziyaretleri kapsamında başarılı öğrencileri aileleriyle birlikte ziyaret ederek başarılarını kutladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/lgs-turkiye-birincisi-11-ogrenciye-tam-altin-hediye-edildi-lgs-sampiyonlari-bosna-herseke-gidecek-43239226"
+          "title": "Emine Erdoğan'dan vefat eden eski Katar Emiri için başsağlığı paylaşımı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, vefat eden eski Katar Emiri Şeyh Hamed bin Halife Al Sani'ye Allah'tan rahmet diledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-vefat-eden-eski-katar-emiri-icin-bassagligi-paylasimi-43239872"
         },
         {
-          "title": "Bakan Gürlek: FETÖ ile mücadelemizi tavizsiz sürdüreceğiz",
-          "summary": "Adalet Bakanı Akın Gürlek, \"Başta FETÖ olmak üzere milletimizin birliğini, devletimizin bekasını, demokrasimizi ve hukuk düzenimizi hedef alan tüm yapılara karşı mücadelemizi tavizsiz bir iradeyle sürdüreceğiz.\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-feto-ile-mucadelemizi-tavizsiz-surdurecegiz-43239228"
+          "title": "Çember daraldı… Özel ekip, Gülistan Doku'nun cenazesini arıyor",
+          "summary": "TUNCELİ’de 5 Ocak 2020'den bu yana kayıp olan üniversite öğrencisi Gülistan Doku'ya (21) ilişkin cinayet soruşturması kapsamında, Adalet Bakanlığı'nın talebi ve İçişleri Bakanlığı'nın talimatıyla oluşturulan 30 kişilik özel ekip, daraltılmış baz kayıtları doğrultusunda belirlenen noktalarda yaklaşık 100 kilometrelik alanda yer altı görüntüleme cihazlarıyla genç kızın cenazesini arıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/cember-daraldi-ozel-ekip-gulistan-dokunun-cenazesini-ariyor-43239864"
         },
         {
-          "title": "Dev kruvaziyer Bodrum’a binlerce turist getirdi",
-          "summary": "Muğla'nın Bodrum ilçesine \"Aroya\" ve \"National Geographic Orion\" adlı iki kruvaziyer, 3 bin 292 turist getirdi. Marmaris Limanı'ndan gelen Malta bayraklı 335 metre uzunluğundaki \"Aroya\" Bodrum Limanı'na yanaştı. Gemide çoğu Rus uyruklu 3 bin 207 yolcu ve 1119 personel bulunduğu belirtildi. Kuşadası Limanı'ndan gelen Bahama bayraklı, 102 metrelik \"National Geographic Orion\" da sabah limana demirledi. Gemide, çoğunluğu ABD'li 85 yolcu ile 70 personel bulunuyor.",
-          "source": "https://www.ntv.com.tr/turkiye/video-dev-kruvaziyer-bodruma-binlerce-turist-getirdi-1732858"
+          "title": "Cumhurbaşkanı Erdoğan'dan KKTC Cumhurbaşkanı Erhürman'a \"geçmiş olsun\" telefonu",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman'a geçirdiği rahatsızlık nedeniyle \"geçmiş olsun\" dileklerini iletti.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-kktc-cumhurbaskani-erhurmana-gecmis-olsun-telefonu-43239813"
         },
         {
-          "title": "İletişim Başkanı Duran: FETÖ, faaliyet gösterdiği her ülke için açık bir tehdit",
-          "summary": "İletişim Başkanı Burhanettin Duran, \"Bizim binlerce yıllık tarihimizde esaret, ihanet ve alçakça oyunlara boyun eğmek yoktur. 15 Temmuz’da bu tarihsel misyon bir kez daha tezahür etmiştir. Zira FETÖ, sadece Türkiye’yi ilgilendiren bir ulusal güvenlik sorunu değildir. FETÖ, faaliyet gösterdiği her ülke için açık bir tehdittir” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-feto-faaliyet-gosterdigi-her-ulke-icin-acik-bir-tehdit-43239207"
+          "title": "Suç işleyen çocuklara ilişkin düzenlemenin ayrıntıları ortaya çıktı",
+          "summary": "Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi ile çocukların işleyeceği ağır suçlarda cezalar artırılacak, verilecek cezalarda hakimlere daha fazla takdir yetkisi tanınacak, çocukların ıslahına yönelik yeni tedbirler hayata geçirilecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/suc-isleyen-cocuklara-iliskin-duzenlemenin-ayrintilari-ortaya-cikti-43239808"
         },
         {
-          "title": "Kanuni hakkındaki sözler nedeniyle yargılanıyordu: Komedyen Tuba Ulu'ya 5 ay hapis",
-          "summary": "Bir gösterisinde Kanuni Sultan Süleyman'a yönelik sözleri nedeniyle 'halkı kin ve düşmanlığa tahrik' suçundan yargılanan sanal medya ünlüsü Tuba Ulu hakkında 5 ay hapis cezası verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kanuni-hakkindaki-sozler-nedeniyle-yargilaniyordu-komedyen-tuba-uluya-5-ay-hapis-43239202"
+          "title": "Ankara'da panikleyen sürücü ortalığı savaş alanına çevirdi! Park halindeki 7 araca çarptı",
+          "summary": "Çankaya ilçesinde direksiyon hakimiyetini kaybederek panikleyen kadın sürücü, cadde boyunca park halinde bulunan 7 otomobile çarptı. Kaza anları güvenlik kamerasına saniye saniye yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-panikleyen-surucu-ortaligi-savas-alanina-cevirdi-park-halindeki-7-araca-carpti-43239799"
         }
       ]
     },
     "dunya": {
-      "text": "Yunan basınından Türkiye itirafı: Yükselişte ve Batı'nın kilit ortağı. 400 yıllık Osmanlı mirası Midilli'de yeninden hayat buldu. Bilim dünyasını şaşırtan keşif: Samanyolu'nda bir ilk. Kanada'nın moda öncüsü Peter Nygard cinsel saldırıdan suçlu bulundu. Ahmedinejad, “Mossad operasyonu” iddialarını yanıtladı. Cumhurbaşkanı Erdoğan, Katar'a gitti. Fransa'da orman yangını: 1900 hektar alan kül oldu.",
+      "text": "Trump: Hürmüz Boğazı, İran hariç gemi trafiğine açık. Litvanya’da yeni hükümet yemin ederek göreve başladı. Dışişleri Bakanı Hakan Fidan BM Genel Sekreteri Guterres ile telefonda görüştü. Forbes dergisi hayran kaldı: Türkiye'nin DOA sistemi ABD'ye önerildi. Fildişi Sahili'nde korkunç kaza: Yolcu otobüsü nehre uçtu... Çok sayıda ölü ve yaralı. Ukrayna Başbakanı Sviridenko istifa etti. Bosna Hersek'te barış konseyi görüşmeleri sonuçsuz kaldı.",
       "items": [
         {
-          "title": "Yunan basınından Türkiye itirafı: Yükselişte ve Batı'nın kilit ortağı",
-          "summary": "Ankara'daki NATO Zirvesi'nin yankıları, Yunanistan basınında sürmeye devam ediyor. Yunan basını, Türkiye'nin yükleşinine dikkat çekerken Ankara'nın Batı'nın kritik ortaklarından biri haline geldiğini yazdı.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunan-basinindan-turkiye-itirafi-yukseliste-ve-batinin-kilit-ortagi-43239003"
+          "title": "Trump: Hürmüz Boğazı, İran hariç gemi trafiğine açık",
+          "summary": "ABD Başkanı Donald Trump, ''Hürmüz Boğazı, İran hariç gemi trafiğine açık.'' açıklamasını yaptı. ABD Başkanı Donald Trump, İran limanlarına giriş ve çıkış yapan gemilere yönelik tam deniz ablukası uygulanacağını açıkladı. Trump, uygulamanın Hürmüz Boğazı’ndan geçen tüm gemileri kapsamayacağını belirterek, “Tam bir abluka uygulayacağız ancak bu yalnızca İran limanlarına giden ve İran limanlarından çıkan gemiler için geçerli olacak.” dedi.",
+          "source": "https://www.ntv.com.tr/dunya/trump-hurmuz-bogazi-iran-haric-gemi-trafigine-acik-1732910"
         },
         {
-          "title": "400 yıllık Osmanlı mirası Midilli'de yeninden hayat buldu",
-          "summary": "Yunanistan’ın Midilli (Lesvos) Adası’nda yaklaşık dört asırlık geçmişe sahip tarihi Osmanlı camisi, kapsamlı restorasyon çalışmalarının ardından düzenlenen törenle yeniden ziyarete açıldı. Yıllardır \"Valide Camii\" olarak bilinen tarihi yapının gerçek adının, yapılan bilimsel araştırmalar sonucunda \"Balizade Hasan Bey Camii\" olduğu tespit edilirken, açılış törenine Yunanistan Kültür Bakanı Lina Mendoni de katıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/400-yillik-osmanli-mirasi-midillide-yeninden-hayat-buldu-43239190"
+          "title": "Litvanya’da yeni hükümet yemin ederek göreve başladı",
+          "summary": "Litvanya'da Başbakan Mindaugas Sinkevicius liderliğindeki yeni hükümetin üyeleri yemin ederek resmen görevlerine başladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/litvanyada-yeni-hukumet-yemin-ederek-goreve-basladi-43239835"
         },
         {
-          "title": "Bilim dünyasını şaşırtan keşif: Samanyolu'nda bir ilk",
-          "summary": "Bilim insanları, Dünya dışındaki yaşamın kökenine ve organik moleküllerin oluşumuna ışık tutabilecek bir keşfe imza atarak Samanyolu Galaksisi'nin merkezine yakın bir yıldızlar arası bulutta ilk kez \"gerçek şeker\" molekülü tespit etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bilim-dunyasini-sasirtan-kesif-samanyolunda-bir-ilk-43239172"
+          "title": "Dışişleri Bakanı Hakan Fidan BM Genel Sekreteri Guterres ile telefonda görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres ile telefonda işbirliği konularını ve bölgesel meseleleri görüştü.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-bm-genel-sekreteri-guterres-ile-telefonda-gorustu-43239792"
         },
         {
-          "title": "Kanada'nın moda öncüsü Peter Nygard cinsel saldırıdan suçlu bulundu",
-          "summary": "Kanada'da moda sektöründe önde gelen isimlerden biri olan eski iş insanı Peter Nygard'ın, cinsel saldırı ve zorla alıkoymadan suçlu bulunduğu bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kanadanin-moda-oncusu-peter-nygard-cinsel-saldiridan-suclu-bulundu-43239146"
+          "title": "Forbes dergisi hayran kaldı: Türkiye'nin DOA sistemi ABD'ye önerildi",
+          "summary": "ABD merkezli Forbes dergisi, Türkiye'nin Depozitosu Olan Ambalajlar (DOA) Sistemi'ni mercek altına aldı. Dergi, DOA sisteminden övgü ile bahsetti ve ABD başta olmak üzere Batılı ülkeler için örnek model olarak gösterdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/forbes-dergisi-hayran-kaldi-turkiyenin-doa-sistemi-abdye-onerildi-43239727"
         },
         {
-          "title": "Ahmedinejad, “Mossad operasyonu” iddialarını yanıtladı",
-          "summary": "Eski İran Cumhurbaşkanı Mahmud Ahmedinejad, İsrail istihbarat servisi Mossad'ın kendisini yeniden iktidara getirmeye çalıştığı iddialarını reddetti. Eski İran Cumhurbaşkanı Mahmud Ahmedinejad, İsrail istihbarat servisi Mossad'ın kendisini yeniden iktidara getirmek için gizli bir operasyon yürüttüğü ancak planın başarısız olduğu yönündeki iddiaları yalanladı.",
-          "source": "https://www.ntv.com.tr/dunya/ahmedinejad-mossad-operasyonu-iddialarini-yanitladi-1732846"
+          "title": "Fildişi Sahili'nde korkunç kaza: Yolcu otobüsü nehre uçtu... Çok sayıda ölü ve yaralı",
+          "summary": "Fildişi Sahili'nde yolcu otobüsünün nehre düşmesi sonucu 24 kişi hayatını kaybetti, 36 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/fildisi-sahilinde-korkunc-kaza-yolcu-otobusu-nehre-uctu-cok-sayida-olu-ve-yarali-43239641"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Katar'a gitti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, çeşitli programlara katılmak üzere Katar'a hareket etti. Cumhurbaşkanı Recep Tayyip Erdoğan, hayatını kaybeden eski Katar Emiri Şeyh Hamad bin Halife El Sani için taziye ziyaretinde bulunmak üzere Katar'a gitti. CEVDET YILMAZ VEKALET EDECEK Cumhurbaşkanı Erdoğan'ın Katar ziyareti dolayısıyla Cumhurbaşkanlığına, dönüşüne kadar Cumhurbaşkanı Yardımcısı Cevdet Yılmaz vekalet edecek.",
-          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-katara-gitti-1732852"
+          "title": "Ukrayna Başbakanı Sviridenko istifa etti",
+          "summary": "Ukrayna Parlamentosu, Başbakan Yulia Sviridenko'nun istifasını kabul etti. İstifasını doğrulayan Sviridenko, sosyal medya platformu X üzerinden yaptığı açıklamada Zelenski'ye kendisine duyduğu güven nedeniyle teşekkür etti. Ukrayna Parlamentosu, Başbakan Yulia Sviridenko'nun istifasını onayladı. Parlamentoda yapılan oylamada Sviridenko'nun görevden ayrılması 258 milletvekilinin oyuyla kabul edildi. Kararın kabul edilmesiyle birlikte Ukrayna hükümeti de toplu olarak görevden ayrılmış oldu.",
+          "source": "https://www.ntv.com.tr/dunya/ukrayna-basbakani-sviridenko-istifa-etti-1732903"
         },
         {
-          "title": "Fransa'da orman yangını: 1900 hektar alan kül oldu",
-          "summary": "Fransa'nın başkenti Paris'e 60 kilometre uzaklıktaki Fontainebleau Ormanı'ndaki yangında 1900 hektardan fazla alanın küle döndüğü belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransada-orman-yangini-1900-hektar-alan-kul-oldu-43239123"
+          "title": "Bosna Hersek'te barış konseyi görüşmeleri sonuçsuz kaldı",
+          "summary": "Bosna Hersek'teki uluslararası barış sürecini denetleyen Barış Uygulama Konseyinin (PIC), ülkedeki yeni yüksek temsilcilik görevine kimin geleceği konusundaki görüşmelerinden üçüncü kez uzlaşı sağlanamadan sona erdi. Yeni PIC üyesinin AB ve ABD arasında yaşanan anlaşmazlık nedeniyle seçilemediği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/bosna-hersekte-baris-konseyi-gorusmeleri-sonucsuz-kaldi-43239522"
         }
       ]
     },
@@ -124,48 +124,63 @@
       ]
     },
     "spor": {
-      "text": "Ankarada’da 9 koşuluk program! İşte Misli’den günün altılı analizi…. Dünya Kupası’nda yarı final zamanı: Fransa-İspanya... İşte Misli’den Günün Tüyoları!. Dünya Kupası'nda İlk Finalist Belli Oluyor! İşte Misli'de Günün En Çok Oynanan Maçları. Beşiktaş, Vlahovic'e teklif yaptı! İşte maaşı. 'Haksız yere suçlanmak beni çok üzüyor' demişti: Hollandalı ünlü hakem evinde ölü bulundu!. Galatasaray'dan Davinson kararı! Şart koşuldu. Serdal Adalı, Trossard'ın geçen sezona göre daha düşük maaşa transfer edileceğini açıkladı.",
+      "text": "Balogun, kırmızı kart cezasının ertelenmesine dair ilk kez konuştu: Çok zordu. Uludağ Premium Ultra Trail’e 23 ülkeden 2 binin üstünde sporcu katılacak. Beşiktaş ve Galatasaray istiyor! Transferde ilk temas. Fenerbahçe'de Levent Mercan'a Almanya'dan sürpriz talip!. Beşiktaş, Leandro Trossard transferini resmen açıkladı!. Okan Buruk'tan transfer itirafı: 'Olmadı, Premier Lig'e gitti, parayı verseniz de gelmiyorlar!'. Fenerbahçe'ye talih kuşu kondu! Teklif geliyor.",
       "items": [
         {
-          "title": "Ankarada’da 9 koşuluk program! İşte Misli’den günün altılı analizi…",
-          "summary": "Ankara 75. Yıl Hipodromu’nda bugün yarışseverleri dikkat isteyen bir program bekliyor. 9 koşuluk Ankara yarış gününde özellikle birbirine yakın güçteki safkanların yer aldığı yarışlar, altılı ganyan oynayanlar için seçimi zorlaştırabilir.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ankaradada-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43239168"
+          "title": "Balogun, kırmızı kart cezasının ertelenmesine dair ilk kez konuştu: Çok zordu",
+          "summary": "ABD'li oyuncu Florian Balogun, Bosna Hersek maçında gördüğü kırmızı kart sonrası FIFA tarafından cezasının ertelenmesine ilişkin konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/balogun-kirmizi-kart-iptaline-dair-ilk-kez-konustu-cok-zordu-43239818"
         },
         {
-          "title": "Dünya Kupası’nda yarı final zamanı: Fransa-İspanya... İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasinda-yari-final-zamani-fransa-ispanya-iste-misliden-gunun-tuyolari-43239167"
+          "title": "Uludağ Premium Ultra Trail’e 23 ülkeden 2 binin üstünde sporcu katılacak",
+          "summary": "Uludağ Premium Ultra Trail, 23 ülkeden 2 bin 853 sporcuyu ağırlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uludag-premium-ultra-traile-23-ulkeden-2-binin-ustunde-sporcu-katilacak-43239766"
         },
         {
-          "title": "Dünya Kupası'nda İlk Finalist Belli Oluyor! İşte Misli'de Günün En Çok Oynanan Maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasinda-ilk-finalist-belli-oluyor-iste-mislide-gunun-en-cok-oynanan-maclari-43239136"
+          "title": "Beşiktaş ve Galatasaray istiyor! Transferde ilk temas",
+          "summary": "Süper Lig’in iki devi Beşiktaş ve Galatasaray, yeşil sahaların ardından bu kez de transferde karşı karşıya geldi. Beşiktaş, oyuncu ile ilk teması kurarken Galatasaray’ın da takipte olduğu ifade edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ve-galatasaray-istiyor-transferde-ilk-temas-43239617"
         },
         {
-          "title": "Beşiktaş, Vlahovic'e teklif yaptı! İşte maaşı",
-          "summary": "Beşiktaş, Dusan Vlahovic transferi için görüşmelerde bulunuyor. Siyah beyazlıların Vlahovic transferinde son durum belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-valhovice-tekli-yapti-iste-maasi-43239145"
+          "title": "Fenerbahçe'de Levent Mercan'a Almanya'dan sürpriz talip!",
+          "summary": "Fenerbahçe'de geçtiğimiz sezon gösterdiği performansla ile dikkatleri üzerine toplayan Levent Mercan'a Almanya Bundesliga ekiplerinden Stuttgart talip oldu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-levent-mercana-almanyadan-surpriz-talip-43239613"
         },
         {
-          "title": "'Haksız yere suçlanmak beni çok üzüyor' demişti: Hollandalı ünlü hakem evinde ölü bulundu!",
-          "summary": "İngiltere'de Nisan ayında geçirdiği polis soruşturmasının ardından Dünya Kupası kadrosundan çıkarılan 38 yaşındaki Hollandalı ünlü hakem Rob Dieperink, evinde ölü bulundu. Dieperink'in intihar etmiş olabileceği belirtiliyor. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/haksiz-yere-suclanmak-beni-cok-uzuyor-demisti-hollandali-unlu-hakem-evinde-olu-bulundu-43239021"
+          "title": "Beşiktaş, Leandro Trossard transferini resmen açıkladı!",
+          "summary": "Beşiktaş, Belçikalı yıldız Leandro Trossard transferini resmen duyurdu. 31 yaşındaki kanat oyuncusu bu akşam İstanbul'da olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-leandro-trossard-transferini-resmen-acikladi-43239582"
         },
         {
-          "title": "Galatasaray'dan Davinson kararı! Şart koşuldu",
-          "summary": "Galatasaray'ın Kolombiyalı yıldızı Davinson Sanchez'i isteyen Como'ya, sarı kırmızılılar transfer cevabını verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-davinson-karari-sart-kosuldu-43238980"
+          "title": "Okan Buruk'tan transfer itirafı: 'Olmadı, Premier Lig'e gitti, parayı verseniz de gelmiyorlar!'",
+          "summary": "Galatasaray teknik direktörü Okan Buruk, sarı-kırmızılı takımın gündemine ve transfer çalışmalarına dair DHA'ya özel açıklamalarda bulundu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-transfer-itirafi-olmadi-premier-lige-gitti-parayi-verseniz-de-gelmiyorlar-43239452"
         },
         {
-          "title": "Serdal Adalı, Trossard'ın geçen sezona göre daha düşük maaşa transfer edileceğini açıkladı",
-          "summary": "Beşiktaş Kulübü Başkanı Serdal Adalı, İngiliz ekibi Arsenal'in kanat oyuncusu Leandro Trossard'ın geride kalan sezona göre daha düşük maaşla transfer edileceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-trossardin-gecen-sezona-gore-daha-dusuk-maasa-transfer-edilecegini-acikladi-43238975"
+          "title": "Fenerbahçe'ye talih kuşu kondu! Teklif geliyor",
+          "summary": "Fenerbahçe'de bir yandan gelecek transferler beklenirken, diğer yandan da gönderilecek isimler için çalışmalar sürüyor. Yabancı kontenjanından dolayı kadro planlamasında sorun yaşayan sarı lacivertlilere, adeta talih kuşu konacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-talih-kusu-kondu-teklif-geliyor-43239390"
         }
       ]
     },
     "teknoloji": {
-      "text": "Bayraktar KIZILELMA süpersonik füze ile vurdu. Dünyanın en siyah boyası, bilim insanlarının umudu oldu. Meta’dan YZ geri adımı. Yeni Mac’in fiyatı dudak uçuklatabilir. Çin’den Ay'a lazerle enerji planı. İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız. Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti.",
+      "text": "iOS 27 ve macOS 27 beta sürümleri yayımlandı. Gökbilimcilere beklenmedik yardım: Vantablack. Telefon pazarı 13 yılın en düşük seviyesinde. Bayraktar KIZILELMA süpersonik füze ile vurdu. Dünyanın en siyah boyası, bilim insanlarının umudu oldu. Meta’dan YZ geri adımı. Yeni Mac’in fiyatı dudak uçuklatabilir.",
       "items": [
+        {
+          "title": "iOS 27 ve macOS 27 beta sürümleri yayımlandı",
+          "summary": "Apple, iOS 27, iPadOS 27, watchOS 27 ve macOS 27 Golden Gate’in ilk halka açık beta sürümlerini kullanıma sundu. Yeni sistemler, Siri AI ile Apple Intelligence özelliklerini genişletirken uygulama açılışlarından AirDrop’a kadar önemli performans artışları vadediyor. Ancak erken sürümlerde hata, aşırı pil tüketimi ve uygulama uyumsuzluğu yaşanabileceği için güncellemelerin günlük kullanılan ana cihazlara kurulması önerilmiyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/apple/ios-27-ve-macos-27-beta-surumleri-yayimlandi-43239502"
+        },
+        {
+          "title": "Gökbilimcilere beklenmedik yardım: Vantablack",
+          "summary": "Alçak Dünya yörüngesindeki uydu sayısı hızla artarken, uzay araçlarından yansıyan Güneş ışığı teleskop görüntülerinde parlak çizgiler bırakıyor. İngiltere’de yapılan yeni bir araştırmaya göre gelen ışığın yaklaşık yüzde 98’ini soğuran Vantablack 310 kaplaması, uyduları belirgin ölçüde karartarak astronominin büyüyen ışık kirliliği sorununa pratik bir çözüm sunabilir. Ancak kaplamanın uzayda nasıl davranacağı henüz bilinmiyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/gokbilimcilere-beklenmedik-yardim-vantablack-43239494"
+        },
+        {
+          "title": "Telefon pazarı 13 yılın en düşük seviyesinde",
+          "summary": "Yapay zekâ altyapısına yapılan dev yatırımlar, bellek üreticilerinin kapasitesini veri merkezlerine yöneltmesine neden olurken tüketici elektroniğinde maliyetler hızla yükseliyor. Counterpoint Research’ün ön tahminlerine göre küresel akıllı telefon sevkiyatları 2026’nın ikinci çeyreğinde yüzde 11 azalarak, yılın bu dönemi için 2013’ten bu yana en düşük seviyesine indi. Krizin en ağır faturasını ise uygun fiyatlı telefon üreticileri ve tüketiciler ödüyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/telefon-pazari-13-yilin-en-dusuk-seviyesinde-43239478"
+        },
         {
           "title": "Bayraktar KIZILELMA süpersonik füze ile vurdu",
           "summary": "Bayraktar KIZILELMA İnsansız Savaş Uçağı (İSU), ROKETSAN'ın geliştirdiği havadan karaya süpersonik füze Jet-230 ile yaptığı test atışında hedefi tam isabetle vurdu. Baykar tarafından geliştirilen Türkiye'nin ilk insansız savaş uçağı Bayraktar KIZILELMA'nın geliştirme süreci, yeni kabiliyetlerin entegrasyonu ile devam ediyor. Şirketten yapılan açıklamaya göre, dünya havacılık tarihinde yeni bir dönemi başlatan Bayraktar KIZILELMA, havadan karaya süpersonik füze ile ilk atış testini başarıyla tamamladı.",
@@ -185,21 +200,6 @@
           "title": "Yeni Mac’in fiyatı dudak uçuklatabilir",
           "summary": "Apple’ın YZ sistemleri için geliştirdiği öne sürülen M7 Ultra işlemcisi, 1,5 TB’a kadar birleşik bellek desteğiyle gelebilir. Şirket bu kapasiteyi gerçekten satışa sunarsa, en güçlü Mac modellerinin fiyatı bugüne kadar görülmemiş seviyelere çıkabilir.",
           "source": "https://www.hurriyet.com.tr/teknoloji/apple/yeni-macin-fiyati-dudak-ucuklatabilir-43238114"
-        },
-        {
-          "title": "Çin’den Ay'a lazerle enerji planı",
-          "summary": "Çinli araştırmacılar, Ay’ın güney kutbundaki sürekli karanlıkta kalan kraterlerde çalışan keşif araçlarına lazer ışınlarıyla kablosuz enerji aktarılmasını önerdi. Sistem, ağır bataryalara ve uzun enerji kablolarına duyulan ihtiyacı azaltabilir.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/cinden-aya-lazerle-enerji-plani-43238111"
-        },
-        {
-          "title": "İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız",
-          "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"yeşil vatan\"ı korumak için havada ve karada tam kadro teyakkuzda olunduğunu bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskanligindan-yesil-vatan-paylasimi-gelecege-biraktigimiz-en-degerli-mirasimiz-43237299"
-        },
-        {
-          "title": "Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti",
-          "summary": "Meta, Instagram için geliştirdiği yeni yapay zeka modelini, kullanıcıların otomatik olarak sisteme dahil edilmesine yönelik tepkilerin ardından yayından kaldırdı. Facebook ve Instagram'ın çatı şirketi Meta, Instagram için geliştirdiği yeni yapay zeka modelini, özelliğin tanıtılmasının hemen ardından yükselen kamuoyu tepkisi üzerine cuma günü yayından kaldırdı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-meta-gizlilik-tepkilerinin-ardindan-yeni-yapay-zekayi-cekti-1732511"
         }
       ]
     },
