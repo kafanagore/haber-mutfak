@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-13T16:00:05.008Z",
+  "generatedAt": "2026-07-14T04:00:03.930Z",
   "categories": {
     "gundem": {
-      "text": "Son dakika... Cumhurbaşkanı Erdoğan: Artık reddi miras yapan bir Türkiye yok. Bilal Erdoğan: Notmatix öğretmenin işini kolaylaştıracak, bireysel takibi güçlendirecek. Boks Federasyonu'ndan MHP lideri Bahçeli'ye ziyaret. İş adamı Hüseyin Başaran'ın Haluk Levent hakkındaki şikayet dilekçesi ortaya çıktı: 60 milyon dolarlık mal varlığı hedef alındı. Hüseyin Başaran kimdir, ne iş yapıyor? 8 yıl önce kazada kızını kaybeden iş insanı Hüseyin Başaran'ın hayatı. Tanju Özcan'a açılan ayrımcılık davasında karar. Çankaya Belediye Başkanı Güner’in ifadesi ortaya çıktı: İhalelerle bilgim ve ilgim yoktur.",
+      "text": "Kolonlarından sesler gelen 6 katlı apartman tahliye edildi. Ankara’da tahta paletlerin depolandığı alanda korkutan yangın. Haluk Levent ve Ahbap soruşturmasında yeni ayrıntılar... Kız yurdu vaadiyle 60 milyon dolarlık dolandırıcılık iddiası. FETÖ’ye 81 ilde dev operasyon: 704 gözaltı. Dışişleri Bakanı Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı. Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek. Berat Albayrak 15 Temmuz gecesi yaşananları anlattı: Uçağımızdaki pilotlardan biri FETÖ'cüydü.",
       "items": [
         {
-          "title": "Son dakika... Cumhurbaşkanı Erdoğan: Artık reddi miras yapan bir Türkiye yok",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kabine Toplantısı sonrası açıklamalarda bulundu. Cumhurbaşkanı Erdoğan, \"Daha önce defalarca söylediğim gibi bir gerçeği bugün tekrar ifade ediyorum. Özellikle mehter marşından, yeniçeriden ve merasimlerin tam da tarihimize yaraşır biçimde icra edilmesinden rahatsız olanlara şunu hatırlatıyorum. İster kabul edin ister etmeyin ama artık reddimiras yapan bir Türkiye yok\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-43238504"
+          "title": "Kolonlarından sesler gelen 6 katlı apartman tahliye edildi",
+          "summary": "Bahçelievler'de temel kazısı yapılan bir inşaatın bitişiğindeki 6 katlı apartman, kolonlarından sesler gelmesi üzerine tahliye edildi. Belediye ekipleri önlem alarak 3 sokağı araç ve yaya trafiğine kapattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kolonlarindan-sesler-gelen-6-katli-apartman-tahliye-edildi-43238758"
         },
         {
-          "title": "Bilal Erdoğan: Notmatix öğretmenin işini kolaylaştıracak, bireysel takibi güçlendirecek",
-          "summary": "İbn Haldun Üniversitesi’nde yapay zeka destekli ölçme ve değerlendirme platformu Notmatix’in lansmanı yapıldı. Bilal Erdoğan, projenin eğitimde öğretmenlerin işini kolaylaştıracağını ve öğrencilerin bireysel takibini güçlendireceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bilal-erdogan-notmatix-ogretmenin-isini-kolaylastiracak-bireysel-takibi-guclendirecek-43238481"
+          "title": "Ankara’da tahta paletlerin depolandığı alanda korkutan yangın",
+          "summary": "Ankara'nın Yenimahalle ilçesinde tahta paletlerin depolandığı alanda çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-tahta-paletlerin-depolandigi-alanda-korkutan-yangin-43238757"
         },
         {
-          "title": "Boks Federasyonu'ndan MHP lideri Bahçeli'ye ziyaret",
-          "summary": "Türkiye Boks Federasyonu Başkanı Suat Hekimoğlu ve Asbaşkan Sinan Demircioğlu, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli’yi makamında ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/boks-federasyonundan-mhp-lideri-bahceliye-ziyaret-43238475"
+          "title": "Haluk Levent ve Ahbap soruşturmasında yeni ayrıntılar... Kız yurdu vaadiyle 60 milyon dolarlık dolandırıcılık iddiası",
+          "summary": "Ahbap Derneği'ne yönelik yürütülen soruşturma kapsamında yeni ayrıntılar ortaya çıkıyor. 8 yıl önce uçak kazasında kızını kaybeden iş insanı Hüseyin Başaran'ın kimsesiz kız çocukları için 60 milyon dolar değerinde kompleks bağışladığı ancak gayrimenkullerin amaç dışında kullanıldığını iddia etti. Ahbap Derneği'ne yönelik yürütülen soruşturma kapsamında yeni gözaltına alınan dernek başkanı Haluk Levent ve 22 kişi gözaltına alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-haluk-levent-ve-ahbap-sorusturmasinda-yeni-ayrintilar-kiz-yurdu-vaadiyle-60-milyon-dolarlik-dolandiricilik-iddiasi-1732705"
         },
         {
-          "title": "İş adamı Hüseyin Başaran'ın Haluk Levent hakkındaki şikayet dilekçesi ortaya çıktı: 60 milyon dolarlık mal varlığı hedef alındı",
-          "summary": "Ahbap Derneği’ne yönelik soruşturma kapsamında gözaltına alınan Haluk Levent hakkında yeni bir iddia daha ortaya çıktı. Başaran Holding Yönetim Kurulu Başkanı Hüseyin Başaran’ın avukatı, Gaziosmanpaşa Cumhuriyet Başsavcılığı’na yaptığı başvuruda, güncel değeri yaklaşık 60 milyon dolar olan 22 gayrimenkulün Haluk Levent’in de aralarında bulunduğu şüpheliler tarafından hileli yollarla ele geçirilmeye çalışıldığını öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/gundem/is-adami-huseyin-basaranin-haluk-levent-hakkindaki-sikayet-dilekcesi-ortaya-cikti-60-milyon-dolarlik-mal-varligi-hedef-alindi-43238435"
+          "title": "FETÖ’ye 81 ilde dev operasyon: 704 gözaltı",
+          "summary": "Cumhuriyet başsavcılıklarınca FETÖ/PDY Silahlı Terör Örgütü’nün deşifresine yönelik yürütülen soruşturmalar kapsamında, 13 Temmuz 2026 tarihinde Türkiye genelinde eş zamanlı operasyonlar düzenlendi. 81 ilde gerçekleştirilen operasyonlarda 973 şüpheli hakkında işlem yapılırken, 704 şüpheli gözaltına alındı. Firari 269 şüphelinin yakalanmasına yönelik çalışmaların sürdüğü bildirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/fetoye-81-ilde-dev-operasyon-704-gozalti-43238752"
         },
         {
-          "title": "Hüseyin Başaran kimdir, ne iş yapıyor? 8 yıl önce kazada kızını kaybeden iş insanı Hüseyin Başaran'ın hayatı",
-          "summary": "Türkiye’nin saygın iş insanlarından biri olan Hüseyin Başaran, iş dünyasındaki başarılarının yanı sıra yıllar önce tüm ülkeyi yasa boğan derin bir ailevi trajediyle de hafızalara kazındı. Sosyal medyada ve basında yeniden gündeme gelen ünlü iş insanının yaşam öyküsü, vatandaşlar tarafından merak ediliyor. Peki, Hüseyin Başaran kimdir, ne iş yapıyor? 8 yıl önce yaşanan uçak kazasında kızı Mina Başaran'ı kaybeden iş insanı Hüseyin Başaran'ın hayatı ve kariyeri hakkında bilgiler merak ediliyor.",
-          "source": "https://www.ntv.com.tr/turkiye/huseyin-basaran-kimdir-ne-is-yapiyor-8-yil-once-kazada-kizini-kaybeden-is-insani-huseyin-basaranin-hayati-1732740"
+          "title": "Dışişleri Bakanı Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Fransa'nın başkenti Paris'te düzenlenen Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne Cumhurbaşkanı Recep Tayyip Erdoğan'ı temsilen katıldı. Dışişleri Bakanlığının NSosyal hesabından yapılan paylaşıma göre Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne Cumhurbaşkanı Erdoğan'ı temsilen iştirak etti.",
+          "source": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidan-ukrayna-konulu-gonulluler-koalisyonu-liderler-zirvesine-katildi-1732769"
         },
         {
-          "title": "Tanju Özcan'a açılan ayrımcılık davasında karar",
-          "summary": "Görevden uzaklaştırılan Bolu Belediye Başkanı Tanju Özcan'a sığınmacılara yönelik sözleri nedeniyle açılan ayrımcılık davasında karar çıktı. Görevden uzaklaştırılan Bolu Belediye Başkanı Tanju Özcan'a sığınmacılara yönelik sözleri nedeniyle açılan davada beraat kararı verildi. Yolsuzluk suçlamasıyla başlatılan soruşturma kapsamında tutuklu bulunan Özcan, sığınmacılara verilen ayni ve nakdi yardımı keserken, su ücretlerine 10 kat zam yapıp, nikah ücretlerinin de 100 bin lira olması yönünde karar almıştı.",
-          "source": "https://www.ntv.com.tr/turkiye/tanju-ozcana-acilan-ayrimcilik-davasinda-karar-1732742"
+          "title": "Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Katar Devleti'ne ziyareti dolayısıyla Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz vekalet edecek. Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Yılmaz'ın vekalet etmesine dair tezkere, Resmi Gazete'de yayımlandı. Buna göre Cumhurbaşkanı Erdoğan'ın 14 Temmuz'da Katar'a ziyarette bulunması nedeniyle dönüşüne kadar Cumhurbaşkanlığına, Türkiye Cumhuriyeti Anayasası'nın 106'ncı maddesi uyarınca Cumhurbaşkanı Yardımcısı Cevdet Yılmaz vekalet edecek.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek-1732767"
         },
         {
-          "title": "Çankaya Belediye Başkanı Güner’in ifadesi ortaya çıktı: İhalelerle bilgim ve ilgim yoktur",
-          "summary": "Çankaya Belediyesi'ne yönelik yürütülen soruşturma kapsamında gözaltına alınan Belediye Başkanı Hüseyin Can Güner, emniyetteki ifadesinde mal varlığının belediye başkanı seçilmeden önce kişisel birikim ve miras yoluyla edinildiğini belirtti. İhale süreçlerinin kendi belirlediği usullerle yürütülmediğini ifade eden Güner, \"İhalelerin hazırlanışı ve yapılmasından bilgim ve ilgim yoktur.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cankaya-belediye-baskani-gunerin-ifadesi-ortaya-cikti-ihalelerle-bilgim-ve-ilgim-yoktur-43238394"
+          "title": "Berat Albayrak 15 Temmuz gecesi yaşananları anlattı: Uçağımızdaki pilotlardan biri FETÖ'cüydü",
+          "summary": "Enstitü Sosyal, 15 Temmuz darbe girişiminin 10'uncu yılında, darbe girişimini gündelik siyasi tartışmaların ötesine taşıyarak tarihsel, toplumsal, hukuki ve ahlaki boyutlarıyla değerlendirmek ve Türkiye'nin demokratik geleceğine ilişkin ortak bir muhasebe zemini oluşturmak amacıyla \"10. Yılında 15 Temmuz'u Hatırlamak\" başlıklı forum düzenledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/berat-albayrak-15-temmuz-gecesi-yasananlari-anlatti-ucagimizdaki-pilotlardan-biri-fetocuydu-43238700"
         }
       ]
     },
     "dunya": {
-      "text": "Yüksek sıcaklıkların etkili olduğu Fransa'da 3 nükleer reaktörün faaliyeti askıya alındı. Putin, Ukrayna'nın saldırılarına güçlü yanıt vereceklerini söyledi. Trump: Hürmüz Boğazı'nı alıyoruz, abluka yeniden başlayacak. Fransa'da kırmızı alarm! Orman yangınları 37 vilayete yayıldı. AB çocukların sosyal medya kullanımını kısıtlamaya hazırlanıyor. Trump, ABD'nin Hürmüz Boğazı'nı ele geçireceğini duyurdu! İran'dan ilk yanıt. Türkiye ve KKTC'den AB Komisyonu'nun Kıbrıs kararına ilişkin art arda açıklamalar.",
+      "text": "ABD'den İran'a üst üste üçüncü gece saldırı. \"Hürmüz'de ablukayı başlatıyoruz\". Pilot uçakla gökyüzüne \"sıkıldım\" yazdı, izne çıkarıldı. ABD denizde ilk kez SİHA ile vurdu. Fransa'da orman yangını çıkaran 59 kişi gözaltına alındı. 1300 hektarlık alan küle döndü. Ukrayna Başbakanı Sviridenko, parlamentoya istifa dilekçesini sundu. NYT’den çarpıcı iddia: Mossad, Ahmedinejad’ı İran’ın lideri yapmak istedi. Husiler: Suudi Arabistan'ın Abha Havalimanı'nı balistik füze ve İHA'larla hedef aldık.",
       "items": [
         {
-          "title": "Yüksek sıcaklıkların etkili olduğu Fransa'da 3 nükleer reaktörün faaliyeti askıya alındı",
-          "summary": "Yeni bir sıcak hava dalgasının etkisi altında olan Fransa’da 3 nükleer reaktörün faaliyeti durdurulurken, 8 reaktör de düşük güç moduna alındı. Yerel basının devlete ait enerji şirketi EDF’den yapılan açıklamaya dayandırdığı haberlere göre, 37 vilayetinde yüksek sıcaklıklar nedeniyle kırmızı alarm verilen Fransa’da nükleer reaktörler için de çevresel önlemler alındı.",
-          "source": "https://www.ntv.com.tr/dunya/yuksek-sicakliklarin-etkili-oldugu-fransada-3-nukleer-reaktorun-faaliyeti-askiya-alindi-1732744"
+          "title": "ABD'den İran'a üst üste üçüncü gece saldırı. \"Hürmüz'de ablukayı başlatıyoruz\"",
+          "summary": "ABD ile İran arasında Hürmüz Boğazı’nın kontrolü konusunda tırmanan gerilim tarafların karşılıklı saldırıları ile sürüyor. ABD ordusu gece boyunca İran'ı bombardımana tuttu. Trump, İran için uygulanan deniz ablukasına geri dönüldüğünü açıkladı. ABD Başkanı Donald Trump'ın ''İran'ı bu gece ve yarın vuracağız.'' açıklamasından sonra ABD ordusu İran'a yönelik yeni bir saldırı başlattı. Trump, İran'la mutabakat muhtırasının bir test olduğunu belirterek ''Onlar buna uymadı.'' dedi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-iran-catismasi-korfeze-yayildi-yemen-suudi-arabistan-hatti-da-gerildi-1732759"
         },
         {
-          "title": "Putin, Ukrayna'nın saldırılarına güçlü yanıt vereceklerini söyledi",
-          "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna'nın Rus topraklarına yönelik saldırılarına güçlü yanıt vereceklerini belirterek, \"Her zaman misilleme yapacağız.\" dedi. Kremlin Sarayı'ndan yapılan açıklamaya göre, Putin, Rusya Halk Cephesi Hareketinin başkent Moskova'da düzenlediği programa ve sergiye katıldı. Putin, burada yaptığı açıklamada, Batı'nın Rusya ile mücadele ettiğini, ancak ülke ekonomisini geliştirmeye ve Rus ordusunu yenilemeye devam ettiklerini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/putin-ukraynanin-saldirilarina-guclu-yanit-vereceklerini-soyledi-1732743"
+          "title": "Pilot uçakla gökyüzüne \"sıkıldım\" yazdı, izne çıkarıldı",
+          "summary": "İngiltere'de bir pilot, uçuş rotasında keskin dönüşler yaparak ile gökyüzüne \"sıkıldım\" yazdı. İngiltere'de bir havayolu pilotu, test uçuşu gökyüzüne \"Sıkıldım\" yazdı. Uçuş rotasıyla İngiltere ile Galler sınırındaki bir bölgede oluşturulan yazı Flightradar24 tarafından kaydedildi. Flightradar24 verilerine göre Ravenair firmasına ait olan uçakla oluşturulan rota 2 saat sürdü. Pilotun \"I m bored\" şeklini oluşturmak için 20 dakika boyunca keskin dönüşler yaptığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-pilot-ucakla-gokyuzune-sikildim-yazdi-izne-cikarildi-1732776"
         },
         {
-          "title": "Trump: Hürmüz Boğazı'nı alıyoruz, abluka yeniden başlayacak",
-          "summary": "ABD Başkanı Donald Trump, İran ile yaptıkları anlaşmanın karşı tarafça bozulduğunu ileri sürerek, \"Hürmüz Boğazı'nı alıyoruz. Kontrol bizde olacak. Güvenliği sağlamak için ücret alacağız.\" dedi. Trump ablukayı yeniden başlatacaklarını söyledi. ABD Başkanı Donald Trump, Fox News kanalında yayımlanan “Fox & Friends” programına telefonla bağlanarak İran ve Hürmüz Boğazı'na ilişkin açıklamalarda bulundu. Trump, ABD'nin Hürmüz Boğazı'nın güvenliğini üstleneceğini belirterek, \"Hürmüz Boğazı'nı alıyoruz.",
-          "source": "https://www.ntv.com.tr/dunya/trump-hurmuz-bogazini-aliyoruz-1732731"
+          "title": "ABD denizde ilk kez SİHA ile vurdu",
+          "summary": "ABD ordusu, \"muharebe operasyonlarında ilk\" diyerek, silahlı insansız hava aracının İran'daki bir tesisi hedef aldığı görüntüleri paylaştı. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), deniz üzerinde ilk kez saldırı amaçlı silahlı insansız hava aracı (SİHA) kullanarak İran'daki bir denizaltı ve gemi bakım tesisini hedef aldığını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/abd-denizde-ilk-kez-siha-ile-vurdu-1732771"
         },
         {
-          "title": "Fransa'da kırmızı alarm! Orman yangınları 37 vilayete yayıldı",
-          "summary": "Fransa'da yüksek hava sıcaklıkları sebebiyle 37 vilayette kırmızı alarm verildi, ülkenin güneydoğusundaki yangınlara müdahale sürüyor. Yangınlarda 2 gün içinde 1000 hektar alanın zarar gördüğü kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransada-kirmizi-alarm-orman-yanginlari-37-vilayete-yayildi-43238455"
+          "title": "Fransa'da orman yangını çıkaran 59 kişi gözaltına alındı. 1300 hektarlık alan küle döndü",
+          "summary": "Fransa İçişleri Bakanı Laurent Nunez, ülkede kasıtlı şekilde veya kazayla orman yangını çıkaran 59 kişinin gözaltına alındığını belirtti. Nunez, Fontainebleau orman yangınında şu ana kadar toplam 1300 hektarlık alanın küle döndüğünü ifade etti. Nunez, konuk olduğu France 2 kanalında, ülkede devam eden orman yangınlarını değerlendirdi. Kasıtlı veya kazayla orman yangınları çıkardığı gerekçesiyle 59 kişinin gözaltına alındığını aktaran Nunez, bunlardan 29'unun reşit olmadığını kaydetti.",
+          "source": "https://www.ntv.com.tr/dunya/fransada-orman-yangini-cikaran-59-kisi-gozaltina-alindi-1300-hektarlik-alan-kule-dondu-1732768"
         },
         {
-          "title": "AB çocukların sosyal medya kullanımını kısıtlamaya hazırlanıyor",
-          "summary": "Avrupa Birliği (AB) Komisyonu tarafından yetkilendirilen \"Çocukların Çevrim İçi Güvenliğine İlişkin Özel Uzman Heyeti\" 13 yaşın altındaki çocukların \"sosyal medya plus\" olarak tanımlanan platformlara erişimi için AB genelinde uyumlu bir yaş sınırı getirilmesi tavsiyesinde bulundu. AB Komisyonu, yaz sonrasında çocukların sosyal medya kullanımını düzenlemeye yönelik bir yasa tasarısı sunulacağını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ab-cocuklarin-sosyal-medya-kullanimini-kisitlamaya-hazirlaniyor-43238442"
+          "title": "Ukrayna Başbakanı Sviridenko, parlamentoya istifa dilekçesini sundu",
+          "summary": "Ukrayna Parlamentosu Başkanı Ruslan Stefançuk, Başbakan Yuliya Sviridenko'nun görevinden istifa ettiğine ilişkin dilekçesini parlamentoya sunduğunu açıkladı. Stefançuk, \"Parlamento, mevcut prosedürlere göre bu konuyu yakın zamanda ele alacak.\" ifadesini kullanarak Sviridenko'ya görev süresince yaptığı çalışmalardan dolayı teşekkür etti. Ukrayna basınındaki haberlere göre, Sviridenko'nun istifa dilekçesinin parlamentoda 14 Temmuz'da görüşülmesi bekleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/ukrayna-basbakani-sviridenko-parlamentoya-istifa-dilekcesini-sundu-1732766"
         },
         {
-          "title": "Trump, ABD'nin Hürmüz Boğazı'nı ele geçireceğini duyurdu! İran'dan ilk yanıt",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nı ellerinde tutacaklarını, \"muhtemelen\" geçişleri yöneteceklerini ve bunun için ödeme alacaklarını belirtti. İran Silahlı Kuvvetleri'nin savaşı yürüten birimi Hatemu'l Enbiya Merkez Karargahı Sözcüsü Albay İbrahim Zülfikari ise Trump’ın açıklaması hakkında, \"ABD'nin Hürmüz Boğazı'na müdahale etmesine izin vermedik vermeyeceğiz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-abdnin-hurmuz-bogazini-ele-gecirecegini-duyurdu-irandan-ilk-yanit-43238414"
+          "title": "NYT’den çarpıcı iddia: Mossad, Ahmedinejad’ı İran’ın lideri yapmak istedi",
+          "summary": "İsrail istihbaratının, İran'ın eski Cumhurbaşkanı Mahmud Ahmedinejad ile çeşitli görüşmeler yaptığı, kendisine para ödediği ve yeniden iktidara getirmeyi amaçladığı ancak söz konusu planın başarısız olduğu ileri sürüldü. New York Times (NYT) gazetesinin, isimleri açıklanmayan ABD'li ve İranlı yetkililere dayandırdığı haberinde, İsrail dış istihbarat servisi Mossad'ın, İran'ın eski Cumhurbaşkanı Ahmedinejad'ı \"istihbarat varlığına dönüştürmeyi\" planladığı iddia edildi.",
+          "source": "https://www.ntv.com.tr/dunya/nytden-carpici-iddia-mossad-ahmedinejadi-iranin-lideri-yapmak-istedi-1732764"
         },
         {
-          "title": "Türkiye ve KKTC'den AB Komisyonu'nun Kıbrıs kararına ilişkin art arda açıklamalar",
-          "summary": "Türkiye ve KKTC, Avrupa Birliği (AB) Komisyonu'nun Başkan Yardımcısı Raffaele Fitto’yu Kıbrıs Özel Temsilcisi olarak atamasına tepki gösterdi. Dışişleri Bakanlığı, Türkiye'nin kararı AB'nin iç meselesi olarak gördüğü kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/turkiye-ve-kktcden-ab-komisyonunun-kibris-kararina-iliskin-art-arda-aciklamalar-43238385"
+          "title": "Husiler: Suudi Arabistan'ın Abha Havalimanı'nı balistik füze ve İHA'larla hedef aldık",
+          "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın güneyindeki Abha Havalimanı'nı balistik füze ve insansız hava araçlarıyla (İHA) hedef aldıklarını duyurdu. Husilerin Askeri Sözcüsü Yahya Seri, yaptığı açıklamada, kontrollerindeki Sana Havalimanı'na yönelik saldırıdan Suudi Arabistan'ı sorumlu tuttu. Seri, Sana Havalimanı'nın hedef alınmasına karşı Suudi Arabistan'ın güneyinde yer alan Abha Havalimanı'nı balistik füze ve İHA'larla hedef aldıklarını ve vurduklarını iddia etti.",
+          "source": "https://www.ntv.com.tr/dunya/husiler-suudi-arabistanin-abha-havalimanini-balistik-fuze-ve-ihalarla-hedef-aldik-1732758"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Beşiktaş'ta yeni sezon hazırlıkları sürüyor. Roma Paulo Dybala'nın sözleşmesini uzattı!. Kerem Aktürkoğlu için dev teklif! Fenerbahçe'nin istediği bonservis bedeli belli oldu. Manchester United Andrey Santos'u kadrosuna kattı!. TVF Başkanı Üstündağ'dan Eda Erdem ve Ebrar Karakurt açıklaması!. Slaven Bilic, yeniden Hırvatistan'ın teknik direktörü oldu. Okan Buruk, Fatih Terim'i geride bıraktı: Galatasaray tarihine geçti!.",
+      "text": "Greenwood'da beklenen haber geldi: Fenerbahçe transferi bitirdi! İşte maliyeti... Serdal Adalı, Trossard transferini bitirmek için Hollanda yolcusu!. Galatasaray, yeni sezon hazırlıklarını sürdürdü!. Fenerbahçe, Avusturya'daki hazırlıklarına devam etti!. Galatasaray'dan Can Uzun hamlesi: Geri sayım başladı!. Asensio'dan İsmail Kartal'a övgü: 'Oynattığı futbol ilgi çekici!'. Göztepe'den hazırlık maçında 2 gollü galibiyet!.",
       "items": [
         {
-          "title": "Beşiktaş'ta yeni sezon hazırlıkları sürüyor",
-          "summary": "Beşiktaş, yeni sezon hazırlıklarını sabah saatlerinde yaptığı antrenmanla sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-yeni-sezon-hazirliklari-suruyor-43238473"
+          "title": "Greenwood'da beklenen haber geldi: Fenerbahçe transferi bitirdi! İşte maliyeti...",
+          "summary": "Fenerbahçe, Ligue 1 ekibi Marsilya forması giyen İngiliz kanat oyuncusu Mason Greenwood'un transferinde mutlu sona ulaştı..",
+          "source": "https://www.hurriyet.com.tr/sporarena/greenwoodda-beklenen-haber-geldi-fenerbahce-transferi-bitirdi-iste-maliyeti-43238732"
         },
         {
-          "title": "Roma Paulo Dybala'nın sözleşmesini uzattı!",
-          "summary": "Serie A ekibi Roma, Paulo Dybala'nın sözleşmesinin 2027'ye kadar uzatıldığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/roma-paulo-dybalanin-sozlesmesini-uzatti-43238436"
+          "title": "Serdal Adalı, Trossard transferini bitirmek için Hollanda yolcusu!",
+          "summary": "Beşiktaş'ta Leandro Trossard transferinde sona gelindi. Başkan Serdal Adalı, takımın kamp yaptığı Slovakya'dan yarın sabah Hollanda'ya geçerek futbolcuyla son görüşmeyi gerçekleştirecek ve resmi imzaları attıracak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-trossard-transferini-bitirmek-icin-hollanda-yolcusu-43238655"
         },
         {
-          "title": "Kerem Aktürkoğlu için dev teklif! Fenerbahçe'nin istediği bonservis bedeli belli oldu",
-          "summary": "Fenerbahçe'nin milli futbolcusu Kerem Aktürkoğlu için Suudi kulübü Al-Ahli dev bir teklifte bulundu. Sarı-lacivertliler, 10+4 yabancı oyuncu kuralı nedeniyle kolay kolay vazgeçmeyi düşünmediği yıldız oyuncusunun bonservis bedelini belirledi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/kerem-akturkoglu-icin-dev-teklif-fenerbahcenin-istedigi-bonservis-bedeli-belli-oldu-43238430"
+          "title": "Galatasaray, yeni sezon hazırlıklarını sürdürdü!",
+          "summary": "Galatasaray, yeni sezon hazırlıklarını bugün yaptığı antrenmanlarla sürdürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-yeni-sezon-hazirliklarini-surdurdu-43238638"
         },
         {
-          "title": "Manchester United Andrey Santos'u kadrosuna kattı!",
-          "summary": "Premier Ligi ekibi Manchester United, Chelsea'den Andrey Santos'u transfer etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/manchester-united-andrey-santosu-kadrosuna-katti-43238418"
+          "title": "Fenerbahçe, Avusturya'daki hazırlıklarına devam etti!",
+          "summary": "Yeni sezon hazırlıklarını Avusturya'da sürdüren Fenerbahçe, günün tek antrenmanını akşam saatlerinde gerçekleştirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-avusturyadaki-hazirliklarina-devam-etti-43238632"
         },
         {
-          "title": "TVF Başkanı Üstündağ'dan Eda Erdem ve Ebrar Karakurt açıklaması!",
-          "summary": "Türkiye Voleybol Federasyonu Başkanı Mehmet Akif Üstündağ VNL finalleri öncesi açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tvf-baskani-ustundagdan-eda-erdem-ve-ebrar-karakurt-aciklamasi-43238286"
+          "title": "Galatasaray'dan Can Uzun hamlesi: Geri sayım başladı!",
+          "summary": "Yeni sezon öncesi 10 numara mevkisine transfer yapmak isteyen Galatasaray, milli futbolcu Can Uzun için girişimlerini hızlandırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-can-uzun-hamlesi-geri-sayim-basladi-43238627"
         },
         {
-          "title": "Slaven Bilic, yeniden Hırvatistan'ın teknik direktörü oldu",
-          "summary": "Bir dönem ülkemizde Beşiktaş'ı da çalıştıran Hırvat teknik adam Slaven Bilic, ülkesinin milli takımının teknik direktörlüğüne getirildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/slaven-bilic-yeniden-hirvatistanin-teknik-direktoru-oldu-43238275"
+          "title": "Asensio'dan İsmail Kartal'a övgü: 'Oynattığı futbol ilgi çekici!'",
+          "summary": "Fenerbahçe'nin İspanyol yıldızı Marco Asensio, Avusturya'daki kampta açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/asensiodan-ismail-kartala-ovgu-oynattigi-futbol-ilgi-cekici-43238619"
         },
         {
-          "title": "Okan Buruk, Fatih Terim'i geride bıraktı: Galatasaray tarihine geçti!",
-          "summary": "Galatasaray'da son 4 sezonda birçok başarı yakalayan ve rekorlar kıran Okan Buruk, sarı-kırmızılıların başında 1481 güne ulaşarak bu alanda Fatih Terim'i (1480 gün) geçerek Galatasaray'da tek dönemde en uzun süre teknik direktörlük yapan isim oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-fatih-terimi-geride-birakti-galatasaray-tarihine-gecti-43238124"
+          "title": "Göztepe'den hazırlık maçında 2 gollü galibiyet!",
+          "summary": "Göztepe, hazırlık maçında HNK Gorica'yı 2 -0 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/goztepeden-hazirlik-macinda-2-gollu-galibiyet-43238616"
         }
       ]
     },
     "teknoloji": {
-      "text": "Dünyanın en siyah boyası, bilim insanlarının umudu oldu. Meta’dan YZ geri adımı. Yeni Mac’in fiyatı dudak uçuklatabilir. Çin’den Ay'a lazerle enerji planı. İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız. Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti. Silikon Vadisi ile Çin arasında gizli YZ savaş.",
+      "text": "Bayraktar KIZILELMA süpersonik füze ile vurdu. Dünyanın en siyah boyası, bilim insanlarının umudu oldu. Meta’dan YZ geri adımı. Yeni Mac’in fiyatı dudak uçuklatabilir. Çin’den Ay'a lazerle enerji planı. İletişim Başkanlığından \"yeşil vatan\" paylaşımı: Geleceğe bıraktığımız en değerli mirasımız. Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti.",
       "items": [
+        {
+          "title": "Bayraktar KIZILELMA süpersonik füze ile vurdu",
+          "summary": "Bayraktar KIZILELMA İnsansız Savaş Uçağı (İSU), ROKETSAN'ın geliştirdiği havadan karaya süpersonik füze Jet-230 ile yaptığı test atışında hedefi tam isabetle vurdu. Baykar tarafından geliştirilen Türkiye'nin ilk insansız savaş uçağı Bayraktar KIZILELMA'nın geliştirme süreci, yeni kabiliyetlerin entegrasyonu ile devam ediyor. Şirketten yapılan açıklamaya göre, dünya havacılık tarihinde yeni bir dönemi başlatan Bayraktar KIZILELMA, havadan karaya süpersonik füze ile ilk atış testini başarıyla tamamladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/bayraktar-kizilelma-supersonik-fuze-ile-vurdu-1732762"
+        },
         {
           "title": "Dünyanın en siyah boyası, bilim insanlarının umudu oldu",
           "summary": "Bilim insanları, uyduların neden olduğu ışık kirliliğini azaltabilecek yeni bir çözüm geliştirdi. \"Dünyanın en siyah boyalarından biri\" olarak tanımlanan Vantablack 310 ile kaplanan uyduların gelen ışığın yalnızca yüzde 2'sini yansıttığı belirlendi. Alçak Dünya yörüngesindeki uydu sayısının hızla artması, gökbilimcilerin gece gökyüzünü gözlemlemesini giderek zorlaştırıyor.",
@@ -195,11 +200,6 @@
           "title": "Meta gizlilik tepkilerinin ardından yeni yapay zekayı çekti",
           "summary": "Meta, Instagram için geliştirdiği yeni yapay zeka modelini, kullanıcıların otomatik olarak sisteme dahil edilmesine yönelik tepkilerin ardından yayından kaldırdı. Facebook ve Instagram'ın çatı şirketi Meta, Instagram için geliştirdiği yeni yapay zeka modelini, özelliğin tanıtılmasının hemen ardından yükselen kamuoyu tepkisi üzerine cuma günü yayından kaldırdı.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-meta-gizlilik-tepkilerinin-ardindan-yeni-yapay-zekayi-cekti-1732511"
-        },
-        {
-          "title": "Silikon Vadisi ile Çin arasında gizli YZ savaş",
-          "summary": "ABD’li yapay zekâ şirketleri, Çinli rakiplerin kendi gelişmiş modellerini “öğretmen” gibi kullanarak daha ucuz ve güçlü sistemler geliştirdiğini savunuyor. Anthropic’in Claude kullanıcılarını izlemek için denediği gizli takip kodu ise Silikon Vadisi ile Çin arasındaki YZ yarışının ne kadar sertleştiğini ortaya koydu.",
-          "source": "https://www.hurriyet.com.tr/dunya/silikon-vadisi-ile-cin-arasinda-gizli-yz-savas-43232578"
         }
       ]
     },
