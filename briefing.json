@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-14T16:00:03.549Z",
+  "generatedAt": "2026-07-15T04:00:04.567Z",
   "categories": {
     "gundem": {
-      "text": "Yürek burkan facia... Evde yalnız bırakılan 2 yaşındaki çocuk, yanarak can verdi. Hastaneye ateş açıp, o anları kaydettiler… Olayla ilgili 2 şüpheli tutuklandı. Emine Erdoğan'dan vefat eden eski Katar Emiri için başsağlığı paylaşımı. Çember daraldı… Özel ekip, Gülistan Doku'nun cenazesini arıyor. Cumhurbaşkanı Erdoğan'dan KKTC Cumhurbaşkanı Erhürman'a \"geçmiş olsun\" telefonu. Suç işleyen çocuklara ilişkin düzenlemenin ayrıntıları ortaya çıktı. Ankara'da panikleyen sürücü ortalığı savaş alanına çevirdi! Park halindeki 7 araca çarptı.",
+      "text": "Öğrenci affı Komisyon'da kabul edildi. Ters yönden gelen otomobil, 2 araca çarptı: 2'si ağır 5 yaralı. İrade ve zaferin 10. yılı. Türkiye bir kez daha 15 Temmuz'da tek yürek. 15 Temmuz Şehitler Köprüsü ve bazı yollar trafiğe kapatıldı. Kayıp ihbarından vahşet çıktı: Babasını parçalayıp tuvalete gömmüş. Korkunç olay! Parçalanmış cesedi tuvalette bulundu. MHP lideri Bahçeli'den 15 Temmuz Demokrasi ve Milli Birlik Günü mesajı.",
       "items": [
         {
-          "title": "Yürek burkan facia... Evde yalnız bırakılan 2 yaşındaki çocuk, yanarak can verdi",
-          "summary": "KARABÜK’e bağlı Davutlar köyünde, ailesinin evde yalnız bırakıp, ıhlamur toplamaya gittiği Berkant Kurt (2), çıkan yangında hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/yurek-burkan-facia-evde-yalniz-birakilan-2-yasindaki-cocuk-yanarak-can-verdi-43239888"
+          "title": "Öğrenci affı Komisyon'da kabul edildi",
+          "summary": "AK Parti milletvekillerinin imzasını taşıyan öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Milli Eğitim, Kültür, Gençlik ve Spor Komisyonunda kabul edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ogrenci-affi-komisyonda-kabul-edildi-43240182"
         },
         {
-          "title": "Hastaneye ateş açıp, o anları kaydettiler… Olayla ilgili 2 şüpheli tutuklandı",
-          "summary": "DİYARBAKIR’da özel hastaneye silahlı saldırı düzenleyip, o anları cep telefonu kamerasıyla kaydeden 2 şüpheli, çıkarıldığı mahkemece tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/hastaneye-ates-acip-o-anlari-kaydettiler-olayla-ilgili-2-supheli-tutuklandi-43239876"
+          "title": "Ters yönden gelen otomobil, 2 araca çarptı: 2'si ağır 5 yaralı",
+          "summary": "İstanbul Sancaktepe'de gece saatlerinde ters yöne girdiği iddia edilen otomobilin karıştığı zincirleme kazada 2'si ağır 5 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ters-yonden-gelen-otomobil-2-araca-carpti-2si-agir-5-yarali-43240180"
         },
         {
-          "title": "Emine Erdoğan'dan vefat eden eski Katar Emiri için başsağlığı paylaşımı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, vefat eden eski Katar Emiri Şeyh Hamed bin Halife Al Sani'ye Allah'tan rahmet diledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-vefat-eden-eski-katar-emiri-icin-bassagligi-paylasimi-43239872"
+          "title": "İrade ve zaferin 10. yılı. Türkiye bir kez daha 15 Temmuz'da tek yürek",
+          "summary": "Milyonlarca kişi 10. yılında bir kez daha FETÖ tarafından düzenlenen darbe girişimini lanetliyor. Vatandaşlar Türkiye'nin dört bir yanında şehitlerini anıyor, \"İrade bizim, zafer bizim\" temasıyla gerçekleştirilen buluşmalara katılıyor. Türk Silahlı Kuvvetleri (TSK) içindeki FETÖ yapılanması tarafından 15 Temmuz 2016'da düzenlenen darbe girişiminin üzerinden 10 yıl geçti. Bugün milyonlar bir kez daha 253 kişinin hayatını kaybettiği, binlerce kişinin yaralandığı kumpası lanetliyor.",
+          "source": "https://www.ntv.com.tr/turkiye/irade-ve-zaferin-10-yili-turkiye-bir-kez-daha-15-temmuzda-tek-yurek-1732674"
         },
         {
-          "title": "Çember daraldı… Özel ekip, Gülistan Doku'nun cenazesini arıyor",
-          "summary": "TUNCELİ’de 5 Ocak 2020'den bu yana kayıp olan üniversite öğrencisi Gülistan Doku'ya (21) ilişkin cinayet soruşturması kapsamında, Adalet Bakanlığı'nın talebi ve İçişleri Bakanlığı'nın talimatıyla oluşturulan 30 kişilik özel ekip, daraltılmış baz kayıtları doğrultusunda belirlenen noktalarda yaklaşık 100 kilometrelik alanda yer altı görüntüleme cihazlarıyla genç kızın cenazesini arıyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/cember-daraldi-ozel-ekip-gulistan-dokunun-cenazesini-ariyor-43239864"
+          "title": "15 Temmuz Şehitler Köprüsü ve bazı yollar trafiğe kapatıldı",
+          "summary": "İstanbul'da, '15 Temmuz Demokrasi ve Şehitleri Anma Koşusu' etkinliği nedeniyle saat 03.00 itibarıyla 15 Temmuz Şehitler Köprüsü ile Üsküdar ve Beşiktaş'taki bazı yollar trafiğe kapatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-15-temmuz-sehitler-koprusu-ve-bazi-yollar-trafige-kapatildi-43240173"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan KKTC Cumhurbaşkanı Erhürman'a \"geçmiş olsun\" telefonu",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman'a geçirdiği rahatsızlık nedeniyle \"geçmiş olsun\" dileklerini iletti.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-kktc-cumhurbaskani-erhurmana-gecmis-olsun-telefonu-43239813"
+          "title": "Kayıp ihbarından vahşet çıktı: Babasını parçalayıp tuvalete gömmüş",
+          "summary": "Kırıkkale’nin Çelebi ilçesinde babasının kayıp olduğunu bildirerek jandarmaya başvuran Ö. Ayan’nın ifadelerindeki çelişkiler cinayeti ortaya çıkardı. Baba Yusuf Ayan’ın parçalanmış cesedi, yaşadığı evin eklentisindeki tuvalette bulundu. Olay, Çelebi ilçesine bağlı Karaağaç köyünde meydana geldi. Edinilen bilgiye göre, Ö. Ayan (25) isimli şahıs, babası Yusuf Ayan’dan (55) yaklaşık bir gündür haber alamadığını belirterek kayıp ihbarında bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/kayip-ihbarindan-vahset-cikti-babasini-parcalayip-tuvalete-gommus-1732928"
         },
         {
-          "title": "Suç işleyen çocuklara ilişkin düzenlemenin ayrıntıları ortaya çıktı",
-          "summary": "Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi ile çocukların işleyeceği ağır suçlarda cezalar artırılacak, verilecek cezalarda hakimlere daha fazla takdir yetkisi tanınacak, çocukların ıslahına yönelik yeni tedbirler hayata geçirilecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/suc-isleyen-cocuklara-iliskin-duzenlemenin-ayrintilari-ortaya-cikti-43239808"
+          "title": "Korkunç olay! Parçalanmış cesedi tuvalette bulundu",
+          "summary": "Kırıkkale'nin Çelebi ilçesinde oğlu tarafından kayıp ihbarı yapılan Yusuf A.'nın (55) cesedi, birlikte yaşadıkları evin tuvaletinde parçalanmış halde bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/korkunc-olay-parcalanmis-cesedi-tuvalette-bulundu-43240149"
         },
         {
-          "title": "Ankara'da panikleyen sürücü ortalığı savaş alanına çevirdi! Park halindeki 7 araca çarptı",
-          "summary": "Çankaya ilçesinde direksiyon hakimiyetini kaybederek panikleyen kadın sürücü, cadde boyunca park halinde bulunan 7 otomobile çarptı. Kaza anları güvenlik kamerasına saniye saniye yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-panikleyen-surucu-ortaligi-savas-alanina-cevirdi-park-halindeki-7-araca-carpti-43239799"
+          "title": "MHP lideri Bahçeli'den 15 Temmuz Demokrasi ve Milli Birlik Günü mesajı",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, \"15 Temmuz, Türk milletinin tarih boyunca verdiği bağımsızlık mücadelesinin son halkalarından biridir.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-15-temmuz-demokrasi-ve-milli-birlik-gunu-mesaji-43240132"
         }
       ]
     },
     "dunya": {
-      "text": "Trump: Hürmüz Boğazı, İran hariç gemi trafiğine açık. Litvanya’da yeni hükümet yemin ederek göreve başladı. Dışişleri Bakanı Hakan Fidan BM Genel Sekreteri Guterres ile telefonda görüştü. Forbes dergisi hayran kaldı: Türkiye'nin DOA sistemi ABD'ye önerildi. Fildişi Sahili'nde korkunç kaza: Yolcu otobüsü nehre uçtu... Çok sayıda ölü ve yaralı. Ukrayna Başbakanı Sviridenko istifa etti. Bosna Hersek'te barış konseyi görüşmeleri sonuçsuz kaldı.",
+      "text": "Küba'da bir haftada ikinci büyük elektrik kesintisi. ABD'nin İran'a deniz ablukası başladı. Trump: Anlaşma olmazsa enerji altyapısını hedef alacağız. Ukrayna'nın Odessa açıklarında Türk gemisine İHA saldırısı. Trump'tan Netanyahu'ya: Suriye'den çık. Irak Başbakanı ez-Zeydi Beyaz Saray'da… Trump’tan Irak itirafı: Yanlış ülkeye saldırdılar. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Filipinler'de 6,2 büyüklüğünde deprem.",
       "items": [
         {
-          "title": "Trump: Hürmüz Boğazı, İran hariç gemi trafiğine açık",
-          "summary": "ABD Başkanı Donald Trump, ''Hürmüz Boğazı, İran hariç gemi trafiğine açık.'' açıklamasını yaptı. ABD Başkanı Donald Trump, İran limanlarına giriş ve çıkış yapan gemilere yönelik tam deniz ablukası uygulanacağını açıkladı. Trump, uygulamanın Hürmüz Boğazı’ndan geçen tüm gemileri kapsamayacağını belirterek, “Tam bir abluka uygulayacağız ancak bu yalnızca İran limanlarına giden ve İran limanlarından çıkan gemiler için geçerli olacak.” dedi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-hurmuz-bogazi-iran-haric-gemi-trafigine-acik-1732910"
+          "title": "Küba'da bir haftada ikinci büyük elektrik kesintisi",
+          "summary": "Küba'da elektrik şebekesinin yeniden çökmesiyle son bir hafta içinde ülke çapında ikinci kez milyonlarca kişi karanlıkta kaldı. Küba Elektrik Birliği (UNE) sosyal medya hesabından yaptığı açıklamada, ülke genelinde yaşanan kesintinin 2026 yılındaki beşinci büyük elektrik sistemi çöküşü olduğunu duyurdu. UNE, son bir hafta içinde Ulusal Elektrik Sistemi'nin ikinci kez tamamen devre dışı kaldığını bildirirken, arızanın nedenine ilişkin bilgi vermedi.",
+          "source": "https://www.ntv.com.tr/dunya/kubada-bir-haftada-ikinci-buyuk-elektrik-kesintisi-1732938"
         },
         {
-          "title": "Litvanya’da yeni hükümet yemin ederek göreve başladı",
-          "summary": "Litvanya'da Başbakan Mindaugas Sinkevicius liderliğindeki yeni hükümetin üyeleri yemin ederek resmen görevlerine başladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/litvanyada-yeni-hukumet-yemin-ederek-goreve-basladi-43239835"
+          "title": "ABD'nin İran'a deniz ablukası başladı. Trump: Anlaşma olmazsa enerji altyapısını hedef alacağız",
+          "summary": "ABD'nin İran'a yönelik saldırıları art arda dördüncü günde de devam etti. Trump, \"Anlaşma olmazsa önümüzdeki hafta İran'ın enerji altyapısını hedef alacağız ve ben yeter diyene kadar vurmaya devam edeceğiz\" dedi. ABD ile İran arasında yeniden tırmanan çatışmalarda Washington’ın İran’a yönelik saldırıları dördüncü günde de devam etti. ABD Merkez Kuvvetler Komutanlığı'ndan (CENTCOM) yapılan açıklamada, ABD güçlerinin İran’a yönelik yeni saldırılar başlattığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/abdnin-irana-deniz-ablukasi-basladi-saldirilar-dorduncu-gunde-de-suruyor-1732910"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan BM Genel Sekreteri Guterres ile telefonda görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres ile telefonda işbirliği konularını ve bölgesel meseleleri görüştü.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-bm-genel-sekreteri-guterres-ile-telefonda-gorustu-43239792"
+          "title": "Ukrayna'nın Odessa açıklarında Türk gemisine İHA saldırısı",
+          "summary": "Ukrayna'nın Odessa kenti açıklarında bir Türk şirketine ait, mürettebatı arasında Azerbaycan vatandaşlarının bulunduğu sivil ticaret gemisinin, insansız hava aracı (İHA) saldırısına uğradığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ukraynanin-odessa-aciklarinda-turk-gemisine-iha-saldirisi-43240087"
         },
         {
-          "title": "Forbes dergisi hayran kaldı: Türkiye'nin DOA sistemi ABD'ye önerildi",
-          "summary": "ABD merkezli Forbes dergisi, Türkiye'nin Depozitosu Olan Ambalajlar (DOA) Sistemi'ni mercek altına aldı. Dergi, DOA sisteminden övgü ile bahsetti ve ABD başta olmak üzere Batılı ülkeler için örnek model olarak gösterdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/forbes-dergisi-hayran-kaldi-turkiyenin-doa-sistemi-abdye-onerildi-43239727"
+          "title": "Trump'tan Netanyahu'ya: Suriye'den çık",
+          "summary": "ABD Başkanı Donald Trump'ın, İsrail Başbakanı Binyamin Netanyahu ile yaptığı telefon görüşmesinde, İsrail'in Suriye'deki askeri varlığını azaltmasını ve Lübnan'dan da çekilmeye başlamasını istediği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumpin-netanyahudan-israil-ordusunu-suriye-ve-lubnandan-cekmesini-istedigi-iddia-edildi-43240037"
         },
         {
-          "title": "Fildişi Sahili'nde korkunç kaza: Yolcu otobüsü nehre uçtu... Çok sayıda ölü ve yaralı",
-          "summary": "Fildişi Sahili'nde yolcu otobüsünün nehre düşmesi sonucu 24 kişi hayatını kaybetti, 36 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/fildisi-sahilinde-korkunc-kaza-yolcu-otobusu-nehre-uctu-cok-sayida-olu-ve-yarali-43239641"
+          "title": "Irak Başbakanı ez-Zeydi Beyaz Saray'da… Trump’tan Irak itirafı: Yanlış ülkeye saldırdılar",
+          "summary": "ABD Başkanı Donald Trump, 11 Eylül saldırılarının ardından ülkesinin Irak'ı işgal etmesiyle ilgili olarak \"Açıkçası, yanlış ülkeye saldırdılar ve büyük hasara yol açtılar.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/irak-basbakani-ez-zeydi-beyaz-sarayda-trumptan-irak-itirafi-yanlis-ulkeye-saldirdilar-43240024"
         },
         {
-          "title": "Ukrayna Başbakanı Sviridenko istifa etti",
-          "summary": "Ukrayna Parlamentosu, Başbakan Yulia Sviridenko'nun istifasını kabul etti. İstifasını doğrulayan Sviridenko, sosyal medya platformu X üzerinden yaptığı açıklamada Zelenski'ye kendisine duyduğu güven nedeniyle teşekkür etti. Ukrayna Parlamentosu, Başbakan Yulia Sviridenko'nun istifasını onayladı. Parlamentoda yapılan oylamada Sviridenko'nun görevden ayrılması 258 milletvekilinin oyuyla kabul edildi. Kararın kabul edilmesiyle birlikte Ukrayna hükümeti de toplu olarak görevden ayrılmış oldu.",
-          "source": "https://www.ntv.com.tr/dunya/ukrayna-basbakani-sviridenko-istifa-etti-1732903"
+          "title": "Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi",
+          "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, uzun süredir bankanın hedefinin üzerinde seyreden enflasyonu \"haksız bir yük\" ve \"vergi\" olarak nitelendirerek, bunun ortadan kaldırılması için para politikası yaklaşımında bir rejim değişikliğine ihtiyaç olduğunu ifade etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/fed-baskani-warshtan-kritik-enflasyon-aciklamasi-rejim-degisikligi-mesaji-verdi-43239997"
         },
         {
-          "title": "Bosna Hersek'te barış konseyi görüşmeleri sonuçsuz kaldı",
-          "summary": "Bosna Hersek'teki uluslararası barış sürecini denetleyen Barış Uygulama Konseyinin (PIC), ülkedeki yeni yüksek temsilcilik görevine kimin geleceği konusundaki görüşmelerinden üçüncü kez uzlaşı sağlanamadan sona erdi. Yeni PIC üyesinin AB ve ABD arasında yaşanan anlaşmazlık nedeniyle seçilemediği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/bosna-hersekte-baris-konseyi-gorusmeleri-sonucsuz-kaldi-43239522"
+          "title": "Filipinler'de 6,2 büyüklüğünde deprem",
+          "summary": "Filipinler'in Sarangani ilinde 6,2 büyüklüğünde deprem meydana geldi. ABD Jeolojik Araştırmalar Merkezi (USGS), depremin merkez üssünün Sarangani'nin 34 kilometre güneybatısı olduğunu duyurdu. Yerin 67,9 kilometre derinliğinde kaydedilen 6,2 büyüklüğündeki deprem sonrasında tsunami uyarısı yapılmadı. Depremin ardından herhangi bir can ve mal kaybı bildirilmedi. \"Pasifik Ateş Çemberi\" olarak adlandırılan deprem ve volkan kuşağındaki Filipinler'de büyük çaplı depremler sık yaşanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/filipinlerde-62-buyuklugunde-deprem-1732920"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Balogun, kırmızı kart cezasının ertelenmesine dair ilk kez konuştu: Çok zordu. Uludağ Premium Ultra Trail’e 23 ülkeden 2 binin üstünde sporcu katılacak. Beşiktaş ve Galatasaray istiyor! Transferde ilk temas. Fenerbahçe'de Levent Mercan'a Almanya'dan sürpriz talip!. Beşiktaş, Leandro Trossard transferini resmen açıkladı!. Okan Buruk'tan transfer itirafı: 'Olmadı, Premier Lig'e gitti, parayı verseniz de gelmiyorlar!'. Fenerbahçe'ye talih kuşu kondu! Teklif geliyor.",
+      "text": "Didier Deschamps: 'Can yakıyor!'. Luis de la Fuente: 'Karşılarında dünyanın en iyisi vardı!'. Amed Sportif Faaliyetler, Umut Meraş'ı transfer etti!. İsmail Kartal'dan Greenwood sözleri: 'Çok katkı sağlayacak!'. Fenerbahçe, Mason Greenwood'u resmen duyurdu! Formayı giydi, taraftara seslendi. Bakanlar Çiftçi ile Bak, Spor Güvenliği Toplantısı’nı gerçekleştirdi. Vincenzo Italiano'dan Trossard açıklaması!.",
       "items": [
         {
-          "title": "Balogun, kırmızı kart cezasının ertelenmesine dair ilk kez konuştu: Çok zordu",
-          "summary": "ABD'li oyuncu Florian Balogun, Bosna Hersek maçında gördüğü kırmızı kart sonrası FIFA tarafından cezasının ertelenmesine ilişkin konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/balogun-kirmizi-kart-iptaline-dair-ilk-kez-konustu-cok-zordu-43239818"
+          "title": "Didier Deschamps: 'Can yakıyor!'",
+          "summary": "Fransa Milli Takımı Teknik Direktörü Didier Deschamps, İspanya'ya karşı maksimum seviyede oynayamadıklarını ve daha fazla hata yaptıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/didier-deschamps-can-yakiyor-43240159"
         },
         {
-          "title": "Uludağ Premium Ultra Trail’e 23 ülkeden 2 binin üstünde sporcu katılacak",
-          "summary": "Uludağ Premium Ultra Trail, 23 ülkeden 2 bin 853 sporcuyu ağırlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uludag-premium-ultra-traile-23-ulkeden-2-binin-ustunde-sporcu-katilacak-43239766"
+          "title": "Luis de la Fuente: 'Karşılarında dünyanın en iyisi vardı!'",
+          "summary": "İspanya Milli Takımı Teknik Direktörü Luis de la Fuente, şampiyonluk için bir maçlarının daha kaldığını ve kendilerini bu en zor adım için hazırladıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/luis-de-la-fuente-karsilarinda-dunyanin-en-iyisi-vardi-43240158"
         },
         {
-          "title": "Beşiktaş ve Galatasaray istiyor! Transferde ilk temas",
-          "summary": "Süper Lig’in iki devi Beşiktaş ve Galatasaray, yeşil sahaların ardından bu kez de transferde karşı karşıya geldi. Beşiktaş, oyuncu ile ilk teması kurarken Galatasaray’ın da takipte olduğu ifade edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ve-galatasaray-istiyor-transferde-ilk-temas-43239617"
+          "title": "Amed Sportif Faaliyetler, Umut Meraş'ı transfer etti!",
+          "summary": "Trendyol Süper Lig ekiplerinden Amed Sportif Faaliyetler, sol bek oyuncusu Umut Meraş'ı transfer etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/amed-sportif-faaliyetler-umut-merasi-transfer-etti-43240113"
         },
         {
-          "title": "Fenerbahçe'de Levent Mercan'a Almanya'dan sürpriz talip!",
-          "summary": "Fenerbahçe'de geçtiğimiz sezon gösterdiği performansla ile dikkatleri üzerine toplayan Levent Mercan'a Almanya Bundesliga ekiplerinden Stuttgart talip oldu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-levent-mercana-almanyadan-surpriz-talip-43239613"
+          "title": "İsmail Kartal'dan Greenwood sözleri: 'Çok katkı sağlayacak!'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, çok iyi 2 kamp dönemi geçirdiklerini ve Gornik Zabrze maçına hazır olarak çıkacaklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartaldan-greenwood-sozleri-cok-katki-saglayacak-43240108"
         },
         {
-          "title": "Beşiktaş, Leandro Trossard transferini resmen açıkladı!",
-          "summary": "Beşiktaş, Belçikalı yıldız Leandro Trossard transferini resmen duyurdu. 31 yaşındaki kanat oyuncusu bu akşam İstanbul'da olacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-leandro-trossard-transferini-resmen-acikladi-43239582"
+          "title": "Fenerbahçe, Mason Greenwood'u resmen duyurdu! Formayı giydi, taraftara seslendi",
+          "summary": "Fenerbahçe, uzun süredir transferi için uğraş verdiği Mason Greenwoord transferinde mutlu sona ulaştı. Sarı-Lacivertliler İngiliz yıldız ile 4 yıllık sözleşme imzalandığını duyurdu. Formayı sırtına geçiren oyuncu bu akşam İstanbul'da olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-mason-greenwoodu-resmen-duyurdu-formayi-giydi-taraftara-seslendi-43239878"
         },
         {
-          "title": "Okan Buruk'tan transfer itirafı: 'Olmadı, Premier Lig'e gitti, parayı verseniz de gelmiyorlar!'",
-          "summary": "Galatasaray teknik direktörü Okan Buruk, sarı-kırmızılı takımın gündemine ve transfer çalışmalarına dair DHA'ya özel açıklamalarda bulundu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-transfer-itirafi-olmadi-premier-lige-gitti-parayi-verseniz-de-gelmiyorlar-43239452"
+          "title": "Bakanlar Çiftçi ile Bak, Spor Güvenliği Toplantısı’nı gerçekleştirdi",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi ile Gençlik ve Spor Bakanı Osman Aşkın Bak, Spor Güvenliği Toplantısı’nda yeni sezona ilişkin güvenlik hazırlıklarını değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakanlar-ciftci-ile-bak-spor-guvenligi-toplantisini-gerceklestirdi-43240028"
         },
         {
-          "title": "Fenerbahçe'ye talih kuşu kondu! Teklif geliyor",
-          "summary": "Fenerbahçe'de bir yandan gelecek transferler beklenirken, diğer yandan da gönderilecek isimler için çalışmalar sürüyor. Yabancı kontenjanından dolayı kadro planlamasında sorun yaşayan sarı lacivertlilere, adeta talih kuşu konacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-talih-kusu-kondu-teklif-geliyor-43239390"
+          "title": "Vincenzo Italiano'dan Trossard açıklaması!",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, hazırlık maçında Spartak Trnava'ya 3-2 mağlup oldukları maçın ardından açıklamalar yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italianodan-trossard-aciklamasi-43239970"
         }
       ]
     },
