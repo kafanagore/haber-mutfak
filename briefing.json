@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-16T10:00:06.677Z",
+  "generatedAt": "2026-07-17T04:00:04.152Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Gürlek'ten Ahbap soruşturması açıklaması. \"Yardımlaşma duygusu istismar edilemez\". Eminönü'nde tramvayda gergin anlar: Bağırıp sırt çantası fırlattı. DEM Parti heyetinden Bahçeli'ye ziyaret. Gökçeada'da zıpkınla yakaladı: 1 metre 82 santim boyunda! 'Bizi derin sulara doğru sürükledi'. Sağlık Bakanlığı'ndan yeni sigara bırakma hizmeti. Manisa’da korkunç olay! Tartıştığı eşinin burnunu ısırıp kopardı. Mahalleyi ayağa kaldıran olay: Eşinin burnunu kopardı.",
+      "text": "İstanbul'da baz istasyonunda çıkan yangın söndürüldü. Şişme bot keyfi kabusa döndü. Yüzlerce metre sürüklendiler. 12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi. Küçükçekmece’de yıkım paniği. Binanın bir bölümü yan apartmana devrildi. YÖK, depremzede öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı. Ukrayna Devlet Başkanı Zelenski, Dışişleri Bakanı Fidan'a \"İkinci Derece Liyakat Nişanı\" verdi. Bakan Gürlek’ten 12’nci Yargı Paketi açıklaması.",
       "items": [
         {
-          "title": "Bakan Gürlek'ten Ahbap soruşturması açıklaması. \"Yardımlaşma duygusu istismar edilemez\"",
-          "summary": "Adalet Bakanı Akın Gürlek, Ahbap Derneği soruşturmasının aydınlatılacağını belirtip \"Yardımlaşma duygusu istismar edilemez. Sivil toplum kuruluşları bakımından şeffaflık bir tercih veya lütuf değil, hukuki ve ahlaki bir zorunluluktur.\" dedi. Adalet Bakanı Akın Gürlek, “Adli Yargı Değerlendirme Toplantısı\"nda konuştu.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-gurlek-adaletin-terazisi-makama-servete-ya-da-siyasi-kimlige-gore-tartmaz-1733142"
+          "title": "İstanbul'da baz istasyonunda çıkan yangın söndürüldü",
+          "summary": "Fatih’te 4 katlı bir binanın çatısında bulunan baz istasyonunda yangın çıktı. İtfaiye ekipleri, alevler binaya sıçramadan söndürdü",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-baz-istasyonunda-cikan-yangin-sonduruldu-43242428"
         },
         {
-          "title": "Eminönü'nde tramvayda gergin anlar: Bağırıp sırt çantası fırlattı",
-          "summary": "Eminönü'nde Alibeyköy yönüne gitmek üzere peronda bekleyen tramvaydaki 2 kişi arasında çıkan yer tartışması kısa sürede kavgaya dönüştü. Olay, dün saat 18.00 sıralarında Fatih Eminönü-Alibeyköy Tramvay Hattı’nda çalışan tramvayın Eminönü durağında meydana geldi. Edinilen bilgiye göre, Alibeyköy yönüne gitmek üzere durağa gelen tramvayda bir kadın çocuklarını koltuklara oturttuktan sonra ayakta beklemeye başladı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-eminonunde-tramvayda-gergin-anlar-bagirip-sirt-cantasi-firlatti-1733182"
+          "title": "Şişme bot keyfi kabusa döndü. Yüzlerce metre sürüklendiler",
+          "summary": "Foça'da baba ile çocuğunun deniz keyfi yaptığı lastik bot açığa sürüklendi. İkili kıyıya dönemeyince devreye Sahil Güvenlik ekipleri girdi. İzmir'in Foça ilçesinde şişme botla deniz keyfi yapmak isteyen baba ile çocuğu büyük tehlike atlattı. Sahil Güvenlik Komutanlığı ekipleri, içinde 1 kişi ile 1 çocuğun bulunduğu lastik botun açığa sürüklendiği ihbarı ve yardım talebi üzerine harekete geçti. Tekneyle lastik bota ulaşan ekipler, baba ile çocuğunu güvenli şekilde Foça Sahil Güvenlik İskelesi'ne ulaştırdı.",
+          "source": "https://www.ntv.com.tr/turkiye/sisme-bot-keyfi-kabusla-bitti-yuzlerce-metre-suruklendiler-1733255"
         },
         {
-          "title": "DEM Parti heyetinden Bahçeli'ye ziyaret",
-          "summary": "DEM Parti heyeti, MHP Genel Başkanı Devlet Bahçeli'yi ziyaret etti. Terörsüz Türkiye sürecinde trafik hızlandı. İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar, terörsüz Türkiye kapsamında AK Parti Genel Başkanvekili Efkan Ala ve AK Parti Grup Başkanı Abdullah Güler ile bir araya gelmişti. BAHÇELİ'YE ZİYARET Görüşme trafiği MHP ile devam ediyor. Buldan ve Sancar bugün ise MHP Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
-          "source": "https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-bahceliye-ziyaret-1733175"
+          "title": "12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
+          "summary": "TBMM Genel Kurulunda, kamuoyunda \"12. Yargı Paketi\" olarak bilinen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edilerek yasalaştı. Teklif, IBAN mağdurlarına yönelik düzenlemeyi de içeriyor. Kanunla, İcra ve İflas Kanunu'nda değişikliğe gidiliyor.",
+          "source": "https://www.ntv.com.tr/turkiye/12-yargi-paketi-tbmm-genel-kurulunda-kabul-edildi-1733242"
         },
         {
-          "title": "Gökçeada'da zıpkınla yakaladı: 1 metre 82 santim boyunda! 'Bizi derin sulara doğru sürükledi'",
-          "summary": "Çanakkale'nin Gökçeada ilçesinde sörf eğitmenliği yapan Volkan Günel ve arkadaşı Burak Aydın, zıpkınla tüpsüz dalış yaparak 1 metre 82 santimetre boyunda ve 65 kilogram ağırlığında mavi yüzgeçli orkinos (Bluefin Tuna) avladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gokceadada-zipkinla-yakaladi-1-metre-82-santim-boyunda-bizi-derin-sulara-dogru-surukledi-43241712"
+          "title": "Küçükçekmece’de yıkım paniği. Binanın bir bölümü yan apartmana devrildi",
+          "summary": "Küçükçekmece'de kontrollü yıkımı yapılan binanın bir bölümü bitişikteki apartmana yaslandı. Kartaltepe Mahallesi Alibey Sokak'ta kentsel dönüşüm çalışmaları kapsamında 5 katlı binanın yıkımına başlandı. İş makineleri yardımıyla yürütülen çalışmada, binanın büyük bir kısmı yıkıldı. Ekiplerin çalışmalarını sürdürdüğü sırada, binanın kalan bölümü yan tarafa devrilerek bitişikteki 5 katlı binaya yaslandı. Büyük bir gürültüyle sarsılan binanın sakinleri, panikle kendilerini dışarı attı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kucukcekmecede-yikim-panigi-binanin-bir-bolumu-yan-apartmana-devrildi-1733251"
         },
         {
-          "title": "Sağlık Bakanlığı'ndan yeni sigara bırakma hizmeti",
-          "summary": "Sağlık Bakanlığı, çocuk ve ergenlerde sigara bağımlılığıyla mücadele kapsamında 12-18 yaş grubuna yönelik yeni poliklinikleri hizmete aldı. Ergenlik dönemi, merak, akran etkisi, sosyal medya ve dijital platformlarda tütün ürünlerinin dolaylı tanıtımı, yanlış risk algısı ile yeni nesil nikotin ürünlerine erişim gibi nedenlerle bağımlılık davranışlarının gelişmesine en açık yaşam evrelerinden biri olarak öne çıkıyor.",
-          "source": "https://www.ntv.com.tr/turkiye/saglik-bakanligindan-yeni-sigara-birakma-hizmeti-1733172"
+          "title": "YÖK, depremzede öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı",
+          "summary": "Yükseköğretim Kurulu (YÖK) Kahramanmaraş merkezli 6 Şubat 2023'teki depremlerden etkilenen öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı. YÖK'ten yapılan açıklamaya göre, depremzede öğrencilerin mağduriyet yaşamaması için özel öğrencilik hakkının bir yıl daha uzatılmasına karar verildi.",
+          "source": "https://www.ntv.com.tr/turkiye/yok-depremzede-ogrencilere-taninan-ozel-ogrencilik-hakkini-bir-yil-daha-uzatti-1733250"
         },
         {
-          "title": "Manisa’da korkunç olay! Tartıştığı eşinin burnunu ısırıp kopardı",
-          "summary": "Turgutlu ilçesinde dün gece saatlerinde Gökhan G. (29), tartıştığı eşi İmran G.'nin (28) burnunu ısırarak kopardı. Gökhan G., polis tarafından gözaltına alındı. Olayla ilgili soruşturma sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/manisada-korkunc-olay-tartistigi-esinin-burnunu-isirip-kopardi-43241701"
+          "title": "Ukrayna Devlet Başkanı Zelenski, Dışişleri Bakanı Fidan'a \"İkinci Derece Liyakat Nişanı\" verdi",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Dışişleri Bakanı Hakan Fidan'a İkinci Derece Liyakat Nişanı'nı tevcih etti. Ukrayna makamlarından yapılan açıklamada, \"Ukrayna Devlet Başkanı'nın kararıyla, devletler arası işbirliğinin güçlendirilmesine ve ikili ilişkilere sağladığı üstün kişisel katkılar dolayısıyla Türkiye Cumhuriyeti Dışişleri Bakanı Hakan Fidan'a Ukrayna İkinci Derece Liyakat Nişanı tevcih edilmiştir.\" denildi.",
+          "source": "https://www.ntv.com.tr/turkiye/ukrayna-devlet-baskani-zelenskiy-disisleri-bakani-fidana-ikinci-derece-liyakat-nisanini-tevcih-etti-1733248"
         },
         {
-          "title": "Mahalleyi ayağa kaldıran olay: Eşinin burnunu kopardı",
-          "summary": "Manisa'da bir kişi tartıştığı eşinin burnunu ısırarak kopardı. Gözaltına alınan adama tepki gösteren mahalleli ile polis arasında arbede yaşandı. Manisa'da Gökhan G. isimli adam tartıştığı eşi İmran G.'nin burnunu kopardı. Olay, dün saat 23.00 sıralarında Yıldırım Mahallesi Badem Sokak'ta meydana geldi. Gökhan G. ile eşi İmran G. arasında henüz belirlenemeyen nedenle çıkan tartışma, kısa sürede kavgaya dönüştü. EŞİNİN BURNUNU KOPARDI Gökhan G., eşi İmran G.'nin burnunu ısırıp, kopardı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-mahalleyi-ayaga-kaldiran-olay-esinin-burnunu-kopardi-1733177"
+          "title": "Bakan Gürlek’ten 12’nci Yargı Paketi açıklaması",
+          "summary": "Adalet Bakanı Akın Gürlek, kamuoyunda 12’nci Yargı Paketi olarak bilinen ‘Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi’nin Türkiye Büyük Millet Meclisinde kabul edilip, yasalaştığını belirterek destek veren vekillere teşekkür açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-12nci-yargi-paketi-aciklamasi-43242403"
         }
       ]
     },
     "dunya": {
-      "text": "Bakan Fidan: Savaşın Karadeniz'e taşınmasını istemiyoruz. Netanyahu'nun ABD ziyareti iptal edildi. Astronotları Ay'dan kurtaran kalem rekor fiyata satıldı. Cezayir'de yetimhane yandı: 11 ölü. Zelenskiy, popüler bakanı görevden aldı. Siber hapishane! Bir dolandırıcının kan donduran itirafları... Her şeyini sattı, kendini işkence kampında buldu. Dışişleri Bakanı Hakan Fidan: Savaş Karadeniz'e taşınmamalı.",
+      "text": "Kolombiya'da yeni yönetim, soykırım davasından çekilecek. Trump'tan seçim iddiası. \"Çin 220 milyon veriyi ele geçirdi\". Trump: Çin 220 milyon ABD'linin seçmen bilgilerini ele geçirdi. ABD'den öğrenci ve gazetecilere vize kısıtlaması. ABD saldırıları sürüyor. İran’dan Husiler hamlesi. ABD ordusu Umman Körfezi'nde 5 gemiye müdahale etti. ABD'nin Bağdat Büyükelçiliğinden seyahat uyarısı.",
       "items": [
         {
-          "title": "Bakan Fidan: Savaşın Karadeniz'e taşınmasını istemiyoruz",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Ukrayna ve Rusya'nın sağduyulu davranması gerektiğini vurgulayıp \"Savaşın Karadeniz'e yayılmasını istemiyoruz.\" dedi. Dışişleri Bakanı Hakan Fidan, temaslarda bulunmak üzere Ukrayna'ya gitti. Bakan Fidan, Ukraynalı mevkiidaşı Andriy Sibiha ile basın toplantısı düzenlendi. Savaşın Karadeniz'e yayılmasını istemediklerini dile getiren Bakan Fidan, Rusya ve Ukrayna'ya sağduyu çağrısında bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/bakan-fidan-savasin-karadenize-tasinmasini-istemiyoruz-1733151"
+          "title": "Kolombiya'da yeni yönetim, soykırım davasından çekilecek",
+          "summary": "Kolombiya'da 21 Haziran'da düzenlenen 2'nci tur cumhurbaşkanı seçimini kazanan seçilmiş Cumhurbaşkanı Abelardo de la Espriella yönetimi, İsrail'e karşı açılan soykırım davasına müdahillik talebini geri çekeceğini duyurdu. 7 Ağustos'ta görevi devralacak olan Espriella yönetiminin basın biriminden yapılan açıklamada, Kolombiya’nın, Uluslararası Adalet Divanı'nda (UAD) Güney Afrika tarafından İsrail'e karşı açılan \"soykırım\" davasına verdiği desteği ve müdahillik talebini geri çekeceği bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/kolombiyada-yeni-yonetim-soykirim-davasindan-cekilecek-1733262"
         },
         {
-          "title": "Netanyahu'nun ABD ziyareti iptal edildi",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD'li Senatör Lindsey Graham'ın cenaze töreni için gerçekleştireceği ABD ziyaretini iptal etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-abd-ziyareti-iptal-edildi-43241731"
+          "title": "Trump'tan seçim iddiası. \"Çin 220 milyon veriyi ele geçirdi\"",
+          "summary": "ABD Başkanı Donald Trump, Ulusa Sesleniş konuşmasında Çin'in 2020'deki Amerikan seçimlerine müdahale ettiğini ve Joe Biden'ın sahte oylarla seçildiğini iddia etti. ABD Başkanı Donald Trump sandık güvenliği konusuna dair açıklamalar yaptı, 2020'de Joe Biden'a kaybettiği seçime ilişkin Çin'i suçladı. Trump 27 dakikalık Ulusa Sesleniş konuşmasında 250 bin civarı yabancının yasadışı şekilde seçmen olarak kaydedildiğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-secim-iddiasi-cin-220-milyon-veriyi-ele-gecirdi-1733260"
         },
         {
-          "title": "Astronotları Ay'dan kurtaran kalem rekor fiyata satıldı",
-          "summary": "Apollo 11 misyonunda görevli astronotlar Neil Armstrong ve Buzz Aldrin'in 1969 yılında Ay yüzeyinde mahsur kalmasını önleyen keçe uçlu plastik kalem, New York'ta düzenlenen açık artırmada 857 bin 600 dolara alıcı buldu. Apollo 11 misyonuyla Temmuz 1969'da Ay'a ayak basarak insanlık tarihine geçen astronotlar Neil Armstrong ve Buzz Aldrin'in hayatını kurtaran tarihi keçe uçlu plastik kalem, New York'ta düzenlenen açık artırmada rekor fiyata satıldı.",
-          "source": "https://www.ntv.com.tr/dunya/astronotlari-aydan-kurtaran-kalem-rekor-fiyata-satildi-1733167"
+          "title": "Trump: Çin 220 milyon ABD'linin seçmen bilgilerini ele geçirdi",
+          "summary": "ABD Başkanı Donald Trump, Çin'in 2020 seçim süreciyle başlayarak 220 milyon ABD'li seçmenin kayıtlarına erişim sağladığını öne sürdü ve bunu \"tarihteki en büyük seçim verisi ihlali\" olarak nitelendirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-cin-220-milyon-abdlinin-secmen-bilgilerine-erisim-sagladi-43242433"
         },
         {
-          "title": "Cezayir'de yetimhane yandı: 11 ölü",
-          "summary": "Cezayir'de bir yetimhanede çıkan yangında çoğu çocuk 11 kişinin hayatını kaybettiği, 19 kişinin yaralandığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/cezayirde-yetimhane-yandi-11-olu-43241626"
+          "title": "ABD'den öğrenci ve gazetecilere vize kısıtlaması",
+          "summary": "ABD'de Donald Trump yönetimi yabancı öğrenciler, kültürel değişim ziyaretçileri ve gazetecilere yönelik vize sürelerini kısaltmak için yeni adım attı. ABD İç Güvenlik Bakanlığı, başta yabancı öğrenciler olmak üzere belirli göçmenlik harici vizelerle ülkeye gidenlerin kalabileceği süreye sınırlama getiriyor.",
+          "source": "https://www.ntv.com.tr/dunya/abdden-ogrenci-ve-gazetecilere-vize-kisitlamasi-1733258"
         },
         {
-          "title": "Zelenskiy, popüler bakanı görevden aldı",
-          "summary": "Ukrayna Cumhurbaşkanı Volodimir Zelenskiy, orduda teknolojik modernizasyon adımlarıyla tanınan ve batılı müttefiklerin desteğine sahip Savunma Bakanı Mykhailo Fedorov'u görevden aldı. Ukrayna Cumhurbaşkanı Volodimir Zelenskiy, orduda yolsuzlukla mücadele eden ve batılı müttefiklerin desteğini kazanan Savunma Bakanı Mykhailo Fedorov'u görevden aldı.",
-          "source": "https://www.ntv.com.tr/dunya/zelenskiy-populer-bakani-gorevden-aldi-1733124"
+          "title": "ABD saldırıları sürüyor. İran’dan Husiler hamlesi",
+          "summary": "ABD, İran’da altyapı, demiryolu ve köprülere saldırdı. Tahran’ın ise Yemen’deki Husilerden Kızıldeniz’deki petrol güzergahını kapatmaya hazır olmalarını istediği öne sürüldü. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Amerikan güçlerinin İran’ın askeri kapasitesini daha da zayıflatmak amacıyla üst üste beşinci gece saldırılar gerçekleştirdiğini açıkladı. Operasyonların perşembe günü TSİ 21.00 sıralarında başladığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-saldirilari-suruyor-irandan-husilere-petrol-rotasini-kapatma-talebi-1733240"
         },
         {
-          "title": "Siber hapishane! Bir dolandırıcının kan donduran itirafları... Her şeyini sattı, kendini işkence kampında buldu",
-          "summary": "Bir dolandırıcılık kurbanı için telefonun ucundaki suçluya sempati duymak imkânsız görünebilir. Ancak bu sahte mesajların arkasında; insan kaçakçılığı, işkence ve modern kölelikle beslenen uluslararası bir suç ağı yatıyor. İş vaadiyle kandırılan ve ülkesinden kaçırılan bir ‘dolandırıcının’ itirafları, madalyonun öteki yüzünü gösteriyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/siber-hapishane-bir-dolandiricinin-kan-donduran-itiraflari-her-seyini-satti-kendini-iskence-kampinda-buldu-43230866"
+          "title": "ABD ordusu Umman Körfezi'nde 5 gemiye müdahale etti",
+          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik yeniden ilan edilen deniz ablukasını aşmaya çalıştığı öne sürülen 5 ticari geminin Umman Körfezi'ndeki seyrine müdahale edildiğini duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/video-abd-ordusu-umman-korfezinde-5-gemiye-mudahale-etti-1733257"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan: Savaş Karadeniz'e taşınmamalı",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Ukrayna'ya gerçekleştirdiği ziyaret kapsamında Ukrayna Dışişleri Bakanı Andriy Sibiha ile ortak basın toplantısı düzenledi. Bakan Fidan yaptığı açıklamada, savaşın Karadeniz'e taşınmaması gerektiğinin altını çizerken \"Ukrayna'daki acılar son bulmalı\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-savas-karadenize-tasinmamali-43241491"
+          "title": "ABD'nin Bağdat Büyükelçiliğinden seyahat uyarısı",
+          "summary": "ABD'nin Bağdat Büyükelçiliği, Erbil'e yönelik insansız hava aracı (İHA) saldırılarının ardından Irak'taki ABD vatandaşlarına en üst düzeyde dikkatli olmaları çağrısında bulunurken, ülkeye hiçbir nedenle seyahat edilmemesi yönündeki uyarısını yineledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdnin-bagdat-buyukelciliginden-seyahat-uyarisi-43242422"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Candemir Zoroğlu: Uludağ’ı doğa sporları merkezi yapmanın adımlarını atmak istiyoruz. Türk futbolundan Mauro Icardi geçti!. Red Bull Uçuş Günü'nde gençlik rüzgarı! Takımlar belli oldu. Filenin Efeleri, Milletler Ligi'nde Ukrayna ile karşılaşacak!. Lionel Scaloni: 'Messi tarihin en iyisi!'. Aydın’da 2 bin yıllık \"olimpik\" havuz gün yüzüne çıkarıldı. Fulham'dan Christ Inao Oulai için yeni hamle!.",
+      "text": "Zeki Çelik resmen Juventus'ta!. Okan Buruk transferdeki hedefleri açıkladı!. Cenk Özkaçar: 'İnşallah Trabzonspor'a başarılı bir sezon yaşatırız'. Başakşehir'in UEFA Konferans Ligi'ndeki rakibi belli oldu!. Leandro Trossard imzayı attı: 'Çok heyecanlıyım'. Beşiktaş taraftarından Mohamed Salah çağrısı!. İspanya'da final öncesi Lamine Yamal gelişmesi!.",
       "items": [
         {
-          "title": "Candemir Zoroğlu: Uludağ’ı doğa sporları merkezi yapmanın adımlarını atmak istiyoruz",
-          "summary": "Uludağ Alan Başkanı Candemir Zoroğlu, “Uzun yıllardır hayali kurulan planlama sürecini tamamlayıp Uludağ’ı eşsiz bir doğa sporları merkezi yapmanın adımlarını atmak istiyoruz” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/candemir-zoroglu-uludagi-doga-sporlari-merkezi-yapmanin-adimlarini-atmak-istiyoruz-43241717"
+          "title": "Zeki Çelik resmen Juventus'ta!",
+          "summary": "Juventus, Roma ile sözleşmesi sona eren Zeki Çelik'i kadrosuna kattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/zeki-celik-resmen-juventusta-43242365"
         },
         {
-          "title": "Türk futbolundan Mauro Icardi geçti!",
-          "summary": "Galatasaray'da geçirdiği 4 sezonun ardından takımdan ayrılan Arjantinli yıldız Mauro Icardi, sarı-kırmızılılara gollerle ve kupalarla veda etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turk-futbolundan-mauro-icardi-gecti-43241706"
+          "title": "Okan Buruk transferdeki hedefleri açıkladı!",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, transfer çalışmaları ve Victor Osimhen hakkında önemli açıklamalar yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-transferdeki-hedefleri-acikladi-43242228"
         },
         {
-          "title": "Red Bull Uçuş Günü'nde gençlik rüzgarı! Takımlar belli oldu",
-          "summary": "Dört yıl aradan sonra yeniden İstanbul'a dönen Red Bull Uçuş Günü için geri sayım sürüyor. 23 Ağustos'ta Caddebostan Sahili'nde yarışacak ekiplerin önemli bir bölümünü üniversite öğrencileri oluşturuyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/red-bull-ucus-gununde-genclik-ruzgari-takimlar-belli-oldu-43241691"
+          "title": "Cenk Özkaçar: 'İnşallah Trabzonspor'a başarılı bir sezon yaşatırız'",
+          "summary": "Trabzonspor'un İspanya La Liga ekiplerinden Valencia'dan kadrosuna kattığı stoper Cenk Özkaçar, bordo-mavili kulübe transfer olmaktan dolayı büyük mutluluk yaşadığını belirterek, \"Böylesine bir şehrin ve böylesine bir futbol kültürünün parçası olmak benim için gurur verici\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cenk-ozkacar-insallah-trabzonspora-basarili-bir-sezon-yasatiriz-43242310"
         },
         {
-          "title": "Filenin Efeleri, Milletler Ligi'nde Ukrayna ile karşılaşacak!",
-          "summary": "A Milli Erkek Voleybol Takımı, 2026 FIVB Milletler Ligi'nin (VNL) üçüncü haftasındaki ikinci maçında yarın Ukrayna ile mücadele edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-efeleri-milletler-liginde-ukrayna-ile-karsilasacak-43241698"
+          "title": "Başakşehir'in UEFA Konferans Ligi'ndeki rakibi belli oldu!",
+          "summary": "Başakşehir'in UEFA Konferans Ligi 2. eleme turundaki rakibi Inter Turku oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basaksehirin-uefa-konferans-ligindeki-rakibi-belli-oldu-43242248"
         },
         {
-          "title": "Lionel Scaloni: 'Messi tarihin en iyisi!'",
-          "summary": "2026 FIFA Dünya Kupası yarı finalinde İngiltere'yi 2-1 yenen Arjantin'de teknik direktör Lionel Scaloni, oyuncularının sonuna kadar savaşarak galibiyeti hak ettiğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lionel-scaloni-messi-tarihin-en-iyisi-43241666"
+          "title": "Leandro Trossard imzayı attı: 'Çok heyecanlıyım'",
+          "summary": "Beşiktaş'ın Arsenal'den kadrosuna kattığı Belçikalı futbolcu Leandro Trossard, yaklaşık 20 bin taraftarın önünde gerçekleştirilen törenle kendisini siyah-beyazlı renklere bağlayan sözleşmeye imza attı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/leandro-trossard-imzayi-atti-cok-heyecanliyim-43242219"
         },
         {
-          "title": "Aydın’da 2 bin yıllık \"olimpik\" havuz gün yüzüne çıkarıldı",
-          "summary": "Aydın'daki 2 bin yıllık geçmişe sahip Tralleis Antik Kenti'nde yürütülen kazılarda, dönemin \"olimpik\" havuzlarından biri olarak değerlendirilen yüzme havuzu gün yüzüne çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/aydinda-2-bin-yillik-olimpik-havuz-gun-yuzune-cikarildi-43241672"
+          "title": "Beşiktaş taraftarından Mohamed Salah çağrısı!",
+          "summary": "Beşiktaş taraftarları, Leandro Trossard'ın imza töreni için toplandıkları Tüpraş Stadyumu'nda Mohamed Salah'ın transferi için yönetime çağrıda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-taraftarindan-mohamed-salah-cagrisi-43242190"
         },
         {
-          "title": "Fulham'dan Christ Inao Oulai için yeni hamle!",
-          "summary": "Trabzonspor'un genç yıldızı Christ Oulai için Fulham bir kez daha devreye girdi. İngiliz ekibi teklifini yükseltirken, bordo-mavililer bonservis beklentisinden geri adım atmadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fulhamdan-christ-inao-oulai-icin-yeni-hamle-43241573"
+          "title": "İspanya'da final öncesi Lamine Yamal gelişmesi!",
+          "summary": "İspanya, 2026 FIFA Dünya Kupası'nda final maçının hazırlıklarına başladı. Lamine Yamal ve Pedro Porro, antrenmanın basına açık bölümündeki pas çalışmasına katılmadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ispanyada-final-oncesi-lamine-yamal-gelismesi-43242205"
         }
       ]
     },
     "teknoloji": {
-      "text": "Google, kendi uygulama mağazasında üçüncü taraf uygulama mağazalarına izin vermeye hazırlanıyor. Astronotlar kendi röntgenlerini çekti. OpenAI’ın gizemli cihazı ortaya çıkıyor. Meta’ya “yapay zekâlı işten çıkarma” davası. Bu jelibonlar diş eti kanamasını azalttı. Halka arz öncesi dikkat çeken adım. 74 milyar dolar değerlemeyle yatırım turuna çıkıyor. Meta’nın Instagram kararı üç gün dayanabildi: Tepki çeken YZ özelliği kaldırıldı.",
+      "text": "Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı. Google, kendi uygulama mağazasında üçüncü taraf uygulama mağazalarına izin vermeye hazırlanıyor. Astronotlar kendi röntgenlerini çekti. OpenAI’ın gizemli cihazı ortaya çıkıyor. Meta’ya “yapay zekâlı işten çıkarma” davası. Bu jelibonlar diş eti kanamasını azalttı. Halka arz öncesi dikkat çeken adım. 74 milyar dolar değerlemeyle yatırım turuna çıkıyor.",
       "items": [
+        {
+          "title": "Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı",
+          "summary": "Çin'in Şanghay kentinde 29 ülke, yapay zekanın faydalı, güvenli ve adil şekilde geliştirilmesi için küresel işbirliğini hedefleyen Dünya Yapay Zeka İşbirliği Örgütünün (WAICO) kurulmasına ilişkin anlaşmayı imzaladı. Xinhua ajansının haberine göre, çok sayıda ülke ile uluslararası kuruluşun temsilcileri, Şanghay'da düzenlenen imza töreninde bir araya geldi.",
+          "source": "https://www.ntv.com.tr/teknoloji/cinde-dunya-yapay-zeka-isbirligi-orgutu-kurulmasi-icin-29-ulke-imza-atti-1733252"
+        },
         {
           "title": "Google, kendi uygulama mağazasında üçüncü taraf uygulama mağazalarına izin vermeye hazırlanıyor",
           "summary": "Google'ın, ABD'deki kullanıcıların gelecek haftadan itibaren Google Play Store üzerinden üçüncü taraf uygulama mağazalarını indirebilmesine izin vermeye hazırlandığı bildirildi. Kaliforniya Kuzey Bölge Mahkemesinde görülen Google ile Epic Games arasındaki antitröst davasında, taraflar, mahkemenin kalıcı tedbir kararının değiştirilmesine ilişkin ortak başvurularını geri çekti.",
@@ -195,11 +200,6 @@
           "title": "Halka arz öncesi dikkat çeken adım. 74 milyar dolar değerlemeyle yatırım turuna çıkıyor",
           "summary": "Çinli yapay zeka girişimi DeepSeek, ülke içinde gerçekleştirmeyi planladığı halka arz öncesinde yaklaşık 74 milyar dolar değerleme üzerinden yeni bir yatırım turu düzenlemeyi hedefliyor. Çinli yapay zeka girişimi DeepSeek, ülke içinde gerçekleştirmeyi planladığı olası halka arz öncesinde, yaklaşık 500 milyar yuan (yaklaşık 74 milyar dolar) değerleme üzerinden yeni bir yatırım turu başlatmayı planlıyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-halka-arz-oncesi-dikkat-ceken-adim-74-milyar-dolar-degerlemeyle-yatirim-turuna-cikiyor-1733024"
-        },
-        {
-          "title": "Meta’nın Instagram kararı üç gün dayanabildi: Tepki çeken YZ özelliği kaldırıldı",
-          "summary": "Meta, herkese açık Instagram hesaplarındaki fotoğrafların başka kullanıcılar tarafından YZ görsellerinde kullanılmasına izin veren tartışmalı özelliği birkaç gün sonra kaldırdı. Bilişim Uzmanı Osman Demircan, bir fotoğrafın herkese açık paylaşılmasının, kişinin yüzünün farklı amaçlarla kullanılmasına onay verdiği anlamına gelmediğini belirterek sahte içerik, dolandırıcılık ve itibar saldırısı risklerine dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/dunya/metanin-instagram-karari-uc-gun-dayanabildi-tepki-ceken-yz-ozelligi-kaldirildi-43239254"
         }
       ]
     },
