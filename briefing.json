@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-17T04:00:04.152Z",
+  "generatedAt": "2026-07-17T16:00:04.316Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da baz istasyonunda çıkan yangın söndürüldü. Şişme bot keyfi kabusa döndü. Yüzlerce metre sürüklendiler. 12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi. Küçükçekmece’de yıkım paniği. Binanın bir bölümü yan apartmana devrildi. YÖK, depremzede öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı. Ukrayna Devlet Başkanı Zelenski, Dışişleri Bakanı Fidan'a \"İkinci Derece Liyakat Nişanı\" verdi. Bakan Gürlek’ten 12’nci Yargı Paketi açıklaması.",
+      "text": "45 ilde yasa dışı bahse darbe: 171 şüpheli tutuklandı. Dokunulmazlık fezlekeleri TBMM’de. İBB'nin kreş ücretlerine zam. Balık tutarken Habur Çayı'na düşmüştü: Erkan Sak'tan 9 gün sonra acı haber geldi. Silivri'de inşaat temelinde toprak kaydı! çökme riskine karşı sokak kapatıldı. İstanbul'da toplu ulaşıma yüzde 10 zam! Mavi kart, Marmaray, okul servis ücretleri... İşte yeni fiyatlar. Cumhurbaşkanı Erdoğan'dan AK Parti İstanbul İl Başkanlığı'na ziyaret.",
       "items": [
         {
-          "title": "İstanbul'da baz istasyonunda çıkan yangın söndürüldü",
-          "summary": "Fatih’te 4 katlı bir binanın çatısında bulunan baz istasyonunda yangın çıktı. İtfaiye ekipleri, alevler binaya sıçramadan söndürdü",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-baz-istasyonunda-cikan-yangin-sonduruldu-43242428"
+          "title": "45 ilde yasa dışı bahse darbe: 171 şüpheli tutuklandı",
+          "summary": "Gaziantep merkezli 45 ilde \"yasa dışı bahis\" suçuna yönelik düzenlenen operasyonlarda gözaltına alınan 236 şüpheliden 171'i tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/45-ilde-yasa-disi-bahse-darbe-171-supheli-tutuklandi-43243317"
         },
         {
-          "title": "Şişme bot keyfi kabusa döndü. Yüzlerce metre sürüklendiler",
-          "summary": "Foça'da baba ile çocuğunun deniz keyfi yaptığı lastik bot açığa sürüklendi. İkili kıyıya dönemeyince devreye Sahil Güvenlik ekipleri girdi. İzmir'in Foça ilçesinde şişme botla deniz keyfi yapmak isteyen baba ile çocuğu büyük tehlike atlattı. Sahil Güvenlik Komutanlığı ekipleri, içinde 1 kişi ile 1 çocuğun bulunduğu lastik botun açığa sürüklendiği ihbarı ve yardım talebi üzerine harekete geçti. Tekneyle lastik bota ulaşan ekipler, baba ile çocuğunu güvenli şekilde Foça Sahil Güvenlik İskelesi'ne ulaştırdı.",
-          "source": "https://www.ntv.com.tr/turkiye/sisme-bot-keyfi-kabusla-bitti-yuzlerce-metre-suruklendiler-1733255"
+          "title": "Dokunulmazlık fezlekeleri TBMM’de",
+          "summary": "3’ü Özgür Özel’e ait olmak üzere 9 dosya Meclis Başkanlığı’na gönderildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/dokunulmazlik-fezlekeleri-tbmmde-43243305"
         },
         {
-          "title": "12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
-          "summary": "TBMM Genel Kurulunda, kamuoyunda \"12. Yargı Paketi\" olarak bilinen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edilerek yasalaştı. Teklif, IBAN mağdurlarına yönelik düzenlemeyi de içeriyor. Kanunla, İcra ve İflas Kanunu'nda değişikliğe gidiliyor.",
-          "source": "https://www.ntv.com.tr/turkiye/12-yargi-paketi-tbmm-genel-kurulunda-kabul-edildi-1733242"
+          "title": "İBB'nin kreş ücretlerine zam",
+          "summary": "İstanbul Büyükşehir Belediyesi (İBB) Meclisi'nde, belediyenin işlettiği kreşlerin 5 bin lira olan aylık ücretinin yüzde 60 zamla 8 bin liraya yükseltilmesi kararlaştırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ibbnin-kres-ucretlerine-zam-43243289"
         },
         {
-          "title": "Küçükçekmece’de yıkım paniği. Binanın bir bölümü yan apartmana devrildi",
-          "summary": "Küçükçekmece'de kontrollü yıkımı yapılan binanın bir bölümü bitişikteki apartmana yaslandı. Kartaltepe Mahallesi Alibey Sokak'ta kentsel dönüşüm çalışmaları kapsamında 5 katlı binanın yıkımına başlandı. İş makineleri yardımıyla yürütülen çalışmada, binanın büyük bir kısmı yıkıldı. Ekiplerin çalışmalarını sürdürdüğü sırada, binanın kalan bölümü yan tarafa devrilerek bitişikteki 5 katlı binaya yaslandı. Büyük bir gürültüyle sarsılan binanın sakinleri, panikle kendilerini dışarı attı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kucukcekmecede-yikim-panigi-binanin-bir-bolumu-yan-apartmana-devrildi-1733251"
+          "title": "Balık tutarken Habur Çayı'na düşmüştü: Erkan Sak'tan 9 gün sonra acı haber geldi",
+          "summary": "Şırnak'ın Beytüşşebap ilçesinde akıntıya kapılarak kaybolan 28 yaşındaki Erkan Sak'ın cansız bedeni, 9 gün süren yoğun arama çalışmalarının ardından bulundu. Ekiplerin zorlu şartlarda yürüttüğü aramalar sonucunda Sak'ın cenazesi, düştüğü yerin yaklaşık 3 kilometre uzağında büyük kayaların arasında tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/balik-tutarken-habur-cayina-dusmustu-erkan-saktan-9-gun-sonra-aci-haber-geldi-43243267"
         },
         {
-          "title": "YÖK, depremzede öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı",
-          "summary": "Yükseköğretim Kurulu (YÖK) Kahramanmaraş merkezli 6 Şubat 2023'teki depremlerden etkilenen öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı. YÖK'ten yapılan açıklamaya göre, depremzede öğrencilerin mağduriyet yaşamaması için özel öğrencilik hakkının bir yıl daha uzatılmasına karar verildi.",
-          "source": "https://www.ntv.com.tr/turkiye/yok-depremzede-ogrencilere-taninan-ozel-ogrencilik-hakkini-bir-yil-daha-uzatti-1733250"
+          "title": "Silivri'de inşaat temelinde toprak kaydı! çökme riskine karşı sokak kapatıldı",
+          "summary": "Silivri'de kentsel dönüşüm kapsamında yapımı süren bir binanın temelinde gece saat 01.00 sıralarında kısmen toprak kayması yaşandı. Büyük bir gürültüyle yaşanan olay sebebiyle çevredeki bina sakinleri panikle sokağa çıktı. Olası bir çökme tehlikesine karşı sokak araç ve yaya trafiğine kapatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/silivride-insaat-temelinde-toprak-kaydi-cokme-riskine-karsi-sokak-kapatildi-43243244"
         },
         {
-          "title": "Ukrayna Devlet Başkanı Zelenski, Dışişleri Bakanı Fidan'a \"İkinci Derece Liyakat Nişanı\" verdi",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Dışişleri Bakanı Hakan Fidan'a İkinci Derece Liyakat Nişanı'nı tevcih etti. Ukrayna makamlarından yapılan açıklamada, \"Ukrayna Devlet Başkanı'nın kararıyla, devletler arası işbirliğinin güçlendirilmesine ve ikili ilişkilere sağladığı üstün kişisel katkılar dolayısıyla Türkiye Cumhuriyeti Dışişleri Bakanı Hakan Fidan'a Ukrayna İkinci Derece Liyakat Nişanı tevcih edilmiştir.\" denildi.",
-          "source": "https://www.ntv.com.tr/turkiye/ukrayna-devlet-baskani-zelenskiy-disisleri-bakani-fidana-ikinci-derece-liyakat-nisanini-tevcih-etti-1733248"
+          "title": "İstanbul'da toplu ulaşıma yüzde 10 zam! Mavi kart, Marmaray, okul servis ücretleri... İşte yeni fiyatlar",
+          "summary": "İstanbul Büyükşehir Belediyesi (İBB) Meclisinde, kentte otobüs, metro, metrobüs, minibüs ve vapur gibi toplu ulaşım araçları ile taksi ve okul servislerine yüzde 10 zam yapılmasına ilişkin teklif, AK Parti grubunun \"hayır\" oyuna karşılık oy çokluğuyla kabul edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-toplu-ulasima-yuzde-10-zam-43243251"
         },
         {
-          "title": "Bakan Gürlek’ten 12’nci Yargı Paketi açıklaması",
-          "summary": "Adalet Bakanı Akın Gürlek, kamuoyunda 12’nci Yargı Paketi olarak bilinen ‘Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi’nin Türkiye Büyük Millet Meclisinde kabul edilip, yasalaştığını belirterek destek veren vekillere teşekkür açıklamasında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-12nci-yargi-paketi-aciklamasi-43242403"
+          "title": "Cumhurbaşkanı Erdoğan'dan AK Parti İstanbul İl Başkanlığı'na ziyaret",
+          "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin İstanbul İl Başkanlığını ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-ak-parti-istanbul-il-baskanligina-ziyaret-43243237"
         }
       ]
     },
     "dunya": {
-      "text": "Kolombiya'da yeni yönetim, soykırım davasından çekilecek. Trump'tan seçim iddiası. \"Çin 220 milyon veriyi ele geçirdi\". Trump: Çin 220 milyon ABD'linin seçmen bilgilerini ele geçirdi. ABD'den öğrenci ve gazetecilere vize kısıtlaması. ABD saldırıları sürüyor. İran’dan Husiler hamlesi. ABD ordusu Umman Körfezi'nde 5 gemiye müdahale etti. ABD'nin Bağdat Büyükelçiliğinden seyahat uyarısı.",
+      "text": "Fransa'da şiddetli fırtına... 2 kişi öldü, 53 bin hane elektriksiz kaldı. Meksika’da 7,3 büyüklüğünde deprem. Belçika'da can kaybı artıyor: Ölü sayısı 2 bini aştı. Almanya'da büyük firar! Binlercesi cinayetten hükümlü. İsrailli vekilde Netanyahu itirafı: Görevden almaya çalıştık. Almanya’da şiddetli fırtına: 1 ölü, 3 yaralı. KKTC Cumhurbaşkanı Erhürman: Guterres’in adaya gelme kararını olumlu karşılıyoruz.",
       "items": [
         {
-          "title": "Kolombiya'da yeni yönetim, soykırım davasından çekilecek",
-          "summary": "Kolombiya'da 21 Haziran'da düzenlenen 2'nci tur cumhurbaşkanı seçimini kazanan seçilmiş Cumhurbaşkanı Abelardo de la Espriella yönetimi, İsrail'e karşı açılan soykırım davasına müdahillik talebini geri çekeceğini duyurdu. 7 Ağustos'ta görevi devralacak olan Espriella yönetiminin basın biriminden yapılan açıklamada, Kolombiya’nın, Uluslararası Adalet Divanı'nda (UAD) Güney Afrika tarafından İsrail'e karşı açılan \"soykırım\" davasına verdiği desteği ve müdahillik talebini geri çekeceği bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/kolombiyada-yeni-yonetim-soykirim-davasindan-cekilecek-1733262"
+          "title": "Fransa'da şiddetli fırtına... 2 kişi öldü, 53 bin hane elektriksiz kaldı",
+          "summary": "Fransa'da şiddetli fırtına nedeniyle 2 kişi hayatını kaybetti, evlerde ve araçlarda hasar oluştu, 53 bin hanede de elektrik kesildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-siddetli-firtina-2-kisi-oldu-53-bin-hane-elektriksiz-kaldi-43243314"
         },
         {
-          "title": "Trump'tan seçim iddiası. \"Çin 220 milyon veriyi ele geçirdi\"",
-          "summary": "ABD Başkanı Donald Trump, Ulusa Sesleniş konuşmasında Çin'in 2020'deki Amerikan seçimlerine müdahale ettiğini ve Joe Biden'ın sahte oylarla seçildiğini iddia etti. ABD Başkanı Donald Trump sandık güvenliği konusuna dair açıklamalar yaptı, 2020'de Joe Biden'a kaybettiği seçime ilişkin Çin'i suçladı. Trump 27 dakikalık Ulusa Sesleniş konuşmasında 250 bin civarı yabancının yasadışı şekilde seçmen olarak kaydedildiğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-secim-iddiasi-cin-220-milyon-veriyi-ele-gecirdi-1733260"
+          "title": "Meksika’da 7,3 büyüklüğünde deprem",
+          "summary": "Meksika’nın güneyindeki Chiapas eyaleti açıklarında 7,3 büyüklüğünde deprem meydana geldi. ABD Tsunami Uyarı Sistemi, depremin ardından bölgede tsunami tehdidi bulunduğunu duyurdu. ABD Jeolojik Araştırmalar Merkezi’nin (USGS) ilk verilerine göre deprem, cuma günü Chiapas eyaletindeki Puerto Madero kenti yakınlarında kaydedildi. Yerin yaklaşık 10 kilometre derinliğinde meydana gelen depremin ardından can veya mal kaybına ilişkin henüz açıklama yapılmadı.",
+          "source": "https://www.ntv.com.tr/dunya/meksikada-74-buyuklugunde-deprem-1733390"
         },
         {
-          "title": "Trump: Çin 220 milyon ABD'linin seçmen bilgilerini ele geçirdi",
-          "summary": "ABD Başkanı Donald Trump, Çin'in 2020 seçim süreciyle başlayarak 220 milyon ABD'li seçmenin kayıtlarına erişim sağladığını öne sürdü ve bunu \"tarihteki en büyük seçim verisi ihlali\" olarak nitelendirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-cin-220-milyon-abdlinin-secmen-bilgilerine-erisim-sagladi-43242433"
+          "title": "Belçika'da can kaybı artıyor: Ölü sayısı 2 bini aştı",
+          "summary": "Belçika'da 18 Haziran-1 Temmuz tarihlerinde etkili olan sıcak hava dalgası sırasında ölüm sayısı normal döneme göre 1747 artarken, bu artış, Belçika Halk Sağlığı Enstitüsünün (Sciensano) 2000'den bu yana tuttuğu kayıtlardaki en yüksek sıcak hava dalgası kaynaklı ölüm artışı olarak kayıtlara geçti.",
+          "source": "https://www.hurriyet.com.tr/dunya/belcikada-can-kaybi-artiyor-olu-sayisi-2-bini-asti-43243276"
         },
         {
-          "title": "ABD'den öğrenci ve gazetecilere vize kısıtlaması",
-          "summary": "ABD'de Donald Trump yönetimi yabancı öğrenciler, kültürel değişim ziyaretçileri ve gazetecilere yönelik vize sürelerini kısaltmak için yeni adım attı. ABD İç Güvenlik Bakanlığı, başta yabancı öğrenciler olmak üzere belirli göçmenlik harici vizelerle ülkeye gidenlerin kalabileceği süreye sınırlama getiriyor.",
-          "source": "https://www.ntv.com.tr/dunya/abdden-ogrenci-ve-gazetecilere-vize-kisitlamasi-1733258"
+          "title": "Almanya'da büyük firar! Binlercesi cinayetten hükümlü",
+          "summary": "Almanya'da haklarında ulusal çapta tutuklama emri çıkarılan 148 bin 311 kişi firarda olduğu bildirilirken, firarda olanların 94’ü terörle bağlantılı suçlardan aranıyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-buyuk-firar-binlercesi-cinayetten-hukumlu-43243274"
         },
         {
-          "title": "ABD saldırıları sürüyor. İran’dan Husiler hamlesi",
-          "summary": "ABD, İran’da altyapı, demiryolu ve köprülere saldırdı. Tahran’ın ise Yemen’deki Husilerden Kızıldeniz’deki petrol güzergahını kapatmaya hazır olmalarını istediği öne sürüldü. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Amerikan güçlerinin İran’ın askeri kapasitesini daha da zayıflatmak amacıyla üst üste beşinci gece saldırılar gerçekleştirdiğini açıkladı. Operasyonların perşembe günü TSİ 21.00 sıralarında başladığı bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/abd-saldirilari-suruyor-irandan-husilere-petrol-rotasini-kapatma-talebi-1733240"
+          "title": "İsrailli vekilde Netanyahu itirafı: Görevden almaya çalıştık",
+          "summary": "İsrail'de Başbakan Binyamin Netanyahu liderliğindeki Likud Partisi milletvekili Dan Illouz, Hamas'ın 7 Ekim'deki \"sürpriz\" saldırısının ardından parti grubunun en az üçte birinin Netanyahu'nun görevden alınması için çalıştığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilli-vekilde-netanyahu-itirafi-gorevden-almaya-calistik-43243272"
         },
         {
-          "title": "ABD ordusu Umman Körfezi'nde 5 gemiye müdahale etti",
-          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik yeniden ilan edilen deniz ablukasını aşmaya çalıştığı öne sürülen 5 ticari geminin Umman Körfezi'ndeki seyrine müdahale edildiğini duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/video-abd-ordusu-umman-korfezinde-5-gemiye-mudahale-etti-1733257"
+          "title": "Almanya’da şiddetli fırtına: 1 ölü, 3 yaralı",
+          "summary": "Almanya’da üç gündür etkili olumsuz hava şartları nedeniyle Karlsruhe şehrinde 60 yaşındaki bisiklet sürücüsü şiddetli fırtınada devrilen ağacın altında kalarak hayatını kaybetti, olayda 3 kişi de yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-siddetli-firtina-1-olu-3-yarali-43243259"
         },
         {
-          "title": "ABD'nin Bağdat Büyükelçiliğinden seyahat uyarısı",
-          "summary": "ABD'nin Bağdat Büyükelçiliği, Erbil'e yönelik insansız hava aracı (İHA) saldırılarının ardından Irak'taki ABD vatandaşlarına en üst düzeyde dikkatli olmaları çağrısında bulunurken, ülkeye hiçbir nedenle seyahat edilmemesi yönündeki uyarısını yineledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdnin-bagdat-buyukelciliginden-seyahat-uyarisi-43242422"
+          "title": "KKTC Cumhurbaşkanı Erhürman: Guterres’in adaya gelme kararını olumlu karşılıyoruz",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres’in Kıbrıs’a gerçekleştirmeyi planladığı ziyareti olumlu karşıladıklarını belirterek, \"Bu ziyaret planı, 16 yıl aradan sonra ilk kez bir BM Genel Sekreteri’nin adaya gelip Kıbrıslı Türk ve Kıbrıslı Rum liderlerle burada görüşecek olması açısından da önemlidir\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kktc-cumhurbaskani-erhurman-guterresin-adaya-gelme-kararini-olumlu-karsiliyoruz-43243248"
         }
       ]
     },
@@ -124,48 +124,68 @@
       ]
     },
     "spor": {
-      "text": "Zeki Çelik resmen Juventus'ta!. Okan Buruk transferdeki hedefleri açıkladı!. Cenk Özkaçar: 'İnşallah Trabzonspor'a başarılı bir sezon yaşatırız'. Başakşehir'in UEFA Konferans Ligi'ndeki rakibi belli oldu!. Leandro Trossard imzayı attı: 'Çok heyecanlıyım'. Beşiktaş taraftarından Mohamed Salah çağrısı!. İspanya'da final öncesi Lamine Yamal gelişmesi!.",
+      "text": "Galatasaray'ın istediği Jhon Duran imzaya gidiyor: Yeni adresi belli oldu. 2026 FIFA Dünya Kupası'nı kazanana şampiyonluk yüzüğü verilecek. Ayça Aykaç Galatasaray Daikin'de!. Beşiktaş Ndidi'ye gelen teklifi reddetti!. Beşiktaş, Mohamed Salah'a teklif yaptı! İstanbul'da görüşme. Beymen Club Sailing Team, 55. Deniz Kuvvetleri Kupası'nda kürsüde yer aldı. Fenerbahçe Muriqi, Ake ve Greenwood ile sözleşme imzaladı: 'Şampiyon olup tarih yazabiliriz!'.",
       "items": [
         {
-          "title": "Zeki Çelik resmen Juventus'ta!",
-          "summary": "Juventus, Roma ile sözleşmesi sona eren Zeki Çelik'i kadrosuna kattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/zeki-celik-resmen-juventusta-43242365"
+          "title": "Galatasaray'ın istediği Jhon Duran imzaya gidiyor: Yeni adresi belli oldu",
+          "summary": "Transferde adı Galatasaray ile anılan eski Fenerbahçeli Jhon Duran'ın akıbeti belli oldu. Kolombiyalı golcü, Benfica'nın projesini tercih ederek Portekiz ekibiyle anlaşma sağladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-jhon-duran-imzaya-gidiyor-yeni-adresi-belli-oldu-43243300"
         },
         {
-          "title": "Okan Buruk transferdeki hedefleri açıkladı!",
-          "summary": "Galatasaray Teknik Direktörü Okan Buruk, transfer çalışmaları ve Victor Osimhen hakkında önemli açıklamalar yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-transferdeki-hedefleri-acikladi-43242228"
+          "title": "2026 FIFA Dünya Kupası'nı kazanana şampiyonluk yüzüğü verilecek",
+          "summary": "2026 FIFA Dünya Kupası'nda şampiyon olan takımın oyuncularına turnuva tarihinde ilk kez şampiyonluk yüzüğü verilecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/2026-fifa-dunya-kupasini-kazanana-sampiyonluk-yuzugu-verilecek-43243217"
         },
         {
-          "title": "Cenk Özkaçar: 'İnşallah Trabzonspor'a başarılı bir sezon yaşatırız'",
-          "summary": "Trabzonspor'un İspanya La Liga ekiplerinden Valencia'dan kadrosuna kattığı stoper Cenk Özkaçar, bordo-mavili kulübe transfer olmaktan dolayı büyük mutluluk yaşadığını belirterek, \"Böylesine bir şehrin ve böylesine bir futbol kültürünün parçası olmak benim için gurur verici\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cenk-ozkacar-insallah-trabzonspora-basarili-bir-sezon-yasatiriz-43242310"
+          "title": "Ayça Aykaç Galatasaray Daikin'de!",
+          "summary": "Galatasaray Daikin, yeni sezon transfer çalışmaları kapsamında milli libero Ayça Aykaç Altıntaş'ı renklerine bağladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ayca-aykac-galatasaray-daikinde-43243170"
         },
         {
-          "title": "Başakşehir'in UEFA Konferans Ligi'ndeki rakibi belli oldu!",
-          "summary": "Başakşehir'in UEFA Konferans Ligi 2. eleme turundaki rakibi Inter Turku oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basaksehirin-uefa-konferans-ligindeki-rakibi-belli-oldu-43242248"
+          "title": "Beşiktaş Ndidi'ye gelen teklifi reddetti!",
+          "summary": "Beşiktaş'ta Wilfried Ndidi'ye Suudi Arabistan ekibi Al Diriyah talip oldu. 7 milyon Euro'luk teklifi reddeden siyah-beyazlıların beklentisi 10 milyon Euro.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ndidiye-gelen-teklifi-reddetti-43243136"
         },
         {
-          "title": "Leandro Trossard imzayı attı: 'Çok heyecanlıyım'",
-          "summary": "Beşiktaş'ın Arsenal'den kadrosuna kattığı Belçikalı futbolcu Leandro Trossard, yaklaşık 20 bin taraftarın önünde gerçekleştirilen törenle kendisini siyah-beyazlı renklere bağlayan sözleşmeye imza attı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/leandro-trossard-imzayi-atti-cok-heyecanliyim-43242219"
+          "title": "Beşiktaş, Mohamed Salah'a teklif yaptı! İstanbul'da görüşme",
+          "summary": "Beşiktaş, Liverpool'dan ayrılan dünyaca ünlü kanat oyuncusu Mohamed Salah'ı kadrosuna katmaya hazırlanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-mohamed-salaha-teklif-yapti-istanbulda-gorusme-43242999"
         },
         {
-          "title": "Beşiktaş taraftarından Mohamed Salah çağrısı!",
-          "summary": "Beşiktaş taraftarları, Leandro Trossard'ın imza töreni için toplandıkları Tüpraş Stadyumu'nda Mohamed Salah'ın transferi için yönetime çağrıda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-taraftarindan-mohamed-salah-cagrisi-43242190"
+          "title": "Beymen Club Sailing Team, 55. Deniz Kuvvetleri Kupası'nda kürsüde yer aldı",
+          "summary": "İstanbul’dan Çeşme’ye uzanan 275 deniz millik Türkiye’nin en prestijli ve zorlu açık deniz yelken yarışı 55. TAYK - AKPA Deniz Kuvvetleri Kupası, nefes kesen bir mücadeleye sahne oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/beymen-club-sailing-team-55-deniz-kuvvetleri-kupasinda-kursude-yer-aldi-43243120"
         },
         {
-          "title": "İspanya'da final öncesi Lamine Yamal gelişmesi!",
-          "summary": "İspanya, 2026 FIFA Dünya Kupası'nda final maçının hazırlıklarına başladı. Lamine Yamal ve Pedro Porro, antrenmanın basına açık bölümündeki pas çalışmasına katılmadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ispanyada-final-oncesi-lamine-yamal-gelismesi-43242205"
+          "title": "Fenerbahçe Muriqi, Ake ve Greenwood ile sözleşme imzaladı: 'Şampiyon olup tarih yazabiliriz!'",
+          "summary": "Fenerbahçe'nin yeni transferleri Mason Greenwood, Nathan Ake ve Vedat Muriqi için Chobani Stadı'nda imza töreni düzenlendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-muriqi-ake-ve-greenwood-ile-sozlesme-imzaladi-sampiyon-olup-tarih-yazabiliriz-43243062"
         }
       ]
     },
     "teknoloji": {
-      "text": "Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı. Google, kendi uygulama mağazasında üçüncü taraf uygulama mağazalarına izin vermeye hazırlanıyor. Astronotlar kendi röntgenlerini çekti. OpenAI’ın gizemli cihazı ortaya çıkıyor. Meta’ya “yapay zekâlı işten çıkarma” davası. Bu jelibonlar diş eti kanamasını azalttı. Halka arz öncesi dikkat çeken adım. 74 milyar dolar değerlemeyle yatırım turuna çıkıyor.",
+      "text": "Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı. Göktaşı çatıyı delip yatağa düştü!. Samsung’dan katlanabilir telefonlara \"kırışıklık\" hamlesi. OpenAI’dan YZ için mini klavye. Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı. Google, kendi uygulama mağazasında üçüncü taraf uygulama mağazalarına izin vermeye hazırlanıyor. Astronotlar kendi röntgenlerini çekti.",
       "items": [
+        {
+          "title": "Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı",
+          "summary": "Kablosuz bağlantının yeni nesli Wi-Fi 8, önceki standartlardan farklı bir hedefle geliyor. Yeni teknoloji, en yüksek teorik hızı artırmaktan çok bağlantı kopmalarını, gecikmeyi ve kapsama alanının sınırındaki performans kayıplarını azaltacak. İlk Wi-Fi 8 yönlendiricilerin 2026 sonunda satışa çıkması beklenirken standardın nihai halini alması 2028’i bulacak.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/wi-fi-8-geliyor-amac-kesintisiz-baglanti-43242587"
+        },
+        {
+          "title": "Göktaşı çatıyı delip yatağa düştü!",
+          "summary": "ABD’nin New Jersey eyaletinde bir evin çatısını delerek yatak odasına düşen göktaşı, bilim insanlarına Güneş Sistemi’nin ilk dönemlerinden kalan benzersiz örnekler sundu. Araştırmacılar, göktaşında antik tuzlu suyun bıraktığı izlerle birlikte amino asitler ve çeşitli organik bileşikler tespit etti. Bulguların, yaşamın kimyasal yapı taşlarının Dünya’ya nasıl taşındığının anlaşılmasına yardımcı olabileceği belirtiliyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/goktasi-catiyi-delip-yataga-dustu-43242574"
+        },
+        {
+          "title": "Samsung’dan katlanabilir telefonlara \"kırışıklık\" hamlesi",
+          "summary": "Samsung, yeni nesil katlanabilir Galaxy cihazlarında kullanacağı Flex Titanium ekran teknolojisini duyurdu. Titanyum alaşımlı iki bileşenden oluşan yeni yapı, ekranı daha dayanıklı hale getirirken katlanma izinin görünürlüğünü azaltmayı hedefliyor. Teknolojinin kullanılacağı ilk cihazlar, 22 Temmuz’daki Galaxy Unpacked etkinliğinde tanıtılacak.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/urunler/samsungdan-katlanabilir-telefonlara-kirisiklik-hamlesi-43242563"
+        },
+        {
+          "title": "OpenAI’dan YZ için mini klavye",
+          "summary": "OpenAI, yapay zekâ ajanlarını fiziksel tuşlarla yönetmeye yarayan Codex Micro’yu tanıttı. Work Louder iş birliğiyle geliştirilen 230 dolarlık cihaz; mekanik tuşları, joystick’i, dokunmatik sensörü ve Codex’in “düşünme seviyesini” ayarlayan döner kontrolüyle yapay zekâ destekli çalışma masalarına yeni bir aksesuar ekliyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/chatgpt/openaidan-yz-icin-mini-klavye-43242547"
+        },
         {
           "title": "Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı",
           "summary": "Çin'in Şanghay kentinde 29 ülke, yapay zekanın faydalı, güvenli ve adil şekilde geliştirilmesi için küresel işbirliğini hedefleyen Dünya Yapay Zeka İşbirliği Örgütünün (WAICO) kurulmasına ilişkin anlaşmayı imzaladı. Xinhua ajansının haberine göre, çok sayıda ülke ile uluslararası kuruluşun temsilcileri, Şanghay'da düzenlenen imza töreninde bir araya geldi.",
@@ -180,26 +200,6 @@
           "title": "Astronotlar kendi röntgenlerini çekti",
           "summary": "Uzay tıbbı açısından tarihi bir başarıya imza atıldı. Yörüngedeki astronotlar, taşınabilir bir X ışını cihazıyla ilk kez kendi vücutlarının teşhis amacıyla kullanılabilecek kalitede görüntülerini çekti. Yeni teknoloji, gelecekte Ay ve Mars görevlerinde yaralanmaların Dünya’dan yardım alınmadan belirlenmesini sağlayabilir.",
           "source": "https://www.hurriyet.com.tr/teknoloji/uzay/astronotlar-kendi-rontgenlerini-cekti-43240821"
-        },
-        {
-          "title": "OpenAI’ın gizemli cihazı ortaya çıkıyor",
-          "summary": "OpenAI’ın eski Apple tasarım şefi Jony Ive ile geliştirdiği ve uzun süredir merakla beklenen ilk donanım ürününün ayrıntıları ortaya çıktı. Cihazın ekran taşımayan, kullanıcısını zamanla tanıyan ve mekanik parçaları sayesinde hareket edebilen bir “yapay zekâ arkadaşı” olacağı öne sürülüyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka/openaiin-gizemli-cihazi-ortaya-cikiyor-43240807"
-        },
-        {
-          "title": "Meta’ya “yapay zekâlı işten çıkarma” davası",
-          "summary": "Meta’nın 26 eski çalışanı, şirketin son işten çıkarma sürecinde ayrımcılığa yol açan yapay zekâ sistemleri kullandığını iddia ederek dava açtı. Davacılar, sağlık veya aile iznine ayrılan çalışanların algoritmalar tarafından orantısız biçimde işten çıkarılacak kişiler arasında gösterildiğini savunuyor. Meta ise kararların yapay zekâ tarafından değil, insanlar tarafından verildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/meta/metaya-yapay-zekali-isten-cikarma-davasi-43240796"
-        },
-        {
-          "title": "Bu jelibonlar diş eti kanamasını azalttı",
-          "summary": "Japonya’da yapılan bir araştırma, ısıyla etkisiz hale getirilmiş faydalı bakteriler içeren jelibonların hafif diş eti iltihabı bulunan kişilerde kanamayı azaltabileceğini gösterdi. Uzmanlar, etkinin sınırlı olduğunu ve yöntemin diş fırçalama ile diş ipi kullanımının yerini alamayacağını vurguluyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/bu-jelibonlar-dis-eti-kanamasini-azaltti-43240721"
-        },
-        {
-          "title": "Halka arz öncesi dikkat çeken adım. 74 milyar dolar değerlemeyle yatırım turuna çıkıyor",
-          "summary": "Çinli yapay zeka girişimi DeepSeek, ülke içinde gerçekleştirmeyi planladığı halka arz öncesinde yaklaşık 74 milyar dolar değerleme üzerinden yeni bir yatırım turu düzenlemeyi hedefliyor. Çinli yapay zeka girişimi DeepSeek, ülke içinde gerçekleştirmeyi planladığı olası halka arz öncesinde, yaklaşık 500 milyar yuan (yaklaşık 74 milyar dolar) değerleme üzerinden yeni bir yatırım turu başlatmayı planlıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-halka-arz-oncesi-dikkat-ceken-adim-74-milyar-dolar-degerlemeyle-yatirim-turuna-cikiyor-1733024"
         }
       ]
     },
