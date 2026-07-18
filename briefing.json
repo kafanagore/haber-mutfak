@@ -1,96 +1,91 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-18T10:00:03.821Z",
+  "generatedAt": "2026-07-18T16:00:03.799Z",
   "categories": {
     "gundem": {
-      "text": "Beyoğlu'nda eski sevgili dehşeti. Evine tırmanıp camı yumrukladı. MKE'den TSK'ya MPT-76 MH teslimatı. Konteynerde diri diri yakılarak öldürülen 19 yaşındaki İbrahim'in davasında sanıklar \"şaka yapıyorduk\" diyerek beraat istedi. Prof. Dr. Sözbilir: Malatya’daki sarsıntı, ‘tetiklenmiş’ bir deprem. AK Partili Yazıcı: Yeni anayasayı referanduma sunmak suretiyle gerçekleştireceğiz. İçişleri Bakanlığı'ndan yeni eylem planı. 11 yaşındaki Egehan'ın su tasarrufu oyunu uluslararası kodlama ödülü getirdi.",
+      "text": "23 yaşındaki genç kadını felç bıraktı! Aileden adalet çağrısı. 3 ilde orman yangını. Alevler kontrol altına alındı. 14 yıldır aranıyordu… Cesedi portakal bahçesinde bulundu. Felç olan Diyar'ın ailesinden adalet çağrısı. \"Evladım gözümün önünde eriyor\". Bodrum'da 1,2 ton tarihi geçmiş gıda yakalandı. İstirahat raporlarında 'e-Rapor' dönemi: Artık e-Devlet'ten erişilebilecek. Silivri'de eğlence mekanı çıkışında kadınların kavgası kamerada.",
       "items": [
         {
-          "title": "Beyoğlu'nda eski sevgili dehşeti. Evine tırmanıp camı yumrukladı",
-          "summary": "İstanbul Beyoğlu'nda alkollü olduğu öne sürülen Lütfü Evrem A.'nın yaklaşık 6 ay önce kendisini terk eden eski kız arkadaşının yaşadığı evi bastı. Şüpheli, 1'inci kattaki dairenin duvarına tırmanıp \"İhanet ettin, aldattın beni\" diye bağırarak pencereyi yumrukladı. Beyoğlu Firuzağa Mahallesi’nde alkollü olduğu öne sürülen Lütfü Evrem A., ortalığı birbirine kattı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-beyoglunda-eski-sevgili-dehseti-evine-tirmanip-cami-yumrukladi-1733479"
+          "title": "23 yaşındaki genç kadını felç bıraktı! Aileden adalet çağrısı",
+          "summary": "Başakşehir’de evinin önünde misafirleri uğurladıktan sonra babasını bekleyen Zahide Diyar Demirbaş (23) alkollü olduğu öne sürülen sürücünün otomobiliyle çarpması sonucu ağır yaralandı. Birçok ameliyat geçiren Demirbaş felç oldu. Demirbaşın ailesi kazaya neden olan sürücünün uyuşturucu etkisinde olduğunu ve aracında bulunan 2 kişinin kaçtığını iddia ederek basın açıklaması yaptı. Anne Mahide Demirbaş, \"Evladım gözümün önünde eriyor. 'Anne ne zaman yürüyeceğim' dediği sürece yanında ağlayamıyorum.",
+          "source": "https://www.hurriyet.com.tr/gundem/23-yasindaki-genc-kadini-felc-birakti-aileden-adalet-cagrisi-43244251"
         },
         {
-          "title": "MKE'den TSK'ya MPT-76 MH teslimatı",
-          "summary": "Türk Silahlı Kuvvetleri envanterine giren milli piyade tüfeği MPT-76'nın geliştirilmiş ve hafifletilmiş modeli MPT-76 MH, Kara Kuvvetleri Komutanlığı'na teslim edildi. Makine ve Kimya Endüstri (MKE) Kırıkkale Silah Fabrikası’nda üretilen ve altında Türk mühendislerin imzası bulunan MPT-76 MH, Türk askerinin operasyonel ihtiyaçları doğrultusunda geliştirildi.",
-          "source": "https://www.ntv.com.tr/turkiye/mkeden-tskya-mpt-76-mh-teslimati-1733484"
+          "title": "3 ilde orman yangını. Alevler kontrol altına alındı",
+          "summary": "Kütahya, Aydın ve İstanbul'un Çatalca ilçesinde orman yangını çıktı. Üç yangında ekipler tarafından uzun uğraşlar sonucu söndürüldü. Hava sıcaklığının mevsim normallerinin üzerine çıkmasıyla orman yangınları da arttı. Ekipler, yangınlarla mücadelesini sürdürürken 3 ilden yangın haberi geldi. ÇATALCA İstanbul'un Çatalca ilçesinde orman yangını çıktı. Ormanlı Mahallesi'ndeki ormanda çıkan yangın için itifaiye ve orman ekipleri sevk edildi. Yangın ekiplerin uzun uğraşları sonucu kontrol altına alınarak söndürüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-3-ilde-orman-yangini-ekiplerin-mudahalesi-suruyor-1733521"
         },
         {
-          "title": "Konteynerde diri diri yakılarak öldürülen 19 yaşındaki İbrahim'in davasında sanıklar \"şaka yapıyorduk\" diyerek beraat istedi",
-          "summary": "Hatay'da çalıştığı şantiyedeki konteynerin ateşe verilmesi sonucu hayatını kaybeden İbrahim Yaşar'ın ölümüyle ilgili davanın ikinci duruşması görüldü. Satın aldıkları benzinle yangın çıkaran iki sanık, uyuşturucu etkisinde \"şaka\" ve \"korkutma\" amacıyla hareket ettiklerini iddia ederek beraat talep etti. Mahkeme tutukluluk hallerinin devamına karar verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/konteynerde-diri-diri-yakilarak-oldurulen-19-yasindaki-ibrahimin-davasinda-saniklar-saka-yapiyorduk-diyerek-beraat-istedi-43243847"
+          "title": "14 yıldır aranıyordu… Cesedi portakal bahçesinde bulundu",
+          "summary": "HATAY’da kayınpederi Mehmet Uyğur'un öldürülmesinden bir yıl sonra 2012’de ortadan kaybolan Selbi Uyğur'un (32) portakal bahçesine gömülü cesedi bulundu. Selbi Uyğur cinayetine ilişkin, kayınpederi Mehmet Uyğur'u öldüren kayınvalidesi Hatice Uyğur ve Yaşar T. ile O.Ç.'nin tutuklandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/14-yildir-araniyordu-cesedi-portakal-bahcesinde-bulundu-43244234"
         },
         {
-          "title": "Prof. Dr. Sözbilir: Malatya’daki sarsıntı, ‘tetiklenmiş’ bir deprem",
-          "summary": "İzmir Dokuz Eylül Üniversitesi (DEÜ) Deprem Araştırma ve Uygulama Merkezi (DAUM) Müdürü Prof. Dr. Hasan Sözbilir, Malatya'da meydana gelen 5 büyüklüğündeki depremi değerlendirip, \"Depremin yerine baktığımızda 6 Şubat 2023 Kahramanmaraş deprem yüzey kırıklarının kuzey-kuzeydoğu ucunda kaldığını gösteriyor. Bu da bugün meydana gelen depremin tetiklenmiş bir deprem olduğunu söyleyebiliriz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/prof-dr-sozbilir-malatyadaki-sarsinti-tetiklenmis-bir-deprem-43243838"
+          "title": "Felç olan Diyar'ın ailesinden adalet çağrısı. \"Evladım gözümün önünde eriyor\"",
+          "summary": "Başakşehir'de evinin önünde bir otomobilin çarpmasıyla ağır yaralanan 23 yaşındaki Zahide Diyar Demirbaş felç oldu. Aile adalet çağrısında bulunurken, anne Mahide Demirbaş, \"Evladım gözümün önünde eriyor. 'Anne ne zaman yürüyeceğim' dediği sürece yanında ağlayamıyorum. Adalet istiyorum\" dedi. Başakşehir’de 30 Haziran'da evinin önünde misafirleri uğurladıktan sonra babasını bekleyen Zahide Diyar Demirbaş (23) alkollü olduğu öne sürülen sürücünün otomobiliyle çarpması sonucu ağır yaralandı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-felc-olan-diyarin-ailesinden-adalet-cagrisi-evladim-gozumun-onunde-eriyor-1733534"
         },
         {
-          "title": "AK Partili Yazıcı: Yeni anayasayı referanduma sunmak suretiyle gerçekleştireceğiz",
-          "summary": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı, yeni anayasa değişikliği ile ilgili çalışmaların devam ettiğini belirterek, “Türkiye elbet yeni bir anayasayı birlikte Mecliste konsensüs sağlamak ve sonra da milletin onayına referanduma sunmak suretiyle paylaşımcı bir anlayışla bunu gerçekleştireceğiz. İnşallah bunu da hedefimize ulaştırırız ve ulaştırmamız gerekir diye düşünüyorum.” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-yazici-yeni-anayasayi-referanduma-sunmak-suretiyle-gerceklestirecegiz-43243828"
+          "title": "Bodrum'da 1,2 ton tarihi geçmiş gıda yakalandı",
+          "summary": "Muğla'nın Bodrum ilçesinde bir gıda işletmesine düzenlenen denetimde, son kullanma tarihi geçmiş yaklaşık 1 ton 200 kilogram gıda ürünü ele geçirilerek imha edildi. İş yeri hakkında cezai işlem uygulandı ve işletmenin mühürlenmesi için yasal süreç başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bodrumda-1-2-ton-tarihi-gecmis-gida-yakalandi-43244217"
         },
         {
-          "title": "İçişleri Bakanlığı'ndan yeni eylem planı",
-          "summary": "İçişleri Bakanlığı, motosiklet kazalarını azaltmak adına yeni bir eylem planını devreye sokmaya hazırlanıyor. Buna göre kavşaklarda özel bekleme alanları oluşturulacak, şerit paylaşımı pilot olarak denenecek, denetim ve eğitimler artırılacak. Motosiklet sürücülerinin trafikteki can güvenliğini artırmak için kapsamlı bir eylem planı hayata geçiriliyor. Bu doğrultuda, yoğun kavşaklarda motosikletlerin araçlar arasında sıkışmasını önleyecek özel bekleme alanları oluşturulacak.",
-          "source": "https://www.ntv.com.tr/turkiye/icisleri-bakanligindan-yeni-eylem-plani-1733475"
+          "title": "İstirahat raporlarında 'e-Rapor' dönemi: Artık e-Devlet'ten erişilebilecek",
+          "summary": "Sağlık Bakanlığı'nın hayata geçirdiği \"e-Rapor\" sistemiyle, belirli istisnalar dışındaki istirahat raporları artık elektronik ortamda düzenlenecek. Öğrenciler, memurlar ve esnafın yararlanabileceği yeni uygulamada raporlara e-Devlet üzerinden de erişebilecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/istirahat-raporlarinda-e-rapor-donemi-artik-e-devletten-erisilebilecek-43244207"
         },
         {
-          "title": "11 yaşındaki Egehan'ın su tasarrufu oyunu uluslararası kodlama ödülü getirdi",
-          "summary": "İzmir Gaziemir BİLSEM öğrencisi Egehan Şahinoğlu, İngiltere merkezli düzenlenen yarışmada geliştirdiği su tasarrufu temalı \"Viridia\" oyunuyla özel ödüle layık görüldü. Türkiye'yi tek başına temsil eden 11 yaşındaki Şahinoğlu'nun projesi, sosyal etkisi ve kodlama özeniyle 15 binden fazla katılımcı arasından sıyrıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/11-yasindaki-egehanin-su-tasarrufu-oyunu-uluslararasi-kodlama-odulu-getirdi-43243803"
+          "title": "Silivri'de eğlence mekanı çıkışında kadınların kavgası kamerada",
+          "summary": "Silivri'de bir eğlence kulübünün önünde iki kadın arasında henüz bilinmeyen nedenle kavga çıktı. Çevredekilerin ayırmakta güçlük çektiği tekme tokatlı arbede, ihbar üzerine olay yerine gelen polis ekiplerinin müdahalesiyle son buldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/silivride-eglence-mekani-cikisinda-kadinlarin-kavgasi-kamerada-43244196"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail basınında dikkat çeken Türkiye analizi: Hazırlıklar başladı. Çocuğu önce alan avantajlıydı: Japonya anne babaların kendi çocuklarını ‘kaçırmasına’ karşı yasayı değiştirdi. 10 yıl önce röportaj yapmışlardı, ünlü sunucu, Trump'a rakip oluyor. \"Daha iyi yönetirim\". 20 gün süren açlık grevi hastanede bitti. Petrol devi Rusya'da yakıt krizi derinleşiyor. Son dakika... Yeni askeri plan masada: ABD ikmal uçaklarını gönderiyor! İran'dan peş peşe saldırılar. Filistinli mahkumlara akılalmaz ceza: İsrail’de yeni gardiyan ‘timsahlar’.",
+      "text": "Çekya’dan İstanbul Sözleşmesi kararı. ABD-İran çatışması 7. gününde: Karşılıklı saldırılarda son durum ne?. Norveç'te facia: 100'den fazla ev küle döndü. Hareket halindeki trende facia! Bilet kontrolü sırasında kavga çıktı, görevli raylara düştü. Bakan Fidan, Katar'ı ziyaret edecek. Hollanda'da alarm: Su kıtlığı ilan edildi. ABD'yi duman kapladı, Trump Kanada'yı suçladı.",
       "items": [
         {
-          "title": "İsrail basınında dikkat çeken Türkiye analizi: Hazırlıklar başladı",
-          "summary": "İsrail basınında yayımlanan bir analizde, İsrail ordusunun deniz ve amfibi harekât kapasitesini artırmaya yönelik son adımları değerlendirildi. Analizde, ABD'nin F-35 savaş uçağı programına dönüşü konusunda Türkiye'ye yeşil ışık yaktığı vurgulandı ve Tel Aviv’in olası bir “potansiyel Türk cephesi” senaryosuna karşı deniz ve hava gücünü yeniden şekillendirmeye başladığı iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-basininda-dikkat-ceken-turkiye-analizi-hazirliklar-basladi-43243736"
+          "title": "Çekya’dan İstanbul Sözleşmesi kararı",
+          "summary": "Çekya hükümetinin, uluslararası kamuoyunda \"İstanbul Sözleşmesi\" olarak bilinen \"Kadına Yönelik Şiddet ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye İlişkin Avrupa Konseyi Sözleşmesi\"nden çekilme kararı aldığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/cekyadan-istanbul-sozlesmesi-karari-43244254"
         },
         {
-          "title": "Çocuğu önce alan avantajlıydı: Japonya anne babaların kendi çocuklarını ‘kaçırmasına’ karşı yasayı değiştirdi",
-          "summary": "Japonya’da boşanma sürecinde çocuğu yanına alarak evden ayrılan ebeveynin velayet yarışında büyük avantaj kazanması, binlerce anne ve babayı çocuklarından kopardı. Ülke, 1 Nisan’da ortak velayetin önünü açan tarihi bir düzenlemeyi yürürlüğe koydu. Ancak çocuklarını yıllardır göremeyen ebeveynlere göre yeni yasa, “çocuğu kaçırma” olarak nitelendirdikleri uygulamayı durdurmaya yetmeyebilir.",
-          "source": "https://www.hurriyet.com.tr/dunya/cocugu-once-alan-avantajliydi-japonya-anne-babalarin-kendi-cocuklarini-kacirmasina-karsi-yasayi-degistirdi-43242710"
+          "title": "ABD-İran çatışması 7. gününde: Karşılıklı saldırılarda son durum ne?",
+          "summary": "ABD ile İran arasındaki çatışmalar yedinci gecesinde şiddetlenirken karşılıklı saldırılar bölgeye yayıldı. ABD saldırılarına karşılık Körfez ülkelerini hedef alan İran, son 10 günde 50 kişinin öldüğünü açıkladı. ABD-İran hattında üst üste yedinci gece de saldırı haberleri geldi. Amerikan Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın gözetleme alanları, askeri lojistik altyapısı ve yeraltı silah depolarını hedef aldığını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/abd-iran-catismasi-7-gununde-karsilikli-saldirilarda-son-durum-ne-1733525"
         },
         {
-          "title": "10 yıl önce röportaj yapmışlardı, ünlü sunucu, Trump'a rakip oluyor. \"Daha iyi yönetirim\"",
-          "summary": "Eski CNN sunucusu Don Lemon, ABD başkanlığına aday olmayı ciddi şekilde değerlendirdiğini açıkladı. Mevcut ABD Başkanı Trump'ı sert sözlerle eleştiren Lemon, \"Çok iyi bir başkan olacağıma inanıyorum.\" dedi. Eski CNN sunucusu Don Lemon, ABD başkanlığına aday olma ihtimalini “ciddi şekilde” değerlendirdiğini söyledi. Bir podcast programına katılan Lemon, son dönemde birçok kişinin kendisine aday olup olmayacağını sorduğunu belirterek başkanlık yarışına girmeyi düşündüğünü ifade etti.",
-          "source": "https://www.ntv.com.tr/dunya/10-yil-once-roportaj-yapmislardi-unlu-sunucu-trumpa-rakip-oluyor-daha-iyi-yonetirim-1733447"
+          "title": "Norveç'te facia: 100'den fazla ev küle döndü",
+          "summary": "Norveç'in Drammen şehrindeki bir evde başlayan yangının bölgeye yayılması sonucu 100'den fazla ev kül oldu. Alevler, ormanlık alana da sıçradı.",
+          "source": "https://www.hurriyet.com.tr/dunya/norvecte-facia-100den-fazla-ev-kule-dondu-43244102"
         },
         {
-          "title": "20 gün süren açlık grevi hastanede bitti",
-          "summary": "Hindistan'da tıp fakültesi giriş sınavlarındaki usulsüzlük iddialarını protesto etmek amacıyla 20 gündür açlık grevi yapan aktivist Sonam Wangchuk, sağlık durumunun kötüleşmesi üzerine polis tarafından hastaneye kaldırıldı. Hindistan'da tıp fakültesi giriş sınavlarında usulsüzlük yapıldığı iddialarını protesto etmek amacıyla 20 gündür açlık grevi yapan aktivist Sonam Wangchuk, sağlık durumunun kötüleşmesi üzerine polis tarafından hastaneye kaldırıldı.",
-          "source": "https://www.ntv.com.tr/dunya/20-gun-suren-aclik-grevi-hastanede-bitti-1733443"
+          "title": "Hareket halindeki trende facia! Bilet kontrolü sırasında kavga çıktı, görevli raylara düştü",
+          "summary": "Almanya'da bölgesel trende bilet kontrolü sırasında arbede çıktı. Güvenlik görevlisinin hareket halindeki trenden düşerek ağır yaralandığı bildirildi. Almanya'nın Baden-Württemberg eyaletinde, Offenburg-Karlsruhe seferini yapan bölgesel trende dün gece bilet kontrolü sırasında 36 yaşındaki bir yolcu ile Alman demir yolları adına görev yapan 26 yaşındaki güvenlik görevlisi arasında tartışma çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/hareket-halindeki-trende-facia-bilet-kontrolu-sirasinda-kavga-cikti-gorevli-raylara-dustu-1733511"
         },
         {
-          "title": "Petrol devi Rusya'da yakıt krizi derinleşiyor",
-          "summary": "Dünyanın en büyük petrol üreticilerinden Rusya, akaryakıt sıkıntısıyla mücadele ediyor. Ukrayna'nın enerji altyapısına yönelik saldırılarının ardından ülkenin büyük bölümünde benzin istasyonlarında uzun kuyruklar oluştu. Dünyanın en büyük petrol üreticilerinden biri olan Rusya, Ukrayna'nın enerji altyapısına yönelik saldırılarının ardından ciddi bir akaryakıt sıkıntısıyla karşı karşıya kaldı. Ülkenin büyük bölümünde benzin istasyonlarında yakıt tükenirken, sürücüler saatlerce kuyrukta beklemek zorunda kalıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-petrol-devi-rusyada-yakit-krizi-derinlesiyor-1733439"
+          "title": "Bakan Fidan, Katar'ı ziyaret edecek",
+          "summary": "Dışişleri Bakanı Hakan Fidan, yarın Katar'ı ziyaret edecek. Ziyarette ABD-İran gerilimi başta olmak üzere bölgesel ve ikili ilişkiler ele alınacak. Dışişleri Bakanı Hakan Fidan, Katar'a ziyarette bulunacak. Fidan’ın ziyaret kapsamındaki görüşmelerinde, Türkiye’nin ev sahipliğinde gerçekleştirilmesi planlanan 12. Yüksek Stratejik Komite Toplantısı’nın hazırlıkları gözden geçirillecek.",
+          "source": "https://www.ntv.com.tr/dunya/bakan-fidan-katari-ziyaret-edecek-1733513"
         },
         {
-          "title": "Son dakika... Yeni askeri plan masada: ABD ikmal uçaklarını gönderiyor! İran'dan peş peşe saldırılar",
-          "summary": "ABD ordusu, İran’a 7 gecedir düzenlenen saldırıların son dalgasının tamamlandığını ve bu kapsamda İran’a ait çok sayıda askeri hedefin vurulduğunu açıklarken, İran’ın, Kuveyt, Ürdün ve Bahreyn’deki çok sayıda hedefe insansız hava araçları ve füzelerle misilleme saldırıları düzenlediği bildirildi. Amerikan Axios haber platformu Trump'ın kendisine sunulan yeni askeri planları değerlendirdiğini ve İsrail'e onlarca ilave yakıt ikmal uçağı göndermeyi planladığı öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/live-son-dakika-yeni-askeri-plan-masada-abd-ikmal-ucaklarini-gonderiyor-irandan-pes-pese-saldirilar-43243599"
+          "title": "Hollanda'da alarm: Su kıtlığı ilan edildi",
+          "summary": "Hollanda'da hükümet, uzun süredir etkisini gösteren kuraklık, yüksek sıcaklıklar ve ülkedeki Ren ve Maas nehirlerinde su seviyelerinin düşmesi nedeniyle \"fiili su kıtlığı\" ilan etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/hollandada-alarm-su-kitligi-ilan-edildi-43244011"
         },
         {
-          "title": "Filistinli mahkumlara akılalmaz ceza: İsrail’de yeni gardiyan ‘timsahlar’",
-          "summary": "İsrail, cezaevlerinde esir tuttuğu 9 bini aşkın Filistinli mahkûmu insanlık dışı bir yöntemle cezalandırmaya hazırlanıyor. İsrail basınına göre Nil timsahlarının, cezaevlerinin etrafına kurulacak hendeklere yerleştirilmesinin önü açıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/filistinli-mahkumlara-akilalmaz-ceza-israilde-yeni-gardiyan-timsahlar-43243532"
+          "title": "ABD'yi duman kapladı, Trump Kanada'yı suçladı",
+          "summary": "850'den fazla noktada alevlerle mücadelenin sürdüğü Kanada'dan yükselen dumanlar ABD şehirlerini kapladı. ABD Başkanı Donald Trump \"kasıtlı bir ihmal\" diyerek Kanada hükümetini suçladı. Kanada bir yandan orman yangınlarıyla mücadele ediyor; bir yandan da yangınların yol açtığı hava kirliliği hayatı olumsuz etkiliyor. 850'den fazla noktada devam eden orman yangınları nedeniyle binlerce kişi için tahliye uyarısı yapıldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abdyi-duman-kapladi-trump-kanadayi-sucladi-1733415"
         }
       ]
     },
     "ekonomi": {
-      "text": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü.",
+      "text": "Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü. Kumun üzerindeki ekonomi.",
       "items": [
-        {
-          "title": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek",
-          "summary": "Dışişleri Bakanı Hakan Fidan'ın bugün Ukrayna'ya ziyarette bulunacağı bildirildi. Ziyaretinde Karadeniz'in güvenliğini vurgulaması beklenen Fidan'ın Ukrayna Devlet Başkanı Volodimir Zelenski ve Ukraynalı yetkililerle bir araya geleceği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-bugun-ukraynayi-ziyaret-edecek-43240299"
-        },
         {
           "title": "Üreticiye can suyu",
           "summary": "DENİZLİ Büyükşehir Belediyesi’nin yerel üreticileri ekonomik olarak desteklemek ve hayvansal üretimin sürdürülebilirliğine katkı sağlamak amacıyla başlattığı yem desteği projesi bu yıl da başarıyla tamamlandı.",
@@ -120,46 +115,51 @@
           "title": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü",
           "summary": "Almanya'nın ihracatı, İran savaşının yarattığı olumsuz koşullara rağmen Mayıs ayında sürpriz bir şekilde dördüncü aydır artış gösterdi. Federal İstatistik Ofisi'nin (Destatis) öncü verilerine göre, takvim ve mevsim etkilerinden arındırılmış ihracat, bir önceki aya göre yüzde 0,9 artarak 137,9 milyar euroya ulaştı. Geçen yılın aynı ayına göre artış ise yüzde 6,1 oldu.",
           "source": "https://www.hurriyet.com.tr/avrupa/almanyanin-ihracati-iran-savasina-ragmen-4-ayda-buyudu-43235053"
+        },
+        {
+          "title": "Kumun üzerindeki ekonomi",
+          "summary": "SON yıllarda Alaçatı’daki beach kültürü ciddi bir dönüşüm geçirdi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/kumun-uzerindeki-ekonomi-43234771"
         }
       ]
     },
     "spor": {
-      "text": "Acun Ilıcalı'dan Dünya Kupası finali tahmini!. Türkiye, Slovenya karşısında! Maçın heyecanı canlı yayın ile Misli'de. Frankfurt cephesinden Can Uzun açıklaması!. Beşiktaş-Midtjylland maçının hakemi açıklandı. Galatasaray, Davinson Sanchez’in yerine gelecek ismi buldu! Rota Juventus. Fransa ve İngiltere, Dünya Kupası üçüncülüğü için sahaya çıkıyor! Maçın heyecanı Misli'de. İtalyan devinden Fenerbahçe'nin yıldızına kanca!.",
+      "text": "Fenerbahçe ile anılan Rashford için Manchester United'ın planı ortaya çıktı. Erencan Yardımcı'nın yeni takımı belli oldu!. Aslı Kalaç: 'En büyük hedefim Şampiyonlar Ligi kupası kazanmak!'. Fenerbahçe'de Fred gelişmesi! Sözleşmesi feshedilebilir. Mason Greenwood Fenerbahçe'de ilk antrenmanına çıktı!. Fransa – İngiltere maçlarında karşılıklı goller atılıyor! Molde - Brann maçları bol gollü geçiyor…İşte Misli’den Günün Tüyoları!. Galatasaray MCT Technic Nikola Ivanovic'i transfer etti.",
       "items": [
         {
-          "title": "Acun Ilıcalı'dan Dünya Kupası finali tahmini!",
-          "summary": "İngiltere Premier Lig ekiplerinden Hull City'nin sahibi Acun Ilıcalı, İspanya ile Arjantin arasında oynanacak Dünya Kupası finalinde gönlünün Arjantin'den yana olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicalidan-dunya-kupasi-finali-tahmini-43243843"
+          "title": "Fenerbahçe ile anılan Rashford için Manchester United'ın planı ortaya çıktı",
+          "summary": "Fenerbahçe'nin gündemindeki Marcus Rashford için Manchester United'ın planı belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ile-anilan-rashford-icin-manchester-unitedin-plani-ortaya-cikti-43244228"
         },
         {
-          "title": "Türkiye, Slovenya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "Filenin Efeleri 2026 Voleybol Milletler Ligi 3. haftasında Slovenya ile karşı karşıya geliyor. Müsabakanın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-slovenya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43243820"
+          "title": "Erencan Yardımcı'nın yeni takımı belli oldu!",
+          "summary": "Kaiserslautern, Hoffenheim'dan Erencan Yardımcı'yı kiralık olarak kadrosuna kattığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/erencan-yardimcinin-yeni-takimi-belli-oldu-43244143"
         },
         {
-          "title": "Frankfurt cephesinden Can Uzun açıklaması!",
-          "summary": "Eintracht Frankfurt Sportif Direktörü Markus Krösche, Galatasaray'ın da ilgilendiği Can Uzun ile ilgili açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/frankfurt-cephesinden-can-uzun-aciklamasi-43243775"
+          "title": "Aslı Kalaç: 'En büyük hedefim Şampiyonlar Ligi kupası kazanmak!'",
+          "summary": "Eczacıbaşı Dynavit'in yeni transferi Aslı Kalaç, turuncu-beyazlı formayı giyecek olmanın heyecanını yaşadığını söyledi. Deneyimli orta oyuncu, en büyük kariyer hedefinin Şampiyonlar Ligi şampiyonluğu olduğunu vurguladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/asli-kalac-en-buyuk-hedefim-sampiyonlar-ligi-kupasi-kazanmak-43244092"
         },
         {
-          "title": "Beşiktaş-Midtjylland maçının hakemi açıklandı",
-          "summary": "UEFA Avrupa Ligi'nde mücadele edecek temsilcimiz Beşiktaş'ın, evinde oynayacağı Midtjylland müsabakasınn hakemi belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-midtjylland-macinin-hakemi-aciklandi-43243740"
+          "title": "Fenerbahçe'de Fred gelişmesi! Sözleşmesi feshedilebilir",
+          "summary": "Fenerbahçe'nin Brezilyalı orta saha oyuncusu Fred'e dair ülkesinin basınında önemli bir gelişmeye yer verildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-fred-gelismesi-sozlesmesi-feshedilebilir-43244044"
         },
         {
-          "title": "Galatasaray, Davinson Sanchez’in yerine gelecek ismi buldu! Rota Juventus",
-          "summary": "Galatasaray, Como’nun ilgisinin olduğu bilinen Davinson Sanchez’in olası ayrılığı durumunda teklif yapacağı ismi netleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-davinson-sanchezin-yerine-gelecek-ismi-buldu-rota-juventus-43243701"
+          "title": "Mason Greenwood Fenerbahçe'de ilk antrenmanına çıktı!",
+          "summary": "Fenerbahçe, Gornik Zabrze ile oynayacağı UEFA Şampiyonlar Ligi 2. Ön Eleme turu ilk maçının hazırlıklarını sabah saatlerinde yaptığı antrenmanla sürdürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-fenerbahcede-ilk-antrenmanina-cikti-43243997"
         },
         {
-          "title": "Fransa ve İngiltere, Dünya Kupası üçüncülüğü için sahaya çıkıyor! Maçın heyecanı Misli'de",
-          "summary": "2026 FIFA Dünya Kupası 3.lük maçında Fransa ve İngiltere karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fransa-ve-ingiltere-dunya-kupasi-ucunculugu-icin-sahaya-cikiyor-macin-heyecani-mislide-43243668"
+          "title": "Fransa – İngiltere maçlarında karşılıklı goller atılıyor! Molde - Brann maçları bol gollü geçiyor…İşte Misli’den Günün Tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/fransa-ingiltere-maclarinda-karsilikli-goller-atiliyor-molde-brann-maclari-bol-gollu-geciyor-iste-misliden-gunun-tuyolari-43243965"
         },
         {
-          "title": "İtalyan devinden Fenerbahçe'nin yıldızına kanca!",
-          "summary": "İtalya Serie A ekiplerinden Roma'nın, Fenerbahçe forması giyen milli futbolcu Mert Müldür'ü transfer listesine aldığı iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/italyan-devinden-fenerbahcenin-yildizina-kanca-43243655"
+          "title": "Galatasaray MCT Technic Nikola Ivanovic'i transfer etti",
+          "summary": "Yeni sezon kadro planlamasını sürdüren Galatasaray Erkek Basketbol Takımı, Karadağlı oyun kurucu Nikola Ivanovic'i kadrosuna kattığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-mct-technic-nikola-ivanovici-transfer-etti-43243951"
         }
       ]
     },
