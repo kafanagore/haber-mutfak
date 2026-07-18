@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-18T04:00:04.018Z",
+  "generatedAt": "2026-07-18T10:00:03.821Z",
   "categories": {
     "gundem": {
-      "text": "Son dakika... Malatya'da 5.0 büyüklüğünde deprem. İş yerinin camını tekmeyle kıran şüpheliyi esnaf yakaladı. Kara çarşaf giyip iş yerine kurşun yağdırdı. Kafasını otobüs durağına vurdu: Yanıyorum, su verin. Kamerayı görünce ters yönden kaçtı, 252 bin lira ceza yedi. Cerrahpaşa'daki yangın söndürüldü. Atama ve görevden alma kararları Resmi Gazete'de.",
+      "text": "Beyoğlu'nda eski sevgili dehşeti. Evine tırmanıp camı yumrukladı. MKE'den TSK'ya MPT-76 MH teslimatı. Konteynerde diri diri yakılarak öldürülen 19 yaşındaki İbrahim'in davasında sanıklar \"şaka yapıyorduk\" diyerek beraat istedi. Prof. Dr. Sözbilir: Malatya’daki sarsıntı, ‘tetiklenmiş’ bir deprem. AK Partili Yazıcı: Yeni anayasayı referanduma sunmak suretiyle gerçekleştireceğiz. İçişleri Bakanlığı'ndan yeni eylem planı. 11 yaşındaki Egehan'ın su tasarrufu oyunu uluslararası kodlama ödülü getirdi.",
       "items": [
         {
-          "title": "Son dakika... Malatya'da 5.0 büyüklüğünde deprem",
-          "summary": "AFAD verilerine Malatya'da saat 06.20'de 5 büyüklüğünde deprem meydana geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-malatyada-5-0-buyuklugunde-deprem-43243571"
+          "title": "Beyoğlu'nda eski sevgili dehşeti. Evine tırmanıp camı yumrukladı",
+          "summary": "İstanbul Beyoğlu'nda alkollü olduğu öne sürülen Lütfü Evrem A.'nın yaklaşık 6 ay önce kendisini terk eden eski kız arkadaşının yaşadığı evi bastı. Şüpheli, 1'inci kattaki dairenin duvarına tırmanıp \"İhanet ettin, aldattın beni\" diye bağırarak pencereyi yumrukladı. Beyoğlu Firuzağa Mahallesi’nde alkollü olduğu öne sürülen Lütfü Evrem A., ortalığı birbirine kattı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-beyoglunda-eski-sevgili-dehseti-evine-tirmanip-cami-yumrukladi-1733479"
         },
         {
-          "title": "İş yerinin camını tekmeyle kıran şüpheliyi esnaf yakaladı",
-          "summary": "Eskişehir'de önünden geçtiği tatil acentesinin vitrin camını tekmeyle kıran şüpheli, çevredeki esnaf tarafından yakalanarak, polis ekiplerine teslim edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/is-yerinin-camini-tekmeyle-kiran-supheliyi-esnaf-yakaladi-43243563"
+          "title": "MKE'den TSK'ya MPT-76 MH teslimatı",
+          "summary": "Türk Silahlı Kuvvetleri envanterine giren milli piyade tüfeği MPT-76'nın geliştirilmiş ve hafifletilmiş modeli MPT-76 MH, Kara Kuvvetleri Komutanlığı'na teslim edildi. Makine ve Kimya Endüstri (MKE) Kırıkkale Silah Fabrikası’nda üretilen ve altında Türk mühendislerin imzası bulunan MPT-76 MH, Türk askerinin operasyonel ihtiyaçları doğrultusunda geliştirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/mkeden-tskya-mpt-76-mh-teslimati-1733484"
         },
         {
-          "title": "Kara çarşaf giyip iş yerine kurşun yağdırdı",
-          "summary": "Adana'da kimliğini gizlemek için kara çarşaf giyen şüpheli, iş yerine tabancayla kurşun yağdırdı. Silahlı saldırı anı bir iş yerinin güvenlik kamerasına yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kara-carsaf-giyip-is-yerine-kursun-yagdirdi-43243561"
+          "title": "Konteynerde diri diri yakılarak öldürülen 19 yaşındaki İbrahim'in davasında sanıklar \"şaka yapıyorduk\" diyerek beraat istedi",
+          "summary": "Hatay'da çalıştığı şantiyedeki konteynerin ateşe verilmesi sonucu hayatını kaybeden İbrahim Yaşar'ın ölümüyle ilgili davanın ikinci duruşması görüldü. Satın aldıkları benzinle yangın çıkaran iki sanık, uyuşturucu etkisinde \"şaka\" ve \"korkutma\" amacıyla hareket ettiklerini iddia ederek beraat talep etti. Mahkeme tutukluluk hallerinin devamına karar verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/konteynerde-diri-diri-yakilarak-oldurulen-19-yasindaki-ibrahimin-davasinda-saniklar-saka-yapiyorduk-diyerek-beraat-istedi-43243847"
         },
         {
-          "title": "Kafasını otobüs durağına vurdu: Yanıyorum, su verin",
-          "summary": "Eskişehir'de polis ekiplerine zorluk çıkaran ve alkolmetreyi üflemeyi reddeden alkollü sürücüye biber gazı ile müdahale edildi. Sokağı birbirine katan şahıs, \"Yanıyorum, su verin. Ben teslim olmaya geldim adam mısınız lan\" diyerek kendi kafasını otobüs durağına vurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/kafasini-otobus-duragina-vurdu-yaniyorum-su-verin-43243560"
+          "title": "Prof. Dr. Sözbilir: Malatya’daki sarsıntı, ‘tetiklenmiş’ bir deprem",
+          "summary": "İzmir Dokuz Eylül Üniversitesi (DEÜ) Deprem Araştırma ve Uygulama Merkezi (DAUM) Müdürü Prof. Dr. Hasan Sözbilir, Malatya'da meydana gelen 5 büyüklüğündeki depremi değerlendirip, \"Depremin yerine baktığımızda 6 Şubat 2023 Kahramanmaraş deprem yüzey kırıklarının kuzey-kuzeydoğu ucunda kaldığını gösteriyor. Bu da bugün meydana gelen depremin tetiklenmiş bir deprem olduğunu söyleyebiliriz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/prof-dr-sozbilir-malatyadaki-sarsinti-tetiklenmis-bir-deprem-43243838"
         },
         {
-          "title": "Kamerayı görünce ters yönden kaçtı, 252 bin lira ceza yedi",
-          "summary": "İstanbul'da trafikte tartıştığı sürücünün yolunu keserek aracından inen B.P., araçtaki kamerayı fark edince ters istikametten kaçtı. Polis şüpheliye toplam 252 bin 492 lira para cezası uyguladı. İstanbul Fatih'te yol kesip kaçan trafik magandası cezadan kurtulamadı. Olay 13 Temmuz Pazartesi günü akşam saatlerinde meydana geldi. Trafikte tartıştığı sürücünün önünü kesen B.P., aracından inerek saldırı girişiminde bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/kamerayi-gorunce-ters-yonden-kacti-252-bin-lira-ceza-yedi-1733414"
+          "title": "AK Partili Yazıcı: Yeni anayasayı referanduma sunmak suretiyle gerçekleştireceğiz",
+          "summary": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı, yeni anayasa değişikliği ile ilgili çalışmaların devam ettiğini belirterek, “Türkiye elbet yeni bir anayasayı birlikte Mecliste konsensüs sağlamak ve sonra da milletin onayına referanduma sunmak suretiyle paylaşımcı bir anlayışla bunu gerçekleştireceğiz. İnşallah bunu da hedefimize ulaştırırız ve ulaştırmamız gerekir diye düşünüyorum.” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-yazici-yeni-anayasayi-referanduma-sunmak-suretiyle-gerceklestirecegiz-43243828"
         },
         {
-          "title": "Cerrahpaşa'daki yangın söndürüldü",
-          "summary": "İstanbul Üniversitesi Cerrahpaşa Diş hekimliği fakültesi binasının çatısında yangın çıktı. Alevler ekipler tarafından büyümeden söndürüldü. Fatih'teki İstanbul Üniversitesi Cerrahpaşa Diş Hekimliği Fakültesi binasının çatısında gece saatlerinde henüz bilinmeyen nedenle yangın çıktı. Olay yerine çok sayıda itfaiye ekibi sevk edildi. Ekiplerin müdahalesiyle, alevler başka bir noktaya sıçramadan kontrol altına alındı. Yangının çıkış nedeninin belirlenmesi için inceleme başlatıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/cerrahpasadaki-yangin-sonduruldu-1733413"
+          "title": "İçişleri Bakanlığı'ndan yeni eylem planı",
+          "summary": "İçişleri Bakanlığı, motosiklet kazalarını azaltmak adına yeni bir eylem planını devreye sokmaya hazırlanıyor. Buna göre kavşaklarda özel bekleme alanları oluşturulacak, şerit paylaşımı pilot olarak denenecek, denetim ve eğitimler artırılacak. Motosiklet sürücülerinin trafikteki can güvenliğini artırmak için kapsamlı bir eylem planı hayata geçiriliyor. Bu doğrultuda, yoğun kavşaklarda motosikletlerin araçlar arasında sıkışmasını önleyecek özel bekleme alanları oluşturulacak.",
+          "source": "https://www.ntv.com.tr/turkiye/icisleri-bakanligindan-yeni-eylem-plani-1733475"
         },
         {
-          "title": "Atama ve görevden alma kararları Resmi Gazete'de",
-          "summary": "Bazı bakanlık ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-43243525"
+          "title": "11 yaşındaki Egehan'ın su tasarrufu oyunu uluslararası kodlama ödülü getirdi",
+          "summary": "İzmir Gaziemir BİLSEM öğrencisi Egehan Şahinoğlu, İngiltere merkezli düzenlenen yarışmada geliştirdiği su tasarrufu temalı \"Viridia\" oyunuyla özel ödüle layık görüldü. Türkiye'yi tek başına temsil eden 11 yaşındaki Şahinoğlu'nun projesi, sosyal etkisi ve kodlama özeniyle 15 binden fazla katılımcı arasından sıyrıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/11-yasindaki-egehanin-su-tasarrufu-oyunu-uluslararasi-kodlama-odulu-getirdi-43243803"
         }
       ]
     },
     "dunya": {
-      "text": "Venezuela'da can kaybı 5 bini aştı. Norveç'te 100'den fazla ev kül oldu. ABD'yi duman kapladı, Trump Kanada'yı suçladı. ABD'nin saldırıları devam ediyor. Tahran'dan \"kapsamlı saldırı\" mesajı. İsrail’den Gazze’de cenaze törenine saldırı: 7 ölü, 19 yaralı. Çin'de heyelan… 8 kişi hayatını kaybetti, kayıp 34 kişi aranıyor. Fransa'da şiddetli fırtına... 2 kişi öldü, 53 bin hane elektriksiz kaldı.",
+      "text": "İsrail basınında dikkat çeken Türkiye analizi: Hazırlıklar başladı. Çocuğu önce alan avantajlıydı: Japonya anne babaların kendi çocuklarını ‘kaçırmasına’ karşı yasayı değiştirdi. 10 yıl önce röportaj yapmışlardı, ünlü sunucu, Trump'a rakip oluyor. \"Daha iyi yönetirim\". 20 gün süren açlık grevi hastanede bitti. Petrol devi Rusya'da yakıt krizi derinleşiyor. Son dakika... Yeni askeri plan masada: ABD ikmal uçaklarını gönderiyor! İran'dan peş peşe saldırılar. Filistinli mahkumlara akılalmaz ceza: İsrail’de yeni gardiyan ‘timsahlar’.",
       "items": [
         {
-          "title": "Venezuela'da can kaybı 5 bini aştı",
-          "summary": "Venezuela'yı 39 saniye arayla vuran iki büyük depremde yaşamını yitirenlerin sayısının 5 bin 69'a yükseldi. Güney Amerika ülkesi Venezuela'da 24 Haziran'da 39 saniye arayla meydana gelen 7.2 ve 7.5 büyüklüğündeki 2 depremin yerle bir ettiği alanlarda arama çalışmaları sürüyor. Ulusal Meclis Başkanı Jorge Rodriguez, sosyal medya hesabından ülkedeki son duruma ilişkin açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/venezuelada-can-kaybi-5-bini-asti-1733417"
+          "title": "İsrail basınında dikkat çeken Türkiye analizi: Hazırlıklar başladı",
+          "summary": "İsrail basınında yayımlanan bir analizde, İsrail ordusunun deniz ve amfibi harekât kapasitesini artırmaya yönelik son adımları değerlendirildi. Analizde, ABD'nin F-35 savaş uçağı programına dönüşü konusunda Türkiye'ye yeşil ışık yaktığı vurgulandı ve Tel Aviv’in olası bir “potansiyel Türk cephesi” senaryosuna karşı deniz ve hava gücünü yeniden şekillendirmeye başladığı iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-basininda-dikkat-ceken-turkiye-analizi-hazirliklar-basladi-43243736"
         },
         {
-          "title": "Norveç'te 100'den fazla ev kül oldu",
-          "summary": "Norveç'in güneyinde bir evde başlayan yangın, yerleşim alanlarını ve ormanı küle çevirdi. Norveç'in güneyindeki Drammen kenti yakınlarında çıkan yangın, afete dönüştü. Bir konutta başlayan yangın, kuvvetli rüzgarın etkisiyle kısa sürede çevredeki binalara ve ormanlık alana sıçradı. Yetkililer, 100'den fazla konutun tamamen yandığını, alevlerin henüz kontrol altına alınamadığını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/norvecte-100den-fazla-ev-kul-oldu-1733416"
+          "title": "Çocuğu önce alan avantajlıydı: Japonya anne babaların kendi çocuklarını ‘kaçırmasına’ karşı yasayı değiştirdi",
+          "summary": "Japonya’da boşanma sürecinde çocuğu yanına alarak evden ayrılan ebeveynin velayet yarışında büyük avantaj kazanması, binlerce anne ve babayı çocuklarından kopardı. Ülke, 1 Nisan’da ortak velayetin önünü açan tarihi bir düzenlemeyi yürürlüğe koydu. Ancak çocuklarını yıllardır göremeyen ebeveynlere göre yeni yasa, “çocuğu kaçırma” olarak nitelendirdikleri uygulamayı durdurmaya yetmeyebilir.",
+          "source": "https://www.hurriyet.com.tr/dunya/cocugu-once-alan-avantajliydi-japonya-anne-babalarin-kendi-cocuklarini-kacirmasina-karsi-yasayi-degistirdi-43242710"
         },
         {
-          "title": "ABD'yi duman kapladı, Trump Kanada'yı suçladı",
-          "summary": "850'den fazla noktada alevlerle mücadelenin sürdüğü Kanada'dan yükselen dumanlar ABD şehirlerini kapladı. ABD Başkanı Donald Trump \"kasıtlı bir ihmal\" diyerek Kanada hükümetini suçladı. Kanada bir yandan orman yangınlarıyla mücadele ediyor; bir yandan da yangınların yol açtığı hava kirliliği hayatı olumsuz etkiliyor. 850'den fazla noktada devam eden orman yangınları nedeniyle binlerce kişi için tahliye uyarısı yapıldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdyi-duman-kapladi-trump-kanadayi-sucladi-1733415"
+          "title": "10 yıl önce röportaj yapmışlardı, ünlü sunucu, Trump'a rakip oluyor. \"Daha iyi yönetirim\"",
+          "summary": "Eski CNN sunucusu Don Lemon, ABD başkanlığına aday olmayı ciddi şekilde değerlendirdiğini açıkladı. Mevcut ABD Başkanı Trump'ı sert sözlerle eleştiren Lemon, \"Çok iyi bir başkan olacağıma inanıyorum.\" dedi. Eski CNN sunucusu Don Lemon, ABD başkanlığına aday olma ihtimalini “ciddi şekilde” değerlendirdiğini söyledi. Bir podcast programına katılan Lemon, son dönemde birçok kişinin kendisine aday olup olmayacağını sorduğunu belirterek başkanlık yarışına girmeyi düşündüğünü ifade etti.",
+          "source": "https://www.ntv.com.tr/dunya/10-yil-once-roportaj-yapmislardi-unlu-sunucu-trumpa-rakip-oluyor-daha-iyi-yonetirim-1733447"
         },
         {
-          "title": "ABD'nin saldırıları devam ediyor. Tahran'dan \"kapsamlı saldırı\" mesajı",
-          "summary": "ABD ile İran arasındaki çatışmalar, karşılıklı saldırıların köprüler, enerji tesisleri ve deniz ulaşımını kapsayacak şekilde genişlemesiyle yeni bir tırmanma aşamasına girdi. ABD, cuma günü İran’ın güneyindeki köprüleri ve “askeri lojistik altyapı” olarak nitelendirdiği hedefleri vurdu. İran ise buna karşılık, Kuveyt’te elektrik üretimi ve deniz suyunu arıtma amacıyla kullanılan bir tesise saldırdı.",
-          "source": "https://www.ntv.com.tr/dunya/iranin-dini-lideri-hamaneyin-danismanindan-abdye-kapsamli-saldiri-mesaji-1733400"
+          "title": "20 gün süren açlık grevi hastanede bitti",
+          "summary": "Hindistan'da tıp fakültesi giriş sınavlarındaki usulsüzlük iddialarını protesto etmek amacıyla 20 gündür açlık grevi yapan aktivist Sonam Wangchuk, sağlık durumunun kötüleşmesi üzerine polis tarafından hastaneye kaldırıldı. Hindistan'da tıp fakültesi giriş sınavlarında usulsüzlük yapıldığı iddialarını protesto etmek amacıyla 20 gündür açlık grevi yapan aktivist Sonam Wangchuk, sağlık durumunun kötüleşmesi üzerine polis tarafından hastaneye kaldırıldı.",
+          "source": "https://www.ntv.com.tr/dunya/20-gun-suren-aclik-grevi-hastanede-bitti-1733443"
         },
         {
-          "title": "İsrail’den Gazze’de cenaze törenine saldırı: 7 ölü, 19 yaralı",
-          "summary": "İsrail’in yürürlükteki ateşkese rağmen Gazze şehrindeki Nuseyrat Mülteci Kampı’nda bir cenaze töreni sırasında düzenlediği hava saldırısında 7 kişi hayatını kaybetti, 19 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-gazzede-cenaze-torenine-saldiri-7-olu-19-yarali-43243405"
+          "title": "Petrol devi Rusya'da yakıt krizi derinleşiyor",
+          "summary": "Dünyanın en büyük petrol üreticilerinden Rusya, akaryakıt sıkıntısıyla mücadele ediyor. Ukrayna'nın enerji altyapısına yönelik saldırılarının ardından ülkenin büyük bölümünde benzin istasyonlarında uzun kuyruklar oluştu. Dünyanın en büyük petrol üreticilerinden biri olan Rusya, Ukrayna'nın enerji altyapısına yönelik saldırılarının ardından ciddi bir akaryakıt sıkıntısıyla karşı karşıya kaldı. Ülkenin büyük bölümünde benzin istasyonlarında yakıt tükenirken, sürücüler saatlerce kuyrukta beklemek zorunda kalıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-petrol-devi-rusyada-yakit-krizi-derinlesiyor-1733439"
         },
         {
-          "title": "Çin'de heyelan… 8 kişi hayatını kaybetti, kayıp 34 kişi aranıyor",
-          "summary": "Çin'in güneybatısındaki Çongçing ilinde meydana gelen heyelanda ilk belirlemelere göre 8 kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/cinde-heyelan-8-kisi-hayatini-kaybetti-kayip-34-kisi-araniyor-43243363"
+          "title": "Son dakika... Yeni askeri plan masada: ABD ikmal uçaklarını gönderiyor! İran'dan peş peşe saldırılar",
+          "summary": "ABD ordusu, İran’a 7 gecedir düzenlenen saldırıların son dalgasının tamamlandığını ve bu kapsamda İran’a ait çok sayıda askeri hedefin vurulduğunu açıklarken, İran’ın, Kuveyt, Ürdün ve Bahreyn’deki çok sayıda hedefe insansız hava araçları ve füzelerle misilleme saldırıları düzenlediği bildirildi. Amerikan Axios haber platformu Trump'ın kendisine sunulan yeni askeri planları değerlendirdiğini ve İsrail'e onlarca ilave yakıt ikmal uçağı göndermeyi planladığı öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/live-son-dakika-yeni-askeri-plan-masada-abd-ikmal-ucaklarini-gonderiyor-irandan-pes-pese-saldirilar-43243599"
         },
         {
-          "title": "Fransa'da şiddetli fırtına... 2 kişi öldü, 53 bin hane elektriksiz kaldı",
-          "summary": "Fransa'da şiddetli fırtına nedeniyle 2 kişi hayatını kaybetti, evlerde ve araçlarda hasar oluştu, 53 bin hanede de elektrik kesildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransada-siddetli-firtina-2-kisi-oldu-53-bin-hane-elektriksiz-kaldi-43243314"
+          "title": "Filistinli mahkumlara akılalmaz ceza: İsrail’de yeni gardiyan ‘timsahlar’",
+          "summary": "İsrail, cezaevlerinde esir tuttuğu 9 bini aşkın Filistinli mahkûmu insanlık dışı bir yöntemle cezalandırmaya hazırlanıyor. İsrail basınına göre Nil timsahlarının, cezaevlerinin etrafına kurulacak hendeklere yerleştirilmesinin önü açıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/filistinli-mahkumlara-akilalmaz-ceza-israilde-yeni-gardiyan-timsahlar-43243532"
         }
       ]
     },
@@ -124,48 +124,58 @@
       ]
     },
     "spor": {
-      "text": "Trabzonspor'da rekor satış! Oulai'de resmi imzalar an meselesi. Okan Buruk'tan Lemina'nın geleceği hakkında açıklama!. Ertuğrul Taşkıran, Erzurumspor FK'da!. Sidny Lopes Cabral imza için Trabzon'da!. Filenin Efeleri'nden muhteşem geri dönüş!. Beşiktaş, Mohamed Salah ile anlaştı iddiası!. Fenerbahçe'nin Gornik Zabrze maçlarının kadrosunu UEFA'ya bildirdi! Yeni transferler yok.",
+      "text": "Acun Ilıcalı'dan Dünya Kupası finali tahmini!. Türkiye, Slovenya karşısında! Maçın heyecanı canlı yayın ile Misli'de. Frankfurt cephesinden Can Uzun açıklaması!. Beşiktaş-Midtjylland maçının hakemi açıklandı. Galatasaray, Davinson Sanchez’in yerine gelecek ismi buldu! Rota Juventus. Fransa ve İngiltere, Dünya Kupası üçüncülüğü için sahaya çıkıyor! Maçın heyecanı Misli'de. İtalyan devinden Fenerbahçe'nin yıldızına kanca!.",
       "items": [
         {
-          "title": "Trabzonspor'da rekor satış! Oulai'de resmi imzalar an meselesi",
-          "summary": "İtalya Serie A ekiplerinden Fiorentina'nın Trabzonspor'un genç yıldızı Christian Inao Oulai'yi rekor bedelle kadrosuna katmaya yaklaştığı öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-rekor-satis-oulaide-resmi-imzalar-an-meselesi-43243514"
+          "title": "Acun Ilıcalı'dan Dünya Kupası finali tahmini!",
+          "summary": "İngiltere Premier Lig ekiplerinden Hull City'nin sahibi Acun Ilıcalı, İspanya ile Arjantin arasında oynanacak Dünya Kupası finalinde gönlünün Arjantin'den yana olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicalidan-dunya-kupasi-finali-tahmini-43243843"
         },
         {
-          "title": "Okan Buruk'tan Lemina'nın geleceği hakkında açıklama!",
-          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Ümraniyespor'u mağlup ettikleri hazırlık maçının ardından açıklamalarda bulundu. Buruk, geleceği merak konusu olan Mario Lemina'ya da bir parantez açtı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-leminanin-gelecegi-hakkinda-aciklama-43243504"
+          "title": "Türkiye, Slovenya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "Filenin Efeleri 2026 Voleybol Milletler Ligi 3. haftasında Slovenya ile karşı karşıya geliyor. Müsabakanın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-slovenya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43243820"
         },
         {
-          "title": "Ertuğrul Taşkıran, Erzurumspor FK'da!",
-          "summary": "Erzurumspor FK, kaleci Ertuğrul Taşkıran ile 2 yıllık sözleşme imzaladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-taskiran-erzurumspor-fkda-43243494"
+          "title": "Frankfurt cephesinden Can Uzun açıklaması!",
+          "summary": "Eintracht Frankfurt Sportif Direktörü Markus Krösche, Galatasaray'ın da ilgilendiği Can Uzun ile ilgili açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/frankfurt-cephesinden-can-uzun-aciklamasi-43243775"
         },
         {
-          "title": "Sidny Lopes Cabral imza için Trabzon'da!",
-          "summary": "Trabzonspor'un yeni transferi Sidny Lopes Cabral, yeni sezon hazırlıkları kapsamında Trabzon'a geldi. Yeşil Burun Adaları Milli Takımı ile 2026 Dünya Kupası'nda mücadele eden genç futbolcu, turnuvanın ardından verilen iznin sona ermesiyle bordo-mavili ekibe katılmak üzere Trabzon’a geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sidny-lopes-cabral-imza-icin-trabzonda-43243420"
+          "title": "Beşiktaş-Midtjylland maçının hakemi açıklandı",
+          "summary": "UEFA Avrupa Ligi'nde mücadele edecek temsilcimiz Beşiktaş'ın, evinde oynayacağı Midtjylland müsabakasınn hakemi belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-midtjylland-macinin-hakemi-aciklandi-43243740"
         },
         {
-          "title": "Filenin Efeleri'nden muhteşem geri dönüş!",
-          "summary": "A Milli Erkek Voleybol Takımı, 2026 FIVB Milletler Ligi'nin (VNL) Sırbistan'da düzenlenen üçüncü haftasındaki ikinci maçında Ukrayna'yı 2-0 geriden gelerek 3-2 yendi",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-efelerinden-muhtesem-geri-donus-43243415"
+          "title": "Galatasaray, Davinson Sanchez’in yerine gelecek ismi buldu! Rota Juventus",
+          "summary": "Galatasaray, Como’nun ilgisinin olduğu bilinen Davinson Sanchez’in olası ayrılığı durumunda teklif yapacağı ismi netleştirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-davinson-sanchezin-yerine-gelecek-ismi-buldu-rota-juventus-43243701"
         },
         {
-          "title": "Beşiktaş, Mohamed Salah ile anlaştı iddiası!",
-          "summary": "Leandro Trossard renklerine bağlayan Beşiktaş, bir süper yıldızı daha kadrosuna katmaya hazırlanıyor. Siyah-beyazlıların, Liverpool'dan ayrılan dünyaca ünlü kanat oyuncusu Mohamed Salah'ı kadrosuna katmak için anlaştığı iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-mohamed-salah-ile-anlasti-iddiasi-43243380"
+          "title": "Fransa ve İngiltere, Dünya Kupası üçüncülüğü için sahaya çıkıyor! Maçın heyecanı Misli'de",
+          "summary": "2026 FIFA Dünya Kupası 3.lük maçında Fransa ve İngiltere karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fransa-ve-ingiltere-dunya-kupasi-ucunculugu-icin-sahaya-cikiyor-macin-heyecani-mislide-43243668"
         },
         {
-          "title": "Fenerbahçe'nin Gornik Zabrze maçlarının kadrosunu UEFA'ya bildirdi! Yeni transferler yok",
-          "summary": "Fenerbahçe, Gornik Zabrze maçları için kadrosunu UEFA'ya bildirdi. Yeni transferler Nathan Ake, Mason Greenwood, Vedat Muriqi ve Fransa ile Dünya Kupası'nda boy gösteren N'Golo Kante kadroda yer almadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-gornik-zabrze-maclarinin-kadrosunu-uefaya-bildirdi-yeni-transferler-yok-43243341"
+          "title": "İtalyan devinden Fenerbahçe'nin yıldızına kanca!",
+          "summary": "İtalya Serie A ekiplerinden Roma'nın, Fenerbahçe forması giyen milli futbolcu Mert Müldür'ü transfer listesine aldığı iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/italyan-devinden-fenerbahcenin-yildizina-kanca-43243655"
         }
       ]
     },
     "teknoloji": {
-      "text": "Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı. Göktaşı çatıyı delip yatağa düştü!. Samsung’dan katlanabilir telefonlara \"kırışıklık\" hamlesi. OpenAI’dan YZ için mini klavye. Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı. Google, kendi uygulama mağazasında üçüncü taraf uygulama mağazalarına izin vermeye hazırlanıyor. Astronotlar kendi röntgenlerini çekti.",
+      "text": "Apple'dan iPhone'a zam kararı, işte sebebi. 40 yıldır yanlış yorumlanmış. Samanyolu'ndaki dev yapının sırrı çözüldü. Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı. Göktaşı çatıyı delip yatağa düştü!. Samsung’dan katlanabilir telefonlara \"kırışıklık\" hamlesi. OpenAI’dan YZ için mini klavye. Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı.",
       "items": [
+        {
+          "title": "Apple'dan iPhone'a zam kararı, işte sebebi",
+          "summary": "Apple, Japonya'da Yen'in zayıf seyretmesi nedeniyle iPhone 17'nin fiyatını yüzde 10 artırdı. Apple, yerel para biriminin son kırk yılın en düşük seviyelerine yakın seyretmeye devam etmesi nedeniyle Japonya'da iPhone ve bazı diğer ürünlerinin fiyatlarını artırdı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-appledan-iphonea-zam-karari-iste-sebebi-1733481"
+        },
+        {
+          "title": "40 yıldır yanlış yorumlanmış. Samanyolu'ndaki dev yapının sırrı çözüldü",
+          "summary": "Astronomlar, yaklaşık 40 yıldır Samanyolu'nun merkezinden yükseldiği düşünülen dev yapının aslında galaksinin merkezinde olmadığını ortaya çıkardı. Yıllardır yanlış adlandırılan yapı için yeni ve karışıklıkla alay eden isim tartışmaları başladı. Bilim insanları, yaklaşık 40 yıldır gökbilimcileri meşgul eden Samanyolu'ndaki dev yapı hakkındaki gerçeği ortaya çıkardı.",
+          "source": "https://www.ntv.com.tr/teknoloji/40-yildir-yanlis-yorumlanmis-samanyolundaki-dev-yapinin-sirri-cozuldu-1733470"
+        },
         {
           "title": "Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı",
           "summary": "Kablosuz bağlantının yeni nesli Wi-Fi 8, önceki standartlardan farklı bir hedefle geliyor. Yeni teknoloji, en yüksek teorik hızı artırmaktan çok bağlantı kopmalarını, gecikmeyi ve kapsama alanının sınırındaki performans kayıplarını azaltacak. İlk Wi-Fi 8 yönlendiricilerin 2026 sonunda satışa çıkması beklenirken standardın nihai halini alması 2028’i bulacak.",
@@ -190,16 +200,6 @@
           "title": "Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı",
           "summary": "Çin'in Şanghay kentinde 29 ülke, yapay zekanın faydalı, güvenli ve adil şekilde geliştirilmesi için küresel işbirliğini hedefleyen Dünya Yapay Zeka İşbirliği Örgütünün (WAICO) kurulmasına ilişkin anlaşmayı imzaladı. Xinhua ajansının haberine göre, çok sayıda ülke ile uluslararası kuruluşun temsilcileri, Şanghay'da düzenlenen imza töreninde bir araya geldi.",
           "source": "https://www.ntv.com.tr/teknoloji/cinde-dunya-yapay-zeka-isbirligi-orgutu-kurulmasi-icin-29-ulke-imza-atti-1733252"
-        },
-        {
-          "title": "Google, kendi uygulama mağazasında üçüncü taraf uygulama mağazalarına izin vermeye hazırlanıyor",
-          "summary": "Google'ın, ABD'deki kullanıcıların gelecek haftadan itibaren Google Play Store üzerinden üçüncü taraf uygulama mağazalarını indirebilmesine izin vermeye hazırlandığı bildirildi. Kaliforniya Kuzey Bölge Mahkemesinde görülen Google ile Epic Games arasındaki antitröst davasında, taraflar, mahkemenin kalıcı tedbir kararının değiştirilmesine ilişkin ortak başvurularını geri çekti.",
-          "source": "https://www.ntv.com.tr/teknoloji/google-kendi-uygulama-magazasinda-ucuncu-taraf-uygulama-magazalarina-izin-vermeye-hazirlaniyor-1733091"
-        },
-        {
-          "title": "Astronotlar kendi röntgenlerini çekti",
-          "summary": "Uzay tıbbı açısından tarihi bir başarıya imza atıldı. Yörüngedeki astronotlar, taşınabilir bir X ışını cihazıyla ilk kez kendi vücutlarının teşhis amacıyla kullanılabilecek kalitede görüntülerini çekti. Yeni teknoloji, gelecekte Ay ve Mars görevlerinde yaralanmaların Dünya’dan yardım alınmadan belirlenmesini sağlayabilir.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/astronotlar-kendi-rontgenlerini-cekti-43240821"
         }
       ]
     },
