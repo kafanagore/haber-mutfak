@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-17T16:00:04.316Z",
+  "generatedAt": "2026-07-18T04:00:04.018Z",
   "categories": {
     "gundem": {
-      "text": "45 ilde yasa dışı bahse darbe: 171 şüpheli tutuklandı. Dokunulmazlık fezlekeleri TBMM’de. İBB'nin kreş ücretlerine zam. Balık tutarken Habur Çayı'na düşmüştü: Erkan Sak'tan 9 gün sonra acı haber geldi. Silivri'de inşaat temelinde toprak kaydı! çökme riskine karşı sokak kapatıldı. İstanbul'da toplu ulaşıma yüzde 10 zam! Mavi kart, Marmaray, okul servis ücretleri... İşte yeni fiyatlar. Cumhurbaşkanı Erdoğan'dan AK Parti İstanbul İl Başkanlığı'na ziyaret.",
+      "text": "Son dakika... Malatya'da 5.0 büyüklüğünde deprem. İş yerinin camını tekmeyle kıran şüpheliyi esnaf yakaladı. Kara çarşaf giyip iş yerine kurşun yağdırdı. Kafasını otobüs durağına vurdu: Yanıyorum, su verin. Kamerayı görünce ters yönden kaçtı, 252 bin lira ceza yedi. Cerrahpaşa'daki yangın söndürüldü. Atama ve görevden alma kararları Resmi Gazete'de.",
       "items": [
         {
-          "title": "45 ilde yasa dışı bahse darbe: 171 şüpheli tutuklandı",
-          "summary": "Gaziantep merkezli 45 ilde \"yasa dışı bahis\" suçuna yönelik düzenlenen operasyonlarda gözaltına alınan 236 şüpheliden 171'i tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/45-ilde-yasa-disi-bahse-darbe-171-supheli-tutuklandi-43243317"
+          "title": "Son dakika... Malatya'da 5.0 büyüklüğünde deprem",
+          "summary": "AFAD verilerine Malatya'da saat 06.20'de 5 büyüklüğünde deprem meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-malatyada-5-0-buyuklugunde-deprem-43243571"
         },
         {
-          "title": "Dokunulmazlık fezlekeleri TBMM’de",
-          "summary": "3’ü Özgür Özel’e ait olmak üzere 9 dosya Meclis Başkanlığı’na gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/dokunulmazlik-fezlekeleri-tbmmde-43243305"
+          "title": "İş yerinin camını tekmeyle kıran şüpheliyi esnaf yakaladı",
+          "summary": "Eskişehir'de önünden geçtiği tatil acentesinin vitrin camını tekmeyle kıran şüpheli, çevredeki esnaf tarafından yakalanarak, polis ekiplerine teslim edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/is-yerinin-camini-tekmeyle-kiran-supheliyi-esnaf-yakaladi-43243563"
         },
         {
-          "title": "İBB'nin kreş ücretlerine zam",
-          "summary": "İstanbul Büyükşehir Belediyesi (İBB) Meclisi'nde, belediyenin işlettiği kreşlerin 5 bin lira olan aylık ücretinin yüzde 60 zamla 8 bin liraya yükseltilmesi kararlaştırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ibbnin-kres-ucretlerine-zam-43243289"
+          "title": "Kara çarşaf giyip iş yerine kurşun yağdırdı",
+          "summary": "Adana'da kimliğini gizlemek için kara çarşaf giyen şüpheli, iş yerine tabancayla kurşun yağdırdı. Silahlı saldırı anı bir iş yerinin güvenlik kamerasına yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kara-carsaf-giyip-is-yerine-kursun-yagdirdi-43243561"
         },
         {
-          "title": "Balık tutarken Habur Çayı'na düşmüştü: Erkan Sak'tan 9 gün sonra acı haber geldi",
-          "summary": "Şırnak'ın Beytüşşebap ilçesinde akıntıya kapılarak kaybolan 28 yaşındaki Erkan Sak'ın cansız bedeni, 9 gün süren yoğun arama çalışmalarının ardından bulundu. Ekiplerin zorlu şartlarda yürüttüğü aramalar sonucunda Sak'ın cenazesi, düştüğü yerin yaklaşık 3 kilometre uzağında büyük kayaların arasında tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/balik-tutarken-habur-cayina-dusmustu-erkan-saktan-9-gun-sonra-aci-haber-geldi-43243267"
+          "title": "Kafasını otobüs durağına vurdu: Yanıyorum, su verin",
+          "summary": "Eskişehir'de polis ekiplerine zorluk çıkaran ve alkolmetreyi üflemeyi reddeden alkollü sürücüye biber gazı ile müdahale edildi. Sokağı birbirine katan şahıs, \"Yanıyorum, su verin. Ben teslim olmaya geldim adam mısınız lan\" diyerek kendi kafasını otobüs durağına vurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/kafasini-otobus-duragina-vurdu-yaniyorum-su-verin-43243560"
         },
         {
-          "title": "Silivri'de inşaat temelinde toprak kaydı! çökme riskine karşı sokak kapatıldı",
-          "summary": "Silivri'de kentsel dönüşüm kapsamında yapımı süren bir binanın temelinde gece saat 01.00 sıralarında kısmen toprak kayması yaşandı. Büyük bir gürültüyle yaşanan olay sebebiyle çevredeki bina sakinleri panikle sokağa çıktı. Olası bir çökme tehlikesine karşı sokak araç ve yaya trafiğine kapatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/silivride-insaat-temelinde-toprak-kaydi-cokme-riskine-karsi-sokak-kapatildi-43243244"
+          "title": "Kamerayı görünce ters yönden kaçtı, 252 bin lira ceza yedi",
+          "summary": "İstanbul'da trafikte tartıştığı sürücünün yolunu keserek aracından inen B.P., araçtaki kamerayı fark edince ters istikametten kaçtı. Polis şüpheliye toplam 252 bin 492 lira para cezası uyguladı. İstanbul Fatih'te yol kesip kaçan trafik magandası cezadan kurtulamadı. Olay 13 Temmuz Pazartesi günü akşam saatlerinde meydana geldi. Trafikte tartıştığı sürücünün önünü kesen B.P., aracından inerek saldırı girişiminde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/kamerayi-gorunce-ters-yonden-kacti-252-bin-lira-ceza-yedi-1733414"
         },
         {
-          "title": "İstanbul'da toplu ulaşıma yüzde 10 zam! Mavi kart, Marmaray, okul servis ücretleri... İşte yeni fiyatlar",
-          "summary": "İstanbul Büyükşehir Belediyesi (İBB) Meclisinde, kentte otobüs, metro, metrobüs, minibüs ve vapur gibi toplu ulaşım araçları ile taksi ve okul servislerine yüzde 10 zam yapılmasına ilişkin teklif, AK Parti grubunun \"hayır\" oyuna karşılık oy çokluğuyla kabul edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-toplu-ulasima-yuzde-10-zam-43243251"
+          "title": "Cerrahpaşa'daki yangın söndürüldü",
+          "summary": "İstanbul Üniversitesi Cerrahpaşa Diş hekimliği fakültesi binasının çatısında yangın çıktı. Alevler ekipler tarafından büyümeden söndürüldü. Fatih'teki İstanbul Üniversitesi Cerrahpaşa Diş Hekimliği Fakültesi binasının çatısında gece saatlerinde henüz bilinmeyen nedenle yangın çıktı. Olay yerine çok sayıda itfaiye ekibi sevk edildi. Ekiplerin müdahalesiyle, alevler başka bir noktaya sıçramadan kontrol altına alındı. Yangının çıkış nedeninin belirlenmesi için inceleme başlatıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/cerrahpasadaki-yangin-sonduruldu-1733413"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan AK Parti İstanbul İl Başkanlığı'na ziyaret",
-          "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin İstanbul İl Başkanlığını ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-ak-parti-istanbul-il-baskanligina-ziyaret-43243237"
+          "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+          "summary": "Bazı bakanlık ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-43243525"
         }
       ]
     },
     "dunya": {
-      "text": "Fransa'da şiddetli fırtına... 2 kişi öldü, 53 bin hane elektriksiz kaldı. Meksika’da 7,3 büyüklüğünde deprem. Belçika'da can kaybı artıyor: Ölü sayısı 2 bini aştı. Almanya'da büyük firar! Binlercesi cinayetten hükümlü. İsrailli vekilde Netanyahu itirafı: Görevden almaya çalıştık. Almanya’da şiddetli fırtına: 1 ölü, 3 yaralı. KKTC Cumhurbaşkanı Erhürman: Guterres’in adaya gelme kararını olumlu karşılıyoruz.",
+      "text": "Venezuela'da can kaybı 5 bini aştı. Norveç'te 100'den fazla ev kül oldu. ABD'yi duman kapladı, Trump Kanada'yı suçladı. ABD'nin saldırıları devam ediyor. Tahran'dan \"kapsamlı saldırı\" mesajı. İsrail’den Gazze’de cenaze törenine saldırı: 7 ölü, 19 yaralı. Çin'de heyelan… 8 kişi hayatını kaybetti, kayıp 34 kişi aranıyor. Fransa'da şiddetli fırtına... 2 kişi öldü, 53 bin hane elektriksiz kaldı.",
       "items": [
+        {
+          "title": "Venezuela'da can kaybı 5 bini aştı",
+          "summary": "Venezuela'yı 39 saniye arayla vuran iki büyük depremde yaşamını yitirenlerin sayısının 5 bin 69'a yükseldi. Güney Amerika ülkesi Venezuela'da 24 Haziran'da 39 saniye arayla meydana gelen 7.2 ve 7.5 büyüklüğündeki 2 depremin yerle bir ettiği alanlarda arama çalışmaları sürüyor. Ulusal Meclis Başkanı Jorge Rodriguez, sosyal medya hesabından ülkedeki son duruma ilişkin açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/venezuelada-can-kaybi-5-bini-asti-1733417"
+        },
+        {
+          "title": "Norveç'te 100'den fazla ev kül oldu",
+          "summary": "Norveç'in güneyinde bir evde başlayan yangın, yerleşim alanlarını ve ormanı küle çevirdi. Norveç'in güneyindeki Drammen kenti yakınlarında çıkan yangın, afete dönüştü. Bir konutta başlayan yangın, kuvvetli rüzgarın etkisiyle kısa sürede çevredeki binalara ve ormanlık alana sıçradı. Yetkililer, 100'den fazla konutun tamamen yandığını, alevlerin henüz kontrol altına alınamadığını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/norvecte-100den-fazla-ev-kul-oldu-1733416"
+        },
+        {
+          "title": "ABD'yi duman kapladı, Trump Kanada'yı suçladı",
+          "summary": "850'den fazla noktada alevlerle mücadelenin sürdüğü Kanada'dan yükselen dumanlar ABD şehirlerini kapladı. ABD Başkanı Donald Trump \"kasıtlı bir ihmal\" diyerek Kanada hükümetini suçladı. Kanada bir yandan orman yangınlarıyla mücadele ediyor; bir yandan da yangınların yol açtığı hava kirliliği hayatı olumsuz etkiliyor. 850'den fazla noktada devam eden orman yangınları nedeniyle binlerce kişi için tahliye uyarısı yapıldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abdyi-duman-kapladi-trump-kanadayi-sucladi-1733415"
+        },
+        {
+          "title": "ABD'nin saldırıları devam ediyor. Tahran'dan \"kapsamlı saldırı\" mesajı",
+          "summary": "ABD ile İran arasındaki çatışmalar, karşılıklı saldırıların köprüler, enerji tesisleri ve deniz ulaşımını kapsayacak şekilde genişlemesiyle yeni bir tırmanma aşamasına girdi. ABD, cuma günü İran’ın güneyindeki köprüleri ve “askeri lojistik altyapı” olarak nitelendirdiği hedefleri vurdu. İran ise buna karşılık, Kuveyt’te elektrik üretimi ve deniz suyunu arıtma amacıyla kullanılan bir tesise saldırdı.",
+          "source": "https://www.ntv.com.tr/dunya/iranin-dini-lideri-hamaneyin-danismanindan-abdye-kapsamli-saldiri-mesaji-1733400"
+        },
+        {
+          "title": "İsrail’den Gazze’de cenaze törenine saldırı: 7 ölü, 19 yaralı",
+          "summary": "İsrail’in yürürlükteki ateşkese rağmen Gazze şehrindeki Nuseyrat Mülteci Kampı’nda bir cenaze töreni sırasında düzenlediği hava saldırısında 7 kişi hayatını kaybetti, 19 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-gazzede-cenaze-torenine-saldiri-7-olu-19-yarali-43243405"
+        },
+        {
+          "title": "Çin'de heyelan… 8 kişi hayatını kaybetti, kayıp 34 kişi aranıyor",
+          "summary": "Çin'in güneybatısındaki Çongçing ilinde meydana gelen heyelanda ilk belirlemelere göre 8 kişi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/cinde-heyelan-8-kisi-hayatini-kaybetti-kayip-34-kisi-araniyor-43243363"
+        },
         {
           "title": "Fransa'da şiddetli fırtına... 2 kişi öldü, 53 bin hane elektriksiz kaldı",
           "summary": "Fransa'da şiddetli fırtına nedeniyle 2 kişi hayatını kaybetti, evlerde ve araçlarda hasar oluştu, 53 bin hanede de elektrik kesildi.",
           "source": "https://www.hurriyet.com.tr/dunya/fransada-siddetli-firtina-2-kisi-oldu-53-bin-hane-elektriksiz-kaldi-43243314"
-        },
-        {
-          "title": "Meksika’da 7,3 büyüklüğünde deprem",
-          "summary": "Meksika’nın güneyindeki Chiapas eyaleti açıklarında 7,3 büyüklüğünde deprem meydana geldi. ABD Tsunami Uyarı Sistemi, depremin ardından bölgede tsunami tehdidi bulunduğunu duyurdu. ABD Jeolojik Araştırmalar Merkezi’nin (USGS) ilk verilerine göre deprem, cuma günü Chiapas eyaletindeki Puerto Madero kenti yakınlarında kaydedildi. Yerin yaklaşık 10 kilometre derinliğinde meydana gelen depremin ardından can veya mal kaybına ilişkin henüz açıklama yapılmadı.",
-          "source": "https://www.ntv.com.tr/dunya/meksikada-74-buyuklugunde-deprem-1733390"
-        },
-        {
-          "title": "Belçika'da can kaybı artıyor: Ölü sayısı 2 bini aştı",
-          "summary": "Belçika'da 18 Haziran-1 Temmuz tarihlerinde etkili olan sıcak hava dalgası sırasında ölüm sayısı normal döneme göre 1747 artarken, bu artış, Belçika Halk Sağlığı Enstitüsünün (Sciensano) 2000'den bu yana tuttuğu kayıtlardaki en yüksek sıcak hava dalgası kaynaklı ölüm artışı olarak kayıtlara geçti.",
-          "source": "https://www.hurriyet.com.tr/dunya/belcikada-can-kaybi-artiyor-olu-sayisi-2-bini-asti-43243276"
-        },
-        {
-          "title": "Almanya'da büyük firar! Binlercesi cinayetten hükümlü",
-          "summary": "Almanya'da haklarında ulusal çapta tutuklama emri çıkarılan 148 bin 311 kişi firarda olduğu bildirilirken, firarda olanların 94’ü terörle bağlantılı suçlardan aranıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-buyuk-firar-binlercesi-cinayetten-hukumlu-43243274"
-        },
-        {
-          "title": "İsrailli vekilde Netanyahu itirafı: Görevden almaya çalıştık",
-          "summary": "İsrail'de Başbakan Binyamin Netanyahu liderliğindeki Likud Partisi milletvekili Dan Illouz, Hamas'ın 7 Ekim'deki \"sürpriz\" saldırısının ardından parti grubunun en az üçte birinin Netanyahu'nun görevden alınması için çalıştığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilli-vekilde-netanyahu-itirafi-gorevden-almaya-calistik-43243272"
-        },
-        {
-          "title": "Almanya’da şiddetli fırtına: 1 ölü, 3 yaralı",
-          "summary": "Almanya’da üç gündür etkili olumsuz hava şartları nedeniyle Karlsruhe şehrinde 60 yaşındaki bisiklet sürücüsü şiddetli fırtınada devrilen ağacın altında kalarak hayatını kaybetti, olayda 3 kişi de yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-siddetli-firtina-1-olu-3-yarali-43243259"
-        },
-        {
-          "title": "KKTC Cumhurbaşkanı Erhürman: Guterres’in adaya gelme kararını olumlu karşılıyoruz",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres’in Kıbrıs’a gerçekleştirmeyi planladığı ziyareti olumlu karşıladıklarını belirterek, \"Bu ziyaret planı, 16 yıl aradan sonra ilk kez bir BM Genel Sekreteri’nin adaya gelip Kıbrıslı Türk ve Kıbrıslı Rum liderlerle burada görüşecek olması açısından da önemlidir\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kktc-cumhurbaskani-erhurman-guterresin-adaya-gelme-kararini-olumlu-karsiliyoruz-43243248"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Galatasaray'ın istediği Jhon Duran imzaya gidiyor: Yeni adresi belli oldu. 2026 FIFA Dünya Kupası'nı kazanana şampiyonluk yüzüğü verilecek. Ayça Aykaç Galatasaray Daikin'de!. Beşiktaş Ndidi'ye gelen teklifi reddetti!. Beşiktaş, Mohamed Salah'a teklif yaptı! İstanbul'da görüşme. Beymen Club Sailing Team, 55. Deniz Kuvvetleri Kupası'nda kürsüde yer aldı. Fenerbahçe Muriqi, Ake ve Greenwood ile sözleşme imzaladı: 'Şampiyon olup tarih yazabiliriz!'.",
+      "text": "Trabzonspor'da rekor satış! Oulai'de resmi imzalar an meselesi. Okan Buruk'tan Lemina'nın geleceği hakkında açıklama!. Ertuğrul Taşkıran, Erzurumspor FK'da!. Sidny Lopes Cabral imza için Trabzon'da!. Filenin Efeleri'nden muhteşem geri dönüş!. Beşiktaş, Mohamed Salah ile anlaştı iddiası!. Fenerbahçe'nin Gornik Zabrze maçlarının kadrosunu UEFA'ya bildirdi! Yeni transferler yok.",
       "items": [
         {
-          "title": "Galatasaray'ın istediği Jhon Duran imzaya gidiyor: Yeni adresi belli oldu",
-          "summary": "Transferde adı Galatasaray ile anılan eski Fenerbahçeli Jhon Duran'ın akıbeti belli oldu. Kolombiyalı golcü, Benfica'nın projesini tercih ederek Portekiz ekibiyle anlaşma sağladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-jhon-duran-imzaya-gidiyor-yeni-adresi-belli-oldu-43243300"
+          "title": "Trabzonspor'da rekor satış! Oulai'de resmi imzalar an meselesi",
+          "summary": "İtalya Serie A ekiplerinden Fiorentina'nın Trabzonspor'un genç yıldızı Christian Inao Oulai'yi rekor bedelle kadrosuna katmaya yaklaştığı öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-rekor-satis-oulaide-resmi-imzalar-an-meselesi-43243514"
         },
         {
-          "title": "2026 FIFA Dünya Kupası'nı kazanana şampiyonluk yüzüğü verilecek",
-          "summary": "2026 FIFA Dünya Kupası'nda şampiyon olan takımın oyuncularına turnuva tarihinde ilk kez şampiyonluk yüzüğü verilecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/2026-fifa-dunya-kupasini-kazanana-sampiyonluk-yuzugu-verilecek-43243217"
+          "title": "Okan Buruk'tan Lemina'nın geleceği hakkında açıklama!",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Ümraniyespor'u mağlup ettikleri hazırlık maçının ardından açıklamalarda bulundu. Buruk, geleceği merak konusu olan Mario Lemina'ya da bir parantez açtı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-leminanin-gelecegi-hakkinda-aciklama-43243504"
         },
         {
-          "title": "Ayça Aykaç Galatasaray Daikin'de!",
-          "summary": "Galatasaray Daikin, yeni sezon transfer çalışmaları kapsamında milli libero Ayça Aykaç Altıntaş'ı renklerine bağladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ayca-aykac-galatasaray-daikinde-43243170"
+          "title": "Ertuğrul Taşkıran, Erzurumspor FK'da!",
+          "summary": "Erzurumspor FK, kaleci Ertuğrul Taşkıran ile 2 yıllık sözleşme imzaladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-taskiran-erzurumspor-fkda-43243494"
         },
         {
-          "title": "Beşiktaş Ndidi'ye gelen teklifi reddetti!",
-          "summary": "Beşiktaş'ta Wilfried Ndidi'ye Suudi Arabistan ekibi Al Diriyah talip oldu. 7 milyon Euro'luk teklifi reddeden siyah-beyazlıların beklentisi 10 milyon Euro.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ndidiye-gelen-teklifi-reddetti-43243136"
+          "title": "Sidny Lopes Cabral imza için Trabzon'da!",
+          "summary": "Trabzonspor'un yeni transferi Sidny Lopes Cabral, yeni sezon hazırlıkları kapsamında Trabzon'a geldi. Yeşil Burun Adaları Milli Takımı ile 2026 Dünya Kupası'nda mücadele eden genç futbolcu, turnuvanın ardından verilen iznin sona ermesiyle bordo-mavili ekibe katılmak üzere Trabzon’a geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sidny-lopes-cabral-imza-icin-trabzonda-43243420"
         },
         {
-          "title": "Beşiktaş, Mohamed Salah'a teklif yaptı! İstanbul'da görüşme",
-          "summary": "Beşiktaş, Liverpool'dan ayrılan dünyaca ünlü kanat oyuncusu Mohamed Salah'ı kadrosuna katmaya hazırlanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-mohamed-salaha-teklif-yapti-istanbulda-gorusme-43242999"
+          "title": "Filenin Efeleri'nden muhteşem geri dönüş!",
+          "summary": "A Milli Erkek Voleybol Takımı, 2026 FIVB Milletler Ligi'nin (VNL) Sırbistan'da düzenlenen üçüncü haftasındaki ikinci maçında Ukrayna'yı 2-0 geriden gelerek 3-2 yendi",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-efelerinden-muhtesem-geri-donus-43243415"
         },
         {
-          "title": "Beymen Club Sailing Team, 55. Deniz Kuvvetleri Kupası'nda kürsüde yer aldı",
-          "summary": "İstanbul’dan Çeşme’ye uzanan 275 deniz millik Türkiye’nin en prestijli ve zorlu açık deniz yelken yarışı 55. TAYK - AKPA Deniz Kuvvetleri Kupası, nefes kesen bir mücadeleye sahne oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/beymen-club-sailing-team-55-deniz-kuvvetleri-kupasinda-kursude-yer-aldi-43243120"
+          "title": "Beşiktaş, Mohamed Salah ile anlaştı iddiası!",
+          "summary": "Leandro Trossard renklerine bağlayan Beşiktaş, bir süper yıldızı daha kadrosuna katmaya hazırlanıyor. Siyah-beyazlıların, Liverpool'dan ayrılan dünyaca ünlü kanat oyuncusu Mohamed Salah'ı kadrosuna katmak için anlaştığı iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-mohamed-salah-ile-anlasti-iddiasi-43243380"
         },
         {
-          "title": "Fenerbahçe Muriqi, Ake ve Greenwood ile sözleşme imzaladı: 'Şampiyon olup tarih yazabiliriz!'",
-          "summary": "Fenerbahçe'nin yeni transferleri Mason Greenwood, Nathan Ake ve Vedat Muriqi için Chobani Stadı'nda imza töreni düzenlendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-muriqi-ake-ve-greenwood-ile-sozlesme-imzaladi-sampiyon-olup-tarih-yazabiliriz-43243062"
+          "title": "Fenerbahçe'nin Gornik Zabrze maçlarının kadrosunu UEFA'ya bildirdi! Yeni transferler yok",
+          "summary": "Fenerbahçe, Gornik Zabrze maçları için kadrosunu UEFA'ya bildirdi. Yeni transferler Nathan Ake, Mason Greenwood, Vedat Muriqi ve Fransa ile Dünya Kupası'nda boy gösteren N'Golo Kante kadroda yer almadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-gornik-zabrze-maclarinin-kadrosunu-uefaya-bildirdi-yeni-transferler-yok-43243341"
         }
       ]
     },
