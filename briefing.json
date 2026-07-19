@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-18T16:00:03.799Z",
+  "generatedAt": "2026-07-19T04:00:03.704Z",
   "categories": {
     "gundem": {
-      "text": "23 yaşındaki genç kadını felç bıraktı! Aileden adalet çağrısı. 3 ilde orman yangını. Alevler kontrol altına alındı. 14 yıldır aranıyordu… Cesedi portakal bahçesinde bulundu. Felç olan Diyar'ın ailesinden adalet çağrısı. \"Evladım gözümün önünde eriyor\". Bodrum'da 1,2 ton tarihi geçmiş gıda yakalandı. İstirahat raporlarında 'e-Rapor' dönemi: Artık e-Devlet'ten erişilebilecek. Silivri'de eğlence mekanı çıkışında kadınların kavgası kamerada.",
+      "text": "Firari Alper Çelik AHBAP soruşturmasında tutuklandı: Haluk söyledi ben oynadım. Esenyurt'ta bir otelde yangın çıktı. Kamyonun freni patladı, polis alarma geçti. Çalışmada ana boru patladı, 4 mahalle susuz kaldı. Piknik faciaya dönüştü: 2 çocuk nehirde kayboldu. 1'i polis, 11 kişinin yaralandığı kavgada 5 kişi tutuklandı. Bakan Kurum: 81 ilde 7 milyon kişi sosyal konutlarına kavuştu.",
       "items": [
         {
-          "title": "23 yaşındaki genç kadını felç bıraktı! Aileden adalet çağrısı",
-          "summary": "Başakşehir’de evinin önünde misafirleri uğurladıktan sonra babasını bekleyen Zahide Diyar Demirbaş (23) alkollü olduğu öne sürülen sürücünün otomobiliyle çarpması sonucu ağır yaralandı. Birçok ameliyat geçiren Demirbaş felç oldu. Demirbaşın ailesi kazaya neden olan sürücünün uyuşturucu etkisinde olduğunu ve aracında bulunan 2 kişinin kaçtığını iddia ederek basın açıklaması yaptı. Anne Mahide Demirbaş, \"Evladım gözümün önünde eriyor. 'Anne ne zaman yürüyeceğim' dediği sürece yanında ağlayamıyorum.",
-          "source": "https://www.hurriyet.com.tr/gundem/23-yasindaki-genc-kadini-felc-birakti-aileden-adalet-cagrisi-43244251"
+          "title": "Firari Alper Çelik AHBAP soruşturmasında tutuklandı: Haluk söyledi ben oynadım",
+          "summary": "Noterde işlem yaptığı sırada yakalanan AHBAP soruşturmasının firari sanığı Alper Çelik, “Bana genellikle ‘Şu maçlara kupon yap’ diye yazıyordu, ben de dediği şekilde oynuyordum. Gerçekten de söylendiği miktarlar kadar para kaybettik” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/firari-alper-celik-ahbap-sorusturmasinda-tutuklandi-haluk-soyledi-ben-oynadim-43244418"
         },
         {
-          "title": "3 ilde orman yangını. Alevler kontrol altına alındı",
-          "summary": "Kütahya, Aydın ve İstanbul'un Çatalca ilçesinde orman yangını çıktı. Üç yangında ekipler tarafından uzun uğraşlar sonucu söndürüldü. Hava sıcaklığının mevsim normallerinin üzerine çıkmasıyla orman yangınları da arttı. Ekipler, yangınlarla mücadelesini sürdürürken 3 ilden yangın haberi geldi. ÇATALCA İstanbul'un Çatalca ilçesinde orman yangını çıktı. Ormanlı Mahallesi'ndeki ormanda çıkan yangın için itifaiye ve orman ekipleri sevk edildi. Yangın ekiplerin uzun uğraşları sonucu kontrol altına alınarak söndürüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-3-ilde-orman-yangini-ekiplerin-mudahalesi-suruyor-1733521"
+          "title": "Esenyurt'ta bir otelde yangın çıktı",
+          "summary": "İstanbul'un Esenyurt ilçesinde bir otelde çıkan yangın itfaiye ekiplerince söndürüldü.",
+          "source": "https://www.hurriyet.com.tr/gundem/esenyurtta-bir-otelde-yangin-cikti-43244461"
         },
         {
-          "title": "14 yıldır aranıyordu… Cesedi portakal bahçesinde bulundu",
-          "summary": "HATAY’da kayınpederi Mehmet Uyğur'un öldürülmesinden bir yıl sonra 2012’de ortadan kaybolan Selbi Uyğur'un (32) portakal bahçesine gömülü cesedi bulundu. Selbi Uyğur cinayetine ilişkin, kayınpederi Mehmet Uyğur'u öldüren kayınvalidesi Hatice Uyğur ve Yaşar T. ile O.Ç.'nin tutuklandığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/14-yildir-araniyordu-cesedi-portakal-bahcesinde-bulundu-43244234"
+          "title": "Kamyonun freni patladı, polis alarma geçti",
+          "summary": "İnegöl'de freni patlayan kamyon polis ekiplerinin yolu boşaltıp güvenlik önlemi almasıyla 15 kilometre sonra durduruldu. Bursa'nın Karacabey ilçesinden karpuz yükleyerek Ankara'ya doğru yola çıkan Mehmet Bayakbayan yönetimindeki kamyonun, İnegöl ilçesi Ümitalan rampasından inerken freni patladı. Şoför Bayakbayan, aracı düz yola güvenle indirdikten sonra 112 Acil Çağrı Merkezi'ni arayıp yardım istedi.",
+          "source": "https://www.ntv.com.tr/turkiye/kamyonun-freni-patladi-polis-alarma-gecti-1733551"
         },
         {
-          "title": "Felç olan Diyar'ın ailesinden adalet çağrısı. \"Evladım gözümün önünde eriyor\"",
-          "summary": "Başakşehir'de evinin önünde bir otomobilin çarpmasıyla ağır yaralanan 23 yaşındaki Zahide Diyar Demirbaş felç oldu. Aile adalet çağrısında bulunurken, anne Mahide Demirbaş, \"Evladım gözümün önünde eriyor. 'Anne ne zaman yürüyeceğim' dediği sürece yanında ağlayamıyorum. Adalet istiyorum\" dedi. Başakşehir’de 30 Haziran'da evinin önünde misafirleri uğurladıktan sonra babasını bekleyen Zahide Diyar Demirbaş (23) alkollü olduğu öne sürülen sürücünün otomobiliyle çarpması sonucu ağır yaralandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-felc-olan-diyarin-ailesinden-adalet-cagrisi-evladim-gozumun-onunde-eriyor-1733534"
+          "title": "Çalışmada ana boru patladı, 4 mahalle susuz kaldı",
+          "summary": "Avcılar'da İSKİ ekibinin çalışmasında kepçe ana su borusuna hasar verdi. 4 mahalleye en az 6 saat su verilemeyeceği açıklandı. İstanbul'un Avcılar ilçesi Cihangir Mahallesi'nde İSKİ ekibi bir arızayı gidermek için çalışma başlattı. Görevlinin kullandığı iş makinesi saat 23.30 sıralarında ana su borusunu deldi. Basınçlı su metrelerce fışkırırken, sokak su içinde kaldı. İş makinesi ile su borusunu kapatma çabalarının yetersiz kalması üzerine ana vana kapatıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/calismada-ana-boru-patladi-4-mahalle-susuz-kaldi-1733550"
         },
         {
-          "title": "Bodrum'da 1,2 ton tarihi geçmiş gıda yakalandı",
-          "summary": "Muğla'nın Bodrum ilçesinde bir gıda işletmesine düzenlenen denetimde, son kullanma tarihi geçmiş yaklaşık 1 ton 200 kilogram gıda ürünü ele geçirilerek imha edildi. İş yeri hakkında cezai işlem uygulandı ve işletmenin mühürlenmesi için yasal süreç başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bodrumda-1-2-ton-tarihi-gecmis-gida-yakalandi-43244217"
+          "title": "Piknik faciaya dönüştü: 2 çocuk nehirde kayboldu",
+          "summary": "Aydın’ın İncirliova ilçesinde, piknik yapmak için gittikleri bölgede serinlemek amacıyla Büyük Menderes Nehri’ne giren 3 çocuktan 1’i kendi imkanlarıyla kıyıya çıkarken 2 arkadaşı kayboldu. Çocuklar için arama kurtarma çalışması başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/piknik-faciaya-donustu-2-cocuk-nehirde-kayboldu-43244400"
         },
         {
-          "title": "İstirahat raporlarında 'e-Rapor' dönemi: Artık e-Devlet'ten erişilebilecek",
-          "summary": "Sağlık Bakanlığı'nın hayata geçirdiği \"e-Rapor\" sistemiyle, belirli istisnalar dışındaki istirahat raporları artık elektronik ortamda düzenlenecek. Öğrenciler, memurlar ve esnafın yararlanabileceği yeni uygulamada raporlara e-Devlet üzerinden de erişebilecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/istirahat-raporlarinda-e-rapor-donemi-artik-e-devletten-erisilebilecek-43244207"
+          "title": "1'i polis, 11 kişinin yaralandığı kavgada 5 kişi tutuklandı",
+          "summary": "ESKİŞEHİR’de iki aile arasındaki çıkan, biri müdahaleye gelen polis memuru toplam 11 kişinin yaralandığı kavgaya ilişkin 2’si kadın, 18 şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/1i-polis-11-kisinin-yaralandigi-kavgada-5-kisi-tutuklandi-43244399"
         },
         {
-          "title": "Silivri'de eğlence mekanı çıkışında kadınların kavgası kamerada",
-          "summary": "Silivri'de bir eğlence kulübünün önünde iki kadın arasında henüz bilinmeyen nedenle kavga çıktı. Çevredekilerin ayırmakta güçlük çektiği tekme tokatlı arbede, ihbar üzerine olay yerine gelen polis ekiplerinin müdahalesiyle son buldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/silivride-eglence-mekani-cikisinda-kadinlarin-kavgasi-kamerada-43244196"
+          "title": "Bakan Kurum: 81 ilde 7 milyon kişi sosyal konutlarına kavuştu",
+          "summary": "Sosyal Konut Projesi kapsamında tamamlanan evlerin hak sahiplerine teslimi sürüyor. Bakan Kurum, 81 ilde yaklaşık 7 milyon kişiye evlerinin teslim edildiğini duyurdu... Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 81 ilde yaklaşık 7 milyon vatandaşın sosyal konutlarına kavuştuğunu bildirdi. Bakan Kurum'un sosyal medya hesabındaki videolu paylaşımda, Malatya İkizce'deki sosyal konuta yerleşen Mahmut Dönmez ve eşinin görüşleri yer aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-kurum-81-ilde-7-milyon-kisi-sosyal-konutlarina-kavustu-1733545"
         }
       ]
     },
     "dunya": {
-      "text": "Çekya’dan İstanbul Sözleşmesi kararı. ABD-İran çatışması 7. gününde: Karşılıklı saldırılarda son durum ne?. Norveç'te facia: 100'den fazla ev küle döndü. Hareket halindeki trende facia! Bilet kontrolü sırasında kavga çıktı, görevli raylara düştü. Bakan Fidan, Katar'ı ziyaret edecek. Hollanda'da alarm: Su kıtlığı ilan edildi. ABD'yi duman kapladı, Trump Kanada'yı suçladı.",
+      "text": "Venezuela'da ölü sayısı 5 bin 119'a çıktı. Rusya'yı şoke eden saldırı. Ukrayna lojistik depolarını vurdu. Avrupa'da sıcak kabusu. Nükleer reaktörler bile durdu. Hamaney: ABD anlaşmayı defalarca ihlal etti, Trump'ın imzası geçersiz. Kıbrıs’ta Rum tarafından provokatif gösteri. Çekya’dan İstanbul Sözleşmesi kararı. Norveç'te facia: 100'den fazla ev küle döndü.",
       "items": [
+        {
+          "title": "Venezuela'da ölü sayısı 5 bin 119'a çıktı",
+          "summary": "Venezuela'yı 39 saniye arayla vuran iki büyük depremde yaşamını yitirenlerin sayısının 5 bin 119'a yükseldi. Yaralı sayısı ise 16 bin 740. 24 Haziran'da art arda meydana gelen 7.2 ve 7.5 büyüklüğündeki depremlerin vurduğu Venezuela'da, bilanço ağırlaşıyor. Venezuela Ulusal Meclis Başkanı Jorge Rodriguez, 50 kişinin daha cansız bedenine ulaşıldığını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/venezuelada-olu-sayisi-5-bin-119a-cikti-1733556"
+        },
+        {
+          "title": "Rusya'yı şoke eden saldırı. Ukrayna lojistik depolarını vurdu",
+          "summary": "Ukrayna, Rusya topraklarının derinliklerine düzenlediği uzun menzilli dron saldırılarına bir yenisini ekledi. Bu kez hedefte, Rusya'nın en büyük çevrimiçi perakende şirketinin lojistik merkezleri vardı. 4 yılı geride bırakan savaşta Ukrayna güçleri Rusya'yı şoke eden yeni bir insansız hava aracı saldırısına imza attı. Moskova ve Tambov bölgelerindeki iki dev depo, patlayıcı yüklü insansız hava araçlarıyla vuruldu. Saldırılarda en az 8 kişi hayatını kaybetti, yaklaşık 90 kişi yaralandı.",
+          "source": "https://www.ntv.com.tr/dunya/rusyayi-soke-eden-saldiri-ukrayna-lojistik-depolarini-vurdu-1733553"
+        },
+        {
+          "title": "Avrupa'da sıcak kabusu. Nükleer reaktörler bile durdu",
+          "summary": "Yeni sıcak hava dalgasının etkisine giren Avrupa kavruluyor. İtalya, İspanya ve Yunanistan orman yangınlarıyla boğuşurken Fransa’da 3 nükleer reaktörün faaliyeti sıcak hava nedeniyle durduruldu. Haziran ayı sonunda etkili olan rekor hava sıcakları sırasında 10 binden fazla ek ölümün kaydedildiği Avrupa yeni bir sıcak dalgasının etkisine girdi. Yüksek sıcaklıklar orman yangınlarını da tetikliyor. İspanya'da yılın en büyük orman yangınında 12 bin hektarlık alan kül oldu.",
+          "source": "https://www.ntv.com.tr/dunya/avrupada-sicak-kabusu-nukleer-reaktorler-bile-durdu-1733552"
+        },
+        {
+          "title": "Hamaney: ABD anlaşmayı defalarca ihlal etti, Trump'ın imzası geçersiz",
+          "summary": "ABD ile İran arasındaki çatışmalar sekizinci gecesinde şiddetlenirken karşılıklı saldırılar bölgeye yayıldı. Ürdün'de iki askeri ölen ABD yeni dalga saldırı başlattı. ABD'nin anlaşma metnindeki şartları defalarca ihlal ettiğini belirten İran lideri Hamaney, Trump'ın imzasının geçersiz olduğunu söyledi. ABD ve İran arasında saldılar sekizinci gece de devam ederken, İran lideri Mücteba Hamaney yazılı bir mesaj paylaştı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-iran-catismasi-7-gununde-karsilikli-saldirilarda-son-durum-ne-1733525"
+        },
+        {
+          "title": "Kıbrıs’ta Rum tarafından provokatif gösteri",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) 20 Temmuz'da 1974 Kıbrıs Barış Harekatı’nın 52. yıl dönümünü kutlamaya hazırlanırken, Metehan Sınır Kapısı’nın Güney Kıbrıs Rum Yönetimi (GKRY) tarafında toplanan bir grup Kıbrıslı Rum, çirkin bir provokatif gösteri düzenleyerek, Türkiye ve Türkler aleyhine sloganlar attı.",
+          "source": "https://www.hurriyet.com.tr/dunya/kibrista-rum-tarafindan-provokatif-gosteri-43244352"
+        },
         {
           "title": "Çekya’dan İstanbul Sözleşmesi kararı",
           "summary": "Çekya hükümetinin, uluslararası kamuoyunda \"İstanbul Sözleşmesi\" olarak bilinen \"Kadına Yönelik Şiddet ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye İlişkin Avrupa Konseyi Sözleşmesi\"nden çekilme kararı aldığı bildirildi.",
           "source": "https://www.hurriyet.com.tr/dunya/cekyadan-istanbul-sozlesmesi-karari-43244254"
         },
         {
-          "title": "ABD-İran çatışması 7. gününde: Karşılıklı saldırılarda son durum ne?",
-          "summary": "ABD ile İran arasındaki çatışmalar yedinci gecesinde şiddetlenirken karşılıklı saldırılar bölgeye yayıldı. ABD saldırılarına karşılık Körfez ülkelerini hedef alan İran, son 10 günde 50 kişinin öldüğünü açıkladı. ABD-İran hattında üst üste yedinci gece de saldırı haberleri geldi. Amerikan Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın gözetleme alanları, askeri lojistik altyapısı ve yeraltı silah depolarını hedef aldığını duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/abd-iran-catismasi-7-gununde-karsilikli-saldirilarda-son-durum-ne-1733525"
-        },
-        {
           "title": "Norveç'te facia: 100'den fazla ev küle döndü",
           "summary": "Norveç'in Drammen şehrindeki bir evde başlayan yangının bölgeye yayılması sonucu 100'den fazla ev kül oldu. Alevler, ormanlık alana da sıçradı.",
           "source": "https://www.hurriyet.com.tr/dunya/norvecte-facia-100den-fazla-ev-kule-dondu-43244102"
-        },
-        {
-          "title": "Hareket halindeki trende facia! Bilet kontrolü sırasında kavga çıktı, görevli raylara düştü",
-          "summary": "Almanya'da bölgesel trende bilet kontrolü sırasında arbede çıktı. Güvenlik görevlisinin hareket halindeki trenden düşerek ağır yaralandığı bildirildi. Almanya'nın Baden-Württemberg eyaletinde, Offenburg-Karlsruhe seferini yapan bölgesel trende dün gece bilet kontrolü sırasında 36 yaşındaki bir yolcu ile Alman demir yolları adına görev yapan 26 yaşındaki güvenlik görevlisi arasında tartışma çıktı.",
-          "source": "https://www.ntv.com.tr/dunya/hareket-halindeki-trende-facia-bilet-kontrolu-sirasinda-kavga-cikti-gorevli-raylara-dustu-1733511"
-        },
-        {
-          "title": "Bakan Fidan, Katar'ı ziyaret edecek",
-          "summary": "Dışişleri Bakanı Hakan Fidan, yarın Katar'ı ziyaret edecek. Ziyarette ABD-İran gerilimi başta olmak üzere bölgesel ve ikili ilişkiler ele alınacak. Dışişleri Bakanı Hakan Fidan, Katar'a ziyarette bulunacak. Fidan’ın ziyaret kapsamındaki görüşmelerinde, Türkiye’nin ev sahipliğinde gerçekleştirilmesi planlanan 12. Yüksek Stratejik Komite Toplantısı’nın hazırlıkları gözden geçirillecek.",
-          "source": "https://www.ntv.com.tr/dunya/bakan-fidan-katari-ziyaret-edecek-1733513"
-        },
-        {
-          "title": "Hollanda'da alarm: Su kıtlığı ilan edildi",
-          "summary": "Hollanda'da hükümet, uzun süredir etkisini gösteren kuraklık, yüksek sıcaklıklar ve ülkedeki Ren ve Maas nehirlerinde su seviyelerinin düşmesi nedeniyle \"fiili su kıtlığı\" ilan etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/hollandada-alarm-su-kitligi-ilan-edildi-43244011"
-        },
-        {
-          "title": "ABD'yi duman kapladı, Trump Kanada'yı suçladı",
-          "summary": "850'den fazla noktada alevlerle mücadelenin sürdüğü Kanada'dan yükselen dumanlar ABD şehirlerini kapladı. ABD Başkanı Donald Trump \"kasıtlı bir ihmal\" diyerek Kanada hükümetini suçladı. Kanada bir yandan orman yangınlarıyla mücadele ediyor; bir yandan da yangınların yol açtığı hava kirliliği hayatı olumsuz etkiliyor. 850'den fazla noktada devam eden orman yangınları nedeniyle binlerce kişi için tahliye uyarısı yapıldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdyi-duman-kapladi-trump-kanadayi-sucladi-1733415"
         }
       ]
     },
     "ekonomi": {
-      "text": "Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü. Kumun üzerindeki ekonomi.",
+      "text": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü.",
       "items": [
+        {
+          "title": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek",
+          "summary": "Dışişleri Bakanı Hakan Fidan'ın bugün Ukrayna'ya ziyarette bulunacağı bildirildi. Ziyaretinde Karadeniz'in güvenliğini vurgulaması beklenen Fidan'ın Ukrayna Devlet Başkanı Volodimir Zelenski ve Ukraynalı yetkililerle bir araya geleceği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-bugun-ukraynayi-ziyaret-edecek-43240299"
+        },
         {
           "title": "Üreticiye can suyu",
           "summary": "DENİZLİ Büyükşehir Belediyesi’nin yerel üreticileri ekonomik olarak desteklemek ve hayvansal üretimin sürdürülebilirliğine katkı sağlamak amacıyla başlattığı yem desteği projesi bu yıl da başarıyla tamamlandı.",
@@ -115,51 +120,46 @@
           "title": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü",
           "summary": "Almanya'nın ihracatı, İran savaşının yarattığı olumsuz koşullara rağmen Mayıs ayında sürpriz bir şekilde dördüncü aydır artış gösterdi. Federal İstatistik Ofisi'nin (Destatis) öncü verilerine göre, takvim ve mevsim etkilerinden arındırılmış ihracat, bir önceki aya göre yüzde 0,9 artarak 137,9 milyar euroya ulaştı. Geçen yılın aynı ayına göre artış ise yüzde 6,1 oldu.",
           "source": "https://www.hurriyet.com.tr/avrupa/almanyanin-ihracati-iran-savasina-ragmen-4-ayda-buyudu-43235053"
-        },
-        {
-          "title": "Kumun üzerindeki ekonomi",
-          "summary": "SON yıllarda Alaçatı’daki beach kültürü ciddi bir dönüşüm geçirdi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/kumun-uzerindeki-ekonomi-43234771"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe ile anılan Rashford için Manchester United'ın planı ortaya çıktı. Erencan Yardımcı'nın yeni takımı belli oldu!. Aslı Kalaç: 'En büyük hedefim Şampiyonlar Ligi kupası kazanmak!'. Fenerbahçe'de Fred gelişmesi! Sözleşmesi feshedilebilir. Mason Greenwood Fenerbahçe'de ilk antrenmanına çıktı!. Fransa – İngiltere maçlarında karşılıklı goller atılıyor! Molde - Brann maçları bol gollü geçiyor…İşte Misli’den Günün Tüyoları!. Galatasaray MCT Technic Nikola Ivanovic'i transfer etti.",
+      "text": "İsmail Yüksek, dünyaevine girdi!. Samsunspor, Elliot Watt’ı 4 yıllığına kadrosuna kattı!. Beşiktaş, Leo Pereira'yı bitiriyor! Anlaşma sağlandı. Trabzonspor Kadın Futbol Takımı'ndan transfer!. Eyüpspor ile Bandırmaspor hazırlık maçında yenişemedi!. Dünya Kupası finalinde gözler Messi ve Yamal'ın üzerinde!. Serdal Adalı'dan Salah itirafı: 'Oyuncuyla anlaştık, menajer rakam değiştirdi!'.",
       "items": [
         {
-          "title": "Fenerbahçe ile anılan Rashford için Manchester United'ın planı ortaya çıktı",
-          "summary": "Fenerbahçe'nin gündemindeki Marcus Rashford için Manchester United'ın planı belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ile-anilan-rashford-icin-manchester-unitedin-plani-ortaya-cikti-43244228"
+          "title": "İsmail Yüksek, dünyaevine girdi!",
+          "summary": "Fenerbahçe'nin milli futbolcusu İsmail Yüksek, hayatını Esen Matraş ile birleştirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-yuksek-dunyaevine-girdi-43244380"
         },
         {
-          "title": "Erencan Yardımcı'nın yeni takımı belli oldu!",
-          "summary": "Kaiserslautern, Hoffenheim'dan Erencan Yardımcı'yı kiralık olarak kadrosuna kattığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/erencan-yardimcinin-yeni-takimi-belli-oldu-43244143"
+          "title": "Samsunspor, Elliot Watt’ı 4 yıllığına kadrosuna kattı!",
+          "summary": "Samsunspor, orta saha oyuncusu Elliot Watt’ı kadrosuna kattığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-elliot-watti-4-yilligina-kadrosuna-katti-43244350"
         },
         {
-          "title": "Aslı Kalaç: 'En büyük hedefim Şampiyonlar Ligi kupası kazanmak!'",
-          "summary": "Eczacıbaşı Dynavit'in yeni transferi Aslı Kalaç, turuncu-beyazlı formayı giyecek olmanın heyecanını yaşadığını söyledi. Deneyimli orta oyuncu, en büyük kariyer hedefinin Şampiyonlar Ligi şampiyonluğu olduğunu vurguladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/asli-kalac-en-buyuk-hedefim-sampiyonlar-ligi-kupasi-kazanmak-43244092"
+          "title": "Beşiktaş, Leo Pereira'yı bitiriyor! Anlaşma sağlandı",
+          "summary": "Beşiktaş, savunma hattını Brezilyalı stoper Leo Pereira ile güçlendirmeye hazırlanıyor. Siyah-beyazlılar, 30 yaşındaki futbolcuyla 3+1 yıllık anlaşmaya vardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-leo-pereirayi-bitiriyor-anlasma-saglandi-43244314"
         },
         {
-          "title": "Fenerbahçe'de Fred gelişmesi! Sözleşmesi feshedilebilir",
-          "summary": "Fenerbahçe'nin Brezilyalı orta saha oyuncusu Fred'e dair ülkesinin basınında önemli bir gelişmeye yer verildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-fred-gelismesi-sozlesmesi-feshedilebilir-43244044"
+          "title": "Trabzonspor Kadın Futbol Takımı'ndan transfer!",
+          "summary": "Trabzonspor Kadın Futbol Takımı, Benan Altıntaş'ı transfer etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-kadin-futbol-takimindan-transfer-43244333"
         },
         {
-          "title": "Mason Greenwood Fenerbahçe'de ilk antrenmanına çıktı!",
-          "summary": "Fenerbahçe, Gornik Zabrze ile oynayacağı UEFA Şampiyonlar Ligi 2. Ön Eleme turu ilk maçının hazırlıklarını sabah saatlerinde yaptığı antrenmanla sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-fenerbahcede-ilk-antrenmanina-cikti-43243997"
+          "title": "Eyüpspor ile Bandırmaspor hazırlık maçında yenişemedi!",
+          "summary": "Eyüpspor, yeni sezon hazırlıkları kapsamında karşılaştığı Trendyol 1. Lig temsilcisi Bandırmaspor ile 1-1 berabere kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/eyupspor-ile-bandirmaspor-hazirlik-macinda-yenisemedi-43244328"
         },
         {
-          "title": "Fransa – İngiltere maçlarında karşılıklı goller atılıyor! Molde - Brann maçları bol gollü geçiyor…İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/fransa-ingiltere-maclarinda-karsilikli-goller-atiliyor-molde-brann-maclari-bol-gollu-geciyor-iste-misliden-gunun-tuyolari-43243965"
+          "title": "Dünya Kupası finalinde gözler Messi ve Yamal'ın üzerinde!",
+          "summary": "2026 FIFA Dünya Kupası'nda İspanya ve Arjantin'in şampiyonluk hedefindeki en büyük kozları Lionel Messi ve Lamine Yamal olacak. Barcelona alt yapısından yetişen ve aralarında 20 yaş fark bulunan iki yıldız isim, İspanya ve Arjantin'in şampiyonluk hedefindeki en büyük kozu olarak sahaya çıkacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasi-finalinde-gozler-messi-ve-yamalin-uzerinde-43244310"
         },
         {
-          "title": "Galatasaray MCT Technic Nikola Ivanovic'i transfer etti",
-          "summary": "Yeni sezon kadro planlamasını sürdüren Galatasaray Erkek Basketbol Takımı, Karadağlı oyun kurucu Nikola Ivanovic'i kadrosuna kattığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-mct-technic-nikola-ivanovici-transfer-etti-43243951"
+          "title": "Serdal Adalı'dan Salah itirafı: 'Oyuncuyla anlaştık, menajer rakam değiştirdi!'",
+          "summary": "Beşiktaş Başkanı Serdal Adalı, prensip anlaşmasına vardıkları dünyaca ünlü süper yıldız Mohamed Salah transferine ilişkin açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-salah-itirafi-oyuncuyla-anlastik-menajer-rakam-degistirdi-43244279"
         }
       ]
     },
