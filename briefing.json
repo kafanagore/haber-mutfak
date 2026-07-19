@@ -1,287 +1,35 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-19T04:00:03.704Z",
+  "generatedAt": "2026-07-19T10:02:14.163Z",
   "categories": {
     "gundem": {
-      "text": "Firari Alper Çelik AHBAP soruşturmasında tutuklandı: Haluk söyledi ben oynadım. Esenyurt'ta bir otelde yangın çıktı. Kamyonun freni patladı, polis alarma geçti. Çalışmada ana boru patladı, 4 mahalle susuz kaldı. Piknik faciaya dönüştü: 2 çocuk nehirde kayboldu. 1'i polis, 11 kişinin yaralandığı kavgada 5 kişi tutuklandı. Bakan Kurum: 81 ilde 7 milyon kişi sosyal konutlarına kavuştu.",
-      "items": [
-        {
-          "title": "Firari Alper Çelik AHBAP soruşturmasında tutuklandı: Haluk söyledi ben oynadım",
-          "summary": "Noterde işlem yaptığı sırada yakalanan AHBAP soruşturmasının firari sanığı Alper Çelik, “Bana genellikle ‘Şu maçlara kupon yap’ diye yazıyordu, ben de dediği şekilde oynuyordum. Gerçekten de söylendiği miktarlar kadar para kaybettik” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/firari-alper-celik-ahbap-sorusturmasinda-tutuklandi-haluk-soyledi-ben-oynadim-43244418"
-        },
-        {
-          "title": "Esenyurt'ta bir otelde yangın çıktı",
-          "summary": "İstanbul'un Esenyurt ilçesinde bir otelde çıkan yangın itfaiye ekiplerince söndürüldü.",
-          "source": "https://www.hurriyet.com.tr/gundem/esenyurtta-bir-otelde-yangin-cikti-43244461"
-        },
-        {
-          "title": "Kamyonun freni patladı, polis alarma geçti",
-          "summary": "İnegöl'de freni patlayan kamyon polis ekiplerinin yolu boşaltıp güvenlik önlemi almasıyla 15 kilometre sonra durduruldu. Bursa'nın Karacabey ilçesinden karpuz yükleyerek Ankara'ya doğru yola çıkan Mehmet Bayakbayan yönetimindeki kamyonun, İnegöl ilçesi Ümitalan rampasından inerken freni patladı. Şoför Bayakbayan, aracı düz yola güvenle indirdikten sonra 112 Acil Çağrı Merkezi'ni arayıp yardım istedi.",
-          "source": "https://www.ntv.com.tr/turkiye/kamyonun-freni-patladi-polis-alarma-gecti-1733551"
-        },
-        {
-          "title": "Çalışmada ana boru patladı, 4 mahalle susuz kaldı",
-          "summary": "Avcılar'da İSKİ ekibinin çalışmasında kepçe ana su borusuna hasar verdi. 4 mahalleye en az 6 saat su verilemeyeceği açıklandı. İstanbul'un Avcılar ilçesi Cihangir Mahallesi'nde İSKİ ekibi bir arızayı gidermek için çalışma başlattı. Görevlinin kullandığı iş makinesi saat 23.30 sıralarında ana su borusunu deldi. Basınçlı su metrelerce fışkırırken, sokak su içinde kaldı. İş makinesi ile su borusunu kapatma çabalarının yetersiz kalması üzerine ana vana kapatıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/calismada-ana-boru-patladi-4-mahalle-susuz-kaldi-1733550"
-        },
-        {
-          "title": "Piknik faciaya dönüştü: 2 çocuk nehirde kayboldu",
-          "summary": "Aydın’ın İncirliova ilçesinde, piknik yapmak için gittikleri bölgede serinlemek amacıyla Büyük Menderes Nehri’ne giren 3 çocuktan 1’i kendi imkanlarıyla kıyıya çıkarken 2 arkadaşı kayboldu. Çocuklar için arama kurtarma çalışması başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/piknik-faciaya-donustu-2-cocuk-nehirde-kayboldu-43244400"
-        },
-        {
-          "title": "1'i polis, 11 kişinin yaralandığı kavgada 5 kişi tutuklandı",
-          "summary": "ESKİŞEHİR’de iki aile arasındaki çıkan, biri müdahaleye gelen polis memuru toplam 11 kişinin yaralandığı kavgaya ilişkin 2’si kadın, 18 şüpheli gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/1i-polis-11-kisinin-yaralandigi-kavgada-5-kisi-tutuklandi-43244399"
-        },
-        {
-          "title": "Bakan Kurum: 81 ilde 7 milyon kişi sosyal konutlarına kavuştu",
-          "summary": "Sosyal Konut Projesi kapsamında tamamlanan evlerin hak sahiplerine teslimi sürüyor. Bakan Kurum, 81 ilde yaklaşık 7 milyon kişiye evlerinin teslim edildiğini duyurdu... Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 81 ilde yaklaşık 7 milyon vatandaşın sosyal konutlarına kavuştuğunu bildirdi. Bakan Kurum'un sosyal medya hesabındaki videolu paylaşımda, Malatya İkizce'deki sosyal konuta yerleşen Mahmut Dönmez ve eşinin görüşleri yer aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-kurum-81-ilde-7-milyon-kisi-sosyal-konutlarina-kavustu-1733545"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "dunya": {
-      "text": "Venezuela'da ölü sayısı 5 bin 119'a çıktı. Rusya'yı şoke eden saldırı. Ukrayna lojistik depolarını vurdu. Avrupa'da sıcak kabusu. Nükleer reaktörler bile durdu. Hamaney: ABD anlaşmayı defalarca ihlal etti, Trump'ın imzası geçersiz. Kıbrıs’ta Rum tarafından provokatif gösteri. Çekya’dan İstanbul Sözleşmesi kararı. Norveç'te facia: 100'den fazla ev küle döndü.",
-      "items": [
-        {
-          "title": "Venezuela'da ölü sayısı 5 bin 119'a çıktı",
-          "summary": "Venezuela'yı 39 saniye arayla vuran iki büyük depremde yaşamını yitirenlerin sayısının 5 bin 119'a yükseldi. Yaralı sayısı ise 16 bin 740. 24 Haziran'da art arda meydana gelen 7.2 ve 7.5 büyüklüğündeki depremlerin vurduğu Venezuela'da, bilanço ağırlaşıyor. Venezuela Ulusal Meclis Başkanı Jorge Rodriguez, 50 kişinin daha cansız bedenine ulaşıldığını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/venezuelada-olu-sayisi-5-bin-119a-cikti-1733556"
-        },
-        {
-          "title": "Rusya'yı şoke eden saldırı. Ukrayna lojistik depolarını vurdu",
-          "summary": "Ukrayna, Rusya topraklarının derinliklerine düzenlediği uzun menzilli dron saldırılarına bir yenisini ekledi. Bu kez hedefte, Rusya'nın en büyük çevrimiçi perakende şirketinin lojistik merkezleri vardı. 4 yılı geride bırakan savaşta Ukrayna güçleri Rusya'yı şoke eden yeni bir insansız hava aracı saldırısına imza attı. Moskova ve Tambov bölgelerindeki iki dev depo, patlayıcı yüklü insansız hava araçlarıyla vuruldu. Saldırılarda en az 8 kişi hayatını kaybetti, yaklaşık 90 kişi yaralandı.",
-          "source": "https://www.ntv.com.tr/dunya/rusyayi-soke-eden-saldiri-ukrayna-lojistik-depolarini-vurdu-1733553"
-        },
-        {
-          "title": "Avrupa'da sıcak kabusu. Nükleer reaktörler bile durdu",
-          "summary": "Yeni sıcak hava dalgasının etkisine giren Avrupa kavruluyor. İtalya, İspanya ve Yunanistan orman yangınlarıyla boğuşurken Fransa’da 3 nükleer reaktörün faaliyeti sıcak hava nedeniyle durduruldu. Haziran ayı sonunda etkili olan rekor hava sıcakları sırasında 10 binden fazla ek ölümün kaydedildiği Avrupa yeni bir sıcak dalgasının etkisine girdi. Yüksek sıcaklıklar orman yangınlarını da tetikliyor. İspanya'da yılın en büyük orman yangınında 12 bin hektarlık alan kül oldu.",
-          "source": "https://www.ntv.com.tr/dunya/avrupada-sicak-kabusu-nukleer-reaktorler-bile-durdu-1733552"
-        },
-        {
-          "title": "Hamaney: ABD anlaşmayı defalarca ihlal etti, Trump'ın imzası geçersiz",
-          "summary": "ABD ile İran arasındaki çatışmalar sekizinci gecesinde şiddetlenirken karşılıklı saldırılar bölgeye yayıldı. Ürdün'de iki askeri ölen ABD yeni dalga saldırı başlattı. ABD'nin anlaşma metnindeki şartları defalarca ihlal ettiğini belirten İran lideri Hamaney, Trump'ın imzasının geçersiz olduğunu söyledi. ABD ve İran arasında saldılar sekizinci gece de devam ederken, İran lideri Mücteba Hamaney yazılı bir mesaj paylaştı.",
-          "source": "https://www.ntv.com.tr/dunya/abd-iran-catismasi-7-gununde-karsilikli-saldirilarda-son-durum-ne-1733525"
-        },
-        {
-          "title": "Kıbrıs’ta Rum tarafından provokatif gösteri",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) 20 Temmuz'da 1974 Kıbrıs Barış Harekatı’nın 52. yıl dönümünü kutlamaya hazırlanırken, Metehan Sınır Kapısı’nın Güney Kıbrıs Rum Yönetimi (GKRY) tarafında toplanan bir grup Kıbrıslı Rum, çirkin bir provokatif gösteri düzenleyerek, Türkiye ve Türkler aleyhine sloganlar attı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kibrista-rum-tarafindan-provokatif-gosteri-43244352"
-        },
-        {
-          "title": "Çekya’dan İstanbul Sözleşmesi kararı",
-          "summary": "Çekya hükümetinin, uluslararası kamuoyunda \"İstanbul Sözleşmesi\" olarak bilinen \"Kadına Yönelik Şiddet ve Aile İçi Şiddetin Önlenmesi ve Bunlarla Mücadeleye İlişkin Avrupa Konseyi Sözleşmesi\"nden çekilme kararı aldığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/cekyadan-istanbul-sozlesmesi-karari-43244254"
-        },
-        {
-          "title": "Norveç'te facia: 100'den fazla ev küle döndü",
-          "summary": "Norveç'in Drammen şehrindeki bir evde başlayan yangının bölgeye yayılması sonucu 100'den fazla ev kül oldu. Alevler, ormanlık alana da sıçradı.",
-          "source": "https://www.hurriyet.com.tr/dunya/norvecte-facia-100den-fazla-ev-kule-dondu-43244102"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "ekonomi": {
-      "text": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü.",
-      "items": [
-        {
-          "title": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek",
-          "summary": "Dışişleri Bakanı Hakan Fidan'ın bugün Ukrayna'ya ziyarette bulunacağı bildirildi. Ziyaretinde Karadeniz'in güvenliğini vurgulaması beklenen Fidan'ın Ukrayna Devlet Başkanı Volodimir Zelenski ve Ukraynalı yetkililerle bir araya geleceği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-bugun-ukraynayi-ziyaret-edecek-43240299"
-        },
-        {
-          "title": "Üreticiye can suyu",
-          "summary": "DENİZLİ Büyükşehir Belediyesi’nin yerel üreticileri ekonomik olarak desteklemek ve hayvansal üretimin sürdürülebilirliğine katkı sağlamak amacıyla başlattığı yem desteği projesi bu yıl da başarıyla tamamlandı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ureticiye-can-suyu-43240178"
-        },
-        {
-          "title": "Dünyanın kuru meyvesi de Ege’den",
-          "summary": "TÜRK kuru meyve sektörü de dünya pazarlarındaki güçlü konumunu 2026’nın ilk yarısında korudu.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/dunyanin-kuru-meyvesi-de-egeden-43240177"
-        },
-        {
-          "title": "Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi",
-          "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, uzun süredir bankanın hedefinin üzerinde seyreden enflasyonu \"haksız bir yük\" ve \"vergi\" olarak nitelendirerek, bunun ortadan kaldırılması için para politikası yaklaşımında bir rejim değişikliğine ihtiyaç olduğunu ifade etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/fed-baskani-warshtan-kritik-enflasyon-aciklamasi-rejim-degisikligi-mesaji-verdi-43239997"
-        },
-        {
-          "title": "Egeli hazır giyimciler ABD pazarına odaklandı",
-          "summary": "Amerika Birleşik Devletleri’ni hedef pazar olarak belirleyen Ege Hazır Giyim ve Konfeksiyon İhracatçıları Birliği, 14-15 Temmuz’da düzenlenecek Premiere Vision (PV) Manufacturing New York Fuarı’na 13 firmayla Türkiye Milli Katılım Organizasyonu düzenliyor.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egeli-hazir-giyimciler-abd-pazarina-odaklandi-43237643"
-        },
-        {
-          "title": "Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz",
-          "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Türkiye'nin uluslararası alandaki etkinliğinin her geçen gün arttığını belirterek, \"Son 23 çeyrektir istikrarlı şekilde büyüyen ekonomimiz ve artan istihdamımızla Türkiye Yüzyılı hedeflerine emin adımlarla ilerliyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-isikhan-son-23-ceyrektir-istikrarli-buyumemizi-surduruyoruz-43235952"
-        },
-        {
-          "title": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü",
-          "summary": "Almanya'nın ihracatı, İran savaşının yarattığı olumsuz koşullara rağmen Mayıs ayında sürpriz bir şekilde dördüncü aydır artış gösterdi. Federal İstatistik Ofisi'nin (Destatis) öncü verilerine göre, takvim ve mevsim etkilerinden arındırılmış ihracat, bir önceki aya göre yüzde 0,9 artarak 137,9 milyar euroya ulaştı. Geçen yılın aynı ayına göre artış ise yüzde 6,1 oldu.",
-          "source": "https://www.hurriyet.com.tr/avrupa/almanyanin-ihracati-iran-savasina-ragmen-4-ayda-buyudu-43235053"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "spor": {
-      "text": "İsmail Yüksek, dünyaevine girdi!. Samsunspor, Elliot Watt’ı 4 yıllığına kadrosuna kattı!. Beşiktaş, Leo Pereira'yı bitiriyor! Anlaşma sağlandı. Trabzonspor Kadın Futbol Takımı'ndan transfer!. Eyüpspor ile Bandırmaspor hazırlık maçında yenişemedi!. Dünya Kupası finalinde gözler Messi ve Yamal'ın üzerinde!. Serdal Adalı'dan Salah itirafı: 'Oyuncuyla anlaştık, menajer rakam değiştirdi!'.",
-      "items": [
-        {
-          "title": "İsmail Yüksek, dünyaevine girdi!",
-          "summary": "Fenerbahçe'nin milli futbolcusu İsmail Yüksek, hayatını Esen Matraş ile birleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ismail-yuksek-dunyaevine-girdi-43244380"
-        },
-        {
-          "title": "Samsunspor, Elliot Watt’ı 4 yıllığına kadrosuna kattı!",
-          "summary": "Samsunspor, orta saha oyuncusu Elliot Watt’ı kadrosuna kattığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-elliot-watti-4-yilligina-kadrosuna-katti-43244350"
-        },
-        {
-          "title": "Beşiktaş, Leo Pereira'yı bitiriyor! Anlaşma sağlandı",
-          "summary": "Beşiktaş, savunma hattını Brezilyalı stoper Leo Pereira ile güçlendirmeye hazırlanıyor. Siyah-beyazlılar, 30 yaşındaki futbolcuyla 3+1 yıllık anlaşmaya vardı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-leo-pereirayi-bitiriyor-anlasma-saglandi-43244314"
-        },
-        {
-          "title": "Trabzonspor Kadın Futbol Takımı'ndan transfer!",
-          "summary": "Trabzonspor Kadın Futbol Takımı, Benan Altıntaş'ı transfer etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-kadin-futbol-takimindan-transfer-43244333"
-        },
-        {
-          "title": "Eyüpspor ile Bandırmaspor hazırlık maçında yenişemedi!",
-          "summary": "Eyüpspor, yeni sezon hazırlıkları kapsamında karşılaştığı Trendyol 1. Lig temsilcisi Bandırmaspor ile 1-1 berabere kaldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/eyupspor-ile-bandirmaspor-hazirlik-macinda-yenisemedi-43244328"
-        },
-        {
-          "title": "Dünya Kupası finalinde gözler Messi ve Yamal'ın üzerinde!",
-          "summary": "2026 FIFA Dünya Kupası'nda İspanya ve Arjantin'in şampiyonluk hedefindeki en büyük kozları Lionel Messi ve Lamine Yamal olacak. Barcelona alt yapısından yetişen ve aralarında 20 yaş fark bulunan iki yıldız isim, İspanya ve Arjantin'in şampiyonluk hedefindeki en büyük kozu olarak sahaya çıkacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasi-finalinde-gozler-messi-ve-yamalin-uzerinde-43244310"
-        },
-        {
-          "title": "Serdal Adalı'dan Salah itirafı: 'Oyuncuyla anlaştık, menajer rakam değiştirdi!'",
-          "summary": "Beşiktaş Başkanı Serdal Adalı, prensip anlaşmasına vardıkları dünyaca ünlü süper yıldız Mohamed Salah transferine ilişkin açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-salah-itirafi-oyuncuyla-anlastik-menajer-rakam-degistirdi-43244279"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
-      "text": "Apple'dan iPhone'a zam kararı, işte sebebi. 40 yıldır yanlış yorumlanmış. Samanyolu'ndaki dev yapının sırrı çözüldü. Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı. Göktaşı çatıyı delip yatağa düştü!. Samsung’dan katlanabilir telefonlara \"kırışıklık\" hamlesi. OpenAI’dan YZ için mini klavye. Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı.",
-      "items": [
-        {
-          "title": "Apple'dan iPhone'a zam kararı, işte sebebi",
-          "summary": "Apple, Japonya'da Yen'in zayıf seyretmesi nedeniyle iPhone 17'nin fiyatını yüzde 10 artırdı. Apple, yerel para biriminin son kırk yılın en düşük seviyelerine yakın seyretmeye devam etmesi nedeniyle Japonya'da iPhone ve bazı diğer ürünlerinin fiyatlarını artırdı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-appledan-iphonea-zam-karari-iste-sebebi-1733481"
-        },
-        {
-          "title": "40 yıldır yanlış yorumlanmış. Samanyolu'ndaki dev yapının sırrı çözüldü",
-          "summary": "Astronomlar, yaklaşık 40 yıldır Samanyolu'nun merkezinden yükseldiği düşünülen dev yapının aslında galaksinin merkezinde olmadığını ortaya çıkardı. Yıllardır yanlış adlandırılan yapı için yeni ve karışıklıkla alay eden isim tartışmaları başladı. Bilim insanları, yaklaşık 40 yıldır gökbilimcileri meşgul eden Samanyolu'ndaki dev yapı hakkındaki gerçeği ortaya çıkardı.",
-          "source": "https://www.ntv.com.tr/teknoloji/40-yildir-yanlis-yorumlanmis-samanyolundaki-dev-yapinin-sirri-cozuldu-1733470"
-        },
-        {
-          "title": "Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı",
-          "summary": "Kablosuz bağlantının yeni nesli Wi-Fi 8, önceki standartlardan farklı bir hedefle geliyor. Yeni teknoloji, en yüksek teorik hızı artırmaktan çok bağlantı kopmalarını, gecikmeyi ve kapsama alanının sınırındaki performans kayıplarını azaltacak. İlk Wi-Fi 8 yönlendiricilerin 2026 sonunda satışa çıkması beklenirken standardın nihai halini alması 2028’i bulacak.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/wi-fi-8-geliyor-amac-kesintisiz-baglanti-43242587"
-        },
-        {
-          "title": "Göktaşı çatıyı delip yatağa düştü!",
-          "summary": "ABD’nin New Jersey eyaletinde bir evin çatısını delerek yatak odasına düşen göktaşı, bilim insanlarına Güneş Sistemi’nin ilk dönemlerinden kalan benzersiz örnekler sundu. Araştırmacılar, göktaşında antik tuzlu suyun bıraktığı izlerle birlikte amino asitler ve çeşitli organik bileşikler tespit etti. Bulguların, yaşamın kimyasal yapı taşlarının Dünya’ya nasıl taşındığının anlaşılmasına yardımcı olabileceği belirtiliyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/goktasi-catiyi-delip-yataga-dustu-43242574"
-        },
-        {
-          "title": "Samsung’dan katlanabilir telefonlara \"kırışıklık\" hamlesi",
-          "summary": "Samsung, yeni nesil katlanabilir Galaxy cihazlarında kullanacağı Flex Titanium ekran teknolojisini duyurdu. Titanyum alaşımlı iki bileşenden oluşan yeni yapı, ekranı daha dayanıklı hale getirirken katlanma izinin görünürlüğünü azaltmayı hedefliyor. Teknolojinin kullanılacağı ilk cihazlar, 22 Temmuz’daki Galaxy Unpacked etkinliğinde tanıtılacak.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/urunler/samsungdan-katlanabilir-telefonlara-kirisiklik-hamlesi-43242563"
-        },
-        {
-          "title": "OpenAI’dan YZ için mini klavye",
-          "summary": "OpenAI, yapay zekâ ajanlarını fiziksel tuşlarla yönetmeye yarayan Codex Micro’yu tanıttı. Work Louder iş birliğiyle geliştirilen 230 dolarlık cihaz; mekanik tuşları, joystick’i, dokunmatik sensörü ve Codex’in “düşünme seviyesini” ayarlayan döner kontrolüyle yapay zekâ destekli çalışma masalarına yeni bir aksesuar ekliyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/chatgpt/openaidan-yz-icin-mini-klavye-43242547"
-        },
-        {
-          "title": "Çin'de \"Dünya Yapay Zeka İşbirliği Örgütü\" kurulması için 29 ülke imza attı",
-          "summary": "Çin'in Şanghay kentinde 29 ülke, yapay zekanın faydalı, güvenli ve adil şekilde geliştirilmesi için küresel işbirliğini hedefleyen Dünya Yapay Zeka İşbirliği Örgütünün (WAICO) kurulmasına ilişkin anlaşmayı imzaladı. Xinhua ajansının haberine göre, çok sayıda ülke ile uluslararası kuruluşun temsilcileri, Şanghay'da düzenlenen imza töreninde bir araya geldi.",
-          "source": "https://www.ntv.com.tr/teknoloji/cinde-dunya-yapay-zeka-isbirligi-orgutu-kurulmasi-icin-29-ulke-imza-atti-1733252"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "saglik": {
-      "text": "51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti. 40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı. Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş. Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\". En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\". Sıcak hava dalgası Avrupa’yı sardı. Uzmanlardan çocuklar ve yaşlılar için uyarı. Güzelleşme isteği yarışa dönüştü. Testosteron ve protein tozu bağımlılığı hastalarında artış var.",
-      "items": [
-        {
-          "title": "51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti",
-          "summary": "Düzce'de doğuştan \"çarpık ayak\" rahatsızlığı bulunduğu için hayatı boyunca hiç ayakkabı giyemeyen 51 yaşındaki Melek Kandil, diz ağrısı şikayetiyle başvurduğu hastanede geçirdiği başarılı ameliyatın ardından sağlığına kavuşarak ilk kez ayakkabı giymenin mutluluğunu yaşadı. Çocukluk döneminde ayağındaki şekil bozukluğu nedeniyle akran zorbalığına maruz kalan ve geçmiş yıllarda geçirdiği operasyonlardan sonuç alamayan Melek Kandil, rahatsızlığını kabullenerek hayatına devam etti.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-51-yil-sonra-ilk-kez-ayakkabi-giydi-herkes-sakat-kalirsin-diyerek-geri-cevirmisti-1732546"
-        },
-        {
-          "title": "40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı",
-          "summary": "Kulağında adeta hareket eden bir şey olduğunu söyleyerek doktora giden 40 yaşındaki adamın kulağından kelebek çıktı. İstanbul'un Küçükçekmece ilçesinde yaşayan 40 yaşındaki adam, 19 Haziran günü kulağında adeta hareket eden bir şey olduğu şikayetiyle ilçede bulunan bir tıp merkezine başvurdu. Kulak Burun Boğaz Uzmanı Op. Dr. Ayanoğlu'nun yaptığı incelemelerde ise ekip adeta şok oldu. Tıbbi görüntülemede hastanın kulağında kelebek olduğu ve hareket ettiği görüldü. Kelebek hastanın kulağından çıkarıldı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-40-yasindaki-adamin-kulagindan-cikti-hareketliydi-dogaya-birakildi-1732520"
-        },
-        {
-          "title": "Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş",
-          "summary": "Antalya'da göbek fıtığı nedeniyle ağrı, karın şişliği ve nefes darlığı yaşayan 61 yaşındaki kadın, yapılan kontrollerin ardından acil ameliyata alındı. Antalya'da uzun süredir göbek fıtığı şikayeti bulunan 61 yaşındaki Nihal Uygun, ağrılarının artması, karın bölgesinde şişlik ve nefes darlığı şikayetleri üzerine tedavi altına alındı. Yapılan değerlendirme ve tomografi sonuçlarında fıtığın sıkıştığı belirlenince Uygun, Genel Cerrahi Uzmanı Op. Dr. Gökhan Ateş tarafından ameliyata alındı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-karni-sisiyordu-yemek-yemese-bile-kilo-aliyordu-bagirsak-delinmesine-kadar-gidebilirmis-1732505"
-        },
-        {
-          "title": "Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\"",
-          "summary": "Uzmanlar, yaz sıcaklarında tüketilen kahvenin sıvı kaybına yol açabileceğini belirtti; vücudun susuz kalmasını önlemek için yanında bir bardak su tüketilmesi gerektiğini söyledi. Yaz aylarında serinlemek için tercih edilen buzlu kahveler, su ihtiyacını karşılamadığı gibi aşırı tüketildiğinde vücutta sıvı kaybına da neden olabiliyor. Uzmanlar, konuyla ilgili uyarılarda bulunuyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-yaz-sicaklari-icin-kritik-uyari-kahvenin-yaninda-mutlaka-icin-1731404"
-        },
-        {
-          "title": "En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\"",
-          "summary": "Bu yıl bilim dünyasından pankreas kanseri tedavisine ilişkin umut verici birçok gelişme geldi. Yaşam süresini uzatan yeni bir ilacın geliştirilmesi ve yapay zeka sayesinde hastalığın yıllar öncesinden tespit edilebilmesi, bu gelişmelerin öne çıkanları arasında yer aldı. (Haber: Melike Şahin) Bu ay tıp dünyasında çığır açacak pankreas kanseri ilacının sonuçlarını, bilim insanlarının dakikalarca alkışladığı görüntülerle öğrendik.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-en-agresif-kanser-turunde-art-arda-umut-verici-gelismeler-bilim-insanlari-heyecanli-sonuclar-super-1730446"
-        },
-        {
-          "title": "Sıcak hava dalgası Avrupa’yı sardı. Uzmanlardan çocuklar ve yaşlılar için uyarı",
-          "summary": "Avrupa’nın büyük bölümünü etkisi altına alan şiddetli sıcak hava dalgası, aşırı sıcakların özellikle çocuklar ve yaşlılar için ciddi sağlık riski oluşturduğunu bir kez daha gündeme taşıdı. Kamu sağlığı uyarıları genellikle yaşlılara odaklansa da Fransa’da pazartesi günü iki çocuğun otomobilde hayatını kaybetmesi, küçük çocukların da sıcak hava dalgaları karşısında ne kadar savunmasız olduğunu acı biçimde hatırlattı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-sicak-hava-dalgasi-avrupayi-sardi-uzmanlardan-cocuklar-ve-yaslilar-icin-uyari-1729846"
-        },
-        {
-          "title": "Güzelleşme isteği yarışa dönüştü. Testosteron ve protein tozu bağımlılığı hastalarında artış var",
-          "summary": "Dünyada en çok estetik uygulamaların yapıldığı ülkelerden biri olan Türkiye'de güzelleşme isteği yarışa dönüştü. Öyle ki bu yarışta artık bağımlılık tedavisi gören hastalar var. (Haber: Melike Şahin) Türkiye dünyada en çok estetik uygulamaların yapıldığı ülkelerden biri olarak öne çıkıyor. Artık herkes daha güzel görünmek istiyor. Bu nedenle yalnızca estetik uygulamalar değil protein tozlarına, gıda takviyelerine ilgi artıyor hatta birçok kişi bunları bilinçsizce kullanıyor.",
-          "source": "https://www.ntv.com.tr/saglik/guzellesme-istegi-yarisa-donustu-testosteron-ve-protein-tozu-bagimliligi-hastalarinda-artis-var-1729776"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "magazin": {
-      "text": "'Ben bu hayatta en çok anne olmayı sevdim'. Nükhet Duru: Irgat geldim ırgat gideceğim. Ciddi ilişki değil sadece flörtmüş. Önce nikah, bir hafta sonra düğün... Ünlü model muradına erdi. Ünlü şarkıcı muradına erdi... Herkes aynı yorumu yaptı: Boşanan arkadaşının eski gelinliğini giymiş!. Karısı barışsınlar diye gözyaşı döküyor ama... O sabırla intikam saatini bekliyor: Babamızın cenazesine bile gelmesinler!. Tam gaz yeni aşk.",
-      "items": [
-        {
-          "title": "'Ben bu hayatta en çok anne olmayı sevdim'",
-          "summary": "Sanat ve magazin dünyasının ünlü isimleri, Anneler Günü’nü sosyal medyada paylaştıkları anlamlı mesajlar ve özel karelerle kutladı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/hayat/ben-bu-hayatta-en-cok-anne-olmayi-sevdim-43170393"
-        },
-        {
-          "title": "Nükhet Duru: Irgat geldim ırgat gideceğim",
-          "summary": "Müziği ve tarzıyla on yıllara damga vurmuş biri Nükhet Duru. Çocukluk bayramlarından girdik, annesiyle ayrı düşmesine, ilk büyük aşkına, güzellik anlayışına ve ticari başarısızlıklarına kadar uzandık. Magazin üslubunu gündemdeki Burcu Güneş ile, kariyerini oluşturma biçimini Ajda Pekkan ile kıyasladık: “İnsan kariyerine çok odaklanırsa onun esiri olabiliyor. Ben heyheylendim mi giderim!”",
-          "source": "https://www.hurriyet.com.tr/kelebek/hayat/irgat-geldim-irgat-gidecegim-43133298"
-        },
-        {
-          "title": "Ciddi ilişki değil sadece flörtmüş",
-          "summary": "DÜNYACA ünlü oyuncu Sydney Sweeney’nin (27), 44 yaşındaki yapımcı Scooter Braun ile “ciddi olmayan bir şekilde” görüştüğü öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/ciddi-iliski-degil-sadece-flortmus-42936666"
-        },
-        {
-          "title": "Önce nikah, bir hafta sonra düğün... Ünlü model muradına erdi",
-          "summary": "Bundan 11 yıl önceydi... Magazin dünyası beklenmedik bir haberle çalkalandı... Dönemin önde gelen rock yıldızlarından birinin gizli bir aşk çocuğu vardı... Üstelik de artık 15 yaşına gelmiş ve modellik yapmaya başlamıştı o çocuk. Kendisinin bile bilmediği bu gerçek yapılan DNA testiyle ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/magazin/bir-haftada-ikinci-dugun-unlu-model-muradina-erdi-42855931"
-        },
-        {
-          "title": "Ünlü şarkıcı muradına erdi... Herkes aynı yorumu yaptı: Boşanan arkadaşının eski gelinliğini giymiş!",
-          "summary": "Müzik dünyasından mutlu bir haber geldi geçtiğimiz hafta sonu... İlk nişanlısından büyük bir hayal kırıklığı içinde ayrılan genç şarkıcı, sonunda kalbinin sahibini buldu ve bir açık hava düğünüyle onunla hayatını birleştirdi.",
-          "source": "https://www.hurriyet.com.tr/magazin/unlu-sarkici-muradina-erdi-herkes-ayni-yorumu-yapti-bosanan-arkadasinin-eski-gelinligini-giymis-42818431"
-        },
-        {
-          "title": "Karısı barışsınlar diye gözyaşı döküyor ama... O sabırla intikam saatini bekliyor: Babamızın cenazesine bile gelmesinler!",
-          "summary": "İngiliz kraliyet ailesinin, bir zamanlar anne acısına bile birlikte göğüs geren kardeşleri Prens William ile Prens Harry arasındaki ipler iyice geriliyor... Hatta görünüşe göre çoktan kopma noktasına geldi bile.",
-          "source": "https://www.hurriyet.com.tr/magazin/karisi-barissinlar-diye-gozyasi-dokuyor-ama-o-intikam-saatini-bekliyor-babamizin-cenazesine-bile-gelmesin-42796031"
-        },
-        {
-          "title": "Tam gaz yeni aşk",
-          "summary": "Formula 1’in şampiyon pilotu Lewis Hamilton ile Hollywood yıldızı Sofia Vergara yeni bir aşka yelken açıyor.",
-          "source": "https://www.hurriyet.com.tr/kelebek/tam-gaz-yeni-ask-42660355"
-        }
-      ]
+      "text": "",
+      "items": []
     }
   }
 }
