@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-20T04:00:03.778Z",
+  "generatedAt": "2026-07-20T10:00:03.840Z",
   "categories": {
     "gundem": {
-      "text": "Dev çekirgeler hızla yayılıyor. Bursa'da da görüldü. Denizlerimiz can çekişiyor! En hızlı ısınan Karadeniz, Marmara ise nefessiz kaldı... Peki şimdi ne olacak?. Fatih’te 4 katlı binada çıkan yangında bir itfaiye eri yaralandı. Cumhurbaşkanı Erdoğan, İspanya Milli Takımı'nı tebrik etti. Kaldırımdaki yayaların arasına daldı. 4 yaralı. Dünya Kupası finali öncesi yasa dışı bahis operasyonu. Binlerce banka hesabına bloke konuldu. Kütahya’da koyun sürüsüne 3 araç çarptı: 3 yaralı, 6 koyun öldü.",
+      "text": "Söktüğü su saati binayı su altında bıraktı! Vanayı kapatmaya çalışırken asansörde mahsur kaldı. DEM Parti heyeti İmralı'ya gitti. Oğuzhan Uğur hakkında bilirkişi raporu hazırlandı. İşlemlerin \"2023'ten itibaren sıra dışı şekilde arttı\" iddiası. İstanbul yaz ortasında kış yaşayacak: Hava 7 derece soğuyacak, yağmur 4 gün sürecek. Ayasofya'nın yeniden ibadete açılışının 6. yılında özel koleksiyon eseri okurlarla buluşuyor. Samsun'da acı olay: İnşaatta iskele çöktü 1 işçi hayatını kaybetti. Önce Erzin'de sonra Antakya'da defnedildi! 'Kendi babaları olmadığını fark etmediler, helallik de istemişler'.",
       "items": [
         {
-          "title": "Dev çekirgeler hızla yayılıyor. Bursa'da da görüldü",
-          "summary": "Balkanlar üzerinden Marmara Bölgesi'ne yayılan dev çekirgeler, Bursa'nın farklı ilçelerinde de görüldü. Son günlerde İstanbul'un Arnavutköy, Sultanbeyli, Beykoz, Maltepe gibi yeşil alanlara komşu ilçelerinde görülen ve boyu 20 santimetreye kadar ulaşan dev çekirgeler Marmara'ya yayılıyor. Bursalılar, Balkanlar üzerinden Türkiye'ye geldiği belirtilen çekirgeleri evlerin balkonlarında, bahçelerine ve duvarlarında görüntüleyip sosyal medyada paylaştı.",
-          "source": "https://www.ntv.com.tr/turkiye/dev-cekirgeler-hizla-yayiliyor-bursada-da-goruldu-1733688"
+          "title": "Söktüğü su saati binayı su altında bıraktı! Vanayı kapatmaya çalışırken asansörde mahsur kaldı",
+          "summary": "Avcılar’da kentsel dönüşüm nedeniyle boşaltılan binada su saatini sökmeye çalışan vatandaş, ana vanayı kapatamayınca merdiven boşluğunu su bastı. Suyu kesmek için zemin kata inmek isteyen şahıs, sızan suların asansör sistemini bozması üzerine kabinde mahsur kalarak sırılsıklam oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/soktugu-su-saati-binayi-su-altinda-birakti-vanayi-kapatmaya-calisirken-asansorde-mahsur-kaldi-43245614"
         },
         {
-          "title": "Denizlerimiz can çekişiyor! En hızlı ısınan Karadeniz, Marmara ise nefessiz kaldı... Peki şimdi ne olacak?",
-          "summary": "Küresel ısınmanın pençesindeki üç denizimizde de sıcaklıklar rekor seviyelere ulaştı. Karadeniz en hızlı ısınan deniz konumuna gelirken, iki sistem arasında sıkışan Marmara’da oksijensiz ölü bölgeler ve ekolojik yıkım kapıda!",
-          "source": "https://www.hurriyet.com.tr/gundem/denizlerimiz-can-cekisiyor-en-hizli-isinan-karadeniz-marmara-ise-nefessiz-kaldi-peki-simdi-ne-olacak-43242000"
+          "title": "DEM Parti heyeti İmralı'ya gitti",
+          "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK'nın elebaşı Abdullah Öcalan ile görüşmek üzere İmralı Adası'na gitti. Terörsüz Türkiye sürecinde trafik hızlandı. DEM Parti'li Pervin Buldan, Mithat Sancar ve Avukat Özgür Faik Erol'dan oluşan heyet, Abdullah Öcalan ile görüşmek üzere İmralı Adasına doğru hareket etti. SÜREÇ YASASINDA KRİTİK HAFTA Çerçeve yasa için, Ankara'da kritik görüşmeler gerçekleştirilmişti.",
+          "source": "https://www.ntv.com.tr/turkiye/dem-parti-heyeti-imraliya-gitti-1733755"
         },
         {
-          "title": "Fatih’te 4 katlı binada çıkan yangında bir itfaiye eri yaralandı",
-          "summary": "Fatih’te 4 katlı binadan çıkan yangına müdahale eden bir itfaiye eri yaralandı. Yangın çıkan binada yaşayanlar tahliye edilirken, yangının tüp sebebiyle çıktığı iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/fatihte-4-katli-binada-cikan-yanginda-bir-itfaiye-eri-yaralandi-43245246"
+          "title": "Oğuzhan Uğur hakkında bilirkişi raporu hazırlandı. İşlemlerin \"2023'ten itibaren sıra dışı şekilde arttı\" iddiası",
+          "summary": "Ahbap Derneği'ne yönelik yürütülen soruşturma kapsamında gözaltına alınan Oğuzhan Uğur hakkında bilirkişi raporu hazırlandı. Raporda, işlemlerin özellikle 2023 yılından itibaren sıra dışı şekilde arttığı iddia edildi. \"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin yürütülen soruşturma sürüyor. Soruşturma kapsamında cuma günü gözaltına alınan Oğuzhan Uğur'un da aralarında bulunduğu 10 şüpheli adliyeye sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-oguzhan-ugur-hakkinda-bilirkisi-raporu-hazirlandi-islemlerin-2023ten-itibaren-sira-disi-sekilde-artti-iddiasi-1733751"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, İspanya Milli Takımı'nı tebrik etti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 2026 FIFA Dünya Kupası final maçında Arjantin'i 1-0 yenerek şampiyon olan İspanya Milli Takımı'nı tebrik etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ispanya-milli-takimini-tebrik-etti-43245222"
+          "title": "İstanbul yaz ortasında kış yaşayacak: Hava 7 derece soğuyacak, yağmur 4 gün sürecek",
+          "summary": "İstanbul'da hava sıcaklığı 7-8 derece birden düşecek. Balkanlar üzerinden gelen yağışlı hava dört gün boyunca İstanbul'u terk etmeyecek. İstanbul'da yaz ortasında mevsim değişecek. Balkanlar üzerinden gelen yağışlı hava, megakenti etkisi altına alan bunaltıcı sıcağı dağıtacak ve sağanak etkili olacak. İşte önümüzdeki günlerde İstanbul'da beklenen hava durumuna ilişkin son tahminler… SICAK HAVA ARA VERECEK İstanbul'da bugün parçalı ve az bulutlu bir hava etkili oluyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbul-yaz-ortasinda-kis-yasayacak-hava-7-derece-soguyacak-yagmur-4-gun-surecek-1733753"
         },
         {
-          "title": "Kaldırımdaki yayaların arasına daldı. 4 yaralı",
-          "summary": "Uşak'ta aydınlatma direğine çarpıp kaldırımdaki yayaların arasına dalan otomobil 4 kişiyi yaraladı. Uşak'ta 27 yaşındaki i.A. yönetimindeki otomobil, Hakkı Yağcı Caddesi'nde aydınlatma direğine çarptı. Daha sonra kaldırımda bekleyen Ş.C.E. (19), B.D. (33) ve M.D.D'ye (20) çarpan otomobil, caddedeki iki iş yerinin kaldırıma koyduğu malzemelere çarparak durabildi. Olay yerine sağlık ve polis ekipleri sevk edildi. Kazada yaralanan otomobildeki Z.A. (18) ile Ş.C.E, B.D. ve M.D.D.",
-          "source": "https://www.ntv.com.tr/turkiye/kaldirimdaki-yayalarin-arasina-daldi-4-yarali-1733680"
+          "title": "Ayasofya'nın yeniden ibadete açılışının 6. yılında özel koleksiyon eseri okurlarla buluşuyor",
+          "summary": "Demirören Yayınları’nın yeni koleksiyon eseri \"Fethin Mührü: Ayasofya-i Kebîr Câmi-i Şerîfi\" üç dilde hazırlandı ve caminin ibadete açılışının 6. yıl dönümü olan 24 Temmuz Cuma günü yayımlanıyor. Kitap, Ayasofya'nın Bizans'tan günümüze uzanan tarihi ve mimari yolculuğunu zengin arşiv belgeleriyle ele alıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/ayasofyanin-yeniden-ibadete-acilisinin-6-yilinda-ozel-koleksiyon-eseri-okurlarla-bulusuyor-43245640"
         },
         {
-          "title": "Dünya Kupası finali öncesi yasa dışı bahis operasyonu. Binlerce banka hesabına bloke konuldu",
-          "summary": "Dünya Kupası final maçı öncesi yasadışı bahis soruşturmasında 6 bin 314 banka hesabı bloke edildi. Hakkında yakalama kararı çıkarılan 23 şüpheliden 16'sı gözaltına alındı. Adalet Bakanı Akın Gürlek, İstanbul Cumhuriyet Başsavcılığı -Yasa Dışı Bahis ve Spor Suçları Soruşturma Bürosu tarafından Dünya Kupası final maçı öncesinde kapsamlı bir çalışma yürütüldüğünü açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/dunya-kupasi-finali-oncesi-yasa-disi-bahis-operasyonu-binlerce-banka-hesabi-bloke-edildi-1733672"
+          "title": "Samsun'da acı olay: İnşaatta iskele çöktü 1 işçi hayatını kaybetti",
+          "summary": "Samsun'un Bafra ilçesindeki inşaatta iskelenin çökmesi sonucu düşen işçi Cemil Şahinbaş (47), hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/samsunda-aci-olay-insaatta-iskele-coktu-1-isci-hayatini-kaybetti-43245635"
         },
         {
-          "title": "Kütahya’da koyun sürüsüne 3 araç çarptı: 3 yaralı, 6 koyun öldü",
-          "summary": "Kütahya’nın Emet ilçesinde koyun sürüsüne çarpan otomobile, arkasından gelen 2 araç çarptı. Kazada araçlardaki 3 kişi yaralanırken, 6 koyun öldü.",
-          "source": "https://www.hurriyet.com.tr/gundem/kutahyada-koyun-surusune-3-arac-carpti-3-yarali-6-koyun-oldu-43245210"
+          "title": "Önce Erzin'de sonra Antakya'da defnedildi! 'Kendi babaları olmadığını fark etmediler, helallik de istemişler'",
+          "summary": "Hatay'da Mustafa Kemal Üniversitesi Eğitim Araştırma Hastanesi morgunda yaşanan cenaze karışıklığı sonrası 81 yaşındaki Yusuf Kırlangıç'ın cenazesi, diğer aile tarafından yıkanıp, namazı kılınıp Erzin'de defnedildi. Cenaze karışıklığı ile ilgili soruşturma yürüten savcılık kararıyla Yusuf Kırlangıç'ın cenazesi Erzin'den alınıp Antakya'ya getirilerek aileye teslim edildi ve yeniden defnedildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/once-erzinde-sonra-antakyada-defnedildi-kendi-babalari-olmadigini-fark-etmediler-helallik-de-istemisler-43245600"
         }
       ]
     },
     "dunya": {
-      "text": "İsrailli işgalciler Filistin köyüne saldırdı. Rusya Türk şirketinin gemisini vurdu, 5 denizci öldü. Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 5 bin 208'e yükseldi. ABD-İran savaşı. 9'uncu gecede saldırılar genişledi. Kuzey Irak'ta bir ABD askeri öldü. Lübnan Cumhurbaşkanı Aoun, ABD Dışişleri Bakanı Rubio ile bir araya geldi. Dışişleri Bakanı Hakan Fidan'dan İran-ABD savaşı değerlendirmesi: Türkiye ile Katar yakın koordinasyon içerisinde.",
+      "text": "Suriye'de savaş suçlusu İbrahim yakalandı. Sıcak hava Avrupa'yı vurdu: Tuna Nehri alarm verdi. Fransa'da yangın sezonu erken başladı: 40 bin hektarlık alan kül oldu. Ukrayna'dan Moskova bölgesine saldırı: Lojistik tesisler vuruldu. Trump-Sanchez gerilimine futbol arası: Dünya Kupası finalinde dikkat çeken anlar. 200 yıllık geleneği bir kadın değiştirdi, tarihe geçti. 40 yıl kaçmıştı, bir devrin sonu geldi. El Chapo'nun ortağı için karar günü.",
       "items": [
         {
-          "title": "İsrailli işgalciler Filistin köyüne saldırdı",
-          "summary": "İsrailli yasadışı yerleşimciler Batı Şeria'daki bir Filistin köyünde bir cami ile 2 evi kundakladı. Filistin resmi haber ajansı WAFA, El Halil'e bağlı Tevane köyünün yasadışı İsrailli işgalci yerleşimcilerin saldırısına uğradığını duyurdu. Köye baskın düzenleyen İsrailli saldırganlar yanıcı maddeler atarak 2 ev ile Tevane Camisi'ni ateşe verdi. Yangında cami ile evlerde büyük hasar oluştu. Köy yöneticileri saldırının İsrail askerlerinin koruması altında gerçekleştirildiğini aktardı.",
-          "source": "https://www.ntv.com.tr/dunya/israilli-isgalciler-filistin-koyune-saldirdi-1733686"
+          "title": "Suriye'de savaş suçlusu İbrahim yakalandı",
+          "summary": "Suriye'de Esad rejimi döneminde sivillere yönelik savaş suçlarına karışan Kerem Hafız İbrahim'in gözaltına alındığını bildirdi. Suriye İçişleri Bakanlığı, İbrahim'in güvenlik güçlerini hedef alan saldırılarda bulunduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-savas-suclusu-ibrahim-yakalandi-43245613"
         },
         {
-          "title": "Rusya Türk şirketinin gemisini vurdu, 5 denizci öldü",
-          "summary": "Ukrayna, Rusya'nın bir Türk şirketine ait kuru yük gemisini füzelerle hedef aldığını duyurdu. Saldırıda 5 kişinin öldüğü belirtiliyor. Rusya, Ukrayna'nın Odessa Limanı açıklarında seyreden bir yük gemisine 3 seyir füzesiyle saldırı düzenledi. Ukrayna Başbakanı Sergiy Koretsky, Gine-Bissau bayraklı \"Golden Leo\" adlı geminin mısır yükünü aldıktan sonra limandan ayrıldığını aktardı.",
-          "source": "https://www.ntv.com.tr/dunya/rusya-turk-sirketinin-gemisini-vurdu-5-denizci-oldu-1733684"
+          "title": "Sıcak hava Avrupa'yı vurdu: Tuna Nehri alarm verdi",
+          "summary": "Romanya'da Tuna Nehri'nin su seviyesi 1996'dan bu yana en düşük seviyeye gerilerken, kuraklık nedeniyle çiftçilere sulama kısıtlamaları getirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/sicak-hava-avrupayi-vurdu-tuna-nehri-alarm-verdi-43245579"
         },
         {
-          "title": "Venezuela'daki depremlerde hayatını kaybedenlerin sayısı 5 bin 208'e yükseldi",
-          "summary": "Venezuela'da, 24 Haziran'da meydana gelen iki büyük depremde hayatını kaybedenlerin sayısının 5 bin 208'e çıktığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/venezueladaki-depremlerde-hayatini-kaybedenlerin-sayisi-5-bin-208e-yukseldi-43245247"
+          "title": "Fransa'da yangın sezonu erken başladı: 40 bin hektarlık alan kül oldu",
+          "summary": "Fransız hükümeti, yangın sezonu geçen yıla kıyasla çok daha erken başladı. Ülkede yıl başından bu yana orman yangınlarından 40 bin hektara yakın alan etkilendi.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-yangin-sezonu-erken-basladi-40-bin-hektarlik-alan-kul-oldu-43245568"
         },
         {
-          "title": "ABD-İran savaşı. 9'uncu gecede saldırılar genişledi",
-          "summary": "ABD ile İran arasındaki ateşkesin fiilen bitmesinin ardından tekrar başlayan çatışmalar 9'uncu gününe girdi. Ürdün'de 2, Irak'ta 1 askerini kaybeden ABD Hürmüz Boğazı çevresinin yanı sıra İran'ın iç kesimlerini de vurdu. İran'da Körfez ülkelerini hedef alarak yanıt verdi. ABD ile İran arasındaki çatışmalar; saldırıların köprüler, enerji tesisleri ve deniz ulaşımını kapsayacak şekilde genişlemesiyle tekrar alevlendi.",
-          "source": "https://www.ntv.com.tr/dunya/abd-iran-savasi-9uncu-gecede-saldirilar-genisledi-1733683"
+          "title": "Ukrayna'dan Moskova bölgesine saldırı: Lojistik tesisler vuruldu",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'nın Moskova bölgesine hedef aldıklarını bildirdi. Zelenski, saldırıda bazı lojistik tesisler ile bir petrol deposunun vurulduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/ukraynadan-moskova-bolgesine-saldiri-lojistik-tesisler-vuruldu-43245552"
         },
         {
-          "title": "Kuzey Irak'ta bir ABD askeri öldü",
-          "summary": "ABD ordusu, Kuzey Irak'ta İran İHA'sına ait patlamamış mühimmatın imhası sırasında bir Amerikan askerinin öldüğünü duyurdu. ABD, Ürdün'de 2 askerin hayatını kaybettiği saldırıda ceset kalıntılarının bulunduğunu, Irak'ta ise İran'ın insansız hava aracına (İHA) ait patlamamış mühimmatın kontrollü imhası sırasında 1 askerin hayatını kaybettiğini duyurdu. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), ABD merkezli X şirketinin sosyal medya platformundaki hesabından açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/kuzey-irakta-bir-abd-askeri-oldu-1733673"
+          "title": "Trump-Sanchez gerilimine futbol arası: Dünya Kupası finalinde dikkat çeken anlar",
+          "summary": "ABD Başkanı Donald Trump ile İspanya Başbakanı Pedro Sánchez arasındaki siyasi gerilim, Dünya Kupası finalindeki kısa bir buluşmayla yerini diplomatik görüntülere bıraktı. İki liderin VIP locasındaki tokalaşma görüntüsü dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-sanchez-gerilimine-futbol-arasi-dunya-kupasi-finalinde-dikkat-ceken-anlar-43245515"
         },
         {
-          "title": "Lübnan Cumhurbaşkanı Aoun, ABD Dışişleri Bakanı Rubio ile bir araya geldi",
-          "summary": "Lübnan Cumhurbaşkanı Joseph Aoun, ABD'nin başkenti Washington DC'de ABD Dışişleri Bakanı Marco Rubio ile bir araya geldi. Görüşmede İsrail, Lübnan ve ABD arasında imzalanan üçlü çerçeve anlaşmaya yönelik başlıklar ele alındı.",
-          "source": "https://www.hurriyet.com.tr/dunya/lubnan-cumhurbaskani-aoun-abd-disisleri-bakani-rubio-ile-bir-araya-geldi-43245087"
+          "title": "200 yıllık geleneği bir kadın değiştirdi, tarihe geçti",
+          "summary": "İngiltere'deki Cambridge Üniversitesi'nin yaklaşık 200 yıllık geleneklerinden biri olan \"May Bumps\" kürek yarışında bu yıl tarihe geçen bir gelişme yaşandı. EZBER BOZAN BİR KADIN İngiltere'nin en köklü üniversitelerinden Cambridge Üniversitesi'nde yaklaşık iki asırdır düzenlenen \"May Bumps\" kürek yarışları bu yıl bir ilke sahne oldu. ABD'li dünya şampiyonu kürekçi Camille VanderMeer, erkekler açık kategorisinde yarışan Peterhouse Koleji ekibinde yer alarak takımını şampiyonluğa taşıdı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-200-yillik-gelenegi-bir-kadin-degistirdi-tarihe-gecti-1733735"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan'dan İran-ABD savaşı değerlendirmesi: Türkiye ile Katar yakın koordinasyon içerisinde",
-          "summary": "Dışişleri Bakanı Hakan Fidan, ABD ve İran arasındaki anlaşmaya geri dönülmesi gerektiğini belirterek, \"Katar yine bu krizin çözümü için bütün yapıcı teknikleri, bütün kanalları kullanarak elinden geleni yapmaya çalışıyor. İnşallah bugünlerde iyi bir haber alırız. Türkiye de bu konuda Katar'la yakın koordinasyon içerisinde.\" açıklamasını yaptı.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-iran-abd-savasi-degerlendirmesi-turkiye-ile-katar-yakin-koordinasyon-icerisinde-43245019"
+          "title": "40 yıl kaçmıştı, bir devrin sonu geldi. El Chapo'nun ortağı için karar günü",
+          "summary": "Meksika'nın en büyük suç örgütlerinden Sinaloa Karteli'nin kurucu liderlerinden Ismael \"El Mayo\" Zambada için ABD'de karar günü geldi. Suçlamaları kabul eden 76 yaşındaki Zambada, ömür boyu hapis cezasıyla karşı karşıya. Meksika'nın en güçlü uyuşturucu baronlarından biri olarak gösterilen Sinaloa Karteli'nin kurucu liderlerinden Ismael \"El Mayo\" Zambada'nın cezasının bugün açıklanması bekleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/40-yil-kacmisti-bir-devrin-sonu-geldi-el-chaponun-ortagi-icin-karar-gunu-1733726"
         }
       ]
     },
@@ -124,48 +124,63 @@
       ]
     },
     "spor": {
-      "text": "Lionel Scaloni: 'İspanya daha iyiydi!'. Luis de la Fuente: ''Bu nesil, İspanya'nın gururu!'. Dünya Kupası finalinin ardından ortalık karıştı! Paredes boğazını sıktı, Gavi çılgına döndü. Christ Inao Oulai, rekor bonservisle Fiorentina'da!. Fenerbahçe, Gornik Zabrze maçı hazırlıklarını sürdürdü!. Fenerbahçe'den 5 futbolcu için sakatlık açıklaması!. Çaykur Rizespor, Galatasaray'dan Ahmed Kutucu'yu kiraladı!.",
+      "text": "Galatasaray'da iki isme Süper Lig kancası!. Fenerbahçe, sezonu yarın Gornik Zabrze maçıyla açacak. Fenerbahçe, Avrupa'da 301. maçına çıkacak. Filenin Efeleri'nin çeyrek finaldeki rakibi belli oldu. İsveç ve Finlandiya liginde gollü karşılaşmalar bekleniyor! İşte Misli’den Günün Tüyoları. Bursa’da 10 koşuluk program! İşte Misli’den günün altılı analizi…. Avrupa Ligi'nde 3. ön eleme turu kuraları çekiliyor! İşte Beşiktaş'ın muhtemel rakipleri.",
       "items": [
         {
-          "title": "Lionel Scaloni: 'İspanya daha iyiydi!'",
-          "summary": "Arjantin Teknik Direktörü Lionel Scaloni, İspanya'ya kaybettikleri Dünya Kupası finalinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lionel-scaloni-ispanya-daha-iyiydi-43245233"
+          "title": "Galatasaray'da iki isme Süper Lig kancası!",
+          "summary": "Galatasaraylı futbolculara Süper Lig kulüplerinin ilgisi sürüyor. Sarı - kırmızılılar, gelen teklifleri değerlendirerek bu sezon kadroda düşünülmeyen oyuncularla ilgili kararı netleştirecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-iki-isme-super-lig-kancasi-43245546"
         },
         {
-          "title": "Luis de la Fuente: ''Bu nesil, İspanya'nın gururu!'",
-          "summary": "İspanya Teknik Direktörü Luis de la Fuente, dünya şampiyonu oldukları finalin ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/luis-de-la-fuente-bu-nesil-ispanyanin-gururu-43245221"
+          "title": "Fenerbahçe, sezonu yarın Gornik Zabrze maçıyla açacak",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 2. eleme turu ilk maçında yarın sahasında Polonya temsilcisi Gornik Zabrze ile karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-sezonu-yarin-gornik-zabrze-maciyla-acacak-43245558"
         },
         {
-          "title": "Dünya Kupası finalinin ardından ortalık karıştı! Paredes boğazını sıktı, Gavi çılgına döndü",
-          "summary": "İspanya'nın Arjantin'i 1-0 mağlup ederek şampiyonluğa ulaştığı Dünya Kupası finalinin bitiş düdüğünün ardından ortalık karıştı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dunya-kupasi-finalinin-ardindan-ortalik-karisti-paredes-bogazini-sikti-gavi-cilgina-dondu-43245209"
+          "title": "Fenerbahçe, Avrupa'da 301. maçına çıkacak",
+          "summary": "UEFA Şampiyonlar Ligi 2. eleme turu ilk maçında yarın Polonya'nın Gornik Zabrze ekibini konuk edecek Fenerbahçe, Avrupa kupalarında daha önce oynadığı 300 maçta 118 galibiyet, 65 beraberlik, 117 yenilgi yaşadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-avrupada-301-macina-cikacak-43245551"
         },
         {
-          "title": "Christ Inao Oulai, rekor bonservisle Fiorentina'da!",
-          "summary": "Trabzonspor, Fildişili oyuncu Christ Inao Oulai’nin İtalyan ekibi Fiorentina'ya transfer olduğunu açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/christ-inao-oulai-rekor-bonservisle-fiorentinada-43245131"
+          "title": "Filenin Efeleri'nin çeyrek finaldeki rakibi belli oldu",
+          "summary": "A Milli Erkek Voleybol Takımı'nın, ilk kez yükseldiği 2026 FIVB Milletler Ligi (VNL) çeyrek finalinde rakibi Slovenya oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-efelerinin-ceyrek-finaldeki-rakibi-belli-oldu-43245540"
         },
         {
-          "title": "Fenerbahçe, Gornik Zabrze maçı hazırlıklarını sürdürdü!",
-          "summary": "Fenerbahçe, Gornik Zabrze ile oynayacağı UEFA Şampiyonlar Ligi 2. ön eleme turu ilk maçının hazırlıklarını akşam saatlerinde yaptığı antrenmanla sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-gornik-zabrze-maci-hazirliklarini-surdurdu-43245082"
+          "title": "İsveç ve Finlandiya liginde gollü karşılaşmalar bekleniyor! İşte Misli’den Günün Tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/isvec-ve-finlandiya-liginde-gollu-karsilasmalar-bekleniyor-iste-misliden-gunun-tuyolari-43245535"
         },
         {
-          "title": "Fenerbahçe'den 5 futbolcu için sakatlık açıklaması!",
-          "summary": "Fenerbahçe, sakatlıkları bulunan Vedat Muriqi, Dorgeles Nene, Diego Carlos, Yiğit Efe Demir ve Dominik Livakovic'in sağlık durumları hakkında açıklama yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-5-futbolcu-icin-sakatlik-aciklamasi-43245065"
+          "title": "Bursa’da 10 koşuluk program! İşte Misli’den günün altılı analizi…",
+          "summary": "Bursa Osmangazi Hipodromu, bugün 10 koşudan oluşan dopdolu bir yarış programına ev sahipliği yapıyor. Günün programında maiden mücadelelerden kısa vadeli ve handikap koşulara kadar birbirinden zorlu karşılaşmalar yarışseverleri beklerken, altılı ganyan kurgularında sürpriz sonuçlar belirleyici olabilir.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursada-10-kosuluk-program-iste-misliden-gunun-altili-analizi-43245530"
         },
         {
-          "title": "Çaykur Rizespor, Galatasaray'dan Ahmed Kutucu'yu kiraladı!",
-          "summary": "Çaykur Rizespor, Galatasaray’dan Ahmed Kutucu'yu sezon sonuna kadar kiraladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/caykur-rizespor-galatasaraydan-ahmed-kutucuyu-kiraladi-43245042"
+          "title": "Avrupa Ligi'nde 3. ön eleme turu kuraları çekiliyor! İşte Beşiktaş'ın muhtemel rakipleri",
+          "summary": "UEFA Avrupa Ligi'ne 2. ön eleme turundan dahil olan Beşiktaş'ın, Midtjylland'ı elemesi halinde karşılaşacağı rakibi bugün çekilecek kura ile belli olacak. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/avrupa-liginde-3-on-eleme-turu-kuralari-cekiliyor-iste-besiktasin-muhtemel-rakipleri-43245456"
         }
       ]
     },
     "teknoloji": {
-      "text": "Instagram ve Facebook çöktü mü, neden açılmıyor? 19 Temmuz sosyal medya erişim sorunu. Alışkanlıkları kökten değiştirecek. Çin'deki teknoloji fuarında yapay zekalı akıllı telefonlar tanıtıldı. \"Uzay tabanlı yapay zeka\". Çin 1000 uyduluk uzay bilişim ağı projesinin ilk aşamasını başlattı. Robotlar ringe çıktı. Apple'dan iPhone'a zam kararı, işte sebebi. 40 yıldır yanlış yorumlanmış. Samanyolu'ndaki dev yapının sırrı çözüldü. Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı.",
+      "text": "İşler bir türlü düzelmedi, rakibi harekete geçti. 53 milyar dolarlık teklif masada. Yapay zeka borçla çalışıyor. Şirketini sattı, dudak uçuklatan fiyatı Netflix duyurdu. Instagram ve Facebook çöktü mü, neden açılmıyor? 19 Temmuz sosyal medya erişim sorunu. Alışkanlıkları kökten değiştirecek. Çin'deki teknoloji fuarında yapay zekalı akıllı telefonlar tanıtıldı. \"Uzay tabanlı yapay zeka\". Çin 1000 uyduluk uzay bilişim ağı projesinin ilk aşamasını başlattı. Robotlar ringe çıktı.",
       "items": [
+        {
+          "title": "İşler bir türlü düzelmedi, rakibi harekete geçti. 53 milyar dolarlık teklif masada",
+          "summary": "Dijital ödeme sektörünün öncüsü PayPal, rakibi Stripe ve özel sermaye şirketi Advent International’dan gelen yaklaşık 53 milyar dolarlık ortak satın alma teklifini değerlendiriyor. Dijital ödemelerin öncüsü olan ancak son yıllarda Apple Pay, Google Pay ve Cash App gibi rakipleri karşısında pazar payı kaybederek gerileyen PayPal, tarihinin en kritik dönemeçlerinden birini yaşıyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-isler-bir-turlu-duzelmedi-rakibi-harekete-gecti-53-milyar-dolarlik-teklif-masada-1733737"
+        },
+        {
+          "title": "Yapay zeka borçla çalışıyor",
+          "summary": "Yapay zeka altyapısına yüz milyarlarca dolar ayıran teknoloji devlerinin tahvil piyasasındaki borçlanma hamleleri, yatırımcı talebinin düşmesiyle yeni bir finansal sınavla karşı karşıya. Yapay zeka sektöründe yaşanan hızlı büyüme, hisse senedi piyasalarındaki dalgalanmaların ardından yeni bir finansal tartışmayı beraberinde getiriyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-borcla-calisiyor-1733733"
+        },
+        {
+          "title": "Şirketini sattı, dudak uçuklatan fiyatı Netflix duyurdu",
+          "summary": "Netflix, aktör Ben Affleck'in kurucusu olduğu yapay zekâ şirketi InterPositive için 587 milyon dolar ödediğini ABD Menkul Kıymetler ve Borsa Komisyonuna sunduğu dosyada doğruladı. Netflix, geçtiğimiz mart ayında gündeme gelen tahminleri doğrulayarak aktör Ben Affleck'in yapay zekâ şirketi InterPositive'i satın almak için 587 milyon dolar ödediğini açıkladı. Sürpriz satın alma anlaşması ilk duyurulduğunda, Bloomberg yayın kuruluşu yayın devinin bu işlem için yaklaşık 600 milyon dolar ödeyeceğini bildirmişti.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-sirketini-satti-dudak-ucuklatan-fiyati-netflix-duyurdu-1733702"
+        },
         {
           "title": "Instagram ve Facebook çöktü mü, neden açılmıyor? 19 Temmuz sosyal medya erişim sorunu",
           "summary": "Sosyal medya platformu Instagram ve Facebook'a erişim sorunları yaşanıyor. Kullanıcılar giriş yapılamaması, ana sayfa yüklenmemesi ve gönderilerin açılmaması gibi sorunlarla karşılaştığını bildirdi. Peki, Instagram ve Facebook çöktü mü, neden açılmıyor? İşte 19 Temmuz sosyal medya erişim sorunu. Dünyanın en popüler sosyal medya platformları arasında yer alan Instagram ve Facebook'ta çökme sorunları yaşandığı bildirilmeye başladı.",
@@ -185,27 +200,17 @@
           "title": "Robotlar ringe çıktı",
           "summary": "ÇİN’de insansı robotlar ilk kez ringe çıktı. Shenzhen kentinde düzenlenen ve organizatörlerin “dünyanın ilk insansı robot dövüş turnuvası” olarak tanımladığı etkinlikte, 32 takımın robotları yumruk ve tekme atarak kozlarını paylaştı.",
           "source": "https://www.hurriyet.com.tr/dunya/robotlar-ringe-cikti-43244439"
-        },
-        {
-          "title": "Apple'dan iPhone'a zam kararı, işte sebebi",
-          "summary": "Apple, Japonya'da Yen'in zayıf seyretmesi nedeniyle iPhone 17'nin fiyatını yüzde 10 artırdı. Apple, yerel para biriminin son kırk yılın en düşük seviyelerine yakın seyretmeye devam etmesi nedeniyle Japonya'da iPhone ve bazı diğer ürünlerinin fiyatlarını artırdı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-appledan-iphonea-zam-karari-iste-sebebi-1733481"
-        },
-        {
-          "title": "40 yıldır yanlış yorumlanmış. Samanyolu'ndaki dev yapının sırrı çözüldü",
-          "summary": "Astronomlar, yaklaşık 40 yıldır Samanyolu'nun merkezinden yükseldiği düşünülen dev yapının aslında galaksinin merkezinde olmadığını ortaya çıkardı. Yıllardır yanlış adlandırılan yapı için yeni ve karışıklıkla alay eden isim tartışmaları başladı. Bilim insanları, yaklaşık 40 yıldır gökbilimcileri meşgul eden Samanyolu'ndaki dev yapı hakkındaki gerçeği ortaya çıkardı.",
-          "source": "https://www.ntv.com.tr/teknoloji/40-yildir-yanlis-yorumlanmis-samanyolundaki-dev-yapinin-sirri-cozuldu-1733470"
-        },
-        {
-          "title": "Wi-Fi 8 geliyor: Amaç kesintisiz bağlantı",
-          "summary": "Kablosuz bağlantının yeni nesli Wi-Fi 8, önceki standartlardan farklı bir hedefle geliyor. Yeni teknoloji, en yüksek teorik hızı artırmaktan çok bağlantı kopmalarını, gecikmeyi ve kapsama alanının sınırındaki performans kayıplarını azaltacak. İlk Wi-Fi 8 yönlendiricilerin 2026 sonunda satışa çıkması beklenirken standardın nihai halini alması 2028’i bulacak.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/wi-fi-8-geliyor-amac-kesintisiz-baglanti-43242587"
         }
       ]
     },
     "saglik": {
-      "text": "51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti. 40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı. Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş. Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\". En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\". Sıcak hava dalgası Avrupa’yı sardı. Uzmanlardan çocuklar ve yaşlılar için uyarı. Güzelleşme isteği yarışa dönüştü. Testosteron ve protein tozu bağımlılığı hastalarında artış var.",
+      "text": "Tıp tarihine geçen Akdeniz Üniversitesi'nde üçüncü nakil yapıldı: 17 yıldır annelik özlemi çekiyordu. 51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti. 40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı. Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş. Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\". En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\". Sıcak hava dalgası Avrupa’yı sardı. Uzmanlardan çocuklar ve yaşlılar için uyarı.",
       "items": [
+        {
+          "title": "Tıp tarihine geçen Akdeniz Üniversitesi'nde üçüncü nakil yapıldı: 17 yıldır annelik özlemi çekiyordu",
+          "summary": "Dünyada kadavradan ilk rahim naklini gerçekleştirerek tıp tarihine geçen Akdeniz Üniversitesi Hastanesi'nde, Türkiye'nin üçüncü rahim nakli operasyonu başarıyla gerçekleştirildi. Prof. Dr. Ömer Özkan ve Prof. Dr. Özlenen Özkan öncülüğündeki ekip, yaklaşık 14 saat süren zorlu ameliyatı başarıyla tamamladı. Rahim nakli yapılan genç kadının sağlık durumunun iyi olduğu öğrenildi.",
+          "source": "https://www.ntv.com.tr/saglik/video-tip-tarihine-gecen-akdeniz-universitesinde-ucuncu-nakil-yapildi-17-yildir-annelik-ozlemi-cekiyordu-1733749"
+        },
         {
           "title": "51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti",
           "summary": "Düzce'de doğuştan \"çarpık ayak\" rahatsızlığı bulunduğu için hayatı boyunca hiç ayakkabı giyemeyen 51 yaşındaki Melek Kandil, diz ağrısı şikayetiyle başvurduğu hastanede geçirdiği başarılı ameliyatın ardından sağlığına kavuşarak ilk kez ayakkabı giymenin mutluluğunu yaşadı. Çocukluk döneminde ayağındaki şekil bozukluğu nedeniyle akran zorbalığına maruz kalan ve geçmiş yıllarda geçirdiği operasyonlardan sonuç alamayan Melek Kandil, rahatsızlığını kabullenerek hayatına devam etti.",
@@ -235,11 +240,6 @@
           "title": "Sıcak hava dalgası Avrupa’yı sardı. Uzmanlardan çocuklar ve yaşlılar için uyarı",
           "summary": "Avrupa’nın büyük bölümünü etkisi altına alan şiddetli sıcak hava dalgası, aşırı sıcakların özellikle çocuklar ve yaşlılar için ciddi sağlık riski oluşturduğunu bir kez daha gündeme taşıdı. Kamu sağlığı uyarıları genellikle yaşlılara odaklansa da Fransa’da pazartesi günü iki çocuğun otomobilde hayatını kaybetmesi, küçük çocukların da sıcak hava dalgaları karşısında ne kadar savunmasız olduğunu acı biçimde hatırlattı.",
           "source": "https://www.ntv.com.tr/saglik/galeri-sicak-hava-dalgasi-avrupayi-sardi-uzmanlardan-cocuklar-ve-yaslilar-icin-uyari-1729846"
-        },
-        {
-          "title": "Güzelleşme isteği yarışa dönüştü. Testosteron ve protein tozu bağımlılığı hastalarında artış var",
-          "summary": "Dünyada en çok estetik uygulamaların yapıldığı ülkelerden biri olan Türkiye'de güzelleşme isteği yarışa dönüştü. Öyle ki bu yarışta artık bağımlılık tedavisi gören hastalar var. (Haber: Melike Şahin) Türkiye dünyada en çok estetik uygulamaların yapıldığı ülkelerden biri olarak öne çıkıyor. Artık herkes daha güzel görünmek istiyor. Bu nedenle yalnızca estetik uygulamalar değil protein tozlarına, gıda takviyelerine ilgi artıyor hatta birçok kişi bunları bilinçsizce kullanıyor.",
-          "source": "https://www.ntv.com.tr/saglik/guzellesme-istegi-yarisa-donustu-testosteron-ve-protein-tozu-bagimliligi-hastalarinda-artis-var-1729776"
         }
       ]
     },
