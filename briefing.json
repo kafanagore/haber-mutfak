@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-20T16:00:03.982Z",
+  "generatedAt": "2026-07-23T10:00:03.324Z",
   "categories": {
     "gundem": {
-      "text": "Acı olay… Baraj göletine giren 2 kız kardeş boğuldu. Muğla'da uyuşturucu operasyonları: 5 zanlı tutuklandı. Fatih'te mühürlü dükkandaki kötü kokunun altından bozuk gıda ve kedi ölüleri çıktı. Meclis Başkanı Kurtulmuş, Kılıçdaroğlu ile görüşecek. Futbolda yasa dışı bahis soruşturmasında yeni gelişme: 5 kişiye tutuklama talebi. Ankara'da otluk alanda yangın: Yangını çıkaran kişi güvenlik kamerasında. Son dakika... Oğuzhan Uğur’un tutuklanması istendi! Savcılık ifadesi ortaya çıktı.",
+      "text": "Hakim kılığında milyonluk vurgun. Komşuları ve eşi bile hakim sanıyormuş. Silivri’de \"130 bin liralık ek gider\" isyanı: Site toplantısındaki kavgada 3 kişi yaralandı. Uyuşturucu operasyonunda gözaltına alınmışlardı! Ezel Akay ve kardeşi adliyeye sevk edildi. İntihar için kayalıklara çıkan şahıs, ikna edildiği sırada kayarak denize düştü. Elazığ'da ilginç olay: Kadına şiddet sanıldı gerçek başka çıktı. Burası Bolu Dağı: Görüş mesafesi yaklaşık 30 metreye düştü. Son dakika... Manisa’da iki minibüs çarpıştı: Ölü ve yaralılar var.",
       "items": [
         {
-          "title": "Acı olay… Baraj göletine giren 2 kız kardeş boğuldu",
-          "summary": "Şanlıurfa'nın Siverek ilçesinde akrabalarının yanına tatile gelen 2 kız kardeş, girdikleri Atatürk Baraj Göleti'nde boğuldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/aci-olay-baraj-goletine-giren-2-kiz-kardes-boguldu-43246076"
+          "title": "Hakim kılığında milyonluk vurgun. Komşuları ve eşi bile hakim sanıyormuş",
+          "summary": "İstanbul'da kendisini hakim olarak tanıtıp vatandaşları \"İşlerinizi çözeceğiz\" vaadiyle kandıran çeteye operasyon düzenlendi. Aralarında 3 avukatında bulunduğu 4 şüpheli gözaltına alındı. Silivri Cumhuriyet Başsavcılığı koordinesinde İstanbul il Jandarma Komutanlığı KOM Şube Müdürlüğü tarafından \"Suç İşlemek Amacı ile Örgüt Kurmak\" ve \"Nitelikli Dolandırıcılık\" suçlarından soruşturma yürütüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/hakim-kiliginda-milyonluk-vurgun-komsulari-ve-esi-bile-hakim-saniyormus-1734217"
         },
         {
-          "title": "Muğla'da uyuşturucu operasyonları: 5 zanlı tutuklandı",
-          "summary": "Muğla'da düzenlenen uyuşturucu operasyonlarında gözaltına alınan 7 şüpheliden 5'i tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/muglada-uyusturucu-operasyonlari-5-zanli-tutuklandi-43246065"
+          "title": "Silivri’de \"130 bin liralık ek gider\" isyanı: Site toplantısındaki kavgada 3 kişi yaralandı",
+          "summary": "İstanbul Silivri'de keyfi aidat artışı yapıldığını ve ek gider adı altında her daireden 130 bin lira istendiğini savunan site sakinleri ile yöneticiler arasında tekmeli, yumruklu ve sandalyeli kavga çıktı. Olayda 3 kişi yaralanırken, jandarma tarafından gözaltına alınıp adli kontrolle serbest bırakılan yöneticilerin görevden alınması için daire sahipleri imza kampanyası başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/silivride-130-bin-liralik-ek-gider-isyani-site-toplantisindaki-kavgada-3-kisi-yaralandi-43249016"
         },
         {
-          "title": "Fatih'te mühürlü dükkandaki kötü kokunun altından bozuk gıda ve kedi ölüleri çıktı",
-          "summary": "İstanbul'un Fatih ilçesinde yıkım kararı nedeniyle mühürlü olan boş bir dükkandan gelen kötü koku esnafın ihbarıyla ekipleri harekete geçirdi. İçeride inceleme yapan ekipler, bozuk gıda ürünleri ile kedi ölüleri bulunması üzerine temizlik çalışması başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/fatihte-muhurlu-dukkandaki-kotu-kokunun-altindan-bozuk-gida-ve-kedi-oluleri-cikti-43246016"
+          "title": "Uyuşturucu operasyonunda gözaltına alınmışlardı! Ezel Akay ve kardeşi adliyeye sevk edildi",
+          "summary": "Bursa'nın İnegöl ilçesinde jandarmanın düzenlediği uyuşturucu operasyonunda gözaltına alınan yönetmen Ezel Akay ile müzisyen kardeşi Eren Kazım Akay adliyeye sevk edildi. Öte yandan Ezel Akay'ın evine yapılan baskının görüntüleri ortaya çıktı. Jandarma operasyonunda Ezel Akay'ın evinin banyosu da dahil birçok odasına özel ultraviole ışık ve iklimlendirme sistemi kurup kenevir tarlasına çevirdiği tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/uyusturucu-operasyonunda-gozaltina-alinmislardi-ezel-akay-ve-kardesi-adliyeye-sevk-edildi-43248959"
         },
         {
-          "title": "Meclis Başkanı Kurtulmuş, Kılıçdaroğlu ile görüşecek",
-          "summary": "Meclis Başkanı Numan Kurtulmuş, yarın saat 16.00'da CHP Genel Başkanı Kemal Kılıçdaroğlu ile görüşecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/meclis-baskani-kurtulmus-kilicdaroglu-ile-gorusecek-43246012"
+          "title": "İntihar için kayalıklara çıkan şahıs, ikna edildiği sırada kayarak denize düştü",
+          "summary": "Avcılar'da intihar girişiminde bulunduğu iddia edilen şahıs, polis tarafından ikna edildiği sırada kayalıklardan denize düştü. Yüzerek kıyıya gelen şahıs polis ekipleri tarafından karaya çıkarıldı. Olay, dün Avcılar ilçesi Denizköşkler Mahallesinde sahilde meydana geldi. İddiaya göre, intihar etmek için kayalıklara çıkan şahıs, ihbar üzerine olay yerine gelen polis ekiplerinin uğraşları sonucu ikna edildi. Şahıs, ikna edildiği sırada kayarak denize düştü. Denize düşen şahıs yüzerek kıyıya geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-intihar-icin-kayaliklara-cikan-sahis-ikna-edildigi-sirada-kayarak-denize-dustu-1734209"
         },
         {
-          "title": "Futbolda yasa dışı bahis soruşturmasında yeni gelişme: 5 kişiye tutuklama talebi",
-          "summary": "İstanbul merkezli yasa dışı bahis soruşturmasında, bahis hareketleri tespit edilerek gözaltına alınan futbol kulüplerinde görevli 19 yöneticiden 17'si emniyetteki işlemlerinin ardından adliyeye getirildi. Savcılıktaki ifade işlemleri tamamlanan şüphelilerden 5'i tutuklama talebiyle, 10'u ise adli kontrol ile ev hapsi istemiyle Sulh Ceza Hakimliği'ne sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/futbolda-bahis-sorusturmasinda-yeni-gelisme-5-kisiye-tutuklama-talebi-43245996"
+          "title": "Elazığ'da ilginç olay: Kadına şiddet sanıldı gerçek başka çıktı",
+          "summary": "Elazığ'da gece geç saatlerde kadına şiddet gibi algılanan görüntüler işin aslı ortaya çıkınca şaşırttı. Bir kadın ile erkeğin boks antrenmanı yaptığı anlar güvenlik kamerasına yansıdı. Elazığ'ın Sanayi Mahallesi'nde geçtiğimiz gece geç saatlerde kadına şiddet olayını andıran ancak gerçeğin çok farklı olduğu ilginç anlar yaşandı. Caddede yürüyen bir gruptaki bir kadın ile bir erkeğin karşılıklı hamleleri ilk bakışta kavga izlenimi verse de olayın boks antrenmanı olduğu anlaşıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-elazigda-ilginc-olay-kadina-siddet-sanildi-gercek-baska-cikti-1734208"
         },
         {
-          "title": "Ankara'da otluk alanda yangın: Yangını çıkaran kişi güvenlik kamerasında",
-          "summary": "Ankara'nın Yenimahalle ilçesinde otluk alanda yangın çıktı. Alevler, ekiplerin havadan ve karadan müdahalesiyle yaklaşık 1 saatte söndürüldü. Öte yandan yangını çıkaran kişi güvenlik kamerasında görüntülendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-otluk-alanda-yangin-yangini-cikaran-kisi-guvenlik-kamerasinda-43245981"
+          "title": "Burası Bolu Dağı: Görüş mesafesi yaklaşık 30 metreye düştü",
+          "summary": "Bolu Dağı'nın D-100 kara yolu geçişinde yağmur ve sis etkili oldu. Sis nedeniyle görüş mesafesi yaklaşık 30 metreye düştü Ankara ile İstanbul arasındaki önemli geçiş güzergahı olan Bolu Dağı’nın D-100 kara yolu geçişinde, sabah saatlerinden itibaren hafif yağmur etkili oldu. Karanlıkdere ve Seymenler mevkilerinde yağmurla birlikte sis de görüldü. Sis nedeniyle görüş mesafesi yaklaşık 30 metreye kadar düştü. Sürücüler sis nedeniyle yolda yavaş ilerledi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-burasi-bolu-dagi-gorus-mesafesi-yaklasik-30-metreye-dustu-1734198"
         },
         {
-          "title": "Son dakika... Oğuzhan Uğur’un tutuklanması istendi! Savcılık ifadesi ortaya çıktı",
-          "summary": "AHBAP soruşturmasında \"güveni kötüye kullanma\" ve \"para aklama\" suçlamalarıyla tutuklanması istenen Oğuzhan Uğur dahil 9 şüpheli hakimliğe sevk edilirken 1 kişi için adli kontrol istendi. Savcılık ifadesinde suçlamaları reddeden Oğuzhan Uğur, kardeşi Tuğrul Uğur'un hesap hareketlerinden habersiz olduğunu söyledi. Uğur, “Benim için esas kırılma noktası, gazeteci arkadaşımdan duyduğum hususlarla ilgiliydi. Haluk Levent hakkında çeşitli dedikodular duymaktaydım.",
-          "source": "https://www.hurriyet.com.tr/gundem/oguzhan-ugurun-tutuklanmasi-istendi-43245965"
+          "title": "Son dakika... Manisa’da iki minibüs çarpıştı: Ölü ve yaralılar var",
+          "summary": "Manisa'nın Şehzadeler ilçesinde özel halk minibüsü ile kapalı kasa minibüs çarpıştı. Ölü ve yaralıların olduğu bildirilirken, kaza yerine jandarma ve sağlık ekipleri sevk edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-manisada-iki-minibus-carpisti-olu-ve-yaralilar-var-43248986"
         }
       ]
     },
     "dunya": {
-      "text": "New York'ta ICE ve FBI binası önünde saldırı…. Bir kişi gözaltında. Rusya'nın Odessa'ya saldırısında 3 kişi öldü ve 6 kişi yaralandı. New York'taki bina önünde patlama: 1 gözaltı. Kıbrıs Barış Harekatı'nın 52. Yıl dönümünde Atina'dan provokasyon. Türkiye'den dönerken son anda binmemişti. Trump'ın uçağı \"en üst seviyeye\" çıkarılacak. Pentagon, İran saldırılarındaki gerçek kayıpları gizledi mi?. Dışişleri Bakanlığı: Montrö Boğazlar Sözleşmesi'ni 90 yıldır titizlikle uyguluyoruz.",
+      "text": "BMW, binlerce aracı yangın riski nedeniyle geri çağırıyor. Asya'da tansiyon yükseldi: Tayland'da terör saldırısı. Belçika'dan Trump'a karşı işbirliği çağrısı. Maduro'nun mahkeme tarihi belli oldu. En sıra dışı köy. 6 bin kişi 9 kilometrelik tek bir sokakta yaşıyor. İsrail basınından Türkiye analizi: Durdurulamaz boyutta. Havacılık tarihini değiştirmişti. 74 yıl sonra bulundu.",
       "items": [
         {
-          "title": "New York'ta ICE ve FBI binası önünde saldırı…. Bir kişi gözaltında",
-          "summary": "ABD'nin New York kentinde, ABD Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) ile Federal Soruşturma Bürosunun (FBI) merkezlerinin bulunduğu Federal Plaza önünde saldırı düzenlediği belirtilen şüpheli gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/dunya/new-yorkta-ice-ve-fbi-binasi-onunde-saldiri-bir-kisi-gozaltinda-43246092"
+          "title": "BMW, binlerce aracı yangın riski nedeniyle geri çağırıyor",
+          "summary": "Otomotiv devi BMW, marş motorundaki teknik arıza nedeniyle ABD'de 318 bin 495 aracı geri çağırma kararı aldı. BMW, marş sistemindeki teknik arıza nedeniyle ABD'de 318 bin 495 aracı geri çağırma kararı aldı. Reuters'ın, ABD Ulusal Karayolu Trafik Güvenliği İdaresi'nin (NHTSA) verilerine dayandırdığı habere göre geri çağırmanın nedeni, marş motorunda tespit edilen arıza. Söz konusu arıza, marş motorunun aşırı ısınmasına ve aracın alev almasına yol açabiliyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bmw-binlerce-araci-yangin-riski-nedeniyle-geri-cagiriyor-1734216"
         },
         {
-          "title": "Rusya'nın Odessa'ya saldırısında 3 kişi öldü ve 6 kişi yaralandı",
-          "summary": "Rus ordusunun Ukrayna'nın Odessa kentine yönelik gerçekleştirdiği saldırıda 3 kişinin öldüğü ve 6 kişinin yaralandığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyanin-odessaya-saldirisinda-3-kisi-oldu-ve-6-kisi-yaralandi-43246052"
+          "title": "Asya'da tansiyon yükseldi: Tayland'da terör saldırısı",
+          "summary": "Tayland'ın güneyindeki Narathiwat eyaletinde güvenlik kontrol noktasına silahlı ve bombalı saldırı düzenlenmesi sonucu 5 asker hayatını kaybetti, aralarında 3 ve 10 yaşlarında iki çocuğun da bulunduğu 6 sivil yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/asyada-tansiyon-yukseldi-taylandda-teror-saldirisi-43249021"
         },
         {
-          "title": "New York'taki bina önünde patlama: 1 gözaltı",
-          "summary": "ABD'nin New York kentindeki bir federal binanın önünde meydana gelen patlamanın ardından bir kişi gözaltına alındı. FBI olayla ilgili terör ihtimalini de kapsayan geniş çaplı soruşturma başlattı.",
-          "source": "https://www.hurriyet.com.tr/dunya/new-yorktaki-bina-onunde-patlama-1-gozalti-43246043"
+          "title": "Belçika'dan Trump'a karşı işbirliği çağrısı",
+          "summary": "Belçika Dışişleri Bakanı Maxime Prevot, Avrupa Birliği'ne (AB) jenerik (eşdeğer/muadil) ilaçlara yüksek gümrük tarifesi getiren ABD Başkanı Donald Trump'a karşı ortak hareket etme çağrısı yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/belcikadan-trumpa-karsi-isbirligi-cagrisi-43248963"
         },
         {
-          "title": "Kıbrıs Barış Harekatı'nın 52. Yıl dönümünde Atina'dan provokasyon",
-          "summary": "Yunanistan Savunma Bakanı Nikos Dendias, Kıbrıs Barış Harekâtı'nın 52. yıl dönümünde yaptığı paylaşımlar ile skandala imza attı. Dendias, 1974'e gönderme yapan ifadeleri kullandı ve \"Kıbrıs, yakındır\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kibris-baris-harekatinin-52-yil-donumunde-atinadan-provokasyon-43245983"
+          "title": "Maduro'nun mahkeme tarihi belli oldu",
+          "summary": "ABD'nin 3 Ocak'ta Venezuela'da düzenlediği askeri operasyonla alıkoyduğu Devlet Başkanı Nicolas Maduro ve eşi Cilia Flores'in yargılanmasına 1 Haziran 2027'de başlanacak.",
+          "source": "https://www.hurriyet.com.tr/dunya/maduronun-mahkeme-tarihi-belli-oldu-43248961"
         },
         {
-          "title": "Türkiye'den dönerken son anda binmemişti. Trump'ın uçağı \"en üst seviyeye\" çıkarılacak",
-          "summary": "ABD Başkanı Donald Trump, Katar tarafından bağışlanan yeni Air Force One uçağının \"en üst seviyeye\" çıkarılmak üzere modernizasyon sürecinden geçeceğini söyledi. New York Times gazetesinin haberine göre, ABD Başkanı Donald Trump New Jersey'den Washington'a dönmesinin ardından konuya ilişkin açıklama yaptı. Bir gazetecinin \"Bu uçakta füze savunma sistemi bulunmuyor.",
-          "source": "https://www.ntv.com.tr/dunya/turkiyeden-donerken-son-anda-binmemisti-trumpin-ucagi-en-ust-seviyeye-cikarilacak-1733801"
+          "title": "En sıra dışı köy. 6 bin kişi 9 kilometrelik tek bir sokakta yaşıyor",
+          "summary": "Polonya'nın Suloszowa köyü, yaklaşık 6 bin kişinin tek bir cadde boyunca yaşadığı sıra dışı yerleşim düzeniyle dikkat çekiyor. 700 yılı aşkın geçmişe sahip köy, \"Küçük Toskana\" olarak anılıyor. AVRUPA'NIN EN FARKLI KÖYÜ Polonya'nın güneyindeki Suloszowa köyü, alışılmışın dışında yerleşim planıyla Avrupa'nın en ilginç köyleri arasında gösteriliyor. Köyde yaklaşık 6 bin kişi, 9 kilometre boyunca uzanan tek bir yol üzerinde yaşıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-en-sira-disi-koy-6-bin-kisi-9-kilometrelik-tek-bir-sokakta-yasiyor-1734170"
         },
         {
-          "title": "Pentagon, İran saldırılarındaki gerçek kayıpları gizledi mi?",
-          "summary": "ABD'li yetkililer, Pentagon'un İran'ın ABD güçlerine yönelik saldırılarında yaşanan kayıpları kamuoyuna açıklamadığını ileri sürdü. İddiaya göre, resmi kayıtlarda yer almayan saldırılarda çok sayıda ABD askeri yaralandı. New York Times (NYT) gazetesinin ABD'li yetkililerin açıklamalarına dayandırdığı haberine göre, Pentagon'un ABD ile İran arasında son dönemdeki çatışmalara ilişkin açıkladığı sayılar, gerçeklerle uyuşmuyor.",
-          "source": "https://www.ntv.com.tr/dunya/pentagon-iran-saldirilarindaki-gercek-kayiplari-gizledi-mi-1733796"
+          "title": "İsrail basınından Türkiye analizi: Durdurulamaz boyutta",
+          "summary": "İsrail basını, Türkiye'nin Orta Doğu ve Doğu Akdeniz'de artan etkisini kaleme aldı. Yayımlanan analizde, Tel Aviv'in güvenlik hesaplarını değiştirdiği ifade edildi. Analizde, İsrail'in bu yeni tabloya karşı askeri ve diplomatik stratejilerini yeniden şekillendirmesi gerektiği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-basinindan-turkiye-analizi-durdurulamaz-boyutta-43248725"
         },
         {
-          "title": "Dışişleri Bakanlığı: Montrö Boğazlar Sözleşmesi'ni 90 yıldır titizlikle uyguluyoruz",
-          "summary": "Dışişleri Bakanlığı, Türk Boğazları'nın statüsünü düzenleyen Montrö Boğazlar Sözleşmesi'nin 90 yıldır tarafsızlık, şeffaflık ve titizlikle uygulandığını belirtti ve sözleşmenin bundan sonra da aynı kararlılıkla uygulanacağını açıkladı. Dışişleri Bakanlığı, Montrö Boğazlar Sözleşmesi'ne ilişkin açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/disisleri-bakanligi-montro-bogazlar-sozlesmesini-90-yildir-titizlikle-uyguluyoruz-1733782"
+          "title": "Havacılık tarihini değiştirmişti. 74 yıl sonra bulundu",
+          "summary": "1952 yılında Atlantik Okyanusu'na düşen ve havacılık kurallarının değişmesine öncülük eden Pan American Havayolları'na ait uçağın enkazı, 74 yıl sonra bulundu. 74 YIL SONRA ATLANTİK'İN DERİNLİKLERİNDE BULUNDU 1952 yılında kalkıştan kısa süre sonra motor arızası nedeniyle Atlantik Okyanusu'na düşen Pan American Havayolları'na (Pan Am) ait Clipper Endeavor uçağının enkazına 74 yıl sonra ulaşıldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-havacilik-tarihini-degistirmisti-74-yil-sonra-bulundu-1734190"
         }
       ]
     },
     "ekonomi": {
-      "text": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı. Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz. Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü.",
+      "text": "DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı.",
       "items": [
+        {
+          "title": "DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli",
+          "summary": "Gayrimenkul sektöründe sanat eseri niteliğinde projeler üreten DAP Gayrimenkul Geliştirme, Emlak Konut güvencesi ve Dap vizyonu ile satışa çıkardığı yeni projesi Ataşehir 173’te kontrollü ve planlı bir finansman modeline imza attı. Tasarrufa Dayalı Faizsiz Finansman sistemi ile 60 ve 30 aylık sözleşmelerle faizsiz kefilsiz finansman desteği.",
+          "source": "https://www.ntv.com.tr/ekonomi/dap-yapidan-bir-ilk-emlak-konut-guvencesi-dap-vizyonuyla-kendi-kendini-odeyen-ev-modeli-1734193"
+        },
+        {
+          "title": "Yeni pazar arayışı",
+          "summary": "EGELİ maden ihracatçıları 2026’nın ilk 6 ayını yüzde 12 artışla 767 milyon dolar ihracatla geride bıraktı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/yeni-pazar-arayisi-43245226"
+        },
         {
           "title": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek",
           "summary": "Dışişleri Bakanı Hakan Fidan'ın bugün Ukrayna'ya ziyarette bulunacağı bildirildi. Ziyaretinde Karadeniz'in güvenliğini vurgulaması beklenen Fidan'ın Ukrayna Devlet Başkanı Volodimir Zelenski ve Ukraynalı yetkililerle bir araya geleceği kaydedildi.",
@@ -110,62 +120,67 @@
           "title": "Egeli hazır giyimciler ABD pazarına odaklandı",
           "summary": "Amerika Birleşik Devletleri’ni hedef pazar olarak belirleyen Ege Hazır Giyim ve Konfeksiyon İhracatçıları Birliği, 14-15 Temmuz’da düzenlenecek Premiere Vision (PV) Manufacturing New York Fuarı’na 13 firmayla Türkiye Milli Katılım Organizasyonu düzenliyor.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egeli-hazir-giyimciler-abd-pazarina-odaklandi-43237643"
-        },
-        {
-          "title": "Bakan Işıkhan: Son 23 çeyrektir istikrarlı büyümemizi sürdürüyoruz",
-          "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Türkiye'nin uluslararası alandaki etkinliğinin her geçen gün arttığını belirterek, \"Son 23 çeyrektir istikrarlı şekilde büyüyen ekonomimiz ve artan istihdamımızla Türkiye Yüzyılı hedeflerine emin adımlarla ilerliyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-isikhan-son-23-ceyrektir-istikrarli-buyumemizi-surduruyoruz-43235952"
-        },
-        {
-          "title": "Almanya'nın ihracatı İran savaşına rağmen 4. ayda büyüdü",
-          "summary": "Almanya'nın ihracatı, İran savaşının yarattığı olumsuz koşullara rağmen Mayıs ayında sürpriz bir şekilde dördüncü aydır artış gösterdi. Federal İstatistik Ofisi'nin (Destatis) öncü verilerine göre, takvim ve mevsim etkilerinden arındırılmış ihracat, bir önceki aya göre yüzde 0,9 artarak 137,9 milyar euroya ulaştı. Geçen yılın aynı ayına göre artış ise yüzde 6,1 oldu.",
-          "source": "https://www.hurriyet.com.tr/avrupa/almanyanin-ihracati-iran-savasina-ragmen-4-ayda-buyudu-43235053"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe, Gornik Zabrze maçına hazır!. İngiliz futbol efsanesi Kevin Keegan hayatını kaybetti. Filenin Efeleri'nin VNL Final Etabı maç programı belli oldu!. Belçika Milli Takımı'nda Rudi Garcia ile yollar ayrıldı!. 12 Dev Adam dünya sıralamasındaki yerini korudu!. Cedi Osman imzayı attı! İşte yeni takımı ve anlaşma şartları. Konferans Ligi'nde 3. eleme turu kuraları çekildi! Başakşehir'in muhtemel rakibi belli oldu.",
+      "text": "Bayern Münih'te Sacha Boey gelişmesi! 'Süre alması imkansız olabilir'. Real Madrid'den Franco Mastantuono kararı!. Ankara'da 8 koşuluk kritik program! İşte Misli’den günün altılı analizi…. Galatasaray'a transferde Bruno Fernandes müjdesi!. Galatasaray'ın istediği Ponomarenko imzayı attı!. Fenerbahçe'den ayrılan Jantunen Real Madrid'e transfer oldu!. Beşiktaş’ın maçları 'Üst' bitiyor; Benfica’nın karşılaşmalarında karşılıklı goller oluyor... İşte Misli’den Günün Tüyoları!.",
       "items": [
         {
-          "title": "Fenerbahçe, Gornik Zabrze maçına hazır!",
-          "summary": "UEFA Şampiyonlar Ligi 2. eleme turu ilk maçında yarın Polonya'nın Gornik Zabrze takımını ağırlayacak Fenerbahçe, hazırlıklarını tamamladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-gornik-zabrze-macina-hazir-43246088"
+          "title": "Bayern Münih'te Sacha Boey gelişmesi! 'Süre alması imkansız olabilir'",
+          "summary": "Geçtiğimiz sezonun ikinci yarısını Galatasaray'da kiralık olarak tamamlayan Sacha Boey, Bayern Münih'e geri döndü. Fransız oyuncunun yeni sezonda Alman ekibinde düzenli forma giyme şansının zor olduğu belirtildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihte-sacha-boey-gelismesi-sure-almasi-imkansiz-olabilir-43249017"
         },
         {
-          "title": "İngiliz futbol efsanesi Kevin Keegan hayatını kaybetti",
-          "summary": "Eski İngiliz futbolcu ve teknik direktör Kevin Keegan, 75 yaşında hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ingiliz-futbol-efsanesi-kevin-keegan-hayatini-kaybetti-43246082"
+          "title": "Real Madrid'den Franco Mastantuono kararı!",
+          "summary": "Real Madrid, Franco Mastantuono'nun gelişimini sürdürmesi için kiralık göndermeye hazırlandığı öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madridden-franco-mastantuono-karari-43248968"
         },
         {
-          "title": "Filenin Efeleri'nin VNL Final Etabı maç programı belli oldu!",
-          "summary": "A Milli Erkek Voleybol Takımı'nın mücadele edeceği 2026 FIVB Milletler Ligi'nde (VNL) final etabının maç programı belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-efelerinin-vnl-final-etabi-mac-programi-belli-oldu-43246013"
+          "title": "Ankara'da 8 koşuluk kritik program! İşte Misli’den günün altılı analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-8-kosuluk-kritik-program-iste-misliden-gunun-altili-analizi-43248984"
         },
         {
-          "title": "Belçika Milli Takımı'nda Rudi Garcia ile yollar ayrıldı!",
-          "summary": "Belçika Milli Takımı'nda teknik direktör Rudi Garcia ile yolların ayrıldığı duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/belcika-milli-takiminda-rudi-garcia-ile-yollar-ayrildi-43246010"
+          "title": "Galatasaray'a transferde Bruno Fernandes müjdesi!",
+          "summary": "Manchester United, Galatasaray'ın 10 numara transferindeki bir numaralı hedefi olan Bruno Fernandes ile yaptığı sözleşme yenileme görüşmelerinden sonuç alamadı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-transferde-bruno-fernandes-mujdesi-43248688"
         },
         {
-          "title": "12 Dev Adam dünya sıralamasındaki yerini korudu!",
-          "summary": "A Milli Erkek Basketbol Takımı, FIBA dünya sıralamasının 11. basamağında yer aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/12-dev-adam-dunya-siralamasindaki-yerini-korudu-43246005"
+          "title": "Galatasaray'ın istediği Ponomarenko imzayı attı!",
+          "summary": "Galatasaray'ın kadrosuna katmak istediği Ukraynalı genç santrfor Matviy Ponomarenko, kulübü Dinamo Kiev'le yeni sözleşme imzaladı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-ponomarenko-imzayi-atti-43248898"
         },
         {
-          "title": "Cedi Osman imzayı attı! İşte yeni takımı ve anlaşma şartları",
-          "summary": "Milli basketbolcu Cedi Osman, Panathinaikos'tan ayrılarak PAOK'a transfer oldu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/cedi-osman-imzayi-atti-iste-yeni-takimi-ve-anlasma-sartlari-43245893"
+          "title": "Fenerbahçe'den ayrılan Jantunen Real Madrid'e transfer oldu!",
+          "summary": "Real Madrid, Fenerbahçe'den ayrılan Mikael Jantunen'i kadrosuna kattığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-ayrilan-jantunen-real-madride-transfer-oldu-43248810"
         },
         {
-          "title": "Konferans Ligi'nde 3. eleme turu kuraları çekildi! Başakşehir'in muhtemel rakibi belli oldu",
-          "summary": "UEFA Konferans Ligi'ne 2. ön eleme turundan dahil olan Başakşehir, Inter Turku'yu elemesi halinde 3. turda FC Vaduz – Atlètic Club Escaldes eşleşmesinin galibi ile karşı karşıya gelecek. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/konferans-liginde-3-eleme-turu-kuralari-cekildi-basaksehirin-muhtemel-rakibi-belli-oldu-43245845"
+          "title": "Beşiktaş’ın maçları 'Üst' bitiyor; Benfica’nın karşılaşmalarında karşılıklı goller oluyor... İşte Misli’den Günün Tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-maclari-ust-bitiyor-benficanin-karsilasmalarinda-karsilikli-goller-oluyor-iste-misliden-gunun-tuyolari-43248842"
         }
       ]
     },
     "teknoloji": {
-      "text": "AB, AliExpress'e acımadı. Rekor ceza kesti. İşler bir türlü düzelmedi, rakibi harekete geçti. 53 milyar dolarlık teklif masada. Yapay zeka borçla çalışıyor. Şirketini sattı, dudak uçuklatan fiyatı Netflix duyurdu. Instagram ve Facebook çöktü mü, neden açılmıyor? 19 Temmuz sosyal medya erişim sorunu. Alışkanlıkları kökten değiştirecek. Çin'deki teknoloji fuarında yapay zekalı akıllı telefonlar tanıtıldı. \"Uzay tabanlı yapay zeka\". Çin 1000 uyduluk uzay bilişim ağı projesinin ilk aşamasını başlattı.",
+      "text": "OpenAI uyardı, yapay zeka ajanlarından benzeri görülmemiş siber saldırı. ABD ile Portekiz'i birbirine bağladılar: Google'dan yeni dev deniz altı kablosu. T3 FPV Akademiden İstanbul’da Teknoloji ve Rekabet Dolu Buluşma!. AB, AliExpress'e acımadı. Rekor ceza kesti. İşler bir türlü düzelmedi, rakibi harekete geçti. 53 milyar dolarlık teklif masada. Yapay zeka borçla çalışıyor. Şirketini sattı, dudak uçuklatan fiyatı Netflix duyurdu.",
       "items": [
+        {
+          "title": "OpenAI uyardı, yapay zeka ajanlarından benzeri görülmemiş siber saldırı",
+          "summary": "Otonom yapay zeka modellerinin kendi başlarına çevrimiçi bir kod kütüphanesine sızdıklarını açıklayan OpenAI, konu hakkında soruşturma başlattı. ChatGPT'nin geliştiricisi OpenAI, Salı günü yaptığı açıklamada, gelişmiş yapay zeka modellerinin güvenlik testleri sırasında kontrolden çıktığını ve programcılar tarafından en sık kullanılan platformlardan biri olan Hugging Face sistemine kendi başlarına sızdıklarını belirtti.",
+          "source": "https://www.ntv.com.tr/teknoloji/openai-uyardi-yapay-zeka-ajanlarindan-benzeri-gorulmemis-siber-saldiri-1734045"
+        },
+        {
+          "title": "ABD ile Portekiz'i birbirine bağladılar: Google'dan yeni dev deniz altı kablosu",
+          "summary": "Teknoloji devi Google, bulut bilişim ve yapay zeka hizmetlerine yönelik artan talebi karşılamak amacıyla ABD ile Portekiz'i birbirine bağlayan yeni transatlantik deniz altı kablo hattının kurulumunu başarıyla tamamladı. Alphabet bünyesindeki teknoloji devi Google, bulut bilişim ve yapay zekâ hizmetlerine yönelik küresel talebin hızla artması üzerine, ABD ile Avrupa arasındaki veri rotalarına bir yenisini ekledi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-abd-ile-portekizi-birbirine-bagladilar-googledan-yeni-dev-deniz-alti-kablosu-1733950"
+        },
+        {
+          "title": "T3 FPV Akademiden İstanbul’da Teknoloji ve Rekabet Dolu Buluşma!",
+          "summary": "FPV Dron teknolojileri gençler ve teknoloji meraklılarıyla buluştu, yarışmanın şampiyonu Semruk takımı oldu.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/t3-fpv-akademiden-istanbulda-teknoloji-ve-rekabet-dolu-bulusma-43246617"
+        },
         {
           "title": "AB, AliExpress'e acımadı. Rekor ceza kesti",
           "summary": "Avrupa Birliği, platformundaki yasa dışı, güvensiz ve taklit ürünlerin satışını engelleyemediği gerekçesiyle Alibaba grubuna ait AliExpress'e 550 milyon avro (629 milyon dolar) tutarında rekor bir ceza kesti. Avrupa Birliği (AB), e-ticaret devi Alibaba’nın iştiraki olan AliExpress platformuna, yasa dışı, güvensiz ve taklit ürünlerin satışını engellemede yetersiz kaldığı gerekçesiyle pazartesi günü 550 milyon avro (629 million dolar) tutarında rekor bir para cezası verdi.",
@@ -185,21 +200,6 @@
           "title": "Şirketini sattı, dudak uçuklatan fiyatı Netflix duyurdu",
           "summary": "Netflix, aktör Ben Affleck'in kurucusu olduğu yapay zekâ şirketi InterPositive için 587 milyon dolar ödediğini ABD Menkul Kıymetler ve Borsa Komisyonuna sunduğu dosyada doğruladı. Netflix, geçtiğimiz mart ayında gündeme gelen tahminleri doğrulayarak aktör Ben Affleck'in yapay zekâ şirketi InterPositive'i satın almak için 587 milyon dolar ödediğini açıkladı. Sürpriz satın alma anlaşması ilk duyurulduğunda, Bloomberg yayın kuruluşu yayın devinin bu işlem için yaklaşık 600 milyon dolar ödeyeceğini bildirmişti.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-sirketini-satti-dudak-ucuklatan-fiyati-netflix-duyurdu-1733702"
-        },
-        {
-          "title": "Instagram ve Facebook çöktü mü, neden açılmıyor? 19 Temmuz sosyal medya erişim sorunu",
-          "summary": "Sosyal medya platformu Instagram ve Facebook'a erişim sorunları yaşanıyor. Kullanıcılar giriş yapılamaması, ana sayfa yüklenmemesi ve gönderilerin açılmaması gibi sorunlarla karşılaştığını bildirdi. Peki, Instagram ve Facebook çöktü mü, neden açılmıyor? İşte 19 Temmuz sosyal medya erişim sorunu. Dünyanın en popüler sosyal medya platformları arasında yer alan Instagram ve Facebook'ta çökme sorunları yaşandığı bildirilmeye başladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-instagram-ve-facebook-coktu-mu-neden-acilmiyor-19-temmuz-sosyal-medya-erisim-sorunu-1733596"
-        },
-        {
-          "title": "Alışkanlıkları kökten değiştirecek. Çin'deki teknoloji fuarında yapay zekalı akıllı telefonlar tanıtıldı",
-          "summary": "Çin'in Şanghay kentinde düzenlenen Dünya Yapay Zeka Konferansı'nda teknoloji şirketleri, sesli komutlarla her türlü işlemi yapabilen yapay zeka ajanlı telefon modellerini sergiledi. Ancak bu yeni teknoloji, kullanıcı üzerindeki kontrolü kaybetmek istemeyen dev uygulamaların erişim engelleriyle karşı karşıya. Teknoloji şirketleri, basit bir sesli komutla yemek sipariş etmekten mesaj yazmaya kadar her şeyi yapabilen, yapay zeka kullanan gelişmiş akıllı telefonları piyasaya sürmek için yarışıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-aliskanliklari-kokten-degistirecek-cindeki-teknoloji-fuarinda-yapay-zekali-akilli-telefonlar-tanitildi-1733600"
-        },
-        {
-          "title": "\"Uzay tabanlı yapay zeka\". Çin 1000 uyduluk uzay bilişim ağı projesinin ilk aşamasını başlattı",
-          "summary": "Çin, yapay zeka altyapısını karasal veri merkezlerinin ötesine taşımak amacıyla Şanghay merkezli 1000 uyduluk uzay bilişim projesinin ilk uydu takımyıldızını uzaya fırlattı. Çin, yapay zeka altyapısını karasal veri merkezlerinin ötesine genişletme çabalarını artırırken, Şanghay, yapay zeka için uzay tabanlı bir bilgi işlem ağı kurma amiral gemisi projesinin ilk uydularını tanıttı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-uzay-tabanli-yapay-zeka-cin-1000-uyduluk-uzay-bilisim-agi-projesinin-ilk-asamasini-baslatti-1733593"
         }
       ]
     },
@@ -244,42 +244,12 @@
       ]
     },
     "magazin": {
-      "text": "'Ben bu hayatta en çok anne olmayı sevdim'. Nükhet Duru: Irgat geldim ırgat gideceğim. Ciddi ilişki değil sadece flörtmüş. Önce nikah, bir hafta sonra düğün... Ünlü model muradına erdi. Ünlü şarkıcı muradına erdi... Herkes aynı yorumu yaptı: Boşanan arkadaşının eski gelinliğini giymiş!. Karısı barışsınlar diye gözyaşı döküyor ama... O sabırla intikam saatini bekliyor: Babamızın cenazesine bile gelmesinler!. Tam gaz yeni aşk.",
+      "text": "'Şu an keyfim gayet yerinde, evlilik düşünmüyoruz'.",
       "items": [
         {
-          "title": "'Ben bu hayatta en çok anne olmayı sevdim'",
-          "summary": "Sanat ve magazin dünyasının ünlü isimleri, Anneler Günü’nü sosyal medyada paylaştıkları anlamlı mesajlar ve özel karelerle kutladı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/hayat/ben-bu-hayatta-en-cok-anne-olmayi-sevdim-43170393"
-        },
-        {
-          "title": "Nükhet Duru: Irgat geldim ırgat gideceğim",
-          "summary": "Müziği ve tarzıyla on yıllara damga vurmuş biri Nükhet Duru. Çocukluk bayramlarından girdik, annesiyle ayrı düşmesine, ilk büyük aşkına, güzellik anlayışına ve ticari başarısızlıklarına kadar uzandık. Magazin üslubunu gündemdeki Burcu Güneş ile, kariyerini oluşturma biçimini Ajda Pekkan ile kıyasladık: “İnsan kariyerine çok odaklanırsa onun esiri olabiliyor. Ben heyheylendim mi giderim!”",
-          "source": "https://www.hurriyet.com.tr/kelebek/hayat/irgat-geldim-irgat-gidecegim-43133298"
-        },
-        {
-          "title": "Ciddi ilişki değil sadece flörtmüş",
-          "summary": "DÜNYACA ünlü oyuncu Sydney Sweeney’nin (27), 44 yaşındaki yapımcı Scooter Braun ile “ciddi olmayan bir şekilde” görüştüğü öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/ciddi-iliski-degil-sadece-flortmus-42936666"
-        },
-        {
-          "title": "Önce nikah, bir hafta sonra düğün... Ünlü model muradına erdi",
-          "summary": "Bundan 11 yıl önceydi... Magazin dünyası beklenmedik bir haberle çalkalandı... Dönemin önde gelen rock yıldızlarından birinin gizli bir aşk çocuğu vardı... Üstelik de artık 15 yaşına gelmiş ve modellik yapmaya başlamıştı o çocuk. Kendisinin bile bilmediği bu gerçek yapılan DNA testiyle ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/magazin/bir-haftada-ikinci-dugun-unlu-model-muradina-erdi-42855931"
-        },
-        {
-          "title": "Ünlü şarkıcı muradına erdi... Herkes aynı yorumu yaptı: Boşanan arkadaşının eski gelinliğini giymiş!",
-          "summary": "Müzik dünyasından mutlu bir haber geldi geçtiğimiz hafta sonu... İlk nişanlısından büyük bir hayal kırıklığı içinde ayrılan genç şarkıcı, sonunda kalbinin sahibini buldu ve bir açık hava düğünüyle onunla hayatını birleştirdi.",
-          "source": "https://www.hurriyet.com.tr/magazin/unlu-sarkici-muradina-erdi-herkes-ayni-yorumu-yapti-bosanan-arkadasinin-eski-gelinligini-giymis-42818431"
-        },
-        {
-          "title": "Karısı barışsınlar diye gözyaşı döküyor ama... O sabırla intikam saatini bekliyor: Babamızın cenazesine bile gelmesinler!",
-          "summary": "İngiliz kraliyet ailesinin, bir zamanlar anne acısına bile birlikte göğüs geren kardeşleri Prens William ile Prens Harry arasındaki ipler iyice geriliyor... Hatta görünüşe göre çoktan kopma noktasına geldi bile.",
-          "source": "https://www.hurriyet.com.tr/magazin/karisi-barissinlar-diye-gozyasi-dokuyor-ama-o-intikam-saatini-bekliyor-babamizin-cenazesine-bile-gelmesin-42796031"
-        },
-        {
-          "title": "Tam gaz yeni aşk",
-          "summary": "Formula 1’in şampiyon pilotu Lewis Hamilton ile Hollywood yıldızı Sofia Vergara yeni bir aşka yelken açıyor.",
-          "source": "https://www.hurriyet.com.tr/kelebek/tam-gaz-yeni-ask-42660355"
+          "title": "'Şu an keyfim gayet yerinde, evlilik düşünmüyoruz'",
+          "summary": "Kaan Taşaner ve sevgilisi Seray Dura önceki gün Bebek’te görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/su-an-keyfim-gayet-yerinde-evlilik-dusunmuyoruz-43248652"
         }
       ]
     }
