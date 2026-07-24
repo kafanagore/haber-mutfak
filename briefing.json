@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-24T04:00:03.132Z",
+  "generatedAt": "2026-07-24T10:00:02.966Z",
   "categories": {
     "gundem": {
-      "text": "Minibüse çarpan otomobil takla atıp bariyere saplandı. 1 kişi öldü, 2 yaralı. Birçok ilde orman yangını çıktı. İzmir'de alevlerle mücadele sürüyor. İstanbul TEM Otoyolu’nda feci kaza: 1 ölü, 2 yaralı. Şanlıurfa’da otomobil şarampole devrildi. 3 kişi hayatını kaybetti, 1 yaralı. Üsküdar'da balkon çöktü. 4 katlı bina mühürlendi. Yeni parti ne zaman kurulacak?. Cumartesi gününe dikkat! Sıcaklık düşecek, yağışlar şiddetlenecek.",
+      "text": "İstanbul'da hareketli anlar. Elinde bıçakla ailesini rehin aldı. Meclis'te dengeler değişti. İşte yeni sandalye dağılımı. Özgür Özel ve 90 milletvekili CHP'den istifa etti. Yeni Parti resmen kuruluyor. İstanbul barajları alarm veriyor! Uzmanı uyardı: Sonbaharda risk artacak. İşte Yeni Parti'nin logosu. MHP lideri Bahçeli'den 'Lozan' mesajı. CHP sandalye sayısı kaç oldu: Yeni Parti kuruldu, CHP'nin milletvekili sayısı değişti... İşte CHP'nin milletvekili sayısı.",
       "items": [
         {
-          "title": "Minibüse çarpan otomobil takla atıp bariyere saplandı. 1 kişi öldü, 2 yaralı",
-          "summary": "Beykoz TEM Otoyolu’nda minibüse çarptıktan sonra takla atarak bariyerlere saplanan otomobilin sürücüsü hayatını kaybetti. TEM Otoyolu Kavacık mevkii Ankara istikametinde hızla seyreden ve sürücüsünün ismi henüz öğrenilemeyen otomobil, Hekimbaşı yol ayrımında minibüse arkadan çarptı. Çarpmanın şiddetiyle savrulup takla atan otomobil, yol kenarındaki bariyerlere saplanarak ters döndü. Çevredekilerin ihbarı üzerine kaza yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/minibuse-carpan-otomobil-takla-atip-bariyere-saplandi-1-kisi-oldu-2-yarali-1734290"
+          "title": "İstanbul'da hareketli anlar. Elinde bıçakla ailesini rehin aldı",
+          "summary": "İstanbul'da madde bağımlısı olduğu ileri sürülen bir kişi elinde bıçakla ailesini rehin aldı. Saldırgan özel harekat polisleri tarafından etkisiz hale getirildi. İstanbul Sultangazi'de bir kişi ailesini bıçakla rehin aldı. Olay, sabah saatlerinde İsmetpaşa Mahallesi'nde meydana geldi. İddiaya göre, uyuşturucu madde bağımlısı olduğu öne sürülen bir şüpheli, evde bulunan ailesini bıçakla rehin aldı. Çevredekilerin ihbarı üzerine olay yerine polis, acil sağlık ve itfaiye ekipleri geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-hareketli-anlar-elinde-bicakla-ailesini-rehin-aldi-1734359"
         },
         {
-          "title": "Birçok ilde orman yangını çıktı. İzmir'de alevlerle mücadele sürüyor",
-          "summary": "Gece birçok kentte alevlerle mücadele vardı. Muğla, Balıkesir ve Diyarbakır'daki yangınlar kontrol altına alınırken, İzmir'deki yangına müdahale devam ediyor. İZMİR İzmir'in Ödemiş ilçesinde ormanlık alanda çıkan yangına müdahale ediliyor. Çamlıca Mahallesi Çerkes Tepesi mevkisindeki ormanlık alanda henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine bölgeye İzmir Orman Bölge Müdürlüğü ve itfaiye ekipleri sevk edildi. Ekiplerin yangını kontrol altına almak için müdahalesi sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bircok-ilde-orman-yangini-cikti-izmirde-alevlerle-mucadele-suruyor-1734280"
+          "title": "Meclis'te dengeler değişti. İşte yeni sandalye dağılımı",
+          "summary": "Özgür Özel ve 90 milletvekilinin CHP'den istifasıyla Meclis aritmetiği büyük oranda değişecek. CHP'de bir dönem sona erdi. Mutlak butlan kararı sonrası yönetim krizinin yaşandığı CHP'de Özgür Özel ve arkadaşları istifa etti. Özel dahil 91 milletvekilinin imzasıyla Yeni Parti'nin kuruluş dilekçesi hazırlandı. Bu istifalarla birlikte Meclis'te sandalye dağılımı da değişecek. MECLİS'TE BÜYÜK DEĞİŞİM YAŞANACAK Özel ve ekibinin istifa dilekçeleri Türkiye Büyük Millet Meclisi Başkanlığı'na sunuldu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-mecliste-dengeler-degisti-iste-yeni-sandalye-dagilimi-1734352"
         },
         {
-          "title": "İstanbul TEM Otoyolu’nda feci kaza: 1 ölü, 2 yaralı",
-          "summary": "İstanbul TEM Otoyolu’nda minibüse çarptıktan sonra bariyerlere saplanarak ters dönen otomobildeki sürücü öldü, 2 kişi de yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbul-tem-otoyolunda-feci-kaza-1-olu-2-yarali-43249922"
+          "title": "Özgür Özel ve 90 milletvekili CHP'den istifa etti. Yeni Parti resmen kuruluyor",
+          "summary": "Özgür Özel ile beraberindeki 90 milletvekili, CHP'den istifa etti ve Yeni Parti'nin kuruluş dilekçesini imzalayarak İçişleri Bakanlığı'na teslim etti. İstinaf mahkemesinin “mutlak butlan” kararı sonrası “yönetim” konusunda tartışmalı bir sürece giren CHP'de bir dönem sona erdi. Söz konusu hükmün ardından Genel Başkanlık görevinden alınan, sonrasında milletvekilleri tarafından Grup Başkanı seçilen Özgür Özel, olağanüstü kurultay taleplerinin karşılanmaması üzerine ekibiyle birlikte CHP'den istifa etti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ozgur-ozel-ve-91-milletvekili-chpden-istifa-etti-1734317"
         },
         {
-          "title": "Şanlıurfa’da otomobil şarampole devrildi. 3 kişi hayatını kaybetti, 1 yaralı",
-          "summary": "Şanlıurfa’da kontrolden çıkarak şarampole devrilen otomobilin takla attığı kazada 3 kişi hayatını kaybetti, 1 kişi ise yaralandı. Siverek-Diyarbakır kara yolunda, İ.K. (27) yönetimindeki otomobil, sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu şarampole devrilerek defalarca takla attı. Kazayı gören diğer sürücülerin ihbarı üzerine olay yerine 112 Acil Sağlık ve jandarma ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/sanliurfada-otomobil-sarampole-devrildi-3-kisi-hayatini-kaybetti-1-yarali-1734286"
+          "title": "İstanbul barajları alarm veriyor! Uzmanı uyardı: Sonbaharda risk artacak",
+          "summary": "İstanbul'a su sağlayan barajlardaki doluluk oranı yağışların azalması ve yazın artan su tüketiminin etkisiyle yüzde 56,63'e gerilerken, uzmanlar yağışların yetersiz seyretmesi halinde sonbaharda su sorunu riskinin artabileceği uyarısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbul-barajlari-alarm-veriyor-uzmani-uyardi-sonbaharda-risk-artacak-43250327"
         },
         {
-          "title": "Üsküdar'da balkon çöktü. 4 katlı bina mühürlendi",
-          "summary": "İstanbul'un Üsküdar ilçesinde bir binanın balkonunda meydana gelen çökme nedeniyle vatandaşlar tahliye edildi. Sultantepe Mahallesi Yenidünya Sokak'taki 4 katlı binanın ikinci katının balkonunda henüz belirlenemeyen nedenle kısmi çökme meydana geldi. Kopan beton parçalarının çıkardığı sesleri duyan bina sakinleri kendi imkanlarıyla dışarı çıkarak güvenli bir alana geçti. İhbar üzerine belirtilen adrese polis, itfaiye ve zabıta ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/uskudarda-balkon-coktu-4-katli-bina-muhurlendi-1734285"
+          "title": "İşte Yeni Parti'nin logosu",
+          "summary": "Özgür Özel'in CHP'den istifa ederek kuruluş dilekçesini imzaladığı Yeni Parti'nin logosu ortaya çıktı. Özgür Özel ve beraberindeki 90 milletvekili CHP'den istifa etti. Yeni oluşumun adı Yeni Parti olarak belirlendi. Özel'in kurmayları kuruluş dilekçesini İçişleri Bakanlığı'na verecek. Yeni Parti'nin logosu ortaya çıktı. İŞTE YENİ PARTİ'NİN LOGOSU Yeni Parti'nin logosu beyaz bir zeminde yer alıyor. Kırmızıyla yazılan “YENİ” yazısının altında bir çizgi hemen altında siyah yazıyla “PARTİ” yazısı bulunuyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-iste-yeni-partinin-logosu-1734346"
         },
         {
-          "title": "Yeni parti ne zaman kurulacak?",
-          "summary": "Özgür Özel'in kuracağı yeni parti için geri sayım sürüyor. Partinin kuruluş dilekçesi bugün veya pazartesi İçişleri Bakanlığı'na verilecek. Milletvekillerinin de başvurudan önce istifa etmesi bekleniyor. İstinaf mahkemesinin “mutlak butlan” kararı sonrası “yönetim” konusunda tartışmalı bir sürece giren CHP'de bir dönem sona ermek üzere.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-yeni-parti-ne-zaman-kurulacak-1734278"
+          "title": "MHP lideri Bahçeli'den 'Lozan' mesajı",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, Lozan Barış Antlaşması'nın yıl dönümünde sosyal medya hesabından mesaj yayımladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-lozan-mesaji-43250260"
         },
         {
-          "title": "Cumartesi gününe dikkat! Sıcaklık düşecek, yağışlar şiddetlenecek",
-          "summary": "Bugün İstanbul dahil birçok bölgede sağanak etkili olacak. Yarın ise ülkenin büyük bölümünde sıcaklık hızla düşecek ve yağışlar şiddetlenecek. Balkanlar üzerinden gelen serin ve yağışlı hava sistemi yurdun büyük bölümüne yayılacak. CUMARTESİ GÜNÜNE DİKKAT! Bugün İstanbul dahil birçok ilde kısa süreli yağışlar görülecek. Cumartesi günü ise ülkenin büyük bölümünde yağışlar şiddetlenecek. SICAKLIK DÜŞECEK Bugün 30 derece civarında seyredecek sıcaklıklar yarın şiddetli yağışın da etkisiyle 20 derecelere kadar inecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-cumartesi-gunune-dikkat-sicaklik-dusecek-yagislar-siddetlenecek-1734284"
+          "title": "CHP sandalye sayısı kaç oldu: Yeni Parti kuruldu, CHP'nin milletvekili sayısı değişti... İşte CHP'nin milletvekili sayısı",
+          "summary": "Özgür Özel ve 90 milletvekilinin CHP'den istifasının ve Yeni Parti'yi kurmasının adından Meclis'teki sandalye dağılımı da değişti. TBMM'deki koltuk sayısı gerilere düşen CHP'nin milletvekili sayısı merak edilmeye başladı. Peki, CHP'nin sandalye sayısı kaça düştü? İşte Meclis'teki sandalye dağılımı... Mutlak butlan kararı sonrası yönetim krizinin yaşandığı CHP'de dengeler değişti. Özgür Özel ve 90 milletvekili CHP'den istifa etti. YENİ PARTİYİ KURDU İstifa dilekçelerini Özel ve ekibi, TBMM'ye sundu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-chp-sandalye-sayisi-kac-oldu-yeni-parti-kuruldu-chpnin-milletvekili-sayisi-degisti-iste-chpnin-milletvekili-sayisi-1734355"
         }
       ]
     },
     "dunya": {
-      "text": "Macaristan Başbakanı Peter Magyar'a tükürüklü saldırı. Trump'tan Hürmüz açıklaması. \"Gemilere verilen zarar İran'ın dondurulmuş varlıklarından karşılanacak\". ABD 60 ticaret ortağına tarife uygulayacak. Çin Devlet Başkanı Şi, ABD'yi ziyaret edecek. Mossad’dan İran iddiası: Suikast girişimi engellendi. Yunanistan, İsrail’den 4 milyar dolarlık hava savunma sistemi alacak. 'Uçan Ferrari' için geri sayım: Tarih verildi.",
+      "text": "Güney Avrupa'da orman yangınları binlerce kişiyi yerinden etti. Tüm kalpleri fethetmişti. Fenomen maymun Punch 1 yaşına giriyor. Yemen'de bir ilk: Kabinede tarihi atama. Yunanistan'ın 2030 planı: Atina hükümeti İsrail'e sarıldı. Benin'de korku dolu anlar: Yolcu uçağı pistten çıktı. Gazeteye ilan verip eşini aldattığını itiraf etmişti. Milyarlık hesaplaşmada karar günü. The Odyssey krizi. \"264 milyon dolar kazandı, 6 bin dolarlık faturayı ödemedi\".",
       "items": [
         {
-          "title": "Macaristan Başbakanı Peter Magyar'a tükürüklü saldırı",
-          "summary": "Macaristan Başbakanı Peter Magyar, sosyal medya üzerinden canlı yayın yaptığı sırada yaşlı bir adamın tükürüklü saldırısına uğradı. Magyar, şikayetçi olmayacağını açıkladı. Macaristan Başbakanı Peter Magyar, dün sabah başkent Budapeşte’deki Nyugati Tren İstasyonu’nda Ulaştırma ve Yatırım Bakanı David Vitezy ile birlikte yürüdüğü sırada canlı yayında yaşlı bir vatandaşın tükürüklü saldırısına maruz kaldı.",
-          "source": "https://www.ntv.com.tr/dunya/macaristan-basbakani-magyara-tukuruklu-saldiri-1734289"
+          "title": "Güney Avrupa'da orman yangınları binlerce kişiyi yerinden etti",
+          "summary": "Güney Batı Avrupa'yı etkisi altına alan şiddetli orman yangınları nedeniyle Fransa ve İspanya'da binlerce kişi tahliye edildi, üç itfaiyeci yaşamını yitirdi. Sıcaklığın 40 dereceyi aştığı bölgede Fransa, Avrupa Birliği'nden hava desteği talep ederken İspanya'nın Madrid bölgesinde acil durum ilan edildi. Bölgeyi etkisi altına alan aşırı sıcaklar ve rüzgârın etkisiyle büyüyen orman yangınları, Batı Avrupa'nın güney kesimlerinde yerleşim yerlerini ve tatil beldelerini tehdit ediyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-guney-avrupada-orman-yanginlari-binlerce-kisiyi-yerinden-etti-1734356"
         },
         {
-          "title": "Trump'tan Hürmüz açıklaması. \"Gemilere verilen zarar İran'ın dondurulmuş varlıklarından karşılanacak\"",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndan geçen gemilere verilen zararın İran'ın dondurulmuş varlıklarından karşılanacağını açıkladı. Trump'ın, İran’a yönelik daha büyük çaplı yeni bir askeri harekât başlatmayı değerlendirdiği bildirilirken, İran’ın, ABD’nin ilettiği ateşkes teklifini reddettiği öne sürüldü. ABD ve İran arasındaki askeri gerginlik sürerken, ABD Başkanı Donald Trump’tan Hürmüz Boğazı’ndaki ticari deniz trafiğinin güvenliğini sağlamaya yönelik yeni bir hamle geldi.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-hurmuz-aciklamasi-gemilere-verilen-zarar-iranin-dondurulmus-varliklarindan-karsilanacak-1734265"
+          "title": "Tüm kalpleri fethetmişti. Fenomen maymun Punch 1 yaşına giriyor",
+          "summary": "Annesi tarafından reddedildikten sonra peluş oyuncağına sarılarak teselli bulan maymun Punch, bu pazar günü yaşına giriyor. Sevimli maymun için dünyanın dört bir yanından 2 bin 500 doğum günü kartı gönderildi. PELUŞ OYUNCAĞIYLA MİLYONLARA ULAŞTI Japonya'daki Ichikawa Hayvanat Bahçesi'nde yaşayan Japon maymun Punch, bir yaşına giriyor. Doğumunun ardından annesi tarafından terk edilen ve diğer maymunlar tarafından da dışlanan Punch, peluş bir orangutana sarıldığı görüntülerle dünya çapında tanındı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-tum-kalpleri-fethetmisti-fenomen-maymun-punch-1-yasina-giriyor-1734366"
         },
         {
-          "title": "ABD 60 ticaret ortağına tarife uygulayacak",
-          "summary": "ABD Ticaret Temsilciliği (USTR), zorla çalıştırma yoluyla üretilen malların ithalatının yasaklanmaması ve bu yasağın etkin şekilde uygulanmamasına yönelik 1974 tarihli Ticaret Yasası'nın 301. Bölümü kapsamında yürütülen soruşturmalar sonucunda​​​​​​​ 60 ticaret ortağına yüzde 10 veya yüzde 12,5 oranında gümrük vergisi uygulanacağını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-60-ticaret-ortagina-tarife-uygulayacak-43249918"
+          "title": "Yemen'de bir ilk: Kabinede tarihi atama",
+          "summary": "Yemen'deki kabine değişikliğiyle ülke tarihinde ilk kez bir kadın Dışişleri Bakanlığına getirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yemende-bir-ilk-kabinede-tarihi-atama-43250242"
         },
         {
-          "title": "Çin Devlet Başkanı Şi, ABD'yi ziyaret edecek",
-          "summary": "ABD Başkanı Trump, enerji ve yapay zeka teknolojileriyle ilgili yatırımlara değindiği konuşmasında, Çin Devlet Başkanı Şi Cinping'in ABD'yi ziyaret edeceği bilgisini paylaştı.",
-          "source": "https://www.hurriyet.com.tr/dunya/cin-devlet-baskani-si-abdyi-ziyaret-edecek-43249795"
+          "title": "Yunanistan'ın 2030 planı: Atina hükümeti İsrail'e sarıldı",
+          "summary": "Yunanistan, silahlı kuvvetlerini modernize etme programı kapsamında İsrail destekli yaklaşık 3,5 milyar euroluk \"Aşil Kalkanı\" hava savunma sistemine onay verdi. İsrail basını, projenin Türkiye'nin artan savunma kapasitesi ve bölgesel askeri etkisi dikkate alınarak hazırlandığını öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/yunanistanin-2030-plani-atina-hukumeti-israile-sarildi-43250096"
         },
         {
-          "title": "Mossad’dan İran iddiası: Suikast girişimi engellendi",
-          "summary": "İsrail dış istihbarat servisi Mossad, İran'ın üst düzey İsrailli yetkilileri hedef almak amacıyla ülkeye ajan sızdırma girişimini engellediğini iddia etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/mossaddan-iran-iddiasi-suikast-girisimi-engellendi-43249672"
+          "title": "Benin'de korku dolu anlar: Yolcu uçağı pistten çıktı",
+          "summary": "Benin'de 68 kişinin bulunduğu yolcuğu uçağı, havalimanına inişinin ardından pistten çıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/beninde-korku-dolu-anlar-yolcu-ucagi-pistten-cikti-43250230"
         },
         {
-          "title": "Yunanistan, İsrail’den 4 milyar dolarlık hava savunma sistemi alacak",
-          "summary": "Yunanistan, İsrail’den 3,5 milyar euroya kadar maliyeti bulunan çok katmanlı hava savunma sistemi ile çeşitli insansız hava araçları ve Embraer üretimi C-390 askeri nakliye uçaklarının satın alınmasını onayladı. Yunanistan Savunma Bakanı Nikos Dendias, ülkenin en üst düzey dış politika ve savunma karar organı olan Ulusal Güvenlik Konseyi'nin (KYSEA), yılın başında ön onay verdiği projelere ilişkin tedarik sözleşmelerini perşembe günü kabul ettiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/yunanistan-israilden-4-milyar-dolarlik-hava-savunma-sistemi-alacak-1734259"
+          "title": "Gazeteye ilan verip eşini aldattığını itiraf etmişti. Milyarlık hesaplaşmada karar günü",
+          "summary": "Eşini aldattığını ve bu ilişkiden çocuk sahibi olduğunu gazeteye verdiği ilanla itiraf eden SK Group Yönetim Kurulu Başkanı Chey Tae-won ile eski devlet başkanının kızı Roh Soh-yeong arasındaki tarihi boşanma davasında temyiz kararı bekleniyor. Güney Kore'nin önde gelen sanayi gruplarından SK Group'un 65 yaşındaki Yönetim Kurulu Başkanı Chey Tae-won ile eski eşi Roh Soh-yeong arasındaki boşanma davasında nihai karara varılıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-gazeteye-ilan-verip-esini-aldattigini-itiraf-etmisti-milyarlik-hesaplasmada-karar-gunu-1734341"
         },
         {
-          "title": "'Uçan Ferrari' için geri sayım: Tarih verildi",
-          "summary": "TUSAŞ Genel Müdürü Mehmet Demiroğlu, KAAN'ın seri üretiminde kullanılacak 80 adet F110 motoru için ABD'den ihracat onayı alındığını açıkladı. Demiroğlu, HÜRKUŞ-2'nin son testlerini başarıyla tamamladığını ve Türk Hava Kuvvetleri pilotlarının uçağı \"Uçan Ferrari\" olarak adlandırdığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ucan-ferrari-icin-geri-sayim-tarih-verildi-43249606"
+          "title": "The Odyssey krizi. \"264 milyon dolar kazandı, 6 bin dolarlık faturayı ödemedi\"",
+          "summary": "Christopher Nolan'ın gişede büyük ilgi gören The Odyssey filminde kullanılan Viking gemisinin sahipleri, çekimlerin ardından hasarlı teslim edilen gemi için yaklaşık 6 bin dolarlık tamir masrafının ödenmediğini öne sürdü. VİKİNG GEMİSİNİN SAHİPLERİ UNIVERSAL'I SUÇLADI Christopher Nolan'ın yönettiği The Odyssey filminin çekimlerinde kullanılan Viking gemisinin İsveçli sahipleri, Universal Pictures'ın geminin onarım masraflarını karşılama sözünü yerine getirmediğini iddia etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-the-odyssey-krizi-264-milyon-dolar-kazandi-6-bin-dolarlik-faturayi-odemedi-1734345"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Mike Tullberg: 'Beşiktaş'ı iyi tuttuk!'. Vincenzo Italiano: 'Daha fazla gol atabilirdik'. Orkun Kökçü: 'Çalıştığım golü attım!'. Orkun Kökçü bıraktığı yerden devam ediyor!. Milli Takım'daki uyum Beşiktaş'a taşındı: Salih Özcan & Orkun Kökçü ikilisi damga vurdu!. Luka Modric'ten 1 yıllık imza!. Galatasaray'ın kamp kadrosu belli oldu!.",
+      "text": "Gornik Zabrze-Fenerbahçe maçının hakemi açıklandı!. Gençlerbirliği’nin yeni transferi Ensar Çavuşoğlu: 'Lige 3 puanla başlamak istiyoruz'. Filenin Sultanları Milletler Ligi yarı finalinde Çin ile karşılaşacak!. Formula 1'de sıradaki durak Macaristan!. Eskişehir'de yarı maraton heyecanı. Transferde sürpriz gelişme: Vlahovic'in menajeri İstanbul'a geliyor!. Loris Karius'tan Beşiktaş açıklaması: 'Kendimi tamamen boşlukta hissediyordum!'.",
       "items": [
         {
-          "title": "Mike Tullberg: 'Beşiktaş'ı iyi tuttuk!'",
-          "summary": "UEFA Avrupa Ligi 2. eleme turu ilk maçında konuk olduğu Beşiktaş'a 1-0 yenilen Danimarka ekibi Midtjylland'da teknik direktör Mike Tullberg, sonuçtan ve oyundan memnun olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mike-tullberg-besiktasi-iyi-tuttuk-43249822"
+          "title": "Gornik Zabrze-Fenerbahçe maçının hakemi açıklandı!",
+          "summary": "UEFA Şampiyonlar Ligi 2. eleme turunda Fenerbahçe'nin Polonya ekibi Gornik Zabrze ile oynayacağı rövanş maçının hakemi belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gornik-zabrze-fenerbahce-macinin-hakemi-aciklandi-43250334"
         },
         {
-          "title": "Vincenzo Italiano: 'Daha fazla gol atabilirdik'",
-          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, UEFA Avrupa Ligi 2. eleme turunda Midtjylland’ı 1-0 mağlup ettikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-daha-fazla-gol-atabilirdik-43249812"
+          "title": "Gençlerbirliği’nin yeni transferi Ensar Çavuşoğlu: 'Lige 3 puanla başlamak istiyoruz'",
+          "summary": "Gençlerbirliği'nin Vanspor FK’dan kadrosuna kattığı Muhammet Ensar Çavuşoğlu, Süper Lig’in ilk haftasında oynayacakları Fenerbahçe maçıyla ilgili, “Fenerbahçe çok büyük bir kulüp. Hocamız şans verirse tabi ki ilk maçımda oynamayı çok isterim. Ama şöyle bir avantajımız var; iç sahada oynuyoruz. Taraftarımızın önünde oynayacağız. Lige galibiyetle başlayıp, öyle sürdürmek istiyoruz. İnşallah 3 puanla, galibiyetle ayrılıp, lige daha iyi devam edebiliriz” dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginin-yeni-transferi-ensar-cavusoglu-lige-3-puanla-baslamak-istiyoruz-43250326"
         },
         {
-          "title": "Orkun Kökçü: 'Çalıştığım golü attım!'",
-          "summary": "Beşiktaş'ta Orkun Kökçü, Salih Özcan ve Alexander Nübel, Midtjylland galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/orkun-kokcu-calistigim-golu-attim-43249807"
+          "title": "Filenin Sultanları Milletler Ligi yarı finalinde Çin ile karşılaşacak!",
+          "summary": "A Milli Kadın Voleybol Takımı, 2026 FIVB Milletler Ligi (VNL) yarı finalinde yarın ev sahibi Çin ile karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-milletler-ligi-yari-finalinde-cin-ile-karsilasacak-43250316"
         },
         {
-          "title": "Orkun Kökçü bıraktığı yerden devam ediyor!",
-          "summary": "Geçtiğimiz sezon özellikle Süper Lig’in ikinci yarısında attığı gollerle dikkat çeken Orkun Kökçü, bu performansına kaldığı yerden devam ediyor. Midtjylland filelerini de havalandırmayı başaran milli futbolcu, yeni sezona golle başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/orkun-kokcu-biraktigi-yerden-devam-ediyor-43249802"
+          "title": "Formula 1'de sıradaki durak Macaristan!",
+          "summary": "Formula 1 Dünya Şampiyonası'nda heyecan, sezonun 11. etabı olan Macaristan Grand Prix'siyle devam edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/formula-1de-siradaki-durak-macaristan-43250290"
         },
         {
-          "title": "Milli Takım'daki uyum Beşiktaş'a taşındı: Salih Özcan & Orkun Kökçü ikilisi damga vurdu!",
-          "summary": "Beşiktaş'ın yeni transferi Salih Özcan ile kaptan Orkun Kökçü, siyah-beyazlı formayla birlikte çıktıkları ilk resmi maçta orta sahadaki uyumlarıyla dikkat çekti. Daha önce A Milli Takım forması altında da başarılı performanslar sergileyen ikili, göz doldurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/milli-takimdaki-uyum-besiktasa-tasindi-salih-ozcan-orkun-kokcu-ikilisi-damga-vurdu-43249758"
+          "title": "Eskişehir'de yarı maraton heyecanı",
+          "summary": "Türkiye’nin merakla beklenen koşu organizasyonları arasında yer alan Eskişehir Yarı Maratonu ve Spor Festivali’nin ana sponsoru üçüncü kez ETİ Lifalif oldu. Şirket, geçen yıl olduğu gibi bu yıl da Eskişehir Büyükşehir Belediyesi’nin ev sahipliğinde düzenlenen etkinliğe adını vererek binlerce koşucu ve sporseverin bir araya gelmesine, spor ve sağlıklı yaşam kültürünün yaygınlaşmasına katkı sunacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/eskisehirde-yari-maraton-heyecani-43250289"
         },
         {
-          "title": "Luka Modric'ten 1 yıllık imza!",
-          "summary": "Milan, Hırvat futbolcu Luka Modric'in sözleşmesini 1 yıl uzattığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/luka-modricten-1-yillik-imza-43249667"
+          "title": "Transferde sürpriz gelişme: Vlahovic'in menajeri İstanbul'a geliyor!",
+          "summary": "Beşiktaş'ın kadrosuna katmak istediği Sırp santrfor Dusan Vlahovic'in menajeri Darko Ristic'in transfer görüşmelerinde bulunmak üzere hafta sonunda İstanbul'a geleceği belirtildi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/transferde-surpriz-gelisme-vlahovicin-menajeri-istanbula-geliyor-43250272"
         },
         {
-          "title": "Galatasaray'ın kamp kadrosu belli oldu!",
-          "summary": "Galatasaray, yeni sezon hazırlıklarına devam etti. Sarı-kırmızılı ekibin Avusturya kampı kadrosu belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-kamp-kadrosu-belli-oldu-43249603"
+          "title": "Loris Karius'tan Beşiktaş açıklaması: 'Kendimi tamamen boşlukta hissediyordum!'",
+          "summary": "Schalke forması giyen Loris Karius, 2018 Şampiyonlar Ligi finalinde Real Madrid maçı ve bir dönem formasını giydiği Beşiktaş hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/loris-kariustan-besiktas-aciklamasi-kendimi-tamamen-boslukta-hissediyordum-43250143"
         }
       ]
     },
