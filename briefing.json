@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-24T10:00:02.966Z",
+  "generatedAt": "2026-07-24T16:00:03.866Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da hareketli anlar. Elinde bıçakla ailesini rehin aldı. Meclis'te dengeler değişti. İşte yeni sandalye dağılımı. Özgür Özel ve 90 milletvekili CHP'den istifa etti. Yeni Parti resmen kuruluyor. İstanbul barajları alarm veriyor! Uzmanı uyardı: Sonbaharda risk artacak. İşte Yeni Parti'nin logosu. MHP lideri Bahçeli'den 'Lozan' mesajı. CHP sandalye sayısı kaç oldu: Yeni Parti kuruldu, CHP'nin milletvekili sayısı değişti... İşte CHP'nin milletvekili sayısı.",
+      "text": "Bakan Murat Kurum, şehir kütüphanesini gezdi. Ayasofya’nın ana kubbesinde yeni güncelleme: Kubbenin gerçek halini ilk kez göreceğiz. Kılıçdaroğlu'ndan flaş hamle! Milletvekillerini toplantıya çağırdı. Çöplük günlerdir yanıyor. Duman kent merkezine ulaştı, mahalleler is kokuyor. Kılıçdaroğlu'ndan CHP'deki istifalar sonrası ilk paylaşım. Cumhurbaşkanı Erdoğan, Özbekistan Cumhurbaşkanı ile görüştü. AK Parti ve DEM Parti'den Terörsüz Türkiye görüşmesi.",
       "items": [
         {
-          "title": "İstanbul'da hareketli anlar. Elinde bıçakla ailesini rehin aldı",
-          "summary": "İstanbul'da madde bağımlısı olduğu ileri sürülen bir kişi elinde bıçakla ailesini rehin aldı. Saldırgan özel harekat polisleri tarafından etkisiz hale getirildi. İstanbul Sultangazi'de bir kişi ailesini bıçakla rehin aldı. Olay, sabah saatlerinde İsmetpaşa Mahallesi'nde meydana geldi. İddiaya göre, uyuşturucu madde bağımlısı olduğu öne sürülen bir şüpheli, evde bulunan ailesini bıçakla rehin aldı. Çevredekilerin ihbarı üzerine olay yerine polis, acil sağlık ve itfaiye ekipleri geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulda-hareketli-anlar-elinde-bicakla-ailesini-rehin-aldi-1734359"
+          "title": "Bakan Murat Kurum, şehir kütüphanesini gezdi",
+          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Malatya programı kapsamında Büyükşehir Belediyesini ziyaret ederek, Başkan Sami Er'in rehberliğinde bölgenin en kapasiteli şehir kütüphanesini gezdi. Gençlerle bir araya gelen Kurum, kütüphanenin ve Büyükşehir Belediyesi'nin sunduğu imkanları inceleyerek öğrencilere, \"Başkanımız yaptığı eserle sizleri üniversiteye hazırlıyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-murat-kurum-sehir-kutuphanesini-gezdi-43250813"
         },
         {
-          "title": "Meclis'te dengeler değişti. İşte yeni sandalye dağılımı",
-          "summary": "Özgür Özel ve 90 milletvekilinin CHP'den istifasıyla Meclis aritmetiği büyük oranda değişecek. CHP'de bir dönem sona erdi. Mutlak butlan kararı sonrası yönetim krizinin yaşandığı CHP'de Özgür Özel ve arkadaşları istifa etti. Özel dahil 91 milletvekilinin imzasıyla Yeni Parti'nin kuruluş dilekçesi hazırlandı. Bu istifalarla birlikte Meclis'te sandalye dağılımı da değişecek. MECLİS'TE BÜYÜK DEĞİŞİM YAŞANACAK Özel ve ekibinin istifa dilekçeleri Türkiye Büyük Millet Meclisi Başkanlığı'na sunuldu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-mecliste-dengeler-degisti-iste-yeni-sandalye-dagilimi-1734352"
+          "title": "Ayasofya’nın ana kubbesinde yeni güncelleme: Kubbenin gerçek halini ilk kez göreceğiz",
+          "summary": "Ayasofya-i Kebir Camii'nde yürütülen Cumhuriyet tarihinin en kapsamlı restorasyon çalışmalarında yeni bir aşamaya geçildi. Ana kubbeyi koruyacak özel membran sisteminin kurulmasıyla birlikte kurşun örtü kaldırılarak kubbenin mevcut durumu ilk kez bütüncül biçimde incelenecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/ayasofyanin-ana-kubbesinde-yeni-guncelleme-kubbenin-gercek-halini-ilk-kez-gorecegiz-43250785"
         },
         {
-          "title": "Özgür Özel ve 90 milletvekili CHP'den istifa etti. Yeni Parti resmen kuruluyor",
-          "summary": "Özgür Özel ile beraberindeki 90 milletvekili, CHP'den istifa etti ve Yeni Parti'nin kuruluş dilekçesini imzalayarak İçişleri Bakanlığı'na teslim etti. İstinaf mahkemesinin “mutlak butlan” kararı sonrası “yönetim” konusunda tartışmalı bir sürece giren CHP'de bir dönem sona erdi. Söz konusu hükmün ardından Genel Başkanlık görevinden alınan, sonrasında milletvekilleri tarafından Grup Başkanı seçilen Özgür Özel, olağanüstü kurultay taleplerinin karşılanmaması üzerine ekibiyle birlikte CHP'den istifa etti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ozgur-ozel-ve-91-milletvekili-chpden-istifa-etti-1734317"
+          "title": "Kılıçdaroğlu'ndan flaş hamle! Milletvekillerini toplantıya çağırdı",
+          "summary": "Özgür Özel'in CHP'den istifa ederek Yeni Parti'yi kurması sonrası Kılıçdaroğlu cephesinden hamle geldi. CHP Genel Başkanı Kemal Kılıçdaroğlu, pazar günü milletvekilleri ile toplantı gerçekleştirecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/kilicdaroglundan-flas-hamle-milletvekillerini-toplantiya-cagirdi-43250751"
         },
         {
-          "title": "İstanbul barajları alarm veriyor! Uzmanı uyardı: Sonbaharda risk artacak",
-          "summary": "İstanbul'a su sağlayan barajlardaki doluluk oranı yağışların azalması ve yazın artan su tüketiminin etkisiyle yüzde 56,63'e gerilerken, uzmanlar yağışların yetersiz seyretmesi halinde sonbaharda su sorunu riskinin artabileceği uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbul-barajlari-alarm-veriyor-uzmani-uyardi-sonbaharda-risk-artacak-43250327"
+          "title": "Çöplük günlerdir yanıyor. Duman kent merkezine ulaştı, mahalleler is kokuyor",
+          "summary": "Amasya'da katı atık bertaraf tesisinin çöp döküm sahası beş gündür yanıyor. Çöplükten yükselen duman kenti olumsuz etkiliyor, mahallelerde is kokusu var. Amasya'da katı atık bertaraf tesisinin çöp döküm sahasında çıkan yangın, 5'inci gününde içten içe yanmaya devam ediyor. Merkeze bağlı Boğazköy mevkisinde bulunan Amasya Katı Atık Bertaraf Tesisleri Birliği (AKAB) çöp döküm sahasında pazar günü henüz belirlenemeyen nedenle çıkan yangında alevler, ekiplerin müdahalesiyle kontrol altına alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-copluk-gunlerdir-icin-icin-yaniyor-duman-kent-merkezine-ulasti-mahalleler-is-kokuyor-1734400"
         },
         {
-          "title": "İşte Yeni Parti'nin logosu",
-          "summary": "Özgür Özel'in CHP'den istifa ederek kuruluş dilekçesini imzaladığı Yeni Parti'nin logosu ortaya çıktı. Özgür Özel ve beraberindeki 90 milletvekili CHP'den istifa etti. Yeni oluşumun adı Yeni Parti olarak belirlendi. Özel'in kurmayları kuruluş dilekçesini İçişleri Bakanlığı'na verecek. Yeni Parti'nin logosu ortaya çıktı. İŞTE YENİ PARTİ'NİN LOGOSU Yeni Parti'nin logosu beyaz bir zeminde yer alıyor. Kırmızıyla yazılan “YENİ” yazısının altında bir çizgi hemen altında siyah yazıyla “PARTİ” yazısı bulunuyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-iste-yeni-partinin-logosu-1734346"
+          "title": "Kılıçdaroğlu'ndan CHP'deki istifalar sonrası ilk paylaşım",
+          "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Özgür Özel ve beraberindeki 90 milletvekilinin partiden istifasının ardından bir paylaşım yaptı. Cumhuriyet Halk Partisi'nde mutlak butlan kararı sonrası başlayan yönetim krizi, Özgür Özel ve beraberindeki 90 milletvekilinin Yeni Parti'yi kurmak için istifasıyla sonuçlandı. Özel ve arkadaşları bugün partiden istifa edip Yeni Parti'nin kuruluş dilekçesini İçişleri Bakanlığı'na teslim etti.",
+          "source": "https://www.ntv.com.tr/turkiye/kilicdaroglundan-chpdeki-istifalar-sonrasi-ilk-paylasim-1734368"
         },
         {
-          "title": "MHP lideri Bahçeli'den 'Lozan' mesajı",
-          "summary": "MHP Genel Başkanı Devlet Bahçeli, Lozan Barış Antlaşması'nın yıl dönümünde sosyal medya hesabından mesaj yayımladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-lozan-mesaji-43250260"
+          "title": "Cumhurbaşkanı Erdoğan, Özbekistan Cumhurbaşkanı ile görüştü",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Mirziyoyev ile telefonda görüştü.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ozbekistan-cumhurbaskani-ile-gorustu-43250696"
         },
         {
-          "title": "CHP sandalye sayısı kaç oldu: Yeni Parti kuruldu, CHP'nin milletvekili sayısı değişti... İşte CHP'nin milletvekili sayısı",
-          "summary": "Özgür Özel ve 90 milletvekilinin CHP'den istifasının ve Yeni Parti'yi kurmasının adından Meclis'teki sandalye dağılımı da değişti. TBMM'deki koltuk sayısı gerilere düşen CHP'nin milletvekili sayısı merak edilmeye başladı. Peki, CHP'nin sandalye sayısı kaça düştü? İşte Meclis'teki sandalye dağılımı... Mutlak butlan kararı sonrası yönetim krizinin yaşandığı CHP'de dengeler değişti. Özgür Özel ve 90 milletvekili CHP'den istifa etti. YENİ PARTİYİ KURDU İstifa dilekçelerini Özel ve ekibi, TBMM'ye sundu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-chp-sandalye-sayisi-kac-oldu-yeni-parti-kuruldu-chpnin-milletvekili-sayisi-degisti-iste-chpnin-milletvekili-sayisi-1734355"
+          "title": "AK Parti ve DEM Parti'den Terörsüz Türkiye görüşmesi",
+          "summary": "AK Parti ve DEM Parti heyetleri arasında Terörsüz Türkiye sürecine ilişkin görüşme yapıldı. AK Parti ve DEM Parti heyetleri \"Terörsüz Türkiye\" sürecine ilişkin Meclis'te görüşme gerçekleştirdi. AK Parti Grup Başkanı Abdullah Güler, AK Parti Genel Başkanvekili Efkan Ala ve AK Parti Sözcüsü Ömer Çelik, DEM Parti heyeti ile bir araya geldi. Heyetlerin, Terörsüz Türkiye sürecine ilişkin görüşme yaptığı öğrenildi.",
+          "source": "https://www.ntv.com.tr/turkiye/ak-parti-ve-dem-partiden-terorsuz-turkiye-gorusmesi-1734407"
         }
       ]
     },
     "dunya": {
-      "text": "Güney Avrupa'da orman yangınları binlerce kişiyi yerinden etti. Tüm kalpleri fethetmişti. Fenomen maymun Punch 1 yaşına giriyor. Yemen'de bir ilk: Kabinede tarihi atama. Yunanistan'ın 2030 planı: Atina hükümeti İsrail'e sarıldı. Benin'de korku dolu anlar: Yolcu uçağı pistten çıktı. Gazeteye ilan verip eşini aldattığını itiraf etmişti. Milyarlık hesaplaşmada karar günü. The Odyssey krizi. \"264 milyon dolar kazandı, 6 bin dolarlık faturayı ödemedi\".",
+      "text": "Kuveyt ordusu, hava savunma sistemlerinin İran'ın İHA saldırılarına karşı devreye girdiğini duyurdu. Netanyahu salı günü ABD'de Trump'la görüşecek. KKTC'de 2 bin 500 tonluk buğday silosu çöktü. Bangladeş siyasetinde deprem: Cumhurbaşkanı istifa etti. Almanya'da değişim rüzgarı: Kabinede revizyon kararı alındı. Kuzey İrlanda'ya hedef alan bombalı saldırı son anda önlendi. Kiev füzelerle vuruldu: 6 kişi yaşamını yitirdi.",
       "items": [
         {
-          "title": "Güney Avrupa'da orman yangınları binlerce kişiyi yerinden etti",
-          "summary": "Güney Batı Avrupa'yı etkisi altına alan şiddetli orman yangınları nedeniyle Fransa ve İspanya'da binlerce kişi tahliye edildi, üç itfaiyeci yaşamını yitirdi. Sıcaklığın 40 dereceyi aştığı bölgede Fransa, Avrupa Birliği'nden hava desteği talep ederken İspanya'nın Madrid bölgesinde acil durum ilan edildi. Bölgeyi etkisi altına alan aşırı sıcaklar ve rüzgârın etkisiyle büyüyen orman yangınları, Batı Avrupa'nın güney kesimlerinde yerleşim yerlerini ve tatil beldelerini tehdit ediyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-guney-avrupada-orman-yanginlari-binlerce-kisiyi-yerinden-etti-1734356"
+          "title": "Kuveyt ordusu, hava savunma sistemlerinin İran'ın İHA saldırılarına karşı devreye girdiğini duyurdu",
+          "summary": "Kuveyt ordusu, hava savunma sistemlerinin İran'ın insansız hava aracı (İHA) saldırılarına karşı devreye girdiğini açıkladı. Kuveyt ordusunun ABD merkezli X şirketinin sosyal medya platformundaki hesabından yapılan açıklamada,\"Kuveyt hava savunma sistemleri, İran saldırısının ardından düşman İHA saldırılarına karşı koymaktadır.\" ifadesi kullanıldı.",
+          "source": "https://www.ntv.com.tr/dunya/kuveyt-ordusu-hava-savunma-sistemlerinin-iranin-iha-saldirilarina-karsi-devreye-girdigini-duyurdu-1734414"
         },
         {
-          "title": "Tüm kalpleri fethetmişti. Fenomen maymun Punch 1 yaşına giriyor",
-          "summary": "Annesi tarafından reddedildikten sonra peluş oyuncağına sarılarak teselli bulan maymun Punch, bu pazar günü yaşına giriyor. Sevimli maymun için dünyanın dört bir yanından 2 bin 500 doğum günü kartı gönderildi. PELUŞ OYUNCAĞIYLA MİLYONLARA ULAŞTI Japonya'daki Ichikawa Hayvanat Bahçesi'nde yaşayan Japon maymun Punch, bir yaşına giriyor. Doğumunun ardından annesi tarafından terk edilen ve diğer maymunlar tarafından da dışlanan Punch, peluş bir orangutana sarıldığı görüntülerle dünya çapında tanındı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-tum-kalpleri-fethetmisti-fenomen-maymun-punch-1-yasina-giriyor-1734366"
+          "title": "Netanyahu salı günü ABD'de Trump'la görüşecek",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun 28 Temmuz Salı günü Washington'da ABD Başkanı Donald Trump ile bir araya geleceği bildirildi. İsrail Başbakanlık Ofisinden yapılan açıklamada, Netanyahu'nun resmi ziyaret gerçekleştirmek üzere pazartesi günü Washington'a gideceği belirtildi. Cumhuriyetçi Senatör Lindsey Graham'ın cenaze törenine de katılacak Netanyahu'nun ziyaret kapsamında Beyaz Saray'da ABD Başkanı Trump ile bir araya geleceği aktarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/netanyahu-sali-gunu-abdde-trumpla-gorusecek-1734413"
         },
         {
-          "title": "Yemen'de bir ilk: Kabinede tarihi atama",
-          "summary": "Yemen'deki kabine değişikliğiyle ülke tarihinde ilk kez bir kadın Dışişleri Bakanlığına getirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yemende-bir-ilk-kabinede-tarihi-atama-43250242"
+          "title": "KKTC'de 2 bin 500 tonluk buğday silosu çöktü",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti’nde (KKTC), Toprak Ürünleri Kurumu’na ait 2 bin 500 ton kapasiteli buğday silosu çöktü. Meydana gelen facia sonucu enkaz altında kalan işçi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/kktcde-2-bin-500-tonluk-bugday-silosu-coktu-43250710"
         },
         {
-          "title": "Yunanistan'ın 2030 planı: Atina hükümeti İsrail'e sarıldı",
-          "summary": "Yunanistan, silahlı kuvvetlerini modernize etme programı kapsamında İsrail destekli yaklaşık 3,5 milyar euroluk \"Aşil Kalkanı\" hava savunma sistemine onay verdi. İsrail basını, projenin Türkiye'nin artan savunma kapasitesi ve bölgesel askeri etkisi dikkate alınarak hazırlandığını öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunanistanin-2030-plani-atina-hukumeti-israile-sarildi-43250096"
+          "title": "Bangladeş siyasetinde deprem: Cumhurbaşkanı istifa etti",
+          "summary": "Bangladeş Cumhurbaşkanı Muhammed Şahabuddin, sağlık sorunları nedeniyle istifa etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/banglades-siyasetinde-deprem-cumhurbaskani-istifa-etti-43250676"
         },
         {
-          "title": "Benin'de korku dolu anlar: Yolcu uçağı pistten çıktı",
-          "summary": "Benin'de 68 kişinin bulunduğu yolcuğu uçağı, havalimanına inişinin ardından pistten çıktı.",
-          "source": "https://www.hurriyet.com.tr/dunya/beninde-korku-dolu-anlar-yolcu-ucagi-pistten-cikti-43250230"
+          "title": "Almanya'da değişim rüzgarı: Kabinede revizyon kararı alındı",
+          "summary": "Almanya Başbakanı Friedrich Merz, 15’inci ayına giren koalisyon hükümetinin büyük ortağı olan partisi Hristiyan Demokrat Birlik Partisi’nde (CDU) ve Bakanlar Kurulunda değişikliğe gideceğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-degisim-ruzgari-kabinede-revizyon-karari-alindi-43250630"
         },
         {
-          "title": "Gazeteye ilan verip eşini aldattığını itiraf etmişti. Milyarlık hesaplaşmada karar günü",
-          "summary": "Eşini aldattığını ve bu ilişkiden çocuk sahibi olduğunu gazeteye verdiği ilanla itiraf eden SK Group Yönetim Kurulu Başkanı Chey Tae-won ile eski devlet başkanının kızı Roh Soh-yeong arasındaki tarihi boşanma davasında temyiz kararı bekleniyor. Güney Kore'nin önde gelen sanayi gruplarından SK Group'un 65 yaşındaki Yönetim Kurulu Başkanı Chey Tae-won ile eski eşi Roh Soh-yeong arasındaki boşanma davasında nihai karara varılıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-gazeteye-ilan-verip-esini-aldattigini-itiraf-etmisti-milyarlik-hesaplasmada-karar-gunu-1734341"
+          "title": "Kuzey İrlanda'ya hedef alan bombalı saldırı son anda önlendi",
+          "summary": "İrlanda'da, Birleşik Krallık'a bağlı Kuzey İrlanda'da bir saldırıda kullanılmak üzere götürüldüğü değerlendirilen patlayıcı yüklü araç durduruldu. İrlanda polisi, planlanan saldırının çok ciddi hasar verme potansiyeli taşıdığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/kuzey-irlandaya-hedef-alan-bombali-saldiri-son-anda-onlendi-43250610"
         },
         {
-          "title": "The Odyssey krizi. \"264 milyon dolar kazandı, 6 bin dolarlık faturayı ödemedi\"",
-          "summary": "Christopher Nolan'ın gişede büyük ilgi gören The Odyssey filminde kullanılan Viking gemisinin sahipleri, çekimlerin ardından hasarlı teslim edilen gemi için yaklaşık 6 bin dolarlık tamir masrafının ödenmediğini öne sürdü. VİKİNG GEMİSİNİN SAHİPLERİ UNIVERSAL'I SUÇLADI Christopher Nolan'ın yönettiği The Odyssey filminin çekimlerinde kullanılan Viking gemisinin İsveçli sahipleri, Universal Pictures'ın geminin onarım masraflarını karşılama sözünü yerine getirmediğini iddia etti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-the-odyssey-krizi-264-milyon-dolar-kazandi-6-bin-dolarlik-faturayi-odemedi-1734345"
+          "title": "Kiev füzelerle vuruldu: 6 kişi yaşamını yitirdi",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun Kiev bölgesini füze saldırısıyla hedef aldığını kaydetti. Ukrayna lideri, saldırıda ilk belirlemelere göre 6 kişinin hayatını kaybettiğini ve onlarca kişinin yaralandığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/kiev-fuzelerle-vuruldu-6-kisi-yasamini-yitirdi-43250587"
         }
       ]
     },
     "ekonomi": {
-      "text": "DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi. Egeli hazır giyimciler ABD pazarına odaklandı.",
+      "text": "Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi.",
       "items": [
+        {
+          "title": "Didim’e uluslararası marka yatırımı",
+          "summary": "Aydın’ın yükselen turizm destinasyonlarından Didim, uluslararası otel yatırımlarına bir yenisini daha kazandırıyor.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/didime-uluslararasi-marka-yatirimi-43250531"
+        },
         {
           "title": "DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli",
           "summary": "Gayrimenkul sektöründe sanat eseri niteliğinde projeler üreten DAP Gayrimenkul Geliştirme, Emlak Konut güvencesi ve Dap vizyonu ile satışa çıkardığı yeni projesi Ataşehir 173’te kontrollü ve planlı bir finansman modeline imza attı. Tasarrufa Dayalı Faizsiz Finansman sistemi ile 60 ve 30 aylık sözleşmelerle faizsiz kefilsiz finansman desteği.",
@@ -115,51 +120,46 @@
           "title": "Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi",
           "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, uzun süredir bankanın hedefinin üzerinde seyreden enflasyonu \"haksız bir yük\" ve \"vergi\" olarak nitelendirerek, bunun ortadan kaldırılması için para politikası yaklaşımında bir rejim değişikliğine ihtiyaç olduğunu ifade etti.",
           "source": "https://www.hurriyet.com.tr/dunya/fed-baskani-warshtan-kritik-enflasyon-aciklamasi-rejim-degisikligi-mesaji-verdi-43239997"
-        },
-        {
-          "title": "Egeli hazır giyimciler ABD pazarına odaklandı",
-          "summary": "Amerika Birleşik Devletleri’ni hedef pazar olarak belirleyen Ege Hazır Giyim ve Konfeksiyon İhracatçıları Birliği, 14-15 Temmuz’da düzenlenecek Premiere Vision (PV) Manufacturing New York Fuarı’na 13 firmayla Türkiye Milli Katılım Organizasyonu düzenliyor.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egeli-hazir-giyimciler-abd-pazarina-odaklandi-43237643"
         }
       ]
     },
     "spor": {
-      "text": "Gornik Zabrze-Fenerbahçe maçının hakemi açıklandı!. Gençlerbirliği’nin yeni transferi Ensar Çavuşoğlu: 'Lige 3 puanla başlamak istiyoruz'. Filenin Sultanları Milletler Ligi yarı finalinde Çin ile karşılaşacak!. Formula 1'de sıradaki durak Macaristan!. Eskişehir'de yarı maraton heyecanı. Transferde sürpriz gelişme: Vlahovic'in menajeri İstanbul'a geliyor!. Loris Karius'tan Beşiktaş açıklaması: 'Kendimi tamamen boşlukta hissediyordum!'.",
+      "text": "Arda Güler için yeni iddia: 'Saf dışı bırakmak istediler, Xabi'ye karşıydı'. Eyüpspor Mete Kaan Demir'i kadrosuna kattı. Filenin Sultanları yarı final öncesi kupa hedefiyle motive. Belçika Milli Takımı'nda Van Bommel dönemi başladı. Trabzonspor, Avusturya'da yeni sezon hazırlıklarını sürdürdü. Beşiktaş'ta Midtjylland maçı hazırlıkları başladı. Beşiktaş da istiyordu: Galatasaray'dan Jhon Lucumi'ye dev teklif!.",
       "items": [
         {
-          "title": "Gornik Zabrze-Fenerbahçe maçının hakemi açıklandı!",
-          "summary": "UEFA Şampiyonlar Ligi 2. eleme turunda Fenerbahçe'nin Polonya ekibi Gornik Zabrze ile oynayacağı rövanş maçının hakemi belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gornik-zabrze-fenerbahce-macinin-hakemi-aciklandi-43250334"
+          "title": "Arda Güler için yeni iddia: 'Saf dışı bırakmak istediler, Xabi'ye karşıydı'",
+          "summary": "Real Madrid'de bazı yıldız oyuncuların, geçtiğimiz sezon Arda Güler'i saf dışı bırakmak istediği iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-guler-icin-yeni-iddia-saf-disi-birakmak-istediler-xabiye-karsiydi-43250828"
         },
         {
-          "title": "Gençlerbirliği’nin yeni transferi Ensar Çavuşoğlu: 'Lige 3 puanla başlamak istiyoruz'",
-          "summary": "Gençlerbirliği'nin Vanspor FK’dan kadrosuna kattığı Muhammet Ensar Çavuşoğlu, Süper Lig’in ilk haftasında oynayacakları Fenerbahçe maçıyla ilgili, “Fenerbahçe çok büyük bir kulüp. Hocamız şans verirse tabi ki ilk maçımda oynamayı çok isterim. Ama şöyle bir avantajımız var; iç sahada oynuyoruz. Taraftarımızın önünde oynayacağız. Lige galibiyetle başlayıp, öyle sürdürmek istiyoruz. İnşallah 3 puanla, galibiyetle ayrılıp, lige daha iyi devam edebiliriz” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginin-yeni-transferi-ensar-cavusoglu-lige-3-puanla-baslamak-istiyoruz-43250326"
+          "title": "Eyüpspor Mete Kaan Demir'i kadrosuna kattı",
+          "summary": "Eyüpspor, kanat oyuncusu Mete Kaan Demir'i kadrosuna kattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/eyupspor-mete-kaan-demiri-kadrosuna-katti-43250761"
         },
         {
-          "title": "Filenin Sultanları Milletler Ligi yarı finalinde Çin ile karşılaşacak!",
-          "summary": "A Milli Kadın Voleybol Takımı, 2026 FIVB Milletler Ligi (VNL) yarı finalinde yarın ev sahibi Çin ile karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-milletler-ligi-yari-finalinde-cin-ile-karsilasacak-43250316"
+          "title": "Filenin Sultanları yarı final öncesi kupa hedefiyle motive",
+          "summary": "A Milli Kadın Voleybol Takımı oyuncuları Deniz Uyanık ve Defne Başyolcu, final etabı öncesinde yoğun şekilde çalıştıklarını ve takım motivasyonunun yüksek olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-yari-final-oncesi-kupa-hedefiyle-motive-43250727"
         },
         {
-          "title": "Formula 1'de sıradaki durak Macaristan!",
-          "summary": "Formula 1 Dünya Şampiyonası'nda heyecan, sezonun 11. etabı olan Macaristan Grand Prix'siyle devam edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/formula-1de-siradaki-durak-macaristan-43250290"
+          "title": "Belçika Milli Takımı'nda Van Bommel dönemi başladı",
+          "summary": "Belçika Milli Takımı'nda Rudi Garcia'dan boşalan teknik direktörlük görevine Mark van Bommel getirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/belcika-milli-takiminda-van-bommel-donemi-basladi-43250726"
         },
         {
-          "title": "Eskişehir'de yarı maraton heyecanı",
-          "summary": "Türkiye’nin merakla beklenen koşu organizasyonları arasında yer alan Eskişehir Yarı Maratonu ve Spor Festivali’nin ana sponsoru üçüncü kez ETİ Lifalif oldu. Şirket, geçen yıl olduğu gibi bu yıl da Eskişehir Büyükşehir Belediyesi’nin ev sahipliğinde düzenlenen etkinliğe adını vererek binlerce koşucu ve sporseverin bir araya gelmesine, spor ve sağlıklı yaşam kültürünün yaygınlaşmasına katkı sunacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/eskisehirde-yari-maraton-heyecani-43250289"
+          "title": "Trabzonspor, Avusturya'da yeni sezon hazırlıklarını sürdürdü",
+          "summary": "Trabzonspor, yeni sezon hazırlıklarını Avusturya kampında yaptığı antrenmanla sürdürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-avusturyada-yeni-sezon-hazirliklarini-surdurdu-43250713"
         },
         {
-          "title": "Transferde sürpriz gelişme: Vlahovic'in menajeri İstanbul'a geliyor!",
-          "summary": "Beşiktaş'ın kadrosuna katmak istediği Sırp santrfor Dusan Vlahovic'in menajeri Darko Ristic'in transfer görüşmelerinde bulunmak üzere hafta sonunda İstanbul'a geleceği belirtildi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/transferde-surpriz-gelisme-vlahovicin-menajeri-istanbula-geliyor-43250272"
+          "title": "Beşiktaş'ta Midtjylland maçı hazırlıkları başladı",
+          "summary": "UEFA Avrupa Ligi 2. ön eleme turu rövanşında 30 Temmuz Perşembe günü Danimarka temsilcisi Midtjylland ile deplasmanda karşılaşacak Beşiktaş, hazırlıklarına ara vermeden başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-midtjylland-maci-hazirliklari-basladi-43250698"
         },
         {
-          "title": "Loris Karius'tan Beşiktaş açıklaması: 'Kendimi tamamen boşlukta hissediyordum!'",
-          "summary": "Schalke forması giyen Loris Karius, 2018 Şampiyonlar Ligi finalinde Real Madrid maçı ve bir dönem formasını giydiği Beşiktaş hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/loris-kariustan-besiktas-aciklamasi-kendimi-tamamen-boslukta-hissediyordum-43250143"
+          "title": "Beşiktaş da istiyordu: Galatasaray'dan Jhon Lucumi'ye dev teklif!",
+          "summary": "Galatasaray, Beşiktaş'ın transferi için görüşmelerde bulunduğu Kolombiyalı stoper Jhon Lucumi'ye teklifte bulundu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-da-istiyordu-galatasaraydan-jhon-lucumiye-dev-teklif-43250612"
         }
       ]
     },
