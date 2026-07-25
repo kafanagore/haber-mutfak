@@ -1,65 +1,60 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-25T10:00:02.913Z",
+  "generatedAt": "2026-07-25T16:00:03.692Z",
   "categories": {
     "gundem": {
-      "text": "MİT gizli yazışmaların deşifre edilmesine ilişkin tarihi belgeyi paylaştı. Özgür Özel'in A Takımı belli oldu. Yargıtay'dan işletmecileri ilgilendiren emsal karar. Plaja sokmayana hapis cezası. Adana'da kan donduran cinayet: Eşini kızının gözü önünde öldürmüş! 'Boşanma davası çekişmeliye döndü ve olanlar oldu'. 8 yaşındaki Asya, dünya birincisi oldu. Diş ağrısı için gitti hayatı karardı. Şimdi beyninde ömür boyu cihazla yaşayacak. Yaz ortasında kış yaşanıyor | İstanbul ve Ankara'da yollar göle döndü, araçlar sürüklenip alt geçitte mahsur kaldı.",
+      "text": "Otomobil markete daldı. Çalışan ve müşteriler ölümden döndü. Yıldırımın isabet ettiği sürüde 50 keçi telef oldu. Sağlık Bakanı Memişoğlu: Rize Şehir Hastanesi 2027 yılında hizmete girecek. Ümraniye’de kaçan boğa dükkana girdi. Kısa süreli panik kamerada. Muğla'da orman yangını. 5 hektar ziraat ve orman alanı zarar gördü. Trabzon 205. Geleneksel Sis Dağı Kültür Şenlikleri'ne yoğun katılım. Uyarılara aldırmadı, dev dalgalara rağmen denize girdi.",
       "items": [
         {
-          "title": "MİT gizli yazışmaların deşifre edilmesine ilişkin tarihi belgeyi paylaştı",
-          "summary": "Milli İstihbarat Teşkilatı (MİT) tarafından, \"bizzat açılacaktır\" ibaresiyle hazırlanan gizli yazışmaların deşifre edilmesine ilişkin tarihi belge paylaşıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/mit-gizli-yazismalarin-desifre-edilmesine-iliskin-tarihi-belgeyi-paylasti-43251373"
+          "title": "Otomobil markete daldı. Çalışan ve müşteriler ölümden döndü",
+          "summary": "Muğla'nın Milas ilçesinde kontrolden çıkan otomobil bir markete daldı. Kaza anı kameralara yansırken, markette bulunan çalışanlar ve müşteriler ölümden döndü. Ören Mahallesi'nde meydana gelen kazada, otomobilin sürücüsü henüz bilinmeyen bir nedenle direksiyon hakimiyetini kaybetti. Kontrolden çıkan otomobil. yol kenarında bulunan bir zincir markete daldı. Kaza sırasında markette bulunan çalışanlar ve müşteriler büyük panik yaşarken, olayda can kaybı ya da yaralanan olmadı.",
+          "source": "https://www.ntv.com.tr/turkiye/otomobil-markete-daldi-calisan-ve-musteriler-olumden-dondu-1734553"
         },
         {
-          "title": "Özgür Özel'in A Takımı belli oldu",
-          "summary": "CHP'den istifa eden 91 milletvekilinin kurduğu Yeni Parti'de kritik bir gelişme yaşandı. Oy birliğiyle Genel Başkan seçilen Özgür Özel'in A Takımı belli oldu. İstinaf mahkemesinin “mutlak butlan” kararı sonrası sert tartışmaların yaşandığı CHP'de dün bir dönem sona erdi. Söz konusu hükmün ardından Genel Başkanlık görevinden alınan, sonrasında milletvekilleri tarafından Grup Başkanı seçilen Özgür Özel, olağanüstü kurultay taleplerinin karşılanmaması üzerine ekibiyle birlikte CHP'den istifa etti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ozgur-ozelin-a-takimi-belli-oldu-1734519"
+          "title": "Yıldırımın isabet ettiği sürüde 50 keçi telef oldu",
+          "summary": "Isparta'nın Eğirdir ilçesinde yaylada otlayan keçi sürüsüne yıldırım isabet etmesi sonucu 50 keçi telef oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/yildirimin-isabet-ettigi-surude-50-keci-telef-oldu-43251733"
         },
         {
-          "title": "Yargıtay'dan işletmecileri ilgilendiren emsal karar. Plaja sokmayana hapis cezası",
-          "summary": "Yargıtay, İzmir'de özel işletme tarafından plajdan zorla çıkarılan doktorun itirazın haklı bulup hem işletme sahibine hem de görevliye verilen bir yıl 8 aylık hapis cezasını onadı. İzmir Atınkum Plajı'nda 2012 yılında yaşanan bir tartışma, yıllar sonra kamuya açık kıyılarda vatandaşın denize giriş hakkını güvence altına alan emsal bir Yargıtay kararına dönüştü.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-yargitaydan-isletmecileri-ilgilendiren-emsal-karar-plaja-sokmayana-hapis-cezasi-1734521"
+          "title": "Sağlık Bakanı Memişoğlu: Rize Şehir Hastanesi 2027 yılında hizmete girecek",
+          "summary": "Sağlık Bakanı Kemal Memişoğlu, yapımı hızla devam eden Rize Şehir Hastanesi şantiyesinde incelemelerde bulunarak, \"İnşaatın yüzde 70'ini tamamladık. Sene sonu itibarıyla inşaat aşamasını bitirip, 2027'de vatandaşlarımızın hizmetine açacağız\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/saglik-bakani-memisoglu-rize-sehir-hastanesi-2027-yilinda-hizmete-girecek-43251723"
         },
         {
-          "title": "Adana'da kan donduran cinayet: Eşini kızının gözü önünde öldürmüş! 'Boşanma davası çekişmeliye döndü ve olanlar oldu'",
-          "summary": "Adana’da mahalle bekçisi H.E.K.'nin (40) yüzünü yastıkla kapatılıp tabancayla başına ateş ettiği boşanma aşamasındaki eşi Hatice Mine Kocamaz’ın (40) cenazesi, yakınları tarafından morgdan alındı. Hatice Mine Kocamaz’ın ağabeyi Yılmaz Yılgıncan, “Dünya kadar borçları vardı, kumarbazdı. Kız kardeşimi 7 yaşındaki yeğenimin yanında öldürmüş” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/adanada-kan-donduran-cinayet-esini-kizinin-gozu-onunde-oldurmus-bosanma-davasi-cekismeliye-dondu-ve-olanlar-oldu-43251360"
+          "title": "Ümraniye’de kaçan boğa dükkana girdi. Kısa süreli panik kamerada",
+          "summary": "Ümraniye’de sahibinin elinden kaçan boğa, sanayi sitesinde dükkana girdi. İddiaya göre, sahibinin elinden kaçan boğa Ümraniye'deki sanayi sitesi içerisinde koşmaya başladı. Kaçan boğa nedeniyle sanayi esnafı kısa süreli panik yaşadı. Boğayı yakalamak için çevrede bulunan esnaf seferber olurken, kaçışını sürdüren boğa bir dükkana girdi. Boğanın dükkana girmesi üzerine içeride bulunan çalışanlar panikle dışarı çıktı. Bir süre iş yerinin içinde dolaşan boğa daha sonra yeniden dışarı çıkarak kaçmaya devam etti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-umraniyede-kacan-boga-dukkana-girdi-kisa-sureli-panik-kamerada-1734550"
         },
         {
-          "title": "8 yaşındaki Asya, dünya birincisi oldu",
-          "summary": "8 yaşındaki Asya Alyanak, 42 ülkeden 300 binden fazla katılımcının yer aldığı Uluslararası Singapur Sanat Olimpiyatları'nda \"Uygarlıklar Yeniden Doğuyor\" adlı resim eseriyle dünya birincisi oldu; altın madalyayı Türkiye’ye kazandırdı. Hatay'ın Defne ilçesi Sümerler Mahallesi'nde yaşayan 8 yaşındaki Asya Alyanak, 2 yaşındayken resim yapmaya başladı ve 4 yaşında da ilk yarışmasına katıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-8-yasindaki-asya-dunya-birincisi-oldu-1734516"
+          "title": "Muğla'da orman yangını. 5 hektar ziraat ve orman alanı zarar gördü",
+          "summary": "Muğla'nın Menteşe ilçesinde çıkan orman yangınına havadan ve karadan müdahale ile kontrol altına alındı. Yenice Mahallesi'ndeki tarım arazisinde başlayan yangın rüzgarın etkisiyle ormanlık alana sıçradı. İhbar üzerine bölgeye Muğla Orman Bölge Müdürlüğüne bağlı 4 uçak, 10 helikopter, 26 arazöz, 9 su tankeri, 3 dozer ve 228 personel ile itfaiye ekipleri sevk edildi. Alevlere havadan ve karadan müdahale eden ekipler, yangını kontrol altına aldı. Yangında 5 hektar ziraat ve ormanlık alan zarar gördü.",
+          "source": "https://www.ntv.com.tr/turkiye/muglada-orman-yangini-havadan-ve-karadan-mudahale-ediliyor-1734545"
         },
         {
-          "title": "Diş ağrısı için gitti hayatı karardı. Şimdi beyninde ömür boyu cihazla yaşayacak",
-          "summary": "İstanbul Ataşehir'de 48 yaşındaki Tülay Kızmaz, dişini implant tedavisi yaptırmak için gittiği klinikte ölümden döndü. İmplant tedavisi sonrası beyninde sıvı birilen Kızmaz'ın kafasına ömür boyu yaşayacağı özel bir cihaz takıldı. Haber: Dilek Yaman Demir Sadece dişini çektirmek için diş kliniğine giden Tülay Kızmaz'ın hayatı karardı. Evli ve bir çocuk annesi 48 yaşındaki Kızmaz, geçen kasım ayında diş ağrısı yaşadığı ve Ataşehir'deki bir kliniğe gitti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-dis-agrisi-icin-gitti-hayati-karardi-simdi-beyninde-omur-boyu-cihazla-yasayacak-1734512"
+          "title": "Trabzon 205. Geleneksel Sis Dağı Kültür Şenlikleri'ne yoğun katılım",
+          "summary": "Trabzon'un Şalpazarı ilçesinde 205. Geleneksel Sis Dağı Kültür Şenlikleri düzenleniyor. Şenliğe Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu'da katıldı. Trabzon'un Şalpazarı ilçesinde asırlardır yaşatılan ve Sis Dağı Kültür Şenliği'nin bu yıl 205’incisi düzenleniyor. Şenliğe Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu da katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-trabzon-205-geleneksel-sis-dagi-kultur-senliklerine-yogun-katilim-1734549"
         },
         {
-          "title": "Yaz ortasında kış yaşanıyor | İstanbul ve Ankara'da yollar göle döndü, araçlar sürüklenip alt geçitte mahsur kaldı",
-          "summary": "Balkanlardan gelen yağışlı sistem Türkiye'ye giriş yaptı. Ankara'da kuvvetli sağanak nedeniyle yollar çöktü, araçlar sürüklenip alt geçitte mahsur kaldı. İstanbul'da gök gürültülü sağanak yer yer etkisini göstermeye devam ediyor. Meteoroloji Genel Müdürlüğü (MGM), son tahminlerine göre yurdun büyük bölümünde su baskınlarına neden olabilecek kuvvetli yağmur ve fırtına beklediğini duyurmuş ve 35 kent için sarı ve turuncu alarm vermişti. Günlerdir beklenen serin ve yağışlı hava yurt genelinde etkili olmaya başladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-harita-turuncu-ve-sariya-boyandi-yaz-ortasinda-kis-yasaniyor-sicaklik-sert-dustu-istanbul-ve-ankarada-yollar-gole-dondu-1734464"
+          "title": "Uyarılara aldırmadı, dev dalgalara rağmen denize girdi",
+          "summary": "Meteorolojinin kuvvetli fırtına uyarısında bulunduğu Hatay'da kıyı şeridinde dev dalgalar oluştu. Hatay Valiliği'nin \"denize girmek yasaktır\" uyarısına rağmen Dörtyol ilçesinde bir vatandaş, dev dalgalar arasında yüzerek canını hiçe saydı. Meteorolojinin şiddetli fırtına uyarısında bulunduğu Hatay’ın kıyı sahillerinde fırtına etkili oldu. Şiddetli fırtınanın etkili olduğu İskenderun, Dörtyol, Payas ve Arsuz ilçelerinde kıyı kesimlerinde dev dalgalara neden oldu.",
+          "source": "https://www.ntv.com.tr/turkiye/uyarilara-aldirmadi-dev-dalgalara-ragmen-denize-girdi-1734546"
         }
       ]
     },
     "dunya": {
-      "text": "Trump yönetiminin ABD'nin 60 ticaret ortağına getirdiği yeni tarifelere karşı dava açıldı. Dünya Bankası'ndan Venezuela'daki depremlerin 19,6 milyar dolarlık hasara yol açtığı tahmini. BM'den 17 yıl sonra ilk: Genel Sekreter Guterres Suriye'de. Tarihte bir ilk. Bir yıl içinde susuz kalacaklar. NATO karargahında casus alarmı. Son dakika... ABD Başkanı Trump'tan İran iddiası: Anlaşmak istiyorlar.... 'Hazır değiller'. İkinci el mağazasında tarihi keşif: 3 dolarlık parçanın büyük sırrı! Açık artırmada nefes kesen yarış… Kaça satıldı?.",
+      "text": "Avrupa yanıyor! Fransa ve İspanya'da on binlerce hektar kül oldu. NATO Karargahında casus alarmı: 1 kişi tutuklandı. Tarihte bir ilk. Bir yıl içinde susuz kalacaklar. Suriye'de yolcu otobüsleri kafa kafa çarpıştı: Çok sayıda can kaybı. Ukrayna'da koltuğundan oldu, İtalya'da kapılar açıldı. Popüler bakana sürpriz teklif!. Maruldan salgın yayıldı, ülke alarm verdi. Suriye’de otobüs kazası. 35 kişi öldü, 30 kişi yaralandı.",
       "items": [
         {
-          "title": "Trump yönetiminin ABD'nin 60 ticaret ortağına getirdiği yeni tarifelere karşı dava açıldı",
-          "summary": "ABD Başkanı Donald Trump yönetiminin 1974 tarihli Ticaret Yasası'nın 301. Bölümü kapsamında ülkenin 60 ticaret ortağına getirdiği gümrük vergilerine karşı dava açıldı. İki işletme tarafından ABD Uluslararası Ticaret Mahkemesinde açılan toplu davada, ABD'nin ithalatının yaklaşık yüzde 99,4'ünü kapsayan ticaret ortaklarına getirilen yüzde 10 ila yüzde 12,5 oranındaki gümrük vergilerinin yasaya aykırı olduğu gerekçesiyle iptal edilmesi istendi. Mahkemeye sunulan dava dilekçesinde, 301.",
-          "source": "https://www.ntv.com.tr/dunya/trump-yonetiminin-abdnin-60-ticaret-ortagina-getirdigi-yeni-tarifelere-karsi-dava-acildi-1734432"
+          "title": "Avrupa yanıyor! Fransa ve İspanya'da on binlerce hektar kül oldu",
+          "summary": "İspanya ve Fransa'da etkisini artıran orman yangınları nedeniyle yüz binlerce kişi tahliye edildi. Sıcak hava ve şiddetli rüzgarlar ekiplerin mücadelesini zorlaştırıyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/avrupa-yaniyor-fransa-ve-ispanyada-on-binlerce-hektar-kul-oldu-43251694"
         },
         {
-          "title": "Dünya Bankası'ndan Venezuela'daki depremlerin 19,6 milyar dolarlık hasara yol açtığı tahmini",
-          "summary": "Dünya Bankası Grubu, Venezuela'da 24 Haziran'da meydana gelen depremlerin 19,6 milyar dolarlık doğrudan fiziksel hasara yol açtığını tahmin etti. Bankadan yapılan açıklamada, Küresel Hızlı Hasar Tahmini (GRADE) çalışmasından elde edilen bulgular paylaşıldı. Açıklamada, 24 Haziran'daki depremlerin Venezuela'da 19,6 milyar dolar tutarında doğrudan fiziksel hasara neden olduğunun tahmin edildiği bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/dunya-bankasindan-venezueladaki-depremlerin-196-milyar-dolarlik-hasara-yol-actigi-tahmini-1734436"
-        },
-        {
-          "title": "BM'den 17 yıl sonra ilk: Genel Sekreter Guterres Suriye'de",
-          "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, göreve başladığı 2017'den bu yana ilk kez Suriye'ye geldi. Guterres ayrıca 2009'dan beri Suriye'yi ziyaret eden ilk BM Genel Sekreteri oldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/bmden-17-yil-sonra-ilk-genel-sekreter-guterres-suriyede-43251336"
+          "title": "NATO Karargahında casus alarmı: 1 kişi tutuklandı",
+          "summary": "Belçika'daki NATO askeri karargahında görevli Çin kökenli Kanada vatandaşı bir stajyer, üçüncü ülkelere casusluk yapmaktan tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/nato-karargahinda-casus-alarmi-1-kisi-tutuklandi-43251690"
         },
         {
           "title": "Tarihte bir ilk. Bir yıl içinde susuz kalacaklar",
@@ -67,19 +62,24 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-tarihte-bir-ilk-bir-yil-icinde-susuz-kalacaklar-1734509"
         },
         {
-          "title": "NATO karargahında casus alarmı",
-          "summary": "NATO'nun Avrupa Müttefik Kuvvetleri Yüksek Karargahı'nda (SHAPE) staj yapan Çin kökenli Kanadalı bir kadın, \"üçüncü bir ülke adına casusluk yaptığı\" şüphesiyle tutuklandı. Belçika makamları, NATO'nun Mons kentindeki Avrupa Müttefik Kuvvetleri Yüksek Karargahı'nda (SHAPE) staj yapan Çin kökenli Kanadalı bir kadının casusluk şüphesiyle gözaltına alındığını duyurdu. Belçika Federal Savcılığı'nın açıklamasına göre şüpheli, perşembe günü düzenlenen operasyonla yakalandı.",
-          "source": "https://www.ntv.com.tr/dunya/nato-karargahinda-casus-alarmi-1734496"
+          "title": "Suriye'de yolcu otobüsleri kafa kafa çarpıştı: Çok sayıda can kaybı",
+          "summary": "Suriye’nin Şam-Deyrizor kara yolunda güvenlik güçlerini taşıyan otobüs ile yolcu otobüsünün kafa kafaya çarpışması sonucu 35 kişi hayatını kaybetti, 30 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-yolcu-otobusleri-kafa-kafa-carpisti-cok-sayida-can-kaybi-43251602"
         },
         {
-          "title": "Son dakika... ABD Başkanı Trump'tan İran iddiası: Anlaşmak istiyorlar.... 'Hazır değiller'",
-          "summary": "ABD Başkanı Donald Trump, İran yönetiminin ABD ile temas halinde olduğunu belirterek, \"Bir anlaşma yapmak istiyorlar. Ancak bunu yapmaya hazır olduklarını düşünmüyorum. Henüz zamanı değil. Onları dinlemeye hazırım, fakat nükleer silaha sahip olamazlar\" açıklamasında bulundu. Öte yandan Yemen'deki Husiler, ülkenin batısındaki Hudeyde vilayetine yönelik saldırılardan Suudi Arabistan'ı sorumlu tutarak, söz konusu saldırıların karşılıksız kalmayacağı tehdidinde bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/live-son-dakika-43251123"
+          "title": "Ukrayna'da koltuğundan oldu, İtalya'da kapılar açıldı. Popüler bakana sürpriz teklif!",
+          "summary": "İtalya Savunma Bakanı Guido Crosetto, Ukrayna'nın yakın zamanda görevden alınan eski Savunma Bakanı Mykhailo Fedorov'a danışmanlık görevi teklif ettiğini söyledi. İtalya Savunma Bakanı Guido Crosetto, İtalyan La Repubblica gazetesine röportaj verdi. İtalyan bakan burada, görevden alınmasının ardından Ukrayna'nın popüler eski Savunma Bakanı Mykhailo Fedorov hakkında konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/ukraynada-koltugundan-oldu-italyada-kapilar-acildi-populer-bakana-surpriz-teklif-1734539"
         },
         {
-          "title": "İkinci el mağazasında tarihi keşif: 3 dolarlık parçanın büyük sırrı! Açık artırmada nefes kesen yarış… Kaça satıldı?",
-          "summary": "ABD’de yaşayan genç koleksiyoncu, ikinci el mağazasında 3 dolara aldığı eski bir spor ceketinin sıradan bir parça olmadığını çok geçmeden fark etti. Raflarda gözden kaçan bu ürünün geçmişi ortaya çıktıkça olay bambaşka bir boyuta taşındı. Uzmanların incelemesiyle tarihi bir spor anısına ait olduğu belirlenen ceket, yıllar sonra yeniden gündeme geldi. Peki, genç adamın ucuza aldığı bu parça açık artırmada kaç dolara alıcı buldu? İşte detaylar…",
-          "source": "https://www.hurriyet.com.tr/dunya/ikinci-el-magazasinda-tarihi-kesif-3-dolarlik-parcanin-buyuk-sirri-acik-artirmada-nefes-kesen-yaris-kaca-satildi-43246857"
+          "title": "Maruldan salgın yayıldı, ülke alarm verdi",
+          "summary": "ABD'de Cyclospora parazitinin yol açtığı bağırsak enfeksiyonu salgını büyümeye devam ediyor. Meksika'dan ithal edilen iceberg marullarla bağlantılı vakaların dokuz eyalete yayıldığı ve ülke genelindeki vaka sayısının 11 bini aştığı açıklandı. SALGIN 9 EYALETE YAYILDI ABD Hastalık Kontrol ve Önleme Merkezleri (CDC), Cyclospora parazitinin neden olduğu bağırsak enfeksiyonu salgınının dokuz eyalete ulaştığını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-maruldan-salgin-yayildi-ulke-alarm-verdi-1734474"
+        },
+        {
+          "title": "Suriye’de otobüs kazası. 35 kişi öldü, 30 kişi yaralandı",
+          "summary": "Suriye’de Şam-Deyrizor yolunda iki yolcu otobüsünün çarpıştığı kazada 35 kişi hayatını kaybetti, 30 kişi yaralandı. Suriye devlet televizyonu El-İhbariyye, Şam-Deyrizor yolu üzerinde, Suhne ve Palmira bölgeleri arasında iki yolcu otobüsünün çarpıştığını duyurdu. Sağlık Bakanlığından yapılan açıklamaya göre, kazada ilk belirlemelere göre 35 kişi hayatını kaybetti, 30 kişi yaralandı. Yaralılar çevre hastanelere nakledilirken ölü sayısının artmasından endişe ediliyor.",
+          "source": "https://www.ntv.com.tr/dunya/suriyede-otobus-kazasi-35-kisi-oldu-30-kisi-yaralandi-1734538"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Kocaelispor’da Keita, Nonge ve Churlinov için ayrılık hazırlığı!. Kerem Demirbay: 'Türkiye’de oynamak kolay değil!'. Dünya Kupası'na damga vuran fenomen kaleci Vozinha'nın yeni takımı belli oldu!. Fenerbahçe'nin rakibi Gornik Zabrze, Slask Wroclaw karşısında! Maçın heyecanlı canlı yayın ile Misli'de. Jhon Duran Benfica'da şovla başladı!. Galatasaray'ın transferdeki yol haritası çizildi! Hedef 5 takviye. Galatasaray'dan Victor Nelsson kararı!.",
+      "text": "Samsunspor 0-0 RAAL La Louviere (Hazırlık maçı). Fenerbahçe’den Dominik Livakovic açıklaması!. Daniele Santarelli: 'Altın madalyayla dönmek istiyoruz!'. İlk golü kim atar tahminleri ve karşılıklı gol istatistikleri… İşte Misli’den günün tüyoları. Ankara'da bugün 7 koşu var! İşte Misli’den günün altılı analizi…. Gençlerbirliği'nden İrfan Can Eğribayat açıklaması: 'Fenerbahçe'nin kararını bekliyoruz!'. Rosamaria Montibeller: 'Altın madalya mücadelesinin zorlu geçeceği kesin!'.",
       "items": [
         {
-          "title": "Kocaelispor’da Keita, Nonge ve Churlinov için ayrılık hazırlığı!",
-          "summary": "Kocaelispor Basın Sözcüsü Haşmet Uçar, Habib Ali Keita ve Joseph Nonge Boende'nin yeni sezon kadrosunda düşünülmediğini, Darko Churlinov ile de sözleşme feshi görüşmelerinin sürdüğünü açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kocaelisporda-keita-nonge-ve-churlinov-icin-ayrilik-hazirligi-43251341"
+          "title": "Samsunspor 0-0 RAAL La Louviere (Hazırlık maçı)",
+          "summary": "Samsunspor, Hollanda kampının ikinci hazırlık maçında RAAL La Louviere ile 0-0 berabere kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-0-0-raal-la-louviere-hazirlik-maci-43251713"
         },
         {
-          "title": "Kerem Demirbay: 'Türkiye’de oynamak kolay değil!'",
-          "summary": "Kasımpaşa'nın tecrübeli orta saha oyuncusu Kerem Demirbay, “Bundesliga’da oynamak benim için daha kolay. Türkiye’de oynamak kolay değil. Buradaki dinamikler çok farklı. Bugün iyi oynuyorsun, 2 sene seni taşıyor. Kötü oynuyorsun ama en değerli oyuncusun. İyi oynamıyorsun yerin dibine sokuluyorsun. Türkiye böyle bir dinamiklere sahip. Almanya’da öyle değildi” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kerem-demirbay-turkiyede-oynamak-kolay-degil-43251237"
+          "title": "Fenerbahçe’den Dominik Livakovic açıklaması!",
+          "summary": "Fenerbahçe, Hırvat kaleci Dominik Livakovic için başka bir kulüpten teklif almadıklarını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-dominik-livakovic-aciklamasi-43251710"
         },
         {
-          "title": "Dünya Kupası'na damga vuran fenomen kaleci Vozinha'nın yeni takımı belli oldu!",
-          "summary": "2026 Dünya Kupası’nda Yeşil Burun Adaları'nın tarihi başarısında büyük yere sahip olan 40 yaşındaki kaleci Vozinha’nın yeni takımı belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/2026-dunya-kupasina-damga-vuran-vozinhanin-yeni-takimi-belli-oldu-43251241"
+          "title": "Daniele Santarelli: 'Altın madalyayla dönmek istiyoruz!'",
+          "summary": "A Milli Kadın Voleybol Takımımız, 2026 FIVB Milletler Ligi yarı finalinde ev sahibi Çin'i 3-0 mağlup ederek finalde Brezilya'nın rakibi oldu. Maçın ardından Daniele Santarelli açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-altin-madalyayla-donmek-istiyoruz-43251673"
         },
         {
-          "title": "Fenerbahçe'nin rakibi Gornik Zabrze, Slask Wroclaw karşısında! Maçın heyecanlı canlı yayın ile Misli'de",
-          "summary": "Polonya Ligi'nin ilk haftasında Gornik Zabrze ile Slask Wroclaw bu akşam karşı karşıya gelecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-rakibi-gornik-zabrze-slask-wroclaw-karsisinda-macin-heyecanli-canli-yayin-ile-mislide-43251229"
+          "title": "İlk golü kim atar tahminleri ve karşılıklı gol istatistikleri… İşte Misli’den günün tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla iddaa keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ilk-golu-kim-atar-tahminleri-ve-karsilikli-gol-istatistikleri-iste-misliden-gunun-tuyolari-43251605"
         },
         {
-          "title": "Jhon Duran Benfica'da şovla başladı!",
-          "summary": "Benfica'nın yeni transferi Jhon Duran, Belenenses'i 5-1 mağlup ettikleri hazırlık maçında 1 gol, 1 asistle oynadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jhon-duran-benficada-sovla-basladi-43251156"
+          "title": "Ankara'da bugün 7 koşu var! İşte Misli’den günün altılı analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-bugun-7-kosu-var-iste-misliden-gunun-altili-analizi-43251604"
         },
         {
-          "title": "Galatasaray'ın transferdeki yol haritası çizildi! Hedef 5 takviye",
-          "summary": "Şu ana kadar yalnızca Lesley Ugochukwu'yu kadrosuna katan ve transferde geç kalındığı gerekçesiyle taraftarın eleştiri oklarını üzerine çeken Galatasaray Yönetiminin hazırladığı kapsamlı transfer planının detayları ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-transferdeki-yol-haritasi-cizildi-hedef-5-takviye-43251122"
+          "title": "Gençlerbirliği'nden İrfan Can Eğribayat açıklaması: 'Fenerbahçe'nin kararını bekliyoruz!'",
+          "summary": "Gençlerbirliği Başkanı Haydar Arda Çakmak, Fenerbahçe'nin kalecisi İrfan Can Eğribayat'ın transferinde sarı-lacivertli kulübün kararını beklediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginden-irfan-can-egribayat-aciklamasi-fenerbahcenin-kararini-bekliyoruz-43251560"
         },
         {
-          "title": "Galatasaray'dan Victor Nelsson kararı!",
-          "summary": "Galatasaray'da geleceği merak edilen Victor Nelsson hakkında karar verildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-victor-nelsson-karari-43251106"
+          "title": "Rosamaria Montibeller: 'Altın madalya mücadelesinin zorlu geçeceği kesin!'",
+          "summary": "Çin'in ev sahipliğinde düzenlenen 2026 FIVB Kadınlar Milletler Ligi (VNL) yarı finalinde son iki yılın şampiyonu İtalya'yı 3-2 yenerek finale yükselen Brezilya'da oyuncular finale odaklanarak kazanmak istediklerini söylediler.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rosamaria-montibeller-altin-madalya-mucadelesinin-zorlu-gececegi-kesin-43251528"
         }
       ]
     },
@@ -168,7 +168,7 @@
       "items": [
         {
           "title": "ChatGPT çöktü mü, neden açılmıyor? OpenAI doğruladı",
-          "summary": "OpenAI tarafından geliştirilen yapay zeka sohbet botu ChatGPT, erişim sorunuyla gündemde. Şirket, dünya çapında kullanıcıların yapay zekaya erişimemediğini doğruladı. Dünyanın en yaygın kullanılan yapay zeka araçlarından ChatGPT'ye erişim sorunu yaşanıyor. Herkesin birçok alanda kullanarak faydalandığı yapay zeka motoru ChatGPT hata veriyor. OPENAI RESMİ SİTESİNDE DOĞRULADI OpenAI, dünya çapında kullanıcıların sorun yaşadığını ve birçoğunun yapay zekaya erişemediğini doğruladı.",
+          "summary": "OpenAI tarafından geliştirilen yapay zeka sohbet botu ChatGPT, erişim sorunuyla gündemde. Şirket, dünya çapında kullanıcıların yapay zekaya erişemediğini doğruladı. Dünyanın en yaygın kullanılan yapay zeka araçlarından ChatGPT'ye erişim sorunu yaşanıyor. Herkesin birçok alanda kullanarak faydalandığı yapay zeka motoru ChatGPT hata veriyor. OPENAI RESMİ SİTESİNDE DOĞRULADI OpenAI, dünya çapında kullanıcıların sorun yaşadığını ve birçoğunun yapay zekaya erişemediğini doğruladı.",
           "source": "https://www.ntv.com.tr/teknoloji/chatgpt-coktu-mu-neden-acilmiyor-openai-dogruladi-1734520"
         },
         {
