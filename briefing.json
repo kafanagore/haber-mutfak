@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-24T16:00:03.866Z",
+  "generatedAt": "2026-07-25T04:00:02.924Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Murat Kurum, şehir kütüphanesini gezdi. Ayasofya’nın ana kubbesinde yeni güncelleme: Kubbenin gerçek halini ilk kez göreceğiz. Kılıçdaroğlu'ndan flaş hamle! Milletvekillerini toplantıya çağırdı. Çöplük günlerdir yanıyor. Duman kent merkezine ulaştı, mahalleler is kokuyor. Kılıçdaroğlu'ndan CHP'deki istifalar sonrası ilk paylaşım. Cumhurbaşkanı Erdoğan, Özbekistan Cumhurbaşkanı ile görüştü. AK Parti ve DEM Parti'den Terörsüz Türkiye görüşmesi.",
+      "text": "Dev kazanlarda 7 saatte pişti, vatandaşlara ikram edildi. Boşanmak isteyen eşini uykusunda katletti. Adana'da korkunç cinayet! Boşanma aşamasındaki eşini uykusunda öldürdü. Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı. İstanbul'da beklenen yağış başladı. Kırıkkale’de fırtınada iki ayrı caminin minaresi devrildi. Eşiyle tartışıp evden ayrılan 3 çocuk annesi kadından 4 gündür haber alınamıyor.",
       "items": [
         {
-          "title": "Bakan Murat Kurum, şehir kütüphanesini gezdi",
-          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Malatya programı kapsamında Büyükşehir Belediyesini ziyaret ederek, Başkan Sami Er'in rehberliğinde bölgenin en kapasiteli şehir kütüphanesini gezdi. Gençlerle bir araya gelen Kurum, kütüphanenin ve Büyükşehir Belediyesi'nin sunduğu imkanları inceleyerek öğrencilere, \"Başkanımız yaptığı eserle sizleri üniversiteye hazırlıyor\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-murat-kurum-sehir-kutuphanesini-gezdi-43250813"
+          "title": "Dev kazanlarda 7 saatte pişti, vatandaşlara ikram edildi",
+          "summary": "Uluslararası Erbaa Yaprak Festivali'nde dev kazanda yaklaşık 7 saatte pişirilen yaklaşık 280 bin bakla dolması, vatandaşlara ikram edildi. Tokat'ta bu yıl 23'üncüsü düzenlenen Uluslararası Erbaa Yaprak Festivali başladı. Dev kazanda yaklaşık 7 saatte pişirilen yaklaşık 280 bin bakla dolması, vatandaşlara ikram edildi. Erbaa Belediye Başkanı Ertuğrul Karagöl, kadınlarla şeflerin sabah erken saatlerden itibaren bakla dolmasının pişirileceği kazanın doldurulması için uğraştıklarını söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-dev-kazanlarda-7-saatte-pisti-vatandaslara-ikram-edildi-1734447"
         },
         {
-          "title": "Ayasofya’nın ana kubbesinde yeni güncelleme: Kubbenin gerçek halini ilk kez göreceğiz",
-          "summary": "Ayasofya-i Kebir Camii'nde yürütülen Cumhuriyet tarihinin en kapsamlı restorasyon çalışmalarında yeni bir aşamaya geçildi. Ana kubbeyi koruyacak özel membran sisteminin kurulmasıyla birlikte kurşun örtü kaldırılarak kubbenin mevcut durumu ilk kez bütüncül biçimde incelenecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/ayasofyanin-ana-kubbesinde-yeni-guncelleme-kubbenin-gercek-halini-ilk-kez-gorecegiz-43250785"
+          "title": "Boşanmak isteyen eşini uykusunda katletti",
+          "summary": "Adana'da boşanmak isteyen kadın, eşi tarafından uykusunda başına vurularak öldürüldü. Polis, olayın ardından kaçan zanlıyı 30 dakika içinde yakaladı. Adana'da boşanma kararı alan 40 yaşındaki Hatice Mine K. uykusunda katledildi. Olay, saat 01.00 sıralarında Yüreğir ilçesine bağlı Kışla Mahallesi'nde meydana geldi. İddiaya göre, Hatice Mine K., bir süre önce eşi H.K.'dan boşanma kararı aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/bosanmak-isteyen-esini-uykuda-katletti-1734445"
         },
         {
-          "title": "Kılıçdaroğlu'ndan flaş hamle! Milletvekillerini toplantıya çağırdı",
-          "summary": "Özgür Özel'in CHP'den istifa ederek Yeni Parti'yi kurması sonrası Kılıçdaroğlu cephesinden hamle geldi. CHP Genel Başkanı Kemal Kılıçdaroğlu, pazar günü milletvekilleri ile toplantı gerçekleştirecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/kilicdaroglundan-flas-hamle-milletvekillerini-toplantiya-cagirdi-43250751"
+          "title": "Adana'da korkunç cinayet! Boşanma aşamasındaki eşini uykusunda öldürdü",
+          "summary": "Adana'da H.K., boşanma aşamasındaki eşi Hatice Mine K.’yı (40) uykusunda yüzünü yastıkla kapatıp tabancayla vurarak öldürdü. Olayın ardından kaçan şüpheli, polis tarafından kısa sürede yakalanarak gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/adanada-korkunc-cinayet-bosanma-asamasindaki-esini-uykusunda-oldurdu-43251075"
         },
         {
-          "title": "Çöplük günlerdir yanıyor. Duman kent merkezine ulaştı, mahalleler is kokuyor",
-          "summary": "Amasya'da katı atık bertaraf tesisinin çöp döküm sahası beş gündür yanıyor. Çöplükten yükselen duman kenti olumsuz etkiliyor, mahallelerde is kokusu var. Amasya'da katı atık bertaraf tesisinin çöp döküm sahasında çıkan yangın, 5'inci gününde içten içe yanmaya devam ediyor. Merkeze bağlı Boğazköy mevkisinde bulunan Amasya Katı Atık Bertaraf Tesisleri Birliği (AKAB) çöp döküm sahasında pazar günü henüz belirlenemeyen nedenle çıkan yangında alevler, ekiplerin müdahalesiyle kontrol altına alındı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-copluk-gunlerdir-icin-icin-yaniyor-duman-kent-merkezine-ulasti-mahalleler-is-kokuyor-1734400"
+          "title": "Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı",
+          "summary": "Adalet Bakanı Akın Gürlek, ''Ahbap Derneği için deprem zamanı 245 milyon dolar para toplandığı belirlendi.'' dedi. Adalet Bakanı Akın Gürlek TRT Haber'de gündeme ilişkin soruları yanıtladı. Gürlek, Ahbap derneği soruşturmasına dair şunları söyledi: ‘’Ahbap soruşturması Haluk Levent'in kardeşinin gözaltına alınması ile başladı. Şile Belediyesi soruşturması sonrası MASAK raporu hazırlandı. Ahbap Derneği için deprem zamanı 245 milyon dolar para toplandığı belirlendi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-gurlek-haluk-levent-tekneyle-yunan-adalarina-kacacakti-1734426"
         },
         {
-          "title": "Kılıçdaroğlu'ndan CHP'deki istifalar sonrası ilk paylaşım",
-          "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Özgür Özel ve beraberindeki 90 milletvekilinin partiden istifasının ardından bir paylaşım yaptı. Cumhuriyet Halk Partisi'nde mutlak butlan kararı sonrası başlayan yönetim krizi, Özgür Özel ve beraberindeki 90 milletvekilinin Yeni Parti'yi kurmak için istifasıyla sonuçlandı. Özel ve arkadaşları bugün partiden istifa edip Yeni Parti'nin kuruluş dilekçesini İçişleri Bakanlığı'na teslim etti.",
-          "source": "https://www.ntv.com.tr/turkiye/kilicdaroglundan-chpdeki-istifalar-sonrasi-ilk-paylasim-1734368"
+          "title": "İstanbul'da beklenen yağış başladı",
+          "summary": "İstanbul'da beklenen yağış gece saatlerinde başladı. Yağış, aralıklarla etkisini göstermeye devam ediyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-beklenen-yagis-basladi-43251069"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Özbekistan Cumhurbaşkanı ile görüştü",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Mirziyoyev ile telefonda görüştü.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ozbekistan-cumhurbaskani-ile-gorustu-43250696"
+          "title": "Kırıkkale’de fırtınada iki ayrı caminin minaresi devrildi",
+          "summary": "Kırıkkale’nin Keskin ilçesinde, fırtına nedeniyle iki ayrı caminin minaresi devrildi. Olayda, bazı binaların çatıları ve araçlar hasar gördü.",
+          "source": "https://www.hurriyet.com.tr/gundem/kirikkalede-firtinada-iki-ayri-caminin-minaresi-devrildi-43251068"
         },
         {
-          "title": "AK Parti ve DEM Parti'den Terörsüz Türkiye görüşmesi",
-          "summary": "AK Parti ve DEM Parti heyetleri arasında Terörsüz Türkiye sürecine ilişkin görüşme yapıldı. AK Parti ve DEM Parti heyetleri \"Terörsüz Türkiye\" sürecine ilişkin Meclis'te görüşme gerçekleştirdi. AK Parti Grup Başkanı Abdullah Güler, AK Parti Genel Başkanvekili Efkan Ala ve AK Parti Sözcüsü Ömer Çelik, DEM Parti heyeti ile bir araya geldi. Heyetlerin, Terörsüz Türkiye sürecine ilişkin görüşme yaptığı öğrenildi.",
-          "source": "https://www.ntv.com.tr/turkiye/ak-parti-ve-dem-partiden-terorsuz-turkiye-gorusmesi-1734407"
+          "title": "Eşiyle tartışıp evden ayrılan 3 çocuk annesi kadından 4 gündür haber alınamıyor",
+          "summary": "Kağıthane’de eşiyle yaşadığı tartışmanın ardından evden ayrıldığı öne sürülen 3 çocuk annesi Bedriye Karaçay’dan (27) 4 gündür haber alınamıyor. Kızının hayatından endişe ettiğini belirten baba Çınar Yarar, \"O benim evimin tek prensesi, bal çiçeğim. Neredeysen çık gel kızım, yaşadığını bileyim bana yeter\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/esiyle-tartisip-evden-ayrilan-3-cocuk-annesi-kadindan-4-gundur-haber-alinamiyor-43251067"
         }
       ]
     },
     "dunya": {
-      "text": "Kuveyt ordusu, hava savunma sistemlerinin İran'ın İHA saldırılarına karşı devreye girdiğini duyurdu. Netanyahu salı günü ABD'de Trump'la görüşecek. KKTC'de 2 bin 500 tonluk buğday silosu çöktü. Bangladeş siyasetinde deprem: Cumhurbaşkanı istifa etti. Almanya'da değişim rüzgarı: Kabinede revizyon kararı alındı. Kuzey İrlanda'ya hedef alan bombalı saldırı son anda önlendi. Kiev füzelerle vuruldu: 6 kişi yaşamını yitirdi.",
+      "text": "Fransa ve İspanya’da yangın felaketi. 100 bini aşkın kişi tahliye edildi. UCM tarihinde ilk: Başsavcı Kerim Han görevden alındı. Babülmendep gerilimi büyüyor. Arap Koalisyonu, Husileri vurdu. Altının da ''parmak izi'' var. Kaçak madenler bu yöntemle bulunacak. Dünya Bankası'ndan Venezuela'daki depremlerin 19,6 milyar dolarlık hasara yol açtığı tahmini. Trump yönetiminin ABD'nin 60 ticaret ortağına getirdiği yeni tarifelere karşı dava açıldı. Trump: \"İran'a yönelik büyük çaplı saldırılar konusunda henüz bir karar vermedim\".",
       "items": [
         {
-          "title": "Kuveyt ordusu, hava savunma sistemlerinin İran'ın İHA saldırılarına karşı devreye girdiğini duyurdu",
-          "summary": "Kuveyt ordusu, hava savunma sistemlerinin İran'ın insansız hava aracı (İHA) saldırılarına karşı devreye girdiğini açıkladı. Kuveyt ordusunun ABD merkezli X şirketinin sosyal medya platformundaki hesabından yapılan açıklamada,\"Kuveyt hava savunma sistemleri, İran saldırısının ardından düşman İHA saldırılarına karşı koymaktadır.\" ifadesi kullanıldı.",
-          "source": "https://www.ntv.com.tr/dunya/kuveyt-ordusu-hava-savunma-sistemlerinin-iranin-iha-saldirilarina-karsi-devreye-girdigini-duyurdu-1734414"
+          "title": "Fransa ve İspanya’da yangın felaketi. 100 bini aşkın kişi tahliye edildi",
+          "summary": "Fransa’nın güneybatısında on binlerce kişi orman yangınlarından otomobil ve teknelerle kaçarken, Madrid çevresindeki dev yangınların birleşmesi üzerine İspanya tarihinde ilk kez orman yangını nedeniyle ulusal acil durum ilan edildi. Son aylarda peş peşe sıcak hava dalgaları ve yangınlarla mücadele eden iki ülke, olağanüstü sıcaklıklar ve şiddetli rüzgarların alevleri büyütmesi üzerine Avrupa Birliği’nden yardım istedi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-ispanyada-yangin-felaketi-100-bini-askin-kisi-tahliye-edildi-1734438"
         },
         {
-          "title": "Netanyahu salı günü ABD'de Trump'la görüşecek",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun 28 Temmuz Salı günü Washington'da ABD Başkanı Donald Trump ile bir araya geleceği bildirildi. İsrail Başbakanlık Ofisinden yapılan açıklamada, Netanyahu'nun resmi ziyaret gerçekleştirmek üzere pazartesi günü Washington'a gideceği belirtildi. Cumhuriyetçi Senatör Lindsey Graham'ın cenaze törenine de katılacak Netanyahu'nun ziyaret kapsamında Beyaz Saray'da ABD Başkanı Trump ile bir araya geleceği aktarıldı.",
-          "source": "https://www.ntv.com.tr/dunya/netanyahu-sali-gunu-abdde-trumpla-gorusecek-1734413"
+          "title": "UCM tarihinde ilk: Başsavcı Kerim Han görevden alındı",
+          "summary": "Uluslararası Ceza Mahkemesi (UCM) Başsavcısı Kerim Han, hakkındaki cinsel taciz soruşturması kapsamında Taraf Devletler Meclisi (ASP) tarafından görevden alındı. Kararla birlikte, 2002 yılında kurulan mahkemenin tarihinde ilk kez bir başsavcı azledilmiş oldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/ucm-tarihinde-ilk-bassavci-kerim-han-gorevden-alindi-43251074"
         },
         {
-          "title": "KKTC'de 2 bin 500 tonluk buğday silosu çöktü",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti’nde (KKTC), Toprak Ürünleri Kurumu’na ait 2 bin 500 ton kapasiteli buğday silosu çöktü. Meydana gelen facia sonucu enkaz altında kalan işçi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/kktcde-2-bin-500-tonluk-bugday-silosu-coktu-43250710"
+          "title": "Babülmendep gerilimi büyüyor. Arap Koalisyonu, Husileri vurdu",
+          "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Kızıldeniz'i kapatmakla tehdit edip petrol tankerlerini hedef alan İran destekli Husilere ait bazı hedefleri vurduklarını duyurdu. İran-ABD Savaşı sürerken, İran'ın Kızıldeniz'deki Babülmendep Boğazı'nda abluka ilan eden ve petrol tankerini hedef alan İran destekli Husilere ilişkin gerilim artıyor.",
+          "source": "https://www.ntv.com.tr/dunya/babulmendep-gerilimi-buyuyor-arap-koalisyonu-husileri-vurdu-1734444"
         },
         {
-          "title": "Bangladeş siyasetinde deprem: Cumhurbaşkanı istifa etti",
-          "summary": "Bangladeş Cumhurbaşkanı Muhammed Şahabuddin, sağlık sorunları nedeniyle istifa etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/banglades-siyasetinde-deprem-cumhurbaskani-istifa-etti-43250676"
+          "title": "Altının da ''parmak izi'' var. Kaçak madenler bu yöntemle bulunacak",
+          "summary": "Brezilya federal polisi, Amazonlar’daki yasa dışı madencilikle mücadele için altın numunelerinin kimyasal “parmak izini” çıkarıyor. Laboratuvar analizleri, ele geçirilen altının ruhsatlı bir madenden mi yoksa koruma altındaki ormanlardan ve yerli halk topraklarından mı çıkarıldığını ortaya koyuyor. Brezilya, Amazonlar’daki yasa dışı altın madenciliğiyle mücadelede adli bilim yöntemlerinden yararlanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-altinin-da-parmak-izi-var-kacak-madenler-bu-yontemle-bulunacak-1734428"
         },
         {
-          "title": "Almanya'da değişim rüzgarı: Kabinede revizyon kararı alındı",
-          "summary": "Almanya Başbakanı Friedrich Merz, 15’inci ayına giren koalisyon hükümetinin büyük ortağı olan partisi Hristiyan Demokrat Birlik Partisi’nde (CDU) ve Bakanlar Kurulunda değişikliğe gideceğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-degisim-ruzgari-kabinede-revizyon-karari-alindi-43250630"
+          "title": "Dünya Bankası'ndan Venezuela'daki depremlerin 19,6 milyar dolarlık hasara yol açtığı tahmini",
+          "summary": "Dünya Bankası Grubu, Venezuela'da 24 Haziran'da meydana gelen depremlerin 19,6 milyar dolarlık doğrudan fiziksel hasara yol açtığını tahmin etti. Bankadan yapılan açıklamada, Küresel Hızlı Hasar Tahmini (GRADE) çalışmasından elde edilen bulgular paylaşıldı. Açıklamada, 24 Haziran'daki depremlerin Venezuela'da 19,6 milyar dolar tutarında doğrudan fiziksel hasara neden olduğunun tahmin edildiği bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/dunya-bankasindan-venezueladaki-depremlerin-196-milyar-dolarlik-hasara-yol-actigi-tahmini-1734436"
         },
         {
-          "title": "Kuzey İrlanda'ya hedef alan bombalı saldırı son anda önlendi",
-          "summary": "İrlanda'da, Birleşik Krallık'a bağlı Kuzey İrlanda'da bir saldırıda kullanılmak üzere götürüldüğü değerlendirilen patlayıcı yüklü araç durduruldu. İrlanda polisi, planlanan saldırının çok ciddi hasar verme potansiyeli taşıdığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/kuzey-irlandaya-hedef-alan-bombali-saldiri-son-anda-onlendi-43250610"
+          "title": "Trump yönetiminin ABD'nin 60 ticaret ortağına getirdiği yeni tarifelere karşı dava açıldı",
+          "summary": "ABD Başkanı Donald Trump yönetiminin 1974 tarihli Ticaret Yasası'nın 301. Bölümü kapsamında ülkenin 60 ticaret ortağına getirdiği gümrük vergilerine karşı dava açıldı. İki işletme tarafından ABD Uluslararası Ticaret Mahkemesinde açılan toplu davada, ABD'nin ithalatının yaklaşık yüzde 99,4'ünü kapsayan ticaret ortaklarına getirilen yüzde 10 ila yüzde 12,5 oranındaki gümrük vergilerinin yasaya aykırı olduğu gerekçesiyle iptal edilmesi istendi. Mahkemeye sunulan dava dilekçesinde, 301.",
+          "source": "https://www.ntv.com.tr/dunya/trump-yonetiminin-abdnin-60-ticaret-ortagina-getirdigi-yeni-tarifelere-karsi-dava-acildi-1734432"
         },
         {
-          "title": "Kiev füzelerle vuruldu: 6 kişi yaşamını yitirdi",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun Kiev bölgesini füze saldırısıyla hedef aldığını kaydetti. Ukrayna lideri, saldırıda ilk belirlemelere göre 6 kişinin hayatını kaybettiğini ve onlarca kişinin yaralandığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/kiev-fuzelerle-vuruldu-6-kisi-yasamini-yitirdi-43250587"
+          "title": "Trump: \"İran'a yönelik büyük çaplı saldırılar konusunda henüz bir karar vermedim\"",
+          "summary": "ABD Başkanı Donald Trump, İran'a yönelik \"büyük çaplı bir saldırı\" başlatıp başlatmama konusunda henüz karar vermediğini, İran'ın görüşmelerde \"daha ciddi\" tavır sergilediğini belirtti. Trump, Beyaz Saray'da düzenlediği basın toplantısında gazetecilerin ABD ile İran arasında yaşanan çatışmalar ve olası bir anlaşma konusundaki sorularını cevaplandırdı. İran'a yönelik saldırıların devam edip etmeyeceğine ilişkin soruya Trump, \"İran'a yönelik büyük çaplı saldırılar konusunda henüz bir karar vermedim.",
+          "source": "https://www.ntv.com.tr/dunya/trump-irana-yonelik-buyuk-capli-saldirilar-konusunda-henuz-bir-karar-vermedim-1734430"
         }
       ]
     },
     "ekonomi": {
-      "text": "Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den. Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi.",
+      "text": "Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu. Dünyanın kuru meyvesi de Ege’den.",
       "items": [
+        {
+          "title": "Yatırım araçlarının haftalık performansı nasıl oldu?",
+          "summary": "Borsa İstanbul'da işlem gören hisse senetleri, haftalık bazda ortalama yüzde 0,27 değer kaybederken, altının gram fiyatı yüzde 2,18, dolar/TL yüzde 0,76 ve euro/TL yüzde 0,31 değer kazandı. BIST 100 endeksi, en düşük 13.875,58 puanı ve en yüksek 14.228,02 puanı gördükten sonra haftayı, önceki hafta kapanışının yüzde 0,27 altında 13.943,87 puandan tamamladı.",
+          "source": "https://www.ntv.com.tr/ekonomi/yatirim-araclarinin-haftalik-performansi-nasil-oldu-1734435"
+        },
         {
           "title": "Didim’e uluslararası marka yatırımı",
           "summary": "Aydın’ın yükselen turizm destinasyonlarından Didim, uluslararası otel yatırımlarına bir yenisini daha kazandırıyor.",
@@ -115,19 +120,39 @@
           "title": "Dünyanın kuru meyvesi de Ege’den",
           "summary": "TÜRK kuru meyve sektörü de dünya pazarlarındaki güçlü konumunu 2026’nın ilk yarısında korudu.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/dunyanin-kuru-meyvesi-de-egeden-43240177"
-        },
-        {
-          "title": "Fed Başkanı Warsh'tan kritik enflasyon açıklaması… Rejim değişikliği mesajı verdi",
-          "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, uzun süredir bankanın hedefinin üzerinde seyreden enflasyonu \"haksız bir yük\" ve \"vergi\" olarak nitelendirerek, bunun ortadan kaldırılması için para politikası yaklaşımında bir rejim değişikliğine ihtiyaç olduğunu ifade etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/fed-baskani-warshtan-kritik-enflasyon-aciklamasi-rejim-degisikligi-mesaji-verdi-43239997"
         }
       ]
     },
     "spor": {
-      "text": "Arda Güler için yeni iddia: 'Saf dışı bırakmak istediler, Xabi'ye karşıydı'. Eyüpspor Mete Kaan Demir'i kadrosuna kattı. Filenin Sultanları yarı final öncesi kupa hedefiyle motive. Belçika Milli Takımı'nda Van Bommel dönemi başladı. Trabzonspor, Avusturya'da yeni sezon hazırlıklarını sürdürdü. Beşiktaş'ta Midtjylland maçı hazırlıkları başladı. Beşiktaş da istiyordu: Galatasaray'dan Jhon Lucumi'ye dev teklif!.",
+      "text": "Okan Buruk: 'Birçok oyuncu bizimle beraber olmayacak'. Trabzonspor'un yeni transferi Malinovskyi'den Fatih Tekke'ye övgü!. Fenerbahçe'de Gornik Zabrze maçı mesaisi sürüyor!. Kasımpaşa, Gençlerbirliği'ni 3 golle yendi!. LeBron James'in yeni takımı belli oldu!. Arda Güler için yeni iddia: 'Saf dışı bırakmak istediler'. Eyüpspor Mete Kaan Demir'i kadrosuna kattı.",
       "items": [
         {
-          "title": "Arda Güler için yeni iddia: 'Saf dışı bırakmak istediler, Xabi'ye karşıydı'",
+          "title": "Okan Buruk: 'Birçok oyuncu bizimle beraber olmayacak'",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Monza'ya 2-0 yenildikleri hazırlık maçının ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-bircok-oyuncu-bizimle-beraber-olmayacak-43250990"
+        },
+        {
+          "title": "Trabzonspor'un yeni transferi Malinovskyi'den Fatih Tekke'ye övgü!",
+          "summary": "Trabzonspor'un yeni transferi Ruslan Malinovskyi, \"Trabzonspor taraftarının hafta hafta futbolla yaşadığının, futbolun tam içinde olduğunun ve sonuçlardan büyük bir mutluluk ya da üzüntü duyduğunun farkındayım. Ben de onları mutlu etmeye çalışacağım.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yeni-transferi-malinovskyiden-fatih-tekkeye-ovgu-43250905"
+        },
+        {
+          "title": "Fenerbahçe'de Gornik Zabrze maçı mesaisi sürüyor!",
+          "summary": "Fenerbahçe, Polonya ekibi Gornik Zabrze ile deplasmanda oynayacağı UEFA Şampiyonlar Ligi 2. Eleme Turu rövanş maçının hazırlıklarını sürdürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-gornik-zabrze-maci-mesaisi-suruyor-43250903"
+        },
+        {
+          "title": "Kasımpaşa, Gençlerbirliği'ni 3 golle yendi!",
+          "summary": "Kasımpaşa, hazırlık maçında Gençlerbirliği'ni 3-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kasimpasa-genclerbirligini-3-golle-yendi-43250847"
+        },
+        {
+          "title": "LeBron James'in yeni takımı belli oldu!",
+          "summary": "NBA'in efsane oyuncularından LeBron James, Philadelphia 76ers ile 2 yıllığına anlaşmaya vardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lebron-jamesin-yeni-takimi-belli-oldu-43250834"
+        },
+        {
+          "title": "Arda Güler için yeni iddia: 'Saf dışı bırakmak istediler'",
           "summary": "Real Madrid'de bazı yıldız oyuncuların, geçtiğimiz sezon Arda Güler'i saf dışı bırakmak istediği iddia edildi.",
           "source": "https://www.hurriyet.com.tr/sporarena/arda-guler-icin-yeni-iddia-saf-disi-birakmak-istediler-xabiye-karsiydi-43250828"
         },
@@ -135,31 +160,6 @@
           "title": "Eyüpspor Mete Kaan Demir'i kadrosuna kattı",
           "summary": "Eyüpspor, kanat oyuncusu Mete Kaan Demir'i kadrosuna kattı.",
           "source": "https://www.hurriyet.com.tr/sporarena/eyupspor-mete-kaan-demiri-kadrosuna-katti-43250761"
-        },
-        {
-          "title": "Filenin Sultanları yarı final öncesi kupa hedefiyle motive",
-          "summary": "A Milli Kadın Voleybol Takımı oyuncuları Deniz Uyanık ve Defne Başyolcu, final etabı öncesinde yoğun şekilde çalıştıklarını ve takım motivasyonunun yüksek olduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-yari-final-oncesi-kupa-hedefiyle-motive-43250727"
-        },
-        {
-          "title": "Belçika Milli Takımı'nda Van Bommel dönemi başladı",
-          "summary": "Belçika Milli Takımı'nda Rudi Garcia'dan boşalan teknik direktörlük görevine Mark van Bommel getirildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/belcika-milli-takiminda-van-bommel-donemi-basladi-43250726"
-        },
-        {
-          "title": "Trabzonspor, Avusturya'da yeni sezon hazırlıklarını sürdürdü",
-          "summary": "Trabzonspor, yeni sezon hazırlıklarını Avusturya kampında yaptığı antrenmanla sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-avusturyada-yeni-sezon-hazirliklarini-surdurdu-43250713"
-        },
-        {
-          "title": "Beşiktaş'ta Midtjylland maçı hazırlıkları başladı",
-          "summary": "UEFA Avrupa Ligi 2. ön eleme turu rövanşında 30 Temmuz Perşembe günü Danimarka temsilcisi Midtjylland ile deplasmanda karşılaşacak Beşiktaş, hazırlıklarına ara vermeden başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-midtjylland-maci-hazirliklari-basladi-43250698"
-        },
-        {
-          "title": "Beşiktaş da istiyordu: Galatasaray'dan Jhon Lucumi'ye dev teklif!",
-          "summary": "Galatasaray, Beşiktaş'ın transferi için görüşmelerde bulunduğu Kolombiyalı stoper Jhon Lucumi'ye teklifte bulundu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-da-istiyordu-galatasaraydan-jhon-lucumiye-dev-teklif-43250612"
         }
       ]
     },
