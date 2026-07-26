@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-25T16:00:03.692Z",
+  "generatedAt": "2026-07-26T04:00:03.560Z",
   "categories": {
     "gundem": {
-      "text": "Otomobil markete daldı. Çalışan ve müşteriler ölümden döndü. Yıldırımın isabet ettiği sürüde 50 keçi telef oldu. Sağlık Bakanı Memişoğlu: Rize Şehir Hastanesi 2027 yılında hizmete girecek. Ümraniye’de kaçan boğa dükkana girdi. Kısa süreli panik kamerada. Muğla'da orman yangını. 5 hektar ziraat ve orman alanı zarar gördü. Trabzon 205. Geleneksel Sis Dağı Kültür Şenlikleri'ne yoğun katılım. Uyarılara aldırmadı, dev dalgalara rağmen denize girdi.",
+      "text": "Yeni Parti’nin yeni vitrini. Gülistan Doku cinayetinde şok iddia... Valinin eşinden talimat: 100 bini al cesedi göm. Şişli’de binanın duvarı çöktü, mahalleli deprem paniği yaşadı. Malatya'da korkutan yangın! Alevler gökyüzünü kapladı. Kavgada Kızılırmak'a düşüp boğuldu. Seyir tepesinde sır dolu katliam. 3 ölü. Mermer atölyesinde feci ölüm.",
       "items": [
         {
-          "title": "Otomobil markete daldı. Çalışan ve müşteriler ölümden döndü",
-          "summary": "Muğla'nın Milas ilçesinde kontrolden çıkan otomobil bir markete daldı. Kaza anı kameralara yansırken, markette bulunan çalışanlar ve müşteriler ölümden döndü. Ören Mahallesi'nde meydana gelen kazada, otomobilin sürücüsü henüz bilinmeyen bir nedenle direksiyon hakimiyetini kaybetti. Kontrolden çıkan otomobil. yol kenarında bulunan bir zincir markete daldı. Kaza sırasında markette bulunan çalışanlar ve müşteriler büyük panik yaşarken, olayda can kaybı ya da yaralanan olmadı.",
-          "source": "https://www.ntv.com.tr/turkiye/otomobil-markete-daldi-calisan-ve-musteriler-olumden-dondu-1734553"
+          "title": "Yeni Parti’nin yeni vitrini",
+          "summary": "Özgür Özel, Yeni Parti’yle birlikte A Takımı’nı da oluşturdu. Yeni MYK’da haklarında fezleke olan isimler yer almadı. Kulislerde, bu isimlerin Özel’in elini rahatlatmak için parti vitrininde görev almadığı konuşuluyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/yeni-partinin-yeni-vitrini-43251904"
         },
         {
-          "title": "Yıldırımın isabet ettiği sürüde 50 keçi telef oldu",
-          "summary": "Isparta'nın Eğirdir ilçesinde yaylada otlayan keçi sürüsüne yıldırım isabet etmesi sonucu 50 keçi telef oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/yildirimin-isabet-ettigi-surude-50-keci-telef-oldu-43251733"
+          "title": "Gülistan Doku cinayetinde şok iddia... Valinin eşinden talimat: 100 bini al cesedi göm",
+          "summary": "Tunceli’de 6 yıldır kendisinden haber alınamayan ve cesedi de bulunamayan Gülistan Doku soruşturmasının tutuklu sanıklarından Turan Güler’in ifadesinde, “Handan Sonel (eski valinin eşi) bana oğlunun Gülistan’ı 2 el ateş ederek öldürdüğünü söyledi. Cesedi yok etmem için 100 bin lira verdi” dediği ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gulistan-doku-cinayetinde-sok-iddia-valinin-esinden-talimat-100-bini-al-cesedi-gom-43251888"
         },
         {
-          "title": "Sağlık Bakanı Memişoğlu: Rize Şehir Hastanesi 2027 yılında hizmete girecek",
-          "summary": "Sağlık Bakanı Kemal Memişoğlu, yapımı hızla devam eden Rize Şehir Hastanesi şantiyesinde incelemelerde bulunarak, \"İnşaatın yüzde 70'ini tamamladık. Sene sonu itibarıyla inşaat aşamasını bitirip, 2027'de vatandaşlarımızın hizmetine açacağız\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/saglik-bakani-memisoglu-rize-sehir-hastanesi-2027-yilinda-hizmete-girecek-43251723"
+          "title": "Şişli’de binanın duvarı çöktü, mahalleli deprem paniği yaşadı",
+          "summary": "Şişli’de 6 katlı binanın 3’üncü katındaki duvar çöktü. Olayda ölen ya da yaralanan olmazken dairede hasar meydana geldi. Yan binada çalışanlar şiddetli gürültü nedeniyle deprem olduğunu zannetti. Halaskargazi Mahallesi Kuyumcu İrfan Sokak’ta, daha önce yıkılan bir binanın bitişiğindeki daire duvarı henüz belirlenemeyen bir nedenle yıkıldı. Olayda ölen ya da yaralanan olmazken duvarı yıkılan dairede hasar meydana geldi. Büyük bir gürültü duyan mahalle sakinleri hemen itfaiye ve belediye ekiplerine haber verdi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-sislide-binanin-duvari-coktu-mahalleli-deprem-oldu-zannetti-1734556"
         },
         {
-          "title": "Ümraniye’de kaçan boğa dükkana girdi. Kısa süreli panik kamerada",
-          "summary": "Ümraniye’de sahibinin elinden kaçan boğa, sanayi sitesinde dükkana girdi. İddiaya göre, sahibinin elinden kaçan boğa Ümraniye'deki sanayi sitesi içerisinde koşmaya başladı. Kaçan boğa nedeniyle sanayi esnafı kısa süreli panik yaşadı. Boğayı yakalamak için çevrede bulunan esnaf seferber olurken, kaçışını sürdüren boğa bir dükkana girdi. Boğanın dükkana girmesi üzerine içeride bulunan çalışanlar panikle dışarı çıktı. Bir süre iş yerinin içinde dolaşan boğa daha sonra yeniden dışarı çıkarak kaçmaya devam etti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-umraniyede-kacan-boga-dukkana-girdi-kisa-sureli-panik-kamerada-1734550"
+          "title": "Malatya'da korkutan yangın! Alevler gökyüzünü kapladı",
+          "summary": "Malatya'da Hurdacılar Sitesi'nde çıkan yangın kısa sürede büyüyerek geniş bir alanda etkili oldu. Alevlere 3 TOMA, itfaiye ekipleri ve dron desteğiyle müdahale edilirken yangını kontrol altına alma çalışmaları sürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/malatyada-korkutan-yangin-alevler-gokyuzunu-kapladi-43251975"
         },
         {
-          "title": "Muğla'da orman yangını. 5 hektar ziraat ve orman alanı zarar gördü",
-          "summary": "Muğla'nın Menteşe ilçesinde çıkan orman yangınına havadan ve karadan müdahale ile kontrol altına alındı. Yenice Mahallesi'ndeki tarım arazisinde başlayan yangın rüzgarın etkisiyle ormanlık alana sıçradı. İhbar üzerine bölgeye Muğla Orman Bölge Müdürlüğüne bağlı 4 uçak, 10 helikopter, 26 arazöz, 9 su tankeri, 3 dozer ve 228 personel ile itfaiye ekipleri sevk edildi. Alevlere havadan ve karadan müdahale eden ekipler, yangını kontrol altına aldı. Yangında 5 hektar ziraat ve ormanlık alan zarar gördü.",
-          "source": "https://www.ntv.com.tr/turkiye/muglada-orman-yangini-havadan-ve-karadan-mudahale-ediliyor-1734545"
+          "title": "Kavgada Kızılırmak'a düşüp boğuldu",
+          "summary": "Arkadaşlarıyla içki içerken çıkan kavgada dengesini kaybedip Kızılırmak'a düşen 37 yaşındaki Ertuğrul Altan hayatını kaybetti. Kırıkkale'nin Bahşılı ilçesinde Ertuğrul Altan (37) ile Ö.Y. (29) ve D.Y. (34) arasında Yeşil Vadi Caddesi'ndeki mesire alanında içki içtikleri sırada çıkan tartışma kavgaya dönüştü. İddiaya göre bu sırada bölgeden uzaklaşmaya çalışan Altan, dengesini kaybederek Kızılırmak'a düştü. Olay yerine polis, sağlık, AFAD ve itfaiye ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/kavgada-kizilirmaka-dusup-boguldu-1734573"
         },
         {
-          "title": "Trabzon 205. Geleneksel Sis Dağı Kültür Şenlikleri'ne yoğun katılım",
-          "summary": "Trabzon'un Şalpazarı ilçesinde 205. Geleneksel Sis Dağı Kültür Şenlikleri düzenleniyor. Şenliğe Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu'da katıldı. Trabzon'un Şalpazarı ilçesinde asırlardır yaşatılan ve Sis Dağı Kültür Şenliği'nin bu yıl 205’incisi düzenleniyor. Şenliğe Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu da katıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-trabzon-205-geleneksel-sis-dagi-kultur-senliklerine-yogun-katilim-1734549"
+          "title": "Seyir tepesinde sır dolu katliam. 3 ölü",
+          "summary": "Adana'da iki erkek ile bir kadın, gece yarısı şehir manzarası izlemek için çıktıkları Rüzgarlı Tepe mevkisinde katledildi. 28 yaşındaki şüpheli Osman A., saklandığı adreste yakalandı. Adana'nın Çukurova ilçesinde tabancayla Ali Can Demir (25), Sinan İlbey (28) ve Semra Yılmaz (44) seyir tepesinde henüz belirlenemeyen bir nedenle uğradıkları silahlı saldırıda hayatlarını kaybetti. Olay, Kabasakal Mahallesi'ndeki Rüzgarlı Tepe bölgesinde meydana geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/seyir-tepesinde-sir-dolu-katliam-3-olu-1734570"
         },
         {
-          "title": "Uyarılara aldırmadı, dev dalgalara rağmen denize girdi",
-          "summary": "Meteorolojinin kuvvetli fırtına uyarısında bulunduğu Hatay'da kıyı şeridinde dev dalgalar oluştu. Hatay Valiliği'nin \"denize girmek yasaktır\" uyarısına rağmen Dörtyol ilçesinde bir vatandaş, dev dalgalar arasında yüzerek canını hiçe saydı. Meteorolojinin şiddetli fırtına uyarısında bulunduğu Hatay’ın kıyı sahillerinde fırtına etkili oldu. Şiddetli fırtınanın etkili olduğu İskenderun, Dörtyol, Payas ve Arsuz ilçelerinde kıyı kesimlerinde dev dalgalara neden oldu.",
-          "source": "https://www.ntv.com.tr/turkiye/uyarilara-aldirmadi-dev-dalgalara-ragmen-denize-girdi-1734546"
+          "title": "Mermer atölyesinde feci ölüm",
+          "summary": "Antalya'da bir atölyede eşiyle birlikte kamyonetten indirdikleri mermerin altında kalan 32 yaşındaki Hasibe Özdemir hayatını kaybetti. Antalya'nın Kepez ilçesinde, mermer bloğunun altında kalan 31 yaşındaki 2 çocuk annesi Hasibe Özdemir feci şekilde can verdi. Olay, akşam saatlerinde Gazi Mahallesi'ndeki mermer atölyesinde meydana geldi. İddiaya göre, Hasibe Özdemir ile eşi, kendi atölyelerinde makine bulunmadığı için mermer kesimi yapmak üzere komşularına ait işyerine gitti.",
+          "source": "https://www.ntv.com.tr/turkiye/mermer-atolyesinde-feci-olum-1734569"
         }
       ]
     },
     "dunya": {
-      "text": "Avrupa yanıyor! Fransa ve İspanya'da on binlerce hektar kül oldu. NATO Karargahında casus alarmı: 1 kişi tutuklandı. Tarihte bir ilk. Bir yıl içinde susuz kalacaklar. Suriye'de yolcu otobüsleri kafa kafa çarpıştı: Çok sayıda can kaybı. Ukrayna'da koltuğundan oldu, İtalya'da kapılar açıldı. Popüler bakana sürpriz teklif!. Maruldan salgın yayıldı, ülke alarm verdi. Suriye’de otobüs kazası. 35 kişi öldü, 30 kişi yaralandı.",
+      "text": "\"Trump, İran Savaşı'nda frene bastı\" iddiası. ABD'de süpermarkete saldırı. 1 çocuk öldü, 2 kişi yaralandı. Darbe girişiminden tutuklandı, oğlu devlet başkanı adayı oldu. Fransa ve İspanya'da yangın felaketi. Alevler NASA'yı da vurdu. Berlin'de LGBT yürüyüşünün yapıldığı alanın yakınında bir araç kalabalığa daldı. Brezilya'dan ABD'ye vize engeli. İran: 15 günlük süreçte 11 ABD savaş uçağını ve 17 İHA'yı imha ettik.",
       "items": [
         {
-          "title": "Avrupa yanıyor! Fransa ve İspanya'da on binlerce hektar kül oldu",
-          "summary": "İspanya ve Fransa'da etkisini artıran orman yangınları nedeniyle yüz binlerce kişi tahliye edildi. Sıcak hava ve şiddetli rüzgarlar ekiplerin mücadelesini zorlaştırıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/avrupa-yaniyor-fransa-ve-ispanyada-on-binlerce-hektar-kul-oldu-43251694"
+          "title": "\"Trump, İran Savaşı'nda frene bastı\" iddiası",
+          "summary": "ABD Başkanı Donald Trump'ın İran'a saldırıları genişletme planlarını askıya aldığı iddia edildi. Amerikan basınına göre bunun nedeni ABD ordusunun füze stoklarının azalması ve piyasalardaki yeni kriz endişesi. ABD güçleri, 13 gecedir aralıksız süren hava saldırılarının ardından İran'a yönelik bombardımana ara verdi. Amerikan basınına göre İran'a karşı saldırıları yoğunlaştırmayı düşünen ABD Başkanı Donald Trump, bu planı şimdilik rafa kaldırdı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-iran-savasinda-frene-basti-iddiasi-1734576"
         },
         {
-          "title": "NATO Karargahında casus alarmı: 1 kişi tutuklandı",
-          "summary": "Belçika'daki NATO askeri karargahında görevli Çin kökenli Kanada vatandaşı bir stajyer, üçüncü ülkelere casusluk yapmaktan tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/nato-karargahinda-casus-alarmi-1-kisi-tutuklandi-43251690"
+          "title": "ABD'de süpermarkete saldırı. 1 çocuk öldü, 2 kişi yaralandı",
+          "summary": "New York'ta bir süpermarketin önünde düzenlenen silahlı saldırıda 12 yaşındaki bir çocuk hayatını kaybetti. 2 kişiyi de yaralayan saldırgan aranıyor. ABD'nin New York kentinde bir süper markete silahlı saldırı düzenlendi. Bronx bölgesindeki süpermarketin önündeki saldırıda omuzundan vurularak Lincoln Hastanesi'ne kaldırılan 12 yaşındaki bir çocuğun hayatını kaybettiği açıklandı. Kalçasından ve ayağından vurulan iki kişinin tedavisinin sürdüğü ifade edildi.",
+          "source": "https://www.ntv.com.tr/dunya/abdde-super-markete-saldiri-1-cocuk-oldu-2-kisi-yaralandi-1734575"
         },
         {
-          "title": "Tarihte bir ilk. Bir yıl içinde susuz kalacaklar",
-          "summary": "ABD'nin Teksas eyaletindeki Corpus Christi kenti, ciddi bir su kriziyle karşı karşıya. Uzmanlar, 300 bin nüfuslu kentin mevcut rezervlerinin yalnızca bir yıl yeteceğini belirtiyor. 300 BİN KİŞİLİK KENTTE SU ALARMI Teksas eyaletindeki Corpus Christi, modern dönemde su kaynaklarını tüketme riskiyle karşı karşıya kalan ilk büyük Amerikan şehirlerinden biri olabilir.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-tarihte-bir-ilk-bir-yil-icinde-susuz-kalacaklar-1734509"
+          "title": "Darbe girişiminden tutuklandı, oğlu devlet başkanı adayı oldu",
+          "summary": "Darbe girişimi iddiasıyla tutuklanan eski Brezilya Devlet Başkanı Jair Bolsonaro'nun oğlu Flavio Bolsonaro, Liberal Parti'nin yeni adayı oldu. Brezilya'da aşırı sağcı Liberal Parti, darbe girişiminde bulunduğu gerekçesiyle 27 yıl hapse mahkum edilen eski Brezilya Devlet Başkanı Jair Bolsonaro'nun oğlu Senatör Flavio Bolsonaro'yu 4 Ekim 2026'da düzenlenecek seçimde devlet başkanı adayı gösterdi.",
+          "source": "https://www.ntv.com.tr/dunya/darbe-girisiminden-tutuklandi-oglu-devlet-baskani-adayi-oldu-1734574"
         },
         {
-          "title": "Suriye'de yolcu otobüsleri kafa kafa çarpıştı: Çok sayıda can kaybı",
-          "summary": "Suriye’nin Şam-Deyrizor kara yolunda güvenlik güçlerini taşıyan otobüs ile yolcu otobüsünün kafa kafaya çarpışması sonucu 35 kişi hayatını kaybetti, 30 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriyede-yolcu-otobusleri-kafa-kafa-carpisti-cok-sayida-can-kaybi-43251602"
+          "title": "Fransa ve İspanya'da yangın felaketi. Alevler NASA'yı da vurdu",
+          "summary": "Fransa ve İspanya'da devasa orman yangınlarıyla mücadele sürüyor. İki ülkede binlerce hektar alan kül oldu, alevler yerleşim yerlerine ulaştı. 200 bini aşkın kişi tahliye edildi. NASA'nın İspanya'daki tesisi tahliye edildi. Son aylarda peş peşe sıcak hava dalgalarının vurduğu Avrupa, şimdi de dev orman yangınlarıyla mücadele ediyor. Fransa'nın güneybatısındaki Gironde ve Landes bölgelerinde günlerdir devam eden ve kilometrelerce alana yayılan yangınlar hala kontrol altına alınamadı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-ispanyada-yangin-felaketi-alevler-nasayi-da-vurdu-1734572"
         },
         {
-          "title": "Ukrayna'da koltuğundan oldu, İtalya'da kapılar açıldı. Popüler bakana sürpriz teklif!",
-          "summary": "İtalya Savunma Bakanı Guido Crosetto, Ukrayna'nın yakın zamanda görevden alınan eski Savunma Bakanı Mykhailo Fedorov'a danışmanlık görevi teklif ettiğini söyledi. İtalya Savunma Bakanı Guido Crosetto, İtalyan La Repubblica gazetesine röportaj verdi. İtalyan bakan burada, görevden alınmasının ardından Ukrayna'nın popüler eski Savunma Bakanı Mykhailo Fedorov hakkında konuştu.",
-          "source": "https://www.ntv.com.tr/dunya/ukraynada-koltugundan-oldu-italyada-kapilar-acildi-populer-bakana-surpriz-teklif-1734539"
+          "title": "Berlin'de LGBT yürüyüşünün yapıldığı alanın yakınında bir araç kalabalığa daldı",
+          "summary": "Almanya'nın başkenti Berlin'de Christopher Street Day yürüyüşünün yapıldığı alanın yakınlarında bir aracın kalabalığa dalması sonucu 1 kişinin hayatını kaybettiği, çok sayıda kişinin de yaralandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/berlinde-lgbt-yuruyusunun-yapildigi-alanin-yakininda-bir-arac-kalabaliga-daldi-43251973"
         },
         {
-          "title": "Maruldan salgın yayıldı, ülke alarm verdi",
-          "summary": "ABD'de Cyclospora parazitinin yol açtığı bağırsak enfeksiyonu salgını büyümeye devam ediyor. Meksika'dan ithal edilen iceberg marullarla bağlantılı vakaların dokuz eyalete yayıldığı ve ülke genelindeki vaka sayısının 11 bini aştığı açıklandı. SALGIN 9 EYALETE YAYILDI ABD Hastalık Kontrol ve Önleme Merkezleri (CDC), Cyclospora parazitinin neden olduğu bağırsak enfeksiyonu salgınının dokuz eyalete ulaştığını duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-maruldan-salgin-yayildi-ulke-alarm-verdi-1734474"
+          "title": "Brezilya'dan ABD'ye vize engeli",
+          "summary": "Brezilya hükümeti, ekim ayında yapılacak devlet başkanlığı seçimleri öncesinde seçim yetkilileriyle görüşmek üzere ülkeye gelmek isteyen ABD Dışişleri Bakanlığından iki yetkiliye vize vermedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/brezilyadan-abdye-vize-engeli-43251935"
         },
         {
-          "title": "Suriye’de otobüs kazası. 35 kişi öldü, 30 kişi yaralandı",
-          "summary": "Suriye’de Şam-Deyrizor yolunda iki yolcu otobüsünün çarpıştığı kazada 35 kişi hayatını kaybetti, 30 kişi yaralandı. Suriye devlet televizyonu El-İhbariyye, Şam-Deyrizor yolu üzerinde, Suhne ve Palmira bölgeleri arasında iki yolcu otobüsünün çarpıştığını duyurdu. Sağlık Bakanlığından yapılan açıklamaya göre, kazada ilk belirlemelere göre 35 kişi hayatını kaybetti, 30 kişi yaralandı. Yaralılar çevre hastanelere nakledilirken ölü sayısının artmasından endişe ediliyor.",
-          "source": "https://www.ntv.com.tr/dunya/suriyede-otobus-kazasi-35-kisi-oldu-30-kisi-yaralandi-1734538"
+          "title": "İran: 15 günlük süreçte 11 ABD savaş uçağını ve 17 İHA'yı imha ettik",
+          "summary": "ABD'nin İran'a yönelik 2 hafta süren saldırılarına, Tahran bölgedeki üslere misilleme yaparak yanıt vermişti. Devrim Muhafızları, bu süreçte 11 ABD savaş uçağını ve 17 insansız hava aracını imha ettiklerini öne sürdü. Ayrıca bu saldırılarda en az 200 ABD askerinin öldüğü iddia edildi. Yarı resmi Tesnim Haber Ajansına açıklama yapan Muhibbi, ABD ordusuna verilen hasara ilişkin değerlendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/iran-15-gunluk-surecte-11-abd-savas-ucagini-ve-17-ihayi-imha-ettik-1734559"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Samsunspor 0-0 RAAL La Louviere (Hazırlık maçı). Fenerbahçe’den Dominik Livakovic açıklaması!. Daniele Santarelli: 'Altın madalyayla dönmek istiyoruz!'. İlk golü kim atar tahminleri ve karşılıklı gol istatistikleri… İşte Misli’den günün tüyoları. Ankara'da bugün 7 koşu var! İşte Misli’den günün altılı analizi…. Gençlerbirliği'nden İrfan Can Eğribayat açıklaması: 'Fenerbahçe'nin kararını bekliyoruz!'. Rosamaria Montibeller: 'Altın madalya mücadelesinin zorlu geçeceği kesin!'.",
+      "text": "Hull City, Konyaspor'u hazırlık maçında 3 golle geçti!. Arda Güler'den Jose Mourinho'ya övgü dolu sözler!. 'Türkiye'ye imza atıyor' iddiasına Rafael Leao'dan cevap!. Inter Turku - Başakşehir maçına Belçikalı hakem!. Bayern Münih'ten Sacha Boey kararı! Geleceği resmen açıklandı. Trabzonspor, ilk hazırlık maçına çıkıyor!. Midtjylland - Beşiktaş maçına İngiliz hakem!.",
       "items": [
         {
-          "title": "Samsunspor 0-0 RAAL La Louviere (Hazırlık maçı)",
-          "summary": "Samsunspor, Hollanda kampının ikinci hazırlık maçında RAAL La Louviere ile 0-0 berabere kaldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-0-0-raal-la-louviere-hazirlik-maci-43251713"
+          "title": "Hull City, Konyaspor'u hazırlık maçında 3 golle geçti!",
+          "summary": "İngiltere Premier Lig ekibi Hull City, hazırlık maçında Konyaspor'u 3-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hull-city-konyasporu-hazirlik-macinda-3-golle-gecti-43251927"
         },
         {
-          "title": "Fenerbahçe’den Dominik Livakovic açıklaması!",
-          "summary": "Fenerbahçe, Hırvat kaleci Dominik Livakovic için başka bir kulüpten teklif almadıklarını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-dominik-livakovic-aciklamasi-43251710"
+          "title": "Arda Güler'den Jose Mourinho'ya övgü dolu sözler!",
+          "summary": "Real Madrid'in genç yıldızı Arda Güler, teknik direktör Jose Mourinho'dan övgü dolu sözlerle bahsetti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulerden-jose-mourinhoya-ovgu-dolu-sozler-43251922"
         },
         {
-          "title": "Daniele Santarelli: 'Altın madalyayla dönmek istiyoruz!'",
-          "summary": "A Milli Kadın Voleybol Takımımız, 2026 FIVB Milletler Ligi yarı finalinde ev sahibi Çin'i 3-0 mağlup ederek finalde Brezilya'nın rakibi oldu. Maçın ardından Daniele Santarelli açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-altin-madalyayla-donmek-istiyoruz-43251673"
+          "title": "'Türkiye'ye imza atıyor' iddiasına Rafael Leao'dan cevap!",
+          "summary": "Portekizli futbolcu Rafael Leao, hakkında çıkan \"Türkiye'ye imza atmaya yakın\" haberine yaptığı sosyal medya yorumuyla dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiyeye-imza-atiyor-iddiasina-rafael-leaodan-cevap-43251901"
         },
         {
-          "title": "İlk golü kim atar tahminleri ve karşılıklı gol istatistikleri… İşte Misli’den günün tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla iddaa keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ilk-golu-kim-atar-tahminleri-ve-karsilikli-gol-istatistikleri-iste-misliden-gunun-tuyolari-43251605"
+          "title": "Inter Turku - Başakşehir maçına Belçikalı hakem!",
+          "summary": "Inter Turku - Başakşehir maçının hakemi açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/inter-turku-basaksehir-macina-belcikali-hakem-43251858"
         },
         {
-          "title": "Ankara'da bugün 7 koşu var! İşte Misli’den günün altılı analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-bugun-7-kosu-var-iste-misliden-gunun-altili-analizi-43251604"
+          "title": "Bayern Münih'ten Sacha Boey kararı! Geleceği resmen açıklandı",
+          "summary": "Bayern Münih Sportif Direktörü Christopher Freund, geçtiğimiz sezonun ikinci yarısını Galatasaray'da kiralık olarak geçiren Sacha Boey'in yeni sezon planlamasında yer almadığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihten-sacha-boey-karari-gelecegi-resmen-aciklandi-43251809"
         },
         {
-          "title": "Gençlerbirliği'nden İrfan Can Eğribayat açıklaması: 'Fenerbahçe'nin kararını bekliyoruz!'",
-          "summary": "Gençlerbirliği Başkanı Haydar Arda Çakmak, Fenerbahçe'nin kalecisi İrfan Can Eğribayat'ın transferinde sarı-lacivertli kulübün kararını beklediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginden-irfan-can-egribayat-aciklamasi-fenerbahcenin-kararini-bekliyoruz-43251560"
+          "title": "Trabzonspor, ilk hazırlık maçına çıkıyor!",
+          "summary": "Trabzonspor, yeni sezon hazırlıklarının ikinci etabına Avusturya’nın Schladming kasabasında yaptığı antrenmanla devam etti. Trabzonspor, Avusturya kampındaki ilk hazırlık maçında yarın TSİ 16.30'da Bundesliga ekiplerinden Eintracht Frankfurt ile karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ilk-hazirlik-macina-cikiyor-43251814"
         },
         {
-          "title": "Rosamaria Montibeller: 'Altın madalya mücadelesinin zorlu geçeceği kesin!'",
-          "summary": "Çin'in ev sahipliğinde düzenlenen 2026 FIVB Kadınlar Milletler Ligi (VNL) yarı finalinde son iki yılın şampiyonu İtalya'yı 3-2 yenerek finale yükselen Brezilya'da oyuncular finale odaklanarak kazanmak istediklerini söylediler.",
-          "source": "https://www.hurriyet.com.tr/sporarena/rosamaria-montibeller-altin-madalya-mucadelesinin-zorlu-gececegi-kesin-43251528"
+          "title": "Midtjylland - Beşiktaş maçına İngiliz hakem!",
+          "summary": "Beşiktaş'ın UEFA Avrupa Ligi 2. eleme turu rövanşında karşılaşacağı Midtjylland maçını İngiltere Futbol Federasyonu'ndan John Brooks yönetecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/midtjylland-besiktas-macina-ingiliz-hakem-43251802"
         }
       ]
     },
