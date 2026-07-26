@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-26T10:00:03.044Z",
+  "generatedAt": "2026-07-26T16:00:02.922Z",
   "categories": {
     "gundem": {
-      "text": "Kabine yarın toplanıyor. Gündemde hangi konular var?. Dünürlerin hayatını kaybetmişti: Acı detay ortaya çıktı. İstanbul'da görme engelli vatandaş metro raylarına düştü. CHP'de 'paralı figüran' tartışması... Gürsel Tekin: Şeytanın aklına gelmeyecek bir şey, iki kişi bilebilir. Gayrettepe Metro İstasyonu'nda korku dolu anlar. Görme engelli adam raylara düştü. Dron destekli motosiklet denetimi: 407 bin 818 lira ceza kesildi. Öğrenci affı Meclis'e geliyor. Hangi yılları kapsıyor, kimler faydalanabilecek?.",
+      "text": "Binlerce yıllık gelenek kadın emeğiyle direniyor. Çırak yetişmiyor, sadece birkaç usta kaldı. CHP'nin yeni grup başkanı belli oldu. Cumhurbaşkanı Erdoğan'dan A Milli Kadın Voleybol Takımı'na tebrik. Ümmü nine yıllardır tuvalet ve banyoya hasret yaşıyor. Utandığı için misafir kabul etmiyor. Kayseri’de beton mikserinin pompası patladı; 1 yaralı. Türkiye'nin yangın söndürme uçakları İspanya için havalandı. Rize'de yamaçtan kopan dev kayalar sahil yoluna düştü.",
       "items": [
         {
-          "title": "Kabine yarın toplanıyor. Gündemde hangi konular var?",
-          "summary": "Cumhurbaşkanlığı Kabinesi, yaklaşık iki haftalık aranın ardından yeni haftada Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında bir araya gelecek. Terörsüz Türkiye süreci, ekonomi ve ABD-İran savaşı gündemde olacak. Kabine, yeni haftada Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında yarın Beştepe'de toplanacak. TERÖRSÜZ TÜRKİYE SÜRECİ VE YASAL ADIMLAR Türkiye Büyük Millet Meclisi (TBMM) gündemine gelmesi beklenen süreç yasası kabinenin de önemli gündem başlıklarından biri olacak.",
-          "source": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1734641"
+          "title": "Binlerce yıllık gelenek kadın emeğiyle direniyor. Çırak yetişmiyor, sadece birkaç usta kaldı",
+          "summary": "Manisa'nın Salihli ilçesinde kadınların binlerce yıllık ilkel yöntemlerle çömlek üretimi zamana direniyor. Çömlekler, gençlerin büyükşehirlere taşınması ve yeni çırak yetişmemesi nedeniyle son ustalarının ellerinde şekilleniyor. Gökeyüp Mahallesi'nde geleneksel yöntemlerle elle dövülerek ve şekillendirilerek yapılan çömlekler, Anadolu'nun en eski üretim tekniklerinden birini günümüze taşıyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-binlerce-yillik-gelenek-kadin-emegiyle-direniyor-cirak-yetismiyor-sadece-birkac-usta-kaldi-1734695"
         },
         {
-          "title": "Dünürlerin hayatını kaybetmişti: Acı detay ortaya çıktı",
-          "summary": "Şırnak'ın Silopi ilçesinde hafif ticari aracın şarampole devrildiği kazada yaşamlarını yitiren Gülsüm Üsgüdar (43) ile Tuğba Kervan (42), Niğde’de toprağa verildi. Üsgüdar ile Kervan’ın dünür olduğu, çocuklarının oturacağı evi hazırlamak için Şırnak’a gittikleri ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/dunurlerin-hayatini-kaybetmisti-aci-detay-ortaya-cikti-43252224"
+          "title": "CHP'nin yeni grup başkanı belli oldu",
+          "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun milletvekilleriyle yaptığı toplantıda Faik Öztrak, CHP'nin yeni grup başkanı seçildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/chpnin-yeni-grup-baskani-belli-oldu-43252497"
         },
         {
-          "title": "İstanbul'da görme engelli vatandaş metro raylarına düştü",
-          "summary": "Şişli’de doğuştan görme engelli olduğu öğrenilen Enes G. (25), kız arkadaşıyla gittiği metro istasyonunda dengesini kaybederek raylara düştü. Metroyla rayların arasındaki boşlukta kalan Enes G., itfaiye ekipleri tarafından kurtarıldı. Ayağından yaralanan Enes G. ambulansla hastaneye kaldırıldı. Olay nedeniyle M2 Yenikapı-Hacıosman Metro Hattı’nda seferler bir süre durduruldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-gorme-engelli-vatandas-metro-raylarina-dustu-43252212"
+          "title": "Cumhurbaşkanı Erdoğan'dan A Milli Kadın Voleybol Takımı'na tebrik",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milletler Ligi finalinde şampiyonluğa ulaşan A Millî Kadın Voleybol Takımı'nı tebrik etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-a-milli-kadin-voleybol-takimina-tebrik-43252490"
         },
         {
-          "title": "CHP'de 'paralı figüran' tartışması... Gürsel Tekin: Şeytanın aklına gelmeyecek bir şey, iki kişi bilebilir",
-          "summary": "CHP’de paralı figüran tartışmasına dair konuşan CHP İstanbul İl Başkanı Gürsel Tekin, “Şeytanın aklına gelmeyecek bir şey, iki kişi bilebilir. Bu tuzak FETÖVARİ’dir. Partili olmak tamamen gönüllüğe dairdir. Hiçbir kirli tarafta olmadık.” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/chpde-parali-figuran-tartismasi-gursel-tekin-seytanin-aklina-gelmeyecek-bir-sey-iki-kisi-bilebilir-43252207"
+          "title": "Ümmü nine yıllardır tuvalet ve banyoya hasret yaşıyor. Utandığı için misafir kabul etmiyor",
+          "summary": "Aydın'da tek başına yaşayan 75 yaşındaki Ümmü Şahin adlı kadının hayat şartları görenlerin yüreklerini dağlıyor. Yaşlı kadının, yıllardır tuvalet ve banyosuz evde yaşamak zorunda kaldığı öğrenildi. Kocasını yaklaşık 20 yıl önce kaybeden ve oğlu da yıllar önce bir suçtan dolayı cezaevine giren Ümmü Şahin'in birkaç yıl önce kış yağmurlarında evinin bahçesindeki tuvalet ve banyo olarak kullandığı müştemilat yıkılınca, yıllardır tuvalet ve banyosuz evde yaşamak zorunda kaldığı öğrenildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ummu-nine-yillardir-tuvalet-ve-banyoya-hasret-yasiyor-utandigi-icin-misafir-kabul-etmiyor-1734691"
         },
         {
-          "title": "Gayrettepe Metro İstasyonu'nda korku dolu anlar. Görme engelli adam raylara düştü",
-          "summary": "İstanbul'daki Gayrettepe Metro İstasyonu'nda görme engelli bir kişi raylara düştü. Şişli'de görme engelli kişi metro raylarına düştü. Olay, saat 10.30 sıralarında Gayrettepe Mahallesi'ndeki M2 Gayrettepe Metro İstasyonu'nda meydana geldi. Edinilen bilgiye göre doğuştan görme engelli Enes G., kız arkadaşıyla İstanbul Havalimanı'ndan eve gitmek için metro istasyonuna geldi. Metro perona yaklaştığı sırada dengesini kaybeden Enes G., raylara düştü.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-gayrettepe-metro-istasyonunda-korku-dolu-anlar-gorme-engelli-adam-raylara-dustu-1734634"
+          "title": "Kayseri’de beton mikserinin pompası patladı; 1 yaralı",
+          "summary": "Kayseri’de beton mikserinin pompasının patlaması sonucu üzerine harç dökülen 1 kişi yaralandı. Olayla ilgili soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-beton-mikserinin-pompasi-patladi-1-yarali-43252480"
         },
         {
-          "title": "Dron destekli motosiklet denetimi: 407 bin 818 lira ceza kesildi",
-          "summary": "İstanbul'da 5 ilçede, yaya yollarını kullanan motosiklet sürücülerine yönelik dron destekli denetim yapıldı. Denetimlerde kural ihlali yaptığı belirlenen sürücülere toplam 407 bin 818 lira para cezası kesilirken, 4 motosiklet trafikten men edildi. Bakırköy, Beşiktaş, Sarıyer, Kadıköy ve Maltepe'de motosiklet sürücülerine yönelik dron destekli denetim yapıldı. İstanbul Emniyet Müdürlüğü Trafik Denetleme Şube Müdürlüğü ekipleri, motosiklet sürücülerinin yaya yollarını kullanmasına yönelik denetim gerçekleştirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-dron-destekli-motosiklet-denetimi-407-bin-818-lira-ceza-kesildi-1734633"
+          "title": "Türkiye'nin yangın söndürme uçakları İspanya için havalandı",
+          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, İspanya'nın destek talebi üzerine 2 yangın söndürme uçağı görevlendirdiklerini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiyenin-yangin-sondurme-ucaklari-ispanya-icin-havalandi-43252482"
         },
         {
-          "title": "Öğrenci affı Meclis'e geliyor. Hangi yılları kapsıyor, kimler faydalanabilecek?",
-          "summary": "Türkiye Büyük Millet Meclisi yeni haftada öğrenci affı düzenlemesini görüşecek. Meclis Genel Kurulu, yeni haftada öğrenci affı düzenlemesini görüşecek. Teklifle 2022 yılından önce çıkan aflardan yararlanmayan öğrencilere yeni hak getiriliyor. Bu öğrenciler dört ay içerisinde ilişiklerinin kesildiği üniversiteye başvuruda bulunabilecek. Askerde olan öğrenciler ise görev sürelerinin bitmesini takip eden iki ay içerisinde aftan faydalanabilecek.",
-          "source": "https://www.ntv.com.tr/turkiye/ogrenci-affi-meclise-geliyor-hangi-yillari-kapsiyor-kimler-faydalanabilecek-1734630"
+          "title": "Rize'de yamaçtan kopan dev kayalar sahil yoluna düştü",
+          "summary": "Rize'nin Pazar ilçesinden geçen Karadeniz Sahil Yolu'na yamaçtan kopan 2 dev kaya düştü. Dev kayalar iş makinesiyle yoldan kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/rizede-yamactan-kopan-dev-kayalar-sahil-yoluna-dustu-43252469"
         }
       ]
     },
     "dunya": {
-      "text": "Rus İHA'sı Romanya'yı karıştırdı: F-16'lar havalandı. Çin'de Noul Tayfunu alarmı. 700 binden fazla kişi tahliye edildi. Almanya'da namaz vaktini gösteren tabelaya boyalı saldırı: 'Asıl hedef alınan barış içinde bir arada yaşama anlayışı'. İsrail birlikleri Suriye'nin Kuneytra ilini topçu atışlarıyla vurdu. Fransa ve İspanya'da orman yangınları devam ediyor. Asker sahaya indi. Rusya SİHA'ları devreye soktu: Gece saldırılarında 3 Ukraynalı yaşamını yitirdi. İsrail güçleri Batı Şeria'ya saldırdı: 58 Filistinli elleri ve ayakları bağlanarak götürüldü.",
+      "text": "ABD ile İran arasında yeniden ateşkes mi? ABD saldırıları, İran misillemeleri durdurdu. Dışişleri Bakanı Hakan Fidan'dan Orta Doğu'da barış diplomasisi. İspanya'da 4.4 büyüklüğünde deprem. Rus İHA'sı Romanya'yı karıştırdı: F-16'lar havalandı. Hürmüz Boğazı'nda mayına çarpan tankerde patlama. Fransa alevlere teslim: 55 bin kişi tahliye edildi. Fransa orman yangınlarıyla boğuşuyor. \"Her şeye hazırlıklıyız\".",
       "items": [
+        {
+          "title": "ABD ile İran arasında yeniden ateşkes mi? ABD saldırıları, İran misillemeleri durdurdu",
+          "summary": "ABD, son iki gecedir İran'a saldırılarını durdururken, İran'dan da bu nedenle misilleme saldırılarını durdurdukları açıklaması geldi. İRAN: ABD SALDIRILARI DURDURUNCA, BİZ DE MİSİLLEMEYİ DURDURDUK ABD Merkez Komutanlığı cumartesi günü yaptığı açıklamada İran’a yönelik deniz ablukasının \"tam kapasiteyle yürürlükte kaldığını\" duyurdu, ancak tırmanan 13 gecelik saldırı dalgasının neden durdurulduğuna ilişkin ayrıntı vermedi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abd-ile-iran-arasinda-yeniden-ateskes-mi-son-24-saatte-yasananlar-1734586"
+        },
+        {
+          "title": "Dışişleri Bakanı Hakan Fidan'dan Orta Doğu'da barış diplomasisi",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ile Pakistan Savunma Kuvvetleri Komutanı ve Kara Kuvvetleri Komutanı Mareşal Asim Munir'le ayrı ayrı telefonda görüştü.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-orta-doguda-baris-diplomasisi-43252488"
+        },
+        {
+          "title": "İspanya'da 4.4 büyüklüğünde deprem",
+          "summary": "İspanya'nın Granada kenti yakınlarında 4.4 büyüklüğünde deprem meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyada-4-4-buyuklugunde-deprem-43252428"
+        },
         {
           "title": "Rus İHA'sı Romanya'yı karıştırdı: F-16'lar havalandı",
           "summary": "Romanya hava sahasını ihlal eden bir insansız hava aracı (İHA) daha ülkenin hava kuvvetlerine ait F-16 savaş uçağı tarafından düşürüldü. Romanya, Rusya'ya ait olduğu öne sürülen İHA'nın ihlalini kabul edilemez olarak niteledi.",
           "source": "https://www.hurriyet.com.tr/dunya/rus-ihasi-romanyayi-karistirdi-f-16lar-havalandi-43252223"
         },
         {
-          "title": "Çin'de Noul Tayfunu alarmı. 700 binden fazla kişi tahliye edildi",
-          "summary": "Çin'in güney eyaletlerini ve Hong Kong'u etkisi altına alan Noul Tayfunu nedeniyle Guangdong eyaletinde 700 binden fazla kişi tahliye edildi. Yılın en güçlü tayfunu olarak nitelendirilen afet sebebiyle ülkede en yüksek seviyeli ani sel alarmı verildi. Yılın en güçlü tayfunu olan Noul Tayfunu'nun pazar günü karaya ulaşmasının ardından, Çin'in güney kesimleri iki gün boyunca sürecek şiddetli ve sağanak yağış dalgasıyla karşı karşıya kaldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-cinde-noul-tayfunu-alarmi-700-binden-fazla-kisi-tahliye-edildi-1734632"
+          "title": "Hürmüz Boğazı'nda mayına çarpan tankerde patlama",
+          "summary": "İran'ın Tasnim haber ajansı, Hürmüz Boğazı'nda İran tarafından belirlenen rotanın dışına çıkan bir petrol tankerinin deniz mayınına çarparak patladığını bildirdi. İran'ın yarı resmi Tasnim haber ajansı, son saatlerde geçtiği haberde, bir petrol tankerinin Hürmüz Boğazı'nda deniz mayınına çarpması sonucu patladığını duyurdu. Ajans, tankerin stratejik su yolunda İran tarafından belirlenmiş rotadan çıkmasının ardından mayına çarptığını kaydetti.",
+          "source": "https://www.ntv.com.tr/dunya/hurmuz-bogazinda-mayina-carpan-tankerde-patlama-1734679"
         },
         {
-          "title": "Almanya'da namaz vaktini gösteren tabelaya boyalı saldırı: 'Asıl hedef alınan barış içinde bir arada yaşama anlayışı'",
-          "summary": "Almanya'nın Bavyera eyaletindeki Penzberg kasabasının girişine 4 gün önce yerleştirilen, cuma namazı vaktini gösteren tabela siyah boyayla tahrip edildi. Penzberg Camisi'nin görevlisi Benjamin Idriz, saldırıya tepki göstererek, asıl hedef alınanın din özgürlüğü, karşılıklı saygı ve barış içinde bir arada yaşama anlayışı olduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-namaz-vaktini-gosteren-tabelaya-boyali-saldiri-asil-hedef-alinan-baris-icinde-bir-arada-yasama-anlayisi-43252181"
+          "title": "Fransa alevlere teslim: 55 bin kişi tahliye edildi",
+          "summary": "Fransa'nın güneybatısındaki Gironde bölgesinde günlerdir devam eden orman yangınına müdahale çalışmaları sürüyor. Bu arada, Gironde vilayetine bağlı Bordeaux kentinde yangınlar sürerken çok sayıda kasaba tahliye edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransa-alevlere-teslim-55-bin-kisi-tahliye-edildi-43252360"
         },
         {
-          "title": "İsrail birlikleri Suriye'nin Kuneytra ilini topçu atışlarıyla vurdu",
-          "summary": "İsrail ordusunun Suriye'nin güneyindeki Kuneytra iline saldırı düzenlediği bildirildi. Kuneyrta'nın kuzey kırsalını topçu atışlarıyla hedef alan İsrail askerlerinin, Arıda köyünde kontrol noktası kurduğu kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-birlikleri-suriyenin-kuneytra-ilini-topcu-atislariyla-vurdu-43252152"
-        },
-        {
-          "title": "Fransa ve İspanya'da orman yangınları devam ediyor. Asker sahaya indi",
-          "summary": "İspanya ve Fransa'da günlerdir devam eden orman yangınları yerleşim yerlerini tehdit ederken iki ülkede toplam tahliye edilen kişi sayısı 310 bine ulaştı. Fransa'nın Gironde bölgesindeki dev yangın Bordeaux kentine doğru ilerlerken ana ulaşım hatları kapatıldı ve bölgeye ek askeri birlikler sevk edildi. Fransa ve İspanya'da kontrolden çıkan orman yangınları yerleşim alanlarını, ulaşım ağlarını ve günlük yaşamı tehdit etmeyi sürdürüyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-ispanyada-orman-yanginlari-devam-ediyor-asker-sahaya-indi-1734620"
-        },
-        {
-          "title": "Rusya SİHA'ları devreye soktu: Gece saldırılarında 3 Ukraynalı yaşamını yitirdi",
-          "summary": "Rus ordusunun Ukrayna'nın başkenti Kiev ve farklı bölgelerine düzenlediği hava saldırılarında 3 kişinin hayatını kaybettiği bildirildi. 15 kişinin yaralandığı saldırılarda 8 füze ve 136 silahlı insansız hava aracı (SİHA) kullanıldığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusya-sihalari-devreye-soktu-gece-saldirilarinda-3-ukraynali-yasamini-yitirdi-43252145"
-        },
-        {
-          "title": "İsrail güçleri Batı Şeria'ya saldırdı: 58 Filistinli elleri ve ayakları bağlanarak götürüldü",
-          "summary": "Batı Şeria'nın işgal altındaki bölgelerine art arda baskınlar düzenleyen İsrail güçleri 58 Filistinliyi alıkoydu. Elleri ve ayakları bağlanarak \"gözaltına alınan\" Filistinliler arasında engelli bir çocuk, 75 yaşındaki bir kişi ve kadınların da bulunduğu bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-gucleri-bati-seriaya-saldirdi-58-filistinli-elleri-ve-ayaklari-baglanarak-goturuldu-43252132"
+          "title": "Fransa orman yangınlarıyla boğuşuyor. \"Her şeye hazırlıklıyız\"",
+          "summary": "Fransa ve İspanya'da kontrol altına alınamayan orman yangınları nedeniyle 300 binden fazla kişi tahliye edilirken alevler Bordeaux kentine yaklaştı. Tarihi bir krizle karşı karşıya kalan her iki ülkede de itfaiye ekipleri rüzgar ve aşırı sıcaklar nedeniyle zor anlar yaşıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-orman-yanginlariyla-bogusuyor-her-seye-hazirlikliyiz-1734668"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Süper Lig devinden Richarlison hamlesi! Transferde rakip İtalyan devi. Galatasaray, hazırlık maçında Venezia ile karşılaşacak. Beşiktaş için Darwin Nunez açıklaması!. Filenin Sultanları şampiyonluk için Brezilya karşısında! Maçın heyecanı canlı yayın ile Misli'de. Galatasaray değişmezse tehlike kapıda!. Serdal Adalı: 'Biz hazırız, Salah'ı bekliyoruz!'. Ariel Ortega'dan yıllar sonra gelen Fenerbahçe itirafı: 'Çok yalnızdım!'.",
+      "text": "Filenin Sultanları zaferi gözyaşlarıyla kutladı! 'Gururluyuz, biz çok büyüğüz!'. Galatasaray'da Okan Buruk'tan 10 numara transferi için açıklama!. Bakan Bak, Milletler Ligi şampiyonu A Milli Kadın Voleybol Takımı'nı kutladı. Bakan Ersoy’dan Filenin Sultanları’na şampiyonluk tebriği. Galatasaray'da Barış Alper Yılmaz'dan transfer açıklaması: 'Bir teklif gelirse kulübümle birlikte değerlendiririz!'. Edin Dzeko'nun geleceği belli oldu!. Çaykur Rizespor Papanikolaou ile yollarını ayırdı!.",
       "items": [
         {
-          "title": "Süper Lig devinden Richarlison hamlesi! Transferde rakip İtalyan devi",
-          "summary": "Transfer çalışmalarını sürdüren Fenerbahçe, Tottenham’da yeni sezon öncesi geleceği belirsizliğini koruyan Richarlison’u gündemine aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-lig-devinden-richarlison-hamlesi-transferde-rakip-italyan-devi-43252144"
+          "title": "Filenin Sultanları zaferi gözyaşlarıyla kutladı! 'Gururluyuz, biz çok büyüğüz!'",
+          "summary": "A Milli Kadın Voleybol Takımı, 2026 FIVB Kadınlar Voleybol Milletler Ligi finalinde Brezilya'yı 3-1 mağlup ederek şampiyon oldu. Dev zafer sonrası başantrenör Daniele Santarelli ve oyuncular açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-zaferi-gozyaslariyla-kutladi-santarelliden-dikkat-ceken-aciklama-43252481"
         },
         {
-          "title": "Galatasaray, hazırlık maçında Venezia ile karşılaşacak",
-          "summary": "Galatasaray, hazırlık maçında yarın İtalya ekibi Venezia ile mücadele edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-hazirlik-macinda-venezia-ile-karsilasacak-43252133"
+          "title": "Galatasaray'da Okan Buruk'tan 10 numara transferi için açıklama!",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, transfer çalışmaları, yeni sezon hedefleri ve takımın kadro planlamasına ilişkin açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-okan-buruktan-10-numara-transferi-icin-aciklama-43252415"
         },
         {
-          "title": "Beşiktaş için Darwin Nunez açıklaması!",
-          "summary": "Beşiktaş'ın gündeminde olduğu iddia edilen Darwin Nunez ile ilgili dikkat çeken bir gelişme yaşandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-icin-darwin-nunez-aciklamasi-43252032"
+          "title": "Bakan Bak, Milletler Ligi şampiyonu A Milli Kadın Voleybol Takımı'nı kutladı",
+          "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2026 FIVB Milletler Ligi'nde (VNL) şampiyonluğa ulaşan A Milli Kadın Voleybol Takımı'nı yayımladığı mesajla tebrik etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bakan-bak-milletler-ligi-sampiyonu-a-milli-kadin-voleybol-takimini-kutladi-43252457"
         },
         {
-          "title": "Filenin Sultanları şampiyonluk için Brezilya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "A Milli Kadın Voleybol Takımımız, 2026 FIVB Milletler Ligi finalinde Brezilya ile karşılaşıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-sampiyonluk-icin-brezilya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43252001"
+          "title": "Bakan Ersoy’dan Filenin Sultanları’na şampiyonluk tebriği",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, FIVB Milletler Ligi’nde şampiyonluğa ulaşan A Millî Kadın Voleybol Takımı’nı sosyal medya hesabından yayımladığı mesajla kutladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bakan-ersoydan-filenin-sultanlarina-sampiyonluk-tebrigi-43252447"
         },
         {
-          "title": "Galatasaray değişmezse tehlike kapıda!",
-          "summary": "Tarihte hiçbir Türk takımının beş sezon üst üste şampiyon olamamış olması bir tesadüf değildir.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-degismezse-tehlike-kapida-43251944"
+          "title": "Galatasaray'da Barış Alper Yılmaz'dan transfer açıklaması: 'Bir teklif gelirse kulübümle birlikte değerlendiririz!'",
+          "summary": "Galatasaray'ın başarılı oyuncusu Barış Alper Yılmaz, yeni sezon hazırlıklarından Okan Buruk'a, Mauro Icardi'den transfer iddialarına kadar birçok konuda açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-baris-alper-yilmazdan-transfer-aciklamasi-bir-teklif-gelirse-kulubumle-birlikte-degerlendiririz-43252390"
         },
         {
-          "title": "Serdal Adalı: 'Biz hazırız, Salah'ı bekliyoruz!'",
-          "summary": "Beşiktaş Başkanı Serdal Adalı, Mısırlı yıldız futbolcunun transferindeki son durumu açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-biz-haziriz-salahi-bekliyoruz-43251942"
+          "title": "Edin Dzeko'nun geleceği belli oldu!",
+          "summary": "Geçen sezonu Schalke'de tamamlayan Edin Dzeko'nun kontratı sona ermişti. Serbest oyuncusu statüsünde olan 40 yaşındaki oyuncunun, Schalke ile yeni bir anlaşma imzalamaya yakın olduğu öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/edin-dzekonun-gelecegi-belli-oldu-43252351"
         },
         {
-          "title": "Ariel Ortega'dan yıllar sonra gelen Fenerbahçe itirafı: 'Çok yalnızdım!'",
-          "summary": "Ariel Ortega, sarı-lacivertli kulüpten ayrılma gerekçesini açıkladı. 2002’de 7.5 milyon dolara alınan ve 2 yıllık imza atan Arjantinli eski futbolcu, transferinin kendi rızası dışında gerçekleştiğini belirterek, “Türkiye’ye uyum sağlamam mümkün değildi. Takımda tek bir arkadaşım bile yoktu” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ariel-ortegadan-yillar-sonra-gelen-fenerbahce-itirafi-cok-yalnizdim-43251941"
+          "title": "Çaykur Rizespor Papanikolaou ile yollarını ayırdı!",
+          "summary": "Çaykur Rizespor, orta saha oyuncusu Ioannis Papanikolaou ile yollarını ayırdığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/caykur-rizespor-papanikolaou-ile-yollarini-ayirdi-43252290"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Felç ve ölüme neden olabilir. Yazın özellikle gençler bu hatayı yapıyor. Kahve içmek faydalı mı, zararlı mı? Günde 5 fincan içmenin bilinmeyen etkisi. Tıp tarihine geçen Akdeniz Üniversitesi'nde üçüncü nakil yapıldı: 17 yıldır annelik özlemi çekiyordu. 51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti. 40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı. Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş. Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\".",
+      "text": "Güneş kreminde kimyasal içerik uyarısı: Doğru güneş kremi nasıl seçilir?. Felç ve ölüme neden olabilir. Yazın özellikle gençler bu hatayı yapıyor. Kahve içmek faydalı mı, zararlı mı? Günde 5 fincan içmenin bilinmeyen etkisi. Tıp tarihine geçen Akdeniz Üniversitesi'nde üçüncü nakil yapıldı: 17 yıldır annelik özlemi çekiyordu. 51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti. 40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı. Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş.",
       "items": [
+        {
+          "title": "Güneş kreminde kimyasal içerik uyarısı: Doğru güneş kremi nasıl seçilir?",
+          "summary": "Güneş kremi kullanımı artık sadece tatillerde değil, günlük hayatta da tavsiye ediliyor. Peki, cilde doğrudan temas eden bu ürünler gerçekten söylendiği kadar sağlıklı mı? İçeriği temiz bir güneş kremi nasıl seçilir?",
+          "source": "https://www.ntv.com.tr/saglik/video-gunes-kreminde-kimyasal-icerik-uyarisi-dogru-gunes-kremi-nasil-secilir-1734647"
+        },
         {
           "title": "Felç ve ölüme neden olabilir. Yazın özellikle gençler bu hatayı yapıyor",
           "summary": "Yaz mevsiminde deniz, gölet ve sulama kanallarına girenlerin sayısında artış yaşanıyor. Özellikle gençlerin bilinçsizce yüksekten suya atlamasının ciddi sağlık risklerini beraberinde getiriyor. Adana'da Çukurova Üniversitesi (ÇÜ) Tıp Fakültesi Balcalı Hastanesi Başhekimi ve Acil Tıp Anabilim Dalı Öğretim Üyesi Prof. Dr. Ahmet Sebe, derinliği bilinmeyen sulara balıklama atlanmaması gerektiğini söyleyerek, \"Bu durumda kişi, iki kolunu ve iki bacağını kullanamayacak şekilde felç kalabiliyor.",
@@ -235,11 +240,6 @@
           "title": "Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş",
           "summary": "Antalya'da göbek fıtığı nedeniyle ağrı, karın şişliği ve nefes darlığı yaşayan 61 yaşındaki kadın, yapılan kontrollerin ardından acil ameliyata alındı. Antalya'da uzun süredir göbek fıtığı şikayeti bulunan 61 yaşındaki Nihal Uygun, ağrılarının artması, karın bölgesinde şişlik ve nefes darlığı şikayetleri üzerine tedavi altına alındı. Yapılan değerlendirme ve tomografi sonuçlarında fıtığın sıkıştığı belirlenince Uygun, Genel Cerrahi Uzmanı Op. Dr. Gökhan Ateş tarafından ameliyata alındı.",
           "source": "https://www.ntv.com.tr/saglik/galeri-karni-sisiyordu-yemek-yemese-bile-kilo-aliyordu-bagirsak-delinmesine-kadar-gidebilirmis-1732505"
-        },
-        {
-          "title": "Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\"",
-          "summary": "Uzmanlar, yaz sıcaklarında tüketilen kahvenin sıvı kaybına yol açabileceğini belirtti; vücudun susuz kalmasını önlemek için yanında bir bardak su tüketilmesi gerektiğini söyledi. Yaz aylarında serinlemek için tercih edilen buzlu kahveler, su ihtiyacını karşılamadığı gibi aşırı tüketildiğinde vücutta sıvı kaybına da neden olabiliyor. Uzmanlar, konuyla ilgili uyarılarda bulunuyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-yaz-sicaklari-icin-kritik-uyari-kahvenin-yaninda-mutlaka-icin-1731404"
         }
       ]
     },
