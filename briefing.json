@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-26T04:00:03.560Z",
+  "generatedAt": "2026-07-26T10:00:03.044Z",
   "categories": {
     "gundem": {
-      "text": "Yeni Parti’nin yeni vitrini. Gülistan Doku cinayetinde şok iddia... Valinin eşinden talimat: 100 bini al cesedi göm. Şişli’de binanın duvarı çöktü, mahalleli deprem paniği yaşadı. Malatya'da korkutan yangın! Alevler gökyüzünü kapladı. Kavgada Kızılırmak'a düşüp boğuldu. Seyir tepesinde sır dolu katliam. 3 ölü. Mermer atölyesinde feci ölüm.",
+      "text": "Kabine yarın toplanıyor. Gündemde hangi konular var?. Dünürlerin hayatını kaybetmişti: Acı detay ortaya çıktı. İstanbul'da görme engelli vatandaş metro raylarına düştü. CHP'de 'paralı figüran' tartışması... Gürsel Tekin: Şeytanın aklına gelmeyecek bir şey, iki kişi bilebilir. Gayrettepe Metro İstasyonu'nda korku dolu anlar. Görme engelli adam raylara düştü. Dron destekli motosiklet denetimi: 407 bin 818 lira ceza kesildi. Öğrenci affı Meclis'e geliyor. Hangi yılları kapsıyor, kimler faydalanabilecek?.",
       "items": [
         {
-          "title": "Yeni Parti’nin yeni vitrini",
-          "summary": "Özgür Özel, Yeni Parti’yle birlikte A Takımı’nı da oluşturdu. Yeni MYK’da haklarında fezleke olan isimler yer almadı. Kulislerde, bu isimlerin Özel’in elini rahatlatmak için parti vitrininde görev almadığı konuşuluyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/yeni-partinin-yeni-vitrini-43251904"
+          "title": "Kabine yarın toplanıyor. Gündemde hangi konular var?",
+          "summary": "Cumhurbaşkanlığı Kabinesi, yaklaşık iki haftalık aranın ardından yeni haftada Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında bir araya gelecek. Terörsüz Türkiye süreci, ekonomi ve ABD-İran savaşı gündemde olacak. Kabine, yeni haftada Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında yarın Beştepe'de toplanacak. TERÖRSÜZ TÜRKİYE SÜRECİ VE YASAL ADIMLAR Türkiye Büyük Millet Meclisi (TBMM) gündemine gelmesi beklenen süreç yasası kabinenin de önemli gündem başlıklarından biri olacak.",
+          "source": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1734641"
         },
         {
-          "title": "Gülistan Doku cinayetinde şok iddia... Valinin eşinden talimat: 100 bini al cesedi göm",
-          "summary": "Tunceli’de 6 yıldır kendisinden haber alınamayan ve cesedi de bulunamayan Gülistan Doku soruşturmasının tutuklu sanıklarından Turan Güler’in ifadesinde, “Handan Sonel (eski valinin eşi) bana oğlunun Gülistan’ı 2 el ateş ederek öldürdüğünü söyledi. Cesedi yok etmem için 100 bin lira verdi” dediği ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gulistan-doku-cinayetinde-sok-iddia-valinin-esinden-talimat-100-bini-al-cesedi-gom-43251888"
+          "title": "Dünürlerin hayatını kaybetmişti: Acı detay ortaya çıktı",
+          "summary": "Şırnak'ın Silopi ilçesinde hafif ticari aracın şarampole devrildiği kazada yaşamlarını yitiren Gülsüm Üsgüdar (43) ile Tuğba Kervan (42), Niğde’de toprağa verildi. Üsgüdar ile Kervan’ın dünür olduğu, çocuklarının oturacağı evi hazırlamak için Şırnak’a gittikleri ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/dunurlerin-hayatini-kaybetmisti-aci-detay-ortaya-cikti-43252224"
         },
         {
-          "title": "Şişli’de binanın duvarı çöktü, mahalleli deprem paniği yaşadı",
-          "summary": "Şişli’de 6 katlı binanın 3’üncü katındaki duvar çöktü. Olayda ölen ya da yaralanan olmazken dairede hasar meydana geldi. Yan binada çalışanlar şiddetli gürültü nedeniyle deprem olduğunu zannetti. Halaskargazi Mahallesi Kuyumcu İrfan Sokak’ta, daha önce yıkılan bir binanın bitişiğindeki daire duvarı henüz belirlenemeyen bir nedenle yıkıldı. Olayda ölen ya da yaralanan olmazken duvarı yıkılan dairede hasar meydana geldi. Büyük bir gürültü duyan mahalle sakinleri hemen itfaiye ve belediye ekiplerine haber verdi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-sislide-binanin-duvari-coktu-mahalleli-deprem-oldu-zannetti-1734556"
+          "title": "İstanbul'da görme engelli vatandaş metro raylarına düştü",
+          "summary": "Şişli’de doğuştan görme engelli olduğu öğrenilen Enes G. (25), kız arkadaşıyla gittiği metro istasyonunda dengesini kaybederek raylara düştü. Metroyla rayların arasındaki boşlukta kalan Enes G., itfaiye ekipleri tarafından kurtarıldı. Ayağından yaralanan Enes G. ambulansla hastaneye kaldırıldı. Olay nedeniyle M2 Yenikapı-Hacıosman Metro Hattı’nda seferler bir süre durduruldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-gorme-engelli-vatandas-metro-raylarina-dustu-43252212"
         },
         {
-          "title": "Malatya'da korkutan yangın! Alevler gökyüzünü kapladı",
-          "summary": "Malatya'da Hurdacılar Sitesi'nde çıkan yangın kısa sürede büyüyerek geniş bir alanda etkili oldu. Alevlere 3 TOMA, itfaiye ekipleri ve dron desteğiyle müdahale edilirken yangını kontrol altına alma çalışmaları sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/malatyada-korkutan-yangin-alevler-gokyuzunu-kapladi-43251975"
+          "title": "CHP'de 'paralı figüran' tartışması... Gürsel Tekin: Şeytanın aklına gelmeyecek bir şey, iki kişi bilebilir",
+          "summary": "CHP’de paralı figüran tartışmasına dair konuşan CHP İstanbul İl Başkanı Gürsel Tekin, “Şeytanın aklına gelmeyecek bir şey, iki kişi bilebilir. Bu tuzak FETÖVARİ’dir. Partili olmak tamamen gönüllüğe dairdir. Hiçbir kirli tarafta olmadık.” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/chpde-parali-figuran-tartismasi-gursel-tekin-seytanin-aklina-gelmeyecek-bir-sey-iki-kisi-bilebilir-43252207"
         },
         {
-          "title": "Kavgada Kızılırmak'a düşüp boğuldu",
-          "summary": "Arkadaşlarıyla içki içerken çıkan kavgada dengesini kaybedip Kızılırmak'a düşen 37 yaşındaki Ertuğrul Altan hayatını kaybetti. Kırıkkale'nin Bahşılı ilçesinde Ertuğrul Altan (37) ile Ö.Y. (29) ve D.Y. (34) arasında Yeşil Vadi Caddesi'ndeki mesire alanında içki içtikleri sırada çıkan tartışma kavgaya dönüştü. İddiaya göre bu sırada bölgeden uzaklaşmaya çalışan Altan, dengesini kaybederek Kızılırmak'a düştü. Olay yerine polis, sağlık, AFAD ve itfaiye ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/kavgada-kizilirmaka-dusup-boguldu-1734573"
+          "title": "Gayrettepe Metro İstasyonu'nda korku dolu anlar. Görme engelli adam raylara düştü",
+          "summary": "İstanbul'daki Gayrettepe Metro İstasyonu'nda görme engelli bir kişi raylara düştü. Şişli'de görme engelli kişi metro raylarına düştü. Olay, saat 10.30 sıralarında Gayrettepe Mahallesi'ndeki M2 Gayrettepe Metro İstasyonu'nda meydana geldi. Edinilen bilgiye göre doğuştan görme engelli Enes G., kız arkadaşıyla İstanbul Havalimanı'ndan eve gitmek için metro istasyonuna geldi. Metro perona yaklaştığı sırada dengesini kaybeden Enes G., raylara düştü.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-gayrettepe-metro-istasyonunda-korku-dolu-anlar-gorme-engelli-adam-raylara-dustu-1734634"
         },
         {
-          "title": "Seyir tepesinde sır dolu katliam. 3 ölü",
-          "summary": "Adana'da iki erkek ile bir kadın, gece yarısı şehir manzarası izlemek için çıktıkları Rüzgarlı Tepe mevkisinde katledildi. 28 yaşındaki şüpheli Osman A., saklandığı adreste yakalandı. Adana'nın Çukurova ilçesinde tabancayla Ali Can Demir (25), Sinan İlbey (28) ve Semra Yılmaz (44) seyir tepesinde henüz belirlenemeyen bir nedenle uğradıkları silahlı saldırıda hayatlarını kaybetti. Olay, Kabasakal Mahallesi'ndeki Rüzgarlı Tepe bölgesinde meydana geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/seyir-tepesinde-sir-dolu-katliam-3-olu-1734570"
+          "title": "Dron destekli motosiklet denetimi: 407 bin 818 lira ceza kesildi",
+          "summary": "İstanbul'da 5 ilçede, yaya yollarını kullanan motosiklet sürücülerine yönelik dron destekli denetim yapıldı. Denetimlerde kural ihlali yaptığı belirlenen sürücülere toplam 407 bin 818 lira para cezası kesilirken, 4 motosiklet trafikten men edildi. Bakırköy, Beşiktaş, Sarıyer, Kadıköy ve Maltepe'de motosiklet sürücülerine yönelik dron destekli denetim yapıldı. İstanbul Emniyet Müdürlüğü Trafik Denetleme Şube Müdürlüğü ekipleri, motosiklet sürücülerinin yaya yollarını kullanmasına yönelik denetim gerçekleştirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-dron-destekli-motosiklet-denetimi-407-bin-818-lira-ceza-kesildi-1734633"
         },
         {
-          "title": "Mermer atölyesinde feci ölüm",
-          "summary": "Antalya'da bir atölyede eşiyle birlikte kamyonetten indirdikleri mermerin altında kalan 32 yaşındaki Hasibe Özdemir hayatını kaybetti. Antalya'nın Kepez ilçesinde, mermer bloğunun altında kalan 31 yaşındaki 2 çocuk annesi Hasibe Özdemir feci şekilde can verdi. Olay, akşam saatlerinde Gazi Mahallesi'ndeki mermer atölyesinde meydana geldi. İddiaya göre, Hasibe Özdemir ile eşi, kendi atölyelerinde makine bulunmadığı için mermer kesimi yapmak üzere komşularına ait işyerine gitti.",
-          "source": "https://www.ntv.com.tr/turkiye/mermer-atolyesinde-feci-olum-1734569"
+          "title": "Öğrenci affı Meclis'e geliyor. Hangi yılları kapsıyor, kimler faydalanabilecek?",
+          "summary": "Türkiye Büyük Millet Meclisi yeni haftada öğrenci affı düzenlemesini görüşecek. Meclis Genel Kurulu, yeni haftada öğrenci affı düzenlemesini görüşecek. Teklifle 2022 yılından önce çıkan aflardan yararlanmayan öğrencilere yeni hak getiriliyor. Bu öğrenciler dört ay içerisinde ilişiklerinin kesildiği üniversiteye başvuruda bulunabilecek. Askerde olan öğrenciler ise görev sürelerinin bitmesini takip eden iki ay içerisinde aftan faydalanabilecek.",
+          "source": "https://www.ntv.com.tr/turkiye/ogrenci-affi-meclise-geliyor-hangi-yillari-kapsiyor-kimler-faydalanabilecek-1734630"
         }
       ]
     },
     "dunya": {
-      "text": "\"Trump, İran Savaşı'nda frene bastı\" iddiası. ABD'de süpermarkete saldırı. 1 çocuk öldü, 2 kişi yaralandı. Darbe girişiminden tutuklandı, oğlu devlet başkanı adayı oldu. Fransa ve İspanya'da yangın felaketi. Alevler NASA'yı da vurdu. Berlin'de LGBT yürüyüşünün yapıldığı alanın yakınında bir araç kalabalığa daldı. Brezilya'dan ABD'ye vize engeli. İran: 15 günlük süreçte 11 ABD savaş uçağını ve 17 İHA'yı imha ettik.",
+      "text": "Rus İHA'sı Romanya'yı karıştırdı: F-16'lar havalandı. Çin'de Noul Tayfunu alarmı. 700 binden fazla kişi tahliye edildi. Almanya'da namaz vaktini gösteren tabelaya boyalı saldırı: 'Asıl hedef alınan barış içinde bir arada yaşama anlayışı'. İsrail birlikleri Suriye'nin Kuneytra ilini topçu atışlarıyla vurdu. Fransa ve İspanya'da orman yangınları devam ediyor. Asker sahaya indi. Rusya SİHA'ları devreye soktu: Gece saldırılarında 3 Ukraynalı yaşamını yitirdi. İsrail güçleri Batı Şeria'ya saldırdı: 58 Filistinli elleri ve ayakları bağlanarak götürüldü.",
       "items": [
         {
-          "title": "\"Trump, İran Savaşı'nda frene bastı\" iddiası",
-          "summary": "ABD Başkanı Donald Trump'ın İran'a saldırıları genişletme planlarını askıya aldığı iddia edildi. Amerikan basınına göre bunun nedeni ABD ordusunun füze stoklarının azalması ve piyasalardaki yeni kriz endişesi. ABD güçleri, 13 gecedir aralıksız süren hava saldırılarının ardından İran'a yönelik bombardımana ara verdi. Amerikan basınına göre İran'a karşı saldırıları yoğunlaştırmayı düşünen ABD Başkanı Donald Trump, bu planı şimdilik rafa kaldırdı.",
-          "source": "https://www.ntv.com.tr/dunya/trump-iran-savasinda-frene-basti-iddiasi-1734576"
+          "title": "Rus İHA'sı Romanya'yı karıştırdı: F-16'lar havalandı",
+          "summary": "Romanya hava sahasını ihlal eden bir insansız hava aracı (İHA) daha ülkenin hava kuvvetlerine ait F-16 savaş uçağı tarafından düşürüldü. Romanya, Rusya'ya ait olduğu öne sürülen İHA'nın ihlalini kabul edilemez olarak niteledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rus-ihasi-romanyayi-karistirdi-f-16lar-havalandi-43252223"
         },
         {
-          "title": "ABD'de süpermarkete saldırı. 1 çocuk öldü, 2 kişi yaralandı",
-          "summary": "New York'ta bir süpermarketin önünde düzenlenen silahlı saldırıda 12 yaşındaki bir çocuk hayatını kaybetti. 2 kişiyi de yaralayan saldırgan aranıyor. ABD'nin New York kentinde bir süper markete silahlı saldırı düzenlendi. Bronx bölgesindeki süpermarketin önündeki saldırıda omuzundan vurularak Lincoln Hastanesi'ne kaldırılan 12 yaşındaki bir çocuğun hayatını kaybettiği açıklandı. Kalçasından ve ayağından vurulan iki kişinin tedavisinin sürdüğü ifade edildi.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-super-markete-saldiri-1-cocuk-oldu-2-kisi-yaralandi-1734575"
+          "title": "Çin'de Noul Tayfunu alarmı. 700 binden fazla kişi tahliye edildi",
+          "summary": "Çin'in güney eyaletlerini ve Hong Kong'u etkisi altına alan Noul Tayfunu nedeniyle Guangdong eyaletinde 700 binden fazla kişi tahliye edildi. Yılın en güçlü tayfunu olarak nitelendirilen afet sebebiyle ülkede en yüksek seviyeli ani sel alarmı verildi. Yılın en güçlü tayfunu olan Noul Tayfunu'nun pazar günü karaya ulaşmasının ardından, Çin'in güney kesimleri iki gün boyunca sürecek şiddetli ve sağanak yağış dalgasıyla karşı karşıya kaldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-cinde-noul-tayfunu-alarmi-700-binden-fazla-kisi-tahliye-edildi-1734632"
         },
         {
-          "title": "Darbe girişiminden tutuklandı, oğlu devlet başkanı adayı oldu",
-          "summary": "Darbe girişimi iddiasıyla tutuklanan eski Brezilya Devlet Başkanı Jair Bolsonaro'nun oğlu Flavio Bolsonaro, Liberal Parti'nin yeni adayı oldu. Brezilya'da aşırı sağcı Liberal Parti, darbe girişiminde bulunduğu gerekçesiyle 27 yıl hapse mahkum edilen eski Brezilya Devlet Başkanı Jair Bolsonaro'nun oğlu Senatör Flavio Bolsonaro'yu 4 Ekim 2026'da düzenlenecek seçimde devlet başkanı adayı gösterdi.",
-          "source": "https://www.ntv.com.tr/dunya/darbe-girisiminden-tutuklandi-oglu-devlet-baskani-adayi-oldu-1734574"
+          "title": "Almanya'da namaz vaktini gösteren tabelaya boyalı saldırı: 'Asıl hedef alınan barış içinde bir arada yaşama anlayışı'",
+          "summary": "Almanya'nın Bavyera eyaletindeki Penzberg kasabasının girişine 4 gün önce yerleştirilen, cuma namazı vaktini gösteren tabela siyah boyayla tahrip edildi. Penzberg Camisi'nin görevlisi Benjamin Idriz, saldırıya tepki göstererek, asıl hedef alınanın din özgürlüğü, karşılıklı saygı ve barış içinde bir arada yaşama anlayışı olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-namaz-vaktini-gosteren-tabelaya-boyali-saldiri-asil-hedef-alinan-baris-icinde-bir-arada-yasama-anlayisi-43252181"
         },
         {
-          "title": "Fransa ve İspanya'da yangın felaketi. Alevler NASA'yı da vurdu",
-          "summary": "Fransa ve İspanya'da devasa orman yangınlarıyla mücadele sürüyor. İki ülkede binlerce hektar alan kül oldu, alevler yerleşim yerlerine ulaştı. 200 bini aşkın kişi tahliye edildi. NASA'nın İspanya'daki tesisi tahliye edildi. Son aylarda peş peşe sıcak hava dalgalarının vurduğu Avrupa, şimdi de dev orman yangınlarıyla mücadele ediyor. Fransa'nın güneybatısındaki Gironde ve Landes bölgelerinde günlerdir devam eden ve kilometrelerce alana yayılan yangınlar hala kontrol altına alınamadı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-ispanyada-yangin-felaketi-alevler-nasayi-da-vurdu-1734572"
+          "title": "İsrail birlikleri Suriye'nin Kuneytra ilini topçu atışlarıyla vurdu",
+          "summary": "İsrail ordusunun Suriye'nin güneyindeki Kuneytra iline saldırı düzenlediği bildirildi. Kuneyrta'nın kuzey kırsalını topçu atışlarıyla hedef alan İsrail askerlerinin, Arıda köyünde kontrol noktası kurduğu kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-birlikleri-suriyenin-kuneytra-ilini-topcu-atislariyla-vurdu-43252152"
         },
         {
-          "title": "Berlin'de LGBT yürüyüşünün yapıldığı alanın yakınında bir araç kalabalığa daldı",
-          "summary": "Almanya'nın başkenti Berlin'de Christopher Street Day yürüyüşünün yapıldığı alanın yakınlarında bir aracın kalabalığa dalması sonucu 1 kişinin hayatını kaybettiği, çok sayıda kişinin de yaralandığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/berlinde-lgbt-yuruyusunun-yapildigi-alanin-yakininda-bir-arac-kalabaliga-daldi-43251973"
+          "title": "Fransa ve İspanya'da orman yangınları devam ediyor. Asker sahaya indi",
+          "summary": "İspanya ve Fransa'da günlerdir devam eden orman yangınları yerleşim yerlerini tehdit ederken iki ülkede toplam tahliye edilen kişi sayısı 310 bine ulaştı. Fransa'nın Gironde bölgesindeki dev yangın Bordeaux kentine doğru ilerlerken ana ulaşım hatları kapatıldı ve bölgeye ek askeri birlikler sevk edildi. Fransa ve İspanya'da kontrolden çıkan orman yangınları yerleşim alanlarını, ulaşım ağlarını ve günlük yaşamı tehdit etmeyi sürdürüyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-ispanyada-orman-yanginlari-devam-ediyor-asker-sahaya-indi-1734620"
         },
         {
-          "title": "Brezilya'dan ABD'ye vize engeli",
-          "summary": "Brezilya hükümeti, ekim ayında yapılacak devlet başkanlığı seçimleri öncesinde seçim yetkilileriyle görüşmek üzere ülkeye gelmek isteyen ABD Dışişleri Bakanlığından iki yetkiliye vize vermedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/brezilyadan-abdye-vize-engeli-43251935"
+          "title": "Rusya SİHA'ları devreye soktu: Gece saldırılarında 3 Ukraynalı yaşamını yitirdi",
+          "summary": "Rus ordusunun Ukrayna'nın başkenti Kiev ve farklı bölgelerine düzenlediği hava saldırılarında 3 kişinin hayatını kaybettiği bildirildi. 15 kişinin yaralandığı saldırılarda 8 füze ve 136 silahlı insansız hava aracı (SİHA) kullanıldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusya-sihalari-devreye-soktu-gece-saldirilarinda-3-ukraynali-yasamini-yitirdi-43252145"
         },
         {
-          "title": "İran: 15 günlük süreçte 11 ABD savaş uçağını ve 17 İHA'yı imha ettik",
-          "summary": "ABD'nin İran'a yönelik 2 hafta süren saldırılarına, Tahran bölgedeki üslere misilleme yaparak yanıt vermişti. Devrim Muhafızları, bu süreçte 11 ABD savaş uçağını ve 17 insansız hava aracını imha ettiklerini öne sürdü. Ayrıca bu saldırılarda en az 200 ABD askerinin öldüğü iddia edildi. Yarı resmi Tesnim Haber Ajansına açıklama yapan Muhibbi, ABD ordusuna verilen hasara ilişkin değerlendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/iran-15-gunluk-surecte-11-abd-savas-ucagini-ve-17-ihayi-imha-ettik-1734559"
+          "title": "İsrail güçleri Batı Şeria'ya saldırdı: 58 Filistinli elleri ve ayakları bağlanarak götürüldü",
+          "summary": "Batı Şeria'nın işgal altındaki bölgelerine art arda baskınlar düzenleyen İsrail güçleri 58 Filistinliyi alıkoydu. Elleri ve ayakları bağlanarak \"gözaltına alınan\" Filistinliler arasında engelli bir çocuk, 75 yaşındaki bir kişi ve kadınların da bulunduğu bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-gucleri-bati-seriaya-saldirdi-58-filistinli-elleri-ve-ayaklari-baglanarak-goturuldu-43252132"
         }
       ]
     },
     "ekonomi": {
-      "text": "Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek. Üreticiye can suyu.",
+      "text": "Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli. Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek.",
       "items": [
+        {
+          "title": "Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli",
+          "summary": "ABD ile İran arasında yeniden tırmanan çatışmalar, cephe hattının çok ötesine geçerek milyonlarca İranlının günlük yaşamını derinden etkiliyor. Amerikan New York Times’ın haberine göre aylar süren savaş, ekonomik çöküş ve iç baskılar İran’da milyonlarca insanın yaşamını hayatta kalma mücadelesine dönüştürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/savasin-golgesinde-hayat-durdu-iranlilar-mutsuz-yorgun-endiseli-43251913"
+        },
         {
           "title": "Varta yeniden iflas başvurusunda bulundu",
           "summary": "Almanya'nın önde gelen pil üreticilerinden Varta, dört ayrı iflas başvurusu yaparken, şirketin bölünerek satılması ve binlerce çalışanın geleceğinin belirsizliğe sürüklenmesi bekleniyor.",
@@ -115,57 +120,67 @@
           "title": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek",
           "summary": "Dışişleri Bakanı Hakan Fidan'ın bugün Ukrayna'ya ziyarette bulunacağı bildirildi. Ziyaretinde Karadeniz'in güvenliğini vurgulaması beklenen Fidan'ın Ukrayna Devlet Başkanı Volodimir Zelenski ve Ukraynalı yetkililerle bir araya geleceği kaydedildi.",
           "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-bugun-ukraynayi-ziyaret-edecek-43240299"
-        },
-        {
-          "title": "Üreticiye can suyu",
-          "summary": "DENİZLİ Büyükşehir Belediyesi’nin yerel üreticileri ekonomik olarak desteklemek ve hayvansal üretimin sürdürülebilirliğine katkı sağlamak amacıyla başlattığı yem desteği projesi bu yıl da başarıyla tamamlandı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ureticiye-can-suyu-43240178"
         }
       ]
     },
     "spor": {
-      "text": "Hull City, Konyaspor'u hazırlık maçında 3 golle geçti!. Arda Güler'den Jose Mourinho'ya övgü dolu sözler!. 'Türkiye'ye imza atıyor' iddiasına Rafael Leao'dan cevap!. Inter Turku - Başakşehir maçına Belçikalı hakem!. Bayern Münih'ten Sacha Boey kararı! Geleceği resmen açıklandı. Trabzonspor, ilk hazırlık maçına çıkıyor!. Midtjylland - Beşiktaş maçına İngiliz hakem!.",
+      "text": "Süper Lig devinden Richarlison hamlesi! Transferde rakip İtalyan devi. Galatasaray, hazırlık maçında Venezia ile karşılaşacak. Beşiktaş için Darwin Nunez açıklaması!. Filenin Sultanları şampiyonluk için Brezilya karşısında! Maçın heyecanı canlı yayın ile Misli'de. Galatasaray değişmezse tehlike kapıda!. Serdal Adalı: 'Biz hazırız, Salah'ı bekliyoruz!'. Ariel Ortega'dan yıllar sonra gelen Fenerbahçe itirafı: 'Çok yalnızdım!'.",
       "items": [
         {
-          "title": "Hull City, Konyaspor'u hazırlık maçında 3 golle geçti!",
-          "summary": "İngiltere Premier Lig ekibi Hull City, hazırlık maçında Konyaspor'u 3-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hull-city-konyasporu-hazirlik-macinda-3-golle-gecti-43251927"
+          "title": "Süper Lig devinden Richarlison hamlesi! Transferde rakip İtalyan devi",
+          "summary": "Transfer çalışmalarını sürdüren Fenerbahçe, Tottenham’da yeni sezon öncesi geleceği belirsizliğini koruyan Richarlison’u gündemine aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-lig-devinden-richarlison-hamlesi-transferde-rakip-italyan-devi-43252144"
         },
         {
-          "title": "Arda Güler'den Jose Mourinho'ya övgü dolu sözler!",
-          "summary": "Real Madrid'in genç yıldızı Arda Güler, teknik direktör Jose Mourinho'dan övgü dolu sözlerle bahsetti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulerden-jose-mourinhoya-ovgu-dolu-sozler-43251922"
+          "title": "Galatasaray, hazırlık maçında Venezia ile karşılaşacak",
+          "summary": "Galatasaray, hazırlık maçında yarın İtalya ekibi Venezia ile mücadele edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-hazirlik-macinda-venezia-ile-karsilasacak-43252133"
         },
         {
-          "title": "'Türkiye'ye imza atıyor' iddiasına Rafael Leao'dan cevap!",
-          "summary": "Portekizli futbolcu Rafael Leao, hakkında çıkan \"Türkiye'ye imza atmaya yakın\" haberine yaptığı sosyal medya yorumuyla dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turkiyeye-imza-atiyor-iddiasina-rafael-leaodan-cevap-43251901"
+          "title": "Beşiktaş için Darwin Nunez açıklaması!",
+          "summary": "Beşiktaş'ın gündeminde olduğu iddia edilen Darwin Nunez ile ilgili dikkat çeken bir gelişme yaşandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-icin-darwin-nunez-aciklamasi-43252032"
         },
         {
-          "title": "Inter Turku - Başakşehir maçına Belçikalı hakem!",
-          "summary": "Inter Turku - Başakşehir maçının hakemi açıklandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/inter-turku-basaksehir-macina-belcikali-hakem-43251858"
+          "title": "Filenin Sultanları şampiyonluk için Brezilya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "A Milli Kadın Voleybol Takımımız, 2026 FIVB Milletler Ligi finalinde Brezilya ile karşılaşıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-sampiyonluk-icin-brezilya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43252001"
         },
         {
-          "title": "Bayern Münih'ten Sacha Boey kararı! Geleceği resmen açıklandı",
-          "summary": "Bayern Münih Sportif Direktörü Christopher Freund, geçtiğimiz sezonun ikinci yarısını Galatasaray'da kiralık olarak geçiren Sacha Boey'in yeni sezon planlamasında yer almadığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihten-sacha-boey-karari-gelecegi-resmen-aciklandi-43251809"
+          "title": "Galatasaray değişmezse tehlike kapıda!",
+          "summary": "Tarihte hiçbir Türk takımının beş sezon üst üste şampiyon olamamış olması bir tesadüf değildir.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-degismezse-tehlike-kapida-43251944"
         },
         {
-          "title": "Trabzonspor, ilk hazırlık maçına çıkıyor!",
-          "summary": "Trabzonspor, yeni sezon hazırlıklarının ikinci etabına Avusturya’nın Schladming kasabasında yaptığı antrenmanla devam etti. Trabzonspor, Avusturya kampındaki ilk hazırlık maçında yarın TSİ 16.30'da Bundesliga ekiplerinden Eintracht Frankfurt ile karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ilk-hazirlik-macina-cikiyor-43251814"
+          "title": "Serdal Adalı: 'Biz hazırız, Salah'ı bekliyoruz!'",
+          "summary": "Beşiktaş Başkanı Serdal Adalı, Mısırlı yıldız futbolcunun transferindeki son durumu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-biz-haziriz-salahi-bekliyoruz-43251942"
         },
         {
-          "title": "Midtjylland - Beşiktaş maçına İngiliz hakem!",
-          "summary": "Beşiktaş'ın UEFA Avrupa Ligi 2. eleme turu rövanşında karşılaşacağı Midtjylland maçını İngiltere Futbol Federasyonu'ndan John Brooks yönetecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/midtjylland-besiktas-macina-ingiliz-hakem-43251802"
+          "title": "Ariel Ortega'dan yıllar sonra gelen Fenerbahçe itirafı: 'Çok yalnızdım!'",
+          "summary": "Ariel Ortega, sarı-lacivertli kulüpten ayrılma gerekçesini açıkladı. 2002’de 7.5 milyon dolara alınan ve 2 yıllık imza atan Arjantinli eski futbolcu, transferinin kendi rızası dışında gerçekleştiğini belirterek, “Türkiye’ye uyum sağlamam mümkün değildi. Takımda tek bir arkadaşım bile yoktu” dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ariel-ortegadan-yillar-sonra-gelen-fenerbahce-itirafi-cok-yalnizdim-43251941"
         }
       ]
     },
     "teknoloji": {
-      "text": "ChatGPT çöktü mü, neden açılmıyor? OpenAI doğruladı. Piyasaların kapasitesini sınıyorlar. Halka arzların hacmi ilk yarıda 194 milyar dolara ulaştı. OpenAI uyardı, yapay zeka ajanlarından benzeri görülmemiş siber saldırı. ABD ile Portekiz'i birbirine bağladılar: Google'dan yeni dev deniz altı kablosu. T3 FPV Akademiden İstanbul’da Teknoloji ve Rekabet Dolu Buluşma!. AB, AliExpress'e acımadı. Rekor ceza kesti. İşler bir türlü düzelmedi, rakibi harekete geçti. 53 milyar dolarlık teklif masada.",
+      "text": "Google yapay zeka yarışında geriye mi düşüyor? CEO Pichai'den iddialara yanıt. Çinli teknoloji devinden gizemli ipucu, insansı robot modeli görücüye çıkabilir. Yapay zekada açık kaynak savaşı. Dev teknoloji şirketlerinden ortak bildiri. ChatGPT çöktü mü, neden açılmıyor? OpenAI doğruladı. Piyasaların kapasitesini sınıyorlar. Halka arzların hacmi ilk yarıda 194 milyar dolara ulaştı. OpenAI uyardı, yapay zeka ajanlarından benzeri görülmemiş siber saldırı. ABD ile Portekiz'i birbirine bağladılar: Google'dan yeni dev deniz altı kablosu.",
       "items": [
+        {
+          "title": "Google yapay zeka yarışında geriye mi düşüyor? CEO Pichai'den iddialara yanıt",
+          "summary": "Alphabet CEO'su Sundar Pichai, şirketin yapay zeka yarışında geride kaldığı yönündeki iddiaları ve Gemini 3.5 Pro modelinin gecikmesine yönelik yatırımcı kaygılarına yanıt verdi. Pichai, gelecekteki Gemini 4 modeli için neredeyse her ay yeni bir sürüm çıkaracakları bir yol haritası izleyeceklerini duyurdu. Alphabet Üst Yöneticisi (CEO) Sundar Pichai, çarşamba günü gerçekleştirilen finansal sonuç toplantısını Google'ın yapay zeka stratejisini savunmak için kullandı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-google-yapay-zeka-yarisinda-geriye-mi-dusuyor-ceo-pichaiden-iddialara-yanit-1734636"
+        },
+        {
+          "title": "Çinli teknoloji devinden gizemli ipucu, insansı robot modeli görücüye çıkabilir",
+          "summary": "BYD tarafından yayınlanan gizemli tanıtım posteri, Şirketin insansı robot modelini Ağustos ayının başlarında kamuoyuna duyuracağına dair iddiaları güçlendirdi. Çin merkezli teknoloji ve otomotiv firması BYD, şirket yöneticilerinin daha öncesinde robotik alanına girişini doğrulamasının ardından, insansı bir robot modelini ilk kez halka göstermeye hazırlanıyor olabilir.",
+          "source": "https://www.ntv.com.tr/teknoloji/cinli-teknoloji-devinden-gizemli-ipucu-insansi-robot-modeli-gorucuye-cikabilir-1734605"
+        },
+        {
+          "title": "Yapay zekada açık kaynak savaşı. Dev teknoloji şirketlerinden ortak bildiri",
+          "summary": "Nvidia CEO'su Jensen Huang, aralarında Meta, Microsoft, IBM ve Dell Technologies'in de yer aldığı küresel teknoloji devleri tarafından imzalanan \"Açık Ağırlıklar ve Amerikan Yapay Zeka Liderliği\" başlıklı ortak açık mektubu kamuoyuna duyurdu. Nvidia CEO'su Jensen Huang, sosyal medya hesabından yaptığı ilk paylaşımda, şirketinin de imzacısı olduğu ve yapay zeka alanında açık modellerin kritik önemini savunan ortak mektubu yayımladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zekada-acik-kaynak-savasi-dev-teknoloji-sirketlerinden-ortak-bildiri-1734601"
+        },
         {
           "title": "ChatGPT çöktü mü, neden açılmıyor? OpenAI doğruladı",
           "summary": "OpenAI tarafından geliştirilen yapay zeka sohbet botu ChatGPT, erişim sorunuyla gündemde. Şirket, dünya çapında kullanıcıların yapay zekaya erişemediğini doğruladı. Dünyanın en yaygın kullanılan yapay zeka araçlarından ChatGPT'ye erişim sorunu yaşanıyor. Herkesin birçok alanda kullanarak faydalandığı yapay zeka motoru ChatGPT hata veriyor. OPENAI RESMİ SİTESİNDE DOĞRULADI OpenAI, dünya çapında kullanıcıların sorun yaşadığını ve birçoğunun yapay zekaya erişemediğini doğruladı.",
@@ -185,27 +200,22 @@
           "title": "ABD ile Portekiz'i birbirine bağladılar: Google'dan yeni dev deniz altı kablosu",
           "summary": "Teknoloji devi Google, bulut bilişim ve yapay zeka hizmetlerine yönelik artan talebi karşılamak amacıyla ABD ile Portekiz'i birbirine bağlayan yeni transatlantik deniz altı kablo hattının kurulumunu başarıyla tamamladı. Alphabet bünyesindeki teknoloji devi Google, bulut bilişim ve yapay zekâ hizmetlerine yönelik küresel talebin hızla artması üzerine, ABD ile Avrupa arasındaki veri rotalarına bir yenisini ekledi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-abd-ile-portekizi-birbirine-bagladilar-googledan-yeni-dev-deniz-alti-kablosu-1733950"
-        },
-        {
-          "title": "T3 FPV Akademiden İstanbul’da Teknoloji ve Rekabet Dolu Buluşma!",
-          "summary": "FPV Dron teknolojileri gençler ve teknoloji meraklılarıyla buluştu, yarışmanın şampiyonu Semruk takımı oldu.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/t3-fpv-akademiden-istanbulda-teknoloji-ve-rekabet-dolu-bulusma-43246617"
-        },
-        {
-          "title": "AB, AliExpress'e acımadı. Rekor ceza kesti",
-          "summary": "Avrupa Birliği, platformundaki yasa dışı, güvensiz ve taklit ürünlerin satışını engelleyemediği gerekçesiyle Alibaba grubuna ait AliExpress'e 550 milyon avro (629 milyon dolar) tutarında rekor bir ceza kesti. Avrupa Birliği (AB), e-ticaret devi Alibaba’nın iştiraki olan AliExpress platformuna, yasa dışı, güvensiz ve taklit ürünlerin satışını engellemede yetersiz kaldığı gerekçesiyle pazartesi günü 550 milyon avro (629 million dolar) tutarında rekor bir para cezası verdi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-ab-aliexpresse-acimadi-rekor-ceza-kesti-1733764"
-        },
-        {
-          "title": "İşler bir türlü düzelmedi, rakibi harekete geçti. 53 milyar dolarlık teklif masada",
-          "summary": "Dijital ödeme sektörünün öncüsü PayPal, rakibi Stripe ve özel sermaye şirketi Advent International’dan gelen yaklaşık 53 milyar dolarlık ortak satın alma teklifini değerlendiriyor. Dijital ödemelerin öncüsü olan ancak son yıllarda Apple Pay, Google Pay ve Cash App gibi rakipleri karşısında pazar payı kaybederek gerileyen PayPal, tarihinin en kritik dönemeçlerinden birini yaşıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-isler-bir-turlu-duzelmedi-rakibi-harekete-gecti-53-milyar-dolarlik-teklif-masada-1733737"
         }
       ]
     },
     "saglik": {
-      "text": "Tıp tarihine geçen Akdeniz Üniversitesi'nde üçüncü nakil yapıldı: 17 yıldır annelik özlemi çekiyordu. 51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti. 40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı. Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş. Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\". En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\".",
+      "text": "Felç ve ölüme neden olabilir. Yazın özellikle gençler bu hatayı yapıyor. Kahve içmek faydalı mı, zararlı mı? Günde 5 fincan içmenin bilinmeyen etkisi. Tıp tarihine geçen Akdeniz Üniversitesi'nde üçüncü nakil yapıldı: 17 yıldır annelik özlemi çekiyordu. 51 yıl sonra ilk kez ayakkabı giydi. Herkes \"sakat kalırsın\" diyerek geri çevirmişti. 40 yaşındaki adamın kulağından çıktı. Hareketliydi, doğaya bırakıldı. Karnı şişiyordu, yemek yemese bile kilo alıyordu. Bağırsak delinmesine kadar gidebilirmiş. Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\".",
       "items": [
+        {
+          "title": "Felç ve ölüme neden olabilir. Yazın özellikle gençler bu hatayı yapıyor",
+          "summary": "Yaz mevsiminde deniz, gölet ve sulama kanallarına girenlerin sayısında artış yaşanıyor. Özellikle gençlerin bilinçsizce yüksekten suya atlamasının ciddi sağlık risklerini beraberinde getiriyor. Adana'da Çukurova Üniversitesi (ÇÜ) Tıp Fakültesi Balcalı Hastanesi Başhekimi ve Acil Tıp Anabilim Dalı Öğretim Üyesi Prof. Dr. Ahmet Sebe, derinliği bilinmeyen sulara balıklama atlanmaması gerektiğini söyleyerek, \"Bu durumda kişi, iki kolunu ve iki bacağını kullanamayacak şekilde felç kalabiliyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-felc-ve-olume-neden-olabilir-yazin-ozellikle-gencler-bu-hatayi-yapiyor-1734595"
+        },
+        {
+          "title": "Kahve içmek faydalı mı, zararlı mı? Günde 5 fincan içmenin bilinmeyen etkisi",
+          "summary": "Kahve, gün içinde en sık tüketilen içeceklerin başında geliyor. Düzenli kahve tüketimi vücut sağlığı üzerinde olumlu etkiler yaratıyor. Ancak kahve tüketiminde son derece dikkatli olmak gerekiyor. Çünkü aşırı kahve tüketimi ciddi sağlık sorunlarına yol açabiliyor. Hatta terleme, kaygı, kalp ritmi bozukluklarına neden olabilir. Amerikan Kalp Derneği dergisinde yayımlanan bir araştırma, sade kahve tüketiminin kalp sağlığı üzerinde önemli faydalar sağlayabilir.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-kahve-icmek-faydali-mi-zararli-mi-gunde-5-fincan-icmenin-bilinmeyen-etkisi-1734591"
+        },
         {
           "title": "Tıp tarihine geçen Akdeniz Üniversitesi'nde üçüncü nakil yapıldı: 17 yıldır annelik özlemi çekiyordu",
           "summary": "Dünyada kadavradan ilk rahim naklini gerçekleştirerek tıp tarihine geçen Akdeniz Üniversitesi Hastanesi'nde, Türkiye'nin üçüncü rahim nakli operasyonu başarıyla gerçekleştirildi. Prof. Dr. Ömer Özkan ve Prof. Dr. Özlenen Özkan öncülüğündeki ekip, yaklaşık 14 saat süren zorlu ameliyatı başarıyla tamamladı. Rahim nakli yapılan genç kadının sağlık durumunun iyi olduğu öğrenildi.",
@@ -230,11 +240,6 @@
           "title": "Yaz sıcakları için kritik uyarı. \"Kahvenin yanında mutlaka için\"",
           "summary": "Uzmanlar, yaz sıcaklarında tüketilen kahvenin sıvı kaybına yol açabileceğini belirtti; vücudun susuz kalmasını önlemek için yanında bir bardak su tüketilmesi gerektiğini söyledi. Yaz aylarında serinlemek için tercih edilen buzlu kahveler, su ihtiyacını karşılamadığı gibi aşırı tüketildiğinde vücutta sıvı kaybına da neden olabiliyor. Uzmanlar, konuyla ilgili uyarılarda bulunuyor.",
           "source": "https://www.ntv.com.tr/saglik/galeri-yaz-sicaklari-icin-kritik-uyari-kahvenin-yaninda-mutlaka-icin-1731404"
-        },
-        {
-          "title": "En agresif kanser türünde art arda umut verici gelişmeler. Bilim insanları heyecanlı: \"Sonuçlar süper\"",
-          "summary": "Bu yıl bilim dünyasından pankreas kanseri tedavisine ilişkin umut verici birçok gelişme geldi. Yaşam süresini uzatan yeni bir ilacın geliştirilmesi ve yapay zeka sayesinde hastalığın yıllar öncesinden tespit edilebilmesi, bu gelişmelerin öne çıkanları arasında yer aldı. (Haber: Melike Şahin) Bu ay tıp dünyasında çığır açacak pankreas kanseri ilacının sonuçlarını, bilim insanlarının dakikalarca alkışladığı görüntülerle öğrendik.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-en-agresif-kanser-turunde-art-arda-umut-verici-gelismeler-bilim-insanlari-heyecanli-sonuclar-super-1730446"
         }
       ]
     },
