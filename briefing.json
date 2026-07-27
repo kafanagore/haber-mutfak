@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-27T04:00:03.051Z",
+  "generatedAt": "2026-07-27T10:00:03.651Z",
   "categories": {
     "gundem": {
-      "text": "Traktöre çarpıp alev aldı. 3 yaralı. 17 yaşındaki Mehmet, Hazar Gölü'nde boğuldu. Mersin'den acı haber. Denize giren 5 kişilik aileden 3'ü boğuldu, 1 çocuk kayıp. Mezarlık ziyaretinde silahlı saldırı. 3 kişi öldü, 2 yaralı. İş makinesiyle define kazısı yapan şüpheliler suçüstü yakalandı: 5 gözaltı. Seyir tepesindeki sır cinayetlerin nedeni belli oldu. 3 kişiyi öldürüp \"Pişmanım\" diyen şüpheli tutuklandı. Dışişleri Bakanı Fidan'dan İran diplomasisi.",
+      "text": "Aşırı fiyatlardan kaçanlar oraya akın ediyor. Deniz ücretsiz, lahmacun 250, hamburger 450 TL. KADES'i 10 milyon kişi indirdi. Bugüne kadar 239 bin 356 ihbar yapıldı, yüzde 64'ü gerçek çıktı. Polis havaya ateş açarak ayırdı: 4 kişi yaralı. 75 yıldır böylesi görülmedi. Türkiye'de sıcak hava dalgalarının şiddeti zirveye çıktı. Aziz İhsan Aktaş suç örgütü davasında 57. duruşma yapıldı | Rıza Akpolat, yarın savunma yapacak. Tek bir çivi bile kullanılmadan yapıldı. 250 yıldır sapasağlam ayakta duruyor. İstanbul’daki kadın cinayetinde yeni detaylar: Cesedi battaniyeye sarıp ormanlık alana taksiyle götürmüş.",
       "items": [
         {
-          "title": "Traktöre çarpıp alev aldı. 3 yaralı",
-          "summary": "Niğde- Kayseri karayolunda kamyonet, aynı yönde ilerlediği traktöre arkadan çarptıktan sonra alev aldı. Plakaları ve sürücüleri öğrenilemeyen kamyonet ile traktör, Niğde- Kayseri karayolu Hüyük mevkisinde çarpıştı. Çarpışmanın etkisiyle kamyonet alev aldı. İtfaiye ekiplerinin müdahalesiyle söndürülen yangında kamyonet kullanılamaz hale geldi. Kazada yaralanan 3 kişi, Niğde Ömer Halisdemir Üniversitesi Eğitim ve Araştırma Hastanesi'ne kaldırıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/traktore-carpip-alev-aldi-3-yarali-1734708"
+          "title": "Aşırı fiyatlardan kaçanlar oraya akın ediyor. Deniz ücretsiz, lahmacun 250, hamburger 450 TL",
+          "summary": "Kültür ve Turizm Bakanlığı tarafından hayata geçirilen, Bitlis Adilcevaz’dan Bodrum Türkbükü’ne, Çeşme’den Sinop’a, Marmaris’ten Kemer’e, uzanan ücretsiz girişli halk plajları yaz sezonunda yoğun ilgi görüyor. Üstelik halk plajlarında lahmacun 250 TL, hamburger ve pizza 450 TL, et döner 550 TL’den satışa sunuluyor. Hem deniz keyfini hem de ekonomik yeme içme seçeneklerini bir araya getiren halk plajlarında, bulundukları turizm destinasyonu fark etmeksizin aynı fiyat tarifesi uygulanıyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-asiri-fiyatlardan-kacanlar-oraya-akin-ediyor-deniz-ucretsiz-lahmacun-250-hamburger-450-tl-1734747"
         },
         {
-          "title": "17 yaşındaki Mehmet, Hazar Gölü'nde boğuldu",
-          "summary": "Dün serinlemek için Hazar Gölü'ne girdikten sonra kaybolan 17 yaşındaki gencin cansız bedenine ulaşıldı. Dün, ailesi ile piknik yapmak için Diyarbakır'dan Elazığ merkeze bağlı Gölardı köyünün Hacı Ali mezrası mevkisine giden 17 yaşındaki Mehmet Ali Ateş, girdiği Hazar Gölü'nde bir süre sonra gözden kayboldu. Çevredekilerin ihbarı üzerine bölgeye Ulusal Medikal Kurtarma Ekibi, Emniyet Su Altı Grup Amirliği'ne bağlı dalgıçlar, sağlık, AFAD, Tunceli Jandarma Arama Kurtarma ve jandarma ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/17-yasindaki-mehmet-hazar-golunde-boguldu-1734707"
+          "title": "KADES'i 10 milyon kişi indirdi. Bugüne kadar 239 bin 356 ihbar yapıldı, yüzde 64'ü gerçek çıktı",
+          "summary": "Kadınların tehdit anında tek dokunuşla güvenlik birimlerine ulaşmasını sağlayan Kadın Destek Uygulaması (KADES) uygulaması, 8 yıllık süreçte yaklaşık 10 milyon kişi tarafından indirildi. KADES, yaklaşık 10 milyon kişi tarafından indirildi. İçişleri Bakanlığı'nın verilerine göre; uygulama üzerinden bugüne kadar 239 bin 356 ihbar yapıldı, bunların yaklaşık 153 bini gerçek çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/kadesi-10-milyon-kisi-indirdi-bugune-kadar-239-bin-356-ihbar-yapildi-yuzde-64u-gercek-cikti-1734762"
         },
         {
-          "title": "Mersin'den acı haber. Denize giren 5 kişilik aileden 3'ü boğuldu, 1 çocuk kayıp",
-          "summary": "Mersin'in Tarsus ilçesinde denize giren 5 kişilik aileden 3'ü boğuldu, 1'i hastaneye kaldırıldı, 1 çocuk ise kayboldu. Kulak Mahallesi sahilinden denize giren aile, bir süre sonra çırpınmaya başladı. Çevredekilerin ihbarı üzerine bölgeye sahil güvenlik, jandarma, polis ve sağlık ekipleri sevk edildi. Ekipler tarafından 4 kişi sudan çıkarıldı, 1 kişiye ise ulaşılamadı. Sağlık ekipleri, yaptıkları incelemede anne, baba ve annenin kız kardeşinin yaşamını yitirdiğini belirledi.",
-          "source": "https://www.ntv.com.tr/turkiye/mersinden-aci-haber-denize-giren-6-kisiden-3u-boguldu-1-cocuk-kayip-1734701"
+          "title": "Polis havaya ateş açarak ayırdı: 4 kişi yaralı",
+          "summary": "Kağıthane’de trafikte yol verme tartışması bıçaklı kavgaya dönüştü. Sırtından bıçaklanan bir kişi ağır olmak üzere 4 kişi yaralandı, 3 şüpheli gözaltına alındı. Olay, dün saat 20.00 sıralarında Merkez Mahallesi’nde meydana geldi. Edinilen bilgiye göre, iki grup arasında trafikte yol verme nedeniyle tartışma çıktı. Tartışmanın kısa sürede büyümesi üzerine çıkan bıçaklı kavgada Mert B. sırtından, Enes Furkan Y. bacağından, Bora S. baldırından, Atakan K ise kalçasından yaralandı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-polis-havaya-ates-acarak-ayirdi-4-kisi-yarali-1734763"
         },
         {
-          "title": "Mezarlık ziyaretinde silahlı saldırı. 3 kişi öldü, 2 yaralı",
-          "summary": "Batman’da, mezarlık ziyareti yapan gruba silahlı saldırı gerçekleştirildi. Husumetlilerinin saldırısına uğrayan aileden baba, oğlu ve yeğeni öldü, 1’i ağır 2 kişi yaralandı. Merkez Güneykent Mahallesi’ndeki Batman Asri Mezarlığı’nda ziyaret için bulunan gruba, aralarında henüz bilinmeyen nedenle husumet bulunan şüpheliler tarafından tabancalarla ateş açıldı. Saldırganlar olay yerinden kaçarken, ihbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-mezarlik-ziyaretinde-silahli-saldiri-3-kisi-oldu-2-yarali-1734702"
+          "title": "75 yıldır böylesi görülmedi. Türkiye'de sıcak hava dalgalarının şiddeti zirveye çıktı",
+          "summary": "Türkiye'de sıcak hava dalgalarının şiddeti 1950-2025 döneminde belirgin biçimde artarken 2023 ve 2025 yazları son 75 yılın en güçlü sıcak hava dalgalarına sahne oldu. İstanbul Teknik Üniversitesi (İTÜ) araştırmacılarının Avrupa Yerbilimleri Birliği (EGU) Konferansı'nda sunulan çalışması, Türkiye'de sıcak hava dalgalarının şiddetinin son yıllarda belirgin şekilde arttığını, özellikle 2023 ve 2025 yazlarının son 75 yılın en güçlü sıcak hava dalgalarına sahne olduğunu ortaya koydu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-75-yildir-boylesi-gorulmedi-turkiyede-sicak-hava-dalgalarinin-siddeti-zirveye-cikti-1734755"
         },
         {
-          "title": "İş makinesiyle define kazısı yapan şüpheliler suçüstü yakalandı: 5 gözaltı",
-          "summary": "Sakarya’nın Pamukova ilçesinde iş makinesi ile kaçak define kazısı yapan 5 şüpheli jandarma ekiplerinin düzenlediği operasyonla yakalanarak, gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/is-makinesiyle-define-kazisi-yapan-supheliler-sucustu-yakalandi-5-gozalti-43252652"
+          "title": "Aziz İhsan Aktaş suç örgütü davasında 57. duruşma yapıldı | Rıza Akpolat, yarın savunma yapacak",
+          "summary": "Aziz İhsan Aktaş suç örgütüne ilişkin 6'sı görevinden uzaklaştırılan 7 belediye başkanının da aralarında bulunduğu, 7'si tutuklu 200 sanığın yargılandığı davanın 57. duruşması tamamlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/aziz-ihsan-aktas-suc-orgutu-davasinda-57-durusma-yapildi-riza-akpolat-yarin-savunma-yapacak-43253054"
         },
         {
-          "title": "Seyir tepesindeki sır cinayetlerin nedeni belli oldu. 3 kişiyi öldürüp \"Pişmanım\" diyen şüpheli tutuklandı",
-          "summary": "Adana'da 3 kişiyi tabancayla vurarak öldüren zanlı, çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi. Adana'da üç kişinin öldürüldüğü sır cinayet çözüldü. Olay, dün saat 23.00 sıralarında Çukurova ilçesi Kabasakal Mahallesi Rüzgarlı Tepe mevkisinde meydana geldi. Osman A., evinden otomobille aldığı Semra Yılmaz ile seyir tepesine gitti. Bir süre sohbet eden Osman A. ile Yılmaz'ın arasında henüz bilinmeyen bir nedenle tartışma çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-seyir-tepesindeki-sir-cinayetlerin-nedeni-belli-oldu-1734658"
+          "title": "Tek bir çivi bile kullanılmadan yapıldı. 250 yıldır sapasağlam ayakta duruyor",
+          "summary": "Gölpazarı Kaymakamı Onur Titiz, kurum amirleriyle birlikte Kasımlar Köyü'nde bulunan yaklaşık 250 yıllık geçmişiyle ayakta kalan tarihi Çivisiz Cami'de incelemelerde bulundu. Osmanlı dönemi taşra mimarisinin özgün örnekleri arasında gösterilen ve kitabesinde Hicri 1190 (Miladi 1776) tarihi yer alan caminin mimari özellikleri ile koruma çalışmaları hakkında yetkililerden bilgi alan Titiz, tarihi yapının gelecek nesillere aktarılmasının önemine dikkat çekti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-tek-bir-civi-bile-kullanilmadan-yapildi-250-yildir-sapasaglam-ayakta-duruyor-1734757"
         },
         {
-          "title": "Dışişleri Bakanı Fidan'dan İran diplomasisi",
-          "summary": "ABD ile İran arasındaki tırmanan gerilim, Ankara'nın yakın takibinde. Dışişleri Bakanı Hakan Fidan bu konuda telefon diplomasisi yürüttü. Diplomatik kaynakların verdiği bilgiye göre Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı El Sani ve Pakistan Genelkurmay Başkanı Mareşal Munir ile telefon görüşmeleri gerçekleştirdi. Görüşmelerde, İran ve ABD arasındaki müzakere süreci ele alındı.",
-          "source": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidandan-iran-diplomasisi-1734694"
+          "title": "İstanbul’daki kadın cinayetinde yeni detaylar: Cesedi battaniyeye sarıp ormanlık alana taksiyle götürmüş",
+          "summary": "Kağıthane’de 4 gündür kayıp olarak aranan 3 çocuk annesi Bedriye Karaçay’ın cinayete kurban gittiği ortaya çıktı. Kendisinden ayrılmak isteyen eşini evde boğarak öldürdüğünü itiraf eden Volkan K.’nin, cesedi battaniyeye sarıp taksiyle ormanlık alana götürerek gömdüğü ve şüphe çekmemek için polise giderek kayıp ihbarında bulunduğu belirlendi. Cesedin ayaklarında yaban hayvanlarının neden olduğu tahribat olduğu da öğrenildi. Karaçay, ikindi namazının ardından Yeni Ayazağa Mezarlığı'nda toprağa verildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbuldaki-kadin-cinayetinde-yeni-detaylar-cesedi-battaniyeye-sarip-ormanlik-alana-taksiyle-goturmus-43253013"
         }
       ]
     },
     "dunya": {
-      "text": "Brezilya ile Arjantin arasında Milei krizi. Suriye Devlet Başkanı Ahmed eş-Şara. \"İsrail ile güvenlik anlaşması yapmayı amaçlıyoruz\". ABD ile İran arasında yeniden ateşkes mi? ABD saldırıları, İran misillemeleri durdurdu. Arap Birliği'nden Trump'a İsrail çağrısı. \"İşgal ve ihlalleri durdur\". İran'dan Ukrayna'ya uyarı. \"Gemi saldırısı cevapsız kalmayacak\". Gazze için kritik karar. İsrail, Uluslararası İstikrar Gücü’nün girişini onayladı. Elbruz Dağı'nda kar fırtınası faciası: 5 dağcı hayatını kaybetti.",
+      "text": "İspanya Başbakanı Sanchez'den Gazzeli çocuklara video mesajla teşekkür. Fransa ve İspanya'da dev orman yangınları kontrolden çıktı. 32 bin kişi tahliye edildi. İran'dan ABD ve Ukrayna'ya misilleme uyarısı: \"ABD savaşın ve barışın zamanını belirleyemez\". Zelenski duyurdu: Rus tesislerine peş peşe saldırılar. Suriye'de İsrail terörü: Bir köy saldırıya uğradı! Suriyeli sivil alıkonuldu. Aşırı sıcaklar deniz canlılarının yaşam alanlarını kökten değiştiriyor. Son dakika... İran'dan Hürmüz Boğazı'nda gemilere art arda müdahaleler.",
       "items": [
         {
-          "title": "Brezilya ile Arjantin arasında Milei krizi",
-          "summary": "Arjantin'in Donald Trump hayranı aşırı sağcı Devlet Başkanı Javier Milei’nin Brezilya'da katıldığı seçim mitinginde yaptığı konuşma iki ülke arasında diplomatik kriz çıkardı. Brezilya'da darbe girişimi iddiasıyla tutuklanan eski Devlet Başkanı Jair Bolsonaro'nun oğlu Flavio Bolsonaro, Liberal Parti'nin yeni adayı oldu. Bolsonaro'nun adaylığı, Sao Paulo kentindeki Pacaembu Stadyumu'nda düzenlenen mitingle duyuruldu.",
-          "source": "https://www.ntv.com.tr/dunya/brezilya-ile-arjantin-arasinda-milei-krizi-1734709"
+          "title": "İspanya Başbakanı Sanchez'den Gazzeli çocuklara video mesajla teşekkür",
+          "summary": "Gazze'de harabelerin arasındaki bir duvara portresini çizen Gazzeli çocuklara sosyal medyadan video mesajla teşekkür eden İspanya Başbakanı Pedro Sanchez, \"İspanya'dan hepinize kucak dolusu sevgiler.\" ifadesini kullandı. Sanchez'in paylaşımı, sosyal medyada büyük destek gördü.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanya-basbakani-sanchezden-gazzeli-cocuklara-video-mesajla-tesekkur-43253037"
         },
         {
-          "title": "Suriye Devlet Başkanı Ahmed eş-Şara. \"İsrail ile güvenlik anlaşması yapmayı amaçlıyoruz\"",
-          "summary": "Suriye Devlet Başkanı Ahmed Şara, İsrail ile bir güvenlik anlaşmasına varmak için çalıştıklarını söyledi. Şara ayrıca, bölgenin İsrail ile İran hırsları arasında seçim yapmaya zorlanmaması gerektiğini vurguladı.",
-          "source": "https://www.ntv.com.tr/dunya/suriye-devlet-baskani-ahmed-es-sara-israil-ile-guvenlik-anlasmasi-yapmayi-amacliyoruz-1734705"
+          "title": "Fransa ve İspanya'da dev orman yangınları kontrolden çıktı. 32 bin kişi tahliye edildi",
+          "summary": "Fransa ve İspanya, yeni bir sıcak hava dalgasının eşiğinde son onlarca yılın en şiddetli orman yangınlarıyla mücadele ediyor. Mayıs ayından bu yana süren kuraklık ve aşırı sıcaklar nedeniyle alevler devasa boyutlara ulaşırken 325 binden fazla kişi evlerini ve tatil beldelerini terk etmek zorunda kaldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-ispanyada-dev-orman-yanginlari-kontrolden-cikti-32-bin-kisi-tahliye-edildi-1734759"
         },
         {
-          "title": "ABD ile İran arasında yeniden ateşkes mi? ABD saldırıları, İran misillemeleri durdurdu",
-          "summary": "ABD, son iki gecedir İran'a saldırılarını durdururken, İran'dan da bu nedenle misilleme saldırılarını durdurdukları açıklaması geldi. Ayrıca, Pakistan ve Katar aracılığıyla ABD ile aktif mesaj alışverişinin sürdüğü belirtildi. İRAN: ABD SALDIRILARI DURDURUNCA, BİZ DE MİSİLLEMEYİ DURDURDUK ABD Merkez Komutanlığı cumartesi günü yaptığı açıklamada İran’a yönelik deniz ablukasının \"tam kapasiteyle yürürlükte kaldığını\" duyurdu, ancak tırmanan 13 gecelik saldırı dalgasının neden durdurulduğuna ilişkin ayrıntı vermedi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abd-ile-iran-arasinda-yeniden-ateskes-mi-son-24-saatte-yasananlar-1734586"
+          "title": "İran'dan ABD ve Ukrayna'ya misilleme uyarısı: \"ABD savaşın ve barışın zamanını belirleyemez\"",
+          "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekai, Ukrayna'nın bir İran deniz aracını hedef alan saldırısının yanıtsız kalmayacağını duyururken Washington hava bombardımanlarını durdurduğu sürece Tahran'ın da askeri operasyonlarını askıya alacağını açıkladı. İran Dışişleri Bakanlığı Sözcüsü İsmail Bekai, haftalık basın toplantısında gündemdeki askeri ve diplomatik gelişmelere dair değerlendirmeler paylaştı.",
+          "source": "https://www.ntv.com.tr/dunya/irandan-abd-ve-ukraynaya-misilleme-uyarisi-abd-savasin-ve-barisin-zamanini-belirleyemez-1734746"
         },
         {
-          "title": "Arap Birliği'nden Trump'a İsrail çağrısı. \"İşgal ve ihlalleri durdur\"",
-          "summary": "Arap Birliği, Orta Doğu'daki durumun \"tehlikeli bir patlama noktasına\" doğru ilerlediği uyarısında bulunarak, ABD Başkanı Donald Trump'a İsrail’in Gazze, işgal altındaki Kudüs ile Batı Şeria'daki ihlallerini durdurma çağrısında bulundu. Arap Birliği'nden yapılan açıklamaya göre Genel Sekreter Fehmi, Filistin meselesinde yaşanan tıkanıklık ve Körfez krizindeki tırmanış nedeniyle bölgedeki şartların son derece tehlikeli bir sürece girdiğini ve çok yönlü bir patlama noktasına ilerlediğini belirtti.",
-          "source": "https://www.ntv.com.tr/dunya/arap-birliginden-trumpa-israil-cagrisi-isgal-ve-ihlalleri-durdur-1734706"
+          "title": "Zelenski duyurdu: Rus tesislerine peş peşe saldırılar",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'nın farklı bölgelerindeki petrol tesisleri ve bir ihracat terminaline saldırılar düzenlediklerini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenski-duyurdu-rus-tesislerine-pes-pese-saldirilar-43252940"
         },
         {
-          "title": "İran'dan Ukrayna'ya uyarı. \"Gemi saldırısı cevapsız kalmayacak\"",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi, Ukrayna'nın Hazar Denizi'nde İran gemisine düzenlediği saldırıya ilişkin, söz konusu eylemin cevapsız kalmayacağını söyledi. Arakçi, sosyal medya platformundaki hesabından konuya ilişkin açıklama yaptı. İranlı Bakan, Avrupa Birliği Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kallas ve Rusya Dışişleri Bakanı Sergev Lavrov ile yaptığı telefon görüşmesinde Ukrayna tarafından hedef alınan İran gemisi hakkında konuştuğunu belirtti.",
-          "source": "https://www.ntv.com.tr/dunya/irandan-ukraynaya-uyari-gemi-saldirisi-cevapsiz-kalmayacak-1734703"
+          "title": "Suriye'de İsrail terörü: Bir köy saldırıya uğradı! Suriyeli sivil alıkonuldu",
+          "summary": "İsrail ordusu Suriye'nin güneyindeki Kuneytra ilinde sabah saatlerinde baskın düzenledi. Kuneytra'da bir kişiyi alıkoyan İsrail güçleri, Dera kırsalında da bir köye ateş açtı.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-israil-teroru-bir-koy-saldiriya-ugradi-suriyeli-sivil-alikonuldu-43252869"
         },
         {
-          "title": "Gazze için kritik karar. İsrail, Uluslararası İstikrar Gücü’nün girişini onayladı",
-          "summary": "İsrail güvenlik kabinesinde yapılan oylama sonucunda Gazze Şeridi'nde görev yapması planlanan Uluslararası İstikrar Gücü'nün bölgeye girişine onay verildi. İsrailli bir askeri yetkili, istikrar gücünün yaklaşık 200 personelden oluşmasının beklendiğini açıkladı. İsrail güvenlik kabinesi, bölgede sağlanan ateşkes anlaşmasına ilişkin gündem maddelerini ele almak üzere toplandı.",
-          "source": "https://www.ntv.com.tr/dunya/israil-uluslararasi-istikrar-gucunun-gazzeye-girisini-onayladi-1734700"
+          "title": "Aşırı sıcaklar deniz canlılarının yaşam alanlarını kökten değiştiriyor",
+          "summary": "ABD Ulusal Okyanus ve Atmosfer İdaresi (NOAA) verileri, Kaliforniya kıyılarındaki yüzey suyu sıcaklıklarının mevsim normallerinin 3 ila 4 santigrat derece üzerine çıktığını gösteriyor. Yaklaşık altı aydır süren deniz sıcak dalgası ve El Nino etkisi, balina, yunus, deniz aslanı ve kuş türlerinin beslenme zincirini bozarak yaşam alanlarını değiştiriyor. ABD'nin Kaliforniya eyaletinde günlük tur tekneleriyle açılan ziyaretçiler, su yüzeyinde oynaşan yunusları ve balinaları eskisi kadar sık göremiyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-asiri-sicaklar-deniz-canlilarinin-yasam-alanlarini-kokten-degistiriyor-1734734"
         },
         {
-          "title": "Elbruz Dağı'nda kar fırtınası faciası: 5 dağcı hayatını kaybetti",
-          "summary": "Rusya'daki Elbruz Dağı'nda şiddetli kar fırtınası ve rüzgar nedeniyle 5 Boşnak dağcının hayatını kaybettiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/elbruz-daginda-kar-firtinasi-faciasi-5-dagci-hayatini-kaybetti-43252597"
+          "title": "Son dakika... İran'dan Hürmüz Boğazı'nda gemilere art arda müdahaleler",
+          "summary": "İran ve ABD arasındaki savaş son 3 günde durma noktasına geldi. ABD, İran'a yönelik gece saldırılarına son verdi. İran ise İHA ve füze misillemelerine devam etmedi. Buna karşın savaşta odak yeniden Hürmüz Boğazı'na kaydı. İran'ın boğazı geçmeye çalışan 6 gemiyi durdurduğu bildirildi. Tahran yönetimi, 6 geminin de ABD'nin önerdiği alternatif rotada kaza yaptığını belirterek, Washington'u bu girişimleri \"kışkırtmakla\" suçladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/live-son-dakika-irandan-hurmuz-bogazinda-gemilere-art-arda-mudahaleler-43252794"
         }
       ]
     },
     "ekonomi": {
-      "text": "Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli. Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Üreticiye can suyu.",
+      "text": "Kuru domatesten 61 milyon dolar. Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli. Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı.",
       "items": [
+        {
+          "title": "Kuru domatesten 61 milyon dolar",
+          "summary": "Türkiye, bu yılın ocak-haziran döneminde 91 ülkeye gerçekleştirdiği 18 bin 301 tonluk kurutulmuş domates ihracatından 60 milyon 989 bin dolar gelir sağladı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/kuru-domatesten-61-milyon-dolar-43252692"
+        },
         {
           "title": "Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli",
           "summary": "ABD ile İran arasında yeniden tırmanan çatışmalar, cephe hattının çok ötesine geçerek milyonlarca İranlının günlük yaşamını derinden etkiliyor. Amerikan New York Times’ın haberine göre aylar süren savaş, ekonomik çöküş ve iç baskılar İran’da milyonlarca insanın yaşamını hayatta kalma mücadelesine dönüştürdü.",
@@ -115,57 +120,57 @@
           "title": "Yeni pazar arayışı",
           "summary": "EGELİ maden ihracatçıları 2026’nın ilk 6 ayını yüzde 12 artışla 767 milyon dolar ihracatla geride bıraktı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/yeni-pazar-arayisi-43245226"
-        },
-        {
-          "title": "Üreticiye can suyu",
-          "summary": "DENİZLİ Büyükşehir Belediyesi’nin yerel üreticileri ekonomik olarak desteklemek ve hayvansal üretimin sürdürülebilirliğine katkı sağlamak amacıyla başlattığı yem desteği projesi bu yıl da başarıyla tamamlandı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ureticiye-can-suyu-43240178"
         }
       ]
     },
     "spor": {
-      "text": "Galatasaray'dan Jamal Musiala açıklaması! 'Transfer bitti' iddiaları olay olmuştu. Fenerbahçe'de Rafael Leao operasyonu! Transfer için Milano'ya gidiliyor. Arda Turan'ın Shakhtar'ı ile Bursaspor yenişemedi!. Fenerbahçe, Gornik Zabrze maçı hazırlıklarını sürdürdü!. Sivasspor, Kayserispor'u tek golle yendi!. Fatih Tekke: 'Kolay bir süreç değil!'. Galatasaray'da stoper rotası değişti! Bremer'den olumsuz yanıt.",
+      "text": "Red Bull Dance Your Style Türkiye Finali, Dans Tutkunlarını Kadıköy’de Buluşturacak. Selçuk Şahin'den Fenerbahçe ve Aziz Yıldırım sözleri!. Kuzey’de Gollerden Yana Tercihler Ön Planda! İşte Misli'de Günün En Çok Oynanan Maçları. Kuzey Avrupa'da Gol Beklentisi Yüksek Karşılaşmalar! İşte Misli’den Günün Tüyoları. Bursa'da 10 koşuluk program! İşte Misli'den günün altılı analizi. Al-Hilal'de kriz: Kulüp 'ayrıl' dedi, Benzema 'paramı verin ve sözleşmemi feshedin' resti çekti!. UEFA Şampiyonlar Ligi'nde ikinci eleme turu rövanş maçları başlayacak.",
       "items": [
         {
-          "title": "Galatasaray'dan Jamal Musiala açıklaması! 'Transfer bitti' iddiaları olay olmuştu",
-          "summary": "Galatasaray, Bayern Münih’in yıldız futbolcusu Jamal Musiala’yı kiralık olarak kadrosuna katmak için önemli mesafe kat ettiği yönünde çıkan haberleri jet hızında yalanladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-jamal-musiala-aciklamasi-transfer-bitti-iddialari-olay-olmustu-43252656"
+          "title": "Red Bull Dance Your Style Türkiye Finali, Dans Tutkunlarını Kadıköy’de Buluşturacak",
+          "summary": "Red Bull Dance Your Style Türkiye Finali, 1 Ağustos Cumartesi günü İstanbul’da Terminal Kadıköy’de gerçekleştirilecek. Dört şehirdeki elemeleri geçen dansçılar, seyircilerin oylarıyla Türkiye şampiyonluğu ve Zürih'teki dünya finali bileti için yarışacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/red-bull-dance-your-style-turkiye-finali-dans-tutkunlarini-kadikoyde-bulusturacak-43253061"
         },
         {
-          "title": "Fenerbahçe'de Rafael Leao operasyonu! Transfer için Milano'ya gidiliyor",
-          "summary": "Fenerbahçe'nin Milan'ın yıldızı Rafael Leao için yeniden harekete geçtiği öne sürüldü. Sarı-lacivertlilerin, transferin şartlarını görüşmek üzere gelecek hafta İtalya'ya gideceği iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-rafael-leao-operasyonu-transfer-icin-milanoya-gidiliyor-43252626"
+          "title": "Selçuk Şahin'den Fenerbahçe ve Aziz Yıldırım sözleri!",
+          "summary": "1. Lig ekiplerinden Batman Petrolspor Teknik Direktörü Selçuk Şahin, Fenerbahçe'de geçirdiği döneme, Aziz Yıldırım'ın başkanlığa dönüşüne ve A Milli Takım'ın Dünya Kupası performansına ilişkin değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-sahinden-fenerbahce-ve-aziz-yildirim-sozleri-43252978"
         },
         {
-          "title": "Arda Turan'ın Shakhtar'ı ile Bursaspor yenişemedi!",
-          "summary": "Trendyol 1. Lig ekiplerinden Bursaspor, teknik direktörlüğünü Arda Turan'ın yaptığı Ukrayna ekibi Shakhtar Donetsk ile oynadığı hazırlık maçında 0-0 berabere kaldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-turanin-shakhtari-ile-bursaspor-yenisemedi-43252598"
+          "title": "Kuzey’de Gollerden Yana Tercihler Ön Planda! İşte Misli'de Günün En Çok Oynanan Maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kuzeyde-gollerden-yana-tercihler-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43253003"
         },
         {
-          "title": "Fenerbahçe, Gornik Zabrze maçı hazırlıklarını sürdürdü!",
-          "summary": "Fenerbahçe, Polonya temsilcisi Gornik Zabrze ile deplasmanda oynayacağı UEFA Şampiyonlar Ligi 2. Eleme Turu rövanş maçının hazırlıklarını akşam saatlerinde yaptığı antrenmanla sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-gornik-zabrze-maci-hazirliklarini-surdurdu-43252586"
+          "title": "Kuzey Avrupa'da Gol Beklentisi Yüksek Karşılaşmalar! İşte Misli’den Günün Tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kuzey-avrupada-gol-beklentisi-yuksek-karsilasmalar-iste-misliden-gunun-tuyolari-43252999"
         },
         {
-          "title": "Sivasspor, Kayserispor'u tek golle yendi!",
-          "summary": "Kayserispor, hazırlık maçında Sivasspor'a 1-0 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sivasspor-kayserisporu-tek-golle-yendi-43252583"
+          "title": "Bursa'da 10 koşuluk program! İşte Misli'den günün altılı analizi",
+          "summary": "Bursa Osmangazi Hipodromu’nda, bugün 10 koşudan oluşan birbirinden zorlu yarışlar var. Günün programında hem kaliteli safkanların mücadelesi hem de sürprize açık koşular dikkat çekerken, altılı ganyan severleri zorlu bir yarış günü bekliyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursada-10-kosuluk-program-iste-misliden-gunun-altili-analizi-43252971"
         },
         {
-          "title": "Fatih Tekke: 'Kolay bir süreç değil!'",
-          "summary": "Avusturya kampında oynadığı ilk hazırlık maçında Almanya'nın Eintracht Frankfurt takımına 3-0 mağlup olan Trabzonspor'un teknik direktörü Fatih Tekke, \"Bugün de ben bütün oynayan oyuncularımdan gayet mutluyum. Gayet iyiydi çünkü penaltı haricinde iki tane şanssız gol yedik.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-kolay-bir-surec-degil-43252557"
+          "title": "Al-Hilal'de kriz: Kulüp 'ayrıl' dedi, Benzema 'paramı verin ve sözleşmemi feshedin' resti çekti!",
+          "summary": "Suudi Arabistan ekiplerinden Al-Hilal'de yönetim, dünyaca ünlü golcü futbolcu Karim Benzema'dan takımdan ayrılmasını istedi ancak 38 yaşındaki Fransız forvetten aldığı cevapla şoke oldu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/al-hilalde-kriz-kulup-ayril-dedi-benzema-parami-verin-ve-sozlesmemi-feshedin-resti-cekti-43252969"
         },
         {
-          "title": "Galatasaray'da stoper rotası değişti! Bremer'den olumsuz yanıt",
-          "summary": "Stoper transferinde Bremer'den istediği yanıtı alamayan Galatasaray'ın rotasını Bologna'nın Kolombiyalı savunmacısı John Lucumí'ye çevirdiği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-stoper-rotasi-degisti-bremerden-olumsuz-yanit-43252528"
+          "title": "UEFA Şampiyonlar Ligi'nde ikinci eleme turu rövanş maçları başlayacak",
+          "summary": "UEFA Şampiyonlar Ligi'nde ikinci eleme turu rövanş maçları, yarın başlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-sampiyonlar-liginde-ikinci-eleme-turu-rovans-maclari-baslayacak-43252931"
         }
       ]
     },
     "teknoloji": {
-      "text": "Google yapay zeka yarışında geriye mi düşüyor? CEO Pichai'den iddialara yanıt. Çinli teknoloji devinden gizemli ipucu, insansı robot modeli görücüye çıkabilir. Yapay zekada açık kaynak savaşı. Dev teknoloji şirketlerinden ortak bildiri. ChatGPT çöktü mü, neden açılmıyor? OpenAI doğruladı. Piyasaların kapasitesini sınıyorlar. Halka arzların hacmi ilk yarıda 194 milyar dolara ulaştı. OpenAI uyardı, yapay zeka ajanlarından benzeri görülmemiş siber saldırı. ABD ile Portekiz'i birbirine bağladılar: Google'dan yeni dev deniz altı kablosu.",
+      "text": "Yapay zeka değil, gerçek! Yeni robot herkesi şaşırttı. Google yapay zeka yarışında geriye mi düşüyor? CEO Pichai'den iddialara yanıt. Çinli teknoloji devinden gizemli ipucu, insansı robot modeli görücüye çıkabilir. Yapay zekada açık kaynak savaşı. Dev teknoloji şirketlerinden ortak bildiri. ChatGPT çöktü mü, neden açılmıyor? OpenAI doğruladı. Piyasaların kapasitesini sınıyorlar. Halka arzların hacmi ilk yarıda 194 milyar dolara ulaştı. OpenAI uyardı, yapay zeka ajanlarından benzeri görülmemiş siber saldırı.",
       "items": [
+        {
+          "title": "Yapay zeka değil, gerçek! Yeni robot herkesi şaşırttı",
+          "summary": "Unitree'nin geliştirdiği tekerlekli bacaklara sahip \"Süper Atlet\" robot, saatte 18 kilometrenin üzerinde hız yapabiliyor, zorlu arazilerde hareket edebiliyor ve 150 kilograma kadar yük taşıyabiliyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/video-yapay-zeka-degil-gercek-yeni-robot-herkesi-sasirtti-1734764"
+        },
         {
           "title": "Google yapay zeka yarışında geriye mi düşüyor? CEO Pichai'den iddialara yanıt",
           "summary": "Alphabet CEO'su Sundar Pichai, şirketin yapay zeka yarışında geride kaldığı yönündeki iddiaları ve Gemini 3.5 Pro modelinin gecikmesine yönelik yatırımcı kaygılarına yanıt verdi. Pichai, gelecekteki Gemini 4 modeli için neredeyse her ay yeni bir sürüm çıkaracakları bir yol haritası izleyeceklerini duyurdu. Alphabet Üst Yöneticisi (CEO) Sundar Pichai, çarşamba günü gerçekleştirilen finansal sonuç toplantısını Google'ın yapay zeka stratejisini savunmak için kullandı.",
@@ -195,11 +200,6 @@
           "title": "OpenAI uyardı, yapay zeka ajanlarından benzeri görülmemiş siber saldırı",
           "summary": "Otonom yapay zeka modellerinin kendi başlarına çevrimiçi bir kod kütüphanesine sızdıklarını açıklayan OpenAI, konu hakkında soruşturma başlattı. ChatGPT'nin geliştiricisi OpenAI, Salı günü yaptığı açıklamada, gelişmiş yapay zeka modellerinin güvenlik testleri sırasında kontrolden çıktığını ve programcılar tarafından en sık kullanılan platformlardan biri olan Hugging Face sistemine kendi başlarına sızdıklarını belirtti.",
           "source": "https://www.ntv.com.tr/teknoloji/openai-uyardi-yapay-zeka-ajanlarindan-benzeri-gorulmemis-siber-saldiri-1734045"
-        },
-        {
-          "title": "ABD ile Portekiz'i birbirine bağladılar: Google'dan yeni dev deniz altı kablosu",
-          "summary": "Teknoloji devi Google, bulut bilişim ve yapay zeka hizmetlerine yönelik artan talebi karşılamak amacıyla ABD ile Portekiz'i birbirine bağlayan yeni transatlantik deniz altı kablo hattının kurulumunu başarıyla tamamladı. Alphabet bünyesindeki teknoloji devi Google, bulut bilişim ve yapay zekâ hizmetlerine yönelik küresel talebin hızla artması üzerine, ABD ile Avrupa arasındaki veri rotalarına bir yenisini ekledi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-abd-ile-portekizi-birbirine-bagladilar-googledan-yeni-dev-deniz-alti-kablosu-1733950"
         }
       ]
     },
