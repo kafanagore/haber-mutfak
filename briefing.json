@@ -1,90 +1,90 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-26T16:00:02.922Z",
+  "generatedAt": "2026-07-27T04:00:03.051Z",
   "categories": {
     "gundem": {
-      "text": "Binlerce yıllık gelenek kadın emeğiyle direniyor. Çırak yetişmiyor, sadece birkaç usta kaldı. CHP'nin yeni grup başkanı belli oldu. Cumhurbaşkanı Erdoğan'dan A Milli Kadın Voleybol Takımı'na tebrik. Ümmü nine yıllardır tuvalet ve banyoya hasret yaşıyor. Utandığı için misafir kabul etmiyor. Kayseri’de beton mikserinin pompası patladı; 1 yaralı. Türkiye'nin yangın söndürme uçakları İspanya için havalandı. Rize'de yamaçtan kopan dev kayalar sahil yoluna düştü.",
+      "text": "Traktöre çarpıp alev aldı. 3 yaralı. 17 yaşındaki Mehmet, Hazar Gölü'nde boğuldu. Mersin'den acı haber. Denize giren 5 kişilik aileden 3'ü boğuldu, 1 çocuk kayıp. Mezarlık ziyaretinde silahlı saldırı. 3 kişi öldü, 2 yaralı. İş makinesiyle define kazısı yapan şüpheliler suçüstü yakalandı: 5 gözaltı. Seyir tepesindeki sır cinayetlerin nedeni belli oldu. 3 kişiyi öldürüp \"Pişmanım\" diyen şüpheli tutuklandı. Dışişleri Bakanı Fidan'dan İran diplomasisi.",
       "items": [
         {
-          "title": "Binlerce yıllık gelenek kadın emeğiyle direniyor. Çırak yetişmiyor, sadece birkaç usta kaldı",
-          "summary": "Manisa'nın Salihli ilçesinde kadınların binlerce yıllık ilkel yöntemlerle çömlek üretimi zamana direniyor. Çömlekler, gençlerin büyükşehirlere taşınması ve yeni çırak yetişmemesi nedeniyle son ustalarının ellerinde şekilleniyor. Gökeyüp Mahallesi'nde geleneksel yöntemlerle elle dövülerek ve şekillendirilerek yapılan çömlekler, Anadolu'nun en eski üretim tekniklerinden birini günümüze taşıyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-binlerce-yillik-gelenek-kadin-emegiyle-direniyor-cirak-yetismiyor-sadece-birkac-usta-kaldi-1734695"
+          "title": "Traktöre çarpıp alev aldı. 3 yaralı",
+          "summary": "Niğde- Kayseri karayolunda kamyonet, aynı yönde ilerlediği traktöre arkadan çarptıktan sonra alev aldı. Plakaları ve sürücüleri öğrenilemeyen kamyonet ile traktör, Niğde- Kayseri karayolu Hüyük mevkisinde çarpıştı. Çarpışmanın etkisiyle kamyonet alev aldı. İtfaiye ekiplerinin müdahalesiyle söndürülen yangında kamyonet kullanılamaz hale geldi. Kazada yaralanan 3 kişi, Niğde Ömer Halisdemir Üniversitesi Eğitim ve Araştırma Hastanesi'ne kaldırıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/traktore-carpip-alev-aldi-3-yarali-1734708"
         },
         {
-          "title": "CHP'nin yeni grup başkanı belli oldu",
-          "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun milletvekilleriyle yaptığı toplantıda Faik Öztrak, CHP'nin yeni grup başkanı seçildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/chpnin-yeni-grup-baskani-belli-oldu-43252497"
+          "title": "17 yaşındaki Mehmet, Hazar Gölü'nde boğuldu",
+          "summary": "Dün serinlemek için Hazar Gölü'ne girdikten sonra kaybolan 17 yaşındaki gencin cansız bedenine ulaşıldı. Dün, ailesi ile piknik yapmak için Diyarbakır'dan Elazığ merkeze bağlı Gölardı köyünün Hacı Ali mezrası mevkisine giden 17 yaşındaki Mehmet Ali Ateş, girdiği Hazar Gölü'nde bir süre sonra gözden kayboldu. Çevredekilerin ihbarı üzerine bölgeye Ulusal Medikal Kurtarma Ekibi, Emniyet Su Altı Grup Amirliği'ne bağlı dalgıçlar, sağlık, AFAD, Tunceli Jandarma Arama Kurtarma ve jandarma ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/17-yasindaki-mehmet-hazar-golunde-boguldu-1734707"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan A Milli Kadın Voleybol Takımı'na tebrik",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Milletler Ligi finalinde şampiyonluğa ulaşan A Millî Kadın Voleybol Takımı'nı tebrik etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-a-milli-kadin-voleybol-takimina-tebrik-43252490"
+          "title": "Mersin'den acı haber. Denize giren 5 kişilik aileden 3'ü boğuldu, 1 çocuk kayıp",
+          "summary": "Mersin'in Tarsus ilçesinde denize giren 5 kişilik aileden 3'ü boğuldu, 1'i hastaneye kaldırıldı, 1 çocuk ise kayboldu. Kulak Mahallesi sahilinden denize giren aile, bir süre sonra çırpınmaya başladı. Çevredekilerin ihbarı üzerine bölgeye sahil güvenlik, jandarma, polis ve sağlık ekipleri sevk edildi. Ekipler tarafından 4 kişi sudan çıkarıldı, 1 kişiye ise ulaşılamadı. Sağlık ekipleri, yaptıkları incelemede anne, baba ve annenin kız kardeşinin yaşamını yitirdiğini belirledi.",
+          "source": "https://www.ntv.com.tr/turkiye/mersinden-aci-haber-denize-giren-6-kisiden-3u-boguldu-1-cocuk-kayip-1734701"
         },
         {
-          "title": "Ümmü nine yıllardır tuvalet ve banyoya hasret yaşıyor. Utandığı için misafir kabul etmiyor",
-          "summary": "Aydın'da tek başına yaşayan 75 yaşındaki Ümmü Şahin adlı kadının hayat şartları görenlerin yüreklerini dağlıyor. Yaşlı kadının, yıllardır tuvalet ve banyosuz evde yaşamak zorunda kaldığı öğrenildi. Kocasını yaklaşık 20 yıl önce kaybeden ve oğlu da yıllar önce bir suçtan dolayı cezaevine giren Ümmü Şahin'in birkaç yıl önce kış yağmurlarında evinin bahçesindeki tuvalet ve banyo olarak kullandığı müştemilat yıkılınca, yıllardır tuvalet ve banyosuz evde yaşamak zorunda kaldığı öğrenildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ummu-nine-yillardir-tuvalet-ve-banyoya-hasret-yasiyor-utandigi-icin-misafir-kabul-etmiyor-1734691"
+          "title": "Mezarlık ziyaretinde silahlı saldırı. 3 kişi öldü, 2 yaralı",
+          "summary": "Batman’da, mezarlık ziyareti yapan gruba silahlı saldırı gerçekleştirildi. Husumetlilerinin saldırısına uğrayan aileden baba, oğlu ve yeğeni öldü, 1’i ağır 2 kişi yaralandı. Merkez Güneykent Mahallesi’ndeki Batman Asri Mezarlığı’nda ziyaret için bulunan gruba, aralarında henüz bilinmeyen nedenle husumet bulunan şüpheliler tarafından tabancalarla ateş açıldı. Saldırganlar olay yerinden kaçarken, ihbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-mezarlik-ziyaretinde-silahli-saldiri-3-kisi-oldu-2-yarali-1734702"
         },
         {
-          "title": "Kayseri’de beton mikserinin pompası patladı; 1 yaralı",
-          "summary": "Kayseri’de beton mikserinin pompasının patlaması sonucu üzerine harç dökülen 1 kişi yaralandı. Olayla ilgili soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-beton-mikserinin-pompasi-patladi-1-yarali-43252480"
+          "title": "İş makinesiyle define kazısı yapan şüpheliler suçüstü yakalandı: 5 gözaltı",
+          "summary": "Sakarya’nın Pamukova ilçesinde iş makinesi ile kaçak define kazısı yapan 5 şüpheli jandarma ekiplerinin düzenlediği operasyonla yakalanarak, gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/is-makinesiyle-define-kazisi-yapan-supheliler-sucustu-yakalandi-5-gozalti-43252652"
         },
         {
-          "title": "Türkiye'nin yangın söndürme uçakları İspanya için havalandı",
-          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, İspanya'nın destek talebi üzerine 2 yangın söndürme uçağı görevlendirdiklerini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiyenin-yangin-sondurme-ucaklari-ispanya-icin-havalandi-43252482"
+          "title": "Seyir tepesindeki sır cinayetlerin nedeni belli oldu. 3 kişiyi öldürüp \"Pişmanım\" diyen şüpheli tutuklandı",
+          "summary": "Adana'da 3 kişiyi tabancayla vurarak öldüren zanlı, çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi. Adana'da üç kişinin öldürüldüğü sır cinayet çözüldü. Olay, dün saat 23.00 sıralarında Çukurova ilçesi Kabasakal Mahallesi Rüzgarlı Tepe mevkisinde meydana geldi. Osman A., evinden otomobille aldığı Semra Yılmaz ile seyir tepesine gitti. Bir süre sohbet eden Osman A. ile Yılmaz'ın arasında henüz bilinmeyen bir nedenle tartışma çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-seyir-tepesindeki-sir-cinayetlerin-nedeni-belli-oldu-1734658"
         },
         {
-          "title": "Rize'de yamaçtan kopan dev kayalar sahil yoluna düştü",
-          "summary": "Rize'nin Pazar ilçesinden geçen Karadeniz Sahil Yolu'na yamaçtan kopan 2 dev kaya düştü. Dev kayalar iş makinesiyle yoldan kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/rizede-yamactan-kopan-dev-kayalar-sahil-yoluna-dustu-43252469"
+          "title": "Dışişleri Bakanı Fidan'dan İran diplomasisi",
+          "summary": "ABD ile İran arasındaki tırmanan gerilim, Ankara'nın yakın takibinde. Dışişleri Bakanı Hakan Fidan bu konuda telefon diplomasisi yürüttü. Diplomatik kaynakların verdiği bilgiye göre Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı El Sani ve Pakistan Genelkurmay Başkanı Mareşal Munir ile telefon görüşmeleri gerçekleştirdi. Görüşmelerde, İran ve ABD arasındaki müzakere süreci ele alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidandan-iran-diplomasisi-1734694"
         }
       ]
     },
     "dunya": {
-      "text": "ABD ile İran arasında yeniden ateşkes mi? ABD saldırıları, İran misillemeleri durdurdu. Dışişleri Bakanı Hakan Fidan'dan Orta Doğu'da barış diplomasisi. İspanya'da 4.4 büyüklüğünde deprem. Rus İHA'sı Romanya'yı karıştırdı: F-16'lar havalandı. Hürmüz Boğazı'nda mayına çarpan tankerde patlama. Fransa alevlere teslim: 55 bin kişi tahliye edildi. Fransa orman yangınlarıyla boğuşuyor. \"Her şeye hazırlıklıyız\".",
+      "text": "Brezilya ile Arjantin arasında Milei krizi. Suriye Devlet Başkanı Ahmed eş-Şara. \"İsrail ile güvenlik anlaşması yapmayı amaçlıyoruz\". ABD ile İran arasında yeniden ateşkes mi? ABD saldırıları, İran misillemeleri durdurdu. Arap Birliği'nden Trump'a İsrail çağrısı. \"İşgal ve ihlalleri durdur\". İran'dan Ukrayna'ya uyarı. \"Gemi saldırısı cevapsız kalmayacak\". Gazze için kritik karar. İsrail, Uluslararası İstikrar Gücü’nün girişini onayladı. Elbruz Dağı'nda kar fırtınası faciası: 5 dağcı hayatını kaybetti.",
       "items": [
         {
+          "title": "Brezilya ile Arjantin arasında Milei krizi",
+          "summary": "Arjantin'in Donald Trump hayranı aşırı sağcı Devlet Başkanı Javier Milei’nin Brezilya'da katıldığı seçim mitinginde yaptığı konuşma iki ülke arasında diplomatik kriz çıkardı. Brezilya'da darbe girişimi iddiasıyla tutuklanan eski Devlet Başkanı Jair Bolsonaro'nun oğlu Flavio Bolsonaro, Liberal Parti'nin yeni adayı oldu. Bolsonaro'nun adaylığı, Sao Paulo kentindeki Pacaembu Stadyumu'nda düzenlenen mitingle duyuruldu.",
+          "source": "https://www.ntv.com.tr/dunya/brezilya-ile-arjantin-arasinda-milei-krizi-1734709"
+        },
+        {
+          "title": "Suriye Devlet Başkanı Ahmed eş-Şara. \"İsrail ile güvenlik anlaşması yapmayı amaçlıyoruz\"",
+          "summary": "Suriye Devlet Başkanı Ahmed Şara, İsrail ile bir güvenlik anlaşmasına varmak için çalıştıklarını söyledi. Şara ayrıca, bölgenin İsrail ile İran hırsları arasında seçim yapmaya zorlanmaması gerektiğini vurguladı.",
+          "source": "https://www.ntv.com.tr/dunya/suriye-devlet-baskani-ahmed-es-sara-israil-ile-guvenlik-anlasmasi-yapmayi-amacliyoruz-1734705"
+        },
+        {
           "title": "ABD ile İran arasında yeniden ateşkes mi? ABD saldırıları, İran misillemeleri durdurdu",
-          "summary": "ABD, son iki gecedir İran'a saldırılarını durdururken, İran'dan da bu nedenle misilleme saldırılarını durdurdukları açıklaması geldi. İRAN: ABD SALDIRILARI DURDURUNCA, BİZ DE MİSİLLEMEYİ DURDURDUK ABD Merkez Komutanlığı cumartesi günü yaptığı açıklamada İran’a yönelik deniz ablukasının \"tam kapasiteyle yürürlükte kaldığını\" duyurdu, ancak tırmanan 13 gecelik saldırı dalgasının neden durdurulduğuna ilişkin ayrıntı vermedi.",
+          "summary": "ABD, son iki gecedir İran'a saldırılarını durdururken, İran'dan da bu nedenle misilleme saldırılarını durdurdukları açıklaması geldi. Ayrıca, Pakistan ve Katar aracılığıyla ABD ile aktif mesaj alışverişinin sürdüğü belirtildi. İRAN: ABD SALDIRILARI DURDURUNCA, BİZ DE MİSİLLEMEYİ DURDURDUK ABD Merkez Komutanlığı cumartesi günü yaptığı açıklamada İran’a yönelik deniz ablukasının \"tam kapasiteyle yürürlükte kaldığını\" duyurdu, ancak tırmanan 13 gecelik saldırı dalgasının neden durdurulduğuna ilişkin ayrıntı vermedi.",
           "source": "https://www.ntv.com.tr/dunya/galeri-abd-ile-iran-arasinda-yeniden-ateskes-mi-son-24-saatte-yasananlar-1734586"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan'dan Orta Doğu'da barış diplomasisi",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ile Pakistan Savunma Kuvvetleri Komutanı ve Kara Kuvvetleri Komutanı Mareşal Asim Munir'le ayrı ayrı telefonda görüştü.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-orta-doguda-baris-diplomasisi-43252488"
+          "title": "Arap Birliği'nden Trump'a İsrail çağrısı. \"İşgal ve ihlalleri durdur\"",
+          "summary": "Arap Birliği, Orta Doğu'daki durumun \"tehlikeli bir patlama noktasına\" doğru ilerlediği uyarısında bulunarak, ABD Başkanı Donald Trump'a İsrail’in Gazze, işgal altındaki Kudüs ile Batı Şeria'daki ihlallerini durdurma çağrısında bulundu. Arap Birliği'nden yapılan açıklamaya göre Genel Sekreter Fehmi, Filistin meselesinde yaşanan tıkanıklık ve Körfez krizindeki tırmanış nedeniyle bölgedeki şartların son derece tehlikeli bir sürece girdiğini ve çok yönlü bir patlama noktasına ilerlediğini belirtti.",
+          "source": "https://www.ntv.com.tr/dunya/arap-birliginden-trumpa-israil-cagrisi-isgal-ve-ihlalleri-durdur-1734706"
         },
         {
-          "title": "İspanya'da 4.4 büyüklüğünde deprem",
-          "summary": "İspanya'nın Granada kenti yakınlarında 4.4 büyüklüğünde deprem meydana geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ispanyada-4-4-buyuklugunde-deprem-43252428"
+          "title": "İran'dan Ukrayna'ya uyarı. \"Gemi saldırısı cevapsız kalmayacak\"",
+          "summary": "İran Dışişleri Bakanı Abbas Arakçi, Ukrayna'nın Hazar Denizi'nde İran gemisine düzenlediği saldırıya ilişkin, söz konusu eylemin cevapsız kalmayacağını söyledi. Arakçi, sosyal medya platformundaki hesabından konuya ilişkin açıklama yaptı. İranlı Bakan, Avrupa Birliği Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kallas ve Rusya Dışişleri Bakanı Sergev Lavrov ile yaptığı telefon görüşmesinde Ukrayna tarafından hedef alınan İran gemisi hakkında konuştuğunu belirtti.",
+          "source": "https://www.ntv.com.tr/dunya/irandan-ukraynaya-uyari-gemi-saldirisi-cevapsiz-kalmayacak-1734703"
         },
         {
-          "title": "Rus İHA'sı Romanya'yı karıştırdı: F-16'lar havalandı",
-          "summary": "Romanya hava sahasını ihlal eden bir insansız hava aracı (İHA) daha ülkenin hava kuvvetlerine ait F-16 savaş uçağı tarafından düşürüldü. Romanya, Rusya'ya ait olduğu öne sürülen İHA'nın ihlalini kabul edilemez olarak niteledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rus-ihasi-romanyayi-karistirdi-f-16lar-havalandi-43252223"
+          "title": "Gazze için kritik karar. İsrail, Uluslararası İstikrar Gücü’nün girişini onayladı",
+          "summary": "İsrail güvenlik kabinesinde yapılan oylama sonucunda Gazze Şeridi'nde görev yapması planlanan Uluslararası İstikrar Gücü'nün bölgeye girişine onay verildi. İsrailli bir askeri yetkili, istikrar gücünün yaklaşık 200 personelden oluşmasının beklendiğini açıkladı. İsrail güvenlik kabinesi, bölgede sağlanan ateşkes anlaşmasına ilişkin gündem maddelerini ele almak üzere toplandı.",
+          "source": "https://www.ntv.com.tr/dunya/israil-uluslararasi-istikrar-gucunun-gazzeye-girisini-onayladi-1734700"
         },
         {
-          "title": "Hürmüz Boğazı'nda mayına çarpan tankerde patlama",
-          "summary": "İran'ın Tasnim haber ajansı, Hürmüz Boğazı'nda İran tarafından belirlenen rotanın dışına çıkan bir petrol tankerinin deniz mayınına çarparak patladığını bildirdi. İran'ın yarı resmi Tasnim haber ajansı, son saatlerde geçtiği haberde, bir petrol tankerinin Hürmüz Boğazı'nda deniz mayınına çarpması sonucu patladığını duyurdu. Ajans, tankerin stratejik su yolunda İran tarafından belirlenmiş rotadan çıkmasının ardından mayına çarptığını kaydetti.",
-          "source": "https://www.ntv.com.tr/dunya/hurmuz-bogazinda-mayina-carpan-tankerde-patlama-1734679"
-        },
-        {
-          "title": "Fransa alevlere teslim: 55 bin kişi tahliye edildi",
-          "summary": "Fransa'nın güneybatısındaki Gironde bölgesinde günlerdir devam eden orman yangınına müdahale çalışmaları sürüyor. Bu arada, Gironde vilayetine bağlı Bordeaux kentinde yangınlar sürerken çok sayıda kasaba tahliye edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransa-alevlere-teslim-55-bin-kisi-tahliye-edildi-43252360"
-        },
-        {
-          "title": "Fransa orman yangınlarıyla boğuşuyor. \"Her şeye hazırlıklıyız\"",
-          "summary": "Fransa ve İspanya'da kontrol altına alınamayan orman yangınları nedeniyle 300 binden fazla kişi tahliye edilirken alevler Bordeaux kentine yaklaştı. Tarihi bir krizle karşı karşıya kalan her iki ülkede de itfaiye ekipleri rüzgar ve aşırı sıcaklar nedeniyle zor anlar yaşıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-orman-yanginlariyla-bogusuyor-her-seye-hazirlikliyiz-1734668"
+          "title": "Elbruz Dağı'nda kar fırtınası faciası: 5 dağcı hayatını kaybetti",
+          "summary": "Rusya'daki Elbruz Dağı'nda şiddetli kar fırtınası ve rüzgar nedeniyle 5 Boşnak dağcının hayatını kaybettiği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/elbruz-daginda-kar-firtinasi-faciasi-5-dagci-hayatini-kaybetti-43252597"
         }
       ]
     },
     "ekonomi": {
-      "text": "Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli. Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek.",
+      "text": "Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli. Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı. Üreticiye can suyu.",
       "items": [
         {
           "title": "Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli",
@@ -117,49 +117,49 @@
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/yeni-pazar-arayisi-43245226"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan bugün Ukrayna'yı ziyaret edecek",
-          "summary": "Dışişleri Bakanı Hakan Fidan'ın bugün Ukrayna'ya ziyarette bulunacağı bildirildi. Ziyaretinde Karadeniz'in güvenliğini vurgulaması beklenen Fidan'ın Ukrayna Devlet Başkanı Volodimir Zelenski ve Ukraynalı yetkililerle bir araya geleceği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-bugun-ukraynayi-ziyaret-edecek-43240299"
+          "title": "Üreticiye can suyu",
+          "summary": "DENİZLİ Büyükşehir Belediyesi’nin yerel üreticileri ekonomik olarak desteklemek ve hayvansal üretimin sürdürülebilirliğine katkı sağlamak amacıyla başlattığı yem desteği projesi bu yıl da başarıyla tamamlandı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ureticiye-can-suyu-43240178"
         }
       ]
     },
     "spor": {
-      "text": "Filenin Sultanları zaferi gözyaşlarıyla kutladı! 'Gururluyuz, biz çok büyüğüz!'. Galatasaray'da Okan Buruk'tan 10 numara transferi için açıklama!. Bakan Bak, Milletler Ligi şampiyonu A Milli Kadın Voleybol Takımı'nı kutladı. Bakan Ersoy’dan Filenin Sultanları’na şampiyonluk tebriği. Galatasaray'da Barış Alper Yılmaz'dan transfer açıklaması: 'Bir teklif gelirse kulübümle birlikte değerlendiririz!'. Edin Dzeko'nun geleceği belli oldu!. Çaykur Rizespor Papanikolaou ile yollarını ayırdı!.",
+      "text": "Galatasaray'dan Jamal Musiala açıklaması! 'Transfer bitti' iddiaları olay olmuştu. Fenerbahçe'de Rafael Leao operasyonu! Transfer için Milano'ya gidiliyor. Arda Turan'ın Shakhtar'ı ile Bursaspor yenişemedi!. Fenerbahçe, Gornik Zabrze maçı hazırlıklarını sürdürdü!. Sivasspor, Kayserispor'u tek golle yendi!. Fatih Tekke: 'Kolay bir süreç değil!'. Galatasaray'da stoper rotası değişti! Bremer'den olumsuz yanıt.",
       "items": [
         {
-          "title": "Filenin Sultanları zaferi gözyaşlarıyla kutladı! 'Gururluyuz, biz çok büyüğüz!'",
-          "summary": "A Milli Kadın Voleybol Takımı, 2026 FIVB Kadınlar Voleybol Milletler Ligi finalinde Brezilya'yı 3-1 mağlup ederek şampiyon oldu. Dev zafer sonrası başantrenör Daniele Santarelli ve oyuncular açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-zaferi-gozyaslariyla-kutladi-santarelliden-dikkat-ceken-aciklama-43252481"
+          "title": "Galatasaray'dan Jamal Musiala açıklaması! 'Transfer bitti' iddiaları olay olmuştu",
+          "summary": "Galatasaray, Bayern Münih’in yıldız futbolcusu Jamal Musiala’yı kiralık olarak kadrosuna katmak için önemli mesafe kat ettiği yönünde çıkan haberleri jet hızında yalanladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-jamal-musiala-aciklamasi-transfer-bitti-iddialari-olay-olmustu-43252656"
         },
         {
-          "title": "Galatasaray'da Okan Buruk'tan 10 numara transferi için açıklama!",
-          "summary": "Galatasaray Teknik Direktörü Okan Buruk, transfer çalışmaları, yeni sezon hedefleri ve takımın kadro planlamasına ilişkin açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-okan-buruktan-10-numara-transferi-icin-aciklama-43252415"
+          "title": "Fenerbahçe'de Rafael Leao operasyonu! Transfer için Milano'ya gidiliyor",
+          "summary": "Fenerbahçe'nin Milan'ın yıldızı Rafael Leao için yeniden harekete geçtiği öne sürüldü. Sarı-lacivertlilerin, transferin şartlarını görüşmek üzere gelecek hafta İtalya'ya gideceği iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-rafael-leao-operasyonu-transfer-icin-milanoya-gidiliyor-43252626"
         },
         {
-          "title": "Bakan Bak, Milletler Ligi şampiyonu A Milli Kadın Voleybol Takımı'nı kutladı",
-          "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2026 FIVB Milletler Ligi'nde (VNL) şampiyonluğa ulaşan A Milli Kadın Voleybol Takımı'nı yayımladığı mesajla tebrik etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bakan-bak-milletler-ligi-sampiyonu-a-milli-kadin-voleybol-takimini-kutladi-43252457"
+          "title": "Arda Turan'ın Shakhtar'ı ile Bursaspor yenişemedi!",
+          "summary": "Trendyol 1. Lig ekiplerinden Bursaspor, teknik direktörlüğünü Arda Turan'ın yaptığı Ukrayna ekibi Shakhtar Donetsk ile oynadığı hazırlık maçında 0-0 berabere kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-turanin-shakhtari-ile-bursaspor-yenisemedi-43252598"
         },
         {
-          "title": "Bakan Ersoy’dan Filenin Sultanları’na şampiyonluk tebriği",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, FIVB Milletler Ligi’nde şampiyonluğa ulaşan A Millî Kadın Voleybol Takımı’nı sosyal medya hesabından yayımladığı mesajla kutladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bakan-ersoydan-filenin-sultanlarina-sampiyonluk-tebrigi-43252447"
+          "title": "Fenerbahçe, Gornik Zabrze maçı hazırlıklarını sürdürdü!",
+          "summary": "Fenerbahçe, Polonya temsilcisi Gornik Zabrze ile deplasmanda oynayacağı UEFA Şampiyonlar Ligi 2. Eleme Turu rövanş maçının hazırlıklarını akşam saatlerinde yaptığı antrenmanla sürdürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-gornik-zabrze-maci-hazirliklarini-surdurdu-43252586"
         },
         {
-          "title": "Galatasaray'da Barış Alper Yılmaz'dan transfer açıklaması: 'Bir teklif gelirse kulübümle birlikte değerlendiririz!'",
-          "summary": "Galatasaray'ın başarılı oyuncusu Barış Alper Yılmaz, yeni sezon hazırlıklarından Okan Buruk'a, Mauro Icardi'den transfer iddialarına kadar birçok konuda açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-baris-alper-yilmazdan-transfer-aciklamasi-bir-teklif-gelirse-kulubumle-birlikte-degerlendiririz-43252390"
+          "title": "Sivasspor, Kayserispor'u tek golle yendi!",
+          "summary": "Kayserispor, hazırlık maçında Sivasspor'a 1-0 mağlup oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sivasspor-kayserisporu-tek-golle-yendi-43252583"
         },
         {
-          "title": "Edin Dzeko'nun geleceği belli oldu!",
-          "summary": "Geçen sezonu Schalke'de tamamlayan Edin Dzeko'nun kontratı sona ermişti. Serbest oyuncusu statüsünde olan 40 yaşındaki oyuncunun, Schalke ile yeni bir anlaşma imzalamaya yakın olduğu öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/edin-dzekonun-gelecegi-belli-oldu-43252351"
+          "title": "Fatih Tekke: 'Kolay bir süreç değil!'",
+          "summary": "Avusturya kampında oynadığı ilk hazırlık maçında Almanya'nın Eintracht Frankfurt takımına 3-0 mağlup olan Trabzonspor'un teknik direktörü Fatih Tekke, \"Bugün de ben bütün oynayan oyuncularımdan gayet mutluyum. Gayet iyiydi çünkü penaltı haricinde iki tane şanssız gol yedik.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-kolay-bir-surec-degil-43252557"
         },
         {
-          "title": "Çaykur Rizespor Papanikolaou ile yollarını ayırdı!",
-          "summary": "Çaykur Rizespor, orta saha oyuncusu Ioannis Papanikolaou ile yollarını ayırdığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/caykur-rizespor-papanikolaou-ile-yollarini-ayirdi-43252290"
+          "title": "Galatasaray'da stoper rotası değişti! Bremer'den olumsuz yanıt",
+          "summary": "Stoper transferinde Bremer'den istediği yanıtı alamayan Galatasaray'ın rotasını Bologna'nın Kolombiyalı savunmacısı John Lucumí'ye çevirdiği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-stoper-rotasi-degisti-bremerden-olumsuz-yanit-43252528"
         }
       ]
     },
