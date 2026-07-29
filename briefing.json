@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-29T04:00:02.976Z",
+  "generatedAt": "2026-07-29T16:00:03.029Z",
   "categories": {
     "gundem": {
-      "text": "Ankara'da dolunay manzaraları. İzmir ve Antalya'da orman yangını. Gece olunca hava desteği durdu. Bakan Yumaklı'dan şiddetli rüzgar uyarısı. \"Bir kıvılcım felakete neden olur\". Kayseri’de alev alan elektrikli araç bomba gibi patladı... O anlar kamerada. Yangın haberleri peş peşe geldi... Müdahale sürüyor. Şarj istasyonunda elektrikli otomobil alev aldı. Yangın battaniyesi ile müdahale. Elektrikli araç yangınına profesyonel müdahale.",
+      "text": "Futbolda yeni sezon öncesi kritik toplantı: Sanal devriyeler artacak. Burdur’da CHP Ağlasun ilçe yönetimi istifa etti. İstiklal Caddesi'nde alışveriş merkezinde yangın. İçecek fabrikasında patlama: 2 işçi hayatını kaybetti. 5. İstanbul Festivali 1 Ağustos'ta başlayacak. Cumhurbaşkanlığı Kabinesi toplandı. Bungalov havuzunda boğulma tehlikesi geçiren Miraç, 42 gün sonra hayatını kaybetti.",
       "items": [
         {
-          "title": "Ankara'da dolunay manzaraları",
-          "summary": "Türkiye genelinde görsel şölen oluşturan dolunay, Ankara'da Anıtkabir ve Kocatepe Camisi ile birlikte görüntülendi. Ankara'da akşam saatlerinde beliren dolunay, Anıtkabir ile güzel görüntüler oluşturdu. Dolunay ayrıca Kocatepe Camisi ile birlikte görüntülendi. İşte Ankara'dan dolunay manzaraları…",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ankarada-dolunay-manzaralari-1735012"
+          "title": "Futbolda yeni sezon öncesi kritik toplantı: Sanal devriyeler artacak",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, 2026-2027 futbol sezonu öncesinde düzenlenen Spor Güvenliği Değerlendirme Toplantısı’nda yeni sezonda uygulanacak tedbirlerin ele alındığını açıkladı. Toplantı, İçişleri Bakanı Mustafa Çiftçi’nin yanı sıra Adalet Bakanı Akın Gürlek ve Gençlik ve Spor Bakanı Osman Aşkın Bak’ın katılımıyla gerçekleştirildi. Toplantıya 81 ilin valileri ile ilgili kurumların yöneticileri de katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/futbolda-yeni-sezon-oncesi-kritik-toplanti-sanal-devriyeler-artirilacak-1735147"
         },
         {
-          "title": "İzmir ve Antalya'da orman yangını. Gece olunca hava desteği durdu",
-          "summary": "Antalya'nın Kaş ilçesinden dün sabahın erken saatlerinde başlayan orman yangını devam ediyor. Havanın kararmasıyla havadan müdahale sona ererken, ekiplerin karadan müdahalesi aralıksız sürüyor. İzmir'in Menemen ilçesinde de makilik alanda yangın çıktı. Antalya'nın Kaş ilçesi Üzümlü Mahallesi’ndeki ormanlık alanda yangın, dün sabaha karşı 06.00'da başladı. Yangına 3 uçak, 8 helikopter, 18 arazöz, iş makineleri ve 135 personelle müdahalede bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-antalya-kasta-orman-yangini-suruyor-gece-olunca-hava-destegi-durdu-1735002"
+          "title": "Burdur’da CHP Ağlasun ilçe yönetimi istifa etti",
+          "summary": "Burdur’da CHP Ağlasun ilçe yönetimi, istifa ettiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/burdurda-chp-aglasun-ilce-yonetimi-istifa-etti-43255822"
         },
         {
-          "title": "Bakan Yumaklı'dan şiddetli rüzgar uyarısı. \"Bir kıvılcım felakete neden olur\"",
-          "summary": "Bu hafta başta kıyı kesimler olmak üzere birçok ilde şiddetli rüzgar etkili olacak. Bu kapsamda Tarım ve Orman Bakanı İbrahim Yumaklı'dan vatandaşlara orman yangını uyarısı geldi. Tarım ve Orman Bakanı İbrahim Yumaklı, bu hafta pek çok ilde beklenen şiddetli rüzgar nedeniyle çıkabilecek yangınlara karşı vatandaşlara azami hassasiyet çağrısında bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-yumaklidan-siddetli-ruzgar-uyarisi-bir-kivilcim-felakete-neden-olur-1735010"
+          "title": "İstiklal Caddesi'nde alışveriş merkezinde yangın",
+          "summary": "Taksim İstiklal Caddesi'ndeki alışveriş merkezinde bulunan lokantanın bacasında yangın çıktı. İhbar üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi. Alışveriş merkezinin içindeki kişiler tahliye edilirken, ekiplerin yangına müdahalesi sürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/istiklal-caddesinde-alisveris-merkezinde-yangin-43255818"
         },
         {
-          "title": "Kayseri’de alev alan elektrikli araç bomba gibi patladı... O anlar kamerada",
-          "summary": "Kayseri’nin Melikgazi ilçesinde şarj olduğu sırada alev alan elektrikli SUV tarzı araç itfaiye ekiplerinin müdahalesi sırasında bomba gibi patladı. Olayda yaralanan olmazken, yangın ekiplerin uzun süreli çalışmaları sonucu söndürülürken, patlama anı bir vatandaşın cep telefonu kamerası tarafından anbean kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-alev-alan-elektrikli-arac-bomba-gibi-patladi-o-anlar-kamerada-43254855"
+          "title": "İçecek fabrikasında patlama: 2 işçi hayatını kaybetti",
+          "summary": "Kırklareli'nde bir içecek üretim fabrikasında meydana gelen patlamada 2 işçi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/icecek-fabrikasinda-patlama-2-isci-hayatini-kaybetti-43255751"
         },
         {
-          "title": "Yangın haberleri peş peşe geldi... Müdahale sürüyor",
-          "summary": "Antalya'nın Kaş ilçesinde çıkan orman yangınına ekiplerin karadan müdahalesi akşam saatlerinde de devam ediyor. Manisa'nın Kula ilçesinde de gece saatlerinde makilik alanda çıkan yangında yaklaşık 400 dönüm alan zarar gördü. İzmir'in Menemen ilçesinde ise makilik alanda çıkan yangına Orman Bölge müdürlü ve itfaiye ekipleri ile polis ekipleri TOMA’larla müdahale başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yangin-haberleri-pes-pese-geldi-mudahale-suruyor-43254854"
+          "title": "5. İstanbul Festivali 1 Ağustos'ta başlayacak",
+          "summary": "Dünyaca ünlü isimlerin sahne alacağı, Focus İstanbul Etkinlik Yönetimi tarafından bu yıl beşincisi düzenlenen \"İstanbul Festivali\", deneyim alanları ve konserleriyle 1 Ağustos’ta Festival Park Yenikapı'da başlayacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/5-istanbul-festivali-1-agustosta-baslayacak-43255748"
         },
         {
-          "title": "Şarj istasyonunda elektrikli otomobil alev aldı. Yangın battaniyesi ile müdahale",
-          "summary": "Kayseri’de şarj istasyonundayken henüz belirlenemeyen nedenle alev alıp, patlamanın meydana geldiği otomobil, itfaiye ekiplerinin yangın battaniyesi ile yaptığı müdahale sonucu söndürüldü. Melikgazi ilçesi Hürriyet Mahallesi Şehit Miralay Nazım Bey Bulvarı’nda bir elektrikli araç şarj istasyonunda alev aldı. İhbar üzerine bölgeye itfaiye ve polis ekipleri sevk edildi. İtfaiye ekipleri, alevler içindeki elektrikli otomobilin üzerine yangın battaniyesi örterek, altından su ile müdahale etti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-sarj-istasyonunda-elektrikli-otomobil-alev-aldi-yangin-battaniyesi-ile-mudahale-1735007"
+          "title": "Cumhurbaşkanlığı Kabinesi toplandı",
+          "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında Cumhurbaşkanlığı Külliyesi'nde toplandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskanligi-kabinesi-toplandi-43255710"
         },
         {
-          "title": "Elektrikli araç yangınına profesyonel müdahale",
-          "summary": "Kayseri’de şarj istasyonundayken henüz belirlenemeyen nedenle alev alıp, patlamanın meydana geldiği otomobil, itfaiye ekiplerinin yangın battaniyesi ile yaptığı müdahale sonucu söndürüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/video-elektrikli-arac-yanginina-profesyonel-mudahale-1735008"
+          "title": "Bungalov havuzunda boğulma tehlikesi geçiren Miraç, 42 gün sonra hayatını kaybetti",
+          "summary": "Sakarya'nın Sapanca ilçesinde bungalov tesisindeki havuzda boğulma tehlikesi geçiren Miraç Akdeniz (5), 42 gündür tedavi gördüğü hastanede hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bungalov-havuzunda-bogulma-tehlikesi-geciren-mirac-42-gun-sonra-hayatini-kaybetti-43255683"
         }
       ]
     },
     "dunya": {
-      "text": "Trump, Ukrayna Devlet Başkanı Zelenski ile Beyaz Saray'da görüştü. Yunanistan'da Temmuz sonunda kar yağdı. Rüzgarın hızı 100 kilometreye ulaştı. ABD-İran arasında sessizlik bozuldu. İran'dan ABD üssüne füze saldırısı. ABD ve Suudi Arabistan Irak'ta İran destekli gruplara ait hedeflere hava saldırıları düzenledi. İsrail ordusunda iki kadın asker intihar etti. Netanyahu, Trump ile \"mükemmel\" bir görüşme gerçekleştirdiğini savundu. İran’dan Hürmüz Boğazı için öneri... Garibabadi: Kabul edilmezse kapalı kalacak.",
+      "text": "İsrail'in Gazze'ye saldırılarında acı bilanço… 2 bin 276 aile nüfus kayıtlarından silindi. NATO'dan \"Türk Yıldızları\" paylaşımı: Keskin kanatlar. Irak basınından Cumhurbaşkanı Erdoğan'ın Ankara'daki görüşmesine özel ilgi. Netanyahu'nun ABD Başkan Yardımcısı Vance ile görüştüğü bildirildi. Yemek yediğiniz saat beyin sağlığını etkileyebilir. Akıllı klozet kapağı kalp ritim bozukluğunu tespit edebilir. Elektronik sigara sanıldığı kadar masum değil.",
       "items": [
         {
-          "title": "Trump, Ukrayna Devlet Başkanı Zelenski ile Beyaz Saray'da görüştü",
-          "summary": "ABD Başkanı Donald Trump, Cumhuriyetçi Senatör Lindsey Graham'ın cenaze törenine katılmak üzere Washington'a gelen Ukrayna Devlet Başkanı Volodimir Zelenski ile Beyaz Saray'da görüştü. ABD basınına konuşan Zelenski ABD'den Patriot füzeleri izninin çıktığını söyledi. Beyaz Saray'dan yapılan açıklamaya göre, Trump ile Zelenskiy arasındaki basına kapalı görüşme, yerel saatle 09.47'de başladı ve yaklaşık bir saat sürdü.",
-          "source": "https://www.ntv.com.tr/dunya/trump-ukrayna-devlet-baskani-zelenski-ile-beyaz-sarayda-gorustu-1735001"
+          "title": "İsrail'in Gazze'ye saldırılarında acı bilanço… 2 bin 276 aile nüfus kayıtlarından silindi",
+          "summary": "İsrail'in Gazze Şeridi'nde Ekim 2023'ten bu yana devam eden saldırıları sonucu Filistinli 2 bin 276 ailenin nüfus kayıtlarından tamamen silindiği ve 60 bin 737 çocuğun yetim veya öksüz kaldığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilin-gazzeye-saldirilarinda-aci-bilanco-2-bin-276-aile-nufus-kayitlarindan-silindi-43255831"
         },
         {
-          "title": "Yunanistan'da Temmuz sonunda kar yağdı. Rüzgarın hızı 100 kilometreye ulaştı",
-          "summary": "Avrupa'da aşırı sıcaklar etkili olurken, komşu Yunanistan'da ise yağmur ve kar vardı. Atina'daki Parthenon tapınağında etkili olan fırtına sebebiyle hava birkaç dakika içinde değişti. Aniden bastıran fırtına sebebiyle turistler arasında kısa süreli panik yaşandı. Rüzgar hızı saatte 100 kilometreye ulaşırken, o anlar cep telefonu kameralarına yansıdı. Yunanistan'daki aşırı hava olayları bununla da sınırlı kalmadı. 2 bin 648 metrelik Olimpos dağında da temmuz sonunda kar yağdı.",
-          "source": "https://www.ntv.com.tr/dunya/video-yunanistanda-temmuz-sonunda-kar-yagdi-ruzgarin-hizi-100-kilometreye-ulasti-1735013"
+          "title": "NATO'dan \"Türk Yıldızları\" paylaşımı: Keskin kanatlar",
+          "summary": "NATO, Türk Yıldızları'nın Cumhurbaşkanı Recep Tayyip Erdoğan'ın ABD Başkanı Donald Trump'ı karşıladığı anda yaptığı selamlama uçuşunu \"Keskin Kanatlar\" ifadesiyle paylaştı.",
+          "source": "https://www.hurriyet.com.tr/dunya/natodan-turk-yildizlari-paylasimi-keskin-kanatlar-43255824"
         },
         {
-          "title": "ABD-İran arasında sessizlik bozuldu. İran'dan ABD üssüne füze saldırısı",
-          "summary": "ABD ile İran arasında saldırısız günler sona erdi. İran Ürdün'de ABD üssüne balistik füze ile saldırdığını duyurdu. ABD, saldırılara yanıt olarak Irak'ta İran yanlısı grupları vurdu. İran Devrim Muhafızları Ordusu, ayrıca Ürdün'deki bir ABD hava üssü ile ABD Merkez Kuvvetler Komutanlığının (CENTCOM) bulunduğu merkezin çok sayıda balistik füzeyle hedef alındığını duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/abd-iran-arasinda-sessizlik-bozuldu-irandan-abd-ussune-fuze-saldirisi-1735003"
+          "title": "Irak basınından Cumhurbaşkanı Erdoğan'ın Ankara'daki görüşmesine özel ilgi",
+          "summary": "Irak basını, Cumhurbaşkanı Recep Tayyip Erdoğan ile resmi temaslarda bulunmak üzere Ankara'ya gelen Irak Başbakanı Ali Falih Zeydi'nin görüşmelerine geniş yer ayırırken, Kalkınma Yolu Projesi'ni ön plana çıkardı.",
+          "source": "https://www.hurriyet.com.tr/dunya/irak-basinindan-cumhurbaskani-erdoganin-ankaradaki-gorusmesine-ozel-ilgi-43255801"
         },
         {
-          "title": "ABD ve Suudi Arabistan Irak'ta İran destekli gruplara ait hedeflere hava saldırıları düzenledi",
-          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), ABD ve Suudi Arabistan silahlı kuvvetlerinin Irak'ın doğusunda İran destekli gruplara ait hedeflere hava saldırıları düzenlediğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-ve-suudi-arabistan-irakta-iran-destekli-gruplara-ait-hedeflere-hava-saldirilari-duzenledi-43254851"
+          "title": "Netanyahu'nun ABD Başkan Yardımcısı Vance ile görüştüğü bildirildi",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, \"İsrail hükümeti tarafından fonlanan kişilerin\" kendisine saldırdığını söyleyen ABD Başkan Yardımcısı JD Vance ile Washington'da görüştüğü belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-abd-baskan-yardimcisi-vance-ile-gorustugu-bildirildi-43255784"
         },
         {
-          "title": "İsrail ordusunda iki kadın asker intihar etti",
-          "summary": "İsrail ordusunda bu hafta iki kadın askerin intihar etmesiyle, yılbaşından bu yana muvazzaf askerler arasında hayatına son verenlerin sayısı 16’ya çıktı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusunda-iki-kadin-asker-intihar-etti-43254768"
+          "title": "Yemek yediğiniz saat beyin sağlığını etkileyebilir",
+          "summary": "Yeni bir araştırma, yemek yeme süresini günde 8-9 saatle sınırlayıp yatmadan en az 4 saat önce yemeği bırakmanın, 50 yaş üzerindeki kişilerde hafıza, dikkat ve problem çözme becerilerini destekleyebileceğini ortaya koydu.",
+          "source": "https://www.hurriyet.com.tr/dunya/yemek-yediginiz-saat-beyin-sagligini-etkileyebilir-43255758"
         },
         {
-          "title": "Netanyahu, Trump ile \"mükemmel\" bir görüşme gerçekleştirdiğini savundu",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump ile \"mükemmel\" bir görüşme gerçekleştirdiğini söyledi. Başbakan Netanyahu, görüşme sonrası yayımladığı video mesajda, Trump'la şimdiye kadar en iyi görüşmelerinden birini yaptığını ileri sürdü. Netanyahu, \"Tam bir işbirliği, karşılıklı destek ve İran'ın nükleer silah sahibi olmaması başta olmak üzere ortak hedeflerimiz konusunda tam mutabakat içinde gerçekleşen bir görüşmeydi.\" dedi.",
-          "source": "https://www.ntv.com.tr/dunya/netanyahu-trump-ile-mukemmel-bir-gorusme-gerceklestirdigini-savundu-1734995"
+          "title": "Akıllı klozet kapağı kalp ritim bozukluğunu tespit edebilir",
+          "summary": "Almanya'da geliştirilen akıllı klozet kapağı, yalnızca 30 saniyelik kullanım sırasında kalp ritmini analiz ederek en yaygın ritim bozukluklarından biri olan atriyal fibrilasyonu tespit edebiliyor. İlk sonuçlara göre sistem, hastanelerde kullanılan EKG cihazlarına yakın doğruluk oranı sunuyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/akilli-klozet-kapagi-kalp-ritim-bozuklugunu-tespit-edebilir-43255752"
         },
         {
-          "title": "İran’dan Hürmüz Boğazı için öneri... Garibabadi: Kabul edilmezse kapalı kalacak",
-          "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, Umman ile gerçekleştirdikleri görüşmede Hürmüz Boğazı'ndaki bir güzergahın tamamen, diğer güzergahın ise bir bölümünün İran'ın kontrolünde olmasını önerdiklerini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-hurmuz-bogazi-icin-oneri-garibabadi-kabul-edilmezse-kapali-kalacak-43254716"
+          "title": "Elektronik sigara sanıldığı kadar masum değil",
+          "summary": "Uzun süredir sigaraya göre daha güvenli bir alternatif olarak görülen elektronik sigaralarla ilgili dikkat çeken bir araştırma yayımlandı. University of Canterbury araştırmacıları, elektronik sigara kullanımının tamamen risksiz olmadığını ve kanser riskini artırabilecek kimyasallara maruz bırakabileceğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/elektronik-sigara-sanildigi-kadar-masum-degil-43255747"
         }
       ]
     },
@@ -124,82 +124,82 @@
       ]
     },
     "spor": {
-      "text": "UEFA Konferans Ligi ikinci eleme turu rövanşında 4 maç yapıldı. Zeki Yavru, Bursaspor'a transfer oldu. Galatasaray'ın istediği Can Uzun için resmi açıklama. Fenerbahçe'nin Şampiyonlar Ligi 3. eleme turundaki rakibi belli oldu!. UEFA'dan Infantino'ya Dünya Kupası tepkisi: FIFA'nın satabileceği bir şey değil. Fatih Karagümrük, Siopis'i transfer etti. Beşiktaş'ın Leo Pereira teklifi reddedildi.",
+      "text": "Mauro Icardi'ye yurt dışı çıkış yasağı! Karara sert tepki... Vedat Muriqi'ye Kadıköy'de sevgi seli!. Türk golfü adına tarihi başarı. Galatasaray'ın istediği Can Uzun'a Fenerbahçe kancası!. Gaziantep FK'den imza şov: 7 transfer birden açıklandı!. FIFA'dan Türk takımına 6 puan silme cezası. Başakşehir, Umut Bozok transferini açıkladı.",
       "items": [
         {
-          "title": "UEFA Konferans Ligi ikinci eleme turu rövanşında 4 maç yapıldı",
-          "summary": "Riga, Apollon, CSKA 1948 ve Darita tur atladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uefa-konferans-ligi-ikinci-eleme-turu-rovansinda-4-mac-yapildi-43254839"
+          "title": "Mauro Icardi'ye yurt dışı çıkış yasağı! Karara sert tepki...",
+          "summary": "Galatasaray ile sözleşmesi sona eren Mauro Icardi ile eski eşi Wanda Nara arasındaki boşanma ve velayet davasında dikkat çeken bir gelişme yaşandı. Arjantinli yıldızın ülkesinden çıkışı yasaklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mauro-icardiye-yurt-disi-cikis-yasagi-karara-sert-tepki-43255857"
         },
         {
-          "title": "Zeki Yavru, Bursaspor'a transfer oldu",
-          "summary": "TFF 1. Lig'in yeni ekiplerinden Bursaspor, tecrübeli futbolcu Zeki Yavru'yu kadrosuna kattığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/zeki-yavru-bursaspora-transfer-oldu-43254837"
+          "title": "Vedat Muriqi'ye Kadıköy'de sevgi seli!",
+          "summary": "Fenerbahçe'nin Kosovalı golcüsü Vedat Muriqi, Kadıköy'de Fenerium mağazasında düzenlenen imza gününde sarı-lacivertli taraftarlarla buluştu. Muriqi'nin forma imzalayıp hayranlarıyla fotoğraf çektirdiği etkinlik, özellikle genç taraftarlar tarafından yoğun ilgiyle karşılandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqiye-kadikoyde-sevgi-seli-43255845"
         },
         {
-          "title": "Galatasaray'ın istediği Can Uzun için resmi açıklama",
-          "summary": "Galatasaray'ın transfer gündemindeki milli futbolcumuz Can Uzun için kulüp yetkilisi konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-can-uzun-icin-resmi-aciklama-43254774"
+          "title": "Türk golfü adına tarihi başarı",
+          "summary": "Milli golfçü Deniz Sapmaz, Avrupa Kadınlar Amatör Şampiyonası’nda final turuna yükselen ilk Türk golfçü olarak tarihe geçti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turk-golfu-adina-tarihi-basari-43255844"
         },
         {
-          "title": "Fenerbahçe'nin Şampiyonlar Ligi 3. eleme turundaki rakibi belli oldu!",
-          "summary": "Fenerbahçe, Gornik Zabrze'yi elemesi halinde Şampiyonlar Ligi 3. eleme turunda Sturm Graz ile karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-sampiyonlar-ligi-3-on-eleme-turundaki-rakibi-belli-oldu-43254759"
+          "title": "Galatasaray'ın istediği Can Uzun'a Fenerbahçe kancası!",
+          "summary": "Transfer döneminde adı Galatasaray ile anılan milli futbolcu Can Uzun için Fenerbahçe iddiası gündeme bomba gibi düştü. Sarı-lacivertlilerin, 20 yaşındaki futbolcuyu renklerine bağlamak için harekete geçtiği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-can-uzuna-fenerbahce-kancasi-43255839"
         },
         {
-          "title": "UEFA'dan Infantino'ya Dünya Kupası tepkisi: FIFA'nın satabileceği bir şey değil",
-          "summary": "UEFA, FIFA Başkanı Gianni Infantino'nun \"Dünya Kupası'nı özel yatırımcılara satma planına\" tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uefadan-infantinoya-dunya-kupasi-tepkisi-fifanin-satabilecegi-bir-sey-degil-43254743"
+          "title": "Gaziantep FK'den imza şov: 7 transfer birden açıklandı!",
+          "summary": "Süper Lig ekiplerinden Gaziantep FK, transfer yasağının kaldırılmasının ardından 7 futbolcuyu kadrosuna kattığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gaziantep-fkden-imza-sov-7-transfer-birden-aciklandi-43255788"
         },
         {
-          "title": "Fatih Karagümrük, Siopis'i transfer etti",
-          "summary": "TFF 1. Lig ekiplerinden Fatih Karagümrük, bir dönem ülkemizde Alanyaspor ve Trabzonspor formaları giyen Siopis'i kadrosuna kattığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fatih-karagumruk-siopisi-transfer-etti-43254715"
+          "title": "FIFA'dan Türk takımına 6 puan silme cezası",
+          "summary": "FIFA Disiplin Komitesi, 2. Lig ekiplerinden Adana Demirspor'a 6 puan silme cezası verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fifadan-turk-takimina-6-puan-silme-cezasi-43255762"
         },
         {
-          "title": "Beşiktaş'ın Leo Pereira teklifi reddedildi",
-          "summary": "Beşiktaş'ın Leo Pereira için yaptığı 10 milyon Euro'luk teklif, Flamengo yönetimi tarafından reddedildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-leo-pereira-teklifi-reddedildi-43254711"
+          "title": "Başakşehir, Umut Bozok transferini açıkladı",
+          "summary": "Süper Lig ekiplerinden Başakşehir, son olarak Eyüpspor forması giyen Umut Bozok'u kadrosuna kattığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basaksehir-umut-bozok-transferini-acikladi-43255638"
         }
       ]
     },
     "teknoloji": {
-      "text": "OpenAI CEO’su uyardı: Yapay zekanın hızını düşürmemiz gerekebilir. Apple iOS 26.6 güncellemesini yayınladı. 27 yıldır asteroit sanıldı: Meğer kuyruklu yıldızmış. Biyonik göze Avrupa'dan onay. Spotify ile konuşarak şarkı seçme dönemi başlıyor. Yapay zeka'da \"açık kaynak\" savaşı kızışıyor. iPhone devinden rakipleri çıldırtacak hamle. Apple'ın yeni hedefi belli oldu.",
+      "text": "NASA’nın teleskobunu kurtaracak robot kontrolden çıktı. ABD'den Çin'e robot yasağı. Tesla eski yöneticisinden çarpıcı iddia. Plastik atıklar hidrojen yakıtına dönüştürüldü. OpenAI itiraf etti. Yapay zeka kontrolden çıktı, günlerce fark edilmedi. Bakan Tekin eğitimdeki vizyonu özetledi: Hem küresel rekabet hem de öz değerler. OpenAI CEO’su uyardı: Yapay zekanın hızını düşürmemiz gerekebilir.",
       "items": [
+        {
+          "title": "NASA’nın teleskobunu kurtaracak robot kontrolden çıktı",
+          "summary": "NASA’nın yörüngesi alçalan Swift Uzay Gözlemevi’ni daha güvenli bir yüksekliğe taşımak için görevlendirdiği özel uzay aracı, teknik arızaların ardından kontrolsüz biçimde dönmeye başladı. İki yönlendirme tekerleği ve itki sistemlerinden biri arızalanan aracın Dünya ile iletişimi de kesintili hale geldi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/nasanin-teleskobunu-kurtaracak-robot-kontrolden-cikti-43255856"
+        },
+        {
+          "title": "ABD'den Çin'e robot yasağı",
+          "summary": "ABD, yabancı ülkelerde üretilen yeni insansı robotların, dört ayaklı robot köpeklerin ve elektrik sistemlerinde kullanılan bağlantılı güç invertörlerinin ülkeye girişini yasaklama kararı aldı. Ulusal güvenlik gerekçesiyle alınan kararın, dünya insansı robot pazarına hâkim olan Çinli teknoloji şirketlerini hedef aldığı belirtiliyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka/abdden-cine-robot-yasagi-43255852"
+        },
+        {
+          "title": "Tesla eski yöneticisinden çarpıcı iddia",
+          "summary": "Tesla’nın Tam Otonom Sürüş test operasyonlarında görev yapan eski bir yönetici, personel yetersizliği nedeniyle şirketin robotaksilerinin kamuya açık yollarda “hareketli tehlikelere” dönüştüğünü öne sürdü. Güvenlik sorunlarını yönetime bildirdiği için işten çıkarıldığını savunan Javier Medrano, Tesla’ya dava açtı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/tesla-eski-yoneticisinden-carpici-iddia-43255848"
+        },
+        {
+          "title": "Plastik atıklar hidrojen yakıtına dönüştürüldü",
+          "summary": "Bilim insanları, yaygın kullanılan üç plastik türünü ayrıştırmaya gerek kalmadan yüzde 90’ın üzerinde saflığa sahip hidrojen gazına dönüştüren yeni bir yöntem geliştirdi. Plastik kirliliği ile temiz enerji ihtiyacını aynı anda hedefleyen teknoloji, karbonun büyük bölümünün atmosfere salınmasını da önlüyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/plastik-atiklar-hidrojen-yakitina-donusturuldu-43255841"
+        },
+        {
+          "title": "OpenAI itiraf etti. Yapay zeka kontrolden çıktı, günlerce fark edilmedi",
+          "summary": "OpenAI, kontrolden çıkan yapay zeka ajanı hakkında yeni bir itirafta bulundu. Şirket açıklamasına göre kontrolden çıkan yapay zeka, çok sayıda sisteme sızarak günlerce fark edilmedi. YAPAY ZEKA BAİKA SİSTEMLERE DE SIZDI OpenAI, kontrolden çıkan otonom yapay zeka ajanının yalnızca yapay zeka platformu Hugging Face'i değil, başka kamuya açık hizmetleri de hedef aldığını doğruladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-openai-itiraf-etti-yapay-zeka-kontrolden-cikti-gunlerce-fark-edilmedi-1735116"
+        },
+        {
+          "title": "Bakan Tekin eğitimdeki vizyonu özetledi: Hem küresel rekabet hem de öz değerler",
+          "summary": "Milli Eğitim Bakanı Yusuf Tekin, eğitimde hayata geçirilen yeni müfredat, dijitalleşme adımları ve uluslararası başarı raporlarını değerlendirdi. Öğrencilerin küresel arenada güçlü şekilde rekabet etmesini hedeflerken milli değerlerden kopmamalarının önemine vurgu yapan Tekin, Türkiye'nin teknolojik altyapısı ve uyguladığı modelle dünyada takdir toplayan bir konuma ulaştığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-tekin-egitimdeki-vizyonu-ozetledi-hem-kuresel-rekabet-hem-de-oz-degerler-43255335"
+        },
         {
           "title": "OpenAI CEO’su uyardı: Yapay zekanın hızını düşürmemiz gerekebilir",
           "summary": "OpenAI CEO’su Sam Altman, yapay zeka teknolojilerindeki hızlı ilerlemeye toplumun ayak uydurabilmesi için geliştirici şirketlerin gönüllü olarak yavaşlaması gerekebileceğini söyledi. ChatGPT’nin geliştiricisi OpenAI, kısa süre önce yaptığı güvenlik testlerinde iki yapay zeka modelinin, bu tür olayları önlemek amacıyla oluşturulan güvenlik protokollerini aşarak otonom bir siber saldırı gerçekleştirdiğini açıklamıştı.",
           "source": "https://www.ntv.com.tr/teknoloji/openai-ceosu-uyardi-yapay-zekanin-hizini-dusurmemiz-gerekebilir-1734996"
-        },
-        {
-          "title": "Apple iOS 26.6 güncellemesini yayınladı",
-          "summary": "Apple, iPhone kullanıcıları için iOS 26.6 güncellemesini yayımladı. Büyük yeniliklerden çok güvenlik ve performans iyileştirmelerine odaklanan güncelleme, 75’ten fazla güvenlik açığını kapatırken iPhone’ları önümüzdeki aylarda çıkacak iOS 27’ye de hazırlıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/apple/apple-ios-26-6-guncellemesini-yayinladi-43254284"
-        },
-        {
-          "title": "27 yıldır asteroit sanıldı: Meğer kuyruklu yıldızmış",
-          "summary": "Bilim insanlarının 1998’den bu yana asteroit olarak takip ettiği 1998 SH2 adlı gök cisminin aslında son derece zayıf faaliyet gösteren bir kuyruklu yıldız olduğu ortaya çıktı. Keşif, Dünya’ya yakın gök cisimlerinin yörüngelerinin neden beklenmedik biçimde değişebildiğini gösterirken gezegen savunması açısından da önem taşıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/27-yildir-asteroit-sanildi-meger-kuyruklu-yildizmis-43254279"
-        },
-        {
-          "title": "Biyonik göze Avrupa'dan onay",
-          "summary": "ABD merkezli Science Corporation tarafından geliştirilen “Prima” adlı biyonik göz sistemi, Avrupa’da kullanım için gerekli CE onayını aldı. Retinanın altına yerleştirilen kablosuz implant ve özel gözlükten oluşan sistemin klinik denemelerinde, hastaların yüzde 84’ünün harfleri, rakamları ve kelimeleri yeniden okuyabildiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/biyonik-goze-avrupadan-onay-43254266"
-        },
-        {
-          "title": "Spotify ile konuşarak şarkı seçme dönemi başlıyor",
-          "summary": "Spotify, kullanıcıların müzik, podcast ve sesli kitapları konuşarak ya da yazarak keşfedebileceği yeni sohbet özelliğini test etmeye başladı. Kullanıcılar ruh hâllerini tarif edebilecek, çalan şarkı hakkında bilgi isteyebilecek ve dinleme geçmişlerine ilişkin sorular sorabilecek.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/sosyal-medya/spotify-ile-konusarak-sarki-secme-donemi-basliyor-43254262"
-        },
-        {
-          "title": "Yapay zeka'da \"açık kaynak\" savaşı kızışıyor",
-          "summary": "Anthropic CEO'su Dario Amodei, Nvidia öncülüğünde yayımlanan bildiriye yanıt vererek şirketinin açık ağırlıklı yapay zeka modellerinin yasaklanmasını hiçbir zaman savunmadığını duyurdu. ABD şirketlerinin Çin menşeli açık modellere erişiminin engellenmesi tartışmalarına değinen Amodei, korumacı yasakların ulusal güvenlik risklerini çözmeyeceğini vurguladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zekada-acik-kaynak-savasi-kizisiyor-1734913"
-        },
-        {
-          "title": "iPhone devinden rakipleri çıldırtacak hamle. Apple'ın yeni hedefi belli oldu",
-          "summary": "Apple’ın yeni CEO’su John Ternus, şirketin eğlence sektöründeki gelecek vizyonunu paylaştı. Apple'ın yeni CEO'su ve donanım sorumlusu John Ternus, Eylül ayında iPhone üreticisinin başına geçtiğinde, şirketin eğlence sektöründeki ivmesini daha da artırmaya kararlı olduğunu söyledi. Teknoloji devi, 2019'da Apple TV+ yayın uygulaması aracılığıyla orijinal TV dizileri ve filmleri sunmaya başladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/iphone-devinden-rakipleri-cildirtacak-hamle-applein-yeni-hedefi-belli-oldu-1734857"
         }
       ]
     },
