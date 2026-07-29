@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-28T10:00:03.015Z",
+  "generatedAt": "2026-07-29T04:00:02.976Z",
   "categories": {
     "gundem": {
-      "text": "Giresun Caddesi sanıp yola çıkmıştı: Ankara'dan Giresun'a 28 bin liralık taksi yolculuğu. Flamingoları havalandıran SUP keyfi cezayla bitti. Kayseri'de 2.77 promil alkollü yakalanan aday sürücü, aracını çektirmemek için polise direndi. Avcılar’da çocuk parkına kurulan salıncakta 5 günde 4 kişi yaralandı. YKS tercihinde bunlara dikkat: İşte merak edilen soruların yanıtları. \"FETÖ operasyonu\" diyerek 40 milyon lira dolandırıldılar. Kargo çalışanına kabusu yaşatmıştı: O magandanın yaptığı yanına kalmadı.",
+      "text": "Ankara'da dolunay manzaraları. İzmir ve Antalya'da orman yangını. Gece olunca hava desteği durdu. Bakan Yumaklı'dan şiddetli rüzgar uyarısı. \"Bir kıvılcım felakete neden olur\". Kayseri’de alev alan elektrikli araç bomba gibi patladı... O anlar kamerada. Yangın haberleri peş peşe geldi... Müdahale sürüyor. Şarj istasyonunda elektrikli otomobil alev aldı. Yangın battaniyesi ile müdahale. Elektrikli araç yangınına profesyonel müdahale.",
       "items": [
         {
-          "title": "Giresun Caddesi sanıp yola çıkmıştı: Ankara'dan Giresun'a 28 bin liralık taksi yolculuğu",
-          "summary": "Ankara'da taksi şoförü Adem Kaya, duraktan aldığı iki yolcunun \"Giresun\" talebi üzerine aracı yakındaki Giresun Caddesi'ne sürdü. Yolcuların hedefinin Giresun ili olduğunu öğrenince şaşıran Kaya, 700 kilometrelik yolu göze alarak yola çıktı. Sürücünün ödeme endişesiyle tamamladığı seyahatin sonunda taksimetre 28 bin 591 lira yazdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/giresun-caddesi-sanip-yola-cikmisti-ankaradan-giresuna-28-bin-liralik-taksi-yolculugu-43254096"
+          "title": "Ankara'da dolunay manzaraları",
+          "summary": "Türkiye genelinde görsel şölen oluşturan dolunay, Ankara'da Anıtkabir ve Kocatepe Camisi ile birlikte görüntülendi. Ankara'da akşam saatlerinde beliren dolunay, Anıtkabir ile güzel görüntüler oluşturdu. Dolunay ayrıca Kocatepe Camisi ile birlikte görüntülendi. İşte Ankara'dan dolunay manzaraları…",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ankarada-dolunay-manzaralari-1735012"
         },
         {
-          "title": "Flamingoları havalandıran SUP keyfi cezayla bitti",
-          "summary": "Manisa'da koruma altındaki Marmara Gölü'nde izinsiz dron uçurup kürek sörfü (SUP) yapan iki kişiye idari para cezası kesildi. Yapılan incelemede faaliyetlerin özellikle flamingolar başta olmak üzere su kuşlarını strese soktuğu ve üreme dönemindeki yaban hayatını olumsuz etkilediği tespit edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-flamingolari-havalandiran-sup-keyfi-cezayla-bitti-1734932"
+          "title": "İzmir ve Antalya'da orman yangını. Gece olunca hava desteği durdu",
+          "summary": "Antalya'nın Kaş ilçesinden dün sabahın erken saatlerinde başlayan orman yangını devam ediyor. Havanın kararmasıyla havadan müdahale sona ererken, ekiplerin karadan müdahalesi aralıksız sürüyor. İzmir'in Menemen ilçesinde de makilik alanda yangın çıktı. Antalya'nın Kaş ilçesi Üzümlü Mahallesi’ndeki ormanlık alanda yangın, dün sabaha karşı 06.00'da başladı. Yangına 3 uçak, 8 helikopter, 18 arazöz, iş makineleri ve 135 personelle müdahalede bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-antalya-kasta-orman-yangini-suruyor-gece-olunca-hava-destegi-durdu-1735002"
         },
         {
-          "title": "Kayseri'de 2.77 promil alkollü yakalanan aday sürücü, aracını çektirmemek için polise direndi",
-          "summary": "Kocasinan ilçesinde şüphe üzerine durdurulan ve yapılan kontrolde yüksek oranda alkollü olduğu tespit edilen aday sürücü Z.Ş.'nin ehliyeti daimi olarak iptal edildi. 25 bin lira para cezası uygulanan sürücü, otomobilinin çekileceğini anlayınca yaklaşık 1 saat boyunca aracına binerek polise zor anlar yaşattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-2-77-promil-alkollu-yakalanan-aday-surucu-aracini-cektirmemek-icin-polise-direndi-43254072"
+          "title": "Bakan Yumaklı'dan şiddetli rüzgar uyarısı. \"Bir kıvılcım felakete neden olur\"",
+          "summary": "Bu hafta başta kıyı kesimler olmak üzere birçok ilde şiddetli rüzgar etkili olacak. Bu kapsamda Tarım ve Orman Bakanı İbrahim Yumaklı'dan vatandaşlara orman yangını uyarısı geldi. Tarım ve Orman Bakanı İbrahim Yumaklı, bu hafta pek çok ilde beklenen şiddetli rüzgar nedeniyle çıkabilecek yangınlara karşı vatandaşlara azami hassasiyet çağrısında bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-yumaklidan-siddetli-ruzgar-uyarisi-bir-kivilcim-felakete-neden-olur-1735010"
         },
         {
-          "title": "Avcılar’da çocuk parkına kurulan salıncakta 5 günde 4 kişi yaralandı",
-          "summary": "Avcılar’daki bir çocuk parkının hem zemini hem de parktaki oyuncaklar yenilendi. Parka kısa süre önce yerleştirilen sepet salıncakta 5 günde 4 kişi yaralandı. Kadınların ayak ve bacaklarından yaralandığı, 1 çocuğun ise kolunun kırıldığı kazalar sonrası salıncak belediye tarafından söküldü. Çevre sakinlerinden Fatma Demirci, \"Bizim insanımız bunları kullanmayı bilmiyor. Ben dün buradaydım bir salıncağa en fazla 3-4 çocuk biner. Bu salıncağa 10-15 çocuğun bindiği oldu. Büyükler de biniyormuş.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/avcilarda-cocuk-parkina-kurulan-salincakta-5-gunde-4-kisi-yaralandi-43254028"
+          "title": "Kayseri’de alev alan elektrikli araç bomba gibi patladı... O anlar kamerada",
+          "summary": "Kayseri’nin Melikgazi ilçesinde şarj olduğu sırada alev alan elektrikli SUV tarzı araç itfaiye ekiplerinin müdahalesi sırasında bomba gibi patladı. Olayda yaralanan olmazken, yangın ekiplerin uzun süreli çalışmaları sonucu söndürülürken, patlama anı bir vatandaşın cep telefonu kamerası tarafından anbean kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-alev-alan-elektrikli-arac-bomba-gibi-patladi-o-anlar-kamerada-43254855"
         },
         {
-          "title": "YKS tercihinde bunlara dikkat: İşte merak edilen soruların yanıtları",
-          "summary": "Yükseköğretim Kurumları Sınavı (2026-YKS) sonuçlarının açıklanmasının ardından üniversite adayları için tercih dönemi yarın başlıyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/yks-tercihinde-bunlara-dikkat-iste-merak-edilen-sorularin-yanitlari-43254027"
+          "title": "Yangın haberleri peş peşe geldi... Müdahale sürüyor",
+          "summary": "Antalya'nın Kaş ilçesinde çıkan orman yangınına ekiplerin karadan müdahalesi akşam saatlerinde de devam ediyor. Manisa'nın Kula ilçesinde de gece saatlerinde makilik alanda çıkan yangında yaklaşık 400 dönüm alan zarar gördü. İzmir'in Menemen ilçesinde ise makilik alanda çıkan yangına Orman Bölge müdürlü ve itfaiye ekipleri ile polis ekipleri TOMA’larla müdahale başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yangin-haberleri-pes-pese-geldi-mudahale-suruyor-43254854"
         },
         {
-          "title": "\"FETÖ operasyonu\" diyerek 40 milyon lira dolandırıldılar",
-          "summary": "Ankara'da kendilerini polis ve savcı olarak tanıtan dolandırıcıların, \"FETÖ soruşturması\" ve \"gizli operasyon\" bahanesiyle baskı kurduğu iki kız kardeş, yaklaşık 40 milyon lira dolandırıldıkları iddiasıyla savcılığa suç duyurusunda bulundu. \"PAROLA AY YILDIZ\" DİYEREK KANDIRDILAR Ankara'da yaşayan iki kız kardeş, kendilerini polis ve savcı olarak tanıtan dolandırıcıların hedefi oldu. Şüphelilerin, \"FETÖ soruşturmasında hakkınızda tutuklama kararı var\" diyerek yaklaşık 40 milyon lira dolandırdığı iddia edildi.",
-          "source": "https://www.ntv.com.tr/yerel-haberler/galeri-feto-operasyonu-diyerek-40-milyon-lira-dolandirildilar-1734931"
+          "title": "Şarj istasyonunda elektrikli otomobil alev aldı. Yangın battaniyesi ile müdahale",
+          "summary": "Kayseri’de şarj istasyonundayken henüz belirlenemeyen nedenle alev alıp, patlamanın meydana geldiği otomobil, itfaiye ekiplerinin yangın battaniyesi ile yaptığı müdahale sonucu söndürüldü. Melikgazi ilçesi Hürriyet Mahallesi Şehit Miralay Nazım Bey Bulvarı’nda bir elektrikli araç şarj istasyonunda alev aldı. İhbar üzerine bölgeye itfaiye ve polis ekipleri sevk edildi. İtfaiye ekipleri, alevler içindeki elektrikli otomobilin üzerine yangın battaniyesi örterek, altından su ile müdahale etti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-sarj-istasyonunda-elektrikli-otomobil-alev-aldi-yangin-battaniyesi-ile-mudahale-1735007"
         },
         {
-          "title": "Kargo çalışanına kabusu yaşatmıştı: O magandanın yaptığı yanına kalmadı",
-          "summary": "Niğde'de trafikte çıkan tartışmada otomobilinden inerek tartıştığı kargo çalışanı B.Ö.'yü aracının içinde darbeden O.B.'ye, 190 bin TL cezai işlem uygulandı. Sürücü belgesine 60 gün süreyle el konulan şüphelinin aracı, trafikten menedildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kargo-calisanina-kabusu-yasatmisti-o-magandanin-yaptigi-yanina-kalmadi-43254010"
+          "title": "Elektrikli araç yangınına profesyonel müdahale",
+          "summary": "Kayseri’de şarj istasyonundayken henüz belirlenemeyen nedenle alev alıp, patlamanın meydana geldiği otomobil, itfaiye ekiplerinin yangın battaniyesi ile yaptığı müdahale sonucu söndürüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/video-elektrikli-arac-yanginina-profesyonel-mudahale-1735008"
         }
       ]
     },
     "dunya": {
-      "text": "En çok Z kuşağı \"çok çalışıyor\" taklidi yapıyor. Barcelona metrosunda panik: 39 kişi hastaneye kaldırıldı. Yunanistan'da 3.9 büyüklüğünde deprem. İki savaş dünyanın en büyük gölünde kesişiyor. AB'den Türkiye'ye İspanya teşekkürü. Netanyahu'ya Beyaz Saray'da soğuk duş: 'Filistinlilerin de insan hakları önemlidir'. İsrail, Kur'an yayını yapan radyoyu kapattı.",
+      "text": "Trump, Ukrayna Devlet Başkanı Zelenski ile Beyaz Saray'da görüştü. Yunanistan'da Temmuz sonunda kar yağdı. Rüzgarın hızı 100 kilometreye ulaştı. ABD-İran arasında sessizlik bozuldu. İran'dan ABD üssüne füze saldırısı. ABD ve Suudi Arabistan Irak'ta İran destekli gruplara ait hedeflere hava saldırıları düzenledi. İsrail ordusunda iki kadın asker intihar etti. Netanyahu, Trump ile \"mükemmel\" bir görüşme gerçekleştirdiğini savundu. İran’dan Hürmüz Boğazı için öneri... Garibabadi: Kabul edilmezse kapalı kalacak.",
       "items": [
         {
-          "title": "En çok Z kuşağı \"çok çalışıyor\" taklidi yapıyor",
-          "summary": "Software Finder tarafından yayımlanan araştırma raporu, ABD'deki çalışanların ve yöneticilerin mesai saatlerinde verimli görünmek için çaba harcadığını ortaya koydu. Tam zamanlı çalışan 1003 profesyonelle yapılan inceleme, 28 yaş altı Z kuşağı çalışanların yüzde 80'inin işte verimlilik taklidi yaptığını gösterdi. Uzman keşif platformu Software Finder tarafından Temmuz 2026 tarihinde yayımlanan araştırma raporu, iş yerlerindeki verimlilik algısına ve çalışan davranışlarına dair verileri ortaya koydu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-en-cok-z-kusagi-cok-calisiyor-taklidi-yapiyor-1734936"
+          "title": "Trump, Ukrayna Devlet Başkanı Zelenski ile Beyaz Saray'da görüştü",
+          "summary": "ABD Başkanı Donald Trump, Cumhuriyetçi Senatör Lindsey Graham'ın cenaze törenine katılmak üzere Washington'a gelen Ukrayna Devlet Başkanı Volodimir Zelenski ile Beyaz Saray'da görüştü. ABD basınına konuşan Zelenski ABD'den Patriot füzeleri izninin çıktığını söyledi. Beyaz Saray'dan yapılan açıklamaya göre, Trump ile Zelenskiy arasındaki basına kapalı görüşme, yerel saatle 09.47'de başladı ve yaklaşık bir saat sürdü.",
+          "source": "https://www.ntv.com.tr/dunya/trump-ukrayna-devlet-baskani-zelenski-ile-beyaz-sarayda-gorustu-1735001"
         },
         {
-          "title": "Barcelona metrosunda panik: 39 kişi hastaneye kaldırıldı",
-          "summary": "İspanya'nın Katalonya özerk bölgesinin başkenti Barcelona'da metro hattındaki elektrik sisteminde çıkan yangın nedeniyle iki istasyon tahliye edilirken, tünelden yürüyerek çıkarılan yolculardan 39'u hastanelere sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/barcelona-metrosunda-panik-39-kisi-hastaneye-kaldirildi-43254066"
+          "title": "Yunanistan'da Temmuz sonunda kar yağdı. Rüzgarın hızı 100 kilometreye ulaştı",
+          "summary": "Avrupa'da aşırı sıcaklar etkili olurken, komşu Yunanistan'da ise yağmur ve kar vardı. Atina'daki Parthenon tapınağında etkili olan fırtına sebebiyle hava birkaç dakika içinde değişti. Aniden bastıran fırtına sebebiyle turistler arasında kısa süreli panik yaşandı. Rüzgar hızı saatte 100 kilometreye ulaşırken, o anlar cep telefonu kameralarına yansıdı. Yunanistan'daki aşırı hava olayları bununla da sınırlı kalmadı. 2 bin 648 metrelik Olimpos dağında da temmuz sonunda kar yağdı.",
+          "source": "https://www.ntv.com.tr/dunya/video-yunanistanda-temmuz-sonunda-kar-yagdi-ruzgarin-hizi-100-kilometreye-ulasti-1735013"
         },
         {
-          "title": "Yunanistan'da 3.9 büyüklüğünde deprem",
-          "summary": "Yunanistan'da 3.9 büyüklüğünde deprem meydana geldiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunanistanda-3-9-buyuklugunde-deprem-43253983"
+          "title": "ABD-İran arasında sessizlik bozuldu. İran'dan ABD üssüne füze saldırısı",
+          "summary": "ABD ile İran arasında saldırısız günler sona erdi. İran Ürdün'de ABD üssüne balistik füze ile saldırdığını duyurdu. ABD, saldırılara yanıt olarak Irak'ta İran yanlısı grupları vurdu. İran Devrim Muhafızları Ordusu, ayrıca Ürdün'deki bir ABD hava üssü ile ABD Merkez Kuvvetler Komutanlığının (CENTCOM) bulunduğu merkezin çok sayıda balistik füzeyle hedef alındığını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/abd-iran-arasinda-sessizlik-bozuldu-irandan-abd-ussune-fuze-saldirisi-1735003"
         },
         {
-          "title": "İki savaş dünyanın en büyük gölünde kesişiyor",
-          "summary": "Ukrayna'nın Hazar Denizi'nde İran ile Rusya arasında askeri yük taşıdığı öne sürülen gemileri hedef alması, bölgedeki gerilimi yeni bir boyuta taşıdı. Stratejik önemi giderek artan Hazar Denizi, Moskova ile Tahran arasındaki iş birliğinin kritik güzergahlarından biri olarak öne çıkıyor. HAZAR DENİZİ YENİ GERİLİM HATTI OLDU Ukrayna, hafta sonu Hazar Denizi'nde askeri yük taşıdığı öne sürülen iki Rus gemisini insansız hava araçlarıyla vurduğunu açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-iran-ve-ukrayna-savaslari-dunyanin-en-buyuk-golunde-kesisiyor-1734887"
+          "title": "ABD ve Suudi Arabistan Irak'ta İran destekli gruplara ait hedeflere hava saldırıları düzenledi",
+          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), ABD ve Suudi Arabistan silahlı kuvvetlerinin Irak'ın doğusunda İran destekli gruplara ait hedeflere hava saldırıları düzenlediğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ve-suudi-arabistan-irakta-iran-destekli-gruplara-ait-hedeflere-hava-saldirilari-duzenledi-43254851"
         },
         {
-          "title": "AB'den Türkiye'ye İspanya teşekkürü",
-          "summary": "Avrupa Birliği (AB) Komisyonu Sivil Koruma ve İnsani Yardım Genel Müdürlüğü, Türkiye'ye İspanya'daki yangınlarla mücadele için yangın söndürme uçakları göndermesi nedeniyle teşekkür etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abden-turkiyeye-ispanya-tesekkuru-43253969"
+          "title": "İsrail ordusunda iki kadın asker intihar etti",
+          "summary": "İsrail ordusunda bu hafta iki kadın askerin intihar etmesiyle, yılbaşından bu yana muvazzaf askerler arasında hayatına son verenlerin sayısı 16’ya çıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusunda-iki-kadin-asker-intihar-etti-43254768"
         },
         {
-          "title": "Netanyahu'ya Beyaz Saray'da soğuk duş: 'Filistinlilerin de insan hakları önemlidir'",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun ABD ziyareti öncesinde Filistin destekçileri, ABD'nin başkenti Washington'da Beyaz Saray yakınlarında toplandı. Aktivistler, Netanyahu'nun ziyareti protesto ederek, \"Filistinlilerin de insan hakları önemlidir\" yazılı pankartlarla yürüyüş yaptı.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahuya-beyaz-sarayda-soguk-dus-filistinlilerin-de-insan-haklari-onemlidir-43253950"
+          "title": "Netanyahu, Trump ile \"mükemmel\" bir görüşme gerçekleştirdiğini savundu",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump ile \"mükemmel\" bir görüşme gerçekleştirdiğini söyledi. Başbakan Netanyahu, görüşme sonrası yayımladığı video mesajda, Trump'la şimdiye kadar en iyi görüşmelerinden birini yaptığını ileri sürdü. Netanyahu, \"Tam bir işbirliği, karşılıklı destek ve İran'ın nükleer silah sahibi olmaması başta olmak üzere ortak hedeflerimiz konusunda tam mutabakat içinde gerçekleşen bir görüşmeydi.\" dedi.",
+          "source": "https://www.ntv.com.tr/dunya/netanyahu-trump-ile-mukemmel-bir-gorusme-gerceklestirdigini-savundu-1734995"
         },
         {
-          "title": "İsrail, Kur'an yayını yapan radyoyu kapattı",
-          "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da Kur'an yayını yapan \"Hüda Kur'an-ı Kerim\" adlı radyonun ofisine baskın düzenleyerek istasyonu kapattı. Yerel kaynaklardan alınan bilgiye göre İsrail ordusu bu kez de işgal altındaki Batı Şeria'da Kur'an yayını yapan radyo istasyonunu hedef aldı. İsrail askerleri buldozer eşliğinde Kalkilya kentine baskın düzenledi. Kentteki \"Hüda Kur'an-ı Kerim\" radyosunun ofisine baskın yapan İsrail askerleri, ofisteki ekipman ve malzemelere el koydu, radyo merkezini de kapattı.",
-          "source": "https://www.ntv.com.tr/dunya/israil-kuran-yayini-yapan-radyoyu-kapatti-1734912"
+          "title": "İran’dan Hürmüz Boğazı için öneri... Garibabadi: Kabul edilmezse kapalı kalacak",
+          "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, Umman ile gerçekleştirdikleri görüşmede Hürmüz Boğazı'ndaki bir güzergahın tamamen, diğer güzergahın ise bir bölümünün İran'ın kontrolünde olmasını önerdiklerini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-hurmuz-bogazi-icin-oneri-garibabadi-kabul-edilmezse-kapali-kalacak-43254716"
         }
       ]
     },
@@ -124,48 +124,73 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe'nin Gornik Zabrze maçı kamp kadrosu belli oldu!. Fransa Milli Takımı’nın yeni teknik direktörü Zinedine Zidane oldu. Avrupa Ligi elemelerinde gol bahisleri dikkat çekiyor! İşte Misli'de günün en çok oynanan maçları. İtalya'dan sürpriz iddia: Beşiktaş, Fenerbahçe'nin eski yıldızını istiyor!. Minikler ve Yıldızlar Açık Hava Puta Türkiye Şampiyonası Kütahya'da yapılacak. Okan Buruk'tan Leroy Sane'ye destek: 'Günah keçisi ilan edilecek en son isimlerden biri!'. Arthur Masuaku, Süper Lig'e dönüş yolunda!.",
+      "text": "UEFA Konferans Ligi ikinci eleme turu rövanşında 4 maç yapıldı. Zeki Yavru, Bursaspor'a transfer oldu. Galatasaray'ın istediği Can Uzun için resmi açıklama. Fenerbahçe'nin Şampiyonlar Ligi 3. eleme turundaki rakibi belli oldu!. UEFA'dan Infantino'ya Dünya Kupası tepkisi: FIFA'nın satabileceği bir şey değil. Fatih Karagümrük, Siopis'i transfer etti. Beşiktaş'ın Leo Pereira teklifi reddedildi.",
       "items": [
         {
-          "title": "Fenerbahçe'nin Gornik Zabrze maçı kamp kadrosu belli oldu!",
-          "summary": "Fenerbahçe, Gornik Zabrze maçının kamp kadrosunu açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-gornik-zabrze-maci-kamp-kadrosu-belli-oldu-43254067"
+          "title": "UEFA Konferans Ligi ikinci eleme turu rövanşında 4 maç yapıldı",
+          "summary": "Riga, Apollon, CSKA 1948 ve Darita tur atladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-konferans-ligi-ikinci-eleme-turu-rovansinda-4-mac-yapildi-43254839"
         },
         {
-          "title": "Fransa Milli Takımı’nın yeni teknik direktörü Zinedine Zidane oldu",
-          "summary": "Zinedine Zidane, Fransa Milli Takımı'nın yeni teknik direktörü oldu. Zidane ilk maçına Türkiye karşısında çıkacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fransa-milli-takiminin-yeni-teknik-direktoru-zinedine-zidane-oldu-43254016"
+          "title": "Zeki Yavru, Bursaspor'a transfer oldu",
+          "summary": "TFF 1. Lig'in yeni ekiplerinden Bursaspor, tecrübeli futbolcu Zeki Yavru'yu kadrosuna kattığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/zeki-yavru-bursaspora-transfer-oldu-43254837"
         },
         {
-          "title": "Avrupa Ligi elemelerinde gol bahisleri dikkat çekiyor! İşte Misli'de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/avrupa-ligi-elemelerinde-gol-bahisleri-dikkat-cekiyor-iste-mislide-gunun-en-cok-oynanan-maclari-43254022"
+          "title": "Galatasaray'ın istediği Can Uzun için resmi açıklama",
+          "summary": "Galatasaray'ın transfer gündemindeki milli futbolcumuz Can Uzun için kulüp yetkilisi konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-can-uzun-icin-resmi-aciklama-43254774"
         },
         {
-          "title": "İtalya'dan sürpriz iddia: Beşiktaş, Fenerbahçe'nin eski yıldızını istiyor!",
-          "summary": "Orta saha hattına iki takviye daha yapmak isteyen Beşiktaş, Fenerbahçe'nin eski yıldızı Eljif Elmas'ı gündemine aldı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/italyadan-surpriz-iddia-besiktas-fenerbahcenin-eski-yildizini-istiyor-43253945"
+          "title": "Fenerbahçe'nin Şampiyonlar Ligi 3. eleme turundaki rakibi belli oldu!",
+          "summary": "Fenerbahçe, Gornik Zabrze'yi elemesi halinde Şampiyonlar Ligi 3. eleme turunda Sturm Graz ile karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-sampiyonlar-ligi-3-on-eleme-turundaki-rakibi-belli-oldu-43254759"
         },
         {
-          "title": "Minikler ve Yıldızlar Açık Hava Puta Türkiye Şampiyonası Kütahya'da yapılacak",
-          "summary": "Geleneksel Türk Okçuluk Minikler ve Yıldızlar Açık Hava Puta Türkiye Şampiyonası Kızlar ve Erkekler kategorilerinde 01 – 02 Ağustos 2026 tarihlerinde Kütahya’da yapılacaktır.",
-          "source": "https://www.hurriyet.com.tr/sporarena/minikler-ve-yildizlar-acik-hava-puta-turkiye-sampiyonasi-kutahyada-yapilacak-43253984"
+          "title": "UEFA'dan Infantino'ya Dünya Kupası tepkisi: FIFA'nın satabileceği bir şey değil",
+          "summary": "UEFA, FIFA Başkanı Gianni Infantino'nun \"Dünya Kupası'nı özel yatırımcılara satma planına\" tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefadan-infantinoya-dunya-kupasi-tepkisi-fifanin-satabilecegi-bir-sey-degil-43254743"
         },
         {
-          "title": "Okan Buruk'tan Leroy Sane'ye destek: 'Günah keçisi ilan edilecek en son isimlerden biri!'",
-          "summary": "Galatasaray Teknik Direktörü Okan Buruk, 2026 Dünya Kupası'nda eleştirilen Leroy Sane hakkında açıklamalarda bulundu. Okan Buruk, Sane'nin kötü bir turnuva geçirmediğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-leroy-saneye-destek-gunah-kecisi-ilan-edilecek-en-son-isimlerden-biri-43253837"
+          "title": "Fatih Karagümrük, Siopis'i transfer etti",
+          "summary": "TFF 1. Lig ekiplerinden Fatih Karagümrük, bir dönem ülkemizde Alanyaspor ve Trabzonspor formaları giyen Siopis'i kadrosuna kattığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fatih-karagumruk-siopisi-transfer-etti-43254715"
         },
         {
-          "title": "Arthur Masuaku, Süper Lig'e dönüş yolunda!",
-          "summary": "Sol bek transferi için çalışmalarını sürdüren Konyaspor, Beşiktaş'ın eski oyuncusu Arthur Masuaku’yu gündemine aldı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/arthur-masuaku-super-lige-donus-yolunda-43253859"
+          "title": "Beşiktaş'ın Leo Pereira teklifi reddedildi",
+          "summary": "Beşiktaş'ın Leo Pereira için yaptığı 10 milyon Euro'luk teklif, Flamengo yönetimi tarafından reddedildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-leo-pereira-teklifi-reddedildi-43254711"
         }
       ]
     },
     "teknoloji": {
-      "text": "Yapay zeka'da \"açık kaynak\" savaşı kızışıyor. iPhone devinden rakipleri çıldırtacak hamle. Apple'ın yeni hedefi belli oldu. Spotify'ın çeşitli bölgelerde görülen erişim sıkıntıları gündeme oturdu. İnsanlığın kayıp “dil çağı” ortaya çıktı. Cildi serinleten yeni malzeme geliştirildi. Galaksimiz kıtaların oluşumunu etkilemiş olabilir. Claude Opus 5 kullanıma sunuldu.",
+      "text": "OpenAI CEO’su uyardı: Yapay zekanın hızını düşürmemiz gerekebilir. Apple iOS 26.6 güncellemesini yayınladı. 27 yıldır asteroit sanıldı: Meğer kuyruklu yıldızmış. Biyonik göze Avrupa'dan onay. Spotify ile konuşarak şarkı seçme dönemi başlıyor. Yapay zeka'da \"açık kaynak\" savaşı kızışıyor. iPhone devinden rakipleri çıldırtacak hamle. Apple'ın yeni hedefi belli oldu.",
       "items": [
+        {
+          "title": "OpenAI CEO’su uyardı: Yapay zekanın hızını düşürmemiz gerekebilir",
+          "summary": "OpenAI CEO’su Sam Altman, yapay zeka teknolojilerindeki hızlı ilerlemeye toplumun ayak uydurabilmesi için geliştirici şirketlerin gönüllü olarak yavaşlaması gerekebileceğini söyledi. ChatGPT’nin geliştiricisi OpenAI, kısa süre önce yaptığı güvenlik testlerinde iki yapay zeka modelinin, bu tür olayları önlemek amacıyla oluşturulan güvenlik protokollerini aşarak otonom bir siber saldırı gerçekleştirdiğini açıklamıştı.",
+          "source": "https://www.ntv.com.tr/teknoloji/openai-ceosu-uyardi-yapay-zekanin-hizini-dusurmemiz-gerekebilir-1734996"
+        },
+        {
+          "title": "Apple iOS 26.6 güncellemesini yayınladı",
+          "summary": "Apple, iPhone kullanıcıları için iOS 26.6 güncellemesini yayımladı. Büyük yeniliklerden çok güvenlik ve performans iyileştirmelerine odaklanan güncelleme, 75’ten fazla güvenlik açığını kapatırken iPhone’ları önümüzdeki aylarda çıkacak iOS 27’ye de hazırlıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/apple/apple-ios-26-6-guncellemesini-yayinladi-43254284"
+        },
+        {
+          "title": "27 yıldır asteroit sanıldı: Meğer kuyruklu yıldızmış",
+          "summary": "Bilim insanlarının 1998’den bu yana asteroit olarak takip ettiği 1998 SH2 adlı gök cisminin aslında son derece zayıf faaliyet gösteren bir kuyruklu yıldız olduğu ortaya çıktı. Keşif, Dünya’ya yakın gök cisimlerinin yörüngelerinin neden beklenmedik biçimde değişebildiğini gösterirken gezegen savunması açısından da önem taşıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/27-yildir-asteroit-sanildi-meger-kuyruklu-yildizmis-43254279"
+        },
+        {
+          "title": "Biyonik göze Avrupa'dan onay",
+          "summary": "ABD merkezli Science Corporation tarafından geliştirilen “Prima” adlı biyonik göz sistemi, Avrupa’da kullanım için gerekli CE onayını aldı. Retinanın altına yerleştirilen kablosuz implant ve özel gözlükten oluşan sistemin klinik denemelerinde, hastaların yüzde 84’ünün harfleri, rakamları ve kelimeleri yeniden okuyabildiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/biyonik-goze-avrupadan-onay-43254266"
+        },
+        {
+          "title": "Spotify ile konuşarak şarkı seçme dönemi başlıyor",
+          "summary": "Spotify, kullanıcıların müzik, podcast ve sesli kitapları konuşarak ya da yazarak keşfedebileceği yeni sohbet özelliğini test etmeye başladı. Kullanıcılar ruh hâllerini tarif edebilecek, çalan şarkı hakkında bilgi isteyebilecek ve dinleme geçmişlerine ilişkin sorular sorabilecek.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/sosyal-medya/spotify-ile-konusarak-sarki-secme-donemi-basliyor-43254262"
+        },
         {
           "title": "Yapay zeka'da \"açık kaynak\" savaşı kızışıyor",
           "summary": "Anthropic CEO'su Dario Amodei, Nvidia öncülüğünde yayımlanan bildiriye yanıt vererek şirketinin açık ağırlıklı yapay zeka modellerinin yasaklanmasını hiçbir zaman savunmadığını duyurdu. ABD şirketlerinin Çin menşeli açık modellere erişiminin engellenmesi tartışmalarına değinen Amodei, korumacı yasakların ulusal güvenlik risklerini çözmeyeceğini vurguladı.",
@@ -175,31 +200,6 @@
           "title": "iPhone devinden rakipleri çıldırtacak hamle. Apple'ın yeni hedefi belli oldu",
           "summary": "Apple’ın yeni CEO’su John Ternus, şirketin eğlence sektöründeki gelecek vizyonunu paylaştı. Apple'ın yeni CEO'su ve donanım sorumlusu John Ternus, Eylül ayında iPhone üreticisinin başına geçtiğinde, şirketin eğlence sektöründeki ivmesini daha da artırmaya kararlı olduğunu söyledi. Teknoloji devi, 2019'da Apple TV+ yayın uygulaması aracılığıyla orijinal TV dizileri ve filmleri sunmaya başladı.",
           "source": "https://www.ntv.com.tr/teknoloji/iphone-devinden-rakipleri-cildirtacak-hamle-applein-yeni-hedefi-belli-oldu-1734857"
-        },
-        {
-          "title": "Spotify'ın çeşitli bölgelerde görülen erişim sıkıntıları gündeme oturdu",
-          "summary": "Dünyanın dört bir yanındaki Spotify kullanıcılarının uygulamayı açmaya çalışırken oynatma hataları ve bağlantı sorunları yaşadığı bildirildi. Çevrimiçi müzik platformu Spotify, şu anda Kuzey Amerika, Avustralya ve Avrupa'nın bazı bölgeleri de dahil olmak üzere birçok ülkede kullanıcılar tarafından bildirilen dağınık oynatma hataları ve bağlantı sorunlarıyla karşılaşıyor, ancak genel hizmet seviyelerinin büyük ölçüde toparlanmaya başladığı ifade edildi.",
-          "source": "https://www.ntv.com.tr/teknoloji/spotifyin-cesitli-bolgelerde-gorulen-erisim-sikintilari-gundeme-oturdu-1734790"
-        },
-        {
-          "title": "İnsanlığın kayıp “dil çağı” ortaya çıktı",
-          "summary": "Yeni bir araştırma, dünyadaki dil çeşitliliğinin sanılanın aksine tarımın başlamasıyla hemen azalmadığını ortaya koydu. Bilim insanlarına göre insanlık, 1000 ila 3000 yıl önce on binlerce dilin konuşulduğu bir “altın çağ” yaşadı. Dillerin büyük ölçekli kaybı ise Avrupa sömürgeciliğinden çok daha önce başlamış olabilir.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/insanligin-kayip-dil-cagi-ortaya-cikti-43253267"
-        },
-        {
-          "title": "Cildi serinleten yeni malzeme geliştirildi",
-          "summary": "MIT öncülüğündeki araştırmacılar, cilde uzun süre temas edebilen, hava geçirgen ve son derece hafif yeni bir hidrojel geliştirdi. Egzersiz testlerinde geleneksel silikon yamaların altındaki cilt ısınırken, yeni malzemenin cilt sıcaklığını yaklaşık 1 derece düşürdüğü görüldü.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/bilim/cildi-serinleten-yeni-malzeme-gelistirildi-43253257"
-        },
-        {
-          "title": "Galaksimiz kıtaların oluşumunu etkilemiş olabilir",
-          "summary": "Dünya’nın ilk kıtalarının yalnızca gezegenin içindeki jeolojik hareketlerle oluşmadığı öne sürüldü. Avustralyalı bilim insanlarına göre Güneş Sistemi’nin Samanyolu’nun sarmal kollarından geçişi, kuyruklu yıldız çarpmalarını artırarak kıtasal kabuğun gelişimini etkilemiş olabilir.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/uzay/galaksimiz-kitalarin-olusumunu-etkilemis-olabilir-43253246"
-        },
-        {
-          "title": "Claude Opus 5 kullanıma sunuldu",
-          "summary": "Anthropic, kodlama ve profesyonel işlere odaklanan Claude Opus 5 modelini kullanıma sundu. Şirket, yeni modelin Fable 5’e yakın performansı yarı maliyetle sağlayabildiğini belirtiyor. Hamle, işletmelerin daha ucuz Çinli YZ modellerine yöneldiği bir dönemde geldi.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka/claude-opus-5-kullanima-sunuldu-43253243"
         }
       ]
     },
