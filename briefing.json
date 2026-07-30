@@ -1,51 +1,66 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-07-29T16:00:03.029Z",
+  "generatedAt": "2026-07-30T04:00:06.675Z",
   "categories": {
     "gundem": {
-      "text": "Futbolda yeni sezon öncesi kritik toplantı: Sanal devriyeler artacak. Burdur’da CHP Ağlasun ilçe yönetimi istifa etti. İstiklal Caddesi'nde alışveriş merkezinde yangın. İçecek fabrikasında patlama: 2 işçi hayatını kaybetti. 5. İstanbul Festivali 1 Ağustos'ta başlayacak. Cumhurbaşkanlığı Kabinesi toplandı. Bungalov havuzunda boğulma tehlikesi geçiren Miraç, 42 gün sonra hayatını kaybetti.",
+      "text": "Ahbap soruşturmasında 5 ünlü isim daha ifadeye çağrıldı. Aralarında Eda Ece ve Kerem Bürsin de var. Türkiye’nin dört bir yanında yangın. Rüzgar mücadeleyi zorlaştırıyor. Ağaca çarptı, ikiye bölündü. TBMM’de öğrenci affını da içeren kanun teklifinin 13 maddesi kabul edildi. Arnavutköy’de düğün fotoğrafçısını öldürüp ormana gömdüler… 3 şüpheli yakalandı. Gelecek Partisi feshedildi. Hatay'da CHP'den 54 kişi istifa etti.",
       "items": [
         {
-          "title": "Futbolda yeni sezon öncesi kritik toplantı: Sanal devriyeler artacak",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, 2026-2027 futbol sezonu öncesinde düzenlenen Spor Güvenliği Değerlendirme Toplantısı’nda yeni sezonda uygulanacak tedbirlerin ele alındığını açıkladı. Toplantı, İçişleri Bakanı Mustafa Çiftçi’nin yanı sıra Adalet Bakanı Akın Gürlek ve Gençlik ve Spor Bakanı Osman Aşkın Bak’ın katılımıyla gerçekleştirildi. Toplantıya 81 ilin valileri ile ilgili kurumların yöneticileri de katıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/futbolda-yeni-sezon-oncesi-kritik-toplanti-sanal-devriyeler-artirilacak-1735147"
+          "title": "Ahbap soruşturmasında 5 ünlü isim daha ifadeye çağrıldı. Aralarında Eda Ece ve Kerem Bürsin de var",
+          "summary": "Ahbap Derneği'ne yönelik soruşturma kapsamında Berna Laçin, Eda Ece, Farah Zeynep Abdullah, İrem Helvacıoğlu ve Kerem Bürsin de savcılık tarafından ifadeye çağrıldı. Ahbap Derneği'ne yönelik soruşturma devam ediyor. İstanbul Cumhuriyet Başsavcılığı'nca yürütülen “Ahbaplar Suç Örgütü” soruşturması kapsamında oyuncular Berna Laçin, Eda Ece, Farah Zeynep Abdullah, İrem Helvacıoğlu ve Kerem Bürsin ifade vermek üzere savcılığa çağrıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ahbap-sorusturmasinda-5-unlu-isim-daha-ifadeye-cagirildi-aralarinda-eda-ece-ve-kerem-bursin-de-var-1735132"
         },
         {
-          "title": "Burdur’da CHP Ağlasun ilçe yönetimi istifa etti",
-          "summary": "Burdur’da CHP Ağlasun ilçe yönetimi, istifa ettiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/burdurda-chp-aglasun-ilce-yonetimi-istifa-etti-43255822"
+          "title": "Türkiye’nin dört bir yanında yangın. Rüzgar mücadeleyi zorlaştırıyor",
+          "summary": "Türkiye'de dün 9 ilde yangın çıktı. Alevlerle mücadele Antalya, Muğla, Balıkesir ve İzmir'de sürüyor. MUĞLA'DA MÜDAHALE SÜRÜYOR Muğla'nın Seydikemer ilçesinde çıkan orman yangınını söndürme çalışmaları devam ediyor. Bayır Mahallesi'ndeki zirai alanda sabah saatlerinde başlayan ve rüzgarın etkisiyle ormanlık alana sıçrayarak büyüyen yangını söndürme çalışmaları sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-turkiyenin-dort-bir-yaninda-yangin-ruzgar-mucadeleyi-zorlastiriyor-1735168"
         },
         {
-          "title": "İstiklal Caddesi'nde alışveriş merkezinde yangın",
-          "summary": "Taksim İstiklal Caddesi'ndeki alışveriş merkezinde bulunan lokantanın bacasında yangın çıktı. İhbar üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi. Alışveriş merkezinin içindeki kişiler tahliye edilirken, ekiplerin yangına müdahalesi sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/istiklal-caddesinde-alisveris-merkezinde-yangin-43255818"
+          "title": "Ağaca çarptı, ikiye bölündü",
+          "summary": "Sakarya'nın Erenler ilçesinde ağaca çarpıp kağıt gibi ikiye bölünen otomobilin sürücüsü yaralandı. Adapazarı-Karasu çevre yolunun Küpçüler Mahallesi mevkisinde A.İ.Ç.'nin kullandığı otomobil, sürücünün direksiyon hakimiyetini kaybetmesi sonucu büyük bir hızla yol kenarındaki ağaca çarptı. Kazanın etkisiyle ikiye ayrılan aracın bir kısmı ağaca saplandı. Aracın diğer yarısı ise yaklaşık 50 metre sürüklendi. Olay yerine sağlık ve polis ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/agaca-carpti-ikiye-bolundu-1735173"
         },
         {
-          "title": "İçecek fabrikasında patlama: 2 işçi hayatını kaybetti",
-          "summary": "Kırklareli'nde bir içecek üretim fabrikasında meydana gelen patlamada 2 işçi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/icecek-fabrikasinda-patlama-2-isci-hayatini-kaybetti-43255751"
+          "title": "TBMM’de öğrenci affını da içeren kanun teklifinin 13 maddesi kabul edildi",
+          "summary": "TÜRKİYE Büyük Millet Meclisi (TBMM) Genel Kurulu'nda, öğrenci affına yönelik düzenlemeleri de içeren, 'Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi'nin ilk 13 maddesi kabul edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmmde-ogrenci-affini-da-iceren-kanun-teklifinin-13-maddesi-kabul-edildi-43256154"
         },
         {
-          "title": "5. İstanbul Festivali 1 Ağustos'ta başlayacak",
-          "summary": "Dünyaca ünlü isimlerin sahne alacağı, Focus İstanbul Etkinlik Yönetimi tarafından bu yıl beşincisi düzenlenen \"İstanbul Festivali\", deneyim alanları ve konserleriyle 1 Ağustos’ta Festival Park Yenikapı'da başlayacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/5-istanbul-festivali-1-agustosta-baslayacak-43255748"
+          "title": "Arnavutköy’de düğün fotoğrafçısını öldürüp ormana gömdüler… 3 şüpheli yakalandı",
+          "summary": "ARNAVUTKÖY'de düğün fotoğrafçısı Ferhat Açık'ı öldürdükten sonra cesedini ormanlık alana gömdükleri belirlenen 3 şüpheli, Van’da düzenlenen operasyonda yakalandı. Şüphelilerin, öldürdükleri fotoğrafçının aracını satabilmek için noterden kendi adlarına vekalet çıkarmaya çalıştıkları tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/arnavutkoyde-dugun-fotografcisini-oldurup-ormana-gomduler-3-supheli-yakalandi-43256153"
         },
         {
-          "title": "Cumhurbaşkanlığı Kabinesi toplandı",
-          "summary": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın başkanlığında Cumhurbaşkanlığı Külliyesi'nde toplandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskanligi-kabinesi-toplandi-43255710"
+          "title": "Gelecek Partisi feshedildi",
+          "summary": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu, partinin siyasi faaliyetlerini sonlandırma kararı aldıklarını bildirdi. “Yarının Türkiye’si İçin” başlıklı dört sayfalık bir bildiri yayımlayan Davutoğlu, kararın partinin yetkili kurulları ve dava arkadaşlarıyla yapılan istişareler sonucunda alındığını belirtti. Davutoğlu, “Parti siyasetinden çekilme ve Gelecek Partisi’nin siyasi faaliyetlerini sonlandırma kararı almış bulunuyoruz.” ifadelerini kullandı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-gelecek-partisi-feshedildi-1735156"
         },
         {
-          "title": "Bungalov havuzunda boğulma tehlikesi geçiren Miraç, 42 gün sonra hayatını kaybetti",
-          "summary": "Sakarya'nın Sapanca ilçesinde bungalov tesisindeki havuzda boğulma tehlikesi geçiren Miraç Akdeniz (5), 42 gündür tedavi gördüğü hastanede hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bungalov-havuzunda-bogulma-tehlikesi-geciren-mirac-42-gun-sonra-hayatini-kaybetti-43255683"
+          "title": "Hatay'da CHP'den 54 kişi istifa etti",
+          "summary": "HATAY’ın Reyhanlı ve Kumlu ilçemlerinde aralarında 54 kişi CHP’den istifa etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/hatayda-chpden-54-kisi-istifa-etti-43256060"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail'in Gazze'ye saldırılarında acı bilanço… 2 bin 276 aile nüfus kayıtlarından silindi. NATO'dan \"Türk Yıldızları\" paylaşımı: Keskin kanatlar. Irak basınından Cumhurbaşkanı Erdoğan'ın Ankara'daki görüşmesine özel ilgi. Netanyahu'nun ABD Başkan Yardımcısı Vance ile görüştüğü bildirildi. Yemek yediğiniz saat beyin sağlığını etkileyebilir. Akıllı klozet kapağı kalp ritim bozukluğunu tespit edebilir. Elektronik sigara sanıldığı kadar masum değil.",
+      "text": "Trump ''Şimdi sıra bizde'' dedi, İran'a yeni dalga saldırı başladı. Arjantin'de helikopter düştü. 7 ölü. KKTC Dışişleri Bakanlığı'ndan iki devletli çözüm vurgusu. İsrail'in Gazze'ye saldırılarında acı bilanço… 2 bin 276 aile nüfus kayıtlarından silindi. NATO'dan \"Türk Yıldızları\" paylaşımı: Keskin kanatlar. Irak basınından Cumhurbaşkanı Erdoğan'ın Ankara'daki görüşmesine özel ilgi. Netanyahu'nun ABD Başkan Yardımcısı Vance ile görüştüğü bildirildi.",
       "items": [
+        {
+          "title": "Trump ''Şimdi sıra bizde'' dedi, İran'a yeni dalga saldırı başladı",
+          "summary": "ABD Başkanı Donald Trump, Ürdün’deki ABD askeri unsurlarına yönelik saldırının ardından İran’a “çok sert” karşılık verileceğini söyledi. Gece yarısı İran'ın farklı bölgelerinden patlama sesleri yükseldi. Beyaz Saray’da gazetecilerin sorularını yanıtlayan Trump, saldırıya ilişkin, “Şimdi sıra bizde.” dedi. Washington ile Tahran arasında savaşı sona erdirecek bir anlaşma yapılıp yapılamayacağının ilerleyen süreçte görüleceğini belirten Trump, “Ancak onlara çok sert vuracağız.” ifadelerini kullandı.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-irana-tehdit-simdi-sira-bizde-1735162"
+        },
+        {
+          "title": "Arjantin'de helikopter düştü. 7 ölü",
+          "summary": "Arjantin'de orman yangınına destek için havalanan helikopter düştü. İtfaiye, polis ve sivil savunma müdürlerinin de aralarında olduğu 7 kişi öldü. Arjantin'in batısındaki San Juan eyaletinde helikopter kazası meydana geldi. San Juan Valisi Marcelo Orrego, sosyal medya hesabından yaptığı açıklamada Bell 412 tipi helikopterin San Juan'a bağlı Ischigualasto Eyalet Parkı bölgesinde henüz belirlenemeyen bir nedenle düştüğünü duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/arjantinde-helikopter-dustu-7-olu-1735174"
+        },
+        {
+          "title": "KKTC Dışişleri Bakanlığı'ndan iki devletli çözüm vurgusu",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Dışişleri Bakanlığı, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres’in Kıbrıs temaslarının ardından Türkiye tarafından yapılan açıklamayı memnuniyetle karşıladıklarını bildirerek, Kıbrıs’ta iki devletli mevcut yapının göz ardı edilmesiyle yürütülecek herhangi bir sürecin başarı şansı bulunmadığını vurguladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/kktc-disisleri-bakanligindan-iki-devletli-cozum-vurgusu-43255979"
+        },
         {
           "title": "İsrail'in Gazze'ye saldırılarında acı bilanço… 2 bin 276 aile nüfus kayıtlarından silindi",
           "summary": "İsrail'in Gazze Şeridi'nde Ekim 2023'ten bu yana devam eden saldırıları sonucu Filistinli 2 bin 276 ailenin nüfus kayıtlarından tamamen silindiği ve 60 bin 737 çocuğun yetim veya öksüz kaldığı bildirildi.",
@@ -65,27 +80,22 @@
           "title": "Netanyahu'nun ABD Başkan Yardımcısı Vance ile görüştüğü bildirildi",
           "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, \"İsrail hükümeti tarafından fonlanan kişilerin\" kendisine saldırdığını söyleyen ABD Başkan Yardımcısı JD Vance ile Washington'da görüştüğü belirtildi.",
           "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-abd-baskan-yardimcisi-vance-ile-gorustugu-bildirildi-43255784"
-        },
-        {
-          "title": "Yemek yediğiniz saat beyin sağlığını etkileyebilir",
-          "summary": "Yeni bir araştırma, yemek yeme süresini günde 8-9 saatle sınırlayıp yatmadan en az 4 saat önce yemeği bırakmanın, 50 yaş üzerindeki kişilerde hafıza, dikkat ve problem çözme becerilerini destekleyebileceğini ortaya koydu.",
-          "source": "https://www.hurriyet.com.tr/dunya/yemek-yediginiz-saat-beyin-sagligini-etkileyebilir-43255758"
-        },
-        {
-          "title": "Akıllı klozet kapağı kalp ritim bozukluğunu tespit edebilir",
-          "summary": "Almanya'da geliştirilen akıllı klozet kapağı, yalnızca 30 saniyelik kullanım sırasında kalp ritmini analiz ederek en yaygın ritim bozukluklarından biri olan atriyal fibrilasyonu tespit edebiliyor. İlk sonuçlara göre sistem, hastanelerde kullanılan EKG cihazlarına yakın doğruluk oranı sunuyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/akilli-klozet-kapagi-kalp-ritim-bozuklugunu-tespit-edebilir-43255752"
-        },
-        {
-          "title": "Elektronik sigara sanıldığı kadar masum değil",
-          "summary": "Uzun süredir sigaraya göre daha güvenli bir alternatif olarak görülen elektronik sigaralarla ilgili dikkat çeken bir araştırma yayımlandı. University of Canterbury araştırmacıları, elektronik sigara kullanımının tamamen risksiz olmadığını ve kanser riskini artırabilecek kimyasallara maruz bırakabileceğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/elektronik-sigara-sanildigi-kadar-masum-degil-43255747"
         }
       ]
     },
     "ekonomi": {
-      "text": "Kuru domatesten 61 milyon dolar. Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli. Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Yeni pazar arayışı.",
+      "text": "Fed faizi sabit tuttu. 5. İstanbul Festivali 1 Ağustos'ta başlayacak. Kuru domatesten 61 milyon dolar. Savaşın gölgesinde hayat durdu... İranlılar mutsuz yorgun endişeli. Varta yeniden iflas başvurusunda bulundu. Yatırım araçlarının haftalık performansı nasıl oldu?. Didim’e uluslararası marka yatırımı.",
       "items": [
+        {
+          "title": "Fed faizi sabit tuttu",
+          "summary": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,5-3,75 aralığında sabit tuttu. Federal Açık Piyasa Komitesi (FOMC), iki günlük toplantının ardından federal fonlama faizini üst üste beşinci kez yüzde 3,50-3,75 aralığında sabit tuttu. Karar, 12 üyeli komitede 9’a karşı 3 oyla alındı. Cleveland Fed Başkanı Beth Hammack, Dallas Fed Başkanı Lorie Logan ve Minneapolis Fed Başkanı Neel Kashkari, enflasyonla mücadele amacıyla faizin 25 baz puan artırılmasını istedi.",
+          "source": "https://www.ntv.com.tr/ekonomi/fed-faizi-sabit-tuttu-1735157"
+        },
+        {
+          "title": "5. İstanbul Festivali 1 Ağustos'ta başlayacak",
+          "summary": "Dünyaca ünlü isimlerin sahne alacağı, Focus İstanbul Etkinlik Yönetimi tarafından bu yıl beşincisi düzenlenen \"İstanbul Festivali\", deneyim alanları ve konserleriyle 1 Ağustos’ta Festival Park Yenikapı'da başlayacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/5-istanbul-festivali-1-agustosta-baslayacak-43255748"
+        },
         {
           "title": "Kuru domatesten 61 milyon dolar",
           "summary": "Türkiye, bu yılın ocak-haziran döneminde 91 ülkeye gerçekleştirdiği 18 bin 301 tonluk kurutulmuş domates ihracatından 60 milyon 989 bin dolar gelir sağladı.",
@@ -110,56 +120,46 @@
           "title": "Didim’e uluslararası marka yatırımı",
           "summary": "Aydın’ın yükselen turizm destinasyonlarından Didim, uluslararası otel yatırımlarına bir yenisini daha kazandırıyor.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/didime-uluslararasi-marka-yatirimi-43250531"
-        },
-        {
-          "title": "DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli",
-          "summary": "Gayrimenkul sektöründe sanat eseri niteliğinde projeler üreten DAP Gayrimenkul Geliştirme, Emlak Konut güvencesi ve Dap vizyonu ile satışa çıkardığı yeni projesi Ataşehir 173’te kontrollü ve planlı bir finansman modeline imza attı. Tasarrufa Dayalı Faizsiz Finansman sistemi ile 60 ve 30 aylık sözleşmelerle faizsiz kefilsiz finansman desteği.",
-          "source": "https://www.ntv.com.tr/ekonomi/dap-yapidan-bir-ilk-emlak-konut-guvencesi-dap-vizyonuyla-kendi-kendini-odeyen-ev-modeli-1734193"
-        },
-        {
-          "title": "Yeni pazar arayışı",
-          "summary": "EGELİ maden ihracatçıları 2026’nın ilk 6 ayını yüzde 12 artışla 767 milyon dolar ihracatla geride bıraktı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/yeni-pazar-arayisi-43245226"
         }
       ]
     },
     "spor": {
-      "text": "Mauro Icardi'ye yurt dışı çıkış yasağı! Karara sert tepki... Vedat Muriqi'ye Kadıköy'de sevgi seli!. Türk golfü adına tarihi başarı. Galatasaray'ın istediği Can Uzun'a Fenerbahçe kancası!. Gaziantep FK'den imza şov: 7 transfer birden açıklandı!. FIFA'dan Türk takımına 6 puan silme cezası. Başakşehir, Umut Bozok transferini açıkladı.",
+      "text": "Michal Gasparik: 'Fenerbahçe'ye büyük baskı kurduk!'. İsmail Kartal: 'Test maçı oldu!'. Ake'den Skriniar'a övgüler: 'Üst seviye!'. Mert Günok, Polonya'da duvar ördü: Kurtarışlarıyla geceye damga vurdu!. Samsunspor, AEK'i geriden gelip mağlup etti!. Vincenzo Italiano: 'Avantajımız var, akıllı olmalıyız!'. Nuri Şahin: 'Tur atlamak istiyoruz!'.",
       "items": [
         {
-          "title": "Mauro Icardi'ye yurt dışı çıkış yasağı! Karara sert tepki...",
-          "summary": "Galatasaray ile sözleşmesi sona eren Mauro Icardi ile eski eşi Wanda Nara arasındaki boşanma ve velayet davasında dikkat çeken bir gelişme yaşandı. Arjantinli yıldızın ülkesinden çıkışı yasaklandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mauro-icardiye-yurt-disi-cikis-yasagi-karara-sert-tepki-43255857"
+          "title": "Michal Gasparik: 'Fenerbahçe'ye büyük baskı kurduk!'",
+          "summary": "UEFA Şampiyonlar Ligi 2. eleme turu rövanşında sahasında Fenerbahçe ile 1-1 berabere kalarak elenen Gornik Zabrze'nin teknik direktörü Michal Gasparik, oyuncularıyla gurur duyduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/michal-gasparik-fenerbahceye-buyuk-baski-kurduk-43256082"
         },
         {
-          "title": "Vedat Muriqi'ye Kadıköy'de sevgi seli!",
-          "summary": "Fenerbahçe'nin Kosovalı golcüsü Vedat Muriqi, Kadıköy'de Fenerium mağazasında düzenlenen imza gününde sarı-lacivertli taraftarlarla buluştu. Muriqi'nin forma imzalayıp hayranlarıyla fotoğraf çektirdiği etkinlik, özellikle genç taraftarlar tarafından yoğun ilgiyle karşılandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqiye-kadikoyde-sevgi-seli-43255845"
+          "title": "İsmail Kartal: 'Test maçı oldu!'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, UEFA Şampiyonlar Ligi 3. eleme turuna yükseldikleri Gornik Zabrze maçının ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-test-maci-oldu-43256074"
         },
         {
-          "title": "Türk golfü adına tarihi başarı",
-          "summary": "Milli golfçü Deniz Sapmaz, Avrupa Kadınlar Amatör Şampiyonası’nda final turuna yükselen ilk Türk golfçü olarak tarihe geçti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turk-golfu-adina-tarihi-basari-43255844"
+          "title": "Ake'den Skriniar'a övgüler: 'Üst seviye!'",
+          "summary": "Fenerbahçe'de Mert Günok ve Nathan Ake, tur atladıkları Gornik Zabrze maçının ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/akeden-skriniara-ovguler-ust-seviye-43256072"
         },
         {
-          "title": "Galatasaray'ın istediği Can Uzun'a Fenerbahçe kancası!",
-          "summary": "Transfer döneminde adı Galatasaray ile anılan milli futbolcu Can Uzun için Fenerbahçe iddiası gündeme bomba gibi düştü. Sarı-lacivertlilerin, 20 yaşındaki futbolcuyu renklerine bağlamak için harekete geçtiği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-istedigi-can-uzuna-fenerbahce-kancasi-43255839"
+          "title": "Mert Günok, Polonya'da duvar ördü: Kurtarışlarıyla geceye damga vurdu!",
+          "summary": "Fenerbahçe'nin Gornik Zabrze'yi eleyerek bir üst tura yükseldiği karşılaşmada Mert Günok yaptığı kritik kurtarışlarla ön plana çıktı. Tecrübeli file bekçisi, Polonya temsilcisinin umutlanmasına dahi izin vermedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mert-gunok-polonyada-duvar-ordu-kurtarislariyla-geceye-damga-vurdu-43256064"
         },
         {
-          "title": "Gaziantep FK'den imza şov: 7 transfer birden açıklandı!",
-          "summary": "Süper Lig ekiplerinden Gaziantep FK, transfer yasağının kaldırılmasının ardından 7 futbolcuyu kadrosuna kattığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gaziantep-fkden-imza-sov-7-transfer-birden-aciklandi-43255788"
+          "title": "Samsunspor, AEK'i geriden gelip mağlup etti!",
+          "summary": "Trendyol Süper Lig ekiplerinden Samsunspor, Hollanda'da oynanan hazırlık karşılaşmasında AEK Athens FC'yi 2-1 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-aeki-geriden-gelip-maglup-etti-43256056"
         },
         {
-          "title": "FIFA'dan Türk takımına 6 puan silme cezası",
-          "summary": "FIFA Disiplin Komitesi, 2. Lig ekiplerinden Adana Demirspor'a 6 puan silme cezası verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fifadan-turk-takimina-6-puan-silme-cezasi-43255762"
+          "title": "Vincenzo Italiano: 'Avantajımız var, akıllı olmalıyız!'",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, UEFA Avrupa Ligi 2. Ön Eleme Turu rövanşında Midtjylland ile oynayacakları maç öncesinde açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-avantajimiz-var-akilli-olmaliyiz-43255976"
         },
         {
-          "title": "Başakşehir, Umut Bozok transferini açıkladı",
-          "summary": "Süper Lig ekiplerinden Başakşehir, son olarak Eyüpspor forması giyen Umut Bozok'u kadrosuna kattığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basaksehir-umut-bozok-transferini-acikladi-43255638"
+          "title": "Nuri Şahin: 'Tur atlamak istiyoruz!'",
+          "summary": "UEFA Konferans Ligi 2. eleme turu rövanşında yarın Finlandiya ekibi Inter Turku'ya konuk olacak İstanbul Başakşehir'de teknik direktör Nuri Şahin, tur atlayacaklarından emin olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-tur-atlamak-istiyoruz-43255907"
         }
       ]
     },
