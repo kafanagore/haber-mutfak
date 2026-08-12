@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-12T04:00:06.859Z",
+  "generatedAt": "2026-08-12T10:00:03.983Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da viyadük ayağında keçi kurtarma operasyonu. Motosiklet otomobile ok gibi saplandı: 1 ölü, 1 yaralı. Bakan Göktaş duyurdu! Başvurular 1 Eylül’de başlıyor. Rojin Kabaiş davası. Rektör ve yeğeninden DNA örneği alındı. Türkiye'den, Kolombiya'nın \"Golan Tepeleri\" kararına kınama. Haber yaparken saldırıya uğrayan muhabir yaralandı. TBMM’nin tatile girmesi hakkında karar Resmi Gazete’de.",
+      "text": "Yaz sıcağında zorlu mesai başladı. Günlük ücretleri 2 bin lira. Bakan Çiftçi: Dezenformasyonla mücadele milli güvenlik meselesidir. Ömer Çelik'ten DEM Partili Hatimoğlulları'na tepki. AK Parti Sözcüsü Çelik: Tülay Hatimoğulları’nın partimizi ve hükümetimizi hedef alan ifadelerini reddediyoruz. Cumhurbaşkanı Erdoğan yanıtladı: Mekke Ortak Savunma Anlaşması fikri nasıl ortaya çıktı?. Boşanma davasında emsal karar! Kayınvalidesinin cenazesine katılmayan eş, boşanma davasında tam kusurlu bulundu. Numan Kurtulmuş: Yasada ulus devlet yapımızı bozacak tek bir kelime yok.",
       "items": [
         {
-          "title": "İstanbul'da viyadük ayağında keçi kurtarma operasyonu",
-          "summary": "İstanbul Kuzey Marmara Otoyolu'nda viyadük ayağında mahsur kalan keçi, itfaiye ekiplerince kurtarıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-viyaduk-ayaginda-keci-kurtarma-operasyonu-43270162"
+          "title": "Yaz sıcağında zorlu mesai başladı. Günlük ücretleri 2 bin lira",
+          "summary": "Mevsimlik fındık işçilerinin mesaisi başladı. Ekmek parası için Türkiye'yi dolaşan mevsimlik tarım işçileri, Düzce'de fındık sezonunu açtı. Genellikle Doğu ve Güneydoğu Anadolu'dan fındık hasadı için eşleri ve çocuklarıyla kente gelen mevsimlik tarım işçilerinin konaklaması için 8 çadır ve konteyner alanı belirlendi. Tarım işçileri, eşleri ve çocukları olmak üzere yaklaşık 9 bin kişiden bazıları bu alanlara, bazıları da kiralık evlere yerleşti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-yaz-sicaginda-zorlu-mesai-basladi-gunluk-ucretleri-2-bin-lira-1737024"
         },
         {
-          "title": "Motosiklet otomobile ok gibi saplandı: 1 ölü, 1 yaralı",
-          "summary": "Karaman'da kavşakta dönüş yapmakta olan otomobile ok gibi saplanan motosikletin sürücüsü hayatını kaybederken, arkasında bulunan kız çocuğu ağır yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/motosiklet-otomobile-ok-gibi-saplandi-1-olu-1-yarali-43270156"
+          "title": "Bakan Çiftçi: Dezenformasyonla mücadele milli güvenlik meselesidir",
+          "summary": "“Mülki İdare Amirlerine Yönelik Sosyal Medya Rehberi” Tanıtım Programı ve “Dijital Çağda Kamu İletişimi” Panelinde konuşan İçişleri Bakanı Mustafa Çiftçi, dezenformasyonla mücadelenin yalnızca iletişimcilerin meselesi olmadığını vurgulayarak, “Dezenformasyonla mücadele aynı zamanda kamu düzenimizi, toplumsal huzurumuzu ve milli güvenliğimizi doğrudan ilgilendiren temel ve öncelikli bir meseledir.” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-dezenformasyonla-mucadele-milli-guvenlik-meselesidir-43270579"
         },
         {
-          "title": "Bakan Göktaş duyurdu! Başvurular 1 Eylül’de başlıyor",
-          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, TBMM Genel Kurulunda kabul edilerek yasalaşan yeni kanunun kapsamında, terörle mücadelede yaralanan ancak malul sayılmayanlara yönelik başvuruların 1 Eylül'de başlayacağını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-goktas-duyurdu-basvurular-1-eylulde-basliyor-43270147"
+          "title": "Ömer Çelik'ten DEM Partili Hatimoğlulları'na tepki",
+          "summary": "AK Parti Sözcüsü Ömer Çelik, DEM Parti Eş Genel Başkanı Tülay Hatimoğulları'na tepki gösterip \"AK Parti ve hükümetimizi hedef alan sözlerini reddediyoruz.\" dedi. AK Parti Sözcüsü Ömer Çelik, DEM Partili Tülay Hatimoğulları'na sosyal medya hesabından yaptığı açıklamayla tepki gösterdi.",
+          "source": "https://www.ntv.com.tr/turkiye/omer-celikten-dem-partili-hatimoglullarina-tepki-1737020"
         },
         {
-          "title": "Rojin Kabaiş davası. Rektör ve yeğeninden DNA örneği alındı",
-          "summary": "Rojin Kabaiş'in ölümüne ilişkin ailesi üniversite rektörü ve yeğeninin de olayla bağlantısının araştırılmasını talep etmişti. Bu kapsamda iki kişiden DNA örneği alındı. Van Yüzüncü Yıl Üniversitesi Okul Öncesi Öğretmenliği Bölümü öğrencisi 21 yaşındaki Rojin Kabaiş, 2024 yılında kaybolmuş, aramalar sonucunda göl kenarında cansız bedeni bulunmuştu. Kabaiş'in otopsisinde yapılan incelemde daha önce iki farklı erkeğe ait DNA profili tespit edilmişti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-rojin-kabais-davasi-rektor-ve-yegeninden-dna-ornegi-alindi-1736935"
+          "title": "AK Parti Sözcüsü Çelik: Tülay Hatimoğulları’nın partimizi ve hükümetimizi hedef alan ifadelerini reddediyoruz",
+          "summary": "AK Parti Sözcüsü Ömer Çelik,\" \"DEM Parti Eş Genel Başkanı Sayın Tülay Hatimoğulları’nın partimizi ve hükümetimizi hedef alan ifadelerini reddediyoruz\" dedi. Çelik, \"Hatimoğulları’nın İsrail’in Filistin’i işgaline karşı çıkmamızı, soykırımcı Netanyahu’nun sözlerine sahip çıkarak ele almasını kınıyoruz. Sayın Hatimoğulları bu açıklamasını düzeltmelidir\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celik-tulay-hatimogullarinin-partimizi-ve-hukumetimizi-hedef-alan-ifadelerini-reddediyoruz-43270538"
         },
         {
-          "title": "Türkiye'den, Kolombiya'nın \"Golan Tepeleri\" kararına kınama",
-          "summary": "Dışişleri Bakanlığı, Kolombiya'nın işgal altındaki Golan Tepeleri üzerinde \"İsrail egemenliğini tanıdığı\" yönündeki kararını kınadı. Bakanlıktan yapılan yazılı açıklamada, \"Suriye’nin ayrılmaz bir parçasını teşkil eden Golan Tepeleri’ndeki İsrail işgalini meşrulaştırmaya yönelik olarak Kolombiya tarafından yapılan açıklamayı şiddetle kınıyoruz.\" denilerek, Birleşmiş Milletler (BM) Güvenlik Konseyi’nin 497 sayılı kararı başta olmak üzere, uluslararası hukukun \"vahim bir ihlalini\" teşkil eden bu minvaldeki münferit ç",
-          "source": "https://www.ntv.com.tr/turkiye/turkiyeden-kolombiyanin-golan-tepeleri-kararina-kinama-1736944"
+          "title": "Cumhurbaşkanı Erdoğan yanıtladı: Mekke Ortak Savunma Anlaşması fikri nasıl ortaya çıktı?",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Mekke Ortak Savunma Anlaşması fikrinin bölgede ortaya çıkan yeni koşullar ve ittifaka imza atan üç ülkenin sorumluluk bilinci sonucunda doğduğunu söyledi. Cumhurbaşkanı Recep Tayyip Erdoğan, Londra merkezli Şarku'l Avsat gazetesine röportaj verdi. Cumhurbaşkanı Erdoğan mülakatında; Türkiye, Suudi Arabistan ve Pakistan arasında imzalanan Mekke Ortak Savunma Anlaşması'ndan Hürmüz Boğazı'ndaki gerilime kadar birçok başlıkta açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-mekke-anlasmasi-baris-ve-istikrarin-tezahuru-1737008"
         },
         {
-          "title": "Haber yaparken saldırıya uğrayan muhabir yaralandı",
-          "summary": "Kocaeli'de haber için gittiği olay yerinde iki şahsın saldırısına uğrayan muhabir yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/haber-yaparken-saldiriya-ugrayan-muhabir-yaralandi-43270101"
+          "title": "Boşanma davasında emsal karar! Kayınvalidesinin cenazesine katılmayan eş, boşanma davasında tam kusurlu bulundu",
+          "summary": "Ankara'da iş insanı N.Y.'nin (58), annesinin cenazesine katılmadığı gerekçesiyle 20 yıllık eşi S.Y.'ye açtığı boşanma davasında mahkeme kadını kusurlu bularak, çifti boşadı. Karar, Yargıtay tarafından da onandı. N.Y.'nin avukatı Senem Yılmazel, davalı kadının müvekkilinin annesinin cenazesine katılmamasının bardağı taşıran son damla olduğunu, cenazeden 1 ay sonra davayı açtıklarını söyledi. Yılmazel, \"Bir emsal karar oldu diyebiliriz. Burada sadece anne, kayınvalide diyemeyiz biz.",
+          "source": "https://www.hurriyet.com.tr/gundem/bosanma-davasinda-emsal-karar-kayinvalidesinin-cenazesine-katilmayan-es-bosanma-davasinda-tam-kusurlu-bulundu-43270502"
         },
         {
-          "title": "TBMM’nin tatile girmesi hakkında karar Resmi Gazete’de",
-          "summary": "Türkiye Büyük Millet Meclisi’nin (TBMM) tatile girmesi hakkında kararı Resmi Gazete’de yayımlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmmnin-tatile-girmesi-hakkinda-karar-resmi-gazetede-43270099"
+          "title": "Numan Kurtulmuş: Yasada ulus devlet yapımızı bozacak tek bir kelime yok",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, çerçeve yasada ulus devlet yapısını bozacak tek bir kelime olmadığını belirtip \"Bu yasa genel af değildir.\" dedi. Terörsüz Türkiye sürecinde kritik eşik aşıldı. Kamuoyunda çerçeve yasa olarak bilinen Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun, Meclis'te rekor oyla yasalaştı. TBMM Başkanı Numan Kurtulmuş, Anadolu Ajansı (AA) Editör Masası'nda gündeme ilişkin değerlendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/numan-kurtulmus-467-kabul-oyu-milletin-surece-desteginin-yansimasi-1737005"
         }
       ]
     },
     "dunya": {
-      "text": "Sel tonlarca çöpü nehre taşıdı. Manila'da korkutan görüntüler. Zengezur Koridoru için yeni plan: Enerji ve fiber hatları da geçebilir. Trump'tan gizli uçuş açıklaması: \"Benim uçağım daha büyük risk altındaydı\". İsrail basını: CENTCOM Komutanı Cooper, Gazze'de ateşkes için 15 maddelik plana bağlı olduklarını belirtti. Pistte ilerleyen özel jete araba çarptı. İran Meclisi'nden Hürmüz Boğazı'na ilişkin yasa hazırlığı. Fransız gazeteleri, Google yapay zeka arama özetleriyle ilgili rekabet kurumuna şikayette bulundu.",
+      "text": "Dışişleri Bakanı Hakan Fidan'dan TSK Libya Görev Gücü Komutanlığı'na ziyaret. ABD - İran ateşkesi uzuyor. İran ve ABD'den geçici ateşkes anlaşması: Barış için yeni umut. Milano Linate Havalimanı'nda yürekleri ağza getiren kaza. Miçotakis bisiklet kazası geçirdi. İsrail'den Suriye'de 'zehir saçan' oyun. Ünlü havayolu şirketi yapay zeka kullanacak. Google ile 5 yıllık anlaşma imzalandı.",
       "items": [
         {
-          "title": "Sel tonlarca çöpü nehre taşıdı. Manila'da korkutan görüntüler",
-          "summary": "Filipinler'in başkenti Manila ve çevresini etkileyen şiddetli muson yağmurları, tonlarca çöpü nehir, kanal ve kıyılara sürükledi. Filipinler'de günlerdir etkili olan şiddetli yağışlar ve sellerin ardından Metro Manila'nın su yolları tonlarca atıkla doldu. Reuters'ın 11 Ağustos'ta görüntülediği Paranaque kentinde işçiler, Baclaran Kilisesi yakınındaki su yolunu kaplayan plastik şişe, poşet ve diğer atıkları elleriyle ve teknelerle toplamaya çalıştı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-sel-tonlarca-copu-nehre-tasidi-manilada-korkutan-goruntuler-1736952"
+          "title": "Dışişleri Bakanı Hakan Fidan'dan TSK Libya Görev Gücü Komutanlığı'na ziyaret",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Libya'daki temaslarının ikinci gününde Türk Silahlı Kuvvetleri (TSK) Libya Görev Grup Komutanlığı'nı ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-tsk-libya-gorev-gucu-komutanligina-ziyaret-43270592"
         },
         {
-          "title": "Zengezur Koridoru için yeni plan: Enerji ve fiber hatları da geçebilir",
-          "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, Zengezur Koridoru’nun yalnızca kara ve demir yolu bağlantısıyla sınırlı kalmayacağını belirterek, güzergahtan elektrik hatları ve gelecekte petrol ile doğal gaz boru hatlarının da geçebileceğini söyledi. Aliyev, Azerbaycan Devlet Televizyonu'na (AZTV) verdiği röportajda, Zengezur Koridoru'nun açılması ve bölgede yürütülen altyapı çalışmaları hakkında değerlendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/zengezur-koridoru-icin-yeni-plan-enerji-ve-fiber-hatlari-da-gecebilir-1736955"
+          "title": "ABD - İran ateşkesi uzuyor",
+          "summary": "ABD ve İran'ın ateşkesi uzatma konusunda anlaştığı bildirildi. 28 Şubat 2026 tarihinde başlayan ABD-İran savaşında ateşkesin süresinin sona ermesinin yaklaşmasıyla birlikte ateşkesin uzatılmasına yönelik karar alındı. Anadolu Ajansı'nın Pakistanlı hükümet yetkililerine dayandırdığı bilgilere göre söz konusu anlaşma, 17 Haziran'da imzalanan mutabakat zaptındaki 60 günlük ateşkesin gelecek hafta sona ereceği bir dönemde geldi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-iran-ateskesi-uzuyor-1737018"
         },
         {
-          "title": "Trump'tan gizli uçuş açıklaması: \"Benim uçağım daha büyük risk altındaydı\"",
-          "summary": "ABD Başkanı Donald Trump, geçen ay İran kaynaklı olası bir suikast tehdidi nedeniyle Türkiye'den gizlice başka bir askeri uçakla ayrıldığını doğruladı. Washington Post'un ortaya çıkardığı güvenlik operasyonuyla ilgili gazetecilerin sorularını yanıtlayan Trump, kendisini taşıyan uçağın aslında daha büyük risk altında olduğunu düşündüğünü söyledi. Trump, \"Aslında benim uçtuğum uçağın daha büyük risk altında olduğunu düşünüyorum.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-gizli-ucus-aciklamasi-benim-ucagim-daha-buyuk-risk-altindaydi-1736950"
+          "title": "İran ve ABD'den geçici ateşkes anlaşması: Barış için yeni umut",
+          "summary": "Pakistanlı yetkililer, İran ile ABD'nin yeni bir geçici ateşkes anlaşması üzerinde anlaştığını bildirdi. Anlaşmanın taraflara kalıcı bir ateşkes için zaman kazandırmayı amaçladığı ifade edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-iran-ve-abdden-gecici-ateskes-anlasmasi-43270521"
         },
         {
-          "title": "İsrail basını: CENTCOM Komutanı Cooper, Gazze'de ateşkes için 15 maddelik plana bağlı olduklarını belirtti",
-          "summary": "ABD Merkez Kuvvetler Komutanı (CENTCOM) Brad Cooper’ın, Washington yönetiminin Gazze Şeridi’ndeki ateşkese ilişkin 15 maddelik anlaşmaya bağlı olduğunu Uluslararası İstikrar Gücü temsilcilerine ilettiği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-basini-centcom-komutani-cooper-gazzede-ateskes-icin-15-maddelik-plana-bagli-olduklarini-belirtti-43270154"
+          "title": "Milano Linate Havalimanı'nda yürekleri ağza getiren kaza",
+          "summary": "İtalya’nın Milano Linate Havalimanı’da bir özel jet ile yer hizmetleri aracı çarpıştı. Kaza nedeniyle havalimanında uçuşlar geçici olarak durduruldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/milano-linate-havalimaninda-yurekleri-agza-getiren-kaza-43270497"
         },
         {
-          "title": "Pistte ilerleyen özel jete araba çarptı",
-          "summary": "İtalya’daki Milano Linate Havalimanı’da pistte ilerleyen özel jete yer hizmetlerine ait araç çarptı. İtalya’nın Milano kentinde bulunan Milano Linate Havalimanı’da dün ilginç bir kaza yaşandı. Yer hizmetleri şirketine ait bir araç, pistte ilerleyen Hawker Beechcraft 400A tipi özel jete çarptı. Olay yerine acil durum ekipleri sevk edilirken, kazada ölen ya da yaralanan olmadı. Kaza nedeniyle Milano-Linate Havalimanı'ndaki hava trafiği yaklaşık 30 dakika süreyle geçici olarak durduruldu.",
-          "source": "https://www.ntv.com.tr/dunya/video-pistte-ilerleyen-ozel-jete-araba-carpti-1736941"
+          "title": "Miçotakis bisiklet kazası geçirdi",
+          "summary": "Yunanistan Başbakanı Kiryakos Miçotakis'in dün bisikletten düşerek hafif yaralandığı kaydedildi. Miçotakis'in tedbir amaçlı hastaneye kaldırıldığı belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/micotakis-bisiklet-kazasi-gecirdi-43270485"
         },
         {
-          "title": "İran Meclisi'nden Hürmüz Boğazı'na ilişkin yasa hazırlığı",
-          "summary": "Hürmüz Boğazı'na ilişkin hazırlanan yeni yasayla, düşman askeri ve ticari gemilerinin İran'ın izni olmadan Basra Körfezi'ne giriş yapamayacağı açıklandı. İran resmi haber ajansı IRNA'ye göre, Azizi, Gazeteciler Günü münasebetiyle düzenlenen toplantıda konuya ilişkin açıklamada bulundu. Azizi, Hürmüz Boğazı'na ilişkin hazırlanan yasanın İran Meclisi tarafından kabul edilmesi halinde, petrol endüstrisinin millileştirilmesinin ardından ülkenin en önemli ve ilerici yasalarından biri olacağını belirtti.",
-          "source": "https://www.ntv.com.tr/dunya/iran-meclisinden-hurmuz-bogazina-iliskin-yasa-hazirligi-1736927"
+          "title": "İsrail'den Suriye'de 'zehir saçan' oyun",
+          "summary": "Suriye'nin Kuneytra ilindeki Bi'r-i Acem ve Berika köylerinden İsam Abdi, İsrail'in sınır hattındaki tarım arazilerine yoğun kimyasal maddeler püskürterek çiftçilerin ekim faaliyetlerini engellediğini ve toprağı tarımsal üretim açısından kullanılamaz hale getirmeyi amaçladığını belirtti. İsrail güçlerinin, Esad rejimi döneminde köye her gün en az 3-4 kez girdiğini belirten Abdi, bazen bu devriyelerin yollarda geçici kontrol noktaları kurduklarını ve köylülerin evlerini aradıklarını anlattı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-suriyede-zehir-sacan-oyun-43270457"
         },
         {
-          "title": "Fransız gazeteleri, Google yapay zeka arama özetleriyle ilgili rekabet kurumuna şikayette bulundu",
-          "summary": "Fransız gazeteleri, internet sitelerine tıklanma oranını düşüren Google yapay zeka arama özetleri hakkında rekabet kurumuna şikayette bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransiz-gazeteleri-google-yapay-zeka-arama-ozetleriyle-ilgili-rekabet-kurumuna-sikayette-bulundu-43270046"
+          "title": "Ünlü havayolu şirketi yapay zeka kullanacak. Google ile 5 yıllık anlaşma imzalandı",
+          "summary": "Bilet fiyatlarının ucuzluğuyla sık sık gündeme gelen Ryanair, yapay zeka konusunda Google ile işbirliğine gitti. Ünlü havayolu şirketi Ryanair, mürettebat planlamasının yönetilmesi ve operasyonel kararların alınmasında Google'ın Gemini yapay zekası ile DeepMind modellerinin kullanılacağını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/unlu-havayolu-sirketi-yapay-zeka-kullanacak-google-ile-5-yillik-anlasma-imzalandi-1736999"
         }
       ]
     },
@@ -124,48 +124,58 @@
       ]
     },
     "spor": {
-      "text": "İsmail Kartal'dan Şampiyonlar Ligi sözleri: 'Zordur, üstesinden geleceğiz!'. Fabio Ingolitsch: 'Fenerbahçe, Lyon karşısında başarılı olacaktır!'. Samsunspor'a İtalyan stoper! Resmen imzayı attı. Skriniar'dan Guendouzi'ye övgü: 'Çok zeki ve kaliteli!'. Fenerbahçe'nin play-off turundaki rakibi Lyon!. Anderson Talisca, Avusturya'da tarihe geçti: Alex de Souza'yı geride bıraktı!. Dusan Vlahovic, Beşiktaş'ta! İşte İstanbul'a geliş tarihi.",
+      "text": "Beşiktaş, Hradec Kralove maçının hazırlıklarını tamamladı. Galatasaray'dan transferde Londra çıkarması! İki yıldız birden. Lyon Teknik Direktörü Paulo Fonseca'dan Fenerbahçe açıklaması!. UEFA Süper Kupa sahibi buluyor! PSG - Aston Villa maçının heyecanı canlı sohbet ile Misli'de. Beşiktaş, UEFA Avrupa Ligi'nde Hradec Kralove'u ağırlayacak!. Veysel Bilen: 'Bu sezon önceki sezondan daha zor olacak'. Trabzonspor Darwin Nunez transferinde sona geldi!.",
       "items": [
         {
-          "title": "İsmail Kartal'dan Şampiyonlar Ligi sözleri: 'Zordur, üstesinden geleceğiz!'",
-          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, UEFA Şampiyonlar Ligi'nde adını play-off turuna yazdırdıkları Strum Graz eşleşmesinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartaldan-sampiyonlar-ligi-sozleri-zordur-ustesinden-gelecegiz-43270094"
+          "title": "Beşiktaş, Hradec Kralove maçının hazırlıklarını tamamladı",
+          "summary": "UEFA Avrupa Ligi 3. eleme turu rövanşında yarın Çekya'nın Hradec Kralove takımıyla karşılaşacak Beşiktaş, son antrenmanını yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-hradec-kralove-macinin-hazirliklarini-tamamladi-43270587"
         },
         {
-          "title": "Fabio Ingolitsch: 'Fenerbahçe, Lyon karşısında başarılı olacaktır!'",
-          "summary": "UEFA Şampiyonlar Ligi 3. eleme turunda 2-0'ın rövanşında sahasında Fenerbahçe'ye 1-0 yenilen Sturm Graz'da teknik direktör Fabio Ingolitsch, kaybettikleri için üzgün olduklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fabio-ingolitsch-fenerbahce-lyon-karsisinda-basarili-olacaktir-43270088"
+          "title": "Galatasaray'dan transferde Londra çıkarması! İki yıldız birden",
+          "summary": "Transfer döneminde sessiz kalan Galatasaray, taraftarını heyecanlandıracak dev bir operasyona başladı. Sarı-kırmızılılar, İngiliz devinin iki yıldızı hareketi geçti. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-transferde-londra-cikarmasi-iki-yildiz-birden-43270295"
         },
         {
-          "title": "Samsunspor'a İtalyan stoper! Resmen imzayı attı",
-          "summary": "Samsunspor, İtalya Serie B ekiplerinden Empoli forması giyen 22 yaşındaki İtalyan stoper Gabriele Guarino ile 2031 yılına kadar geçerli 5 yıllık sözleşme imzaladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspora-italyan-stoper-resmen-imzayi-atti-43270087"
+          "title": "Lyon Teknik Direktörü Paulo Fonseca'dan Fenerbahçe açıklaması!",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 3. eleme turunda Sturm Graz'ı eleyerek play-off turunda Lyon ile eşleşti. Sparta Prag'ı eleyen Lyon'da teknik direktör Paulo Fonseca Fenerbahçe hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lyon-teknik-direktoru-paulo-fonsecadan-fenerbahce-aciklamasi-43270515"
         },
         {
-          "title": "Skriniar'dan Guendouzi'ye övgü: 'Çok zeki ve kaliteli!'",
-          "summary": "Fenerbahçe'nin kaptanı Milan Skriniar, UEFA Şampiyonlar Ligi'nde play-off turuna kaldıkları Strum Graz maçının ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/skriniardan-guendouziye-ovgu-cok-zeki-ve-kaliteli-43270079"
+          "title": "UEFA Süper Kupa sahibi buluyor! PSG - Aston Villa maçının heyecanı canlı sohbet ile Misli'de",
+          "summary": "UEFA Süper Kupa finalinde bu akşam PSG ile Aston Villa karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli’de olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-super-kupa-sahibi-buluyor-psg-aston-villa-macinin-heyecani-canli-sohbet-ile-mislide-43270468"
         },
         {
-          "title": "Fenerbahçe'nin play-off turundaki rakibi Lyon!",
-          "summary": "Fenerbahçe'nin UEFA Şampiyonlar Ligi play-off turundaki rakibi, Fransa temsilcisi Olimpik Lyon oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-play-off-turundaki-rakibi-lyon-43270076"
+          "title": "Beşiktaş, UEFA Avrupa Ligi'nde Hradec Kralove'u ağırlayacak!",
+          "summary": "Beşiktaş, UEFA Avrupa Ligi 3. eleme turu rövanş maçında yarın evinde Çekya ekibi Hradec Kralove ile karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-uefa-avrupa-liginde-hradec-kraloveu-agirlayacak-43270407"
         },
         {
-          "title": "Anderson Talisca, Avusturya'da tarihe geçti: Alex de Souza'yı geride bıraktı!",
-          "summary": "Fenerbahçe, Sturm Graz'ı deplasmanda 1-0 mağlup ederek Şampiyonlar Ligi'nde play-off turuna yükselirken, galibiyet golünü atan Anderson Talisca da tarihi bir başarıya imza attı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anderson-talisca-avusturyada-tarihe-gecti-alex-de-souzayi-geride-birakti-43270069"
+          "title": "Veysel Bilen: 'Bu sezon önceki sezondan daha zor olacak'",
+          "summary": "Süper Lig ekiplerinden Samsunspor'un Başkan Vekili Veysel Bilen, 2026-2027 futbol sezonunun geçen sezondan daha zor olacağını bildiklerini ve hazırlıklarını ona göre yaptıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/veysel-bilen-bu-sezon-onceki-sezondan-daha-zor-olacak-43270388"
         },
         {
-          "title": "Dusan Vlahovic, Beşiktaş'ta! İşte İstanbul'a geliş tarihi",
-          "summary": "Beşiktaş aradığı santrfora kavuşuyor. Siyah-beyazlılar uzun süredir görüşmelerini sürdürdüğü Dusan Vlahovic ile anlaşma sağladı. Sırp yıldız resmi imza için İstanbul'a gelecek. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/dusan-vlahovic-besiktasta-iste-istanbula-gelis-tarihi-43270047"
+          "title": "Trabzonspor Darwin Nunez transferinde sona geldi!",
+          "summary": "Trabzonspor çalışmalarına tüm hızıyla devam ediyor. Mohammed Salah'ın ardından bir yıldız ismi daha kadrosuna katmak isteyen bordo-mavililer, Darwin Nunez transferinde sona geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-darwin-nunez-transferinde-sona-geldi-43270285"
         }
       ]
     },
     "teknoloji": {
-      "text": "Kuantum ve yapay zekayı birleştirecek yeni adım. Havayolu sektörünün geleceği için final heyecanı. Trabzon’da 15 bin yıllık keşif. Apple’dan tartışmalı Çin hamlesi. Psikopatik eğilimlerle bağırsak bakterileri arasında ilişki olabilir mi?. Meta gözlükler mahremiyet riski taşıyor mu?. Meta'ya, dolandırıcılık davasında delilleri karartma suçlaması.",
+      "text": "Bu gece gökyüzünde şölen var. Perseid meteor yağmurunu Türkiye'de hangi şehir kaçta izleyecek?. Meta hakkında tarihi dava. Kuantum ve yapay zekayı birleştirecek yeni adım. Havayolu sektörünün geleceği için final heyecanı. Trabzon’da 15 bin yıllık keşif. Apple’dan tartışmalı Çin hamlesi. Psikopatik eğilimlerle bağırsak bakterileri arasında ilişki olabilir mi?.",
       "items": [
+        {
+          "title": "Bu gece gökyüzünde şölen var. Perseid meteor yağmurunu Türkiye'de hangi şehir kaçta izleyecek?",
+          "summary": "Gökyüzü meraklıların heyecanlar beklediği Perseid Meteor yağmuru bu gece Türkiye'den de izlenebilecek. İşte il il izlemek için en iyi saatler… Yılın en net izlenebilecek meteor yağmuru için gözler bugün akşam saatlerinde gökyüzüne çevrilecek. ABD Havacılık ve Uzay Ajansı'na (NASA) göre 12 Ağustos'u 13 Ağustos'a bağlayan gece yani bugün başlayacak Perseid meteor yağmuru en uygun gözlem saatleri gece yarısından sonra başlayıp şafak öncesine kadar sürecek.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-bu-gece-gokyuzunde-solen-var-perseid-meteor-yagmurunu-turkiyede-hangi-sehir-kacta-izleyecek-1737011"
+        },
+        {
+          "title": "Meta hakkında tarihi dava",
+          "summary": "Sosyal medya devi Meta, uygulamalarında çocuklar için bağımlılık yapıcı özellikler tasarladığı iddialarıyla ABD’de açılan davada savunma yapacak. Dünya genelinde milyarlarca kullanıcısı bulunan sosyal medya devi Meta, çocukların sağlığına zarar verdiği iddiaları karşısında bu hafta ABD'de hakim karşısına çıkacak. Uzmanlar, açılan yeni davayı sosyal medya sektörünün \"dönüm noktası\" olarak nitelendiriyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-meta-hakkinda-tarihi-dava-1736987"
+        },
         {
           "title": "Kuantum ve yapay zekayı birleştirecek yeni adım",
           "summary": "Oracle ile Quantinuum, kuantum bilişim kapasitesini Oracle'ın bulut platformuna taşımak için çok yıllı ortaklık kurdu. Anlaşmayla Oracle müşterileri, Helios kuantum bilgisayarına erişebilecek. Teknoloji şirketleri henüz gelişiminin erken aşamalarındaki kuantum bilişimi ticari kullanıma açmak için yarışırken Oracle ile Quantinuum yeni bir işbirliğine gitti. İki şirket, Quantinuum'un Helios kuantum bilgisayarını Oracle Cloud Infrastructure'a (OCI) entegre etmeyi amaçlayan bir ortaklık duyurdu.",
@@ -190,16 +200,6 @@
           "title": "Psikopatik eğilimlerle bağırsak bakterileri arasında ilişki olabilir mi?",
           "summary": "İnsan vücudunda yaşayan mikroorganizmaların duygu ve davranışlar üzerindeki etkisini araştıran bilim insanları, bu kez psikopatik kişilik özellikleriyle bağırsak ve ağız mikrobiyotası arasında dikkat çekici bağlantılar belirledi. Ancak araştırmacılar, bulguların bakterilerin bu davranışlara neden olduğunu kanıtlamadığını özellikle vurguluyor.",
           "source": "https://www.hurriyet.com.tr/teknoloji/bilim/psikopatik-egilimlerle-bagirsak-bakterileri-arasinda-iliski-olabilir-mi-43269300"
-        },
-        {
-          "title": "Meta gözlükler mahremiyet riski taşıyor mu?",
-          "summary": "Ray-Ban Meta akıllı gözlüklerle çekilen her görüntü otomatik olarak Meta’ya gönderilmiyor. Ancak bulut depolama, yapay zekâ ve sesli komutlar devreye girdiğinde şirketin erişebildiği veri miktarı önemli ölçüde artıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/meta/meta-gozlukler-mahremiyet-riski-tasiyor-mu-43269282"
-        },
-        {
-          "title": "Meta'ya, dolandırıcılık davasında delilleri karartma suçlaması",
-          "summary": "ABD'li yargıç, Meta şirketinin Avustralyalı iş adamının sahte reklam davasında delilleri gizlediğine hükmetti. Avustralyalı milyarder Andrew Forrest'in, izni olmadan görüntüsünü kullanan dolandırıcılık reklamlarıyla ilgili açtığı davada karar, Meta'nın aleyhine oldu.",
-          "source": "https://www.ntv.com.tr/teknoloji/metaya-dolandiricilik-davasinda-delilleri-karartma-suclamasi-1736825"
         }
       ]
     },
