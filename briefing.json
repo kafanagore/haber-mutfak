@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-13T04:00:07.389Z",
+  "generatedAt": "2026-08-13T10:00:03.963Z",
   "categories": {
     "gundem": {
-      "text": "\"Dur\" ihtarına uymadı, 450 bin lira ceza yedi. Kastamonu'da samanlık yangını: Bin 200 balya küle döndü. Kayseri’de otomobil ile kamyonet kafa kafaya çarpıştı: 1 ölü. Çarptı, kaçarken ezdi, serbest kaldı. Giresun'da anne ile iki kızı sel sularına kapıldı. Kardeşlerin cansız bedeni bulundu. Gökyüzünde görsel şölen. Perseid meteor yağmuru başladı. Manisa'da 'FETÖ' soruşturması yalanıyla çift dolandırıldı: 1 tutuklama.",
+      "text": "Fethiye'de gezi teknesi alev aldı: 115 yolcu suya atladı. Dijital platformlarda denetimsizlik! İçerikler başıboş, reklam sınırsız. Bakan Uraloğlu: Havalimanlarının yıllık yolcu kapasitesi 397,4 milyonu aştı. Korkunç olay: Genç kızı otomobille ezip kaçtı. İstanbul'da pusetli kuryeye suçüstü. Mabel Matiz'in \"Ha Leylim” şarkısı ve klibine soruşturma. Çanakkale'deki böcek ilacı faciasında oğlunu kaybeden acılı baba konuştu: 'Sana söz veriyorum dayanacağım' demişti.",
       "items": [
         {
-          "title": "\"Dur\" ihtarına uymadı, 450 bin lira ceza yedi",
-          "summary": "İnegöl'de polisin \"dur\" ihtarına uymayıp kaçan motosiklet sürücüsüne toplam 450 bin lira para cezası uygulandı. Bursa'nın İnegöl ilçesinde, trafik polislerinin \"dur\" ihtarına uymayarak kaçmaya başlayan motosiklet sürücüsü Ö.Ç. 5 kilometrelik kovalamacanın ardından yakalandı. Kontrolde 1.07 promil alkollü olduğu tespit edilen sürücünün ehliyetine daha önce aynı ihlal nedeniyle el konulduğu anlaşıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/dur-ihtarina-uymadi-450-bin-lira-ceza-yedi-1737096"
+          "title": "Fethiye'de gezi teknesi alev aldı: 115 yolcu suya atladı",
+          "summary": "Muğla’nın Fethiye ilçesinde koydaki gezi teknesinde yangın çıktı. Can yeleği giyip denize atlayan, aralarında çocukların da olduğu 115 yolcunun tahliyesi için çalışma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/fethiyede-gezi-teknesi-alev-aldi-115-kisi-tahliye-edildi-43271781"
         },
         {
-          "title": "Kastamonu'da samanlık yangını: Bin 200 balya küle döndü",
-          "summary": "Kastamonu'da bir samanlıkta çıkan yangında bin 200 balya saman yanarak kullanılamaz hale geldi. Ekiplerin müdahalesiyle, alevlerin çevredeki yapılara sıçraması önlendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kastamonuda-samanlik-yangini-bin-200-balya-kule-dondu-43271350"
+          "title": "Dijital platformlarda denetimsizlik! İçerikler başıboş, reklam sınırsız",
+          "summary": "Dijital platformlarda içerik ve reklam denetimi tartışmaları büyürken, geleneksel medya kuruluşları çok daha sıkı kurallarla yayın yapıyor. Televizyon kanalları reklam sürelerinden içerik denetimine kadar çeşitli yükümlülüklere tabi tutulurken, dijital mecralarda milyarlarca dolarlık reklam ekonomisi giderek daha az denetlenen bir alana dönüşüyor. Peki dijital dünyanın devleri neden geleneksel medyanın tabi olduğu kuralların dışında kalıyor? İşte detaylar…",
+          "source": "https://www.hurriyet.com.tr/gundem/dijital-platformlarda-denetimsizlik-icerikler-basibos-reklam-sinirsiz-43271731"
         },
         {
-          "title": "Kayseri’de otomobil ile kamyonet kafa kafaya çarpıştı: 1 ölü",
-          "summary": "Kayseri’nin Develi ilçesinde otomobil ile kamyonetin kafa kafaya çarpıştığı trafik kazasında, 1 kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-otomobil-ile-kamyonet-kafa-kafaya-carpisti-1-olu-43271349"
+          "title": "Bakan Uraloğlu: Havalimanlarının yıllık yolcu kapasitesi 397,4 milyonu aştı",
+          "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, son 24 yılda havalimanlarının yıllık yolcu kapasitesinin 55 milyondan 397,4 milyonun üzerine çıktığını söyledi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye’nin havacılık alanında son 24 yılda önemli bir büyüme kaydettiğini belirterek, havalimanlarının yıllık yolcu kapasitesinin 55 milyondan 397,4 milyonun üzerine çıkarıldığını söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-uraloglu-havalimanlarinin-yillik-yolcu-kapasitesi-3974-milyonu-asti-1737167"
         },
         {
-          "title": "Çarptı, kaçarken ezdi, serbest kaldı",
-          "summary": "Darıca'da 17 yaşındaki A.K.'ye otomobiliyle çarpan, olay yerinden kaçarken bir de üzerinden geçerek ağır yaralanmasına sebep olan S.D., ertesi gün teslim oldu. Adli kontrolle serbest bırakıldı. Kocaeli'nin Darıca ilçesinde gece yarısı S.D. idaresindeki otomobil, işten çıkıp evine gitmeye çalışan 17 yaşındaki A.K.’ye çarptı. Otomobil sürücüsü kazadan sonra tekrar hareket edip yerde yatan genç kızın üzerinden geçerek yoluna devam etti.",
-          "source": "https://www.ntv.com.tr/turkiye/carpti-kacarken-ezdi-serbest-kaldi-1737094"
+          "title": "Korkunç olay: Genç kızı otomobille ezip kaçtı",
+          "summary": "Kocaeli Darıca’da otomobil 17 yaşındaki genç kıza çarpıp üzerinden geçti. Sürücü olay yerinden kaçarken, sabah polise teslim olup adli kontrolle serbest bırakıldı. Kaza anı kameraya yansıdı. Kaza, gece yarısı Sırasöğütler Mahallesi, Aydınlar Caddesi üzerinde meydana geldi. S.D. idaresindeki 34 CUF 958 plakalı otomobil, akşam işten çıkan A.K.’ye evinin önünde çarptı. Otomobil sürücüsü çarptıktan sonra durup sonra tekrar hareket edip bu kez genç kızın üzerinden geçerek, yoluna devam etti.",
+          "source": "https://www.ntv.com.tr/turkiye/video-korkunc-olay-genc-kizi-otomobille-ezip-kacti-1737170"
         },
         {
-          "title": "Giresun'da anne ile iki kızı sel sularına kapıldı. Kardeşlerin cansız bedeni bulundu",
-          "summary": "Giresun'da derenin taşması sonucu bir anne ile iki kızı suya kapıldı. Kız kardeşlerin cansız bedenine ulaşılırken, anneyi arama çalışmaları devam ediyor. Sis Dağı'nda etkili olan şiddetli yağış sel ve su taşkınlarına neden oldu. Yağışlar sonrası dağın Giresun tarafında yer alan Zıva Deresi'nde su seviyesi hızla yükselirken, dere kenarında piknik yapan Kırca ailesi sel sularına kapıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-giresunda-anne-ile-iki-kizi-sel-sularina-kapildi-kardeslerin-cansiz-bedeni-bulundu-1737062"
+          "title": "İstanbul'da pusetli kuryeye suçüstü",
+          "summary": "İstanbul'da bir kadın iki yaşındaki bebeğinin bulunduğu pustle uyuşturucu sevkiyatı yaparken yakalandı. İstanbul'da pusetteki bebekle uyuşturucu kuryeliği yapan kadın yakalandı. İstanbul Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şube Müdürlüğü ekipleri, uyuşturucu ticareti yapan şüphelilerin bebekli kurye adını verdikleri yöntemle sevkiyat yaptığını belirledi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-pusetli-kuryeye-sucustu-1737171"
         },
         {
-          "title": "Gökyüzünde görsel şölen. Perseid meteor yağmuru başladı",
-          "summary": "Gökyüzündeki görsel şölen Perseid meteor yağmurunun en yoğun şekilde gözlemlenebileceği dönem başladı. Her yıl Temmuz sonunda başlayan ve Ağustos ayının 13'ünde zirve noktasına gelen Perseid meteor yağmurunun Türkiye'den en net şekilde izlenebildiği dönem başladı. Meteor yağmuru bilimsel olarak güneşin etrafında dolaşan Swift - Tuttle Kuyrukluyıldızının uzayda bıraktığı parçalarla oluşuyor. NASIL İZLENEBİLİR?",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-gokyuzunde-gorsel-solen-perseid-meteor-yagmuru-basladi-1737084"
+          "title": "Mabel Matiz'in \"Ha Leylim” şarkısı ve klibine soruşturma",
+          "summary": "Mabel Matiz'in yeni şarkısı \"Ha Leylim\" şarkısının sözlerine ve klibine yönelik İstanbul Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı. İstanbul Cumhuriyet Başsavcılığı, Mabel Matiz hakkında soruşturma başlattı. Müzisyenin, “Ha Leylim” adlı şarkının “müstehcenlik” suçu kapsamına girdiği öne sürülüyor. Şarkıcı Mabel Matiz, \"Perperişan\" şarkısı nedeniyle yargılandığı müstehcenlik davasından yaklaşık üç ay önce beraat etmişti. Sanatçı hakkında bu sefer de \"Ha Leylim\" şarkısıyla inceleme başlatıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-mabel-matizin-ha-leylim-sarkisi-ve-klibine-sorusturma-1737164"
         },
         {
-          "title": "Manisa'da 'FETÖ' soruşturması yalanıyla çift dolandırıldı: 1 tutuklama",
-          "summary": "Manisa'nın Kırkağaç ilçesinde kendilerini savcı ve adliye personeli olarak tanıtarak 'FETÖ' soruşturması yalanıyla bir çiftin altın ve dövizlerini dolandıran şebeke, jandarma ve polisin ortak operasyonuyla yakalandı. Gözaltına alınan 4 şüpheliden 1'i tutuklandı, 1 firari şüphelinin yakalanması için çalışmalar sürdürülüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/manisada-feto-sorusturmasi-yalaniyla-cift-dolandirildi-1-tutuklama-43271336"
+          "title": "Çanakkale'deki böcek ilacı faciasında oğlunu kaybeden acılı baba konuştu: 'Sana söz veriyorum dayanacağım' demişti",
+          "summary": "Çanakkale'de komşu dairede yapılan böcek ilaçlaması sırasında sızan zehirli gazdan etkilenerek hayatını kaybeden 9 yaşındaki Yusuf Talha Çanlı’nın babası Uğur Çanlı, yaşadığı büyük acıyı paylaştı. Eve geldiğinde eşini ve oğlunu fenalaşmış, evdeki kuşları ise ölmüş halde bulduğunu belirten acılı baba adalet çağrısında bulunurken; olayla ilgili ev sahibi ve ilaçlama firması müdürü tutuklanmıştı.",
+          "source": "https://www.hurriyet.com.tr/gundem/canakkaledeki-bocek-ilaci-faciasinda-oglunu-kaybeden-acili-baba-konustu-sana-soz-veriyorum-dayanacagim-demisti-43271742"
         }
       ]
     },
     "dunya": {
-      "text": "Çarpıcı analiz. \"İran savaş taktiğini geliştirdi\". İran: Hürmüz Boğazı kapalı ve koşullarımız kabul edilene kadar açılmayacak. Barzani'den çerçeve yasaya destek. Kolombiya depreminde can kaybı 265'e yükseldi. Avrupa'da 27 yıl sonra Güneş tutulması. 2 dakikalık karanlık. İspanya, 114 yıl sonra Güneş tutulmasına tanıklık etti. Güneş tutulması için özel uçuş. 10 bin metreden canlı yayınlandı.",
+      "text": "Yemen'de ordu güçleri ile Husiler arasında çatışma: 7 kişi yaşamını yitirdi. Askerler denize atlamaya çalıştı. ABD uçak gemisi Lincoln'de kaos. 2027 Eurovision şarkı yarışması Bulgaristan'ın Burgas şehrinde düzenlenecek. İran'dan İsrail'e Hürmüz Boğazı ambargosu. Başka bir mahkumla kavga etmişti. Rapçi Diddy, hücre cezasını tamamladı. Fransa'da 50 bölge orman yangını riskiyle karşı karşıya. CIA, İsrail'in istihbaratına güvenmemiş.",
       "items": [
         {
-          "title": "Çarpıcı analiz. \"İran savaş taktiğini geliştirdi\"",
-          "summary": "New York Times'ın analizinde ABD'nin savaş mühimmatı azalırken İran'ın yeni savaş taktikleri geliştirdiği belirtildi. İran'ın son saldırılarında ABD'nin savunma sistemlerini aşmayı başardığına dikkat çekildi. İran savaşıyla ilgili Amerikan New York Times gazetesinde dikkat çeken bir analiz yayınlandı. Buna göre ABD Savunma Bakanlığı Pentagon'un elindeki önleyici füzeler azaldı. İran ise savaş becerilerini hızlı şekilde geliştiriyor.",
-          "source": "https://www.ntv.com.tr/dunya/carpici-analiz-iran-savas-taktigini-gelistirdi-1737095"
+          "title": "Yemen'de ordu güçleri ile Husiler arasında çatışma: 7 kişi yaşamını yitirdi",
+          "summary": "Yemen'deki İran destekli Husiler, ordu güçleriyle çıkan çatışmalarda 7 mensubunun hayatını kaybettiğimi bildirdi. Husiler, ordu güçlerine topçu atışlarıyla misilleme yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/yemende-ordu-gucleri-ile-husiler-arasinda-catisma-7-kisi-yasamini-yitirdi-43271787"
         },
         {
-          "title": "İran: Hürmüz Boğazı kapalı ve koşullarımız kabul edilene kadar açılmayacak",
-          "summary": "İran yönetimine bağlı Basra Körfezi Boğaz Otoritesi’nden (PGSA) yapılan açıklamada, ABD’li yetkililerin Hürmüz Boğazı’nın kapalı olmadığı yönündeki açıklamalarının gerçeği yansıtmadığı belirtilerek, \"Hürmüz Boğazı hala kapalıdır ve İran’ın koşulları kabul edilene kadar yeniden açılmayacaktır\" denildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-hurmuz-bogazi-kapali-ve-kosullarimiz-kabul-edilene-kadar-acilmayacak-43271351"
+          "title": "Askerler denize atlamaya çalıştı. ABD uçak gemisi Lincoln'de kaos",
+          "summary": "ABD'nin İran ile savaşı nedeniyle dokuz aydır denizde bulunan USS Abraham Lincoln uçak gemisinde görevli denizcilerin denize atlamaya çalıştığı açıklandı. USS Abraham Lincoln uçak gemisinin rekor kıran görev süresi ve kötüleşen koşulları mürettebatı olumsuz etkiledi. ABD'nin İran ile savaşı kapsamında dokuz aydır denizde bulunan gemideki yaklaşık 5 bin denizci ve deniz piyadesinin zihinsel sağlığına ilişkin endişeler, birden fazla denizcinin gemiden denize atlamaya çalıştığı yönündeki haberlerle arttı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-askerler-denize-atlamaya-calisti-abd-ucak-gemisi-lincolnde-kaos-1737175"
         },
         {
-          "title": "Barzani'den çerçeve yasaya destek",
-          "summary": "Irak Kürt Bölgesel Yönetimi Başkanı Neçirvan Barzani, Meclis'te kabul edilen çerçeve yasaya destek açıklaması yaptı. Barzani, \"Bu cesur adım, Türkiye'de ve tüm bölgede kalıcı barışın, huzurun ve istikrarın sağlanması yolunda önemli bir dönüm noktasıdır.\" dedi. Neçirvan Barzani, Terörsüz Türkiye sürecinin yasal zeminini oluşturacak çerçeve yasaya ilişkin yazılı açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/barzaniden-cerceve-yasaya-destek-1737093"
+          "title": "2027 Eurovision şarkı yarışması Bulgaristan'ın Burgas şehrinde düzenlenecek",
+          "summary": "Bulgaristan'ın Karadeniz kıyısındaki şehirlerinden Burgas, önümüzdeki yılın Eurovision Şarkı Yarışması'na ev sahipliği yapacak. 2027 Eurovision Şarkı Yarışması’nın Bulgaristan’ın hangi şehrinde düzenleneceği belli oldu. Avrupa Yayıncılar Birliği'nden (EBU) perşembe günü yapılan bir açıklamada şehrin yarışmanın yapılacağı yer olarak seçildiği doğrulandı.",
+          "source": "https://www.ntv.com.tr/dunya/2027-eurovision-sarki-yarismasi-bulgaristanin-burgas-sehrinde-duzenlenecek-1737165"
         },
         {
-          "title": "Kolombiya depreminde can kaybı 265'e yükseldi",
-          "summary": "Kolombiya'da 10 Ağustos'ta meydana gelen 7.4 büyüklüğündeki depremde hayatını kaybedenlerin sayısı 265'e yükseldi. 465 kişi ise kayıp. Güney Amerika ülkesi Kolombiya'da 10 Ağustos'ta meydana gelen 7.4 büyüklüğündeki depremin bilançosu ağırlaşıyor. Cumhurbaşkanı Abelardo de la Espriella, depremde hayatını kaybedenlerin sayısı 265'e yükseldiğini, 465 kişinin ise kayıp olduğunu duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/kolombiya-depreminde-can-kaybi-265e-yukseldi-1737091"
+          "title": "İran'dan İsrail'e Hürmüz Boğazı ambargosu",
+          "summary": "İran, Hürmüz Boğazı'ndaki kontrolünden vazgeçmeyeceğine işaret ederek, İsrail gemilerinin boğazı bir daha kullanamayacağını belirtti. Tahran yönetimi, düşman ülkelere ait gemilerin Hürmüz'den geçişini engelleyeceğini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-israile-hurmuz-bogazi-ambargosu-43271710"
         },
         {
-          "title": "Avrupa'da 27 yıl sonra Güneş tutulması. 2 dakikalık karanlık",
-          "summary": "Avrupa 27 yıl sonra yeniden Güneş tutulmasına tanık oldu. Ay'ın Güneş ile Dünya'nın arasına girmesiyle Avrupa kentleri birer birer 2 dakikalık karanlığa büründü. 2026 yılının en dikkat çeken gökyüzü olaylarından biri bugün akşam saatlerinde gerçekleşti. Avrupa'nın bazı noktalarında Güneş tamamen Ay'ın arkasında kalırken, daha geniş bir bölgede parçalı güneş tutulması gözlemlendi. Tutulma Türkiye'den izlenemedi. Avrupa 27 yıl sonra tam güneş tutulmasına tanıklık etti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-avrupada-27-yil-sonra-gunes-tutulmasi-2-dakikalik-karanlik-1737077"
+          "title": "Başka bir mahkumla kavga etmişti. Rapçi Diddy, hücre cezasını tamamladı",
+          "summary": "2024'ten bu yana cezaevinde olan rapçi Diddy, başka bir mahkumla kavga ettikten sonra hücre hapsiyle cezalandırılmıştı. Diddy, cezasını tamamladı. ABD merkezli magazin haber sitesi TMZ, perşembe günü yayınlanan bir haberde rapçi Diddy'nin başka bir mahkumla kavgaya karıştıktan sonra uygulanan hücre hapsi cezasını tamamladığını yazdı. Diddy, ABD'nin doğusundaki New Jersey eyaletinde bulunan FCI Fort Dix cezaevinde kalıyor.",
+          "source": "https://www.ntv.com.tr/dunya/cezaevindeki-diddy-hucre-cezasini-tamamladi-1737145"
         },
         {
-          "title": "İspanya, 114 yıl sonra Güneş tutulmasına tanıklık etti",
-          "summary": "Avrupa 27 yıl sonra yeniden Güneş tutulmasına tanık oldu. İspanya'da ise farklı bir heyecan vardı. Çünkü kıtanın aksine ülke 114 yıl sonra ilk Güneş tutulmasına tanıklık etti. Tam tutulma anları NASA tarafından da canlı olarak yayınlandı.",
-          "source": "https://www.ntv.com.tr/dunya/video-ispanya-114-yil-sonra-gunes-tutulmasina-taniklik-etti-1737082"
+          "title": "Fransa'da 50 bölge orman yangını riskiyle karşı karşıya",
+          "summary": "Fransa'da rekor seviyedeki sıcaklar sürüyor. Fransız yetkililer, ülkenin 50 vilayetinde yüksek orman yangını riski nedeniyle turuncu alarm verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-50-bolge-orman-yangini-riskiyle-karsi-karsiya-43271634"
         },
         {
-          "title": "Güneş tutulması için özel uçuş. 10 bin metreden canlı yayınlandı",
-          "summary": "İspanya Havayolu şirketi İberia, Avrupa'nın bazı noktalarından gözlemlenen güneş tutulması için özel uçuş gerçekleştirildi. Yaklaşık 10 bin metre (33 bin feet) yükseklikte gerçekleştirilecek uçuş sırasında tam güneş tutulması canlı yayınlandı. Uçak, üç adet uçak içi kamera ve Starlink uydu bağlantısıyla donatıldı. Böylece bulutların üzerinde gerçekleşecek uçuş sırasında tutulma gerçek zamanlı olarak izleyicilere aktarılabildi. Uçuşta yer alan gökbilimciler de tutulmayı seyahat boyunca gözlemleyerek analiz etti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-gunes-tutulmasi-icin-ozel-ucus-10-bin-metreden-canli-yayinlandi-1737079"
+          "title": "CIA, İsrail'in istihbaratına güvenmemiş",
+          "summary": "ABD Başkanı Donald Trump'ın Ankara'da gizlice uçak değiştirmesi olayla ilgili yeni ayrıntılar ortaya çıktı. CIA'in İsrail'den gelen istihbarata güvenmediği ve yönetime kuşkularını ilettiği öğrenildi. ABD merkezli Washington Post gazetesi, Amerikalı istihbarat yetkililerinin Başkan Donald Trump'ın Türkiye'den gizlice başka bir askeri uçakla ayrılmasına yol açan olağanüstü bir manevraya neden olan İsrail istihbarat raporuna güvenmediğini yazdı.",
+          "source": "https://www.ntv.com.tr/dunya/cia-israilin-istihbaratina-guvenmemis-1737134"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar. İzmir üretim ve ticarette öncü. Bakan Bolat: Ortak Savunma Anlaşması, ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine katkı sağlayacak. Taze incirde hedef 100 milyon dolar. Öztürk: 'Finansmana erişim kolaylaşsın'. Ege'de tarihi rekor.",
+      "text": "İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar. İzmir üretim ve ticarette öncü. Bakan Bolat: Ortak Savunma Anlaşması, ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine katkı sağlayacak. Taze incirde hedef 100 milyon dolar. Öztürk: 'Finansmana erişim kolaylaşsın'.",
       "items": [
+        {
+          "title": "İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor",
+          "summary": "TÜRKİYE temmuzda 25.6 milyar dolarla bugüne kadarki en yüksek temmuz ayı ihracatına ulaşırken, son 12 aylık ihracat 278.6 milyar dolara çıktı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izsiad-baskani-yuksel-ihracat-artiyor-ama-sanayi-guc-kaybediyor-43271358"
+        },
         {
           "title": "Bellona'da üst düzey atama",
           "summary": "Bellona’nın Genel Müdürlük görevine, mobilya sektöründe 30 yılı aşkın yöneticilik deneyimine sahip Bilal Uyanık getirildi. (İlandır) Türkiye mobilya sektörünün köklü markalarından Bellona’da Genel Müdürlük görevine Bilal Uyanık atandı. Anadolu Güçbirliği Holding bünyesinde yeni dönem hedefleri doğrultusunda büyüme yolculuğunu sürdüren Bellona, Bilal Uyanık’ın liderliğinde yurt içi ve uluslararası pazarlardaki konumunu daha da güçlendirmeyi hedefliyor.",
@@ -115,57 +120,57 @@
           "title": "Öztürk: 'Finansmana erişim kolaylaşsın'",
           "summary": "Ege İhracatçı Birlikleri Koordinatör Başkanı Muhammet Öztürk, hazirandan sonra temmuzda da aylık ihracat rekoru kırmanın ve yıllık ihracatta 19 milyar doları aşmanın mutluluğunu yaşadıklarını dile getirdi.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ozturk-finansmana-erisim-kolaylassin-43262526"
-        },
-        {
-          "title": "Ege'de tarihi rekor",
-          "summary": "Ege İhracatçı Birlikleri temmuz ayında ihracatını yüzde 7’lik artışla 1 milyar 634 milyon dolardan 1 milyar 746 milyon dolara taşıdı ve aylık bazda tarihinin en yüksek ihracat rakamına imza attı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egede-tarihi-rekor-43262525"
         }
       ]
     },
     "spor": {
-      "text": "Çorum FK, Mohamed Diomande transferini açıkladı. TFF, Fenerbahçe'nin Gençlerbirliği maçı erteleme talebini reddetti. Hollanda Milli Takımı'nın başına Xavi Hernandez getirildi. Dursun Özbek: Alkış alayım diye Galatasaray’ın geleceğini tehlikeye atmayacağım. Dusan Vlahovic İstanbul'da! İşte ilk sözleri. Mauro Icardi, görüşmelere başladı! Transferde ilk temas. Romelu Lukaku Fenerbahçe'de! Resmen açıklandı.",
+      "text": "Fenerbahçe'nin talepleri sonrasında Dinamo Zagreb, Livakovic transferinde masadan kalktı!. Tijjani Reijnders transferinde sürpriz gelişme. Beşiktaş avantajla tur peşinde, Avrupa elemelerinde taraf tercihleri ön planda! İşte Misli'de günün en çok oynanan maçları. Gençler ve Büyükler Açık Hava Puta Türkiye Şampiyonası başlıyor. Beşiktaş, tur için Hradec Kralove karşısında! Maçın heyecanı canlı sohbet ile Misli'de. Özhan Pulat: 'Beşiktaş karşısında işimizin kolay olmadığını biliyoruz!'. Son şampiyon Galatasaray, sezonu Çorum FK maçıyla açacak.",
       "items": [
         {
-          "title": "Çorum FK, Mohamed Diomande transferini açıkladı",
-          "summary": "Süper Lig'i yeni ekiplerinden Çorum FK, Glasgow Rangers'tan Mohamed Diomande'yi kadrosuna kattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/corum-fk-mohamed-diomande-transferini-acikladi-43271283"
+          "title": "Fenerbahçe'nin talepleri sonrasında Dinamo Zagreb, Livakovic transferinde masadan kalktı!",
+          "summary": "Dinamo Zagreb, uzun süredir bonservisini almak için görüşmelerde bulunduğu Dominik Livakovic transferinde Fenerbahçe'nin bonservis bedeli talebinde indirime gitmemesi nedeniyle masadan kalktı. Hırvat ekibi, Kopenhag kalecisi Dominik Kotarski'yi kadrosuna katıyor. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-talepleri-sonrasinda-dinamo-zagreb-livakovic-transferinde-masadan-kalkti-43271572"
         },
         {
-          "title": "TFF, Fenerbahçe'nin Gençlerbirliği maçı erteleme talebini reddetti",
-          "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, Süper Lig'in 1. haftasında oynanacak Gençlerbirliği müsabakasının ertelenme talebinin Türkiye Futbol Federasyonu tarafından reddedildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-fenerbahcenin-genclerbirligi-maci-erteleme-talebini-reddetti-43271231"
+          "title": "Tijjani Reijnders transferinde sürpriz gelişme",
+          "summary": "Adı Galatasaray ile anılan Tijjani Reijnders için Manchester City, Suudi kulübü Al-Qadsiah ile anlaşmaya vardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tijjani-reijnders-transferinde-surpriz-gelisme-43271706"
         },
         {
-          "title": "Hollanda Milli Takımı'nın başına Xavi Hernandez getirildi",
-          "summary": "Hollanda Futbol Federasyonu, teknik direktörlük koltuğuna Xavi Hernandez'in getirildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hollanda-milli-takiminin-basina-xavi-hernandez-getirildi-43271227"
+          "title": "Beşiktaş avantajla tur peşinde, Avrupa elemelerinde taraf tercihleri ön planda! İşte Misli'de günün en çok oynanan maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-avantajla-tur-pesinde-avrupa-elemelerinde-taraf-tercihleri-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43271739"
         },
         {
-          "title": "Dursun Özbek: Alkış alayım diye Galatasaray’ın geleceğini tehlikeye atmayacağım",
-          "summary": "Galatasaray başkanı Dursun Özbek, transfere dair açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-alkis-alayim-diye-galatasarayin-gelecegini-tehlikeye-atmayacagim-43271213"
+          "title": "Gençler ve Büyükler Açık Hava Puta Türkiye Şampiyonası başlıyor",
+          "summary": "Türkiye Geleneksel Türk Okçuluk Federasyonu tarafından organize edilen Gençler ve Büyükler Açık Hava Puta Türkiye Şampiyonası başlıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gencler-ve-buyukler-acik-hava-puta-turkiye-sampiyonasi-basliyor-43271695"
         },
         {
-          "title": "Dusan Vlahovic İstanbul'da! İşte ilk sözleri",
-          "summary": "Beşiktaş'ın yeni golcüsü Dusan Vlahovic, İstanbul'a vardı. Sırp yıldız, ayağının tozuyla ilk hislerini paylaştı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dusan-vlahovic-istanbulda-iste-ilk-sozleri-43271205"
+          "title": "Beşiktaş, tur için Hradec Kralove karşısında! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "Beşiktaş, UEFA Avrupa Ligi 3. eleme turu rövanş maçında bu akşam sahasında Çekya ekibi Hradec Kralove ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-tur-icin-hradec-kralove-karsisinda-macin-heyecani-canli-sohbet-ile-mislide-43271660"
         },
         {
-          "title": "Mauro Icardi, görüşmelere başladı! Transferde ilk temas",
-          "summary": "Galatasaray ile yolların ayıran Arjantinli golcü Mauro Icardi'ye Serie A'nın köklü ekibi talip oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mauro-icardi-gorusmelere-basladi-transferde-ilk-temas-43271129"
+          "title": "Özhan Pulat: 'Beşiktaş karşısında işimizin kolay olmadığını biliyoruz!'",
+          "summary": "Eyüpspor Teknik Direktörü Özhan Pulat, Süper Lig'in ilk haftasında Beşiktaş ile deplasmanda oynayacakları maçın zor geçeceğini belirterek, \"Beşiktaş karşısında işimizin kolay olmadığını biliyoruz\" dedi. Pulat, lig sıralaması konusunda doğrudan bir hedef koymadıklarını ve gerçekçi bir Eyüpspor oluşturmaya çalıştıklarını da sözlerine ekledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ozhan-pulat-besiktas-karsisinda-isimizin-kolay-olmadigini-biliyoruz-43271615"
         },
         {
-          "title": "Romelu Lukaku Fenerbahçe'de! Resmen açıklandı",
-          "summary": "Fenerbahçe, Napoli'nin Belçikalı golcüsü Romelu Lukaku'nun transferini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/romelu-lukaku-fenerbahcede-resmen-aciklandi-43271062"
+          "title": "Son şampiyon Galatasaray, sezonu Çorum FK maçıyla açacak",
+          "summary": "Son şampiyon Galatasaray, Süper Lig'in ilk haftasında yarın Çorum FK'yi konuk edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/son-sampiyon-galatasaray-sezonu-corum-fk-maciyla-acacak-43271569"
         }
       ]
     },
     "teknoloji": {
-      "text": "Fransa'da yayıncılar Google'a karşı rekabet kurumuna başvurdu. Meta'nın akıllı gözlüklerine mahremiyet davası. Güney Kore, 2030'a kadar aya uzay aracı indirmeyi hedefliyor. Bu gece gökyüzünde şölen var. Perseid meteor yağmurunu Türkiye'de hangi şehir kaçta izleyecek?. Meta hakkında tarihi dava. Kuantum ve yapay zekayı birleştirecek yeni adım. Havayolu sektörünün geleceği için final heyecanı.",
+      "text": "Google'ın yapay zeka mutfağında iç kriz. Perde arkasında yaşananlar. Fransa'da yayıncılar Google'a karşı rekabet kurumuna başvurdu. Meta'nın akıllı gözlüklerine mahremiyet davası. Güney Kore, 2030'a kadar aya uzay aracı indirmeyi hedefliyor. Bu gece gökyüzünde şölen var. Perseid meteor yağmurunu Türkiye'de hangi şehir kaçta izleyecek?. Meta hakkında tarihi dava. Kuantum ve yapay zekayı birleştirecek yeni adım.",
       "items": [
+        {
+          "title": "Google'ın yapay zeka mutfağında iç kriz. Perde arkasında yaşananlar",
+          "summary": "Google kurucu ortağı Sergey Brin'in, şirketin Gemini yapay zeka modeline odaklanılması yönündeki çağrılarının ardından Alphabet, Google DeepMind'da kapsamlı bir yönetim değişikliğine gitti. Google kurucu ortağı Sergey Brin'in son aylarda önde gelen yapay zeka personeline şirketin Gemini modeline odaklanmaları yönünde telkinde bulunduğu bildirildi. Reuters ajansına konuşan kaynaklar, ana şirket Alphabet'in rakipleriyle arasındaki farkı kapatmayı hedeflediğini aktardı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-googlein-yapay-zeka-mutfaginda-ic-kriz-perde-arkasinda-yasananlar-1737135"
+        },
         {
           "title": "Fransa'da yayıncılar Google'a karşı rekabet kurumuna başvurdu",
           "summary": "Fransız basın birliği, gazeteler ile dergileri okuyuculardan mahrum bıraktığını belirttiği Google'ın yapay zeka üretimi makale özetlerine karşı ülkenin rekabet kurumuna müracaat etti. Fransız gazetelerini ve dergilerini temsil eden Genel Bilgi Basını İttifakı, yayınladığı açıklamada, Alphabet bünyesindeki Google'ın danışılmadan hayata geçirdiği yapay zeka üretimi makale özetlerinin yürürlüğe konulmasına karşı çıktığını bildirdi.",
@@ -195,11 +200,6 @@
           "title": "Kuantum ve yapay zekayı birleştirecek yeni adım",
           "summary": "Oracle ile Quantinuum, kuantum bilişim kapasitesini Oracle'ın bulut platformuna taşımak için çok yıllı ortaklık kurdu. Anlaşmayla Oracle müşterileri, Helios kuantum bilgisayarına erişebilecek. Teknoloji şirketleri henüz gelişiminin erken aşamalarındaki kuantum bilişimi ticari kullanıma açmak için yarışırken Oracle ile Quantinuum yeni bir işbirliğine gitti. İki şirket, Quantinuum'un Helios kuantum bilgisayarını Oracle Cloud Infrastructure'a (OCI) entegre etmeyi amaçlayan bir ortaklık duyurdu.",
           "source": "https://www.ntv.com.tr/teknoloji/kuantum-ve-yapay-zekayi-birlestirecek-yeni-adim-1736953"
-        },
-        {
-          "title": "Havayolu sektörünün geleceği için final heyecanı",
-          "summary": "Yapay Zeka Destekli Havayolu Optimizasyonu Yarışmasının final sunumları 11 Ağustos’ta İstanbul’da gerçekleştiriliyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/havayolu-sektorunun-gelecegi-icin-final-heyecani-43269691"
         }
       ]
     },
