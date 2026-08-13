@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-12T16:00:06.671Z",
+  "generatedAt": "2026-08-13T04:00:07.389Z",
   "categories": {
     "gundem": {
-      "text": "Giresun'da anne ile iki kızı sel sularına kapıldı. Kardeşlerden birinin cansız bedeni bulundu. Bahçeli'den çerçeve yasa açıklaması. \"Kaybedecek vaktimiz yok\". Son dakika... Cumhurbaşkanı Erdoğan: İsrail Gazze'yi işgal ediyor. ‘Milli güvenlik meselesi’ MHP lideri Bahçeli: Terörsüz Türkiye hedefi hayat bulmuştur. Adana'da kayıp 2 çocuk için arama çalışması başlatıldı! Kıyafetleri nehir kıyısında bulundu. Nilda Müge Şahin'in katil zanlısı kadının toprağa verildiği mezarlıkta yakalandı. Şişli'de eski sevgilisi Nilda Müge'yi öldüren şüpheli mezarı başında görülünce ormanda yakalandı.",
+      "text": "\"Dur\" ihtarına uymadı, 450 bin lira ceza yedi. Kastamonu'da samanlık yangını: Bin 200 balya küle döndü. Kayseri’de otomobil ile kamyonet kafa kafaya çarpıştı: 1 ölü. Çarptı, kaçarken ezdi, serbest kaldı. Giresun'da anne ile iki kızı sel sularına kapıldı. Kardeşlerin cansız bedeni bulundu. Gökyüzünde görsel şölen. Perseid meteor yağmuru başladı. Manisa'da 'FETÖ' soruşturması yalanıyla çift dolandırıldı: 1 tutuklama.",
       "items": [
         {
-          "title": "Giresun'da anne ile iki kızı sel sularına kapıldı. Kardeşlerden birinin cansız bedeni bulundu",
-          "summary": "Giresun'da bir anne ve iki kızı sele kapılıp kayboldu. Annesi ile birlikte sel sularına kapılan kız kardeşlerden birinin cansız bedenine ulaşıldı. Alınan bilgiye göre, Görele ilçesinin iç kesimlerinde etkili olan şiddetli yağış sel ve su taşkınlarına neden oldu. Zıva Deresi'nde su seviyesi şiddetli yağış sonrası yükselirken, dere kenarında bulunan Kırca ailesi dere sularının yükselmesi sonrasında suya kapıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-giresunda-anne-ile-iki-kizi-sel-sularina-kapildi-kardeslerden-birinin-cansiz-bedeni-bulundu-1737062"
+          "title": "\"Dur\" ihtarına uymadı, 450 bin lira ceza yedi",
+          "summary": "İnegöl'de polisin \"dur\" ihtarına uymayıp kaçan motosiklet sürücüsüne toplam 450 bin lira para cezası uygulandı. Bursa'nın İnegöl ilçesinde, trafik polislerinin \"dur\" ihtarına uymayarak kaçmaya başlayan motosiklet sürücüsü Ö.Ç. 5 kilometrelik kovalamacanın ardından yakalandı. Kontrolde 1.07 promil alkollü olduğu tespit edilen sürücünün ehliyetine daha önce aynı ihlal nedeniyle el konulduğu anlaşıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/dur-ihtarina-uymadi-450-bin-lira-ceza-yedi-1737096"
         },
         {
-          "title": "Bahçeli'den çerçeve yasa açıklaması. \"Kaybedecek vaktimiz yok\"",
-          "summary": "MHP lideri Bahçeli, Terörsüz Türkiye sürecine ilişkin yasanın Meclis'te kabul edilmesiyle ilgili \"Bütüncül irade nihayet hayat buldu\" dedi. Bahçeli, hukuki ve idari süreçlerin en kısa sürede hayata geçirilmesi gerektiğini belirtti. MHP Genel Başkanı Devlet Bahçeli'den, Meclis'te kabul edilen çerçeve yasaya ilişkin açıklama geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/bahceliden-cerceve-yasa-aciklamasi-1737068"
+          "title": "Kastamonu'da samanlık yangını: Bin 200 balya küle döndü",
+          "summary": "Kastamonu'da bir samanlıkta çıkan yangında bin 200 balya saman yanarak kullanılamaz hale geldi. Ekiplerin müdahalesiyle, alevlerin çevredeki yapılara sıçraması önlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kastamonuda-samanlik-yangini-bin-200-balya-kule-dondu-43271350"
         },
         {
-          "title": "Son dakika... Cumhurbaşkanı Erdoğan: İsrail Gazze'yi işgal ediyor",
-          "summary": "Son dakika haberi... Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Filistin Devlet Başkanı Mahmud Abbas ile ortak basın toplantısında konuştu. İsrail'in Gazze işgaline tepki gösteren Erdoğan, \"İşgal, zorla göç ettirme ve gasp politikası maalesef katmerlenerek devam ediyor. BM verilerine göre sadece 2026 yılında yerleşimci yerleri yakımlar ve tahliyeler nedeniyle yaklaşık 3 bin 800 Filistinli yerlerinden edildi, 100'e yakın Filistinli kardeşimiz katledildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogan-israil-gazzeyi-isgal-ediyor-43271041"
+          "title": "Kayseri’de otomobil ile kamyonet kafa kafaya çarpıştı: 1 ölü",
+          "summary": "Kayseri’nin Develi ilçesinde otomobil ile kamyonetin kafa kafaya çarpıştığı trafik kazasında, 1 kişi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-otomobil-ile-kamyonet-kafa-kafaya-carpisti-1-olu-43271349"
         },
         {
-          "title": "‘Milli güvenlik meselesi’ MHP lideri Bahçeli: Terörsüz Türkiye hedefi hayat bulmuştur",
-          "summary": "MHP Genel Başkanı Devlet Bahçeli, kabul edilen \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine dair Kanun\"a ilişkin yaptığı yazılı açıklamada, yasada öngörülen hukuki sürecin ancak terör örgütünün silahlarını teslim ettiğinin devlet kurumlarınca tespit ve teyit edilmesinin ardından başlayacağını vurguladı. Bahçeli, \"Terörsüz Türkiye hedefi hayat bulmuştur.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/milli-guvenlik-meselesi-mhp-lideri-bahceli-terorsuz-turkiye-hedefi-hayat-bulmustur-43271035"
+          "title": "Çarptı, kaçarken ezdi, serbest kaldı",
+          "summary": "Darıca'da 17 yaşındaki A.K.'ye otomobiliyle çarpan, olay yerinden kaçarken bir de üzerinden geçerek ağır yaralanmasına sebep olan S.D., ertesi gün teslim oldu. Adli kontrolle serbest bırakıldı. Kocaeli'nin Darıca ilçesinde gece yarısı S.D. idaresindeki otomobil, işten çıkıp evine gitmeye çalışan 17 yaşındaki A.K.’ye çarptı. Otomobil sürücüsü kazadan sonra tekrar hareket edip yerde yatan genç kızın üzerinden geçerek yoluna devam etti.",
+          "source": "https://www.ntv.com.tr/turkiye/carpti-kacarken-ezdi-serbest-kaldi-1737094"
         },
         {
-          "title": "Adana'da kayıp 2 çocuk için arama çalışması başlatıldı! Kıyafetleri nehir kıyısında bulundu",
-          "summary": "Adana'nın merkez Yüreğir ilçesinde kaybolan 11 ve 12 yaşlarındaki iki çocuk için arama çalışması başlatıldı. Çocukların kıyafetleri Ceyhan Nehri kıyısında bulundu. Bölgeye itfaiye ve dalgıç polis ekipleri sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/adanada-kayip-2-cocuk-icin-arama-calismasi-baslatildi-kiyafetleri-nehir-kiyisinda-bulundu-43271031"
+          "title": "Giresun'da anne ile iki kızı sel sularına kapıldı. Kardeşlerin cansız bedeni bulundu",
+          "summary": "Giresun'da derenin taşması sonucu bir anne ile iki kızı suya kapıldı. Kız kardeşlerin cansız bedenine ulaşılırken, anneyi arama çalışmaları devam ediyor. Sis Dağı'nda etkili olan şiddetli yağış sel ve su taşkınlarına neden oldu. Yağışlar sonrası dağın Giresun tarafında yer alan Zıva Deresi'nde su seviyesi hızla yükselirken, dere kenarında piknik yapan Kırca ailesi sel sularına kapıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-giresunda-anne-ile-iki-kizi-sel-sularina-kapildi-kardeslerin-cansiz-bedeni-bulundu-1737062"
         },
         {
-          "title": "Nilda Müge Şahin'in katil zanlısı kadının toprağa verildiği mezarlıkta yakalandı",
-          "summary": "İstanbul'da Nilda Müge Şahin isimli kadının katil zanlısı Nazir Ilgın yakalandı. İstanbul'da Nilda Müge Şahin isimli kadını öldürdükten sonra kaçan katil zanlısı Nazir Ilgın yakalanarak gözaltına alındı. Ekipler, firari şüpheliyi saklandığı Sarıyer'deki Ayazağa Ormanı'nda yakaladı. Nilda Müge Şahin'in kız kardeşi ablasının mezarını ziyaretinde şüpheliyi görünce polisi aradı. Şüphelinin yakalandığı noktanın maktulün defnedildiği mezarlığa yaklaşık 1 kilometrelik uzaklıkta olduğu öğrenildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-nilda-muge-sahinin-katil-zanlisi-kadinin-topraga-verildigi-mezarlikta-yakalandi-1737060"
+          "title": "Gökyüzünde görsel şölen. Perseid meteor yağmuru başladı",
+          "summary": "Gökyüzündeki görsel şölen Perseid meteor yağmurunun en yoğun şekilde gözlemlenebileceği dönem başladı. Her yıl Temmuz sonunda başlayan ve Ağustos ayının 13'ünde zirve noktasına gelen Perseid meteor yağmurunun Türkiye'den en net şekilde izlenebildiği dönem başladı. Meteor yağmuru bilimsel olarak güneşin etrafında dolaşan Swift - Tuttle Kuyrukluyıldızının uzayda bıraktığı parçalarla oluşuyor. NASIL İZLENEBİLİR?",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-gokyuzunde-gorsel-solen-perseid-meteor-yagmuru-basladi-1737084"
         },
         {
-          "title": "Şişli'de eski sevgilisi Nilda Müge'yi öldüren şüpheli mezarı başında görülünce ormanda yakalandı",
-          "summary": "Şişli'de eski kız arkadaşı Nilda Müge Şahin’i (26) eczane önünde tabancayla vurarak öldüren Nazir Ilgın (35), kurbanın kız kardeşinin kendisini mezarlıkta fark edip ihbar etmesiyle yakalandı. Hakkında uzaklaştırma kararı bulunmasına rağmen cinayeti işleyen ve daha önce başka bir kadını bıçakladığı için aldığı 14 yıllık hapis cezası henüz kesinleşmediği için tutuksuz olan şüpheli, Sarıyer Ayazağa'daki ormanda gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sislide-eski-sevgilisi-nilda-mugeyi-olduren-supheli-mezari-basinda-gorulunce-ormanda-yakalandi-43270992"
+          "title": "Manisa'da 'FETÖ' soruşturması yalanıyla çift dolandırıldı: 1 tutuklama",
+          "summary": "Manisa'nın Kırkağaç ilçesinde kendilerini savcı ve adliye personeli olarak tanıtarak 'FETÖ' soruşturması yalanıyla bir çiftin altın ve dövizlerini dolandıran şebeke, jandarma ve polisin ortak operasyonuyla yakalandı. Gözaltına alınan 4 şüpheliden 1'i tutuklandı, 1 firari şüphelinin yakalanması için çalışmalar sürdürülüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/manisada-feto-sorusturmasi-yalaniyla-cift-dolandirildi-1-tutuklama-43271336"
         }
       ]
     },
     "dunya": {
-      "text": "Trump: Hürmüz'ü ABD kontrol ediyor. Pakistan güçlerinden Belucistan'daki terör saldırısına misilleme: 18 militan etkisiz hale getirildi. Pezeşkiyan'dan İran'a birlik uyarısı: 'Düşmanın amacı ülkeyi içeriden çökertmek'. Suriye'den BM'ye Kolombiya mektubu. Trump'ın kararı DSÖ'yü endişelendirdi: 'Kanıtlarla uyumlu değil'. Kolombiya'da deprem enkazından mucize kurtuluş. Dışişleri Bakanı Hakan Fidan, Libya Ulusal Ordusu Genel Komutanı Halife Hafter ile bir araya geldi.",
+      "text": "Çarpıcı analiz. \"İran savaş taktiğini geliştirdi\". İran: Hürmüz Boğazı kapalı ve koşullarımız kabul edilene kadar açılmayacak. Barzani'den çerçeve yasaya destek. Kolombiya depreminde can kaybı 265'e yükseldi. Avrupa'da 27 yıl sonra Güneş tutulması. 2 dakikalık karanlık. İspanya, 114 yıl sonra Güneş tutulmasına tanıklık etti. Güneş tutulması için özel uçuş. 10 bin metreden canlı yayınlandı.",
       "items": [
         {
-          "title": "Trump: Hürmüz'ü ABD kontrol ediyor",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nda tam kontrolü sağlayanın ABD olduğunu söyledi. ABD Başkanı Donald Trump, İran ve Hürmüz Boğazı'na yönelik yeni bir açıklama yaptı. Ülkesinin Hürmüz Boğazı üzerinde \"tam kontrole\" sahip olduğunu belirtti. Trump, sosyal medya üzerinden yaptığı paylaşımda, \"ABD Hürmüz Boğazı üzerinde tam kontrole sahip. Bunu sürdüreceğimizi düşünüyorum.\" ifadesini kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/trump-hurmuzu-abd-kontrol-ediyor-1737067"
+          "title": "Çarpıcı analiz. \"İran savaş taktiğini geliştirdi\"",
+          "summary": "New York Times'ın analizinde ABD'nin savaş mühimmatı azalırken İran'ın yeni savaş taktikleri geliştirdiği belirtildi. İran'ın son saldırılarında ABD'nin savunma sistemlerini aşmayı başardığına dikkat çekildi. İran savaşıyla ilgili Amerikan New York Times gazetesinde dikkat çeken bir analiz yayınlandı. Buna göre ABD Savunma Bakanlığı Pentagon'un elindeki önleyici füzeler azaldı. İran ise savaş becerilerini hızlı şekilde geliştiriyor.",
+          "source": "https://www.ntv.com.tr/dunya/carpici-analiz-iran-savas-taktigini-gelistirdi-1737095"
         },
         {
-          "title": "Pakistan güçlerinden Belucistan'daki terör saldırısına misilleme: 18 militan etkisiz hale getirildi",
-          "summary": "Pakistan ordusu, Belucistan eyaletinde Pakistan Talibanı (TTP) bağlantılı 18 militanın ölü ele geçirildiğini kaydetti. Terör örgütü mensuplarının Belucistan'da düzenlediği bombalı saldırıda 3 sivilin yaşamını yitirdiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistan-guclerinden-belucistandaki-teror-saldirisina-misilleme-18-militan-etkisiz-hale-getirildi-43271020"
+          "title": "İran: Hürmüz Boğazı kapalı ve koşullarımız kabul edilene kadar açılmayacak",
+          "summary": "İran yönetimine bağlı Basra Körfezi Boğaz Otoritesi’nden (PGSA) yapılan açıklamada, ABD’li yetkililerin Hürmüz Boğazı’nın kapalı olmadığı yönündeki açıklamalarının gerçeği yansıtmadığı belirtilerek, \"Hürmüz Boğazı hala kapalıdır ve İran’ın koşulları kabul edilene kadar yeniden açılmayacaktır\" denildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-hurmuz-bogazi-kapali-ve-kosullarimiz-kabul-edilene-kadar-acilmayacak-43271351"
         },
         {
-          "title": "Pezeşkiyan'dan İran'a birlik uyarısı: 'Düşmanın amacı ülkeyi içeriden çökertmek'",
-          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ile yürütülen savaşın ülkenin geçmişte girdiği savaşlardan daha karmaşık olduğunu ifade etti. Pezeşkiyan, \"düşmanın\" asıl amacının İran'ı içeriden çökertmek olduğunu kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/pezeskiyandan-irana-birlik-uyarisi-dusmanin-amaci-ulkeyi-iceriden-cokertmek-43271007"
+          "title": "Barzani'den çerçeve yasaya destek",
+          "summary": "Irak Kürt Bölgesel Yönetimi Başkanı Neçirvan Barzani, Meclis'te kabul edilen çerçeve yasaya destek açıklaması yaptı. Barzani, \"Bu cesur adım, Türkiye'de ve tüm bölgede kalıcı barışın, huzurun ve istikrarın sağlanması yolunda önemli bir dönüm noktasıdır.\" dedi. Neçirvan Barzani, Terörsüz Türkiye sürecinin yasal zeminini oluşturacak çerçeve yasaya ilişkin yazılı açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/dunya/barzaniden-cerceve-yasaya-destek-1737093"
         },
         {
-          "title": "Suriye'den BM'ye Kolombiya mektubu",
-          "summary": "Suriye Cumhurbaşkanlığı, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres'e Kolombiya'nın işgal altındaki Golan Tepeleri'nde İsrail egemenliğini tanımasına ilişkin mektup gönderdi. Mektupta, Şam yönetiminin kararı kesin olarak reddettiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriyeden-bmye-kolombiya-mektubu-43270973"
+          "title": "Kolombiya depreminde can kaybı 265'e yükseldi",
+          "summary": "Kolombiya'da 10 Ağustos'ta meydana gelen 7.4 büyüklüğündeki depremde hayatını kaybedenlerin sayısı 265'e yükseldi. 465 kişi ise kayıp. Güney Amerika ülkesi Kolombiya'da 10 Ağustos'ta meydana gelen 7.4 büyüklüğündeki depremin bilançosu ağırlaşıyor. Cumhurbaşkanı Abelardo de la Espriella, depremde hayatını kaybedenlerin sayısı 265'e yükseldiğini, 465 kişinin ise kayıp olduğunu duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/kolombiya-depreminde-can-kaybi-265e-yukseldi-1737091"
         },
         {
-          "title": "Trump'ın kararı DSÖ'yü endişelendirdi: 'Kanıtlarla uyumlu değil'",
-          "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Tedros Adhanom Ghebreyesus, ABD Başkanı Donald Trump'ın, çocukluk dönemi aşılarına ilişkin önerileri sınırlamak üzere imzaladığı kararnameye tepki gösterdi. Ghebreyesus, kararın \"onlarca yıllık kanıtlarla uyumlu olmaması\" nedeniyle endişeli olduklarını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumpin-karari-dsoyu-endiselendirdi-kanitlarla-uyumlu-degil-43270955"
+          "title": "Avrupa'da 27 yıl sonra Güneş tutulması. 2 dakikalık karanlık",
+          "summary": "Avrupa 27 yıl sonra yeniden Güneş tutulmasına tanık oldu. Ay'ın Güneş ile Dünya'nın arasına girmesiyle Avrupa kentleri birer birer 2 dakikalık karanlığa büründü. 2026 yılının en dikkat çeken gökyüzü olaylarından biri bugün akşam saatlerinde gerçekleşti. Avrupa'nın bazı noktalarında Güneş tamamen Ay'ın arkasında kalırken, daha geniş bir bölgede parçalı güneş tutulması gözlemlendi. Tutulma Türkiye'den izlenemedi. Avrupa 27 yıl sonra tam güneş tutulmasına tanıklık etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-avrupada-27-yil-sonra-gunes-tutulmasi-2-dakikalik-karanlik-1737077"
         },
         {
-          "title": "Kolombiya'da deprem enkazından mucize kurtuluş",
-          "summary": "Kolombiya'da 10 Ağustos'ta meydana gelen 7.4'lük deprem sonrası enkaz altındakileri kurtarma çalışmaları sürüyor. Depremin ardından kritik 72 saatlik süre dolmadan önce enkazdakilere ulaşmaya çalışan ekipler, Cali kentinde 2 günlük bir bebeği kurtardı",
-          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-deprem-enkazindan-mucize-kurtulus-43270928"
+          "title": "İspanya, 114 yıl sonra Güneş tutulmasına tanıklık etti",
+          "summary": "Avrupa 27 yıl sonra yeniden Güneş tutulmasına tanık oldu. İspanya'da ise farklı bir heyecan vardı. Çünkü kıtanın aksine ülke 114 yıl sonra ilk Güneş tutulmasına tanıklık etti. Tam tutulma anları NASA tarafından da canlı olarak yayınlandı.",
+          "source": "https://www.ntv.com.tr/dunya/video-ispanya-114-yil-sonra-gunes-tutulmasina-taniklik-etti-1737082"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan, Libya Ulusal Ordusu Genel Komutanı Halife Hafter ile bir araya geldi",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Libya'nın Bingazi kentine gerçekleştirdiği ziyarette Libya Ulusal Ordusu Genel Komutanı Mareşal Halife Hafter ile bir görüşme gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-libya-ulusal-ordusu-genel-komutani-halife-hafter-ile-bir-araya-geldi-43270916"
+          "title": "Güneş tutulması için özel uçuş. 10 bin metreden canlı yayınlandı",
+          "summary": "İspanya Havayolu şirketi İberia, Avrupa'nın bazı noktalarından gözlemlenen güneş tutulması için özel uçuş gerçekleştirildi. Yaklaşık 10 bin metre (33 bin feet) yükseklikte gerçekleştirilecek uçuş sırasında tam güneş tutulması canlı yayınlandı. Uçak, üç adet uçak içi kamera ve Starlink uydu bağlantısıyla donatıldı. Böylece bulutların üzerinde gerçekleşecek uçuş sırasında tutulma gerçek zamanlı olarak izleyicilere aktarılabildi. Uçuşta yer alan gökbilimciler de tutulmayı seyahat boyunca gözlemleyerek analiz etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-gunes-tutulmasi-icin-ozel-ucus-10-bin-metreden-canli-yayinlandi-1737079"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Romelu Lukaku Fenerbahçe'de! Resmen açıklandı. Beşiktaş, Dusan Vlahovic transferini resmen açıkladı!. Abdullah Avcı'nın vefat eden annesi son yolculuğuna uğurlandı. Fenerbahçe'de Omar Fayed, Frosinone ile anlaştı!. Fenerbahçe, Gençlerbirliği maçının hazırlıklarına başladı. Talisca, Sturm Graz karşısında attığı golle tarihe geçti!. Galatasaray'da Folarin Balogun sesleri!.",
+      "text": "Çorum FK, Mohamed Diomande transferini açıkladı. TFF, Fenerbahçe'nin Gençlerbirliği maçı erteleme talebini reddetti. Hollanda Milli Takımı'nın başına Xavi Hernandez getirildi. Dursun Özbek: Alkış alayım diye Galatasaray’ın geleceğini tehlikeye atmayacağım. Dusan Vlahovic İstanbul'da! İşte ilk sözleri. Mauro Icardi, görüşmelere başladı! Transferde ilk temas. Romelu Lukaku Fenerbahçe'de! Resmen açıklandı.",
       "items": [
+        {
+          "title": "Çorum FK, Mohamed Diomande transferini açıkladı",
+          "summary": "Süper Lig'i yeni ekiplerinden Çorum FK, Glasgow Rangers'tan Mohamed Diomande'yi kadrosuna kattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/corum-fk-mohamed-diomande-transferini-acikladi-43271283"
+        },
+        {
+          "title": "TFF, Fenerbahçe'nin Gençlerbirliği maçı erteleme talebini reddetti",
+          "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, Süper Lig'in 1. haftasında oynanacak Gençlerbirliği müsabakasının ertelenme talebinin Türkiye Futbol Federasyonu tarafından reddedildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tff-fenerbahcenin-genclerbirligi-maci-erteleme-talebini-reddetti-43271231"
+        },
+        {
+          "title": "Hollanda Milli Takımı'nın başına Xavi Hernandez getirildi",
+          "summary": "Hollanda Futbol Federasyonu, teknik direktörlük koltuğuna Xavi Hernandez'in getirildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hollanda-milli-takiminin-basina-xavi-hernandez-getirildi-43271227"
+        },
+        {
+          "title": "Dursun Özbek: Alkış alayım diye Galatasaray’ın geleceğini tehlikeye atmayacağım",
+          "summary": "Galatasaray başkanı Dursun Özbek, transfere dair açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-alkis-alayim-diye-galatasarayin-gelecegini-tehlikeye-atmayacagim-43271213"
+        },
+        {
+          "title": "Dusan Vlahovic İstanbul'da! İşte ilk sözleri",
+          "summary": "Beşiktaş'ın yeni golcüsü Dusan Vlahovic, İstanbul'a vardı. Sırp yıldız, ayağının tozuyla ilk hislerini paylaştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dusan-vlahovic-istanbulda-iste-ilk-sozleri-43271205"
+        },
+        {
+          "title": "Mauro Icardi, görüşmelere başladı! Transferde ilk temas",
+          "summary": "Galatasaray ile yolların ayıran Arjantinli golcü Mauro Icardi'ye Serie A'nın köklü ekibi talip oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mauro-icardi-gorusmelere-basladi-transferde-ilk-temas-43271129"
+        },
         {
           "title": "Romelu Lukaku Fenerbahçe'de! Resmen açıklandı",
           "summary": "Fenerbahçe, Napoli'nin Belçikalı golcüsü Romelu Lukaku'nun transferini duyurdu.",
           "source": "https://www.hurriyet.com.tr/sporarena/romelu-lukaku-fenerbahcede-resmen-aciklandi-43271062"
-        },
-        {
-          "title": "Beşiktaş, Dusan Vlahovic transferini resmen açıkladı!",
-          "summary": "Beşiktaş, sosyal medya paylaşımında Sırp golcü Dusan Vlahovic'i duyudurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-dusan-vlahovic-transferini-resmen-acikladi-43271059"
-        },
-        {
-          "title": "Abdullah Avcı'nın vefat eden annesi son yolculuğuna uğurlandı",
-          "summary": "Teknik direktör Abdullah Avcı'nın 88 yaşında vefat eden annesi Feriha Avcı, İstanbul'da son yolculuğuna uğurlandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/abdullah-avcinin-vefat-eden-annesi-son-yolculuguna-ugurlandi-43271010"
-        },
-        {
-          "title": "Fenerbahçe'de Omar Fayed, Frosinone ile anlaştı!",
-          "summary": "Fenerbahçe forması giyen Omar Fayed'in, Frosinone ile anlaştığı öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-omar-fayed-frosinone-ile-anlasti-43270997"
-        },
-        {
-          "title": "Fenerbahçe, Gençlerbirliği maçının hazırlıklarına başladı",
-          "summary": "Süper Lig'in ilk haftasında 15 Ağustos Cumartesi günü Gençlerbirliği'yle deplasmanda karşılaşacak Fenerbahçe, mücadelenin hazırlıklarına başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-genclerbirligi-macinin-hazirliklarina-basladi-43270970"
-        },
-        {
-          "title": "Talisca, Sturm Graz karşısında attığı golle tarihe geçti!",
-          "summary": "UEFA Şampiyonlar Ligi 3. eleme turunda Sturm Graz'ı 2-0'ın rövanşında deplasmanda 1-0 yenerek tur atlayan Fenerbahçe'nin karşılaşmadaki tek golünü atan Anderson Talisca, Avrupa maçlarında 9'u Fenerbahçe formasıyla olmak üzere 16. golünü kaydederek tarihe geçti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/talisca-sturm-graz-karsisinda-attigi-golle-tarihe-gecti-43270952"
-        },
-        {
-          "title": "Galatasaray'da Folarin Balogun sesleri!",
-          "summary": "Transfer çalışmalarına hız veren Galatasaray'ın Monaco forması giyen Folarin Balogun'un şartlarını sorduğu iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-folarin-balogun-sesleri-43270927"
         }
       ]
     },
