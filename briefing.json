@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-15T10:00:05.726Z",
+  "generatedAt": "2026-08-15T16:00:03.629Z",
   "categories": {
     "gundem": {
-      "text": "Manisa'da dolum tesisinde patlama. 2 ölü. 1 saatlik yol 35 dakikaya düşecek. Erzurum'un dokuz günlük kültür, sanat ve gastronomi serüveni başladı. Antalya'da orman yangını! Ekipler müdahale ediyor. YÖK Başkanı açıkladı. Üniversite affından 500 bin öğrenci yararlanabilir. Parkta oynayan çocuğun topunu tilki çaldı. Muharrem Kasapoğlu: Türkiye küresel güç olma yolunda ilerliyor.",
+      "text": "İzmir'de muhalefet partilerinden 500 kişi AK Parti'ye geçti. Marmaris'te orman yangını. Bakü'de yakalanan suç örgütü şüphelisi Türkiye'ye getirildi. İçişleri duyurdu: Yeni nesil suç örgütü üyeleriyle irtibatlı şüpheli Bakü’de yakalandı. Fethiye'de dehşet! Annesini öldürüp intihar etti. Mardin'de ilçe başkanı, 20 kişilik grupla damadının evini bastığı iddiasıyla gözaltına alındı. TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' mesajı.",
       "items": [
         {
-          "title": "Manisa'da dolum tesisinde patlama. 2 ölü",
-          "summary": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Kazada 2 kişi ağır yaralanırken 2 kişi de hayatını kaybetti. Salihli Sanayi Sitesi'ndeki bir dolum tesisinde saat 08.27 sıralarında patlama oldu. Çevredekilerin ihbarı üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi. DUMANLAR BİRÇOK YERDEN GÖRÜLDÜ Zaman zaman patlamaların yaşandığı tesisin çevresinde güvenlik önlemi alındı. Ekiplerin yürüttüğü çalışmanın ardından yangın kontrol altına alındı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-manisada-dolum-tesisinde-patlama-ekipler-olay-yerinde-1737450"
+          "title": "İzmir'de muhalefet partilerinden 500 kişi AK Parti'ye geçti",
+          "summary": "İzmir'de CHP ve diğer partilerden toplam 500 kişi AK Parti'ye katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmirde-muhalefet-partilerinden-500-kisi-ak-partiye-gecti-43274520"
         },
         {
-          "title": "1 saatlik yol 35 dakikaya düşecek",
-          "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Çamlıhemşin Tüneli ile Ayder Yaylası arasında kalan kesimde çalışmaların sürdüğünü; seyahat süresinin 35 dakikaya düşeceğini söyledi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Karadeniz Sahil Yolu’nun Pazar - Ardeşen ayrımından başlayarak Çamlıhemşin ilçe merkezinden geçip Ayder’e ulaşan güzergâhta yürütülen çalışmalara ilişkin açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-1-saatlik-yol-35-dakikaya-dusecek-1737465"
+          "title": "Marmaris'te orman yangını",
+          "summary": "MUĞLA'nın Marmaris ilçesinde orman yangını çıktı. Yangına havadan ve karadan müdahale başladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/marmariste-orman-yangini-43274514"
         },
         {
-          "title": "Erzurum'un dokuz günlük kültür, sanat ve gastronomi serüveni başladı",
-          "summary": "Türkiye Kültür Yolu Festivali’nin 14. durağı Erzurum’da festival heyecanı başladı. Kültür ve Turizm Bakan Yardımcısı Serdar Çam’ın katılımıyla Erzurum Müzesi’nde gerçekleştirilen açılış programıyla başlayan festival, 23 Ağustos’a kadar yüzlerce etkinliğe ev sahipliği yapacak. Dokuz gün boyunca konserlerden sergilere, söyleşilerden gastronomi etkinliklerine uzanan geniş bir programla Erzurum’un tarihi ve kültürel değerleri ziyaretçilerle buluşacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/erzurumun-dokuz-gunluk-kultur-sanat-ve-gastronomi-seruveni-basladi-43274141"
+          "title": "Bakü'de yakalanan suç örgütü şüphelisi Türkiye'ye getirildi",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, Türkiye ve Azerbaycan polisinin ortak çalışması sonucu yeni nesil suç örgütleriyle bağlantılı olduğu belirtilen bir şüphelinin Bakü'de yakalandığını bildirdi. Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele (KOM) Başkanlığı ile Cumhuriyet başsavcılıklarının koordinasyonunda, İstanbul Emniyet Müdürlüğü Organize Suçlarla Mücadele Şube Müdürlüğü ve Azerbaycan Polisi tarafından ortak çalışma yürütüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/bakude-yakalanan-suc-orgutu-suphelisi-turkiyeye-getirildi-1737503"
         },
         {
-          "title": "Antalya'da orman yangını! Ekipler müdahale ediyor",
-          "summary": "Antalya'nın Kemer ilçesinde orman yangını çıktı. Bölgeye sevk edilen ekipler, havadan ve karadan yangına müdahale ediyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/antalyada-orman-yangini-ekipler-mudahale-ediyor-43274123"
+          "title": "İçişleri duyurdu: Yeni nesil suç örgütü üyeleriyle irtibatlı şüpheli Bakü’de yakalandı",
+          "summary": "İçişleri Bakanlığı'ndan yapılan açıklamada, \"Hakkında 'Kasten öldürme, uyuşturucu kullanmak, ruhsatsız silahlarla mermileri satın alma veya taşıma' suçlarından yakalama kararı bulunan yeni nesil suç örgütü üyeleriyle irtibatlı Ö.A.K. Bakü’de yakalanarak Türkiye'ye getirildi\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/icisleri-duyurdu-yeni-nesil-suc-orgutuyle-baglantili-olarak-aranan-supheli-bakude-yakalandi-43274475"
         },
         {
-          "title": "YÖK Başkanı açıkladı. Üniversite affından 500 bin öğrenci yararlanabilir",
-          "summary": "YÖK Başkanı, 9 Ağustos'ta Resmi Gazete'de yayımlanan öğrenci affı için son başvuru tarihinin 9 Aralık 2026 olduğunu, önceki aflardan yararlananların da başvurabileceğini bildirdi. Yükseköğretim Kurulu (YÖK) Başkanı Prof. Dr. Erol Özvar, 9 Ağustos'ta Resmi Gazete'de yayımlanarak yürürlüğe giren öğrenci affına ilişkin açıklamalarda bulundu. Özvar, daha önceki öğrenci aflarından yararlananların da yeni düzenleme kapsamında üniversiteye dönebileceğini bildirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/yok-baskani-acikladi-universite-affindan-500-bin-ogrenci-yararlanabilir-1737460"
+          "title": "Fethiye'de dehşet! Annesini öldürüp intihar etti",
+          "summary": "Muğla'nın Fethiye ilçesinde 50 yaşındaki Volkan Sütçü, 74 yaşındaki annesi Fatma Sütçü'yü tabancayla başından vurarak öldürdükten sonra intihar etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/fethiyede-dehset-annesini-oldurup-intihar-etti-43274461"
         },
         {
-          "title": "Parkta oynayan çocuğun topunu tilki çaldı",
-          "summary": "Çanakkale’de parkta top oynayan 3 yaşındaki Demir’in yanına yaklaşan tilki, çocuğun attığı topunu alarak hızla uzaklaştı. Olay, Kepez beldesinde akşam saatlerinde meydana geldi. Ailesinin gözetiminde parkta top oynayan Demir’in yanına bir tilki yaklaştı. Ne olduğunu anlamaya çalışan küçük çocuk, topunu tilkiye doğru attı. Topu alan tilki, kısa süre oynadıktan sonra topu ağzına alarak bölgeden uzaklaştı. Çocuğun şaşkınlıkla izlediği o anlar, ailesi tarafından cep telefonu kamerasıyla kaydedildi.",
-          "source": "https://www.ntv.com.tr/yerel-haberler/canakkale/parkta-oynayan-cocugun-topunu-tilki-caldi-1737459"
+          "title": "Mardin'de ilçe başkanı, 20 kişilik grupla damadının evini bastığı iddiasıyla gözaltına alındı",
+          "summary": "Mardin’in Kızıltepe ilçesinde eşiyle sorun yaşayan damadı Muhammed Nakşioğlu’nun evini 20 kişilik grupla bastığı iddia edilen İYİ Parti İlçe Başkanı Fahrettin Cevheroğlu gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/mardinde-ilce-baskani-20-kisilik-grupla-damadinin-evini-bastigi-iddiasiyla-gozaltina-alindi-43274432"
         },
         {
-          "title": "Muharrem Kasapoğlu: Türkiye küresel güç olma yolunda ilerliyor",
-          "summary": "AK Parti İzmir Milletvekili Dr. Mehmet Muharrem Kasapoğlu, AK Parti'nin 25. kuruluş yıl dönümü dolayısıyla yayımladığı mesajda, çeyrek asırlık süreci \"Meşruiyetini kesintisiz şekilde sandıktan alan bir siyasi hareketin yükselişi\" olarak değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/muharrem-kasapoglu-turkiye-kuresel-guc-olma-yolunda-ilerliyor-43274097"
+          "title": "TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' mesajı",
+          "summary": "Bosphorus Diplomasi Forumu’nda konuşan Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, \"Bu coğrafyada bizim ülkemizde yaklaşık Cumhuriyetimizin ilk asrının yarısını heba ettiğimiz terör meselesini geride bırakıyoruz. 40 yılı aşkın süredir devam eden binlerce insanımızın şehit olduğu, on binlerce insanımızın öldüğü, köylerin, kentlerin yıkıldığı, tarumar olduğu bu süreci artık geride bırakıyoruz.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-terorsuz-turkiye-mesaji-43274409"
         }
       ]
     },
     "dunya": {
-      "text": "Sözleşmenin ayrıntıları ortaya çıktı. Ronaldo boşanırlarsa Georgina'ya servet ödeyecek. Sağ kolu aniden istifa etti. \"Trump hazırlıksız yakalandı, kimseyi bulamıyor\". Rusya'dan Karadeniz'de 3 noktaya saldırı: Rusya Savunma Bakanı Belousov cepheye gitti. Küflü duşlar ve erzak krizi ABD'yi karıştırdı. Lincoln uçak gemisi eve dönüyor. Suçlamaların odağındaki Cambridge profesörü ölü bulundu. Servetleri yetmedi. Ünlü milyarderler kulübe alınmadı. Yayıncılar romanın yüzüne bakmadı, Netflix'te zirveye yerleşti.",
+      "text": "Türkiye ile Kazakistan arasında sivil havacılık mutabakatı. Güney Kore'den Japonya'ya 'tarihle yüzleşme' çağrısı. İspanya'da 5 büyüklüğünde deprem sonrası hasar oluştu. Ukraynalı komutandan Türk denizcinin kardeşine hadsiz mesaj. Hizbullah'tan Netanyahu'ya 'katliam' tepkisi: 'Gereken yanıt verilecek'. Irak'ta Haşdi Şabi bilmecesi: Dikkat çeken silahsızlanma açıklaması. Filistin 20 yıl sonra ilk kez sandık başına gidiyor: Seçmenlerin kayıt süreci başladı.",
       "items": [
         {
-          "title": "Sözleşmenin ayrıntıları ortaya çıktı. Ronaldo boşanırlarsa Georgina'ya servet ödeyecek",
-          "summary": "Ronaldo ve yeni eşi Georgina Rodriguez'in evlilik sözleşmesini İspanyol gazetesi Marca yazdı. Buna göre Rodriguez, boşanma durumunda 100 bin euro nafaka alacak. İspanyol gazetesi Marca'nın haberine göre ünlü Portekizli futbolcu Cristiano Ronaldo ve yeni eşi Georgina Rodriguez bir evlilik sözleşmesi imzaladı. Bu sözleşme kapsamında, İspanyol-Arjantinli model ve influencer, boşanma halinde aylık yaklaşık 100 bin euro tutarında ömür boyu nafaka alacak.",
-          "source": "https://www.ntv.com.tr/dunya/sozlesmenin-ayrintilari-ortaya-cikti-ronaldo-bosanirlarsa-georginaya-servet-odeyecek-1737466"
+          "title": "Türkiye ile Kazakistan arasında sivil havacılık mutabakatı",
+          "summary": "Sivil Havacılık Genel Müdürlüğü (SHGM), Kazakistan ile sivil havacılık ilişkilerinin geliştirilmesini hedefleyen yeni mutabakat zaptı imzalandığını belirtti. Anlaşmanın ve ülke arasındaki hava ulaşım imkanlarının artırılmasını amaçladığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiye-ile-kazakistan-arasinda-sivil-havacilik-mutabakati-43274484"
         },
         {
-          "title": "Sağ kolu aniden istifa etti. \"Trump hazırlıksız yakalandı, kimseyi bulamıyor\"",
-          "summary": "Beyaz Saray'dan yapılacak basın açıklamaları, Leavitt'in yerine bir basın sözcüsü bulunana kadar üst düzey yetkililer tarafından yapılacak. İngiltere merkezli Independent gazetesinde cumartesi günü yayınlanan bir habere göre, ABD Başkanı Donald Trump, basın sözcüsü Karoline Leavitt'in ani istifasına hazırlıksız yakalandı ve yerine atanacak hiçbir aday şimdilik yok. Beyaz Saray'dan bir yetkiliye dayandırılan habere göre, Trump, Leavitt bu ayın sonunda görevinden ayrıldığında yerine birini atamayı düşünmüyor.",
-          "source": "https://www.ntv.com.tr/dunya/sag-kolu-aniden-istifa-etti-trump-hazirliksiz-yakalandi-kimseyi-bulamiyor-1737464"
+          "title": "Güney Kore'den Japonya'ya 'tarihle yüzleşme' çağrısı",
+          "summary": "Japon yetkililer, İkinci Dünya Savaşı'ndaki savaş suçlarıyla yargılanan üst düzey askerlerin mezarlarının yer aldığı tartışmalı Yasukuni Tapınağı'nı ziyaret etti. Güney Kore'nin, ziyarete tepki göstererek, Japonya'nın \"tarihiyle yüzleşmesini\" talep etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/guney-koreden-japonyaya-tarihle-yuzlesme-cagrisi-43274477"
         },
         {
-          "title": "Rusya'dan Karadeniz'de 3 noktaya saldırı: Rusya Savunma Bakanı Belousov cepheye gitti",
-          "summary": "Rusya, Karadeniz'deki Ukrayna hedeflerine yönelik peş peşe saldırılar gerçekleştirdi. Rus insansız hava araçlarının (İHA) Ukrayna’nın Odessa, Yujnıy ve İzmail limanlarının vurduğu belirtildi. Rusya Savunma Bakanı Andrey Belousov, şiddetli çatışmaların yerini İHA saldırılarına bıraktığı dönemde cephe hattını ziyaret etti. Kuzey Kore, Rusya ile savunma işbirliğinin derinleştirildiğini bildirdi. Temmuz ayı, Ukrayna savaşında en çok sivil ölümü gerçekleşen dönem olarak kayıtlara geçti.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-karadenizde-3-noktaya-saldiri-rusya-savunma-bakani-belousov-cepheye-gitti-43274140"
+          "title": "İspanya'da 5 büyüklüğünde deprem sonrası hasar oluştu",
+          "summary": "İspanya'nın Granada kentinde meydana gelen 5 büyüklüğündeki depremde bazı binaların hasar gördüğü bildirildi. Endülüs yönetimi, vatandaşlara hasar gören yapılardan uzak durmaları uyarısı yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyada-5-buyuklugunde-deprem-sonrasi-hasar-olustu-43274470"
         },
         {
-          "title": "Küflü duşlar ve erzak krizi ABD'yi karıştırdı. Lincoln uçak gemisi eve dönüyor",
-          "summary": "İran ile savaş kapsamında Ortadoğu'da 260 günü aşkın süredir görev yapan USS Abraham Lincoln uçak gemisinin planlı rotasyonla ABD'ye döneceği açıklandı. ABD Deniz Kuvvetleri Bakan Vekili Hung Cao, dün yaptığı açıklamada, uçak gemisi USS Abraham Lincoln'ün planlı bir rotasyon kapsamında yakında ABD'ye döneceğini duyurdu. Açıklama, gemideki yaklaşık 5 bin denizci ve deniz piyadesinin zorlu şartlar altında görev yaptığına ve mürettebatın ruh sağlığının bozulduğuna dair haberlerin ardından geldi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-kuflu-duslar-ve-erzak-krizi-abdyi-karistirdi-lincoln-ucak-gemisi-eve-donuyor-1737423"
+          "title": "Ukraynalı komutandan Türk denizcinin kardeşine hadsiz mesaj",
+          "summary": "Ukrayna İnsansız Sistemler Kuvvetleri Komutanı Robert Brovdi, Novorossiysk açıklarında Rusya'dan Trabzon'a kömür taşırken insansız hava aracı (İHA) saldırısıyla vurulan Türk bayraklı gemide yaşamını yitiren Savaş Çakar'ın kardeşi gazeteci Abbas Çakar'ın köşe yazısına yorum yaptı. Ukraynalı komutan, resmi e-posta adresinden gönderdiği mesajda Çakar'ın ağabeyi için, \"Hak ettiğini aldı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ukraynali-komutandan-turk-denizcinin-kardesine-hadsiz-mesaj-43274460"
         },
         {
-          "title": "Suçlamaların odağındaki Cambridge profesörü ölü bulundu",
-          "summary": "İntihal iddialarının ardından geçen hafta Cambridge Üniversitesindeki görevinden istifa eden Jason Arday'in Londra'daki bir adreste ölü bulunduğu açıklandı. İntihal suçlamaları ve ırkçılık tartışmalarının ardından geçen hafta Cambridge Üniversitesi'ndeki görevinden ayrılan siyah akademisyen Jason Arday, cuma günü hayatını kaybetti. Ölüm haberini Cambridge Üniversitesi doğruladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-suclamalarin-odagindaki-cambridge-profesoru-olu-bulundu-1737436"
+          "title": "Hizbullah'tan Netanyahu'ya 'katliam' tepkisi: 'Gereken yanıt verilecek'",
+          "summary": "İsrail ordusunun Lübnan'a yönelik art arda düzenlediği saldırılara tepki gösteren Hizbullah, İsrail Başbakanı Binyamin Netanyahu'nun gerilimi tırmandırmaya çalıştığını belirtti. Hizbullah'ın açıklamasında, Netanyahu'nun ekim ayında düzenlenecek İsrail genel seçimlerini kazanabilmek için çatışmayı körüklediği kaydedildi. Hizbullah, sivillere yönelik \"barbarca katliamlara\" gereken yanıtı vereceğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/hizbullahtan-netanyahuya-katliam-tepkisi-gereken-yanit-verilecek-43274439"
         },
         {
-          "title": "Servetleri yetmedi. Ünlü milyarderler kulübe alınmadı",
-          "summary": "ABD'nin Miami kentindeki Indian Creek Adası'na yerleşen Jeff Bezos ile Jared Kushner ve Ivanka Trump çifti, bölgenin seçkin kulübüne henüz üye olamadı. Amazon'un kurucusu Jeff Bezos ile ABD Başkanı Donald Trump'ın damadı Jared Kushner ve Ivanka Trump çifti Miami'deki Indian Creek Adası'na taşınmalarına karşın adanın son derece seçkin kulübü Indian Creek Village Club'a henüz üyelik elde edemedi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-servetleri-yetmedi-unlu-milyarderler-kulube-alinmadi-1737451"
+          "title": "Irak'ta Haşdi Şabi bilmecesi: Dikkat çeken silahsızlanma açıklaması",
+          "summary": "Irak Güvenlik Medya Ağı Başkanı Saad Maan, Haşdi Şabi güçlerinin ordunun bir parçası olduğunu ifade etti. Maan, silahları devletin tekelinde tutma kararının Haşdi Şabi haricindeki silahlı grupları kapsayacağını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irakta-hasdi-sabi-bilmecesi-dikkat-ceken-silahsizlanma-aciklamasi-43274426"
         },
         {
-          "title": "Yayıncılar romanın yüzüne bakmadı, Netflix'te zirveye yerleşti",
-          "summary": "Zimbabvveli yazar Sue Nyathi'nin yayımcılar tarafından ilgi görmeyeceği gerekçesiyle geri çevrilen ilk romanı, Netflix uyarlamasıyla küresel bir başarıya ulaştı. Zimbabvveli yazar Sue Nyathi'nin evli bir erkeğin gizli ilişkilerini konu alan ilk romanı The Polygamist (Çok Eşli), yayınevlerinin \"bu kitap satmaz\" diyerek yaptığı retlerin ardından kendi imkânlarıyla yayımlandı. 2012 yılında kendi editörünü, dizgicisini ve çizerini bularak 500 adet bastığı kitabı, tahminlerin aksine büyük bir başarı yakaladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-yayincilar-romanin-yuzune-bakmadi-netflixte-zirveye-yerlesti-1737453"
+          "title": "Filistin 20 yıl sonra ilk kez sandık başına gidiyor: Seçmenlerin kayıt süreci başladı",
+          "summary": "Filistinliler, 20 yıl aranın ardından 28 Kasım'da genel seçimler için sandık başına gitmeye hazırlanıyor. Filistin yönetimi, oy kullanacak seçmenlerin kayıt ve bilgi güncelleme sürecini bugün itibarıyla başlattığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/filistin-20-yil-sonra-ilk-kez-sandik-basina-gidiyor-secmenlerin-kayit-sureci-basladi-43274418"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe’de Ederson gelişmesi!. Galatasaray'dan Leao için yeni hamle! Kritik zirve sonrası karar çıkacak. Lazio'dan Mauro Icardi açıklaması. Fenerbahçe'de bir ayrılık daha! Yönetimden bonservis şartı. Beşiktaş, Süper Lig'de sezonu Eyüpspor maçıyla açacak. Trabzonspor, Kasımpaşa'ya konuk oluyor! Maçın heyecanı Misli'de. Fenerbahçe, sezonu Gençlerbirliği deplasmanında açıyor! Maçın heyecanı Misli'de.",
+      "text": "Sarıyer'e yeni sponsor! İmzalar atıldı. Lucas Gourna-Douath’ın yeni adresi Hull City. Samsunspor'da gözler Göztepe maçına çevrildi. Galatasaray, Erzurumspor maçının hazırlıklarına ara vermeden başladı. Beşiktaş, Eyüpspor maçı hazırlıklarını tamamladı. Fenerbahçe'ye Şampiyonlar Ligi transferi! 2 isim listede. Trabzonspor - Ferencvaros maçının hakemi belli oldu!.",
       "items": [
         {
-          "title": "Fenerbahçe’de Ederson gelişmesi!",
-          "summary": "Fenerbahçe'de geleceği belirsizliğini koruyan Ederson için sürpriz bir iddia gündeme geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-ederson-gelismesi-43274131"
+          "title": "Sarıyer'e yeni sponsor! İmzalar atıldı",
+          "summary": "Sarıyer Spor Kulübü ile SMS Grup arasında 2026–2027 sezonunu kapsayan isim sponsorluğu anlaşması, düzenlenen imza töreniyle kamuoyuna duyuruldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sariyere-yeni-sponsor-imzalar-atildi-43274469"
         },
         {
-          "title": "Galatasaray'dan Leao için yeni hamle! Kritik zirve sonrası karar çıkacak",
-          "summary": "Galatasaray'ın transfer listesinin üst sıralarında yer alan Milanlı Rafael Leao'ya ilişkin İtalyan basınında önemli bir habere yer verildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-leao-icin-yeni-hamle-kritik-zirve-sonrasi-karar-cikacak-43274086"
+          "title": "Lucas Gourna-Douath’ın yeni adresi Hull City",
+          "summary": "Premier Lig ekiplerinden Hull City, Salzburg’un 22 yaşındaki Fransız orta saha oyuncusu Lucas Gourna-Douath’ı kadrosuna kattığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lucas-gourna-douathin-yeni-adresi-hull-city-43274462"
         },
         {
-          "title": "Lazio'dan Mauro Icardi açıklaması",
-          "summary": "Lazio'nun gündemine gelen Icardi için teknik direktör Gennaro Gattuso açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/laziodan-mauro-icardi-aciklamasi-43274023"
+          "title": "Samsunspor'da gözler Göztepe maçına çevrildi",
+          "summary": "Samsunspor Basın Sözcüsü Suat Çakır, Süper Lig'de ilk 5'i hedeflediklerini ve doğrudan rakip olarak gördükleri Göztepe karşısında galip gelmek istediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/samsunsporda-gozler-goztepe-macina-cevrildi-43274423"
         },
         {
-          "title": "Fenerbahçe'de bir ayrılık daha! Yönetimden bonservis şartı",
-          "summary": "Fenerbahçe, Fred'in ardından yabancı kontenjanında rahatlamak adına elindeki futbolcuları göndermeye hazırlanıyor. Sarı lacivertli yönetim, oyuncuları isteyen kulüplerden bonservis talep ediyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-bir-ayrilik-daha-yonetimden-bonservis-sarti-43273993"
+          "title": "Galatasaray, Erzurumspor maçının hazırlıklarına ara vermeden başladı",
+          "summary": "Süper Lig'in açılış maçında konuk ettiği Çorum FK ile 2-2 berabere kalan Galatasaray, 2. hafta oynayacağı Erzurumspor FK maçının hazırlıklarına ara vermeden başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-erzurumspor-macinin-hazirliklarina-ara-vermeden-basladi-43274406"
         },
         {
-          "title": "Beşiktaş, Süper Lig'de sezonu Eyüpspor maçıyla açacak",
-          "summary": "Beşiktaş, Süper Lig'de 2026-2027 sezonunun ilk haftasında yarın sahasında Eyüpspor'u ağırlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-super-ligde-sezonu-eyupspor-maciyla-acacak-43273964"
+          "title": "Beşiktaş, Eyüpspor maçı hazırlıklarını tamamladı",
+          "summary": "Beşiktaş, Süper Lig'in ilk haftasında Eyüpspor ile oynayacağı karşılaşmanın hazırlıklarını, bugün yaptığı antrenmanla tamamladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-eyupspor-maci-hazirliklarini-tamamladi-43274377"
         },
         {
-          "title": "Trabzonspor, Kasımpaşa'ya konuk oluyor! Maçın heyecanı Misli'de",
-          "summary": "Trabzonspor, Süper Lig'in 1. haftasında Kasımpaşa deplasmanında sahaya çıkacak. Maçın heyecanı, canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-kasimpasaya-konuk-oluyor-macin-heyecani-mislide-43273949"
+          "title": "Fenerbahçe'ye Şampiyonlar Ligi transferi! 2 isim listede",
+          "summary": "UEFA Şampiyonlar Ligi play-off elemelerinde Lyon ile karşılaşacak Fenerbahçe, turu geçmesi ve Şampiyonlar Ligi'ne kalması halinde 2 isim için girişimde bulunacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-sampiyonlar-ligi-transferi-2-isim-listede-43274333"
         },
         {
-          "title": "Fenerbahçe, sezonu Gençlerbirliği deplasmanında açıyor! Maçın heyecanı Misli'de",
-          "summary": "Fenebahçe, Süper Lig'in 2026-27 sezonu açılış haftasında Gençlerbirliği'ne konuk oluyor. Maçın heyecanı canlı sohbet ile Misli'de.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-sezonu-genclerbirligi-deplasmaninda-aciyor-macin-heyecani-mislide-43273905"
+          "title": "Trabzonspor - Ferencvaros maçının hakemi belli oldu!",
+          "summary": "Trabzonspor'un UEFA Avrupa Ligi play-off turunda, sahasında Macaristan ekibi Ferencvaros ile yapacağı maçta Hırvat hakem Igor Pajac düdük çalacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ferencvaros-macinin-hakemi-belli-oldu-43274330"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar. Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor. Keneden ölümlere karşı yerli aşı. Erciyes Üniversitesi'nde aşının ilk fazı tamamlanmak üzere. Başı dönünce hastaneye gitti, nadir hastalığı ortaya çıktı! Türkiye'de sadece onda ve kızında var. Özel hastanede skandal. \"Boş gebelik\" deyip bebeğini almak istediler. Muayene ve serum için 71 bin lira ödediler. İsviçreli turistlere Antalya'da fatura şoku. Uyuz, egzama ve deri hastalıklarına iyi geliyormuş. 3 yıl önce kurumuştu, bu yıl canlandı.",
+      "text": "Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum. Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar. Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor. Keneden ölümlere karşı yerli aşı. Erciyes Üniversitesi'nde aşının ilk fazı tamamlanmak üzere. Başı dönünce hastaneye gitti, nadir hastalığı ortaya çıktı! Türkiye'de sadece onda ve kızında var. Özel hastanede skandal. \"Boş gebelik\" deyip bebeğini almak istediler. Muayene ve serum için 71 bin lira ödediler. İsviçreli turistlere Antalya'da fatura şoku.",
       "items": [
+        {
+          "title": "Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum",
+          "summary": "Rize'de yaşayan 28 yaşındaki Serenay Atagün'ün iki ayrı rahminde aynı anda gebelik oluştu. Bu, dünyadaki üçüncü vaka oldu. Çift rahmi olan bir kadının her iki rahminde de aynı anda gebelik oluşması tıp çevrelerinde milyonda bir ihtimal olarak değerlendiriliyor. Tıpta \"dikaviter ikiz gebelik\" (iki ayrı boşluklu ikiz gebelik) olarak adlandırılan bu durum, dünya genelinde çok nadir bildirilen olaylar arasında yer alıyor. Bu doğum olayı son olarak Trabzon'da gerçek oldu.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-dunyada-ucuncu-vaka-oldu-ikisi-turkiyede-biri-cinde-1737478"
+        },
         {
           "title": "Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar",
           "summary": "Adıyaman'ın Gerger ilçesine bağlı Gürgenli köyü sınırları içerisinde yer alan Sülüklü Göl, son dönemde şifa arayan ziyaretçilerin akınına uğruyor. Gördük Dağları'nın güney yamacında, yaklaşık bin 500 metre yükseklikteki zorlu coğrafyanın arasında gizlenmiş bu doğa harikası, el değmemiş yapısı ve temiz havasıyla çevre illerden gelen binlerce yerli turisti ağırlıyor. Etrafı sarp zirvelerle çevrili olan Sülüklü Göl, adını içinde barındırdığı ve alternatif tıpta sıkça kullanılan doğal sülüklerden alıyor.",
@@ -235,11 +240,6 @@
           "title": "Muayene ve serum için 71 bin lira ödediler. İsviçreli turistlere Antalya'da fatura şoku",
           "summary": "Antalya'nın Alanya ilçesinde tatil sırasında rahatsızlanarak özel bir hastanenin acil servisine başvuran İsviçre vatandaşı iki genç kıza toplam 71 bin TL fatura çıkarılınca konu Sağlık Bakanlığı ve CİMER'e taşındı. İsviçre'de yaşayan Fatma Dilek Kırkbunar ile İsviçre vatandaşı arkadaşı Morena Marie Opprecht, Alanya'da tatil yaparken 29 Temmuz günü saat 23.50'de halsizlik, bulantı ve güneş çarpması şikayetleriyle özel bir hastanenin Başkent acil servisine başvurdu.",
           "source": "https://www.ntv.com.tr/saglik/galeri-muayene-ve-serum-icin-71-bin-lira-odediler-isvicreli-turistlere-antalyada-fatura-soku-1736080"
-        },
-        {
-          "title": "Uyuz, egzama ve deri hastalıklarına iyi geliyormuş. 3 yıl önce kurumuştu, bu yıl canlandı",
-          "summary": "Sivas’ta yer alan ve daha önce tamamen kuruyan Uyuz Gölü yeniden su tuttu. Cilt rahatsızlığı yaşayanların yanı sıra serinlemek için de girilen göl, gencinden yaşlısına birçok kişinin akınına uğradı. Sivas kent merkezine 50 kilometre uzaklıktaki Gümüşdere köyü, arazisindeki göl ile dikkat çekiyor. 3 yıl önce kuruyan ve bu yıl yeniden su tutmaya başlayan gölün şifalı olduğuna inanılıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-uyuz-egzama-ve-deri-hastaliklarina-iyi-geliyormus-3-yil-once-kurumustu-bu-yil-canlandi-1736041"
         }
       ]
     },
