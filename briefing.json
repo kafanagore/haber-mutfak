@@ -1,51 +1,71 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-15T16:00:03.629Z",
+  "generatedAt": "2026-08-16T04:00:03.428Z",
   "categories": {
     "gundem": {
-      "text": "İzmir'de muhalefet partilerinden 500 kişi AK Parti'ye geçti. Marmaris'te orman yangını. Bakü'de yakalanan suç örgütü şüphelisi Türkiye'ye getirildi. İçişleri duyurdu: Yeni nesil suç örgütü üyeleriyle irtibatlı şüpheli Bakü’de yakalandı. Fethiye'de dehşet! Annesini öldürüp intihar etti. Mardin'de ilçe başkanı, 20 kişilik grupla damadının evini bastığı iddiasıyla gözaltına alındı. TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' mesajı.",
+      "text": "Devasa gelirli dijital platformlara göstermelik cezalar: Denetim ve yaptırım zafiyeti gözler önüne serildi. Akrabalarıyla damadının evini basan başkan gözaltına alındı. Eşe işkenceye ödül gibi ceza. Süleymancıların lideri ailece ‘tapu’ zengini çıktı. Marmaris'te orman yangını. Arazözleri çıkarma gemileri taşıdı. Kırmızı ışık ihlali kazaya neden oldu. 1’i ağır 5 yaralı. Alihan Kuriş soruşturması. 66 milyar lirayı aşan para trafiği tespit edildi.",
       "items": [
         {
-          "title": "İzmir'de muhalefet partilerinden 500 kişi AK Parti'ye geçti",
-          "summary": "İzmir'de CHP ve diğer partilerden toplam 500 kişi AK Parti'ye katıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-muhalefet-partilerinden-500-kisi-ak-partiye-gecti-43274520"
+          "title": "Devasa gelirli dijital platformlara göstermelik cezalar: Denetim ve yaptırım zafiyeti gözler önüne serildi",
+          "summary": "Radyo ve Televizyon Üst Kurulu’nun (RTÜK) dijital yayın platformlarına yönelik son kararları, yayın içeriklerinin sınırları kadar uygulanan cezaların ne derece caydırıcı olduğu sorusunu da beraberinde getirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/devasa-gelirli-dijital-platformlara-gostermelik-cezalar-denetim-ve-yaptirim-zafiyeti-gozler-onune-serildi-43274287"
         },
         {
-          "title": "Marmaris'te orman yangını",
-          "summary": "MUĞLA'nın Marmaris ilçesinde orman yangını çıktı. Yangına havadan ve karadan müdahale başladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/marmariste-orman-yangini-43274514"
+          "title": "Akrabalarıyla damadının evini basan başkan gözaltına alındı",
+          "summary": "20 kişilik grupla evini bastığı damadını darp ettiği öne sürülen İYİ Parti Kızıltepe İlçe Başkanı Fahrettin Cevheroğlu gözaltına alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-akrabalariyla-damadinin-evini-basan-baskan-gozaltina-alindi-1737532"
         },
         {
-          "title": "Bakü'de yakalanan suç örgütü şüphelisi Türkiye'ye getirildi",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, Türkiye ve Azerbaycan polisinin ortak çalışması sonucu yeni nesil suç örgütleriyle bağlantılı olduğu belirtilen bir şüphelinin Bakü'de yakalandığını bildirdi. Emniyet Genel Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele (KOM) Başkanlığı ile Cumhuriyet başsavcılıklarının koordinasyonunda, İstanbul Emniyet Müdürlüğü Organize Suçlarla Mücadele Şube Müdürlüğü ve Azerbaycan Polisi tarafından ortak çalışma yürütüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/bakude-yakalanan-suc-orgutu-suphelisi-turkiyeye-getirildi-1737503"
+          "title": "Eşe işkenceye ödül gibi ceza",
+          "summary": "Kendisinden boşanmak isteyen eşi Fatma Çakmak’a saldırarak yüzünü kesen polis memuru Yasin Çakmak’a verilen 7 yıl 6 ay hapis cezası, “İstesem öldürebilirdim” savunması ve iyi hal indirimiyle 4 yıl 2 aya düşürüldü. Arbedede eşini bıçakla elinden yaralayan Fatma Çakmak ise 2 yıl 6 ay ceza aldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ese-iskenceye-odul-gibi-ceza-43274768"
         },
         {
-          "title": "İçişleri duyurdu: Yeni nesil suç örgütü üyeleriyle irtibatlı şüpheli Bakü’de yakalandı",
-          "summary": "İçişleri Bakanlığı'ndan yapılan açıklamada, \"Hakkında 'Kasten öldürme, uyuşturucu kullanmak, ruhsatsız silahlarla mermileri satın alma veya taşıma' suçlarından yakalama kararı bulunan yeni nesil suç örgütü üyeleriyle irtibatlı Ö.A.K. Bakü’de yakalanarak Türkiye'ye getirildi\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/icisleri-duyurdu-yeni-nesil-suc-orgutuyle-baglantili-olarak-aranan-supheli-bakude-yakalandi-43274475"
+          "title": "Süleymancıların lideri ailece ‘tapu’ zengini çıktı",
+          "summary": "Gözaltına alınan Süleymancılar cemaati lideri Alihan Kuriş’in ailesinin üzerine kayıtlı 191 gayrimenkul tespit edildi. Anne Kuriş’in üzerine 138 taşınmaz, ölen baba Mahmut Sabri Kuriş’in üzerine de 26 taşınmaz kaydı ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/suleymancilarin-lideri-ailece-tapu-zengini-cikti-43274752"
         },
         {
-          "title": "Fethiye'de dehşet! Annesini öldürüp intihar etti",
-          "summary": "Muğla'nın Fethiye ilçesinde 50 yaşındaki Volkan Sütçü, 74 yaşındaki annesi Fatma Sütçü'yü tabancayla başından vurarak öldürdükten sonra intihar etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/fethiyede-dehset-annesini-oldurup-intihar-etti-43274461"
+          "title": "Marmaris'te orman yangını. Arazözleri çıkarma gemileri taşıdı",
+          "summary": "Muğla'nın Marmaris ilçesinde çıkan orman yangınına müdahale ediliyor. Arazözlerin karadan ulaşımın olmadığı bölgeye götürülmesi için Aksaz Deniz Üs Komutanlığı'na ait çıkarma gemileri kullanıldı. Yalancıboğaz mevkisinde sahil kesiminde karadan ulaşımın olmadığı bir ormanlık alanda çıkan yangın, şiddetli rüzgarın etkisiyle hızla yayıldı. İhbar üzerine bölgeye Muğla Orman Bölge Müdürlüğüne ait hava ve kara araçları sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/muglanin-marmaris-ilcesinde-cikan-orman-yanginina-mudahale-ediliyor-1737511"
         },
         {
-          "title": "Mardin'de ilçe başkanı, 20 kişilik grupla damadının evini bastığı iddiasıyla gözaltına alındı",
-          "summary": "Mardin’in Kızıltepe ilçesinde eşiyle sorun yaşayan damadı Muhammed Nakşioğlu’nun evini 20 kişilik grupla bastığı iddia edilen İYİ Parti İlçe Başkanı Fahrettin Cevheroğlu gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/mardinde-ilce-baskani-20-kisilik-grupla-damadinin-evini-bastigi-iddiasiyla-gozaltina-alindi-43274432"
+          "title": "Kırmızı ışık ihlali kazaya neden oldu. 1’i ağır 5 yaralı",
+          "summary": "Bursa'da kırmızı ışıkta geçtiği öne sürülen otomobil, kavşaktan geçen iki otomobile çarptı. Kazada 1’i ağır, 5 kişi yaralandı. Kaza gece saatlerinde Bursa-Yalova Karayolu'nda meydana geldi. İddiaya göre Abdullah D. idaresindeki otomobil kırmızı ışıkta geçti. Bu sırada Doğan M. ve Muhammed H. yönetimindeki iki otomobile çarptı. Kazada Muhammed H. idaresindeki otomobil savrularak takla attı. Üç aracın sürücüleri ile Fıryal E. ve Fatma H. yaralandı.",
+          "source": "https://www.ntv.com.tr/turkiye/kirmizi-isik-ihlali-kazaya-neden-oldu-1i-agir-5-yarali-1737530"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' mesajı",
-          "summary": "Bosphorus Diplomasi Forumu’nda konuşan Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, \"Bu coğrafyada bizim ülkemizde yaklaşık Cumhuriyetimizin ilk asrının yarısını heba ettiğimiz terör meselesini geride bırakıyoruz. 40 yılı aşkın süredir devam eden binlerce insanımızın şehit olduğu, on binlerce insanımızın öldüğü, köylerin, kentlerin yıkıldığı, tarumar olduğu bu süreci artık geride bırakıyoruz.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-terorsuz-turkiye-mesaji-43274409"
+          "title": "Alihan Kuriş soruşturması. 66 milyar lirayı aşan para trafiği tespit edildi",
+          "summary": "Ankara Cumhuriyet Başsavcılığı'nın \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında hazırlanan MASAK raporunda, örgütle bağlantılı şirketlerde 66 milyar lirayı aşan para trafiği tespit edildi. Ankara Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında hazırlanan ilk MASAK raporunda, şüphelilerle bağlantılı şirketler aracılığıyla ve yurt içi ve yurt dışına gerçekleştirilen para transferleri dikkati çekti.",
+          "source": "https://www.ntv.com.tr/turkiye/alihan-kuris-sorusturmasi-66-milyar-lirayi-asan-para-trafigi-tespit-edildi-1737510"
         }
       ]
     },
     "dunya": {
-      "text": "Türkiye ile Kazakistan arasında sivil havacılık mutabakatı. Güney Kore'den Japonya'ya 'tarihle yüzleşme' çağrısı. İspanya'da 5 büyüklüğünde deprem sonrası hasar oluştu. Ukraynalı komutandan Türk denizcinin kardeşine hadsiz mesaj. Hizbullah'tan Netanyahu'ya 'katliam' tepkisi: 'Gereken yanıt verilecek'. Irak'ta Haşdi Şabi bilmecesi: Dikkat çeken silahsızlanma açıklaması. Filistin 20 yıl sonra ilk kez sandık başına gidiyor: Seçmenlerin kayıt süreci başladı.",
+      "text": "Kolombiya'da can kaybı 294’e yükseldi. ABD merkezli Meta, İranlı haber ajansına ait hesabı askıya aldı. Trump’tan Kim Jong Un paylaşımı: Çok iyi geçiniyoruz. AK Parti Genel Başkan Yardımcısı Zorlu, Büyük Hun-Türk Kurultayı'nda konuştu: Türkiye, Macaristan'dan kesinlikle ayrılamaz. Türkiye ile Kazakistan arasında sivil havacılık mutabakatı. Güney Kore'den Japonya'ya 'tarihle yüzleşme' çağrısı. İspanya'da 5 büyüklüğünde deprem sonrası hasar oluştu.",
       "items": [
+        {
+          "title": "Kolombiya'da can kaybı 294’e yükseldi",
+          "summary": "Kolombiya'yı vuran 7.4'lük depremde yaşamını yitirenlerin sayısı 294'e yükseldi. 320 kişi ise hala kayıp. Güney Amerika ülkesi Kolombiya'da 10 Ağustos'ta meydana gelen 7.4 büyüklüğündeki depremde bilanço her geçen gün daha da ağırlaşıyor. Kolombiya Ulusal Afet Risk Yönetimi Birimi'nin (UNGRD) verilerine göre depremde hayatını kaybedenlerin sayısı 294’e yükseldi. Yaralı sayısının 3 bin 935’e ulaştığı kaydedilirken, 320 kişinin hala kayıp olduğu aktarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/kolombiyada-can-kaybi-294e-yukseldi-1737529"
+        },
+        {
+          "title": "ABD merkezli Meta, İranlı haber ajansına ait hesabı askıya aldı",
+          "summary": "ABD merkezli Meta şirketinin, İran'ın Fars Haber Ajansı'na bağlı kısa süre önce açılan Fars TV Instagram hesabını askıya aldığı bildirildi. Fars Haber Ajansının haberinde, \"Yakın zamanda açılan 380 bin takipçili Fars TV Instagram sayfası Meta tarafından engellendi.\" ifadelerine yer verildi. Haberde, Fars TV'nin askıya alınan hesabının ardından açılan yeni hesabı paylaşıldı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-merkezli-meta-sirketi-iranli-haber-ajansina-ait-hesabi-askiya-aldi-1737513"
+        },
+        {
+          "title": "Trump’tan Kim Jong Un paylaşımı: Çok iyi geçiniyoruz",
+          "summary": "ABD Başkanı Donald Trump, Kuzey Kore liderli Kim Jong Un ile çektirdiği bir fotoğrafı paylaşarak, \"Bu fotoğraftaki dostça olmayan bakışa rağmen, gülümsediğimiz birçok fotoğrafımız var. Kim Jong Un ve ben çok iyi geçiniyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-kim-jong-un-paylasimi-cok-iyi-geciniyoruz-43274592"
+        },
+        {
+          "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Büyük Hun-Türk Kurultayı'nda konuştu: Türkiye, Macaristan'dan kesinlikle ayrılamaz",
+          "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Prof. Dr. Kürşad Zorlu, \"Tarihte, Hunlar Göktürklerden nasıl ayrılamazsa bugün de Türkiye, Macaristan'dan kesinlikle ayrılamaz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ak-parti-genel-baskan-yardimcisi-zorlu-buyuk-hun-turk-kurultayinda-konustu-turkiye-macaristandan-kesinlikle-ayrilamaz-43274562"
+        },
         {
           "title": "Türkiye ile Kazakistan arasında sivil havacılık mutabakatı",
           "summary": "Sivil Havacılık Genel Müdürlüğü (SHGM), Kazakistan ile sivil havacılık ilişkilerinin geliştirilmesini hedefleyen yeni mutabakat zaptı imzalandığını belirtti. Anlaşmanın ve ülke arasındaki hava ulaşım imkanlarının artırılmasını amaçladığı kaydedildi.",
@@ -60,26 +80,6 @@
           "title": "İspanya'da 5 büyüklüğünde deprem sonrası hasar oluştu",
           "summary": "İspanya'nın Granada kentinde meydana gelen 5 büyüklüğündeki depremde bazı binaların hasar gördüğü bildirildi. Endülüs yönetimi, vatandaşlara hasar gören yapılardan uzak durmaları uyarısı yaptı.",
           "source": "https://www.hurriyet.com.tr/dunya/ispanyada-5-buyuklugunde-deprem-sonrasi-hasar-olustu-43274470"
-        },
-        {
-          "title": "Ukraynalı komutandan Türk denizcinin kardeşine hadsiz mesaj",
-          "summary": "Ukrayna İnsansız Sistemler Kuvvetleri Komutanı Robert Brovdi, Novorossiysk açıklarında Rusya'dan Trabzon'a kömür taşırken insansız hava aracı (İHA) saldırısıyla vurulan Türk bayraklı gemide yaşamını yitiren Savaş Çakar'ın kardeşi gazeteci Abbas Çakar'ın köşe yazısına yorum yaptı. Ukraynalı komutan, resmi e-posta adresinden gönderdiği mesajda Çakar'ın ağabeyi için, \"Hak ettiğini aldı\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ukraynali-komutandan-turk-denizcinin-kardesine-hadsiz-mesaj-43274460"
-        },
-        {
-          "title": "Hizbullah'tan Netanyahu'ya 'katliam' tepkisi: 'Gereken yanıt verilecek'",
-          "summary": "İsrail ordusunun Lübnan'a yönelik art arda düzenlediği saldırılara tepki gösteren Hizbullah, İsrail Başbakanı Binyamin Netanyahu'nun gerilimi tırmandırmaya çalıştığını belirtti. Hizbullah'ın açıklamasında, Netanyahu'nun ekim ayında düzenlenecek İsrail genel seçimlerini kazanabilmek için çatışmayı körüklediği kaydedildi. Hizbullah, sivillere yönelik \"barbarca katliamlara\" gereken yanıtı vereceğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/hizbullahtan-netanyahuya-katliam-tepkisi-gereken-yanit-verilecek-43274439"
-        },
-        {
-          "title": "Irak'ta Haşdi Şabi bilmecesi: Dikkat çeken silahsızlanma açıklaması",
-          "summary": "Irak Güvenlik Medya Ağı Başkanı Saad Maan, Haşdi Şabi güçlerinin ordunun bir parçası olduğunu ifade etti. Maan, silahları devletin tekelinde tutma kararının Haşdi Şabi haricindeki silahlı grupları kapsayacağını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/irakta-hasdi-sabi-bilmecesi-dikkat-ceken-silahsizlanma-aciklamasi-43274426"
-        },
-        {
-          "title": "Filistin 20 yıl sonra ilk kez sandık başına gidiyor: Seçmenlerin kayıt süreci başladı",
-          "summary": "Filistinliler, 20 yıl aranın ardından 28 Kasım'da genel seçimler için sandık başına gitmeye hazırlanıyor. Filistin yönetimi, oy kullanacak seçmenlerin kayıt ve bilgi güncelleme sürecini bugün itibarıyla başlattığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/filistin-20-yil-sonra-ilk-kez-sandik-basina-gidiyor-secmenlerin-kayit-sureci-basladi-43274418"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Sarıyer'e yeni sponsor! İmzalar atıldı. Lucas Gourna-Douath’ın yeni adresi Hull City. Samsunspor'da gözler Göztepe maçına çevrildi. Galatasaray, Erzurumspor maçının hazırlıklarına ara vermeden başladı. Beşiktaş, Eyüpspor maçı hazırlıklarını tamamladı. Fenerbahçe'ye Şampiyonlar Ligi transferi! 2 isim listede. Trabzonspor - Ferencvaros maçının hakemi belli oldu!.",
+      "text": "Metin Diyadin: 'Düşündüğümüz gibi kazandık!'. İsmail Kartal: '5 oyuncuyla mağlup oluyorsak sorun vardır!'. Joao Pereira: 'Hatalar 2 puana neden oldu!'. Mirel Radoi: 'Böyle bir maçta 1 puan önemli!'. Fenerbahçe'den TFF'ye çağrı: 'Bu şekilde lig devam etmez!'. Milan Skriniar: 'Utanç verici, kendi kendimize kaybettik!'. Manisa FK'dan Vanspor'a karşı farklı galibiyet!.",
       "items": [
         {
-          "title": "Sarıyer'e yeni sponsor! İmzalar atıldı",
-          "summary": "Sarıyer Spor Kulübü ile SMS Grup arasında 2026–2027 sezonunu kapsayan isim sponsorluğu anlaşması, düzenlenen imza töreniyle kamuoyuna duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sariyere-yeni-sponsor-imzalar-atildi-43274469"
+          "title": "Metin Diyadin: 'Düşündüğümüz gibi kazandık!'",
+          "summary": "Gençlerbirliği Teknik Direktörü Metin Diyadin, Fenerbahçe müsabakasının ardından, \"Koita, Tongya ve Traore ile geçişler bulacağımızı düşündük. Oynarken birden fazla atak fırsatı düşünmeniz gerekiyor. Özellikle Tongya ve Koita çok iyi bek takip ederek savunmayı geriye tuttu\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/metin-diyadin-dusundugumuz-gibi-kazandik-43274736"
         },
         {
-          "title": "Lucas Gourna-Douath’ın yeni adresi Hull City",
-          "summary": "Premier Lig ekiplerinden Hull City, Salzburg’un 22 yaşındaki Fransız orta saha oyuncusu Lucas Gourna-Douath’ı kadrosuna kattığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lucas-gourna-douathin-yeni-adresi-hull-city-43274462"
+          "title": "İsmail Kartal: '5 oyuncuyla mağlup oluyorsak sorun vardır!'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Gençlerbirliği'ne 2-1 mağlup oldukları maçın ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-5-oyuncuyla-maglup-oluyorsak-sorun-vardir-43274732"
         },
         {
-          "title": "Samsunspor'da gözler Göztepe maçına çevrildi",
-          "summary": "Samsunspor Basın Sözcüsü Suat Çakır, Süper Lig'de ilk 5'i hedeflediklerini ve doğrudan rakip olarak gördükleri Göztepe karşısında galip gelmek istediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunsporda-gozler-goztepe-macina-cevrildi-43274423"
+          "title": "Joao Pereira: 'Hatalar 2 puana neden oldu!'",
+          "summary": "Alanyaspor Teknik Direktörü Joao Pereira, Gaziantep Futbol Kulübü ile deplasmanda 1-1 beraber kaldıkları maçın ardından, \"Yaptığımız hatalar buradan 1 puanla ayrılmamıza neden oldu\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-hatalar-2-puana-neden-oldu-43274731"
         },
         {
-          "title": "Galatasaray, Erzurumspor maçının hazırlıklarına ara vermeden başladı",
-          "summary": "Süper Lig'in açılış maçında konuk ettiği Çorum FK ile 2-2 berabere kalan Galatasaray, 2. hafta oynayacağı Erzurumspor FK maçının hazırlıklarına ara vermeden başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-erzurumspor-macinin-hazirliklarina-ara-vermeden-basladi-43274406"
+          "title": "Mirel Radoi: 'Böyle bir maçta 1 puan önemli!'",
+          "summary": "Gaziantep Futbol Kulübü Teknik Direktörü Mirel Radoi, Alanyaspor ile 1-1 beraber kaldıkları maçın ardından, \"Böyle bir maçta 1 puan almak da bizim için önemli\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mirel-radoi-boyle-bir-macta-1-puan-onemli-43274730"
         },
         {
-          "title": "Beşiktaş, Eyüpspor maçı hazırlıklarını tamamladı",
-          "summary": "Beşiktaş, Süper Lig'in ilk haftasında Eyüpspor ile oynayacağı karşılaşmanın hazırlıklarını, bugün yaptığı antrenmanla tamamladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-eyupspor-maci-hazirliklarini-tamamladi-43274377"
+          "title": "Fenerbahçe'den TFF'ye çağrı: 'Bu şekilde lig devam etmez!'",
+          "summary": "Fenerbahçe Genel Sekreteri Mahmut Uslu, Gençlerbirliği maçı sonrası konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-tffye-cagri-bu-sekilde-lig-devam-etmez-43274727"
         },
         {
-          "title": "Fenerbahçe'ye Şampiyonlar Ligi transferi! 2 isim listede",
-          "summary": "UEFA Şampiyonlar Ligi play-off elemelerinde Lyon ile karşılaşacak Fenerbahçe, turu geçmesi ve Şampiyonlar Ligi'ne kalması halinde 2 isim için girişimde bulunacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-sampiyonlar-ligi-transferi-2-isim-listede-43274333"
+          "title": "Milan Skriniar: 'Utanç verici, kendi kendimize kaybettik!'",
+          "summary": "Fenerbahçe'de Nathan Ake ve Milan Skriniar, Gençlerbirliği mağlubiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/milan-skriniar-utanc-verici-kendi-kendimize-kaybettik-43274723"
         },
         {
-          "title": "Trabzonspor - Ferencvaros maçının hakemi belli oldu!",
-          "summary": "Trabzonspor'un UEFA Avrupa Ligi play-off turunda, sahasında Macaristan ekibi Ferencvaros ile yapacağı maçta Hırvat hakem Igor Pajac düdük çalacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ferencvaros-macinin-hakemi-belli-oldu-43274330"
+          "title": "Manisa FK'dan Vanspor'a karşı farklı galibiyet!",
+          "summary": "Trendyol 1. Lig’in 2. haftasında evinde Manisa FK, sahasında Vanspor FK’yı 4-1 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/manisa-fkdan-vanspora-karsi-farkli-galibiyet-43274718"
         }
       ]
     },
