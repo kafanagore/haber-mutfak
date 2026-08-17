@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-17T10:00:03.489Z",
+  "generatedAt": "2026-08-17T16:00:03.611Z",
   "categories": {
     "gundem": {
-      "text": "Cumhurbaşkanı Erdoğan'dan 17 Ağustos paylaşımı. Robot garson, müşterilerin ilgi odağı oldu: Zam isteyip izin peşinde koşuyor. Eskişehir merkezli 19 ilde \"modem\" dolandırıcılığı operasyonu: 82 şüpheli adliyeye sevk edildi. 'Yürüyen Adam'dan çocuk ölümlerine karşı Trabzon-Ankara yürüyüşü. 485 bin yazma ve nadir matbu eser dijital ortamda. Alanya'da eşini ve kayınvalidesini bıçaklayıp canlı yayında intihara kalkışan şüpheli adliyede. 71 yaşındaki emekli Kandemir eşi için yaptı: Kendi imkanlarıyla sistemi kurdu! 'O benim Zümrüdüanka kuşum'.",
+      "text": "Dört suç örgütüne darbe. 818 şüphelinin mal varlığına el konuldu. Bakan Gürlek açıkladı... 818 şüphelinin mal varlıklarına el konuldu. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. Hava Kuvvetleri Komutanlığında görev değişimi... Bayrağı Orgeneral Rafet Dalkıran’a devraldı. Kendilerini MİT görevlisi gibi tanıtıp dolandırıcılık yapan şüpheliler tutuklandı. AK Parti Grup Başkanvekili Usta ve koruması kazada yaralandı. Diyarbakır’da baraj gölünde erkek cesedi bulundu.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan 17 Ağustos paylaşımı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 17 Ağustos 1999'da meydana gelen Marmara Depremi'ne ilişkin mesaj paylaştı. Cumhurbaşkanı Recep Tayyip Erdoğan, 17 Ağustos 1999 Marmara Depremi'nin 27'nci yıl dönümünde felakette yaşamını yitirenleri andı.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-17-agustos-paylasimi-1737718"
+          "title": "Dört suç örgütüne darbe. 818 şüphelinin mal varlığına el konuldu",
+          "summary": "Adalet Bakanı Akın Gürlek, 4 suç örgütünden 818 şüphelinin banka ve kripto hesaplarına el konulduğunu açıkladı. Adalet Bakanı Akın Gürlek, organize suç örgütleriyle mücadeleye ilişkin yeni bir açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/yeni-nesil-4-suc-orgutune-mali-tedbir-karari-1737755"
         },
         {
-          "title": "Robot garson, müşterilerin ilgi odağı oldu: Zam isteyip izin peşinde koşuyor",
-          "summary": "Ankara’da bir restoranda görev yapan Fiko isimli robot garson, müşterilerin ilgi odağı oldu. Maaşı ve haftada bir gün izin hakkı bulunan robot, patronundan zam talep etmesiyle de dikkat çekiyor. Özellikle çocuklu ailelerin robotu görmek için restorana geldiğini belirten işletmeci Sungur Deligözoğlu, robot garsonun maaşının bulunduğunu ve haftada bir gün izin yaptığını söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-robot-garson-musterilerin-ilgi-odagi-oldu-zam-isteyip-izin-pesinde-kosuyor-1737716"
+          "title": "Bakan Gürlek açıkladı... 818 şüphelinin mal varlıklarına el konuldu",
+          "summary": "Adalet Bakanı Akın Gürlek, 4 ayrı yeni nesil suç örgütüne yürütülen mali soruşturmalar hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-acikladi-818-suphelinin-mal-varliklarina-el-konuldu-43276337"
         },
         {
-          "title": "Eskişehir merkezli 19 ilde \"modem\" dolandırıcılığı operasyonu: 82 şüpheli adliyeye sevk edildi",
-          "summary": "Kendilerini internet firması temsilcisi olarak tanıtıp \"altyapı değişiyor, eski modemler kullanılmayacak\" yalanıyla 801 kişiyi yaklaşık 116 milyon lira dolandıran şebekeye yönelik düzenlenen operasyonda gözaltına alınan 90 şüpheliden 82'si adliyeye sevk edildi. Çoğunluğu kadınlardan oluşan şüphelilerin dolandırıcılık parasıyla aldığı değerlendirilen 43,5 milyon lira değerindeki taşınmaz, araç ve kripto varlıklarına el konuldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/eskisehir-merkezli-19-ilde-modem-dolandiriciligi-operasyonu-82-supheli-adliyeye-sevk-edildi-43275922"
+          "title": "Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız",
+          "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin dış ticarette büyümeye devam ettiğini belirterek, \"Türkiye 250 milyon dolar savunma sanayi ihracatı yaparken, 2025 sonunda 10 milyar 50 milyon dolar yaptı. Bu yıl inşallah sanayi savunma ihracatında 12,5. milyar doları aşacağız\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ticaret-bakani-bolat-bu-yil-savunma-sanayi-ihracatinda-12-5-milyar-dolari-asacagiz-43276335"
         },
         {
-          "title": "'Yürüyen Adam'dan çocuk ölümlerine karşı Trabzon-Ankara yürüyüşü",
-          "summary": "'Yürüyen Adam' olarak tanınan Muhammet Çelik, çocuk ölümlerine dikkat çekmek için Trabzon'dan Ankara'ya yürümeye başladı. Trabzon'da 'Yürüyen Adam' olarak bilinen Muhammet Çelik (64), çocukların silahlı olaylarda hayatını kaybetmesine ve kontrolsüz silah kullanımının yol açtığı acılara karşı farkındalık oluşturmak için yürüyüş başlattı. Çelik, \"Dünyadaki tüm çocuklar için yürüyorum. Çocuklar artık ölmesin, çocukların hayalleri yıkılmasın. Bu çocuklar için Trabzon’dan Ankara’ya kadar yürüyeceğim.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-yuruyen-adamdan-cocuk-olumlerine-karsi-trabzon-ankara-yuruyusu-1737707"
+          "title": "Hava Kuvvetleri Komutanlığında görev değişimi... Bayrağı Orgeneral Rafet Dalkıran’a devraldı",
+          "summary": "2026 Yüksek Askeri Şura kararları kapsamında emekliye sevk edilen Hava Kuvvetleri Komutanı Orgeneral Ziya Cemal Kadıoğlu, görevi Orgeneral Rafet Dalkıran’a devretti. Milli Savunma Bakanı Yaşar Güler, Hava Kuvvetleri Komutanlığında gerçekleştirilen devir teslim törenine katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/hava-kuvvetleri-komutanliginda-gorev-degisimi-bayragi-orgeneral-rafet-dalkirana-devraldi-43276334"
         },
         {
-          "title": "485 bin yazma ve nadir matbu eser dijital ortamda",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türkiye Yazma Eserler Kurumu Başkanlığının dijitalleştirme çalışmalarına ilişkin verileri açıkladı. Dünyanın en büyük yazma eser portalında 485 bin yazma ve nadir matbu eser araştırmacıların erişimine sunulurken portalın üye sayısı 30 bini, ziyaretçi sayısı 1 milyon 366 bini geçti.",
-          "source": "https://www.hurriyet.com.tr/gundem/485-bin-yazma-ve-nadir-matbu-eser-dijital-ortamda-43275903"
+          "title": "Kendilerini MİT görevlisi gibi tanıtıp dolandırıcılık yapan şüpheliler tutuklandı",
+          "summary": "İstanbul'da yürütülen soruşturma kapsamında kendilerini MİT görevlisi olarak tanıtıp 'Cinayet dosyasını çözeriz' diyerek vatandaşları dolandıran şüpheliler tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kendilerini-mit-gorevlisi-gibi-tanitip-dolandiricilik-yapan-supheliler-tutuklandi-43276333"
         },
         {
-          "title": "Alanya'da eşini ve kayınvalidesini bıçaklayıp canlı yayında intihara kalkışan şüpheli adliyede",
-          "summary": "Antalya'nın Alanya ilçesinde eşini ve kayınvalidesini bıçakla ağır yaraladıktan sonra çıktığı inşaat çatısında sosyal medyadan canlı yayın açarak intihara kalkışan mango üreticisi Mustafa Ezici, jandarmanın 4 saatlik çabasıyla ikna edildi. Gözaltına alınıp adliyeye sevk edilen şüphelinin bıçakladığı eşi ve kayınvalidesinin hayati tehlikesinin devam ettiği öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/alanyada-esini-ve-kayinvalidesini-bicaklayip-canli-yayinda-intihara-kalkisan-supheli-adliyede-43275909"
+          "title": "AK Parti Grup Başkanvekili Usta ve koruması kazada yaralandı",
+          "summary": "BOLU’da, Anadolu Otoyolu’nda iki otomobilin çarpıştığı kazada AK Parti Grup Başkanvekili ve Ankara Milletvekili Leyla Şahin Usta ve koruması hafif yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-grup-baskanvekili-usta-ve-korumasi-kazada-yaralandi-43276326"
         },
         {
-          "title": "71 yaşındaki emekli Kandemir eşi için yaptı: Kendi imkanlarıyla sistemi kurdu! 'O benim Zümrüdüanka kuşum'",
-          "summary": "Osmaniye'de 71 yaşındaki emekli Hamdi Yaşar Kandemir, diyaliz hastası eşinin 60 basamakla ulaşılan yayla evine rahat çıkabilmesi için kendi imkanlarıyla asansör yaptı. Kandemir, \"O benim Zümrüdüanka kuşum. Asansör az bile, kanat da takarım asansöre\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/71-yasindaki-emekli-kandemir-esi-icin-yapti-kendi-imkanlariyla-sistemi-kurdu-o-benim-zumruduanka-kusum-43275901"
+          "title": "Diyarbakır’da baraj gölünde erkek cesedi bulundu",
+          "summary": "DİYARBAKIR’ın Çınar ilçesindeki Göksu Barajı’nda erkek cesedi bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-baraj-golunde-erkek-cesedi-bulundu-43276325"
         }
       ]
     },
     "dunya": {
-      "text": "Ankara'nın hamlesi Atina'da panik yarattı! 3 hedefi var: İş birliğine gidilmeli. 5 bin denizci 9 aydır denizde. ABD uçak gemisinde neler oluyor?. Pakistan Başbakanı Şerif'ten Trump'a teşekkür. Afganistan'da ABD için savaştılar, bugün Yeşil Kart'larını kaybetmekten korkuyorlar. IKBY Başbakanı Barzani’nin ofisine İHA saldırısı. Irak basını: İran İHA'ları Barzani'nin konutunu hedef aldı. AB, Rusya'ya yaptırımları genişletmeye hazırlanıyor.",
+      "text": "Arnavutluk'ta Bayraktar İHA'lı operasyon: En çok aranan şüpheli kıskıvrak yakalandı. 60 günlük sürenin sonu: İşte İran'ın önündeki 3 yol. Suriye'den YPG açıklaması: \"Çok yakında feshedilecek\". Zelenski'nin teklifi: \"ABD füzelerini bize versin\". Trump'tan Umman'a açık tehdit: “Yolumuza çıkarlarsa bombalarız”. ABD Donanması'ndan 23 milyar dolarlık dev sözleşme. 15 milyar dolara mal olacak. Irak ve Suriye düğmeye basıyor.",
       "items": [
         {
-          "title": "Ankara'nın hamlesi Atina'da panik yarattı! 3 hedefi var: İş birliğine gidilmeli",
-          "summary": "Türkiye'nin Kuzey Ege ve Doğu Akdeniz'de milli deniz parkları ilan etmesi, Yunanistan'da gündem oldu. Yunan basını, Ankara'nın hamlesinin deniz yetki alanları tartışmasında yeni bir adım olduğunu öne sürdü. Türkiye'nin 3 hedefi olduğunu öne süren Yunan basını, Atina'nın Ankara ile iş birliği yapması gerektiğinin altını çizdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ankaranin-hamlesi-atinada-panik-yaratti-3-hedefi-var-is-birligine-gidilmeli-43275808"
+          "title": "Arnavutluk'ta Bayraktar İHA'lı operasyon: En çok aranan şüpheli kıskıvrak yakalandı",
+          "summary": "Arnavutluk polisi, uzun zamandır aranan silahlı bir şüphelinin yerini Bayraktar İHA ile yapılan izlemeler sayesinde tespit ederek yakaladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/arnavutlukta-bayraktar-ihali-operasyon-en-cok-aranan-supheli-kiskivrak-yakalandi-43276312"
         },
         {
-          "title": "5 bin denizci 9 aydır denizde. ABD uçak gemisinde neler oluyor?",
-          "summary": "ABD'nin USS Abraham Lincoln uçak gemisinde aylar süren görevin ardından kötü yaşam koşulları ve moral sorunları gündemde. Gemiyi ziyaret eden CENTCOM Komutanı Amiral Brad Cooper, itiraflarda bulundu. UZUN SÜRE DENİZDE GÖREV YAPMANIN BEDELİ ABD’nin Orta Doğu’daki İran operasyonlarına destek veren USS Abraham Lincoln uçak gemisinde yaklaşık dokuz aydır devam eden konuşlanma, mürettebatın yaşam koşulları ve ruh sağlığına ilişkin tartışmaları beraberinde getirdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-5-bin-denizci-9-aydir-denizde-abd-ucak-gemisinde-neler-oluyor-1737710"
+          "title": "60 günlük sürenin sonu: İşte İran'ın önündeki 3 yol",
+          "summary": "İran ile ABD arasında varılan mutabakat kapsamında belirlenen 60 günlük süre bugün sona eriyor. Tahran ile Washington arasında müzakereler yeniden başlamazken, İran'ın önünde üç temel seçenek bulunuyor. Bu seçenekler arasında yeni bir çatışma, mevcut gerilimin sürmesi ve dolaylı müzakerelere dönülmesi yer alıyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/60-gunluk-surenin-sonu-iste-iranin-onundeki-3-yol-43276220"
         },
         {
-          "title": "Pakistan Başbakanı Şerif'ten Trump'a teşekkür",
-          "summary": "Pakistan Başbakanı Şahbaz Şerif, ABD Başkanı Donald Trump'ın Mekke Anlaşmasına ilişkin açıklamarını değerlendirdi. Şerif, değerlendirmesinde Trump'ın ifadelerinden memnuniyet duyduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistan-basbakani-seriften-trumpa-tesekkur-43275870"
+          "title": "Suriye'den YPG açıklaması: \"Çok yakında feshedilecek\"",
+          "summary": "Suriye hükümeti ile terör örgütü YPG arasında varılan 29 Ocak mutabakatının uygulanmasından sorumlu yetkili, örgütün feshedilmesine ilişkin duyurunun \"çok yakında\" yapılacağını söyledi. 29 Ocak mutabakatının uygulanmasından sorumlu Cumhurbaşkanlığı Heyeti Sözcüsü ve Haseke Vali Yardımcısı Ahmed el-Hilali, Syria TV'de konuya ilişkin açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/suriyeden-ypg-aciklamasi-cok-yakinda-feshedilecek-1737750"
         },
         {
-          "title": "Afganistan'da ABD için savaştılar, bugün Yeşil Kart'larını kaybetmekten korkuyorlar",
-          "summary": "Afganistan'da Amerikan ordusuna yardım eden ve yıllardır ABD'de yaşayan bazı Afganlar, Yeşil Kart'larının iptal edilebileceğine dair bildirim aldı. Afganistan'da ABD birlikleriyle çalışan ve SIV (Özel Göçmen Vizesi) ile ABD'ye gelip yeşil kart alan yüzlerce Afgan, son dönemde federal hükümetten vizelerinin ve yeşil kartlarının iptal riskiyle karşı karşıya olduğuna dair bildirimler almaya başladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-afganistanda-abd-icin-savastilar-bugun-yesil-kartlarini-kaybetmekten-korkuyorlar-1737688"
+          "title": "Zelenski'nin teklifi: \"ABD füzelerini bize versin\"",
+          "summary": "Ukrayna, savunma sistemlerinde sıkıntı çekiyor. Rus füzelerini engelleyecek kadar Patriot savunma füzesi kalmadı. Bu yüzden bazı geceler savunma sistemleri devreye sokulamıyor. Ukrayna Devlet Başkanı Volodimir Zelenski dikkat çeken bir açıklamada bulundu. Zelenski, \"ABD, elindeki Patriot füzelerin yüzde 10'nunu bize verirse Rus füzelerinin tamamını yok edebiliriz.\" dedi.",
+          "source": "https://www.ntv.com.tr/dunya/zelenskinin-teklifi-abd-fuzelerini-bize-versin-1737747"
         },
         {
-          "title": "IKBY Başbakanı Barzani’nin ofisine İHA saldırısı",
-          "summary": "Irak Kürt Bölgesel Yönetimi (IKBY) Başbakanı Mesrur Barzani'nin ofisine iki insansız hava aracı (İHA) ⁠ile saldırı düzenlendi. Irak Kürt Bölgesel Yönetimi’ne (IKBY) yönelik İHA saldırıları devam ediyor. IKBY Başbakanı Mesrur Barzani'nin ofisine İHA saldırısı düzenlendi.",
-          "source": "https://www.ntv.com.tr/dunya/ikby-basbakani-barzaninin-ofisine-iha-saldirisi-1737700"
+          "title": "Trump'tan Umman'a açık tehdit: “Yolumuza çıkarlarsa bombalarız”",
+          "summary": "ABD Başkanı Donald Trump, İran ile gerilimin devam ettiği Hürmüz Boğazı'nda ABD operasyonlarına müdahale etmesi halinde Umman'ı bombalamakla tehdit etti. ABD Başkanı Donald Trump, Hürmüz Boğazı'nda İran gemilerine karşı uygulanan ABD ablukasına ve yürütülen müzakerelere ilişkin dikkat çeken açıklamalarda bulundu. Trump'ın açıklaması, İran'ın Hürmüz Boğazı'nın yeniden açılması için Umman ile müzakereler yürüttüğünü duyurmasının ardından geldi.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-ummana-acik-tehdit-yolumuza-cikarlarsa-bombalariz-1737734"
         },
         {
-          "title": "Irak basını: İran İHA'ları Barzani'nin konutunu hedef aldı",
-          "summary": "İran'a ait 2 kamikaze İHA'nın, Erbil'de IKBY Başbakanı Mesrur Barzani'nin özel ofisi ile istihbarat şefinin konutunu hedef aldığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/irak-basini-iran-ihalari-barzaninin-konutunu-hedef-aldi-43275816"
+          "title": "ABD Donanması'ndan 23 milyar dolarlık dev sözleşme",
+          "summary": "ABD Donanması, Tomahawk füzelerinin üretimini ve tedarik hızını artırmak amacıyla RTX iştiraki Raytheon ile 22,9 milyar dolar değerinde bir sözleşme imzaladı. ABD Donanması, bugün RTX bünyesindeki Raytheon'a 22,9 milyar dolar değerinde bir sözleşme verdiğini açıkladı. Sözleşme, Donanma Bakanlığı'nın kritik uzun menzilli taarruz kabiliyeti olarak nitelediği Tomahawk füzesinin üretimini hızlandırmayı amaçlıyor. ABD, müttefiklerine büyük miktarlarda silah sağlarken İran savaşında da mühimmat kullandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abd-donanmasindan-23-milyar-dolarlik-dev-sozlesme-1737738"
         },
         {
-          "title": "AB, Rusya'ya yaptırımları genişletmeye hazırlanıyor",
-          "summary": "Avrupa Birliği'nin sonbaharda Rusya'ya yönelik savaşın başlangıcından bu yana en geniş kapsamlı yaptırım listesini sunmayı planladığı bildirildi. Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Alman Die Welt gazetesine verdiği röportajda, Rusya-Ukrayna savaşı ve AB'nin yaptırım politikasına ilişkin değerlendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/ab-rusyaya-yaptirimlari-genisletmeye-hazirlaniyor-1737698"
+          "title": "15 milyar dolara mal olacak. Irak ve Suriye düğmeye basıyor",
+          "summary": "Irak'ın petrol ihracatını Suriye üzerinden Akdeniz'e taşımayı amaçlayan yeni boru hattı projesinin 15 milyar dolardan fazlaya mal olması ve dört yıl sürmesi bekleniyor. Dünyanın önde gelen petrol üreticilerinden Irak'ın petrol ihracatını Suriye üzerinden yapmasını sağlayacak boru hattının inşa süresinin yaklaşık dört yılı bulması bekleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-15-milyar-dolara-mal-olacak-irak-ve-suriye-boru-hatti-icin-dugmeye-basiyor-1737732"
         }
       ]
     },
@@ -124,27 +124,12 @@
       ]
     },
     "spor": {
-      "text": "Erzurumspor'a Ganalı orta saha!. Fenerbahçe, Şampiyonlar Ligi'ne 1 adım uzakta. Bursa'da 11 koşuluk program! İşte Misli'den günün altılı analizi... Galatasaray'dan Sörloth bombası! Menajeriyle görüşüldü. Fenerbahçe'de ayrılık rüzgarı sürüyor! Fred ve Cherif sonrası bir veda daha. Beşiktaş için Brahim Diaz iddiası! Real Madrid'den karar. Samsunspor, haftanın kapanış maçında Göztepe'yi konuk edecek! Karşılaşmanın heyecanı canlı sohbet ile Misli'de.",
+      "text": "6’da 6 yaptı, 654.741 TL kazandı…. Fenerbahçe'de ayrılık rüzgarı sürüyor! Fred ve Cherif sonrası bir veda daha. Gardi'den 40 milyon euroluk transfer önerisi: 'Hemen Galatasaray'a getirebilirim!'. Lukaku, Lyon maçında oynayacak mı? İsmail Kartal'dan açıklama. Tedesco’dan Fenerbahçe itirafı: Hayatım boyunca unutamam. Fenerbahçe'nin Fransız takımlarına şansı tutmuyor. Beşiktaş'ta Vincenzo Italiano etkisi! Süper Lig'de de devam etti.",
       "items": [
         {
-          "title": "Erzurumspor'a Ganalı orta saha!",
-          "summary": "Süper Lig ekiplerinden Erzurumspor FK, Ganalı ön libero Elisha Owusu'nun transferi için kulübü Auxerre ve oyuncuyla anlaşmaya vardı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/erzurumspora-ganali-orta-saha-43275906"
-        },
-        {
-          "title": "Fenerbahçe, Şampiyonlar Ligi'ne 1 adım uzakta",
-          "summary": "UEFA Şampiyonlar Ligi play-off turu ilk maçında Fransa'nın Olimpik Lyon takımını konuk edecek Fenerbahçe, Avrupa'nın 1 numaralı kupasında lig ve grup aşamasında 17 sezondur yer alamıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-ligine-1-adim-uzakta-43275890"
-        },
-        {
-          "title": "Bursa'da 11 koşuluk program! İşte Misli'den günün altılı analizi...",
-          "summary": "Bursa Osmangazi Hipodromu’nda bugün 11 koşudan oluşan birbirinden zorlu yarışlar var. Programın genelinde sürprize açık koşular dikkat çekerken, altılı ganyan severleri oldukça zorlu ve keyifli bir yarış günü bekliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bursada-11-kosuluk-program-iste-misliden-gunun-altili-analizi-43275836"
-        },
-        {
-          "title": "Galatasaray'dan Sörloth bombası! Menajeriyle görüşüldü",
-          "summary": "Lige iki puanlık kayıpla başlayan ve taraftarın uzun süredir beklediği transferler için yoğun mesai harcayan Galatasaray, Mauro Icardi'nin boşluğunu doldurmak için tanıdık bir ismi gündemine aldı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/menajeriyle-gorusuldu-galatasaraydan-sorloth-bombasi-43275619"
+          "title": "6’da 6 yaptı, 654.741 TL kazandı…",
+          "summary": "Bir Misli Üyesi Cuma bülteninde yer alan 6 karşılaşmaya MS 1 ve 3.5 Üst, 2.5 Üst ve Karşılıklı Gol Var,3.5 Üst ve MS 1 ve Karşılıklı Gol Var tercihlerini içeren bir kupon yaptı. Kuponunda LASK - SV Ried, IK Brage - Orebro SK, Viborg - AGF Aarhus, Cercle Brugge - St. Truidense, Sporting Lizbon - Vitoria Guimaraes ve Fiorentina – Benevento karşılaşmalarına yer veren Misli Üyesi, toplamda 118.17 oranı tutturmuş oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/6da-6-yapti-654-741-tl-kazandi-43276272"
         },
         {
           "title": "Fenerbahçe'de ayrılık rüzgarı sürüyor! Fred ve Cherif sonrası bir veda daha",
@@ -152,20 +137,45 @@
           "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-ayrilik-ruzgari-suruyor-fred-ve-cherif-sonrasi-bir-veda-daha-43275824"
         },
         {
-          "title": "Beşiktaş için Brahim Diaz iddiası! Real Madrid'den karar",
-          "summary": "Yaz transfer sezonunda kadrosuna Trossard, Vlahovic gibi yıldızları katan Beşiktaş'tan bir dev hamle daha gelebilir.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-icin-brahim-diaz-iddiasi-real-madridden-karar-43275746"
+          "title": "Gardi'den 40 milyon euroluk transfer önerisi: 'Hemen Galatasaray'a getirebilirim!'",
+          "summary": "Menajer George Gardi, sol kanat bölgesi için transfer çalışmalarını sürdüren Galatasaray yönetimine Manchester United'ın İngiliz yıldızı Marcus Rashford'u getirebileceğini iletti. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/gardiden-40-milyon-euroluk-transfer-onerisi-hemen-galatasaraya-getirebilirim-43276141"
         },
         {
-          "title": "Samsunspor, haftanın kapanış maçında Göztepe'yi konuk edecek! Karşılaşmanın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Süper Lig'de ilk haftanın kapanış karşılaşmasında Samsunspor ile Göztepe bu akşam karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-haftanin-kapanis-macinda-goztepeyi-konuk-edecek-karsilasmanin-heyecani-canli-sohbet-ile-mislide-43275753"
+          "title": "Lukaku, Lyon maçında oynayacak mı? İsmail Kartal'dan açıklama",
+          "summary": "Lyon maçı öncesi açıklamalarda bulunan Fenerbahçe teknik direktörü İsmail Kartal, Romelu Lukaku'nun yarınki maçta oynayıp oynamayacağına bugün yapacakları son antrenman sonrasında karar vereceğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lukaku-lyon-macinda-oynayacak-mi-ismail-kartaldan-aciklama-43276166"
+        },
+        {
+          "title": "Tedesco’dan Fenerbahçe itirafı: Hayatım boyunca unutamam",
+          "summary": "Fenerbahçe’nin eski teknik direktörü ve şu sıralar İtalya Serie A ekibi Bologna’yı çalıştıran Domenico Tedesco, samimi açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tedescodan-fenerbahce-itirafi-hayatim-boyunca-unutamam-43276088"
+        },
+        {
+          "title": "Fenerbahçe'nin Fransız takımlarına şansı tutmuyor",
+          "summary": "Fransız takımlarıyla 25 kez mücadele eden Fenerbahçe, bu maçlarda 6 galibiyet, 7 beraberlik ve 12 yenilgi yaşadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-fransiz-takimlarina-sansi-tutmuyor-43276065"
+        },
+        {
+          "title": "Beşiktaş'ta Vincenzo Italiano etkisi! Süper Lig'de de devam etti",
+          "summary": "Ligin ilk haftasında Eyüpspor'u 1-0 yenen Beşiktaş, Süper Lig tarihinde ev sahibi olarak çıktığı 35 ilk hafta karşılaşmasının 31'ini kazandı. Siyah-beyazlılar, oynadığı 5 maçın tamamında kalesini gole kapatırken 5 sezon sonra bu istatistiği tekrarladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-vincenzo-italiano-etkisi-super-ligde-de-devam-etti-43276053"
         }
       ]
     },
     "teknoloji": {
-      "text": "ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep. Ebubekir Şahin: Futbolun dijital dönüşümüne katkı sunuyoruz. Apple, Çin ile ortaklaşa yapay zeka modeli geliştiriyor. Çin, gelişmiş yapay zekada günden günde ABD'ye yaklaşıyor. Microsoft Çin'den çekiliyor. Meta'nın yasaklama uygulaması sıkılaşıyor, yüz binlerce hesap kapatıldı. Google'ın yapay zeka mutfağında iç kriz. Perde arkasında yaşananlar.",
+      "text": "Deniz platformlarının enerji ihtiyacına milli çözüm. STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da. ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep. Ebubekir Şahin: Futbolun dijital dönüşümüne katkı sunuyoruz. Apple, Çin ile ortaklaşa yapay zeka modeli geliştiriyor. Çin, gelişmiş yapay zekada günden günde ABD'ye yaklaşıyor. Microsoft Çin'den çekiliyor.",
       "items": [
+        {
+          "title": "Deniz platformlarının enerji ihtiyacına milli çözüm",
+          "summary": "ASPİLSAN Enerji, 20-23 Ağustos’ta Gölcük Tersanesi Komutanlığı’nda düzenlenecek TEKNOFEST Mavi Vatan’da deniz platformlarına yönelik geliştirdiği yerli batarya, enerji depolama sistemleri ve milli enerji teknolojilerini ziyaretçilerle buluşturacak.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/deniz-platformlarinin-enerji-ihtiyacina-milli-cozum-43276110"
+        },
+        {
+          "title": "STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da",
+          "summary": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ, 20-23 Ağustos’ta Gölcük Tersanesi Komutanlığı’nda düzenlenecek TEKNOFEST Mavi Vatan’da milli deniz platformları ve yenilikçi mühendislik çözümlerini teknoloji meraklılarıyla buluşturacak.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/stm-milli-deniz-platformlariyla-teknofest-mavi-vatanda-43276106"
+        },
         {
           "title": "ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep",
           "summary": "ABD'de 29 eyalet, çocukların ruh sağlığını olumsuz etkilediği ve bağımlılık yaratacak şekilde tasarlandığı iddiasıyla Meta'ya dava açtı. Eyaletler, şirketten 1,4 trilyon dolara kadar tazminat ve Facebook ile Instagram'da kapsamlı değişiklikler talep ediyor.",
@@ -190,16 +200,6 @@
           "title": "Microsoft Çin'den çekiliyor",
           "summary": "Microsoft, Çin'deki yerli yazılım baskısı ve ABD'nin ihracat kısıtlamaları nedeniyle son beş yılda bu ülkedeki en az 15 şubesini kapatarak geri çekilme stratejisine yöneldi. Şirket kayıtları, Microsoft'un son beş yılda Çin'deki en az 15 şubesini ve ortak girişimini kapattığını gösterdi. Reuters'a konuşan kaynaklara göre teknoloji devi, ülkede bir geri çekilme stratejisi yürütüyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-microsoft-cinden-cekiliyor-1737207"
-        },
-        {
-          "title": "Meta'nın yasaklama uygulaması sıkılaşıyor, yüz binlerce hesap kapatıldı",
-          "summary": "Yasal soruşturmalarla karşı karşıya kalan Meta, yaş kısıtlamalarından dolayı 756 bin Avustralyalı gencin hesabını sildiğini açıkladı. Facebook ve Instagram'ın sahibi Meta, Perşembe günü yaptığı açıklamada, dünyada bir ilk olan genç hesaplarına getirilen yasaktan bu yana, 16 yaşın altındaki Avustralyalılar tarafından kullanıldığından şüphelenilen 750 binden fazla hesabı kapattığını ve olası düzenleyici müdahaleler karşısında daha fazla önlem alacağını belirtti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-metanin-yasaklama-uygulamasi-sikilasiyor-yuz-binlerce-hesap-kapatildi-1737177"
-        },
-        {
-          "title": "Google'ın yapay zeka mutfağında iç kriz. Perde arkasında yaşananlar",
-          "summary": "Google kurucu ortağı Sergey Brin'in, şirketin Gemini yapay zeka modeline odaklanılması yönündeki çağrılarının ardından Alphabet, Google DeepMind'da kapsamlı bir yönetim değişikliğine gitti. Google kurucu ortağı Sergey Brin'in son aylarda önde gelen yapay zeka personeline şirketin Gemini modeline odaklanmaları yönünde telkinde bulunduğu bildirildi. Reuters ajansına konuşan kaynaklar, ana şirket Alphabet'in rakipleriyle arasındaki farkı kapatmayı hedeflediğini aktardı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-googlein-yapay-zeka-mutfaginda-ic-kriz-perde-arkasinda-yasananlar-1737135"
         }
       ]
     },
