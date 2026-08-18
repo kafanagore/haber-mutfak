@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-18T10:00:03.617Z",
+  "generatedAt": "2026-08-18T16:00:03.728Z",
   "categories": {
     "gundem": {
-      "text": "Alihan Kuriş'in haberleşme ağı Glooper deşifre oldu. Afyonkarahisar'da araçlar mora bürünmüştü! Sorumlular tespit edildi: Hesap verecekler. Motosikletin çarptığı genç beyin kanamasından öldü: Hastane önünde 2 gün baygın yattığı iddiası. Geçenin aracını mor renge boyayan yol. Olayın sorumlusu bulundu. 'Biri çenemden tuttu, biri öpmeye çalıştı' | Etiler'deki üç kadın gündem olmuştu... Genç adam olup biteni anlattı. Aspendos’ta festival perdesi 33. kez açılıyor! Antik tiyatronun büyüleyici atmosferinde opera ve bale heyecanı başlıyor. Kacır: Türkiye yapay zeka alanında öncü olacak.",
+      "text": "Muhittin Böcek ek ifade verdi. \"Adaylık için 15 milyon euro istedi\" iddiası. Güllü'nün ölümüyle ilgili iddianame kabul edildi. Ağırlaştırılmış müebbetle yargılanacak. Muğla'da yol kenarında erkek cesedi bulundu. UltrAslan tribün lideri Sebahattin Şirin’in uyuşturucu testi pozitif çıktı. Yeni Parti Sözcüsü Emre: Üye sayımız 300 binin üzerine çıktı. \"Bir gün camdan atıp öldüreceğim...\" Güllü'nün kızı Tuğyan, ağırlaştırılmış müebbetle yargılanacak. Düzce'de boğulma tehlikesi geçiren çocuğu babası kurtardı: Duran kalbi masajla çalıştırıldı.",
       "items": [
         {
-          "title": "Alihan Kuriş'in haberleşme ağı Glooper deşifre oldu",
-          "summary": "Alihan Kuriş suç örgütünün gizli yazılımla haberleştiği ve uygulamanın dışarıdan erişime tamamen kapalı, özel ve gizli bir data, veri işleme ve dosyalama yapılabildiği ortaya çıktı. Kamuoyunda Süleymancılar cemaatinin lideri olarak tanınan Alihan Kuriş soruşturması sürüyor. \"Alihan Kuriş çıkar amaçlı suç örgütü\"ne yönelik operasyonda gözaltına alınan 38 şüpheliden 32'si tutuklanmıştı. Soruşturmaya ilişkin yeni ayrıntılar ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-alihan-kurisin-haberlesme-agi-glooper-desifre-oldu-1737866"
+          "title": "Muhittin Böcek ek ifade verdi. \"Adaylık için 15 milyon euro istedi\" iddiası",
+          "summary": "Muhittin Böcek, yolsuzluk soruşturmasında ek ifade verdi. Böcek, belediye başkanı adayı gösterilmesi için Ekrem İmamoğlu'na 5 milyon avro gönderdiğini iddia etti. Antalya Cumhuriyet Başsavcılığının yürüttüğü yolsuzluk soruşturması kapsamında tutuklu bulunan Muhittin Böcek, cezaevinden dilekçe göndererek yeni ifade verme talebinde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/muhittin-bocek-ek-ifade-verdi-adaylik-icin-15-milyon-euro-istedi-iddiasi-1737919"
         },
         {
-          "title": "Afyonkarahisar'da araçlar mora bürünmüştü! Sorumlular tespit edildi: Hesap verecekler",
-          "summary": "Afyonkarahisar'da Dinar- Çay kara yolunda bir TIR'dan dökülen kimyasal maddenin yağış sonrası tepkimeye girip yoldan geçen araçların mor renge boyanmasına ilişkin, 'Çevrenin taksirle kirletilmesi' ve 'Trafik güvenliğinin tehlikeye sokulması' suçlarından adli soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-araclar-mora-burunmustu-sorumlular-tespit-edildi-hesap-verecekler-43276965"
+          "title": "Güllü'nün ölümüyle ilgili iddianame kabul edildi. Ağırlaştırılmış müebbetle yargılanacak",
+          "summary": "Güllü’nün ölümüne ilişkin hazırlanan iddianame kabul edildi. Davanın ilk duruşması 1 Ekim’de yapılacak. Kızı Tuğyan Ülkem Gülter ağırlaştırılmış müebbetle yargılanacak. Kamuoyunda \"Güllü\" ismiyle tanınan sanatçı Gül Tut'un geçen yıl Yalova'nın Çınarcık ilçesindeki evinin penceresinden düşerek hayatını kaybetmesine ilişkin hazırlanan iddianame kabul edildi. Yalova 1. Ağır Ceza Mahkemesinde görülecek davada, ilk duruşma 1 Ekim’de yapılacak.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumuyle-ilgili-iddianame-kabul-edildi-ilk-durusma-1-ekimde-1737915"
         },
         {
-          "title": "Motosikletin çarptığı genç beyin kanamasından öldü: Hastane önünde 2 gün baygın yattığı iddiası",
-          "summary": "Esenyurt'ta yolun karşısına geçerken motosiklet çarpması sonucu yaralanan 22 yaşındaki Beşşar Al Tawıl, ilk tedavisinin ardından ayrıldığı hastanenin bahçesinde 2 gün sonra yakınları tarafından baygın halde bulundu. Götürüldüğü diğer hastanede 15 gün sonra beyin kanaması nedeniyle hayatını kaybeden gencin yakınları ihmal iddiasıyla şikayetçi olurken, İl Sağlık Müdürlüğü olayla ilgili inceleme başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/motosikletin-carptigi-genc-beyin-kanamasindan-oldu-hastane-onunde-2-gun-baygin-yattigi-iddiasi-43276948"
+          "title": "Muğla'da yol kenarında erkek cesedi bulundu",
+          "summary": "MUĞLA'nın Milas ilçesinde, Halil Karcıoğlu (58) yol kenarında ölü bulundu. Bir aracın çarptığı tahmin edilen Karcıoğlu'nun ölümüyle ilgili jandarma çalışma başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/muglada-yol-kenarinda-erkek-cesedi-bulundu-43277430"
         },
         {
-          "title": "Geçenin aracını mor renge boyayan yol. Olayın sorumlusu bulundu",
-          "summary": "Afyonkarahisar'da araçları mora boyayan yolun sırrı çözüldü. Savcılık, olayın sorumluları hakkında soruşturma başlattı. Afyonkarahisar'da Dinar-Çay karayolunda bir TIR'dan dökülen kimyasal maddenin yağış sonrası tepkimeye girip yoldan geçen araçların mor renge boyanmasına ilişkin soruşturma başlatıldı. YOLDAN GEÇENİN ARACI MORA BOYANDI Dinar- Çay karayolu güzergahında, bir TIR'dan yaklaşık 10 gün önce yola döküldüğü belirlenen kimyasal madde, yağış sonrası tepkimeye girerek, asfalt yüzeyinde yayıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-gecenin-aracini-mor-renge-boyayan-yol-olayin-sorumlusu-bulundu-1737865"
+          "title": "UltrAslan tribün lideri Sebahattin Şirin’in uyuşturucu testi pozitif çıktı",
+          "summary": "Ultraslan’ın tribün lideri Sebahattin Şirin'in uyuşturucu testi pozitif çıktı. İstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Soruşturma Bürosu tarafından yürütülen soruşturma kapsamında 11 Ağustos günü ‘ev hapsi’ ve ‘yurt dışı çıkış yasağı’ şeklinde adli kontrol şartıyla serbest bırakılan Galatasaray’ın taraftar gruplarından Ultraslan’ın tribün lideri Sebahattin Şirin (Muzaffer)’in uyuşturucu testi sonucu pozitif çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ultraslan-tribun-lideri-sebahattin-sirinin-uyusturucu-testi-pozitif-cikti-1737917"
         },
         {
-          "title": "'Biri çenemden tuttu, biri öpmeye çalıştı' | Etiler'deki üç kadın gündem olmuştu... Genç adam olup biteni anlattı",
-          "summary": "Etiler'de 600 liralık yol ücretini vermeyip taksici ile tartışan kadınların görüntüsü sosyal medyada gündem olmuştu. Taksici Ahmet Güneş, o anları anlattı. Güneş, Video kaydına başlayınca 'Biz sarhoşuz bizi affet elindeki videoyu sil' dediler. \"Tatlı bir dille özür dilemeye başladılar. Diğer bayan çenemden tutup benimle konuşmaya çalıştı. Şoför kapımın tarafındaki bayan da beni öpmeye çalıştı. Deport edilmeleri için elimden geleni yapacağım.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/etilerdeki-uc-kadin-sosyal-medyada-gundem-olmustu-genc-adam-konustu-biri-cenemden-tuttu-biri-opmeye-calisi-43276920"
+          "title": "Yeni Parti Sözcüsü Emre: Üye sayımız 300 binin üzerine çıktı",
+          "summary": "YENİ Parti Sözcüsü Zeynel Emre, partisinin üye sayısına ilişkin, \"Şu ana kadar örgütlerin, ilçelere kısa bir süre içerisinde dağıttığımız ve dönüş yapılanlarla birlikte üye sayımızın 300 binin üzerine çıktığını görüyoruz. Siyasal yaşamımızda bu ilk ve rekor; hiçbir zaman bu kadar hızlı örgütlenen ve büyüme eğilimi gösteren hiçbir siyasi parti olmadı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yeni-parti-sozcusu-emre-uye-sayimiz-300-binin-uzerine-cikti-43277418"
         },
         {
-          "title": "Aspendos’ta festival perdesi 33. kez açılıyor! Antik tiyatronun büyüleyici atmosferinde opera ve bale heyecanı başlıyor",
-          "summary": "Binlerce yıllık Aspendos Antik Tiyatrosu, dünya opera ve bale repertuvarının seçkin eserlerine bir kez daha ev sahipliği yapmaya hazırlanıyor. Verdi'nin Attila operasıyla perdelerini açacak 33. Uluslararası Aspendos Opera ve Bale Festivali, Anna Karenina, Carmina Burana ve Kazakistan'dan Abay Adına Kazak Ulusal Opera ve Bale Tiyatrosunun sahneleyeceği Spartacus ile uluslararası bir sanat buluşmasına sahne olacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/aspendosta-festival-perdesi-33-kez-aciliyor-antik-tiyatronun-buyuleyici-atmosferinde-opera-ve-bale-heyecani-basliyor-43276939"
+          "title": "\"Bir gün camdan atıp öldüreceğim...\" Güllü'nün kızı Tuğyan, ağırlaştırılmış müebbetle yargılanacak",
+          "summary": "Yalova'da 6'ncı kattaki evinin penceresinden düşen şarkıcı Güllü'nün (52) ölümüne ilişkin hazırlanan iddianame kabul edildi. Hakkında ,'Tasarlayarak Üst Soya Karşı Kasten Öldürme' suçundan, ağırlaştırılmış hapis cezası istenen sanatçının kızı tutuklu Tuğyan Ülkem Gülter (28) ile 'Yalan tanıklık' suçundan 4 yıla kadar hapsi talep edilen arkadaşı Sultan Nur Ulu'nun (25) yargılanmasına ağır ceza mahkemesinde başlanacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/gullunun-kizi-tugyan-agirlastirilmis-muebbetle-yargilanacak-43277409"
         },
         {
-          "title": "Kacır: Türkiye yapay zeka alanında öncü olacak",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin yapay zeka alanında öncü ülkelerden biri olacağını söyledi. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, 2026-2030 dönemi Türkiye Yapay Zeka Eylem Planı'na ilişkin genelgeyi değerlendirdiği yazılı bir açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/turkiye/kacir-turkiye-yapay-zeka-alaninda-oncu-olacak-1737863"
+          "title": "Düzce'de boğulma tehlikesi geçiren çocuğu babası kurtardı: Duran kalbi masajla çalıştırıldı",
+          "summary": "Düzce'de serinlemek için girdiği belediye su regülatörlerinin bulunduğu alanda gözden kaybolan 14 yaşındaki V.D.Y., babası tarafından sudan çıkarıldı. Yaklaşık 15 dakika su altında kalan ve duran kalbi 20 dakika süren kalp masajıyla yeniden çalıştırılan çocuğun hastanedeki tedavisi sürerken, durumunun ağır olduğu öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/duzcede-bogulma-tehlikesi-geciren-cocugu-babasi-kurtardi-duran-kalbi-masajla-calistirildi-43277379"
         }
       ]
     },
     "dunya": {
-      "text": "Uydu görüntüleri ortaya çıkardı: NATO’nun sinirlerini test eden hamle! 1000 kilometrelik yeni tehdit. Suriye'de Esad'ım kuzeni hakkında karar çıktı. Avrupa tarihine geçecek. Uzay yürüyüşü yapacak ilk Fransız kadın. Pakistan Yüksek Mahkemesi'nden kritik İmran Han kararı. 2026'nın en çirkin köpeği seçildi. Kurtarılma hikayesi herkesi duygulandırıyor. IKBY'de korkutan yangın: Akaryakıt deposu alev aldı. Hastanelerde dikkat çeken temizlik raporu. Yalnızca yüzde 40'ı yeterli.",
+      "text": "İspanya'nın turistik kentinde peş peşe depremler. Türkiye'den İsrail'e Ebu Zuhur tepkisi. İsrail’in Ebu Zuhur Askeri Hava Üssü’ne saldırısına kınama. Trump duyurdu. İran'la müzakere yok, deniz ablukası sürüyor. İsrail'den İdlib'deki üsse saldırı. Tayvan'da zehirli yağ skandalı, üretici firmalar davalık oldu. Yüzyılın tutulması geliyor. Gündüz tam 6 dakika boyunca geceye dönecek.",
       "items": [
         {
-          "title": "Uydu görüntüleri ortaya çıkardı: NATO’nun sinirlerini test eden hamle! 1000 kilometrelik yeni tehdit",
-          "summary": "Rusya’nın İHA kapasitesini artırmaya yönelik yeni hamlesi, NATO’da tedirginliğe yol açtı. Moskova’nın son dönemde attığı adımlar, savaşın sınırlarını aşabilecek yeni bir tehdidin habercisi olarak değerlendiriliyor. Özellikle Avrupa’yı yakından ilgilendiren gelişme, NATO’nun dikkatini yeniden Rusya’nın İHA gücüne çevirdi. Yeni nesil İHA’ların dikkat çeken özellikleri ise endişeyi daha da artırdı. Peki Putin neye hazırlanıyor, Moskova’nın yeni hamlesinin arkasında ne var?",
-          "source": "https://www.hurriyet.com.tr/dunya/uydu-goruntuleri-ortaya-cikardi-natonun-sinirlerini-test-eden-hamle-1000-kilometrelik-yeni-tehdit-43276728"
+          "title": "İspanya'nın turistik kentinde peş peşe depremler",
+          "summary": "İspanya'nın Granada kentinde, peş peşe meydana gelen depremlerin ardından 4.8 büyüklüğünde deprem meydana geldi. Sarsıntıda 3 kişi yaralanırken, bazı oteller ve Elhamra Sarayı'nın bölümleri tedbir amacıyla tahliye edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyanin-turistik-kentinde-pes-pese-depremler-43277395"
         },
         {
-          "title": "Suriye'de Esad'ım kuzeni hakkında karar çıktı",
-          "summary": "Suriye'de mahkeme devrik rejimin lideri Beşşar Esed'in kuzeni Vesim Esed hakkında idam kararı verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriyede-esadim-kuzeni-hakkinda-karar-cikti-43276969"
+          "title": "Türkiye'den İsrail'e Ebu Zuhur tepkisi",
+          "summary": "Dışişleri Bakanlığı, İsrail'in Suriye'deki Ebu Zuhur askeri hava üssüne yönelik saldırısına tepki gösterdi. İsrail ordusu Suriye'nin kuzeyindeki İdlib ilinin doğusundaki terk edilmiş durumdaki Ebu Zuhur Hava Üssü'nü vurdu. Yerel kaynaklar, İsrail savaş uçaklarının yerel saatle 03.00 sıralarında saldırdığını kaydetti. Suriyeli yetkililer üsse 8 saldırı düzenlendiğini açıkladı Saldırıya Türkiye'den tepki geldi.",
+          "source": "https://www.ntv.com.tr/dunya/turkiyeden-israile-ebu-zuhur-tepkisi-1737914"
         },
         {
-          "title": "Avrupa tarihine geçecek. Uzay yürüyüşü yapacak ilk Fransız kadın",
-          "summary": "Fransız astronot Sophie Adenot, Uluslararası Uzay İstasyonu'nda (ISS) yürütülecek operasyon kapsamında uzay yürüyüşü yapacak ilk Fransız kadın astronot olmaya hazırlanıyor. Fransız astronot Sophie Adenot, Uluslararası Uzay İstasyonu'ndan (ISS) uzay boşluğuna adım atarak uzay yürüyüşü gerçekleştiren ilk Fransız kadın astronot olmaya hazırlanıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-avrupa-tarihine-gececek-uzay-yuruyusu-yapacak-ilk-fransiz-kadin-1737862"
+          "title": "İsrail’in Ebu Zuhur Askeri Hava Üssü’ne saldırısına kınama",
+          "summary": "Dışişleri Bakanlığı, İsrail'in Suriye'nin İdlib kırsalındaki Ebu Zuhur Askeri Hava Üssü'ne düzenlediği hava saldırılarını \"güçlü şekilde\" kınadı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilin-ebu-zuhur-askeri-hava-ussune-saldirisina-kinama-43277337"
         },
         {
-          "title": "Pakistan Yüksek Mahkemesi'nden kritik İmran Han kararı",
-          "summary": "Pakistan Yüksek Mahkemesi, 2023'ten bu yana cezaevinde bulunan eski Başbakan İmran Han'ın sağlık kontrolleri için hastaneye sevk edilmesine karar verdi. Pakistan Yüksek Mahkemesi, cezaevindeki eski Başbakan İmran Han'ın sağlık durumuna ilişkin avukatları tarafından yapılan başvuruyu karara bağladı. Mahkeme, 73 yaşındaki Han'ın kapsamlı sağlık kontrollerinden geçirilmek üzere hastaneye sevk edilmesine hükmetti.",
-          "source": "https://www.ntv.com.tr/dunya/pakistan-yuksek-mahkemesinden-kritik-imran-han-karari-1737856"
+          "title": "Trump duyurdu. İran'la müzakere yok, deniz ablukası sürüyor",
+          "summary": "ABD Başkanı Donald Trump, İran ile müzakere yürütülmediğini ve planlanmış bir temas bulunmadığını açıkladı. Hürmüz Boğazı'nın açık olduğunu belirten Trump, deniz ablukasının ise sürdüğünü duyurdu. ABD Başkanı Donald Trump, Truth Social hesabından İran ve Hürmüz Boğazı'ndaki son duruma ilişkin açıklama yaptı. Trump, Washington ile Tahran arasında herhangi bir müzakere yürütülmediğini belirterek, yakın gelecekte planlanmış bir temasın da bulunmadığını söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/trump-duyurdu-iranla-muzakere-yok-deniz-ablukasi-suruyor-1737910"
         },
         {
-          "title": "2026'nın en çirkin köpeği seçildi. Kurtarılma hikayesi herkesi duygulandırıyor",
-          "summary": "Dondurucu soğukta bir kutuda bulunan ve kurtarılan 6 yaşındaki pug Jinny Lu, dördüncü denemesinde “Dünyanın En Çirkin Köpeği” seçildi. Sevimli köpeğin kurtarılma hikayesi ise duygulandırdı. AMAÇ ZORLU HİKAYELERE DİKKAT ÇEKMEK Sarkık dili ve iri gözleriyle dikkat çeken 6 yaşındaki pug cinsi Jinny Lu, ABD'de düzenlenen “Dünyanın En Çirkin Köpeği Yarışması”nın bu yılki kazananı oldu. Geçen yıl yarışmayı ikinci sırada tamamlayan Jinny Lu, dört kez katıldığı organizasyonda sonunda birinciliğe ulaştı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-2026nin-en-cirkin-kopegi-secildi-kurtarilma-hikayesi-herkesi-duygulandiriyor-1737853"
+          "title": "İsrail'den İdlib'deki üsse saldırı",
+          "summary": "Suriye Dışişleri Bakanlığı, İdlib'deki Ebu Zuhur Hava Üssü'ne yönelik 4 hava aldırısının İsrail tarafından gerçekleştirildiğini, Suriye'nin egemenliği ve toprak bütünlüğünün açık bir ihlali olduğunu ifade etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-idlibdeki-usse-saldiri-43277273"
         },
         {
-          "title": "IKBY'de korkutan yangın: Akaryakıt deposu alev aldı",
-          "summary": "Irak'ın Süleymaniye kentinde petrol ürünlerinin bulunduğu bir tesiste çıkan yangında yaklaşık 30 kişi yaralandı. Yangın, ekiplerin yaklaşık 4 saat süren müdahalesinin ardından tamamen kontrol altına alındı.",
-          "source": "https://www.hurriyet.com.tr/dunya/ikbyde-korkutan-yangin-akaryakit-deposu-alev-aldi-43276743"
+          "title": "Tayvan'da zehirli yağ skandalı, üretici firmalar davalık oldu",
+          "summary": "Gıda güvenliğine aykırı yağ üretiminden dolayı, Tayvan'da dört şirket ve 15 kişi hakkında dava açıldı. Tayvan'da savcılar, yemeklik yağda bulunan ve kanserojen etkisi olduğu belirtilen bir madde nedeniyle 15 kişi ve dört şirket hakkında Salı günü suç duyurusunda bulundu. Bu madde, ürünlerin geri çağrılmasına ve siyasi kargaşaya yol açmıştı.",
+          "source": "https://www.ntv.com.tr/dunya/tayvanda-zehirli-yag-skandali-uretici-firmalar-davalik-oldu-1737909"
         },
         {
-          "title": "Hastanelerde dikkat çeken temizlik raporu. Yalnızca yüzde 40'ı yeterli",
-          "summary": "Birleşmiş Milletler'in yeni raporuna göre dünya genelindeki sağlık tesislerinin yalnızca yüzde 40'ında temel standartlara uygun tuvalet bulunuyor. Birleşmiş Milletler (BM), dünya genelindeki sağlık tesislerinde hijyen ve sanitasyon koşullarına ilişkin çarpıcı veriler açıkladı. Dünya Sağlık Örgütü (DSÖ) ve UNICEF tarafından hazırlanan rapora göre, 2025 yılında dünya genelindeki sağlık tesislerinin yalnızca yüzde 40'ında hastaların ve çalışanların ihtiyaçlarını karşılayan temel sanitasyon hizmetleri bulunuyordu.",
-          "source": "https://www.ntv.com.tr/dunya/hastanelerde-dikkat-ceken-temizlik-raporu-yalnizca-yuzde-40i-yeterli-1737842"
+          "title": "Yüzyılın tutulması geliyor. Gündüz tam 6 dakika boyunca geceye dönecek",
+          "summary": "2 Ağustos 2027'de gerçekleşecek tam Güneş tutulması, Kuzey Afrika'dan Orta Doğu'ya uzanan geniş bir bölgede gündüzü geceye çevirecek. Mısır'ın Luksor kentinde karanlık 6 dakika 23 saniye sürecek. 6 DAKİKA 23 SANİYE SÜRECEK Dünyanın en görkemli antik kentlerinden biri olan Mısır'ın Luksor kenti, gelecek yıl gökyüzünün en dikkat çekici olaylarından birine sahne olacak. 2 Ağustos 2027'de gerçekleşecek tam Güneş tutulması Avrupa, Kuzey Afrika ve Orta Doğu'nun bazı bölgelerinden izlenebilecek.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-yuzyilin-tutulmasi-geliyor-gunduz-tam-6-dakika-boyunca-geceye-donecek-1737903"
         }
       ]
     },
@@ -124,48 +124,58 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe, Lyon karşısında! Maçın heyecanı Misli'de. Tarık Biberovic, NBA hedefini açıkladı | Kariyerinin en büyük sıçraması. Beşiktaş'tan Juventus'a teklif! Transfer kararı ortaya çıktı. Galatasaray'da Torreira kararı: Yeter ki kal!. Galatasaray'ın transferi geliyor! Tarih belli oldu. Lyon'dan sonrası Şampiyonlar Ligi! İşte muhtemel 11'ler. Beşiktaş'a yeni sponsor!.",
+      "text": "Fenerbahçeli yönetici Mahmut Uslu, PDFK'ya sevk edildi. Türkiye, FIBA'nın Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" zirvede. AK Parti'li Kasapoğlu: 7'den 77'ye herkesi sporla buluşturacağız. Galatasaray'dan 2 transfer birden! Görüşmeler başladı. PUBG MOBILE'da S2G Esports dünya şampiyonu oldu. Acun Ilıcalı analist ve yorumculara sert çıktı: 'İnşallah ben de bir gün böyle bir iş bulurum!'. Geleceğin basketbol yıldızlarının yolu İstanbul’dan geçecek!.",
       "items": [
         {
-          "title": "Fenerbahçe, Lyon karşısında! Maçın heyecanı Misli'de",
-          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi play-off turu 1. maçında Lyon ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de olacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-lyon-karsisinda-macin-heyecani-mislide-43276950"
+          "title": "Fenerbahçeli yönetici Mahmut Uslu, PDFK'ya sevk edildi",
+          "summary": "Türkiye Futbol Federasyonu, Profesyonel Futbol Disiplin Kurulu (PFDK) sevklerini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-yonetici-mahmut-uslu-pdfkya-sevk-edildi-43277386"
         },
         {
-          "title": "Tarık Biberovic, NBA hedefini açıkladı | Kariyerinin en büyük sıçraması",
-          "summary": "Fenerbahçe'den Dallas Mavericks’e transfer olan milli basketbolcu ve Red Bull sporcusu Tarık Biberovic, NBA hedefini ve kariyerinin en büyük sıçramasını Spor Arena'ya aktardı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tarik-biberovic-nba-hedefini-acikladi-kariyerinin-en-buyuk-sicramasi-43276935"
+          "title": "Türkiye, FIBA'nın Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" zirvede",
+          "summary": "FIBA 2027 Basketbol Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" Türkiye, zirvede yer aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-fibanin-dunya-kupasi-avrupa-elemeleri-guc-siralamasinda-zirvede-43277338"
         },
         {
-          "title": "Beşiktaş'tan Juventus'a teklif! Transfer kararı ortaya çıktı",
-          "summary": "Kadrosuna Trossard ve Vlahovic gibi yıldızları katan Beşiktaş'tan bir transfer bombası daha geliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-juventusa-teklif-transfer-karari-ortaya-cikti-43276817"
+          "title": "AK Parti'li Kasapoğlu: 7'den 77'ye herkesi sporla buluşturacağız",
+          "summary": "AK Parti İzmir Milletvekili Mehmet Kasapoğlu, Gaziemir Gençlik ve Spor Merkezi'ndeki portatif havuzu ziyaretinde yaptığı açıklamada, \"7’den 77’ye herkesi sporla, bu ülkenin tüm imkanlarıyla buluşturma noktasında kararlıyız\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-kasapoglu-7den-77ye-herkesi-sporla-bulusturacagiz-43277341"
         },
         {
-          "title": "Galatasaray'da Torreira kararı: Yeter ki kal!",
-          "summary": "Galatasaray yönetimi, takımdan ayrılmak istediği iddia edilen Lucas Torreira'ya ilişkin yeni bir karar aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-torreira-karari-yeter-ki-kal-43276787"
+          "title": "Galatasaray'dan 2 transfer birden! Görüşmeler başladı",
+          "summary": "Transferin suskun takımı Galatasaray, 2 yıldız için temaslarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-2-transfer-birden-gorusmeler-basladi-43277256"
         },
         {
-          "title": "Galatasaray'ın transferi geliyor! Tarih belli oldu",
-          "summary": "Galatasaray, uzun süredir peşinde olduğu Batrakov transferini tamamladı. Sarı kırmızılıların yeni yıldızının İstanbul'a geliş tarihi belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-transferi-geliyor-tarih-belli-oldu-43276624"
+          "title": "PUBG MOBILE'da S2G Esports dünya şampiyonu oldu",
+          "summary": "Türkiye, S2G Esports’un Paris’te düzenlenen 2026 PUBG MOBILE World Cup’ta şampiyonluğa ulaşmasıyla PUBG MOBILE’ın küresel sahnesine bir kez daha damga vurdu. Büyük Finaller’i 154 puanla zirvede tamamlayan S2G Esports, dünya şampiyonluğu kupasını Türkiye’ye getirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/pubg-mobileda-s2g-esports-dunya-sampiyonu-oldu-43277246"
         },
         {
-          "title": "Lyon'dan sonrası Şampiyonlar Ligi! İşte muhtemel 11'ler",
-          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi Play-Off ilk maçında bugün Kadıköy'de Fransız ekibi ile karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lyondan-sonrasi-sampiyonlar-ligi-43276531"
+          "title": "Acun Ilıcalı analist ve yorumculara sert çıktı: 'İnşallah ben de bir gün böyle bir iş bulurum!'",
+          "summary": "Hull City'nin sahibi Acun Ilıcalı, 10 yıl aradan sonra mücadele edecekleri Premier Lig'de kalıcı olmak istediklerini belirterek, kendilerini 'küme düşecek ilk takım' olarak değerlendiren yorumcu ve analistleri, \"İnşallah ben de bir gün böyle bir iş bulurum. Türkçe'de bir deyim var 'Yattığın yerden konuşma' diye, onlara diyorum diyorum ki önce buraya gelin ve nasıl çalıştığımızı görün. Geçen yıl da bir alt ligde aynıları söyleniyordu ama yanıldıklarını gösterdik' ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicali-analist-ve-yorumculara-sert-cikti-insallah-ben-de-bir-gun-boyle-bir-is-bulurum-43277205"
         },
         {
-          "title": "Beşiktaş'a yeni sponsor!",
-          "summary": "Tera Holding'in adı formalarda olacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-yeni-sponsor-43276528"
+          "title": "Geleceğin basketbol yıldızlarının yolu İstanbul’dan geçecek!",
+          "summary": "26-29 Ağustos tarihlerinde düzenlenecek Basketball Without Borders (BWB) Next Up 2026 etkinliği, NBA'in yeni nesil basketbol yeteneklerini geliştirme konusundaki kararlılığında yeni bir sayfa açıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gelecegin-basketbol-yildizlarinin-yolu-istanbuldan-gececek-43277126"
         }
       ]
     },
     "teknoloji": {
-      "text": "ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor. Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler. Deniz platformlarının enerji ihtiyacına milli çözüm. STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da. ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep. Ebubekir Şahin: Futbolun dijital dönüşümüne katkı sunuyoruz. Apple, Çin ile ortaklaşa yapay zeka modeli geliştiriyor.",
+      "text": "OpenAI, ChatGPT'nin gençlere yönelik yeni sürümünü duyurdu. HackAntarktika için başvurular başladı. ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor. Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler. Deniz platformlarının enerji ihtiyacına milli çözüm. STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da. ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep.",
       "items": [
+        {
+          "title": "OpenAI, ChatGPT'nin gençlere yönelik yeni sürümünü duyurdu",
+          "summary": "Yapay zekanın gençler üzerindeki olumsuz etkilerine yönelik baskılardan kaçınan OpenAI, güvenlik önlemleri daha güçlendirilmiş bir ChatGPT modunu piyasaya sürecek. OpenAI, bazı kullanıcıları intihara sürüklediği yönündeki eleştiriler ve yasal şikayetlerin ardından, Salı günü özellikle gençler için tasarlanmış, daha güçlü güvenlik önlemleri ve izleme mekanizmalarına sahip amiral gemisi ChatGPT sohbet robotunun yeni bir sürümünü tanıttı.",
+          "source": "https://www.ntv.com.tr/teknoloji/openai-chatgptnin-genclere-yonelik-yeni-surumunu-duyurdu-1737896"
+        },
+        {
+          "title": "HackAntarktika için başvurular başladı",
+          "summary": "Halkbank ile TÜBİTAK KARE, kutup araştırmalarına katkı sağlamayı hedefleyen girişimcileri Antarktika Hackathonu’nda bir araya getiriyor. Eleme süreçleri sonucu belirlenecek girişimci, 11. Ulusal Antarktika Bilim Seferi’ne katılma ve projesini Antarktika’nın zorlu coğrafyasında test etme fırsatı bulacak. Hackathon’a katılma fırsatı yakalamak için son başvuru tarihi 13 Eylül.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/hackantarktika-icin-basvurular-basladi-43277161"
+        },
         {
           "title": "ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor",
           "summary": "ABD'li teknoloji şirketi, Avrupa'da okyanus dronları üretmek için NATO üyesi ülkelerle anlaştı. ABD merkezli Saildrone, deniz savunma ve gözetleme teknolojisine yönelik artan talebi karşılamak için Avrupa'daki kapasitesini genişletirken, Hollanda, Norveç ve Polonya'da insansız deniz araçları üretmek üzere anlaşmalar imzaladığını açıkladı.",
@@ -190,22 +200,17 @@
           "title": "ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep",
           "summary": "ABD'de 29 eyalet, çocukların ruh sağlığını olumsuz etkilediği ve bağımlılık yaratacak şekilde tasarlandığı iddiasıyla Meta'ya dava açtı. Eyaletler, şirketten 1,4 trilyon dolara kadar tazminat ve Facebook ile Instagram'da kapsamlı değişiklikler talep ediyor.",
           "source": "https://www.hurriyet.com.tr/teknoloji/abdde-metaya-dava-29-eyaletten-1-4-trilyon-dolarlik-talep-43275891"
-        },
-        {
-          "title": "Ebubekir Şahin: Futbolun dijital dönüşümüne katkı sunuyoruz",
-          "summary": "Türkiye Futbol Federasyonu’na teknoloji desteği sağlayan ve Trendyol Süper Lig’in teknoloji sponsoru olan Türk Telekom’un CEO’su Ebubekir Şahin, “Türk Telekom olarak, sporun ve futbolun dijital dönüşümüne katkı sunuyoruz” diye konuştu.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/ebubekir-sahin-futbolun-dijital-donusumune-katki-sunuyoruz-43273532"
-        },
-        {
-          "title": "Apple, Çin ile ortaklaşa yapay zeka modeli geliştiriyor",
-          "summary": "Apple, Çin pazarına özel bir büyük dil modeli eğiterek geleneksel stratejisini terk edecek. Reuters haber ajansına konuşan kaynaklar, Apple'ın doğrudan Çin pazarına özel bir büyük dil modeli eğittiğini bildirdi. Söz konusu adım, iPhone üreticisinin ülkedeki yapay zeka özelliklerini çalıştırmak için yalnızca üçüncü taraf modellere güvenme stratejisinden bir sapma niteliği taşıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-apple-cin-ile-ortaklasa-yapay-zeka-modeli-gelistiriyor-1737304"
         }
       ]
     },
     "saglik": {
-      "text": "Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum. Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar. Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor. Keneden ölümlere karşı yerli aşı. Erciyes Üniversitesi'nde aşının ilk fazı tamamlanmak üzere. Başı dönünce hastaneye gitti, nadir hastalığı ortaya çıktı! Türkiye'de sadece onda ve kızında var. Özel hastanede skandal. \"Boş gebelik\" deyip bebeğini almak istediler. Muayene ve serum için 71 bin lira ödediler. İsviçreli turistlere Antalya'da fatura şoku.",
+      "text": "Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\". Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum. Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar. Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor. Keneden ölümlere karşı yerli aşı. Erciyes Üniversitesi'nde aşının ilk fazı tamamlanmak üzere. Başı dönünce hastaneye gitti, nadir hastalığı ortaya çıktı! Türkiye'de sadece onda ve kızında var. Özel hastanede skandal. \"Boş gebelik\" deyip bebeğini almak istediler.",
       "items": [
+        {
+          "title": "Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\"",
+          "summary": "Uzmanlar, karaciğer yağlanması ve obeziteye yol açan nişasta bazlı şeker içeren paketli gıdalara karşı özellikle çocukların korunması gerektiğini belirtti.",
+          "source": "https://www.ntv.com.tr/saglik/video-paketli-gidalarin-arkasindaki-korkunc-gercek-ilk-iki-yil-hic-tuketilmemeli-1737878"
+        },
         {
           "title": "Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum",
           "summary": "Rize'de yaşayan 28 yaşındaki Serenay Atagün'ün iki ayrı rahminde aynı anda gebelik oluştu. Bu, dünyadaki üçüncü vaka oldu. Çift rahmi olan bir kadının her iki rahminde de aynı anda gebelik oluşması tıp çevrelerinde milyonda bir ihtimal olarak değerlendiriliyor. Tıpta \"dikaviter ikiz gebelik\" (iki ayrı boşluklu ikiz gebelik) olarak adlandırılan bu durum, dünya genelinde çok nadir bildirilen olaylar arasında yer alıyor. Bu doğum olayı son olarak Trabzon'da gerçek oldu.",
@@ -235,11 +240,6 @@
           "title": "Özel hastanede skandal. \"Boş gebelik\" deyip bebeğini almak istediler",
           "summary": "Ankara'da özel hastanede \"boş gebelik\" olabileceği yönünde rapor verildiğini öne süren hamile bir kadın, devlet hastanesinde bebeğinin yaşadığını öğrendi. Kadın, kürtaj için kendisinden 30 bin TL istendiğini ileri sürdü ve özel hastanedeki iki doktor ile yetkililer hakkında suç duyurusunda bulundu. 3'üncü çocuğuna hamile olan ev kadını Eda Ö., rutin kontrol için özel hastaneye başvurdu.",
           "source": "https://www.ntv.com.tr/saglik/galeri-ozel-hastanede-skandal-bos-gebelik-deyip-bebegini-almak-istediler-1736190"
-        },
-        {
-          "title": "Muayene ve serum için 71 bin lira ödediler. İsviçreli turistlere Antalya'da fatura şoku",
-          "summary": "Antalya'nın Alanya ilçesinde tatil sırasında rahatsızlanarak özel bir hastanenin acil servisine başvuran İsviçre vatandaşı iki genç kıza toplam 71 bin TL fatura çıkarılınca konu Sağlık Bakanlığı ve CİMER'e taşındı. İsviçre'de yaşayan Fatma Dilek Kırkbunar ile İsviçre vatandaşı arkadaşı Morena Marie Opprecht, Alanya'da tatil yaparken 29 Temmuz günü saat 23.50'de halsizlik, bulantı ve güneş çarpması şikayetleriyle özel bir hastanenin Başkent acil servisine başvurdu.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-muayene-ve-serum-icin-71-bin-lira-odediler-isvicreli-turistlere-antalyada-fatura-soku-1736080"
         }
       ]
     },
