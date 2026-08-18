@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-17T16:00:03.611Z",
+  "generatedAt": "2026-08-18T04:00:05.911Z",
   "categories": {
     "gundem": {
-      "text": "Dört suç örgütüne darbe. 818 şüphelinin mal varlığına el konuldu. Bakan Gürlek açıkladı... 818 şüphelinin mal varlıklarına el konuldu. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. Hava Kuvvetleri Komutanlığında görev değişimi... Bayrağı Orgeneral Rafet Dalkıran’a devraldı. Kendilerini MİT görevlisi gibi tanıtıp dolandırıcılık yapan şüpheliler tutuklandı. AK Parti Grup Başkanvekili Usta ve koruması kazada yaralandı. Diyarbakır’da baraj gölünde erkek cesedi bulundu.",
+      "text": "YKS yerleştirme sonuçları açıklandı. Kuduz paniği büyüyor! Gerçekten korkmamız gerekiyor mu? İşte A’dan Z’ye bilmeniz gerekenler. Gaziantep’te yolcu otobüsü tırla çarpıştı: 2 ölü, 22 yaralı. 10 üniversiteye yeni rektör atandı. Türkiye Yapay Zeka Eylem Planı Resmi Gazete’de. 9 ülkeye yeni büyükelçi atandı. Cumhurbaşkanlığı atamaları Resmi Gazete'de.",
       "items": [
         {
-          "title": "Dört suç örgütüne darbe. 818 şüphelinin mal varlığına el konuldu",
-          "summary": "Adalet Bakanı Akın Gürlek, 4 suç örgütünden 818 şüphelinin banka ve kripto hesaplarına el konulduğunu açıkladı. Adalet Bakanı Akın Gürlek, organize suç örgütleriyle mücadeleye ilişkin yeni bir açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/turkiye/yeni-nesil-4-suc-orgutune-mali-tedbir-karari-1737755"
+          "title": "YKS yerleştirme sonuçları açıklandı",
+          "summary": "Yükseköğretim Kurumları Sınavı (YKS) yerleştirme sonuçları açıklandı. ÖSYM Başkanı Bayram Ali Ersoy, 2026-Yükseköğretim Kurumları Sınavı (YKS) yerleştirme sonuçlarının \"ykssonuc.osym.gov.tr\" adresinden açıklandığını bildirdi. Ersoy, ''Kıymetli adaylar YKS tercih süreci tamamlandı, hayırlı olsun. Yükseköğretim programına yerleşen adaylarımızı tebrik ediyor, verimli bir eğitim süreci geçirmenizi diliyorum. Herhangi bir programa yerleşemeyen adaylarımız için ek tercih süreci yeni bir imkân olacaktır.'' dedi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-yks-yerlestirme-sonuclari-aciklandi-1737779"
         },
         {
-          "title": "Bakan Gürlek açıkladı... 818 şüphelinin mal varlıklarına el konuldu",
-          "summary": "Adalet Bakanı Akın Gürlek, 4 ayrı yeni nesil suç örgütüne yürütülen mali soruşturmalar hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-acikladi-818-suphelinin-mal-varliklarina-el-konuldu-43276337"
+          "title": "Kuduz paniği büyüyor! Gerçekten korkmamız gerekiyor mu? İşte A’dan Z’ye bilmeniz gerekenler",
+          "summary": "Diyarbakır’da dört yaşındaki bir kız çocuğunun kuduz belirtileri sebebiyle entübe edilmesi büyük bir paniğe sebep oldu. Kedi tarafından dudağından ısırıldığı söylenen küçük kızda, belirtilen temastan dört ay sonra ortaya çıkması da soru işaretlerine yol açtı. “Dört ay sonra belirtiler ortaya çıkabilir. Öyle ki belirtilerin dokuz yıl hatta tam 27 yıl sonra bile ortaya çıktığı vakalar var” diyen İnfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı Prof. Dr.",
+          "source": "https://www.hurriyet.com.tr/gundem/kuduz-panigi-buyuyor-gercekten-korkmamiz-gerekiyor-mu-iste-adan-zye-bilmeniz-gerekenler-43275831"
         },
+        {
+          "title": "Gaziantep’te yolcu otobüsü tırla çarpıştı: 2 ölü, 22 yaralı",
+          "summary": "Gaziantep’te yolcu otobüsünün tırla çarpışması sonucu meydana gelen kazada 2 kişi hayatını kaybetti, 22 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gaziantepte-yolcu-otobusu-tirla-carpisti-2-olu-22-yarali-43276571"
+        },
+        {
+          "title": "10 üniversiteye yeni rektör atandı",
+          "summary": "Bazı bakanlıklar ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı. Bazı bakanlıklar ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı. Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan atama kararlarına göre, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığına Prof. Dr. Bayram Ali Ersoy atandı. Sosyal Güvenlik Kurumu Başkanlığı Başkan Yardımcılığına Bilgi Teknolojileri Genel Müdürü Engin Akyol atandı.",
+          "source": "https://www.ntv.com.tr/turkiye/10-universiteye-yeni-rektor-1737771"
+        },
+        {
+          "title": "Türkiye Yapay Zeka Eylem Planı Resmi Gazete’de",
+          "summary": "Türkiye Yapay Zeka Eylem Planı (2026-2030) ile ilgili genelge, Resmi Gazete’de yayımlanarak yürürlüğe konuldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiye-yapay-zeka-eylem-plani-resmi-gazetede-43276557"
+        },
+        {
+          "title": "9 ülkeye yeni büyükelçi atandı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yapılan büyükelçi atamalarına ilişkin kararlar, Resmi Gazete'de yayımlandı. Buna göre, Türkiye'nin Doha Büyükelçiliğine, Türkiye'nin Amman Büyükelçisi Yakup Caymazoğlu, Türkiye'nin Amman Büyükelçiliğine İkili İlişkiler (Ortadoğu) Genel Müdür Yardımcısı Hakan Karaçay, Türkiye'nin Kuveyt Büyükelçiliğine Doğu Avrupa Genel Müdür Yardımcısı Can Oğuz, Türkiye'nin Kişinev Büyükelçiliğine İkili İlişkiler (Suriye) Genel Müdür Yardımcısı Nazmiye Başaran atandı.",
+          "source": "https://www.ntv.com.tr/turkiye/9-ulkeye-yeni-buyukelci-atandi-1737770"
+        },
+        {
+          "title": "Cumhurbaşkanlığı atamaları Resmi Gazete'de",
+          "summary": "Cumhurbaşkanlığı tarafından yapılan atamalar hakkındaki karar Resmi Gazete'de yayımlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskanligi-atamalari-resmi-gazetede-43276532"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Kolombiya'daki depremin yol açtığı maddi hasarın 9,5 milyar dolar olduğu tahmin ediliyor. İran’dan ‘fırtına öncesi’ hamleler! Sessiz plan deşifre oldu. ABD ateşkesi uzatmadı, İran'dan ''tam taarruz'' açıklaması geldi. Trump'tan İran açıklaması. \"Mutabakatı uzatmak istemiyoruz\". İran'la sona eren mutabakat devam edecek mi? Trump net konuştu: Anlaşma yok. Suriye Dışişleri Bakanı Şeybani, ABD'li temsilci Barrack ile İstanbul'da görüştü. Trump’ın damadı Kushner, Netanyahu ile bir araya geldi.",
+      "items": [
+        {
+          "title": "Kolombiya'daki depremin yol açtığı maddi hasarın 9,5 milyar dolar olduğu tahmin ediliyor",
+          "summary": "Kolombiya Cumhurbaşkanı Abelardo de la Espriella, 10 Ağustos'ta meydana gelen 7,4 büyüklüğündeki depremin ilk belirlemelere göre 9,5 milyar dolarlık maddi hasara yol açtığını bildirdi. Ulusa sesleniş konuşmasında depremin neden olduğu can ve mal kaybına değinen De la Espriella, Adli Tıp Enstitüsü (IML) tarafından paylaşılan 304 ölü sayısının aksine, felakette şu ana kadar 289 kişinin hayatını kaybettiğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/kolombiyadaki-depremin-yol-actigi-maddi-hasarin-95-milyar-dolar-oldugu-tahmin-ediliyor-1737781"
+        },
+        {
+          "title": "İran’dan ‘fırtına öncesi’ hamleler! Sessiz plan deşifre oldu",
+          "summary": "İran ile ABD arasındaki diplomasi trafiği sürerken Tahran’ın ateşkes döneminde attığı adımlar, perde arkasında bambaşka bir hazırlığın yürütüldüğünü düşündürüyor. Devrim Muhafızları’nın yeniden ağırlık kazanmasıyla bölgedeki dengeler hareketlenirken, gözler Tahran’ın atacağı bir sonraki adıma çevrildi. Peki İran neyin hazırlığını yapıyor?",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-firtina-oncesi-hamleler-sessiz-plan-desifre-oldu-43275925"
+        },
+        {
+          "title": "ABD ateşkesi uzatmadı, İran'dan ''tam taarruz'' açıklaması geldi",
+          "summary": "İran, ABD ile barış görüşmelerinin tıkanmasının ardından “tam taarruz” askeri pozisyonuna geçeceğini açıkladı. ABD'nin geçici ateşkes anlaşmasının süresini uzatmayacağını açıklamasıyla, barış görüşmelerine yönelik ilerleme ve stratejik Hürmüz Boğazı'ndan petrol tankerlerinin yeniden geçişine ilişkin umutlar da sekteye uğradı. ABD ve İsrail'in 28 Şubat'ta İran'a yönelik saldırılarıyla başlayan savaşın uzaması riski arttı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-ateskesi-uzatmadi-irandan-tam-taarruz-aciklamasi-geldi-1737776"
+        },
+        {
+          "title": "Trump'tan İran açıklaması. \"Mutabakatı uzatmak istemiyoruz\"",
+          "summary": "ABD Başkanı Donald Trump, İran'la sona eren mutabakatı uzatmak istemediklerini açıkladı İran ve ABD arasında imzalanan mutabakat zaptında belirlenen 60 günlük süre bugün doldu. ABD Başkanı Donald Trump, Oval Ofis'te düzenlediği basın toplantısında, İran'la bugün süresi dolan 60 günlük çerçeve anlaşmanın uzatılıp uzatılmayacağı sorusuna \"Hayır\" cevabını verdi.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-ummana-acik-tehdit-yolumuza-cikarlarsa-bombalariz-1737734"
+        },
+        {
+          "title": "İran'la sona eren mutabakat devam edecek mi? Trump net konuştu: Anlaşma yok",
+          "summary": "ABD Başkanı Donald Trump, İran'la bugün sona eren 60 günlük çerçeve anlaşmayı uzatmak isteyip istemedikleri sorusuna \"Hayır\" yanıtını verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iranla-sona-eren-mutabakat-devam-edecek-mi-trump-net-konustu-anlasma-yok-43276445"
+        },
+        {
+          "title": "Suriye Dışişleri Bakanı Şeybani, ABD'li temsilci Barrack ile İstanbul'da görüştü",
+          "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Thomas Barrack ile İstanbul'da bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriye-disisleri-bakani-seybani-abdli-temsilci-barrack-ile-istanbulda-gorustu-43276443"
+        },
+        {
+          "title": "Trump’ın damadı Kushner, Netanyahu ile bir araya geldi",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump’ın damadı Jared Kushner ile bir araya geldi. Netanyahu’nun ofisinden yapılan açıklamaya göre görüşmede, Gazze Şeridi’nin silahsızlandırılması ve bölgedeki insani ihtiyaçlara ilişkin iki çalışma grubu kurulması konusunda anlaşmaya varıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumpin-damadi-kushner-netanyahu-ile-bir-araya-geldi-43276379"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar. İzmir üretim ve ticarette öncü. Bakan Bolat: Ortak Savunma Anlaşması, ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine katkı sağlayacak. Taze incirde hedef 100 milyon dolar.",
+      "items": [
         {
           "title": "Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız",
           "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin dış ticarette büyümeye devam ettiğini belirterek, \"Türkiye 250 milyon dolar savunma sanayi ihracatı yaparken, 2025 sonunda 10 milyar 50 milyon dolar yaptı. Bu yıl inşallah sanayi savunma ihracatında 12,5. milyar doları aşacağız\" dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/ticaret-bakani-bolat-bu-yil-savunma-sanayi-ihracatinda-12-5-milyar-dolari-asacagiz-43276335"
         },
-        {
-          "title": "Hava Kuvvetleri Komutanlığında görev değişimi... Bayrağı Orgeneral Rafet Dalkıran’a devraldı",
-          "summary": "2026 Yüksek Askeri Şura kararları kapsamında emekliye sevk edilen Hava Kuvvetleri Komutanı Orgeneral Ziya Cemal Kadıoğlu, görevi Orgeneral Rafet Dalkıran’a devretti. Milli Savunma Bakanı Yaşar Güler, Hava Kuvvetleri Komutanlığında gerçekleştirilen devir teslim törenine katıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/hava-kuvvetleri-komutanliginda-gorev-degisimi-bayragi-orgeneral-rafet-dalkirana-devraldi-43276334"
-        },
-        {
-          "title": "Kendilerini MİT görevlisi gibi tanıtıp dolandırıcılık yapan şüpheliler tutuklandı",
-          "summary": "İstanbul'da yürütülen soruşturma kapsamında kendilerini MİT görevlisi olarak tanıtıp 'Cinayet dosyasını çözeriz' diyerek vatandaşları dolandıran şüpheliler tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kendilerini-mit-gorevlisi-gibi-tanitip-dolandiricilik-yapan-supheliler-tutuklandi-43276333"
-        },
-        {
-          "title": "AK Parti Grup Başkanvekili Usta ve koruması kazada yaralandı",
-          "summary": "BOLU’da, Anadolu Otoyolu’nda iki otomobilin çarpıştığı kazada AK Parti Grup Başkanvekili ve Ankara Milletvekili Leyla Şahin Usta ve koruması hafif yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-grup-baskanvekili-usta-ve-korumasi-kazada-yaralandi-43276326"
-        },
-        {
-          "title": "Diyarbakır’da baraj gölünde erkek cesedi bulundu",
-          "summary": "DİYARBAKIR’ın Çınar ilçesindeki Göksu Barajı’nda erkek cesedi bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-baraj-golunde-erkek-cesedi-bulundu-43276325"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Arnavutluk'ta Bayraktar İHA'lı operasyon: En çok aranan şüpheli kıskıvrak yakalandı. 60 günlük sürenin sonu: İşte İran'ın önündeki 3 yol. Suriye'den YPG açıklaması: \"Çok yakında feshedilecek\". Zelenski'nin teklifi: \"ABD füzelerini bize versin\". Trump'tan Umman'a açık tehdit: “Yolumuza çıkarlarsa bombalarız”. ABD Donanması'ndan 23 milyar dolarlık dev sözleşme. 15 milyar dolara mal olacak. Irak ve Suriye düğmeye basıyor.",
-      "items": [
-        {
-          "title": "Arnavutluk'ta Bayraktar İHA'lı operasyon: En çok aranan şüpheli kıskıvrak yakalandı",
-          "summary": "Arnavutluk polisi, uzun zamandır aranan silahlı bir şüphelinin yerini Bayraktar İHA ile yapılan izlemeler sayesinde tespit ederek yakaladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/arnavutlukta-bayraktar-ihali-operasyon-en-cok-aranan-supheli-kiskivrak-yakalandi-43276312"
-        },
-        {
-          "title": "60 günlük sürenin sonu: İşte İran'ın önündeki 3 yol",
-          "summary": "İran ile ABD arasında varılan mutabakat kapsamında belirlenen 60 günlük süre bugün sona eriyor. Tahran ile Washington arasında müzakereler yeniden başlamazken, İran'ın önünde üç temel seçenek bulunuyor. Bu seçenekler arasında yeni bir çatışma, mevcut gerilimin sürmesi ve dolaylı müzakerelere dönülmesi yer alıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/60-gunluk-surenin-sonu-iste-iranin-onundeki-3-yol-43276220"
-        },
-        {
-          "title": "Suriye'den YPG açıklaması: \"Çok yakında feshedilecek\"",
-          "summary": "Suriye hükümeti ile terör örgütü YPG arasında varılan 29 Ocak mutabakatının uygulanmasından sorumlu yetkili, örgütün feshedilmesine ilişkin duyurunun \"çok yakında\" yapılacağını söyledi. 29 Ocak mutabakatının uygulanmasından sorumlu Cumhurbaşkanlığı Heyeti Sözcüsü ve Haseke Vali Yardımcısı Ahmed el-Hilali, Syria TV'de konuya ilişkin açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/suriyeden-ypg-aciklamasi-cok-yakinda-feshedilecek-1737750"
-        },
-        {
-          "title": "Zelenski'nin teklifi: \"ABD füzelerini bize versin\"",
-          "summary": "Ukrayna, savunma sistemlerinde sıkıntı çekiyor. Rus füzelerini engelleyecek kadar Patriot savunma füzesi kalmadı. Bu yüzden bazı geceler savunma sistemleri devreye sokulamıyor. Ukrayna Devlet Başkanı Volodimir Zelenski dikkat çeken bir açıklamada bulundu. Zelenski, \"ABD, elindeki Patriot füzelerin yüzde 10'nunu bize verirse Rus füzelerinin tamamını yok edebiliriz.\" dedi.",
-          "source": "https://www.ntv.com.tr/dunya/zelenskinin-teklifi-abd-fuzelerini-bize-versin-1737747"
-        },
-        {
-          "title": "Trump'tan Umman'a açık tehdit: “Yolumuza çıkarlarsa bombalarız”",
-          "summary": "ABD Başkanı Donald Trump, İran ile gerilimin devam ettiği Hürmüz Boğazı'nda ABD operasyonlarına müdahale etmesi halinde Umman'ı bombalamakla tehdit etti. ABD Başkanı Donald Trump, Hürmüz Boğazı'nda İran gemilerine karşı uygulanan ABD ablukasına ve yürütülen müzakerelere ilişkin dikkat çeken açıklamalarda bulundu. Trump'ın açıklaması, İran'ın Hürmüz Boğazı'nın yeniden açılması için Umman ile müzakereler yürüttüğünü duyurmasının ardından geldi.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-ummana-acik-tehdit-yolumuza-cikarlarsa-bombalariz-1737734"
-        },
-        {
-          "title": "ABD Donanması'ndan 23 milyar dolarlık dev sözleşme",
-          "summary": "ABD Donanması, Tomahawk füzelerinin üretimini ve tedarik hızını artırmak amacıyla RTX iştiraki Raytheon ile 22,9 milyar dolar değerinde bir sözleşme imzaladı. ABD Donanması, bugün RTX bünyesindeki Raytheon'a 22,9 milyar dolar değerinde bir sözleşme verdiğini açıkladı. Sözleşme, Donanma Bakanlığı'nın kritik uzun menzilli taarruz kabiliyeti olarak nitelediği Tomahawk füzesinin üretimini hızlandırmayı amaçlıyor. ABD, müttefiklerine büyük miktarlarda silah sağlarken İran savaşında da mühimmat kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abd-donanmasindan-23-milyar-dolarlik-dev-sozlesme-1737738"
-        },
-        {
-          "title": "15 milyar dolara mal olacak. Irak ve Suriye düğmeye basıyor",
-          "summary": "Irak'ın petrol ihracatını Suriye üzerinden Akdeniz'e taşımayı amaçlayan yeni boru hattı projesinin 15 milyar dolardan fazlaya mal olması ve dört yıl sürmesi bekleniyor. Dünyanın önde gelen petrol üreticilerinden Irak'ın petrol ihracatını Suriye üzerinden yapmasını sağlayacak boru hattının inşa süresinin yaklaşık dört yılı bulması bekleniyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-15-milyar-dolara-mal-olacak-irak-ve-suriye-boru-hatti-icin-dugmeye-basiyor-1737732"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar. İzmir üretim ve ticarette öncü. Bakan Bolat: Ortak Savunma Anlaşması, ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine katkı sağlayacak. Taze incirde hedef 100 milyon dolar. Öztürk: 'Finansmana erişim kolaylaşsın'.",
-      "items": [
         {
           "title": "İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor",
           "summary": "TÜRKİYE temmuzda 25.6 milyar dolarla bugüne kadarki en yüksek temmuz ayı ihracatına ulaşırken, son 12 aylık ihracat 278.6 milyar dolara çıktı.",
@@ -115,51 +120,46 @@
           "title": "Taze incirde hedef 100 milyon dolar",
           "summary": "Türkiye’nin üretim ve ihracatında dünya lideri olduğu, Bursa Siyahı incirin ve Sarılop taze incirin ihracat yolculuğu başladı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/taze-incirde-hedef-100-milyon-dolar-43264830"
-        },
-        {
-          "title": "Öztürk: 'Finansmana erişim kolaylaşsın'",
-          "summary": "Ege İhracatçı Birlikleri Koordinatör Başkanı Muhammet Öztürk, hazirandan sonra temmuzda da aylık ihracat rekoru kırmanın ve yıllık ihracatta 19 milyar doları aşmanın mutluluğunu yaşadıklarını dile getirdi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ozturk-finansmana-erisim-kolaylassin-43262526"
         }
       ]
     },
     "spor": {
-      "text": "6’da 6 yaptı, 654.741 TL kazandı…. Fenerbahçe'de ayrılık rüzgarı sürüyor! Fred ve Cherif sonrası bir veda daha. Gardi'den 40 milyon euroluk transfer önerisi: 'Hemen Galatasaray'a getirebilirim!'. Lukaku, Lyon maçında oynayacak mı? İsmail Kartal'dan açıklama. Tedesco’dan Fenerbahçe itirafı: Hayatım boyunca unutamam. Fenerbahçe'nin Fransız takımlarına şansı tutmuyor. Beşiktaş'ta Vincenzo Italiano etkisi! Süper Lig'de de devam etti.",
+      "text": "Thorsten Fink'ten hakem yorumu!. Stanimir Stoilov: 'Hoşlanmadığım şeyler var!'. Beşiktaş, Dodi Lukébakio için vites yükseltti!. Beşiktaş, Dusan Vlahovic'i UEFA listesine ekledi!. Moussa Niakhate: 'Fenerbahçe devasa bir ekip!'. Paulo Fonseca: 'Fenerbahçe'nin üzerinde baskı olabilir!'. Galatasaray'da Lucas Torreira için İtalya'ya dönme iddiası: Görüşmeler başladı!.",
       "items": [
         {
-          "title": "6’da 6 yaptı, 654.741 TL kazandı…",
-          "summary": "Bir Misli Üyesi Cuma bülteninde yer alan 6 karşılaşmaya MS 1 ve 3.5 Üst, 2.5 Üst ve Karşılıklı Gol Var,3.5 Üst ve MS 1 ve Karşılıklı Gol Var tercihlerini içeren bir kupon yaptı. Kuponunda LASK - SV Ried, IK Brage - Orebro SK, Viborg - AGF Aarhus, Cercle Brugge - St. Truidense, Sporting Lizbon - Vitoria Guimaraes ve Fiorentina – Benevento karşılaşmalarına yer veren Misli Üyesi, toplamda 118.17 oranı tutturmuş oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/6da-6-yapti-654-741-tl-kazandi-43276272"
+          "title": "Thorsten Fink'ten hakem yorumu!",
+          "summary": "Trendyol Süper Lig'in ilk haftasında Göztepe ile sahasında 3-3 berabere kalan Samsunspor'un Teknik Direktörü Thorsten Fink, son dakikada geri gelmeyi başardıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/thorsten-finkten-hakem-yorumu-43276521"
         },
         {
-          "title": "Fenerbahçe'de ayrılık rüzgarı sürüyor! Fred ve Cherif sonrası bir veda daha",
-          "summary": "İngiliz ekibi Norwich City, Fenerbahçe'de kadroda düşünülmeyen isimlerin başında gelen Anthony Musaba'nın kiralık transferi için sarı-lacivertliler ile anlaşmaya vardı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-ayrilik-ruzgari-suruyor-fred-ve-cherif-sonrasi-bir-veda-daha-43275824"
+          "title": "Stanimir Stoilov: 'Hoşlanmadığım şeyler var!'",
+          "summary": "Trendyol Süper Lig'in ilk haftasında Samsunspor ile deplasmanda 3-3 berabere kalan Göztepe'nin teknik direktörü Stanimir Kolev Stoilov, \"Bizim gibi sıkı savunma yapan bir takımın bir maçta 3 gol yemesi kesinlikle normal değil.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/stanimir-stoilov-hoslanmadigim-seyler-var-43276497"
         },
         {
-          "title": "Gardi'den 40 milyon euroluk transfer önerisi: 'Hemen Galatasaray'a getirebilirim!'",
-          "summary": "Menajer George Gardi, sol kanat bölgesi için transfer çalışmalarını sürdüren Galatasaray yönetimine Manchester United'ın İngiliz yıldızı Marcus Rashford'u getirebileceğini iletti. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/gardiden-40-milyon-euroluk-transfer-onerisi-hemen-galatasaraya-getirebilirim-43276141"
+          "title": "Beşiktaş, Dodi Lukébakio için vites yükseltti!",
+          "summary": "Beşiktaş'ın Benfica'nın Belçikalı sağ kanat oyuncusu Dodi Lukébakio'yu satın alma opsiyonuyla kiralamak için Portekiz ekibiyle görüşmelerini hızlandırdığı yazıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-dodi-lukebakio-icin-vites-yukseltti-43276470"
         },
         {
-          "title": "Lukaku, Lyon maçında oynayacak mı? İsmail Kartal'dan açıklama",
-          "summary": "Lyon maçı öncesi açıklamalarda bulunan Fenerbahçe teknik direktörü İsmail Kartal, Romelu Lukaku'nun yarınki maçta oynayıp oynamayacağına bugün yapacakları son antrenman sonrasında karar vereceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lukaku-lyon-macinda-oynayacak-mi-ismail-kartaldan-aciklama-43276166"
+          "title": "Beşiktaş, Dusan Vlahovic'i UEFA listesine ekledi!",
+          "summary": "Beşiktaş, UEFA Avrupa Ligi play-off turunda karşılaşacağı Kauno Zalgiris maçları öncesi yeni transfer Dusan Vlahovic'in ismini UEFA listesine ekledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-dusan-vlahovici-uefa-listesine-ekledi-43276468"
         },
         {
-          "title": "Tedesco’dan Fenerbahçe itirafı: Hayatım boyunca unutamam",
-          "summary": "Fenerbahçe’nin eski teknik direktörü ve şu sıralar İtalya Serie A ekibi Bologna’yı çalıştıran Domenico Tedesco, samimi açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tedescodan-fenerbahce-itirafi-hayatim-boyunca-unutamam-43276088"
+          "title": "Moussa Niakhate: 'Fenerbahçe devasa bir ekip!'",
+          "summary": "Olympique Lyon’un Senegalli stoperi Moussa Niakhate, Fenerbahçe’nin çok kaliteli bir kadroya sahip olduğunu ve agresif oynamaları gerektiğini belirterek, \"Lyon son dönemlerde zorluklar yaşadı. 180 dakikamız kaldı Şampiyonlar Ligi'ne katılmak için. Lyon halkını, tüm taraftarlarımızı mutlu etmek istiyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/moussa-niakhate-fenerbahce-devasa-bir-ekip-43276459"
         },
         {
-          "title": "Fenerbahçe'nin Fransız takımlarına şansı tutmuyor",
-          "summary": "Fransız takımlarıyla 25 kez mücadele eden Fenerbahçe, bu maçlarda 6 galibiyet, 7 beraberlik ve 12 yenilgi yaşadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-fransiz-takimlarina-sansi-tutmuyor-43276065"
+          "title": "Paulo Fonseca: 'Fenerbahçe'nin üzerinde baskı olabilir!'",
+          "summary": "Olympique Lyon’un Portekizli Teknik Direktörü Paulo Fonseca, Fenerbahçe maçı öncesinde yaptığı açıklamada, \"Takım hazır, oyuncuların motivasyonu yüksek. Önemli bir fırsatımız olduğunun farkındayız. Tabii ki tarih yazmak istiyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/paulo-fonseca-fenerbahcenin-uzerinde-baski-olabilir-43276456"
         },
         {
-          "title": "Beşiktaş'ta Vincenzo Italiano etkisi! Süper Lig'de de devam etti",
-          "summary": "Ligin ilk haftasında Eyüpspor'u 1-0 yenen Beşiktaş, Süper Lig tarihinde ev sahibi olarak çıktığı 35 ilk hafta karşılaşmasının 31'ini kazandı. Siyah-beyazlılar, oynadığı 5 maçın tamamında kalesini gole kapatırken 5 sezon sonra bu istatistiği tekrarladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-vincenzo-italiano-etkisi-super-ligde-de-devam-etti-43276053"
+          "title": "Galatasaray'da Lucas Torreira için İtalya'ya dönme iddiası: Görüşmeler başladı!",
+          "summary": "Galatasaray'da Lucas Torreira için sürpriz bir ayrılık iddiası ortaya atıldı. Uruguaylı yıldızın Serie A'ya dönüşünün gündemde olduğu yazıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-lucas-torreira-icin-italyaya-donme-iddiasi-gorusmeler-basladi-43276440"
         }
       ]
     },
