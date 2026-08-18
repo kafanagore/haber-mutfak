@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-18T04:00:05.911Z",
+  "generatedAt": "2026-08-18T10:00:03.617Z",
   "categories": {
     "gundem": {
-      "text": "YKS yerleştirme sonuçları açıklandı. Kuduz paniği büyüyor! Gerçekten korkmamız gerekiyor mu? İşte A’dan Z’ye bilmeniz gerekenler. Gaziantep’te yolcu otobüsü tırla çarpıştı: 2 ölü, 22 yaralı. 10 üniversiteye yeni rektör atandı. Türkiye Yapay Zeka Eylem Planı Resmi Gazete’de. 9 ülkeye yeni büyükelçi atandı. Cumhurbaşkanlığı atamaları Resmi Gazete'de.",
+      "text": "Alihan Kuriş'in haberleşme ağı Glooper deşifre oldu. Afyonkarahisar'da araçlar mora bürünmüştü! Sorumlular tespit edildi: Hesap verecekler. Motosikletin çarptığı genç beyin kanamasından öldü: Hastane önünde 2 gün baygın yattığı iddiası. Geçenin aracını mor renge boyayan yol. Olayın sorumlusu bulundu. 'Biri çenemden tuttu, biri öpmeye çalıştı' | Etiler'deki üç kadın gündem olmuştu... Genç adam olup biteni anlattı. Aspendos’ta festival perdesi 33. kez açılıyor! Antik tiyatronun büyüleyici atmosferinde opera ve bale heyecanı başlıyor. Kacır: Türkiye yapay zeka alanında öncü olacak.",
       "items": [
         {
-          "title": "YKS yerleştirme sonuçları açıklandı",
-          "summary": "Yükseköğretim Kurumları Sınavı (YKS) yerleştirme sonuçları açıklandı. ÖSYM Başkanı Bayram Ali Ersoy, 2026-Yükseköğretim Kurumları Sınavı (YKS) yerleştirme sonuçlarının \"ykssonuc.osym.gov.tr\" adresinden açıklandığını bildirdi. Ersoy, ''Kıymetli adaylar YKS tercih süreci tamamlandı, hayırlı olsun. Yükseköğretim programına yerleşen adaylarımızı tebrik ediyor, verimli bir eğitim süreci geçirmenizi diliyorum. Herhangi bir programa yerleşemeyen adaylarımız için ek tercih süreci yeni bir imkân olacaktır.'' dedi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-yks-yerlestirme-sonuclari-aciklandi-1737779"
+          "title": "Alihan Kuriş'in haberleşme ağı Glooper deşifre oldu",
+          "summary": "Alihan Kuriş suç örgütünün gizli yazılımla haberleştiği ve uygulamanın dışarıdan erişime tamamen kapalı, özel ve gizli bir data, veri işleme ve dosyalama yapılabildiği ortaya çıktı. Kamuoyunda Süleymancılar cemaatinin lideri olarak tanınan Alihan Kuriş soruşturması sürüyor. \"Alihan Kuriş çıkar amaçlı suç örgütü\"ne yönelik operasyonda gözaltına alınan 38 şüpheliden 32'si tutuklanmıştı. Soruşturmaya ilişkin yeni ayrıntılar ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-alihan-kurisin-haberlesme-agi-glooper-desifre-oldu-1737866"
         },
         {
-          "title": "Kuduz paniği büyüyor! Gerçekten korkmamız gerekiyor mu? İşte A’dan Z’ye bilmeniz gerekenler",
-          "summary": "Diyarbakır’da dört yaşındaki bir kız çocuğunun kuduz belirtileri sebebiyle entübe edilmesi büyük bir paniğe sebep oldu. Kedi tarafından dudağından ısırıldığı söylenen küçük kızda, belirtilen temastan dört ay sonra ortaya çıkması da soru işaretlerine yol açtı. “Dört ay sonra belirtiler ortaya çıkabilir. Öyle ki belirtilerin dokuz yıl hatta tam 27 yıl sonra bile ortaya çıktığı vakalar var” diyen İnfeksiyon Hastalıkları ve Klinik Mikrobiyoloji Uzmanı Prof. Dr.",
-          "source": "https://www.hurriyet.com.tr/gundem/kuduz-panigi-buyuyor-gercekten-korkmamiz-gerekiyor-mu-iste-adan-zye-bilmeniz-gerekenler-43275831"
+          "title": "Afyonkarahisar'da araçlar mora bürünmüştü! Sorumlular tespit edildi: Hesap verecekler",
+          "summary": "Afyonkarahisar'da Dinar- Çay kara yolunda bir TIR'dan dökülen kimyasal maddenin yağış sonrası tepkimeye girip yoldan geçen araçların mor renge boyanmasına ilişkin, 'Çevrenin taksirle kirletilmesi' ve 'Trafik güvenliğinin tehlikeye sokulması' suçlarından adli soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-araclar-mora-burunmustu-sorumlular-tespit-edildi-hesap-verecekler-43276965"
         },
         {
-          "title": "Gaziantep’te yolcu otobüsü tırla çarpıştı: 2 ölü, 22 yaralı",
-          "summary": "Gaziantep’te yolcu otobüsünün tırla çarpışması sonucu meydana gelen kazada 2 kişi hayatını kaybetti, 22 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gaziantepte-yolcu-otobusu-tirla-carpisti-2-olu-22-yarali-43276571"
+          "title": "Motosikletin çarptığı genç beyin kanamasından öldü: Hastane önünde 2 gün baygın yattığı iddiası",
+          "summary": "Esenyurt'ta yolun karşısına geçerken motosiklet çarpması sonucu yaralanan 22 yaşındaki Beşşar Al Tawıl, ilk tedavisinin ardından ayrıldığı hastanenin bahçesinde 2 gün sonra yakınları tarafından baygın halde bulundu. Götürüldüğü diğer hastanede 15 gün sonra beyin kanaması nedeniyle hayatını kaybeden gencin yakınları ihmal iddiasıyla şikayetçi olurken, İl Sağlık Müdürlüğü olayla ilgili inceleme başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/motosikletin-carptigi-genc-beyin-kanamasindan-oldu-hastane-onunde-2-gun-baygin-yattigi-iddiasi-43276948"
         },
         {
-          "title": "10 üniversiteye yeni rektör atandı",
-          "summary": "Bazı bakanlıklar ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı. Bazı bakanlıklar ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı. Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan atama kararlarına göre, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığına Prof. Dr. Bayram Ali Ersoy atandı. Sosyal Güvenlik Kurumu Başkanlığı Başkan Yardımcılığına Bilgi Teknolojileri Genel Müdürü Engin Akyol atandı.",
-          "source": "https://www.ntv.com.tr/turkiye/10-universiteye-yeni-rektor-1737771"
+          "title": "Geçenin aracını mor renge boyayan yol. Olayın sorumlusu bulundu",
+          "summary": "Afyonkarahisar'da araçları mora boyayan yolun sırrı çözüldü. Savcılık, olayın sorumluları hakkında soruşturma başlattı. Afyonkarahisar'da Dinar-Çay karayolunda bir TIR'dan dökülen kimyasal maddenin yağış sonrası tepkimeye girip yoldan geçen araçların mor renge boyanmasına ilişkin soruşturma başlatıldı. YOLDAN GEÇENİN ARACI MORA BOYANDI Dinar- Çay karayolu güzergahında, bir TIR'dan yaklaşık 10 gün önce yola döküldüğü belirlenen kimyasal madde, yağış sonrası tepkimeye girerek, asfalt yüzeyinde yayıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-gecenin-aracini-mor-renge-boyayan-yol-olayin-sorumlusu-bulundu-1737865"
         },
         {
-          "title": "Türkiye Yapay Zeka Eylem Planı Resmi Gazete’de",
-          "summary": "Türkiye Yapay Zeka Eylem Planı (2026-2030) ile ilgili genelge, Resmi Gazete’de yayımlanarak yürürlüğe konuldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-yapay-zeka-eylem-plani-resmi-gazetede-43276557"
+          "title": "'Biri çenemden tuttu, biri öpmeye çalıştı' | Etiler'deki üç kadın gündem olmuştu... Genç adam olup biteni anlattı",
+          "summary": "Etiler'de 600 liralık yol ücretini vermeyip taksici ile tartışan kadınların görüntüsü sosyal medyada gündem olmuştu. Taksici Ahmet Güneş, o anları anlattı. Güneş, Video kaydına başlayınca 'Biz sarhoşuz bizi affet elindeki videoyu sil' dediler. \"Tatlı bir dille özür dilemeye başladılar. Diğer bayan çenemden tutup benimle konuşmaya çalıştı. Şoför kapımın tarafındaki bayan da beni öpmeye çalıştı. Deport edilmeleri için elimden geleni yapacağım.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/etilerdeki-uc-kadin-sosyal-medyada-gundem-olmustu-genc-adam-konustu-biri-cenemden-tuttu-biri-opmeye-calisi-43276920"
         },
         {
-          "title": "9 ülkeye yeni büyükelçi atandı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yapılan büyükelçi atamalarına ilişkin kararlar, Resmi Gazete'de yayımlandı. Buna göre, Türkiye'nin Doha Büyükelçiliğine, Türkiye'nin Amman Büyükelçisi Yakup Caymazoğlu, Türkiye'nin Amman Büyükelçiliğine İkili İlişkiler (Ortadoğu) Genel Müdür Yardımcısı Hakan Karaçay, Türkiye'nin Kuveyt Büyükelçiliğine Doğu Avrupa Genel Müdür Yardımcısı Can Oğuz, Türkiye'nin Kişinev Büyükelçiliğine İkili İlişkiler (Suriye) Genel Müdür Yardımcısı Nazmiye Başaran atandı.",
-          "source": "https://www.ntv.com.tr/turkiye/9-ulkeye-yeni-buyukelci-atandi-1737770"
+          "title": "Aspendos’ta festival perdesi 33. kez açılıyor! Antik tiyatronun büyüleyici atmosferinde opera ve bale heyecanı başlıyor",
+          "summary": "Binlerce yıllık Aspendos Antik Tiyatrosu, dünya opera ve bale repertuvarının seçkin eserlerine bir kez daha ev sahipliği yapmaya hazırlanıyor. Verdi'nin Attila operasıyla perdelerini açacak 33. Uluslararası Aspendos Opera ve Bale Festivali, Anna Karenina, Carmina Burana ve Kazakistan'dan Abay Adına Kazak Ulusal Opera ve Bale Tiyatrosunun sahneleyeceği Spartacus ile uluslararası bir sanat buluşmasına sahne olacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/aspendosta-festival-perdesi-33-kez-aciliyor-antik-tiyatronun-buyuleyici-atmosferinde-opera-ve-bale-heyecani-basliyor-43276939"
         },
         {
-          "title": "Cumhurbaşkanlığı atamaları Resmi Gazete'de",
-          "summary": "Cumhurbaşkanlığı tarafından yapılan atamalar hakkındaki karar Resmi Gazete'de yayımlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskanligi-atamalari-resmi-gazetede-43276532"
+          "title": "Kacır: Türkiye yapay zeka alanında öncü olacak",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin yapay zeka alanında öncü ülkelerden biri olacağını söyledi. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, 2026-2030 dönemi Türkiye Yapay Zeka Eylem Planı'na ilişkin genelgeyi değerlendirdiği yazılı bir açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/kacir-turkiye-yapay-zeka-alaninda-oncu-olacak-1737863"
         }
       ]
     },
     "dunya": {
-      "text": "Kolombiya'daki depremin yol açtığı maddi hasarın 9,5 milyar dolar olduğu tahmin ediliyor. İran’dan ‘fırtına öncesi’ hamleler! Sessiz plan deşifre oldu. ABD ateşkesi uzatmadı, İran'dan ''tam taarruz'' açıklaması geldi. Trump'tan İran açıklaması. \"Mutabakatı uzatmak istemiyoruz\". İran'la sona eren mutabakat devam edecek mi? Trump net konuştu: Anlaşma yok. Suriye Dışişleri Bakanı Şeybani, ABD'li temsilci Barrack ile İstanbul'da görüştü. Trump’ın damadı Kushner, Netanyahu ile bir araya geldi.",
+      "text": "Uydu görüntüleri ortaya çıkardı: NATO’nun sinirlerini test eden hamle! 1000 kilometrelik yeni tehdit. Suriye'de Esad'ım kuzeni hakkında karar çıktı. Avrupa tarihine geçecek. Uzay yürüyüşü yapacak ilk Fransız kadın. Pakistan Yüksek Mahkemesi'nden kritik İmran Han kararı. 2026'nın en çirkin köpeği seçildi. Kurtarılma hikayesi herkesi duygulandırıyor. IKBY'de korkutan yangın: Akaryakıt deposu alev aldı. Hastanelerde dikkat çeken temizlik raporu. Yalnızca yüzde 40'ı yeterli.",
       "items": [
         {
-          "title": "Kolombiya'daki depremin yol açtığı maddi hasarın 9,5 milyar dolar olduğu tahmin ediliyor",
-          "summary": "Kolombiya Cumhurbaşkanı Abelardo de la Espriella, 10 Ağustos'ta meydana gelen 7,4 büyüklüğündeki depremin ilk belirlemelere göre 9,5 milyar dolarlık maddi hasara yol açtığını bildirdi. Ulusa sesleniş konuşmasında depremin neden olduğu can ve mal kaybına değinen De la Espriella, Adli Tıp Enstitüsü (IML) tarafından paylaşılan 304 ölü sayısının aksine, felakette şu ana kadar 289 kişinin hayatını kaybettiğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/kolombiyadaki-depremin-yol-actigi-maddi-hasarin-95-milyar-dolar-oldugu-tahmin-ediliyor-1737781"
+          "title": "Uydu görüntüleri ortaya çıkardı: NATO’nun sinirlerini test eden hamle! 1000 kilometrelik yeni tehdit",
+          "summary": "Rusya’nın İHA kapasitesini artırmaya yönelik yeni hamlesi, NATO’da tedirginliğe yol açtı. Moskova’nın son dönemde attığı adımlar, savaşın sınırlarını aşabilecek yeni bir tehdidin habercisi olarak değerlendiriliyor. Özellikle Avrupa’yı yakından ilgilendiren gelişme, NATO’nun dikkatini yeniden Rusya’nın İHA gücüne çevirdi. Yeni nesil İHA’ların dikkat çeken özellikleri ise endişeyi daha da artırdı. Peki Putin neye hazırlanıyor, Moskova’nın yeni hamlesinin arkasında ne var?",
+          "source": "https://www.hurriyet.com.tr/dunya/uydu-goruntuleri-ortaya-cikardi-natonun-sinirlerini-test-eden-hamle-1000-kilometrelik-yeni-tehdit-43276728"
         },
         {
-          "title": "İran’dan ‘fırtına öncesi’ hamleler! Sessiz plan deşifre oldu",
-          "summary": "İran ile ABD arasındaki diplomasi trafiği sürerken Tahran’ın ateşkes döneminde attığı adımlar, perde arkasında bambaşka bir hazırlığın yürütüldüğünü düşündürüyor. Devrim Muhafızları’nın yeniden ağırlık kazanmasıyla bölgedeki dengeler hareketlenirken, gözler Tahran’ın atacağı bir sonraki adıma çevrildi. Peki İran neyin hazırlığını yapıyor?",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-firtina-oncesi-hamleler-sessiz-plan-desifre-oldu-43275925"
+          "title": "Suriye'de Esad'ım kuzeni hakkında karar çıktı",
+          "summary": "Suriye'de mahkeme devrik rejimin lideri Beşşar Esed'in kuzeni Vesim Esed hakkında idam kararı verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-esadim-kuzeni-hakkinda-karar-cikti-43276969"
         },
         {
-          "title": "ABD ateşkesi uzatmadı, İran'dan ''tam taarruz'' açıklaması geldi",
-          "summary": "İran, ABD ile barış görüşmelerinin tıkanmasının ardından “tam taarruz” askeri pozisyonuna geçeceğini açıkladı. ABD'nin geçici ateşkes anlaşmasının süresini uzatmayacağını açıklamasıyla, barış görüşmelerine yönelik ilerleme ve stratejik Hürmüz Boğazı'ndan petrol tankerlerinin yeniden geçişine ilişkin umutlar da sekteye uğradı. ABD ve İsrail'in 28 Şubat'ta İran'a yönelik saldırılarıyla başlayan savaşın uzaması riski arttı.",
-          "source": "https://www.ntv.com.tr/dunya/abd-ateskesi-uzatmadi-irandan-tam-taarruz-aciklamasi-geldi-1737776"
+          "title": "Avrupa tarihine geçecek. Uzay yürüyüşü yapacak ilk Fransız kadın",
+          "summary": "Fransız astronot Sophie Adenot, Uluslararası Uzay İstasyonu'nda (ISS) yürütülecek operasyon kapsamında uzay yürüyüşü yapacak ilk Fransız kadın astronot olmaya hazırlanıyor. Fransız astronot Sophie Adenot, Uluslararası Uzay İstasyonu'ndan (ISS) uzay boşluğuna adım atarak uzay yürüyüşü gerçekleştiren ilk Fransız kadın astronot olmaya hazırlanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-avrupa-tarihine-gececek-uzay-yuruyusu-yapacak-ilk-fransiz-kadin-1737862"
         },
         {
-          "title": "Trump'tan İran açıklaması. \"Mutabakatı uzatmak istemiyoruz\"",
-          "summary": "ABD Başkanı Donald Trump, İran'la sona eren mutabakatı uzatmak istemediklerini açıkladı İran ve ABD arasında imzalanan mutabakat zaptında belirlenen 60 günlük süre bugün doldu. ABD Başkanı Donald Trump, Oval Ofis'te düzenlediği basın toplantısında, İran'la bugün süresi dolan 60 günlük çerçeve anlaşmanın uzatılıp uzatılmayacağı sorusuna \"Hayır\" cevabını verdi.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-ummana-acik-tehdit-yolumuza-cikarlarsa-bombalariz-1737734"
+          "title": "Pakistan Yüksek Mahkemesi'nden kritik İmran Han kararı",
+          "summary": "Pakistan Yüksek Mahkemesi, 2023'ten bu yana cezaevinde bulunan eski Başbakan İmran Han'ın sağlık kontrolleri için hastaneye sevk edilmesine karar verdi. Pakistan Yüksek Mahkemesi, cezaevindeki eski Başbakan İmran Han'ın sağlık durumuna ilişkin avukatları tarafından yapılan başvuruyu karara bağladı. Mahkeme, 73 yaşındaki Han'ın kapsamlı sağlık kontrollerinden geçirilmek üzere hastaneye sevk edilmesine hükmetti.",
+          "source": "https://www.ntv.com.tr/dunya/pakistan-yuksek-mahkemesinden-kritik-imran-han-karari-1737856"
         },
         {
-          "title": "İran'la sona eren mutabakat devam edecek mi? Trump net konuştu: Anlaşma yok",
-          "summary": "ABD Başkanı Donald Trump, İran'la bugün sona eren 60 günlük çerçeve anlaşmayı uzatmak isteyip istemedikleri sorusuna \"Hayır\" yanıtını verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iranla-sona-eren-mutabakat-devam-edecek-mi-trump-net-konustu-anlasma-yok-43276445"
+          "title": "2026'nın en çirkin köpeği seçildi. Kurtarılma hikayesi herkesi duygulandırıyor",
+          "summary": "Dondurucu soğukta bir kutuda bulunan ve kurtarılan 6 yaşındaki pug Jinny Lu, dördüncü denemesinde “Dünyanın En Çirkin Köpeği” seçildi. Sevimli köpeğin kurtarılma hikayesi ise duygulandırdı. AMAÇ ZORLU HİKAYELERE DİKKAT ÇEKMEK Sarkık dili ve iri gözleriyle dikkat çeken 6 yaşındaki pug cinsi Jinny Lu, ABD'de düzenlenen “Dünyanın En Çirkin Köpeği Yarışması”nın bu yılki kazananı oldu. Geçen yıl yarışmayı ikinci sırada tamamlayan Jinny Lu, dört kez katıldığı organizasyonda sonunda birinciliğe ulaştı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-2026nin-en-cirkin-kopegi-secildi-kurtarilma-hikayesi-herkesi-duygulandiriyor-1737853"
         },
         {
-          "title": "Suriye Dışişleri Bakanı Şeybani, ABD'li temsilci Barrack ile İstanbul'da görüştü",
-          "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Thomas Barrack ile İstanbul'da bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriye-disisleri-bakani-seybani-abdli-temsilci-barrack-ile-istanbulda-gorustu-43276443"
+          "title": "IKBY'de korkutan yangın: Akaryakıt deposu alev aldı",
+          "summary": "Irak'ın Süleymaniye kentinde petrol ürünlerinin bulunduğu bir tesiste çıkan yangında yaklaşık 30 kişi yaralandı. Yangın, ekiplerin yaklaşık 4 saat süren müdahalesinin ardından tamamen kontrol altına alındı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ikbyde-korkutan-yangin-akaryakit-deposu-alev-aldi-43276743"
         },
         {
-          "title": "Trump’ın damadı Kushner, Netanyahu ile bir araya geldi",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump’ın damadı Jared Kushner ile bir araya geldi. Netanyahu’nun ofisinden yapılan açıklamaya göre görüşmede, Gazze Şeridi’nin silahsızlandırılması ve bölgedeki insani ihtiyaçlara ilişkin iki çalışma grubu kurulması konusunda anlaşmaya varıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumpin-damadi-kushner-netanyahu-ile-bir-araya-geldi-43276379"
+          "title": "Hastanelerde dikkat çeken temizlik raporu. Yalnızca yüzde 40'ı yeterli",
+          "summary": "Birleşmiş Milletler'in yeni raporuna göre dünya genelindeki sağlık tesislerinin yalnızca yüzde 40'ında temel standartlara uygun tuvalet bulunuyor. Birleşmiş Milletler (BM), dünya genelindeki sağlık tesislerinde hijyen ve sanitasyon koşullarına ilişkin çarpıcı veriler açıkladı. Dünya Sağlık Örgütü (DSÖ) ve UNICEF tarafından hazırlanan rapora göre, 2025 yılında dünya genelindeki sağlık tesislerinin yalnızca yüzde 40'ında hastaların ve çalışanların ihtiyaçlarını karşılayan temel sanitasyon hizmetleri bulunuyordu.",
+          "source": "https://www.ntv.com.tr/dunya/hastanelerde-dikkat-ceken-temizlik-raporu-yalnizca-yuzde-40i-yeterli-1737842"
         }
       ]
     },
@@ -124,48 +124,58 @@
       ]
     },
     "spor": {
-      "text": "Thorsten Fink'ten hakem yorumu!. Stanimir Stoilov: 'Hoşlanmadığım şeyler var!'. Beşiktaş, Dodi Lukébakio için vites yükseltti!. Beşiktaş, Dusan Vlahovic'i UEFA listesine ekledi!. Moussa Niakhate: 'Fenerbahçe devasa bir ekip!'. Paulo Fonseca: 'Fenerbahçe'nin üzerinde baskı olabilir!'. Galatasaray'da Lucas Torreira için İtalya'ya dönme iddiası: Görüşmeler başladı!.",
+      "text": "Fenerbahçe, Lyon karşısında! Maçın heyecanı Misli'de. Tarık Biberovic, NBA hedefini açıkladı | Kariyerinin en büyük sıçraması. Beşiktaş'tan Juventus'a teklif! Transfer kararı ortaya çıktı. Galatasaray'da Torreira kararı: Yeter ki kal!. Galatasaray'ın transferi geliyor! Tarih belli oldu. Lyon'dan sonrası Şampiyonlar Ligi! İşte muhtemel 11'ler. Beşiktaş'a yeni sponsor!.",
       "items": [
         {
-          "title": "Thorsten Fink'ten hakem yorumu!",
-          "summary": "Trendyol Süper Lig'in ilk haftasında Göztepe ile sahasında 3-3 berabere kalan Samsunspor'un Teknik Direktörü Thorsten Fink, son dakikada geri gelmeyi başardıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/thorsten-finkten-hakem-yorumu-43276521"
+          "title": "Fenerbahçe, Lyon karşısında! Maçın heyecanı Misli'de",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi play-off turu 1. maçında Lyon ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-lyon-karsisinda-macin-heyecani-mislide-43276950"
         },
         {
-          "title": "Stanimir Stoilov: 'Hoşlanmadığım şeyler var!'",
-          "summary": "Trendyol Süper Lig'in ilk haftasında Samsunspor ile deplasmanda 3-3 berabere kalan Göztepe'nin teknik direktörü Stanimir Kolev Stoilov, \"Bizim gibi sıkı savunma yapan bir takımın bir maçta 3 gol yemesi kesinlikle normal değil.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/stanimir-stoilov-hoslanmadigim-seyler-var-43276497"
+          "title": "Tarık Biberovic, NBA hedefini açıkladı | Kariyerinin en büyük sıçraması",
+          "summary": "Fenerbahçe'den Dallas Mavericks’e transfer olan milli basketbolcu ve Red Bull sporcusu Tarık Biberovic, NBA hedefini ve kariyerinin en büyük sıçramasını Spor Arena'ya aktardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tarik-biberovic-nba-hedefini-acikladi-kariyerinin-en-buyuk-sicramasi-43276935"
         },
         {
-          "title": "Beşiktaş, Dodi Lukébakio için vites yükseltti!",
-          "summary": "Beşiktaş'ın Benfica'nın Belçikalı sağ kanat oyuncusu Dodi Lukébakio'yu satın alma opsiyonuyla kiralamak için Portekiz ekibiyle görüşmelerini hızlandırdığı yazıldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-dodi-lukebakio-icin-vites-yukseltti-43276470"
+          "title": "Beşiktaş'tan Juventus'a teklif! Transfer kararı ortaya çıktı",
+          "summary": "Kadrosuna Trossard ve Vlahovic gibi yıldızları katan Beşiktaş'tan bir transfer bombası daha geliyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-juventusa-teklif-transfer-karari-ortaya-cikti-43276817"
         },
         {
-          "title": "Beşiktaş, Dusan Vlahovic'i UEFA listesine ekledi!",
-          "summary": "Beşiktaş, UEFA Avrupa Ligi play-off turunda karşılaşacağı Kauno Zalgiris maçları öncesi yeni transfer Dusan Vlahovic'in ismini UEFA listesine ekledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-dusan-vlahovici-uefa-listesine-ekledi-43276468"
+          "title": "Galatasaray'da Torreira kararı: Yeter ki kal!",
+          "summary": "Galatasaray yönetimi, takımdan ayrılmak istediği iddia edilen Lucas Torreira'ya ilişkin yeni bir karar aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-torreira-karari-yeter-ki-kal-43276787"
         },
         {
-          "title": "Moussa Niakhate: 'Fenerbahçe devasa bir ekip!'",
-          "summary": "Olympique Lyon’un Senegalli stoperi Moussa Niakhate, Fenerbahçe’nin çok kaliteli bir kadroya sahip olduğunu ve agresif oynamaları gerektiğini belirterek, \"Lyon son dönemlerde zorluklar yaşadı. 180 dakikamız kaldı Şampiyonlar Ligi'ne katılmak için. Lyon halkını, tüm taraftarlarımızı mutlu etmek istiyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/moussa-niakhate-fenerbahce-devasa-bir-ekip-43276459"
+          "title": "Galatasaray'ın transferi geliyor! Tarih belli oldu",
+          "summary": "Galatasaray, uzun süredir peşinde olduğu Batrakov transferini tamamladı. Sarı kırmızılıların yeni yıldızının İstanbul'a geliş tarihi belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-transferi-geliyor-tarih-belli-oldu-43276624"
         },
         {
-          "title": "Paulo Fonseca: 'Fenerbahçe'nin üzerinde baskı olabilir!'",
-          "summary": "Olympique Lyon’un Portekizli Teknik Direktörü Paulo Fonseca, Fenerbahçe maçı öncesinde yaptığı açıklamada, \"Takım hazır, oyuncuların motivasyonu yüksek. Önemli bir fırsatımız olduğunun farkındayız. Tabii ki tarih yazmak istiyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/paulo-fonseca-fenerbahcenin-uzerinde-baski-olabilir-43276456"
+          "title": "Lyon'dan sonrası Şampiyonlar Ligi! İşte muhtemel 11'ler",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi Play-Off ilk maçında bugün Kadıköy'de Fransız ekibi ile karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lyondan-sonrasi-sampiyonlar-ligi-43276531"
         },
         {
-          "title": "Galatasaray'da Lucas Torreira için İtalya'ya dönme iddiası: Görüşmeler başladı!",
-          "summary": "Galatasaray'da Lucas Torreira için sürpriz bir ayrılık iddiası ortaya atıldı. Uruguaylı yıldızın Serie A'ya dönüşünün gündemde olduğu yazıldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-lucas-torreira-icin-italyaya-donme-iddiasi-gorusmeler-basladi-43276440"
+          "title": "Beşiktaş'a yeni sponsor!",
+          "summary": "Tera Holding'in adı formalarda olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-yeni-sponsor-43276528"
         }
       ]
     },
     "teknoloji": {
-      "text": "Deniz platformlarının enerji ihtiyacına milli çözüm. STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da. ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep. Ebubekir Şahin: Futbolun dijital dönüşümüne katkı sunuyoruz. Apple, Çin ile ortaklaşa yapay zeka modeli geliştiriyor. Çin, gelişmiş yapay zekada günden günde ABD'ye yaklaşıyor. Microsoft Çin'den çekiliyor.",
+      "text": "ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor. Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler. Deniz platformlarının enerji ihtiyacına milli çözüm. STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da. ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep. Ebubekir Şahin: Futbolun dijital dönüşümüne katkı sunuyoruz. Apple, Çin ile ortaklaşa yapay zeka modeli geliştiriyor.",
       "items": [
+        {
+          "title": "ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor",
+          "summary": "ABD'li teknoloji şirketi, Avrupa'da okyanus dronları üretmek için NATO üyesi ülkelerle anlaştı. ABD merkezli Saildrone, deniz savunma ve gözetleme teknolojisine yönelik artan talebi karşılamak için Avrupa'daki kapasitesini genişletirken, Hollanda, Norveç ve Polonya'da insansız deniz araçları üretmek üzere anlaşmalar imzaladığını açıkladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/abd-yapimi-insansiz-deniz-araclari-avrupada-uretime-basliyor-1737867"
+        },
+        {
+          "title": "Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler",
+          "summary": "Katar merkezli Rasmal Ventures, Batı'daki pazar doygunluğuna karşı Türkiye'deki teknoloji girişimlerine yöneldiklerini açıkladı. Ventures şirketinin ortağı Soumaya Ben Beya Dridje, \"gerçekten olağanüstü yeteneklerin\" Türkiye'den geldiğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/katar-devi-turkiyeyi-secti-olaganustu-yetenekliler-43276947"
+        },
         {
           "title": "Deniz platformlarının enerji ihtiyacına milli çözüm",
           "summary": "ASPİLSAN Enerji, 20-23 Ağustos’ta Gölcük Tersanesi Komutanlığı’nda düzenlenecek TEKNOFEST Mavi Vatan’da deniz platformlarına yönelik geliştirdiği yerli batarya, enerji depolama sistemleri ve milli enerji teknolojilerini ziyaretçilerle buluşturacak.",
@@ -190,16 +200,6 @@
           "title": "Apple, Çin ile ortaklaşa yapay zeka modeli geliştiriyor",
           "summary": "Apple, Çin pazarına özel bir büyük dil modeli eğiterek geleneksel stratejisini terk edecek. Reuters haber ajansına konuşan kaynaklar, Apple'ın doğrudan Çin pazarına özel bir büyük dil modeli eğittiğini bildirdi. Söz konusu adım, iPhone üreticisinin ülkedeki yapay zeka özelliklerini çalıştırmak için yalnızca üçüncü taraf modellere güvenme stratejisinden bir sapma niteliği taşıyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-apple-cin-ile-ortaklasa-yapay-zeka-modeli-gelistiriyor-1737304"
-        },
-        {
-          "title": "Çin, gelişmiş yapay zekada günden günde ABD'ye yaklaşıyor",
-          "summary": "Çinli yapay zekâ girişimi Z.ai, açık kaynaklı GLM-5.3 modelinin yazılım açıklarını tespit etmede Anthropic'in kısıtlı erişimli Mythos 5 modeline yaklaştığını açıkladı. Çinli yapay zekâ girişimi Z.ai, bugün yaptığı açıklamada, açık kaynaklı GLM-5.3 modelinin yazılım açıklarını tespit etme testlerinde Anthropic'in erişimi kısıtlı Mythos 5 modeline yaklaştığını bildirdi. Bu gelişme, Batılı geliştiriciler arasında ilgi gören Çinli yapay zekâ girişiminin konumunu pekiştirdi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-cin-gelismis-yapay-zekada-gunden-gunde-abdye-yaklasiyor-1737334"
-        },
-        {
-          "title": "Microsoft Çin'den çekiliyor",
-          "summary": "Microsoft, Çin'deki yerli yazılım baskısı ve ABD'nin ihracat kısıtlamaları nedeniyle son beş yılda bu ülkedeki en az 15 şubesini kapatarak geri çekilme stratejisine yöneldi. Şirket kayıtları, Microsoft'un son beş yılda Çin'deki en az 15 şubesini ve ortak girişimini kapattığını gösterdi. Reuters'a konuşan kaynaklara göre teknoloji devi, ülkede bir geri çekilme stratejisi yürütüyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-microsoft-cinden-cekiliyor-1737207"
         }
       ]
     },
