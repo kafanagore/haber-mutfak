@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-19T10:00:03.761Z",
+  "generatedAt": "2026-08-19T16:00:03.499Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da barajların doluluk oranı yüzde 48,13'e geriledi: Uzmanından tasarruf uyarısı. \"Çapinler\" ve \"Sasunlu\" suç örgütlerine operasyon: 16 gözaltı. Çerçeve yasa için Takip ve Tespit Kurulu toplanıyor. Kurul'un ilk gündemi belli oldu. Giresun'dan yola çıktı... Otostopla ikinci kez Kabe'ye gidiyor. Eski bakan Arif Ahmet Denizolgun'un mezarı açıldı. 10 yıl sonra yeniden otopsi yapılacak. Antalya'da feci ölüm: Temizlemek istediği kamyonun yanında cansız bedeni bulundu. Kağıthane'de 4 katlı binanın çatısında yangın: Ekipler müdahale ediyor.",
+      "text": "Borsa günü yükselişle tamamladı. İstanbul Adalar'da peş peşe depremler. Cevdet Yılmaz: Türkiye, Kıbrıs Türkü’nün haklı davasını savunmayı sürdürecektir. Samsung büyük mağduriyet yarattı! TV kanalları neden ayarlanamıyor?. Suriye Cumhurbaşkanı Şara ile Enerji Bakanı Bayraktar görüştü. Bakan Ersoy, Birol Altınkılıç’ın cenazesine katıldı. İstanbul'da hissedilen deprem.",
       "items": [
         {
-          "title": "İstanbul'da barajların doluluk oranı yüzde 48,13'e geriledi: Uzmanından tasarruf uyarısı",
-          "summary": "İstanbul'a su sağlayan barajlardaki doluluk oranı, yağışların azalması, sıcak hava ve artan su tüketiminin etkisiyle yüzde 48,13’e düştü. Hava sıcaklıklarının mevsim normallerinde seyretmesi durumunda su seviyesinin daha da azalacağını belirten uzmanlar, su tasarrufu çağrısında bulunarak doluluk oranının yüzde 20'ye gerilemesi halinde kritik döneme girileceğini vurguladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-barajlarin-doluluk-orani-yuzde-48-13e-geriledi-uzmanindan-tasarruf-uyarisi-43278137"
+          "title": "Borsa günü yükselişle tamamladı",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,34 değer kazanarak 14.458,98 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43278649"
         },
         {
-          "title": "\"Çapinler\" ve \"Sasunlu\" suç örgütlerine operasyon: 16 gözaltı",
-          "summary": "Hatay'ın Reyhanlı ilçesinde \"Çapinler\" ve \"Sasunlu\" suç örgütlerine yönelik eş zamanlı operasyonda 16 şüpheli yakalandı. Hatay İl Emniyet Müdürlüğü ekiplerince yürütülen çalışmalarda, \"Çapinler\" ve \"Sasunlu\" olarak bilinen iki grubun, silahlı suç örgütü yapılanması içerisinde hareket ettikleri ve aralarındaki husumet nedeniyle çok sayıda silahlı olaya karıştıkları belirlendi.",
-          "source": "https://www.ntv.com.tr/turkiye/capinler-ve-sasunlu-suc-orgutlerine-operasyon-16-gozalti-1737997"
+          "title": "İstanbul Adalar'da peş peşe depremler",
+          "summary": "Marmara Denizi’nde birkaç saat arayla en büyüğü 3.2 olmak üzere peş peşe depremler meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı’nın (AFAD) verilerine göre İstanbul Adalar’da bugün birkaç saat arayla üç deprem meydana geldi. Bunların ilki saat 15.05’te 1.5 büyüklüğünde, 14.69 kilometre derinlikte oldu. Saat 16.08’deki depremin büyüklüğü ise kayıtlara 2.2 olarak geçti. Bu sarsıntının derinliği ise 9.51 kilometreydi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbul-adalarda-pes-pese-depremler-1738054"
         },
         {
-          "title": "Çerçeve yasa için Takip ve Tespit Kurulu toplanıyor. Kurul'un ilk gündemi belli oldu",
-          "summary": "Meclis’ten rekor destekle geçen 12 maddelik çerçeve yasanın yürürlüğe girmesinin ardından Takip ve Değerlendirme Kurulu hafta başında ilk kez toplanacak. Kurul'un ilk önemli gündemi belli oldu. Terörsüz Türkiye sürecine ilişkin hazırlanan ve kamuoyunda çerçeve yasa olarak bilinen Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun, Resmi Gazete'de yayımlandı.",
-          "source": "https://www.ntv.com.tr/turkiye/cerceve-yasa-icin-takip-ve-tespit-kurulu-toplaniyor-kurulun-ilk-gundemi-belli-oldu-1738004"
+          "title": "Cevdet Yılmaz: Türkiye, Kıbrıs Türkü’nün haklı davasını savunmayı sürdürecektir",
+          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, \"Anavatan ve Garantör Türkiye, Kıbrıs Türkü’nün haklı davasını her platformda savunmayı, refah ve huzurunun ebediyen korunması için tüm imkanlarını seferber etmeyi sürdürecektir \" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cevdet-yilmaz-turkiye-kibris-turkunun-hakli-davasini-savunmayi-surdurecektir-43278646"
         },
         {
-          "title": "Giresun'dan yola çıktı... Otostopla ikinci kez Kabe'ye gidiyor",
-          "summary": "Giresunlu seyyar pilavcı İbrahim Çakır (32), ikinci kez otostopla çıktığı Kabe yolculuğunda 10 günde Hatay'ın Reyhanlı ilçesindeki Cilvegözü Gümrük Kapısı'na ulaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/giresundan-yola-cikti-otostopla-ikinci-kez-kabeye-gidiyor-43278118"
+          "title": "Samsung büyük mağduriyet yarattı! TV kanalları neden ayarlanamıyor?",
+          "summary": "Türksat 3A’dan Türksat 4A’ya geçiş sürecinde, SamsungTV kullanıcısı bazı vatandaşlar yaşanan teknik sıkıntılar nedeniyle mağduriyet yaşıyor. Anten ve uydu yapılandırmasını eksiksiz gerçekleştiren çok sayıda Samsung TV sahibi izleyici, otomatik kanal taramasında \"0 kanal bulundu\" hatasıyla karşılaşıyor. Günlerdir devam eden sorun nedeniyle şirkete tepki gösteren vatandaşlar, sorunun bir an önce giderilmesini talep ediyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/samsung-buyuk-magduriyet-yaratti-tv-kanallari-neden-ayarlanamiyor-43278637"
         },
         {
-          "title": "Eski bakan Arif Ahmet Denizolgun'un mezarı açıldı. 10 yıl sonra yeniden otopsi yapılacak",
-          "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin inceleme yapılmak üzere feth-i kabir işlemi yapıldı. Alihan Kuriş Suç Örgütü'ne yönelik soruşturma devam ederken, soruşturmayla birlikte yeniden gündeme gelen eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüyle ilgili yeni bir gelişme yaşandı. Bakırköy Cumhuriyet Başsavcılığı'nın kararıyla, eski bakan Denizolgun'un mezarında feth-i kabir işlemi yapıldı. 10 YIL SONRA YENİDEN OTOPSİ YAPILACAK Feth-i kabir işlemi bugün gerçekleşti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-eski-bakan-arif-ahmet-denizolgunun-mezari-aciliyor-10-yil-sonra-yeniden-otopsi-yapilacak-1737960"
+          "title": "Suriye Cumhurbaşkanı Şara ile Enerji Bakanı Bayraktar görüştü",
+          "summary": "Suriye Cumhurbaşkanı Ahmed Şara, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ve beraberindeki heyeti kabul etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/suriye-cumhurbaskani-sara-ile-enerji-bakani-bayraktar-gorustu-43278635"
         },
         {
-          "title": "Antalya'da feci ölüm: Temizlemek istediği kamyonun yanında cansız bedeni bulundu",
-          "summary": "Antalya'nın Kepez ilçesinde, çalıştığı beton pompası kamyonunu temizleyeceğini söyleyip mesai sonrası iş yerinde kalan Ali Serttaş (31), sabah işe gelen arkadaşları tarafından aracın yanında yerde hareketsiz bulundu. Hayatını kaybettiği belirlenen Serttaş'ın cenazesi, Antalya Adli Tıp Kurumu morguna kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/antalyada-feci-olum-temizlemek-istedigi-kamyonun-yaninda-cansiz-bedeni-bulundu-43278095"
+          "title": "Bakan Ersoy, Birol Altınkılıç’ın cenazesine katıldı",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Kahve Dünyası’nın sahibi Birol Altınkılıç’ın cenaze törenine katıldı. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Kahve Dünyası’nın sahibi Birol Altınkılıç’ın İstanbul Levent Barbaros Hayrettin Paşa Camii’nde düzenlenen cenaze törenine katıldı. Bakan Ersoy, Altınkılıç’ı son yolculuğuna uğurlarken, merhumun ailesine, yakınlarına ve sevenlerine başsağlığı ve sabır dileğinde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-ersoy-birol-altinkilicin-cenazesine-katildi-1738053"
         },
         {
-          "title": "Kağıthane'de 4 katlı binanın çatısında yangın: Ekipler müdahale ediyor",
-          "summary": "Kağıthane Merkez Mahallesi’nde bir 4 katlı binanın çatısında yangın çıktı. Olay yerinde çok sayıda itfaiye ekibi sevk edildi. Ekiplerin müdahalesi sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kagithanede-4-katli-binanin-catisinda-yangin-ekipler-mudahale-ediyor-43278042"
+          "title": "İstanbul'da hissedilen deprem",
+          "summary": "Kandilli Rasathanesi verilerine göre merkez üssü Adalar olan 3.2 büyüklüğünde bir deprem meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/marmarada-hissedilen-deprem-43278621"
         }
       ]
     },
     "dunya": {
-      "text": "Bilim insanlarından kritik uyarı: Avrupa'da denizler hızla ısınıyor. Savaş Avrupa'ya mı sıçrayacak? İran'ın yeni hedef listesi. İngiltere'de yumurta paniği: Vaka sayısı 200'ü aştı... 1 ölü. Suriye'de patlamamış mühimmat infilak etti: 1 kişi hayatını kaybetti. İsrail basınında Türkiye alarmı! Sessizlik bozuldu: İhtiyacımız olan son şey savaş. Güney Kore ile ABD'den ortak askeri tatbikatı kısaltma kararı. Japonya şiddetli yağışların etkisine girdi: 13 kişi yaşamını yitirdi.",
+      "text": "Trump: İran ile müzakere olabilir. Yevgeni Khmara Ukrayna'nın yeni Savunma Bakanı olarak atandı. Hindistan'da otel yangını: 9 kişi hayatını kaybetti. Kolombiya'da depremin bilançosu ağırlaştı: Yaşamını yitirenlerin sayısı 312'ye yükseldi. Rusya'dan yeni sistemlerde hipersonik füze sürprizi. Rusya Devlet Başkanı Putin talimatı verdi: Özel program hazırlanacak. Trump'ın yeni İran planı ortaya çıktı: Savaş taktiği tamamen değişti.",
       "items": [
         {
-          "title": "Bilim insanlarından kritik uyarı: Avrupa'da denizler hızla ısınıyor",
-          "summary": "Bilim insanları, iklim değişikliği nedeniyle Avrupa'yı çevreleyen denizlerde sıcaklıkların hızla arttığını ve bazı bölgelerde deniz sıcaklıklarının ortalamanın 6 derece üzerine çıktığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bilim-insanlarindan-kritik-uyari-avrupada-denizler-hizla-isiniyor-43278136"
+          "title": "Trump: İran ile müzakere olabilir",
+          "summary": "ABD Başkanı Donald Trump, \"İran ile bir noktada müzakerelere dönebiliriz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-iran-ile-muzakere-olabilir-43278660"
         },
         {
-          "title": "Savaş Avrupa'ya mı sıçrayacak? İran'ın yeni hedef listesi",
-          "summary": "ABD ile İran arasındaki gerilimin dozu yükselirken çatışmanın Ortadoğu sınırlarını aşabileceği belirtiliyor. Tahran, ABD'nin Avrupa'daki askeri hedeflerini vurmayı bir seçenek olarak değerlendiriyor. ABD gerilimi tırmandırırsa İran Avrupa'daki Amerikan hedeflerini vurmayı değerlendiriyor. İran'ın potansiyel hedefleri arasında Bulgaristan'daki Bezmer Hava Üssü ve Kıbrıs'taki İngiliz Akrotiri Hava Üssü'nün de bulunduğu belirtiliyor.",
-          "source": "https://www.ntv.com.tr/dunya/savas-avrupaya-mi-sicrayacak-iranin-yeni-hedef-listesi-1738005"
+          "title": "Yevgeni Khmara Ukrayna'nın yeni Savunma Bakanı olarak atandı",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski'nin Savunma Bakanı pozisyonuna aday gösterdiği Yevgeni Khmara parlamentodan onay aldı. Khmara'nın Ukrayna Savunma Bakanı olarak atanması, selefi Mykhailo Fedorov'u destekleyenler tarafından başkent Kiev'de protesto edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yevgeni-khmara-ukraynanin-yeni-savunma-bakani-olarak-atandi-43278617"
         },
         {
-          "title": "İngiltere'de yumurta paniği: Vaka sayısı 200'ü aştı... 1 ölü",
-          "summary": "İngiltere'de salmonella salgınında vaka sayısı 207'ye yükselirken 1 kişi hayatını kaybetti. Yetkililer, salgının kaynağının ithal edilen yumurtalar olabileceğine işaret etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-yumurta-panigi-vaka-sayisi-200u-asti-1-olu-43278110"
+          "title": "Hindistan'da otel yangını: 9 kişi hayatını kaybetti",
+          "summary": "Hindistan'da Batı Bengal eyaletinin başkenti Kalküta'da bir otel alevler içinde kaldı. Yangında 5'i Bangladeş vatandaşı 9 kişinin yaşamını yitirdiği, çok sayıda kişinin yaralandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/hindistanda-otel-yangini-9-kisi-hayatini-kaybetti-43278596"
         },
         {
-          "title": "Suriye'de patlamamış mühimmat infilak etti: 1 kişi hayatını kaybetti",
-          "summary": "Suriye'nin güneyindeki Kuneytra ili kırsalında devrik rejim döneminden kalan mühimmatın infilak etmesi sonucu 1 kişi yaşamını yitirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriyede-patlamamis-muhimmat-infilak-etti-1-kisi-hayatini-kaybetti-43278125"
+          "title": "Kolombiya'da depremin bilançosu ağırlaştı: Yaşamını yitirenlerin sayısı 312'ye yükseldi",
+          "summary": "Kolombiya'da 10 Ağustos'ta meydana gelen 7.4 büyüklüğündeki depremde hayatını kaybedenlerin sayısının 312'ye çıktığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-depremin-bilancosu-agirlasti-yasamini-yitirenlerin-sayisi-312ye-yukseldi-43278584"
         },
         {
-          "title": "İsrail basınında Türkiye alarmı! Sessizlik bozuldu: İhtiyacımız olan son şey savaş",
-          "summary": "İsrail basını, Suriye'deki gelişmelerin ardından Türkiye ile yaşanabilecek olası bir çatışmanın risklerine dikkat çekti. İsrailli yetkililer, Türkiye'nin bölgedeki gücüne dikkat çekerken “İhtiyacımız olan son şey Türk ordusuyla açık bir savaş” ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-basininda-turkiye-alarmi-sessizlik-bozuldu-ihtiyacimiz-olan-son-sey-savas-43277980"
+          "title": "Rusya'dan yeni sistemlerde hipersonik füze sürprizi",
+          "summary": "Rusya'nın yeni geliştirdiği Pantsir hava savunma sistemlerinin hipersonik füze kullanabildiğini kaydedildi. Rus devlet savunma sanayisi şirketi Rostec, hipersonik füzelerin Pantsir'e entegrasyonu için gerekli testlerin tamamlandığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-yeni-sistemlerde-hipersonik-fuze-surprizi-43278529"
         },
         {
-          "title": "Güney Kore ile ABD'den ortak askeri tatbikatı kısaltma kararı",
-          "summary": "ABD ve Güney Kore, Başkan Donald Trump'ın talebi nedeniyle bu hafta başlayan yıllık ortak askeri tatbikatın süresini ve kapsamını daralttı. Karara ilişkin ayrıntıların iki ülke orduları arasında yapılacak görüşmelerle belirleneceği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/guney-kore-ile-abdden-ortak-askeri-tatbikati-kisaltma-karari-43278088"
+          "title": "Rusya Devlet Başkanı Putin talimatı verdi: Özel program hazırlanacak",
+          "summary": "Ukrayna saldırılarında zarar gören Rusya'nın lojistik ve depolama altyapısı Kremlin'i alarma geçirdi. Rusya Devlet Başkanı Vladimir Putin, altyapının yeniden inşa edilmesi için hükümetten özel bir program hazırlanmasını istedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusya-devlet-baskani-putin-talimati-verdi-ozel-program-hazirlanacak-43278503"
         },
         {
-          "title": "Japonya şiddetli yağışların etkisine girdi: 13 kişi yaşamını yitirdi",
-          "summary": "Japonya'nın Chiba eyaletinde şiddetli yağışların yol açtığı su taşkınlarında 13 kişinin hayatını kaybettiği, 1 kişinin ise kaybolduğu belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/japonya-siddetli-yagislarin-etkisine-girdi-13-kisi-yasamini-yitirdi-43278067"
+          "title": "Trump'ın yeni İran planı ortaya çıktı: Savaş taktiği tamamen değişti",
+          "summary": "ABD Başkanı Donald Trump'ın, İran'la müzakereleri durdurma talimatı vererek yeni bir stratejiye yöneldiği öne sürüldü. ABD medyasındaki haberde, Washington yönetiminin, Tahran'ı zamana yayılan ekonomik ve askeri baskıyla \"aşamalı boğmayı\" hedeflediği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumpin-yeni-iran-plani-ortaya-cikti-savas-taktigi-tamamen-degisti-43278454"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "2026 CEV Kadınlar Avrupa Voleybol Şampiyonası'na dev sponsor desteği. Fenerbahçe-Lyon maçı Fransa’da manşetlerde! ‘Greenwood’un dehası’. Sürprizleri Birer Birer Buldu 100 TL’ye 135.209 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…. İstanbul'da 8 koşuluk heyecan! İşte Misli'den günün altılı analizi. Celtic kaybetmiyor; NEC Nijmegen’in maçları “KG Var” bitiyor... İşte Misli’den Günün Tüyoları!. Fenerbahçe-Lyon maçını Nihat Kahveci değerlendirdi: Kerem sahada yok! Takım, Asensio diye bağırdı. Beyoğlu’nda maç sonrası atılan havai fişek eve düştü: Ressamın 20 yıllık tabloları yandı.",
+      "text": "Fenerbahçe'de Omar Fayed, Frosinone'ye transfer oldu!. Fenerbahçe, Musaba'yı Norwich'e kiraladı. Acun Ilıcalı locasını geri aldı! Aziz Yıldırım sözleşmesini feshetmişti. Lukaku'dan kariyer ve Fenerbahçe itirafı: Olağanüstüydü!. Galatasaray’da Torreira için flaş iddia! Fiorentina ile prensipte anlaştı. Vincenzo Italiano’dan transfer açıklaması ve Vlahovic müjdesi! ‘Kadroda olacak’. Fenerbahçe ayrılığı resmen açıkladı! 'Yolun açık olsun'.",
       "items": [
         {
-          "title": "2026 CEV Kadınlar Avrupa Voleybol Şampiyonası'na dev sponsor desteği",
-          "summary": "Mastercard, Türkiye'nin Çekya, İsveç ve Azerbaycan ile ev sahipliği yapacağı 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası'na \"Presenting Sponsor\" olarak destek verecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/2026-cev-kadinlar-avrupa-voleybol-sampiyonasina-dev-sponsor-destegi-43278080"
+          "title": "Fenerbahçe'de Omar Fayed, Frosinone'ye transfer oldu!",
+          "summary": "Fenerbahçe, Omar Fayed’in İtalya Serie A ekibi Frosinone'ye transfer olduğunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-omar-fayed-frosinoneye-transfer-oldu-43278653"
         },
         {
-          "title": "Fenerbahçe-Lyon maçı Fransa’da manşetlerde! ‘Greenwood’un dehası’",
-          "summary": "Şampiyonlar Ligi play-off’unda oynanan 1-1’lik mücadele, Fransız basınında geniş yer buldu. Greenwood’un golü ve Kadıköy’deki atmosfer öne çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-lyon-maci-fransada-mansetlerde-greenwoodun-dehasi-43277984"
+          "title": "Fenerbahçe, Musaba'yı Norwich'e kiraladı",
+          "summary": "Fenerbahçe, Anthony Musaba’nın İngiltere Championship ekiplerinden Norwich City’e kiralandığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ayriligi-duyurdu-43278643"
         },
         {
-          "title": "Sürprizleri Birer Birer Buldu 100 TL’ye 135.209 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Kocaeli 2. 6’lı Ganyan koşularında bir Misli üyesi, 100 TL’ye hazırladığı kuponla 135.209 TL kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/surprizleri-birer-birer-buldu-100-tlye-135-209-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43277977"
+          "title": "Acun Ilıcalı locasını geri aldı! Aziz Yıldırım sözleşmesini feshetmişti",
+          "summary": "Fenerbahçe eski Asbaşkanı Acun Ilıcalı, Aziz Yıldırım'ın locasını feshetmesinin ardından hukuki yollara başvumuştu. Ilıcalı, davayı kazandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicali-locasini-geri-aldi-aziz-yildirim-sozlesmesini-feshetmisti-43278610"
         },
         {
-          "title": "İstanbul'da 8 koşuluk heyecan! İşte Misli'den günün altılı analizi",
-          "summary": "İstanbul Veliefendi Hipodromu, bugün yarışseverleri 8 koşudan oluşan heyecan dolu bir programla buluşturuyor. Günün programında, birbirine denk güçte safkanların mücadele edeceği zorlu handikap koşularının yanı sıra, kalite isimlerin sahne alacağı önemli mücadeleler de dikkat çekiyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-8-kosuluk-heyecan-iste-misliden-gunun-altili-analizi-43277969"
+          "title": "Lukaku'dan kariyer ve Fenerbahçe itirafı: Olağanüstüydü!",
+          "summary": "Fenerbahçe'nin Belkikalı golcüsü Romelu Lukaku, Napoli'den ayrılığına ve Fenerbahçe'ye transferine dair konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lukakudan-kariyer-ve-fenerbahce-itirafi-olaganustuydu-43278541"
         },
         {
-          "title": "Celtic kaybetmiyor; NEC Nijmegen’in maçları “KG Var” bitiyor... İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/celtic-kaybetmiyor-nec-nijmegenin-maclari-kg-var-bitiyor-iste-misliden-gunun-tuyolari-43277935"
+          "title": "Galatasaray’da Torreira için flaş iddia! Fiorentina ile prensipte anlaştı",
+          "summary": "Galatasaray’ın Uruguaylı yıldızı Lucas Torreira için İtalya’dan dikkat çeken bir transfer iddiası geldi. Fiorentina’nın deneyimli orta saha oyuncusuyla prensip anlaşmasına vardığı öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-torreira-icin-flas-iddia-fiorentina-ile-prensipte-anlasti-43278424"
         },
         {
-          "title": "Fenerbahçe-Lyon maçını Nihat Kahveci değerlendirdi: Kerem sahada yok! Takım, Asensio diye bağırdı",
-          "summary": "UEFA Şampiyonlar Ligi play-off turu 1. maçında Lyon ile 1-1 kalan temsilcimiz Fenerbahçe'yi, Nihat Kahveci yorumladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-lyon-macini-nihat-kahveci-degerlendirdi-kerem-sahada-yok-takim-asensio-diye-bagirdi-43277908"
+          "title": "Vincenzo Italiano’dan transfer açıklaması ve Vlahovic müjdesi! ‘Kadroda olacak’",
+          "summary": "Beşiktaş teknik direktörü Vincenzo Italiano, Kauno Zalgiris maçı öncesi basın toplantısında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italianodan-transfer-aciklamasi-ve-vlahovic-mujdesi-kadroda-olacak-43278391"
         },
         {
-          "title": "Beyoğlu’nda maç sonrası atılan havai fişek eve düştü: Ressamın 20 yıllık tabloları yandı",
-          "summary": "Beyoğlu’nda Kasımpaşa-Trabzonspor maçının ardından taraftarlarca atıldığı iddia edilen havai fişek, 5 katlı binanın 4’üncü katındaki daireye düşerek yangın çıkardı. Yeni sergi hazırlığında olan ressam ve müzisyen Murat Melih Özen’in (47) yaklaşık 20 yıllık profesyonel sanat hayatı boyunca biriktirdiği tüm tabloları, resim malzemeleri ve müzik ekipmanları küle döndü.",
-          "source": "https://www.hurriyet.com.tr/gundem/beyoglunda-mac-sonrasi-atilan-havai-fisek-eve-dustu-ressamin-20-yillik-tablolari-yandi-43277839"
+          "title": "Fenerbahçe ayrılığı resmen açıkladı! 'Yolun açık olsun'",
+          "summary": "Fenerbahçe, Sidki Cherif'in Coventry City kulübüne transfer olduğunu resmen duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ayriligi-resmen-acikladi-yolun-acik-olsun-43278303"
         }
       ]
     },
     "teknoloji": {
-      "text": "eSIM kartlarındaki talep artışı, mobil operatörler için tehdit oluşturuyor. Çin insansı robotları iş gücüne dahil edecek. Yapay zeka sisteminin Hugging Face’e sızması sonrası OpenAI frene bastı. OpenAI, ChatGPT'nin gençlere yönelik yeni sürümünü duyurdu. HackAntarktika için başvurular başladı. ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor. Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler.",
+      "text": "OpenAI'dan Avrupalı kullanıcıları sinirlendirecek hamle. eSIM kartlarındaki talep artışı, mobil operatörler için tehdit oluşturuyor. Çin insansı robotları iş gücüne dahil edecek. Yapay zeka sisteminin Hugging Face’e sızması sonrası OpenAI frene bastı. OpenAI, ChatGPT'nin gençlere yönelik yeni sürümünü duyurdu. HackAntarktika için başvurular başladı. ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor.",
       "items": [
+        {
+          "title": "OpenAI'dan Avrupalı kullanıcıları sinirlendirecek hamle",
+          "summary": "Gelecek haftadan itibaren Avrupa genelindeki ChatGPT'de reklam gösterileceği duyuruldu. ChatGPT'nin ücretsiz ve düşük maliyetli yapay zekâ ajanlarını kullanan Avrupalı ​​kullanıcılar, geliştiricisi OpenAI'nin modellerinden daha fazla gelir elde etme planını genişletmesiyle birlikte 24 Ağustos'tan itibaren reklam görmeye başlayacaklar.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-openaidan-avrupali-kullanicilari-sinirlendirecek-hamle-1738047"
+        },
         {
           "title": "eSIM kartlarındaki talep artışı, mobil operatörler için tehdit oluşturuyor",
           "summary": "Yurtdışı seyahatçilerinin, mobil operatörlerin geleneksel veri dolaşım paketlerine kıyasla daha ucuz alternatifleri tercih etmesiyle, eSIM kullanımının bu yıl üçte bir oranında artması bekleniyor. Seyahat amaçlı kullanılan eSIM kartlarına olan talebin bu yıl yaklaşık üçte bir oranında artacağı öngörülüyor. Uluslararası seyahat edenlerin veri dolaşım paketlerinden daha uygun fiyatlı alternatiflere yönelmesi, geleneksel mobil operatörlerin daha fazla müşteri kaybetmesine yol açıyor.",
@@ -188,18 +193,13 @@
         },
         {
           "title": "HackAntarktika için başvurular başladı",
-          "summary": "Halkbank ile TÜBİTAK KARE, kutup araştırmalarına katkı sağlamayı hedefleyen girişimcileri Antarktika Hackathonu’nda bir araya getiriyor. Eleme süreçleri sonucu belirlenecek girişimci, 11. Ulusal Antarktika Bilim Seferi’ne katılma ve projesini Antarktika’nın zorlu coğrafyasında test etme fırsatı bulacak. Hackathon’a katılma fırsatı yakalamak için son başvuru tarihi 13 Eylül.",
+          "summary": "Halkbank ile TÜBİTAK KARE, kutup araştırmalarına katkı sağlamayı hedefleyen girişimcileri Antarktika Hackathonu’nda bir araya getiriyor. Eleme süreçleri sonucu belirlenecek girişimci, 11. Ulusal Antarktika Bilim Seferi’ne katılma ve projesini Antarktika’nın zorlu coğrafyasında test etme fırsatı bulacak. HackAntarktika Başvuru Tarihi Ne Zaman? Hackathon’a katılma fırsatı yakalamak için son başvuru tarihi 13 Eylül.",
           "source": "https://www.hurriyet.com.tr/teknoloji/hackantarktika-icin-basvurular-basladi-43277161"
         },
         {
           "title": "ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor",
           "summary": "ABD'li teknoloji şirketi, Avrupa'da okyanus dronları üretmek için NATO üyesi ülkelerle anlaştı. ABD merkezli Saildrone, deniz savunma ve gözetleme teknolojisine yönelik artan talebi karşılamak için Avrupa'daki kapasitesini genişletirken, Hollanda, Norveç ve Polonya'da insansız deniz araçları üretmek üzere anlaşmalar imzaladığını açıkladı.",
           "source": "https://www.ntv.com.tr/teknoloji/abd-yapimi-insansiz-deniz-araclari-avrupada-uretime-basliyor-1737867"
-        },
-        {
-          "title": "Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler",
-          "summary": "Katar merkezli Rasmal Ventures, Batı'daki pazar doygunluğuna karşı Türkiye'deki teknoloji girişimlerine yöneldiklerini açıkladı. Ventures şirketinin ortağı Soumaya Ben Beya Dridje, \"gerçekten olağanüstü yeteneklerin\" Türkiye'den geldiğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/katar-devi-turkiyeyi-secti-olaganustu-yetenekliler-43276947"
         }
       ]
     },
