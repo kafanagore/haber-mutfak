@@ -1,55 +1,55 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-18T16:00:03.728Z",
+  "generatedAt": "2026-08-19T04:00:03.808Z",
   "categories": {
     "gundem": {
-      "text": "Muhittin Böcek ek ifade verdi. \"Adaylık için 15 milyon euro istedi\" iddiası. Güllü'nün ölümüyle ilgili iddianame kabul edildi. Ağırlaştırılmış müebbetle yargılanacak. Muğla'da yol kenarında erkek cesedi bulundu. UltrAslan tribün lideri Sebahattin Şirin’in uyuşturucu testi pozitif çıktı. Yeni Parti Sözcüsü Emre: Üye sayımız 300 binin üzerine çıktı. \"Bir gün camdan atıp öldüreceğim...\" Güllü'nün kızı Tuğyan, ağırlaştırılmış müebbetle yargılanacak. Düzce'de boğulma tehlikesi geçiren çocuğu babası kurtardı: Duran kalbi masajla çalıştırıldı.",
+      "text": "Alparslan Kuytul'un evinde arama yapıyor. Otopark krizi! Kural ilçe ilçe neden değişiyor? Hesaplama kafaları karıştırdı. Niğde'de iki otomobil kafa kafaya çarpıştı: 1'i ağır, 7 yaralı. İletişim Başkanlığı: Türkiye, Suriye'nin istikrarsızlaştırılmasına asla izin vermeyecektir. Sakarya'da hafif ticari araç ile otomobil çarpıştı: 7 yaralı. Yeni Parti vekili Melih Meriç'e bıçaklı saldırı. Saldırgan eski CHP'li ilçe başkanı çıktı. Patronuna ''yoruldum'' diye mail attı: Yargıtay istifa saydı.",
       "items": [
         {
-          "title": "Muhittin Böcek ek ifade verdi. \"Adaylık için 15 milyon euro istedi\" iddiası",
-          "summary": "Muhittin Böcek, yolsuzluk soruşturmasında ek ifade verdi. Böcek, belediye başkanı adayı gösterilmesi için Ekrem İmamoğlu'na 5 milyon avro gönderdiğini iddia etti. Antalya Cumhuriyet Başsavcılığının yürüttüğü yolsuzluk soruşturması kapsamında tutuklu bulunan Muhittin Böcek, cezaevinden dilekçe göndererek yeni ifade verme talebinde bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/muhittin-bocek-ek-ifade-verdi-adaylik-icin-15-milyon-euro-istedi-iddiasi-1737919"
+          "title": "Alparslan Kuytul'un evinde arama yapıyor",
+          "summary": "Adana'da Furkan Vakfı Kurucu Başkanı Alparslan Kuytul'un evinde polis ekipleri tarafından arama yapılıyor. Evinin önüne çok sayıda polis ekibi sevk edilirken, evde arama yapıldığı öğrenildi. Kuytul'un eşi Semra Kuytul, sosyal medya hesabından yaptığı paylaşımda polis ekiplerinin evlerine geldiğini duyurdu. Furkan Vakfı da çok sayıda kişinin evine operasyon düzenlendiğini açıkladı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-alparslan-kuytulun-evinde-arama-yapiyor-1737946"
         },
         {
-          "title": "Güllü'nün ölümüyle ilgili iddianame kabul edildi. Ağırlaştırılmış müebbetle yargılanacak",
-          "summary": "Güllü’nün ölümüne ilişkin hazırlanan iddianame kabul edildi. Davanın ilk duruşması 1 Ekim’de yapılacak. Kızı Tuğyan Ülkem Gülter ağırlaştırılmış müebbetle yargılanacak. Kamuoyunda \"Güllü\" ismiyle tanınan sanatçı Gül Tut'un geçen yıl Yalova'nın Çınarcık ilçesindeki evinin penceresinden düşerek hayatını kaybetmesine ilişkin hazırlanan iddianame kabul edildi. Yalova 1. Ağır Ceza Mahkemesinde görülecek davada, ilk duruşma 1 Ekim’de yapılacak.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-gullunun-olumuyle-ilgili-iddianame-kabul-edildi-ilk-durusma-1-ekimde-1737915"
+          "title": "Otopark krizi! Kural ilçe ilçe neden değişiyor? Hesaplama kafaları karıştırdı",
+          "summary": "İstanbul’da artan araç sayısı, sokaklardaki park sorununu her geçen gün daha da büyütüyor. Ancak yeni binalarda ‘otoparklı’ ibaresiyle karşılaşılan bazı durumlar, düşündüğünüzden çok daha farklı olabilir. Peki bir binada otopark bulunması, gerçekten her araç için yer olduğu anlamına mı geliyor? Mevzuattaki dikkat çeken hesaplama sistemi ise daire sayısı ile otopark sayısı arasındaki ezberi bozuyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/otopark-krizi-kural-ilce-ilce-neden-degisiyor-hesaplama-kafalari-karistirdi-43275650"
         },
         {
-          "title": "Muğla'da yol kenarında erkek cesedi bulundu",
-          "summary": "MUĞLA'nın Milas ilçesinde, Halil Karcıoğlu (58) yol kenarında ölü bulundu. Bir aracın çarptığı tahmin edilen Karcıoğlu'nun ölümüyle ilgili jandarma çalışma başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/muglada-yol-kenarinda-erkek-cesedi-bulundu-43277430"
+          "title": "Niğde'de iki otomobil kafa kafaya çarpıştı: 1'i ağır, 7 yaralı",
+          "summary": "Niğde-Adana karayolunda iki otomobilin kafa kafaya çarpışması sonucu meydana gelen trafik kazasında 7 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/nigdede-iki-otomobil-kafa-kafaya-carpisti-1i-agir-7-yarali-43277693"
         },
         {
-          "title": "UltrAslan tribün lideri Sebahattin Şirin’in uyuşturucu testi pozitif çıktı",
-          "summary": "Ultraslan’ın tribün lideri Sebahattin Şirin'in uyuşturucu testi pozitif çıktı. İstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Soruşturma Bürosu tarafından yürütülen soruşturma kapsamında 11 Ağustos günü ‘ev hapsi’ ve ‘yurt dışı çıkış yasağı’ şeklinde adli kontrol şartıyla serbest bırakılan Galatasaray’ın taraftar gruplarından Ultraslan’ın tribün lideri Sebahattin Şirin (Muzaffer)’in uyuşturucu testi sonucu pozitif çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ultraslan-tribun-lideri-sebahattin-sirinin-uyusturucu-testi-pozitif-cikti-1737917"
+          "title": "İletişim Başkanlığı: Türkiye, Suriye'nin istikrarsızlaştırılmasına asla izin vermeyecektir",
+          "summary": "İletişim Başkanlığı, sosyal medya hesabından, \"Türkiye, Suriye'nin istikrarsızlaştırılmasına asla izin vermeyecektir\" açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskanligi-turkiye-suriyenin-istikrarsizlastirilmasina-asla-izin-vermeyecektir-43277692"
         },
         {
-          "title": "Yeni Parti Sözcüsü Emre: Üye sayımız 300 binin üzerine çıktı",
-          "summary": "YENİ Parti Sözcüsü Zeynel Emre, partisinin üye sayısına ilişkin, \"Şu ana kadar örgütlerin, ilçelere kısa bir süre içerisinde dağıttığımız ve dönüş yapılanlarla birlikte üye sayımızın 300 binin üzerine çıktığını görüyoruz. Siyasal yaşamımızda bu ilk ve rekor; hiçbir zaman bu kadar hızlı örgütlenen ve büyüme eğilimi gösteren hiçbir siyasi parti olmadı\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/yeni-parti-sozcusu-emre-uye-sayimiz-300-binin-uzerine-cikti-43277418"
+          "title": "Sakarya'da hafif ticari araç ile otomobil çarpıştı: 7 yaralı",
+          "summary": "Sakarya’nın Akyazı ilçesinde D-100 kara yolunda hafif ticari araç ile otomobilin çarpıştığı kazada 2’si ağır 7 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sakaryada-hafif-ticari-arac-ile-otomobil-carpisti-7-yarali-43277690"
         },
         {
-          "title": "\"Bir gün camdan atıp öldüreceğim...\" Güllü'nün kızı Tuğyan, ağırlaştırılmış müebbetle yargılanacak",
-          "summary": "Yalova'da 6'ncı kattaki evinin penceresinden düşen şarkıcı Güllü'nün (52) ölümüne ilişkin hazırlanan iddianame kabul edildi. Hakkında ,'Tasarlayarak Üst Soya Karşı Kasten Öldürme' suçundan, ağırlaştırılmış hapis cezası istenen sanatçının kızı tutuklu Tuğyan Ülkem Gülter (28) ile 'Yalan tanıklık' suçundan 4 yıla kadar hapsi talep edilen arkadaşı Sultan Nur Ulu'nun (25) yargılanmasına ağır ceza mahkemesinde başlanacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/gullunun-kizi-tugyan-agirlastirilmis-muebbetle-yargilanacak-43277409"
+          "title": "Yeni Parti vekili Melih Meriç'e bıçaklı saldırı. Saldırgan eski CHP'li ilçe başkanı çıktı",
+          "summary": "Yeni Parti Gaziantep Milletvekili Melih Meriç bıçaklı saldırıya uğrayarak yaralandı. Saldırgan dahil 5 kişi gözaltına alındı. Yeni Parti Gaziantep Milletvekili Melih Meriç, sokakta bıçaklı saldırıya uğradı. Edinilen ilk bilgilere göre Meriç'in eski CHP Oğuzeli İlçe Başkanı Seydi Ahmet Keleş tarafından bıçaklandığı öğrenildi. Melih Meriç yaralanırken, ihbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Meriç, hastaneye kaldırılarak tedaviye alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/yeni-parti-gaziantep-milletvekili-melih-merice-bicakli-saldiri-1737921"
         },
         {
-          "title": "Düzce'de boğulma tehlikesi geçiren çocuğu babası kurtardı: Duran kalbi masajla çalıştırıldı",
-          "summary": "Düzce'de serinlemek için girdiği belediye su regülatörlerinin bulunduğu alanda gözden kaybolan 14 yaşındaki V.D.Y., babası tarafından sudan çıkarıldı. Yaklaşık 15 dakika su altında kalan ve duran kalbi 20 dakika süren kalp masajıyla yeniden çalıştırılan çocuğun hastanedeki tedavisi sürerken, durumunun ağır olduğu öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/duzcede-bogulma-tehlikesi-geciren-cocugu-babasi-kurtardi-duran-kalbi-masajla-calistirildi-43277379"
+          "title": "Patronuna ''yoruldum'' diye mail attı: Yargıtay istifa saydı",
+          "summary": "Patronuna ''manen yıprandım, yoruldum'' diye mail atan çalışanın sözleri istifa sayıldı. Yargıtay, işçinin kıdem ve ihbar tazminatı talebini reddetti. Bir firmada yaklaşık üç yıl çalışan yönetici ile işveren arasındaki “sitem maili” uyuşmazlığı Yargıtay'a taşındı. İddiaya göre çalışan, şirket sahibine gönderdiği e-postada son bir yıldır mobbinge maruz kaldığını ve priminin düşürüldüğünü belirterek “manen yıprandığını” ve “yorulduğunu” söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/patronuna-yoruldum-diye-mail-atti-yargitay-istifa-saydi-1737938"
         }
       ]
     },
     "dunya": {
-      "text": "İspanya'nın turistik kentinde peş peşe depremler. Türkiye'den İsrail'e Ebu Zuhur tepkisi. İsrail’in Ebu Zuhur Askeri Hava Üssü’ne saldırısına kınama. Trump duyurdu. İran'la müzakere yok, deniz ablukası sürüyor. İsrail'den İdlib'deki üsse saldırı. Tayvan'da zehirli yağ skandalı, üretici firmalar davalık oldu. Yüzyılın tutulması geliyor. Gündüz tam 6 dakika boyunca geceye dönecek.",
+      "text": "Trump, Kanada'ya uygulanması planlanan yüzde 50'lik tarifeyi 3 günlüğüne askıya aldı. Türkiye'den İsrail'e Ebu Zuhur tepkisi. Trump, Kim Jong Un ile yeniden görüşmek istiyor. Suriye'de gaz sevkiyatı sağlayan boru hattında patlama meydana geldi. BAE, İran ile tüm ticari faaliyetleri durdurdu. İran, iki Fransız diplomatı \"istenmeyen kişi\" ilan etti. İsrail’den Gazze’de bir kafeye saldırdı: 6 ölü, 12 yaralı.",
       "items": [
         {
-          "title": "İspanya'nın turistik kentinde peş peşe depremler",
-          "summary": "İspanya'nın Granada kentinde, peş peşe meydana gelen depremlerin ardından 4.8 büyüklüğünde deprem meydana geldi. Sarsıntıda 3 kişi yaralanırken, bazı oteller ve Elhamra Sarayı'nın bölümleri tedbir amacıyla tahliye edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ispanyanin-turistik-kentinde-pes-pese-depremler-43277395"
+          "title": "Trump, Kanada'ya uygulanması planlanan yüzde 50'lik tarifeyi 3 günlüğüne askıya aldı",
+          "summary": "ABD Başkanı Donald Trump, Kanada'dan ithal edilen bazı ürünlere yerel saatle çarşamba sabahından itibaren uygulanması planlanan yüzde 50 oranındaki gümrük vergilerini üç günlüğüne durdurdu. ABD Başkanı Donald Trump, sosyal medya hesabı üzerinden yaptığı açıklamada, söz konusu kararı Kanada ile sağlanan uzlaşma üzerine aldığını belirtti.",
+          "source": "https://www.ntv.com.tr/dunya/trump-kanadaya-uygulanmasi-planlanan-yuzde-50lik-tarifeyi-3-gunlugune-askiya-aldi-1737945"
         },
         {
           "title": "Türkiye'den İsrail'e Ebu Zuhur tepkisi",
@@ -57,35 +57,40 @@
           "source": "https://www.ntv.com.tr/dunya/turkiyeden-israile-ebu-zuhur-tepkisi-1737914"
         },
         {
-          "title": "İsrail’in Ebu Zuhur Askeri Hava Üssü’ne saldırısına kınama",
-          "summary": "Dışişleri Bakanlığı, İsrail'in Suriye'nin İdlib kırsalındaki Ebu Zuhur Askeri Hava Üssü'ne düzenlediği hava saldırılarını \"güçlü şekilde\" kınadı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilin-ebu-zuhur-askeri-hava-ussune-saldirisina-kinama-43277337"
+          "title": "Trump, Kim Jong Un ile yeniden görüşmek istiyor",
+          "summary": "ABD Başkanı Donald Trump'ın, Kuzey Kore lideri Kim Jong Un ile bu sonbaharda yüz yüze görüşmek için ekibine hazırlık yapılması yönünde baskı yaptığı öne sürüldü. Wall Street Journal'ın ABD'li yetkililere dayandırdığı haberine göre Trump, bir sonraki Asya ziyareti sırasında Kim ile yüz yüze görüşme ihtimalini yakın çevresiyle özel olarak görüştü.",
+          "source": "https://www.ntv.com.tr/dunya/trump-kim-jong-un-ile-yeniden-gorusmek-istiyor-1737943"
         },
         {
-          "title": "Trump duyurdu. İran'la müzakere yok, deniz ablukası sürüyor",
-          "summary": "ABD Başkanı Donald Trump, İran ile müzakere yürütülmediğini ve planlanmış bir temas bulunmadığını açıkladı. Hürmüz Boğazı'nın açık olduğunu belirten Trump, deniz ablukasının ise sürdüğünü duyurdu. ABD Başkanı Donald Trump, Truth Social hesabından İran ve Hürmüz Boğazı'ndaki son duruma ilişkin açıklama yaptı. Trump, Washington ile Tahran arasında herhangi bir müzakere yürütülmediğini belirterek, yakın gelecekte planlanmış bir temasın da bulunmadığını söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-duyurdu-iranla-muzakere-yok-deniz-ablukasi-suruyor-1737910"
+          "title": "Suriye'de gaz sevkiyatı sağlayan boru hattında patlama meydana geldi",
+          "summary": "Suriye Petrol Şirketi (SPC), Cebse Gaz Tesisi'nden gaz sevkiyatı sağlayan boru hattında meydana gelen patlamanın ilk incelemelere göre sabotaj kaynaklı olduğunu bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-gaz-sevkiyati-saglayan-boru-hattinda-patlama-meydana-geldi-43277643"
         },
         {
-          "title": "İsrail'den İdlib'deki üsse saldırı",
-          "summary": "Suriye Dışişleri Bakanlığı, İdlib'deki Ebu Zuhur Hava Üssü'ne yönelik 4 hava aldırısının İsrail tarafından gerçekleştirildiğini, Suriye'nin egemenliği ve toprak bütünlüğünün açık bir ihlali olduğunu ifade etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-idlibdeki-usse-saldiri-43277273"
+          "title": "BAE, İran ile tüm ticari faaliyetleri durdurdu",
+          "summary": "Birleşik Arap Emirlikleri, İran'la tüm faaliyetlerin, ticari alışverişlerin ve mali işlemlerin durdurulduğunu duyurdu. Birleşik Arap Emirlikleri (BAE) resmi haber ajansı WAM'ın, Dışişleri Bakanlığı Stratejik İletişim Direktörü Afra el-Hamili'ye dayandırdığı haberine göre, İran'la tüm ticari ve ekonomik faaliyetler ile mali işlemler ikinci bir duyuruya kadar askıya alındı. Karara ilişkin henüz ayrıntılı bilgi paylaşılmadı.",
+          "source": "https://www.ntv.com.tr/dunya/bae-iran-ile-tum-faaliyetleri-durdurdu-1737929"
         },
         {
-          "title": "Tayvan'da zehirli yağ skandalı, üretici firmalar davalık oldu",
-          "summary": "Gıda güvenliğine aykırı yağ üretiminden dolayı, Tayvan'da dört şirket ve 15 kişi hakkında dava açıldı. Tayvan'da savcılar, yemeklik yağda bulunan ve kanserojen etkisi olduğu belirtilen bir madde nedeniyle 15 kişi ve dört şirket hakkında Salı günü suç duyurusunda bulundu. Bu madde, ürünlerin geri çağrılmasına ve siyasi kargaşaya yol açmıştı.",
-          "source": "https://www.ntv.com.tr/dunya/tayvanda-zehirli-yag-skandali-uretici-firmalar-davalik-oldu-1737909"
+          "title": "İran, iki Fransız diplomatı \"istenmeyen kişi\" ilan etti",
+          "summary": "İran, ulusal güvenlikle ilgili bir soruşturma sırasında gizli bir toplantı yerinde yakalandıklarını açıkladığı Fransa'nın Tahran Büyükelçiliği'nde görevli iki diplomatı \"istenmeyen kişi\" ilan ederek ülkeye girişlerini yasakladığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-iki-fransiz-diplomati-istenmeyen-kisi-ilan-etti-43277536"
         },
         {
-          "title": "Yüzyılın tutulması geliyor. Gündüz tam 6 dakika boyunca geceye dönecek",
-          "summary": "2 Ağustos 2027'de gerçekleşecek tam Güneş tutulması, Kuzey Afrika'dan Orta Doğu'ya uzanan geniş bir bölgede gündüzü geceye çevirecek. Mısır'ın Luksor kentinde karanlık 6 dakika 23 saniye sürecek. 6 DAKİKA 23 SANİYE SÜRECEK Dünyanın en görkemli antik kentlerinden biri olan Mısır'ın Luksor kenti, gelecek yıl gökyüzünün en dikkat çekici olaylarından birine sahne olacak. 2 Ağustos 2027'de gerçekleşecek tam Güneş tutulması Avrupa, Kuzey Afrika ve Orta Doğu'nun bazı bölgelerinden izlenebilecek.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-yuzyilin-tutulmasi-geliyor-gunduz-tam-6-dakika-boyunca-geceye-donecek-1737903"
+          "title": "İsrail’den Gazze’de bir kafeye saldırdı: 6 ölü, 12 yaralı",
+          "summary": "ABD Başkanı Donald Trump'ın İsrail'den Gazze Şeridi'ne yönelik saldırıları durdurmasını istemesine rağmen, İsrail ordusunun Gazze kentindeki bir kafeye düzenlediği hava saldırısında biri çocuk 6 Filistinli hayatını kaybetti, 12'den fazla kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-gazzede-bir-kafeye-saldirdi-5-olu-12-yarali-43277460"
         }
       ]
     },
     "ekonomi": {
-      "text": "Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar. İzmir üretim ve ticarette öncü. Bakan Bolat: Ortak Savunma Anlaşması, ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine katkı sağlayacak. Taze incirde hedef 100 milyon dolar.",
+      "text": "Sezonun ilk kuru inciri 600 TL. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar. İzmir üretim ve ticarette öncü. Bakan Bolat: Ortak Savunma Anlaşması, ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine katkı sağlayacak.",
       "items": [
+        {
+          "title": "Sezonun ilk kuru inciri 600 TL",
+          "summary": "AYDIN Söke’de 2026 yılı kuru incir sezonunun ilk ürünü, Ticaret Borsası’nda düzenlenen törenle sembolik olarak kilogramı 600 TL’den satın alındı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sezonun-ilk-kuru-inciri-600-tl-43277695"
+        },
         {
           "title": "Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız",
           "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin dış ticarette büyümeye devam ettiğini belirterek, \"Türkiye 250 milyon dolar savunma sanayi ihracatı yaparken, 2025 sonunda 10 milyar 50 milyon dolar yaptı. Bu yıl inşallah sanayi savunma ihracatında 12,5. milyar doları aşacağız\" dedi.",
@@ -115,57 +120,57 @@
           "title": "Bakan Bolat: Ortak Savunma Anlaşması, ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine katkı sağlayacak",
           "summary": "Ticaret Bakanı Ömer Bolat, Türkiye, Suudi Arabistan ve Pakistan arasında imzalanan Ortak Savunma Anlaşması'na ilişkin, \"Bu önemli anlaşma bölgemizde güvenlik ve istikrarın güçlendirilmesinin yanı sıra, ticaretin, yatırımların ve ekonomik iş birliklerinin daha güçlü bir zeminde ilerlemesine de katkı sağlayacaktır\" dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-ortak-savunma-anlasmasi-ekonomik-is-birliklerinin-daha-guclu-bir-zeminde-ilerlemesine-katki-saglayacak-43266618"
-        },
-        {
-          "title": "Taze incirde hedef 100 milyon dolar",
-          "summary": "Türkiye’nin üretim ve ihracatında dünya lideri olduğu, Bursa Siyahı incirin ve Sarılop taze incirin ihracat yolculuğu başladı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/taze-incirde-hedef-100-milyon-dolar-43264830"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçeli yönetici Mahmut Uslu, PDFK'ya sevk edildi. Türkiye, FIBA'nın Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" zirvede. AK Parti'li Kasapoğlu: 7'den 77'ye herkesi sporla buluşturacağız. Galatasaray'dan 2 transfer birden! Görüşmeler başladı. PUBG MOBILE'da S2G Esports dünya şampiyonu oldu. Acun Ilıcalı analist ve yorumculara sert çıktı: 'İnşallah ben de bir gün böyle bir iş bulurum!'. Geleceğin basketbol yıldızlarının yolu İstanbul’dan geçecek!.",
+      "text": "Fransızlar peşindeydi onun oltasına takıldı. Paulo Fonseca: 'Fenerbahçe play-off turunda favori!'. İsmail Kartal: 'Şampiyonlar Ligi'ne gitmek istiyoruz!'. Mason Greenwood: 'Gol atmak için Fenerbahçe'ye geldim!'. Romelu Lukaku, ilk kez Fenerbahçe forması giydi!. Fenerbahçe'den Şampiyonlar Ligi'nde istenmeyen rekor: Play-off kabusu. Türkiye’den genç buz hokeyciler Avrupa’da mücadele edecek!.",
       "items": [
         {
-          "title": "Fenerbahçeli yönetici Mahmut Uslu, PDFK'ya sevk edildi",
-          "summary": "Türkiye Futbol Federasyonu, Profesyonel Futbol Disiplin Kurulu (PFDK) sevklerini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-yonetici-mahmut-uslu-pdfkya-sevk-edildi-43277386"
+          "title": "Fransızlar peşindeydi onun oltasına takıldı",
+          "summary": "DÜNYANIN birçok bölgesinde 20 yıldır sportif balık avcılığı yapan Denizlili iş insanı Halil Alptuğ Önal’ın oltasına, Seferihisar’ın Teos açıklarında, Fransızlar tarafından yürütülen bir proje çerçevesinde 2 yıldır takip edilen mavi yüzgeçli orkinos takıldı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/fransizlar-pesindeydi-onun-oltasina-takildi-43277696"
         },
         {
-          "title": "Türkiye, FIBA'nın Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" zirvede",
-          "summary": "FIBA 2027 Basketbol Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" Türkiye, zirvede yer aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-fibanin-dunya-kupasi-avrupa-elemeleri-guc-siralamasinda-zirvede-43277338"
+          "title": "Paulo Fonseca: 'Fenerbahçe play-off turunda favori!'",
+          "summary": "Lyon Teknik Direktörü Paulo Fonseca, Fenerbahçe maçı sonrası, \"Karşımızda net bir şekilde favori olan bir ekip vardı. Ben oldukça memnunum. İyi bir oyun çıkardığımızı düşünüyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/paulo-fonseca-fenerbahce-play-off-turunda-favori-43277675"
         },
         {
-          "title": "AK Parti'li Kasapoğlu: 7'den 77'ye herkesi sporla buluşturacağız",
-          "summary": "AK Parti İzmir Milletvekili Mehmet Kasapoğlu, Gaziemir Gençlik ve Spor Merkezi'ndeki portatif havuzu ziyaretinde yaptığı açıklamada, \"7’den 77’ye herkesi sporla, bu ülkenin tüm imkanlarıyla buluşturma noktasında kararlıyız\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-kasapoglu-7den-77ye-herkesi-sporla-bulusturacagiz-43277341"
+          "title": "İsmail Kartal: 'Şampiyonlar Ligi'ne gitmek istiyoruz!'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Lyon ile 1-1 berabere kaldıkları maçın ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-sampiyonlar-ligine-gitmek-istiyoruz-43277627"
         },
         {
-          "title": "Galatasaray'dan 2 transfer birden! Görüşmeler başladı",
-          "summary": "Transferin suskun takımı Galatasaray, 2 yıldız için temaslarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-2-transfer-birden-gorusmeler-basladi-43277256"
+          "title": "Mason Greenwood: 'Gol atmak için Fenerbahçe'ye geldim!'",
+          "summary": "Fenerbahçe'de Mason Greenwood, Lukaku ve Vedat Muriqi, Lyon beraberliğinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-gol-atmak-icin-fenerbahceye-geldim-43277616"
         },
         {
-          "title": "PUBG MOBILE'da S2G Esports dünya şampiyonu oldu",
-          "summary": "Türkiye, S2G Esports’un Paris’te düzenlenen 2026 PUBG MOBILE World Cup’ta şampiyonluğa ulaşmasıyla PUBG MOBILE’ın küresel sahnesine bir kez daha damga vurdu. Büyük Finaller’i 154 puanla zirvede tamamlayan S2G Esports, dünya şampiyonluğu kupasını Türkiye’ye getirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pubg-mobileda-s2g-esports-dunya-sampiyonu-oldu-43277246"
+          "title": "Romelu Lukaku, ilk kez Fenerbahçe forması giydi!",
+          "summary": "Fenerbahçe’nin Belçikalı yıldızı Romelu Lukaku, sarı-lacivertli formayı ilk kez Lyon karşısında giydi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/romelu-lukaku-ilk-kez-fenerbahce-formasi-giydi-43277612"
         },
         {
-          "title": "Acun Ilıcalı analist ve yorumculara sert çıktı: 'İnşallah ben de bir gün böyle bir iş bulurum!'",
-          "summary": "Hull City'nin sahibi Acun Ilıcalı, 10 yıl aradan sonra mücadele edecekleri Premier Lig'de kalıcı olmak istediklerini belirterek, kendilerini 'küme düşecek ilk takım' olarak değerlendiren yorumcu ve analistleri, \"İnşallah ben de bir gün böyle bir iş bulurum. Türkçe'de bir deyim var 'Yattığın yerden konuşma' diye, onlara diyorum diyorum ki önce buraya gelin ve nasıl çalıştığımızı görün. Geçen yıl da bir alt ligde aynıları söyleniyordu ama yanıldıklarını gösterdik' ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicali-analist-ve-yorumculara-sert-cikti-insallah-ben-de-bir-gun-boyle-bir-is-bulurum-43277205"
+          "title": "Fenerbahçe'den Şampiyonlar Ligi'nde istenmeyen rekor: Play-off kabusu",
+          "summary": "Fenerbahçe, Şampiyonlar Ligi play-off aşamasında galibiyet alamadan en fazla maça çıkan takım olarak tarihe geçti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-sampiyonlar-liginde-istenmeyen-rekor-play-off-kabusu-43277610"
         },
         {
-          "title": "Geleceğin basketbol yıldızlarının yolu İstanbul’dan geçecek!",
-          "summary": "26-29 Ağustos tarihlerinde düzenlenecek Basketball Without Borders (BWB) Next Up 2026 etkinliği, NBA'in yeni nesil basketbol yeteneklerini geliştirme konusundaki kararlılığında yeni bir sayfa açıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gelecegin-basketbol-yildizlarinin-yolu-istanbuldan-gececek-43277126"
+          "title": "Türkiye’den genç buz hokeyciler Avrupa’da mücadele edecek!",
+          "summary": "Avusturya’da düzenlenen Alps Hockey Cup’ta bronz madalya kazanan POBE Hockey, 2026/27 sezonunda Carpathian Junior Hockey League’e katılma kararı aldı. İstanbul ekibi, Avrupa’nın farklı ülkelerinden takımlarla mücadele edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiyeden-genc-buz-hokeyciler-avrupada-mucadele-edecek-43277527"
         }
       ]
     },
     "teknoloji": {
-      "text": "OpenAI, ChatGPT'nin gençlere yönelik yeni sürümünü duyurdu. HackAntarktika için başvurular başladı. ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor. Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler. Deniz platformlarının enerji ihtiyacına milli çözüm. STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da. ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep.",
+      "text": "Yapay zeka sisteminin Hugging Face’e sızması sonrası OpenAI frene bastı. OpenAI, ChatGPT'nin gençlere yönelik yeni sürümünü duyurdu. HackAntarktika için başvurular başladı. ABD yapımı insansız deniz araçları Avrupa'da üretime başlıyor. Katar devi Türkiye'yi seçti: Olağanüstü yetenekliler. Deniz platformlarının enerji ihtiyacına milli çözüm. STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da.",
       "items": [
+        {
+          "title": "Yapay zeka sisteminin Hugging Face’e sızması sonrası OpenAI frene bastı",
+          "summary": "OpenAI, test aşamasındaki bir yapay zeka ajanının güvenlik sınırlarını aşarak Hugging Face'in sistemlerine sızmasının ardından model geliştirme çalışmalarını yavaşlattığını açıkladı. ChatGPT'nin geliştiricisi OpenAI, yapay zeka modellerinin oluşturduğu güvenlik riskleri nedeniyle model geliştirme sürecinde frene bastı. Şirket, model testlerine iki hafta ara verdiğini ve test edilen yapay zeka ajanlarının faaliyetlerini denetlemek için başka yapay zeka sistemlerini devreye almaya başladığını duyurdu.",
+          "source": "https://www.ntv.com.tr/teknoloji/yapay-zeka-sisteminin-hugging-facee-sizmasi-sonrasi-openai-frene-basti-1737942"
+        },
         {
           "title": "OpenAI, ChatGPT'nin gençlere yönelik yeni sürümünü duyurdu",
           "summary": "Yapay zekanın gençler üzerindeki olumsuz etkilerine yönelik baskılardan kaçınan OpenAI, güvenlik önlemleri daha güçlendirilmiş bir ChatGPT modunu piyasaya sürecek. OpenAI, bazı kullanıcıları intihara sürüklediği yönündeki eleştiriler ve yasal şikayetlerin ardından, Salı günü özellikle gençler için tasarlanmış, daha güçlü güvenlik önlemleri ve izleme mekanizmalarına sahip amiral gemisi ChatGPT sohbet robotunun yeni bir sürümünü tanıttı.",
@@ -195,11 +200,6 @@
           "title": "STM, milli deniz platformlarıyla TEKNOFEST Mavi Vatan’da",
           "summary": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ, 20-23 Ağustos’ta Gölcük Tersanesi Komutanlığı’nda düzenlenecek TEKNOFEST Mavi Vatan’da milli deniz platformları ve yenilikçi mühendislik çözümlerini teknoloji meraklılarıyla buluşturacak.",
           "source": "https://www.hurriyet.com.tr/teknoloji/stm-milli-deniz-platformlariyla-teknofest-mavi-vatanda-43276106"
-        },
-        {
-          "title": "ABD'de Meta'ya dava: 29 eyaletten 1.4 trilyon dolarlık talep",
-          "summary": "ABD'de 29 eyalet, çocukların ruh sağlığını olumsuz etkilediği ve bağımlılık yaratacak şekilde tasarlandığı iddiasıyla Meta'ya dava açtı. Eyaletler, şirketten 1,4 trilyon dolara kadar tazminat ve Facebook ile Instagram'da kapsamlı değişiklikler talep ediyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/abdde-metaya-dava-29-eyaletten-1-4-trilyon-dolarlik-talep-43275891"
         }
       ]
     },
