@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-20T16:00:04.197Z",
+  "generatedAt": "2026-08-21T04:00:03.480Z",
   "categories": {
     "gundem": {
-      "text": "Selçuk Bayraktar: Oyunun dışında kalmamak için stratejimizi belirledik. Antalya'da anne ile kızı evlerinde ölü bulundu. Cumhurbaşkanı Erdoğan dev teknoloji hamlesini duyurdu. 550 doktora öğrencisi eğitilecek. Çiğli Belediye Başkanı Yıldız’ın makam aracına silahlı saldırı: 1 gözaltı. Cumhurbaşkanı Erdoğan: 3 bin genç araştırmacı bilim ve teknoloji ekosistemine kazandırılacak. Suriye Dışişleri Bakanı Şeybani, Pakistan Başbakanı Şerif ile bir araya geldi. Kocaeli'de sahilde 2’si kadın 3 ceset bulundu.",
+      "text": "Simav’da 3,3 büyüklüğünde deprem. Cumhurbaşkanı Erdoğan kadınlara seslendi. İki otomobil kafa kafaya çarpıştı. İki kişi öldü, iki yaralı. Bursa'da feci kaza… 2 kişi öldü, 2 kişi yaralandı. Afrika-Basra sıcağı İstanbul'da. Ağustos sonuna kadar sürecek. Aziz İhsan Aktaş savunma yaptı: 5 milyon lira teslim etmem istendi. Ankara'da fuhuş operasyonunda 12 şüpheli tutuklandı.",
       "items": [
         {
-          "title": "Selçuk Bayraktar: Oyunun dışında kalmamak için stratejimizi belirledik",
-          "summary": "TEKNOFEST Yönetim Kurulu ve Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) Mütevelli Heyeti Başkanı Selçuk Bayraktar, dünyada dönüşümler olurken teknolojiyi tüketen değil üreten, hatta üretmekten de öte geliştiren bir neslin çok önemli olduğunu belirterek, \"TEKNOFEST'i bu misyonla düzenlediğimiz gibi 'mavi vatan'ın da sadece engin maviliklerden ibaret olmadığını, bağımsızlığımız, egemenliğimiz için ne kadar önemli olduğunu tüm kuşaklarımızla paylaşmak için bu etkinliği düzenliyoruz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/selcuk-bayraktar-oyunun-disinda-kalmamak-icin-stratejimizi-belirledik-43279790"
+          "title": "Simav’da 3,3 büyüklüğünde deprem",
+          "summary": "Kütahya’nın Simav ilçesinde 3,3 büyüklüğünde deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, saat 03.04’te meydana gelen depremin yerin 11,93 kilometre derinliğinde gerçekleştiği belirtildi. Kısa süreli paniğe neden olan sarsıntı, Simav’ın yanı sıra çevre il ve ilçelerde de hissedildi. Depremde ilk belirlemelere göre can veya mal kaybı yaşanmadı.",
+          "source": "https://www.ntv.com.tr/turkiye/simavda-33-buyuklugunde-deprem-1738225"
         },
         {
-          "title": "Antalya'da anne ile kızı evlerinde ölü bulundu",
-          "summary": "Antalya'nın Muratpaşa ilçesinde 93 yaşındaki Ayten Harputlugil ile 71 yaşındaki kızı Nilgün Harputlugil birlikte yaşadıkları evde ölü olarak bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/antalyada-anne-ile-kizi-evlerinde-olu-bulundu-43279788"
+          "title": "Cumhurbaşkanı Erdoğan kadınlara seslendi",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Balıkesir Kadın Kolları Başkanlığı'nın düzenlediği \"Kadın Buluşması\"na telefon bağlantısıyla katıldı. AK Parti Balıkesir Kadın Kolları Başkanlığ; \"Kadın Buluşması\" etkinliği düzenledi. Etkinliğe katılan AK Parti Genel Merkez Kadın Kolları Başkanı Tuğba Işık Ercan, Cumhurbaşkanı Erdoğan'ı telefonla aradı. AK Partili kadınlara seslenen Cumhurbaşkanı Erdoğan, bir sonraki yerel seçimler için mesaj verdi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-cumhurbaskani-erdogan-kadinlara-seslendi-1738223"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan dev teknoloji hamlesini duyurdu. 550 doktora öğrencisi eğitilecek",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Stratejik Teknoloji İnsan Kaynağı Programı'nı açıkladı. Cumhurbaşkanı Erdoğan'ın duyurduğu yeni program çerçevesinde 3 bin genç araştırmacının bilim ve teknoloji ekosistemine kazandırılması amaçlanıyor. İlk etapta 550 doktora öğrencisi merkezi sınavla seçilecek ve 20 araştırma üniversitesinde eğitilecek. Erdoğan paylaşımda, “Ülkemizin bilim ve teknoloji yolculuğunda yeni ve güçlü bir insan kaynağı hamlesi başlatıyoruz.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-dev-teknoloji-hamlesini-duyurdu-550-doktora-ogrencisi-egitilecek-1738198"
+          "title": "İki otomobil kafa kafaya çarpıştı. İki kişi öldü, iki yaralı",
+          "summary": "Bursa'nın Nilüfer ilçesinde, iki otomobilin çarpıştığı kazada 2 kişi öldü, 2 kişi yaralandı. Çalı Mahallesi Ahıska Caddesi'nde Yalçın Ö. yönetimindeki 34 NVG 362 plakalı otomobil ile Gülçin K. idaresindeki 16 GY 114 plakalı otomobil çarpıştı. İhbar üzerine kaza yerine polis, sağlık ve itfaiye ekipleri sevk edildi. Kazada, özel güvenlik görevlisi Yalçın Ö. ve yanındaki iş arkadaşı Olgun Y. olay yerinde yaşamını yitirdi. Diğer otomobildeki Gülçin K. ve Yağmur Y.",
+          "source": "https://www.ntv.com.tr/turkiye/iki-otomobil-kafa-kafaya-carpisti-iki-kisi-oldu-iki-yarali-1738222"
         },
         {
-          "title": "Çiğli Belediye Başkanı Yıldız’ın makam aracına silahlı saldırı: 1 gözaltı",
-          "summary": "İZMİR’in Çiğli Belediye Başkanı Onur Emrah Yıldız’ın belediye otoparkında park halindeki makam aracına silahlı saldırı düzenlendi. Olayla ilgili K.S. (21), gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cigli-belediye-baskani-yildizin-makam-aracina-silahli-saldiri-1-gozalti-43279775"
+          "title": "Bursa'da feci kaza… 2 kişi öldü, 2 kişi yaralandı",
+          "summary": "Bursa'nın Nilüfer ilçesinde, iki otomobilin çarpışması sonucu 2 kişi öldü, 2 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-feci-kaza-2-kisi-oldu-2-kisi-yaralandi-43280046"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: 3 bin genç araştırmacı bilim ve teknoloji ekosistemine kazandırılacak",
-          "summary": "Cumhurbaşkanı Erdoğan, Türkiye'nin bilim ve teknoloji alanında yeni bir insan kaynağı hamlesi başlatılacağını açıkladı. Cumhurbaşkanı Erdoğan, ilk etapta 550 doktora öğrencisinin merkezi sınavla seçilerek 20 araştırma üniversitesinde yetiştirileceğini, 5 yılın sonunda ise yaklaşık 3 bin genç araştırmacının bilim ve teknoloji ekosistemine kazandırılacağını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-3-bin-genc-arastirmaci-bilim-ve-teknoloji-ekosistemine-kazandirilacak-43279767"
+          "title": "Afrika-Basra sıcağı İstanbul'da. Ağustos sonuna kadar sürecek",
+          "summary": "Afrika ve Basra'dan gelen sıcak hava dalgası yurt genelinde etkisini sürdürüyor. 40 derecenin üstüne çıkacak sıcaklıklar Ağustos ayı sonuna kadar sürecek. Afrika ve Basra'dan gelen sıcak hava dalgası yurt genelinde etkili oluyor. İstanbul'da termometreler 30 derecenin üzerine çıktı, yüksek nemle birlikte hissedilen sıcaklık daha yüksek. Hava sıcaklıklarının Türkiye genelinde mevsim normallerinin 4 derece üzerinde seyretmesi bekleniyor. Sıcak hava dalgası Ağustos ayının sonuna kadar etkili olacak.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-afrika-basra-sicagi-istanbulda-agustos-sonuna-kadar-surecek-1738219"
         },
         {
-          "title": "Suriye Dışişleri Bakanı Şeybani, Pakistan Başbakanı Şerif ile bir araya geldi",
-          "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, Pakistan'ın başkenti İslamabad'a gerçekleştirdiği resmi ziyaret kapsamında Pakistan Başbakanı Şahbaz Şerif ile görüşme gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/suriye-disisleri-bakani-seybani-pakistan-basbakani-serif-ile-bir-araya-geldi-43279769"
+          "title": "Aziz İhsan Aktaş savunma yaptı: 5 milyon lira teslim etmem istendi",
+          "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 68. duruşmasında tutuksuz sanık iş insanı Aziz İhsan Aktaş'ın savunması alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/aziz-ihsan-aktas-savunma-yapti-5-milyon-lira-teslim-etmem-istendi-43280043"
         },
         {
-          "title": "Kocaeli'de sahilde 2’si kadın 3 ceset bulundu",
-          "summary": "Kocaeli'nin Darıca ilçesinde sahilde 2'si kadın 3 ceset bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/kocaelide-sahilde-2si-kadin-3-ceset-bulundu-43279766"
+          "title": "Ankara'da fuhuş operasyonunda 12 şüpheli tutuklandı",
+          "summary": "ANKARA'da yapılan fuhuş operasyonunda gözaltına alınan 18 şüpheliden 12'si tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-fuhus-operasyonunda-12-supheli-tutuklandi-43280041"
         }
       ]
     },
     "dunya": {
-      "text": "Husilerden Suudi Arabistan'a İHA saldırısı. İsrailli Bakan Ben-Gvir skandal görüntüleri paylaştı: İzleme odalarına sahip idam tesisleri yakında hazır olacak. Belediye başkanı \"Bunlar canavar\" diyerek yasakladı. Tepkiler büyüyor. Bangladeş'in yeni cumhurbaşkanı Mirza Fahrul İslam Alamgir oldu. Lincoln gitti: George Washington geldi... Orta Doğu'ya konuşlandırıldı. Çin'den tansiyonu yükseltecek hamle: Yapımı tamamlandı... 'ABD'nin dikkat etmesi gereken konu'. Bakan Fidan, Mısır ve Suudi Arabistanlı mevkidaşlarıyla görüştü.",
+      "text": "İran'a yaptırımlar Pazartesi açıklanacak. \"Yeni saldırılara gerek kalmayabilir\". Suriye'de bir evde meydana gelen patlama sonucu 3 kişi hayatını kaybetti. Pakistan'ın eski başbakanı İmran Han hastaneye sevk edildi. ABD Dışişleri Bakanlığından Gazze barış planı açıklaması: Tam olarak uygulanmasında kararlıyız. BM, Gazze ile ilgili acı tabloyu paylaştı: Yüzde 94'ü barınma ve temel ev eşyasına ihtiyaç duyuyor. ABD uçak gemisi George Washington Orta Doğu'ya ulaştı. Bangladeş’in yeni Cumhurbaşkanı Mirza Fakhrul İslam Alamgir oldu.",
       "items": [
         {
-          "title": "Husilerden Suudi Arabistan'a İHA saldırısı",
-          "summary": "Yemen’deki İran destekli Husiler, Suudi Arabistan’ın Necran kentindeki havaalanı ile Aramco’ya ait bir tesisi insansız hava araçlarıyla (İHA) hedef aldı. Husiler, saldırıların Suudi Arabistan'ın Yemen'deki hava sahası ihlallerine yanıt olarak düzenlendiğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/husilerden-suudi-arabistana-iha-saldirisi-43279730"
+          "title": "İran'a yaptırımlar Pazartesi açıklanacak. \"Yeni saldırılara gerek kalmayabilir\"",
+          "summary": "ABD, İran'a yönelik ekonomik baskıyı artırmaya hazırlanıyor. ABD Hazine Bakanı Scott Bessent, tarihin en sert yaptırımlarının Pazartesi açıklanacağını duyurdu. İran'la savaşta strateji değiştirerek ekonomik baskıyı artıran ABD, Tahran'ı yeni yaptırımlarla vurmaya hazırlanıyor. Amerikan Başkanı Donald Trump'ın \"eşi benzeri görülmemiş\" dediği yaptırımlar için gözler pazartesi gününe çevrildi. Trump'ın Hazine Bakanı Scot Bessent, yeni yaptırımların hafta başında açıklanacağını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/irana-yaptirimlar-pazartesi-aciklanacak-yeni-saldirilara-gerek-kalmayabilir-1738224"
         },
         {
-          "title": "İsrailli Bakan Ben-Gvir skandal görüntüleri paylaştı: İzleme odalarına sahip idam tesisleri yakında hazır olacak",
-          "summary": "Filistinli mahkumlara yönelik insanlık dışı uygulamalarıyla bilinen İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, \"idam tesislerinin\" inşasına ilişkin görüntüler yayınladı. Ben-Gvir, sosyal medya hesabından yaptığı paylaşımda tesislerin çok yakında hazır olacağını belirtti. İnsan hakları örgütleri, İsrailli Bakan'ın paylaşımına sert tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilli-bakan-ben-gvir-skandal-goruntuleri-paylasti-izleme-odalarina-sahip-idam-tesisleri-yakinda-hazir-olacak-43279678"
+          "title": "Suriye'de bir evde meydana gelen patlama sonucu 3 kişi hayatını kaybetti",
+          "summary": "Suriye'nin İdlib vilayetine bağlı Ayn el-Kasab köyündeki bir evde patlayıcı maddelerin infilak etmesi sonucu 3 kişinin öldüğü, 6 kişinin yaralandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-bir-evde-meydana-gelen-patlama-sonucu-3-kisi-hayatini-kaybetti-43280039"
         },
         {
-          "title": "Belediye başkanı \"Bunlar canavar\" diyerek yasakladı. Tepkiler büyüyor",
-          "summary": "İtalya'da Como Belediye Başkanı Alessandro Rapinese, kent merkezinde bisiklet kullanımını yasakladı. Rapinese, bu araçları \"canavar\" olarak niteledi. İtalya'nın tarihi şehrinde son zamanlarda en çok tartışılan konuların başında, eylül ayında uygulanmaya başlayacak \"bisiklet yasağı\" geliyor. Como Belediye Başkanı Alessandro Rapinese, bir bisikletin kendisine çarpması sonucu göl kıyısında, surlarla çevrili kent merkezinde bu araçların kullanımını yasakladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-belediye-baskani-bunlar-canavar-diyerek-yasakladi-tepkiler-buyuyor-1738188"
+          "title": "Pakistan'ın eski başbakanı İmran Han hastaneye sevk edildi",
+          "summary": "Pakistan'ın eski başbakanı İmran Han kaldığı hapishaneden hastaneye sevk edildi. Pakistan'da 2023'ten bu yana cezaevinde bulunan eski Başbakan ve muhalefetteki Pakistan Adalet Hareketi (PTI) partisinin kurucusu İmran Khan, Yüksek Mahkeme'nin kararı doğrultusunda tedavi amacıyla Rawalpindi kentindeki Adiala Cezaevi'nden başkent İslamabad'daki Şifa Uluslararası Hastanesi’ne sevk edildi. Eski başbakanın hastaneye sevkinin öncesinde ve sevki sırasında çevrede geniş güvenlik önlemleri alındı.",
+          "source": "https://www.ntv.com.tr/dunya/pakistanin-eski-basbakani-imran-han-hastaneye-sevk-edildi-1738211"
         },
         {
-          "title": "Bangladeş'in yeni cumhurbaşkanı Mirza Fahrul İslam Alamgir oldu",
-          "summary": "Bangladeş Parlamentosu, 349 milletvekilinin katıldığı oylamada ükenin yeni cumhurbaşkanını seçti. Bangladeş Milliyetçi Partisi (BNP) lideri Mirza Fahrul İslam Alamgir, ülkenin yeni cumhurbaşkanı olarak atandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/bangladesin-yeni-cumhurbaskani-mirza-fahrul-islam-alamgir-oldu-43279641"
+          "title": "ABD Dışişleri Bakanlığından Gazze barış planı açıklaması: Tam olarak uygulanmasında kararlıyız",
+          "summary": "ABD Dışişleri Bakanlığı, 21 maddelik Gazze'de barış planının tam olarak uygulanmasında kararlı olduklarını ve Uluslararası İstikrar Gücü'ne fon sağlanması konusunda Kongreye geçen ay bildirimde bulunduklarını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-disisleri-bakanligindan-gazze-baris-plani-aciklamasi-tam-olarak-uygulanmasinda-kararliyiz-43279943"
         },
         {
-          "title": "Lincoln gitti: George Washington geldi... Orta Doğu'ya konuşlandırıldı",
-          "summary": "ABD Merkez Komutanlığı (CENTCOM), USS Abraham Lincoln uçak gemisinde yaşanan sorunların ardından USS George Washington uçak gemisinin Orta Doğu'ya konuşlandırıldığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/lincoln-gitti-george-washington-geldi-orta-doguya-konuslandirildi-43279611"
+          "title": "BM, Gazze ile ilgili acı tabloyu paylaştı: Yüzde 94'ü barınma ve temel ev eşyasına ihtiyaç duyuyor",
+          "summary": "Birleşmiş Milletler (BM) Genel Sekreter Sözcüsü Stephane Dujarric, İsrail'in işgal ve ablukasının devam ettiği Gazze'deki 2,1 milyon Filistinlinin yüzde 94'ünün \"barınma ve temel ev eşyasına\" ihtiyaç duyduğunu bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/bm-gazze-ile-ilgili-aci-tabloyu-paylasti-yuzde-94u-barinma-ve-temel-ev-esyasina-ihtiyac-duyuyor-43279890"
         },
         {
-          "title": "Çin'den tansiyonu yükseltecek hamle: Yapımı tamamlandı... 'ABD'nin dikkat etmesi gereken konu'",
-          "summary": "Çin, Güney Çin Denizi'ndeki Antelope Resifi'nde yapay ada inşasının ilk aşamasını tamamladı ve bölgede askeri üs kurulabileceği iddiaları yeniden gündeme geldi. Uzmanlar, stratejik konumdaki yapının Tayvan senaryosunda Çin'in askeri kapasitesini güçlendirebileceğini belirterek, \"ABD'nin dikkat etmesi gereken bir konu\" değerlendirmesinde bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/cinden-tansiyonu-yukseltecek-hamle-yapimi-tamamlandi-abdnin-dikkat-etmesi-gereken-konu-43279551"
+          "title": "ABD uçak gemisi George Washington Orta Doğu'ya ulaştı",
+          "summary": "ABD uçak gemisi USS George Washington, bölgede uzun süredir görev yapmakta olan USS Abraham Lincoln'ün yerini almak üzere Orta Doğu'ya ulaştı. ABD Merkez Kuvvetler Komutanlığının (CENTCOM) X hesabından yapılan açıklamada, George Washington uçak gemisinin yeni görev yeri olan Orta Doğu'ya çarşamba günü vardığı belirtildi. Açıklamada, \"George Washington Uçak Gemisi Saldırı Grubu, dün CENTCOM operasyon bölgesine ulaştıktan sonra planlanan görev kapsamında Orta Doğu'da faaliyetlerine başladı.\" ifadesi yer aldı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-ucak-gemisi-george-washington-orta-doguya-ulasti-1738203"
         },
         {
-          "title": "Bakan Fidan, Mısır ve Suudi Arabistanlı mevkidaşlarıyla görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Mısır ve Suudi Arabistanlı mevkidaşlarıyla telefonda görüştü. Görüşmelerde Gazze, Suriye ve Hürmüz Boğazı'ndaki son durum ele alındı. Dışişleri Bakanı Hakan Fidan, bölgedeki son gelişmelere ilişkin diplomatik temasları kapsamında Mısır Dışişleri Bakanı Bedir Abdulati ve Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan Al Suud ile telefon görüşmeleri gerçekleştirdi.",
-          "source": "https://www.ntv.com.tr/dunya/bakan-fidan-misir-ve-suudi-arabistanli-mevkidaslariyla-gorustu-1738185"
+          "title": "Bangladeş’in yeni Cumhurbaşkanı Mirza Fakhrul İslam Alamgir oldu",
+          "summary": "Bangladeş’te eski Cumhurbaşkanı Muhammed Şahabuddin’in istifasının ardından parlamentoda düzenlenen seçimle Bangladeş Milliyetçi Partisi (BNP) eski Genel Sekreteri Mirza Fakhrul İslam Alamgir ülkenin yeni cumhurbaşkanı oldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/bangladesin-yeni-cumhurbaskani-mirza-fakhrul-islam-alamgir-oldu-43279829"
         }
       ]
     },
     "ekonomi": {
-      "text": "Borsa günü yükselişle tamamladı. Sezonun ilk kuru inciri 600 TL. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar. İzmir üretim ve ticarette öncü.",
+      "text": "Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük. Borsa günü yükselişle tamamladı. Sezonun ilk kuru inciri 600 TL. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama. Özken: Dubai sanayici için de güçlü bir pazar.",
       "items": [
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük",
+          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, 7 Ağustos itibariyle Merkez Bankası rezervinin 178,4 milyar dolar sayesinde olduğunu ancak vatandaşın yastık altında tuttuğu dolar ve altın miktarının bu rezervden büyük olduğunu belirterek, “Bundan da daha büyük bir rezerv milletimizde var. Onu maalesef bilançolara yansıtamıyoruz. Vatandaşın yastık altında tuttuğu dolarlar, altınlar. Keşke bunlar daha fazla sisteme girse, o zaman Türkiye'nin risk primi de çok daha aşağılara inecektir” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-vatandasin-yastik-alti-dolar-ve-altini-merkez-bankasi-rezervinden-buyuk-43279792"
+        },
         {
           "title": "Borsa günü yükselişle tamamladı",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,34 değer kazanarak 14.458,98 puandan tamamladı.",
@@ -115,66 +120,66 @@
           "title": "Özken: Dubai sanayici için de güçlü bir pazar",
           "summary": "KEMALPAŞA Sanayici ve İş İnsanları Derneği (KESİAD), “Dubai’de Şirket Kuruluşu, Vergi ve Teşvikler” başlıklı bilgilendirme toplantısında üyelerini Birleşik Arap Emirlikleri ve Körfez pazarındaki yatırım ve iş geliştirme imkânlarıyla buluşturdu.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ozken-dubai-sanayici-icin-de-guclu-bir-pazar-43270839"
-        },
-        {
-          "title": "İzmir üretim ve ticarette öncü",
-          "summary": "AK Parti İzmir İl Başkanı Bilal Saygılı, MÜSİAD İzmir Şubesi Genel Kurulu’nda kentin geçmişten aldığı güçle geleceği inşa ettiğini söyledi. Saygılı, İzmir’in asıl gücünün müteşebbisleri olduğunu vurguladı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmir-uretim-ve-ticarette-oncu-43266953"
         }
       ]
     },
     "spor": {
-      "text": "Galatasaray'ın Erzurumspor maçı kamp kadrosu açıklandı. Gençlerbirliği, Tiago Gouveia'yı kadrosuna kattı. Fenerbahçe'de bir ayrılık daha: Yönetim kapıyı gösterdi!. İlhan Palut'tan Fenerbahçe maçı öncesi açıklama: 'Çıkacağız, en iyi şekilde mücadele edeceğiz'. 25.40 ganyan buldu 600 TL’ye 272.186 TL kazandı! İşte Misli’de günün kazanan altılısı…. Galatasaray'a 30 milyon euroluk orta saha! Anlaşma sağlandı. At yarışı tutkusu Ankara’da yaşanıyor! İşte Misli’den günün altılı analizi….",
+      "text": "Murillo ve Rıdvan Yılmaz Zalgiris maçı sonrası konuştu: Havaya girmenin manası yok. Zeljko Sopic’ten Beşiktaş maçı yorumu: Kıyaslanmak gerçekten zor. Vincenzo Italiano: Daha fazla gol şansı bulmamız gerekiyor. Melih Kabasakal: 'İnşallah tur atlayacağız'. Aleksey Batrakov resmen Galatasaray'da!. Fatih Tekke: 'Bambaşka olmalıydı, ümidimi kesmedim'. Beşiktaş'tan kusursuz seri! 6 maç oldu.",
       "items": [
         {
-          "title": "Galatasaray'ın Erzurumspor maçı kamp kadrosu açıklandı",
-          "summary": "Galatasaray, Süper Lig'in 2. haftasında deplasmanda oynayacağı Erzurumspor maçının kamp kadrosunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-erzurumspor-maci-kamp-kadrosu-aciklandi-43279686"
+          "title": "Murillo ve Rıdvan Yılmaz Zalgiris maçı sonrası konuştu: Havaya girmenin manası yok",
+          "summary": "Beşiktaşlı yıldızlar Murillo ve Rıdvan Yılmaz, Zalgiris’e karşı alınan 3-0’lık galibiyet sonrası açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/murillo-ve-ridvan-yilmaz-zalgiris-maci-sonrasi-konusu-havaya-girmenin-manasi-yok-43279999"
         },
         {
-          "title": "Gençlerbirliği, Tiago Gouveia'yı kadrosuna kattı",
-          "summary": "Süper Lig ekiplerinden Gençlerbirliği, Portekizli kanat oyuncusu Tiago Gouveia'yı kiralık olarak kadrosuna kattığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-tiago-gouveiayi-kadrosuna-katti-43279692"
+          "title": "Zeljko Sopic’ten Beşiktaş maçı yorumu: Kıyaslanmak gerçekten zor",
+          "summary": "Kauno Zalgiris teknik direktörü Zeljko Sopic, Beşiktaş maçı sonrası konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/zeljko-sopicten-besiktas-maci-yorumu-kiyaslanmak-gercekten-zor-43279997"
         },
         {
-          "title": "Fenerbahçe'de bir ayrılık daha: Yönetim kapıyı gösterdi!",
-          "summary": "Dün Omar Fayed, Sidiki Cherif ve Anthony Musaba'yla yollarını ayıran Fenerbahçe'de bu kez yerli bir ismin bileti kesildi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-bir-ayrilik-daha-yonetim-kapiyi-gosterdi-43279630"
+          "title": "Vincenzo Italiano: Daha fazla gol şansı bulmamız gerekiyor",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italian, Kauno Zalgiris'i 3-0 mağlup etmelerinin ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-daha-fazla-gol-sansi-bulmamiz-gerekiyor-43279970"
         },
         {
-          "title": "İlhan Palut'tan Fenerbahçe maçı öncesi açıklama: 'Çıkacağız, en iyi şekilde mücadele edeceğiz'",
-          "summary": "Konyaspor teknik direktörü İlhan Palut, hafta sonunda karşılaşacakları Fenerbahçe maçı için, \"Hafta hafta takımımdan daha iyi bir performans bekliyorum. Çıkacağız, en iyi şekilde mücadele edeceğiz.\" değerlendirmesinde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ilhan-paluttan-fenerbahce-maci-oncesi-aciklama-cikacagiz-en-iyi-sekilde-mucadele-edecegiz-43279544"
+          "title": "Melih Kabasakal: 'İnşallah tur atlayacağız'",
+          "summary": "Trabzonspor'da Ruslan Malinovskyi ve Melih Kabasakal, Ferencvaros'a 1-0 yenildikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/melih-kabasakal-insallah-tur-atlayacagiz-43279968"
         },
         {
-          "title": "25.40 ganyan buldu 600 TL’ye 272.186 TL kazandı! İşte Misli’de günün kazanan altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan İstanbul 2. 6’lı Ganyan koşularında bir Misli üyesi, 600 TL’ye hazırladığı kuponla 272.186 TL kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/25-40-ganyan-buldu-600-tlye-272-186-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43279527"
+          "title": "Aleksey Batrakov resmen Galatasaray'da!",
+          "summary": "Galatasaray, Lokomotiv Moskova'dan Aleksey Batrakov'u kadrosuna kattığını resmen açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aleksey-batrakov-resmen-galatasarayda-43279957"
         },
         {
-          "title": "Galatasaray'a 30 milyon euroluk orta saha! Anlaşma sağlandı",
-          "summary": "Lesley Ugochukwu'nun ardından Aleksei Batrakov'u da kadrosuna katan Galatasaray'ın Tottenham'ın Senegalli yıldızı Pape Matar Sarr ile anlaşmaya vardığı iddia edildi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-yeni-orta-sahasi-ingiltereden-geliyor-anlasma-saglandi-43279446"
+          "title": "Fatih Tekke: 'Bambaşka olmalıydı, ümidimi kesmedim'",
+          "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Ferencvaros'a 1-0 mağlup oldukları maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-bambaska-olmaliydi-umidimi-kesmedim-43279947"
         },
         {
-          "title": "At yarışı tutkusu Ankara’da yaşanıyor! İşte Misli’den günün altılı analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/at-yarisi-tutkusu-ankarada-yasaniyor-iste-misliden-gunun-altili-analizi-43279406"
+          "title": "Beşiktaş'tan kusursuz seri! 6 maç oldu",
+          "summary": "Beşiktaş, UEFA Avrupa Ligi play-off turu ilk maçında Kauno Zalgiris'i 3-0 mağlup ederek tur kapısını araladı. Kara Kartal'da maç sonrası önemli ayrıntılar ortaya çıktı. Teknik Direktör Vincenzo Italiano ve Nübel sonrası rakamlar alkış topladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-kusursuz-seri-6-mac-oldu-43279935"
         }
       ]
     },
     "teknoloji": {
-      "text": "AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı. TEKNOFEST Mavi Vatan başladı | Bayraktar: Bu çaba bir bağımsızlık mücadelesidir. Akıllı telefonlar bizi dinliyor mu? Uygulama yüklerken buna dikkat. NASA’nın kurtarma görevi başarısız oldu. 22 yıllık gözlemevi Dünya’ya düşecek. Çin sokaklarında robot polisler trafik denetimine başladı. Robotlar piste çıktı: Pekin'de teknoloji şovu. OpenAI'dan Avrupalı kullanıcıları sinirlendirecek hamle.",
+      "text": "TEKNOFEST Mavi Vatan başladı | Bayraktar: Bu çaba bir bağımsızlık mücadelesidir. Mavi Vatan Teknofest'te ZAHA sahnede. Kıyıya birliklerden önce çıkacak. AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı. Akıllı telefonlar bizi dinliyor mu? Uygulama yüklerken buna dikkat. NASA’nın kurtarma görevi başarısız oldu. 22 yıllık gözlemevi Dünya’ya düşecek. Çin sokaklarında robot polisler trafik denetimine başladı. Robotlar piste çıktı: Pekin'de teknoloji şovu.",
       "items": [
-        {
-          "title": "AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı",
-          "summary": "AFET ve Acil Durum Yönetimi (AFAD) Başkanı Ali Hamza Pehlivan, \"Son 3 yıl içinde insansız hava araçlarımız yaklaşık bin 750 operasyon gerçekleştirdi. Bu uçuşlarla toplamda 244 vatandaşımıza sağ olarak ulaşıldı\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/afad-baskani-pehlivan-son-3-yilda-dronlarla-244-vatandasimiza-sag-ulasildi-43279636"
-        },
         {
           "title": "TEKNOFEST Mavi Vatan başladı | Bayraktar: Bu çaba bir bağımsızlık mücadelesidir",
           "summary": "TEKNOFEST Mavi Vatan kapılarını açtı. Selçuk Bayraktar, \"Bu dünyanın yeniden inşası TEKNOFEST kuşağı tarafından gerçekleşecek.\" dedi. TEKNOFEST Mavi Vatan, Gölcük Tersanesi Komutanlığı'nda başladı. Teknoloji ve savunma sanayisi tutkunlarını denizcilik odağında bir araya getirecek TEKNOFEST Mavi Vatan, 23 Ağustos'a kadar ziyaretçilerini ağırlayacak.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-teknofest-mavi-vatan-basladi-1738117"
+        },
+        {
+          "title": "Mavi Vatan Teknofest'te ZAHA sahnede. Kıyıya birliklerden önce çıkacak",
+          "summary": "Çok maksatlı modüler insansız amfibi araç İ-ZAHA, TEKNOFEST Mavi Vatan’da tanıtıldı. TEKNOFEST Mavi Vatan, Gölcük Tersanesi Komutanlığı'nda gerçekleştiriliyor. FNSS tarafından üretilen İ-ZAHA, Milli Savunma Bakanı Yaşar Güler'in katıldığı törenle tanıtıldı. Bakan Güler, araç hakkında FNSS Genel Müdürü ve Yönetim Kurulu Üyesi Selim Baybaş'tan bilgi aldı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-mavi-vatan-teknofestte-zaha-sahnede-kiyiya-birliklerden-once-cikacak-1738199"
+        },
+        {
+          "title": "AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı",
+          "summary": "AFET ve Acil Durum Yönetimi (AFAD) Başkanı Ali Hamza Pehlivan, \"Son 3 yıl içinde insansız hava araçlarımız yaklaşık bin 750 operasyon gerçekleştirdi. Bu uçuşlarla toplamda 244 vatandaşımıza sağ olarak ulaşıldı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/afad-baskani-pehlivan-son-3-yilda-dronlarla-244-vatandasimiza-sag-ulasildi-43279636"
         },
         {
           "title": "Akıllı telefonlar bizi dinliyor mu? Uygulama yüklerken buna dikkat",
@@ -195,11 +200,6 @@
           "title": "Robotlar piste çıktı: Pekin'de teknoloji şovu",
           "summary": "İnsansı robotlar Çin’deki Dünya Robot Konferansı’nda sahne alıyor. Pekin’de düzenlenen etkinlikte atlet, boksör, barista, garson ve müzisyen robotlar yeteneklerini sergiliyor.",
           "source": "https://www.ntv.com.tr/teknoloji/video-robotlar-piste-cikti-pekinde-teknoloji-sovu-1738108"
-        },
-        {
-          "title": "OpenAI'dan Avrupalı kullanıcıları sinirlendirecek hamle",
-          "summary": "Gelecek haftadan itibaren Avrupa genelindeki ChatGPT'de reklam gösterileceği duyuruldu. ChatGPT'nin ücretsiz ve düşük maliyetli yapay zekâ ajanlarını kullanan Avrupalı ​​kullanıcılar, geliştiricisi OpenAI'nin modellerinden daha fazla gelir elde etme planını genişletmesiyle birlikte 24 Ağustos'tan itibaren reklam görmeye başlayacaklar.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-openaidan-avrupali-kullanicilari-sinirlendirecek-hamle-1738047"
         }
       ]
     },
