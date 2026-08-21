@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-21T10:00:03.789Z",
+  "generatedAt": "2026-08-21T16:00:03.658Z",
   "categories": {
     "gundem": {
-      "text": "Muğla'da orman yangını: Ekipler müdahale ediyor. TEKNOFEST Mavi Vatan'da nefes kesen gösteri. Dünyaca ünlü Royal Filarmoni Orkestrası İstanbul ve Ankara Kültür Yolu Festivali’nde. Bahçeli'den İsrail'e tepki: \"Türkiye’yi kışkırtmaktan vazgeçmelidir\". Antalya Havalimanı'nda kadın cinayeti sonrası hareketli anlar. Domuz avında arkadaşını başından vurdu: İnceleme başladı. İstanbul'da İHA alarmı. SAS komandoları olay yerinde.",
+      "text": "AK Parti Sözcüsü Çelik'ten İsrail'e tepki: Soykırım ve katliam Netanyahu'nun kimlik kartı olmuştur. Yeni Parti Genel Başkanı Özel'den, Trabzon'da Netanyahu'ya tepki. Bitlis’te uyuşturucu operasyonunda 11 tutuklama. Türkiye ve 7 ülkeden İsrail'e Doğu Kudüs tepkisi. Türkiye dahil 11 ülkeden İsrail’in Suriye saldırılarına ortak kınama. Furkan Vakfı soruşturması: Gözaltı sayısı 62'ye yükseldi, kaçırılan hard disklere el konuldu. İç Anadolu'nun en büyük aqua parkı belediye tarafından açılıyor.",
       "items": [
         {
-          "title": "Muğla'da orman yangını: Ekipler müdahale ediyor",
-          "summary": "Muğla'nın Menteşe ilçesinde orman yangını çıktı. Ekiplerin alevlere havadan ve karadan müdahalesi sürüyor. Muğla'nın Menteşe ilçesi Çiftlik Mahallesi'nde kızılçam ağaçlarıyla kaplı ormanda saat 11.30 sıralarında henüz bilinmeyen bir nedenle yangın çıktı. Bölgeden yükselen dumanı fark eden mahalleli, 112 Acil Çağrı Merkezi'ne durumu bildirdi. İhbarla bölgeye Muğla Orman Bölge Müdürlüğü ekipleri sevk edildi. Alevlere havadan ve karadan müdahale sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-muglada-orman-yangini-ekipler-mudahale-ediyor-1738288"
+          "title": "AK Parti Sözcüsü Çelik'ten İsrail'e tepki: Soykırım ve katliam Netanyahu'nun kimlik kartı olmuştur",
+          "summary": "AK Parti Sözcüsü Ömer Çelik, İsrail Başbakanlık Ofisi'nin Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik açıklamasına tepki gösterdi. Çelik, X hesabından yaptığı paylaşımda, İsrail Başbakanlık Ofisi'nin Cumhurbaşkanı Erdoğan için kullandığı ifadelerin İsrail Başbakanı Benyamin Netanyahu'yu tanımladığını söyledi. Çelik, şu ifadeleri kullandı: \"İsrail Başbakanlık Ofisi’nin yaptığı açıklamada, Netanyahu için kullanılması gereken ifadeleri Sayın Cumhurbaşkanımız için kullanmışlar.",
+          "source": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-celikten-israile-tepki-soykirim-ve-katliam-netanyahunun-kimlik-karti-olmustur-1738326"
         },
         {
-          "title": "TEKNOFEST Mavi Vatan'da nefes kesen gösteri",
-          "summary": "TEKNOFEST Mavi Vatan'da Sualtı Taarruz (SAT) ve Sualtı Savunma (SAS) komandoları gösteri gerçekleştirdi. TEKNOFEST Mavi Vatan, Gölcük Tersanesi Komutanlığı'nda ikinci günde de kapılarını açtı Festivalde Deniz Kuvvetleri Komutanlığı'na bağlı Sualtı Taarruz (SAT) ve Sualtı Savunma (SAS) komandoları, çeşitli senaryoları icra ederek, Deniz Kuvvetleri Komutanlığı'nın operasyonel kabiliyetini ortaya koydu.. Senaryo gereği farklı kurtarma operasyonlarının gerçekleştirildiği gösteri, izleyicilerden yoğun alkış aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-teknofest-mavi-vatanda-nefes-kesen-gosteri-1738289"
+          "title": "Yeni Parti Genel Başkanı Özel'den, Trabzon'da Netanyahu'ya tepki",
+          "summary": "Yeni Parti Genel Başkanı Özgür Özel, \"Buradan şunu söyleyelim hem İsrail'e hem Netanyahu'ya. İçeride mücadele ederiz, birbirimizle en sert mücadeleyi ederiz ama dışarıdan, hele hele Filistinli bebeklerin katili çıkıp da iç politikaya bizi alet etmeye kalkarsa 87 milyon karşısında dimdik ayaktayız.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yeni-parti-genel-baskani-ozelden-trabzonda-netanyahuya-tepki-43280899"
         },
         {
-          "title": "Dünyaca ünlü Royal Filarmoni Orkestrası İstanbul ve Ankara Kültür Yolu Festivali’nde",
-          "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali, dünyaca tanınan İngiliz Kraliyet Filarmoni Orkestrası'nı (Royal Philharmonic Orchestra) İstanbul ve Ankara Kültür Yolu Festivali kapsamında ağırlayacak. 25-27 Eylül tarihleri arasında düzenlenecek programlarda İngiliz Kraliyet Filarmoni Orkestrası farklı repertuvarı ve güçlü sanatçı kadrosuyla sahne alacak. Klasik müziğin en özel eserlerinin seslendirildiği konser, eşsiz performansıyla dinleyicilere unutulmaz bir deneyim yaşatacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/dunyaca-unlu-royal-filarmoni-orkestrasi-istanbul-ve-ankara-kultur-yolu-festivalinde-43280429"
+          "title": "Bitlis’te uyuşturucu operasyonunda 11 tutuklama",
+          "summary": "Bitlis'te düzenlenen uyuşturucu operasyonunda gözaltına alınan 11 şüpheli tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bitliste-uyusturucu-operasyonunda-11-tutuklama-43280898"
         },
         {
-          "title": "Bahçeli'den İsrail'e tepki: \"Türkiye’yi kışkırtmaktan vazgeçmelidir\"",
-          "summary": "MHP Genel Başkanı Devlet Bahçeli, İsrail'e tepki gösterip \"Türkiye’yi kışkırtmaktan, sabrını sınamaktan vazgeçilmelidir.\" dedi. MHP Genel Başkanı Devlet Bahçeli, İsrail'in Suriye'ye yönelik saldırılarının kabul edilemez olduğunu bildirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/bahceliden-israile-tepki-turkiyeyi-kiskirtmaktan-vazgecmelidir-1738281"
+          "title": "Türkiye ve 7 ülkeden İsrail'e Doğu Kudüs tepkisi",
+          "summary": "Türkiye ve 7 ülke, İsrail’in işgal altındaki Filistin topraklarında devam eden hukuk dışı yerleşim politikalarını kınadı ve 'E1' yerleşim planını ve işgal altındaki Doğu Kudüs’ün doğusunda bununla bağlantılı yerleşim faaliyetlerini kategorik olarak reddetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ve-7-ulkeden-israile-dogu-kudus-tepkisi-43280897"
         },
         {
-          "title": "Antalya Havalimanı'nda kadın cinayeti sonrası hareketli anlar",
-          "summary": "Antalya Havalimanı 2'nci Terminal otoparkında emekli bir polis memuru, beylik tabancasıyla eşini öldürdü. Antalya Havalimanı'nda hareketli anlar yaşanıyor. Olay Antalya Havalimanı 2'nci Terminal otoparkında meydana geldi. Emekli bir polis memuru, beylik tabancasıyla eşini vurdu. POLİS İKNA ETMEYE ÇALIŞIYOR Kadın olay yerinde yaşamını yitirdi, diğer yandan şüpheliyi ikna etme çalışmaları sürüyor. Olayla ilgili soruşturma başlatıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-antalya-havalimaninda-kadin-cinayeti-sonrasi-hareketli-anlar-1738280"
+          "title": "Türkiye dahil 11 ülkeden İsrail’in Suriye saldırılarına ortak kınama",
+          "summary": "Türkiye’nin de aralarında bulunduğu 11 ülke, İsrail’in Suriye’nin kuzeybatısındaki Ebu Zuhur Askeri Hava Üssü’ne yönelik hava saldırılarını ortak açıklamayla kınadı. Türkiye, Cezayir, Endonezya, Filistin, Katar, Lübnan, Malezya, Moritanya, Pakistan, Somali ve Suudi Arabistan dışişleri bakanları, İsrail’in Suriye’nin kuzeybatısındaki Ebu Zuhur Askeri Hava Üssü’nü hedef alan saldırılarına ilişkin ortak açıklama yayımladı.",
+          "source": "https://www.ntv.com.tr/turkiye/turkiye-dahil-11-ulkeden-israilin-suriye-saldirilarina-ortak-kinama-1738324"
         },
         {
-          "title": "Domuz avında arkadaşını başından vurdu: İnceleme başladı",
-          "summary": "Konya'nın Seydişehir ilçesinde domuz avı sırasında Mustafa H.'nin (46) iddiaya göre kazayla başından vurduğu arkadaşı Emre Tepeci (32), hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/domuz-avinda-arkadasini-basindan-vurdu-inceleme-basladi-43280391"
+          "title": "Furkan Vakfı soruşturması: Gözaltı sayısı 62'ye yükseldi, kaçırılan hard disklere el konuldu",
+          "summary": "\"Kuytulcular\" olarak bilinen yapılanmaya yönelik soruşturmada gözaltı sayısı 62'ye yükseldi. Öte yandan önceden kaçırıldığı tespit edilen bazı bilgisayar ve hard disklere de el konuldu. Kamuoyunda \"Kuytulcular\" olarak bilinen yapılanmaya yönelik soruşturma sürüyor. Adana Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada bugün yeni gelişmeler yaşandı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-furkan-vakfi-sorusturmasi-gozalti-sayisi-62ye-yukseldi-1738307"
         },
         {
-          "title": "İstanbul'da İHA alarmı. SAS komandoları olay yerinde",
-          "summary": "İstanbul Arnavutköy'de sahile insansız hava aracı vurdu. Sualtı Savunma (SAS) komandoları İHA üzerinde inceleme yapacak. İstanbul'un Karadeniz sahilinde insansız hava aracı bulundu. Olay, sabah saatlerinde Arnavutköy ilçesindeki Karaburun sahilinde meydana geldi. Edinilen bilgiye göre, kıyıda olta atan vatandaşlar sahilde daha önce görmedikleri bir cisim fark ederek bölgede görev yapan cankurtaranlara haber verdi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-iha-alarmi-sas-komandolari-olay-yerinde-1738282"
+          "title": "İç Anadolu'nun en büyük aqua parkı belediye tarafından açılıyor",
+          "summary": "Kayseri Büyükşehir Belediyesi Spor A.Ş. tarafından şehre kazandırılan İç Anadolu’nun en büyük aqua parkı, 22 Ağustos’ta açılacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/ic-anadolunun-en-buyuk-aqua-parki-belediye-tarafindan-aciliyor-43280847"
         }
       ]
     },
     "dunya": {
-      "text": "Ukrayna Rusya'da stratejik hedefleri vurdu. İsrail ordusundan Lübnan'a art arda saldırılar. Belçika'dan İsrail'e sert tepki: 'Derhal durdurun'. 6 yıl sonra eve dönüyorlar. Harry ve Meghan'ın “Amerikan rüyası” kötü bitti. Zaporijya Nükleer Santrali alarm veriyor: Ukrayna savaşı tehlikeleri maksimuma çıkardı. New York'u sağanak vurdu: Sokaklar göle döndü. İsrail lobisinin çabaları yetmedi: ABD Kongresi'nde bir ilk.",
+      "text": "Fransa, binlerce göçmenin İngiltere'ye geçişini önledi. KKTC Cumhurbaşkanı Erhürman'dan Avrupa Parlamentosu'na sert tepki: Kıbrıslı Türk kayıplar yok sayıldı. Yunanistan muhalefeti İsrail'e karşı harekete geçti: Avrupa'ya yaptırım çağrısı. Kongo'da Ebola salgını durdurulamadı: Vaka sayısı 5 bini aştı. İsveç'te okula kılıçlı saldırı: Yaralananlar var. 110 yaşında Covid'i yendi, 117 yaşına bastı. İşte uzun yaşamının sırrı. Almanya Başbakanı Merz bir aydır kayıp.",
       "items": [
         {
-          "title": "Ukrayna Rusya'da stratejik hedefleri vurdu",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'da Perm bölgesini hedef aldıklarını duyurdu. Zelenski, bir petrol rafinerisi ile Marinovka Askeri Havaalanı'nın Ukrayna saldırılarında vurulduğunu kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ukrayna-rusyada-stratejik-hedefleri-vurdu-43280469"
+          "title": "Fransa, binlerce göçmenin İngiltere'ye geçişini önledi",
+          "summary": "İngiltere, Fransa'nın son üç ayda Manş Denizi'ni kullanarak ada ülkesine gitmeye çalışan 4 bin 300'den fazla düzensiz göçmeni durdurduğunu ifade etti. Fransa ile sınır güvenliğini sağlamak için yapılan yeni anlaşmanın etkisini gösterdiğini belirten Londra hükümeti, 185 küçük teknenin Manş Denizi üzerinde engellendiğini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransa-binlerce-gocmenin-ingiltereye-gecisini-onledi-43280870"
         },
         {
-          "title": "İsrail ordusundan Lübnan'a art arda saldırılar",
-          "summary": "Çerçeve anlaşmasını ihlal eden İsrail ordusu, Lübnan'ın güney bölgelerini hava ve topçu saldırılarıyla hedef aldı. İsrail askerlerinin bazı beldelerde patlamalar gerçekleştirdiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusundan-lubnana-art-arda-saldirilar-43280450"
+          "title": "KKTC Cumhurbaşkanı Erhürman'dan Avrupa Parlamentosu'na sert tepki: Kıbrıslı Türk kayıplar yok sayıldı",
+          "summary": "Rum terör örgütü EOKA ve güvenlik güçleri tarafından 52 yıl önce Taşkent'te toplu katliamla şehit edilen Kıbrıslı Türkler için anma töreni yapıldı. Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Avrupa Parlamentosu'nun Kıbrıslı Türklerin yaşadığı acılara karşı tutumunu eleştirerek, \"Avrupa Parlamentosu’nda alınan skandal bir kararla adeta Kıbrıslı Türk kayıplar yok sayılmıştır.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kktc-cumhurbaskani-erhurmandan-avrupa-parlamentosuna-sert-tepki-kibrisli-turk-kayiplar-yok-sayildi-43280853"
         },
         {
-          "title": "Belçika'dan İsrail'e sert tepki: 'Derhal durdurun'",
-          "summary": "Belçika Başbakan Yardımcısı ve Dışişleri Bakanı Maxime Prevot, İsrail'in Batı Şeria'daki yayılmacı politikalarını eleştirdi. Belçikalı Bakan, Tel Aviv'in E1 projesini durdurmasını ve yasa dışı yerleşimlerin genişletilmesine son vermesini istedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/belcikadan-israile-sert-tepki-derhal-durdurun-43280421"
+          "title": "Yunanistan muhalefeti İsrail'e karşı harekete geçti: Avrupa'ya yaptırım çağrısı",
+          "summary": "Yunanistan'ın eski Başbakanı Aleksis Çipras'ın kurduğu Yunan Sol İttifakı (ELAS), Avrupa Birliği'nin (AB) Filistin topraklarında ihlallerini sürdüren İsrail'e yaptırım uygulamasını talep etti. ELAS, İsrail'in Batı Şeria'daki yerleşim faaliyetlerine son vermesini ve AB'nin Filistin Devleti'ni tanımasını istedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yunanistan-muhalefeti-israile-karsi-harekete-gecti-avrupaya-yaptirim-cagrisi-43280834"
         },
         {
-          "title": "6 yıl sonra eve dönüyorlar. Harry ve Meghan'ın “Amerikan rüyası” kötü bitti",
-          "summary": "Kraliyet görevlerini bırakıp ABD'ye yerleşen Prens Harry ve eşi, Hollywood'a hızlı bir giriş yaptı. Ancak iptal edilen projeler ve azalan ilginin ardından çift şimdi İngiltere'ye dönmeye hazırlanıyor. \"AMERİKAN RÜYASI\" KÖTÜ BİTTİ Prens Harry ve Meghan Markle, 2020'de kraliyet görevlerini bırakarak ABD'ye taşındıklarında Hollywood'un elinde olmayan güçlü bir avantaja sahipti: Kraliyet ailesinden geliyorlardı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-6-yil-sonra-eve-donuyorlar-harry-ve-meghanin-amerikan-ruyasi-kotu-bitti-1738276"
+          "title": "Kongo'da Ebola salgını durdurulamadı: Vaka sayısı 5 bini aştı",
+          "summary": "Kongo Demokratik Cumhuriyeti’nde (KDC) 15 Mayıs’ta ilan edilen Ebola salgınında vaka sayısı 5 bin 290’a yükseldi. Ülkede Ebola nedeniyle 2 bin 516 kişinin yaşamını yitirdiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kongoda-ebola-salgini-durdurulamadi-vaka-sayisi-5-bini-asti-43280810"
         },
         {
-          "title": "Zaporijya Nükleer Santrali alarm veriyor: Ukrayna savaşı tehlikeleri maksimuma çıkardı",
-          "summary": "Avrupa'nın en büyük nükleer santrali Zaporijya Nükleer Güç Santrali'nde (NGS) sıklaşan elektrik kesintileri, çevresindeki saldırılar, personel kayıpları ve yakıt ikmalindeki güçlükler tesis güvenliğinin korunmasını giderek güçleştiriyor. En ciddi risk, dış elektrik bağlantısı kesikken bütün jeneratörlerin devre dışı kalması veya dizel yakıtın tükenmesiyle ortaya çıkıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/zaporijya-nukleer-santrali-alarm-veriyor-ukrayna-savasi-tehlikeleri-maksimuma-cikardi-43280371"
+          "title": "İsveç'te okula kılıçlı saldırı: Yaralananlar var",
+          "summary": "İsveç'te kılıçlı saldırgan bir okulu hedef aldı. Fagersta kentindeki okul saldırısında bir kişinin hayatını kaybettiği, olayda yaralananlar olduğu bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/isvecte-okula-kilicli-saldiri-yaralananlar-var-43280779"
         },
         {
-          "title": "New York'u sağanak vurdu: Sokaklar göle döndü",
-          "summary": "ABD'nin New York kentinde etkili olan sağanak yağış seli beraberinde getirdi. Sokaklar sular altında kalırken, metro istasyonlarını su bastı.",
-          "source": "https://www.hurriyet.com.tr/dunya/new-yorku-saganak-vurdu-sokaklar-gole-dondu-43280341"
+          "title": "110 yaşında Covid'i yendi, 117 yaşına bastı. İşte uzun yaşamının sırrı",
+          "summary": "Dünyanın yaşayan en yaşlı insanı Ethel Caterham, 117'nci yaşını kutladı. İki dünya savaşına tanıklık eden ve 110 yaşında Covid-19'u atlatan Caterham, uzun yaşamının sırrını açıkladı. Dünyanın yaşayan en yaşlı insanı olarak kabul edilen İngiliz Ethel Caterham, 21 Ağustos'ta 117'nci yaşını kutladı. İngiltere'de bir bakım evinde yaşayan Caterham, Nisan 2025'te 116 yaşındaki Brezilyalı rahibe Inah Canabarro Lucas'ın hayatını kaybetmesinin ardından dünyanın yaşayan en yaşlı insanı unvanını aldı.",
+          "source": "https://www.ntv.com.tr/dunya/110-yasinda-covidi-yendi-117-yasina-basti-iste-uzun-yasaminin-sirri-1738309"
         },
         {
-          "title": "İsrail lobisinin çabaları yetmedi: ABD Kongresi'nde bir ilk",
-          "summary": "Aisha Wahab, ABD'nin California eyaletinde yapılan özel seçimleri kazandı. Wahab, ABD Kongresi'ne seçilen ilk Afgan kökenli siyasetçi oldu. Wahab, İsrail lobisinin seçimlerde aleyhine yürüttüğü çalışmalara rağmen rakibini geride bırakmayı başardı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-lobisinin-cabalari-yetmedi-abd-kongresinde-bir-ilk-43280342"
+          "title": "Almanya Başbakanı Merz bir aydır kayıp",
+          "summary": "Almanya Başbakanı Friedrich Merz'in bir aydır devam eden tatili ülkede eleştiri konusu oldu. Merz, Almanya'nın aşırı sıcaklar, orman yangınları ve kuraklık gibi sorunlarla uğraştığı dönemi tatilde geçirmeyi tercih etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanya-basbakani-merz-bir-aydir-kayip-43280743"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Beşiktaş'ın Zalgiris galibiyeti Avrupa basınında! Italiano ve Vlahovic için sözler. Galatasaray’ın maçlarında ilk yarı gollü geçiyor; Arsenal evinde gol yemiyor... İşte Misli’den günün tüyoları!. Hull City, Premier Lig'e Manchester United maçıyla dönüyor. Aleksei Batrakov, Galatasaray tarihindeki ilk Rus futbolcu oldu. Son şampiyon Filenin Sultanları, Letonya’yı ağırlıyor! Avrupa Kadınlar Voleybol Şampiyonası heyecanı canlı yayın ile Misli’de. Fenerbahçe'de Konyaspor maçı öncesi 3 eksik var. Galatasaray, Erzurumspor FK deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de.",
+      "text": "Galatasaray, Elias Jelert'in ayrılığını resmen açıkladı!. Acun Ilıcalı, İngiliz BBC'ye açıkladı: Premier Lig en büyük başarım. UEFA ülke puan sıralaması güncel liste 21 Ağustos 2026 || Türkiye UEFA ülke puanı tablosunda kaçıncı sırada, kaç puanı var?. Trabzonspor'a 35 milyon euroluk dev golcü! Görüşmeler başladı. İstanbul’da 10 koşuluk program! İşte Misli’den günün altılı analizi…. 30.149.380 TL devreden Spor Toto’da ikramiye katlanıyor, heyecan artıyor!. Teknik direktörü 'bırakmayacağız' demişti: Ismaila Sarr, Galatasaray için gemileri yaktı!.",
       "items": [
         {
-          "title": "Beşiktaş'ın Zalgiris galibiyeti Avrupa basınında! Italiano ve Vlahovic için sözler",
-          "summary": "Beşiktaş’ın Kauno Zalgiris’i 3-0 mağlup ettiği UEFA Avrupa Ligi play-off turu ilk maçı Avrupa basınında geniş yer buldu. Vincenzo Italiano’nun serisi ve Dusan Vlahovic’in ilk resmi karşılaşması öne çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-zalgiris-galibiyeti-avrupa-basininda-italiano-ve-vlahovic-icin-sozler-43280400"
+          "title": "Galatasaray, Elias Jelert'in ayrılığını resmen açıkladı!",
+          "summary": "Galatasaray, 23 yaşındaki Elias Jelert'in Le Havre'ye kiralandığını resmen açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-elias-jelertin-ayriligini-resmen-acikladi-43280851"
         },
         {
-          "title": "Galatasaray’ın maçlarında ilk yarı gollü geçiyor; Arsenal evinde gol yemiyor... İşte Misli’den günün tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-maclarinda-ilk-yari-gollu-geciyor-arsenal-evinde-gol-yemiyor-iste-misliden-gunun-tuyolari-43280387"
+          "title": "Acun Ilıcalı, İngiliz BBC'ye açıkladı: Premier Lig en büyük başarım",
+          "summary": "Acun Ilıcalı’nın televizyon dünyasının zirvesine, oradan da Hull City ile Premier Lig’e uzanan dikkat çekici kariyer yolculuğu BBC’ye konu oldu. İngiliz yayın kuruluşu, Ilıcalı’nın başarı hikâyesini ve Hull City projesini özel bir röportajla izleyicilerine aktardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicali-ingiliz-bbcye-acikladi-premier-lig-en-buyuk-basarim-43280824"
         },
         {
-          "title": "Hull City, Premier Lig'e Manchester United maçıyla dönüyor",
-          "summary": "İngiltere Premier Lig'e 10 yıl aradan sonra geri dönen Türk iş insanı Acun Ilıcalı'nın sahibi olduğu Hull City, 2026-2027 sezonunun ilk haftasında yarın Manchester United ile karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hull-city-premier-lige-manchester-united-maciyla-donuyor-43280367"
+          "title": "UEFA ülke puan sıralaması güncel liste 21 Ağustos 2026 || Türkiye UEFA ülke puanı tablosunda kaçıncı sırada, kaç puanı var?",
+          "summary": "UEFA ülke puanı sıralaması, Beşiktaş ve Trabzonspor mücadelelerinin ardından güncellendi. Beşiktaş, play-off turunda Kauno Zalgiris'le oynadığı ilk maçı 3-0 kazanarak rövanş öncesinde büyük avantaj sağladı. Trabzonspor, Ferencvaros'a 1-0 mağlup oldu. Dikkatle takip edilen müsabakaların ardından UEFA ülke puan sıralamasında Türkiye'nin puan durumu da güncellendi. Peki Türkiye UEFA ülke puanı tablosunda kaçıncı sırada, kaç puanı var? İşte, UEFA ülke puan sıralaması güncel tablo...",
+          "source": "https://www.hurriyet.com.tr/sporarena/galeri-turkiye-uefa-ulke-puani-tablosunda-kacinci-sirada-kac-puani-var-43280556"
         },
         {
-          "title": "Aleksei Batrakov, Galatasaray tarihindeki ilk Rus futbolcu oldu",
-          "summary": "Galatasaray'ın yeni transferi Aleksei Batrakov, sarı-kırmızılıların tarihindeki ilk Rus futbolcu oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aleksei-batrakov-galatasaray-tarihindeki-ilk-rus-futbolcu-oldu-43280357"
+          "title": "Trabzonspor'a 35 milyon euroluk dev golcü! Görüşmeler başladı",
+          "summary": "Darwin Nunez transferini gerçekleştiremeyen Trabzonspor, Napoli'nin 2.01'lik golcüsü Lorenzo Lucca için görüşmelere başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspora-35-milyon-euroluk-dev-golcu-gorusmeler-basladi-43280726"
         },
         {
-          "title": "Son şampiyon Filenin Sultanları, Letonya’yı ağırlıyor! Avrupa Kadınlar Voleybol Şampiyonası heyecanı canlı yayın ile Misli’de",
-          "summary": "A Milli Kadın Voleybol Takımı, 2026 Avrupa Kadınlar Voleybol Şampiyonası ilk maçında A Grubu'nda Letonya ile karşılaşıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/son-sampiyon-filenin-sultanlari-letonyayi-agirliyor-avrupa-kadinlar-voleybol-sampiyonasi-heyecani-canli-yayin-ile-mislide-43280364"
+          "title": "İstanbul’da 10 koşuluk program! İşte Misli’den günün altılı analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-10-kosuluk-program-iste-misliden-gunun-altili-analizi-43280684"
         },
         {
-          "title": "Fenerbahçe'de Konyaspor maçı öncesi 3 eksik var",
-          "summary": "Süper Lig'in 2. haftasında yarın sahasında Konyaspor ile karşılaşacak olan Fenerbahçe'de 3 isim sakatlıkları nedeniyle forma giyemeyecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-konyaspor-maci-oncesi-3-eksik-var-43280337"
+          "title": "30.149.380 TL devreden Spor Toto’da ikramiye katlanıyor, heyecan artıyor!",
+          "summary": "Yeni sezonun başlamasıyla birlikte Spor Toto’da artan heyecan, geçtiğimiz hafta 15 bilen çıkmayınca iyice yükseldi. İlk hafta programından 30.149.380 TL bu haftaya devretti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/30-149-380-tl-devreden-spor-totoda-ikramiye-katlaniyor-heyecan-artiyor-43280676"
         },
         {
-          "title": "Galatasaray, Erzurumspor FK deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Son şampiyon Galatasaray, Süper Lig'in 2. haftasında Erzurumspor FK deplasmanına çıkıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-erzurumspor-fk-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43280307"
+          "title": "Teknik direktörü 'bırakmayacağız' demişti: Ismaila Sarr, Galatasaray için gemileri yaktı!",
+          "summary": "Galatasaray'ın kişisel şartlarda anlaşmaya vardığı ancak kulübü Crystal Palace'ı henüz ikna edemediği Senegalli futbolcu Ismaila Sarr, sarı-kırmızılı takım transfer olabilmek için kulübüne rest çekme noktasına geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/teknik-direktoru-birakmayacagiz-demisti-ismaila-sarr-galatasaray-icin-gemileri-yakti-43280634"
         }
       ]
     },
