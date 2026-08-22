@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-22T10:00:06.024Z",
+  "generatedAt": "2026-08-22T16:00:06.150Z",
   "categories": {
     "gundem": {
-      "text": "Eski bakan İdris Naim Şahin'e tahsisli araçta FETÖ izi. Büyükçekmece'de 6 katlı binada yangın paniği! Binadakiler tahliye edildi. Kaş'ta orman yangını! Havadan ve karadan müdahale ediliyor. Bayrampaşa'da binanın çatı katında çıkan yangın söndürüldü. Ağaçları kesmemek için projeyi değiştirdiler. Dosyalar yeniden açıldı, Ankara'daki seri cinayetler çözüldü. Alihan Kuriş dosyası. GSM hattının sahibi ortaya çıktı, raporu varmış.",
+      "text": "Düğün günü acı haber geldi!. 'Kuytulcular' yapılanmasına yönelik operasyonda yakalanan 56 şüpheli adliyede. Türk denizci İlker Lazoğlu, Rusya açıklarında saldırıya uğrayan gemide hayatını kaybetti! Amcası son konuşmalarını anlattı. İstanbul'da pazar planı yapanlar dikkat! Üç ilçede yollar trafiğe kapanacak. ASELSAN Genel Müdürü Akyol açıkladı. Yıl sonunda hedef 30 milyar dolar. Kocaeli'de denizde ölü bulunan 3 kardeşe acı veda! Yürek yakan detaylar ortaya çıktı. Türkiye'nin nüfusunda köklü değişim: İbre tersine döndü.",
       "items": [
         {
-          "title": "Eski bakan İdris Naim Şahin'e tahsisli araçta FETÖ izi",
-          "summary": "Eski İçişleri Bakanı İdris Naim Şahin'e tahsisli araçla Alihan Kuriş soruşturmasının iki kilit ismini Muğla'ya kaçıran Mehmet Ö.'nün FETÖ'den adli işlem kaydı olduğu ortaya çıktı. Süleymancılar olarak bilinen cemaatin lideri Alihan Kuriş ve beraberindekilerin çıkar amaçlı suç örgütü yöneticiliği, nitelikli dolandırıcılık, Vergi Usul Kanunu'na muhalefet, suçtan kaynaklanan malvarlığı değerlerini aklama gibi suçlamalarla tutuklandığı soruşturma sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-eski-bakan-idris-naim-sahine-tahsisli-aracta-feto-izi-1738410"
+          "title": "Düğün günü acı haber geldi!",
+          "summary": "Balıkesir'de meydana gelen kazada ağır yaralanan 27 yaşındaki Birsen Filiz, tedavi altına alındığı hastanede 3 günlük yaşam mücadelesini kaybetti. Genç kadının bugün düğününün olduğu öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/dugun-gunu-aci-haber-geldi-43281873"
         },
         {
-          "title": "Büyükçekmece'de 6 katlı binada yangın paniği! Binadakiler tahliye edildi",
-          "summary": "İstanbul Büyükçekmece'de 6 katlı binada yangın çıktı. Binadakiler tahliye edilirken ekiplerin yangına müdahalesi sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/buyukcekmecede-6-katli-binada-yangin-panigi-binadakiler-tahliye-edildi-43281509"
+          "title": "'Kuytulcular' yapılanmasına yönelik operasyonda yakalanan 56 şüpheli adliyede",
+          "summary": "Adana'da Alparslan Kuytul Suç Örgütü'ne yönelik düzenlenen operasyonda gözaltına alınan bazı örgüt yöneticilerinin irtibat ağında, FETÖ/PDY kapsamında adli işlem görmüş kişiler olduğu öne sürüldü. Öte yandan operasyonda gözaltına alınan Alparslan Kuytul ve eşi Semra Kuytul'un da aralarında olduğu 56 zanlı adliyeye sevk edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kuytulcular-yapilanmasina-yonelik-operasyonda-yakalanan-56-supheli-adliyede-43281850"
         },
         {
-          "title": "Kaş'ta orman yangını! Havadan ve karadan müdahale ediliyor",
-          "summary": "Antalya'nın Kaş ilçesinde orman yangını çıktı. Orman yangınına havadan ve karadan müdahale ediliyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kasta-orman-yangini-hvadan-ve-karadan-mudahale-ediliyor-43281484"
+          "title": "Türk denizci İlker Lazoğlu, Rusya açıklarında saldırıya uğrayan gemide hayatını kaybetti! Amcası son konuşmalarını anlattı",
+          "summary": "Rusya’nın Novorossiysk şehri açıklarında saldırıya uğrayan Ro-Ro gemisinde hayatını kaybeden 47 yaşındaki aşçı İlker Lazoğlu’nun amcası Faruk Lazoğlu, yeğeniyle yaptığı son konuşmayı anlattı. Yeğeninin görev yaptığı geminin saldırıya uğradığını, başka bir gemi tarafından kurtarıldığını, bu gemiye yapılan saldırıda hayatını kaybettiğini belirten Lazoğlu, ilk saldırı sonrası “Kendisinin sağ olduğunu, merak etmememi söylemişti” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/turk-denizci-ilker-lazoglu-rusya-aciklarinda-saldiriya-ugrayan-gemide-hayatini-kaybetti-amcasi-son-konusmalarini-anlatti-43281795"
         },
         {
-          "title": "Bayrampaşa'da binanın çatı katında çıkan yangın söndürüldü",
-          "summary": "Bayrampaşa'da bir binanın çatı katında çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü.",
-          "source": "https://www.hurriyet.com.tr/gundem/bayrampasada-apartman-catisinda-yangin-43281478"
+          "title": "İstanbul'da pazar planı yapanlar dikkat! Üç ilçede yollar trafiğe kapanacak",
+          "summary": "İstanbul'da yarın gerçekleşecek bisiklet turu nedeniyle üç ilçede bazı yollar trafiğe kapatılacak. Yeşilay Bisiklet Turu Yarı Maratonu yarın İstanbul'da gerçekleşecek. Bisiklet turu nedeniyle yarın İstanbul'un üç ilçesinde bazı yollar trafiğe kapatılacak. İstanbul Valiliği'nden yapılan açıklamaya göre, Türkiye Yeşilay Cemiyeti tarafından 23 Ağustos Pazar günü düzenlenecek Yeşilay Bisiklet Turu Yarı Maratonu dolayısıyla saat 07.00'den program bitimine kadar belirlenne yollar trafiğe kapalı olacak.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-pazar-plani-yapanlar-dikkat-uc-ilcede-yollar-trafige-kapanacak-1738451"
         },
         {
-          "title": "Ağaçları kesmemek için projeyi değiştirdiler",
-          "summary": "Bursa'nın İnegöl ilçesinde yapımı süren Neslihan-Halil Teşik 1’inci Kademe Özel Eğitim Okulu projesinde, arazideki yaklaşık 50 yıllık 4 ağacın kesilmemesi için plan değişikliğine gidildi. Bursa İnegöl’de yapımı devam eden Neslihan-Halil Teşik 1’inci Kademe Özel Eğitim Okulu’nda, proje aşamasında arazideki yaklaşık 50 yıllık 4 ağaç nedeniyle düzenleme yapıldı. Yaklaşık 60 milyon TL’ye mal olması beklenen okulun inşasında, 4 ağacın kesilmemesi için bina planı yeniden şekillendirildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-agaclari-kesmemek-icin-projeyi-degistirdiler-1738400"
+          "title": "ASELSAN Genel Müdürü Akyol açıkladı. Yıl sonunda hedef 30 milyar dolar",
+          "summary": "ASELSAN Genel Müdürü Ahmet Akyol, yıl sonunda şirketin bakiye siparişlerinin 30 milyar dolara ulaşabileceğini söyledi. Milli Savunma Bakanlığı ve Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ana yürütücülüğündeki TEKNOFEST Mavi Vatan, Gölcük Tersanesi Komutanlığı'nda devam ediyor. Akyol, ASELSAN'ın teknolojideki atılımlarıyla hem Türkiye'nin hem de dünyanın en değerli firmaları arasına girdiğini ve bu gelişmelerin tersine beyin göçüne olumlu yansıdığını söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-aselsan-genel-muduru-akyol-acikladi-yil-sonunda-hedef-30-milyar-dolar-1738449"
         },
         {
-          "title": "Dosyalar yeniden açıldı, Ankara'daki seri cinayetler çözüldü",
-          "summary": "Başkent Ankara'da işlenen üç cinayet ile altı öldürmeye teşebbüs dosyasının failinin aynı kişi olduğu belirlendi. Başkent Ankara'da 2015 yılında aynı yöntemle gerçekleşen üç cinayet ve altı kasten öldürmeye teşebbüs olayı yeniden mercek altına alındı. Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığı'nın çalışmaları kapsamında üç cinayet dosyasının yeniden ele alındığını açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-dosyalar-10-yil-sonra-yeniden-acildi-ankaradaki-seri-cinayetler-cozuldu-1738393"
+          "title": "Kocaeli'de denizde ölü bulunan 3 kardeşe acı veda! Yürek yakan detaylar ortaya çıktı",
+          "summary": "Kocaeli’nin Darıca ilçesinde deniz kıyısına vurmuş cansız bedenleri bulunan 24 yaşındaki Gülşah, 17 yaşındaki Muhammet Ali ve 15 yaşındaki Belinay Sakar kardeşler son yolculuğuna uğurlandı. Belinay Sakar’ın bugün doğum günü olduğu, 15’inci yaş gününde toprağa verildiği öğrenildi. Öte yandan kardeşlerin ismi öğrenilemeyen ablalarının da 10 yıl önce İzmir Çeşme’de denizde boğulduğu bildirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kocaelide-denizde-olu-bulunan-3-kardese-aci-veda-yurek-yakan-detaylar-ortaya-cikti-43281756"
         },
         {
-          "title": "Alihan Kuriş dosyası. GSM hattının sahibi ortaya çıktı, raporu varmış",
-          "summary": "Alihan Kuriş ifadesinde herhangi bir GSM hattı kullanmadığını ileri sürse de soruşturmada bunun tersi yönünde bulgular elde edildi. Hattın sahibiyle ilgili ayrıntılar dikkati çekti. “Süleymancılar” olarak bilinen cemaatin lideri Alihan Kuriş ve beraberindekilere özellikle mali yönden yapılan incelemeler sonucu odaklanılan soruşturma sürüyor. Dosyanın kilit isimleri arasında yer alan iki kişi dün Marmaris'te yurt dışına kaçma hazırlığındayken yakalandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-alihan-kuris-dosyasi-gsm-hattinin-sahibi-ortaya-cikti-raporu-varmis-1738376"
+          "title": "Türkiye'nin nüfusunda köklü değişim: İbre tersine döndü",
+          "summary": "Türkiye'nin nüfusu artarken bir yandan da yaş yapısında dönüşüm gerçekleşiyor. Yaşlıların toplam nüfus içindeki oranı rekor seviyeye ulaştı. Türkiye'nin nüfusu 1 Temmuz 2026 itibarıyla 86 milyon 320 bin 602 kişi oldu. Türkiye İstatistik Kurumu (TÜİK) tarafından açıklanan son veriye göre, 2025 yılı sonunda 86 milyon 92 bin 168 olan ülke nüfusu, bu yılın ilk altı ayında 228 bin 434 kişi arttı. Nüfus, 1 Mayıs-1 Temmuz döneminde de 123 bin 904 kişi yükseldi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-turkiyenin-nufusunda-koklu-degisim-ibre-tersine-dondu-1738416"
         }
       ]
     },
     "dunya": {
-      "text": "Prens Harry ve Elton John dahil ünlü isimlere 13 milyon dolarlık fatura. Satın almak için servet harcadı. Yemek odasından mutfağa gitmek 4,5 dakika sürüyor. İsrail ordusunda 'Çin' alarmı. 1950’lerin Titanik'i: Lüks yolcu gemisi Andrea Doria'nın son seferinde yaşanan facia. Barrack perde arkasını açıkladı: İsrailliler Türkleri kışkırtıyor. Kazakistan'da tarihi gün: Tek meclisli Kurultay'ın ilk üyeleri belirlenecek. İngiltere'de polis aracı kaza yaptı: Çok sayıda ölü.",
+      "text": "Eski dünya boks şampiyonu evinin önünde öldürüldü. İsrail ordusu isyan etti: Netanyahu bahane arıyor... 'Türkiye politikası rahatsızlık yarattı'. İsrail'den Suriye'de İHA saldırısı. Yedek başkent olmak için yarışa girdiler. Trump'ı ikna etti. Bir milyarder \"evsizler\" planını nasıl şekillendirdi?. Dünyanın en sağlıklı adamı olduğunu söylüyordu. Hastalığı ortaya çıktı, \"Midem kendi kendini yiyor\". Satın almak için servet harcadı. Yemek odasından mutfağa gitmek 4,5 dakika sürüyor.",
       "items": [
         {
-          "title": "Prens Harry ve Elton John dahil ünlü isimlere 13 milyon dolarlık fatura",
-          "summary": "Prens Harry ve Elton John dahil 7 ünlü isim, Daily Mail davasını kaybetmelerinin ardından 13 milyon dolarlık ilk ödeme yapmakla yükümlü tutuldu. Nihai tutarın çok daha yüksek olabileceği belirtildi. Prens Harry ve İngiltere'nin önde gelen altı ismi, Daily Mail'in yayıncısı Associated Newspapers'a karşı açtıkları gizlilik davasını kaybetmelerinin ardından milyonlarca sterlinlik mahkeme masrafıyla karşı karşıya kaldı.",
-          "source": "https://www.ntv.com.tr/dunya/prens-harry-ve-elton-john-dahil-unlu-isimlere-13-milyon-dolarlik-fatura-1738408"
+          "title": "Eski dünya boks şampiyonu evinin önünde öldürüldü",
+          "summary": "Eski dünya boks şampiyonu Zolani Tete, Güney Afrika’da evinin önünde silahlı saldırıda öldürüldü. 38 yaşındaki Tete, cuma günü Eastern Cape eyaletindeki Mdantsane bölgesinde bulunan evine geldiği sırada saldırıya uğradı. Polis açıklamasına göre, kar maskeli iki kişi bir araçtan inerek Tete’ye ateş açtı. Ünlü boksör olay yerinde hayatını kaybetti. Tete’nin yanında bulunan 27 yaşındaki bir kadın da birden fazla kurşunla yaralandı ve hastaneye kaldırıldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-eski-dunya-boks-sampiyonu-evinin-onunde-olduruldu-1738456"
+        },
+        {
+          "title": "İsrail ordusu isyan etti: Netanyahu bahane arıyor... 'Türkiye politikası rahatsızlık yarattı'",
+          "summary": "İsrail basını, Başbakan Binyamin Netanyahu'nun seçimleri aksatmak veya ertelemek amacıyla yeni bir savaş arayışında olduğunu yazdı. Habere göre İsrail ordusu, Netanyahu'nun bu tutumundan rahatsızlık duymaya başladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusu-isyan-etti-netanyahu-bahane-ariyor-turkiye-politikasi-rahatsizlik-yaratti-43281830"
+        },
+        {
+          "title": "İsrail'den Suriye'de İHA saldırısı",
+          "summary": "israil ordusunun Suriye'nin güneybatısındaki Beit Jinn köyünde bir araca gerçekleştirdiği insansız hava aracı saldırısında 1 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-suriyede-iha-saldirisi-43281796"
+        },
+        {
+          "title": "Yedek başkent olmak için yarışa girdiler",
+          "summary": "Japonya'da Tokyo'ya yedek bir idari merkez kurulmasını öngören yeni yasanın ardından bölgeler arasındaki rekabet artarken uzmanlar adil seçim uyarısında bulundu. Japonya'da başkent Tokyo'nun olası bir afette idari işlevlerini devralacak bir \"ikinci başkent\" belirlenmesini sağlayan yasanın kabul edilmesinin ardından yerel yönetimler arasındaki yarış hız kazandı. Kriterlerin ve tanımın belirsizliği nedeniyle akademisyenler, sürecin siyasi pazarlıkların gölgesinde kalabileceği uyarısında bulunuyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-yedek-baskent-olmak-icin-yarisa-girdiler-1738440"
+        },
+        {
+          "title": "Trump'ı ikna etti. Bir milyarder \"evsizler\" planını nasıl şekillendirdi?",
+          "summary": "Palantir kurucularından Joe Lonsdale'in kurduğu düşünce kuruluşu, sokakta uyumayı suç sayan ve zorunlu tedaviyi öngören politikalarıyla Trump yönetiminin \"evsizler\" stratejisini şekillendiriyor. Son yıllarda çokça tartışmaya konu olan ve ürettiği gözetim teknolojileriyle bilinen yazılım şirketi Palantir'in kurucu ortaklarından Joe Lonsdale, kurduğu düşünce kuruluşu Cicero Enstitüsü aracılığıyla ABD genelindeki sosyal politikalar üzerinde dikkati çeken bir etki alanı oluşturdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trumpi-ikna-etti-bir-milyarder-evsizler-planini-nasil-sekillendirdi-1738435"
+        },
+        {
+          "title": "Dünyanın en sağlıklı adamı olduğunu söylüyordu. Hastalığı ortaya çıktı, \"Midem kendi kendini yiyor\"",
+          "summary": "Ömrü uzatmak ve yaşlanmayı durdurmak için milyonlarca dolar harcayan ABD'li girişimci Bryan Johnson, otoimmün gastrit teşhisi aldığını duyurdu. Yaşlanmayı durdurma ve ömrü uzatma amacıyla milyonlarca dolarlık harcama yapan ve kendisini tarihin en çok ölçüm yapılan insanı olarak niteleyen ABD'li teknoloji girişimcisi Bryan Johnson, otoimmün gastrit teşhisi aldığını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/dunyanin-en-saglikli-adami-oldugunu-soyluyordu-hastaligi-ortaya-cikti-midem-kendi-kendini-yiyor-1738437"
         },
         {
           "title": "Satın almak için servet harcadı. Yemek odasından mutfağa gitmek 4,5 dakika sürüyor",
-          "summary": "Milyarder Mark Zuckerberg, İrlanda'da tarihi bir şato satın aldı. Değerinin 20 ila 30 milyon euro arasında olduğu tahmin edilen mülkte yemek odasından mutfağa gitmek 4,5 dakika sürüyor. Facebook ve Instagram’ı da bünyesinde barındıran Meta'nın CEO'su Mark Zuckerberg, İrlanda'daki Gotik tarzlı, üç katlı Strancally Şatosu’nu satın aldı. Özel satış yöntemiyle gerçekleşen anlaşmada Zuckerberg'in ödediği resmi bedel açıklanmadı.",
+          "summary": "Milyarder Mark Zuckerberg, İrlanda'da tarihi bir şato satın aldı. Değerinin 20 ila 30 milyon euro arasında olduğu tahmin edilen mülkte yemek odasından mutfağa gitmek 4,5 dakika sürüyor. Facebook ve Instagram’ı da bünyesinde barındıran Meta'nın CEO'su Mark Zuckerberg, İrlanda'daki Gotik tarzlı, üç katlı Strancally Şatosu’nu satın aldı. Özel satış yöntemi kullanıldığı için Zuckerberg'in ödediği resmi bedel açıklanmadı.",
           "source": "https://www.ntv.com.tr/dunya/galeri-satin-almak-icin-servet-harcadi-yemek-odasindan-mutfaga-gitmek-45-dakika-suruyor-1738406"
-        },
-        {
-          "title": "İsrail ordusunda 'Çin' alarmı",
-          "summary": "İsrail ordusunda, Çin yapımı İHA'larla ilgili güvenlik endişesi yaşanmaya başladı. Yetkililer, bu araçların birliklerin konumlarını ve hassas operasyonel verileri açığa çıkarabileceği uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusunda-cin-alarmi-43281505"
-        },
-        {
-          "title": "1950’lerin Titanik'i: Lüks yolcu gemisi Andrea Doria'nın son seferinde yaşanan facia",
-          "summary": "Atlantik Okyanusu’nun ortasında yoğun sis içinde ilerleyen iki yolcu gemisi, 25 Temmuz 1956 gecesi birbirlerine doğru hızla yaklaşıyordu. Radar ekranlarında birbirlerini görmelerine rağmen iki geminin de yaptığı hatalı manevralar, dönemin en ünlü deniz facialarından birine yol açtı. “1950’lerin Titanik’i” olarak anılan Andrea Doria, çarpışmadan yalnızca 11 saat sonra okyanusun sularına gömüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/1950lerin-titaniki-luks-yolcu-gemisi-andrea-dorianin-son-seferinde-yasanan-facia-43255899"
-        },
-        {
-          "title": "Barrack perde arkasını açıkladı: İsrailliler Türkleri kışkırtıyor",
-          "summary": "ABD’nin Ankara Büyükelçisi ve Suriye ile Irak Özel Temsilcisi Tom Barrack, İsrail'in Suriye'de düzenlediği saldırının perde arkasına ilişkin dikkat çeken açıklamalarda bulundu. Barrack, İsrailliler'in Türkiye'yi kışkırtmaya çalıştığını ancak Ankara'nın itidalli davrandığını belirtti. Türkiye'nin askeri ve istihbari gücünden övgü ile bahseden Barrack, İsrail'in tutumunun tehlikeli olduğunu kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/barrack-perde-arkasini-acikladi-israilliler-turkleri-kiskirtiyor-43281451"
-        },
-        {
-          "title": "Kazakistan'da tarihi gün: Tek meclisli Kurultay'ın ilk üyeleri belirlenecek",
-          "summary": "Kazakistan halkı yarın, 1 Temmuz’da yürürlüğe giren yeni Anayasa ile bağımsızlığın ilk yıllarından bu yana faaliyet gösteren Meclis ve Senato’dan oluşan çift meclisli Parlamento’nun yerini alacak 145 üyeli tek meclisli Kurultay için sandığa gidecek.",
-          "source": "https://www.hurriyet.com.tr/dunya/kazakistanda-tarihi-gun-tek-meclisli-kurultayin-ilk-uyeleri-belirlenecek-43281438"
-        },
-        {
-          "title": "İngiltere'de polis aracı kaza yaptı: Çok sayıda ölü",
-          "summary": "İngiltere'de polis aracı ile bir otomobilin çarpıştığı kazada çok sayıda kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-polis-araci-kaza-yapti-cok-sayida-olu-43281421"
         }
       ]
     },
@@ -124,48 +124,58 @@
       ]
     },
     "spor": {
-      "text": "Kauno Zalgiris-Beşiktaş maçına İspanyol hakem. Roma'nın Oosterwolde teklifi belli oldu! Transferde son düzlüğe girildi. Hull City, Premier Lig'e Manchester United maçıyla başlıyor! Mücadelenin heyecanı canlı sohbet ile Misli'de. Borussia Dortmund ile Bayern Münih, Almanya Süper Kupası için karşılaşıyor! Maçın heyecanı canlı yayın ile Misli'de. Fenerbahçe, Konyaspor'u ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de. Fenerbahçe maçları 'Üst' oluyor; Real Madrid kaybetmiyor... İşte Misli’den günün tüyoları!. Torreira için Galatasaray'a resmi teklif yapıldı! Uruguaylı oyuncu ayrılıkta ısrarcı.",
+      "text": "Galatasaray'da ayrılık: Gençlerbirliği, Metehan Baltacı'yı kiraladı. Fenerbahçe'de sürpriz Talisca gelişmesi! Kulüp kadroya alınmama nedenini açıkladı. Beşiktaş'tan Ghedjemis için yeni teklif! Sağ kanat operasyonu hız kazandı. Beşiktaş’ın Alanyaspor maçı kamp kadrosu belli oldu. Tercan Han 12 boy fark yaptı, 33.757 tl kazandırdı! İşte Misli’de günün kazanan altılısı…. At yarışı programı yine dopdolu! Ankara, İzmir ve Diyarbakır… İşte Misli’den günün altılı analizi…. Vincent Aboubakar, Türkiye'ye dönüyor! İmza için davet edildi.",
       "items": [
         {
-          "title": "Kauno Zalgiris-Beşiktaş maçına İspanyol hakem",
-          "summary": "Beşiktaş'ın UEFA Avrupa Ligi play-off turu rövanşında 27 Ağustos Perşembe günü Litvanya ekibi Kauno Zalgiris'e konuk olacağı karşılaşmayı İspanyol hakem Jesus Gil Manzano yönetecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kauno-zalgiris-besiktas-macina-ispanyol-hakem-43281499"
+          "title": "Galatasaray'da ayrılık: Gençlerbirliği, Metehan Baltacı'yı kiraladı",
+          "summary": "Gençlerbirliği, Galatasaray'dan Metehan Baltacı'yı kiralık olarak kadrosuna kattığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-ayrilik-genclerbirligi-metehan-baltaciyi-kiraladi-43281861"
         },
         {
-          "title": "Roma'nın Oosterwolde teklifi belli oldu! Transferde son düzlüğe girildi",
-          "summary": "Kadrosundaki yabancı oyuncu sayısını azaltmaya çalışan Fenerbahçe'de Jayden Oosterwolde'ye talip olan Roma'nın yaptığı teklif ortaya çıktı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/romanin-oosterwolde-teklifi-belli-oldu-transferde-son-duzluge-girildi-43281476"
+          "title": "Fenerbahçe'de sürpriz Talisca gelişmesi! Kulüp kadroya alınmama nedenini açıkladı",
+          "summary": "Yabancı oyuncu sayısını azaltmaya çalışan Fenerbahçe'de sezona fırtına gibi giren Anderson Talisca'nın takımdan ayrılmak üzere olduğu iddia edilmişti. Herhangi bir sakatlığı bulunmayan Brezilyalı yıldız futbolcu, Fenerbahçe'nin bu akşam Konyaspor'la oynayacağı maçın kadrosuna alınmadı. Kulüp alınan kararla ilgili resmi bir açıklama yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-surpriz-talisca-gelismesi-kulup-kadroya-alinmama-nedenini-acikladi-43281247"
         },
         {
-          "title": "Hull City, Premier Lig'e Manchester United maçıyla başlıyor! Mücadelenin heyecanı canlı sohbet ile Misli'de",
-          "summary": "İngiltere Premier Lig'de 2026-2027 sezonunun ilk haftasında Hull City ile Manchester United karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hull-city-premier-lige-manchester-united-maciyla-basliyor-mucadelenin-heyecani-canli-sohbet-ile-mislide-43281362"
+          "title": "Beşiktaş'tan Ghedjemis için yeni teklif! Sağ kanat operasyonu hız kazandı",
+          "summary": "Sezona hem Avrupa'da hem de Süper Lig'de müthiş bir başlangıç yapan ve oynadığı 6 resmi karşılaşmayı da gol yemeden kazanan Beşiktaş'ta transfer çalışmaları sürüyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-ghedjemis-icin-yeni-teklif-sag-kanat-operasyonu-hiz-kazandi-43281755"
         },
         {
-          "title": "Borussia Dortmund ile Bayern Münih, Almanya Süper Kupası için karşılaşıyor! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "Almanya Süper Kupası finalinde Borussia Dortmund ile Bayern Münih karşı karşıya geliyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/borussia-dortmund-ile-bayern-munih-almanya-super-kupasi-icin-karsilasiyor-macin-heyecani-canli-yayin-ile-mislide-43281351"
+          "title": "Beşiktaş’ın Alanyaspor maçı kamp kadrosu belli oldu",
+          "summary": "Beşiktaş’ın Süper Lig’in 2. haftasında oynayacağı Alanyaspor maçı için kamp kadrosu belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-alanyaspor-maci-kamp-kadrosu-belli-oldu-43281701"
         },
         {
-          "title": "Fenerbahçe, Konyaspor'u ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Fenerbahçe, Süper Lig'in 2. haftasında Kadıköy'de Konyaspor'u konuk ediyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-konyasporu-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43281335"
+          "title": "Tercan Han 12 boy fark yaptı, 33.757 tl kazandırdı! İşte Misli’de günün kazanan altılısı…",
+          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli yazarları kuponlarıyla şov yapıyor! Dün koşulan Bursa 2. 6’lı Ganyan koşularında Misli yazarı Bora Ünal, hazırladığı kuponla 33.757 TL kazandırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tercan-han-12-boy-fark-yapti-33-757-tl-kazandirdi-iste-mislide-gunun-kazanan-altilisi-43281618"
         },
         {
-          "title": "Fenerbahçe maçları 'Üst' oluyor; Real Madrid kaybetmiyor... İşte Misli’den günün tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-maclari-ust-oluyor-real-madrid-kaybetmiyor-iste-misliden-gunun-tuyolari-43281325"
+          "title": "At yarışı programı yine dopdolu! Ankara, İzmir ve Diyarbakır… İşte Misli’den günün altılı analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/at-yarisi-programi-yine-dopdolu-ankara-izmir-ve-diyarbakir-iste-misliden-gunun-altili-analizi-43281614"
         },
         {
-          "title": "Torreira için Galatasaray'a resmi teklif yapıldı! Uruguaylı oyuncu ayrılıkta ısrarcı",
-          "summary": "Galatasaray'da takımdan ayrılmak istediği belirtilen Uruguaylı orta saha oyuncusu Lucas Torreira için İtalya'dan resmi transfer teklifi yapıldı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/torreira-icin-galatasaraya-resmi-teklif-yapildi-uruguayli-oyuncu-ayrilikta-israrci-43281307"
+          "title": "Vincent Aboubakar, Türkiye'ye dönüyor! İmza için davet edildi",
+          "summary": "Daha önce Beşiktaş ve Hatayspor formalarıyla Süper Lig'de boy gösteren Kamerunlu ünlü futbolcu Vincent Aboubakar, 1. Lig ekiplerinden Bodrum FK ile imza aşamasına geldi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincent-aboubakar-turkiyeye-donuyor-imza-icin-davet-edildi-43281588"
         }
       ]
     },
     "teknoloji": {
-      "text": "TEKNOFEST Mavi Vatan başladı | Bayraktar: Bu çaba bir bağımsızlık mücadelesidir. Mavi Vatan Teknofest'te ZAHA sahnede. Kıyıya birliklerden önce çıkacak. AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı. Akıllı telefonlar bizi dinliyor mu? Uygulama yüklerken buna dikkat. NASA’nın kurtarma görevi başarısız oldu. 22 yıllık gözlemevi Dünya’ya düşecek. Çin sokaklarında robot polisler trafik denetimine başladı. Robotlar piste çıktı: Pekin'de teknoloji şovu.",
+      "text": "GTA 6 sızdırıldı, Rockstar Microsoft ve Discord'a dava açtı. Avustralya'dan teknoloji devlerine vergi şartı: Haber yasası kabul edildi. TEKNOFEST Mavi Vatan başladı | Bayraktar: Bu çaba bir bağımsızlık mücadelesidir. Mavi Vatan Teknofest'te ZAHA sahnede. Kıyıya birliklerden önce çıkacak. AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı. Akıllı telefonlar bizi dinliyor mu? Uygulama yüklerken buna dikkat. NASA’nın kurtarma görevi başarısız oldu. 22 yıllık gözlemevi Dünya’ya düşecek.",
       "items": [
+        {
+          "title": "GTA 6 sızdırıldı, Rockstar Microsoft ve Discord'a dava açtı",
+          "summary": "Rockstar Games'in çatı şirketi Take-Two, henüz piyasaya çıkmayan GTA 6'ya ait oynanış görüntülerini sızdıran kişilerin tespiti için Microsoft ve Discord'dan kullanıcı verilerini talep etti. Rockstar Games'in ana şirketi Take-Two, henüz piyasaya sürülmemiş olan Grand Theft Auto (GTA) VI'ya ait sızdırılan oynanış görüntülerinin yayılmasıyla bağlantılı kullanıcıların verilerini adli yoldan talep etmek üzere Microsoft ve Discord aleyhine mahkemeye başvurdu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-sizdirildi-rockstar-microsoft-ve-discorda-dava-acti-1738429"
+        },
+        {
+          "title": "Avustralya'dan teknoloji devlerine vergi şartı: Haber yasası kabul edildi",
+          "summary": "Avustralya, dijital platformlarında haber içeriği kullanan teknoloji şirketlerini yerel medya kuruluşlarıyla ticari anlaşma yapmaya zorlayan yasayı kabul etti. Anlaşma yapmayan şirketler, reklam gelirlerinin yüzde 2,5'i oranında vergi ödeyecek.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/avustralyadan-teknoloji-devlerine-vergi-sarti-haber-yasasi-kabul-edildi-43281538"
+        },
         {
           "title": "TEKNOFEST Mavi Vatan başladı | Bayraktar: Bu çaba bir bağımsızlık mücadelesidir",
           "summary": "TEKNOFEST Mavi Vatan kapılarını açtı. Selçuk Bayraktar, \"Bu dünyanın yeniden inşası TEKNOFEST kuşağı tarafından gerçekleşecek.\" dedi. TEKNOFEST Mavi Vatan, Gölcük Tersanesi Komutanlığı'nda başladı. Teknoloji ve savunma sanayisi tutkunlarını denizcilik odağında bir araya getirecek TEKNOFEST Mavi Vatan, 23 Ağustos'a kadar ziyaretçilerini ağırlayacak.",
@@ -190,16 +200,6 @@
           "title": "NASA’nın kurtarma görevi başarısız oldu. 22 yıllık gözlemevi Dünya’ya düşecek",
           "summary": "NASA’nın 22 yıldır görev yapan Swift Gözlemevi’ni Dünya’ya düşmekten kurtarma planı başarısız oldu. Gözlemevinin yörüngesini yükseltmesi için gönderilen LINK uydusunda kontrol sorunları yaşanıyor. 22 YILDIR UZAY GÖREVİNDE NASA’nın yaklaşık 22 yıldır uzayda görev yapan Neil Gehrels Swift Gözlemevi’ni Dünya atmosferine düşmekten kurtarmak amacıyla başlattığı sıra dışı operasyon başarısızlıkla sonuçlandı.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-nasanin-kurtarma-gorevi-basarisiz-oldu-22-yillik-gozlemevi-dunyaya-dusecek-1738106"
-        },
-        {
-          "title": "Çin sokaklarında robot polisler trafik denetimine başladı",
-          "summary": "Çin'in Hangzhou kentinde devreye alınan trafik robotları, kasksız sürücüleri uyararak ve trafik akışını yönlendirerek polis memurlarının rutin görevlerini devralmaya başladı. 1987 yapımı \"RoboCop\" filminin silahlı ve gözaltı yetkisine sahip robottan farklı olarak, silahsız, tutuklama yetkisi olmayan ve mekanik adımlar yerine tekerleklerle hareket eden robotlar Çin'de göreve başladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-cin-sokaklarinda-robot-polisler-trafik-denetimine-basladi-1738111"
-        },
-        {
-          "title": "Robotlar piste çıktı: Pekin'de teknoloji şovu",
-          "summary": "İnsansı robotlar Çin’deki Dünya Robot Konferansı’nda sahne alıyor. Pekin’de düzenlenen etkinlikte atlet, boksör, barista, garson ve müzisyen robotlar yeteneklerini sergiliyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/video-robotlar-piste-cikti-pekinde-teknoloji-sovu-1738108"
         }
       ]
     },
