@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-21T16:00:03.658Z",
+  "generatedAt": "2026-08-22T04:00:06.239Z",
   "categories": {
     "gundem": {
-      "text": "AK Parti Sözcüsü Çelik'ten İsrail'e tepki: Soykırım ve katliam Netanyahu'nun kimlik kartı olmuştur. Yeni Parti Genel Başkanı Özel'den, Trabzon'da Netanyahu'ya tepki. Bitlis’te uyuşturucu operasyonunda 11 tutuklama. Türkiye ve 7 ülkeden İsrail'e Doğu Kudüs tepkisi. Türkiye dahil 11 ülkeden İsrail’in Suriye saldırılarına ortak kınama. Furkan Vakfı soruşturması: Gözaltı sayısı 62'ye yükseldi, kaçırılan hard disklere el konuldu. İç Anadolu'nun en büyük aqua parkı belediye tarafından açılıyor.",
+      "text": "Kayseri’de \"huzur\" uygulaması. 75 aranan şahıs yakalandı. Bursa'da yaklaşık 1000 polisle huzur ve asayiş uygulaması. Niğde’de zincirleme kaza: 5 araca hasar veren sürücü olay yerinden kaçtı. Türkiye'den Netanyahu için kırmızı bülten talebi. Yabancı uyruklu kadın evinde ölü bulundu. 5 ilde suç örgütüne operasyon. 36 şüpheli tutuklandı. Marmaris'teki orman yangını kontrol altına alındı.",
       "items": [
         {
-          "title": "AK Parti Sözcüsü Çelik'ten İsrail'e tepki: Soykırım ve katliam Netanyahu'nun kimlik kartı olmuştur",
-          "summary": "AK Parti Sözcüsü Ömer Çelik, İsrail Başbakanlık Ofisi'nin Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik açıklamasına tepki gösterdi. Çelik, X hesabından yaptığı paylaşımda, İsrail Başbakanlık Ofisi'nin Cumhurbaşkanı Erdoğan için kullandığı ifadelerin İsrail Başbakanı Benyamin Netanyahu'yu tanımladığını söyledi. Çelik, şu ifadeleri kullandı: \"İsrail Başbakanlık Ofisi’nin yaptığı açıklamada, Netanyahu için kullanılması gereken ifadeleri Sayın Cumhurbaşkanımız için kullanmışlar.",
-          "source": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-celikten-israile-tepki-soykirim-ve-katliam-netanyahunun-kimlik-karti-olmustur-1738326"
+          "title": "Kayseri’de \"huzur\" uygulaması. 75 aranan şahıs yakalandı",
+          "summary": "Kayseri’de polis ekipleri tarafından yapılan huzur-asayiş uygulamalarında 24 bin şahıs sorgulanırken, 75 aranan şahıs yakalandı. Edinilen bilgiye göre, Kayseri İl Emniyet Müdürlüğü tarafından genel asayişin ve kamu düzeninin korunması amacıyla tüm birimlerden 436 personelin katılımıyla 54 noktada eş zamanlı olarak ‘huzur-asayiş uygulamaları gerçekleştirildi. Ekipler tarafından uygulamada, 23 bin 993 şahıs ve 6 bin 92 araç sorgulanırken, 75 aranan şahıs yakalandı.",
+          "source": "https://www.ntv.com.tr/turkiye/kayseride-huzur-uygulamasi-75-aranan-sahis-yakalandi-1738354"
         },
         {
-          "title": "Yeni Parti Genel Başkanı Özel'den, Trabzon'da Netanyahu'ya tepki",
-          "summary": "Yeni Parti Genel Başkanı Özgür Özel, \"Buradan şunu söyleyelim hem İsrail'e hem Netanyahu'ya. İçeride mücadele ederiz, birbirimizle en sert mücadeleyi ederiz ama dışarıdan, hele hele Filistinli bebeklerin katili çıkıp da iç politikaya bizi alet etmeye kalkarsa 87 milyon karşısında dimdik ayaktayız.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/yeni-parti-genel-baskani-ozelden-trabzonda-netanyahuya-tepki-43280899"
+          "title": "Bursa'da yaklaşık 1000 polisle huzur ve asayiş uygulaması",
+          "summary": "Bursa'nın Gemlik ilçesinde yaklaşık 1000 polisin katılımıyla huzur ve asayiş uygulaması gerçekleştirildi. İlçenin farklı noktalarında yapılan denetimlerde araçlar ve kişiler kontrol edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-yaklasik-1000-polisle-huzur-ve-asayis-uygulamasi-43281208"
         },
         {
-          "title": "Bitlis’te uyuşturucu operasyonunda 11 tutuklama",
-          "summary": "Bitlis'te düzenlenen uyuşturucu operasyonunda gözaltına alınan 11 şüpheli tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bitliste-uyusturucu-operasyonunda-11-tutuklama-43280898"
+          "title": "Niğde’de zincirleme kaza: 5 araca hasar veren sürücü olay yerinden kaçtı",
+          "summary": "Niğde’nin Aşağı Kayabaşı Mahallesi’nde 5 otomobil ile bir motosikletin karıştığı zincirleme trafik kazasında araçlarda maddi hasar meydana geldi. Kazaya sebep olduğu öne sürülen sürücünün ise olay yerinden kaçtığı iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/nigdede-zincirleme-kaza-5-araca-hasar-veren-surucu-olay-yerinden-kacti-43281207"
         },
         {
-          "title": "Türkiye ve 7 ülkeden İsrail'e Doğu Kudüs tepkisi",
-          "summary": "Türkiye ve 7 ülke, İsrail’in işgal altındaki Filistin topraklarında devam eden hukuk dışı yerleşim politikalarını kınadı ve 'E1' yerleşim planını ve işgal altındaki Doğu Kudüs’ün doğusunda bununla bağlantılı yerleşim faaliyetlerini kategorik olarak reddetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ve-7-ulkeden-israile-dogu-kudus-tepkisi-43280897"
+          "title": "Türkiye'den Netanyahu için kırmızı bülten talebi",
+          "summary": "İsrail'den Türkiye'ye yönelik gelen açıklamalara Ankara'dan sert tepkiler geldi. Ayrıca Türkiye, İsrail Başbakanı Binyamin Netanyahu hakkında \"soykırım\" suçundan kırmızı bülten talep etti. Gazze'ye insani yardım taşıyan Küresel Sumud Filosu'na silahlı müdahalede bulunulmasına ilişkin İsrail Başbakanı Binyamin Netanyahu ve Afek Moskovitch’in de bulunduğu 35 sanık hakkında kovuşturma sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/turkiyeden-netanyahu-icin-kirmizi-bulten-talebi-1738306"
         },
         {
-          "title": "Türkiye dahil 11 ülkeden İsrail’in Suriye saldırılarına ortak kınama",
-          "summary": "Türkiye’nin de aralarında bulunduğu 11 ülke, İsrail’in Suriye’nin kuzeybatısındaki Ebu Zuhur Askeri Hava Üssü’ne yönelik hava saldırılarını ortak açıklamayla kınadı. Türkiye, Cezayir, Endonezya, Filistin, Katar, Lübnan, Malezya, Moritanya, Pakistan, Somali ve Suudi Arabistan dışişleri bakanları, İsrail’in Suriye’nin kuzeybatısındaki Ebu Zuhur Askeri Hava Üssü’nü hedef alan saldırılarına ilişkin ortak açıklama yayımladı.",
-          "source": "https://www.ntv.com.tr/turkiye/turkiye-dahil-11-ulkeden-israilin-suriye-saldirilarina-ortak-kinama-1738324"
+          "title": "Yabancı uyruklu kadın evinde ölü bulundu",
+          "summary": "Kayseri'de yakınlarının haber alamadığı 61 yaşındaki yabancı uyruklu kadın, evinde ölü bulundu. Talas İlçesi Bahçelievler Mahallesi İnceler Sokak’taki 14 katlı apartmanın 7’nci katında oturan yabancı uyruklu Lamya M.’den haber alamayan yakınları, evine geldi. Lamya M.’yi hareketsiz halde bulan yakınları, durumu 112 Acil Çağrı Merkezi'ne bildirdi. İhbar üzerine adrese gelen sağlık ekibi, Lamya M.’nin hayatını kaybettiğini belirledi.",
+          "source": "https://www.ntv.com.tr/turkiye/yabanci-uyruklu-kadin-evinde-olu-bulundu-1738350"
         },
         {
-          "title": "Furkan Vakfı soruşturması: Gözaltı sayısı 62'ye yükseldi, kaçırılan hard disklere el konuldu",
-          "summary": "\"Kuytulcular\" olarak bilinen yapılanmaya yönelik soruşturmada gözaltı sayısı 62'ye yükseldi. Öte yandan önceden kaçırıldığı tespit edilen bazı bilgisayar ve hard disklere de el konuldu. Kamuoyunda \"Kuytulcular\" olarak bilinen yapılanmaya yönelik soruşturma sürüyor. Adana Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada bugün yeni gelişmeler yaşandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-furkan-vakfi-sorusturmasi-gozalti-sayisi-62ye-yukseldi-1738307"
+          "title": "5 ilde suç örgütüne operasyon. 36 şüpheli tutuklandı",
+          "summary": "Suç gelirinin kripto varlık platformlarına aktardıkları belirlenen şüphelilere yönelik düzenlenen operasyonda gözaltına alınan 39 şüpheliden 36'sı tutuklandı. Soma Cumhuriyet Başsavcılığı koordinasyonunda yürütülen soruşturma kapsamında, Manisa İl Emniyet Müdürlüğü Asayiş ve İstihbarat şubeleri ile Soma İlçe Emniyet Müdürlüğü ekipleri; 'Suç işlemek amacıyla örgüt kurma, yönetme ve üye olma', 'Nitelikli dolandırıcılık', 'Yağma', 'Kişiyi hürriyetinden yoksun bırakma', 'Kasten yaralama' ve 'Tehdit' suçlarını işlediği",
+          "source": "https://www.ntv.com.tr/turkiye/5-ilde-suc-orgutune-operasyon-36-supheli-tutuklandi-1738349"
         },
         {
-          "title": "İç Anadolu'nun en büyük aqua parkı belediye tarafından açılıyor",
-          "summary": "Kayseri Büyükşehir Belediyesi Spor A.Ş. tarafından şehre kazandırılan İç Anadolu’nun en büyük aqua parkı, 22 Ağustos’ta açılacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/ic-anadolunun-en-buyuk-aqua-parki-belediye-tarafindan-aciliyor-43280847"
+          "title": "Marmaris'teki orman yangını kontrol altına alındı",
+          "summary": "Muğla'nın Marmaris ilçesinde ormanlık alanda yangın ekiplerin hızlı müdahalesi ile kısa sürede kontrol altına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/marmaristeki-orman-yangini-kontrol-altina-alindi-43281136"
         }
       ]
     },
     "dunya": {
-      "text": "Fransa, binlerce göçmenin İngiltere'ye geçişini önledi. KKTC Cumhurbaşkanı Erhürman'dan Avrupa Parlamentosu'na sert tepki: Kıbrıslı Türk kayıplar yok sayıldı. Yunanistan muhalefeti İsrail'e karşı harekete geçti: Avrupa'ya yaptırım çağrısı. Kongo'da Ebola salgını durdurulamadı: Vaka sayısı 5 bini aştı. İsveç'te okula kılıçlı saldırı: Yaralananlar var. 110 yaşında Covid'i yendi, 117 yaşına bastı. İşte uzun yaşamının sırrı. Almanya Başbakanı Merz bir aydır kayıp.",
+      "text": "Trump: Hürmüz'ü Amerikan toprağı olarak görüyorum. Trump: İran anlaşma yapmayı çok istiyor ancak doğru anlaşmaya henüz hazır değiller. İran’dan Trump’ın kapsamlı ekonomik yaptırım kararına tepki: Açıkça uluslararası hukuka aykırı. Asistanı Natalie Harp'tan Trump'a mektuplar. \"Benim için tek önemli şey sensin\". ABD ve TikTok arasında 400 milyon dolarlık \"çocuk gizliliği\" uzlaşması. İsveç'te liseye kılıçlı saldırı: 1 ölü, 3 yaralı. Zelenski duyurdu: AVM saldırısında can kaybı 14’e yükseldi.",
       "items": [
         {
-          "title": "Fransa, binlerce göçmenin İngiltere'ye geçişini önledi",
-          "summary": "İngiltere, Fransa'nın son üç ayda Manş Denizi'ni kullanarak ada ülkesine gitmeye çalışan 4 bin 300'den fazla düzensiz göçmeni durdurduğunu ifade etti. Fransa ile sınır güvenliğini sağlamak için yapılan yeni anlaşmanın etkisini gösterdiğini belirten Londra hükümeti, 185 küçük teknenin Manş Denizi üzerinde engellendiğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransa-binlerce-gocmenin-ingiltereye-gecisini-onledi-43280870"
+          "title": "Trump: Hürmüz'ü Amerikan toprağı olarak görüyorum",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nı Amerikan toprağı olarak gördüğünü söyledi. Güney Carolina'daki bir mitinge konuşan ABD Başkanı Trump, İranlıların bir anlaşma yapmayı çok istediğini belirtti. ABD başkanı, \"Ancak biz bunu ister miyiz bilmiyorum çünkü Hürmüz Boğazı'nı Amerikan toprağı olarak görüyorum. Şu an orası Amerikan toprağı\" dedi. Trump öncesinde gazetecilerin sorularını da yanıtladı. Hürmüz ve çevresinde tüm kontrolün ABD'de olduğunu öne sürdü.",
+          "source": "https://www.ntv.com.tr/dunya/trump-hurmuzu-amerikan-topragi-olarak-goruyorum-1738342"
         },
         {
-          "title": "KKTC Cumhurbaşkanı Erhürman'dan Avrupa Parlamentosu'na sert tepki: Kıbrıslı Türk kayıplar yok sayıldı",
-          "summary": "Rum terör örgütü EOKA ve güvenlik güçleri tarafından 52 yıl önce Taşkent'te toplu katliamla şehit edilen Kıbrıslı Türkler için anma töreni yapıldı. Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Avrupa Parlamentosu'nun Kıbrıslı Türklerin yaşadığı acılara karşı tutumunu eleştirerek, \"Avrupa Parlamentosu’nda alınan skandal bir kararla adeta Kıbrıslı Türk kayıplar yok sayılmıştır.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kktc-cumhurbaskani-erhurmandan-avrupa-parlamentosuna-sert-tepki-kibrisli-turk-kayiplar-yok-sayildi-43280853"
+          "title": "Trump: İran anlaşma yapmayı çok istiyor ancak doğru anlaşmaya henüz hazır değiller",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı ve çevresinin kontrolünün tamamen ABD’de olduğunu öne sürerek, \"İran bir anlaşma yapmayı çok istiyor. Ama bana kalırsa doğru anlaşmayı yapmaya henüz hazır değiller\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-iran-anlasma-yapmayi-cok-istiyor-ancak-dogru-anlasmaya-henuz-hazir-degiller-43281206"
         },
         {
-          "title": "Yunanistan muhalefeti İsrail'e karşı harekete geçti: Avrupa'ya yaptırım çağrısı",
-          "summary": "Yunanistan'ın eski Başbakanı Aleksis Çipras'ın kurduğu Yunan Sol İttifakı (ELAS), Avrupa Birliği'nin (AB) Filistin topraklarında ihlallerini sürdüren İsrail'e yaptırım uygulamasını talep etti. ELAS, İsrail'in Batı Şeria'daki yerleşim faaliyetlerine son vermesini ve AB'nin Filistin Devleti'ni tanımasını istedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunanistan-muhalefeti-israile-karsi-harekete-gecti-avrupaya-yaptirim-cagrisi-43280834"
+          "title": "İran’dan Trump’ın kapsamlı ekonomik yaptırım kararına tepki: Açıkça uluslararası hukuka aykırı",
+          "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD’nin ülkesine yönelik kapsamlı ekonomik yaptırım uygulama kararının \"açıkça uluslararası hukuka aykırı\" olduğunu belirterek, \"Bunun nihai sonucu, Birleşmiş Milletler (BM) merkezli devletler arası sistemin temel dayanağı olan egemenlik hakkının tamamen aşınması ve tam ölçekli klasik sömürgeciliğe geri dönüşe korkunç bir şekilde zemin hazırlanması olacaktır\" uyarısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-trumpin-kapsamli-ekonomik-yaptirim-kararina-tepki-acikca-uluslararasi-hukuka-aykiri-43281205"
         },
         {
-          "title": "Kongo'da Ebola salgını durdurulamadı: Vaka sayısı 5 bini aştı",
-          "summary": "Kongo Demokratik Cumhuriyeti’nde (KDC) 15 Mayıs’ta ilan edilen Ebola salgınında vaka sayısı 5 bin 290’a yükseldi. Ülkede Ebola nedeniyle 2 bin 516 kişinin yaşamını yitirdiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kongoda-ebola-salgini-durdurulamadi-vaka-sayisi-5-bini-asti-43280810"
+          "title": "Asistanı Natalie Harp'tan Trump'a mektuplar. \"Benim için tek önemli şey sensin\"",
+          "summary": "ABD Başkanı Donald Trump'ın asistanı ile yakınlığı gündemde. Asistanının Trump'a gönderdiği hayranlık dolu mektuplarda \"benim için önemli olan tek şey sensin\" mesajları bulunuyor. ABD Başkanı Donald Trump bu kez özel hayatıyla gündemde. ABD basını Trump'ın asistanı Natalie Harp ile bir ilişkisi olduğunu iddia etti. Harp'ın Trump'a gönderdiği mektuplar ortaya çıkınca kriz büyüdü. Natalie Harp Trump'a en yakın isimlerden. Trump'ın günlük programı, sosyal medya faaliyetleri ve bilgi akışında aktif rol üstleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-asistani-natalie-harptan-trumpa-mektuplar-benim-icin-tek-onemli-sey-sensin-1738352"
         },
         {
-          "title": "İsveç'te okula kılıçlı saldırı: Yaralananlar var",
-          "summary": "İsveç'te kılıçlı saldırgan bir okulu hedef aldı. Fagersta kentindeki okul saldırısında bir kişinin hayatını kaybettiği, olayda yaralananlar olduğu bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/isvecte-okula-kilicli-saldiri-yaralananlar-var-43280779"
+          "title": "ABD ve TikTok arasında 400 milyon dolarlık \"çocuk gizliliği\" uzlaşması",
+          "summary": "ABD Adalet Bakanlığı, TikTok ve ana şirketi ByteDance ile \"çocukların çevrim içi gizliliğinin korunmasına\" yönelik davayı 400 milyon dolarlık anlaşmayla sonuçlandırdı.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ve-tiktok-arasinda-400-milyon-dolarlik-cocuk-gizliligi-uzlasmasi-43281191"
         },
         {
-          "title": "110 yaşında Covid'i yendi, 117 yaşına bastı. İşte uzun yaşamının sırrı",
-          "summary": "Dünyanın yaşayan en yaşlı insanı Ethel Caterham, 117'nci yaşını kutladı. İki dünya savaşına tanıklık eden ve 110 yaşında Covid-19'u atlatan Caterham, uzun yaşamının sırrını açıkladı. Dünyanın yaşayan en yaşlı insanı olarak kabul edilen İngiliz Ethel Caterham, 21 Ağustos'ta 117'nci yaşını kutladı. İngiltere'de bir bakım evinde yaşayan Caterham, Nisan 2025'te 116 yaşındaki Brezilyalı rahibe Inah Canabarro Lucas'ın hayatını kaybetmesinin ardından dünyanın yaşayan en yaşlı insanı unvanını aldı.",
-          "source": "https://www.ntv.com.tr/dunya/110-yasinda-covidi-yendi-117-yasina-basti-iste-uzun-yasaminin-sirri-1738309"
+          "title": "İsveç'te liseye kılıçlı saldırı: 1 ölü, 3 yaralı",
+          "summary": "İsveç'in Fagersta kentindeki bir lisede kılıçlı saldırı düzenleyen 18 yaşındaki şüpheli, 1 kişiyi öldürdü, 3 kişiyi yaraladı. Vurularak durdurulan saldırgan gözaltına alındı. İsveç'in orta kesimindeki Fagersta kentinde bulunan Brinell Lisesi'nde 18 yaşındaki bir kişi, kılıçla öğrencilere saldırdı. Saldırıda 1 kişi hayatını kaybetti, 3 kişi yaralandı. Polis, saldırganı vurarak etkisiz hale getirdi ve cinayet şüphesiyle gözaltına aldı. Yaklaşık 13 bin nüfuslu Fagersta'daki saldırı, cuma öğleden sonra meydana geldi.",
+          "source": "https://www.ntv.com.tr/dunya/isvecte-liseye-kilicli-saldiri-iki-genc-agir-yarali-1738330"
         },
         {
-          "title": "Almanya Başbakanı Merz bir aydır kayıp",
-          "summary": "Almanya Başbakanı Friedrich Merz'in bir aydır devam eden tatili ülkede eleştiri konusu oldu. Merz, Almanya'nın aşırı sıcaklar, orman yangınları ve kuraklık gibi sorunlarla uğraştığı dönemi tatilde geçirmeyi tercih etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanya-basbakani-merz-bir-aydir-kayip-43280743"
+          "title": "Zelenski duyurdu: AVM saldırısında can kaybı 14’e yükseldi",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun bir alışveriş merkezine (AVM) düzenlediği saldırı nedeniyle hayatını kaybedenlerin sayısının 14'e çıktığını bildirdi. Zelenski, sosyal medya hesabından yaptığı açıklamada, Dnipropetrovsk bölgesine bağlı Kriviy Rig kentindeki bir AVM'ye yönelik silahlı insansız hava araçlarıyla (SİHA) bugün gerçekleştirilen saldırıdan sonra devam eden arama kurtarma çalışmalarını değerlendirdi.",
+          "source": "https://www.ntv.com.tr/dunya/zelenski-duyurdu-avm-saldirisinda-can-kaybi-14e-yukseldi-1738336"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Galatasaray, Elias Jelert'in ayrılığını resmen açıkladı!. Acun Ilıcalı, İngiliz BBC'ye açıkladı: Premier Lig en büyük başarım. UEFA ülke puan sıralaması güncel liste 21 Ağustos 2026 || Türkiye UEFA ülke puanı tablosunda kaçıncı sırada, kaç puanı var?. Trabzonspor'a 35 milyon euroluk dev golcü! Görüşmeler başladı. İstanbul’da 10 koşuluk program! İşte Misli’den günün altılı analizi…. 30.149.380 TL devreden Spor Toto’da ikramiye katlanıyor, heyecan artıyor!. Teknik direktörü 'bırakmayacağız' demişti: Ismaila Sarr, Galatasaray için gemileri yaktı!.",
+      "text": "Okan Buruk'tan Erzurum'da maç sonu transfer açıklaması!. Bursaspor, Karagümrük deplasmanında mağlup!. Barış Alper Yılmaz'dan performans yanıtı!. Victor Osimhen'den muazzam seri! Parmak ısırtan istatistik. Daniele Santarelli: 'İyi bir voleybol oynadığımızı düşünüyorum!'. Aziz Yıldırım’dan Fenerbahçe’ye ziyaret!. Galatasaray, Elias Jelert'in ayrılığını resmen açıkladı!.",
       "items": [
+        {
+          "title": "Okan Buruk'tan Erzurum'da maç sonu transfer açıklaması!",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Erzurumspor FK'yı 4-0 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-erzurumda-mac-sonu-transfer-aciklamasi-43281145"
+        },
+        {
+          "title": "Bursaspor, Karagümrük deplasmanında mağlup!",
+          "summary": "Fatih Karagümrük, Trendyol 1. Lig'in üçüncü haftasında Bursaspor'u evinde 2-1 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursaspor-karagumruk-deplasmaninda-maglup-43281133"
+        },
+        {
+          "title": "Barış Alper Yılmaz'dan performans yanıtı!",
+          "summary": "Galatasaray'da Davinson Sanchez, Barış Alper Yılmaz ve Roland Sallai, Erzurumspor FK galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/baris-alper-yilmazdan-performans-yaniti-43281122"
+        },
+        {
+          "title": "Victor Osimhen'den muazzam seri! Parmak ısırtan istatistik",
+          "summary": "Galatasaray'ın Nijeryalı yıldızı Victor Osimhen, Erzurumspor ağlarını da boş geçmeyerek muazzam bir seriye imza attı. Son 14 Süper Lig maçının tamamında gole katkı sağlayan yıldız futbolcu, Avrupa'nın beş büyük liginde Aralık 2025'ten bu yana yalnızca Harry Kane'in gerisinde kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/victor-osimhenden-muazzam-seri-parmak-isirtan-istatistik-43281112"
+        },
+        {
+          "title": "Daniele Santarelli: 'İyi bir voleybol oynadığımızı düşünüyorum!'",
+          "summary": "A Milli Kadın Voleybol Takımı Başantrenörü Daniele Santarelli, Letonya'ya karşı alınan 3-0'lık galibiyet sonrası, \"Sadece kazanmak değil oyuna da doğru şekilde yaklaşmak istiyorduk. İyi bir voleybol oynadığımızı düşünüyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-iyi-bir-voleybol-oynadigimizi-dusunuyorum-43281096"
+        },
+        {
+          "title": "Aziz Yıldırım’dan Fenerbahçe’ye ziyaret!",
+          "summary": "Fenerbahçe Başkanı Aziz Yıldırım, bugün Samandıra Can Bartu Tesisleri'ni ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirimdan-fenerbahceye-ziyaret-43280951"
+        },
         {
           "title": "Galatasaray, Elias Jelert'in ayrılığını resmen açıkladı!",
           "summary": "Galatasaray, 23 yaşındaki Elias Jelert'in Le Havre'ye kiralandığını resmen açıkladı.",
           "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-elias-jelertin-ayriligini-resmen-acikladi-43280851"
-        },
-        {
-          "title": "Acun Ilıcalı, İngiliz BBC'ye açıkladı: Premier Lig en büyük başarım",
-          "summary": "Acun Ilıcalı’nın televizyon dünyasının zirvesine, oradan da Hull City ile Premier Lig’e uzanan dikkat çekici kariyer yolculuğu BBC’ye konu oldu. İngiliz yayın kuruluşu, Ilıcalı’nın başarı hikâyesini ve Hull City projesini özel bir röportajla izleyicilerine aktardı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicali-ingiliz-bbcye-acikladi-premier-lig-en-buyuk-basarim-43280824"
-        },
-        {
-          "title": "UEFA ülke puan sıralaması güncel liste 21 Ağustos 2026 || Türkiye UEFA ülke puanı tablosunda kaçıncı sırada, kaç puanı var?",
-          "summary": "UEFA ülke puanı sıralaması, Beşiktaş ve Trabzonspor mücadelelerinin ardından güncellendi. Beşiktaş, play-off turunda Kauno Zalgiris'le oynadığı ilk maçı 3-0 kazanarak rövanş öncesinde büyük avantaj sağladı. Trabzonspor, Ferencvaros'a 1-0 mağlup oldu. Dikkatle takip edilen müsabakaların ardından UEFA ülke puan sıralamasında Türkiye'nin puan durumu da güncellendi. Peki Türkiye UEFA ülke puanı tablosunda kaçıncı sırada, kaç puanı var? İşte, UEFA ülke puan sıralaması güncel tablo...",
-          "source": "https://www.hurriyet.com.tr/sporarena/galeri-turkiye-uefa-ulke-puani-tablosunda-kacinci-sirada-kac-puani-var-43280556"
-        },
-        {
-          "title": "Trabzonspor'a 35 milyon euroluk dev golcü! Görüşmeler başladı",
-          "summary": "Darwin Nunez transferini gerçekleştiremeyen Trabzonspor, Napoli'nin 2.01'lik golcüsü Lorenzo Lucca için görüşmelere başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspora-35-milyon-euroluk-dev-golcu-gorusmeler-basladi-43280726"
-        },
-        {
-          "title": "İstanbul’da 10 koşuluk program! İşte Misli’den günün altılı analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-10-kosuluk-program-iste-misliden-gunun-altili-analizi-43280684"
-        },
-        {
-          "title": "30.149.380 TL devreden Spor Toto’da ikramiye katlanıyor, heyecan artıyor!",
-          "summary": "Yeni sezonun başlamasıyla birlikte Spor Toto’da artan heyecan, geçtiğimiz hafta 15 bilen çıkmayınca iyice yükseldi. İlk hafta programından 30.149.380 TL bu haftaya devretti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/30-149-380-tl-devreden-spor-totoda-ikramiye-katlaniyor-heyecan-artiyor-43280676"
-        },
-        {
-          "title": "Teknik direktörü 'bırakmayacağız' demişti: Ismaila Sarr, Galatasaray için gemileri yaktı!",
-          "summary": "Galatasaray'ın kişisel şartlarda anlaşmaya vardığı ancak kulübü Crystal Palace'ı henüz ikna edemediği Senegalli futbolcu Ismaila Sarr, sarı-kırmızılı takım transfer olabilmek için kulübüne rest çekme noktasına geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/teknik-direktoru-birakmayacagiz-demisti-ismaila-sarr-galatasaray-icin-gemileri-yakti-43280634"
         }
       ]
     },
