@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-24T04:00:05.842Z",
+  "generatedAt": "2026-08-24T10:00:06.036Z",
   "categories": {
     "gundem": {
-      "text": "Dükkana dalan sürücü aracı bırakıp kaçtı. Ankara'da ağaçlık alanda yangın. Bir kişi gözaltına alındı. Ankara'daki yangın 8 saatte söndürüldü. Yangının çıkış anı kamerada. Baba-oğul arasında sigara parası kavgası. Birbirlerini bıçakla yaraladılar. İki kişi kimyasaldan zehirlendi: Acil servis geçici olarak kapatıldı. TEM'de motosikletlilere müdahale. Barikat kuruldu, 58 sürücü yakalandı. Nikah masasından tribüne geldiler. Gelin ve damat maç sonu sahada çiftetelli oynadı.",
+      "text": "Denizde akıntıya kapılıp boğulan 16 yaşındaki Kerem Can son yolculuğuna uğurlandı. 1 kilosu 700 lira. Tezgahta yerini aldı. Şişli'de ilginç olay! Sesleri tüm mahallede yankılandı: Üvey kardeş ve abla, anneleriyle tekme tokat kavga etti. Robert Koleji mezunu girişimciden yerli hayvancılığa genetik destek: Çiftliğinde ürettiği yerli spermaların satışına başladı. İki milyon liralık altınla kaçan kuyumcu kuryesi çatıda yakalandı. 6 Şubat depremlerinde hasar gören iki tarihi cami Mevlid Kandili’nde yeniden ibadete açılıyor. 17 yaşındaki Oğuzhan'ın öldüğü feci kaza kamerada.",
       "items": [
         {
-          "title": "Dükkana dalan sürücü aracı bırakıp kaçtı",
-          "summary": "Bursa'da bir otomobil giyim mağazasının vitrininden içeri girdi. Yaşanan kaza sonrası sürücü firar etti. Bahar Mahallesi Doktor Sadık Ahmet Caddesi üzerinde, 16 NE 260 plakalı araç henüz bilinmeyen bir nedenle giyim mağazasının vitrininden içeri girdi. Kaza sonrası araç sürücüsü olay yerinden kaçarken, kazayı görenler durumu 112 Acil Servis Hattı'na bildirdi. İş yerine gelen mağaza sahibi ise karşılaştığı manzara karşısında büyük şaşkınlık yaşadı.",
-          "source": "https://www.ntv.com.tr/turkiye/dukkana-dalan-surucu-araci-birakip-kacti-1738628"
+          "title": "Denizde akıntıya kapılıp boğulan 16 yaşındaki Kerem Can son yolculuğuna uğurlandı",
+          "summary": "Adana’nın Yumurtalık ilçesinde serinlemek için girdiği denizde akıntıya kapılarak yaşamını yitiren 16 yaşındaki lise öğrencisi Kerem Can Kekeç, Kozan'da gözyaşları arasında toprağa verildi. Kozan Fen Lisesi öğrencisi Kekeç'in cenaze törenine ailesinin yanı sıra Saimbeyli Belediye Başkanı Mahmut Dal, İlçe Milli Eğitim Müdürü Özgür Çelik, öğretmenleri ve okul arkadaşları katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/denizde-akintiya-kapilip-bogulan-16-yasindaki-kerem-can-son-yolculuguna-ugurlandi-43283335"
         },
         {
-          "title": "Ankara'da ağaçlık alanda yangın. Bir kişi gözaltına alındı",
-          "summary": "Ankara'nın Mamak ilçesinde ağaçlık alanda yangın çıktı. Ankara Valiliği, yangına neden olduğu belirlenen bir kişinin gözaltına alındığını açıkladı. Ankara'nın Mamak ilçesinde, Başak Mahallesi Hüseyingazi Türbe Yolu'ndaki ağaçlık alanda dün akşam saatlerinde henüz belirlenmeyen nedenle yangın çıktı. Alevler hızla yayılırken, bölgeye itfaiye ekiplerinin yanı sıra diğer kamu kurum ve kuruluşlarına bağlı ekipler de sevk edildi. Yangına 47 araç ve 148 personelle müdahale edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ankarada-agaclik-alanda-yangin-bir-kisi-gozaltina-alindi-1738617"
+          "title": "1 kilosu 700 lira. Tezgahta yerini aldı",
+          "summary": "Şanlıurfa'da yetişen tescilli Ketenköyneği yeni mahsul fıstık tezgahlardaki yerini aldı. Sezonun ilk ürünleri kilogramı 700 liradan satışa sunuldu. Şanlıurfa'da fıstık sezonu açıldı. Sabahın erken saatlerinden itibaren fıstık tarlalarına giden işçiler, fıstık hasadı gerçekleştirdi. Hasat edilen sezonun ilk ürünü, tüccarlar tarafından halk pazarına götürülerek satışa sunuldu. Yaş fıstık satışı yapan birçok tezgahtar, hal pazarına giderek fıstık satın aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-1-kilosu-700-lira-tezgahta-yerini-aldi-1738688"
         },
         {
-          "title": "Ankara'daki yangın 8 saatte söndürüldü. Yangının çıkış anı kamerada",
-          "summary": "Ankara’nın Mamak ilçesinde ekiplerin yaklaşık 8 saat süren çalışmasıyla kontrol altına aldığı yangının çıkış anına ilişkin cep telefonu kamerası ile çekilen görüntüler ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-ankaradaki-yangin-8-saatte-sonduruldu-yanginin-cikis-ani-kamerada-1738624"
+          "title": "Şişli'de ilginç olay! Sesleri tüm mahallede yankılandı: Üvey kardeş ve abla, anneleriyle tekme tokat kavga etti",
+          "summary": "Şişli'de velayeti kendisinde bulunan üvey kardeşi ile birlikte annesi R.Ş.E.'nin yaşadığı binaya giden kadın, anne R.Ş.E. ile tartıştı. Tartışmanın büyümesi üzerine anne ile kardeşler birbirine fiziki saldırıda bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/sislide-ilginc-olay-uvey-kardesiyle-birlikte-annesine-saldirip-kadindan-sikayetci-oldular-43283302"
         },
         {
-          "title": "Baba-oğul arasında sigara parası kavgası. Birbirlerini bıçakla yaraladılar",
-          "summary": "Kayseri’nin merkez Melikgazi ilçesinde baba ve oğlu \"sigara parası\" nedeniyle birbirlerini yaraladı. Edinilen bilgiye göre, ilçeye bağlı Şirintepe Mahallesi Necip Fazıl Kısakürek Caddesi üzerinde meydana gelen olayda, düğünden ikametlerine dönen A.O.'nun iddiaya göre babası M.O.'dan sigara parası istemesi üzerine ikili arasında tartışma çıktı. Tartışmanın büyüyerek, kavgaya dönüşmesi üzerine bıçaklarla birbirlerine saldıran baba ve oğlu yaralandı.",
-          "source": "https://www.ntv.com.tr/turkiye/baba-ogul-arasinda-sigara-parasi-kavgasi-birbirlerini-bicakla-yaraladilar-1738623"
+          "title": "Robert Koleji mezunu girişimciden yerli hayvancılığa genetik destek: Çiftliğinde ürettiği yerli spermaların satışına başladı",
+          "summary": "Robert Koleji ve Sabancı Üniversitesi mezunu Sinan Kolat, Kırklareli'nde kurduğu çiftlikte hayvan varlığını 3 bin 100 başa çıkararak Türkiye'nin örnek işletmelerinden biri haline getirdi. Ankara’daki Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi ile ortaklaşa yerli boğa sperması üreten Kolat, sığır genetiğini geliştirmeyi amaçlayan proje kapsamında ilk satışlara başladıklarını belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/robert-koleji-mezunu-girisimciden-yerli-hayvanciliga-genetik-destek-ciftliginde-urettigi-yerli-spermalarin-satisina-basladi-43283305"
         },
         {
-          "title": "İki kişi kimyasaldan zehirlendi: Acil servis geçici olarak kapatıldı",
-          "summary": "Ankara'nın Sincan ilçesinde 2 kişinin kimyasaldan zehirlenmesinin ardından acil servis tedbir amaçlı geçici olarak kapatıldı. Edinilen bilgilere göre, 2 kişinin kimyasal zehirlenme sonucu akşam saatlerinde Sincan Eğitim ve Araştırma Hastanesi’nin acil servisine getirilmesinin ardından henüz bilinmeyen bir nedenden dolayı acil servis geçici olarak hizmete kapatıldı. Tedbir amacıyla acil servisteki hastalar ve hasta yakınları bina dışına çıkarıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/iki-kisi-kimyasaldan-zehirlendi-acil-servis-gecici-olarak-kapatildi-1738622"
+          "title": "İki milyon liralık altınla kaçan kuyumcu kuryesi çatıda yakalandı",
+          "summary": "İstanbul Kağıthane'de iki milyon lira değerindeki altın ve dövizleri teslim aldıktan sonra kayıplara karışan kurye, 27 gün sonra saklandığı evde yakalanıp tutuklandı. İstanbul'da iki milyon liralık altınla kaybolan kurye drone destekli operasyonla çatıda yakalandı. Olay, 26 Temmuz Pazar günü saat 15.30 sıralarında Kağıthane ilçesi Nurtepe Mahallesi’nde meydana geldi. Şişli’deki bir kuyumcuda kurye olarak çalışan Deniz B.’ye (30) iddialara göre iş yeri sahibi Mustafa K.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-iki-milyon-liralik-altinla-kacan-kuyumcu-kuryesi-catida-yakalandi-1738681"
         },
         {
-          "title": "TEM'de motosikletlilere müdahale. Barikat kuruldu, 58 sürücü yakalandı",
-          "summary": "İstanbul TEM otoyolunda, polisi gören motosikletliler ters yönde hareket ederek kaçmaya çalışsalar da, polis araçlarıyla kurulan barikatı aşamadılar. 58 sürücüsü gözaltına alındı. Polis, İstanbul'da TEM otoyolu Cebeci tünelinde bazı kişilerin motosikletlerini, trafiği tehlikeye düşürecek şekilde kullandıkları ihbarı üzerine harekete geçti. Şüpheli sürücüler dronla tespit edilirken, otoyola polis araçlarıyla barikat kuruldu.",
-          "source": "https://www.ntv.com.tr/turkiye/video-temde-motosikletlilere-mudahale-barikat-kuruldu-58-surucu-yakalandi-1738621"
+          "title": "6 Şubat depremlerinde hasar gören iki tarihi cami Mevlid Kandili’nde yeniden ibadete açılıyor",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, 6 Şubat depremlerinde hasar gören Gaziantep Bostancı Camii ile Şanlıurfa Birecik Mahmut Paşa Camii’nin restorasyon çalışmalarının tamamlandığını açıkladı. İki tarihî cami Mevlid Kandili’nde kılınacak öğle namazıyla yeniden ibadete açılırken 81 ildeki tarihî camilerde vakıf ecdadının ruhuna ithafen okunan 1001 hatmin duası yapılacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/6-subat-depremlerinde-hasar-goren-iki-tarihi-cami-mevlid-kandilinde-yeniden-ibadete-aciliyor-43283292"
         },
         {
-          "title": "Nikah masasından tribüne geldiler. Gelin ve damat maç sonu sahada çiftetelli oynadı",
-          "summary": "Bursa'da düğün günü final maçına denk gelen Yakup Birol ile Merve Çetinkaya, gelinlik ve damatlıklarıyla tribündeki yerini alarak takımlarına destek verdi. İnegöl Kaymakamlığı ile Manav Yörük Türkmen Boyları Federasyonu iş birliğinde düzenlenen köyler arası futbol turnuvasında Tahtaköprü Spor Kulübü ile Çavuşköy Spor Kulübü arasında final heyecanı yaşandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-nikah-masasindan-tribune-geldiler-gelin-ve-damat-mac-sonu-sahada-ciftetelli-oynadi-1738619"
+          "title": "17 yaşındaki Oğuzhan'ın öldüğü feci kaza kamerada",
+          "summary": "17 yaşındaki genç, bariyerlerin üstünden atlayarak yolun karşına geçmeye çalıştığı sırada otobüsün çarpması sonucu hayatını kaybetmişti. Samsun'un Bafra ilçesindeki kazanın araç içi kamera görüntüleri ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/17-yasindaki-oguzhanin-oldugu-feci-kaza-kamerada-43283294"
         }
       ]
     },
     "dunya": {
-      "text": "Komisyondan geçti. İran, Hürmüz Boğazı'ndan geçen gemilerden ücret alacak. Çöp yığını evleri yuttu. Tonlarca atık altında kalan 30 kişi öldü. ABD’nin Nevada eyaletinde orman yangını: 87 bin kişi tahliye edildi. Suriye ve İsrail, Ürdün'de masaya oturdu. Türkiye-İsrail gerilimini ele aldı. İran medyasında paylaşıldı. Trump'ın oğlunun bilgileri ifşa edildi. Pentagon'dan 'İran' bilançosu: Yaralı ABD askeri sayısı 750'yi aştı. İran'da on milyarlarca dolar değerinde doğalgaz rezervi bulundu.",
+      "text": "Yunanistan'dan Girit Adası'na Patriot hamlesi: Transfer süreci başladı. ABD ordusundan Pasifik'te bir tekneye saldırı: 2 kişi hayatını kaybetti. AB ülkeleri, petrol şirketlerine fahiş kâr vergisi istiyor. Atina'da turizm patlaması, uçaklar gökyüzüne sığamadı. Uydu görüntüleriyle tespit edildi: İran'da gizemli çalışma. Bir ülke daha çocuklara sosyal medyayı yasaklamayı planlıyor. ABD'nin Ankara Büyükelçisi Barrack'tan Suriye açıklaması.",
       "items": [
         {
-          "title": "Komisyondan geçti. İran, Hürmüz Boğazı'ndan geçen gemilerden ücret alacak",
-          "summary": "İran'ın Hürmüz Boğazı'ndan geçen gemilerden hizmet karşılığında ücret alınmasını öngören madde komisyonda kabul edildi. İran resmi haber ajansı IRNA'ya göre, Meclis Ulusal Güvenlik ve Dış Politika Komisyonu Sözcüsü Hasan Kaşkavi, komisyonun bugünkü toplantısında \"Hürmüz Boğazı'nın Güvenliğinin ve Kalkınmasının Sağlanmasına Yönelik Stratejik Eylem Planı\" adlı tasarının görüşülmesine devam edildiğini belirtti. Kaşkavi, önceki toplantıda görüşülmesi ertelenen 3.",
-          "source": "https://www.ntv.com.tr/dunya/komisyondan-gecti-iran-hurmuz-bogazindan-gecen-gemilerden-ucret-alacak-1738627"
+          "title": "Yunanistan'dan Girit Adası'na Patriot hamlesi: Transfer süreci başladı",
+          "summary": "Yunanistan, İran'ın Avrupa'daki ABD üslerine saldırma tehditleri üzerine Karpathos adasından Girit'teki Souda Körfezi'ne bir Patriot hava savunma bataryası transfer etmeye başladı. Batarya, stratejik öneme sahip Souda Üssü yakınlarına konuşlandırılacak.",
+          "source": "https://www.hurriyet.com.tr/dunya/yunanistandan-girit-adasina-patriot-hamlesi-transfer-sureci-basladi-43283331"
         },
         {
-          "title": "Çöp yığını evleri yuttu. Tonlarca atık altında kalan 30 kişi öldü",
-          "summary": "Gine'de çöp depolama alanındaki devasa yığın, şiddetli yağışların ardından çöktü. Tonlarca çöpün altında kalan 30 kişi hayatını kaybetti, 22 kişi yaralandı. Başkent Konakri'de bir çöp depolama alanında toprak kayması meydana geldi. Şiddetli yağışların ardından devasa çöp yığını çöktü, çevredeki evler ve barakalar tonlarca atığın altında kaldı. Çöken atıkların altında kalanları kurtarmak için bölgeye ekipler sevk edildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-cop-yigini-evleri-yuttu-tonlarca-atik-altinda-kalan-30-kisi-oldu-1738626"
+          "title": "ABD ordusundan Pasifik'te bir tekneye saldırı: 2 kişi hayatını kaybetti",
+          "summary": "Doğu Pasifik’te operasyonlarını sürdüren ABD ordusu, uyuşturucu taşıdığı öne sürülen bir tekneyi vurdu. Saldırıda 2 kişinin yaşamını yitirdiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ordusundan-pasifikte-bir-tekneye-saldiri-2-kisi-hayatini-kaybetti-43283280"
         },
         {
-          "title": "ABD’nin Nevada eyaletinde orman yangını: 87 bin kişi tahliye edildi",
-          "summary": "ABD’nin Nevada eyaletindeki çıkan orman yangınında 61 bin dönümlük alan küle döndü, 87 bin kişiye tahliye uyarısı yapıldı. ABD’nin Nevada eyaletindeki Reno kenti yakınlarında cumartesi günü başlayan orman yangınıyla mücadele sürerken, felaketin yol açtığı zarar büyüdü. Yerel basında yer alan bilgilere göre; yangında küle dönen alanın boyutu yaklaşık 61 bin dönüme ulaşırken, 42 bin bölge sakinine \"derhal tahliye\" (GO NOW) uyarısı yapıldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdnin-nevada-eyaletinde-orman-yangini-87-bin-kisi-tahliye-edildi-1738625"
+          "title": "AB ülkeleri, petrol şirketlerine fahiş kâr vergisi istiyor",
+          "summary": "Avrupa Birliği üyesi altı ülke, İran'ın Hürmüz Boğazı'nı abluka altına almasıyla artan petrol fiyatları karşısında petrol şirketlerine fahiş kâr vergisi getirilmesini istedi. Avrupa Birliği üyesi altı ülke, İran'ın Hürmüz Boğazı'nı abluka altına alması sebebiyle petrol şirketlerinin elde ettiği fahiş kârları vergilendirecek bir mekanizmanın eylül ayında 27 üyeli birlikte ele alınmasını istiyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ab-ulkeleri-petrol-sirketlerine-fahis-kar-vergisi-istiyor-1738672"
         },
         {
-          "title": "Suriye ve İsrail, Ürdün'de masaya oturdu. Türkiye-İsrail gerilimini ele aldı",
-          "summary": "İsrail'in Suriye'deki bir hava üssünü, Türkiye'nin olası askeri varlığını gerekçe göstererek vurmasının ardından Şam ve Tel Aviv Ürdün'de masaya oturdu. Suriye Dışişleri Bakanı Hasan Şeybani ile İsrail istihbaratı Mossad'ın Başkanı Roman Gofman ABD arabuluculuğunda bir araya geldi. Suriye resmi ajansı SANA'ya göre taraflar, Türkiye ile İsrail arasındaki görüş ayrılıklarını azaltmayı ele aldı. İki ülke arasındaki mevcut gerilimin Suriye topraklarına yansımamasını sağlamaya yönelik çabalar da masaya yatırıldı.",
-          "source": "https://www.ntv.com.tr/dunya/suriye-ve-israil-urdunde-masaya-oturdu-turkiye-israil-gerilimini-ele-aldi-1738614"
+          "title": "Atina'da turizm patlaması, uçaklar gökyüzüne sığamadı",
+          "summary": "Turizm sezonunun en yoğun olduğu dönemde uçuş seferlerindeki artış, Atina hava trafik kontrolünün sınırlarını zorluyor Yunanistan Sivil Havacılık Otoritesi'ne göre, sefer sayısının düşük olduğu bir sezonda Yunanistan havaalanları genellikle günde 1000 ila 1500 uçuşa ev sahipliği yapıyor. Buna karşılık, Temmuz ayının ilk haftasında günde ortalama 2 bin 700 uçuşa ev sahipliği yaptıkları bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-atinada-turizm-patlamasi-ucaklar-gokyuzune-sigamadi-1738666"
         },
         {
-          "title": "İran medyasında paylaşıldı. Trump'ın oğlunun bilgileri ifşa edildi",
-          "summary": "ABD Başkanı Donald Trump’ın oğlu Barron Trump’la ilgili İran medyasında dikkat çekici bir haber hazırlandı. Haberde, Barron’ın sıklıkla bulunduğu adresler açıkça ifşa ediliyor.",
-          "source": "https://www.ntv.com.tr/dunya/video-iran-medyasinda-paylasildi-trumpin-oglunun-bilgileri-ifsa-edildi-1738620"
+          "title": "Uydu görüntüleriyle tespit edildi: İran'da gizemli çalışma",
+          "summary": "ABD ile İran arasındaki gerilim Washington yönetiminin ekonomik savaş ilanıyla tırmanırken, Tahran savaş hazırlıklarına hız verdi. Uydu görüntüleri, Devrim Muhafızları'nın Elburz bölgesinde yoğun faaliyet yürüttüğünü ortaya çıkardı. Uydu görüntüsü analiz şirketi Soar Atlas, görüntülerin yeni inşa edilen bir yer altı tesisine ait olduğunu öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/uydu-goruntuleriyle-tespit-edildi-iranda-gizemli-calisma-43283156"
         },
         {
-          "title": "Pentagon'dan 'İran' bilançosu: Yaralı ABD askeri sayısı 750'yi aştı",
-          "summary": "ABD Savunma Bakanlığı (Pentagon) kayıp raporlama sisteminden alınan son verilere göre, ABD-İran savaşındaki ABD'li yaralı asker sayısının en az 756'ya yükseldiği tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/pentagondan-iran-bilancosu-yarali-abd-askeri-sayisi-750yi-asti-43282974"
+          "title": "Bir ülke daha çocuklara sosyal medyayı yasaklamayı planlıyor",
+          "summary": "Yeni Zelanda hükümeti, 16 yaşından küçüklerin sosyal medya kullanımını yasaklamayı hedefleyen Çevrim İçi Güvenlik Yasa Tasarısı'nı parlamentoya sunacağını duyurdu. Yeni Zelanda hükümeti, 16 yaşından küçük çocukların sosyal medya platformlarını kullanmasını yasaklamayı amaçlayan yasa tasarısını pazartesi günü parlamentoya sunacağını duyurdu. Bu adımla birlikte Yeni Zelanda; gençleri Instagram ve TikTok gibi platformlardan uzak tutmayı hedefleyen ülkelerin arasına katılıyor.",
+          "source": "https://www.ntv.com.tr/dunya/bir-ulke-daha-cocuklara-sosyal-medyayi-yasaklamayi-planliyor-1738660"
         },
         {
-          "title": "İran'da on milyarlarca dolar değerinde doğalgaz rezervi bulundu",
-          "summary": "İran Petrol Bakanı Muhsin Paknejad, Fars vilayetinin güneyinde 7,5 trilyon fit küpün üzerinde doğalgaz barındıran yeni bir saha keşfedildiğini duyurdu. İran Petrol Bakanı Muhsin Paknejad, ülkenin en büyük yeni doğalgaz rezervlerinden birinin Fars vilayetinin güneyinde keşfedildiğini bildirdi. Resmi medya ve İran basınında yer alan açıklamalara göre sahada 7,5 trilyon fit küpün üzerinde doğalgaz bulunuyor.",
-          "source": "https://www.ntv.com.tr/dunya/iranda-on-milyarlarca-dolar-degerinde-dogalgaz-rezervi-bulundu-1738578"
+          "title": "ABD'nin Ankara Büyükelçisi Barrack'tan Suriye açıklaması",
+          "summary": "ABD, Suriye'nin toprağı Golan Tepeleri'ni işgal ettiğini duyuran İsrail'e yanıt verdi. Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Tom Barrack, ülkesinin Suriye'de izlediği politikanın aynı kaldığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdnin-ankara-buyukelcisi-barracktan-suriye-aciklamasi-43283122"
         }
       ]
     },
     "ekonomi": {
-      "text": "İran’dan ABD'nin baskı politikasına tepki: Bumerang gibi kendisine dönecek. Almanya’da ekonomik reform alarmı. Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük. Borsa günü yükselişle tamamladı. Sezonun ilk kuru inciri 600 TL. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor.",
+      "text": "Pakistan’dan krize müdahale… Asım Münir bugün Tahran’da. İzmir'de tarıma can suyu. İran’dan ABD'nin baskı politikasına tepki: Bumerang gibi kendisine dönecek. Almanya’da ekonomik reform alarmı. Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük. Borsa günü yükselişle tamamladı. Sezonun ilk kuru inciri 600 TL.",
       "items": [
+        {
+          "title": "Pakistan’dan krize müdahale… Asım Münir bugün Tahran’da",
+          "summary": "ABD ile İran arasında “ekonomik savaşa” dönüşen gerilim devam ederken, Pakistan Genelkurmay Başkanı Mareşal Asım Münir’in resmi bir heyet başkanlığında bugün Tahran’ı ziyaret edeceği açıklandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/pakistandan-krize-mudahale-asim-munir-bugun-tahranda-43282957"
+        },
+        {
+          "title": "İzmir'de tarıma can suyu",
+          "summary": "Selçuk Merkez Yüzey Altı Sulama Damla Sulama Tesisi, daha önce susuzluk nedeniyle atıl kalan 2 bin dönüm araziyi yeniden üretime açtı. 280 futbol sahası büyüklüğündeki alanda ayva, nar, şeftali, narenciye ve sebze üretimi yaygınlaşırken, damla sulama ve ön ödemeli sayaç sistemiyle suyun daha verimli kullanılması sağlandı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmirde-tarima-can-suyu-43282985"
+        },
         {
           "title": "İran’dan ABD'nin baskı politikasına tepki: Bumerang gibi kendisine dönecek",
           "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin İran'a yönelik ekonomik baskı politikalarının sonuçlarının Washington'ın ekonomisini de etkileyeceğini ve \"bumerang gibi\" kendisine döneceğini ifade etti.",
@@ -110,56 +120,46 @@
           "title": "Sezonun ilk kuru inciri 600 TL",
           "summary": "AYDIN Söke’de 2026 yılı kuru incir sezonunun ilk ürünü, Ticaret Borsası’nda düzenlenen törenle sembolik olarak kilogramı 600 TL’den satın alındı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sezonun-ilk-kuru-inciri-600-tl-43277695"
-        },
-        {
-          "title": "Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız",
-          "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin dış ticarette büyümeye devam ettiğini belirterek, \"Türkiye 250 milyon dolar savunma sanayi ihracatı yaparken, 2025 sonunda 10 milyar 50 milyon dolar yaptı. Bu yıl inşallah sanayi savunma ihracatında 12,5. milyar doları aşacağız\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ticaret-bakani-bolat-bu-yil-savunma-sanayi-ihracatinda-12-5-milyar-dolari-asacagiz-43276335"
-        },
-        {
-          "title": "İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor",
-          "summary": "TÜRKİYE temmuzda 25.6 milyar dolarla bugüne kadarki en yüksek temmuz ayı ihracatına ulaşırken, son 12 aylık ihracat 278.6 milyar dolara çıktı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izsiad-baskani-yuksel-ihracat-artiyor-ama-sanayi-guc-kaybediyor-43271358"
         }
       ]
     },
     "spor": {
-      "text": "Barcelona'dan muazzam başlangıç!. Vincenzo Italiano: 'Kaybetmeyi hak etmedik'. Alanya'da kırmızı kart beklentisi: Beşiktaş'tan 'sezon başladı' tepkisi!. Enes Ünal attı, Getafe kazandı!. Mirel Radoi: 'Ligi ilk 10'da bitirmeyi düşünüyoruz!'. Ertuğrul Doğan: 'Biz kimseyle kavga etmek istemiyoruz!'. Fatih Tekke: 'Salah saha dışında da profesyonel!'.",
+      "text": "Trabzonspor’un yeni transferi Fabinho geldi! ‘Ne kadar gücüm varsa yapacağım’. Fenerbahçe Tarfin EuroLeague Süper Kupa'da mücadele edecek!. Filenin Sultanları, Macaristan karşısında! Maçın heyecanı Misli'de. Kocaelispor ve Amedspor karşı karşıya geliyor! Maçın heyecanı Misli'de. Red Bull Uçuş Günü İstanbul’da 'Uçuş Serbest' Dedi. Alanyaspor - Beşiktaş maçı sonrası Nihat Kahveci'den sert sözler: 'Bırakın bu işi!'. Lyon-Fenerbahçe maçının hakemi belli oldu.",
       "items": [
         {
-          "title": "Barcelona'dan muazzam başlangıç!",
-          "summary": "Barcelona, İspanya La Liga'nın 2. haftasında Elche'yi 5-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/barcelonadan-muazzam-baslangic-43282928"
+          "title": "Trabzonspor’un yeni transferi Fabinho geldi! ‘Ne kadar gücüm varsa yapacağım’",
+          "summary": "Trabzonspor’un yeni transferi Brezilyalı orta saha oyuncusu Fabinho, şehre vardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yeni-transferi-fabinho-geldi-ne-kadar-gucum-varsa-yapacagim-43283303"
         },
         {
-          "title": "Vincenzo Italiano: 'Kaybetmeyi hak etmedik'",
-          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Alanyaspor'u 1-0 yendikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-kaybetmeyi-hak-etmedik-43282902"
+          "title": "Fenerbahçe Tarfin EuroLeague Süper Kupa'da mücadele edecek!",
+          "summary": "Fenerbahçe Tarfin, bu yıl ilk kez düzenlenecek EuroLeague Süper Kupa organizasyonunda mücadele edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-euroleague-super-kupada-mucadele-edecek-43283293"
         },
         {
-          "title": "Alanya'da kırmızı kart beklentisi: Beşiktaş'tan 'sezon başladı' tepkisi!",
-          "summary": "Beşiktaş, Alanya'da oynanan maçın ilk yarısında yaşanan pozisyon için kırmızı kart bekledi. Ancak VAR'dan bir uyarı gelmeyince siyah-beyazlılar, sosyal medyadan tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/alanyada-kirmizi-kart-beklentisi-besiktastan-sezon-basladi-tepkisi-43282853"
+          "title": "Filenin Sultanları, Macaristan karşısında! Maçın heyecanı Misli'de",
+          "summary": "A Milli Kadın Voleybol Takımımız bu akşam (24 Ağustos) Macaristan ile karşı karşıya gelecek. Maçın heyecanı canlı yayın ile Misli'de.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-macaristan-karsisinda-macin-heyecani-mislide-43283284"
         },
         {
-          "title": "Enes Ünal attı, Getafe kazandı!",
-          "summary": "Getafe, LaLiga'nın ikinci haftasında Santender'i 1-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/enes-unal-atti-getafe-kazandi-43282850"
+          "title": "Kocaelispor ve Amedspor karşı karşıya geliyor! Maçın heyecanı Misli'de",
+          "summary": "Süper Lig'in 2. haftasında Kocaelispor, evinde Amedspor'u ağırlıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kocaelispor-ve-amedspor-karsi-karsiya-geliyor-macin-heyecani-mislide-43283234"
         },
         {
-          "title": "Mirel Radoi: 'Ligi ilk 10'da bitirmeyi düşünüyoruz!'",
-          "summary": "Gaziantep FK Teknik Direktörü Mirel Radoi, sezon hedeflerinin ligi ilk 10 içerisinde tamamlamak olduğunu belirterek, bu doğrultuda mücadele etmeye hazır olduklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mirel-radoi-ligi-ilk-10da-bitirmeyi-dusunuyoruz-43282849"
+          "title": "Red Bull Uçuş Günü İstanbul’da 'Uçuş Serbest' Dedi",
+          "summary": "Dört yıl aradan sonra İstanbul’a dönen Red Bull Uçuş Günü, İstanbul’da yüz binlerce kişiyi bir araya getirdi. Yaklaşık 8 bin başvuru arasından seçilen 30 takımın kendi tasarladıkları uçuş makineleriyle mücadele ettiği Red Bull Uçuş Günü’nde, Skyby-Doo takımı birinci oldu. Bu yıl Red Bull Uçuş Günü'nde ilk kez halk oylaması yapılırken, 26 bin oy kullanıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/red-bull-ucus-gunu-istanbulda-ucus-serbest-dedi-43283251"
         },
         {
-          "title": "Ertuğrul Doğan: 'Biz kimseyle kavga etmek istemiyoruz!'",
-          "summary": "Trabzonspor Başkanı Ertuğrul Doğan, iki yıldır bir planlama içerisinde olduklarını belirterek, \"Bizim niyetimiz kimseyle kavga etmek, tartışmaya girmek değil. Kimse de bizimle kavga etmek istemesin\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogan-biz-kimseyle-kavga-etmek-istemiyoruz-43282842"
+          "title": "Alanyaspor - Beşiktaş maçı sonrası Nihat Kahveci'den sert sözler: 'Bırakın bu işi!'",
+          "summary": "Beşiktaş, Süper Lig 2. hafta maçında Alanyaspor'a deplasmanda 1-0 mağlup oldu. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-besiktas-maci-sonrasi-nihat-kahveciden-sert-sozler-birakin-bu-isi-43283227"
         },
         {
-          "title": "Fatih Tekke: 'Salah saha dışında da profesyonel!'",
-          "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Başakşehir karşısında önemli bir galibiyet aldıklarını belirterek, takımın zamanla daha iyi seviyeye geleceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-salah-saha-disinda-da-profesyonel-43282798"
+          "title": "Lyon-Fenerbahçe maçının hakemi belli oldu",
+          "summary": "UEFA Şampiyonlar Ligi play-off turu 2. maçında temsilcimiz Fenerbahçe'nin Lyon ile karşılaşacağı müsabakanın hakemi açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lyon-fenerbahce-macinin-hakemi-belli-oldu-43283231"
         }
       ]
     },
