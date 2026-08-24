@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-23T10:00:03.606Z",
+  "generatedAt": "2026-08-24T04:00:05.842Z",
   "categories": {
     "gundem": {
-      "text": "TEKNOFEST Mavi Vatan'a görkemli veda. 57 yıllık yeşil duvar. Rayların iki yanına dikilmiş. Termometreler 46 dereceyi gösterdi: Otobüs duraklarında vantilatörlü önlem | Uzman isim tarih verdi: Sıcaklık daha da artacak. Robotaksi Binek Otonom Araç Yarışması Kocaeli'de. Rus yüzücünün yaşamını yitirdiği 38. Boğaziçi Kıtalararası Yüzme Yarışı'nda yeni önlemler. 73 orman yangınına soruşturma. 12 kişi tutuklandı. Bakan Gürlek: 73 orman yangınına ilişkin soruşturmalarda 12 tutuklama.",
+      "text": "Dükkana dalan sürücü aracı bırakıp kaçtı. Ankara'da ağaçlık alanda yangın. Bir kişi gözaltına alındı. Ankara'daki yangın 8 saatte söndürüldü. Yangının çıkış anı kamerada. Baba-oğul arasında sigara parası kavgası. Birbirlerini bıçakla yaraladılar. İki kişi kimyasaldan zehirlendi: Acil servis geçici olarak kapatıldı. TEM'de motosikletlilere müdahale. Barikat kuruldu, 58 sürücü yakalandı. Nikah masasından tribüne geldiler. Gelin ve damat maç sonu sahada çiftetelli oynadı.",
       "items": [
         {
-          "title": "TEKNOFEST Mavi Vatan'a görkemli veda",
-          "summary": "TEKNOFEST Mavi Vatan kapsamında Deniz Kuvvetleri Komutanlığına bağlı Sualtı Taarruz (SAT) ve Sualtı Savunma (SAS) komandoları tarafından gösteriler icra edildi. TEKNOFEST Mavi Vatan, Milli Savunma Bakanlığı ve Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ana yürütücülüğünde Gölcük Tersanesi Komutanlığı'nda düzenleniyor. Organizasyonun son gününde gününde hafta sonunu fırsat bilen vatandaşlar, sabahın erken saatlerinden itibaren etkinlik alanına gelmeye başladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-teknofest-mavi-vatana-gorkemli-veda-1738550"
+          "title": "Dükkana dalan sürücü aracı bırakıp kaçtı",
+          "summary": "Bursa'da bir otomobil giyim mağazasının vitrininden içeri girdi. Yaşanan kaza sonrası sürücü firar etti. Bahar Mahallesi Doktor Sadık Ahmet Caddesi üzerinde, 16 NE 260 plakalı araç henüz bilinmeyen bir nedenle giyim mağazasının vitrininden içeri girdi. Kaza sonrası araç sürücüsü olay yerinden kaçarken, kazayı görenler durumu 112 Acil Servis Hattı'na bildirdi. İş yerine gelen mağaza sahibi ise karşılaştığı manzara karşısında büyük şaşkınlık yaşadı.",
+          "source": "https://www.ntv.com.tr/turkiye/dukkana-dalan-surucu-araci-birakip-kacti-1738628"
         },
         {
-          "title": "57 yıllık yeşil duvar. Rayların iki yanına dikilmiş",
-          "summary": "57 yıl önce ağaçlandırılan Benli Ahmet Tren İstasyonu'nun çevresi, tarım arazileri arasında bir \"vaha\" gibi ortaya çıkarak dikkati çekiyor. Kars'ın Selim ilçesinde 57 yıl önce Türkiye Cumhuriyeti Devlet Demiryollarınca (TCDD) ağaçlandırılan Benli Ahmet Tren İstasyonu'nun çevresi, tarım arazileri arasında bir \"vaha\" gibi ortaya çıkarak dikkati çekiyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-57-yillik-yesil-duvar-raylarin-iki-yanina-dikilmis-1738557"
+          "title": "Ankara'da ağaçlık alanda yangın. Bir kişi gözaltına alındı",
+          "summary": "Ankara'nın Mamak ilçesinde ağaçlık alanda yangın çıktı. Ankara Valiliği, yangına neden olduğu belirlenen bir kişinin gözaltına alındığını açıkladı. Ankara'nın Mamak ilçesinde, Başak Mahallesi Hüseyingazi Türbe Yolu'ndaki ağaçlık alanda dün akşam saatlerinde henüz belirlenmeyen nedenle yangın çıktı. Alevler hızla yayılırken, bölgeye itfaiye ekiplerinin yanı sıra diğer kamu kurum ve kuruluşlarına bağlı ekipler de sevk edildi. Yangına 47 araç ve 148 personelle müdahale edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ankarada-agaclik-alanda-yangin-bir-kisi-gozaltina-alindi-1738617"
         },
         {
-          "title": "Termometreler 46 dereceyi gösterdi: Otobüs duraklarında vantilatörlü önlem | Uzman isim tarih verdi: Sıcaklık daha da artacak",
-          "summary": "Yurdun büyük bölümünde kavurucu sıcaklar etkili oluyor. Antalya-Muğla gibi kentlerde, deniz kıyılarında nem oranı bunaltıcı seviyelere ulaştı. Sıcağıyla meşhur Şanlıurfa'da ise termometreler 46 dereceyi gösterdi. Öte yandan Prof. Dr. Murat Türkeş, yaptığı meteoroloji değerlendirmelerinde sıcaklıkların mevsim normallerinin 3 ila 6 derece üzerine çıkacağını söyledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kavurucu-sicaklar-etkili-oluyor-uzmanlar-uyardi-daha-da-artacak-43282388"
+          "title": "Ankara'daki yangın 8 saatte söndürüldü. Yangının çıkış anı kamerada",
+          "summary": "Ankara’nın Mamak ilçesinde ekiplerin yaklaşık 8 saat süren çalışmasıyla kontrol altına aldığı yangının çıkış anına ilişkin cep telefonu kamerası ile çekilen görüntüler ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-ankaradaki-yangin-8-saatte-sonduruldu-yanginin-cikis-ani-kamerada-1738624"
         },
         {
-          "title": "Robotaksi Binek Otonom Araç Yarışması Kocaeli'de",
-          "summary": "Teknofest kapsamında düzenlenen Robotaksi-Binek Otonom Araç Yarışması'nın finalinde 50 takım ve 753 yarışmacı, Kocaeli Bilişim Vadisi'nde otonom sürüş yeteneklerini sergileyecek. Teknofest kapsamında Bilişim Vadisi ve TÜBİTAK yürütücülüğünde düzenlenen Robotaksi-Binek Otonom Araç Yarışması'nın finali, 23-26 Ağustos'ta Kocaeli Bilişim Vadisi Kampüsü'nde gerçekleştirilecek. Yarışmada 1.199 takım arasından finale kalan 50 takım ve 753 yarışmacı mücadele edecek.",
-          "source": "https://www.ntv.com.tr/turkiye/robotaksi-binek-otonom-arac-yarismasi-kocaelide-1738553"
+          "title": "Baba-oğul arasında sigara parası kavgası. Birbirlerini bıçakla yaraladılar",
+          "summary": "Kayseri’nin merkez Melikgazi ilçesinde baba ve oğlu \"sigara parası\" nedeniyle birbirlerini yaraladı. Edinilen bilgiye göre, ilçeye bağlı Şirintepe Mahallesi Necip Fazıl Kısakürek Caddesi üzerinde meydana gelen olayda, düğünden ikametlerine dönen A.O.'nun iddiaya göre babası M.O.'dan sigara parası istemesi üzerine ikili arasında tartışma çıktı. Tartışmanın büyüyerek, kavgaya dönüşmesi üzerine bıçaklarla birbirlerine saldıran baba ve oğlu yaralandı.",
+          "source": "https://www.ntv.com.tr/turkiye/baba-ogul-arasinda-sigara-parasi-kavgasi-birbirlerini-bicakla-yaraladilar-1738623"
         },
         {
-          "title": "Rus yüzücünün yaşamını yitirdiği 38. Boğaziçi Kıtalararası Yüzme Yarışı'nda yeni önlemler",
-          "summary": "38. Boğaziçi Kıtalararası Yüzme Yarışı'nda 2 bin 500 yüzücü yarıştı. Geçen sene Rus yüzücü Nikolai Svechnikov'un cesedinin bulunmasının ardından bu sene önlemler artırıldı. Türkiye Milli Olimpiyat Komitesi'nin (TMOK) 1989'dan beri düzenlediği organizasyonun 38'incisi, bugün saat 10.00'da Kanlıca Vapur İskelesi'nden başladı. 6,5 kilometrelik parkur, Kuruçeşme Cemil Topuzlu Parkı'nda son buldu. BOĞAZ TRAFİĞE KAPATILDI Yarış nedeniyle saat 09.00 ile 13.00 arasında ise İstanbul Boğazı trafiğe kapatıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-rus-yuzucunun-yasamini-yitirdigi-38-bogazici-kitalararasi-yuzme-yarisinda-yeni-onlemler-1738492"
+          "title": "İki kişi kimyasaldan zehirlendi: Acil servis geçici olarak kapatıldı",
+          "summary": "Ankara'nın Sincan ilçesinde 2 kişinin kimyasaldan zehirlenmesinin ardından acil servis tedbir amaçlı geçici olarak kapatıldı. Edinilen bilgilere göre, 2 kişinin kimyasal zehirlenme sonucu akşam saatlerinde Sincan Eğitim ve Araştırma Hastanesi’nin acil servisine getirilmesinin ardından henüz bilinmeyen bir nedenden dolayı acil servis geçici olarak hizmete kapatıldı. Tedbir amacıyla acil servisteki hastalar ve hasta yakınları bina dışına çıkarıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/iki-kisi-kimyasaldan-zehirlendi-acil-servis-gecici-olarak-kapatildi-1738622"
         },
         {
-          "title": "73 orman yangınına soruşturma. 12 kişi tutuklandı",
-          "summary": "Adalet Bakanı Akın Gürlek, 1 Haziran'dan bu yana çıkan 73 orman yangınıyla ilgili yürütülen soruşturmalarda 12 şüphelinin tutuklandığını açıkladı. Adalet Bakanı Akın Gürlek, orman yangını soruşturmalarına ilişkin açıklama yaptı. Sosyal medya hesabından açıklama yapan Bakan Gürlek, 1 Haziran 2026’dan bu yana 25 ilde meydana gelen 73 orman yangınına ilişkin adli işlemlerin başlatıldığını hatırlattı.",
-          "source": "https://www.ntv.com.tr/turkiye/73-orman-yanginina-sorusturma-12-kisi-tutuklandi-1738551"
+          "title": "TEM'de motosikletlilere müdahale. Barikat kuruldu, 58 sürücü yakalandı",
+          "summary": "İstanbul TEM otoyolunda, polisi gören motosikletliler ters yönde hareket ederek kaçmaya çalışsalar da, polis araçlarıyla kurulan barikatı aşamadılar. 58 sürücüsü gözaltına alındı. Polis, İstanbul'da TEM otoyolu Cebeci tünelinde bazı kişilerin motosikletlerini, trafiği tehlikeye düşürecek şekilde kullandıkları ihbarı üzerine harekete geçti. Şüpheli sürücüler dronla tespit edilirken, otoyola polis araçlarıyla barikat kuruldu.",
+          "source": "https://www.ntv.com.tr/turkiye/video-temde-motosikletlilere-mudahale-barikat-kuruldu-58-surucu-yakalandi-1738621"
         },
         {
-          "title": "Bakan Gürlek: 73 orman yangınına ilişkin soruşturmalarda 12 tutuklama",
-          "summary": "Adalet Bakanı Akın Gürlek, 1 Haziran 2026'dan bu yana 25 ilde meydana gelen 73 orman yangınına ilişkin yürütülen soruşturmalarda 46 şüphelinin tespit edildiğini ve bunlardan 12'sinin tutuklandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-73-orman-yanginina-iliskin-sorusturmalarda-12-tutuklama-43282399"
+          "title": "Nikah masasından tribüne geldiler. Gelin ve damat maç sonu sahada çiftetelli oynadı",
+          "summary": "Bursa'da düğün günü final maçına denk gelen Yakup Birol ile Merve Çetinkaya, gelinlik ve damatlıklarıyla tribündeki yerini alarak takımlarına destek verdi. İnegöl Kaymakamlığı ile Manav Yörük Türkmen Boyları Federasyonu iş birliğinde düzenlenen köyler arası futbol turnuvasında Tahtaköprü Spor Kulübü ile Çavuşköy Spor Kulübü arasında final heyecanı yaşandı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-nikah-masasindan-tribune-geldiler-gelin-ve-damat-mac-sonu-sahada-ciftetelli-oynadi-1738619"
         }
       ]
     },
     "dunya": {
-      "text": "Rumlar alarma geçti: GKRY'yi İsrail paniği sardı. iPhone tartışması faciaya dönüştü! Anne ve baba oğullarını kurtarmaya çalışırken öldü. İngiltere'de ters yöne giren sürücü dehşet saçtı: 5 kişi yaşamını yitirdi. Pakistan ile Malezya'dan güvenlik alanında işbirliği kararı. Ukrayna'dan Ozon deposuna İHA saldırısı. 37 çocuğun anne ve babası oldular! İnanılmaz bir aile hikâyesi. ABD Kara Kuvvetleri Bakanı Dan Driscoll istifaya hazırlanıyor.",
+      "text": "Komisyondan geçti. İran, Hürmüz Boğazı'ndan geçen gemilerden ücret alacak. Çöp yığını evleri yuttu. Tonlarca atık altında kalan 30 kişi öldü. ABD’nin Nevada eyaletinde orman yangını: 87 bin kişi tahliye edildi. Suriye ve İsrail, Ürdün'de masaya oturdu. Türkiye-İsrail gerilimini ele aldı. İran medyasında paylaşıldı. Trump'ın oğlunun bilgileri ifşa edildi. Pentagon'dan 'İran' bilançosu: Yaralı ABD askeri sayısı 750'yi aştı. İran'da on milyarlarca dolar değerinde doğalgaz rezervi bulundu.",
       "items": [
         {
-          "title": "Rumlar alarma geçti: GKRY'yi İsrail paniği sardı",
-          "summary": "Güney Kıbrıs Rum Yönetimi'nde (GKRY) İsraillilerin arazi ve gayrimenkul alımlarındaki artış dikkat çekiyor. Okul, ibadethane ve işletmeler gibi topluluğa yönelik altyapıların çoğalması, GKRY'de İsrail varlığının geçici olmaktan çıkıp kalıcı bir yerleşime dönüşebileceği endişesini beraberinde getirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rumlar-alarma-gecti-gkryyi-israil-panigi-sardi-43282366"
+          "title": "Komisyondan geçti. İran, Hürmüz Boğazı'ndan geçen gemilerden ücret alacak",
+          "summary": "İran'ın Hürmüz Boğazı'ndan geçen gemilerden hizmet karşılığında ücret alınmasını öngören madde komisyonda kabul edildi. İran resmi haber ajansı IRNA'ya göre, Meclis Ulusal Güvenlik ve Dış Politika Komisyonu Sözcüsü Hasan Kaşkavi, komisyonun bugünkü toplantısında \"Hürmüz Boğazı'nın Güvenliğinin ve Kalkınmasının Sağlanmasına Yönelik Stratejik Eylem Planı\" adlı tasarının görüşülmesine devam edildiğini belirtti. Kaşkavi, önceki toplantıda görüşülmesi ertelenen 3.",
+          "source": "https://www.ntv.com.tr/dunya/komisyondan-gecti-iran-hurmuz-bogazindan-gecen-gemilerden-ucret-alacak-1738627"
         },
         {
-          "title": "iPhone tartışması faciaya dönüştü! Anne ve baba oğullarını kurtarmaya çalışırken öldü",
-          "summary": "Hindistan'da bir gencin ailesiyle yaşadığı iPhone tartışması faciayla sonuçlandı. Uçurumun kenarına giden genci ikna etmeye çalışan baba ve ardından anne tepeden düşerek hayatını kaybetti. Hindistan'ın Maharashtra eyaletine bağlı Chhatrapati Sambhajinagar'da bir aile arasında çıkan iPhone tartışması faciayla noktalandı. Cuma günü tepeden düşen genç ile anne ve babası hayatını kaybetti.",
-          "source": "https://www.ntv.com.tr/dunya/iphone-tartismasi-faciaya-donustu-anne-ve-baba-ogullarini-kurtarmaya-calisirken-oldu-1738546"
+          "title": "Çöp yığını evleri yuttu. Tonlarca atık altında kalan 30 kişi öldü",
+          "summary": "Gine'de çöp depolama alanındaki devasa yığın, şiddetli yağışların ardından çöktü. Tonlarca çöpün altında kalan 30 kişi hayatını kaybetti, 22 kişi yaralandı. Başkent Konakri'de bir çöp depolama alanında toprak kayması meydana geldi. Şiddetli yağışların ardından devasa çöp yığını çöktü, çevredeki evler ve barakalar tonlarca atığın altında kaldı. Çöken atıkların altında kalanları kurtarmak için bölgeye ekipler sevk edildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-cop-yigini-evleri-yuttu-tonlarca-atik-altinda-kalan-30-kisi-oldu-1738626"
         },
         {
-          "title": "İngiltere'de ters yöne giren sürücü dehşet saçtı: 5 kişi yaşamını yitirdi",
-          "summary": "İngiltere'nin Cleveland bölgesinde ters yönde ilerleyen bir otomobilin, polis aracına çarpması sonucu 2 polis memuru ile diğer araçta bulunan 5 kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-ters-yone-giren-surucu-dehset-sacti-5-kisi-yasamini-yitirdi-43282352"
+          "title": "ABD’nin Nevada eyaletinde orman yangını: 87 bin kişi tahliye edildi",
+          "summary": "ABD’nin Nevada eyaletindeki çıkan orman yangınında 61 bin dönümlük alan küle döndü, 87 bin kişiye tahliye uyarısı yapıldı. ABD’nin Nevada eyaletindeki Reno kenti yakınlarında cumartesi günü başlayan orman yangınıyla mücadele sürerken, felaketin yol açtığı zarar büyüdü. Yerel basında yer alan bilgilere göre; yangında küle dönen alanın boyutu yaklaşık 61 bin dönüme ulaşırken, 42 bin bölge sakinine \"derhal tahliye\" (GO NOW) uyarısı yapıldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abdnin-nevada-eyaletinde-orman-yangini-87-bin-kisi-tahliye-edildi-1738625"
         },
         {
-          "title": "Pakistan ile Malezya'dan güvenlik alanında işbirliği kararı",
-          "summary": "Pakistan ile Malezya, savunma ve güvenlik alanlarında ikili işbirliğini güçlendirme konusunda anlaştı. Malezyalı mevkidaşı Saifuddin Nasution bin İsmail ile görüşen Pakistan İçişleri Bakanı Muhsin Nakvi, iki ülkenin istihbarat paylaşımını artıracağını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistan-ile-malezyadan-guvenlik-alaninda-isbirligi-karari-43282346"
+          "title": "Suriye ve İsrail, Ürdün'de masaya oturdu. Türkiye-İsrail gerilimini ele aldı",
+          "summary": "İsrail'in Suriye'deki bir hava üssünü, Türkiye'nin olası askeri varlığını gerekçe göstererek vurmasının ardından Şam ve Tel Aviv Ürdün'de masaya oturdu. Suriye Dışişleri Bakanı Hasan Şeybani ile İsrail istihbaratı Mossad'ın Başkanı Roman Gofman ABD arabuluculuğunda bir araya geldi. Suriye resmi ajansı SANA'ya göre taraflar, Türkiye ile İsrail arasındaki görüş ayrılıklarını azaltmayı ele aldı. İki ülke arasındaki mevcut gerilimin Suriye topraklarına yansımamasını sağlamaya yönelik çabalar da masaya yatırıldı.",
+          "source": "https://www.ntv.com.tr/dunya/suriye-ve-israil-urdunde-masaya-oturdu-turkiye-israil-gerilimini-ele-aldi-1738614"
         },
         {
-          "title": "Ukrayna'dan Ozon deposuna İHA saldırısı",
-          "summary": "Ukrayna, Rusya'nın e-ticaret şirketlerine yönelik insansız hava aracı (İHA) saldırılarını sürdürüyor. Rusya'nın Orenburg bölgesinde, İHA saldırısına hedef olan e-ticaret şirketi Ozon'a ait depoda yangın çıktığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ukraynadan-ozon-deposuna-iha-saldirisi-43282323"
+          "title": "İran medyasında paylaşıldı. Trump'ın oğlunun bilgileri ifşa edildi",
+          "summary": "ABD Başkanı Donald Trump’ın oğlu Barron Trump’la ilgili İran medyasında dikkat çekici bir haber hazırlandı. Haberde, Barron’ın sıklıkla bulunduğu adresler açıkça ifşa ediliyor.",
+          "source": "https://www.ntv.com.tr/dunya/video-iran-medyasinda-paylasildi-trumpin-oglunun-bilgileri-ifsa-edildi-1738620"
         },
         {
-          "title": "37 çocuğun anne ve babası oldular! İnanılmaz bir aile hikâyesi",
-          "summary": "ABD’de yaşayan Paul ve Jeane Briggs çifti, yaklaşık 50 yıllık evliliklerinde 32’si evlatlık, beşi biyolojik toplam 37 çocuk büyüttü. Çocuklarının yaşları 10 ile 47 arasında değişen çift, kalabalık evlerinde düzeni iş bölümü, planlı alışveriş ve birlikte hazırlanan sofralarla sağlıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/37-cocugun-anne-ve-babasi-oldular-inanilmaz-bir-aile-hikayesi-43260881"
+          "title": "Pentagon'dan 'İran' bilançosu: Yaralı ABD askeri sayısı 750'yi aştı",
+          "summary": "ABD Savunma Bakanlığı (Pentagon) kayıp raporlama sisteminden alınan son verilere göre, ABD-İran savaşındaki ABD'li yaralı asker sayısının en az 756'ya yükseldiği tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/pentagondan-iran-bilancosu-yarali-abd-askeri-sayisi-750yi-asti-43282974"
         },
         {
-          "title": "ABD Kara Kuvvetleri Bakanı Dan Driscoll istifaya hazırlanıyor",
-          "summary": "ABD Kara Kuvvetleri Bakanı Dan Driscoll, Savunma Bakanı Pete Hegseth ile yaşadığı yetki mücadelesinin ardından 2026 yılı sonunda görevinden ayrılmayı planlıyor. ABD Kara Kuvvetleri Bakanı Dan Driscoll, ABD Savunma Bakanı Pete Hegseth ile aylardır süren yetki mücadelesinin ardından 2026 yılı sonunda görevinden ayrılmayı planlıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abd-kara-kuvvetleri-bakani-dan-driscoll-istifaya-hazirlaniyor-1738533"
+          "title": "İran'da on milyarlarca dolar değerinde doğalgaz rezervi bulundu",
+          "summary": "İran Petrol Bakanı Muhsin Paknejad, Fars vilayetinin güneyinde 7,5 trilyon fit küpün üzerinde doğalgaz barındıran yeni bir saha keşfedildiğini duyurdu. İran Petrol Bakanı Muhsin Paknejad, ülkenin en büyük yeni doğalgaz rezervlerinden birinin Fars vilayetinin güneyinde keşfedildiğini bildirdi. Resmi medya ve İran basınında yer alan açıklamalara göre sahada 7,5 trilyon fit küpün üzerinde doğalgaz bulunuyor.",
+          "source": "https://www.ntv.com.tr/dunya/iranda-on-milyarlarca-dolar-degerinde-dogalgaz-rezervi-bulundu-1738578"
         }
       ]
     },
     "ekonomi": {
-      "text": "Almanya’da ekonomik reform alarmı. Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük. Borsa günü yükselişle tamamladı. Sezonun ilk kuru inciri 600 TL. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor. Bellona'da üst düzey atama.",
+      "text": "İran’dan ABD'nin baskı politikasına tepki: Bumerang gibi kendisine dönecek. Almanya’da ekonomik reform alarmı. Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük. Borsa günü yükselişle tamamladı. Sezonun ilk kuru inciri 600 TL. Ticaret Bakanı Bolat: Bu yıl savunma sanayi ihracatında 12,5 milyar doları aşacağız. İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor.",
       "items": [
+        {
+          "title": "İran’dan ABD'nin baskı politikasına tepki: Bumerang gibi kendisine dönecek",
+          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin İran'a yönelik ekonomik baskı politikalarının sonuçlarının Washington'ın ekonomisini de etkileyeceğini ve \"bumerang gibi\" kendisine döneceğini ifade etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdnin-baski-politikasina-tepki-bumerang-gibi-kendisine-donecek-43282708"
+        },
         {
           "title": "Almanya’da ekonomik reform alarmı",
           "summary": "Almanya’nın önde gelen sanayi kuruluşları ekonomik alanda reformların hayata geçirilmesi için hükümete baskıyı artırdı.",
@@ -115,57 +120,62 @@
           "title": "İZSİAD Başkanı Yüksel: İhracat artıyor ama sanayi güç kaybediyor",
           "summary": "TÜRKİYE temmuzda 25.6 milyar dolarla bugüne kadarki en yüksek temmuz ayı ihracatına ulaşırken, son 12 aylık ihracat 278.6 milyar dolara çıktı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izsiad-baskani-yuksel-ihracat-artiyor-ama-sanayi-guc-kaybediyor-43271358"
-        },
-        {
-          "title": "Bellona'da üst düzey atama",
-          "summary": "Bellona’nın Genel Müdürlük görevine, mobilya sektöründe 30 yılı aşkın yöneticilik deneyimine sahip Bilal Uyanık getirildi. (İlandır) Türkiye mobilya sektörünün köklü markalarından Bellona’da Genel Müdürlük görevine Bilal Uyanık atandı. Anadolu Güçbirliği Holding bünyesinde yeni dönem hedefleri doğrultusunda büyüme yolculuğunu sürdüren Bellona, Bilal Uyanık’ın liderliğinde yurt içi ve uluslararası pazarlardaki konumunu daha da güçlendirmeyi hedefliyor.",
-          "source": "https://www.ntv.com.tr/ekonomi/bellonada-ust-duzey-atama-1737061"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe'den Acun Ilıcalı ve loca açıklaması. Fenerbahçe'den Kerem Aktürkoğlu'nun sağlık durumuna ilişkin açıklama. Trabzonspor – Başakşehir maçları “Üst” oluyor; İlk golü Beşiktaş atıyor... İşte Misli’den Günün Tüyoları!. İstanbul'da 9 koşuluk program! İşte Misli'den günün altılı analizi... Beşiktaş, Alanyaspor'a konuk oluyor! Maçın heyecanı Misli'de. Trabzonspor, Başakşehir'i ağırlıyor! Maçın heyecanı Misli'de. Fenerbahçe 22 milyona satmıştı, kiralık alıyor! Listenin başında.",
+      "text": "Barcelona'dan muazzam başlangıç!. Vincenzo Italiano: 'Kaybetmeyi hak etmedik'. Alanya'da kırmızı kart beklentisi: Beşiktaş'tan 'sezon başladı' tepkisi!. Enes Ünal attı, Getafe kazandı!. Mirel Radoi: 'Ligi ilk 10'da bitirmeyi düşünüyoruz!'. Ertuğrul Doğan: 'Biz kimseyle kavga etmek istemiyoruz!'. Fatih Tekke: 'Salah saha dışında da profesyonel!'.",
       "items": [
         {
-          "title": "Fenerbahçe'den Acun Ilıcalı ve loca açıklaması",
-          "summary": "Fenerbahçe, Acun Ilıcalı'nın locası ile ilgili resmi yayın organından açıklama yayınladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-acun-ilicali-ve-loca-aciklamasi-43282385"
+          "title": "Barcelona'dan muazzam başlangıç!",
+          "summary": "Barcelona, İspanya La Liga'nın 2. haftasında Elche'yi 5-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/barcelonadan-muazzam-baslangic-43282928"
         },
         {
-          "title": "Fenerbahçe'den Kerem Aktürkoğlu'nun sağlık durumuna ilişkin açıklama",
-          "summary": "Fenerbahçe, Konyaspor maçında kendisine yapılan müdahale sonrası kafa travması geçiren ve hastaneye kaldırılan Kerem Aktürkoğlu'nun son durumuna ilişkin açıklama yayınladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-kerem-akturkoglunun-saglik-durumuna-iliskin-aciklama-43282344"
+          "title": "Vincenzo Italiano: 'Kaybetmeyi hak etmedik'",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Alanyaspor'u 1-0 yendikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-kaybetmeyi-hak-etmedik-43282902"
         },
         {
-          "title": "Trabzonspor – Başakşehir maçları “Üst” oluyor; İlk golü Beşiktaş atıyor... İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-basaksehir-maclari-ust-oluyor-ilk-golu-besiktas-atiyor-iste-misliden-gunun-tuyolari-43282312"
+          "title": "Alanya'da kırmızı kart beklentisi: Beşiktaş'tan 'sezon başladı' tepkisi!",
+          "summary": "Beşiktaş, Alanya'da oynanan maçın ilk yarısında yaşanan pozisyon için kırmızı kart bekledi. Ancak VAR'dan bir uyarı gelmeyince siyah-beyazlılar, sosyal medyadan tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alanyada-kirmizi-kart-beklentisi-besiktastan-sezon-basladi-tepkisi-43282853"
         },
         {
-          "title": "İstanbul'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
-          "summary": "İstanbul Veliefendi Hipodromu’nda, bugün 10 koşudan oluşan birbirinden çekişmeli yarışlar var. Günün programında hem kaliteli safkanların mücadelesi hem de sürprize açık koşular dikkat çekerken, altılı ganyan severleri zorlu bir yarış günü bekliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43282305"
+          "title": "Enes Ünal attı, Getafe kazandı!",
+          "summary": "Getafe, LaLiga'nın ikinci haftasında Santender'i 1-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/enes-unal-atti-getafe-kazandi-43282850"
         },
         {
-          "title": "Beşiktaş, Alanyaspor'a konuk oluyor! Maçın heyecanı Misli'de",
-          "summary": "Beşiktaş, Süper Lig'in 2. haftasında Alanyaspor deplasmanına çıkıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-alanyaspora-konuk-oluyor-macin-heyecani-mislide-43282276"
+          "title": "Mirel Radoi: 'Ligi ilk 10'da bitirmeyi düşünüyoruz!'",
+          "summary": "Gaziantep FK Teknik Direktörü Mirel Radoi, sezon hedeflerinin ligi ilk 10 içerisinde tamamlamak olduğunu belirterek, bu doğrultuda mücadele etmeye hazır olduklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mirel-radoi-ligi-ilk-10da-bitirmeyi-dusunuyoruz-43282849"
         },
         {
-          "title": "Trabzonspor, Başakşehir'i ağırlıyor! Maçın heyecanı Misli'de",
-          "summary": "Süper Lig'in 2. haftasında Trabzonspor, evinde Başakşehir'i konuk edecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-basaksehiri-agirliyor-macin-heyecani-mislide-43282205"
+          "title": "Ertuğrul Doğan: 'Biz kimseyle kavga etmek istemiyoruz!'",
+          "summary": "Trabzonspor Başkanı Ertuğrul Doğan, iki yıldır bir planlama içerisinde olduklarını belirterek, \"Bizim niyetimiz kimseyle kavga etmek, tartışmaya girmek değil. Kimse de bizimle kavga etmek istemesin\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogan-biz-kimseyle-kavga-etmek-istemiyoruz-43282842"
         },
         {
-          "title": "Fenerbahçe 22 milyona satmıştı, kiralık alıyor! Listenin başında",
-          "summary": "Fenerbahçe, savunma hattını güçlendirmek için önemli bir ismi gündeminde aldı. Transfer sezonunda Ake'yi kadrosuna katan Kanarya, Çağlar Soyuncünü'nün sürekli sakatlanması ve Oosterwolde'nin ayrılığa hazırlanmasının ardından kadrosuna katacağı ismi belirledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-22-milyona-satmisti-kiralik-aliyor-listenin-basinda-43282179"
+          "title": "Fatih Tekke: 'Salah saha dışında da profesyonel!'",
+          "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Başakşehir karşısında önemli bir galibiyet aldıklarını belirterek, takımın zamanla daha iyi seviyeye geleceğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-salah-saha-disinda-da-profesyonel-43282798"
         }
       ]
     },
     "teknoloji": {
-      "text": "Elon Musk'ın çok beklenen projesine dair ilk ayrıntılar için tarih verildi. Yapay zeka devi, 2 trilyon dolar değerlemeyle borsaya açılıyor. Usain Bolt’un rekorunu geçti: Robot 100 metreyi 9,32 saniyede koştu. GTA 6 sızdırıldı, Rockstar Microsoft ve Discord'a dava açtı. Avustralya'dan teknoloji devlerine vergi şartı: Haber yasası kabul edildi. AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı. Akıllı telefonlar bizi dinliyor mu? Uygulama yüklerken buna dikkat.",
+      "text": "Usain Bolt'u geçtiler: Robotların önünde şimdi daha zor bir sınav var. Sağlıkta yapay zeka işbirliği. Elon Musk'ın çok beklenen projesine dair ilk ayrıntılar için tarih verildi. Yapay zeka devi, 2 trilyon dolar değerlemeyle borsaya açılıyor. Usain Bolt’un rekorunu geçti: Robot 100 metreyi 9,32 saniyede koştu. TUFAN Kamikaze İDA, TEKNOFEST Mavi Vatan'da ilk kez suya indirildi. GTA 6 sızdırıldı, Rockstar Microsoft ve Discord'a dava açtı.",
       "items": [
+        {
+          "title": "Usain Bolt'u geçtiler: Robotların önünde şimdi daha zor bir sınav var",
+          "summary": "Çin'de insansı robotlar, dünyanın en hızlı insanlarından daha hızlı koşabileceklerini gösterdi. Şimdi ise asıl sınav başlıyor: Robotlar fabrikalarda ve restoranlarda aynı başarıyı gösterebilecek mi? BOLT'TAN HIZLI KOŞTULAR Pekin'de cumartesi günü başlayan Dünya İnsansı Robot Oyunları, insan sporlarından esinlenen yarışların yanı sıra fabrika, restoran, ofis ve acil durum senaryolarında robotların yeteneklerini ölçen testlere sahne oluyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-usain-boltu-gectiler-robotlarin-onunde-simdi-daha-zor-bir-sinav-var-1738607"
+        },
+        {
+          "title": "Sağlıkta yapay zeka işbirliği",
+          "summary": "İzmir Ekonomi Üniversitesi Medical Point Hastanesi ile İzmir Yüksek Teknoloji Enstitüsü, sağlık ve teknoloji alanlarında yenilikçi çözümler üretmek amacıyla Ar-Ge protokolü imzaladı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/saglikta-yapay-zeka-isbirligi-43282520"
+        },
         {
           "title": "Elon Musk'ın çok beklenen projesine dair ilk ayrıntılar için tarih verildi",
           "summary": "Tesla, yakında piyasaya sürülecek robot taksi modeli Cybercab'in lansman tarihini duyurdu. Elektrikli otomobil üreticisi Tesla, Uber ve Waymo gibi şirketlerle rekabet etmek üzere \"Cybercab\" adını verdiği sürücüsüz robot taksisinin yakında piyasaya sürüleceğini duyurdu. Elon Musk'ın kurduğu şirket, Cuma günü geç saatlerde sosyal medyada paylaştığı bir tanıtım görseliyle, Tesla'nın genel merkezinin bulunduğu Teksas, Austin'de 3 Eylül'de düzenlenecek bir etkinlikte Cybercabs'e \"özel erişim\" sözü verdi.",
@@ -182,30 +192,25 @@
           "source": "https://www.ntv.com.tr/teknoloji/galeri-usain-boltun-rekorunu-gecti-robot-100-metreyi-932-saniyede-kostu-1738463"
         },
         {
+          "title": "TUFAN Kamikaze İDA, TEKNOFEST Mavi Vatan'da ilk kez suya indirildi",
+          "summary": "ASELSAN tarafından deniz savaşlarının yeni nesil vurucu gücü olarak geliştirdiği TUFAN Kamikaze İnsansız Deniz Aracı (İDA) TEKNOFEST Mavi Vatan’da ilk kez suya indirildi. ASELSAN tarafından geliştirilen otonom ve sürü kabiliyetli TUFAN Kamikaze İnsansız Deniz Aracı (İDA), Kocaeli’nin Gölcük ilçesinde düzenlenen TEKNOFEST Mavi Vatan kapsamında ilk kez suya indirildi. Türkiye’nin insansız deniz sistemleri alanındaki yeni vurucu platformlarından TUFAN, festival alanında ziyaretçilerin ilgisine sunuldu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-tufan-kamikaze-ida-teknofest-mavi-vatanda-ilk-kez-suya-indirildi-1738457"
+        },
+        {
           "title": "GTA 6 sızdırıldı, Rockstar Microsoft ve Discord'a dava açtı",
           "summary": "Rockstar Games'in çatı şirketi Take-Two, henüz piyasaya çıkmayan GTA 6'ya ait oynanış görüntülerini sızdıran kişilerin tespiti için Microsoft ve Discord'dan kullanıcı verilerini talep etti. Rockstar Games'in ana şirketi Take-Two, henüz piyasaya sürülmemiş olan Grand Theft Auto (GTA) VI'ya ait sızdırılan oynanış görüntülerinin yayılmasıyla bağlantılı kullanıcıların verilerini adli yoldan talep etmek üzere Microsoft ve Discord aleyhine mahkemeye başvurdu.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-sizdirildi-rockstar-microsoft-ve-discorda-dava-acti-1738429"
-        },
-        {
-          "title": "Avustralya'dan teknoloji devlerine vergi şartı: Haber yasası kabul edildi",
-          "summary": "Avustralya, dijital platformlarında haber içeriği kullanan teknoloji şirketlerini yerel medya kuruluşlarıyla ticari anlaşma yapmaya zorlayan yasayı kabul etti. Anlaşma yapmayan şirketler, reklam gelirlerinin yüzde 2,5'i oranında vergi ödeyecek.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/avustralyadan-teknoloji-devlerine-vergi-sarti-haber-yasasi-kabul-edildi-43281538"
-        },
-        {
-          "title": "AFAD Başkanı Pehlivan: Son 3 yılda dronlarla 244 vatandaşımıza sağ ulaşıldı",
-          "summary": "AFET ve Acil Durum Yönetimi (AFAD) Başkanı Ali Hamza Pehlivan, \"Son 3 yıl içinde insansız hava araçlarımız yaklaşık bin 750 operasyon gerçekleştirdi. Bu uçuşlarla toplamda 244 vatandaşımıza sağ olarak ulaşıldı\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/afad-baskani-pehlivan-son-3-yilda-dronlarla-244-vatandasimiza-sag-ulasildi-43279636"
-        },
-        {
-          "title": "Akıllı telefonlar bizi dinliyor mu? Uygulama yüklerken buna dikkat",
-          "summary": "Bir sohbet sonrasında cep telefonuna gelen reklamlar kullanıcıların dikkatini çekiyor. Uzmanlara göre uygulama yüklenirken verilen izinler çok önemli. (Haber: Erva Balkı) Birçok kişi aynı fikirde; konuşulan konu neyse telefonda karşımıza reklam olarak çıkıyor. Bu durum akıllara, \"Akıllı telefonlar bizi dinliyor mu?\" sorusunu getiriyor. Uzmanlara göre dijital dünyada tamamen görünmez olmak neredeyse imkansız ancak güvenlik kontrol altında tutulabilir.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-akilli-telefonlar-bizi-dinliyor-mu-uygulama-yuklerken-buna-dikkat-1738125"
         }
       ]
     },
     "saglik": {
-      "text": "Kişiye özel kanser aşısı geliştirildi. Moderna'nın mRNA aşısı cilt kanseri hastaları için umut oldu. Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\". Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum. Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar. Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor. Keneden ölümlere karşı yerli aşı. Erciyes Üniversitesi'nde aşının ilk fazı tamamlanmak üzere. Başı dönünce hastaneye gitti, nadir hastalığı ortaya çıktı! Türkiye'de sadece onda ve kızında var.",
+      "text": "Bakan Memişoğlu: Evde sağlık hizmetlerimizle 1 milyon 352 bin 775 hastaya hizmet veriyoruz. Kişiye özel kanser aşısı geliştirildi. Moderna'nın mRNA aşısı cilt kanseri hastaları için umut oldu. Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\". Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum. Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar. Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor. Keneden ölümlere karşı yerli aşı. Erciyes Üniversitesi'nde aşının ilk fazı tamamlanmak üzere.",
       "items": [
+        {
+          "title": "Bakan Memişoğlu: Evde sağlık hizmetlerimizle 1 milyon 352 bin 775 hastaya hizmet veriyoruz",
+          "summary": "Sağlık Bakanı Kemal Memişoğlu, evde sağlık hizmetleriyle 1 milyon 352 bin 775 hastaya hizmet verdiklerini ve 2026'nın ilk yarısında 2 milyon 229 bin 76 ev ziyareti gerçekleştirdiklerini açıkladı. Sağlık Bakanı Kemal Memişoğlu, NSosyal hesabından evde sağlık hizmetlerine ilişkin paylaşım yaptı. Bakan Memişoğlu, paylaşımında şunları kaydetti: “Hep yanı başınızdayız. Evde sağlık hizmetlerimizle bugün itibarıyla 1 milyon 352 bin 775 hastaya hizmet veriyoruz.",
+          "source": "https://www.ntv.com.tr/saglik/bakan-memisoglu-evde-saglik-hizmetlerimizle-1-milyon-352-bin-775-hastaya-hizmet-veriyoruz-1738574"
+        },
         {
           "title": "Kişiye özel kanser aşısı geliştirildi. Moderna'nın mRNA aşısı cilt kanseri hastaları için umut oldu",
           "summary": "İlaç üreticileri Moderna ve Merck firmaları, bir cilt kanseri türü olan melanom için mRNA tabanlı kişiye özel aşı geliştirdi. Aşının 3. faz denemelerinde alınan olumlu sonuçlar kamuoyuyla paylaşıldı. En tehlikeli cilt kanseri türü olan melanom için umut vadeden bir gelişme yaşandı. Moderna ve Merck'in geliştirdiği kişiye özel mRNA aşısının, standart immünoterapiyle birlikte kullanıldığında hastalığın tekrarlama ve yayılma riskini azaltabileceği görüldü.",
@@ -235,11 +240,6 @@
           "title": "Keneden ölümlere karşı yerli aşı. Erciyes Üniversitesi'nde aşının ilk fazı tamamlanmak üzere",
           "summary": "Bu yıl keneden 12 kişi hayatını kaybetti. Kayseri'deki Erciyes Üniversitesi, keneden bulaşan Kırım Kongo Kanamalı Ateşi'ne (KKKA) karşı aşı geliştiriyor. İkinci ve üçüncü faz süreci de bittikten sonra aşının hazır olması bekleniyor. Yaz aylarında havanın ısınmasıyla birlikte kene vakaları başlıyor. Bu yıl şimdiye kadar 12 kişi, vücuduna kene yapışması sonucu hayatını kaybetti. Ölümlerin nedeni, keneden bulaşan Kırım Kongo Kanamalı Ateşi.",
           "source": "https://www.ntv.com.tr/saglik/galeri-keneden-olumlere-karsi-yerli-asi-erciyes-universitesinde-asinin-ilk-fazi-tamamlanmak-uzere-1736562"
-        },
-        {
-          "title": "Başı dönünce hastaneye gitti, nadir hastalığı ortaya çıktı! Türkiye'de sadece onda ve kızında var",
-          "summary": "Diyarbakır'da baş dönmesi, göz kararması, göğüs ağrısı belirtileriyle hastaneye başvuran kişide, dünyada nadir görülen bir hastalık tespit edildi. Diyarbakır'da yaşadığı sağlık sorunları üzerine hastaneye giden Şehmus Doğan'da dünyada 67 hastada görülen bir hastalığın tanısı konuldu. Mardin'de yaşayan 41 yaşındaki Doğan, geçmeyen baş dönmesi, göz kararması ve göğüs ağrısı şikayetleri üzerine Diyarbakır Selahaddin Eyyubi Devlet Hastanesi'ne başvurdu.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-basi-donunce-hastaneye-gitti-nadir-hastaligi-ortaya-cikti-turkiyede-sadece-onda-ve-kizinda-var-1736350"
         }
       ]
     },
