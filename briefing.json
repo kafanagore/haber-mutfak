@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-24T16:00:06.473Z",
+  "generatedAt": "2026-08-25T04:00:03.739Z",
   "categories": {
     "gundem": {
-      "text": "Cumhurbaşkanı Erdoğan Brezilya Devlet Başkanı ve Litvanya Başbakanı ile görüştü. Belediye başkanının makam aracına silahlı saldırıda 2 tutuklama. Manavgat'ta iki otomobil çarpıştı: Hastaneye kaldırılan Fevzi Canbulut kurtarılamadı. İstanbul'da kundaklama ve silahlı saldırılara karışan iki suç örgütüne operasyon: 5 gözaltı. Adana'da seyir tepesinden uçuruma düşen otomobilin sürücüsü Seda yaşamını yitirdi. Samsun'daki ölümlü silahlı kavgada şaşırtan detay: İneğin memesine mermi isabet etmiş. Diyarbakır'da 2 el bombasıyla yakalanan 4 şüpheli tutuklandı.",
+      "text": "Yolcu otobüsü ile yakıt tankeri çarpıştı: 35 yaralı. Kazayı duyan doktor, duvardan atlayarak yaralı sürücüye müdahale etti. DMM'den dikkat çeken uyarı: Dış kaynaklı psikolojik harekat devrede. Tır garajında yangın: 5 araç kullanılamaz hale geldi. Sahilde şüpheli madde alarmı… Ekipler harekete geçti. Yasa dışı bahis reklamı operasyonu! Ünlü fenomen tutuklandı. Toprak kayması nedeniyle 5 katlı bina tahliye edildi.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan Brezilya Devlet Başkanı ve Litvanya Başbakanı ile görüştü",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Brezilya Devlet Başkanı Lula da Silva ve Litvanya Başbakanı Mindaugas Sinkevicius ile telefonda görüştü. Cumhurbaşkanı Erdoğan, Brezilya Devlet Başkanı Lula da Silva ile bir görüşme yaptı. Liderler, Türkiye-Brezilya ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-brezilya-devlet-baskani-ile-gorustu-1738729"
+          "title": "Yolcu otobüsü ile yakıt tankeri çarpıştı: 35 yaralı",
+          "summary": "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile benzin taşıyan tankerin çarpışması sonucu meydana gelen kazada 35 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yolcu-otobusu-ile-yakit-tankeri-carpisti-cok-sayida-yarali-var-43284017"
         },
         {
-          "title": "Belediye başkanının makam aracına silahlı saldırıda 2 tutuklama",
-          "summary": "İZMİR’in Çiğli Belediye Başkanı Onur Emrah Yıldız’ın belediye otoparkında park halindeki makam aracına yönelik silahlı saldırıya ilişkin gözaltına alınan K.S. (21) ile S.D. tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/belediye-baskaninin-makam-aracina-silahli-saldirida-2-tutuklama-43283759"
+          "title": "Kazayı duyan doktor, duvardan atlayarak yaralı sürücüye müdahale etti",
+          "summary": "BURSA'nın İnegöl ilçesinde motosiklet kazasında yaralanan sürücüye, yakındaki İnegöl Devlet Hastanesi'nde görevli doktor Mustafa Kıran, acil servis duvarından atlayarak, müdahale etti. Yaralı sürücü olay yerindeki ilk tıbbi müdahalenin ardından sedye ile hastaneye taşınarak tedaviye alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kazayi-duyan-doktor-duvardan-atlayarak-yarali-surucuye-mudahale-etti-43284015"
         },
         {
-          "title": "Manavgat'ta iki otomobil çarpıştı: Hastaneye kaldırılan Fevzi Canbulut kurtarılamadı",
-          "summary": "Manavgat'ta bugün iki otomobilin çarpışması sonucu meydana gelen kazada yaralanan 3 kişiden Fevzi Canbulut (76), kaldırıldığı Serik Devlet Hastanesi’nde yapılan tüm müdahalelere rağmen hayatını kaybetti. Kazada yaralanan diğer iki sürücünün tedavisi sürerken, olayla ilgili inceleme başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/manavgatta-iki-otomobil-carpisti-hastaneye-kaldirilan-fevzi-canbulut-kurtarilamadi-43283732"
+          "title": "DMM'den dikkat çeken uyarı: Dış kaynaklı psikolojik harekat devrede",
+          "summary": "DMM, Türkiye'nin toplumsal birliğini, kardeşlik ve huzur iklimini hedef alan dış kaynaklı ve maksatlı bir psikolojik harekat stratejisinin devreye sokulmaya çalışıldığını açıkladı. Vatandaşlara kaynağı belirsiz paylaşımlara karşı dikkatli olma ve yalnızca resmi açıklamalara itibar etme çağrısı yapıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/dmmden-dikkat-ceken-uyari-dis-kaynakli-psikolojik-harekat-devrede-43283994"
         },
         {
-          "title": "İstanbul'da kundaklama ve silahlı saldırılara karışan iki suç örgütüne operasyon: 5 gözaltı",
-          "summary": "İstanbul'da 18-24 Ağustos tarihleri arasında Bayrampaşa, Pendik, Küçükçekmece ve Esenyurt ilçelerinde 5 silahlı saldırı ve 1 kundaklama olayına karıştığı belirlenen 2 ayrı suç örgütüne yönelik operasyonlarda 5 şüpheli gözaltına alındı. Şüphelilerin evlerinde yapılan aramalarda AK-47 tüfek, otomatik tabanca ve çok sayıda fişek ele geçirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-kundaklama-ve-silahli-saldirilara-karisan-iki-suc-orgutune-operasyon-5-gozalti-43283728"
+          "title": "Tır garajında yangın: 5 araç kullanılamaz hale geldi",
+          "summary": "İstanbul Avcılar’da tır garajında çıkan yangında 2’si tır olmak üzere 5 araç ile garaj içerisinde bulunan bir konteyner yanarak kullanılamaz hale geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tir-garajinda-yangin-5-arac-kullanilamaz-hale-geldi-43283984"
         },
         {
-          "title": "Adana'da seyir tepesinden uçuruma düşen otomobilin sürücüsü Seda yaşamını yitirdi",
-          "summary": "Adana’nın Sarıçam ilçesinde yaklaşık 200 metre yükseklikten uçuruma düşen otomobilin sürücüsü Seda Akkul (27), itfaiye ekiplerince sıkıştığı araçtan çıkarılarak kaldırıldığı hastanede hayatını kaybetti. Kazanın ardından otomobilde bir kişinin daha bulunduğu iddiası üzerine ekiplerin bölgedeki arama çalışmaları sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/adanada-seyir-tepesinden-ucuruma-dusen-otomobilin-surucusu-seda-yasamini-yitirdi-43283720"
+          "title": "Sahilde şüpheli madde alarmı… Ekipler harekete geçti",
+          "summary": "Samsun sahilinde kıyıya vuran çuvallardan ne olduğu henüz belirlenemeyen toz halinde maddeler çıkması paniğe neden oldu. Sahilin farklı noktalarında da benzer maddelerin görülmesi üzerine ekipler alarma geçerek bölgede inceleme başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sahilde-supheli-madde-alarmi-ekipler-alarma-gecti-43283983"
         },
         {
-          "title": "Samsun'daki ölümlü silahlı kavgada şaşırtan detay: İneğin memesine mermi isabet etmiş",
-          "summary": "Samsun’un Tekkeköy ilçesinde Mustafa Çam’ın (43) amcası İbrahim Çam’ı (73) tabancayla vurarak öldürdüğü olayda, ateşlenen mermilerden birinin ahırdaki ineğin memesine isabet ettiği belirlendi. Şüphelinin annesi H.Ç.’nin sağım yaptığı esnada mermi çekirdeğinin yaradan yere düşmesi üzerine fark edilen durum, muhafaza altına alınmak üzere jandarma ekiplerine teslim edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/samsundaki-olumlu-silahli-kavgada-sasirtan-detay-inegin-memesine-mermi-isabet-etmis-43283693"
+          "title": "Yasa dışı bahis reklamı operasyonu! Ünlü fenomen tutuklandı",
+          "summary": "İstanbul Emniyet Müdürlüğü Siber Suçlarla Mücadele Şube Müdürlüğü’nce sanal medyada yasa dışı bahis reklamı yapan ve bu reklamlarda oynayan şahıslara yönelik düzenlenen operasyonda gözaltına alınan 4 şüpheli tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahis-reklami-operasyonu-unlu-fenomen-tutuklandi-43283951"
         },
         {
-          "title": "Diyarbakır'da 2 el bombasıyla yakalanan 4 şüpheli tutuklandı",
-          "summary": "Diyarbakır'ın Sur ilçesinde polis ekiplerinin düzenlediği ortak operasyonda, 2 el bombasıyla yakalanan ve aralarında bir çocuğun da bulunduğu 4 şüpheli, sevk edildikleri adliyede çıkarıldıkları mahkemece tutuklanarak cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-2-el-bombasiyla-yakalanan-4-supheli-tutuklandi-43283686"
+          "title": "Toprak kayması nedeniyle 5 katlı bina tahliye edildi",
+          "summary": "Tunceli'de bir inşaat için gerçekleştirilen temel kazısı sırasında toprak kaydı. Bitişikteki 5 katlı bina tahliye edildi. Tunceli'de Atatürk Mahallesi Yurtkur mevkisinde yapımı planlanan bir inşaat için iş makineleriyle temel kazısı başlatıldı. Kazı çalışmaları sırasında, bitişikte bulunan 5 katlı binanın temeline yakın bölgeye kadar kazı yapıldı. Kazının ardından akşam saatlerinde, 12 dairenin bulunduğu 5 katlı binanın zemin kısmında toprak kayması meydana geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/toprak-kaymasi-nedeniyle-5-katli-bina-tahliye-edildi-1738748"
         }
       ]
     },
     "dunya": {
-      "text": "255 milyon TL’lik vurgunda 7 tutuklama. Fransa'da liselerde cep telefonu yasaklandı. KKTC'den yeni vize sistemi uygulaması. Endonezya'da 7.7'lik depremin bilançosu ağırlaştı: Hayatını kaybedenlerin sayısı 100'e yükseldi. Trump'tan Kanada'ya karşı yeni hamle. Rus ordusu Ukrayna'da üç yerleşim bölgesini ele geçirdi. Rusya'ya finansal darbe hazırlığı: İngiltere'den Ukrayna'ya destek açıklaması.",
+      "text": "ABD'den İran'a \"Ekonomik Sürgün\" operasyonu. Trump’tan yeni vize hamlesi: 200 bin kişinin vizesi iptal edilebilir. Telefona bakarak karşıdan karşıya geçene 75 euro ceza. Haiti'de çete saldırısında 43 kişi öldü. Avrupa'nın en büyüklerinden olacak: Paris'e 6 milyar euroluk Dragon Ball Z parkı. ABD-Kanada ticaret savaşında yeni cephe: Fransızca krizi. OpenAI'a \"kontrolden çıkan yapay zeka\" soruşturması.",
       "items": [
         {
-          "title": "255 milyon TL’lik vurgunda 7 tutuklama",
-          "summary": "AYDIN merkezli 8 ilde, kendilerini MİT personeli ve banka çalışanı olarak tanıtıp vatandaşlardan çeşitli bahanelerle para almak suretiyle dolandıran organize suç örgütüne yönelik operasyonda gözaltına alınan 7 şüpheli tutuklandı. Şüphelilerin hesaplarında toplam 255 milyon 696 bin TL’lik para hareketi tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/255-milyon-tllik-vurgunda-7-tutuklama-43283787"
+          "title": "ABD'den İran'a \"Ekonomik Sürgün\" operasyonu",
+          "summary": "ABD, İran'a yönelik uygulanacak ekonomik yaptırımları açıkladı. Tahran'dan ise ''Misillemeye hazırız.'' mesajı geldi. ABD Hazine Bakanı Scott Bessent, İran'a uygulanacak ekonomik yaptırımları açıkladı. İran'a yönelik “Ekonomik Sürgün” operasyonu başlattıklarını söyleyen Bessent, “ABD, İran yaptırımlarında 'sıfır sızıntı' yaklaşımını uygulayacak. İran'ı hayatta tutan tüm ekonomik can damarlarını keseceğiz” dedi.",
+          "source": "https://www.ntv.com.tr/dunya/abdden-iran-ekonomik-tecrit-operasyonu-1738734"
         },
         {
-          "title": "Fransa'da liselerde cep telefonu yasaklandı",
-          "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, yeni eğitim-öğretim yılından itibaren liselerde de cep telefonunun yasaklandığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransada-liselerde-cep-telefonu-yasaklandi-43283780"
+          "title": "Trump’tan yeni vize hamlesi: 200 bin kişinin vizesi iptal edilebilir",
+          "summary": "ABD Başkanı Donald Trump yönetimi, ülkeye iş veya turizm vizesiyle geldikten sonra iltica başvurusu yapan ya da halen iltica talebinde bulunan yabancıların vizelerini iptal etmeye hazırlanıyor. ABD Dışişleri Bakanlığı Sözcüsü Tommy Pigott, İç Güvenlik Bakanlığı ile koordinasyon içinde çalıştıklarını belirterek, “ABD’ye kısa süreli ziyaretçi olduklarını söyleyerek gelen ancak daha sonra burada kalıcı olarak kalmak amacıyla iltica başvurusunda bulunan yabancıların göçmen olmayan vizelerini tespit edip iptal etmek içi",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-yeni-vize-hamlesi-200-bin-kisinin-vizesi-iptal-edilebilir-1738762"
         },
         {
-          "title": "KKTC'den yeni vize sistemi uygulaması",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC), ülke sınırlarında denetimi artırmak ve güvenliği sağlamak için Göç-Sis ve E-Vize sistemlerini uygulamaya koyacağını bildirdi. Yeni sistemde KKTC üniversitelerinden kabul almak, ülkeye giriş hakkı elde etmek için yeterli olmayacak.",
-          "source": "https://www.hurriyet.com.tr/dunya/kktcden-yeni-vize-sistemi-uygulamasi-43283745"
+          "title": "Telefona bakarak karşıdan karşıya geçene 75 euro ceza",
+          "summary": "İtalya, trafik güvenliğini artırmak amacıyla Karayolları Kanunu’nda yeni bir düzenlemeye hazırlanıyor. Taslağa göre, karşıdan karşıya geçerken cep telefonuna bakan yayalara para cezası uygulanacak. Ekim ayının ortasına kadar onaylanması beklenen düzenleme kapsamında, yolun karşısına geçerken telefon kullanan yayalara 75 eurodan başlayan para cezaları verilebilecek. Yeni uygulamayla, sürücülerin telefonuna odaklanmış bir yayayı geç fark etmesi nedeniyle meydana gelebilecek kazaların önüne geçilmesi amaçlanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/karsidan-karsiya-gecerken-telefona-bakana-ceza-1738759"
         },
         {
-          "title": "Endonezya'da 7.7'lik depremin bilançosu ağırlaştı: Hayatını kaybedenlerin sayısı 100'e yükseldi",
-          "summary": "Endonezya’da 15 Ağustos'ta meydana gelen 7.7 büyüklüğündeki depremde can kaybının 100'e çıktığı bildirildi. Binlerce konutun hasar gördüğü deprem, 180 bin kişinin evsiz kalmasına yol açtı.",
-          "source": "https://www.hurriyet.com.tr/dunya/endonezyada-7-7lik-depremin-bilancosu-agirlasti-hayatini-kaybedenlerin-sayisi-100e-yukseldi-43283731"
+          "title": "Haiti'de çete saldırısında 43 kişi öldü",
+          "summary": "Haiti'nin başkenti Port-au-Prince'in doğusunda bir çete tarafından düzenlenen saldırılarda 43 kişinin hayatını kaybettiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/haitide-cete-saldirisinda-43-kisi-oldu-43284013"
         },
         {
-          "title": "Trump'tan Kanada'ya karşı yeni hamle",
-          "summary": "ABD Başkanı Donald Trump, Kanada'ya uygulanan vergileri artırma kararı aldı. Trump, 2027 yılında Kanada'dan ithal edilen bazı ürünlere yüzde 50 gümrük vergisi uygulanacağını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-kanadaya-karsi-yeni-hamle-43283717"
+          "title": "Avrupa'nın en büyüklerinden olacak: Paris'e 6 milyar euroluk Dragon Ball Z parkı",
+          "summary": "Fransa ile Suudi Arabistan, Paris yakınlarında Dragon Ball Z temalı dev bir eğlence parkı projesi için anlaşmaya vardı. Projenin yatırım bedelinin 6 milyar euroyu bulması bekleniyor. Fransa Cumhurbaşkanlığı Elysee Sarayı'ndan yapılan açıklamaya göre proje, Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın Paris ziyareti sırasında duyuruldu. Japon manga ve anime serisi Dragon Ball Z'nin dünyasından esinlenecek park, Paris'in kuzeybatısındaki Cergy-Pontoise yakınlarında kurulacak.",
+          "source": "https://www.ntv.com.tr/dunya/avrupanin-en-buyuklerinden-olacak-parise-6-milyar-euroluk-dragon-ball-z-parki-1738754"
         },
         {
-          "title": "Rus ordusu Ukrayna'da üç yerleşim bölgesini ele geçirdi",
-          "summary": "Rusya Savunma Bakanlığı, ordusunun cephe hattında ilerleme kaydettiğini duyurdu. Bakanlık, Ukrayna'da Sumi, Zaporijya ve Donetsk bölgelerinde birer yerleşim birimini ele geçirdiklerini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rus-ordusu-ukraynada-uc-yerlesim-bolgesini-ele-gecirdi-43283713"
+          "title": "ABD-Kanada ticaret savaşında yeni cephe: Fransızca krizi",
+          "summary": "ABD ile Kanada arasındaki ticaret savaşı, geçen hafta müzakerelerin çökmesinin ardından bir yandan kültür savaşına da dönüşmeye başladı. Kanada Başbakanı Mark Carney, ülkenin en büyük ticaret ortağı ABD ile yaşanan anlaşmazlığın yalnızca gümrük tarifeleriyle ilgili olmadığını söyledi. Carney, Washington'ın Fransızca ve \"Quebec kültürüne\" yönelik kabul edilemez taleplerde bulunduğunu savundu. Dil ve kültür başlıkları, ticaret müzakerelerinde alışılmış anlaşmazlık konuları arasında yer almıyor.",
+          "source": "https://www.ntv.com.tr/dunya/abd-kanada-ticaret-savasinda-yeni-cephe-fransizca-krizi-1738752"
         },
         {
-          "title": "Rusya'ya finansal darbe hazırlığı: İngiltere'den Ukrayna'ya destek açıklaması",
-          "summary": "İngiltere Başbakanı Andy Burnham, Ukrayna'ya verdikleri desteğin süreceğini belirtti. Rusya üzerinde baskıyı sürdürme çağrısı yapan Burnham, Kremlin'in finansal kabiliyetini hedef almayı önerdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyaya-finansal-darbe-hazirligi-ingiltereden-ukraynaya-destek-aciklamasi-43283705"
+          "title": "OpenAI'a \"kontrolden çıkan yapay zeka\" soruşturması",
+          "summary": "OpenAI, şirketin yapay zeka modellerinin başka bir yapay zeka platformunun sistemlerine izinsiz erişmesi nedeniyle ABD'nin Alabama eyaletinde soruşturmayla karşı karşıya. Temmuz ortasında yapılan testler sırasında iki OpenAI modelinin kendileri için oluşturulan kapalı test ortamının dışına çıktığı ve internete erişim sağladığı belirtildi. Modellerin daha sonra yapay zeka geliştiricilerinin model ve veri setlerini depolayıp paylaştığı Hugging Face platformuna erişerek sistemlerine saldırdığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/openaia-kontrolden-cikan-yapay-zeka-sorusturmasi-1738751"
         }
       ]
     },
@@ -124,8 +124,33 @@
       ]
     },
     "spor": {
-      "text": "Jayden Oosterwolde'den Fenerbahçe'ye veda!. Beşiktaş'ta Hakan Daltaban'dan hakem tepkisi: 'Görevden almaya davet ediyorum'. Metin Diyadin'den İrfan Can Eğribayat açıklaması!. Kocaelispor, Matej Maglica'yı kadrosuna kattı. Eintracht Frankfurt'tan Can Uzun açıklaması!. Alanyaspor, Paolo Fernandes'i kiralık olarak kadrosuna kattı. Kapadokya Rallisi’ne Kerem Kazaz damgası!.",
+      "text": "Chelsea, Londra derbisinde 5 golle kazandı!. Sivasspor ile Manisa FK yenişemedi!. Galatasaray'da Batrakov sahaya indi!. Trabzonspor, Fabinho transferinin detaylarını açıkladı!. Galatasaray'a Leao transferinde İngiltere'den rakip çıktı!. Jayden Oosterwolde'den Fenerbahçe'ye veda!. Beşiktaş'ta Hakan Daltaban'dan hakem tepkisi: 'Görevden almaya davet ediyorum'.",
       "items": [
+        {
+          "title": "Chelsea, Londra derbisinde 5 golle kazandı!",
+          "summary": "İngiltere Premier Lig'de ilk haftanın kapanışında oynanan Londra derbisinde Chelsea, deplasmanda Fulham'ı 3-2 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/chelsea-londra-derbisinde-5-golle-kazandi-43283965"
+        },
+        {
+          "title": "Sivasspor ile Manisa FK yenişemedi!",
+          "summary": "Sivasspor, Trendyol 1. Lig’in 3. haftasında Manisa Futbol Kulübü ile 2-2 berabere kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sivasspor-ile-manisa-fk-yenisemedi-43283943"
+        },
+        {
+          "title": "Galatasaray'da Batrakov sahaya indi!",
+          "summary": "Galatasaray, Trendyol Süper Lig’in 3. haftasında Göztepe ile oynayacağı maçın hazırlıklarına bugün yaptığı antrenmanla başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-batrakov-sahaya-indi-43283876"
+        },
+        {
+          "title": "Trabzonspor, Fabinho transferinin detaylarını açıkladı!",
+          "summary": "Trabzonspor, 32 yaşındaki Brezilyalı futbolcu Fabinho ile 2 yıllık anlaşma sağlandığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-fabinho-transferinin-detaylarini-acikladi-43283862"
+        },
+        {
+          "title": "Galatasaray'a Leao transferinde İngiltere'den rakip çıktı!",
+          "summary": "Galatasaray'ın bir süredir transfer gündeminde yer alan Rafael Leao'ya İngiltere'den talip çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-leao-transferinde-ingiltereden-rakip-cikti-43283848"
+        },
         {
           "title": "Jayden Oosterwolde'den Fenerbahçe'ye veda!",
           "summary": "Serie A ekiplerinden Roma ile anlaşmaya varan Jayden Oosterwolde, Fenerbahçe'ye veda etti.",
@@ -135,31 +160,6 @@
           "title": "Beşiktaş'ta Hakan Daltaban'dan hakem tepkisi: 'Görevden almaya davet ediyorum'",
           "summary": "Beşiktaş İkinci Başkanı Hakan Daltaban, Alanyaspor ile oynadıkları maçtaki hakem yönetimi sebebiyle sert açıklamalarda bulundu.",
           "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-hakan-daltabandan-hakem-tepkisi-gorevden-almaya-davet-ediyorum-43283771"
-        },
-        {
-          "title": "Metin Diyadin'den İrfan Can Eğribayat açıklaması!",
-          "summary": "Gençlerbirliği Teknik Direktörü Metin Diyadin, Süper Lig'de Fenerbahçe ve Göztepe karşısında alınan galibiyetlerle ilgili açıklamalarda bulunurken İrfan Can Eğribayat'a ilişkin de değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/metin-diyadinden-irfan-can-egribayat-aciklamasi-43283652"
-        },
-        {
-          "title": "Kocaelispor, Matej Maglica'yı kadrosuna kattı",
-          "summary": "Transferde sayılı hamleleri kalan Süper Lig ekibi Kocaelispor, Hırvat stoper Matej Maglica'yı 2+1 yıllığına renklerine bağladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kocaelispor-matej-maglicayi-kadrosuna-katti-43283631"
-        },
-        {
-          "title": "Eintracht Frankfurt'tan Can Uzun açıklaması!",
-          "summary": "Eintracht Frankfurt Teknik Direktörü Adi Hütter, Galatasaray ile anılan Can Uzun ile ilgili açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/eintracht-frankfurttan-can-uzun-aciklamasi-43283607"
-        },
-        {
-          "title": "Alanyaspor, Paolo Fernandes'i kiralık olarak kadrosuna kattı",
-          "summary": "Alanyaspor, Yunanistan ekiplerinden AEK forması giyen 28 yaşındaki kanat oyuncusu Paolo Fernandes'i 1 yıllığına kiralık olarak kadrosuna kattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-paolo-fernandesi-kiralik-olarak-kadrosuna-katti-43283582"
-        },
-        {
-          "title": "Kapadokya Rallisi’ne Kerem Kazaz damgası!",
-          "summary": "Türkiye Ralli Şampiyonası’nın dördüncü ayağı Kapadokya Rallisi’nde Team Petrol Ofisi pilotu Kerem Kazaz, co-pilotu Corentin Silvestre ile rakiplerine yaklaşık 3 dakika fark attı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kapadokya-rallisine-kerem-kazaz-damgasi-43283537"
         }
       ]
     },
