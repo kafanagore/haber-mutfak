@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-25T04:00:03.739Z",
+  "generatedAt": "2026-08-25T10:00:03.672Z",
   "categories": {
     "gundem": {
-      "text": "Yolcu otobüsü ile yakıt tankeri çarpıştı: 35 yaralı. Kazayı duyan doktor, duvardan atlayarak yaralı sürücüye müdahale etti. DMM'den dikkat çeken uyarı: Dış kaynaklı psikolojik harekat devrede. Tır garajında yangın: 5 araç kullanılamaz hale geldi. Sahilde şüpheli madde alarmı… Ekipler harekete geçti. Yasa dışı bahis reklamı operasyonu! Ünlü fenomen tutuklandı. Toprak kayması nedeniyle 5 katlı bina tahliye edildi.",
+      "text": "Rafting faciasında ölen 14 yaşındaki Taha'nın annesinden şok iddia: Eşime para teklif ettiler. Bahçeli: Malazgirt mazimizdir, Anadolu namusumuzdur. Aydın'da görülmemiş düğün: Nikaha bir gün kala ayrıldı, salon yanmasın diye 'gelinsiz' düğün yaptı. 1 aydır kulak ağrısı yaşıyordu: 5 yaşındaki çocuğun kulağından çıktı!. MHP lideri Bahçeli'den Malazgirt Zaferi'nin 955. yıl dönümünde mesaj. Elektrikli araç yandı, 12 saatte söndürülemedi. AKM 2026–2027 yeni sanat sezonuna hazır... Emma Shapplin’den İngiliz Kraliyet Orkestrası’na dünya yıldızları AKM’de.",
       "items": [
         {
-          "title": "Yolcu otobüsü ile yakıt tankeri çarpıştı: 35 yaralı",
-          "summary": "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile benzin taşıyan tankerin çarpışması sonucu meydana gelen kazada 35 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yolcu-otobusu-ile-yakit-tankeri-carpisti-cok-sayida-yarali-var-43284017"
+          "title": "Rafting faciasında ölen 14 yaşındaki Taha'nın annesinden şok iddia: Eşime para teklif ettiler",
+          "summary": "Muğla’da rafting yaparken ayağının kayaya sıkışması sonucu boğulan Taha Emir’in annesi Çiğdem Katalıoğlu, kaçak faaliyet gösterdiğini öne sürdüğü firma yetkililerinin olay sonrası eşine para teklif ettiğini ileri sürdü. Teklifi kesinlikle reddettiklerini belirten acılı anne, \"Çocuğumun üstünden 1 lira dahi almam. Benim canım yandı, başka canlar yanmasın. Tüm sorumlular cezalandırılsın\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/rafting-faciasinda-olen-14-yasindaki-tahanin-annesinden-sok-iddia-esime-para-teklif-ettiler-43284450"
         },
         {
-          "title": "Kazayı duyan doktor, duvardan atlayarak yaralı sürücüye müdahale etti",
-          "summary": "BURSA'nın İnegöl ilçesinde motosiklet kazasında yaralanan sürücüye, yakındaki İnegöl Devlet Hastanesi'nde görevli doktor Mustafa Kıran, acil servis duvarından atlayarak, müdahale etti. Yaralı sürücü olay yerindeki ilk tıbbi müdahalenin ardından sedye ile hastaneye taşınarak tedaviye alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kazayi-duyan-doktor-duvardan-atlayarak-yarali-surucuye-mudahale-etti-43284015"
+          "title": "Bahçeli: Malazgirt mazimizdir, Anadolu namusumuzdur",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, Malazgirt'in Türklerin mazisi olduğunu ifade edip \"Anadolu namusumuzdur, Türkiye istikbalimizdir. Türkiye Cumhuriyeti Devleti, bahtımızdır.\" dedi. MHP Genel Başkanı Devlet Bahçeli, “Malazgirt Meydan Muharebesi Zaferi'nin 955. Yıl Dönümü”ne ilişkin açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/bahceli-malazgirt-mazimizdir-anadolu-namusumuzdur-1738856"
         },
         {
-          "title": "DMM'den dikkat çeken uyarı: Dış kaynaklı psikolojik harekat devrede",
-          "summary": "DMM, Türkiye'nin toplumsal birliğini, kardeşlik ve huzur iklimini hedef alan dış kaynaklı ve maksatlı bir psikolojik harekat stratejisinin devreye sokulmaya çalışıldığını açıkladı. Vatandaşlara kaynağı belirsiz paylaşımlara karşı dikkatli olma ve yalnızca resmi açıklamalara itibar etme çağrısı yapıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/dmmden-dikkat-ceken-uyari-dis-kaynakli-psikolojik-harekat-devrede-43283994"
+          "title": "Aydın'da görülmemiş düğün: Nikaha bir gün kala ayrıldı, salon yanmasın diye 'gelinsiz' düğün yaptı",
+          "summary": "Aydın'ın Nazilli ilçesinde nikahına bir gün kala evlenmekten vazgeçen gurbetçi Ali Akın (37), kiraladığı salonun sözleşmesini iptal edemeyince akraba ve arkadaşlarıyla 'gelinsiz' düğün düzenledi. Davetlileri kapıda tek başına karşılayan damat, gece boyunca yakınlarıyla pistte doyasıya eğlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/aydinda-gorulmemis-dugun-nikaha-bir-gun-kala-ayrildi-salon-yanmasin-diye-gelinsiz-dugun-yapti-43284426"
         },
         {
-          "title": "Tır garajında yangın: 5 araç kullanılamaz hale geldi",
-          "summary": "İstanbul Avcılar’da tır garajında çıkan yangında 2’si tır olmak üzere 5 araç ile garaj içerisinde bulunan bir konteyner yanarak kullanılamaz hale geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tir-garajinda-yangin-5-arac-kullanilamaz-hale-geldi-43283984"
+          "title": "1 aydır kulak ağrısı yaşıyordu: 5 yaşındaki çocuğun kulağından çıktı!",
+          "summary": "Sivas ve çevre illerindeki kene vakaları devam ederken Eskişehir'de de dikkat çeken bir olay yaşandı. Kulak ağrısı şikayetiyle özel bir hastaneye götürülen 5 yaşındaki çocuğun kulağından canlı kene çıkarıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/1-aydir-kulak-agrisi-yasiyordu-5-yasindaki-cocugun-kulagindan-cikti-43284421"
         },
         {
-          "title": "Sahilde şüpheli madde alarmı… Ekipler harekete geçti",
-          "summary": "Samsun sahilinde kıyıya vuran çuvallardan ne olduğu henüz belirlenemeyen toz halinde maddeler çıkması paniğe neden oldu. Sahilin farklı noktalarında da benzer maddelerin görülmesi üzerine ekipler alarma geçerek bölgede inceleme başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sahilde-supheli-madde-alarmi-ekipler-alarma-gecti-43283983"
+          "title": "MHP lideri Bahçeli'den Malazgirt Zaferi'nin 955. yıl dönümünde mesaj",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, Malazgirt Zaferi'nin 955. yıl dönümü dolayısıyla yaptığı yazılı açıklamada, \"Malazgirt Zaferi, tarihin seyrini yeniden biçimlendiren, coğrafyaların istikametine yeniden yön tayin eden kutlu bir kader anıdır\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-malazgirt-zaferinin-955-yil-donumunde-mesaj-43284417"
         },
         {
-          "title": "Yasa dışı bahis reklamı operasyonu! Ünlü fenomen tutuklandı",
-          "summary": "İstanbul Emniyet Müdürlüğü Siber Suçlarla Mücadele Şube Müdürlüğü’nce sanal medyada yasa dışı bahis reklamı yapan ve bu reklamlarda oynayan şahıslara yönelik düzenlenen operasyonda gözaltına alınan 4 şüpheli tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahis-reklami-operasyonu-unlu-fenomen-tutuklandi-43283951"
+          "title": "Elektrikli araç yandı, 12 saatte söndürülemedi",
+          "summary": "Yaklaşık 8 milyon TL değerindeki elektrikli araç, seyir halindeyken yanmaya başladı. Müdahale 12 saat sürdü. 30 yıllık itfaiyeci, meslek hayatında ilk defa böyle bir olayla karşılaştığını söyledi. ARKA BÖLÜMDE BAŞLAYAN YANGIN TÜM ARACA YAYILDI Aydın Büyükşehir Belediyesi İtfaiye Daire Başkanı Taner Günhan'ın “Meslek hayatımda ilk kez böylesini gördüm.\" dediği yangın, Söke ilçesi yakınlarında meydana geldi. Yaklaşık 8 milyon TL değerindeki elektrikli otomobil, seyir halindeyken alev aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-elektrikli-arac-yandi-12-saatte-sondurulemedi-1738799"
         },
         {
-          "title": "Toprak kayması nedeniyle 5 katlı bina tahliye edildi",
-          "summary": "Tunceli'de bir inşaat için gerçekleştirilen temel kazısı sırasında toprak kaydı. Bitişikteki 5 katlı bina tahliye edildi. Tunceli'de Atatürk Mahallesi Yurtkur mevkisinde yapımı planlanan bir inşaat için iş makineleriyle temel kazısı başlatıldı. Kazı çalışmaları sırasında, bitişikte bulunan 5 katlı binanın temeline yakın bölgeye kadar kazı yapıldı. Kazının ardından akşam saatlerinde, 12 dairenin bulunduğu 5 katlı binanın zemin kısmında toprak kayması meydana geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/toprak-kaymasi-nedeniyle-5-katli-bina-tahliye-edildi-1738748"
+          "title": "AKM 2026–2027 yeni sanat sezonuna hazır... Emma Shapplin’den İngiliz Kraliyet Orkestrası’na dünya yıldızları AKM’de",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Atatürk Kültür Merkezi’nin (AKM) 2026–2027 sanat sezonu programını duyurdu. Yeni sezonda operadan baleye, tiyatrodan konsere uzanan geniş bir program sanatseverlerle buluşurken, Lang Lang, Royal Philharmonic Orchestra, Emma Shapplin ve Christian McBride gibi dünyaca ünlü isimler ve topluluklar AKM sahnelerinde yer alacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/akm-2026-2027-yeni-sanat-sezonuna-hazir-emma-shapplinden-ingiliz-kraliyet-orkestrasina-dunya-yildizlari-akmde-43284388"
         }
       ]
     },
     "dunya": {
-      "text": "ABD'den İran'a \"Ekonomik Sürgün\" operasyonu. Trump’tan yeni vize hamlesi: 200 bin kişinin vizesi iptal edilebilir. Telefona bakarak karşıdan karşıya geçene 75 euro ceza. Haiti'de çete saldırısında 43 kişi öldü. Avrupa'nın en büyüklerinden olacak: Paris'e 6 milyar euroluk Dragon Ball Z parkı. ABD-Kanada ticaret savaşında yeni cephe: Fransızca krizi. OpenAI'a \"kontrolden çıkan yapay zeka\" soruşturması.",
+      "text": "Avrupa’da alarm! Peş peşe yaşandı, aynı şüphe doğdu: ‘Sabotaj’ zinciri… Asıl hedef ne?. Batı Şeria'da provokasyon: İsrailli vekil 'Şehitler Anıtı'nı balyozla parçaladı. Asırlık teknik kullanıldı. 360 tonluk kaleyi bin 800 kişi halatlarla çekti. Suriye'den İsrail'e Golan Tepeleri mesajı. Zelenski'den Cumhurbaşkanı Erdoğan'a teşekkür. Alman istihbaratı 'gamer' avına çıktı: Putin'e karşı siber ordu. Haiti'de kırmızı pazartesi: 47 kişi hayatını kaybetti.",
       "items": [
         {
-          "title": "ABD'den İran'a \"Ekonomik Sürgün\" operasyonu",
-          "summary": "ABD, İran'a yönelik uygulanacak ekonomik yaptırımları açıkladı. Tahran'dan ise ''Misillemeye hazırız.'' mesajı geldi. ABD Hazine Bakanı Scott Bessent, İran'a uygulanacak ekonomik yaptırımları açıkladı. İran'a yönelik “Ekonomik Sürgün” operasyonu başlattıklarını söyleyen Bessent, “ABD, İran yaptırımlarında 'sıfır sızıntı' yaklaşımını uygulayacak. İran'ı hayatta tutan tüm ekonomik can damarlarını keseceğiz” dedi.",
-          "source": "https://www.ntv.com.tr/dunya/abdden-iran-ekonomik-tecrit-operasyonu-1738734"
+          "title": "Avrupa’da alarm! Peş peşe yaşandı, aynı şüphe doğdu: ‘Sabotaj’ zinciri… Asıl hedef ne?",
+          "summary": "Avrupa’da peş peşe yaşanan patlama ve yangınlar, gözleri Moskova’ya çevirdi. Batılı istihbarat kaynakları, olayların arkasında dikkatle kurgulanmış bir sabotaj ağı olabileceğini öne sürüyor. Peki saldırılarda nasıl bir yöntem kullanılıyor? Birbirinden farklı ülkelerde yaşanan bu olayları aynı şüphede buluşturan ne? Cevabı, Avrupa’daki savunma tesislerinde yaşananlarda saklı…",
+          "source": "https://www.hurriyet.com.tr/dunya/avrupada-alarm-pes-pese-yasandi-ayni-suphe-dogdu-sabotaj-zinciri-asil-hedef-ne-43283623"
         },
         {
-          "title": "Trump’tan yeni vize hamlesi: 200 bin kişinin vizesi iptal edilebilir",
-          "summary": "ABD Başkanı Donald Trump yönetimi, ülkeye iş veya turizm vizesiyle geldikten sonra iltica başvurusu yapan ya da halen iltica talebinde bulunan yabancıların vizelerini iptal etmeye hazırlanıyor. ABD Dışişleri Bakanlığı Sözcüsü Tommy Pigott, İç Güvenlik Bakanlığı ile koordinasyon içinde çalıştıklarını belirterek, “ABD’ye kısa süreli ziyaretçi olduklarını söyleyerek gelen ancak daha sonra burada kalıcı olarak kalmak amacıyla iltica başvurusunda bulunan yabancıların göçmen olmayan vizelerini tespit edip iptal etmek içi",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-yeni-vize-hamlesi-200-bin-kisinin-vizesi-iptal-edilebilir-1738762"
+          "title": "Batı Şeria'da provokasyon: İsrailli vekil 'Şehitler Anıtı'nı balyozla parçaladı",
+          "summary": "İsrailli aşırı sağcı milletvekili Zvi Sukkot, Filistin'in işgal altındaki toprağı Batı Şeria'da bulunan \"Şehitler Anıtı\"nı İsrail askerlerinin koruması altında balyozla yıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/bati-seriada-provokasyon-israilli-vekil-sehitler-anitini-balyozla-parcaladi-43284377"
         },
         {
-          "title": "Telefona bakarak karşıdan karşıya geçene 75 euro ceza",
-          "summary": "İtalya, trafik güvenliğini artırmak amacıyla Karayolları Kanunu’nda yeni bir düzenlemeye hazırlanıyor. Taslağa göre, karşıdan karşıya geçerken cep telefonuna bakan yayalara para cezası uygulanacak. Ekim ayının ortasına kadar onaylanması beklenen düzenleme kapsamında, yolun karşısına geçerken telefon kullanan yayalara 75 eurodan başlayan para cezaları verilebilecek. Yeni uygulamayla, sürücülerin telefonuna odaklanmış bir yayayı geç fark etmesi nedeniyle meydana gelebilecek kazaların önüne geçilmesi amaçlanıyor.",
-          "source": "https://www.ntv.com.tr/dunya/karsidan-karsiya-gecerken-telefona-bakana-ceza-1738759"
+          "title": "Asırlık teknik kullanıldı. 360 tonluk kaleyi bin 800 kişi halatlarla çekti",
+          "summary": "Japonya'da tarihi Hirosaki Kalesi'nin 360 tonluk ana kulesi, bin 800 kişinin halatlarla çekmesiyle iki metre kadar taşındı. Yapı, yüzyıllardır \"hikiya\" tekniği sayesinde sökülmeden yer değiştiriyor. Japonya'nın kuzeyinde sıra dışı bir restorasyon çalışmasına imza atıldı. Aomori bölgesindeki tarihi Hirosaki Kalesi'nin 360 ton ağırlığındaki ana kulesi, yaklaşık 1800 kişinin katıldığı operasyonla iki metreden fazla taşındı.",
+          "source": "https://www.ntv.com.tr/dunya/asirlik-teknik-kullanildi-360-tonluk-kaleyi-bin-800-kisi-halatlarla-cekti-1738851"
         },
         {
-          "title": "Haiti'de çete saldırısında 43 kişi öldü",
-          "summary": "Haiti'nin başkenti Port-au-Prince'in doğusunda bir çete tarafından düzenlenen saldırılarda 43 kişinin hayatını kaybettiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/haitide-cete-saldirisinda-43-kisi-oldu-43284013"
+          "title": "Suriye'den İsrail'e Golan Tepeleri mesajı",
+          "summary": "Suriye Savunma Bakanlığı, İsrail'in İdlib'de bulunan atıl durumdaki Ebu Zuhur Askeri Hava Üssü'ne düzenlediği saldırıların ardından bölgede insansız hava araçlarıyla (İHA) mesaj verdi. Ebu Zuhur’un semalarına Golan Tepeleri'ni de kapsayan Suriye haritası çizildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyeden-israile-golan-tepeleri-mesaji-43284351"
         },
         {
-          "title": "Avrupa'nın en büyüklerinden olacak: Paris'e 6 milyar euroluk Dragon Ball Z parkı",
-          "summary": "Fransa ile Suudi Arabistan, Paris yakınlarında Dragon Ball Z temalı dev bir eğlence parkı projesi için anlaşmaya vardı. Projenin yatırım bedelinin 6 milyar euroyu bulması bekleniyor. Fransa Cumhurbaşkanlığı Elysee Sarayı'ndan yapılan açıklamaya göre proje, Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın Paris ziyareti sırasında duyuruldu. Japon manga ve anime serisi Dragon Ball Z'nin dünyasından esinlenecek park, Paris'in kuzeybatısındaki Cergy-Pontoise yakınlarında kurulacak.",
-          "source": "https://www.ntv.com.tr/dunya/avrupanin-en-buyuklerinden-olacak-parise-6-milyar-euroluk-dragon-ball-z-parki-1738754"
+          "title": "Zelenski'den Cumhurbaşkanı Erdoğan'a teşekkür",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, ülkesinin 'Bağımsızlık Günü' dolayısıyla gönderdiği kutlama mesajı için Cumhurbaşkanı Recep Tayyip Erdoğan'a teşekkür etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenskiden-cumhurbaskani-erdogana-tesekkur-43284327"
         },
         {
-          "title": "ABD-Kanada ticaret savaşında yeni cephe: Fransızca krizi",
-          "summary": "ABD ile Kanada arasındaki ticaret savaşı, geçen hafta müzakerelerin çökmesinin ardından bir yandan kültür savaşına da dönüşmeye başladı. Kanada Başbakanı Mark Carney, ülkenin en büyük ticaret ortağı ABD ile yaşanan anlaşmazlığın yalnızca gümrük tarifeleriyle ilgili olmadığını söyledi. Carney, Washington'ın Fransızca ve \"Quebec kültürüne\" yönelik kabul edilemez taleplerde bulunduğunu savundu. Dil ve kültür başlıkları, ticaret müzakerelerinde alışılmış anlaşmazlık konuları arasında yer almıyor.",
-          "source": "https://www.ntv.com.tr/dunya/abd-kanada-ticaret-savasinda-yeni-cephe-fransizca-krizi-1738752"
+          "title": "Alman istihbaratı 'gamer' avına çıktı: Putin'e karşı siber ordu",
+          "summary": "Almanya'nın dış istihbarat servisi BND, Rusya'nın siber saldırılarına karşı genç ve teknoloji meraklısı oyuncuları kadrosuna katmak için harekete geçti. Oyuncular, siber güvenlik ve bilgisayar korsanlığı becerilerini ölçen özel testlerden geçirilecek.",
+          "source": "https://www.hurriyet.com.tr/dunya/alman-istihbarati-gamer-avina-cikti-putine-karsi-siber-ordu-43284222"
         },
         {
-          "title": "OpenAI'a \"kontrolden çıkan yapay zeka\" soruşturması",
-          "summary": "OpenAI, şirketin yapay zeka modellerinin başka bir yapay zeka platformunun sistemlerine izinsiz erişmesi nedeniyle ABD'nin Alabama eyaletinde soruşturmayla karşı karşıya. Temmuz ortasında yapılan testler sırasında iki OpenAI modelinin kendileri için oluşturulan kapalı test ortamının dışına çıktığı ve internete erişim sağladığı belirtildi. Modellerin daha sonra yapay zeka geliştiricilerinin model ve veri setlerini depolayıp paylaştığı Hugging Face platformuna erişerek sistemlerine saldırdığı bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/openaia-kontrolden-cikan-yapay-zeka-sorusturmasi-1738751"
+          "title": "Haiti'de kırmızı pazartesi: 47 kişi hayatını kaybetti",
+          "summary": "Karayip Denizi'nde yer alan ada ülkesi Haiti'de çeteler, pazar gecesi bir pazar yerine baskın düzenledi. Çetelerin saldırısında 47 kişinin yaşamını yitirdiği, 22'den fazla kişinin yaralandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/haitide-kirmizi-pazartesi-47-kisi-hayatini-kaybetti-43284306"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Chelsea, Londra derbisinde 5 golle kazandı!. Sivasspor ile Manisa FK yenişemedi!. Galatasaray'da Batrakov sahaya indi!. Trabzonspor, Fabinho transferinin detaylarını açıkladı!. Galatasaray'a Leao transferinde İngiltere'den rakip çıktı!. Jayden Oosterwolde'den Fenerbahçe'ye veda!. Beşiktaş'ta Hakan Daltaban'dan hakem tepkisi: 'Görevden almaya davet ediyorum'.",
+      "text": "Fenerbahçe'nin Lyon maçı kamp kadrosu açıklandı!. Fenerbahçe, UEFA Şampiyonlar Ligi'ne 1 maç uzakta. Trabzonspor'un 208. yabancı oyuncusu Fabinho. Galatasaray'ın gündemindeki Ismaila Sarr'dan olay hareket!. Fenerbahçe'de ayrılık! Diego Carlos'un yeni takımı belli oldu. Fenerbahçe'de Oosterwolde'nin yerine yerli sürpriz! Geri dönüyor. Sultanlar, Vargas'la coştu.",
       "items": [
         {
-          "title": "Chelsea, Londra derbisinde 5 golle kazandı!",
-          "summary": "İngiltere Premier Lig'de ilk haftanın kapanışında oynanan Londra derbisinde Chelsea, deplasmanda Fulham'ı 3-2 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/chelsea-londra-derbisinde-5-golle-kazandi-43283965"
+          "title": "Fenerbahçe'nin Lyon maçı kamp kadrosu açıklandı!",
+          "summary": "Şampiyonlar Ligi play-off turu rövanşında deplasmanda Lyon'la karşılaşacak Fenerbahçe'nin kamp kadrosu belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-lyon-maci-kamp-kadrosu-aciklandi-43284436"
         },
         {
-          "title": "Sivasspor ile Manisa FK yenişemedi!",
-          "summary": "Sivasspor, Trendyol 1. Lig’in 3. haftasında Manisa Futbol Kulübü ile 2-2 berabere kaldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sivasspor-ile-manisa-fk-yenisemedi-43283943"
+          "title": "Fenerbahçe, UEFA Şampiyonlar Ligi'ne 1 maç uzakta",
+          "summary": "UEFA Şampiyonlar Ligi play-off turunda 1-1'in rövanşında yarın Fransa temsilcisi Olimpik Lyon'a konuk olacak Fenerbahçe, 17 sezondur katılamadığı Şampiyonlar Ligi'ne 1 maç uzakta bulunuyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-uefa-sampiyonlar-ligine-1-mac-uzakta-43284360"
         },
         {
-          "title": "Galatasaray'da Batrakov sahaya indi!",
-          "summary": "Galatasaray, Trendyol Süper Lig’in 3. haftasında Göztepe ile oynayacağı maçın hazırlıklarına bugün yaptığı antrenmanla başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-batrakov-sahaya-indi-43283876"
+          "title": "Trabzonspor'un 208. yabancı oyuncusu Fabinho",
+          "summary": "Trabzonspor'un anlaşmaya vardığı Brezilyalı yıldız oyuncu Fabinho, kulübün 208. yabancı futbolcusu olarak kayıtlara geçti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-208-yabanci-oyuncusu-fabinho-43284346"
         },
         {
-          "title": "Trabzonspor, Fabinho transferinin detaylarını açıkladı!",
-          "summary": "Trabzonspor, 32 yaşındaki Brezilyalı futbolcu Fabinho ile 2 yıllık anlaşma sağlandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-fabinho-transferinin-detaylarini-acikladi-43283862"
+          "title": "Galatasaray'ın gündemindeki Ismaila Sarr'dan olay hareket!",
+          "summary": "Galatasaray, kanat transferinde listenin ilk sırasında yer alan Ismaila Sarr için şartları zorlamaya hazırlanıyor. Senegalli yıldız Sarı-Kırmızılı formayı giymeyi çok istiyor, kulübüne yoğun baskı yapıyor ve antrenmanlara ‘ağrım var’ diyerek çıkmıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-gundemindeki-ismaila-sarrdan-olay-hareket-43284185"
         },
         {
-          "title": "Galatasaray'a Leao transferinde İngiltere'den rakip çıktı!",
-          "summary": "Galatasaray'ın bir süredir transfer gündeminde yer alan Rafael Leao'ya İngiltere'den talip çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-leao-transferinde-ingiltereden-rakip-cikti-43283848"
+          "title": "Fenerbahçe'de ayrılık! Diego Carlos'un yeni takımı belli oldu",
+          "summary": "Fenerbahçe'de Diego Carlos'un geleceğiyle ilgili önemli bir gelişme yaşandı. Sarı-lacivertlilerin Brezilyalı stoper için Como ile anlaşmaya vardığı öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-ayrilik-diego-carlosun-yeni-takimi-belli-oldu-43284075"
         },
         {
-          "title": "Jayden Oosterwolde'den Fenerbahçe'ye veda!",
-          "summary": "Serie A ekiplerinden Roma ile anlaşmaya varan Jayden Oosterwolde, Fenerbahçe'ye veda etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jayden-oosterwoldeden-fenerbahceye-veda-43283778"
+          "title": "Fenerbahçe'de Oosterwolde'nin yerine yerli sürpriz! Geri dönüyor",
+          "summary": "Jayden Oosterwolde'nin ayrılığı sonrası stoper bölgesine takviye yapmak isteyen Fenerbahçe, Yusuf Akçiçek transferinde sona yaklaştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-oosterwoldenin-yerine-yerli-surpriz-geri-donuyor-43284040"
         },
         {
-          "title": "Beşiktaş'ta Hakan Daltaban'dan hakem tepkisi: 'Görevden almaya davet ediyorum'",
-          "summary": "Beşiktaş İkinci Başkanı Hakan Daltaban, Alanyaspor ile oynadıkları maçtaki hakem yönetimi sebebiyle sert açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-hakan-daltabandan-hakem-tepkisi-gorevden-almaya-davet-ediyorum-43283771"
+          "title": "Sultanlar, Vargas'la coştu",
+          "summary": "Macaristan’ı set vermeden mağlup eden ay yıldızlı ekibimizde Melissa Vargas, 24 sayıyla sahanın en skoreri olurken, galibiyette başrolü oynadı. Milli takımımız, Sinan Erdem Spor Salonu’ndaki turnuvada 4. maçını yarın saat 19.00’da Almanya ile oynayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sultanlar-vargasla-costu-43283989"
         }
       ]
     },
@@ -204,8 +204,18 @@
       ]
     },
     "saglik": {
-      "text": "Yetkililer devrede. Sakın yemeyin, iç organları ve deriyi buluyor. Bakan Memişoğlu: Evde sağlık hizmetlerimizle 1 milyon 352 bin 775 hastaya hizmet veriyoruz. Kişiye özel kanser aşısı geliştirildi. Moderna'nın mRNA aşısı cilt kanseri hastaları için umut oldu. Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\". Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum. Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar. Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor.",
+      "text": "130 kilo kara kazanda vitamin hapına dönüşüyor. Çatlatma işleminden geçiriyorlar. Fil hastası Kazım'ın tek dileği yürüyebilmek. 172 kilodan 90 kiloya düşmesi gerekiyor. Yetkililer devrede. Sakın yemeyin, iç organları ve deriyi buluyor. Bakan Memişoğlu: Evde sağlık hizmetlerimizle 1 milyon 352 bin 775 hastaya hizmet veriyoruz. Kişiye özel kanser aşısı geliştirildi. Moderna'nın mRNA aşısı cilt kanseri hastaları için umut oldu. Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\". Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum.",
       "items": [
+        {
+          "title": "130 kilo kara kazanda vitamin hapına dönüşüyor. Çatlatma işleminden geçiriyorlar",
+          "summary": "Adana'nın Kozan ilçesinde sağlık deposu olarak nitelendirilen kızılcık şerbeti yapımına geleneksel yöntemlerle başlandı. Adana'nın Kozan ilçesinde Düzağaç mahallesinde yayla sakinlerinin kış hazırlıkları sürerken, yörede \"ekşi kiraz\" olarak da bilinen kızılcık kirazının şerbet yapımı için kara kazanlar kuruldu. Düzağaç Mahallesi'nde yaşayan Süleyman Şenoğul ve ailesi, bahçelerinden topladıkları kızılcıkları geleneksel yöntemlerle işleyerek kışlık şerbet hazırlıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-130-kilo-kara-kazanda-vitamin-hapina-donusuyor-catlatma-isleminden-geciriyorlar-1738824"
+        },
+        {
+          "title": "Fil hastası Kazım'ın tek dileği yürüyebilmek. 172 kilodan 90 kiloya düşmesi gerekiyor",
+          "summary": "Edirne'nin Keşan ilçesinde halk arasında fil hastalığı olarak bilinen lenfödemle mücadele eden Kazım Atak'ın (33), tedavi olabilmesi için 172 kilodan 90 kiloya düşmesi gerekiyor. Yaklaşık 4 yıldır fil hastalığıyla mücadele eden ve hastalığı nedeniyle çalışamayan Kazım Atak, bağlanan engelli maaşı ve hayırseverlerin yardımlarıyla tek başına hayatını sürdürüyor. Yürümekte güçlük çeken Atak, hayırseverler tarafından alınan 3 tekerlekli elektrikli bisiklet ile gündelik işlerini yapmaya çalışıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-fil-hastasi-kazimin-tek-dilegi-yuruyebilmek-172-kilodan-90-kiloya-dusmesi-gerekiyor-1738823"
+        },
         {
           "title": "Yetkililer devrede. Sakın yemeyin, iç organları ve deriyi buluyor",
           "summary": "İzmir'in Çeşme ve Karaburun kıyılarında yeniden görülen orkinos ölümlerinin artan su sıcaklığıyla tetiklenen bir bakteriden kaynaklandığı açıklandı. İzmir'in Çeşme ve Karaburun kıyılarında geçtiğimiz yaz aylarında da gündeme gelen orkinos ölümleri yeniden görülmeye başlandı. Şu ana kadar kıyıya vuran 9 ölü orkinos tespit edilirken, yetkililer denizden çıkan ölü balıkların kesinlikle tüketilmemesi konusunda vatandaşları uyardı.",
@@ -230,16 +240,6 @@
           "title": "Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum",
           "summary": "Rize'de yaşayan 28 yaşındaki Serenay Atagün'ün iki ayrı rahminde aynı anda gebelik oluştu. Bu, dünyadaki üçüncü vaka oldu. Çift rahmi olan bir kadının her iki rahminde de aynı anda gebelik oluşması tıp çevrelerinde milyonda bir ihtimal olarak değerlendiriliyor. Tıpta \"dikaviter ikiz gebelik\" (iki ayrı boşluklu ikiz gebelik) olarak adlandırılan bu durum, dünya genelinde çok nadir bildirilen olaylar arasında yer alıyor. Bu doğum olayı son olarak Trabzon'da gerçek oldu.",
           "source": "https://www.ntv.com.tr/saglik/galeri-dunyada-ucuncu-vaka-oldu-ikisi-turkiyede-biri-cinde-1737478"
-        },
-        {
-          "title": "Eklem ağrıları, varis gibi hastalıklara iyi geliyor. Kilometrelerce yol gidip şifa arıyorlar",
-          "summary": "Adıyaman'ın Gerger ilçesine bağlı Gürgenli köyü sınırları içerisinde yer alan Sülüklü Göl, son dönemde şifa arayan ziyaretçilerin akınına uğruyor. Gördük Dağları'nın güney yamacında, yaklaşık bin 500 metre yükseklikteki zorlu coğrafyanın arasında gizlenmiş bu doğa harikası, el değmemiş yapısı ve temiz havasıyla çevre illerden gelen binlerce yerli turisti ağırlıyor. Etrafı sarp zirvelerle çevrili olan Sülüklü Göl, adını içinde barındırdığı ve alternatif tıpta sıkça kullanılan doğal sülüklerden alıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-eklem-agrilari-varis-gibi-hastaliklara-iyi-geliyor-kilometrelerce-yol-gidip-sifa-ariyorlar-1736755"
-        },
-        {
-          "title": "Kanser hastaları ve yaşlılardan talep çok. 24 saatte şifa deposuna dönüşüyor",
-          "summary": "Eskişehir'in İnönü ilçesinde merada otlayan hayvanların sütünden elde edilen ve tamamen doğal yöntemlerle üretilen manda yoğurdu, hem lezzetiyle hem de şifasıyla yoğun ilgi görüyor. Manda yoğurdu, bağışıklık sistemini güçlendirici etkisiyle özellikle kanser hastaları, yaşlılar ve çocuklar tarafından tercih ediliyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-kanser-hastalari-ve-yaslilardan-talep-cok-24-saatte-sifa-deposuna-donusuyor-1736609"
         }
       ]
     },
