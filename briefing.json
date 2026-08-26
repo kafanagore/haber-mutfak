@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-26T10:00:03.813Z",
+  "generatedAt": "2026-08-26T16:00:04.061Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul’da Aile Sağlığı Merkezi'nde olay: \"8 dakika bekledim\" diyerek etrafı dağıttı. Kemal Kılıçdaroğlu'ndan 'YPG'nin feshedilmesine ilişkin açıklama. MSB'den Büyük Taarruz paylaşımı. \"Vatan sevgisi zafere ulaştı\". Ankara'da tüp mide ameliyatı olan hemşire Burcu, 9 ayda 42 kilo verdi. Aziz İhsan Aktaş suç örgütü davasında karar çıktı: Belediye başkanlarına hapis. Side’de 390 metrelik anıtsal antik cadde gün yüzüne çıktı. İzmir ve Manisa'da silah kaçakçılığı operasyonu: 13 gözaltı.",
+      "text": "Manisa'da feci kaza: 2 kardeş öldü, 2 yaralı. TBMM Başkanı Kurtulmuş: Türkiye, Cumhuriyet'in ikinci asrında emperyalistlerin oyun planını bozuyor. Fethiye'de paraşüt faciası! Kayalıklara düştü: 2 ölü. Narin Güran cinayetini konu alan 'Şeytantepe’ belgeseli hakkında soruşturma başlatıldı. CHP’de 49 kişi kesin ihraç talebiyle disipline sevk edildi. TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' vurgusu: Emperyalizmin ikinci perdesine müsaade etmeyeceğiz. Alihan Kuriş operasyonunda kritik isimlerden biri daha yakalandı.",
       "items": [
         {
-          "title": "İstanbul’da Aile Sağlığı Merkezi'nde olay: \"8 dakika bekledim\" diyerek etrafı dağıttı",
-          "summary": "İstanbul Bağcılar'da Aile Sağlığı Merkezi'ne gelen bir kişi, yalnızca 8 dakika beklemesine rağmen fazla beklediğini öne sürerek hasta kayıt masasını ve tıbbi malzemeleri dağıtıp görevliye saldırmaya çalıştı. Güvenlik kamerasına yansıyan olayın ardından açıklama yapan İstanbul Aile Hekimliği Derneği, sağlık hizmetini kesintiye uğratan saldırıya tepki göstererek caydırıcı tedbirler alınmasını talep etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-aile-sagligi-merkezinde-olay-8-dakika-bekledim-diyerek-etrafi-dagitti-43285603"
+          "title": "Manisa'da feci kaza: 2 kardeş öldü, 2 yaralı",
+          "summary": "MANİSA'nın Demirci ilçesinde, şerit ihlali nedeniyle iki otomobilin çarpıştığı kazada Erol Uçar (56) ile kardeşi Nurten Erdoğan (54) hayatını kaybetti, diğer araçta bulunan 2 kişi de yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/manisada-feci-kaza-2-kardes-oldu-2-yarali-43286035"
         },
         {
-          "title": "Kemal Kılıçdaroğlu'ndan 'YPG'nin feshedilmesine ilişkin açıklama",
-          "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, YPG/SDG'nin feshedilmesine yönelik sosyal medya hesabından açıklamada bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/kemal-kilicdaroglundan-ypgnin-feshedilmesine-iliskin-aciklama-43285596"
+          "title": "TBMM Başkanı Kurtulmuş: Türkiye, Cumhuriyet'in ikinci asrında emperyalistlerin oyun planını bozuyor",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, emperyalizmin bir asır evvel oynadığı oyunun ikinci perdesine müsaade etmeyeceklerini belirterek, \"Bu ülkenin ve hatta bu bölgenin etnik ya da mezhebi anlamda bölünmesine asla fırsat vermeyeceğiz. Bir ve beraber olarak yolumuza devam edeceğiz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-turkiye-cumhuriyetin-ikinci-asrinda-emperyalistlerin-oyun-planini-bozuyor-43286032"
         },
         {
-          "title": "MSB'den Büyük Taarruz paylaşımı. \"Vatan sevgisi zafere ulaştı\"",
-          "summary": "Milli Savunma Bakanlığı (MSB), \"Büyük Taarruz'un 104'üncü yıl dönümüne ilişkin video paylaştı. Milli Savunma Bakanlığı (MSB), 26 Ağustos 1922'de başlayan ve 30 Ağustos Başkomutanlık Meydan Muharebesi ile zaferle sonuçlanan Büyük Taarruz'un 104'üncü yıl dönümü için bir video hazırladı. Bakanlığın sosyal medya medya hesabından yapılan paylaşımda, Büyük Taarruz'a ilişkin gerçek görüntüler yer aldı. Paylaşımda, \"Bağımsızlığın Mührü: Büyük Taarruz, 26 Ağustos 1922.",
-          "source": "https://www.ntv.com.tr/turkiye/msbden-buyuk-taarruz-paylasimi-vatan-sevgisi-zafere-ulasti-1738996"
+          "title": "Fethiye'de paraşüt faciası! Kayalıklara düştü: 2 ölü",
+          "summary": "Muğla'nın Fethiye ilçesindeki Babadağ'dan tandem atlayışı yaptıktan kısa süre sonra kayalıklara düşen yamaç paraşütü pilotu Ali Kıdıl ile yanındaki Çin uyruklu turist Xiangrui Meng, hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/fethiyede-parasut-faciasi-kayaliklara-dustu-2-olu-43286027"
         },
         {
-          "title": "Ankara'da tüp mide ameliyatı olan hemşire Burcu, 9 ayda 42 kilo verdi",
-          "summary": "Ankara Etlik Şehir Hastanesi'nde görev yapan hemşire Burcu Öztürk (31), yıllarca uyguladığı şok diyetlerden sonuç alamayınca geçirdiği tüp mide ameliyatıyla 9 ayda 114 kilodan 72 kiloya düştü. Fazla kilolarının neden olduğu sağlık sorunlarından kurtulan Öztürk, \"Hayatımdaki her şey değişti. Değişmeyen tek şey ismim, yüzüm bile değişti\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-tup-mide-ameliyati-olan-hemsire-burcu-9-ayda-42-kilo-verdi-43285573"
+          "title": "Narin Güran cinayetini konu alan 'Şeytantepe’ belgeseli hakkında soruşturma başlatıldı",
+          "summary": "DİYARBAKIR’da, Narin Güran cinayetine ilişkin sanal medyada hazırlanan ‘Şeytantepe’ belgeseli hakkında, soruşturma ve kovuşturma süreçlerini itibarsızlaştırmaya yönelik faaliyetler kapsamında soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/narin-guran-cinayetini-konu-alan-seytantepe-belgeseli-hakkinda-sorusturma-baslatildi-43286025"
         },
         {
-          "title": "Aziz İhsan Aktaş suç örgütü davasında karar çıktı: Belediye başkanlarına hapis",
-          "summary": "Aziz İhsan Aktaş suç örgütüne ilişkin davanın 60. duruşmasında kararlar çıktı. 6'sı görevinden uzaklaştırılan 7 belediye başkanının da aralarında bulunduğu 200 sanığın yargılandığı davada bazı sanıklar değişen oranlarda hapis cezasına çarptırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/aziz-ihsan-aktas-suc-orgutu-davasinda-karar-cikti-belediye-baskanlarina-hapis-43285556"
+          "title": "CHP’de 49 kişi kesin ihraç talebiyle disipline sevk edildi",
+          "summary": "Cumhuriyet Halk Partisi'nin içinde bulundukları halde başka bir siyasi partiyi destekleyen 49 CHP’li isim tedbirli olarak kesin ihraç talebiyle disipline sevk edildi. CHP Sözcüsü Müslim Sarı, “Parti Meclisimizde bir grup arkadaşımızı hala Cumhuriyet Halk Partisi'nin içinde bulundukları halde başka bir siyasal parti için çalışan arkadaşlarımızı tedbirli bir biçimde disipline sevk etmiş bulunuyoruz” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/chpde-49-kisinin-ihraci-istendi-43286016"
         },
         {
-          "title": "Side’de 390 metrelik anıtsal antik cadde gün yüzüne çıktı",
-          "summary": "Side Antik Kenti’nde yaklaşık 390 metre uzunluğundaki b Caddesi’nde yürütülen kazılar tamamlandı. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Herakles’in On İki İşi ile kentin başlıca tanrı ve tanrıçalarının tasvirlerini taşıyan Herakles Kapısı’nın öne çıktığı çalışmalara ilişkin olarak “Side’de tarihin görkemli kapılarından birini daha gün yüzüne çıkardık.” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/sidede-390-metrelik-anitsal-antik-cadde-gun-yuzune-cikti-43285543"
+          "title": "TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' vurgusu: Emperyalizmin ikinci perdesine müsaade etmeyeceğiz",
+          "summary": "Afyonkarahisar’da Sivil Toplum Buluşması Programı'nda konuşan TBMM Başkanı Numan Kurtulmuş, Türkiye'nin etnik ya da mezhebi anlamda bölünmesine asla fırsat vermeyeceklerini söyledi. Terörün ülkeye ekonomik maliyetinin en az 2,3 trilyon dolar olduğunu belirten Kurtulmuş, Cumhuriyet'in ikinci asrında \"büyük akıl\" ile emperyalistlerin oyun planının bozulduğunu ve \"Terörsüz Türkiye\" hedefine adım adım ilerlediklerini vurguladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-terorsuz-turkiye-vurgusu-emperyalizmin-ikinci-perdesine-musaade-etmeyecegiz-43286008"
         },
         {
-          "title": "İzmir ve Manisa'da silah kaçakçılığı operasyonu: 13 gözaltı",
-          "summary": "İzmir ve Manisa'da silah imal ederek çeşitli organize suç gruplarına sattıkları tespit edilen şüphelilere yönelik opresyonda 13 şüpheli gözaltına alındı. Çok sayıda ateşli silah ele geçirildi. İzmir İl Emniyet Müdürlüğü İstihbarat ve Organize Suçlarla Mücadele şubelerince daha önce yapılan ara yakalama ve aramalarda 93 tabanca, 21 şarjör ve çok sayıda parça ele geçirilmiş, gözaltına alınan 5 şüpheli çıkarıldıkları mahkemece tutuklanmıştı.",
-          "source": "https://www.ntv.com.tr/yerel-haberler/galeri-izmir-ve-manisada-silah-kacakciligi-operasyonu-13-gozalti-1738987"
+          "title": "Alihan Kuriş operasyonunda kritik isimlerden biri daha yakalandı",
+          "summary": "Alihan Kuriş'in elebaşı olduğu suç örgütüne yönelik soruşturmada örgütün mali işlerini yürüten isimlerden Mehmet Akay, Antalya Korkuteli'nde yakalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/alihan-kuris-operasyonunda-kritik-isimlerden-biri-daha-yakalandi-43285991"
         }
       ]
     },
     "dunya": {
-      "text": "ABD'de kıyamet uçakları havalandı. En az 5 uçak gökyüzünde. ABD Gizli Servisi alarma geçti: İran basınında Trump'ın oğluna suikast iddiası. Irak'ta silahsızlanma süreci dönüm noktasında: Bazı gruplar silahlarını hala teslim etmedi. Fransa'da şok olay! Eyleme hazırlanırlarken ekipmanları çalındı. ABD basınından çarpıcı iddia: İran'ın hedefindeydi: Netanyahu'nun oğlu bavulunu almadan kaçtı. Terör için tünelin sonu! YPG'nin feshini uzmanlar Hürriyet'e değerlendirdi: 'Bu karar çözülme getirir'. Ünlü milyarder lüks mekan açtı, mahalleliyle davalık oldu.",
+      "text": "Trump'tan dikkat çeken İran mesajı: Acelem yok. Tarihi ada satışa çıkarıldı. Nepal'de heyelan evleri böyle yuttu. Yüzlerce kişiden haber alınamıyor. ABD'li acılı anne CNN Türk'te! Dünya Meta'ya açtığı davayı konuşuyor. Hürmüz için kritik karar: İran ve Umman anlaştı. Nepal sele teslim: Yüzlerce kişi kayboldu. Japon kalesi halatlarla taşındı! Bin kişi 400 tonluk Hirosaki'yi yerinden kaldırdı.",
       "items": [
         {
-          "title": "ABD'de kıyamet uçakları havalandı. En az 5 uçak gökyüzünde",
-          "summary": "CIA Direktörü John Ratcliffe'in sürpriz Moskova ziyaretinden saatler sonra ABD semalarında en az beş E-6 Mercury uçağı görüntülendi. ABD ile Rusya arasındaki temasların yakından izlendiği bir dönemde, Amerikan semalarında dikkat çeken askeri uçuşlar kaydedildi. Uçuş takip sistemlerinden elde edilen verilere göre, salı günü ABD'nin batı kıyısı ile orta kesimlerinde en az beş Boeing E-6 Mercury uçağı havada görüntülendi.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-kiyamet-ucaklari-havalandi-en-az-5-ucak-gokyuzunde-1738995"
+          "title": "Trump'tan dikkat çeken İran mesajı: Acelem yok",
+          "summary": "ABD Başkanı Donald Trump, İran'ın müzakere masasına dönmesi için herhangi bir takvim belirlemediğini açıkladı. Trump, \"Acelem yok\" diyerek Tahran'ın yeniden görüşmelere dönmesi konusunda süre vermedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-dikkat-ceken-iran-mesaji-acelem-yok-43286001"
         },
         {
-          "title": "ABD Gizli Servisi alarma geçti: İran basınında Trump'ın oğluna suikast iddiası",
-          "summary": "ABD Gizli Servisi, ABD Başkanı Donald Trump'ın 20 yaşındaki oğlu Barron Trump'a yönelik muhtemel suikast planından söz edilen İran devlet televizyonu videosundan haberdar olduklarını ve videoyu tehdit kapsamında incelediklerini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-gizli-servisi-alarma-gecti-iran-basininda-trumpin-ogluna-suikast-iddiasi-43285529"
+          "title": "Tarihi ada satışa çıkarıldı",
+          "summary": "Venedik Lagünü'nde yer alan ve Napolyon döneminden kalma bir kaleye ev sahipliği yapan tarihi Crevan Adası satışa çıkarıldı. Venedik Lagünü'nde yer alan, bünyesinde Napolyon dönemine ait bir kale ve geniş bahçeler barındıran Crevan Adası satışa çıkarıldı. Burano ve Torcello adalarına tekneyle birkaç dakika mesafede olan ada, standart bir futbol sahasından biraz daha küçük bir alana sahip.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-tarihi-ada-satisa-cikarildi-1739013"
         },
         {
-          "title": "Irak'ta silahsızlanma süreci dönüm noktasında: Bazı gruplar silahlarını hala teslim etmedi",
-          "summary": "Irak hükümetinin silahları devlet kontrolüne alma yönündeki çalışmaları siyasi çevreler ve silahlı gruplar arasında tartışılmaya devam ederken, ABD öncülüğündeki Uluslararası Koalisyon Güçleri'nin ülkedeki görevinin 30 Eylül'de sona erecek olması bu tarihi sürecin kritik dönüm noktalarından biri haline getiriyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/irakta-silahsizlanma-sureci-donum-noktasinda-bazi-gruplar-silahlarini-hala-teslim-etmedi-43285531"
+          "title": "Nepal'de heyelan evleri böyle yuttu. Yüzlerce kişiden haber alınamıyor",
+          "summary": "Nepal'de seller ve beraberindeki toprak kaymalarında en az 95 kişi hayatını kaybetti. Yüzlerce kişiden haber alınamıyor. YÜZLERCE TURİSTTEN HABER ALINAMIYOR Nepal ile Çin'in Tibet bölgesi arasındaki Himalaya sınır hattını vuran büyük sel felaketinde en az 95 kişi hayatını kaybetti, onlarca kişi yaralandı. Bölgede bulunan yüzlerce turistle ise bağlantı kurulamadığı bildirildi. Nepal polisinin paylaştığı görüntülerde, taşan nehrin büyük bir hızla ilerleyerek önüne çıkan evleri sürüklediği görüldü.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-nepalde-heyelan-evleri-boyle-yuttu-yuzlerce-kisiden-haber-alinamiyor-1739024"
         },
         {
-          "title": "Fransa'da şok olay! Eyleme hazırlanırlarken ekipmanları çalındı",
-          "summary": "Fransa'da itfaiyecilerin daha fazla imkan talebiyle başkent Paris'te gösteri düzenlemesi beklenirken, 5 itfaiye istasyonundan acil kurtarma ekipmanlarının çalındığı öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransada-sok-olay-eyleme-hazirlanirlarken-ekipmanlari-calindi-43285523"
+          "title": "ABD'li acılı anne CNN Türk'te! Dünya Meta'ya açtığı davayı konuşuyor",
+          "summary": "Dünyanın gözü Amerika’daki Meta davasında. Facebook ve Instagram gibi platformların arkasındaki şirket yargı önünde. Çocuklarını sanal medya nedeniyle kaybettiğini söyleyen aileler adalet arayışında. Onlardan biri, 2022’de 17 yaşındaki kızı Coco’yu kaybeden Julianna Arnold, CNN Türk'ten Serdar Korucu'ya konuştu. Kızının Türk vatandaşlığının bulunduğunu, Türkçe adının da \"Dilara Konar\" olduğunu söyledi. \"Kızım Instagram’dan tanıştığı bir saldırgan nedeniyle hayatını kaybetti\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdli-acili-anne-cnn-turkte-dunya-metaya-actigi-davayi-konusuyor-43285926"
         },
         {
-          "title": "ABD basınından çarpıcı iddia: İran'ın hedefindeydi: Netanyahu'nun oğlu bavulunu almadan kaçtı",
-          "summary": "ABD basınında yer alan iddiaya göre, İranlı ajanlar Netanyahu'nun oğlu Yair Netanyahu'yu Miami'de takip etti. İsrail'in uyarısı üzerine Yair Netanyahu'nun, eşyalarını almadan ABD'den ayrıldığı öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-basinindan-carpici-iddia-iranin-hedefindeydi-netanyahunun-oglu-bavulunu-almadan-kacti-43285353"
+          "title": "Hürmüz için kritik karar: İran ve Umman anlaştı",
+          "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Tuğgeneral Hüseyin Muhibbi, Umman ile Hürmüz Boğazı konusunda bazı anlaşmalara varıldığını açıkladı. Muhibbi, Boğaz'ın açılmasının ABD'nin İran'ın şartlarını kabul etmesine bağlı olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-icin-kritik-karar-iran-ve-umman-anlasti-43285880"
         },
         {
-          "title": "Terör için tünelin sonu! YPG'nin feshini uzmanlar Hürriyet'e değerlendirdi: 'Bu karar çözülme getirir'",
-          "summary": "Suriye, YPG'nin kendini feshetme kararıyla kritik eşiği aştı. Ocak ayında terör örgütüne yönelik düzenlenen operasyonların ardından hızlanan entegrasyon süreci, YPG'nin sözde liderlerinden Mazlum Abdi'nin \"Bağımsız bir askeri güç olarak kendimizi feshettiğimizi ilan ediyoruz\" açıklamasıyla son aşamaya girdi. Suriye'de yeni dönemin olası sonuçlarını Hurriyet.com.tr'ye değerlendiren Terör ve Güvenlik uzmanı Coşkun Başbuğ ve Prof. Dr. Ali Fuat Gökçe, fesih kararıyla bölgede denklemlerin tersine döndüğünü belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/teror-icin-tunelin-sonu-ypgnin-feshini-uzmanlar-hurriyete-degerlendirdi-bu-karar-cozulme-getirir-43285425"
+          "title": "Nepal sele teslim: Yüzlerce kişi kayboldu",
+          "summary": "Nepal'in Rasuwa bölgesinde geniş çaplı sel felaketi meydana geldi. Selde ilk belirlemelere göre 95 kişi yaşamını yitirdi. Afet bölgesinde, Çin sınırındaki sel felaketinde Tibet'i ziyaret etmeye hazırlanan 384 hacıyla iletişimin kesildiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/nepal-sele-teslim-yuzlerce-kisi-kayboldu-43285667"
         },
         {
-          "title": "Ünlü milyarder lüks mekan açtı, mahalleliyle davalık oldu",
-          "summary": "Apollo Global Management CEO'su Marc Rowan'ın Montauk'taki lüks deniz ürünleri mekanı, imar mevzuatını ihlal ettiği gerekçesiyle mahalle sakinleriyle davalık oldu. Yatırım devi Apollo Global Management'ın CEO'su Marc Rowan'ın ABD'nin New York kentindeki Montauk bölgesinde işlettiği Duryea's Lobster Deck adlı deniz ürünleri mekanı, mahalle sakinleriyle milyarder iş insanını yıllardır süren bir hukuk savaşında karşı karşıya getirdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-unlu-milyarder-luks-mekan-acti-mahalleliyle-davalik-oldu-1738984"
+          "title": "Japon kalesi halatlarla taşındı! Bin kişi 400 tonluk Hirosaki'yi yerinden kaldırdı",
+          "summary": "Japonya'da tarihi Hirosaki kalesi, tadilat nedeniyle 11 yıl önce kaldırıldığı konumuna halatlarla taşındı. 400 tonluk kalenin taşınması için 1000 kişi seferber oldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/japon-kalesi-halatlarla-tasindi-bin-kisi-400-tonluk-hirosakiyi-yerinden-kaldirdi-43285788"
         }
       ]
     },
@@ -124,52 +124,52 @@
       ]
     },
     "spor": {
-      "text": "Egoista, Arasinko ve Whitewalkers! İstanbul’da Büyük Kapışma! İşte Misli’den Günün Altılı Analizi…. Fenerbahçe Şampiyonlar Ligi Yolunda Son Virajda, Taraf Bahisleri Ön Planda! İşte Misli'de Günün En Çok Oynanan Maçları. Filenin Sultanları, Almanya karşısında! Maçın heyecanı canlı yayın ile Misli'de. Fenerbahçe tur için Lyon deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de. Trabzonspor’un Ferencvaros maçı kamp kadrosu belli oldu. Roma'da Oosterwolde krizi! Fenerbahçe'ye geri dönebilir. İrfan Can Eğribayat'tan Fenerbahçe sözleri: 'Eski takımına karşı oynamak kolay değil!'.",
+      "text": "Selçuk İnan: 'Hakemlere güveniyoruz, hakkaniyetli olacaklarına inanıyoruz'. Manchester City Ayyoub Bouaddi'yi transfer etti. Joan Laporta'dan Julian Alvarez açıklaması. Galatasaray'a kötü haber! İngiliz devi, Ismaila Sarr için devrede. Ergin Ataman'dan Alperen Şengün açıklaması!. Serdal Adalı ateş püskürdü! Fenerbahçe-Beşiktaş derbisine yabancı VAR talebi. Basketball Without Borders (BWB) Next Up Erkekler Kampı Başladı.",
       "items": [
         {
-          "title": "Egoista, Arasinko ve Whitewalkers! İstanbul’da Büyük Kapışma! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/egoista-arasinko-ve-whitewalkers-istanbulda-buyuk-kapisma-iste-misliden-gunun-altili-analizi-43285599"
+          "title": "Selçuk İnan: 'Hakemlere güveniyoruz, hakkaniyetli olacaklarına inanıyoruz'",
+          "summary": "Konyaspor maçı hazırlıklarını sürdüren Kocaelispor'da basın mensuplarıyla bir araya gelen Teknik Direktör Selçuk İnan, hakem tartışmalarına ilişkin, \"İnsanlar, takımlar, camialar şikayet ediyor. Biz de bunun sıkıntısını fazlasıyla yaşadık. Ancak ne olursa olsun hakemlere güveniyoruz. Hakkaniyetli olacaklarına inanıyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-hakemlere-guveniyoruz-hakkaniyetli-olacaklarina-inaniyoruz-43285990"
         },
         {
-          "title": "Fenerbahçe Şampiyonlar Ligi Yolunda Son Virajda, Taraf Bahisleri Ön Planda! İşte Misli'de Günün En Çok Oynanan Maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-ligi-yolunda-son-virajda-taraf-bahisleri-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43285586"
+          "title": "Manchester City Ayyoub Bouaddi'yi transfer etti",
+          "summary": "Manchester City, Lille'den 18 yaşındaki Faslı orta saha oyuncusu Ayyoub Bouaddi'nin transferini gerçekleştirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/manchester-city-ayyoub-bouaddiyi-transfer-etti-43285989"
         },
         {
-          "title": "Filenin Sultanları, Almanya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "A Milli Kadın Voleybol Takımı, 2026 Avrupa Şampiyonası A Grubu'ndaki 4. maçında Almanya ile karşılaşıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-almanya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43285563"
+          "title": "Joan Laporta'dan Julian Alvarez açıklaması",
+          "summary": "Barcelona Başkanı Joan Laporta, Atletico Madrid'den Julian Alvarez transferini istediklerini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/joan-laportadan-julian-alvarez-aciklamasi-43285935"
         },
         {
-          "title": "Fenerbahçe tur için Lyon deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi play-off turu rövanş maçında Fransız ekibi Lyon ile deplasmanda karşılaşıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tur-icin-lyon-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43285551"
+          "title": "Galatasaray'a kötü haber! İngiliz devi, Ismaila Sarr için devrede",
+          "summary": "Galatasaray'ın transfer listesinde bulunan Senegalli oyuncu Ismaila Sarr için sürpriz bir gelişme yaşandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-kotu-haber-ingiliz-devi-ismaila-sarr-icin-devrede-43285871"
         },
         {
-          "title": "Trabzonspor’un Ferencvaros maçı kamp kadrosu belli oldu",
-          "summary": "Trabzonspor’un UEFA Avrupa Ligi Play-Off Turu rövanş maçında deplasmanda Ferencvaros ile oynayacağı karşılaşmanın kamp kadrosu belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-ferencvaros-maci-kamp-kadrosu-belli-oldu-43285536"
+          "title": "Ergin Ataman'dan Alperen Şengün açıklaması!",
+          "summary": "A Milli Basketbol Takımı Başantrenörü Ergin Ataman, medya gününde basın mensuplarının sorularını yanıtladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ergin-atamandan-alperen-sengun-aciklamasi-43285829"
         },
         {
-          "title": "Roma'da Oosterwolde krizi! Fenerbahçe'ye geri dönebilir",
-          "summary": "Kısa süre önce Roma'ya resmi imza atmak üzere giden Fenerbahçeli Jayden Oosterwolde'ye dair İtalyan kulübü, yeni bir karar aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/romada-oosterwolde-krizi-fenerbahceye-geri-donebilir-43285367"
+          "title": "Serdal Adalı ateş püskürdü! Fenerbahçe-Beşiktaş derbisine yabancı VAR talebi",
+          "summary": "Beşiktaş Başkanı Serdal Adalı, TFF ile yaptığı görüşme sonrası basın mensuplarına açıklamalarda bulundu. Adalı, MHK'nin değişmesinin gerektiğini ifade ederken, Fenerbahçe derbisi için yabancı VAR talebinde bulunduklarını aktardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-ates-puskurdu-fenerbahce-besiktas-derbisine-yabanci-var-talebi-43285780"
         },
         {
-          "title": "İrfan Can Eğribayat'tan Fenerbahçe sözleri: 'Eski takımına karşı oynamak kolay değil!'",
-          "summary": "Süper Lig'de bu sezon ilk 2 maçını kazanan tek takım olan Gençlerbirliği'nin kurtarışlarıyla dikkati çeken kalecisi İrfan Can Eğribayat, \"Bu sezona 'Yeniden hayata dönüş, yeniden futbola dönüş' olarak bakıyorum.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/irfan-can-egribayattan-fenerbahce-sozleri-eski-takimina-karsi-oynamak-kolay-degil-43285439"
+          "title": "Basketball Without Borders (BWB) Next Up Erkekler Kampı Başladı",
+          "summary": "Amerikan Basketbol Ligi (NBA), Uluslararası Basketbol Federasyonu (The International Basketball Federation - FIBA) ve Türkiye Basketbol Federasyonu (TBF) iş birliğiyle düzenlenen Basketball Without Borders (BWB) Next Up Erkekler Kampı’nın birincisi İstanbul’daki Basketbol Gelişim Merkezi'nde başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basketball-without-borders-bwb-next-up-erkekler-kampi-basladi-43285764"
         }
       ]
     },
     "teknoloji": {
-      "text": "Bill Gates'ten 5 bin 784 kelimelik uyarı. \"Harekete geçin\". Yapay zekanın Nostradamus'u iflas etti. 45 milyar dolarlık fon battı. Yapay zeka devinin yöneticileri teker teker şirketten ayrılıyor. 5 trilyon veriyi tek seferde işledi: ChatGPT'den farklı çalışan yeni yapay zeka modeli tanıtıldı. Oyun sektörü krizden çıkış için GTA 6'yı bekliyor. Kayıt yapan gözlükle depresyon ve otizm teşhisi: Tescilli yazılımla hekimlere karar desteği. BAM’dan Vali Canbolat’a 11 maddelik öneri... ‘Ankara lobisi oluşturmalıyız’.",
+      "text": "Meta davası sonuçlandı. Sosyal medya devi 17 milyar dolar ödeyecek. Yapay zekanın Nostradamus'u iflas etti. 45 milyar dolarlık fon battı. Su tedarikçisine siber saldırı, FBI soruşturma açtı. YETEV yeni akademik yıla başladı: Yapay zeka çağında ‘kadim değerler’ vurgusu. Meta'dan geri adım! Kritik davada sonuç belli oldu. Bill Gates'ten 5 bin 784 kelimelik uyarı. \"Harekete geçin\". Yapay zeka devinin yöneticileri teker teker şirketten ayrılıyor.",
       "items": [
         {
-          "title": "Bill Gates'ten 5 bin 784 kelimelik uyarı. \"Harekete geçin\"",
-          "summary": "Bill Gates, 5 bin 784 kelimelik yeni makalesinde yapay zekanın iş dünyası ve toplumda yaratacağı dönüşüme karşı yeterli hazırlık yapılmadığını söyledi. Microsoft'un kurucu ortağı ve milyarder Bill Gates, yapay zekanın insanlık için yaratabileceği büyük dönüşüme ilişkin dikkat çeken bir uyarıda bulundu.",
-          "source": "https://www.ntv.com.tr/teknoloji/bill-gatesten-5-bin-784-kelimelik-uyari-harekete-gecin-1738983"
+          "title": "Meta davası sonuçlandı. Sosyal medya devi 17 milyar dolar ödeyecek",
+          "summary": "Meta, Facebook ve Instagram’ın çocuklarda bağımlılık yapacak şekilde tasarlandığı iddiasıyla yargılandığı davada uzlaştı. Şirket 17 milyar dolar ödeyecek. Sosyal medya devi Meta'ta Facebook ve Instagram’ın çocuklarda bağımlılık yapacak şekilde tasarlandığı iddiasıyla ABD'deki 29 eyalet tarafından dava açılmıştı. Davada taraflar uzlaşmaya gitti. Eyaletlere yaklaşık 17 milyar dolar ödemeyi kabul eden şirket, söz konusu tutarın 10 yıllık bir süre zarfında yıllık taksitler halinde ödeneceğini açıkladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/meta-davasi-sonuclandi-sosyal-medya-devi-17-milyar-dolar-odeyecek-1739046"
         },
         {
           "title": "Yapay zekanın Nostradamus'u iflas etti. 45 milyar dolarlık fon battı",
@@ -177,29 +177,29 @@
           "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zekanin-nostradamusu-iflas-etti-45-milyar-dolarlik-fon-batti-1738982"
         },
         {
+          "title": "Su tedarikçisine siber saldırı, FBI soruşturma açtı",
+          "summary": "FBI, ABD'deki su sistemlerini denetleyen Micro-Comm'un yanı sıra farklı ülkelerden şirketlerin de bilgisayar korsanlarının saldırısına uğradığına dair uyarıda bulundu. ABD yetkilileri, su şebeke teknolojisi üreten küçük bir şirketteki veri ihlalini soruşturuyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/su-tedarikcisine-siber-saldiri-fbi-sorusturma-acti-1739038"
+        },
+        {
+          "title": "YETEV yeni akademik yıla başladı: Yapay zeka çağında ‘kadim değerler’ vurgusu",
+          "summary": "Yeni Türkiye Eğitim Vakfı (YETEV), 2026-2027 Akademik Yılı’nı \"Değişen Dünyada, Kadim Değerlerle İnsanlık İdeali\" temasıyla açtı. Yoğun katılımla gerçekleşen programda, yapay zekanın eğitime etkisi, dijital çağda çocukların kişilik gelişimi ve her vatandaşa tanımlanması planlanan yapay zeka asistanı projesi ele alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yetev-yeni-akademik-yila-basladi-yapay-zeka-caginda-kadim-degerler-vurgusu-43285876"
+        },
+        {
+          "title": "Meta'dan geri adım! Kritik davada sonuç belli oldu",
+          "summary": "Meta, çocukların sosyal medya kullanımından zarar gördüğü iddialarıyla ABD'de 29 eyaletin açtığı davalarda uzlaşmaya vardı. Şirketin, davaları 16 milyar dolara kadar çıkabilecek tazminat karşılığında sonlandırmayı kabul ettiği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/sosyal-medya-devinin-ceza-korkusu-meta-koseye-sikisti-kacis-plani-belli-oldu-43285737"
+        },
+        {
+          "title": "Bill Gates'ten 5 bin 784 kelimelik uyarı. \"Harekete geçin\"",
+          "summary": "Bill Gates, 5 bin 784 kelimelik yeni makalesinde yapay zekanın iş dünyası ve toplumda yaratacağı dönüşüme karşı yeterli hazırlık yapılmadığını söyledi. Microsoft'un kurucu ortağı ve milyarder Bill Gates, yapay zekanın insanlık için yaratabileceği büyük dönüşüme ilişkin dikkat çeken bir uyarıda bulundu.",
+          "source": "https://www.ntv.com.tr/teknoloji/bill-gatesten-5-bin-784-kelimelik-uyari-harekete-gecin-1738983"
+        },
+        {
           "title": "Yapay zeka devinin yöneticileri teker teker şirketten ayrılıyor",
           "summary": "OpenAI'da veri merkezlerinin başkanlığını üstlenen Chris Malone, son dönemde şirketten ayrılan üst düzey yöneticilerin arasına katıldı. Konuyla ilgili bilgi sahibi kişilere göre, OpenAI'nın veri merkezi kurulumunu denetleyen kilit yöneticilerden Chris Malone, planlanan halka arz öncesinde yaşanan bir dizi üst düzey yönetici ayrılığının ardından geçen hafta şirketteki görevini bıraktı. Malone, OpenAI'nın yönetici kadrosuna Mart 2025'te veri merkezleri başkanı olarak katıldı.",
           "source": "https://www.ntv.com.tr/teknoloji/yapay-zeka-devinin-yoneticileri-teker-teker-sirketten-ayriliyor-1738955"
-        },
-        {
-          "title": "5 trilyon veriyi tek seferde işledi: ChatGPT'den farklı çalışan yeni yapay zeka modeli tanıtıldı",
-          "summary": "Jeff Bezos destekli Project Prometheus için adı geçen iki araştırmacı, tek seferde 5 trilyon veri parçasını işleyebilen yeni yapay zeka modelini tanıttı. Anima Anandkumar ve Benedikt Jenik'in kurduğu Accelerated Understanding Inc, geliştirdiği sistemin Anthropic ve Google'ın önde gelen yapay zeka modellerinin tipik olarak işleyebildiğinden yaklaşık 5 milyon kat daha fazla veriyi tek seferde değerlendirebildiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-5-trilyon-veriyi-tek-seferde-isledi-chatgptden-farkli-calisan-yeni-yapay-zeka-modeli-tanitildi-1738932"
-        },
-        {
-          "title": "Oyun sektörü krizden çıkış için GTA 6'yı bekliyor",
-          "summary": "Avrupa'nın en büyük video oyun fuarı Gamescom, sektörün istihdam kayıpları ve kâr baskısıyla boğuştuğu bir dönemde Almanya'nın Köln kentinde kapılarını açtı. Avrupa'nın en büyük video oyun fuarı Gamescom, stüdyoların yoğun rekabet ortamında istihdam kesintilerine gittiği zorlu bir süreçte, bugün Almanya'nın Köln kentinde kapılarını açtı. Sektör temsilcileri, yakında piyasaya çıkacak gişe rekortmeni Grand Theft Auto 6 oyununun sektöre son derece ihtiyaç duyulan bir canlılık getirmesini umuyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-oyun-sektoru-krizden-cikis-icin-gta-6yi-bekliyor-1738879"
-        },
-        {
-          "title": "Kayıt yapan gözlükle depresyon ve otizm teşhisi: Tescilli yazılımla hekimlere karar desteği",
-          "summary": "Zonguldak Bülent Ecevit Üniversitesi Hastanesi Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları Bilim Dalı Başkanı Dr. Öğretim Üyesi Hakan Kayış, ses ve görüntü kaydı yapan gözlük aracılığıyla hastaların mimik, göz hareketleri ve ses tonunu analiz ederek depresyon ile otizm gibi psikiyatrik rahatsızlıkların teşhisini kolaylaştıracak yazılım geliştirdi. TÜRKPATENT tarafından faydalı model olarak tescillenen sistem, hekimlere tanı sürecinde karar destek aracı sağlayacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayit-yapan-gozlukle-depresyon-ve-otizm-teshisi-tescilli-yazilimla-hekimlere-karar-destegi-43284595"
-        },
-        {
-          "title": "BAM’dan Vali Canbolat’a 11 maddelik öneri... ‘Ankara lobisi oluşturmalıyız’",
-          "summary": "Başkent Ankara Meclisi (BAM), Yönetim Kurulu Başkanı Nevzat Ceylan başkanlığında Ankara Valisi Yakup Canbolat’a hayırlı olsun ziyaretinde bulundu. Ziyarette Vali Canbolat’a kent ile ilgili 11 maddelik öneriler de sunuldu. Nevzat Ceylan, “Ankara’nın tarihini, kültürünü ve potansiyelini geleceğe taşımak için yapılacak çok işimiz var. Biz inanıyoruz ki Ankara’nın sorunları da çözümü de ortaktır. Çözüm, ortak akıl, ortak irade ve ortak çalışmadadır ve Ankara lobisi oluşturmaktır” dedi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/ankara/bamdan-vali-canbolata-11-maddelik-oneri-ankara-lobisi-olusturmaliyiz-43284539"
         }
       ]
     },
