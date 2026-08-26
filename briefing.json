@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-25T16:00:03.587Z",
+  "generatedAt": "2026-08-26T04:00:03.555Z",
   "categories": {
     "gundem": {
-      "text": "Güvenlik kaynakları: Sosyal medyadaki İmralı tutanakları gerçek değil. Milli Savunma Bakanı Güler, 10'uncu Komando Tugay Komutanlığında incelemelerde bulundu. Tarım arazisinde çıkan yangında 4 dönüm alan zarar gördü. Cem Küçük soruşturmasında 3 kişi hakkında yakalama kararı çıkarıldı. Cem Küçük hakkında hazırlanan MASAK raporu ortaya çıktı...Raporda para hareketliliğine yer verildi. MHP lideri Bahçeli, Ahlat'ta partililer ve vatandaşlarla buluştu. Üsküdar Belediyesi'ndeki Başkan Vekilliği Seçiminde yürütme durduruldu.",
+      "text": "Sancaktepe'de korkutan yangın. Adana’da 2 otomobil çarpıştı; 4 yaralı. Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi. Alihan Kuriş soruşturmasında 37 klasör belge ele geçirildi. Ağıldan kaçan 50 koyun jandarma dronu ile bulundu. Adıyaman'da peş peşe depremler. Kayseri'de FETÖ hükümlüsü ihraç polis yakalandı.",
       "items": [
         {
-          "title": "Güvenlik kaynakları: Sosyal medyadaki İmralı tutanakları gerçek değil",
-          "summary": "Güvenlik kaynakları, sosyal medyada son dönemde gündeme gelen ve İmralı'da gerçekleştiği iddia edilen görüşme, tutanak, konular ve isimlerin gerçeği yansıtmadığını açıkladı. Öcalan'ın süreç için oluşturulan alt komisyonlarda yer alacağı iddiasına ilişkin güvenlik kaynaklarından açıklama yapıldı. Güvenlik kaynaklarından yapılan açıklamada, “Sosyal medya mecralarında son dönemde gündeme gelen ve İmralı’da gerçekleştiği yönünde iddia olunan görüşme, tutanak, konular ve isimler gerçeği yansıtmamaktadır” denildi.",
-          "source": "https://www.ntv.com.tr/turkiye/guvenlik-kaynaklari-sosyal-medyadaki-imrali-tutanaklari-gercek-degil-1738905"
+          "title": "Sancaktepe'de korkutan yangın",
+          "summary": "Sancaktepe’de bir demirci dükkanında henüz belirlenemeyen bir nedenle çıkan yangın, itfaiye ekiplerinin zamanında müdahalesiyle büyümeden söndürüldü. Olayda iş yerinde maddi hasar meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sancaktepede-korkutan-yangin-43285140"
         },
         {
-          "title": "Milli Savunma Bakanı Güler, 10'uncu Komando Tugay Komutanlığında incelemelerde bulundu",
-          "summary": "Milli Savunma Bakanı Yaşar Güler, 10'uncu Komando Tugay Komutanlığı'nda inceleme ve denetlemelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/milli-savunma-bakani-guler-10uncu-komando-tugay-komutanliginda-incelemelerde-bulundu-43284906"
+          "title": "Adana’da 2 otomobil çarpıştı; 4 yaralı",
+          "summary": "Adana'nın Kozan ilçesinde 2 otomobilin çarpışması sonucu 4 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/adanada-2-otomobil-carpisti-4-yarali-43285139"
         },
         {
-          "title": "Tarım arazisinde çıkan yangında 4 dönüm alan zarar gördü",
-          "summary": "Antalya’nın Alanya ilçesinde tarım arazisinde çıkan yangında yaklaşık 4 dönüm alan zarar gördü.",
-          "source": "https://www.hurriyet.com.tr/gundem/tarim-arazisinde-cikan-yanginda-4-donum-alan-zarar-gordu-43284904"
+          "title": "Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi",
+          "summary": "Afyonkarahisar'ın Şuhut ilçesinde Büyük Taarruz'un 104. yıl dönümü dolayısıyla \"Zafer Yürüyüşü\" düzenlendi. Vali Naci Aktaş ve il protokolünün katılımıyla, Çakırözü köyündeki okul bahçesinde program gerçekleştirildi. Burada, askeri birlik \"Komando Andı\" okudu, Türk Silahlı Kuvvetlerine ait video izlendi. Afyon Kocatepe Üniversitesi Devlet Konservatuvarı müzik grubu kahramanlık türküleri söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-buyuk-taarruzun-104-yil-donumu-dolayisiyla-zafer-yuruyusu-duzenlendi-1738923"
         },
         {
-          "title": "Cem Küçük soruşturmasında 3 kişi hakkında yakalama kararı çıkarıldı",
-          "summary": "İstanbul Cumhuriyet Başsavcılığı'nca yürütülen Cem Küçük soruşturmasında İsmail Çanak, Serdar Özyurt ve Ahsen Melek Kocatürk hakkında yakalama kararı çıkarıldı. İstanbul Cumhuriyet Başsavcılığı, Cem Küçük'ün \"Halkı yanıltıcı bilgiyi alenen yayma\" suçlamasıyla tutuklandığı soruşturmayı genişletti. İsmail Çanak, Serdar Özyurt ve Ahsen Melek Kocatürk hakkında yakalama kararı çıkarıldı. Halihazırda cezaevinde bulunan Cem Duman'ın da bu dosyayla ilgili \"şüpheli\" sıfatıyla ifadesinin alınacağı öğrenildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-cem-kucuk-sorusturmasinda-3-kisi-hakkinda-yakalama-karari-cikarildi-1738868"
+          "title": "Alihan Kuriş soruşturmasında 37 klasör belge ele geçirildi",
+          "summary": "Alihan Kuriş Suç Örgütü soruşturması kapsamında Antalya’da bir evde yapılan aramada, “bağış” listeleri ve hesap dekontlarının da aralarında bulunduğu 37 klasör belge ele geçirildi. Alihan Kuriş Suç Örgütü soruşturması kapsamında örgütün faaliyetleri ve mali yapılanmasına ilişkin çalışmalar sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/alihan-kuris-sorusturmasinda-37-klasor-belge-ele-gecirildi-1738922"
         },
         {
-          "title": "Cem Küçük hakkında hazırlanan MASAK raporu ortaya çıktı...Raporda para hareketliliğine yer verildi",
-          "summary": "İSTANBUL Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında Cem Küçük hakkında hazırlanan MASAK raporu ortaya çıktı. Raporda, Küçük’ün 2019-2026 yılları arasında hesaplarına 35 milyon 132 bin lira para girişi olduğu, bu tutarın 5 milyon 9 bin 300 liralık bölümünün 23 kişi ve şirketten geldiği, transfer açıklamalarının yetersiz olduğu ve söz konusu para hareketlerinin Küçük’ün mali profiliyle uyumsuzluk gösterdiği tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cem-kucuk-hakkinda-hazirlanan-masak-raporu-ortaya-cikti-raporda-para-hareketliligine-yer-verildi-43284897"
+          "title": "Ağıldan kaçan 50 koyun jandarma dronu ile bulundu",
+          "summary": "Bursa’nın İnegöl ilçesinde ağıldan çıkarak kaybolan 50 küçükbaş hayvan, İnegöl Jandarma Komutanlığı ekiplerinin havadan yaptığı dron destekli arama çalışmasıyla yaklaşık 4 kilometre uzakta bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/agildan-kacan-50-koyun-jandarma-dronu-ile-bulundu-43285116"
         },
         {
-          "title": "MHP lideri Bahçeli, Ahlat'ta partililer ve vatandaşlarla buluştu",
-          "summary": "MHP Genel Başkanı Devlet Bahçeli, Bitlis'in Ahlat ilçesinde partililer ve vatandaşlarla bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceli-ahlatta-partililer-ve-vatandaslarla-bulustu-43284892"
+          "title": "Adıyaman'da peş peşe depremler",
+          "summary": "Adıyaman'da en büyüğü 4,2 olmak üzere art arda sarsıntılar meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre Adıyaman'da peş peşe depremler meydana geldi. İlk deprem saat 21.40'da Sincik ilçesinde 3,7 büyüklüğünde bir deprem daha meydana geldi. Depremin derinliği 7 km olarak belirlendi. Saat 21.43'de Sincik'de bu kez 4,2 büyüklüğünde bir deprem meydana geldi. Bu sarsıntının derinliği de 7 km olarak ölçüldü. Saat 22.27'de de Sincik ilçesinde 3,6 büyüklüğünde sarsıntı gerçekleşti.",
+          "source": "https://www.ntv.com.tr/turkiye/adiyamanda-42-buyuklugunde-deprem-1738914"
         },
         {
-          "title": "Üsküdar Belediyesi'ndeki Başkan Vekilliği Seçiminde yürütme durduruldu",
-          "summary": "İstanbul 2. İdare Mahkemesi, Üsküdar Belediye Meclisi'nin 5 Ağustos 2026 tarihinde gerçekleştirdiği ve Sibel Tan Çetinkaya’nın Belediye Başkan Vekili olarak seçildiği 76 sayılı meclis kararının yürütmesini durdurdu. Mahkeme, seçimlerin yenilenmesini kararlaştırdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/uskudar-belediyesindeki-baskan-vekilligi-seciminde-yurutme-durduruldu-43284887"
+          "title": "Kayseri'de FETÖ hükümlüsü ihraç polis yakalandı",
+          "summary": "Kayseri'de FETÖ/PDY üyeliğinden hakkında kesinleşmiş 6 yıl 3 ay hapis cezası bulunan ihraç polis memuru F.A. (51), polisin düzenlediği operasyonla yakalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-feto-hukumlusu-ihrac-polis-yakalandi-43285113"
         }
       ]
     },
     "dunya": {
-      "text": "Trump: Hürmüz Boğazı'ndaki tüm mayınlar temizlendi. Trump'tan Hürmüz uyarısı: Sıfır tolerans. Ermenistan'dan 5 yıllık program: Ankara ve Bakü adımı onaylandı. İsrailli bakan Suriye'yi hedef aldı: Peş peşe tehditler savurdu. İran-ABD müzakerelerinde Hürmüz düğümü! Tahran'ın kritik şartı belli oldu. Babanın beslenme alışkanlığı bebeğin kilosunu etkileyebilir. Fransa'da nadir görülen hortum felaketi. 39 yaralı, yüzlerce ev hasarlı.",
+      "text": "Gıda kaynaklı parazit alarmı: Vaka sayısı 17 bini aştı. İsrail’den Lübnan’ın güneyine ateşkese rağmen geniş çaplı saldırı. CIA Direktörü'nden sürpriz Moskova ziyareti. SpaceX’ten 100 milyar dolarlık dev yatırım: Yeni uzay üssü geliyor. İran: Hürmüz Boğazı'ndaki geçiş koridoru 7 mil genişliğinde ve güney koridoru kapatıldı. Japon Başbakan öldürmeye kıyamadı, arkadaş oldu. \"Gidince yalnız hissettim\". Son dakika... Terör örgütü YPG kendini feshetti.",
       "items": [
         {
-          "title": "Trump: Hürmüz Boğazı'ndaki tüm mayınlar temizlendi",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndaki mayınların etkisiz hale getirildiğini söyledi. ABD Başkanı Donald Trump, sosyal medya hesabından yaptığı paylaşımda, Hürmüz Boğazı'ndaki güncel duruma ilişkin açıklamada bulundu. ABD Başkanı Trump, açıklamasında, \"Az önce, Hürmüz Boğazı’nın uluslararası sularındaki tüm mayınların ABD Donanması tarafından kaldırıldığı veya imha edildiği bilgisi bana iletildi.\" ifadesini kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/trump-hurmuz-bogazindaki-tum-mayinlar-etkisiz-hale-getirildi-1738903"
+          "title": "Gıda kaynaklı parazit alarmı: Vaka sayısı 17 bini aştı",
+          "summary": "ABD Hastalık Kontrol ve Önleme Merkezleri (CDC), ülkede doğrulanmış siklosporiyaz vakalarının 17 bin 180'e yükseldiğini açıkladı. Vaka sayısı bir haftada bin 464 arttı. CDC'nin 24 Ağustos itibarıyla paylaştığı verilere göre, 48 eyalet ve başkent Washington'da toplam 17 bin 180 doğrulanmış vaka kaydedildi. Hastalık nedeniyle 922 kişi hastaneye kaldırılırken, iki kişi hayatını kaybetti. CDC ayrıca en az 11 bin 844 ek vakanın daha ayrıntılı inceleme ve analiz gerektirdiğini bildirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-marulla-baglantili-salginda-vaka-sayisi-17-bini-gecti-1738934"
         },
         {
-          "title": "Trump'tan Hürmüz uyarısı: Sıfır tolerans",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndaki mayınlarla ilgili yeni bir açıklama yaptı. Trump, tüm mayınların kaldırıldığını veya imha edildiğini belirterek yeniden mayın döşeyenlere müdahale edileceği uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-hurmuz-uyarisi-sifir-tolerans-43284859"
+          "title": "İsrail’den Lübnan’ın güneyine ateşkese rağmen geniş çaplı saldırı",
+          "summary": "İsrail ordusu, Lübnan topraklarından kademeli olarak çekilmesini öngören anlaşmaya rağmen ülkenin güneyindeki 4 ayrı bölgede yer alan beldelere hava ve kara saldırıları gerçekleştirdi. Lübnan resmi haber ajansı NNA'da yer alan habere göre İsrail, Sur, Merciiyyun, Bint Cubeyl ve Nebatiye'yi hedef aldı. Saldırılara arazi tahribatı çalışmaları, toprak barikatların kurulması ve askeri araç hareketliliği eşlik etti. Birçok bölgede yangın çıkarken, İsrail mühimmat kalıntılarının patlaması sonucu bir Lübnanlı yaralandı.",
+          "source": "https://www.ntv.com.tr/dunya/israilden-lubnanin-guneyine-ateskese-ragmen-genis-capli-saldiri-1738930"
         },
         {
-          "title": "Ermenistan'dan 5 yıllık program: Ankara ve Bakü adımı onaylandı",
-          "summary": "Ermenistan Parlamentosu, hükümetin Azerbaycan ile barışın sağlamlaştırılması ve Türkiye ile ilişkilerin normalleştirilmesini içeren 5 yıllık programını onayladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/ermenistandan-5-yillik-program-ankara-ve-baku-adimi-onaylandi-43284828"
+          "title": "CIA Direktörü'nden sürpriz Moskova ziyareti",
+          "summary": "ABD Merkezi İstihbarat Teşkilatı (CIA) Direktörü John Ratcliffe, Rus yetkililerle görüşmelerde bulunmak üzere Moskova'ya gitti. ABD medyasına konuşan ve ziyarete ilişkin bilgi sahibi olan bir ABD'li yetkili, Ratcliffe'in gece saatlerinde Moskova'ya gittiğini doğruladı. Yetkili, görüşmelerin içeriği ya da ele alınan konular hakkında bilgi vermedi. CIA de ziyarete ilişkin yorum yapmadı. Ratcliffe'in Moskova ziyareti, Donald Trump döneminde CIA Direktörü olarak Rusya'ya gerçekleştirdiği ilk bilinen ziyaret oldu.",
+          "source": "https://www.ntv.com.tr/dunya/cia-direktorunden-surpriz-moskova-ziyareti-1738928"
         },
         {
-          "title": "İsrailli bakan Suriye'yi hedef aldı: Peş peşe tehditler savurdu",
-          "summary": "İsrail ordusunun Suriye'de işgal altında tuttuğu bölgeye giden İsrail Savunma Bakanı Yisrael Katz, ülkenin güneyinde işgali sürdüreceklerini söyleyerek Şam yönetimini tehdit etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilli-bakan-suriyeyi-hedef-aldi-pes-pese-tehditler-savurdu-43284825"
+          "title": "SpaceX’ten 100 milyar dolarlık dev yatırım: Yeni uzay üssü geliyor",
+          "summary": "Uzay, havacılık ve yapay zeka şirketi SpaceX, ABD'nin Louisiana eyaletinde 100 milyar dolarlık bir yatırımla uzay üssü kuracağını duyurdu. SpaceX'ten yapılan açıklamada, kurulacak tesisin yılda binlerce fırlatmayı desteklemesinin ve uzay uçuşlarını önemli ölçüde artırmasının hedeflendiği bildirildi. Şirketin gelecek 10 yılda doğrudan 3 bin yeni istihdam yaratmasının beklendiği ifade edilen açıklamada, 8 binin üzerinde de dolaylı istihdam öngörüldüğü kaydedildi.",
+          "source": "https://www.ntv.com.tr/dunya/spacexten-100-milyar-dolarlik-dev-yatirim-yeni-uzay-ussu-geliyor-1738924"
         },
         {
-          "title": "İran-ABD müzakerelerinde Hürmüz düğümü! Tahran'ın kritik şartı belli oldu",
-          "summary": "İran basını, Tahran yönetiminin, Hürmüz Boğazı'na ilişkin şartlarını Pakistan aracılığıyla ABD'ye ilettiğini yazdı. Haberde, İran'ın müzakere masasına dönmek içn sunduğu şart yer aldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-abd-muzakerelerinde-hurmuz-dugumu-tahranin-kritik-sarti-belli-oldu-43284804"
+          "title": "İran: Hürmüz Boğazı'ndaki geçiş koridoru 7 mil genişliğinde ve güney koridoru kapatıldı",
+          "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, Umman ile varılan anlaşmada Hürmüz Boğazı'ndaki taşıma güzergahının 7 mil genişliğinde olduğunu belirterek, güney koridorun kapatıldığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-hurmuz-bogazindaki-gecis-koridoru-7-mil-genisliginde-ve-guney-koridoru-kapatildi-43285081"
         },
         {
-          "title": "Babanın beslenme alışkanlığı bebeğin kilosunu etkileyebilir",
-          "summary": "Yeni bir araştırma, yalnızca annenin değil, babanın gebelik öncesindeki beslenme alışkanlıklarının da bebeğin gelişimiyle ilişkili olabileceğini ortaya koydu. Ultra işlenmiş gıdaları daha fazla tüketen babaların bebeklerinde daha yüksek doğum ağırlığı ve bazı bölgelerde daha fazla yağlanma görüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/babanin-beslenme-aliskanligi-bebegin-kilosunu-etkileyebilir-43284754"
+          "title": "Japon Başbakan öldürmeye kıyamadı, arkadaş oldu. \"Gidince yalnız hissettim\"",
+          "summary": "Japonya Başbakanı Sanae Takaiçi, resmi konutundaki hamam böceğini reenkarnasyon ihtimali nedeniyle öldürmeye kıyamadı. Takaiçi, böcek ortadan kaybolduktan sonra \"yalnız hissettiğini\" söyledi. Japonya Başbakanı Sanae Takaiçi, resmi konutunda hayalet görüp görmediğine ilişkin soruyu yanıtlarken başından geçen ilginç bir olayı anlattı. Hamam böceklerinin yoğunluğundan bahseden ve bu nedenle birkaç kez çığlık attığını ifade eden Takaiçi, bir tanesiyle duygusal olarak bağ kurduğunu itiraf etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-japon-basbakan-oldurmeye-kiyamadi-arkadas-oldu-gidince-yalniz-hissettim-1738913"
         },
         {
-          "title": "Fransa'da nadir görülen hortum felaketi. 39 yaralı, yüzlerce ev hasarlı",
-          "summary": "Fransa'nın güneyindeki Aude bölgesinde pazartesi akşamüstü meydana gelen şiddetli hortum, yaklaşık bin kişinin yaşadığı Pomas köyünde ağır yıkıma yol açtı. Fransa'nın güneyindeki Aude bölgesini dün akşamüstü saatlerinde vuran hortum, yaklaşık bin nüfuslu Pomas köyünde büyük bir yıkıma yol açarak bölge halkını derin bir şoka uğrattı. Şiddetli fırtınada duvarlar çöktü, çatı ve kepenkler uçtu, ağaçlar köklerinden söküldü. Olayda ikisi ağır olmak üzere 39 kişi yaralandı, 17 kişi ise hastaneye kaldırıldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-nadir-gorulen-hortum-felaketi-39-yarali-yuzlerce-ev-hasarli-1738897"
+          "title": "Son dakika... Terör örgütü YPG kendini feshetti",
+          "summary": "Terör örgütü YPG’den, örgütün sözde \"özerk yönetimi ve ona bağlı tüm askeri ve sivil oluşumlarının feshedildiği\" açıklaması yapıldı. ABD’nin Türkiye Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack CNN Türk’e yaptığı açıklamada, “SDG’nin feshi tarihi ve destansı” dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-teror-orgutu-ypg-kendini-feshetti-43284988"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Beşiktaş, ayrılığı KAP'a bildirdi!. Anadolu Efes 2026–2027 sezonunu açtı. Beşiktaş Ernest Poku ile anlaşma sağladı! İstanbul'a geliyor. Samsunspor Oskar Ohlenschlaeger'i transfer etti. Alanyaspor, Emre Demir ile 3 yıllık sözleşme imzaladı. Beşiktaş, Kauno Zalgiris maçının hazırlıklarına başladı. Ümit Akdağ için Fenerbahçe iddiasına yanıt!.",
+      "text": "Şampiyonlar Ligi'nde gecenin sonuçları. Serdal Adalı ve Ertuğrul Doğan, PFDK'ya sevk edildi. Ernest Poku, Beşiktaş için İstanbul'da! İşte ilk sözleri. Galatasaray, Leao ile anlaştı! Milan'dan tek şart. İsmail Kartal'dan Lyon maçı öncesi Şampiyonlar Ligi açıklaması: Cesur olun dedim!. Fenerbahçe'den Barcelona'ya transfer resmileşiyor! Şehre vardı. Beşiktaş, ayrılığı KAP'a bildirdi!.",
       "items": [
+        {
+          "title": "Şampiyonlar Ligi'nde gecenin sonuçları",
+          "summary": "UEFA Şampiyonlar Ligi'nde play-off turu rövanş maçları başladı. İşte gecenin oynanan maçları ve turlayan takımlar.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-gecenin-sonuclari-43285133"
+        },
+        {
+          "title": "Serdal Adalı ve Ertuğrul Doğan, PFDK'ya sevk edildi",
+          "summary": "Beşiktaş Başkanı Serdal Adalı ve Trabzonspor Başkanı Ertuğrul Doğan, PFDK'ya sevk edildi",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-ve-ertugrul-dogan-pfdkya-sevk-edildi-43285055"
+        },
+        {
+          "title": "Ernest Poku, Beşiktaş için İstanbul'da! İşte ilk sözleri",
+          "summary": "Beşiktaş, Leverkusen forması giyen kanat oyuncusu Ernest Poku'yu İstanbul'a getirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ernest-poku-besiktas-icin-istanbulda-iste-ilk-sozleri-43284744"
+        },
+        {
+          "title": "Galatasaray, Leao ile anlaştı! Milan'dan tek şart",
+          "summary": "Galatasaray-Rafael Leao transferinde önemli bir gelişme yaşandı. Sarı kırmızılılar, Portekizli yıldız ile anlaşmaya vardı. İşte ayrıntılar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-leao-ile-anlasti-milandan-tek-sart-43284987"
+        },
+        {
+          "title": "İsmail Kartal'dan Lyon maçı öncesi Şampiyonlar Ligi açıklaması: Cesur olun dedim!",
+          "summary": "Fenerbahçe teknik direktörü İsmail Kartal ve golcü futbolcu Vedat Muriqi, Şampiyonlar Ligi play-off turu rövanşında oynanacak Lyon maçı öncesi basın toplantısı düzenledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartaldan-lyon-maci-oncesi-sampiyonlar-ligi-aciklamasi-cesur-olun-dedim-43284924"
+        },
+        {
+          "title": "Fenerbahçe'den Barcelona'ya transfer resmileşiyor! Şehre vardı",
+          "summary": "Fenerbahçe'den ayrılan ve Barcelona'ya katılması beklenen Dominik Livakovic, Katalan şehrine vardı. Hırvat eldivenin sözleşmesinin detayları da belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-barcelonaya-transfer-resmilesiyor-sehre-vardi-43284909"
+        },
         {
           "title": "Beşiktaş, ayrılığı KAP'a bildirdi!",
           "summary": "Beşiktaş, Kamuoyu Aydınlatma Platformu'na (KAP) yaptığı açıklamada, Onana'nın sözleşmesinin feshedildiğini açıkladı.",
           "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ayriligi-kapa-bildirdi-43284868"
-        },
-        {
-          "title": "Anadolu Efes 2026–2027 sezonunu açtı",
-          "summary": "Başantrenör Pablo Laso yönetiminde yeni sezonun ilk antrenmanını gerçekleştiren Anadolu Efes, yeni sezon için çalışmalarına başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-2026-2027-sezonunu-acti-43284824"
-        },
-        {
-          "title": "Beşiktaş Ernest Poku ile anlaşma sağladı! İstanbul'a geliyor",
-          "summary": "Transfer çalışmalarını sürdüren Beşiktaş'ta sağ kanat için sıcak bir gelişme yaşandı. Siyah-beyazlıların Leverkusen forması giyen Ernest Poku ile anlaşma sağladığı iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ernest-poku-ile-anlasma-sagladi-yarin-istanbula-geliyor-43284744"
-        },
-        {
-          "title": "Samsunspor Oskar Ohlenschlaeger'i transfer etti",
-          "summary": "Samsunspor, Danimarkalı futbolcu Oskar Ohlenschlaeger'i transfer etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-oskar-ohlenschlaegeri-transfer-etti-43284747"
-        },
-        {
-          "title": "Alanyaspor, Emre Demir ile 3 yıllık sözleşme imzaladı",
-          "summary": "Corendon Alanyaspor, Fenerbahçe'den 22 yaşındaki orta saha oyuncusu Emre Demir'i 3 yıllığına kadrosuna kattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-emre-demir-ile-3-yillik-sozlesme-imzaladi-43284730"
-        },
-        {
-          "title": "Beşiktaş, Kauno Zalgiris maçının hazırlıklarına başladı",
-          "summary": "Beşiktaş, UEFA Avrupa Ligi play-off turu rövanş maçında deplasmanda Kauno Zalgiris ile oynayacağı maçın hazırlıklarına bugün yaptığı antrenmanla başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-kauno-zalgiris-macinin-hazirliklarina-basladi-43284715"
-        },
-        {
-          "title": "Ümit Akdağ için Fenerbahçe iddiasına yanıt!",
-          "summary": "Alanyaspor'un Başkanı Hasan Çavuşoğlu, 23 yaşındaki stoper Ümit Akdağ için Fenerbahçe tarafından kendilerine bir teklif gelmediğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/umit-akdag-icin-fenerbahce-iddiasina-yanit-43284665"
         }
       ]
     },
     "teknoloji": {
-      "text": "Oyun sektörü krizden çıkış için GTA 6'yı bekliyor. Kayıt yapan gözlükle depresyon ve otizm teşhisi: Tescilli yazılımla hekimlere karar desteği. Milyar dolarlık projeden yeni ayrıntılar. Prometheus ne yapacak?. Savaşan İHA’lar Siirt’te final yapacak. Nvidia'nın çalışanı çip kaçakçılığıyla suçlanıyor. 343 bin kişi TEKNOFEST Mavi Vatan’da buluştu. Xiaomi kendi çipini geliştirdi. Katlanabilir telefon pazarına açılacaklar.",
+      "text": "5 trilyon veriyi tek seferde işledi: ChatGPT'den farklı çalışan yeni yapay zeka modeli tanıtıldı. Oyun sektörü krizden çıkış için GTA 6'yı bekliyor. Kayıt yapan gözlükle depresyon ve otizm teşhisi: Tescilli yazılımla hekimlere karar desteği. Milyar dolarlık projeden yeni ayrıntılar. Prometheus ne yapacak?. Savaşan İHA’lar Siirt’te final yapacak. Nvidia'nın çalışanı çip kaçakçılığıyla suçlanıyor. 343 bin kişi TEKNOFEST Mavi Vatan’da buluştu.",
       "items": [
+        {
+          "title": "5 trilyon veriyi tek seferde işledi: ChatGPT'den farklı çalışan yeni yapay zeka modeli tanıtıldı",
+          "summary": "Jeff Bezos destekli Project Prometheus için adı geçen iki araştırmacı, tek seferde 5 trilyon veri parçasını işleyebilen yeni yapay zeka modelini tanıttı. Anima Anandkumar ve Benedikt Jenik'in kurduğu Accelerated Understanding Inc, geliştirdiği sistemin Anthropic ve Google'ın önde gelen yapay zeka modellerinin tipik olarak işleyebildiğinden yaklaşık 5 milyon kat daha fazla veriyi tek seferde değerlendirebildiğini açıkladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-5-trilyon-veriyi-tek-seferde-isledi-chatgptden-farkli-calisan-yeni-yapay-zeka-modeli-tanitildi-1738932"
+        },
         {
           "title": "Oyun sektörü krizden çıkış için GTA 6'yı bekliyor",
           "summary": "Avrupa'nın en büyük video oyun fuarı Gamescom, sektörün istihdam kayıpları ve kâr baskısıyla boğuştuğu bir dönemde Almanya'nın Köln kentinde kapılarını açtı. Avrupa'nın en büyük video oyun fuarı Gamescom, stüdyoların yoğun rekabet ortamında istihdam kesintilerine gittiği zorlu bir süreçte, bugün Almanya'nın Köln kentinde kapılarını açtı. Sektör temsilcileri, yakında piyasaya çıkacak gişe rekortmeni Grand Theft Auto 6 oyununun sektöre son derece ihtiyaç duyulan bir canlılık getirmesini umuyor.",
@@ -195,11 +200,6 @@
           "title": "343 bin kişi TEKNOFEST Mavi Vatan’da buluştu",
           "summary": "Gölcük’te deniz, hava ve teknolojinin buluştuğu TEKNOFEST Mavi Vatan, yoğun ziyaretçi ilgisi, nefes kesen gösteriler, teknoloji yarışmaları, spor etkinlikleri ve tarihi teknoloji çalışmalarıyla tamamlandı. 4 gün süren festivali 343 bin kişi ziyaret ederek festival coşkusuna ortak oldu. Kapanış törenine Cumhurbaşkanı Yardımcısı Cevdet Yılmaz katılırken, yarışmalarda dereceye giren takımlara ödülleri takdim edildi. TEKNOFEST’in yeni rotası ise 30 Eylül-4 Ekim tarihleri arasında Şanlıurfa olacak.",
           "source": "https://www.hurriyet.com.tr/teknoloji/343-bin-kisi-teknofest-mavi-vatanda-bulustu-43283571"
-        },
-        {
-          "title": "Xiaomi kendi çipini geliştirdi. Katlanabilir telefon pazarına açılacaklar",
-          "summary": "Çinli akıllı telefon üreticisi Xiaomi, kendi bünyesinde geliştirdiği yeni mobil işlemcisi Xring O3'ü tanıttı. Çinli akıllı telefon üreticisi Xiaomi, bugün kendi bünyesinde geliştirdiği mobil işlemcisinin yeni sürümü olan Xring O3'ü tanıttı. Şirket, temel bileşenler üzerindeki kontrolünü artırarak tedarik zincirini güçlendirmeyi ve harici çip tedarikçilerine olan bağımlılığını azaltmayı amaçlıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-xiaomi-kendi-cipini-gelistirdi-katlanabilir-telefon-pazarina-acilacaklar-1738702"
         }
       ]
     },
