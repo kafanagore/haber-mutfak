@@ -1,91 +1,111 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-08-26T16:00:04.061Z",
+  "generatedAt": "2026-09-03T04:00:06.714Z",
   "categories": {
     "gundem": {
-      "text": "Manisa'da feci kaza: 2 kardeş öldü, 2 yaralı. TBMM Başkanı Kurtulmuş: Türkiye, Cumhuriyet'in ikinci asrında emperyalistlerin oyun planını bozuyor. Fethiye'de paraşüt faciası! Kayalıklara düştü: 2 ölü. Narin Güran cinayetini konu alan 'Şeytantepe’ belgeseli hakkında soruşturma başlatıldı. CHP’de 49 kişi kesin ihraç talebiyle disipline sevk edildi. TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' vurgusu: Emperyalizmin ikinci perdesine müsaade etmeyeceğiz. Alihan Kuriş operasyonunda kritik isimlerden biri daha yakalandı.",
+      "text": "İkinci kata tırmandı, çocuğu kurtardı. Kardeşlerin bıçaklı kavgası. 1 ölü, 1 yaralı. Şarampole devrilen aracın sürücüsü öldü. Bayrampaşa’da hareketli dakikalar... Polisin 'dur' ihtarına uymdı, kaçarken kaza yaptı. Marmara'da gemi kazası: Tuğberk İmamoğlu ile Alsu arasındaki son telsiz konuşması ortaya çıktı. KKTC’de koalisyon dağılıyor. Arıklı görevden alınınca partisi YDP hükümetten çekildi. Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''.",
       "items": [
         {
-          "title": "Manisa'da feci kaza: 2 kardeş öldü, 2 yaralı",
-          "summary": "MANİSA'nın Demirci ilçesinde, şerit ihlali nedeniyle iki otomobilin çarpıştığı kazada Erol Uçar (56) ile kardeşi Nurten Erdoğan (54) hayatını kaybetti, diğer araçta bulunan 2 kişi de yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/manisada-feci-kaza-2-kardes-oldu-2-yarali-43286035"
+          "title": "İkinci kata tırmandı, çocuğu kurtardı",
+          "summary": "Diyarbakır'da üçüncü kattaki balkondan düşmek üzere olan kız çocuğunu, korkuluklardan tırmanan kişi kurtardı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-ikinci-kata-tirmandi-cocugu-kurtardi-1740097"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş: Türkiye, Cumhuriyet'in ikinci asrında emperyalistlerin oyun planını bozuyor",
-          "summary": "TBMM Başkanı Numan Kurtulmuş, emperyalizmin bir asır evvel oynadığı oyunun ikinci perdesine müsaade etmeyeceklerini belirterek, \"Bu ülkenin ve hatta bu bölgenin etnik ya da mezhebi anlamda bölünmesine asla fırsat vermeyeceğiz. Bir ve beraber olarak yolumuza devam edeceğiz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-turkiye-cumhuriyetin-ikinci-asrinda-emperyalistlerin-oyun-planini-bozuyor-43286032"
+          "title": "Kardeşlerin bıçaklı kavgası. 1 ölü, 1 yaralı",
+          "summary": "50 yaşındaki ağabeyi A.O.'nun bıçakladığı 48 yaşındaki Y.T.O. hayatını kaybetti. A.O. ise yaralandı. Balıkesir'de iki kardeş arasında çıkan kavga cinayetle bitti. Olay, akşam saatlerinde Karesi ilçesine bağlı Maltepe Mahallesi'nde meydana geldi. 50 yaşındaki A.O. evinin bahçesinde karşılaştığı kardeşi 48 yaşındaki Y.T.O. ile tartışmaya başladı. Tartışmanın kavgaya dönüşmesi üzerine iki kardeş, birbirini bıçakla yaraladı. Komşuların ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/kardeslerin-bicakli-kavgasi-1-olu-1-yarali-1740087"
         },
         {
-          "title": "Fethiye'de paraşüt faciası! Kayalıklara düştü: 2 ölü",
-          "summary": "Muğla'nın Fethiye ilçesindeki Babadağ'dan tandem atlayışı yaptıktan kısa süre sonra kayalıklara düşen yamaç paraşütü pilotu Ali Kıdıl ile yanındaki Çin uyruklu turist Xiangrui Meng, hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/fethiyede-parasut-faciasi-kayaliklara-dustu-2-olu-43286027"
+          "title": "Şarampole devrilen aracın sürücüsü öldü",
+          "summary": "Ümraniye'de şarampole yuvarlanarak ters dönen otomobilin sürücüsü hayatını kaybetti. İstanbul'un Ümraniye ilçesinde M.A. idaresindeki otomobil, şarampole devrildi. Olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. Sağlık ekipleri, otomobilin altında kalan sürücü M.A.'nın hayatını kaybettiğini belirledi. Ekiplerin çalışmalarının ardından sürücünün cenazesi bulunduğu yerden çıkarılarak otopsi için Adli Tıp Kurumu morguna kaldırıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/sarampole-devrilen-aracin-surucusu-oldu-1740093"
         },
         {
-          "title": "Narin Güran cinayetini konu alan 'Şeytantepe’ belgeseli hakkında soruşturma başlatıldı",
-          "summary": "DİYARBAKIR’da, Narin Güran cinayetine ilişkin sanal medyada hazırlanan ‘Şeytantepe’ belgeseli hakkında, soruşturma ve kovuşturma süreçlerini itibarsızlaştırmaya yönelik faaliyetler kapsamında soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/narin-guran-cinayetini-konu-alan-seytantepe-belgeseli-hakkinda-sorusturma-baslatildi-43286025"
+          "title": "Bayrampaşa’da hareketli dakikalar... Polisin 'dur' ihtarına uymdı, kaçarken kaza yaptı",
+          "summary": "Bayrampaşa’da polisin 'dur' ihtarına uymayan şüphelilerin kullandığı otomobil, kaçış sırasında park halindeki bir araca çarptı. Otomobilden inen şüphelilerden biri plakasız bir motosiklete binerek kaçarken, diğeri polis ekiplerince gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bayrampasada-hareketli-dakikalar-polisin-dur-ihtarina-uymdi-kacarken-kaza-yapti-43294064"
         },
         {
-          "title": "CHP’de 49 kişi kesin ihraç talebiyle disipline sevk edildi",
-          "summary": "Cumhuriyet Halk Partisi'nin içinde bulundukları halde başka bir siyasi partiyi destekleyen 49 CHP’li isim tedbirli olarak kesin ihraç talebiyle disipline sevk edildi. CHP Sözcüsü Müslim Sarı, “Parti Meclisimizde bir grup arkadaşımızı hala Cumhuriyet Halk Partisi'nin içinde bulundukları halde başka bir siyasal parti için çalışan arkadaşlarımızı tedbirli bir biçimde disipline sevk etmiş bulunuyoruz” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/chpde-49-kisinin-ihraci-istendi-43286016"
+          "title": "Marmara'da gemi kazası: Tuğberk İmamoğlu ile Alsu arasındaki son telsiz konuşması ortaya çıktı",
+          "summary": "Marmara Denizi'nde çarpışan Tuğberk İmamoğlu ile Alsu gemisi arasındaki son telsiz konuşmasının kaydı ortaya çıktı. Silivri Cumhuriyet Başsavcılığı kazayla ilgili soruşturma başlattı. Marmara Denizi'nde iki geminin çarpıştığı kaza, saat 03.00 sıralarında İstanbul'un Silivri ilçesinin 18 deniz mili güneyinde gerçekleşti. Kazaya karışan gemilerden biri Kocaeli'den Aliağa'ya seyreden Alsu isimli ticari gemiydi. Diğeri ise İskenderun Limanı'ndan Karadenizereğli'ye seyreden Tuğberk İmamoğlu'ydu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-marmarada-gemi-kazasi-tugberk-imamoglu-ile-alsu-arasindaki-son-telsiz-konusmasi-ortaya-cikti-1740052"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş'tan 'Terörsüz Türkiye' vurgusu: Emperyalizmin ikinci perdesine müsaade etmeyeceğiz",
-          "summary": "Afyonkarahisar’da Sivil Toplum Buluşması Programı'nda konuşan TBMM Başkanı Numan Kurtulmuş, Türkiye'nin etnik ya da mezhebi anlamda bölünmesine asla fırsat vermeyeceklerini söyledi. Terörün ülkeye ekonomik maliyetinin en az 2,3 trilyon dolar olduğunu belirten Kurtulmuş, Cumhuriyet'in ikinci asrında \"büyük akıl\" ile emperyalistlerin oyun planının bozulduğunu ve \"Terörsüz Türkiye\" hedefine adım adım ilerlediklerini vurguladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-terorsuz-turkiye-vurgusu-emperyalizmin-ikinci-perdesine-musaade-etmeyecegiz-43286008"
+          "title": "KKTC’de koalisyon dağılıyor. Arıklı görevden alınınca partisi YDP hükümetten çekildi",
+          "summary": "Girne faciası nedeniyle KKTC Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı’nın görevden alınmasının ardından YDP, hükümetten çekildi. Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı Ünal Üstel, Girne açıklarında meydana gelen gemi faciasına ilişkin soruşturmanın sağlıklı yürütülmesi için Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı’yı görevden aldığını açıkladı. Hükümet ortaklarından Yeniden Doğuş Partisi'nin lideri olan Arıklı, kararla ilgili ''Hükümetten çekilme için Parti Meclisi'ni toplayacağız.'' demişti.",
+          "source": "https://www.ntv.com.tr/turkiye/kktc-basbakani-ustel-ulastirma-bakani-erhan-arikliyi-gorevden-aldi-1740065"
         },
         {
-          "title": "Alihan Kuriş operasyonunda kritik isimlerden biri daha yakalandı",
-          "summary": "Alihan Kuriş'in elebaşı olduğu suç örgütüne yönelik soruşturmada örgütün mali işlerini yürüten isimlerden Mehmet Akay, Antalya Korkuteli'nde yakalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/alihan-kuris-operasyonunda-kritik-isimlerden-biri-daha-yakalandi-43285991"
+          "title": "Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''",
+          "summary": "MHP lideri Devlet Bahçeli, Amedspor taraftarlığına ilişkin araştırmaya tepki göstererek, çalışmanın “bölücülüğü zinde tutmaya” hizmet ettiğini söyledi. MHP Genel Başkanı Devlet Bahçeli, Kürt Çalışmaları Merkezi (KSC) ile Rawest Araştırma tarafından hazırlanan “Kürtlerde Amedspor Algısı ve Taraftarlığı Araştırması”na ilişkin değerlendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-bahceliden-amedspor-arastirmasina-tepki-spor-kimlik-siyasetine-alet-edilmemeli-1740066"
         }
       ]
     },
     "dunya": {
-      "text": "Trump'tan dikkat çeken İran mesajı: Acelem yok. Tarihi ada satışa çıkarıldı. Nepal'de heyelan evleri böyle yuttu. Yüzlerce kişiden haber alınamıyor. ABD'li acılı anne CNN Türk'te! Dünya Meta'ya açtığı davayı konuşuyor. Hürmüz için kritik karar: İran ve Umman anlaştı. Nepal sele teslim: Yüzlerce kişi kayboldu. Japon kalesi halatlarla taşındı! Bin kişi 400 tonluk Hirosaki'yi yerinden kaldırdı.",
+      "text": "Trump, \"istedikleri zaman\" İran'a yeniden saldırmaya hazır olduklarını söyledi. Golf efsanesi uslanmıyor. Ehliyetine el konuldu. Venezuela Geçici Devlet Başkanı Rodriguez'den 'seçim' açıklaması. ABD ordusu, Doğu Pasifik'te karteller tarafından kullanılan teknenin batırıldığını açıkladı. CENTCOM: \"İran’a yönelik deniz ablukası kapsamında 86 geminin rotası değiştirildi\". İran ABD’nin son saldırılarının bilançosunu açıkladı: \"18 ölü, 142 yaralı\". Trump’tan Hürmüz çıkışı: ''Adını Trump Boğazı mı yapsak?''.",
       "items": [
         {
-          "title": "Trump'tan dikkat çeken İran mesajı: Acelem yok",
-          "summary": "ABD Başkanı Donald Trump, İran'ın müzakere masasına dönmesi için herhangi bir takvim belirlemediğini açıkladı. Trump, \"Acelem yok\" diyerek Tahran'ın yeniden görüşmelere dönmesi konusunda süre vermedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-dikkat-ceken-iran-mesaji-acelem-yok-43286001"
+          "title": "Trump, \"istedikleri zaman\" İran'a yeniden saldırmaya hazır olduklarını söyledi",
+          "summary": "ABD Başkanı Donald Trump, İran'a \"istedikleri zaman\" yeniden saldırılar düzenlemeye hazır olduklarını belirtti. ABD Başkanı Trump, Oval Ofis'te basın mensuplarının İran gündemine ilişkin sorularını yanıtladı. Trump, İran'a yönelik son \"tehditlerini\" yineleyerek, İran'a \"istedikleri zaman\" yeniden saldırmaya hazır olduklarını ifade etti. Dün ABD ordusunun Hürmüz Boğazı bölgesindeki İran hedeflerine yönelik saldırılarının \"çok başarılı\" olduğunu savunan Trump, \"Dün gece onları çok sert vurduk.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-istedikleri-zaman-irana-yeniden-saldirmaya-hazir-olduklarini-soyledi-1740081"
         },
         {
-          "title": "Tarihi ada satışa çıkarıldı",
-          "summary": "Venedik Lagünü'nde yer alan ve Napolyon döneminden kalma bir kaleye ev sahipliği yapan tarihi Crevan Adası satışa çıkarıldı. Venedik Lagünü'nde yer alan, bünyesinde Napolyon dönemine ait bir kale ve geniş bahçeler barındıran Crevan Adası satışa çıkarıldı. Burano ve Torcello adalarına tekneyle birkaç dakika mesafede olan ada, standart bir futbol sahasından biraz daha küçük bir alana sahip.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-tarihi-ada-satisa-cikarildi-1739013"
+          "title": "Golf efsanesi uslanmıyor. Ehliyetine el konuldu",
+          "summary": "Daha önce yaptığı kazada ağır yaralanan Tiger Woods \"alkollü veya uyuşturucu etkisindeyken araç kullanmaktan” ceza aldı. Golf tarihinin en başarılı isimlerinden dünyanın en çok kazanan sporcusu Tiger Woods, kariyerine ara vermek zorunda kalmasından yıllar sonra yine alkollü araç kullanmaktan ehliyetini kaybetti. Woods, mart ayında aracının takla atmasıyla sonuçlanan kaza nedeniyle ceza aldı.",
+          "source": "https://www.ntv.com.tr/dunya/golf-efsanesi-uslanmiyor-ehliyetine-el-konuldu-1740094"
         },
         {
-          "title": "Nepal'de heyelan evleri böyle yuttu. Yüzlerce kişiden haber alınamıyor",
-          "summary": "Nepal'de seller ve beraberindeki toprak kaymalarında en az 95 kişi hayatını kaybetti. Yüzlerce kişiden haber alınamıyor. YÜZLERCE TURİSTTEN HABER ALINAMIYOR Nepal ile Çin'in Tibet bölgesi arasındaki Himalaya sınır hattını vuran büyük sel felaketinde en az 95 kişi hayatını kaybetti, onlarca kişi yaralandı. Bölgede bulunan yüzlerce turistle ise bağlantı kurulamadığı bildirildi. Nepal polisinin paylaştığı görüntülerde, taşan nehrin büyük bir hızla ilerleyerek önüne çıkan evleri sürüklediği görüldü.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-nepalde-heyelan-evleri-boyle-yuttu-yuzlerce-kisiden-haber-alinamiyor-1739024"
+          "title": "Venezuela Geçici Devlet Başkanı Rodriguez'den 'seçim' açıklaması",
+          "summary": "Venezuela Geçici Devlet Başkanı Delcy Rodriguez, ülkede gerekli şartlar sağlandığında seçim yapılacağını belirterek, \"Seçim olacak ama ülke hazır olduğunda.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/venezuela-gecici-devlet-baskani-rodriguezden-secim-aciklamasi-43294066"
         },
         {
-          "title": "ABD'li acılı anne CNN Türk'te! Dünya Meta'ya açtığı davayı konuşuyor",
-          "summary": "Dünyanın gözü Amerika’daki Meta davasında. Facebook ve Instagram gibi platformların arkasındaki şirket yargı önünde. Çocuklarını sanal medya nedeniyle kaybettiğini söyleyen aileler adalet arayışında. Onlardan biri, 2022’de 17 yaşındaki kızı Coco’yu kaybeden Julianna Arnold, CNN Türk'ten Serdar Korucu'ya konuştu. Kızının Türk vatandaşlığının bulunduğunu, Türkçe adının da \"Dilara Konar\" olduğunu söyledi. \"Kızım Instagram’dan tanıştığı bir saldırgan nedeniyle hayatını kaybetti\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdli-acili-anne-cnn-turkte-dunya-metaya-actigi-davayi-konusuyor-43285926"
+          "title": "ABD ordusu, Doğu Pasifik'te karteller tarafından kullanılan teknenin batırıldığını açıkladı",
+          "summary": "ABD Güney Komutanlığı (SOUTHCOM), Ekvador hükümeti iş birliğiyle gerçekleştirilen bir operasyonla Doğu Pasifik'teki uluslararası sularda seyreden ve Los Choneros Karteli tarafından yakıt ikmal istasyonu olarak kullanılan bir teknenin daha batırıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ordusu-dogu-pasifikte-karteller-tarafindan-kullanilan-teknenin-batirildigini-acikladi-43294063"
         },
         {
-          "title": "Hürmüz için kritik karar: İran ve Umman anlaştı",
-          "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Tuğgeneral Hüseyin Muhibbi, Umman ile Hürmüz Boğazı konusunda bazı anlaşmalara varıldığını açıkladı. Muhibbi, Boğaz'ın açılmasının ABD'nin İran'ın şartlarını kabul etmesine bağlı olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-icin-kritik-karar-iran-ve-umman-anlasti-43285880"
+          "title": "CENTCOM: \"İran’a yönelik deniz ablukası kapsamında 86 geminin rotası değiştirildi\"",
+          "summary": "ABD Merkez Komutanlığı (CENTCOM), İran limanlarına yönelik deniz ablukasının sıkı bir şekilde devam ettiğini duyurarak, \"ABD kuvvetleri, bugüne dek abluka kapsamında 86 ticari geminin rotasını değiştirmiş, 3 ticari geminin hareket kabiliyetini engellemiş ve 2 ticari gemiye çıkarma yapmıştır\" açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/centcom-irana-yonelik-deniz-ablukasi-kapsaminda-86-geminin-rotasi-degistirildi-43294062"
         },
         {
-          "title": "Nepal sele teslim: Yüzlerce kişi kayboldu",
-          "summary": "Nepal'in Rasuwa bölgesinde geniş çaplı sel felaketi meydana geldi. Selde ilk belirlemelere göre 95 kişi yaşamını yitirdi. Afet bölgesinde, Çin sınırındaki sel felaketinde Tibet'i ziyaret etmeye hazırlanan 384 hacıyla iletişimin kesildiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/nepal-sele-teslim-yuzlerce-kisi-kayboldu-43285667"
+          "title": "İran ABD’nin son saldırılarının bilançosunu açıkladı: \"18 ölü, 142 yaralı\"",
+          "summary": "İran Sağlık Bakanlığı Sözcüsü Hüseyin Kermanpur, ABD’nin ülkesine yönelik son saldırılarında en az 18 kişinin öldüğünü, 142 kişinin ise yaralandığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-abdnin-son-saldirilarinin-bilancosunu-acikladi-18-olu-142-yarali-43294060"
         },
         {
-          "title": "Japon kalesi halatlarla taşındı! Bin kişi 400 tonluk Hirosaki'yi yerinden kaldırdı",
-          "summary": "Japonya'da tarihi Hirosaki kalesi, tadilat nedeniyle 11 yıl önce kaldırıldığı konumuna halatlarla taşındı. 400 tonluk kalenin taşınması için 1000 kişi seferber oldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/japon-kalesi-halatlarla-tasindi-bin-kisi-400-tonluk-hirosakiyi-yerinden-kaldirdi-43285788"
+          "title": "Trump’tan Hürmüz çıkışı: ''Adını Trump Boğazı mı yapsak?''",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın ABD kontrolü altında olduğunu savunarak, adını \"Trump Boğazı\" olarak değiştirmeyi önerebileceğini belirtti. ABD Başkanı Trump, sosyal medya hesabından Hürmüz Boğazı'na ilişkin paylaşım yaptı. Trump, \"Artık burayı ABD’nin kontrolü altına aldığımıza göre, Hürmüz Boğazı'nın adını Trump Boğazı olarak değiştirmeli miyiz? Tıpkı Amerika’nın kendisi gibi, bu boğaz da hiç olmadığı kadar popüler olurdu.\" ifadelerini kullandı.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-hurmuz-cikisi-adini-trump-bogazi-mi-yapsak-1740069"
         }
       ]
     },
     "ekonomi": {
-      "text": "Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor. Pakistan’dan krize müdahale… Asım Münir bugün Tahran’da. İzmir'de tarıma can suyu. İran’dan ABD'nin baskı politikasına tepki: Bumerang gibi kendisine dönecek. Almanya’da ekonomik reform alarmı. Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük. Borsa günü yükselişle tamamladı.",
+      "text": "Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor. Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'. Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok. Hem yönetimde hem sokakta ekonomi alarmı var. Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor. Pakistan’dan krize müdahale… Asım Münir bugün Tahran’da. İzmir'de tarıma can suyu.",
       "items": [
+        {
+          "title": "Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor",
+          "summary": "Nazilli Ticaret Odası Yönetim Kurulu seçimleri 1 Ekim 2026 Perşembe günü yapılacak. Nazilli Ticaret Odası Yönetim Kurulu Başkanı Nuri Arslan, tarihi belirlerken üyelerin görüşlerini dikkate aldıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/nazilli-ticaret-odasi-1-ekimde-secime-gidiyor-43293542"
+        },
+        {
+          "title": "Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'",
+          "summary": "Fenerbahçeli yönetici Cihan Kamer, Anderson Talisca ile yolların ayrılacağını açıkladı. Kamer, Talisca ile beraber Çağlar Soyüncü, Becao ve Diego Carlos hakkında da bilinmeyenleri duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/resmen-acikladi-taliscayi-alkislarla-ugurlayacagiz-caglar-gidiyor-43291937"
+        },
+        {
+          "title": "Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, plastik üretiminin dünya genelinde son 70 yılda yaklaşık 230 kat artarak 460 milyon tonun üzerine çıktığını, plastik atık miktarının ise 353 milyon tona ulaştığını belirtti. Plastik atıkların yalnızca yüzde 9’unun nihai olarak geri dönüştürüldüğüne dikkati çeken Ersoy, çevre sorunlarıyla mücadelede küresel iş birliğinin ve bütüncül bir yaklaşımın zorunlu olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ersoydan-plastik-atik-uyarisi-artik-zaman-kaybetme-luksumuz-yok-43291025"
+        },
+        {
+          "title": "Hem yönetimde hem sokakta ekonomi alarmı var",
+          "summary": "ABD’nin ekonomik karartma operasyonu uyguladığı İran’da yönetim, faturanın ağırlaştığını kabul eden açıklamalar yaparken, geçim sıkıntısından yakınan İranlılar ise ekonomide düzelme olmazsa “yakın zamanda yeni bir protesto dalgasının daha yaşanabileceğini” düşünüyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/hem-yonetimde-hem-sokakta-ekonomi-alarmi-var-43289612"
+        },
         {
           "title": "Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor",
           "summary": "Almanya ekonomisi yılın ikinci çeyreğinde yüzde 0,3 büyüyerek üst üste üçüncü çeyrekte de büyüdü. Ancak devletin ilk altı aydaki 71,3 milyar euroluk bütçe açığı mali tablodaki sorunları ortaya koydu.",
@@ -100,156 +120,166 @@
           "title": "İzmir'de tarıma can suyu",
           "summary": "Selçuk Merkez Yüzey Altı Sulama Damla Sulama Tesisi, daha önce susuzluk nedeniyle atıl kalan 2 bin dönüm araziyi yeniden üretime açtı. 280 futbol sahası büyüklüğündeki alanda ayva, nar, şeftali, narenciye ve sebze üretimi yaygınlaşırken, damla sulama ve ön ödemeli sayaç sistemiyle suyun daha verimli kullanılması sağlandı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmirde-tarima-can-suyu-43282985"
-        },
-        {
-          "title": "İran’dan ABD'nin baskı politikasına tepki: Bumerang gibi kendisine dönecek",
-          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin İran'a yönelik ekonomik baskı politikalarının sonuçlarının Washington'ın ekonomisini de etkileyeceğini ve \"bumerang gibi\" kendisine döneceğini ifade etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdnin-baski-politikasina-tepki-bumerang-gibi-kendisine-donecek-43282708"
-        },
-        {
-          "title": "Almanya’da ekonomik reform alarmı",
-          "summary": "Almanya’nın önde gelen sanayi kuruluşları ekonomik alanda reformların hayata geçirilmesi için hükümete baskıyı artırdı.",
-          "source": "https://www.hurriyet.com.tr/avrupa/almanyada-ekonomik-reform-alarmi-43281280"
-        },
-        {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Vatandaşın yastık altı dolar ve altını, Merkez Bankası rezervinden büyük",
-          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, 7 Ağustos itibariyle Merkez Bankası rezervinin 178,4 milyar dolar sayesinde olduğunu ancak vatandaşın yastık altında tuttuğu dolar ve altın miktarının bu rezervden büyük olduğunu belirterek, “Bundan da daha büyük bir rezerv milletimizde var. Onu maalesef bilançolara yansıtamıyoruz. Vatandaşın yastık altında tuttuğu dolarlar, altınlar. Keşke bunlar daha fazla sisteme girse, o zaman Türkiye'nin risk primi de çok daha aşağılara inecektir” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-vatandasin-yastik-alti-dolar-ve-altini-merkez-bankasi-rezervinden-buyuk-43279792"
-        },
-        {
-          "title": "Borsa günü yükselişle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,34 değer kazanarak 14.458,98 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43278649"
         }
       ]
     },
     "spor": {
-      "text": "Selçuk İnan: 'Hakemlere güveniyoruz, hakkaniyetli olacaklarına inanıyoruz'. Manchester City Ayyoub Bouaddi'yi transfer etti. Joan Laporta'dan Julian Alvarez açıklaması. Galatasaray'a kötü haber! İngiliz devi, Ismaila Sarr için devrede. Ergin Ataman'dan Alperen Şengün açıklaması!. Serdal Adalı ateş püskürdü! Fenerbahçe-Beşiktaş derbisine yabancı VAR talebi. Basketball Without Borders (BWB) Next Up Erkekler Kampı Başladı.",
+      "text": "Ertuğrul Doğan'dan teknik direktör açıklaması: Conte, Fatih Terim, Arda Turan... Trabzonspor transferde bombayı patlattı: Franculino imzayı attı!. A Milli Kadın Basketbol Takımı'nın 2026 Dünya Kupası kadrosu belli oldu. Beşiktaş'tan savunmaya sürpriz takviye!. Galatasaray, Bitshiabu transferinin mali detaylarını açıkladı!. Trabzonspor, Richarlison'la anlaştı! Tottenham ikna edilmeye çalışılıyor. Türkiye 18 Yaş Altı Golf Şampiyonası’nda Kaan Albayrak iki birincilik elde etti.",
       "items": [
         {
-          "title": "Selçuk İnan: 'Hakemlere güveniyoruz, hakkaniyetli olacaklarına inanıyoruz'",
-          "summary": "Konyaspor maçı hazırlıklarını sürdüren Kocaelispor'da basın mensuplarıyla bir araya gelen Teknik Direktör Selçuk İnan, hakem tartışmalarına ilişkin, \"İnsanlar, takımlar, camialar şikayet ediyor. Biz de bunun sıkıntısını fazlasıyla yaşadık. Ancak ne olursa olsun hakemlere güveniyoruz. Hakkaniyetli olacaklarına inanıyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-hakemlere-guveniyoruz-hakkaniyetli-olacaklarina-inaniyoruz-43285990"
+          "title": "Ertuğrul Doğan'dan teknik direktör açıklaması: Conte, Fatih Terim, Arda Turan...",
+          "summary": "Trabzonspor Başkanı Ertuğrul Doğan, Bordo-mavili kulüple anılan Arda Turan, Antonio Conte ve Fatih Terim gibi isimlerin gündemlerinde olmadığını belirterek, \"Yeni teknik direktörümüz yabancı olacak gibi duruyor, şu anki görüntü o yönde.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogandan-teknik-direktor-aciklamasi-conte-fatih-terim-arda-turan-43294022"
         },
         {
-          "title": "Manchester City Ayyoub Bouaddi'yi transfer etti",
-          "summary": "Manchester City, Lille'den 18 yaşındaki Faslı orta saha oyuncusu Ayyoub Bouaddi'nin transferini gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/manchester-city-ayyoub-bouaddiyi-transfer-etti-43285989"
+          "title": "Trabzonspor transferde bombayı patlattı: Franculino imzayı attı!",
+          "summary": "Transfer dönemi kapanmadan golcü takviyesi yapmak isteyen Trabzonspor, Midtjylland forması giyen Franculino Dju'yu kadrosuna kattı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-transferde-bombayi-patlatti-franculino-firtinaya-dogru-43293979"
         },
         {
-          "title": "Joan Laporta'dan Julian Alvarez açıklaması",
-          "summary": "Barcelona Başkanı Joan Laporta, Atletico Madrid'den Julian Alvarez transferini istediklerini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/joan-laportadan-julian-alvarez-aciklamasi-43285935"
+          "title": "A Milli Kadın Basketbol Takımı'nın 2026 Dünya Kupası kadrosu belli oldu",
+          "summary": "Almanya'nın başkenti Berlin’de 4-13 Eylül tarihleri arasında düzenlenecek FIBA 2026 Kadınlar Basketbol Dünya Kupası’nda mücadele edecek A Milli Kadın Basketbol Takımı’nın 12 kişilik kadrosu açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takiminin-2026-dunya-kupasi-kadrosu-belli-oldu-43293974"
         },
         {
-          "title": "Galatasaray'a kötü haber! İngiliz devi, Ismaila Sarr için devrede",
-          "summary": "Galatasaray'ın transfer listesinde bulunan Senegalli oyuncu Ismaila Sarr için sürpriz bir gelişme yaşandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-kotu-haber-ingiliz-devi-ismaila-sarr-icin-devrede-43285871"
+          "title": "Beşiktaş'tan savunmaya sürpriz takviye!",
+          "summary": "Beşiktaş, Alanyaspor'un genç savunma oyuncusu Ümit Akdağ'ı kadrosuna kattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-savunmaya-takviye-43293932"
         },
         {
-          "title": "Ergin Ataman'dan Alperen Şengün açıklaması!",
-          "summary": "A Milli Basketbol Takımı Başantrenörü Ergin Ataman, medya gününde basın mensuplarının sorularını yanıtladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ergin-atamandan-alperen-sengun-aciklamasi-43285829"
+          "title": "Galatasaray, Bitshiabu transferinin mali detaylarını açıkladı!",
+          "summary": "Galatasaray, RB Leipzig'den kadrosuna kattığı Fransız stoper El-Chadaille Bitshiabu'nun transferini KAP'a bildirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-bitshiabu-transferinin-mali-detaylarini-acikladi-43293914"
         },
         {
-          "title": "Serdal Adalı ateş püskürdü! Fenerbahçe-Beşiktaş derbisine yabancı VAR talebi",
-          "summary": "Beşiktaş Başkanı Serdal Adalı, TFF ile yaptığı görüşme sonrası basın mensuplarına açıklamalarda bulundu. Adalı, MHK'nin değişmesinin gerektiğini ifade ederken, Fenerbahçe derbisi için yabancı VAR talebinde bulunduklarını aktardı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-ates-puskurdu-fenerbahce-besiktas-derbisine-yabanci-var-talebi-43285780"
+          "title": "Trabzonspor, Richarlison'la anlaştı! Tottenham ikna edilmeye çalışılıyor",
+          "summary": "Forvet arayışlarını sürdüren Trabzonspor'un Brezilyalı golcü Richarlison için yaptığı teklif kulübü Tottenham tarafından reddedildi. Bordo-mavililer transferde ısrarcı ve kısa süre içinde yeni bir teklifle İngiliz ekibinin kapısını çalacak. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-richarlisonla-anlasti-tottenham-ikna-edilmeye-calisiliyor-43293875"
         },
         {
-          "title": "Basketball Without Borders (BWB) Next Up Erkekler Kampı Başladı",
-          "summary": "Amerikan Basketbol Ligi (NBA), Uluslararası Basketbol Federasyonu (The International Basketball Federation - FIBA) ve Türkiye Basketbol Federasyonu (TBF) iş birliğiyle düzenlenen Basketball Without Borders (BWB) Next Up Erkekler Kampı’nın birincisi İstanbul’daki Basketbol Gelişim Merkezi'nde başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basketball-without-borders-bwb-next-up-erkekler-kampi-basladi-43285764"
+          "title": "Türkiye 18 Yaş Altı Golf Şampiyonası’nda Kaan Albayrak iki birincilik elde etti",
+          "summary": "Türkiye Golf Federasyonu (TGF) tarafından düzenlenen Türkiye 18 Yaş Altı Yıldızlar ve Minikler Şampiyonası’nda Erkekler A kategorisinde mücadele eden Kaan Albayrak, gross ve net klasmanlarında birinci oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-18-yas-alti-golf-sampiyonasinda-kaan-albayrak-iki-birincilik-elde-etti-43293884"
         }
       ]
     },
     "teknoloji": {
-      "text": "Meta davası sonuçlandı. Sosyal medya devi 17 milyar dolar ödeyecek. Yapay zekanın Nostradamus'u iflas etti. 45 milyar dolarlık fon battı. Su tedarikçisine siber saldırı, FBI soruşturma açtı. YETEV yeni akademik yıla başladı: Yapay zeka çağında ‘kadim değerler’ vurgusu. Meta'dan geri adım! Kritik davada sonuç belli oldu. Bill Gates'ten 5 bin 784 kelimelik uyarı. \"Harekete geçin\". Yapay zeka devinin yöneticileri teker teker şirketten ayrılıyor.",
+      "text": "GTA 6 hileleri neler olacak? Merakla bekleniyor. Apple'da Tim Cook devri sona erdi. Yeni CEO belli oldu. Türk öğrencileri ve ailelerini dijital ağda buluşturdu, Avrupa’da büyümeyi hedefledi. Okullar açılırken aileler için İstanbul’un eğitim ve etkinlik haritası çıkarıldı. Apple'ın dava açtığı OpenAI'dan ilk açıklama. Deprem sonrası binanın güvenli olup olmadığını cep telefonuna bildiren cihaza patent alındı. Türkiye, Artemis Anlaşmaları'na katıldı.",
       "items": [
         {
-          "title": "Meta davası sonuçlandı. Sosyal medya devi 17 milyar dolar ödeyecek",
-          "summary": "Meta, Facebook ve Instagram’ın çocuklarda bağımlılık yapacak şekilde tasarlandığı iddiasıyla yargılandığı davada uzlaştı. Şirket 17 milyar dolar ödeyecek. Sosyal medya devi Meta'ta Facebook ve Instagram’ın çocuklarda bağımlılık yapacak şekilde tasarlandığı iddiasıyla ABD'deki 29 eyalet tarafından dava açılmıştı. Davada taraflar uzlaşmaya gitti. Eyaletlere yaklaşık 17 milyar dolar ödemeyi kabul eden şirket, söz konusu tutarın 10 yıllık bir süre zarfında yıllık taksitler halinde ödeneceğini açıkladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/meta-davasi-sonuclandi-sosyal-medya-devi-17-milyar-dolar-odeyecek-1739046"
+          "title": "GTA 6 hileleri neler olacak? Merakla bekleniyor",
+          "summary": "Milyonlarca oyunsever GTA 6'nın çıkmasını bekliyor. Diğer GTA serilerinde olduğu gibi GTA 6'da da hilelerin olması ihtimali var. Uzun yıllardır popüler olan ve uzun yıllardır yenisi çıkmayan GTA oyunu serilerine GTA 6 ekleniyor. GTA 5, 2013 yılında çıkmıştı ve halen konsollarda sevilerek oynanıyor. 13 yıldır yenisi çıkmayan GTA serisi 6 ile taçlanacak. ÖN SİPARİŞLER PATLADI Rockstar Games’in Netflix'te yayımladığı 26 dakikalık GTA 6 pazarlama hamlesi beklenenden fazla işe yaradı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-hileleri-neler-olacak-merakla-bekleniyor-1739906"
         },
         {
-          "title": "Yapay zekanın Nostradamus'u iflas etti. 45 milyar dolarlık fon battı",
-          "summary": "\"Yapay zekanın Nostradamus'u\" olarak anılan 24 yaşındaki Aschenbrenner'ın yönettiği 45 milyar dolarlık risk fonu, aşırı kaldıraç ve Çin'in sebep olduğu piyasa sarsıntısıyla çöktü. Silikon Vadisi'nde yapay zeka alanındaki öngörüleriyle dikkat çeken ve uzaydan galaksi satın alma hayalleri kuran 24 yaşındaki Leopold Aschenbrenner'ın kurduğu risk fonu Situational Awareness battı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zekanin-nostradamusu-iflas-etti-45-milyar-dolarlik-fon-batti-1738982"
+          "title": "Apple'da Tim Cook devri sona erdi. Yeni CEO belli oldu",
+          "summary": "Apple'da 15 yıllık Tim Cook döneminin ardından CEO koltuğuna şirketin donanım mühendisliğinden sorumlu kıdemli başkan yardımcısı John Ternus oturdu. ABD merkezli teknoloji devi Apple'da üst düzey yönetim değişimi gerçekleşti. Şirkette 15 yıldır CEO olarak görev yapan Tim Cook'un görevden ayrılmasıyla boşalan koltuğa John Ternus geçti. Böylece tedarik zincirini inşa eden operasyon uzmanı Cook'un yerini, donanım mimarisini yöneten mühendis kökenli Ternus almış oldu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-appleda-tim-cook-devri-sona-erdi-yeni-ceo-belli-oldu-1739993"
         },
         {
-          "title": "Su tedarikçisine siber saldırı, FBI soruşturma açtı",
-          "summary": "FBI, ABD'deki su sistemlerini denetleyen Micro-Comm'un yanı sıra farklı ülkelerden şirketlerin de bilgisayar korsanlarının saldırısına uğradığına dair uyarıda bulundu. ABD yetkilileri, su şebeke teknolojisi üreten küçük bir şirketteki veri ihlalini soruşturuyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/su-tedarikcisine-siber-saldiri-fbi-sorusturma-acti-1739038"
+          "title": "Türk öğrencileri ve ailelerini dijital ağda buluşturdu, Avrupa’da büyümeyi hedefledi",
+          "summary": "Yurt dışında üniversite eğitimi planlayan ve eğitim gören Türk öğrencilerin bilgiye erişim, sosyal uyum ve güven sorunlarına çözüm sunmak amacıyla geliştirilen Yurt Dışı Türk Birliği, doğrulanmış üyelik modeliyle öğrencileri ve ailelerini güvenilir bilgi ve deneyim paylaşımı etrafında buluşturuyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/turk-ogrencileri-ve-ailelerini-dijital-agda-bulusturdu-avrupada-buyumeyi-hedefledi-43293317"
         },
         {
-          "title": "YETEV yeni akademik yıla başladı: Yapay zeka çağında ‘kadim değerler’ vurgusu",
-          "summary": "Yeni Türkiye Eğitim Vakfı (YETEV), 2026-2027 Akademik Yılı’nı \"Değişen Dünyada, Kadim Değerlerle İnsanlık İdeali\" temasıyla açtı. Yoğun katılımla gerçekleşen programda, yapay zekanın eğitime etkisi, dijital çağda çocukların kişilik gelişimi ve her vatandaşa tanımlanması planlanan yapay zeka asistanı projesi ele alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yetev-yeni-akademik-yila-basladi-yapay-zeka-caginda-kadim-degerler-vurgusu-43285876"
+          "title": "Okullar açılırken aileler için İstanbul’un eğitim ve etkinlik haritası çıkarıldı",
+          "summary": "İstanbul’da çocuklara yönelik eğitim ve sosyal yaşam olanaklarının ilçelere göre nasıl dağıldığını analizini yapan Yandex Maps uygulaması, çalışmada anaokulları, okulları, dans-spor merkezleri ile oyun alanları ve parkları dikkate aldı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/okullar-acilirken-aileler-icin-istanbulun-egitim-ve-etkinlik-haritasi-cikarildi-43292569"
         },
         {
-          "title": "Meta'dan geri adım! Kritik davada sonuç belli oldu",
-          "summary": "Meta, çocukların sosyal medya kullanımından zarar gördüğü iddialarıyla ABD'de 29 eyaletin açtığı davalarda uzlaşmaya vardı. Şirketin, davaları 16 milyar dolara kadar çıkabilecek tazminat karşılığında sonlandırmayı kabul ettiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/sosyal-medya-devinin-ceza-korkusu-meta-koseye-sikisti-kacis-plani-belli-oldu-43285737"
+          "title": "Apple'ın dava açtığı OpenAI'dan ilk açıklama",
+          "summary": "OpenAI, Apple'ın ticari sır hırsızlığı iddialarını reddederek, iPhone üreticisinin eski çalışanları tarafından herhangi bir gizli bilginin çalındığını kanıtlayamadığını belirtti. Kendisine yöneltilen ticari sır hırsızlığı suçlamalarını reddeden OpenAI, Pazartesi akşamı Kaliforniya'daki San Jose ABD Bölge Mahkemesi'ne sunduğu dilekçede, Apple'ın herkesi suçlamaya çalıştığını ama bu anlaşmazlığın yalnızca Apple'dan kaynaklanan bir karmaşadan ibaret olduğunu bildirdi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-applein-dava-actigi-openaidan-ilk-aciklama-1739884"
         },
         {
-          "title": "Bill Gates'ten 5 bin 784 kelimelik uyarı. \"Harekete geçin\"",
-          "summary": "Bill Gates, 5 bin 784 kelimelik yeni makalesinde yapay zekanın iş dünyası ve toplumda yaratacağı dönüşüme karşı yeterli hazırlık yapılmadığını söyledi. Microsoft'un kurucu ortağı ve milyarder Bill Gates, yapay zekanın insanlık için yaratabileceği büyük dönüşüme ilişkin dikkat çeken bir uyarıda bulundu.",
-          "source": "https://www.ntv.com.tr/teknoloji/bill-gatesten-5-bin-784-kelimelik-uyari-harekete-gecin-1738983"
+          "title": "Deprem sonrası binanın güvenli olup olmadığını cep telefonuna bildiren cihaza patent alındı",
+          "summary": "Zonguldak Bülent Ecevit Üniversitesi'nde görevli iki akademisyen, sarsıntı sonrası binaların hasar durumunu ve girilip girilemeyeceğini tespit eden 'akıllı hasar tespit sistemi' geliştirerek Türk Patent ve Marka Kurumu'ndan tescil aldı. Taşıyıcı sisteme takılan ve binanın salınımını ölçen cihaz, yapının tehlikede olup olmadığını doğrudan vatandaşın cep telefonuna bildirim olarak iletiyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/deprem-sonrasi-binanin-guvenli-olup-olmadigini-cep-telefonuna-bildiren-cihaza-patent-alindi-43292194"
         },
         {
-          "title": "Yapay zeka devinin yöneticileri teker teker şirketten ayrılıyor",
-          "summary": "OpenAI'da veri merkezlerinin başkanlığını üstlenen Chris Malone, son dönemde şirketten ayrılan üst düzey yöneticilerin arasına katıldı. Konuyla ilgili bilgi sahibi kişilere göre, OpenAI'nın veri merkezi kurulumunu denetleyen kilit yöneticilerden Chris Malone, planlanan halka arz öncesinde yaşanan bir dizi üst düzey yönetici ayrılığının ardından geçen hafta şirketteki görevini bıraktı. Malone, OpenAI'nın yönetici kadrosuna Mart 2025'te veri merkezleri başkanı olarak katıldı.",
-          "source": "https://www.ntv.com.tr/teknoloji/yapay-zeka-devinin-yoneticileri-teker-teker-sirketten-ayriliyor-1738955"
+          "title": "Türkiye, Artemis Anlaşmaları'na katıldı",
+          "summary": "Türkiye, uzayın barışçıl keşfini hedefleyen NASA'nın Artemis Anlaşmaları'na katıldı. Türkiye, NASA'nın Artemis Anlaşmaları'na katıldı. Böylece Türkiye, uzayın barışçıl keşfini hedefleyen çerçeve anlaşmanın 71'inci imzacı ülkesi oldu. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, anlaşmayı Türkiye adına Washington'daki NASA merkezinde düzenlenen törende imzaladı. Bakan Kacır'a Türkiye Uzay Ajansı Başkanı Yusuf Kıraç da eşlik etti.",
+          "source": "https://www.ntv.com.tr/teknoloji/turkiye-artemis-anlasmalarina-katildi-1739800"
         }
       ]
     },
     "saglik": {
-      "text": "130 kilo kara kazanda vitamin hapına dönüşüyor. Çatlatma işleminden geçiriyorlar. Fil hastası Kazım'ın tek dileği yürüyebilmek. 172 kilodan 90 kiloya düşmesi gerekiyor. Yetkililer devrede. Sakın yemeyin, iç organları ve deriyi buluyor. Bakan Memişoğlu: Evde sağlık hizmetlerimizle 1 milyon 352 bin 775 hastaya hizmet veriyoruz. Kişiye özel kanser aşısı geliştirildi. Moderna'nın mRNA aşısı cilt kanseri hastaları için umut oldu. Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\". Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum.",
+      "text": "Frank çizgisi kalp krizi habercisi mi? 3 seviyede kendini gösteriyor. Doktor açıkladı: Sarımsak, zeytinyağı ve tuzla karıştırın; Beyni çelik gibi güçlendiriyor. Kedilerden kuduz bulaşır mı?. Magnezyum, potasyum, kalsiyum zenginiymiş. Turşu ve konserve kurarken bunu kullanın. Kulak çizgisi kalp krizinin işareti mi? Cem Yılmaz'ın fotoğrafı tartışma yarattı. 67 bin hastada denendi: Yapay zeka kalp hastalığını saniyeler içinde yakaladı. Yeni deneysel ilaç trigliseridi yüzde 80 düşürdü.",
       "items": [
         {
-          "title": "130 kilo kara kazanda vitamin hapına dönüşüyor. Çatlatma işleminden geçiriyorlar",
-          "summary": "Adana'nın Kozan ilçesinde sağlık deposu olarak nitelendirilen kızılcık şerbeti yapımına geleneksel yöntemlerle başlandı. Adana'nın Kozan ilçesinde Düzağaç mahallesinde yayla sakinlerinin kış hazırlıkları sürerken, yörede \"ekşi kiraz\" olarak da bilinen kızılcık kirazının şerbet yapımı için kara kazanlar kuruldu. Düzağaç Mahallesi'nde yaşayan Süleyman Şenoğul ve ailesi, bahçelerinden topladıkları kızılcıkları geleneksel yöntemlerle işleyerek kışlık şerbet hazırlıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-130-kilo-kara-kazanda-vitamin-hapina-donusuyor-catlatma-isleminden-geciriyorlar-1738824"
+          "title": "Frank çizgisi kalp krizi habercisi mi? 3 seviyede kendini gösteriyor",
+          "summary": "Son günlerin en çok konuşulan sağlık konularından biri olan Frank çizgisinin her zaman koroner arter hastalığı ve kalp krizi habercisi mi? Komedyen Cem Yılmaz'ın kalp krizi geçirmesinin ardından kalp krizi belirtileri ve kalp sağlığı yeniden gündeme geldi. Cem Yılmaz'ın kulağındaki frank çizgisinin kalp krizi ile bağlantısı olup olmadığı ise sanal medyada en sık konuşulan konulardan biriydi. İHA'da yer alan habere göre; Prof. Dr.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-frank-cizgisi-kalp-krizi-habercisi-mi-3-seviyede-kendini-gosteriyor-1739997"
         },
         {
-          "title": "Fil hastası Kazım'ın tek dileği yürüyebilmek. 172 kilodan 90 kiloya düşmesi gerekiyor",
-          "summary": "Edirne'nin Keşan ilçesinde halk arasında fil hastalığı olarak bilinen lenfödemle mücadele eden Kazım Atak'ın (33), tedavi olabilmesi için 172 kilodan 90 kiloya düşmesi gerekiyor. Yaklaşık 4 yıldır fil hastalığıyla mücadele eden ve hastalığı nedeniyle çalışamayan Kazım Atak, bağlanan engelli maaşı ve hayırseverlerin yardımlarıyla tek başına hayatını sürdürüyor. Yürümekte güçlük çeken Atak, hayırseverler tarafından alınan 3 tekerlekli elektrikli bisiklet ile gündelik işlerini yapmaya çalışıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-fil-hastasi-kazimin-tek-dilegi-yuruyebilmek-172-kilodan-90-kiloya-dusmesi-gerekiyor-1738823"
+          "title": "Doktor açıkladı: Sarımsak, zeytinyağı ve tuzla karıştırın; Beyni çelik gibi güçlendiriyor",
+          "summary": "Sağlıklı beslenme, beyin sağlığını korumak ve hafızayı güçlendirmek için de büyük önem taşıyor. Bu nedenle beynin daha iyi çalışmasını sağlamak için bazı besinlerden faydalanmak gerekiyor. Sağlıklı bir vücuda ve sağlıklı bir beyne sahip olmanın yollu doğru ve dengeli beslenmekten geçiyor. Özellikle bazı besinler var ki beynin daha iyi çalışmasına ve gelişmesine yardımcı oluyor. Uzmanların güçlü bir beyin için özellikle tüketilmesini önerdiği altın değerinde bazı besinler de var. Nöroloji bölüm başkanı olan Dr.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-doktor-acikladi-sarimsak-zeytinyagi-ve-tuzla-karistirin-beyni-celik-gibi-guclendiriyor-1739965"
         },
         {
-          "title": "Yetkililer devrede. Sakın yemeyin, iç organları ve deriyi buluyor",
-          "summary": "İzmir'in Çeşme ve Karaburun kıyılarında yeniden görülen orkinos ölümlerinin artan su sıcaklığıyla tetiklenen bir bakteriden kaynaklandığı açıklandı. İzmir'in Çeşme ve Karaburun kıyılarında geçtiğimiz yaz aylarında da gündeme gelen orkinos ölümleri yeniden görülmeye başlandı. Şu ana kadar kıyıya vuran 9 ölü orkinos tespit edilirken, yetkililer denizden çıkan ölü balıkların kesinlikle tüketilmemesi konusunda vatandaşları uyardı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-yetkililer-devrede-sakin-yemeyin-ic-organlari-ve-deriyi-buluyor-1738723"
+          "title": "Kedilerden kuduz bulaşır mı?",
+          "summary": "Kuduz yalnızca köpeklerden bulaşmıyor. Kedilerden insana bulaş nadir olsa da mümkün. Peki kedi ısırığı veya tırmalamasında ne zaman sağlık kuruluşuna başvurmalı?",
+          "source": "https://www.ntv.com.tr/saglik/video-kedilerden-kuduz-bulasir-mi-1739917"
         },
         {
-          "title": "Bakan Memişoğlu: Evde sağlık hizmetlerimizle 1 milyon 352 bin 775 hastaya hizmet veriyoruz",
-          "summary": "Sağlık Bakanı Kemal Memişoğlu, evde sağlık hizmetleriyle 1 milyon 352 bin 775 hastaya hizmet verdiklerini ve 2026'nın ilk yarısında 2 milyon 229 bin 76 ev ziyareti gerçekleştirdiklerini açıkladı. Sağlık Bakanı Kemal Memişoğlu, NSosyal hesabından evde sağlık hizmetlerine ilişkin paylaşım yaptı. Bakan Memişoğlu, paylaşımında şunları kaydetti: “Hep yanı başınızdayız. Evde sağlık hizmetlerimizle bugün itibarıyla 1 milyon 352 bin 775 hastaya hizmet veriyoruz.",
-          "source": "https://www.ntv.com.tr/saglik/bakan-memisoglu-evde-saglik-hizmetlerimizle-1-milyon-352-bin-775-hastaya-hizmet-veriyoruz-1738574"
+          "title": "Magnezyum, potasyum, kalsiyum zenginiymiş. Turşu ve konserve kurarken bunu kullanın",
+          "summary": "Konserve kurma sezonunun gelmesiyle birlikte uzmanlar, gıdaların bozulmaması için deniz tuzu yerine,kalsiyum ve magnezyum bakımından daha zengin olan kaya tuzunun tercih edilmesi gerektiğini söyledi. Sonbahar mevsiminin gelmesiyle birlikte vatandaşların kışlık konserve ve turşu hazırlıkları başladı. Konserve yapımında dikkat edilmesi gereken hususlar hakkında uyarılarda bulunan uzmanlar, deniz tuzunda kalsiyum ve magnezyumun az bulunması sebebiyle gıdaların daha çabuk bozulabileceğini söyledi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-magnezyum-potasyum-kalsiyum-zenginiymis-tursu-ve-konserve-kurarken-bunu-kullanin-1739874"
         },
         {
-          "title": "Kişiye özel kanser aşısı geliştirildi. Moderna'nın mRNA aşısı cilt kanseri hastaları için umut oldu",
-          "summary": "İlaç üreticileri Moderna ve Merck firmaları, bir cilt kanseri türü olan melanom için mRNA tabanlı kişiye özel aşı geliştirdi. Aşının 3. faz denemelerinde alınan olumlu sonuçlar kamuoyuyla paylaşıldı. En tehlikeli cilt kanseri türü olan melanom için umut vadeden bir gelişme yaşandı. Moderna ve Merck'in geliştirdiği kişiye özel mRNA aşısının, standart immünoterapiyle birlikte kullanıldığında hastalığın tekrarlama ve yayılma riskini azaltabileceği görüldü.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-kisiye-ozel-kanser-asisi-gelistirildi-modernanin-mrna-asisi-cilt-kanseri-hastalari-icin-umut-oldu-1738268"
+          "title": "Kulak çizgisi kalp krizinin işareti mi? Cem Yılmaz'ın fotoğrafı tartışma yarattı",
+          "summary": "Kalp krizi geçiren Cem Yılmaz'ın paylaştığı fotoğraf, sosyal medyada \"kulak memesindeki çizgi\" tartışmasını başlattı. Komedyen Cem Yılmaz, geçtiğimiz günlerde geçirdiği kalp krizinin ardından hastaneye kaldırılmış ve anjiyo yapılmıştı. Tedavisinin ardından da taburcu edilmişti. Cem Yılmaz'ın geçirdiği kalp krizinden sonra hastane odasından yaptığı teşekkür paylaşımı, başka bir tartışmanın fitilini ateşledi. Fotoğraf sosyal medyada \"kulak memesindeki çizgi\" tartışması başlattı.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-kulak-cizgisi-kalp-krizinin-isareti-mi-cem-yilmazin-fotografi-tartisma-yaratti-1739795"
         },
         {
-          "title": "Paketli gıdaların arkasındaki korkunç gerçek: \"İlk iki yıl hiç tüketilmemeli\"",
-          "summary": "Uzmanlar, karaciğer yağlanması ve obeziteye yol açan nişasta bazlı şeker içeren paketli gıdalara karşı özellikle çocukların korunması gerektiğini belirtti.",
-          "source": "https://www.ntv.com.tr/saglik/video-paketli-gidalarin-arkasindaki-korkunc-gercek-ilk-iki-yil-hic-tuketilmemeli-1737878"
+          "title": "67 bin hastada denendi: Yapay zeka kalp hastalığını saniyeler içinde yakaladı",
+          "summary": "Milyonlarca hastanın verisiyle eğitilen yapay zeka sistemi, rutin EKG kayıtlarından kalp yetmezliği ve kalp kapağı hastalıklarına ilişkin belirtileri iki saniyeden kısa sürede tespit edebiliyor. Bilim insanları, rutin elektrokardiyografi (EKG) sonuçlarını analiz ederek kalp yetmezliği ve kalp kapağı hastalıklarının belirtilerini iki saniyeden kısa sürede saptayabilen bir yapay zeka sistemi geliştirdi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-67-bin-hastada-denendi-yapay-zeka-kalp-hastaligini-saniyeler-icinde-yakaladi-1739791"
         },
         {
-          "title": "Dünyada üçüncü vaka oldu. Trabzon'da milyonda bir görülen doğum",
-          "summary": "Rize'de yaşayan 28 yaşındaki Serenay Atagün'ün iki ayrı rahminde aynı anda gebelik oluştu. Bu, dünyadaki üçüncü vaka oldu. Çift rahmi olan bir kadının her iki rahminde de aynı anda gebelik oluşması tıp çevrelerinde milyonda bir ihtimal olarak değerlendiriliyor. Tıpta \"dikaviter ikiz gebelik\" (iki ayrı boşluklu ikiz gebelik) olarak adlandırılan bu durum, dünya genelinde çok nadir bildirilen olaylar arasında yer alıyor. Bu doğum olayı son olarak Trabzon'da gerçek oldu.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-dunyada-ucuncu-vaka-oldu-ikisi-turkiyede-biri-cinde-1737478"
+          "title": "Yeni deneysel ilaç trigliseridi yüzde 80 düşürdü",
+          "summary": "Şiddetli trigliserid yüksekliği bulunan hastalarda üç ayda bir uygulanan plozasiran adlı deneysel tedavi, bir yıl sonunda trigliserid seviyelerini yaklaşık yüzde 80 düşürdü. Kandaki trigliserid düzeyi çok yüksek olan ve bu nedenle akut pankreatit riski taşıyan hastalar için geliştirilen yeni bir tedavi, Faz 3 çalışmalarında dikkat çekici sonuçlar verdi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-yeni-deneysel-ilac-trigliseridi-yuzde-80-dusurdu-1739641"
         }
       ]
     },
     "magazin": {
-      "text": "Bestemsu Özdemir: Anne terliği yemeyen yok.",
+      "text": "Bestemsu Özdemir: Anne terliği yemeyen yok. 'Şu an keyfim gayet yerinde, evlilik düşünmüyoruz'. 'Ben bu hayatta en çok anne olmayı sevdim'. Nükhet Duru: Irgat geldim ırgat gideceğim. Ciddi ilişki değil sadece flörtmüş. Önce nikah, bir hafta sonra düğün... Ünlü model muradına erdi. Ünlü şarkıcı muradına erdi... Herkes aynı yorumu yaptı: Boşanan arkadaşının eski gelinliğini giymiş!.",
       "items": [
         {
           "title": "Bestemsu Özdemir: Anne terliği yemeyen yok",
           "summary": "Bestemsu Özdemir önceki gün Etiler’de görüntülendi. Oğlu 17 günlükken setlere döndüğünü anlatan oyuncu, “Ben işkoliğim. Oğlum şimdi 6 aylık oldu, setlere ve seyahatlere birlikte gidiyoruz” dedi.",
           "source": "https://www.hurriyet.com.tr/kelebek/televizyon/bestemsu-ozdemir-anne-terligi-yemeyen-yok-43256219"
+        },
+        {
+          "title": "'Şu an keyfim gayet yerinde, evlilik düşünmüyoruz'",
+          "summary": "Kaan Taşaner ve sevgilisi Seray Dura önceki gün Bebek’te görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/su-an-keyfim-gayet-yerinde-evlilik-dusunmuyoruz-43248652"
+        },
+        {
+          "title": "'Ben bu hayatta en çok anne olmayı sevdim'",
+          "summary": "Sanat ve magazin dünyasının ünlü isimleri, Anneler Günü’nü sosyal medyada paylaştıkları anlamlı mesajlar ve özel karelerle kutladı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/hayat/ben-bu-hayatta-en-cok-anne-olmayi-sevdim-43170393"
+        },
+        {
+          "title": "Nükhet Duru: Irgat geldim ırgat gideceğim",
+          "summary": "Müziği ve tarzıyla on yıllara damga vurmuş biri Nükhet Duru. Çocukluk bayramlarından girdik, annesiyle ayrı düşmesine, ilk büyük aşkına, güzellik anlayışına ve ticari başarısızlıklarına kadar uzandık. Magazin üslubunu gündemdeki Burcu Güneş ile, kariyerini oluşturma biçimini Ajda Pekkan ile kıyasladık: “İnsan kariyerine çok odaklanırsa onun esiri olabiliyor. Ben heyheylendim mi giderim!”",
+          "source": "https://www.hurriyet.com.tr/kelebek/hayat/irgat-geldim-irgat-gidecegim-43133298"
+        },
+        {
+          "title": "Ciddi ilişki değil sadece flörtmüş",
+          "summary": "DÜNYACA ünlü oyuncu Sydney Sweeney’nin (27), 44 yaşındaki yapımcı Scooter Braun ile “ciddi olmayan bir şekilde” görüştüğü öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/ciddi-iliski-degil-sadece-flortmus-42936666"
+        },
+        {
+          "title": "Önce nikah, bir hafta sonra düğün... Ünlü model muradına erdi",
+          "summary": "Bundan 11 yıl önceydi... Magazin dünyası beklenmedik bir haberle çalkalandı... Dönemin önde gelen rock yıldızlarından birinin gizli bir aşk çocuğu vardı... Üstelik de artık 15 yaşına gelmiş ve modellik yapmaya başlamıştı o çocuk. Kendisinin bile bilmediği bu gerçek yapılan DNA testiyle ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/magazin/bir-haftada-ikinci-dugun-unlu-model-muradina-erdi-42855931"
+        },
+        {
+          "title": "Ünlü şarkıcı muradına erdi... Herkes aynı yorumu yaptı: Boşanan arkadaşının eski gelinliğini giymiş!",
+          "summary": "Müzik dünyasından mutlu bir haber geldi geçtiğimiz hafta sonu... İlk nişanlısından büyük bir hayal kırıklığı içinde ayrılan genç şarkıcı, sonunda kalbinin sahibini buldu ve bir açık hava düğünüyle onunla hayatını birleştirdi.",
+          "source": "https://www.hurriyet.com.tr/magazin/unlu-sarkici-muradina-erdi-herkes-ayni-yorumu-yapti-bosanan-arkadasinin-eski-gelinligini-giymis-42818431"
         }
       ]
     }
