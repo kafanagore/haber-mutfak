@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-03T04:00:06.714Z",
+  "generatedAt": "2026-09-03T10:00:06.405Z",
   "categories": {
     "gundem": {
-      "text": "İkinci kata tırmandı, çocuğu kurtardı. Kardeşlerin bıçaklı kavgası. 1 ölü, 1 yaralı. Şarampole devrilen aracın sürücüsü öldü. Bayrampaşa’da hareketli dakikalar... Polisin 'dur' ihtarına uymdı, kaçarken kaza yaptı. Marmara'da gemi kazası: Tuğberk İmamoğlu ile Alsu arasındaki son telsiz konuşması ortaya çıktı. KKTC’de koalisyon dağılıyor. Arıklı görevden alınınca partisi YDP hükümetten çekildi. Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''.",
+      "text": "Ebru hemşirenin yardım çığlığı: \"Ölmeden önce sesimi duyun\". Girne'deki feribot faciasında kaptanın ehliyetini Honduras'dan aldığı anlaşıldı. Çanakkale'de zeytinlik alanda yangın! Havadan ve karadan müdahale ediliyor. MSB: Gemi kazaları ile ilgili koordinasyon ve destek sağlanıyor. LPG'li araç tamirinde patlama: 2 yaralı. İstanbul Tuzla'da sanayi bölgesinde yangın. Ekipler müdahale ediyor. Ünlü seyahat yayını İstanbul'un en havalı mahallesini seçti.",
       "items": [
         {
-          "title": "İkinci kata tırmandı, çocuğu kurtardı",
-          "summary": "Diyarbakır'da üçüncü kattaki balkondan düşmek üzere olan kız çocuğunu, korkuluklardan tırmanan kişi kurtardı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-ikinci-kata-tirmandi-cocugu-kurtardi-1740097"
+          "title": "Ebru hemşirenin yardım çığlığı: \"Ölmeden önce sesimi duyun\"",
+          "summary": "İstanbul Bahçeşehir'de hemşire Ebru Anik, uzaklaştırma kararı aldırdığı eski sevgilisi tarafından dövülüp ölümle tehdit edildiğini iddia ederek yardım çağrısında bulundu. İstanbul Başakşehir'de yaşayan hemşire Ebru Anik (26), 2023 yılı aralık ayında Mustafa M. (30) ile başlayan 3 yıllık ilişkilerinin son 1,5 yılında şiddet gördüğünü, ayrılmak istediğinde ise tehdit ve şantajla ilişkiyi sürdürmeye zorlandığını öne sürdü.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ebru-hemsirenin-yardim-cigligi-olmeden-once-sesimi-duyun-1740167"
         },
         {
-          "title": "Kardeşlerin bıçaklı kavgası. 1 ölü, 1 yaralı",
-          "summary": "50 yaşındaki ağabeyi A.O.'nun bıçakladığı 48 yaşındaki Y.T.O. hayatını kaybetti. A.O. ise yaralandı. Balıkesir'de iki kardeş arasında çıkan kavga cinayetle bitti. Olay, akşam saatlerinde Karesi ilçesine bağlı Maltepe Mahallesi'nde meydana geldi. 50 yaşındaki A.O. evinin bahçesinde karşılaştığı kardeşi 48 yaşındaki Y.T.O. ile tartışmaya başladı. Tartışmanın kavgaya dönüşmesi üzerine iki kardeş, birbirini bıçakla yaraladı. Komşuların ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/kardeslerin-bicakli-kavgasi-1-olu-1-yarali-1740087"
+          "title": "Girne'deki feribot faciasında kaptanın ehliyetini Honduras'dan aldığı anlaşıldı",
+          "summary": "Girne'deki feribot faciasında birinci kaptanın ehliyetini Honduras'tan aldığı ortaya çıktı. Gemide görevli mürettebatın hiçbir belgesi ve eğitiminin olmadığı tespit edildi. Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne kentinden Mersin'in Taşucu Limanı'na hareket ettiği sırada alabora olarak batan feribot kazasıyla ilgili yargılama süreci sürüyor. Girne Kaza Mahkemesi'ne çıkarılan feribotun kaptanı M.Ö. ile ikinci kaptan M.S. ve M.G, S.E, V.H, R.İ, Z.Ö. ve K.K. ile şirket çalışanı A.Ö. tutuklanmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-girnedeki-feribot-faciasinda-ikinci-kaptanin-ifadesi-ortaya-cikti-1740176"
         },
         {
-          "title": "Şarampole devrilen aracın sürücüsü öldü",
-          "summary": "Ümraniye'de şarampole yuvarlanarak ters dönen otomobilin sürücüsü hayatını kaybetti. İstanbul'un Ümraniye ilçesinde M.A. idaresindeki otomobil, şarampole devrildi. Olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. Sağlık ekipleri, otomobilin altında kalan sürücü M.A.'nın hayatını kaybettiğini belirledi. Ekiplerin çalışmalarının ardından sürücünün cenazesi bulunduğu yerden çıkarılarak otopsi için Adli Tıp Kurumu morguna kaldırıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/sarampole-devrilen-aracin-surucusu-oldu-1740093"
+          "title": "Çanakkale'de zeytinlik alanda yangın! Havadan ve karadan müdahale ediliyor",
+          "summary": "Çanakkale'nin Ayvacık ilçesinde, zeytinlik alanda çıkan yangına havadan ve karadan müdahale ediliyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/canakkalede-zeytinlik-alanda-yangin-havadan-ve-karadan-mudahale-ediliyor-43294524"
         },
         {
-          "title": "Bayrampaşa’da hareketli dakikalar... Polisin 'dur' ihtarına uymdı, kaçarken kaza yaptı",
-          "summary": "Bayrampaşa’da polisin 'dur' ihtarına uymayan şüphelilerin kullandığı otomobil, kaçış sırasında park halindeki bir araca çarptı. Otomobilden inen şüphelilerden biri plakasız bir motosiklete binerek kaçarken, diğeri polis ekiplerince gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bayrampasada-hareketli-dakikalar-polisin-dur-ihtarina-uymdi-kacarken-kaza-yapti-43294064"
+          "title": "MSB: Gemi kazaları ile ilgili koordinasyon ve destek sağlanıyor",
+          "summary": "Milli Savunma Bakanlığı (MSB), KKTC ve Silivri'de meydana gelen gemi kazalarına ilişkin açıklama yaptı. Bakanlık çalışmalara 4 gemi, 1 uçak ve 1 İHA ile katkı sağlandığını bildirdi. Milli Savunma Bakanlığı Haftalık Basın Bilgilendirme Toplantısı, BAYKAR Teknoloji Özdemir Bayraktar Millî Teknoloji Merkezi'nde gerçekleştirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/msb-gemi-kazalari-ile-ilgili-koordinasyon-ve-destek-saglaniyor-1740194"
         },
         {
-          "title": "Marmara'da gemi kazası: Tuğberk İmamoğlu ile Alsu arasındaki son telsiz konuşması ortaya çıktı",
-          "summary": "Marmara Denizi'nde çarpışan Tuğberk İmamoğlu ile Alsu gemisi arasındaki son telsiz konuşmasının kaydı ortaya çıktı. Silivri Cumhuriyet Başsavcılığı kazayla ilgili soruşturma başlattı. Marmara Denizi'nde iki geminin çarpıştığı kaza, saat 03.00 sıralarında İstanbul'un Silivri ilçesinin 18 deniz mili güneyinde gerçekleşti. Kazaya karışan gemilerden biri Kocaeli'den Aliağa'ya seyreden Alsu isimli ticari gemiydi. Diğeri ise İskenderun Limanı'ndan Karadenizereğli'ye seyreden Tuğberk İmamoğlu'ydu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-marmarada-gemi-kazasi-tugberk-imamoglu-ile-alsu-arasindaki-son-telsiz-konusmasi-ortaya-cikti-1740052"
+          "title": "LPG'li araç tamirinde patlama: 2 yaralı",
+          "summary": "Edirne'deki sanayi sitesinde yer alan bir iş yerinde, otomobilin LPG tankına işlem yapılırken patlama meydana geldi. Patlamada 2 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/lpgli-arac-tamirinde-patlama-2-yarali-43294500"
         },
         {
-          "title": "KKTC’de koalisyon dağılıyor. Arıklı görevden alınınca partisi YDP hükümetten çekildi",
-          "summary": "Girne faciası nedeniyle KKTC Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı’nın görevden alınmasının ardından YDP, hükümetten çekildi. Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı Ünal Üstel, Girne açıklarında meydana gelen gemi faciasına ilişkin soruşturmanın sağlıklı yürütülmesi için Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı’yı görevden aldığını açıkladı. Hükümet ortaklarından Yeniden Doğuş Partisi'nin lideri olan Arıklı, kararla ilgili ''Hükümetten çekilme için Parti Meclisi'ni toplayacağız.'' demişti.",
-          "source": "https://www.ntv.com.tr/turkiye/kktc-basbakani-ustel-ulastirma-bakani-erhan-arikliyi-gorevden-aldi-1740065"
+          "title": "İstanbul Tuzla'da sanayi bölgesinde yangın. Ekipler müdahale ediyor",
+          "summary": "İstanbul'un Tuzla ilçesinde, bir depolama alanında çıkan yangına itfaiye ekiplerinin müdahalesi sürüyor. İstanbul'un Tuzla ilçesinde Orhanlı Deri Sanayi Bölgesi'nde bulunan bir binada henüz bilinmeyen bir nedenle yangın çıktı. Alevler kısa sürede yayıldı. İhbar üzerine çevreye takviye itfaiye ekipleri yönlendirildi. ALEVLERİN SIÇRAMA RİSKİ MEVCUT Bölgede çok sayıda farklı yapı bulunması nedeniyle alevlerin sıçrama riski de var. Yangını söndürmek için çalışma başlatıldı, çevrede önlem alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbul-tuzlada-sanayi-bolgesinde-yangin-ekipler-mudahale-ediyor-1740175"
         },
         {
-          "title": "Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''",
-          "summary": "MHP lideri Devlet Bahçeli, Amedspor taraftarlığına ilişkin araştırmaya tepki göstererek, çalışmanın “bölücülüğü zinde tutmaya” hizmet ettiğini söyledi. MHP Genel Başkanı Devlet Bahçeli, Kürt Çalışmaları Merkezi (KSC) ile Rawest Araştırma tarafından hazırlanan “Kürtlerde Amedspor Algısı ve Taraftarlığı Araştırması”na ilişkin değerlendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bahceliden-amedspor-arastirmasina-tepki-spor-kimlik-siyasetine-alet-edilmemeli-1740066"
+          "title": "Ünlü seyahat yayını İstanbul'un en havalı mahallesini seçti",
+          "summary": "Brooklyn Of isimli seyahat yayını, dünyanın 155 şehrindeki 'en havalı' mahalleleri belirledi. Buna göre İstanbul'daki 'en havalı' mahalle ise Kadıköy'ün Yeldeğirmeni mahallesi seçildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/unlu-seyahat-yayini-istanbulun-en-havali-mahallesini-secti-43294468"
         }
       ]
     },
     "dunya": {
-      "text": "Trump, \"istedikleri zaman\" İran'a yeniden saldırmaya hazır olduklarını söyledi. Golf efsanesi uslanmıyor. Ehliyetine el konuldu. Venezuela Geçici Devlet Başkanı Rodriguez'den 'seçim' açıklaması. ABD ordusu, Doğu Pasifik'te karteller tarafından kullanılan teknenin batırıldığını açıkladı. CENTCOM: \"İran’a yönelik deniz ablukası kapsamında 86 geminin rotası değiştirildi\". İran ABD’nin son saldırılarının bilançosunu açıkladı: \"18 ölü, 142 yaralı\". Trump’tan Hürmüz çıkışı: ''Adını Trump Boğazı mı yapsak?''.",
+      "text": "Zayıflama ilaçlarında ölüm vakaları. Libya'nın başkenti Trablus'ta İHA saldırısı. İspanya göç krizi soruşturmasını tamamladı: Fas'ı işaret eden bir kanıt bulunamadı. Oğlu paylaştı: ABD pasaportunda Trump fotoğrafı. 'Amerikalı doktor' gösterime girdi: Gazze'de çalışan üç doktorun hikayesi. Aylarca denizden çıkmadı. USS Abraham Lincoln'ın son hali şaşırttı. Hollanda'da İsrail'e silah ambargosu çağrısı.",
       "items": [
         {
-          "title": "Trump, \"istedikleri zaman\" İran'a yeniden saldırmaya hazır olduklarını söyledi",
-          "summary": "ABD Başkanı Donald Trump, İran'a \"istedikleri zaman\" yeniden saldırılar düzenlemeye hazır olduklarını belirtti. ABD Başkanı Trump, Oval Ofis'te basın mensuplarının İran gündemine ilişkin sorularını yanıtladı. Trump, İran'a yönelik son \"tehditlerini\" yineleyerek, İran'a \"istedikleri zaman\" yeniden saldırmaya hazır olduklarını ifade etti. Dün ABD ordusunun Hürmüz Boğazı bölgesindeki İran hedeflerine yönelik saldırılarının \"çok başarılı\" olduğunu savunan Trump, \"Dün gece onları çok sert vurduk.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trump-istedikleri-zaman-irana-yeniden-saldirmaya-hazir-olduklarini-soyledi-1740081"
+          "title": "Zayıflama ilaçlarında ölüm vakaları",
+          "summary": "İngiltere'de zayıflama ilaçlarıyla ilişkili olmasından şüphelenilen yüzü aşkın ölüm ve 150 bini aşkın yan etki vakası. Üreticiler reçetesiz kullanıma karşı çıktı. İngiltere İlaç ve Sağlık Ürünleri Düzenleme Kurumuna (MHRA) yapılan bildirimler, ülkede yaygın biçimde kullanılan zayıflama iğneleriyle bağlantılı olabileceğinden şüphelenilen yüzlerce ölüm vakasını ve 150 bini aşkın yan etki şikayetini ortaya koydu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-zayiflama-ilaclarinda-olum-ve-yan-etki-vakalari-ureticiler-recetesiz-kullanmayin-diyor-1740200"
         },
         {
-          "title": "Golf efsanesi uslanmıyor. Ehliyetine el konuldu",
-          "summary": "Daha önce yaptığı kazada ağır yaralanan Tiger Woods \"alkollü veya uyuşturucu etkisindeyken araç kullanmaktan” ceza aldı. Golf tarihinin en başarılı isimlerinden dünyanın en çok kazanan sporcusu Tiger Woods, kariyerine ara vermek zorunda kalmasından yıllar sonra yine alkollü araç kullanmaktan ehliyetini kaybetti. Woods, mart ayında aracının takla atmasıyla sonuçlanan kaza nedeniyle ceza aldı.",
-          "source": "https://www.ntv.com.tr/dunya/golf-efsanesi-uslanmiyor-ehliyetine-el-konuldu-1740094"
+          "title": "Libya'nın başkenti Trablus'ta İHA saldırısı",
+          "summary": "Bir insansız hava aracının (İHA) Libya'nın başkenti Trablus'ta petrol tanklarının bulunduğu bölgeyi hedef aldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/libyanin-baskenti-trablusta-iha-saldirisi-43294536"
         },
         {
-          "title": "Venezuela Geçici Devlet Başkanı Rodriguez'den 'seçim' açıklaması",
-          "summary": "Venezuela Geçici Devlet Başkanı Delcy Rodriguez, ülkede gerekli şartlar sağlandığında seçim yapılacağını belirterek, \"Seçim olacak ama ülke hazır olduğunda.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/venezuela-gecici-devlet-baskani-rodriguezden-secim-aciklamasi-43294066"
+          "title": "İspanya göç krizi soruşturmasını tamamladı: Fas'ı işaret eden bir kanıt bulunamadı",
+          "summary": "Faslı göçmenlerin İspanya'nın Sebte (Ceuta) kentine toplu göç etmesi olayına ilişkin soruşturma tamamlandı. İspanya hükümeti, 2 gün süren krizde Fas yönetiminin kasıtlı bir müdahalesi olduğunu gösteren bir kanıt bulunmadığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanya-goc-krizi-sorusturmasini-tamamladi-fasi-isaret-eden-bir-kanit-bulunamadi-43294477"
         },
         {
-          "title": "ABD ordusu, Doğu Pasifik'te karteller tarafından kullanılan teknenin batırıldığını açıkladı",
-          "summary": "ABD Güney Komutanlığı (SOUTHCOM), Ekvador hükümeti iş birliğiyle gerçekleştirilen bir operasyonla Doğu Pasifik'teki uluslararası sularda seyreden ve Los Choneros Karteli tarafından yakıt ikmal istasyonu olarak kullanılan bir teknenin daha batırıldığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-ordusu-dogu-pasifikte-karteller-tarafindan-kullanilan-teknenin-batirildigini-acikladi-43294063"
+          "title": "Oğlu paylaştı: ABD pasaportunda Trump fotoğrafı",
+          "summary": "ABD Başkanı Donald Trump'ın oğlu Eric Trump, babasının yer aldığı yeni pasaportunun görüntüsünü paylaştı. Trump'ın fotoğrafının ve imzasının pasaportta yer alması sosyal medyada tartışma yaratırken, ABD Dışişleri Bakanlığı konuya ilişkin açıklama yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/oglu-paylasti-abd-pasaportunda-trump-fotografi-43294478"
         },
         {
-          "title": "CENTCOM: \"İran’a yönelik deniz ablukası kapsamında 86 geminin rotası değiştirildi\"",
-          "summary": "ABD Merkez Komutanlığı (CENTCOM), İran limanlarına yönelik deniz ablukasının sıkı bir şekilde devam ettiğini duyurarak, \"ABD kuvvetleri, bugüne dek abluka kapsamında 86 ticari geminin rotasını değiştirmiş, 3 ticari geminin hareket kabiliyetini engellemiş ve 2 ticari gemiye çıkarma yapmıştır\" açıklamasında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/centcom-irana-yonelik-deniz-ablukasi-kapsaminda-86-geminin-rotasi-degistirildi-43294062"
+          "title": "'Amerikalı doktor' gösterime girdi: Gazze'de çalışan üç doktorun hikayesi",
+          "summary": "Üç doktorun Gazze’de yaşadıklarını anlatan “Amerikalı doktor” belgeseli ABD’de gösterime girdi. O doktorlardan biri, Filistinli ABD vatandaşı doktor Thaer Ahmad, CNN Türk’ten Serdar Korucu’ya konuştu. Ahmad, “Batı, Filistinlileri insan olarak görmüyor. Türk halkına Gazze dayanışması için bir Filistinli olarak teşekkür ediyorum” dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/amerikali-doktor-gosterime-girdi-gazzede-calisan-uc-doktorun-hikayesi-43294427"
         },
         {
-          "title": "İran ABD’nin son saldırılarının bilançosunu açıkladı: \"18 ölü, 142 yaralı\"",
-          "summary": "İran Sağlık Bakanlığı Sözcüsü Hüseyin Kermanpur, ABD’nin ülkesine yönelik son saldırılarında en az 18 kişinin öldüğünü, 142 kişinin ise yaralandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-abdnin-son-saldirilarinin-bilancosunu-acikladi-18-olu-142-yarali-43294060"
+          "title": "Aylarca denizden çıkmadı. USS Abraham Lincoln'ın son hali şaşırttı",
+          "summary": "ABD'nin USS Abraham Lincoln uçak gemisinin 286 günlük görevin ardından Tayland'a ulaştığında baştan sona pasla kaplı görüntüsü dikkat çekti. ABD Donanması'na ait USS Abraham Lincoln uçak gemisi, aylar süren görevlerinin ardından çarşamba günü Tayland'da limana yanaştı. Yaklaşık 333 metre uzunluğundaki dev savaş gemisinin baştan sona pasla kaplı görüntüsü dikkat çekti. Ancak uzmanlara göre geminin görüntüsü, geçirdiği olağanüstü uzun görev süresi düşünüldüğünde şaşırtıcı değil.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-aylarca-denizden-cikmadi-uss-abraham-lincolnin-son-hali-sasirtti-1740188"
         },
         {
-          "title": "Trump’tan Hürmüz çıkışı: ''Adını Trump Boğazı mı yapsak?''",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın ABD kontrolü altında olduğunu savunarak, adını \"Trump Boğazı\" olarak değiştirmeyi önerebileceğini belirtti. ABD Başkanı Trump, sosyal medya hesabından Hürmüz Boğazı'na ilişkin paylaşım yaptı. Trump, \"Artık burayı ABD’nin kontrolü altına aldığımıza göre, Hürmüz Boğazı'nın adını Trump Boğazı olarak değiştirmeli miyiz? Tıpkı Amerika’nın kendisi gibi, bu boğaz da hiç olmadığı kadar popüler olurdu.\" ifadelerini kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-hurmuz-cikisi-adini-trump-bogazi-mi-yapsak-1740069"
+          "title": "Hollanda'da İsrail'e silah ambargosu çağrısı",
+          "summary": "İsrail'in Gazze'de yürüttüğü işgal harekatı ve Filistinlilere yönelik sistematik soykırıma tepki gösteren Hollandalı 235 kişilik grup, Amsterdam yönetimine İsrail'e silah ambargosu uygulanmasını talep eden bir mektup yolladı. Aralarında eski bakanlar ve üst düzey bürokratların bulunduğu grubun mektubunda, Avrupa Birliği (AB) ve İsrail arasındaki ticaret anlaşmasına son verilmesi istendi.",
+          "source": "https://www.hurriyet.com.tr/dunya/hollandada-israile-silah-ambargosu-cagrisi-43294397"
         }
       ]
     },
@@ -124,48 +124,58 @@
       ]
     },
     "spor": {
-      "text": "Ertuğrul Doğan'dan teknik direktör açıklaması: Conte, Fatih Terim, Arda Turan... Trabzonspor transferde bombayı patlattı: Franculino imzayı attı!. A Milli Kadın Basketbol Takımı'nın 2026 Dünya Kupası kadrosu belli oldu. Beşiktaş'tan savunmaya sürpriz takviye!. Galatasaray, Bitshiabu transferinin mali detaylarını açıkladı!. Trabzonspor, Richarlison'la anlaştı! Tottenham ikna edilmeye çalışılıyor. Türkiye 18 Yaş Altı Golf Şampiyonası’nda Kaan Albayrak iki birincilik elde etti.",
+      "text": "Dusan Vlahovic'ten Beşiktaş itirafı! 'Hayal bile edemezdim'. El Chadaille Bitshiabu, Galatasaray tarihindeki 12. Fransız futbolcu. Fenerbahçe-Beşiktaş derbilerinde kart sayıları dikkati çekiyor. A Milli Kadın Basketbol Takımı, Dünya Kupası'nda yarın parkeye çıkacak. Bursaspor, son maçlarda kazanıyor! Anderlecht’in iç sahada bileği bükülmüyor… İşte Misli’den günün tüyoları!. Leao, Galatasaray'da sahne alıyor! Gözler Okan Buruk'ta. Fenerbahçe'de 4 futbolcu ilk kez derbi heyecanı yaşayacak.",
       "items": [
         {
-          "title": "Ertuğrul Doğan'dan teknik direktör açıklaması: Conte, Fatih Terim, Arda Turan...",
-          "summary": "Trabzonspor Başkanı Ertuğrul Doğan, Bordo-mavili kulüple anılan Arda Turan, Antonio Conte ve Fatih Terim gibi isimlerin gündemlerinde olmadığını belirterek, \"Yeni teknik direktörümüz yabancı olacak gibi duruyor, şu anki görüntü o yönde.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogandan-teknik-direktor-aciklamasi-conte-fatih-terim-arda-turan-43294022"
+          "title": "Dusan Vlahovic'ten Beşiktaş itirafı! 'Hayal bile edemezdim'",
+          "summary": "Beşiktaş'ın yeni transferi Dusan Vlahovic, siyah-beyazlılara transfer sürec ibaşta olmak üzere pek çok konuda açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dusan-vlahovicten-besiktas-itirafi-hayal-bile-edemezdim-43294471"
         },
         {
-          "title": "Trabzonspor transferde bombayı patlattı: Franculino imzayı attı!",
-          "summary": "Transfer dönemi kapanmadan golcü takviyesi yapmak isteyen Trabzonspor, Midtjylland forması giyen Franculino Dju'yu kadrosuna kattı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-transferde-bombayi-patlatti-franculino-firtinaya-dogru-43293979"
+          "title": "El Chadaille Bitshiabu, Galatasaray tarihindeki 12. Fransız futbolcu",
+          "summary": "Galatasaray'ın yeni transferi El Chadaille Bitshiabu, sarı kırmızılıların tarihindeki 12. Fransız futbolcu oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/el-chadaille-bitshiabu-galatasaray-tarihindeki-12-fransiz-futbolcu-43294472"
         },
         {
-          "title": "A Milli Kadın Basketbol Takımı'nın 2026 Dünya Kupası kadrosu belli oldu",
-          "summary": "Almanya'nın başkenti Berlin’de 4-13 Eylül tarihleri arasında düzenlenecek FIBA 2026 Kadınlar Basketbol Dünya Kupası’nda mücadele edecek A Milli Kadın Basketbol Takımı’nın 12 kişilik kadrosu açıklandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takiminin-2026-dunya-kupasi-kadrosu-belli-oldu-43293974"
+          "title": "Fenerbahçe-Beşiktaş derbilerinde kart sayıları dikkati çekiyor",
+          "summary": "Söz konusu derbilerde Beşiktaş 14 kırmızı ve 89 sarı, Fenerbahçe ise 6 kırmızı ve 88 sarı kart gördü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-besiktas-derbilerinde-kart-sayilari-dikkati-cekiyor-43294463"
         },
         {
-          "title": "Beşiktaş'tan savunmaya sürpriz takviye!",
-          "summary": "Beşiktaş, Alanyaspor'un genç savunma oyuncusu Ümit Akdağ'ı kadrosuna kattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-savunmaya-takviye-43293932"
+          "title": "A Milli Kadın Basketbol Takımı, Dünya Kupası'nda yarın parkeye çıkacak",
+          "summary": "A Milli Kadın Basketbol Takımı, FIBA 2026 Dünya Kupası C Grubu ilk maçında yarın Belçika ile karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takimi-dunya-kupasinda-yarin-parkeye-cikacak-43294444"
         },
         {
-          "title": "Galatasaray, Bitshiabu transferinin mali detaylarını açıkladı!",
-          "summary": "Galatasaray, RB Leipzig'den kadrosuna kattığı Fransız stoper El-Chadaille Bitshiabu'nun transferini KAP'a bildirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-bitshiabu-transferinin-mali-detaylarini-acikladi-43293914"
+          "title": "Bursaspor, son maçlarda kazanıyor! Anderlecht’in iç sahada bileği bükülmüyor… İşte Misli’den günün tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursaspor-son-maclarda-kazaniyor-anderlechtin-ic-sahada-bilegi-bukulmuyor-iste-misliden-gunun-tuyolari-43294446"
         },
         {
-          "title": "Trabzonspor, Richarlison'la anlaştı! Tottenham ikna edilmeye çalışılıyor",
-          "summary": "Forvet arayışlarını sürdüren Trabzonspor'un Brezilyalı golcü Richarlison için yaptığı teklif kulübü Tottenham tarafından reddedildi. Bordo-mavililer transferde ısrarcı ve kısa süre içinde yeni bir teklifle İngiliz ekibinin kapısını çalacak. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-richarlisonla-anlasti-tottenham-ikna-edilmeye-calisiliyor-43293875"
+          "title": "Leao, Galatasaray'da sahne alıyor! Gözler Okan Buruk'ta",
+          "summary": "Başakşehir Fatih Terim Stadı'ndaki maç saat 20.00'de başlayacak. Galatasaray Teknik Direktörü Okan Buruk, sarı-kırmızılı takım ile Başakşehir'e karşı ligde puan kaybı yaşamadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/leao-galatasarayda-sahne-aliyor-gozler-okan-burukta-43294381"
         },
         {
-          "title": "Türkiye 18 Yaş Altı Golf Şampiyonası’nda Kaan Albayrak iki birincilik elde etti",
-          "summary": "Türkiye Golf Federasyonu (TGF) tarafından düzenlenen Türkiye 18 Yaş Altı Yıldızlar ve Minikler Şampiyonası’nda Erkekler A kategorisinde mücadele eden Kaan Albayrak, gross ve net klasmanlarında birinci oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-18-yas-alti-golf-sampiyonasinda-kaan-albayrak-iki-birincilik-elde-etti-43293884"
+          "title": "Fenerbahçe'de 4 futbolcu ilk kez derbi heyecanı yaşayacak",
+          "summary": "Fenerbahçe'nin bu transfer döneminde kadrosuna kattığı 4 yeni futbolcu, görev almaları halinde sarı-lacivertli formayla ilk kez derbi heyecanı yaşayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-4-futbolcu-ilk-kez-derbi-heyecani-yasayacak-43294333"
         }
       ]
     },
     "teknoloji": {
-      "text": "GTA 6 hileleri neler olacak? Merakla bekleniyor. Apple'da Tim Cook devri sona erdi. Yeni CEO belli oldu. Türk öğrencileri ve ailelerini dijital ağda buluşturdu, Avrupa’da büyümeyi hedefledi. Okullar açılırken aileler için İstanbul’un eğitim ve etkinlik haritası çıkarıldı. Apple'ın dava açtığı OpenAI'dan ilk açıklama. Deprem sonrası binanın güvenli olup olmadığını cep telefonuna bildiren cihaza patent alındı. Türkiye, Artemis Anlaşmaları'na katıldı.",
+      "text": "Milyonlarca cep telefonu kapanacak. Sadece birkaç gününüz kaldı. Tam 8 yıldır yoldaydı, zorlu görev başlıyor. Merkür'ün gizemlerini çözecek. GTA 6 hileleri neler olacak? Merakla bekleniyor. Apple'da Tim Cook devri sona erdi. Yeni CEO belli oldu. Türk öğrencileri ve ailelerini dijital ağda buluşturdu, Avrupa’da büyümeyi hedefledi. Okullar açılırken aileler için İstanbul’un eğitim ve etkinlik haritası çıkarıldı. Apple'ın dava açtığı OpenAI'dan ilk açıklama.",
       "items": [
+        {
+          "title": "Milyonlarca cep telefonu kapanacak. Sadece birkaç gününüz kaldı",
+          "summary": "Türkiye'deki kanunlara uygun olmayan telefonlar için çalışma sürelerinin sonuna gelindi ve her an kapatılabilirler. Türkiye'deki fiyatlardan telefon almak istemeyenler yurt dışından aldıkları cihazları bir takvim yılı içinde (1 Ocak 2026-31 Aralık 2026 tarihleri arası bir takvim yılını ifade ediyor.) 4 ay boyunca kullanabiliyor. Eğer telefonda çift SIM kart yuvası ya da bir SIM kart yuvası ve e-SIM varsa bu süre 8 aya çıkıyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-milyonlarca-cep-telefonu-kapanacak-sadece-birkac-gununuz-kaldi-1740193"
+        },
+        {
+          "title": "Tam 8 yıldır yoldaydı, zorlu görev başlıyor. Merkür'ün gizemlerini çözecek",
+          "summary": "Avrupa ve Japonya'nın ortak BepiColombo görevi, yaklaşık 8 yıl ve 10 milyar kilometrelik yolculuğun ardından Merkür'e ulaşmaya hazırlanıyor. EKİM 2018'DE YOLA ÇIKTI Güneş Sistemi'nin en az keşfedilen gezegenlerinden Merkür'ün sırlarını çözmek için yola çıkan BepiColombo görevi, yaklaşık 8 yıllık yolculuğun ardından hedefine ulaşmaya hazırlanıyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-tam-8-yildir-yoldaydi-merkurun-gizemlerini-cozecek-zorlu-gorev-basliyor-1740162"
+        },
         {
           "title": "GTA 6 hileleri neler olacak? Merakla bekleniyor",
           "summary": "Milyonlarca oyunsever GTA 6'nın çıkmasını bekliyor. Diğer GTA serilerinde olduğu gibi GTA 6'da da hilelerin olması ihtimali var. Uzun yıllardır popüler olan ve uzun yıllardır yenisi çıkmayan GTA oyunu serilerine GTA 6 ekleniyor. GTA 5, 2013 yılında çıkmıştı ve halen konsollarda sevilerek oynanıyor. 13 yıldır yenisi çıkmayan GTA serisi 6 ile taçlanacak. ÖN SİPARİŞLER PATLADI Rockstar Games’in Netflix'te yayımladığı 26 dakikalık GTA 6 pazarlama hamlesi beklenenden fazla işe yaradı.",
@@ -190,22 +200,17 @@
           "title": "Apple'ın dava açtığı OpenAI'dan ilk açıklama",
           "summary": "OpenAI, Apple'ın ticari sır hırsızlığı iddialarını reddederek, iPhone üreticisinin eski çalışanları tarafından herhangi bir gizli bilginin çalındığını kanıtlayamadığını belirtti. Kendisine yöneltilen ticari sır hırsızlığı suçlamalarını reddeden OpenAI, Pazartesi akşamı Kaliforniya'daki San Jose ABD Bölge Mahkemesi'ne sunduğu dilekçede, Apple'ın herkesi suçlamaya çalıştığını ama bu anlaşmazlığın yalnızca Apple'dan kaynaklanan bir karmaşadan ibaret olduğunu bildirdi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-applein-dava-actigi-openaidan-ilk-aciklama-1739884"
-        },
-        {
-          "title": "Deprem sonrası binanın güvenli olup olmadığını cep telefonuna bildiren cihaza patent alındı",
-          "summary": "Zonguldak Bülent Ecevit Üniversitesi'nde görevli iki akademisyen, sarsıntı sonrası binaların hasar durumunu ve girilip girilemeyeceğini tespit eden 'akıllı hasar tespit sistemi' geliştirerek Türk Patent ve Marka Kurumu'ndan tescil aldı. Taşıyıcı sisteme takılan ve binanın salınımını ölçen cihaz, yapının tehlikede olup olmadığını doğrudan vatandaşın cep telefonuna bildirim olarak iletiyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/deprem-sonrasi-binanin-guvenli-olup-olmadigini-cep-telefonuna-bildiren-cihaza-patent-alindi-43292194"
-        },
-        {
-          "title": "Türkiye, Artemis Anlaşmaları'na katıldı",
-          "summary": "Türkiye, uzayın barışçıl keşfini hedefleyen NASA'nın Artemis Anlaşmaları'na katıldı. Türkiye, NASA'nın Artemis Anlaşmaları'na katıldı. Böylece Türkiye, uzayın barışçıl keşfini hedefleyen çerçeve anlaşmanın 71'inci imzacı ülkesi oldu. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, anlaşmayı Türkiye adına Washington'daki NASA merkezinde düzenlenen törende imzaladı. Bakan Kacır'a Türkiye Uzay Ajansı Başkanı Yusuf Kıraç da eşlik etti.",
-          "source": "https://www.ntv.com.tr/teknoloji/turkiye-artemis-anlasmalarina-katildi-1739800"
         }
       ]
     },
     "saglik": {
-      "text": "Frank çizgisi kalp krizi habercisi mi? 3 seviyede kendini gösteriyor. Doktor açıkladı: Sarımsak, zeytinyağı ve tuzla karıştırın; Beyni çelik gibi güçlendiriyor. Kedilerden kuduz bulaşır mı?. Magnezyum, potasyum, kalsiyum zenginiymiş. Turşu ve konserve kurarken bunu kullanın. Kulak çizgisi kalp krizinin işareti mi? Cem Yılmaz'ın fotoğrafı tartışma yarattı. 67 bin hastada denendi: Yapay zeka kalp hastalığını saniyeler içinde yakaladı. Yeni deneysel ilaç trigliseridi yüzde 80 düşürdü.",
+      "text": "Tek bir tuşla beyne zarar veriyoruz. Hafızayı zayıflatıyor. Frank çizgisi kalp krizi habercisi mi? 3 seviyede kendini gösteriyor. Doktor açıkladı: Sarımsak, zeytinyağı ve tuzla karıştırın; Beyni çelik gibi güçlendiriyor. Kedilerden kuduz bulaşır mı?. Magnezyum, potasyum, kalsiyum zenginiymiş. Turşu ve konserve kurarken bunu kullanın. Kulak çizgisi kalp krizinin işareti mi? Cem Yılmaz'ın fotoğrafı tartışma yarattı. 67 bin hastada denendi: Yapay zeka kalp hastalığını saniyeler içinde yakaladı.",
       "items": [
+        {
+          "title": "Tek bir tuşla beyne zarar veriyoruz. Hafızayı zayıflatıyor",
+          "summary": "ABD'li bilim insanları, akıllı telefonlarla sürekli fotoğraf çekmenin insan hafızası üzerindeki etkisini araştırdı. Yeni bir araştırma, anı kaydetmek amacıyla telefonla sürekli fotoğraf çekmenin veya ekran görüntüsü almanın, o anın beyinde kalıcı bir hatıraya dönüşmesini engellediğini ve hafızayı zayıflattığını ortaya koydu. ABD'de yapılan yeni bir araştırmada akıllı telefonlarla sürekli görsel kaydetmenin insan hafızası üzerindeki etkileri incelendi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-tek-bir-tusla-beyne-zarar-veriyoruz-hafizayi-zayiflatiyor-1740135"
+        },
         {
           "title": "Frank çizgisi kalp krizi habercisi mi? 3 seviyede kendini gösteriyor",
           "summary": "Son günlerin en çok konuşulan sağlık konularından biri olan Frank çizgisinin her zaman koroner arter hastalığı ve kalp krizi habercisi mi? Komedyen Cem Yılmaz'ın kalp krizi geçirmesinin ardından kalp krizi belirtileri ve kalp sağlığı yeniden gündeme geldi. Cem Yılmaz'ın kulağındaki frank çizgisinin kalp krizi ile bağlantısı olup olmadığı ise sanal medyada en sık konuşulan konulardan biriydi. İHA'da yer alan habere göre; Prof. Dr.",
@@ -235,11 +240,6 @@
           "title": "67 bin hastada denendi: Yapay zeka kalp hastalığını saniyeler içinde yakaladı",
           "summary": "Milyonlarca hastanın verisiyle eğitilen yapay zeka sistemi, rutin EKG kayıtlarından kalp yetmezliği ve kalp kapağı hastalıklarına ilişkin belirtileri iki saniyeden kısa sürede tespit edebiliyor. Bilim insanları, rutin elektrokardiyografi (EKG) sonuçlarını analiz ederek kalp yetmezliği ve kalp kapağı hastalıklarının belirtilerini iki saniyeden kısa sürede saptayabilen bir yapay zeka sistemi geliştirdi.",
           "source": "https://www.ntv.com.tr/saglik/galeri-67-bin-hastada-denendi-yapay-zeka-kalp-hastaligini-saniyeler-icinde-yakaladi-1739791"
-        },
-        {
-          "title": "Yeni deneysel ilaç trigliseridi yüzde 80 düşürdü",
-          "summary": "Şiddetli trigliserid yüksekliği bulunan hastalarda üç ayda bir uygulanan plozasiran adlı deneysel tedavi, bir yıl sonunda trigliserid seviyelerini yaklaşık yüzde 80 düşürdü. Kandaki trigliserid düzeyi çok yüksek olan ve bu nedenle akut pankreatit riski taşıyan hastalar için geliştirilen yeni bir tedavi, Faz 3 çalışmalarında dikkat çekici sonuçlar verdi.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-yeni-deneysel-ilac-trigliseridi-yuzde-80-dusurdu-1739641"
         }
       ]
     },
