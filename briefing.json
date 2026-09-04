@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-03T16:00:06.607Z",
+  "generatedAt": "2026-09-04T04:00:04.134Z",
   "categories": {
     "gundem": {
-      "text": "TBMM Başkanı Kurtulmuş'tan Çekmeköy eski Belediye Başkanı Eraslan için başsağlığı mesajı. Arif Ahmet Denizolgun'un şüpheli ölümü. Doktoru gözaltına alındı. Bingöl’de otomobil dere yatağına devrildi… Ölü ve yaralılar var. Cumhurbaşkanı Erdoğan'dan Şanlıurfa Milletvekili Önen'in kızı için taziye mesajı. Sarıyer'de 8 kişinin kurtarıldığı yangında can pazarı! \"Söndürmeye çalıştım ama nefes alamadım\". 2 ilde orman yangını: Bolu ve Antalya'da alevlere havadan ve karadan müdahale... Aydın'da çıkan yangın kontrol altında. Marmara'daki gemi kazasında bilirkişi raporu ortaya çıktı.",
+      "text": "Kahramanmaraş okul saldırısı davası başlıyor. Eski bakan Denizolgun'un şüpheli ölümü. Doktoru gözaltına alındı. Servis şoförlerinin kavgasında kan aktı. 1 ölü. İstanbul’da DAEŞ operasyonu: Polise ateş açan şüpheli etkisiz hale getirildi. Düğünde havaya ateş açtı, tutuklandı. Marmara'daki gemi kazasında bilirkişi ön raporu ortaya çıktı. Acı haber... Polis memuru Kaygusuz şehit oldu.",
       "items": [
         {
-          "title": "TBMM Başkanı Kurtulmuş'tan Çekmeköy eski Belediye Başkanı Eraslan için başsağlığı mesajı",
-          "summary": "TBMM Başkanı Numan Kurtulmuş, vefat eden Çekmeköy eski Belediye Başkanı Sıddık Eraslan için taziye mesajı yayımladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-cekmekoy-eski-belediye-baskani-eraslan-icin-bassagligi-mesaji-43295083"
+          "title": "Kahramanmaraş okul saldırısı davası başlıyor",
+          "summary": "Saldırgan İsa Aras Mersinli'nin babası 10 kez ağırlaştırılmış müebbet, annesi 22.5 yıla kadar hapis talebiyle bugün hakim karşısına çıkacak. Kahramanmaraş'ın Onikişubat ilçesindeki Ayser Çalık Ortaokulu'nda 9 öğrenci ve öğretmen Ayla Kara'nın yaşamını yitirdiği silahlı saldırıya ilişkin dava bugün başlıyor. Kahramanmaraş Cumhuriyet Başsavcılığı, saldırgan İsa Aras Mersinli'nin birinci sınıf emniyet müdürü ve polis müfettişi babası Uğur Mersinli ile annesi Peyman Pınar Mersinli hakkında iddianame düzenledi.",
+          "source": "https://www.ntv.com.tr/turkiye/kahramanmaras-okul-saldirisi-davasi-basliyor-1740287"
         },
         {
-          "title": "Arif Ahmet Denizolgun'un şüpheli ölümü. Doktoru gözaltına alındı",
+          "title": "Eski bakan Denizolgun'un şüpheli ölümü. Doktoru gözaltına alındı",
           "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturma sürüyor. Denizolgun'un doktoru 'yalan tanıklık' suçundan gözaltına alındı. Alihan Kuriş soruşturması, eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un dosyasının da yeniden açılmasına neden oldu. Denizolgun, Kuriş'in dayısıydı ve yeğenlerin, eski Bakan'dan kalan gıda şirketini ele geçirmeye çalıştığı ileri sürülüyordu. Soruşturmada Denizolgun'un doktoru N.D. ‘yalan tanıklık’ suçundan gözaltına alındı.",
           "source": "https://www.ntv.com.tr/turkiye/arif-ahmet-denizolgunun-supheli-olumu-doktoru-gozaltina-alindi-1740250"
         },
         {
-          "title": "Bingöl’de otomobil dere yatağına devrildi… Ölü ve yaralılar var",
-          "summary": "BİNGÖL’ün Yedisu ilçesinde dere yatağına devrilen otomobildeki Duliye Zorer hayatını kaybetti, 4 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bingolde-otomobil-dere-yatagina-devrildi-olu-ve-yaralilar-var-43295055"
+          "title": "Servis şoförlerinin kavgasında kan aktı. 1 ölü",
+          "summary": "İstanbul'da tartıştığı meslektaşının silahla vurduğu servis sürücüsü hastanede yaşamını yitirdi. İstanbul'un Arnavutköy ilçesine bağlı Hadımköy Mahallesi'nde iki servis şoförü arasında başlayan tartışma cinayetle bitti. Servis şoförü Özcan K., tartıştığı meslektaşı Mehmet T.'ye silahla 4 el ateş etti. Olay yerine sağlık ve polis ekipleri sevk edildi. Hastaneye kaldırılan Mehmet T. müdahaleye rağmen kurtarılamadı. Kaçan şüpheli Özcan K. ise olayda kullandığı silahla birlikte Haraççı Mahallesi'nde yakalandı.",
+          "source": "https://www.ntv.com.tr/turkiye/servis-soforlerinin-kavgasinda-kan-akti-1-olu-1740284"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan Şanlıurfa Milletvekili Önen'in kızı için taziye mesajı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Şanlıurfa Milletvekili Abdulkadir Emin Önen’in kızı Fatma Zehra Önen'in vefatına ilişkin sanal medya hesabından taziye mesajı yayımladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-sanliurfa-milletvekili-onenin-kizi-icin-taziye-mesaji-43295051"
+          "title": "İstanbul’da DAEŞ operasyonu: Polise ateş açan şüpheli etkisiz hale getirildi",
+          "summary": "İstanbul’da DAEŞ’le bağlantılı olduğu ve saldırı planladığı değerlendirilen şüpheli, polise ateş açması üzerine etkisiz hale getirildi. Olayda bir kişi yaralandı. İstanbul’da terör örgütü DAEŞ’e yönelik operasyonda bir şüpheli etkisiz hale getirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-daes-operasyonu-polise-ates-acan-supheli-etkisiz-hale-getirildi-1740272"
         },
         {
-          "title": "Sarıyer'de 8 kişinin kurtarıldığı yangında can pazarı! \"Söndürmeye çalıştım ama nefes alamadım\"",
-          "summary": "Sarıyer Maden Mahallesi’nde 4 katlı binanın zemin katındaki kurutma makinesinden çıkan dumanlar tüm binayı sararken, üst katlarda mahsur kalan 8 kişi itfaiye merdiveniyle kurtarıldı. Alevlere ilk müdahaleyi yapmaya çalışan Ahmet Uyar, \"Söndürmeye çalıştım ama nefes alamayınca 'Bu iş beni aşıyor' dedim, hemen 112’yi arayıp 'Yangın var' diye bağırdım\" diyerek dehşet anlarını anlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sariyerde-8-kisinin-kurtarildigi-yanginda-can-pazari-sondurmeye-calistim-ama-nefes-alamadim-43294988"
+          "title": "Düğünde havaya ateş açtı, tutuklandı",
+          "summary": "Afyonkarahisar'da düğünde silahla havaya ateş açan şüpheli tutuklandı. Afyonkarahisar Emniyet Müdürlüğü ekipleri, kentte düzenlenen bir düğünde havaya ateş açılması üzerine harekete geçti. Afyonkarahisar Valiliği'nden yapılan açıklamaya göre, düğünde görevli sivil ekiplerin takibi sonucu şüpheli S.Y. yakalandı. Yapılan aramada ruhsatsız tabanca ve 6 boş kovan ele geçirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/dugunde-havaya-ates-acti-tutuklandi-1740281"
         },
         {
-          "title": "2 ilde orman yangını: Bolu ve Antalya'da alevlere havadan ve karadan müdahale... Aydın'da çıkan yangın kontrol altında",
-          "summary": "Bolu’nun Gerede ilçesinde ve Antalya'nın Manavgat ilçesinde çıkan yangınlara havadan ve karadan müdahale sürüyor. Bolu'da tarladan ormana sıçrayan anız yangınına 2 helikopter yönlendirildi. Manavgat'ta onlarca arazöz, uçak ve helikopter ile ekipler alevleri kontrol altına almak için seferber oldu. Öte yandan Aydın’ın Çine ilçesinde çıkan yangın kontrol altına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/aydinda-orman-yangini-mudahale-ediliyor-43294993"
-        },
-        {
-          "title": "Marmara'daki gemi kazasında bilirkişi raporu ortaya çıktı",
-          "summary": "Silivri açıklarında Tuğberk İmamoğlu ile Alsu isimli gemilerin çarpışmasının ardından bilirkişi raporu ortaya çıktı. Dümende tecrübesiz 3. kaptanın olduğu, kaptanın kamarasında uyuduğu bildirildi. Kocaeli'den Aliağa'ya seyreden boş durumdaki Alsu isimli tanker ile İskenderun'dan Karadeniz Ereğli'ye 4 bin 199 ton rulo sac taşıyan Tuğberk İmamoğlu isimli kuru yük gemisi dün saat 03.00 sıralarında Silivri açıklarının 18 mil (35 kilometre) güneyinde çarpıştı.",
+          "title": "Marmara'daki gemi kazasında bilirkişi ön raporu ortaya çıktı",
+          "summary": "Silivri açıklarında Tuğberk İmamoğlu ile Alsu isimli gemilerin çarpışmasının ardından bilirkişi ön raporu ortaya çıktı. Dümende tecrübesiz 3. kaptanın olduğu, kaptanın kamarasında uyuduğu bildirildi. Kocaeli'den Aliağa'ya seyreden boş durumdaki Alsu isimli tanker ile İskenderun'dan Karadeniz Ereğli'ye 4 bin 199 ton rulo sac taşıyan Tuğberk İmamoğlu isimli kuru yük gemisi önceki gün sabaha karşı saat 03.00 sıralarında Silivri açıklarının 18 mil (35 kilometre) güneyinde çarpıştı.",
           "source": "https://www.ntv.com.tr/turkiye/galeri-marmaradaki-gemi-kazasinda-bilirkisi-raporu-ortaya-cikti-1740245"
+        },
+        {
+          "title": "Acı haber... Polis memuru Kaygusuz şehit oldu",
+          "summary": "İÇİŞLERİ Bakanı Mustafa Çiftçi, Şırnak'ta görevi başındayken trafik kazasında yaralanan polis memuru Melih Kaygusuz'un şehit olduğunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/aci-haber-polis-memuru-kaygusuz-sehit-oldu-43295321"
         }
       ]
     },
     "dunya": {
-      "text": "Nvidia’dan yeni hamle: Yapay zeka şirketi Hugging Face'i satın alıyor. Dışişleri Bakanlığı'ndan AB'ye Kıbrıs tepkisi. MİT Başkanı Kalın, Yunan mevkidaşı Demiris ile görüştü. Nijerya'da bir bina yerle bir oldu: 5 kişi hayatını kaybetti. Gazze soykırımında yeni perde: Etnik temizlik hazırlığı. İran'dan kilit önemdeki iki üsse 'Yıldırım' operasyonu! İsrail'den 'büyük savaş' tehdidi. Plastiğe karşı koyun yünü. İsviçre'de eriyen buzullar için yeni umut.",
+      "text": "ABD Gizli Servisi, güvenlik politikalarını yıllardır güncellememiş. Nijerya'da petrol hırsızlığı. Ölü sayısı 43'e çıktı. ABD ordusu, Doğu Pasifik'te kartellere ait bir tekneyi daha batırdı. Trump: İran ekonomisi çöküyor. Berlin-Brandenburg Havalimanı'nda tehlikeli madde alarmı. Volkswagen, 50 bin kişiyi işten çıkarma kararı aldı. ABD Başkan Yardımcısı Vance, İran konusunda \"tüm seçeneklerin\" masada olduğunu söyledi.",
       "items": [
         {
-          "title": "Nvidia’dan yeni hamle: Yapay zeka şirketi Hugging Face'i satın alıyor",
-          "summary": "Nvidia, yapay zeka geliştirme platformu Hugging Face'i 12,93 milyar dolara satın almak üzere anlaşmaya vardığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/nvidiadan-yeni-hamle-yapay-zeka-sirketi-hugging-facei-satin-aliyor-43295061"
+          "title": "ABD Gizli Servisi, güvenlik politikalarını yıllardır güncellememiş",
+          "summary": "Başkan Donald Trump'a yönelik suikast girişimleri de dahil olaylara rağmen, Amerikan Gizli Servisi'nin bazı güvenlik politikalarını 1991'den bu yana güncellemediği ortaya çıktı. ABD Hükümet Hesap Verebilirlik Ofisi'nin yayımladığı rapor, Gizli Servis skandalını gözler önüne serdi. Raporda Gizli Servis'in, ABD Başkanı ve yurtdışına seyahat eden diğer yetkilileri korumaya yönelik protokolleri 1991'den bu yana değiştirmediği belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-gizli-servisi-guvenlik-politikalarini-yillardir-guncellememis-1740285"
         },
         {
-          "title": "Dışişleri Bakanlığı'ndan AB'ye Kıbrıs tepkisi",
-          "summary": "AB kurumlarının, Kıbrıs meselesinin çözümüne katkı sunmak yerine, tarafsızlık ve adalet ilkelerinden uzaklaşarak Rum tarafının propagandasına alet olması, toplumlar arası güveni daha da zedelemektedir.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakanligindan-abye-sert-tepki-43295042"
+          "title": "Nijerya'da petrol hırsızlığı. Ölü sayısı 43'e çıktı",
+          "summary": "Nijerya'da petrol hırsızlığı girişimi sırasında zehirli gaz soluyarak ölenlerin sayısı 43'e yükseldi. Nijerya'nın petrol zengini Rivers eyaletindeki Okari İskelesi'nde gece saatlerinde çok sayıda genç petrol hırsızlığı girişiminde bulunduğu sırada zehirli gaz sızıntısı meydana geldi. Ulusal basında yer alan haberlerde, eyaletin Okrika Yerel Yönetim Bölgesi'ndeki olayda çok sayıda genç öldü. Baygınlık geçiren bazı kişiler nehre düşerek kaybolurken, çok sayıda genç ise solunum güçlüğü nedeniyle hastaneye kaldırıldı.",
+          "source": "https://www.ntv.com.tr/dunya/nijeryada-petrol-hirsizligi-olu-sayisi-43e-cikti-1740283"
         },
         {
-          "title": "MİT Başkanı Kalın, Yunan mevkidaşı Demiris ile görüştü",
-          "summary": "Yunanistan'ın başkenti Atina'ya giden Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Yunanistan Ulusal İstihbarat Teşkilatı (EYP) Başkanı Themistoklis Demiris ile bir araya geldi. İki isim, servislerin bölgesel konulardaki işbirliğini güçlendirme konusunda mutabık kaldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/mit-baskani-kalin-yunan-mevkidasi-demiris-ile-gorustu-43295001"
+          "title": "ABD ordusu, Doğu Pasifik'te kartellere ait bir tekneyi daha batırdı",
+          "summary": "ABD Güney Komutanlığı (SOUTHCOM), Ekvador hükümeti iş birliğiyle gerçekleştirilen yeni bir operasyonla Doğu Pasifik'teki uluslararası sularda seyreden ve Los Choneros karteli tarafından yakıt ikmal istasyonu olarak kullanılan bir teknenin daha batırıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ordusu-dogu-pasifikte-kartellere-ait-bir-tekneyi-daha-batirdi-43295326"
         },
         {
-          "title": "Nijerya'da bir bina yerle bir oldu: 5 kişi hayatını kaybetti",
-          "summary": "Nijerya'nın Kwara eyaletinde bir binanın çöktüğü bildirildi. Binanın enkazı altında kalan 5 kişi yaşamını yitirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/nijeryada-bir-bina-yerle-bir-oldu-5-kisi-hayatini-kaybetti-43294996"
+          "title": "Trump: İran ekonomisi çöküyor",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı üzerinde muazzam bir denetime sahip olduklarını belirterek, \"Gecede 30-40 tekneyi saf dışı bırakıyoruz ve boğazdan yüklü miktarda petrol çıkıyor. Dolayısıyla Hürmüz Boğazı'nı kontrol ediyoruz ve İran ekonomisi çöküyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-iran-ekonomisi-cokuyor-43295325"
         },
         {
-          "title": "Gazze soykırımında yeni perde: Etnik temizlik hazırlığı",
-          "summary": "Gazze'de işgal ve soykırım suçu işleyen İsrail, bölgede gerilimi zirveye çıkaracak yeni bir hamleye hazırlanıyor. İsrail basını, aşırı sağıcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir'in Gazze'de etnik temizlik planı için harekete geçtiğini bildirdi. Gazze'nin işgalini kalıcı hale getirmeyi amaçlayan planın, 1 milyon 860 bin insanın 7 yıl içinde topraklarından sürgün edilmesini öngördüğü kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/gazze-soykiriminda-yeni-perde-etnik-temizlik-hazirligi-43294972"
+          "title": "Berlin-Brandenburg Havalimanı'nda tehlikeli madde alarmı",
+          "summary": "Almanya'nın başkenti Berlin yakınlarındaki Berlin-Brandenburg Havalimanı'nda​​ \"tehlikeli madde alarmı\" verildi, Terminal 1 binası boşaltıldı. Alman Haber Ajansı'nın (DPA) Federal Polis Sözcüsü'ne dayandırdığı habere göre bir kadın polis noktasına giderek üzerinde zehirli madde bulunduğunu söyledi. Bunun üzerine polis, Terminal 1 binasının tahliye edilmesini istedi. Sözcü, ne olduğu belirsiz maddenin tehlike oluşturma ihtimali göz ardı edilemeyeceği için \"tehlikeli madde alarmı\" verildiğini ifade etti.",
+          "source": "https://www.ntv.com.tr/dunya/berlin-brandenburg-havalimaninda-tehlikeli-madde-alarmi-1740279"
         },
         {
-          "title": "İran'dan kilit önemdeki iki üsse 'Yıldırım' operasyonu! İsrail'den 'büyük savaş' tehdidi",
-          "summary": "İran, \"Yıldırım\" operasyonları kapsamında ABD'nin askeri üslerini hedef aldığını açıklayarak, saldırıda ABD ordusu için kilit önemdeki noktaların hedef alındığını bildirdi. Lübnan'da işgal harekatına devam etmeye kararlı olduğunu belirten Tel Aviv yönetimi, İran'ın olası bir misillemesine ölümcül yanıt vereceğini duyurdu. İsrail Savunma Bakanı Yisrael Katz, İran'ın İsrail'i hedef alması durumunda hiçbir kısıtlamaya uymayacaklarını belirterek, ülkeyi \"Taş Devri'ne gönderme\" tehdidinde bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-kilit-onemdeki-iki-usse-yildirim-operasyonu-israilden-buyuk-savas-tehdidi-43294904"
+          "title": "Volkswagen, 50 bin kişiyi işten çıkarma kararı aldı",
+          "summary": "Volkswagen Denetleme Kurulu, şirketin rekabet gücünü artırmak ve maliyetleri düşürmek adına 50 bin kişinin daha işten çıkarılmasını öngören kapsamlı revizyon planına onay verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/volkswagen-50-bin-kisiyi-isten-cikarma-karari-aldi-43295322"
         },
         {
-          "title": "Plastiğe karşı koyun yünü. İsviçre'de eriyen buzullar için yeni umut",
-          "summary": "İsviçreli araştırmacılar, Alpler'deki buzulların erimesini yavaşlatmak amacıyla plastik örtüler yerine koyun yünü kullanılan deneysel bir proje başlattı. İsviçre buzulların küresel ısınma nedeniyle erimesini durdurmakta güçlük çekerken, Alpler'deki araştırmacılar ülkenin en az değerlendirilen doğal kaynaklarından biri olan koyun yününün bu süreçte bir çözüm sunup sunamayacağını test ediyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-plastige-karsi-koyun-yunu-isvicrede-eriyen-buzullar-icin-yeni-umut-1740235"
+          "title": "ABD Başkan Yardımcısı Vance, İran konusunda \"tüm seçeneklerin\" masada olduğunu söyledi",
+          "summary": "ABD Başkan Yardımcısı JD Vance, İran konusunda askeri, ekonomik ve diplomatik \"tüm seçeneklerin\" masada olduğunu, Tahran'la \"süresiz bir savaş\" peşinde olmadıklarını belirtti. ABD Başkan Yardımcısı Vance, Beyaz Saray'da düzenlediği basın toplantısında, gündeme ilişkin soruları yanıtladı. ABD'de ve uluslararası piyasalarda petrol fiyatlarının yüksek olmasından dolayı İran'ı suçlayan Vance, İran ordusunun Hürmüz Boğazı'ndan geçen petrol tankerlerine ateş açmayı bırakması gerektiğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-baskan-yardimcisi-vance-iran-konusunda-tum-seceneklerin-masada-oldugunu-soyledi-1740276"
         }
       ]
     },
@@ -124,50 +124,55 @@
       ]
     },
     "spor": {
-      "text": "Trabzonspor'dan sakatlık açıklaması: Noah Saviolo. Mohamed Salah'tan Trabzonspor ve transfer itirafı!. Beşiktaş'ta ayrılık! Süper Lig ekibine kiralandı. Beşiktaş'ın yeni transferi Ümit Akdağ İstanbul'da!. Halil Umut Meler, 4. kez Fenerbahçe - Beşiktaş derbisi yönetecek. Beşiktaş'tan sürpriz orta saha hamlesi! Teklif belli oldu. Trabzonspor’da Batista Mendy gelişmesi.",
+      "text": "Beşiktaş'ın UEFA Avrupa Ligi, Trabzonspor'un Konferans Ligi kadroları belli oldu!. Fenerbahçe, Anderson Talisca'nın ayrılığını resmen açıkladı!. Galatasaray ve Fenerbahçe'nin UEFA Şampiyonlar Ligi kadroları belli oldu!. Bursaspor, İstanbulspor engelini 4 golle geçti!. Daniele Santarelli: 'Herkesi yenebiliriz'. Marco Asensio iddialara bizzat yanıt verdi: 'Çok yakında dönüyorum'. Gençlerbirliği, Orakpo'yu kadrosuna kattı!.",
       "items": [
         {
-          "title": "Trabzonspor'dan sakatlık açıklaması: Noah Saviolo",
-          "summary": "Trabzonspor’da Amed SF karşılaşmasında sakatlanarak oyundan çıkan Noah Saviolo’nun sağ omzunda yaralanmaya bağlı kanama ve kemik ödemi tespit edildi",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-sakatlik-aciklamasi-noah-saviolo-43295082"
+          "title": "Beşiktaş'ın UEFA Avrupa Ligi, Trabzonspor'un Konferans Ligi kadroları belli oldu!",
+          "summary": "Beşiktaş'ın UEFA Avrupa Ligi lig aşamasında mücadele edeceği kadro belli oldu. Trabzonspor'un da Konferans Ligi için UEFA'ya bildirdiği liste açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-uefa-avrupa-ligi-trabzonsporun-konferans-ligi-kadrolari-belli-oldu-43295271"
         },
         {
-          "title": "Mohamed Salah'tan Trabzonspor ve transfer itirafı!",
-          "summary": "Trabzonspor'un yeni yıldızı Mohamed Salah, bordo-mavili kulübün sosyal medya hesabına çarpıcı açıklamalar yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mohamed-salahtan-trabzonspor-ve-transfer-itirafi-43295076"
+          "title": "Fenerbahçe, Anderson Talisca'nın ayrılığını resmen açıkladı!",
+          "summary": "Fenerbahçe, Anderson Talisca'nın sözleşmesinin karşılıklı anlaşılarak feshedildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-anderson-taliscanin-ayriligini-resmen-acikladi-43295224"
         },
         {
-          "title": "Beşiktaş'ta ayrılık! Süper Lig ekibine kiralandı",
-          "summary": "Beşiktaş'ın genç golcüsü Mustafa Erhan Hekimoğlu, Süper Lig ekiplerinden Samsunspor'a kiralandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-ayrilik-super-lig-ekibine-kiralandi-43295029"
+          "title": "Galatasaray ve Fenerbahçe'nin UEFA Şampiyonlar Ligi kadroları belli oldu!",
+          "summary": "Galatasaray ve Fenerbahçe, UEFA Şampiyonlar Ligi'nde mücadele edecek kadrosunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ve-fenerbahcenin-uefa-sampiyonlar-ligi-kadrolari-belli-oldu-43295118"
         },
         {
-          "title": "Beşiktaş'ın yeni transferi Ümit Akdağ İstanbul'da!",
-          "summary": "Beşiktaş'ın Alanyaspor'dan kadrosuna kattığı Ümit Akdağ, İstanbul'a geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-yeni-transferi-umit-akdag-istanbulda-43295002"
+          "title": "Bursaspor, İstanbulspor engelini 4 golle geçti!",
+          "summary": "Bursaspor, Trendyol 1. Lig'in 3. haftasında sahasında konuk ettiği İstanbulspor'u 4-0 mağlup ederek puanını 12'ye yükseltti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursaspor-istanbulspor-engelini-4-golle-gecti-43295215"
         },
         {
-          "title": "Halil Umut Meler, 4. kez Fenerbahçe - Beşiktaş derbisi yönetecek",
-          "summary": "FIFA kokartlı hakem Halil Umut Meler, kariyerinde 4. kez Fenerbahçe - Beşiktaş derbisinde düdük çalacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/halil-umut-meler-4-kez-fenerbahce-besiktas-derbisi-yonetecek-43294978"
+          "title": "Daniele Santarelli: 'Herkesi yenebiliriz'",
+          "summary": "A Milli Kadın Voleybol Takımı Başantrenörü Daniele Santarelli, en iyi oyunlarını oynamaya devam ettikleri takdirde herkesi yenebileceklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-herkesi-yenebiliriz-43295211"
         },
         {
-          "title": "Beşiktaş'tan sürpriz orta saha hamlesi! Teklif belli oldu",
-          "summary": "Transfer dönemi sona ermeden önce orta sahasına bir takviye yapmak isteyen Beşiktaş, aradığı ismi Brezilya'da buldu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-surpriz-orta-saha-hamlesi-teklif-belli-oldu-43294878"
+          "title": "Marco Asensio iddialara bizzat yanıt verdi: 'Çok yakında dönüyorum'",
+          "summary": "Fenerbahçe'nin İspanyol yıldızı Marco Asensio, sakatlığı hakkında konuştu ve ameliyat olacağı yönündeki iddialara yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/marco-asensio-iddialara-bizzat-yanit-verdi-cok-yakinda-donuyorum-43295198"
         },
         {
-          "title": "Trabzonspor’da Batista Mendy gelişmesi",
-          "summary": "Trabzonspor'da Batista Mendy için flaş bir transfer iddiası ortaya atıldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-batista-mendy-gelismesi-43294631"
+          "title": "Gençlerbirliği, Orakpo'yu kadrosuna kattı!",
+          "summary": "Gençlerbirliği, 20 yaşındaki santrfor Victor Orakpo'yu kiralık olarak kadrosuna kattığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-orakpoyu-kadrosuna-katti-43295155"
         }
       ]
     },
     "teknoloji": {
-      "text": "ChatGPT çöktü. Dünya genelinde erişim sorunu yaşandı. Müşteri robotu itti, robot tekme tokat saldırdı. Milyonlarca cep telefonu kapanacak. Sadece birkaç gününüz kaldı. Tam 8 yıldır yoldaydı, zorlu görev başlıyor. Merkür'ün gizemlerini çözecek. GTA 6 hileleri neler olacak? Merakla bekleniyor. Apple'da Tim Cook devri sona erdi. Yeni CEO belli oldu. Türk öğrencileri ve ailelerini dijital ağda buluşturdu, Avrupa’da büyümeyi hedefledi.",
+      "text": "OpenAI yeni modeli GPT-6 Astra’yı tanıttı. ChatGPT, Claude ve Grok kullanıcıları erişim sorunu yaşadı. Müşteri robotu itti, robot tekme tokat saldırdı. Milyonlarca cep telefonu kapanacak. Sadece birkaç gününüz kaldı. Tam 8 yıldır yoldaydı, zorlu görev başlıyor. Merkür'ün gizemlerini çözecek. GTA 6 hileleri neler olacak? Merakla bekleniyor. Apple'da Tim Cook devri sona erdi. Yeni CEO belli oldu.",
       "items": [
         {
-          "title": "ChatGPT çöktü. Dünya genelinde erişim sorunu yaşandı",
+          "title": "OpenAI yeni modeli GPT-6 Astra’yı tanıttı",
+          "summary": "OpenAI, şimdiye kadarki en hızlı ve yetenekli yapay zeka modeli olarak tanımladığı GPT-6 Astra’yı duyurdu. OpenAI, perşembe günü GPT-6 Astra adını verdiği yeni yapay zeka modelini tanıttı. Şirket, Astra’nın bugüne kadar geliştirdiği en yetenekli model olduğunu belirtirken, modelin insan gözetiminden kaçınmaya yönelik davranışlar gösterebildiği konusunda da uyardı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-openai-yeni-modeli-gpt-6-astrayi-tanitti-1740277"
+        },
+        {
+          "title": "ChatGPT, Claude ve Grok kullanıcıları erişim sorunu yaşadı",
           "summary": "OpenAI’nin ChatGPT’si, Anthropic’in Claude’u ve xAI’ın Grok’u da dahil olmak üzere birçok büyük yapay zeka platformunda geçici hizmet kesintileri yaşandı. Milyonlarca kullanıcının erişim sağlayamadığı bu kesinti sırasında, OpenAI'ın sohbet botunu ziyaret edenler sıra dışı hatalarla karşılaştı. Bazı kullanıcılar sitenin arka planda şüpheli veya alışılmadık bir dosya indirmeye çalıştığını bildirirken, sistemdeki bu anormal durum sosyal medyada geniş yankı uyandırdı.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-chatgpt-coktu-dunya-genelinde-erisim-sorunu-yasaniyor-1740251"
         },
@@ -195,17 +200,17 @@
           "title": "Apple'da Tim Cook devri sona erdi. Yeni CEO belli oldu",
           "summary": "Apple'da 15 yıllık Tim Cook döneminin ardından CEO koltuğuna şirketin donanım mühendisliğinden sorumlu kıdemli başkan yardımcısı John Ternus oturdu. ABD merkezli teknoloji devi Apple'da üst düzey yönetim değişimi gerçekleşti. Şirkette 15 yıldır CEO olarak görev yapan Tim Cook'un görevden ayrılmasıyla boşalan koltuğa John Ternus geçti. Böylece tedarik zincirini inşa eden operasyon uzmanı Cook'un yerini, donanım mimarisini yöneten mühendis kökenli Ternus almış oldu.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-appleda-tim-cook-devri-sona-erdi-yeni-ceo-belli-oldu-1739993"
-        },
-        {
-          "title": "Türk öğrencileri ve ailelerini dijital ağda buluşturdu, Avrupa’da büyümeyi hedefledi",
-          "summary": "Yurt dışında üniversite eğitimi planlayan ve eğitim gören Türk öğrencilerin bilgiye erişim, sosyal uyum ve güven sorunlarına çözüm sunmak amacıyla geliştirilen Yurt Dışı Türk Birliği, doğrulanmış üyelik modeliyle öğrencileri ve ailelerini güvenilir bilgi ve deneyim paylaşımı etrafında buluşturuyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/turk-ogrencileri-ve-ailelerini-dijital-agda-bulusturdu-avrupada-buyumeyi-hedefledi-43293317"
         }
       ]
     },
     "saglik": {
-      "text": "Tek bir tuşla beyne zarar veriyoruz. Hafızayı zayıflatıyor. Frank çizgisi kalp krizi habercisi mi? 3 seviyede kendini gösteriyor. Doktor açıkladı: Sarımsak, zeytinyağı ve tuzla karıştırın; Beyni çelik gibi güçlendiriyor. Kedilerden kuduz bulaşır mı?. Magnezyum, potasyum, kalsiyum zenginiymiş. Turşu ve konserve kurarken bunu kullanın. Kulak çizgisi kalp krizinin işareti mi? Cem Yılmaz'ın fotoğrafı tartışma yarattı. 67 bin hastada denendi: Yapay zeka kalp hastalığını saniyeler içinde yakaladı.",
+      "text": "Bilim insanlarından içki uyarısı: 10 kanser türüyle bağlantısı incelendi. Tek bir tuşla beyne zarar veriyoruz. Hafızayı zayıflatıyor. Frank çizgisi kalp krizi habercisi mi? 3 seviyede kendini gösteriyor. Doktor açıkladı: Sarımsak, zeytinyağı ve tuzla karıştırın; Beyni çelik gibi güçlendiriyor. Kedilerden kuduz bulaşır mı?. Magnezyum, potasyum, kalsiyum zenginiymiş. Turşu ve konserve kurarken bunu kullanın. Kulak çizgisi kalp krizinin işareti mi? Cem Yılmaz'ın fotoğrafı tartışma yarattı.",
       "items": [
+        {
+          "title": "Bilim insanlarından içki uyarısı: 10 kanser türüyle bağlantısı incelendi",
+          "summary": "ABD’de yapılan yeni bir araştırma, içkinin çok sayıda kanser türüne bağlı ölümlerde sanılandan daha büyük rol oynayabileceğini ortaya koydu. Araştırmanın başyazarı Dr. Chinmay Jani, genel olarak kansere bağlı ölüm oranlarının azalmasına rağmen, 20 yaş ve üzerindeki kişilerde alkole bağlanabilen kanser ölümlerinin toplam kanser ölümleri içindeki payının son 33 yılda iki katına çıktığını söyledi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-bilim-insanlarindan-icki-uyarisi-10-kanser-turuyle-baglantisi-incelendi-1740257"
+        },
         {
           "title": "Tek bir tuşla beyne zarar veriyoruz. Hafızayı zayıflatıyor",
           "summary": "ABD'li bilim insanları, akıllı telefonlarla sürekli fotoğraf çekmenin insan hafızası üzerindeki etkisini araştırdı. Yeni bir araştırma, anı kaydetmek amacıyla telefonla sürekli fotoğraf çekmenin veya ekran görüntüsü almanın, o anın beyinde kalıcı bir hatıraya dönüşmesini engellediğini ve hafızayı zayıflattığını ortaya koydu. ABD'de yapılan yeni bir araştırmada akıllı telefonlarla sürekli görsel kaydetmenin insan hafızası üzerindeki etkileri incelendi.",
@@ -235,11 +240,6 @@
           "title": "Kulak çizgisi kalp krizinin işareti mi? Cem Yılmaz'ın fotoğrafı tartışma yarattı",
           "summary": "Kalp krizi geçiren Cem Yılmaz'ın paylaştığı fotoğraf, sosyal medyada \"kulak memesindeki çizgi\" tartışmasını başlattı. Komedyen Cem Yılmaz, geçtiğimiz günlerde geçirdiği kalp krizinin ardından hastaneye kaldırılmış ve anjiyo yapılmıştı. Tedavisinin ardından da taburcu edilmişti. Cem Yılmaz'ın geçirdiği kalp krizinden sonra hastane odasından yaptığı teşekkür paylaşımı, başka bir tartışmanın fitilini ateşledi. Fotoğraf sosyal medyada \"kulak memesindeki çizgi\" tartışması başlattı.",
           "source": "https://www.ntv.com.tr/saglik/galeri-kulak-cizgisi-kalp-krizinin-isareti-mi-cem-yilmazin-fotografi-tartisma-yaratti-1739795"
-        },
-        {
-          "title": "67 bin hastada denendi: Yapay zeka kalp hastalığını saniyeler içinde yakaladı",
-          "summary": "Milyonlarca hastanın verisiyle eğitilen yapay zeka sistemi, rutin EKG kayıtlarından kalp yetmezliği ve kalp kapağı hastalıklarına ilişkin belirtileri iki saniyeden kısa sürede tespit edebiliyor. Bilim insanları, rutin elektrokardiyografi (EKG) sonuçlarını analiz ederek kalp yetmezliği ve kalp kapağı hastalıklarının belirtilerini iki saniyeden kısa sürede saptayabilen bir yapay zeka sistemi geliştirdi.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-67-bin-hastada-denendi-yapay-zeka-kalp-hastaligini-saniyeler-icinde-yakaladi-1739791"
         }
       ]
     },
