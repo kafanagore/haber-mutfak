@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-04T16:00:04.610Z",
+  "generatedAt": "2026-09-05T04:00:04.553Z",
   "categories": {
     "gundem": {
-      "text": "Midelerinden uyuşturucuyla yakalanan 2 şüpheli tutuklandı. Bolu Belediyesinde \"araç kiralama ihalelerinde usulsüzlük\" iddiasıyla 7 zanlıya tutuklama talebi. Cumhurbaşkanı Erdoğan, Zehra Önen'in cenaze törenine katıldı. 17 yıllık cinayet zincirinde seri katil detayı: Polis akrabalık bağını araştırıyor. Cumhurbaşkanı Erdoğan, AK Partili vekilin kızının cenazesine katıldı. Girne açıklarında batan gemiye ilişkin arama kurtarma faaliyeti yürüten komutanlardan açıklama. Tuğberk İmamoğlu isimli geminin yeri belirlendi | Tutuklanan kaptanların ifadeleri ortaya çıktı.",
+      "text": "Okul katliamında babadan pes dedirten savunma: Silahımı çaldı, oğlumdan şikayetçiyim. Ceza yazan meslektaşını vurdu; polis şehit oldu. 12 ülkeye büyükelçi atandı. Sayıştay Başsavcılığına Recep Çevik atandı. Bakanlık duyurdu… Petrol yüklü tanker, Marmara Adası açıklarında sürüklendi. Resmi Gazete'de yayımlandı... Kamu kurumlarına önemli atamalar ve görevden almalar. Korsan taksici emekli başpolis, ceza yazan polise ateş açtı. 1 şehit.",
       "items": [
         {
-          "title": "Midelerinden uyuşturucuyla yakalanan 2 şüpheli tutuklandı",
-          "summary": "DİYARBAKIR’da polisin yaptığı operasyonda gözaltına alınan ve kapsüller halinde toplamda 780 gram metamfetamini yutarak midelerinde taşıdığı belirlenen yabancı uyruklu 2 şüpheli, çıkarıldıkları mahkemede tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/midelerinden-uyusturucuyla-yakalanan-2-supheli-tutuklandi-43296327"
+          "title": "Okul katliamında babadan pes dedirten savunma: Silahımı çaldı, oğlumdan şikayetçiyim",
+          "summary": "Kahramanmaraş'ta 1 öğretmen ve 9 öğrenciyi katleden İsa Aras Mersinli'nin tutuklu babası babası ve annesi dün ilk kez hâkim karşısına çıktı. Polis başmüfettişi olan baba Uğur Mersinli savunmasında, failin oğlu olduğunu söyleyerek, \"Bana değil ona dava açılmalı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/okul-katliaminda-babadan-pes-dedirten-savunma-silahimi-caldi-oglumdan-sikayetciyim-43296621"
         },
         {
-          "title": "Bolu Belediyesinde \"araç kiralama ihalelerinde usulsüzlük\" iddiasıyla 7 zanlıya tutuklama talebi",
-          "summary": "Bolu Belediyesinde araç kiralama ihalelerinde usulsüzlük yapıldığı iddiasıyla yürütülen soruşturma kapsamında gözaltına alınan zanlılardan 7'si tutuklama talebiyle mahkemeye sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bolu-belediyesinde-arac-kiralama-ihalelerinde-usulsuzluk-iddiasiyla-7-zanliya-tutuklama-talebi-43296312"
+          "title": "Ceza yazan meslektaşını vurdu; polis şehit oldu",
+          "summary": "ESENYURT’ta denetim yapan sivil trafik polislerinin durdurduğu korsan taksici Ekrem A.., hakkında işlem yapılmasının ardından trafik polisi Mehmet Ali Topatan’ı silahla vurduktan sonra aynı silahla kendi vurdu. Ağır yaralı olarak hastaneye kaldırılan ve emekli başpolis olduğu öğrenilen Ekrem A. hastanede hayatını kaybederken, ağır yaralı trafik polisi Mehmet Ali Topatan ise hastanede yapılan tüm müdahalelere rağmen şehit oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/ceza-yazan-meslektasini-vurdu-polis-sehit-oldu-43296618"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Zehra Önen'in cenaze törenine katıldı",
-          "summary": "Cumhurbaşkanı Erdoğan, AK Parti Milletvekili Abdulkadir Emin Önen'in hayatını kaybeden kızı Zehra Önen'in cenazesine katıldı. Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Şanlıurfa Milletvekili Abdulkadir Emin Önen'in hayatını kaybeden kızı Fatma Zehra Önen için İstanbul Barbaros Hayrettin Paşa Camii'nde düzenlenen cenaze törenine katıldı. Cenaze namazına MİT Başkanı İbrahim Kalın, bakanlar ve çok sayıda siyasetçi ile kızın ailesi, sevenleri katıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-cumhurbaskani-erdogan-zehra-onenin-cenaze-torenine-katildi-1740395"
+          "title": "12 ülkeye büyükelçi atandı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yapılan büyükelçi atamalarına ilişkin kararlar, Resmi Gazete'de yayımlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/12-ulkeye-buyukelci-atandi-43296617"
         },
         {
-          "title": "17 yıllık cinayet zincirinde seri katil detayı: Polis akrabalık bağını araştırıyor",
-          "summary": "İstanbul'da iki sene önce Erva Raziye Asar'ı öldüren Fethi Dağlı'nın, 17 yaşındaki Zeynep Yıldırım'ın da katili olduğu ortaya çıktı. Dağlı'nın geçmişi mercek altında. Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığı koordinesinde yürütülen çalışmalarda yıllardır çözülemeyen üç cinayetin aydıntıldığını duyurdu. Bunlardan biri 12 Eylül 2022'den bu yana kayıp olan Zeynep Yıldırım'ın dosyasıydı. Başkanlığın çalışmaları sonucu yeni bir şüpheliye ulaşıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/17-yillik-cinayet-zincirinde-yeni-soru-isareti-akrabaliklari-var-mi-1740324"
+          "title": "Sayıştay Başsavcılığına Recep Çevik atandı",
+          "summary": "RESMİ Gazete’de yayımlanan Cumhurbaşkanlığı kararıyla Sayıştay Başsavcılığına, Sayıştay Savcısı Recep Çevik atandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sayistay-bassavciligina-recep-cevik-atandi-43296599"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, AK Partili vekilin kızının cenazesine katıldı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Şanlıurfa Milletvekili Abdülkadir Emin Önen'in kızı Zehra Önen'in cenazesine katıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ak-partili-vekilin-kizinin-cenazesine-katildi-43296239"
+          "title": "Bakanlık duyurdu… Petrol yüklü tanker, Marmara Adası açıklarında sürüklendi",
+          "summary": "ULAŞTIRMA ve Altyapı Bakanlığı, Rusya’dan Çin’e seyir hâlindeyken Marmara Adası açıklarında makine arızası nedeniyle sürüklenmeye başlayan ham petrol yüklü Rusya bayraklı Pioner 1 isimli tankerin, yedeklenerek emniyete alındığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakanlik-duyurdu-petrol-yuklu-tanker-marmara-adasi-aciklarinda-suruklendi-43296600"
         },
         {
-          "title": "Girne açıklarında batan gemiye ilişkin arama kurtarma faaliyeti yürüten komutanlardan açıklama",
-          "summary": "Güney Deniz Saha Komutanı Tümamiral Baybars Küçükatay, Girne açıklarında batan gemiye yönelik sürdürülen arama kurtarma çalışmalarının, bölgede bugüne kadar icra edilen en derin sudaki arama kurtarma faaliyeti olarak kayıtlara geçtiğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/gundem/girne-aciklarinda-batan-gemiye-iliskin-arama-kurtarma-faaliyeti-yuruten-komutanlardan-aciklama-43296234"
+          "title": "Resmi Gazete'de yayımlandı... Kamu kurumlarına önemli atamalar ve görevden almalar",
+          "summary": "Bazı bakanlık ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/resmi-gazetede-yayimlandi-kamu-kurumlarina-onemli-atamalar-ve-gorevden-almalar-43296597"
         },
         {
-          "title": "Tuğberk İmamoğlu isimli geminin yeri belirlendi | Tutuklanan kaptanların ifadeleri ortaya çıktı",
-          "summary": "Marmara Denizi'nde meydana gelen kazada batan Tuğberk İmamoğlu isimli geminin yeri tespit edildi. Alsu gemisini tutuklanan kaptanlarının ifadeleri de ortaya çıktı. Marmara Denizi'nde Silivri açıklarında Alsu isimli ticari gemiyle çarpıştıktan sonra batan Tuğberk İmamoğlu gemisini arama kurtarma çalışmaları devam ediyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-tugberk-imamoglu-isimli-geminin-yeri-belirlendi-tutuklanan-kaptanlarin-ifadeleri-ortaya-cikti-1740369"
+          "title": "Korsan taksici emekli başpolis, ceza yazan polise ateş açtı. 1 şehit",
+          "summary": "Esenyurt'ta trafik uygulamasında hakkında işlem yapılan korsan taksici polis ekibine ateş açtıktan sonra intihar etti. Ağır yaralı olarak hastaneye kaldırılan polis memuru şehit oldu. İstanbul Esenyurt'ta trafik uygulaması yapan polis ekibi saldırıya uğradı. Olay gece 22.50 sıralarında Akevler mahallesinde meydana geldi. Fatih Sultan Mehmet Caddesi üzerinde uygulama yapan polis ekibi bir aracı durdurdu. Korsan taksicilik yaptığı belirlenen Ekrem A. isimli sürücü hakkında işlem yapıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-korsan-taksici-emekli-polis-ceza-yazan-polisi-vurdu-1740424"
         }
       ]
     },
     "dunya": {
-      "text": "Bosna Hersek genel seçimi için kampanya dönemi başladı. İsrail'den güney Lübnan'a ağır silahlarla saldırı. Tesla, sürücüsüz taksisini hizmete sundu. Bu plajın anahtarı 400 bin dolar. Bir yıldır bekleyen müşteriler var. Meloni tarihe geçti. Rekorunu 10 bin kişiyle kutlayacak. Raylarda sıkıştı: Yolcu treni TIR'ı paramparça etti. Rusya'dan Ukrayna Güvenlik Servisi binasına İHA saldırısı.",
+      "text": "Yemen ordusu, Husilerin mevzilerini bombaladı. Yemen ordusu Husileri havadan vurdu. Afrika ülkeleri değişsin istiyor… Birleşmiş Milletler’de harita oylaması. Trump: Kazma Dağı'nı çok yakında vurabiliriz. Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile görüştü. Cumhurbaşkanı Erdoğan'dan Meloni'ye tebrik. Bosna Hersek genel seçimi için kampanya dönemi başladı.",
       "items": [
+        {
+          "title": "Yemen ordusu, Husilerin mevzilerini bombaladı",
+          "summary": "Yemen ordusu, ülkenin batısındaki Taiz ve Hudeyde'de Husilere (Ensarullah Hareketi) ait mevzilere hava saldırısı düzenledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yemen-ordusu-husilerin-mevzilerini-bombaladi-43296620"
+        },
+        {
+          "title": "Yemen ordusu Husileri havadan vurdu",
+          "summary": "Yemen ordusuna ait savaş uçakları, ülkenin güneybatısındaki Taiz bölgesinde İran destekli Husilere yönelik hava saldırısı düzenledi. ABD ile İran arasındaki gerilim yeniden tırmanmaya başlarken, Yemen ordusu temmuz ayından bu yana ilk kez Husilerin mevzilerini bombaladı.",
+          "source": "https://www.ntv.com.tr/dunya/yemen-ordusu-husileri-havadan-vurdu-1740430"
+        },
+        {
+          "title": "Afrika ülkeleri değişsin istiyor… Birleşmiş Milletler’de harita oylaması",
+          "summary": "BİRLEŞMİŞ Milletler (BM) Genel Kurulu, Afrika’nın dünya haritalarında gerçek boyutundan küçük gösterilmesine yol açan Mercator projeksiyonunun kullanımından aşamalı olarak vazgeçilmesini öngören tasarıyı oyladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/afrika-ulkeleri-degissin-istiyor-birlesmis-milletlerde-harita-oylamasi-43296613"
+        },
+        {
+          "title": "Trump: Kazma Dağı'nı çok yakında vurabiliriz",
+          "summary": "ABD Başkanı Trump, İran'da \"Kazma Dağı\" olarak bilinen bölgeyi çok yakında vurabileceklerini söyledi. ABD Başkanı Donald Trump, İran'a yeni bir tehditte bulundu. İran’ın Natanz yakınlarında inşa ettiği belirtilen yer altındaki nükleer tesisi yeniden hedef gösteren Trump, “Kazma Dağı” olarak bilinen bölgenin çok yakında ve ağır biçimde vurulabileceğini söyledi. Trump, Hürmüz Boğazı ve etrafındaki gelişmeleri çok yakından takip ettiklerini vurgulayarak, Kazma Dağı civarındaki hareketliliği izlediklerini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/trump-kazma-dagini-cok-yakinda-vurabiliriz-1740414"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile görüştü",
+          "summary": "Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile telefonda görüştü. Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Arap Emirlikleri Devlet Başkanı Şeyh Muhammed bin Zayed Al Nahyan ile bir telefon görüşmesi gerçekleştirdi. Görüşmede, Türkiye ile Birleşik Arap Emirlikleri ikili ilişkileri, bölgesel ve küresel konular ele alındı.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-bae-devlet-baskani-al-nahyan-ile-gorustu-1740411"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan Meloni'ye tebrik",
+          "summary": "Cumhurbaşkanı Erdoğan, İtalya Başbakanı Meloni'yi ülkesinin \"en uzun süre görevde kalan başbakanı\" olduğu için tebrik etti. Cumhurbaşkanı Recep Tayyip Erdoğan, ülkesinin \"en uzun süre görevde kalan başbakanı\" ünvanını elde eden İtalya Başbakanı Giorgia Meloni'yi tebrik etti. Cumhurbaşkanı Erdoğan, sosyal medya hesabından yaptığı paylaşımda, şunları söyledi: \"İtalya Cumhuriyeti'nin 'en uzun süre görevde kalan başbakanı' ünvanını elde eden Sayın Giorgia Meloni'yi yürekten tebrik ediyorum.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogandan-meloniye-tebrik-1740400"
+        },
         {
           "title": "Bosna Hersek genel seçimi için kampanya dönemi başladı",
           "summary": "Bosna Hersek'te 4 Ekim'de yapılacak genel seçim için siyasi partiler ve adaylar için kampanya dönemi başladı. Üç milyonu aşkın seçmenin oy kullanacağı seçimde Bosna Hersek Devlet Başkanlığı Konseyi'ne katılmak için 10 aday, Sırp Cumhuriyeti (RS) başkanlığı için ise 12 aday yarışacak.",
           "source": "https://www.hurriyet.com.tr/dunya/bosna-hersek-genel-secimi-icin-kampanya-donemi-basladi-43296277"
-        },
-        {
-          "title": "İsrail'den güney Lübnan'a ağır silahlarla saldırı",
-          "summary": "Lübnan'da ateşkesi ihlal eden İsrail ordusu, güneydeki Sur ve Nebatiye kentlerine bağlı 7 beldeye ağır silahlarla saldırı gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-guney-lubnana-agir-silahlarla-saldiri-43296249"
-        },
-        {
-          "title": "Tesla, sürücüsüz taksisini hizmete sundu",
-          "summary": "Elektrikli araç üreticisi Tesla, Uber ve Waymo gibi rakiplerle yarışmak amacıyla geliştirdiği sürücüsüz robotaksisi Cybercab'i tanıttı. Elektrikli araç üreticisi Tesla, Uber ve Waymo gibi şirketlerle rekabet etmek amacıyla geliştirdiği \"Cybercab\" adlı sürücüsüz robotaksisini perşembe günü hizmete sunduğunu duyurdu. İlk kez Ekim 2024'te tanıtılan altın sarısı renkteki aracın içinde direksiyon ya da pedal bulunmuyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-tesla-surucusuz-taksisini-hizmete-sundu-1740319"
-        },
-        {
-          "title": "Bu plajın anahtarı 400 bin dolar. Bir yıldır bekleyen müşteriler var",
-          "summary": "ABD'nin Massachusetts eyaletindeki Martha's Vineyard adasında yer alan özel plajlara giriş sağlayan fiziksel anahtarlar, açık piyasada 400 bin dolar veya üzerinde alıcı buluyor. ABD'nin Massachusetts eyaletine bağlı tatil adası Martha's Vineyard'da, kamuya kapalı özel kumsal alanlarına giriş sağlayan asma kilit anahtarları açık artırma ve serbest piyasada 400 bin dolar veya üzerindeki fiyatlarla el değiştiriyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-bu-plajin-anahtari-400-bin-dolar-bir-yildir-bekleyen-musteriler-var-1740307"
-        },
-        {
-          "title": "Meloni tarihe geçti. Rekorunu 10 bin kişiyle kutlayacak",
-          "summary": "İtalya Başbakanı Giorgia Meloni, hükümetinin bin 413 günle iktidar rekoru kırmasını binlerce destekçisiyle birlikte kutlamaya hazırlanıyor. SON 80 YILDA 68 HÜKÜMET DEĞİŞTİ İtalya Başbakanı Giorgia Meloni, sağ koalisyon hükümetinin ülkenin savaş sonrası tarihindeki en uzun süre görev yapan yönetim olmasını cuma günü Bari'de düzenlenecek büyük bir etkinlikle kutlayacak. Meloni'nin aynı hükümetin başında geçirdiği süre bin 413 güne ulaşarak, eski Başbakan Silvio Berlusconi'nin bin 412 günlük rekorunu geride bıraktı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-meloni-tarihe-gecti-rekorunu-10-bin-kisiyle-kutlayacak-1740313"
-        },
-        {
-          "title": "Raylarda sıkıştı: Yolcu treni TIR'ı paramparça etti",
-          "summary": "Polonya’da hemzemin geçitte facianın eşiğinden dönüldü. Kapanan bariyerlere rağmen geçmeye çalışan TIR raylarda mahsur kaldı. Kısa süre sonra gelen yolcu treni TIR’a çarparken, dehşet anları kameraya",
-          "source": "https://www.ntv.com.tr/dunya/video-polonyada-feci-kaza-yolcu-treni-tiri-paramparca-etti-1740364"
-        },
-        {
-          "title": "Rusya'dan Ukrayna Güvenlik Servisi binasına İHA saldırısı",
-          "summary": "Rusya, Ukrayna’nın en önemli hükümet binalarından birine doğrudan saldırı düzenledi. Ukrayna Güvenlik Servisi'nin binası, Rusya’nın Kiev'e yönelik günlerdir süren kesintisiz hava saldırıları sırasında vuruldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-rusyadan-ukrayna-guvenlik-servisi-binasina-iha-saldirisi-43296186"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe, Çağlar Söyüncü'nün ayrılığını TFF'ye bildirdi!. Beşiktaş ayrılığı resmen duyurdu: Elan Ricardo!. Gaziantep FK’da Orhan Ak dönemi başladı!. Samsunspor Teknik Direktörü Thorsten Fink: 'Süreye ihtiyacımız var'. Yüksel Yıldırım: 'Dünü asla unutmadık ve unutmayacağız'. Beşiktaş, Fenerbahçe derbisinin hazırlıklarını tamamladı. Galatasaray şikayetçi olmuştu: Ahmet Çakar ifade verdi.",
+      "text": "Liverpool, Ipswich Town'un 18 maçlık serisine son verdi!. Trabzonspor, Ali Habeşoğlu’nu kadrosuna kattı!. Metin Öztürk: 'Belli ki Galatasaray'ın şampiyonluğu engellenmeye çalışılacak!'. Lucas Torreira'dan Şampiyonlar Ligi mesajı!. Hull City'den Jakirovic ile 2 yıllık yeni sözleşme!. PSG, Luis Enrique'nin sözleşmesini uzattı!. Okan Buruk'tan maç sonu Victor Osimhen açıklaması!.",
       "items": [
         {
-          "title": "Fenerbahçe, Çağlar Söyüncü'nün ayrılığını TFF'ye bildirdi!",
-          "summary": "Fenerbahçe, Çağlar Söyüncü'nün sözleşmesinin karşılıklı anlaşma ile sona erdirildiğini TFF'ye bildirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-caglar-soyuncunun-ayriligini-tffye-bildirdi-43296338"
+          "title": "Liverpool, Ipswich Town'un 18 maçlık serisine son verdi!",
+          "summary": "Ipswich Town'ı 2-0 yenen Liverpool ligde 6 maç sonra ilk kez galip gelirken ev sahibi ekibin evindeki 18 maçlık yenilmezlik serisi sona erdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/liverpool-ipswich-townun-18-maclik-serisine-son-verdi-43296547"
         },
         {
-          "title": "Beşiktaş ayrılığı resmen duyurdu: Elan Ricardo!",
-          "summary": "Beşiktaş Elan Ricardo’yu, Macaristan kulübü ETO Futball'a kiraladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ayriligi-resmen-duyurdu-elan-ricardo-43296324"
+          "title": "Trabzonspor, Ali Habeşoğlu’nu kadrosuna kattı!",
+          "summary": "Trabzonspor, Ali Habeşoğlu’nun kesin transferi konusunda Bodrumspor Kulübü ile anlaşma sağlandığını açıkladı. Bordo-mavililer, genç golcü için Bodrumspor’a 1 milyon 650 bin Euro ödeyecek. Bordo-mavililer, Rene Mitongo'yu ise Estrela Kulübü’ne kiraladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ali-habesoglunu-kadrosuna-katti-43296517"
         },
         {
-          "title": "Gaziantep FK’da Orhan Ak dönemi başladı!",
-          "summary": "Gaziantep FK, teknik direktörlük görevine Orhan Ak'ın getirildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gaziantep-fkda-orhan-ak-donemi-basladi-43296276"
+          "title": "Metin Öztürk: 'Belli ki Galatasaray'ın şampiyonluğu engellenmeye çalışılacak!'",
+          "summary": "Galatasaray İkinci Başkanı Metin Öztürk, sarı-kırmızılı takımın deplasmanda Başakşehir'i 3-2 mağlup ettiği karşılaşmanın ardından Türkiye Futbol Federasyonu'nu ve hakem kararlarını eleştirerek, \"Belli ki bu sene Galatasaray'ın şampiyonluğu engellenmeye çalışılacak\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/metin-ozturk-belli-ki-galatasarayin-sampiyonlugu-engellenmeye-calisilacak-43296512"
         },
         {
-          "title": "Samsunspor Teknik Direktörü Thorsten Fink: 'Süreye ihtiyacımız var'",
-          "summary": "Samsunspor Teknik Direktörü Thorsten Fink, yeni bir kadro oluşumu içerisinde olduklarını belirterek, süreye ihtiyaç duyduklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-teknik-direktoru-thorsten-fink-sureye-ihtiyacimiz-var-43296270"
+          "title": "Lucas Torreira'dan Şampiyonlar Ligi mesajı!",
+          "summary": "Galatasaray'da Gabriel Sara, Lucas Torreira ve Uğurcan Çakır, Başakşehir galibiyetinin ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lucas-torreiradan-sampiyonlar-ligi-mesaji-43296502"
         },
         {
-          "title": "Yüksel Yıldırım: 'Dünü asla unutmadık ve unutmayacağız'",
-          "summary": "Samsunspor Kulübü Başkanı Yüksel Yıldırım, kulübün geçmişte yaşadığı sorunları unutmadıklarını belirterek, kırmızı-beyazlıları Türkiye’nin en değerli 5 büyük kulübünden biri haline getirme hedefiyle çalışmalarını sürdürdüklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/yuksel-yildirim-dunu-asla-unutmadik-ve-unutmayacagiz-43296230"
+          "title": "Hull City'den Jakirovic ile 2 yıllık yeni sözleşme!",
+          "summary": "Hull City, teknik direktör Jakirovic ile 2 yıllık yeni sözleşme imzaladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hull-cityden-jakirovic-ile-2-yillik-yeni-sozlesme-43296494"
         },
         {
-          "title": "Beşiktaş, Fenerbahçe derbisinin hazırlıklarını tamamladı",
-          "summary": "Süper Lig'in 4. haftasında yarın Fenerbahçe'yle deplasmanda karşılaşacak Beşiktaş, mücadelenin hazırlıklarını tamamladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-fenerbahce-derbisinin-hazirliklarini-tamamladi-43296147"
+          "title": "PSG, Luis Enrique'nin sözleşmesini uzattı!",
+          "summary": "PSG, teknik adam Luis Enrique'nin sözleşmesini uzattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/psg-luis-enriquenin-sozlesmesini-uzatti-43296490"
         },
         {
-          "title": "Galatasaray şikayetçi olmuştu: Ahmet Çakar ifade verdi",
-          "summary": "Galatasaray Spor Kulübü’nün şikayetçi olduğu spor yorumcusu Ahmet Çakar savcıya ifade verdi. İfadesinin ardından açıklama yapan Çakar, “Utanması gereken ben değilim, geldim aslan gibi ifademi verdim. Utanması gereken o Dursun Özbek ve avaneleridir ki Galatasaray'ı böyle çok kötü duruma, sıkıntılı duruma soktukları için onlara yazıklar olsun“ dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-sikayetci-olmustu-ahmet-cakar-ifade-verdi-43296143"
+          "title": "Okan Buruk'tan maç sonu Victor Osimhen açıklaması!",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Başakşehir'i deplasmanda 3-2 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-mac-sonu-victor-osimhen-aciklamasi-43296491"
         }
       ]
     },
