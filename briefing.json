@@ -1,25 +1,20 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-05T16:00:04.309Z",
+  "generatedAt": "2026-09-06T04:00:04.304Z",
   "categories": {
     "gundem": {
-      "text": "Sosyal medyada müstehcen içerik operasyonu. Tuğba Ekinci dahil 5 kişi gözaltına alındı. 5 ilde eş zamanlı operasyon... Tuğba Ekinci’nin de aralarında bulunduğu 5 kişiye gözaltı. Cumhurbaşkanı Erdoğan'ın torunu Fatıma Serra'dan \"Yine Bir Gülnihal\" yorumu. Batan gemiden ilk görüntü. Önce ismini gördüler, sonra Tuğberk İmamoğlu'nun enkazına ulaştılar. Bakan Göktaş’tan Balkanlar Kadın Girişimcilik Ağı önerisi. Kayseri'de Türkiye Kültür Yolu Festivali heyecanı başladı. Bursa'da orman yangını.",
+      "text": "Tutuklanan Doktor Nurettin Demirkol’un ifadesi: Hatırlamıyorum, bilmiyorum. Faciaya ramak kaldı. Batan gemiden ilk görüntü. Önce ismini gördüler, sonra Tuğberk İmamoğlu'nun enkazına ulaştılar. MSB, Tuğberk İmamoğlu gemisi için arama kurtarma faaliyetlerine devam ediyor. ABD tankerleri vurdu, İran misilleme yaptı. Oyun salonuna silahlı saldırı. 3 kişi yaralandı. Husumetli iki grup arasında silahlı kavga: 2 ölü, 3 yaralı.",
       "items": [
         {
-          "title": "Sosyal medyada müstehcen içerik operasyonu. Tuğba Ekinci dahil 5 kişi gözaltına alındı",
-          "summary": "Sosyal medya üzerinden ücret karşılığı müstehcen içerik paylaştıkları tespit edilen 5 kişi gözaltına alındı. Gözaltına alınanlar arasında Tuğba Ekinci de var. Kızılcahamam Cumhuriyet Başsavcılığı koordinesinde yürütülen soruşturma kapsamında 5 ilde düzenlenen eş zamanlı operasyonda, Tuğba Ekinci’nin de aralarında bulunduğu 5 şüpheli gözaltına alındı. MÜSTEHCEN İÇERİK PAYLAŞTIKLARI TESPİT EDİLDİ Şüphelilerin sosyal medya üzerinden ücret karşılığı müstehcen içerik paylaştıkları tespit edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-sosyal-medyada-mustehcenlik-operasyonu-tugba-ekinci-dahil-5-supheli-gozaltina-alindi-1740540"
+          "title": "Tutuklanan Doktor Nurettin Demirkol’un ifadesi: Hatırlamıyorum, bilmiyorum",
+          "summary": "Denizolgun öldüğünde çiftlik evine çağrılan doktor Nurettin Demirkol yalan tanıklık suçundan önceki gün tutuklandı. Demirkol, savcılık ve hâkimlik ifadelerinde tüm çelişkili sorular için “Üzerinden 10 yıl geçti. Hatırlamıyorum, bilmiyorum” cevabını verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tutuklanan-doktor-nurettin-demirkolun-ifadesi-hatirlamiyorum-bilmiyorum-43297558"
         },
         {
-          "title": "5 ilde eş zamanlı operasyon... Tuğba Ekinci’nin de aralarında bulunduğu 5 kişiye gözaltı",
-          "summary": "KIZILCAHAMAM Cumhuriyet Başsavcılığı koordinesinde ‘Müstehcenlik’ suçuna yönelik yürütülen soruşturma kapsamında şarkıcı Tuğba Ekinci'nin de aralarında bulunduğu 5 şüpheli gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tugba-ekincinin-de-aralarinda-bulundugu-5-kisiye-gozalti-43297298"
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan'ın torunu Fatıma Serra'dan \"Yine Bir Gülnihal\" yorumu",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın torunu Fatima Serra Erdoğan, Türk sanat müziğinin klasik eserlerinden \"Yine Bir Gülnihal\" eserini seslendirdi. Cumhurbaşkanı Recep Tayyip Erdoğan’ın torunu Fatima Serra Erdoğan, Hammâmîzâde İsmâil Dede Efendi’nin bestelediği \"Yine Bir Gülnihal\" adlı eseri yorumladı. Fatima Serra Erdoğan’ın seslendirdiği eser ve sergilediği performans ilgi görerek beğeni topladı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-cumhurbaskani-erdoganin-torunu-fatima-serradan-yine-bir-gulnihal-yorumu-1740538"
+          "title": "Faciaya ramak kaldı",
+          "summary": "Erzurum Oltu'da sürücüsünün hakimiyetini kaybettiği tır, köprünün yanındaki boşluğa sıkışarak metrelerce yüksekten düşmekten son anda kurtuldu. Erzurum-Ardahan kara yolunun Aşağı Kumlu mevkisinde M.B. idaresindeki tır, sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu köprünün kenarında bulunan boşluğa devrildi. Tır metrelerce yükseklikten düşmekten kıl payı kurtulurken olay yerine itfaiye, sağlık ve jandarma ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/faciaya-kil-payi-1740566"
         },
         {
           "title": "Batan gemiden ilk görüntü. Önce ismini gördüler, sonra Tuğberk İmamoğlu'nun enkazına ulaştılar",
@@ -27,65 +22,80 @@
           "source": "https://www.ntv.com.tr/turkiye/galeri-tugberk-imamoglu-gemisinin-enkazina-ulasildi-1740492"
         },
         {
-          "title": "Bakan Göktaş’tan Balkanlar Kadın Girişimcilik Ağı önerisi",
-          "summary": "Üsküp’te kadın girişimcilerle buluşan Bakan Göktaş, Türkiye ile Balkanlar arasında yatırımcıları ve girişimcileri buluşturacak ortak bir ağ kurulmasını önerdi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Kuzey Makedonya'nın başkenti Üsküp'te düzenlenen Dünya Türk İş Konseyi (DTİK) Balkanlar Kadın Girişimciler Buluşması'nda konuştu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-goktastan-balkanlar-kadin-girisimcilik-agi-onerisi-1740532"
+          "title": "MSB, Tuğberk İmamoğlu gemisi için arama kurtarma faaliyetlerine devam ediyor",
+          "summary": "Milli Savunma Bakanlığı (MSB), Marmara Denizi’nde kaza sonrası batan Tuğberk İmamoğlu isimli gemi için arama kurtarma çalışmalarının 7/24 esasına göre devam ettiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/msb-tugberk-imamoglu-gemisi-icin-arama-kurtarma-faaliyetlerine-devam-ediyor-43297597"
         },
         {
-          "title": "Kayseri'de Türkiye Kültür Yolu Festivali heyecanı başladı",
-          "summary": "Türkiye Kültür Yolu Festivali’nin 17’nci durağı Kayseri’de 9 gün boyunca konser, sergi, tiyatro ve atölyeler düzenlenecek; 34 noktada kentin lezzetleri tanıtılacak. KAYSERİ’DE TÜRKİYE KÜLTÜR YOLU HEYECANI BAŞLADI Türkiye Kültür Yolu Festivali’nin 17’nci durağı Kayseri’de dokuz gün sürecek kültür, sanat ve gastronomi maratonu Kayseri Kale İçi Arkeoloji Müzesi’nde gerçekleştirilen açılış programıyla başladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kayseride-turkiye-kultur-yolu-festivali-heyecani-basladi-1740517"
+          "title": "ABD tankerleri vurdu, İran misilleme yaptı",
+          "summary": "ABD güçleri Basra Körfezi'ndeki Hark Adası yakınında 3 İran tankerini vurdu. Devrim muhafızları ise Hürmüz'den izinsiz geçen 2 petrol tankeri ve 3 ABD gemisini hedef aldı. ABD ile İran arasında geçtiğimiz hafta artan karşılıklı saldırılar devam ediyor. İran Devrim Muhafızları'nın ABD Donanması'na ait devriye gezen iki savaş gemisine balistik füzeler fırlatmasının ardından 3 İran petrol tankerinin hedef alındığı belirtildi. Hark Adası açıklarında 2, Umman Körfezi'nde de bir İran tankerinin imha edildiği belirtildi.",
+          "source": "https://www.ntv.com.tr/turkiye/abd-tankerleri-vurdu-iran-misilleme-yapti-1740563"
         },
         {
-          "title": "Bursa'da orman yangını",
-          "summary": "Bursa'nın Orhaneli ilçesinde çıkan orman yangını havadan ve karadan müdahaleyle kontrol altına alındı. Bursa'nın Orhaneli ilçesinde orman yangını çıktı. Yangın, ilçeye bağlı Perçin ve Balıoğlu mahalleleri arasındaki ormanlık alanda henüz bilinmeyen bir nedenle başladı. İhbar üzerine bölgeye Bursa Orman Bölge Müdürlüğü ekipleri sevk edildi. Ekipler, dört helikopter, sekiz arazöz, iki su tankeri, iki dozer ve 76 personelle yangını kontrol altına almak için çaba sarf etti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bursada-orman-yangini-ekipler-alevlere-mudahale-ediyor-1740518"
+          "title": "Oyun salonuna silahlı saldırı. 3 kişi yaralandı",
+          "summary": "Diyarbakır'da henüz kimlikleri belirlenemeyen 2 kişinin video oyun salonuna düzenlediği silahlı saldırıda 3 kişi kurşunların hedefi olarak yaralandı. Diyarbakır'ın Kayapınar ilçesindeki bir video oyun salonuna gece yarısı silahlı saldırı düzenlendi. Henüz kimliği belirlenemeyen iki şüpheli otomobille önüne gittikleri işyerine silahla ateş açtı. Kurşunların isabet etmesi sonucu 3 kişi yaralandı, 2 iş yeri, 2 otomobil ve bir kamyonette hasar oluştu. Bölgeye 112 Acil Sağlık ve polis ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/oyun-salonuna-silahli-saldiri-3-kisi-yaralandi-1740562"
+        },
+        {
+          "title": "Husumetli iki grup arasında silahlı kavga: 2 ölü, 3 yaralı",
+          "summary": "Gaziantep’in İslahiye ilçesinde konuşmak için dağlık alanda buluşan husumetli iki grup arasındaki silahlı kavgada 2 kişi hayatını kaybetti, 3 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/husumetli-iki-grup-arasinda-silahli-kavga-2-olu-3-yarali-43297569"
         }
       ]
     },
     "dunya": {
-      "text": "Katar basınından dikkat çeken belgesel: Türkiye'nin yükselişi gözler önünde... 'Dört ülkeden biri'. ABD: İran'ın 3 tankerini vurduk. Milyonlarca yolcuyu ilgilendiriyor! Schengen'deki kritik kural değişti: Yarın son gün. Trump peşine düştü! Pentagon alarma geçti: ABD ordusunda yalan testi. Bu şehrin altında 1 milyar ton buz var. Yunanistan'da savaş uçağı düştü. Trump'tan Putin açıklaması: NATO ülkelerine saldırmayacağına inanıyorum.",
+      "text": "Yanardağ patladı, okullar ve havalimanı kapatıldı. Witkoff ve Kushner Putin’e gitti: Moskova’ya ‘savaşı bitirecek teklif’. ABD'de sızıntı alarmı. Genelkurmay personeline yalan testi. Bolivya'da kışlada patlama. 2 ölü, 81 yaralı. Putin ile ABD’li temsilciler arasındaki kritik görüşme sona erdi! İlk açıklama geldi. Dışişleri Bakanı Fidan, İranlı mevkidaşı Arakçi görüştü. Gerilim tırmanıyor.... İran: 3 petrol tankeri ile 3 ABD gemisini hedef aldık.",
       "items": [
         {
-          "title": "Katar basınından dikkat çeken belgesel: Türkiye'nin yükselişi gözler önünde... 'Dört ülkeden biri'",
-          "summary": "Katar basınında yayımlanan dikkat çekici bir belgesel, Türkiye'nin savunma sanayisinde son yıllarda elde ettiği yükselişi mercek altına aldı. KAAN, Çelik Kubbe ve yerli savunma sistemlerinin öne çıkarıldığı belgeselde, Türkiye'nin beşinci nesil savaş uçağı geliştirebilen dört ülkeden biri olduğu vurgulandı. Türk savunma sanayisinin ulaştığı seviye, uluslararası uzmanların değerlendirmeleriyle de gözler önüne serildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/katar-basinindan-dikkat-ceken-belgesel-turkiyenin-yukselisi-gozler-onunde-dort-ulkeden-biri-43297283"
+          "title": "Yanardağ patladı, okullar ve havalimanı kapatıldı",
+          "summary": "Endonezya'da faaliyete geçen Anak Krakatau Yanardağı'ndan yükselen kül bulutu 15 bin metre yükseğe kadar yükseldi. Cakarta'nın ana havalimanındaki yüzlerce uçuş askıya alındı. Sık sık büyük depremler ve volkanik patlamaların meydana geldiği Pasifik Ateş Çemberi üzerinde bulunan Güneydoğu Asya ülkesi Endonezya'daki Anak Krakatau Yanardağı bir kez daha harekete geçti. Cakarta'nın ana havalimanı Soekarno-Hatta Uluslararası Havalimanı'ndaki yüzlerce uçuş, volkanik kül nedeniyle askıya alındı.",
+          "source": "https://www.ntv.com.tr/dunya/yanardagi-patladi-okullar-ve-havalimani-kapatildi-1740567"
         },
         {
-          "title": "ABD: İran'ın 3 tankerini vurduk",
-          "summary": "ABD, İran'a ait üç petrol tankerinin vurulduğunu açıkladı. Yapılan açıklamada saldırının, İran'ın iki ABD savaş gemisine balistik füze saldırısı düzenlemesinin ardından gerçekleştirildiği belirtildi. ABD Merkez Komutanlığı (CENTCOM) Komutanı Amiral Brad Cooper, saldırının ardından \"İran'ın petrol filosunu imha etmekten çekinmeyiz.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-iranin-3-tankerini-vurduk-43297245"
+          "title": "Witkoff ve Kushner Putin’e gitti: Moskova’ya ‘savaşı bitirecek teklif’",
+          "summary": "Trump’ın özel temsilcisi Steve Witkoff ile damadı Jared Kushner, savaşı bitirmeyi öngören teklifle dün Moskova’ya indi. Akşam saatlerine sarkan görüşmede ABD’li temsilcilerin teklifinin, Donbas’ın tampon bölge ilan edilmesini ve iki ordunun cephe hattından 30’ar kilometre geri çekilmesini öngördüğü belirtiliyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/witkoff-ve-kushner-putine-gitti-moskovaya-savasi-bitirecek-teklif-43297572"
         },
         {
-          "title": "Milyonlarca yolcuyu ilgilendiriyor! Schengen'deki kritik kural değişti: Yarın son gün",
-          "summary": "Schengen Bölgesi'ne girişlerde uygulanan yeni sistemle ilgili kritik süreçte yarın sona geliniyor. Yoğun sınır kapılarında uygulanan geçici esneklik 6 Eylül'de bitecek.",
-          "source": "https://www.hurriyet.com.tr/dunya/milyonlarca-yolcuyu-ilgilendiriyor-schengendeki-kritik-kural-degisti-yarin-son-gun-43297202"
+          "title": "ABD'de sızıntı alarmı. Genelkurmay personeline yalan testi",
+          "summary": "Pentagon, İran savaşı nedeniyle mühimmat sıkıntısı yaşandığı haberleri nedeniyle 50 üst düzey Genelkurmay personeli yalan makinesi (poligraf) testine tabi tuttu. İran Savaşı'nın uzaması, ABD ordusundaki kaosu da büyütmeye devam ediyor. İran'a karşı bölgeye gönderilen uçak gemilerinde yaşanan sorunların ardından şimdi de ABD Genelkurmay Başkanlığı'nda bilgi sızıntısı krizi yaşanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/abdde-sizinti-alarmi-genelkurmay-yetkililerine-yalan-testi-1740565"
         },
         {
-          "title": "Trump peşine düştü! Pentagon alarma geçti: ABD ordusunda yalan testi",
-          "summary": "ABD Başkanı Donald Trump'ın talimatıyla Pentagon'da bilgi sızıntılarına yönelik soruşturma başlatıldı. ABD ordusunda görev yapan yaklaşık 50 üst düzey personel, gizli bilgileri basına sızdırıp sızdırmadıklarının belirlenmesi için yalan testine tabi tutuldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-pesine-dustu-pentagon-alarma-gecti-abd-ordusunda-yalan-testi-43297183"
+          "title": "Bolivya'da kışlada patlama. 2 ölü, 81 yaralı",
+          "summary": "Bolivya'da kışlada meydana gelen kimyasal madde patlamasında en 2 kişi hayatını kaybetti, 81 kişi yaralandı. Yetkililer ölü sayısının artmasından endişeleniyor. Güney Amerika ülkesi Bolivya'da topçu alayının konuşlu olduğu kışlada meydana gelen patlama büyük yıkıma yol açtı. Bolivya Savunma Bakanı Ernesto Justiniano, kışlada \"piroteknik (kimyasal) malzemenin\" patlaması sonucu en az 2 kişinin hayatını kaybettiğini, 81 kişinin de yaralandığını açıkladı. Kayıp 14 kişinin bulunması için çalışmalar devam ediyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bolivyada-kislada-patlama-2-olu-81-yarali-1740564"
         },
         {
-          "title": "Bu şehrin altında 1 milyar ton buz var",
-          "summary": "ABD'nin Utah eyaletindeki dağlarda, kayaların altında yaklaşık 1 milyar ton buz bulunduğu hesaplandı. Dünya genelindeki “gizli buzullarda” yaklaşık 48 milyar ton buz bulunuyor. DÜNYA GENELİNDE 48 MİLYAR TON VAR Buzul denildiğinde akla kilometreler boyunca uzanan beyaz buz kütleleri geliyor. Ancak dünyanın dağlık bölgelerinde gözle görülmeyen başka bir buzul türü daha bulunuyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-bu-sehrin-altinda-1-milyar-ton-buz-var-1740516"
+          "title": "Putin ile ABD’li temsilciler arasındaki kritik görüşme sona erdi! İlk açıklama geldi",
+          "summary": "Rusya Devlet Başkanı Vladimir Putin ile ABD Başkanı Donald Trump’ın Orta Doğu Özel Temsilcisi Steve Witkoff ve Trump’ın damadı Jared Kushner arasında 3 saatten uzun süren görüşme sona erdi. Kremlin Dış Politika Danışmanı Yuriy Uşakov, görüşmede Ukrayna krizi ve ikili ilişkilerin ele alındığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/putin-ile-abdli-temsilciler-arasindaki-kritik-gorusme-sona-erdi-ilk-aciklama-geldi-43297598"
         },
         {
-          "title": "Yunanistan'da savaş uçağı düştü",
-          "summary": "Yunanistan'da gösteri sırasında F-4 Phantom savaş uçağı düştü. Tanagra Hava Üssü'ndeki kazanın ardından bölgede acil durum ekipleri harekete geçti.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunanistanda-savas-ucagi-dustu-43297134"
+          "title": "Dışişleri Bakanı Fidan, İranlı mevkidaşı Arakçi görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Arakçi ile telefonda görüştü. Dışişleri Bakanlığı kaynaklarından edinilen bilgiye göre Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile telefon görüşmesi yaptı. Görüşmede, devam eden müzakerelerle ilgili son durum kapsamlı biçimde değerlendirildi.",
+          "source": "https://www.ntv.com.tr/dunya/disisleri-bakani-fidan-iranli-mevkidasi-arakci-gorustu-1740559"
         },
         {
-          "title": "Trump'tan Putin açıklaması: NATO ülkelerine saldırmayacağına inanıyorum",
-          "summary": "ABD Başkanı Donald Trump, Beyaz Saray'da yaptığı açıklamada Rusya Devlet Başkanı Vladimir Putin'in NATO topraklarına saldırmayı düşünmediğini belirterek, Rusya'nın NATO üyesi ülkelere saldırmayacağına inandığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-putin-aciklamasi-nato-ulkelerine-saldirmayacagina-inaniyorum-43297107"
+          "title": "Gerilim tırmanıyor.... İran: 3 petrol tankeri ile 3 ABD gemisini hedef aldık",
+          "summary": "İran Devrim Muhafızları Ordusu (DMO), Hürmüz Boğazı’nda izinsiz güzergahları kullandıkları gerekçesiyle 3 petrol tankerine saldırı düzenlendiğini, diğer bölgelerde ise ABD ile bağlantılı 3 geminin daha hedef alındığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/gerilim-tirmaniyor-iran-3-petrol-tankeri-ile-3-abd-gemisini-vurduk-43297506"
         }
       ]
     },
     "ekonomi": {
-      "text": "Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor. Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'. Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok. Hem yönetimde hem sokakta ekonomi alarmı var. Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor. Pakistan’dan krize müdahale… Asım Münir bugün Tahran’da. İzmir'de tarıma can suyu.",
+      "text": "Ege’nin ihracat artışı sürüyor. Cevdet Yılmaz'dan OVP açıklaması: Yeni stratejik öncelikleri de programımıza entegre edeceğiz. Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor. Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'. Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok. Hem yönetimde hem sokakta ekonomi alarmı var. Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor.",
       "items": [
+        {
+          "title": "Ege’nin ihracat artışı sürüyor",
+          "summary": "Ege Bölgesi’nin ihracatı ağustos ayında yüzde 6 artışla 1 milyar 605 milyon dolara ulaştı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egenin-ihracat-artisi-suruyor-43297603"
+        },
+        {
+          "title": "Cevdet Yılmaz'dan OVP açıklaması: Yeni stratejik öncelikleri de programımıza entegre edeceğiz",
+          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, yarın açıklanacak Orta Vadeli Program'a (OVP) ilişkin, \"Dünya ve bölgemizde risklerin ve belirsizliklerin yükseldiği bir dönemde; istikrar içinde öngörülebilir politikalar izlerken, yeni stratejik öncelikleri de güncellenmiş programımıza entegre edeceğiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cevdet-yilmazdan-ovp-aciklamasi-yeni-stratejik-oncelikleri-de-programimiza-entegre-edecegiz-43297352"
+        },
         {
           "title": "Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor",
           "summary": "Nazilli Ticaret Odası Yönetim Kurulu seçimleri 1 Ekim 2026 Perşembe günü yapılacak. Nazilli Ticaret Odası Yönetim Kurulu Başkanı Nuri Arslan, tarihi belirlerken üyelerin görüşlerini dikkate aldıklarını söyledi.",
@@ -110,56 +120,46 @@
           "title": "Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor",
           "summary": "Almanya ekonomisi yılın ikinci çeyreğinde yüzde 0,3 büyüyerek üst üste üçüncü çeyrekte de büyüdü. Ancak devletin ilk altı aydaki 71,3 milyar euroluk bütçe açığı mali tablodaki sorunları ortaya koydu.",
           "source": "https://www.hurriyet.com.tr/avrupa/almanya-ekonomisi-buyuyor-butce-acigi-alarm-veriyor-43285201"
-        },
-        {
-          "title": "Pakistan’dan krize müdahale… Asım Münir bugün Tahran’da",
-          "summary": "ABD ile İran arasında “ekonomik savaşa” dönüşen gerilim devam ederken, Pakistan Genelkurmay Başkanı Mareşal Asım Münir’in resmi bir heyet başkanlığında bugün Tahran’ı ziyaret edeceği açıklandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistandan-krize-mudahale-asim-munir-bugun-tahranda-43282957"
-        },
-        {
-          "title": "İzmir'de tarıma can suyu",
-          "summary": "Selçuk Merkez Yüzey Altı Sulama Damla Sulama Tesisi, daha önce susuzluk nedeniyle atıl kalan 2 bin dönüm araziyi yeniden üretime açtı. 280 futbol sahası büyüklüğündeki alanda ayva, nar, şeftali, narenciye ve sebze üretimi yaygınlaşırken, damla sulama ve ön ödemeli sayaç sistemiyle suyun daha verimli kullanılması sağlandı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmirde-tarima-can-suyu-43282985"
         }
       ]
     },
     "spor": {
-      "text": "Cumhurbaşkanı Erdoğan, 4 büyük kulübün başkanlarını Dolmabahçe'de kabul etti. Recep Uçar: 'İyi bir sezon geçireceğimizi ümit ediyorum'. Luis Enrique'den Galatasaray açıklaması!. Süper Lig’de 9+ gol istatistiği yüksek oranıyla öne çıkıyor! İşte Misli’den günlük bahis istatistikleri. Fenerbahçe – Beşiktaş derbisinin heyecanı özel oyunlar ve oyuncu bahisleriyle Misli’de yaşanıyor!. Sezonun ilk derbisinde Fenerbahçe favori, Manchester City-Coventry gollü geçmeye aday! İşte Misli’de günün en çok oynanan maçları. Kocaelispor Habib Ali Keita'nın sözleşmesini feshetti.",
+      "text": "Talisca'dan derbi sonrası olay paylaşım: 'Ne ekersen onu biçersin!'. Aziz Yıldırım'dan derbi sonrası hakem tepkisi: '2 penaltımız verilmedi, beni kimse durduramaz'. Leandro Trossard: 'Derbiden sonra bu kutlamalar normal!'. Özel | Dusan Vlahovic derbiyi ve Skriniar ile yaşananları anlattı!. Beşiktaş'tan Archie Brown'a 'Hoş geldin' göndermesi! Salih Özcan da katıldı. İsmail Kartal: 'Tüm sorumluluk bende, taraftarımızı üzdük'. Vlahovic'ten Orkun Kökçü'ye övgü dolu sözler: 'Messi gibi asist!'.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan, 4 büyük kulübün başkanlarını Dolmabahçe'de kabul etti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor kulübü başkanlarını Dolmabahçe Çalışma Ofisi'nde ağırladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cumhurbaskani-erdogan-4-buyuk-kulubun-baskanlarini-dolmabahcede-kabul-etti-43297231"
+          "title": "Talisca'dan derbi sonrası olay paylaşım: 'Ne ekersen onu biçersin!'",
+          "summary": "Fenerbahçe'den ayrılarak Birleşik Arap Emirlikleri ekibi Al-Jazira'ya imza atan Anderson Talisca, sarı-lacivertlilerin Beşiktaş'a mağlup olduğu derbinin ardından olay bir paylaşım yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/taliscadan-derbi-sonrasi-olay-paylasim-ne-ekersen-onu-bicersin-43297519"
         },
         {
-          "title": "Recep Uçar: 'İyi bir sezon geçireceğimizi ümit ediyorum'",
-          "summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar, Süper Lig'in 4. haftasında 7 Eylül Pazartesi günü sahalarında Alanyaspor ile yapacakları maçı kazanarak yollarına devam etmek istediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/recep-ucar-iyi-bir-sezon-gecirecegimizi-umit-ediyorum-43297137"
+          "title": "Aziz Yıldırım'dan derbi sonrası hakem tepkisi: '2 penaltımız verilmedi, beni kimse durduramaz'",
+          "summary": "Fenerbahçe Başkanı Aziz Yıldırım, Beşiktaş'a 2-1 mağlup oldukları maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirimdan-derbi-sonrasi-hakem-tepkisi-2-penaltimiz-verilmedi-beni-kimse-durduramaz-43297518"
         },
         {
-          "title": "Luis Enrique'den Galatasaray açıklaması!",
-          "summary": "PSG Teknik Direktörü Luis Enrique, UEFA Şampiyonlar Ligi lig aşamasında karşılaşacakları Galatasaray hakkında konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/luis-enriqueden-galatasaray-aciklamasi-43297108"
+          "title": "Leandro Trossard: 'Derbiden sonra bu kutlamalar normal!'",
+          "summary": "Beşiktaş'ın Belçikalı futbolcusu Leandro Trossard, Fenerbahçe'yi 2-1 mağlup ettikleri derbi maçının ardından yaptığı açıklamada, \"Daha iyi olan taraf bizdik\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/leandro-trossard-derbiden-sonra-bu-kutlamalar-normal-43297515"
         },
         {
-          "title": "Süper Lig’de 9+ gol istatistiği yüksek oranıyla öne çıkıyor! İşte Misli’den günlük bahis istatistikleri",
-          "summary": "Misli’de Günlük ve Haftalık Bahislerle heyecan ikiye katlanıyor! Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi, Türkiye Süper Lig, 5 büyük lig ve birçok turnuvaya özel Günlük ve Haftalık Bahis istatistikleriyle bahsin keyfi Misli’de yaşanmaya devam ediyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-9-gol-istatistigi-yuksek-oraniyla-one-cikiyor-iste-misliden-gunluk-bahis-istatistikleri-43296995"
+          "title": "Özel | Dusan Vlahovic derbiyi ve Skriniar ile yaşananları anlattı!",
+          "summary": "Fenerbahçe derbisinde gol sevinci yaşayan Beşiktaş'ın yıldız golcüsü Dusan Vlahovic, Kadıköy'deki galibiyet ve Skriniar ile arasındaki kavgayla alakalı, Alman file bekçisi Alexander Nübel ise duygularını, Spor Arena muhabiri Selen Cansu Aksoy'a anlattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ozel-dusan-vlahovic-derbiyi-ve-skriniar-ile-yasananlari-anlatti-43297503"
         },
         {
-          "title": "Fenerbahçe – Beşiktaş derbisinin heyecanı özel oyunlar ve oyuncu bahisleriyle Misli’de yaşanıyor!",
-          "summary": "Süper Lig’de sezonun ilk derbisinde Fenerbahçe, Beşiktaş’ı konuk ediyor. Bu akşam saat 20.00’de Chobani Stadyumu’nda oynanacak dev derbinin heyecanı, özel oyunlar ve oyuncu bahisleriyle Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-besiktas-derbisinin-heyecani-ozel-oyunlar-ve-oyuncu-bahisleriyle-mislide-yasaniyor-43296994"
+          "title": "Beşiktaş'tan Archie Brown'a 'Hoş geldin' göndermesi! Salih Özcan da katıldı",
+          "summary": "Beşiktaş'ın Fenerbahçe'yi 2-1 mağlup ettiği derbinin ardından siyah-beyazlılardan ve Salih Özcan'dan Archie Brown'ın sözlerine göndermeli yanıt geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-archie-browna-hos-geldin-gondermesi-salih-ozcan-da-katildi-43297495"
         },
         {
-          "title": "Sezonun ilk derbisinde Fenerbahçe favori, Manchester City-Coventry gollü geçmeye aday! İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sezonun-ilk-derbisinde-fenerbahce-favori-manchester-city-coventry-gollu-gecmeye-aday-iste-mislide-gunun-en-cok-oynanan-maclari-43296970"
+          "title": "İsmail Kartal: 'Tüm sorumluluk bende, taraftarımızı üzdük'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Beşiktaş'a 2-1 mağlup oldukları maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-tum-sorumluluk-bende-taraftarimizi-uzduk-43297494"
         },
         {
-          "title": "Kocaelispor Habib Ali Keita'nın sözleşmesini feshetti",
-          "summary": "Kocaelispor, sezon öncesi kampına ve liglerin başlamasına rağmen takıma katılmayan Habib Ali Keita'nın sözleşmesini tek taraflı feshettiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kocaelispor-habib-ali-keitanin-sozlesmesini-feshetti-43296960"
+          "title": "Vlahovic'ten Orkun Kökçü'ye övgü dolu sözler: 'Messi gibi asist!'",
+          "summary": "Beşiktaş'ta Dusan Vlahovic, Orkun Kökçü ve Rıdvan Yılmaz, Fenerbahçe galibiyetinin ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vlahovicten-orkun-kokcuye-ovgu-dolu-sozler-messi-gibi-asist-43297492"
         }
       ]
     },
