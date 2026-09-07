@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-07T04:00:04.212Z",
+  "generatedAt": "2026-09-07T10:00:04.427Z",
   "categories": {
     "gundem": {
-      "text": "Sağlık Bakanlığı harekete geçti, ailelerin kafası karışık... Uzman isim anlattı: Ek doz aşıya gerek var mı?. El Nino güçleniyor, gözler Türkiye’de: Sonbahar için kritik uyarı! Bu hafta hava nasıl olacak?. İran'dan Hürmüz adımı. Yeni yasaklı bölge ilen edilecek. Marmara'da panik. Feribot iskeleye çarptı. Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı. İstanbul'un iki ilçesinde 2 gün denize girme yasağı. Eskişehir’deki korkutan yangın! TOMA da itfaiyeye destek verdi.",
+      "text": "Diyarbakır'da sokak ortasında husumet pususu: Otomobille takip edip tabancayla öldürdü. Çift kol nakilli Cihan’ın ehliyet çilesi: Traktör serbest, otomobil yasak. Ahbap soruşturmasında 20 ilde 53 şüpheliye operasyon. İstanbul'un 24 ilçesinde 9 saat elektrik kesintisi: Hangi ilçelerde kesinti yaşanacak? 9 Eylül BEDAŞ kesinti programı. Muğla’da feci kaza! Otomobil refüje çarptı: 2 ölü. Oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı. Kocaeli'de başladı, Türkiye geneline yayılabilir. Düğüne giderken altın taşıma devri bitiyor.",
       "items": [
         {
-          "title": "Sağlık Bakanlığı harekete geçti, ailelerin kafası karışık... Uzman isim anlattı: Ek doz aşıya gerek var mı?",
-          "summary": "Türkiye'de 2013'ten bu yana tek doz olarak uygulanan suçiçeği aşısında ikinci doz dönemi başladı. Sağlık Bakanlığı’nın 4-6 yaş çocuklar için ikinci doz suçiçeği aşısını rutin takvime eklemesi soru işaretlerini de beraberinde getirdi. Peki ek doz gerçekten gerekli mi? Hastalığı geçiren çocuklara aşı yapılacak mı? 7 yaş ve üzeri çocuklar neden takvime dahil edilmedi?",
-          "source": "https://www.hurriyet.com.tr/gundem/saglik-bakanligi-harekete-gecti-ailelerin-kafasi-karisik-uzman-isim-anlatti-ek-doz-asiya-gerek-var-mi-43295534"
+          "title": "Diyarbakır'da sokak ortasında husumet pususu: Otomobille takip edip tabancayla öldürdü",
+          "summary": "Diyarbakır’ın Yenişehir ilçesinde sabah saatlerinde yolda yürüyen Kadri Başkan kendisini otomobille takip eden husumetlisinin silahlı saldırısına uğradı. Aracından inerek tabancayla kurşun yağdıran saldırgan olay yerinden kaçarken vücuduna mermiler isabet eden Kadri Başkan olay yerinde hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-sokak-ortasinda-husumet-pususu-otomobille-takip-edip-tabancayla-oldurdu-43298812"
         },
         {
-          "title": "El Nino güçleniyor, gözler Türkiye’de: Sonbahar için kritik uyarı! Bu hafta hava nasıl olacak?",
-          "summary": "El Nino’nun sonbahar boyunca daha da güçlenmesi bekleniyor. Tahminler, 2026-27 El Nino’sunun son 80 yılı aşkın sürede kaydedilen en güçlü olaylardan biri olabileceğine işaret ediyor. Türkiye açısından ise sıcak denizler, yüksek nem, Balkanlar üzerinden gelebilecek soğuk hava ve dalgalanabilecek jet akımları dikkat çekiyor. Peki, El Nino’nun etkileri henüz sonbahara yayılmadan Türkiye’de önümüzdeki günlerde hava nasıl olacak? Meteoroloji Uzmanı Dr.",
-          "source": "https://www.hurriyet.com.tr/gundem/el-nino-gucleniyor-gozler-turkiyede-sonbahar-icin-kritik-uyari-bu-hafta-hava-nasil-olacak-43295435"
+          "title": "Çift kol nakilli Cihan’ın ehliyet çilesi: Traktör serbest, otomobil yasak",
+          "summary": "Türkiye'nin ilk çift kol nakillisi Cihan Topal eski tip sürücü belgesini yenilemek için başvurduğunda hakem heyetinin 'Yalnızca F sınıfı (traktör) sürücüsü olabilir' kararıyla karşılaştı. 10 yılı aşkın süredir cezasız ve kazasız şekilde otomobil ile motosiklet kullandığını belirten Topal, \"Dağda traktör serbest ama çocuklarıma baktığım arabamı kullanamıyorum, ehliyetimi geri istiyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cift-kol-nakilli-cihanin-ehliyet-cilesi-traktor-serbest-otomobil-yasak-43298777"
         },
         {
-          "title": "İran'dan Hürmüz adımı. Yeni yasaklı bölge ilen edilecek",
-          "summary": "İran, Hürmüz Boğazı’nın giriş-çıkışının kendi kontrolünde olan yeni koridoruna ilişkin Umman'la anlaşmanın yakında imzalanacağını duyurdu. İran ile ABD arasında yeniden başlayan karşılıklı saldırılar devam ederken, Tahran yönetimi savaşın en kritik alanı olan Hürmüz Boğazı'yla ilgili yeni bir hamle yaptı.",
-          "source": "https://www.ntv.com.tr/turkiye/irandan-hurmuz-adimi-yeni-yasakli-bolge-ilen-edilecek-1740708"
+          "title": "Ahbap soruşturmasında 20 ilde 53 şüpheliye operasyon",
+          "summary": "Ahbap Derneği'ne yönelik soruşturmada 53 şüpheli için yakalama kararı çıkarıldı. İstanbul merkezli 20 ilde eş zamanlı operasyon düzenlendi. Para transferi yapılan şirketler de mercek altına alındı. İstanbul Cumhuriyet Başsavcılığının Ahbap Derneği'ne yönelik soruşturması devam ediyor. Soruşturma kapsamında yeni bir operasyon daha gerçekleştirildi. Açıklama Adalet Bakanı Akın Gürlek tarafından yapıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ahbap-sorusturmasinda-20-ilde-53-supheliye-operasyon-1740770"
         },
         {
-          "title": "Marmara'da panik. Feribot iskeleye çarptı.",
-          "summary": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı. Kaza, akşam saatlerinde Bursa Mudanya İskelesi'nde meydana geldi. İstanbul'dan Mudanya'ya sefer yapan İstanbul Deniz Otobüsleri'ne (İDO) ait feribot, henüz belirlenemeyen nedenle iskeleye çarptı. Çarpmanın etkisiyle feribotun ön kısmında hasar meydana geldi. Yolcular büyük panik yaşarken, yaralanan olmadı. Olayla ilgili inceleme başlatıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/marmarada-panik-feribot-iskeleye-carpti-1740705"
+          "title": "İstanbul'un 24 ilçesinde 9 saat elektrik kesintisi: Hangi ilçelerde kesinti yaşanacak? 9 Eylül BEDAŞ kesinti programı",
+          "summary": "İstanbul Avrupa Yakası'nda elektrik hizmeti sunan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke yenileme ve periyodik altyapı çalışmaları kapsamında yeni bir planlı elektrik kesintisi yapacak. İstanbul'da yaşayan ve milyonlarca vatandaşı etkileyecek elektrik kesintisi duyurusu BEDAŞ tarafından yapıldı. Şehir genelinde yürütülen şebeke yenileme, bakım ve isale hattı bağlantı çalışmaları nedeniyle Avrupa Yakası genelinde geniş kapsamlı planlı elektrik kesintileri uygulanacak. Boğaziçi Elektrik Dağıtım A.Ş.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-24-ilcesinde-9-saat-elektrik-kesintisi-hangi-ilcelerde-kesinti-yasanacak-9-eylul-bedas-1740775"
         },
         {
-          "title": "Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı",
-          "summary": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı. 51 yaşındaki oyuncu Serhat Mustafa Kılıç, Kağıthane’deki evinde sevgilisi tarafından ölü bulunmuştu. Serhat Kılıç'ın son görüntüsü yaşadığı binanın güvenlik kamerasına yansırken, kız arkadaşının emniyetteki ifade de ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-mustafa-kilicin-son-goruntuleri-ortaya-cikti-1740689"
+          "title": "Muğla’da feci kaza! Otomobil refüje çarptı: 2 ölü",
+          "summary": "Muğla'nın Seydikemer ilçesinde bulunan Alaçat Mahallesi'nde saat 07.00 sıralarında refüje çarpan otomobilin sürücüsü İsa Bozkurt ile yanındaki Ramazan Karataş hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/muglada-feci-kaza-otomobil-refuje-carpti-2-olu-43298739"
         },
         {
-          "title": "İstanbul'un iki ilçesinde 2 gün denize girme yasağı",
-          "summary": "Karadeniz'e kıyısı bulunan Sarıyer ve Beykoz'da olumsuz hava şartları nedeniyle 2 gün boyunca denize girmek yasaklandı. İstanbul'un Sarıyer ve Beykoz ilçelerinde dalga boyu yüksekliği nedeniyle 7 ve 8 Eylül günlerinde denize girme yasağı ilan edildi. İki ilçenin kaymakamlıklarından yapılan açıklamalarda son meteorolojik değerlendirmeler doğrultusunda 7 Eylül Pazartesi gününden itibaren, 8 Eylül Salı günü bitimine kadar dalga boyunun yüksek olacağının değerlendirildiği belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulun-iki-ilcesinde-2-gun-denize-girme-yasagi-1740706"
+          "title": "Oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı",
+          "summary": "İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı. İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümüne ilişkin soruşturmada dosyaya yeni ayrıntılar girdi. Emniyet güçlerinin olay yeri inceleme raporunda metal bir kuyu ile valizde bulunan maddelere dikkat çekildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-kilicin-olumunde-olay-yeri-inceleme-raporu-ortaya-cikti-1740772"
         },
         {
-          "title": "Eskişehir’deki korkutan yangın! TOMA da itfaiyeye destek verdi",
-          "summary": "Eskişehir’de Baksan Sanayi Sitesinde 2 katlı bir yapı denetim malzemeleri satan işletmede yangın çıktı. Çok sayıda itfaiye ekibinin yanı sıra alevlere TOMA da söndürme çalışmalarına destek verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/eskisehirdeki-bir-isletmede-yangin-toma-da-itfaiyeye-destek-verdi-43298433"
+          "title": "Kocaeli'de başladı, Türkiye geneline yayılabilir. Düğüne giderken altın taşıma devri bitiyor",
+          "summary": "Düğün ve nikahlarda kiosk üzerinden sipariş edilen fiziki altın, İstanbul Kuyumcular Odası güven etiketiyle sigortalı olarak belirtilen adrese gönderiliyor. ALTIN SİPARİŞİ DİJİTAL EKRANDAN VERİLECEK Düğün ve nikah gibi organizasyonlarda altın almak isteyenler için geliştirilen kiosk sistemiyle, fiziki altın siparişi dijital ekran üzerinden verilebiliyor. Seçilen altın, sigortalı kargoyla belirtilen adrese gönderiliyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kocaelide-basladi-turkiye-geneline-yayilabilir-dugune-giderken-altin-tasima-devri-bitiyor-1740765"
         }
       ]
     },
     "dunya": {
-      "text": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti. İsrail'in Gazze'ye yönelik saldırılarında 5 Filistinli hayatını kaybetti. Almanya’da seçim depremi: AfD oylarını ikiye katladı, tek başına iktidarı kıl payı kaçırdı. Mucize kurtuluş. Çamur altında 10 gün yaşam mücadelesi verdi. İran'dan ABD'ye sert mesaj: \"Daha hızlı ve daha yoğun vururuz\". Kiev'de kritik görüşme... Zelenski: Savaşın sona ermesini istiyoruz. Netanyahu’dan İran’a tehdit: Hayal bile edemeyeceği bir darbe alır.",
+      "text": "İran'dan ABD'ye saldırı uyarısı: Petrol ve doğal gaz şirketleri hedef olur. Japon ve Çin uçakları karşı karşıya geldi. Sudan'da iç savaşın faturası: 11 bin kişi kayıp. Trump dizinin yeni bölümünden önce paylaştı. Bu kez kendini çizgi roman kahramanı yaptı. Şile'de karaya oturan Rus gemisinin içi ilk kez görüntülendi: \"İçeride hala barut\". Rusya'dan Ukrayna'da peş peşe saldırılar. Trump harita paylaştı, eyaletin ismini değiştirdi.",
       "items": [
         {
-          "title": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti",
-          "summary": "ABD'de Amazon'a ait Boeing 767 tipi bir kargo uçağının, Florida eyaletindeki Miami Uluslararası Havalimanı'na inerken pistten çıkması sonucu 5 kişinin hayatını kaybettiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-kargo-ucagi-pistten-cikti-5-kisi-hayatini-kaybetti-43298453"
+          "title": "İran'dan ABD'ye saldırı uyarısı: Petrol ve doğal gaz şirketleri hedef olur",
+          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin İran'a ait petrol tankerlerini hedef alması halinde misilleme yapacaklarını duyurdu. Kalibaf, enerji kaynaklarına saldırıya bölgedeki Amerikan petrol ve doğal gaz şirketlerini hedef alarak yanıt vereceklerini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdye-saldiri-uyarisi-petrol-ve-dogal-gaz-sirketleri-hedef-olur-43298771"
         },
         {
-          "title": "İsrail'in Gazze'ye yönelik saldırılarında 5 Filistinli hayatını kaybetti",
-          "summary": "İsrail ordusunun sabah saatlerinden bu yana Gazze Şeridi'nin kuzey ve orta kesimlerinde düzenlediği saldırılarda, aralarında bir baba ile kızının da bulunduğu 5 Filistinli yaşamını yitirdi, çok sayıda kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilin-gazzeye-yonelik-saldirilarinda-5-filistinli-hayatini-kaybetti-43298452"
+          "title": "Japon ve Çin uçakları karşı karşıya geldi",
+          "summary": "Doğu Çin Denizi'ndeki ihtilaflı sular üzerinde Japonya'ya ait savaş uçaklarının Çin'e ait istihbarat uçaklarına karşı önleme uçuşu yaptığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/japon-ve-cin-ucaklari-karsi-karsiya-geldi-43298762"
         },
         {
-          "title": "Almanya’da seçim depremi: AfD oylarını ikiye katladı, tek başına iktidarı kıl payı kaçırdı",
-          "summary": "Almanya’nın Saksonya-Anhalt eyaletinde yapılan seçimlerde sandık çıkış anketleri siyasi dengeleri sarsacak bir tablo ortaya koydu. Aşırı sağcı Almanya için Alternatif Partisi (AfD), 2021 seçimlerine göre oyunu 23,7 puan artırarak yüzde 44,5 ile açık ara birinci olurken, eyalet meclisinde tek başına çoğunluğu kıl payı kaçırdı. CDU’nun 18,6 puanlık sert kayıpla yüzde 18,5’e gerilediği seçim sonuçları dünya basınında “tarihi” ve “ezici zafer” yorumlarıyla son dakika gelişmesi olarak duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-secim-depremi-afd-oylarini-ikiye-katladi-tek-basina-iktidari-kil-payi-kacirdi-43298395"
+          "title": "Sudan'da iç savaşın faturası: 11 bin kişi kayıp",
+          "summary": "Uluslararası Kızılhaç Komitesi (ICRC), Sudan'da 11 binden fazla aktif kayıp kişi vakası bulunduğunu kaydetti. ICRC, kayıpların bulunması için iç savaşın taraflarıyla gizli görüşmeler yürüttüğünü belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/sudanda-ic-savasin-faturasi-11-bin-kisi-kayip-43298720"
         },
         {
-          "title": "Mucize kurtuluş. Çamur altında 10 gün yaşam mücadelesi verdi",
-          "summary": "Nepal’deki sel felaketinde hayatını kaybettiği düşünülen yaşlı kadın, çöken evinin içinde 10 gün sonra sağ bulundu. Ailesinin 11 günlük yas dönemini başlattığı Chandika Kumari Shrestha’nın su ve çamur Nepal’de bin 300’den fazla kişinin yaşamını yitirdiği sel felaketinde, umutların azaldığı bir anda mucizevi bir kurtuluş yaşandı. Chandika Kumari Shrestha’nın ailesi, yaşlı kadının selde hayatını kaybettiğine inanarak yas ritüellerine başladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-mucize-kurtulus-camur-altinda-10-gun-yasam-mucadelesi-verdi-1740699"
+          "title": "Trump dizinin yeni bölümünden önce paylaştı. Bu kez kendini çizgi roman kahramanı yaptı",
+          "summary": "Beyaz Saray, ABD Başkanı Donald Trump'ı yapay zekayla Yeşil Fener kılığında sundu. Paylaşımın \"Lanterns\" dizisinin yeni bölümünden hemen önce yapılması dikkati çekti. ABD Başkanı Donald Trump, son günlerde sosyal medya hesaplarında paylaştığı mesajlarla gündemde. Trump, ilk olarak Truth Social platformundaki hesabından arka planda Dünya'nın ve bir Amerikan bayrağının yer aldığı yakın çekim bir Ay fotoğrafı paylaştı. Görselin üzerine \"Ay bizimdir\" ifadesini ekledi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-dizinin-yeni-bolumunden-once-paylasti-bu-kez-kendini-cizgi-roman-kahramani-yapti-1740757"
         },
         {
-          "title": "İran'dan ABD'ye sert mesaj: \"Daha hızlı ve daha yoğun vururuz\"",
-          "summary": "İran'ın baş müzakerecisi ve Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin yeni saldırılar düzenlemesi halinde Tahran'ın daha sert karşılık vereceğini söyledi. Kalibaf, devlet medyasına yansıyan konuşmasında, \"Amerikalılar orantılı yanıt döneminin sona erdiğini anlamış olmalı\" dedi. İranlı yetkili, \"İran'ın çıkarlarına ve güvenliğine yönelik her saldırı daha hızlı, daha yoğun ve daha acı verici bir karşılık alacak\" ifadelerini kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-irandan-abdye-sert-mesaj-daha-hizli-ve-daha-yogun-vururuz-1740691"
+          "title": "Şile'de karaya oturan Rus gemisinin içi ilk kez görüntülendi: \"İçeride hala barut\"",
+          "summary": "Karadeniz'de saldırıya uğrayıp Şile'de karaya oturan Rus kargo gemisi OMSKIY-107'nin içi ilk kez görüntülendi. Geminin saldırı sonrasında adeta savaş alanına dönen iç bölümlerine giren içerik üreticileri Mustafa Kurt ile İbrahim Koyuncu, yanmış kaptan köşkü, parçalanmış ekipmanlar ve ağır hasarı görüntülerken, gemide hala barut kokusu olduğunu ifade etti. Daha önce yalnızca dışarıdan ve havadan görüntülenen geminin içindeki hasarın boyutu, yeni görüntülerle ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/video-silede-karaya-oturan-rus-gemisinin-ici-ilk-kez-goruntulendi-iceride-hala-barut-1740760"
         },
         {
-          "title": "Kiev'de kritik görüşme... Zelenski: Savaşın sona ermesini istiyoruz",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Ukrayna'daki savaşın sona erdirilmesine yönelik temaslarda bulunmak üzere Kiev'e gelen ABD Başkanı Donald Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner'le görüştü. Zelenski, \"Biz acı ve ölümler istemiyoruz. Bu savaşın adil bir şekilde ve Rusya'nın Ukrayna'ya yönelik saldırganlık için artık imkanının kalmayacağı şekilde sona ermesini istiyoruz\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kievde-kritik-gorusme-zelenski-savasin-sona-ermesini-istiyoruz-43298232"
+          "title": "Rusya'dan Ukrayna'da peş peşe saldırılar",
+          "summary": "Rusya Savunma Bakanlığı, Ukrayna'da askeri amaçla kullanılan gemi, tesis ve devriye botunu hedef aldıklarını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-ukraynada-pes-pese-saldirilar-43298622"
         },
         {
-          "title": "Netanyahu’dan İran’a tehdit: Hayal bile edemeyeceği bir darbe alır",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, İran’ın İsrail’e saldırmaktan kaçındığını öne sürerek, olası bir saldırıya çok sert karşılık vereceklerini söyledi. Netanyahu, “İran’daki yönetimin sonu yakın” iddiasında da bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahudan-irana-tehdit-hayal-bile-edemeyecegi-bir-darbe-alir-43298233"
+          "title": "Trump harita paylaştı, eyaletin ismini değiştirdi",
+          "summary": "ABD Başkanı Donald Trump, New Mexico eyaletinin adını \"New America\" olarak değiştiren bir harita paylaştı. ABD Başkanı Donald Trump, Truth Social platformundaki hesabından New Mexico eyaletinin adının \"New America\" (Yeni Amerika) olarak değiştirilmesini öneren bir harita görseli paylaştı. Beyaz Saray'ın da X platformunda yeniden yayınladığı görselde, eyalet sınırları içindeki \"Mexico\" sözcüğünün kırmızı bir çizgiyle çizildiği ve yerine \"America\" yazıldığı görülüyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-harita-paylasti-eyaletin-ismini-degistirdi-1740752"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Daniele Santarelli: 'Bütün enerjimi Türkiye için veriyorum!'. Filenin Sultanları, Los Angeles 2028 Olimpiyat Oyunları biletini aldı!. Fabinho: 'Reaksiyon vermemiz zorunluluktu!'. Selçuk İnan'dan Galatasaray açıklaması: 'Duygusal bir maç olacak!'. Thorsten Fink: 'Hatamızın bedelini ödedik!'. Avrupa Şampiyonası'nın en iyilerine Filenin Sultanları damgası!. Hüseyin Çimşir: 'İnsanlara hayal satmıyorum!'.",
+      "text": "Filenin Sultanları'nın zaferinde kırılma noktası! İlk Eda Erdem fark etti, takım ateşlendi. Sporting-Galatasaray maçının hakemi açıklandı. Avrupa’nın sultanları! Turnuvayı domine ettik... Şampiyonluğun ardındaki kritik hamleler nelerdi?. Sea to Sky’da şampiyonluk yarışı Kemer’de kızışıyor. Türk kadın voleybolu 2026'ya damga vurdu!. Premier Lig'de Hull City'ye gol atmak, puan almaktan zor. Rizespor Alanyaspor ile, Göztepe Gaziantep FK ile karşı karşıya geliyor! Maçların heyecanı Misli'de.",
       "items": [
         {
-          "title": "Daniele Santarelli: 'Bütün enerjimi Türkiye için veriyorum!'",
-          "summary": "Trendyol 2026 CEV Avrupa Şampiyonası finalinde İtalya'yı 3-2 yenerek şampiyon olan A Milli Kadın Voleybol Takımı'nın başantrenörü Daniele Santarelli ile kaptan Eda Erdem Dündar, bu yaz belirledikleri hedeflere ulaştıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-butun-enerjimi-turkiye-icin-veriyorum-43298406"
+          "title": "Filenin Sultanları'nın zaferinde kırılma noktası! İlk Eda Erdem fark etti, takım ateşlendi",
+          "summary": "Filenin Sultanları'nın İtalya'yı CEV Avrupa Şampiyonası finalinde yenerek şampiyon olduğu maçta 3. set sonu yaşanan olay çok konuşuldu. Ağır kaybedilen set sonrası Vargas'ın döktüğü gözyaşı geri dönüşün fitilini ateşledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlarinin-zaferinde-kirilma-noktasi-ilk-eda-erdem-fark-etti-takim-ateslendi-43298809"
         },
         {
-          "title": "Filenin Sultanları, Los Angeles 2028 Olimpiyat Oyunları biletini aldı!",
-          "summary": "A Milli Kadın Voleybol Takımı, 2026 CEV Trendyol Kadınlar Avrupa Voleybol Şampiyonası’nda şampiyonluğa ulaşarak 2028 Los Angeles Olimpiyat Oyunları’na doğrudan katılma hakkı kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-los-angeles-2028-olimpiyat-oyunlari-biletini-aldi-43298398"
+          "title": "Sporting-Galatasaray maçının hakemi açıklandı",
+          "summary": "UEFA Şampiyonlar Ligi'nde temsilcimiz Galatasaray'ın deplasmanda oynayacağı Sporting müsabakasını yönetecek hakem belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sporting-galatasaray-macinin-hakemi-aciklandi-43298761"
         },
         {
-          "title": "Fabinho: 'Reaksiyon vermemiz zorunluluktu!'",
-          "summary": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Gençlerbirliği'ni 5-0 yenen Trabzonspor'da futbolculardan Fabinho, kaybettikleri son maçın ardından bu tür bir reaksiyon göstermelerinin kendileri için zorunluluk olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fabinho-reaksiyon-vermemiz-zorunluluktu-43298391"
+          "title": "Avrupa’nın sultanları! Turnuvayı domine ettik... Şampiyonluğun ardındaki kritik hamleler nelerdi?",
+          "summary": "A Milli Kadın Voleybol Takımı, 2026 Avrupa Voleybol Şampiyonası finalinde İtalya’yı geriden gelerek 3-2 mağlup etti ve tarihinde ikinci kez Avrupa’nın en büyüğü oldu. Eski Milli Voleybolcu Esra Gümüş Kırıcı, milli takımın İtalya karşısındaki unutulmaz geri dönüşünü, maçın kırılma noktalarını, Melissa Vargas’ın performansını, olimpiyat vizesini ve kadroda yer alamayan Ebrar Karakurt hakkındaki iddiaları değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/avrupanin-sultanlari-turnuvayi-domine-ettik-sampiyonlugun-ardindaki-kritik-hamleler-nelerdi-43298737"
         },
         {
-          "title": "Selçuk İnan'dan Galatasaray açıklaması: 'Duygusal bir maç olacak!'",
-          "summary": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Samsunspor'u 1-0 yenen Kocaelispor'da teknik direktör Selçuk İnan, ligin uzun ve zorlu olduğunu, kazanabildikleri kadar maç kazanıp toplayabildikleri kadar puan toplamak istediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inandan-galatasaray-aciklamasi-duygusal-bir-mac-olacak-43298390"
+          "title": "Sea to Sky’da şampiyonluk yarışı Kemer’de kızışıyor",
+          "summary": "FIM Hard Enduro Dünya Şampiyonası’nda sezonun kritik virajı Kemer’de dönülecek. 7-10 Ekim 2026 tarihlerinde düzenlenecek Sea to Sky, dünyanın önde gelen Hard Enduro sporcularını ülkemizde buluştururken, şampiyonluk rekabetinin de en önemli duraklarından biri olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sea-to-skyda-sampiyonluk-yarisi-kemerde-kizisiyor-43298766"
         },
         {
-          "title": "Thorsten Fink: 'Hatamızın bedelini ödedik!'",
-          "summary": "Trendyol Süper Lig'in 4. haftasında deplasmanda Kocaelispor'a 1-0 yenilen Samsunspor'da teknik direktör Thorsten Fink, yakaladıkları fırsatları değerlendiremediklerini ve maçın genelinde yaptıkları tek hatanın bedelini kaybederek ödediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/thorsten-fink-hatamizin-bedelini-odedik-43298387"
+          "title": "Türk kadın voleybolu 2026'ya damga vurdu!",
+          "summary": "A Milli Kadın Voleybol Takımı'nın Avrupa Şampiyonası'nda üst üste ikinci kez zirveye çıktığı 2026 senesi, kulüp ve milli takım düzeyinde elde edilen başarılarla Türk kadın voleybolunun yılı oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turk-kadin-voleybolu-2026ya-damga-vurdu-43298758"
         },
         {
-          "title": "Avrupa Şampiyonası'nın en iyilerine Filenin Sultanları damgası!",
-          "summary": "2026 CEV Avrupa Voleybol Şampiyonası’nda Türkiye şampiyonluğa ulaşırken, ödüller sahiplerini buldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/avrupa-sampiyonasinin-en-iyilerine-filenin-sultanlari-damgasi-43298338"
+          "title": "Premier Lig'de Hull City'ye gol atmak, puan almaktan zor",
+          "summary": "İngiltere Premier Lig ekiplerinden Hull City'nin kaleci antrenörü Erbil Bozkurt, Yunan file bekçisi Konstantinos Tzolakis'i uzun süre takip ettikten sonra transfer ettiklerini ve uzun vadede güçlü bir kaleci grubuna sahip olduklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/premier-ligde-hull-cityye-gol-atmak-puan-almaktan-zor-43298748"
         },
         {
-          "title": "Hüseyin Çimşir: 'İnsanlara hayal satmıyorum!'",
-          "summary": "Trabzonspor Teknik Direktörü Hüseyin Çimşir, Gençlerbirliği galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/huseyin-cimsir-insanlara-hayal-satmiyorum-43298334"
+          "title": "Rizespor Alanyaspor ile, Göztepe Gaziantep FK ile karşı karşıya geliyor! Maçların heyecanı Misli'de",
+          "summary": "Süper Lig'in 4. haftasında Rizespor, evinde Alanyaspor ile karşı karşıya gelecek. Göztepe ise Gaziantep FK'yı ağırlayacak. Maçların heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rizespor-alanyaspor-ile-goztepe-gaziantep-fk-ile-karsi-karsiya-geliyor-maclarin-heyecani-mislide-43298700"
         }
       ]
     },
     "teknoloji": {
-      "text": "SpaceX'in Avrupalı rakibinden tarihi başarı. İstanbul uzaydan böyle görünüyor. Fotoğraflar paylaşıldı. Yapay zeka devi, 2 trilyon dolarlık halka arz takvimini erteledi. EBSO Başkan adayı Mustafa Karabağlı 'Yeni Nesil Sanayicilik' vizyonunu açıkladı. Sessiz bir buz kütlesiydi, Satürn'le karşılaşınca kaderi değişti. Bir kuyruklu yıldız doğuyor. iPhone alacaklar dikkate alsın. iPhone 18'in fiyatı 150 bin lirayı aşabilir. OpenAI yeni modeli GPT-6 Astra’yı tanıttı.",
+      "text": "GTA 6 için Türkçe dil desteği gelecek mi? Yapımcı şirketten yanıt. SpaceX'in Avrupalı rakibinden tarihi başarı. İstanbul uzaydan böyle görünüyor. Fotoğraflar paylaşıldı. Yapay zeka devi, 2 trilyon dolarlık halka arz takvimini erteledi. EBSO Başkan adayı Mustafa Karabağlı 'Yeni Nesil Sanayicilik' vizyonunu açıkladı. Sessiz bir buz kütlesiydi, Satürn'le karşılaşınca kaderi değişti. Bir kuyruklu yıldız doğuyor. iPhone alacaklar dikkate alsın. iPhone 18'in fiyatı 150 bin lirayı aşabilir.",
       "items": [
+        {
+          "title": "GTA 6 için Türkçe dil desteği gelecek mi? Yapımcı şirketten yanıt",
+          "summary": "GTA 6'da Türkçe dil desteği yer alabilir. Tan Production kurucusu Tan Şahin Kanat, Take-Two Interactive CEO'su Strauss Zelnick'in verdiği yanıtı paylaştı. Video oyun sektörünün merakla beklediği Grand Theft Auto 6 (GTA 6) yapımında Türkçe dil seçeneğinin yer alabileceğine dair yeni bir iddia ortaya atıldı. Oyunun geliştiricisi Rockstar Games şirketinin çatı kuruluşu Take-Two Interactive'in üst yönetiminin, Türkiye'deki bağımsız bir yerelleştirme ekibinin talebine doğrudan yanıt verdiği öne sürüldü.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-icin-turkce-dil-destegi-gelecek-mi-yapimci-sirketten-yanit-1740745"
+        },
         {
           "title": "SpaceX'in Avrupalı rakibinden tarihi başarı",
           "summary": "Almanya merkezli havacılık ve uzay şirketi Isar Aerospace, Avrupa'dan ilk ticari fırlatmasını başarıyla gerçekleştirdi. Bir Alman havacılık firması, Avrupa'dan yörüngeye roket fırlatan ilk ticari kuruluş oldu. Bu gelişme, Avrupa ülkelerinin ABD uzay pazarına yetişme çabaları için ileriye doğru atılmış bir adım anlamına geliyor. Isar Aerospace'in Spectrum fırlatma aracı, Norveç'in Andøya Uzay Merkezi'ndeki bir fırlatma rampasından kalkış yaptıktan sonra beş küçük uyduyu başarıyla yörüngeye taşıdı.",
@@ -195,11 +200,6 @@
           "title": "iPhone alacaklar dikkate alsın. iPhone 18'in fiyatı 150 bin lirayı aşabilir",
           "summary": "Bellek maliyetlerindeki artış nedeniyle iPhone 18 serisinin fiyatlarının yüzde 10-20 artması bekleniyor. TrendForce, Apple'ın 2026'dan itibaren ürün lansman takvimini değiştirerek yeni modelleri sonbahar ve ilkbahar dönemlerine bölmeyi planladığını bildirdi. Bu sonbahar amiral gemisi iPhone 18 Pro ve Pro Max ile birlikte Apple'ın ilk katlanabilir akıllı telefonu olan iPhone 18 Fold (geçici isim) tanıtılacak. Standart iPhone 18 ve diğer modellerin ise 2027'nin ilk çeyreğinde piyasaya sürülmesi bekleniyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-iphone-alacaklar-dikkate-alsin-iphone-18in-fiyati-150-bin-lirayi-asabilir-1740311"
-        },
-        {
-          "title": "OpenAI yeni modeli GPT-6 Astra’yı tanıttı",
-          "summary": "OpenAI, şimdiye kadarki en hızlı ve yetenekli yapay zeka modeli olarak tanımladığı GPT-6 Astra’yı duyurdu. OpenAI, perşembe günü GPT-6 Astra adını verdiği yeni yapay zeka modelini tanıttı. Şirket, Astra’nın bugüne kadar geliştirdiği en yetenekli model olduğunu belirtirken, modelin insan gözetiminden kaçınmaya yönelik davranışlar gösterebildiği konusunda da uyardı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-openai-yeni-modeli-gpt-6-astrayi-tanitti-1740277"
         }
       ]
     },
