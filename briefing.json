@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-06T16:00:04.507Z",
+  "generatedAt": "2026-09-07T04:00:04.212Z",
   "categories": {
     "gundem": {
-      "text": "KKTC Başbakanı Üstel: Tüm kayıplarımıza ulaşmak için yeni teknik imkanları devreye alıyoruz. Bakan Gürlek: Reformlarımızı kararlılıkla sürdüreceğiz. Evin çatısından boğa girdi. Oğluyla ilk kez maça gitmişti. Derbide kalbine yenildi. Kabine, Erdoğan başkanlığında yarın toplanıyor. Bakan Gürlek OVP paylaşımı. \"Adalet hizmetlerinin etkinliğini artıracağız\". Korkutan nüfus tablosu: Türkiye'de her 100 hanenin 58'inde çocuk sesi yok.",
+      "text": "Sağlık Bakanlığı harekete geçti, ailelerin kafası karışık... Uzman isim anlattı: Ek doz aşıya gerek var mı?. El Nino güçleniyor, gözler Türkiye’de: Sonbahar için kritik uyarı! Bu hafta hava nasıl olacak?. İran'dan Hürmüz adımı. Yeni yasaklı bölge ilen edilecek. Marmara'da panik. Feribot iskeleye çarptı. Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı. İstanbul'un iki ilçesinde 2 gün denize girme yasağı. Eskişehir’deki korkutan yangın! TOMA da itfaiyeye destek verdi.",
       "items": [
         {
-          "title": "KKTC Başbakanı Üstel: Tüm kayıplarımıza ulaşmak için yeni teknik imkanları devreye alıyoruz",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti Başbakanı Ünal Üstel, “Mevcut çalışmalara ek olarak yeni teknik imkanlar ve alternatif yöntemler devreye alınacak” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kktc-basbakani-ustel-tum-kayiplarimiza-ulasmak-icin-yeni-teknik-imkanlari-devreye-aliyoruz-43298178"
+          "title": "Sağlık Bakanlığı harekete geçti, ailelerin kafası karışık... Uzman isim anlattı: Ek doz aşıya gerek var mı?",
+          "summary": "Türkiye'de 2013'ten bu yana tek doz olarak uygulanan suçiçeği aşısında ikinci doz dönemi başladı. Sağlık Bakanlığı’nın 4-6 yaş çocuklar için ikinci doz suçiçeği aşısını rutin takvime eklemesi soru işaretlerini de beraberinde getirdi. Peki ek doz gerçekten gerekli mi? Hastalığı geçiren çocuklara aşı yapılacak mı? 7 yaş ve üzeri çocuklar neden takvime dahil edilmedi?",
+          "source": "https://www.hurriyet.com.tr/gundem/saglik-bakanligi-harekete-gecti-ailelerin-kafasi-karisik-uzman-isim-anlatti-ek-doz-asiya-gerek-var-mi-43295534"
         },
         {
-          "title": "Bakan Gürlek: Reformlarımızı kararlılıkla sürdüreceğiz",
-          "summary": "Adalet Bakanı Akın Gürlek, \"2027-2029 Orta Vadeli Programı (OVP) doğrultusunda; adalet hizmetlerimizin etkinliğini artıracak, adalete erişimi kolaylaştıracak ve hukuki öngörülebilirliği güçlendirecek reformlarımızı kararlılıkla sürdüreceğiz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-reformlarimizi-kararlilikla-surdurecegiz-43298176"
+          "title": "El Nino güçleniyor, gözler Türkiye’de: Sonbahar için kritik uyarı! Bu hafta hava nasıl olacak?",
+          "summary": "El Nino’nun sonbahar boyunca daha da güçlenmesi bekleniyor. Tahminler, 2026-27 El Nino’sunun son 80 yılı aşkın sürede kaydedilen en güçlü olaylardan biri olabileceğine işaret ediyor. Türkiye açısından ise sıcak denizler, yüksek nem, Balkanlar üzerinden gelebilecek soğuk hava ve dalgalanabilecek jet akımları dikkat çekiyor. Peki, El Nino’nun etkileri henüz sonbahara yayılmadan Türkiye’de önümüzdeki günlerde hava nasıl olacak? Meteoroloji Uzmanı Dr.",
+          "source": "https://www.hurriyet.com.tr/gundem/el-nino-gucleniyor-gozler-turkiyede-sonbahar-icin-kritik-uyari-bu-hafta-hava-nasil-olacak-43295435"
         },
         {
-          "title": "Evin çatısından boğa girdi",
-          "summary": "Aydın’ın ineğin peşinden koşan damızlık boğa, bir evin çatısına düştü. İlginç olay, Nazilli ilçesine bağlı Kırcaklı köyünde Ali Aldemir’in evinde meydana geldi. Edinilen bilgiye göre, büyükbaş hayvan yetiştiriciliği yapan Ali Aldemir, ineklerini tohumlaması için serbest bıraktığı damızlık boğa, bir ineğin peşinden koşarken bir anda besihanenin alt tarafında bulunan evin çatısına düştü. Kiremitleri kırıp çatıyı da delen damızlık boğa yarısı evin içinde sırtı da çatının üzerinde askıda kaldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-evin-catisindan-boga-girdi-1740680"
+          "title": "İran'dan Hürmüz adımı. Yeni yasaklı bölge ilen edilecek",
+          "summary": "İran, Hürmüz Boğazı’nın giriş-çıkışının kendi kontrolünde olan yeni koridoruna ilişkin Umman'la anlaşmanın yakında imzalanacağını duyurdu. İran ile ABD arasında yeniden başlayan karşılıklı saldırılar devam ederken, Tahran yönetimi savaşın en kritik alanı olan Hürmüz Boğazı'yla ilgili yeni bir hamle yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/irandan-hurmuz-adimi-yeni-yasakli-bolge-ilen-edilecek-1740708"
         },
         {
-          "title": "Oğluyla ilk kez maça gitmişti. Derbide kalbine yenildi",
-          "summary": "Fenerbahçe-Beşiktaş derbisinde tribünde kalp krizi geçirerek hayatını kaybeden Fenerbahçe taraftarı Gerçek Yaşar’ın, oğlu ile ilk kez birlikte stadyumda maç izlemeye gittiği ortaya çıktı. Jandarma asteğmen olarak görev yaptığı Bingöl’de 2003 yılında teröristlerle çıkan çatışmada yaralanarak gazi olan Gerçek Yaşar, daha sonra Mersin’de Mut Orman İşletme Müdürlüğü’nde çalıştı ve buradan emekli oldu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ogluyla-ilk-kez-maca-gitmisti-derbide-kalbine-yenildi-1740678"
+          "title": "Marmara'da panik. Feribot iskeleye çarptı.",
+          "summary": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı. Kaza, akşam saatlerinde Bursa Mudanya İskelesi'nde meydana geldi. İstanbul'dan Mudanya'ya sefer yapan İstanbul Deniz Otobüsleri'ne (İDO) ait feribot, henüz belirlenemeyen nedenle iskeleye çarptı. Çarpmanın etkisiyle feribotun ön kısmında hasar meydana geldi. Yolcular büyük panik yaşarken, yaralanan olmadı. Olayla ilgili inceleme başlatıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/marmarada-panik-feribot-iskeleye-carpti-1740705"
         },
         {
-          "title": "Kabine, Erdoğan başkanlığında yarın toplanıyor",
-          "summary": "Kabine, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında yarın toplanacak. Masada Terörsüz Türkiye süreci, sosyal konut projeleri ve bölgesel konular gibi birçok başlığın olması bekleniyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kabine-erdogan-baskanliginda-yarin-toplaniyor-43298132"
+          "title": "Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı",
+          "summary": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı. 51 yaşındaki oyuncu Serhat Mustafa Kılıç, Kağıthane’deki evinde sevgilisi tarafından ölü bulunmuştu. Serhat Kılıç'ın son görüntüsü yaşadığı binanın güvenlik kamerasına yansırken, kız arkadaşının emniyetteki ifade de ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-mustafa-kilicin-son-goruntuleri-ortaya-cikti-1740689"
         },
         {
-          "title": "Bakan Gürlek OVP paylaşımı. \"Adalet hizmetlerinin etkinliğini artıracağız\"",
-          "summary": "Adalet Bakanı Akın Gürlek, Türkiye'nin ekonomide 3 yıllık hedefi olan Orta Vadeli Programı değerlendirdi. Adalet Bakanı Akın Gürlek, sosyal medya hesabından paylaşımda bulunarak, Orta Vadeli Program (OVP) hakkında değerlendirme yaptı. Gürlek, OVP doğrultusunda, adalet hizmetlerinin etkinliğini artıracak, adalete erişimi kolaylaştıracak ve hukuki öngörülebilirliği güçlendirecek reformları sürdüreceklerini belirtti.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-gurlek-ovp-paylasimi-adalet-hizmetlerinin-etkinligini-artiracagiz-1740677"
+          "title": "İstanbul'un iki ilçesinde 2 gün denize girme yasağı",
+          "summary": "Karadeniz'e kıyısı bulunan Sarıyer ve Beykoz'da olumsuz hava şartları nedeniyle 2 gün boyunca denize girmek yasaklandı. İstanbul'un Sarıyer ve Beykoz ilçelerinde dalga boyu yüksekliği nedeniyle 7 ve 8 Eylül günlerinde denize girme yasağı ilan edildi. İki ilçenin kaymakamlıklarından yapılan açıklamalarda son meteorolojik değerlendirmeler doğrultusunda 7 Eylül Pazartesi gününden itibaren, 8 Eylül Salı günü bitimine kadar dalga boyunun yüksek olacağının değerlendirildiği belirtildi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulun-iki-ilcesinde-2-gun-denize-girme-yasagi-1740706"
         },
         {
-          "title": "Korkutan nüfus tablosu: Türkiye'de her 100 hanenin 58'inde çocuk sesi yok",
-          "summary": "YÜZAG tarafından hazırlanan \"Geniş Aile\" projesinin tanıtımında aile yapısına ilişkin çarpıcı veriler paylaşan Aile ve Sosyal Hizmetler Bakan Yardımcısı Sevim Sayım Madak, Türkiye'deki hanelerin yüzde 58'inde 18 yaş altı tek bir çocuğun bile bulunmadığını açıkladı. Canlı doğum oranlarının nesiller arasında neredeyse yarı yarıya gerilediğini vurgulayan Madak, \"Bu tablo, aile ve nüfus politikalarımızın neden hayati olduğunu açıkça ortaya koyuyor\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/korkutan-nufus-tablosu-turkiyede-her-100-hanenin-58inde-cocuk-sesi-yok-43298137"
+          "title": "Eskişehir’deki korkutan yangın! TOMA da itfaiyeye destek verdi",
+          "summary": "Eskişehir’de Baksan Sanayi Sitesinde 2 katlı bir yapı denetim malzemeleri satan işletmede yangın çıktı. Çok sayıda itfaiye ekibinin yanı sıra alevlere TOMA da söndürme çalışmalarına destek verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/eskisehirdeki-bir-isletmede-yangin-toma-da-itfaiyeye-destek-verdi-43298433"
         }
       ]
     },
     "dunya": {
-      "text": "Trump'ın elçileri Moskova temaslarının ardından ilk kez Kiev'de. İran, ABD gemilerine saldırı görüntülerini paylaştı. İsrail'den yeni etnik temizlik adımı: Ben-Gvir duyurdu! Çalışmalar gelecek dönemde başlayacak. İran, Irak'ta düzenlediği saldırının ayrıntılarını paylaştı. Mısırlı televizyon sunucusuna idam cezası. Türkiye ve 7 ülkeden İsrail'e ortak tepki. Papa Leo'dan Ukrayna'da barış çağrısı.",
+      "text": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti. İsrail'in Gazze'ye yönelik saldırılarında 5 Filistinli hayatını kaybetti. Almanya’da seçim depremi: AfD oylarını ikiye katladı, tek başına iktidarı kıl payı kaçırdı. Mucize kurtuluş. Çamur altında 10 gün yaşam mücadelesi verdi. İran'dan ABD'ye sert mesaj: \"Daha hızlı ve daha yoğun vururuz\". Kiev'de kritik görüşme... Zelenski: Savaşın sona ermesini istiyoruz. Netanyahu’dan İran’a tehdit: Hayal bile edemeyeceği bir darbe alır.",
       "items": [
         {
-          "title": "Trump'ın elçileri Moskova temaslarının ardından ilk kez Kiev'de",
-          "summary": "ABD Başkanı Donald Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner, savaşı sona erdirmeye yönelik barış teklifini iletmek üzere ilk kez Ukrayna'ya ulaştı. ABD Başkanı Donald Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner, Rusya ile Ukrayna arasındaki savaşı sona erdirmeye yönelik diplomatik girişimler kapsamında Ukrayna'ya gitti. Kiev yönetimi ile bir araya gelen iki temsilci, böylelikle barış müzakereleri sürecinde Ukrayna topraklarına ilk ziyaretini gerçekleştirmiş oldu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trumpin-elcileri-moskova-temaslarinin-ardindan-ilk-kez-kievde-1740646"
+          "title": "ABD'de kargo uçağı pistten çıktı: 5 kişi hayatını kaybetti",
+          "summary": "ABD'de Amazon'a ait Boeing 767 tipi bir kargo uçağının, Florida eyaletindeki Miami Uluslararası Havalimanı'na inerken pistten çıkması sonucu 5 kişinin hayatını kaybettiği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-kargo-ucagi-pistten-cikti-5-kisi-hayatini-kaybetti-43298453"
         },
         {
-          "title": "İran, ABD gemilerine saldırı görüntülerini paylaştı",
-          "summary": "İran, Devrim Muhafızları'nın ABD'ye ait bir uçak gemisi ile muhrip gemiye saldırdığı görüntüleri yayınladı. Gemlerin isabet aldığı saldırının, İran petrol tankerlerinin hedef alınmasına misilleme olarak gerçekleştirildiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-abd-gemilerine-saldiri-goruntulerini-paylasti-43298136"
+          "title": "İsrail'in Gazze'ye yönelik saldırılarında 5 Filistinli hayatını kaybetti",
+          "summary": "İsrail ordusunun sabah saatlerinden bu yana Gazze Şeridi'nin kuzey ve orta kesimlerinde düzenlediği saldırılarda, aralarında bir baba ile kızının da bulunduğu 5 Filistinli yaşamını yitirdi, çok sayıda kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilin-gazzeye-yonelik-saldirilarinda-5-filistinli-hayatini-kaybetti-43298452"
         },
         {
-          "title": "İsrail'den yeni etnik temizlik adımı: Ben-Gvir duyurdu! Çalışmalar gelecek dönemde başlayacak",
-          "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Gazze Şeridi'ndeki Filistinlileri \"gönüllü göç\" adı altında etnik temizliğe tabi tutmak için, gelecek dönemde bir \"hükümet göç ofisi\" kuracağını ilan etti. Ben-Gvir, ABD merkezli X şirketinin sosyal medya platformundaki hesabından yaptığı paylaşımda, Gazze'de sözde \"gönüllü göçü\" teşvik etmenin gerçek ve tek çözüm olduğunu savundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-yeni-etnik-temizlik-adimi-ben-gvir-duyurdu-calismalar-gelecek-donemde-baslayacak-43298093"
+          "title": "Almanya’da seçim depremi: AfD oylarını ikiye katladı, tek başına iktidarı kıl payı kaçırdı",
+          "summary": "Almanya’nın Saksonya-Anhalt eyaletinde yapılan seçimlerde sandık çıkış anketleri siyasi dengeleri sarsacak bir tablo ortaya koydu. Aşırı sağcı Almanya için Alternatif Partisi (AfD), 2021 seçimlerine göre oyunu 23,7 puan artırarak yüzde 44,5 ile açık ara birinci olurken, eyalet meclisinde tek başına çoğunluğu kıl payı kaçırdı. CDU’nun 18,6 puanlık sert kayıpla yüzde 18,5’e gerilediği seçim sonuçları dünya basınında “tarihi” ve “ezici zafer” yorumlarıyla son dakika gelişmesi olarak duyuruldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-secim-depremi-afd-oylarini-ikiye-katladi-tek-basina-iktidari-kil-payi-kacirdi-43298395"
         },
         {
-          "title": "İran, Irak'ta düzenlediği saldırının ayrıntılarını paylaştı",
-          "summary": "Devrim Muhafızları, ABD ordusuna ait PSS-T tipi sabit gözetleme balonunu geçen hafta Irak'ın Erbil kentinde hedef aldığını bildirdi. Saldırıda Şahid-136 kamikaze İHA kullanıldığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-irakta-duzenledigi-saldirinin-ayrintilarini-paylasti-43298048"
+          "title": "Mucize kurtuluş. Çamur altında 10 gün yaşam mücadelesi verdi",
+          "summary": "Nepal’deki sel felaketinde hayatını kaybettiği düşünülen yaşlı kadın, çöken evinin içinde 10 gün sonra sağ bulundu. Ailesinin 11 günlük yas dönemini başlattığı Chandika Kumari Shrestha’nın su ve çamur Nepal’de bin 300’den fazla kişinin yaşamını yitirdiği sel felaketinde, umutların azaldığı bir anda mucizevi bir kurtuluş yaşandı. Chandika Kumari Shrestha’nın ailesi, yaşlı kadının selde hayatını kaybettiğine inanarak yas ritüellerine başladı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-mucize-kurtulus-camur-altinda-10-gun-yasam-mucadelesi-verdi-1740699"
         },
         {
-          "title": "Mısırlı televizyon sunucusuna idam cezası",
-          "summary": "Mısır’da televizyon sunucusu Sarah Khalifa ve 11 sanık hakkında idam kararı verildi. Mısır Başmüftüsü’nün görüşünün alınmasının ardından karar onaylandı. Kalifa'nın da aralarında bulunduğu 12 sanığın, uyuşturucu kaçakçılığı suçundan hüküm giydiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/misirli-televizyon-sunucusuna-idam-cezasi-43298021"
+          "title": "İran'dan ABD'ye sert mesaj: \"Daha hızlı ve daha yoğun vururuz\"",
+          "summary": "İran'ın baş müzakerecisi ve Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin yeni saldırılar düzenlemesi halinde Tahran'ın daha sert karşılık vereceğini söyledi. Kalibaf, devlet medyasına yansıyan konuşmasında, \"Amerikalılar orantılı yanıt döneminin sona erdiğini anlamış olmalı\" dedi. İranlı yetkili, \"İran'ın çıkarlarına ve güvenliğine yönelik her saldırı daha hızlı, daha yoğun ve daha acı verici bir karşılık alacak\" ifadelerini kullandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-irandan-abdye-sert-mesaj-daha-hizli-ve-daha-yogun-vururuz-1740691"
         },
         {
-          "title": "Türkiye ve 7 ülkeden İsrail'e ortak tepki",
-          "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir ve İsrail Savunma Bakanı Yisrael Katz'ın Gazze Şeridi'ndeki Filistinlilerin yerinden edilmesine yönelik çağrılarına Türkiye ve 7 ülkeden ortak açıklama geldi. Ben-Gvir'in kışkırtıcı önerilerinin uluslararası hukukun ihlali anlamına geldiği belirtilen ortak açıklamada, Filistin halkının topraklarını gasp etmeye yönelik her türlü planın reddedildiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/turkiye-ve-7-ulkeden-israile-ortak-tepki-43297973"
+          "title": "Kiev'de kritik görüşme... Zelenski: Savaşın sona ermesini istiyoruz",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Ukrayna'daki savaşın sona erdirilmesine yönelik temaslarda bulunmak üzere Kiev'e gelen ABD Başkanı Donald Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner'le görüştü. Zelenski, \"Biz acı ve ölümler istemiyoruz. Bu savaşın adil bir şekilde ve Rusya'nın Ukrayna'ya yönelik saldırganlık için artık imkanının kalmayacağı şekilde sona ermesini istiyoruz\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/kievde-kritik-gorusme-zelenski-savasin-sona-ermesini-istiyoruz-43298232"
         },
         {
-          "title": "Papa Leo'dan Ukrayna'da barış çağrısı",
-          "summary": "Vatikan Devlet Başkanı Papa 14. Leo, son dönemde Ukrayna'nın farklı kentlerini ve sivil altyapısını hedef alan saldırılara ilişkin haberleri üzüntüyle takip ettiğini ifade etti. Leo, Ukrayna'da şiddete son verilmesini, diyalog kurulmasını ve barışın sağlanmasını istedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/papa-leodan-ukraynada-baris-cagrisi-43297969"
+          "title": "Netanyahu’dan İran’a tehdit: Hayal bile edemeyeceği bir darbe alır",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu, İran’ın İsrail’e saldırmaktan kaçındığını öne sürerek, olası bir saldırıya çok sert karşılık vereceklerini söyledi. Netanyahu, “İran’daki yönetimin sonu yakın” iddiasında da bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/netanyahudan-irana-tehdit-hayal-bile-edemeyecegi-bir-darbe-alir-43298233"
         }
       ]
     },
     "ekonomi": {
-      "text": "Ege’nin ihracat artışı sürüyor. Cevdet Yılmaz'dan OVP açıklaması: Yeni stratejik öncelikleri de programımıza entegre edeceğiz. Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor. Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'. Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok. Hem yönetimde hem sokakta ekonomi alarmı var. Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor.",
+      "text": "İçişleri Bakanı Çiftçi'den 2027–2029 OVP paylaşımı. Ege’nin ihracat artışı sürüyor. Cevdet Yılmaz'dan OVP açıklaması: Yeni stratejik öncelikleri de programımıza entegre edeceğiz. Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor. Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'. Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok. Hem yönetimde hem sokakta ekonomi alarmı var.",
       "items": [
+        {
+          "title": "İçişleri Bakanı Çiftçi'den 2027–2029 OVP paylaşımı",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın açıkladığı 2027-2029 dönemini içeren Orta Vadeli Program'a (OVP) ilişkin, \"Muhterem Cumhurbaşkanımız Recep Tayyip Erdoğan'ın liderliğinde hazırlanan Orta Vadeli Program'ın; ülkemizin büyümesine, yatırımların artmasına, üretimin ve istihdamın güçlenmesine önemli katkılar sunacağına inanıyoruz.\" değerlendirmesinde bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftciden-2027-2029-ovp-paylasimi-43298192"
+        },
         {
           "title": "Ege’nin ihracat artışı sürüyor",
           "summary": "Ege Bölgesi’nin ihracatı ağustos ayında yüzde 6 artışla 1 milyar 605 milyon dolara ulaştı.",
@@ -115,51 +120,46 @@
           "title": "Hem yönetimde hem sokakta ekonomi alarmı var",
           "summary": "ABD’nin ekonomik karartma operasyonu uyguladığı İran’da yönetim, faturanın ağırlaştığını kabul eden açıklamalar yaparken, geçim sıkıntısından yakınan İranlılar ise ekonomide düzelme olmazsa “yakın zamanda yeni bir protesto dalgasının daha yaşanabileceğini” düşünüyor.",
           "source": "https://www.hurriyet.com.tr/dunya/hem-yonetimde-hem-sokakta-ekonomi-alarmi-var-43289612"
-        },
-        {
-          "title": "Almanya ekonomisi büyüyor, bütçe açığı alarm veriyor",
-          "summary": "Almanya ekonomisi yılın ikinci çeyreğinde yüzde 0,3 büyüyerek üst üste üçüncü çeyrekte de büyüdü. Ancak devletin ilk altı aydaki 71,3 milyar euroluk bütçe açığı mali tablodaki sorunları ortaya koydu.",
-          "source": "https://www.hurriyet.com.tr/avrupa/almanya-ekonomisi-buyuyor-butce-acigi-alarm-veriyor-43285201"
         }
       ]
     },
     "spor": {
-      "text": "Jamie Vardy Burnley'ye transfer oldu!. Galatasaray, Sporting maçı hazırlıklarını sürdürdü. Fenerbahçe, Roma maçı hazırlıklarına başladı. Ertuğrul Doğan’dan hakem kararlarına tepki!. Potanın Perileri, Avustralya'ya mağlup oldu!. Fenerbahçe, Hakan Safi ve transfer itirafı! 'Bu olay yaşandı'. Acun Ilıcalı: 'Tek hedefimiz Premier Lig'de kalmak!'.",
+      "text": "Daniele Santarelli: 'Bütün enerjimi Türkiye için veriyorum!'. Filenin Sultanları, Los Angeles 2028 Olimpiyat Oyunları biletini aldı!. Fabinho: 'Reaksiyon vermemiz zorunluluktu!'. Selçuk İnan'dan Galatasaray açıklaması: 'Duygusal bir maç olacak!'. Thorsten Fink: 'Hatamızın bedelini ödedik!'. Avrupa Şampiyonası'nın en iyilerine Filenin Sultanları damgası!. Hüseyin Çimşir: 'İnsanlara hayal satmıyorum!'.",
       "items": [
         {
-          "title": "Jamie Vardy Burnley'ye transfer oldu!",
-          "summary": "İngiliz futbolcu Jamie Vardy, 39 yaşında İngiltere Championship ekibi Burnley'ye transfer oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jamie-vardy-burnleyye-transfer-oldu-43298130"
+          "title": "Daniele Santarelli: 'Bütün enerjimi Türkiye için veriyorum!'",
+          "summary": "Trendyol 2026 CEV Avrupa Şampiyonası finalinde İtalya'yı 3-2 yenerek şampiyon olan A Milli Kadın Voleybol Takımı'nın başantrenörü Daniele Santarelli ile kaptan Eda Erdem Dündar, bu yaz belirledikleri hedeflere ulaştıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/daniele-santarelli-butun-enerjimi-turkiye-icin-veriyorum-43298406"
         },
         {
-          "title": "Galatasaray, Sporting maçı hazırlıklarını sürdürdü",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi ilk haftasında deplasmanda Portekiz ekibi Sporting ile oynayacağı maçın hazırlıklarına yaptığı antrenmanla devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-sporting-maci-hazirliklarini-surdurdu-43298096"
+          "title": "Filenin Sultanları, Los Angeles 2028 Olimpiyat Oyunları biletini aldı!",
+          "summary": "A Milli Kadın Voleybol Takımı, 2026 CEV Trendyol Kadınlar Avrupa Voleybol Şampiyonası’nda şampiyonluğa ulaşarak 2028 Los Angeles Olimpiyat Oyunları’na doğrudan katılma hakkı kazandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlari-los-angeles-2028-olimpiyat-oyunlari-biletini-aldi-43298398"
         },
         {
-          "title": "Fenerbahçe, Roma maçı hazırlıklarına başladı",
-          "summary": "Fenerbahçe, 10 Eylül Perşembe günü İtalya temsilcisi Roma ile oynayacağı UEFA Şampiyonlar Ligi ilk hafta maçının hazırlıklarına başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-maci-hazirliklarina-basladi-43298084"
+          "title": "Fabinho: 'Reaksiyon vermemiz zorunluluktu!'",
+          "summary": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Gençlerbirliği'ni 5-0 yenen Trabzonspor'da futbolculardan Fabinho, kaybettikleri son maçın ardından bu tür bir reaksiyon göstermelerinin kendileri için zorunluluk olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fabinho-reaksiyon-vermemiz-zorunluluktu-43298391"
         },
         {
-          "title": "Ertuğrul Doğan’dan hakem kararlarına tepki!",
-          "summary": "Trabzonspor Başkanı Ertuğrul Doğan, son haftalardaki hakem kararlarına sert tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogandan-hakem-kararlarina-tepki-43298065"
+          "title": "Selçuk İnan'dan Galatasaray açıklaması: 'Duygusal bir maç olacak!'",
+          "summary": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Samsunspor'u 1-0 yenen Kocaelispor'da teknik direktör Selçuk İnan, ligin uzun ve zorlu olduğunu, kazanabildikleri kadar maç kazanıp toplayabildikleri kadar puan toplamak istediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inandan-galatasaray-aciklamasi-duygusal-bir-mac-olacak-43298390"
         },
         {
-          "title": "Potanın Perileri, Avustralya'ya mağlup oldu!",
-          "summary": "FIBA 2026 Kadınlar Basketbol Dünya Kupası C Grubu ikinci maçında Türkiye, Avustralya'ya 87-71 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/potanin-perileri-avustralyaya-maglup-oldu-43297980"
+          "title": "Thorsten Fink: 'Hatamızın bedelini ödedik!'",
+          "summary": "Trendyol Süper Lig'in 4. haftasında deplasmanda Kocaelispor'a 1-0 yenilen Samsunspor'da teknik direktör Thorsten Fink, yakaladıkları fırsatları değerlendiremediklerini ve maçın genelinde yaptıkları tek hatanın bedelini kaybederek ödediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/thorsten-fink-hatamizin-bedelini-odedik-43298387"
         },
         {
-          "title": "Fenerbahçe, Hakan Safi ve transfer itirafı! 'Bu olay yaşandı'",
-          "summary": "Sporting'in golcüsü Luis Suarez, Fenerbahçe'nin son seçiminde başkan adayı olan Hakan Safi ile anlaştığı iddialarına açıklık getirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-hakan-safi-ve-transfer-itirafi-bu-olay-yasandi-43297972"
+          "title": "Avrupa Şampiyonası'nın en iyilerine Filenin Sultanları damgası!",
+          "summary": "2026 CEV Avrupa Voleybol Şampiyonası’nda Türkiye şampiyonluğa ulaşırken, ödüller sahiplerini buldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/avrupa-sampiyonasinin-en-iyilerine-filenin-sultanlari-damgasi-43298338"
         },
         {
-          "title": "Acun Ilıcalı: 'Tek hedefimiz Premier Lig'de kalmak!'",
-          "summary": "İngiltere Premier Lig ekiplerinden Hull City'nin sahibi Acun Ilıcalı, ilk 3 haftayı yenilgisiz ve gol yemeden geçen takımıyla gurur duyduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicali-tek-hedefimiz-premier-ligde-kalmak-43297958"
+          "title": "Hüseyin Çimşir: 'İnsanlara hayal satmıyorum!'",
+          "summary": "Trabzonspor Teknik Direktörü Hüseyin Çimşir, Gençlerbirliği galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/huseyin-cimsir-insanlara-hayal-satmiyorum-43298334"
         }
       ]
     },
