@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-07T16:00:03.897Z",
+  "generatedAt": "2026-09-08T04:00:04.564Z",
   "categories": {
     "gundem": {
-      "text": "Dalgalı denizde tehlikeli eğlence! 4 arkadaşı çevredekiler kurtardı. Cumhurbaşkanı Erdoğan: İstanbul'da kiralık konuta başvurular 14 Eylül'de başlıyor. Edirne Belediyesi Meclisi toplantısında gerginlik yaşandı. Veyis Ateş'e tahliye. 3 yaşındaki Elif'in öldüğü kaza kamerada; 'Ev hapsi' kararına aileden tepki: 1 gün önce doğum gününü kutlamıştık. İBB'ye yönelik 'Yolsuzluk' davasında 76’ncı duruşma. Etimesgut Belediye Başkan Yardımcısı Taylan Özgüven hakkında uyuşturucu soruşturması.",
+      "text": "Avcılar’da asfalt kamyonu alt geçit yoluna düştü: Yol çift yönlü trafiğe kapatıldı. ‘Üç virüs’ uyarısı! Bu belirtilere dikkat... ‘Sonbaharda ayrı bir yükseliş gösterebilir’. Antalya'da orman yangınıyla mücadele. Evler boşaltıldı. Kayseri'de 'Şirinler' operasyonu! 32 tutuklama. Bitkisel ve hayvansal üretimde destek tutarları artırıldı. Yolun ortasında polisin uyandırdığı sürücü, geri uyudu. Silahlı kavgada sokakta oyun oynayan çocuk vuruldu.",
       "items": [
         {
-          "title": "Dalgalı denizde tehlikeli eğlence! 4 arkadaşı çevredekiler kurtardı",
-          "summary": "Tekirdağ’da girdikleri dalgalı denizde boğulma tehlikesi geçiren 4 arkadaş, çevredekiler tarafından kurtarıldı. 3 kişinin durumunun iyi olduğu, 1’inin ise hastaneye götürülerek tedaviye alındığı öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/dalgali-denizde-tehlikeli-eglence-4-arkadasi-cevredekiler-kurtardi-43299187"
+          "title": "Avcılar’da asfalt kamyonu alt geçit yoluna düştü: Yol çift yönlü trafiğe kapatıldı",
+          "summary": "Avcılar’da, İstanbul Büyükşehir Belediyesi'ne (İBB) bağlı yol asfalt kamyonu, virajı alamayarak alt geçit yoluna düştü. Kazada yaralanan kamyonun şoförü hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/avcilarda-asfalt-kamyonu-alt-gecit-yoluna-dustu-yol-cift-yonlu-trafige-kapatildi-43299506"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: İstanbul'da kiralık konuta başvurular 14 Eylül'de başlıyor",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'nın ardından açıklamalarda bulundu. Sosyal konut projelerine ilişkin tarih veren Erdoğan, kiralık konutlar için başvuruların 14 Eylül'de başlayacağını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43299191"
+          "title": "‘Üç virüs’ uyarısı! Bu belirtilere dikkat... ‘Sonbaharda ayrı bir yükseliş gösterebilir’",
+          "summary": "Sonbahar geldi… Güneş hâlâ sıcak yüzünü gösterse de havalar yavaş yavaş serinlemeye başlıyor. Mevsim değişirken, sonbahar ve kış aylarında etkisini artıran solunum yolu virüsleri de yeniden gündemde. Uzmanlara göre bu kış Türkiye’de tek bir virüs değil, birden fazla etken öne çıkabilir. Geçtiğimiz sezon özellikle H3N2’de yaşanan değişim dikkat çekerken, bu yıl tablo nasıl olacak? Özellikle ABD’de açıklanan yeni aşı rehberi, önümüzdeki döneme ilişkin soru işaretlerini artırdı. İşte dikkat çeken detaylar…",
+          "source": "https://www.hurriyet.com.tr/gundem/uc-virus-uyarisi-bu-belirtilere-dikkat-sonbaharda-ayri-bir-yukselis-gosterebilir-43295748"
         },
         {
-          "title": "Edirne Belediyesi Meclisi toplantısında gerginlik yaşandı",
-          "summary": "Edirne Belediye Meclisi toplantısında AK Parti'li meclis üyesi Celal Demir ile Yeni Partili meclis üyesi Asım Uyguner arasında gerginlik yaşandı. Kavga diğer meclis üyeleri ve belediye personelinin araya girmesiyle sonlandırıldı. Uyguner, Demir’in kendisine tokat attığını iddia etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/edirne-belediyesi-meclisi-toplantisinda-gerginlik-yasandi-43299179"
+          "title": "Antalya'da orman yangınıyla mücadele. Evler boşaltıldı",
+          "summary": "Antalya'nın üç ilçesinde orman yangınları ile mücadele sürüyor. Rüzgarın etkisiyle hızla yayılan alevlerin yaklaştığı yerleşim yerleri tahliye edildi. Bazı evler yandı. Antalya orman yangınlarıyla mücadele ediyor. Aksu, Kepez ve Serik'teki yangınlar yerleşim alanlarını da tehdit ediyor. Alevlerin yaklaştığı bazı mahalleler tahliye edildi. Bazı evler yangında etkilendi. Havanın kararması nedeniyle havadan müdahaleye sabaha kadar ara verildi. Ekiplerin yangını kontrol altına almak için çalışması devam ediyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-antalyada-alevlerle-mucadele-evler-bosaltildi-1740846"
         },
         {
-          "title": "Veyis Ateş'e tahliye",
-          "summary": "Uyuşturucu davasında dokuz aydır tutuklu bulunan Veyis Ateş için tahliye kararı verildi. “Uyuşturucu madde kullanımını kolaylaştırmak” ve “Uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama” suçlamalarıyla 25 yıldan 40 yıla kadar hapis istemiyle yargılanan Veyis Ateş, hakim karşısına çıktı. Ateş, İstanbul Ağır Ceza Mahkemesi'nde dokuz aydır tutuklu bulunduğunu hatırlattıktan sonra şu savunmayı yaptı: \"18 Aralık günü savcılığa giderek tüm sorulara ayrıntılı cevap verdim. Ardından Adli Tıpa sevk edildim.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-veyis-atese-tahliye-1740814"
+          "title": "Kayseri'de 'Şirinler' operasyonu! 32 tutuklama",
+          "summary": "Kayseri'de, 'Şirinler' olarak bilinen yeni nesil suç örgütüne yönelik düzenlenen operasyonda gözaltına alınan 32 şüpheliden 16’sı tutuklanırken, 16’sı adli kontrol şartıyla serbest bırakıldı. Tutuklanan 16 şahıs sağlık kontrolünün ardından cezaevine gönderildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-sirinler-operasyonu-32-tutuklama-43299501"
         },
         {
-          "title": "3 yaşındaki Elif'in öldüğü kaza kamerada; 'Ev hapsi' kararına aileden tepki: 1 gün önce doğum gününü kutlamıştık",
-          "summary": "Eskişehir Odunpazarı'nda annesiyle yolun karşısına geçerken otomobilin çarpması sonucu yaşamını yitiren 3 yaşındaki Elif Mavi Avli'nin ölüm anına ilişkin güvenlik kamerası kayıtları ortaya çıktı. Sürücü F.A.B.'ye (40) verilen ev hapsi kararına itiraz eden baba Fatih Avli, \"Doğum gününü kutladıktan 1 gün sonra kızımı toprağa verdim\" diyerek tutuklama istedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/3-yasindaki-elifin-oldugu-kaza-kamerada-ev-hapsi-kararina-aileden-tepki-1-gun-once-dogum-gununu-kutlamistik-43299154"
+          "title": "Bitkisel ve hayvansal üretimde destek tutarları artırıldı",
+          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, temel destek ve planlı üretim desteği tutarlarının artırılmasına ilişkin, \"Stratejik ürünlerimizi koruyan, aile işletmelerimizi güçlendiren ve verimliliği merkeze alan bu destekleme modeliyle 'Üreten Türkiye'nin gücüne güç katacak, çiftçilerimizi her koşulda desteklemeye devam edeceğiz.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bitkisel-ve-hayvansal-uretimde-destek-tutarlari-artirildi-43299499"
         },
         {
-          "title": "İBB'ye yönelik 'Yolsuzluk' davasında 76’ncı duruşma",
-          "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 50’si tutuklu 414 sanık, 76’ncı duruşmada hakim karşısına çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-76nci-durusma-43299144"
+          "title": "Yolun ortasında polisin uyandırdığı sürücü, geri uyudu",
+          "summary": "Kayseri'de yolun ortasında sızan alkollü sürücü polis ekipleri tarafından uyandırıldı. Sürücüye ceza kesildi. Kayseri'nin Kocasinan ilçesinde M.K. isimli kişi, yönetimindeki otomobille yolun ortasında uyuyakaldı. İhbar üzerine bölgeye polis ekipleri sevk edilirken, ekiplerin uzun süren çalışmaları sonucu otomobil sallanarak sürücü uyandırıldı. YENİDEN UYKUYA DALMAYA ÇALIŞTI Karşısında ekipleri gören M.K. ne olduğunu anlamayarak, yeniden uykuya dalmaya çalıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-yolun-ortasinda-polisin-uyandirdigi-surucu-geri-uyudu-1740849"
         },
         {
-          "title": "Etimesgut Belediye Başkan Yardımcısı Taylan Özgüven hakkında uyuşturucu soruşturması",
-          "summary": "Ankara Batı Cumhuriyet Başsavcılığı, Etimesgut Belediye Başkan Yardımcısı Taylan Özgüven hakkında uyuşturucu kullanımı iddiasıyla soruşturma başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/etimesgut-belediye-baskan-yardimcisi-taylan-ozguven-hakkinda-uyusturucu-sorusturmasi-43299136"
+          "title": "Silahlı kavgada sokakta oyun oynayan çocuk vuruldu",
+          "summary": "İstanbul'da akrabalar arasında çıkan silahlı kavgada sokakta oynayan bir çocuk yaralandı. İstanbul Küçükçekmece'de iddiaya göre, iki akraba arasında alacak meselesi nedeniyle çıkan tartışma kısa sürede büyüyerek silahlı kavgaya dönüştü. Tarafların birbirine silahla ateş açtığı kavgada bacağından yaralanan Erhan A. kendi imkanlarıyla hastaneye giderken, diğer şüpheli ise kaçtı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-silahli-kavgada-sokakta-oyun-oynayan-cocuk-vuruldu-1740847"
         }
       ]
     },
     "dunya": {
-      "text": "Eski Finlandiya Savunma Bakanı Kaikkonen: Türkiye benzersiz bir konuma sahip. Kongo'da Ebola salgını sonucu ölenlerin sayısı 3 bin 95'e yükseldi. Trump dizinin yeni bölümünden önce paylaştı. Bu kez kendini çizgi roman kahramanı yaptı. Almanya Başbakanı Merz'den istifa sorusuna dikkat çeken yanıt: AfD'nin zaferi derin şok etkisi yarattı. Trump harita paylaştı, eyaletin ismini değiştirdi. Almanya'da aşırı sağcı AfD'den tarihi zafer. İsrail topyekün saldırı planını duyurdu: Hazırlıklar başladı! Filistin'de tansiyon zirvede.",
+      "text": "‘Çin’in Nostradamus’undan yeni kehanet: Tarih vererek uyardı! Daha önce Trump tahmini tutmuştu. Trump: Petrol fiyatları sert bir şekilde düşecek. Trump, komşu ülkeleri ABD toprağı olarak gösterdi. Lübnanlı muhabir canlı yayında İsrail hava saldırısının hedefi oldu. Rusya, Alman Başkonsolosluğunu ve Goethe Enstitüsünün merkezlerini kapatma kararı aldı. Yeni akım: Ofiste şemsiye açıp maske takıyorlar. Milli para yüzücü Defne Kurt, Avrupa şampiyonu oldu!.",
       "items": [
         {
-          "title": "Eski Finlandiya Savunma Bakanı Kaikkonen: Türkiye benzersiz bir konuma sahip",
-          "summary": "Finlandiya'nın eski Savunma Bakanı Antti Kaikkonen, Türkiye ile ülkesinin savunma alanında işbirliğini derinleştirebilecek konumda olduğuna dikkat çekti. Kaikkonen, Türkiye'nin benzersiz bir stratejik konuma sahip önemli bir müttefik olduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/eski-finlandiya-savunma-bakani-kaikkonen-turkiye-benzersiz-bir-konuma-sahip-43299180"
+          "title": "‘Çin’in Nostradamus’undan yeni kehanet: Tarih vererek uyardı! Daha önce Trump tahmini tutmuştu",
+          "summary": "Çin’in Nostradamus’u olarak anılan Jiang Xueqin, bu kez 2027 yılı için yaptığı öngörüyle gündemde. Daha önce yaptığı bazı açıklamaların yıllar sonra yaşanan gelişmelerle örtüştüğü öne sürülen Çin asıllı Kanadalı eğitimci ve siyasi yorumcu, geleceğe ilişkin yeni senaryosunda ABD’nin önünde oldukça çalkantılı bir dönem bulunduğunu savundu. Xueqin’in anlattığı tablo ise tek bir krizden çok daha fazlasına işaret ediyor. İşte Çin’in Nostradamus’u Jiang Xueqin’in 2027 ve sonrasına ilişkin dikkat çeken öngörüleri...",
+          "source": "https://www.hurriyet.com.tr/dunya/cinin-nostradamusundan-yeni-kehanet-tarih-vererek-uyardi-daha-once-trump-tahmini-tutmustu-43298994"
         },
         {
-          "title": "Kongo'da Ebola salgını sonucu ölenlerin sayısı 3 bin 95'e yükseldi",
-          "summary": "Kongo Demokratik Cumhuriyeti’nde (KDC) 15 Mayıs’ta ilan edilen Ebola salgını devam ediyor. Ülkede salgın nedeniyle yaşamını yitirenlerin sayısı 3 bin 95’e çıktı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kongoda-ebola-salgini-sonucu-olenlerin-sayisi-3-bin-95e-yukseldi-43299155"
+          "title": "Trump: Petrol fiyatları sert bir şekilde düşecek",
+          "summary": "ABD Başkanı Donald Trump, \"İran savaşını kazandığımızda petrol fiyatları da diğer fiyatlar gibi, hatta daha da sert bir şekilde düşecek\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-petrol-fiyatlari-sert-bir-sekilde-dusecek-43299502"
         },
         {
-          "title": "Trump dizinin yeni bölümünden önce paylaştı. Bu kez kendini çizgi roman kahramanı yaptı",
-          "summary": "Beyaz Saray, ABD Başkanı Donald Trump'ı yapay zekayla Yeşil Fener kılığında sundu. Paylaşımın \"Lanterns\" dizisinin yeni bölümünden hemen önce yapılması dikkati çekti. ABD Başkanı Donald Trump, son günlerde sosyal medya hesaplarında paylaştığı mesajlarla gündemde. Trump, ilk olarak Truth Social platformundaki hesabından arka planda Dünya'nın ve bir Amerikan bayrağının yer aldığı yakın çekim bir Ay fotoğrafı paylaştı. Görselin üzerine \"Ay bizimdir\" ifadesini ekledi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trump-dizinin-yeni-bolumunden-once-paylasti-bu-kez-kendini-cizgi-roman-kahramani-yapti-1740757"
+          "title": "Trump, komşu ülkeleri ABD toprağı olarak gösterdi",
+          "summary": "Trump, yeni paylaşımında Kanada ve Meksika dahil çevredeki bölgeleri \"ABD toprağı\" olarak gösterdi. ABD Başkanı Donald Trump, Kanada, Meksika ve Grönland dahil çevredeki bölgeleri \"ABD toprağı\" olarak gösteren bir harita paylaştı. Trump, sosyal medya hesabından konuyla ilgili paylaşımda bulundu. Paylaşımda, ülkenin mevcut sınırlarının yanı sıra Kanada, Meksika, Grönland ve Küba dahil çevredeki bölgelerin de \"ABD toprağı\" olarak gösterildiği görüldü.",
+          "source": "https://www.ntv.com.tr/dunya/trump-komsu-ulkeleri-abd-topragi-olarak-gosterdi-1740848"
         },
         {
-          "title": "Almanya Başbakanı Merz'den istifa sorusuna dikkat çeken yanıt: AfD'nin zaferi derin şok etkisi yarattı",
-          "summary": "Almanya için Alternatif (AfD) partisinin Saksonya-Anhalt Eyalet Meclisi seçimindeki zaferi ülkede geniş yankı uyandırdı. Almanya Başbakanı Friedrich Merz, Hristiyan Demokrat Birlik'in (CDU) aldığı mağlubiyetin \"derin bir şok etkisi\" yarattığını belirterek, bunun partisinin yıllardır aldığı en ağır yenilgi olduğunu kaydetti. Merz, sonucun kendisi için \"kişisel sonuçları olup olmayacağına\" ilişkin soruya, \"vazgeçmenin kendisi için kesinlikle bir seçenek olmadığı\" yanıtını verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanya-basbakani-merzden-istifa-sorusuna-dikkat-ceken-yanit-afdnin-zaferi-derin-sok-etkisi-yaratti-43299091"
+          "title": "Lübnanlı muhabir canlı yayında İsrail hava saldırısının hedefi oldu",
+          "summary": "Lübnan’da Hizbullah ile bağlantılı Al-Manar kanalının muhabiri Ali Shabib, canlı yayında İsrail hava saldırısının hedefi oldu. Shabib, saldırıda yaralanmasının ardından hastaneye kaldırıldı. İsrail’in Lübnan’a yönelik hava saldırıları devam ederken bir gazeteci daha saldırıların hedefi oldu. Hizbullah ile bağlantılı Al-Manar kanalının muhabiri Ali Shabib, canlı yayında İsrail’in Nebatiye kenti çevresine düzenlediği hava saldırısının hedefi oldu.",
+          "source": "https://www.ntv.com.tr/dunya/lubnanli-muhabir-canli-yayinda-israil-hava-saldirisinin-hedefi-oldu-1740844"
         },
         {
-          "title": "Trump harita paylaştı, eyaletin ismini değiştirdi",
-          "summary": "ABD Başkanı Donald Trump, New Mexico eyaletinin adını \"New America\" olarak değiştiren bir harita paylaştı. ABD Başkanı Donald Trump, Truth Social platformundaki hesabından New Mexico eyaletinin adının \"New America\" (Yeni Amerika) olarak değiştirilmesini öneren bir harita görseli paylaştı. Beyaz Saray'ın da X platformunda yeniden yayınladığı görselde, eyalet sınırları içindeki \"Mexico\" sözcüğünün kırmızı bir çizgiyle çizildiği ve yerine \"America\" yazıldığı görülüyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trump-harita-paylasti-eyaletin-ismini-degistirdi-1740752"
+          "title": "Rusya, Alman Başkonsolosluğunu ve Goethe Enstitüsünün merkezlerini kapatma kararı aldı",
+          "summary": "Rusya Dışişleri Bakanlığı, Almanya’nın St. Petersburg Başkonsolosluğu ve ülkedeki Goethe Enstitüsünün merkezlerini kapatma kararı aldıklarını bildirdi. Rusya Dışişleri Bakanlığı'ndan yapılan açıklamada, Almanya'nın, Rusya'nın Bonn Başkonsolosluğunu ve \"Rus Evi\" Kültür ve Bilim Merkezi'ni kapatma kararı aldığı anımsatıldı. Almanya'nın kararının \"dostça olmayan eylem\" olduğu belirtilen açıklamada, buna karşı Almanya'nın Moskova Büyükelçiliği Maslahatgüzarına nota verildiği kaydedildi.",
+          "source": "https://www.ntv.com.tr/dunya/rusya-alman-baskonsoloslugunu-ve-goethe-enstitusunun-merkezlerini-kapatma-karari-aldi-1740831"
         },
         {
-          "title": "Almanya'da aşırı sağcı AfD'den tarihi zafer",
-          "summary": "Almanya'da Almanya için Alternatif (AfD), Saksonya-Anhalt'taki eyalet seçiminde oyların yüzde 43,8'ini alarak İkinci Dünya Savaşı sonrası en büyük zaferini elde etti. Almanya'nın Saksonya-Anhalt eyaletinde düzenlenen parlamento seçimlerini aşırı sağcı Almanya için Alternatif (AfD) kazandı. Resmi seçim sonuçlarına göre AfD, oyların yüzde 43,8'ini alarak birinci sıraya yerleşti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-asiri-sagci-afdden-tarihi-zafer-1740795"
+          "title": "Yeni akım: Ofiste şemsiye açıp maske takıyorlar",
+          "summary": "Ofis ışıkları, kuru hava ve uzun çalışma saatlerinin ciltlerini yaşlandırdığını düşünen bazı Çinli çalışanlar, masa başında şemsiye açıp yüzlerini maskelerle kapatmaya başladı. Çin'de ofis çalışanları arasında yayılan yeni bir akım sosyal medyanın gündemine oturdu. “Office ageing”, yani “ofis yaşlanması” olarak adlandırılan akıma katılan çalışanlar, masa başında geçirdikleri uzun saatlerin yalnızca yorgunluğa değil, ciltlerinde ve görünümlerinde de değişime yol açtığını savunuyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ofiste-semsiye-acip-maske-takiyorlar-1740837"
         },
         {
-          "title": "İsrail topyekün saldırı planını duyurdu: Hazırlıklar başladı! Filistin'de tansiyon zirvede",
-          "summary": "Batı Şeria'da İsrailli yerleşimcilerin Filistinli halka yönelik tehdit ve saldırılarıyla tırmanan gerilimi gerekçe gösteren İsrail ordusu, bölgede kapsamlı bir operasyon için hazırlık yapmaya başladı. İsrail Savunma Bakanı Yisrael Katz, \"7 Ekim\" benzeri bir olaya hazırlık yapıldığını tespit etmeleri durumunda kullanılmak üzere bir \"topyekün saldırı hazırlığı\" emri verildiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-topyekun-saldiri-planini-duyurdu-hazirliklar-basladi-filistinde-tansiyon-zirvede-43299007"
+          "title": "Milli para yüzücü Defne Kurt, Avrupa şampiyonu oldu!",
+          "summary": "Defne Kurt, Kocaeli'de düzenlenen Avrupa Yüzme Şampiyonası'nda 50 metre serbestte altın madalya kazandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/milli-para-yuzucu-defne-kurt-avrupa-sampiyonu-oldu-43299450"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Leroy Sane için dikkat çeken sözler: 'Zamanı doldu'. Fenerbahçe'de beklenen ayrılık gerçekleşti! Yeni takımı belli oldu. Dursun Özbek'ten TFF Başkanı Hacıosmanoğlu'na ziyaret. Fenerbahçe Roma maçının hazırlıklarına devam etti. Sergen Yalçın'dan Fenerbahçe'ye 'tavsiye' gibi mesaj: Guendouzi ve Kante ile oynayamazsınız. TVF Başkanı Mehmet Akif Üstündağ'dan Terzic açıklaması!. Sürprizleri Tekte Buldu 90 TL’ye 390.644 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı….",
+      "text": "Stanimir Stoilov: 'Tehlikeli bir sürecin içerisindeyiz'. Orhan Ak'tan 4 gollü galibiyet sonrası takımına övgü!. Recep Uçar: 'Taraftarımızı mutlu edemedik'. Joao Pereira: 'Rize çok fazla pozisyon üretemedi'. Bursaspor, Manisa FK'yı 2 golle devirdi!. Fenerbahçe'nin eski stoperi Djiku'dan Galatasaraylı Batrakov'a övgüler!. Iğdır FK, İstanbul'da 2 golle kazandı!.",
       "items": [
         {
-          "title": "Leroy Sane için dikkat çeken sözler: 'Zamanı doldu'",
-          "summary": "Galatasaray forması giyen Leroy Sane için Almanya'dan dikkat çeken bir açıklama geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/leroy-sane-icin-dikkat-ceken-sozler-zamani-doldu-43299230"
+          "title": "Stanimir Stoilov: 'Tehlikeli bir sürecin içerisindeyiz'",
+          "summary": "Göztepe Teknik Direktörü Stanimir Stoilov, Gaziantep FK karşısında oynadıkları ilk 45 dakikanın, sarı-kırmızılı takımın başındaki en kötü ilk yarı olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/stanimir-stoilov-tehlikeli-bir-surecin-icerisindeyiz-43299445"
         },
         {
-          "title": "Fenerbahçe'de beklenen ayrılık gerçekleşti! Yeni takımı belli oldu",
-          "summary": "Fenerbahçe'de takımda düşünülmeyen isimlerin başında gelen Brezilyalı savunmacı Rodrigo Becao, sarı-lacivertli takımdan ayrıldı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-beklenen-ayrilik-gerceklesti-yeni-takimi-belli-oldu-43299177"
+          "title": "Orhan Ak'tan 4 gollü galibiyet sonrası takımına övgü!",
+          "summary": "Gaziantep FK Teknik Direktörü Orhan Ak, Göztepe karşısında harika bir performans sergilediklerini belirterek, Göztepe’ye dört gol atmanın her takımın harcı olmadığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/orhan-aktan-4-gollu-galibiyet-sonrasi-takimina-ovgu-43299416"
         },
         {
-          "title": "Dursun Özbek'ten TFF Başkanı Hacıosmanoğlu'na ziyaret",
-          "summary": "Galatasaray Kulübü Başkanı Dursun Özbek, Türkiye Futbol Federasyonu (TFF) Başkanı İbrahim Hacıosmanoğlu'nu ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbekten-tff-baskani-haciosmanogluna-ziyaret-43299130"
+          "title": "Recep Uçar: 'Taraftarımızı mutlu edemedik'",
+          "summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar, \"Söylenecek çok fazla bir şey yok, üzgünüz. Taraftarımızı mutlu edemedik\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/recep-ucar-taraftarimizi-mutlu-edemedik-43299413"
         },
         {
-          "title": "Fenerbahçe Roma maçının hazırlıklarına devam etti",
-          "summary": "UEFA Şampiyonlar Ligi ilk haftasında 10 Eylül Perşembe günü İtalya'nın Roma ekibini ağırlayacak Fenerbahçe, hazırlıklarını sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-macinin-hazirliklarina-devam-etti-43299075"
+          "title": "Joao Pereira: 'Rize çok fazla pozisyon üretemedi'",
+          "summary": "Alanyaspor’un teknik direktörü Joao Pereira \"Oyundan düştük, buna rağmen Rize çok fazla pozisyon üretemedi\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-rize-cok-fazla-pozisyon-uretemedi-43299412"
         },
         {
-          "title": "Sergen Yalçın'dan Fenerbahçe'ye 'tavsiye' gibi mesaj: Guendouzi ve Kante ile oynayamazsınız",
-          "summary": "Son olarak Beşiktaş'ı çalıştıran tecrübeli futbol adamı Sergen Yalçın; Beşiktaş, Fenerbahçe ve Galatasaray'ı değerlendir.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcindan-fenerbahceye-tavsiye-gibi-mesaj-guendouzi-ve-kante-ile-oynayamazsiniz-43299002"
+          "title": "Bursaspor, Manisa FK'yı 2 golle devirdi!",
+          "summary": "Trendyol 1. Lig'in 6. haftasında Manisa Futbol Kulübü, sahasında ağırladığı Bursaspor'a 2-1 mağlup oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursaspor-manisa-fkyi-2-golle-devirdi-43299381"
         },
         {
-          "title": "TVF Başkanı Mehmet Akif Üstündağ'dan Terzic açıklaması!",
-          "summary": "2026 CEV Kadınlar Avrupa Şampiyonası zaferi hakkında konuşan TVF Başkanı Mehmet Akif Üstündağ, tek eksiğin olimpiyat şampiyonluğu olduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tvf-baskani-mehmet-akif-ustundagdan-terzic-aciklamasi-43298940"
+          "title": "Fenerbahçe'nin eski stoperi Djiku'dan Galatasaraylı Batrakov'a övgüler!",
+          "summary": "Fenerbahçe'den 2025 yılında Spartak Moskova'ya transfer olan Alexander Djiku, Lokomotiv Moskova'dan Galatasaray'a transfer olan Aleksey Batrakov'a övgülerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-eski-stoperi-djikudan-galatasarayli-batrakova-ovguler-43299278"
         },
         {
-          "title": "Sürprizleri Tekte Buldu 90 TL’ye 390.644 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Kentucky Downs 2. 6’lı Ganyan koşularında bir Misli üyesi, 90 TL’ye hazırladığı kuponla 390.644 TL kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/surprizleri-tekte-buldu-90-tlye-390-644-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43298990"
+          "title": "Iğdır FK, İstanbul'da 2 golle kazandı!",
+          "summary": "Iğdır FK, Trendyol 1. Lig’in 6. haftasında İstanbulspor'u deplasmanda 2-1 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/igdir-fk-istanbulda-2-golle-kazandi-43299258"
         }
       ]
     },
