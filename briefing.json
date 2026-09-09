@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-09T04:00:04.285Z",
+  "generatedAt": "2026-09-09T10:00:04.510Z",
   "categories": {
     "gundem": {
-      "text": "Orman yangınları 3 ilde sürüyor. Antalya'da yüzlerce kişi tahliye edildi. Kaldırımdan seken otomobil 1 metrelik duvarı aştı. THY'den İngiltere seferleri için yolcularına uyarı. Bakan Fidan, Suriyeli mevkidaşıyla görüştü. 7 kişinin öldüğü Dilovası yangını. Kamu görevlileri hakim karşısına çıktı. Türkiye’den 12 ülkenin İsrail'e yönelik yaptırım kararına destek. İBB'ye yönelik 'yolsuzluk' davasında 77’nci duruşma sona erdi.",
+      "text": "Eylül ayında şaşkına çeviren manzara: Sıcaklıklar düştü, sular buz tuttu. Alkollü ve ehliyetsiz yakalandı: 350 bin TL ceza. Kaçakçılık operasyonundan terlik çıktı: 5,4 milyon liralık ürün ele geçirildi. CHP 103'üncü yaşını kutluyor. Adana, Antalya ve Mersin'de orman yangını | Kalp krizi geçirirken yolu tarif etti, yaşamını yitirdi. İzmir Büyükşehir Belediye Başkanı Cemil Tugay ne yapacak? Tugay yalanlıyor haberler sürüyor. İmamoğlu davasında 78’inci duruşma başladı.",
       "items": [
         {
-          "title": "Orman yangınları 3 ilde sürüyor. Antalya'da yüzlerce kişi tahliye edildi",
-          "summary": "Antalya, Adana ve Mersin'de çıkan orman yangınlarına ekiplerin müdahalesi sürüyor. Bazı noktalarda yangınların enerjisi düşürüldü. Antalya, Adana ve Mersin'de çıkan dört ayrı orman yangınına müdahale ediliyor. Tarım ve Orman Bakanlığına bağlı Orman Genel Müdürlüğü (OGM), Antalya ve Mersin'deki orman yangınlarının enerjisini düşürdüklerini, Adana'da ise devam eden yangına aralıksız müdahale ettiklerini bildirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-antalya-ve-adanada-orman-yangini-yanginin-dumani-sehrin-uzerine-coktu-1740915"
+          "title": "Eylül ayında şaşkına çeviren manzara: Sıcaklıklar düştü, sular buz tuttu",
+          "summary": "Yurdun geniş kesiminde yaz sıcakları etkili olurken soğuğu ile meşhur Kars'ta soğuktan sular buz tuttu.",
+          "source": "https://www.hurriyet.com.tr/gundem/eylul-ayinda-saskina-ceviren-manzara-sicakliklar-dustu-sular-buz-tuttu-43301157"
         },
         {
-          "title": "Kaldırımdan seken otomobil 1 metrelik duvarı aştı",
-          "summary": "Kayseri’nin Melikgazi ilçesinde bir otomobil kaldırıma çarparak, havalandı. 1 metrelik duvarı aşarak, millet bahçesine giren otomobilde hafif yaralanan sürücü kısa süreli tedavinin ardından taburcu oldu. Yapılan kontrollerde sürücünün 1.14 promil alkollü olduğu belirlendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kaldirimdan-seken-otomobil-1-metrelik-duvari-asti-43300758"
+          "title": "Alkollü ve ehliyetsiz yakalandı: 350 bin TL ceza",
+          "summary": "Eskişehir'de polis ekiplerince durdurulan ehliyetsiz alkollü sürücüye 350 bin lira idari para cezası uygulandı. İl Emniyet Müdürlüğü Trafik Şube Müdürlüğü ekipleri, Tepebaşı ilçesi Fatih Mahallesi Derman Caddesi'nde uygulama gerçekleştirdi. Denetimlerde durdurulan 34 BC 0073 plakalı otomobilin sürücüsü O.G.'nin yapılan kontrollerinde 1.94 promil alkollü olduğu ve sürücü belgesinin bulunmadığı tespit edildi. Sürücüye ilgili kanun maddeleri gereğince toplam 350 bin TL idari para cezası kesildi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-alkollu-ve-ehliyetsiz-yakalandi-350-bin-tl-ceza-1741062"
         },
         {
-          "title": "THY'den İngiltere seferleri için yolcularına uyarı",
-          "summary": "Türk Hava Yolları (THY), İngiltere'de hava trafik kontrol sisteminde yaşanan teknik sorun nedeniyle yolcularına uçuş durumlarını kontrol etme uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/thyden-ingiltere-seferleri-icin-yolcularina-uyari-43300756"
+          "title": "Kaçakçılık operasyonundan terlik çıktı: 5,4 milyon liralık ürün ele geçirildi",
+          "summary": "Kocaeli’nin Dilovası ve Gebze ilçelerinde jandarmanın 3 araca yönelik operasyonunda 1000 paket kaçak sigara, 238 elektronik sigara, 500 tütün mamulü ve 1500 çift gümrük kaçağı terlik ele geçirildi. Piyasa değeri yaklaşık 5 milyon 400 bin lira olan ürünlerle ilgili 4 şüpheli hakkında adli işlem başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kacakcilik-operasyonundan-terlik-cikti-5-4-milyon-liralik-urun-ele-gecirildi-43301158"
         },
         {
-          "title": "Bakan Fidan, Suriyeli mevkidaşıyla görüştü",
-          "summary": "Dışişleri Bakanı Fidan, Suriye Dışişleri Bakanı Şeybani ile Ankara'da bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-fidan-suriyeli-mevkidasiyla-gorustu-43300755"
+          "title": "CHP 103'üncü yaşını kutluyor",
+          "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, partisinin 103. kuruluş yılı etkinlikleri kapsamında Anıtkabir'i ziyaret etti. Büyük Önder Gazi Mustafa Kemal Atatürk tarafından 9 Eylül 1923'te kurulan ve bugüne kadar 8 genel başkanın görev yaptığı CHP, 103. yaşını kutluyor. CHP Genel Başkanı Kemal Kılıçdaroğlu etkinlikler kapsamında partililerle Anıtkabir'i ziyaret etti. Kılıçdaroğlu, beraberindeki heyetle Aslanlı Yol'dan yürüyerek Atatürk'ün mozolesine çelenk bıraktı ve saygı duruşunda bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-chp-103uncu-yasini-kutluyor-1741054"
         },
         {
-          "title": "7 kişinin öldüğü Dilovası yangını. Kamu görevlileri hakim karşısına çıktı",
-          "summary": "Kocaeli'de 7 kişinin yaşamını yitirdiği yangına ilişkin, ruhsatı bulunmayan bina için çalışma izni veren 7 kamu görevlisi hakim karşısına çıktı. Kocaeli'nin Dilovası ilçesinde 7 kişinin öldüğü, 6 kişinin yaralandığı kozmetik fabrikasındaki yangına ilişkin aralarında şirket ve belediye yetkililerinin de bulunduğu 10'u tutuklu, 1'i firari 23 sanığın yargılandığı davanın dördüncü duruşması başladı. Gebze 7.",
-          "source": "https://www.ntv.com.tr/turkiye/7-kisinin-oldugu-dilovasi-yangini-kamu-gorevlileri-hakim-karsisina-cikti-1741005"
+          "title": "Adana, Antalya ve Mersin'de orman yangını | Kalp krizi geçirirken yolu tarif etti, yaşamını yitirdi",
+          "summary": "Türkiye'nin üç ilinde alevlerle mücadele sürüyor. Antalya'nın Aksu ilçesindeki yangında dumandan etkilenen bir kişi hayatını kaybetti. Antalya, Adana ve Mersin'de çıkan çıkan orman yangınlarına müdahale sürüyor. Tarım ve Orman Bakanlığı'na bağlı Orman Genel Müdürlüğü (OGM), yangınlara ilişkin son durumu açıkladı. Antalya'nın Kumluca ve Mersin'in Bozyazı ilçelerindeki orman yangınlarının büyük ölçüde kontrol altına alındığını duyuran OGM, “Tamamen kontrol altına almak için mücadelemiz sürüyor.” dedi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-adana-antalya-ve-mersinde-orman-yangini-alevlerle-mucadele-suruyor-yuzlerce-ev-tahliye-edildi-1741022"
         },
         {
-          "title": "Türkiye’den 12 ülkenin İsrail'e yönelik yaptırım kararına destek",
-          "summary": "Türkiye, 12 ülkenin işgal altındaki Batı Şeria’daki yasa dışı İsrail yerleşimleriyle ticari ve ekonomik ilişkileri yasaklamaya yönelik adımlarını memnuniyetle karşıladığını açıkladı. Dışişleri Bakanlığından yapılan yazılı açıklamada, Birleşik Krallık, Fransa ve Kanada öncülüğündeki 12 ülkenin girişiminin desteklendiği belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/turkiyeden-12-ulkenin-israile-yonelik-yaptirim-kararina-destek-1740992"
+          "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay ne yapacak? Tugay yalanlıyor haberler sürüyor",
+          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye geçeceği iddiası bir kez daha gündeme geldi. Çevresi, Tugay'ın şu ana dek herhangi bir AK Parti'ye üyelik formu doldurmadığını bildirdi. İstinaf mahkemesinin “mutlak butlan” kararı sonrası CHP'den istifa eden ve yoluna bağımsız devam etme kararı alan İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye katılacağı ileri sürüldü. Ancak Tugay'ın çevresi, sık sık gündeme gelen bu iddiayı bir kez daha yalanladı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-izmir-buyuksehir-belediye-baskani-cemil-tugay-ne-yapacak-tugay-yalanliyor-haberler-suruyor-1741056"
         },
         {
-          "title": "İBB'ye yönelik 'yolsuzluk' davasında 77’nci duruşma sona erdi",
-          "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 50’si tutuklu 414 sanık, 77’nci duruşmada hakim karşısına çıktı. Gecenin ilerleyen saatlerinde sonra eren duruşma, saat 10.00'a ertelendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-77nci-durusma-sona-erdi-43300746"
+          "title": "İmamoğlu davasında 78’inci duruşma başladı",
+          "summary": "İstanbul’da 51’i tutuklu 414 sanığın yargılandığı davanın 78’inci duruşması başladı. Duruşmada, aralarında Ekrem İmamoğlu, Mehmet Murat Çalık ve Murat Ongun’un da bulunduğu tutuklu sanıklar ile bazı tutuksuz sanıkların avukatlarının beyanları alınıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/imamoglu-davasinda-78inci-durusma-basladi-43301097"
         }
       ]
     },
     "dunya": {
-      "text": "Hürmüz'de tansiyon yüksek. ABD ve İran'dan karşılıklı tanker saldırıları. ABD'den üç sektörde Kanada'ya ihracat yasağı. İngiltere ve 11 ülkeden Batı Şeria yerleşimlerine ticaret yasağı. Trump, Kanada ürünlerinin kamu ihalelerinden çıkarılması talimatını verdi. 9 gün sonra gelen kurtuluş. Çamurlu su içerek dokuz gün dayandı, kurtarıldığında eşini tanıyamadı. İran medyası duyurdu: Hark ve Cask'ta patlama sesleri... ABD'den açıklama. Rusya ve Kuzey Kore arasındaki ilk köprü siyasi bağları güçlendiriyor.",
+      "text": "Son dakika... Suriye'de patlama. NATO'dan ANKA-3 paylaşımı. Yapay zeka uzmanı tarih vererek uyardı: İnsanlık yok olacak. Rusya ve Kuzey Kore arasındaki ilk köprü siyasi bağları güçlendiriyor. OpenAI 90 yıllık matematik problemini çözdü, \"Türk araştırmacının ismini silmeye çalıştı\". GÜRZ sahaya çıktı: İsrail basını mercek altına aldı... 'Türk kalkanı'. İngiltere ile İsrail arasındaki Filistin krizinde yeni perde: Tel Aviv, İngiliz temsilcileri kovdu.",
       "items": [
         {
-          "title": "Hürmüz'de tansiyon yüksek. ABD ve İran'dan karşılıklı tanker saldırıları",
-          "summary": "ABD ordusu, İran'a ait beş petrol tankerini imha etti. İran ise Hürmüz Körfezi'nde 2 Amerikan gemisi ile 8 petrol tankerine misilleme yaptıklarını duyurdu. Hürmüz Boğazı çevresinde askeri gerilim dinmiyor. ABD ve İsrail’in İran’a yönelik saldırılarıyla başlayan savaşta altı ay geride kalırken, karşılıklı tehditlere yeni saldırı ve yaptırımlar eklendi. Yemen’deki Husilerin Suudi Arabistan’a saldırıları ise çatışmaların bölgeye yayılması endişesini artırdı.",
-          "source": "https://www.ntv.com.tr/dunya/hurmuzde-gerilim-dinmiyor-iranda-patlamalar-abdden-yeni-yaptirim-aciklamasi-1740993"
+          "title": "Son dakika... Suriye'de patlama",
+          "summary": "Suriye'nin İdlib kenti yakınlarda patlama meydana geldiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-suriyede-patlama-43301115"
         },
         {
-          "title": "ABD'den üç sektörde Kanada'ya ihracat yasağı",
-          "summary": "ABD Başkanı Donald Trump, Kanada menşeli belirli motosiklet, süt ürünleri ile alkollü içeceklerin ithalatına yasak getiren karara imza attı. Beyaz Saray tarafından yayımlanan bildirilere göre Washington yönetimi, 1930 Tarife Yasası'nın 338. bölümü kapsamında Kanada'ya karşı uyguladığı ticari tedbirleri genişletti. Bu kapsamda, ABD Başkanı Donald Trump, Kanada'nın motorlu taşıt, süt ürünleri ve alkollü içecek sektörlerini hedef alan beş yeni bildiriyi imzaladı.",
-          "source": "https://www.ntv.com.tr/dunya/abdden-uc-sektorde-kanadaya-ihracat-yasagi-1741006"
+          "title": "NATO'dan ANKA-3 paylaşımı",
+          "summary": "NATO Müttefik Müşterek Kuvvet Komutanlığı Brunssum, TUSAŞ tarafından geliştirilen insansız savaş uçağı ANKA-3'e ilişkin paylaşımda bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/natodan-anka-3-paylasimi-43301090"
         },
         {
-          "title": "İngiltere ve 11 ülkeden Batı Şeria yerleşimlerine ticaret yasağı",
-          "summary": "İngiltere, Fransa ve 10 Batılı müttefiki, işgal altındaki Batı Şeria'da yer alan Yahudi yerleşimlerinde üretilen mallara ticaret yasağı getirdi. İngiltere ve Fransa öncülüğündeki 12 Batılı ülke, işgal altındaki Batı Şeria'da yer alan yasa dışı Yahudi yerleşimlerinde üretilen ürünlerin ticaretine yasak getirdi. İngiltere hükümeti, iki devletli çözüme destek verme gerekçesiyle hazırlanan ticari yaptırım kararını bugün resmen duyuracağını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ingiltereden-israilin-bati-seriadaki-yerlesimlerine-ticaret-yaptirimi-1740971"
-        },
-        {
-          "title": "Trump, Kanada ürünlerinin kamu ihalelerinden çıkarılması talimatını verdi",
-          "summary": "ABD Başkanı Donald Trump, Kanada'nın Amerikan şirketlerine ve çiftçilerine adil ticaret imkanı sunmadığını savunarak, Kanada menşeli ürünlerin kamu ihalelerinden çıkarılması yönünde talimat verdiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-kanada-urunlerinin-kamu-ihalelerinden-cikarilmasi-talimatini-verdi-43300714"
-        },
-        {
-          "title": "9 gün sonra gelen kurtuluş. Çamurlu su içerek dokuz gün dayandı, kurtarıldığında eşini tanıyamadı",
-          "summary": "Nepal’deki sel felaketinde bir tünelde mahsur kalan iki işçi, dokuz gün sonra sağ çıkarıldı. Zifiri karanlıkta çamurlu su içerek hayatta kalan Kabir hastanede gözlerini açtığında eşini tanıyamadı. Kabir Maharjan, çamurlu suyun içinde, karanlık bir tünelde bazen bilincini kaybedip yeniden kendine gelerek dokuz gün geçirdi. Kurtarılıp hastaneye kaldırıldığında karşısındaki eşini tanımadı. Nerede olduğunu sordu, ardından neden kendisine daha önce bir yatak vermediğini anlamaya çalıştı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-9-gun-sonra-gelen-kurtulus-camurlu-su-icerek-dokuz-gun-dayandi-kurtarildiginda-esini-taniyamadi-1740999"
-        },
-        {
-          "title": "İran medyası duyurdu: Hark ve Cask'ta patlama sesleri... ABD'den açıklama",
-          "summary": "İran'ın Basra Körfezi'nin kuzeyinde yer alan petrol ihraç terminalinin bulunduğu Hark Adası ile Hürmüzgan Eyaleti’ne bağlı Cask kenti yakınlarında patlama seslerinin duyulduğu bildirildi. ABD Dışişleri Bakanı Marco Rubio, İran'ın ABD donanmasına ait gemileri hedef almaya devam etmesi halinde \"tankerlerini kaybedeceğini\" söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-medyasi-duyurdu-hark-ve-caskta-patlama-sesleri-43300648"
+          "title": "Yapay zeka uzmanı tarih vererek uyardı: İnsanlık yok olacak",
+          "summary": "Yapay zeka şirketi Anthropic'in kıdemli araştırmacısı Jcob Coxon, insanlığın bir felakete sürüklendiği uyarısını yaparak istifa kararı aldığını duyurdu. Yapay zekanın 2030'a kadar insan kontrolünden çıkabileceğini öne süren Coxon, sektördeki çoğu çalışanın tehlikenin farkında olduğunu ancak kamuoyu önünde akıl sağlığını yitirmiş gibi görünmemek için konuşmalarına dikkat ettiğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/yapay-zeka-uzmani-tarih-vererek-uyardi-insanlik-yok-olacak-43300991"
         },
         {
           "title": "Rusya ve Kuzey Kore arasındaki ilk köprü siyasi bağları güçlendiriyor",
           "summary": "Kuzey Kore, Rusya ile arasında kurulan ilk karayolu köprüsünü daha sıkı ilişkilerin bir işareti olarak değerlendirdi. Devlet medyasının Salı günü bildirdiğine göre Kuzey Kore, Rusya ile olan dar sınırındaki ilk karayolu köprüsünü, Pyongyang'ın güçlü komşuları Moskova ve Pekin'den elde ettiği avantajlar doğrultusunda, bağların sıkılaşmasının somut bir işareti olarak nitelendirdi.",
           "source": "https://www.ntv.com.tr/dunya/galeri-rusya-ve-kuzey-kore-arasindaki-ilk-kopru-siyasi-baglari-guclendiriyor-1740922"
+        },
+        {
+          "title": "OpenAI 90 yıllık matematik problemini çözdü, \"Türk araştırmacının ismini silmeye çalıştı\"",
+          "summary": "OpenAI'ın 90 yıllık Milenyum Ödüllü Navier-Stokes matematik problemini çözdüğü açıklamasının hemen ardından Türk matematikçi Levent Alpöge'nin adının araştırmadan silinmek istendiği ortaya çıktı. Dünyanın önde gelen yapay zeka laboratuvarlarından ve ChatGPT sohbet robotunun geliştiricisi OpenAI, matematik dünyasında yaklaşık 90 yıldır çözülemeyen Milenyum Ödüllü Navier-Stokes varlık ve pürüzsüzlük problemini yeni iç modelinin analitik olarak çözdüğünü duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-openai-90-yillik-matematik-problemini-cozdu-turk-arastirmacinin-ismini-silmeye-calisti-1741043"
+        },
+        {
+          "title": "GÜRZ sahaya çıktı: İsrail basını mercek altına aldı... 'Türk kalkanı'",
+          "summary": "Türkiye'nin yerli hava savunma sistemi GÜRZ, 5 Eylül'deki başarılı canlı atış testinin ardından İsrail basınında dikkat çekti . İsrail merkezli Maariv, farklı savunma unsurlarını tek platformda buluşturan GÜRZ'ü \"savaş alanının çehresini ve dengeleri değiştirmeye hazır\" bir sistem olarak değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/gurz-sahaya-cikti-israil-basini-mercek-altina-aldi-turk-kalkani-43301015"
+        },
+        {
+          "title": "İngiltere ile İsrail arasındaki Filistin krizinde yeni perde: Tel Aviv, İngiliz temsilcileri kovdu",
+          "summary": "İsrail'in, Ramallah'ta görev yapan İngiliz diplomatlar ile ülkenin güneyindeki Kiryat Gat kentinde bulunan Gazze Koordinasyon Merkezi'ndeki İngiliz temsilcilerden 7 gün içinde ülkeyi terk etmelerini istediği belirtildi. Tel Aviv yönetiminin Doğu Kudüs'teki İngiltere Konsolosluğu'nu kapatma kararı almasının ardından, konsolosluktaki faaliyetlerin 30 gün içinde durdurması gerektiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ingiltere-ile-israil-arasindaki-filistin-krizinde-yeni-perde-tel-aviv-ingiliz-temsilcileri-kovdu-43300898"
         }
       ]
     },
     "ekonomi": {
-      "text": "İçişleri Bakanı Çiftçi'den 2027–2029 OVP paylaşımı. Ege’nin ihracat artışı sürüyor. Cevdet Yılmaz'dan OVP açıklaması: Yeni stratejik öncelikleri de programımıza entegre edeceğiz. Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor. Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'. Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok. Hem yönetimde hem sokakta ekonomi alarmı var.",
+      "text": "Sezonun ilk pamuğuna 100 lira. İçişleri Bakanı Çiftçi'den 2027–2029 OVP paylaşımı. Ege’nin ihracat artışı sürüyor. Cevdet Yılmaz'dan OVP açıklaması: Yeni stratejik öncelikleri de programımıza entegre edeceğiz. Nazilli Ticaret Odası 1 Ekim’de seçime gidiyor. Resmen açıkladı! 'Talisca'yı alkışlarla uğurlayacağız, Çağlar gidiyor'. Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok.",
       "items": [
+        {
+          "title": "Sezonun ilk pamuğuna 100 lira",
+          "summary": "Aydın’da 2026 sezonunun ilk pamuğu, Aydın Pamuk ve Yağlı Tohum Satış Kooperatifi tarafından kilogramı 100 TL’den sembolik olarak satın alındı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sezonun-ilk-pamuguna-100-lira-43300748"
+        },
         {
           "title": "İçişleri Bakanı Çiftçi'den 2027–2029 OVP paylaşımı",
           "summary": "İçişleri Bakanı Mustafa Çiftçi, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın açıkladığı 2027-2029 dönemini içeren Orta Vadeli Program'a (OVP) ilişkin, \"Muhterem Cumhurbaşkanımız Recep Tayyip Erdoğan'ın liderliğinde hazırlanan Orta Vadeli Program'ın; ülkemizin büyümesine, yatırımların artmasına, üretimin ve istihdamın güçlenmesine önemli katkılar sunacağına inanıyoruz.\" değerlendirmesinde bulundu.",
@@ -115,57 +120,72 @@
           "title": "Bakan Ersoy’dan plastik atık uyarısı: Artık zaman kaybetme lüksümüz yok",
           "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, plastik üretiminin dünya genelinde son 70 yılda yaklaşık 230 kat artarak 460 milyon tonun üzerine çıktığını, plastik atık miktarının ise 353 milyon tona ulaştığını belirtti. Plastik atıkların yalnızca yüzde 9’unun nihai olarak geri dönüştürüldüğüne dikkati çeken Ersoy, çevre sorunlarıyla mücadelede küresel iş birliğinin ve bütüncül bir yaklaşımın zorunlu olduğunu söyledi.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-ersoydan-plastik-atik-uyarisi-artik-zaman-kaybetme-luksumuz-yok-43291025"
-        },
-        {
-          "title": "Hem yönetimde hem sokakta ekonomi alarmı var",
-          "summary": "ABD’nin ekonomik karartma operasyonu uyguladığı İran’da yönetim, faturanın ağırlaştığını kabul eden açıklamalar yaparken, geçim sıkıntısından yakınan İranlılar ise ekonomide düzelme olmazsa “yakın zamanda yeni bir protesto dalgasının daha yaşanabileceğini” düşünüyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/hem-yonetimde-hem-sokakta-ekonomi-alarmi-var-43289612"
         }
       ]
     },
     "spor": {
-      "text": "Arda Güler'e Şampiyonlar Ligi'nden büyük onur. Beşiktaş'tan PFDK'ya Vlahovic tepkisi: Kabul edilemez!. Leao ve Okan Buruk konuştu: Abdülkerim haberi nereden çıktı bilmiyorum. Fenerbahçe’nin eski yıldızı Amrabat, ortalığı karıştırdı! ‘O varken gitmeyeceğim’. Trabzonspor’dan Fatih Tekke ayrılığı sonrası iddialara yanıt. Aziz Yıldırım, Kerem Aktürkoğlu, Dusan Vlahovic, Ertuğrul Doğan ve Metin Öztürk PFDK'ya sevk edildi. Beşiktaş, Olağanüstü Seçimli Genel Kurul kararı aldı!.",
+      "text": "Fenerbahçe'de Roma maçı öncesi 2 eksik!. Lionel Messi, bir takım daha satın aldı! Arjantinli efsane, futbolun yeni patronu oluyor. Real Madrid'in Inter galibiyeti sonrası Mourinho: 'Çılgın bir maçtı!'. BOM Karting Takımı, Uşak’ta iki podyum başarısına imza attı. Türk futbolunda tarihi imza! Turgutluspor'un yeni teknik direktörü 22 yaşındaki Zeynep Mestan oldu. Beşiktaş'ta orta saha transferi için çalışmalar şimdiden başladı! 2 aday var, karar Italiano'nun. Galatasaray, Şampiyonlar Ligi'nde Sporting deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de.",
       "items": [
         {
-          "title": "Arda Güler'e Şampiyonlar Ligi'nden büyük onur",
-          "summary": "A Milli Futbol Takımı'mızın ve Real Madrid'in yıldızı Arda Güler, Inter maçı öncesi UEFA Şampiyonlar Ligi'nde \"en iyi çıkış yapan oyuncu\" ödülü aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulere-sampiyonlar-liginden-buyuk-onur-43300685"
+          "title": "Fenerbahçe'de Roma maçı öncesi 2 eksik!",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin ilk haftasında yarın sahasında Roma ile karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-roma-maci-oncesi-2-eksik-43301102"
         },
         {
-          "title": "Beşiktaş'tan PFDK'ya Vlahovic tepkisi: Kabul edilemez!",
-          "summary": "Beşiktaş Kulübü, futbolcusu Dusan Vlahovic'in Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edilmesine tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-pfdkya-vlahovic-tepkisi-kabul-edilemez-43300634"
+          "title": "Lionel Messi, bir takım daha satın aldı! Arjantinli efsane, futbolun yeni patronu oluyor",
+          "summary": "Arjantinli yıldız futbolcu Lionel Messi, İspanya 2. Ligi'nde mücadele eden CD Eldense'yi satın aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lionel-messi-bir-takim-daha-satin-aldi-arjantinli-efsane-futbolun-yeni-patronu-oluyor-43301013"
         },
         {
-          "title": "Leao ve Okan Buruk konuştu: Abdülkerim haberi nereden çıktı bilmiyorum",
-          "summary": "Galatasaray'da teknik direktör Okan Buruk ve yıldız oyuncu Rafael Leao, Şampiyonlar Ligi'nde oynayacakları Sporting maçı öncesi konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/leao-ve-okan-buruk-konustu-abdulkerim-haberi-nereden-cikti-bilmiyorum-43300592"
+          "title": "Real Madrid'in Inter galibiyeti sonrası Mourinho: 'Çılgın bir maçtı!'",
+          "summary": "UEFA Şampiyonlar Ligi açılış haftasında Real Madrid, evinde Inter'i 2-1 mağlup etti. Jose Mourinho, maçın ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madridin-inter-galibiyeti-sonrasi-mourinho-cilgin-bir-macti-43300980"
         },
         {
-          "title": "Fenerbahçe’nin eski yıldızı Amrabat, ortalığı karıştırdı! ‘O varken gitmeyeceğim’",
-          "summary": "Kısa süre önce Fenerbahçe ile sözleşmesini fesheden ve Ajax’a transfer olan Sofyan Amrabat, ülkesi Fas’ta gündem oldu. Amrabat, milli takımı bıraktığını sert sözlerle açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-eski-yildizi-amrabat-ortaligi-karistirdi-o-varken-gitmeyecegim-43300579"
+          "title": "BOM Karting Takımı, Uşak’ta iki podyum başarısına imza attı",
+          "summary": "Borusan Otomotiv Motorsport (BOM) Karting Takımı, 5-6 Eylül tarihlerinde Uşak’ta düzenlenen Motul Türkiye Karting Şampiyonası beşinci ayak yarışlarında iki farklı kategoride podyuma çıktı. Yiğit Nedim Çelik Micro kategorisinde ikinci, Can Kalkan Mini kategorisinde üçüncü olurken, Demir Sağım ise Senior kategorisindeki mücadeleyi beşinci sırada tamamladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bom-karting-takimi-usakta-iki-podyum-basarisina-imza-atti-43301007"
         },
         {
-          "title": "Trabzonspor’dan Fatih Tekke ayrılığı sonrası iddialara yanıt",
-          "summary": "Trabzonspor Kulübü, teknik direktör Fatih Tekke'nin ayrılık sürecinin ardından çıkan iddialara yanıt verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-fatih-tekke-ayriligi-sonrasi-iddialara-yanit-43300569"
+          "title": "Türk futbolunda tarihi imza! Turgutluspor'un yeni teknik direktörü 22 yaşındaki Zeynep Mestan oldu",
+          "summary": "Manisa'nın Turgutlu ilçesini temsil eden Turgutluspor, teknik direktörlük görevine 22 yaşındaki Zeynep Mestan'ı getirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turk-futbolunda-tarihi-imza-turgutlusporun-yeni-teknik-direktoru-22-yasindaki-zeynep-mestan-oldu-43300904"
         },
         {
-          "title": "Aziz Yıldırım, Kerem Aktürkoğlu, Dusan Vlahovic, Ertuğrul Doğan ve Metin Öztürk PFDK'ya sevk edildi",
-          "summary": "Türkiye Futbol Federasyonu'ndan yapılan resmi açıklamaya göre, PFDK'ya sevk edilen isimler belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-kerem-akturkoglu-dusan-vlahovic-ertugrul-dogan-ve-metin-ozturk-pfdkya-sevk-edildi-43300535"
+          "title": "Beşiktaş'ta orta saha transferi için çalışmalar şimdiden başladı! 2 aday var, karar Italiano'nun",
+          "summary": "Yaz transfer döneminin son günlerinde Rangers forması giyen Nicolas Raskin'in transferini sonuçlandıramayan Beşiktaş, devre arasında bu bölgeye mutlaka bir takviye yapmak istiyor. Siyah-beyazlıların listesinde 2 aday bulunurken son kararı teknik direktör Vincenzo Italiano verecek. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-orta-saha-transferi-icin-calismalar-simdiden-basladi-2-aday-var-karar-italianonun-43300833"
         },
         {
-          "title": "Beşiktaş, Olağanüstü Seçimli Genel Kurul kararı aldı!",
-          "summary": "Beşiktaş'ın resmi yayın organından yapılan açıklamaya göre siyah beyazlılar, olağanüstü seçimli genel kurula gidecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-olaganustu-secimli-genel-kurul-karari-aldi-43300512"
+          "title": "Galatasaray, Şampiyonlar Ligi'nde Sporting deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin ilk haftasında Portekiz temsilcisi Sporting Lizbon ile deplasmanda karşılaşıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-sporting-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43300895"
         }
       ]
     },
     "teknoloji": {
-      "text": "Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı. Huawei, İran'daki ticari ilişkileri nedeniyle ABD'de yargılanacak. TEKNOFEST İHA Finalleri Malatya’da başlıyor. Huawei ve Xiaomi'den Apple'a karşı katlanabilir telefon hamlesi. Sürü İHA’lar Gaziantep’te yarışacak. Kurtarma köpeklerinden oluşan kanser teşhis ekibine yapay zeka desteği. GTA 6 için Türkçe dil desteği gelecek mi? Yapımcı şirketten yanıt.",
+      "text": "Google'ın yeni hamlesi, Avrupa'daki en büyük tek seferlik yatırımı olacak. Apple lansman tarihi 2026: iPhone 18 pro ne zaman satışa çıkacak, Türkiye satış fiyatı ne kadar olacak?. X'te yeni dönem. Son ödemeler 11 Eylül'de yapılacak. Kemalpaşa’ya Teknopark. Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı. Huawei, İran'daki ticari ilişkileri nedeniyle ABD'de yargılanacak. TEKNOFEST İHA Finalleri Malatya’da başlıyor.",
       "items": [
+        {
+          "title": "Google'ın yeni hamlesi, Avrupa'daki en büyük tek seferlik yatırımı olacak",
+          "summary": "Finlandiya'nın yapay zeka altyapısına 13 milyar euro değerinde yatırım yapacak olan Google, Avrupa ülkesindeki veri merkezlerinin yanı sıra temiz enerji projelerine de finansman sağlayacak. Teknoloji devi Google Çarşamba günü yaptığı açıklamada, önümüzdeki iki yıl içinde Finlandiya'da yapay zeka modellerine güç sağlayacak veri merkezleri de dahil olmak üzere ülkenin dijital altyapısına en az 13 milyar euro (15 milyar dolar) yatırım yapacağını duyurdu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-googlein-yeni-hamlesi-avrupadaki-en-buyuk-tek-seferlik-yatirimi-olacak-1741051"
+        },
+        {
+          "title": "Apple lansman tarihi 2026: iPhone 18 pro ne zaman satışa çıkacak, Türkiye satış fiyatı ne kadar olacak?",
+          "summary": "Apple'ın yeni iPhone 18 modelleri için beklenen gün geldi. Apple, gerçekleştireceği özel etkinlikte yeni nesil iPhone modellerini tanıtmaya hazırlanıyor. Apple'ın resmi etkinlik takvimine göre iPhone 18 lansman tarihi belli oldu. Etkinlikte özellikle iPhone 18 Pro ve iPhone 18 Pro Max modellerinin öne çıkması bekleniyor. Buna karşılık standart iPhone 18 modelinin aynı etkinlikte satışa çıkıp çıkmayacağı konusunda önceki yıllardan farklı bir takvim gündemde. İPHONE 18 LANSMANI NE ZAMAN, SAAT KAÇTA TANITILACAK?",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-apple-lansman-tarihi-2026-iphone-18-pro-ne-zaman-satisa-cikacak-turkiye-satis-fiyati-ne-kadar-1741047"
+        },
+        {
+          "title": "X'te yeni dönem. Son ödemeler 11 Eylül'de yapılacak",
+          "summary": "Sosyal medya platformu X, içerik üreticileri için yürürlükte olan Gelir Paylaşımı modelini tamamen sonlandırarak Özgün İçerik Ödülleri programını başlattı. Sosyal medya platformu X (eski adıyla Twitter), içerik üreticilerine yönelik gelir paylaşımı modelini sonlandırarak Özgün İçerik Ödülleri (OCR) programı için başvuruları başlattı. Yeni sistem, platformun içerik üreticilerini ödüllendirme politikasında kapsamlı bir değişime işaret ediyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-xte-yeni-donem-son-odemeler-11-eylulde-yapilacak-1741035"
+        },
+        {
+          "title": "Kemalpaşa’ya Teknopark",
+          "summary": "KEMALPAŞA Sanayici ve İş İnsanları Derneği (KESİAD) Yönetim Kurulu Başkanı Zafer Özken, sanayicilerin gündemindeki temel sorunları ve ilçenin gelecek dönem vizyonunu değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/kemalpasaya-teknopark-43300752"
+        },
         {
           "title": "Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı",
           "summary": "Fransız yapay zeka girişimi Mistral, 3,5 milyar dolarlık yeni finansman sağlayarak şirket değerini 21 milyar euronun üzerine taşıdı. Fransa'da yer alan ve Avrupa'nın ciddiye alınabilir tek yapay zeka devi Mistral, 3 milyar euroluk yeni yatırım sağladığını duyurdu. Şirket, söz konusu adımı Avrupa teknoloji sektöründe şimdiye kadar gerçekleştirilen en büyük kaynak yaratma süreci olarak nitelendirdi. Yeni finansmanla birlikte şirketin toplam piyasa değeri 21 milyar euronun üzerine çıktı.",
@@ -180,26 +200,6 @@
           "title": "TEKNOFEST İHA Finalleri Malatya’da başlıyor",
           "summary": "Türkiye’nin ve dünyanın genç İHA geliştiricileri, TEKNOFEST 2026 kapsamında düzenlenen Uluslararası ve Liseler Arası İnsansız Hava Aracı (İHA) Yarışmaları için Malatya’da buluşuyor. İHA Yarışmalarında 7 binden fazla takımın başvurusunun ardından finale kalan 113 takım, 8-13 Eylül tarihleri arasında Tulga Havalimanı’nda teknolojilerini gökyüzünde sınayacak.",
           "source": "https://www.hurriyet.com.tr/teknoloji/teknofest-iha-finalleri-malatyada-basliyor-43300317"
-        },
-        {
-          "title": "Huawei ve Xiaomi'den Apple'a karşı katlanabilir telefon hamlesi",
-          "summary": "Çinli teknoloji üreticileri Huawei ve Xiaomi, Apple'ın ürün tanıtımı öncesinde yeni amiral gemisi katlanabilir telefonlarını tanıttı. Çinli teknoloji şirketleri Huawei ve Xiaomi, yeni amiral gemisi katlanabilir akıllı telefonlarını tanıttı. İki üretici, Apple'ın bu hafta düzenleyeceği ürün lansmanı öncesinde Çin'in lüks telefon pazarındaki rekabeti artırdı. Huawei'nin tanıttığı ve iki kez katlanarak tablet boyutuna ulaşan yeni Mate XT2 serisi, şirketin kendi üretimi Kirin 9050 Pro çipini taşıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-huawei-ve-xiaomiden-applea-karsi-katlanabilir-telefon-hamlesi-1740891"
-        },
-        {
-          "title": "Sürü İHA’lar Gaziantep’te yarışacak",
-          "summary": "TEKNOFEST 2026 kapsamında Havelsan yürütücülüğünde düzenlenen Sürü İHA Yarışması’nda 165 takım arasından finale kalan 19 takım, otonom görevleri birlikte yerine getirebilen İHA sistemlerini Gaziantep’te sergileyecek. 7-11 Eylül tarihleri arasında gerçekleştirilecek finalde genç teknoloji takımları; dinamik sürü kabiliyeti ve yarı otonom sürü kontrolü görevlerinde mücadele edecek.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/suru-ihalar-gaziantepte-yarisacak-43299124"
-        },
-        {
-          "title": "Kurtarma köpeklerinden oluşan kanser teşhis ekibine yapay zeka desteği",
-          "summary": "Hindistan'da köpeklerin kanser gibi ölümcül hastalıkların kokusunu alıp erken teşhis koyulmasını sağlayabilme hipotezinden hareketle araştırma başlatıldı. Bu çalışmalara yapay zeka da dahil edildi. Hindistan'ın teknoloji başkenti Bengaluru'nun dışındaki bir çiftlikte tıp araştırmalarına eşlik eden kurtarma köpeği Chloe, yapay zekanın da yardımıyla insan nefesinden kanseri tespit etmeyi öğreniyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/kurtarma-kopeklerinden-olusan-kanser-teshis-ekibine-yapay-zeka-destegi-1740804"
-        },
-        {
-          "title": "GTA 6 için Türkçe dil desteği gelecek mi? Yapımcı şirketten yanıt",
-          "summary": "GTA 6'da Türkçe dil desteği yer alabilir. Tan Production kurucusu Tan Şahin Kanat, Take-Two Interactive CEO'su Strauss Zelnick'in verdiği yanıtı paylaştı. Video oyun sektörünün merakla beklediği Grand Theft Auto 6 (GTA 6) yapımında Türkçe dil seçeneğinin yer alabileceğine dair yeni bir iddia ortaya atıldı. Oyunun geliştiricisi Rockstar Games şirketinin çatı kuruluşu Take-Two Interactive'in üst yönetiminin, Türkiye'deki bağımsız bir yerelleştirme ekibinin talebine doğrudan yanıt verdiği öne sürüldü.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-icin-turkce-dil-destegi-gelecek-mi-yapimci-sirketten-yanit-1740745"
         }
       ]
     },
