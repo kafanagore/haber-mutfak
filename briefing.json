@@ -1,60 +1,60 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-08T16:00:04.271Z",
+  "generatedAt": "2026-09-09T04:00:04.285Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Fidan, TDT Genel Sekreteri Ömüraliyev'i kabul etti. Cumhurbaşkanı Erdoğan'dan PISA 2025 sonuçlarına ilişkin paylaşım. KKTC'de Batı Nil virüsü alarmı: Biri rutin kontrolde 3 vaka çıktı! 'Özel ilacı yok' uyarısı. İstanbul’da seyir halindeki otomobile kurşun yağdı: Araçta 28 mermi izi, 1 ölü. Diyarbakır'da dehşet anları araç kamerasında: Virajda kaldırıma çıkıp anne ve iki çocuğunu biçti. Bakan Fidan, ABD'nin Ankara Büyükelçisi Barrack ve ABD Temsilciler Meclisi Üyesi Issa ile görüştü. MHP lideri Bahçeli'den 9 Eylül mesajı: Devletimizin prangalara mahkûm edilebileceğini düşünenlere verilmiş tarihi bir cevap.",
+      "text": "Orman yangınları 3 ilde sürüyor. Antalya'da yüzlerce kişi tahliye edildi. Kaldırımdan seken otomobil 1 metrelik duvarı aştı. THY'den İngiltere seferleri için yolcularına uyarı. Bakan Fidan, Suriyeli mevkidaşıyla görüştü. 7 kişinin öldüğü Dilovası yangını. Kamu görevlileri hakim karşısına çıktı. Türkiye’den 12 ülkenin İsrail'e yönelik yaptırım kararına destek. İBB'ye yönelik 'yolsuzluk' davasında 77’nci duruşma sona erdi.",
       "items": [
         {
-          "title": "Bakan Fidan, TDT Genel Sekreteri Ömüraliyev'i kabul etti",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Türk Devletleri Teşkilatı (TDT) Genel Sekreteri Kubanıçbek Ömüralivey'i kabul etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-fidan-tdt-genel-sekreteri-omuraliyevi-kabul-etti-43300506"
+          "title": "Orman yangınları 3 ilde sürüyor. Antalya'da yüzlerce kişi tahliye edildi",
+          "summary": "Antalya, Adana ve Mersin'de çıkan orman yangınlarına ekiplerin müdahalesi sürüyor. Bazı noktalarda yangınların enerjisi düşürüldü. Antalya, Adana ve Mersin'de çıkan dört ayrı orman yangınına müdahale ediliyor. Tarım ve Orman Bakanlığına bağlı Orman Genel Müdürlüğü (OGM), Antalya ve Mersin'deki orman yangınlarının enerjisini düşürdüklerini, Adana'da ise devam eden yangına aralıksız müdahale ettiklerini bildirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-antalya-ve-adanada-orman-yangini-yanginin-dumani-sehrin-uzerine-coktu-1740915"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan PISA 2025 sonuçlarına ilişkin paylaşım",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025 sonuçlarına ilişkin, \"Eğitime verdiğimiz önemin bir sonucu olan bu başarıda emeği geçen tüm öğretmenlerimizi, öğrencilerimizi, velilerimizi ve eğitim camiamızın tamamını tebrik ediyorum.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-pisa-2025-sonuclarina-iliskin-paylasim-43300459"
+          "title": "Kaldırımdan seken otomobil 1 metrelik duvarı aştı",
+          "summary": "Kayseri’nin Melikgazi ilçesinde bir otomobil kaldırıma çarparak, havalandı. 1 metrelik duvarı aşarak, millet bahçesine giren otomobilde hafif yaralanan sürücü kısa süreli tedavinin ardından taburcu oldu. Yapılan kontrollerde sürücünün 1.14 promil alkollü olduğu belirlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kaldirimdan-seken-otomobil-1-metrelik-duvari-asti-43300758"
         },
         {
-          "title": "KKTC'de Batı Nil virüsü alarmı: Biri rutin kontrolde 3 vaka çıktı! 'Özel ilacı yok' uyarısı",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde boğaz ağrısı, ateş ve halsizlik şikayetiyle hastaneye başvuran 2 kişi ile rutin kan tahlili yaptıran 1 kişi olmak üzere toplam 3 kişide Batı Nil virüsü tespit edildi. KKTC Sağlık Bakanlığı, sivrisineklerle bulaşan hastalığa karşı bir aşı ya da bir ilacın bulunmadığını belirtti ve vatandaşları uyardı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kktcde-bati-nil-virusu-alarmi-biri-rutin-kontrolde-3-vaka-cikti-ozel-ilaci-yok-uyarisi-43300454"
+          "title": "THY'den İngiltere seferleri için yolcularına uyarı",
+          "summary": "Türk Hava Yolları (THY), İngiltere'de hava trafik kontrol sisteminde yaşanan teknik sorun nedeniyle yolcularına uçuş durumlarını kontrol etme uyarısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/thyden-ingiltere-seferleri-icin-yolcularina-uyari-43300756"
         },
         {
-          "title": "İstanbul’da seyir halindeki otomobile kurşun yağdı: Araçta 28 mermi izi, 1 ölü",
-          "summary": "İstanbul Çekmeköy Aydınlar Mahallesi Sevgi Caddesi'nde seyir halinde olan otomobile silahlı saldırı düzenlendi. Ön camı ve sürücü tarafı kurşun yağmuruna tutulan araçta yolcu koltuğunda oturan Fırat Yavşan hayatını kaybetti. Olay yerinde 21 boş kovan ve araçta 28 kurşun izi tespit eden polis, siyah bir otomobille kaçan şüphelileri yakalamak için operasyon başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-seyir-halindeki-otomobile-kursun-yagdi-aracta-28-mermi-izi-1-olu-43300443"
+          "title": "Bakan Fidan, Suriyeli mevkidaşıyla görüştü",
+          "summary": "Dışişleri Bakanı Fidan, Suriye Dışişleri Bakanı Şeybani ile Ankara'da bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-fidan-suriyeli-mevkidasiyla-gorustu-43300755"
         },
         {
-          "title": "Diyarbakır'da dehşet anları araç kamerasında: Virajda kaldırıma çıkıp anne ve iki çocuğunu biçti",
-          "summary": "Diyarbakır’ın Bağlar ilçesinde kavşakta kontrolden çıkarak kaldırıma savrulan otomobil, çocuklarıyla birlikte yürüyen Hamdiye Öztürk'e çarptı. Başka bir aracın kamerasına yansıyan feci kazada yaralanan 2 ve 5 yaşındaki çocuklar tedavilerinin ardından taburcu edildi. Annenin hayati tehlikesinin devam ederken sürücü M.G. gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-dehset-anlari-arac-kamerasinda-virajda-kaldirima-cikip-anne-ve-iki-cocugunu-bicti-43300412"
+          "title": "7 kişinin öldüğü Dilovası yangını. Kamu görevlileri hakim karşısına çıktı",
+          "summary": "Kocaeli'de 7 kişinin yaşamını yitirdiği yangına ilişkin, ruhsatı bulunmayan bina için çalışma izni veren 7 kamu görevlisi hakim karşısına çıktı. Kocaeli'nin Dilovası ilçesinde 7 kişinin öldüğü, 6 kişinin yaralandığı kozmetik fabrikasındaki yangına ilişkin aralarında şirket ve belediye yetkililerinin de bulunduğu 10'u tutuklu, 1'i firari 23 sanığın yargılandığı davanın dördüncü duruşması başladı. Gebze 7.",
+          "source": "https://www.ntv.com.tr/turkiye/7-kisinin-oldugu-dilovasi-yangini-kamu-gorevlileri-hakim-karsisina-cikti-1741005"
         },
         {
-          "title": "Bakan Fidan, ABD'nin Ankara Büyükelçisi Barrack ve ABD Temsilciler Meclisi Üyesi Issa ile görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Tom Barrack ve ABD Temsilciler Meclisi Üyesi Darrell Issa ile bir araya geldi. Dışişleri Bakanlığı kaynaklarından edinilen bilgiye göre, Bakan Fidan, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Barrack ve ABD Temsilciler Meclisi Üyesi Issa ile görüştü.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-fidan-abdnin-ankara-buyukelcisi-barrack-ve-abd-temsilciler-meclisi-uyesi-issa-ile-gorustu-1740983"
+          "title": "Türkiye’den 12 ülkenin İsrail'e yönelik yaptırım kararına destek",
+          "summary": "Türkiye, 12 ülkenin işgal altındaki Batı Şeria’daki yasa dışı İsrail yerleşimleriyle ticari ve ekonomik ilişkileri yasaklamaya yönelik adımlarını memnuniyetle karşıladığını açıkladı. Dışişleri Bakanlığından yapılan yazılı açıklamada, Birleşik Krallık, Fransa ve Kanada öncülüğündeki 12 ülkenin girişiminin desteklendiği belirtildi.",
+          "source": "https://www.ntv.com.tr/turkiye/turkiyeden-12-ulkenin-israile-yonelik-yaptirim-kararina-destek-1740992"
         },
         {
-          "title": "MHP lideri Bahçeli'den 9 Eylül mesajı: Devletimizin prangalara mahkûm edilebileceğini düşünenlere verilmiş tarihi bir cevap",
-          "summary": "MHP Genel Başkanı Devlet Bahçeli, İzmir'in düşman işgalinden kurtuluşunun 104'üncü yıl dönümü dolayısıyla kutlama mesajı yayımladı. Bahçeli, \"9 Eylül; Anadolu’nun parçalanabileceğini, Türk milletinin tarihten silinebileceğini, devletimizin prangalara mahkûm edilebileceğini düşünenlere verilmiş tarihi bir cevap, Türk’ün vatansız bırakılabileceğini vehmedenlere indirilmiş bir tokat, emperyalizmin boyunduruğu altına girmiş mazlum milletler içinse bir umut ışığı olmuştur\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceliden-9-eylul-mesaji-devletimizin-prangalara-mahkum-edilebilecegini-dusunenlere-verilmis-tarihi-bir-cevap-43300398"
+          "title": "İBB'ye yönelik 'yolsuzluk' davasında 77’nci duruşma sona erdi",
+          "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 50’si tutuklu 414 sanık, 77’nci duruşmada hakim karşısına çıktı. Gecenin ilerleyen saatlerinde sonra eren duruşma, saat 10.00'a ertelendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-77nci-durusma-sona-erdi-43300746"
         }
       ]
     },
     "dunya": {
-      "text": "Atina'nın hesapları çarşıya uymadı: İpler İsrail'in elinde mi? 'Çoktan yenilmiş durumdayız'. Putin ile Trump telefonda görüştü. İngiltere ve 11 ülkeden Batı Şeria yerleşimlerine ticaret yasağı. İsrail'e 12 ülkeden ambargo kararı: İngiltere, İsrail'in Filistin'de etnik temizlik yaptığını kabul etti. Rusya'dan Ukrayna ile yeni müzakerelere yeşil ışık. IMDb'de İsrail değişikliği! Yeni ifade dikkat çekti... 'İşgal Altındaki Filistin'. Avustralya'da sosyal medyanın içerik akışına kontrol önerisi.",
+      "text": "Hürmüz'de tansiyon yüksek. ABD ve İran'dan karşılıklı tanker saldırıları. ABD'den üç sektörde Kanada'ya ihracat yasağı. İngiltere ve 11 ülkeden Batı Şeria yerleşimlerine ticaret yasağı. Trump, Kanada ürünlerinin kamu ihalelerinden çıkarılması talimatını verdi. 9 gün sonra gelen kurtuluş. Çamurlu su içerek dokuz gün dayandı, kurtarıldığında eşini tanıyamadı. İran medyası duyurdu: Hark ve Cask'ta patlama sesleri... ABD'den açıklama. Rusya ve Kuzey Kore arasındaki ilk köprü siyasi bağları güçlendiriyor.",
       "items": [
         {
-          "title": "Atina'nın hesapları çarşıya uymadı: İpler İsrail'in elinde mi? 'Çoktan yenilmiş durumdayız'",
-          "summary": "Yunanistan'ın İsrail ile imzaladığı yaklaşık 3 milyar avroluk \"Aşil Kalkanı\" anlaşması, kaynak kodu tartışmasıyla Atina'nın gündemine oturdu. İsrailli yetkilinin Yunanistan'ın kaynak koduna erişemeyeceğini açıklaması, hükümetin daha önceki söylemleriyle çelişki tartışmasını beraberinde getirdi. Yunan basını ise yaşanan gelişmeyi \"Çoktan yenilmiş durumdayız\" başlığıyla gündeme taşıdı.",
-          "source": "https://www.hurriyet.com.tr/dunya/atinanin-hesaplari-carsiya-uymadi-ipler-israilin-elinde-mi-coktan-yenilmis-durumdayiz-43300432"
+          "title": "Hürmüz'de tansiyon yüksek. ABD ve İran'dan karşılıklı tanker saldırıları",
+          "summary": "ABD ordusu, İran'a ait beş petrol tankerini imha etti. İran ise Hürmüz Körfezi'nde 2 Amerikan gemisi ile 8 petrol tankerine misilleme yaptıklarını duyurdu. Hürmüz Boğazı çevresinde askeri gerilim dinmiyor. ABD ve İsrail’in İran’a yönelik saldırılarıyla başlayan savaşta altı ay geride kalırken, karşılıklı tehditlere yeni saldırı ve yaptırımlar eklendi. Yemen’deki Husilerin Suudi Arabistan’a saldırıları ise çatışmaların bölgeye yayılması endişesini artırdı.",
+          "source": "https://www.ntv.com.tr/dunya/hurmuzde-gerilim-dinmiyor-iranda-patlamalar-abdden-yeni-yaptirim-aciklamasi-1740993"
         },
         {
-          "title": "Putin ile Trump telefonda görüştü",
-          "summary": "Kremlin, Rusya Devlet Başkanı Vladimir Putin ile ABD Başkanı Donald Trump’ın telefonda görüştüğünü duyurdu. Kremlin’in açıklamasına göre Rusya Devlet Başkanı Vladimir Putin ile ABD Başkanı Donald Trump telefonda görüştü. Görüşmede Putin’in Trump’a cephedeki duruma ilişkin Rusya’nın değerlendirmesini aktardığı, savaşın daha erken sona ermesi için ABD’nin neler yapabileceğinin ele alındığı belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/putin-ile-trump-telefonda-gorustu-1740984"
+          "title": "ABD'den üç sektörde Kanada'ya ihracat yasağı",
+          "summary": "ABD Başkanı Donald Trump, Kanada menşeli belirli motosiklet, süt ürünleri ile alkollü içeceklerin ithalatına yasak getiren karara imza attı. Beyaz Saray tarafından yayımlanan bildirilere göre Washington yönetimi, 1930 Tarife Yasası'nın 338. bölümü kapsamında Kanada'ya karşı uyguladığı ticari tedbirleri genişletti. Bu kapsamda, ABD Başkanı Donald Trump, Kanada'nın motorlu taşıt, süt ürünleri ve alkollü içecek sektörlerini hedef alan beş yeni bildiriyi imzaladı.",
+          "source": "https://www.ntv.com.tr/dunya/abdden-uc-sektorde-kanadaya-ihracat-yasagi-1741006"
         },
         {
           "title": "İngiltere ve 11 ülkeden Batı Şeria yerleşimlerine ticaret yasağı",
@@ -62,24 +62,24 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-ingiltereden-israilin-bati-seriadaki-yerlesimlerine-ticaret-yaptirimi-1740971"
         },
         {
-          "title": "İsrail'e 12 ülkeden ambargo kararı: İngiltere, İsrail'in Filistin'de etnik temizlik yaptığını kabul etti",
-          "summary": "İngiltere, Fransa, İspanya ve Kanada dahil 12 ülke, işgal altındaki Filistin topraklarıyla ticareti yasaklayacaklarını bildirdi.İsrail, yaptırımlara yanıt olarak İngiltere'nin Doğu Kudüs'teki konsolosluğunu kapatma kararı aldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingiltere-israilin-filistinde-etnik-temizlik-yaptigini-kabul-etti-43300266"
+          "title": "Trump, Kanada ürünlerinin kamu ihalelerinden çıkarılması talimatını verdi",
+          "summary": "ABD Başkanı Donald Trump, Kanada'nın Amerikan şirketlerine ve çiftçilerine adil ticaret imkanı sunmadığını savunarak, Kanada menşeli ürünlerin kamu ihalelerinden çıkarılması yönünde talimat verdiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-kanada-urunlerinin-kamu-ihalelerinden-cikarilmasi-talimatini-verdi-43300714"
         },
         {
-          "title": "Rusya'dan Ukrayna ile yeni müzakerelere yeşil ışık",
-          "summary": "Moskova yönetimi, Rusya, ABD ve Ukrayna arasında krizin çözümüne yönelik müzakerelerin yeniden başlayacağını umduğunu kaydetti. Kremlin Sözcüsü Dmitriy Peskov, \"Krizin barışçıl yollarla çözülmesini gerçekten istiyoruz. Rusya, bu sürece açık.\" diye konuştu.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-ukrayna-ile-yeni-muzakerelere-yesil-isik-43300246"
+          "title": "9 gün sonra gelen kurtuluş. Çamurlu su içerek dokuz gün dayandı, kurtarıldığında eşini tanıyamadı",
+          "summary": "Nepal’deki sel felaketinde bir tünelde mahsur kalan iki işçi, dokuz gün sonra sağ çıkarıldı. Zifiri karanlıkta çamurlu su içerek hayatta kalan Kabir hastanede gözlerini açtığında eşini tanıyamadı. Kabir Maharjan, çamurlu suyun içinde, karanlık bir tünelde bazen bilincini kaybedip yeniden kendine gelerek dokuz gün geçirdi. Kurtarılıp hastaneye kaldırıldığında karşısındaki eşini tanımadı. Nerede olduğunu sordu, ardından neden kendisine daha önce bir yatak vermediğini anlamaya çalıştı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-9-gun-sonra-gelen-kurtulus-camurlu-su-icerek-dokuz-gun-dayandi-kurtarildiginda-esini-taniyamadi-1740999"
         },
         {
-          "title": "IMDb'de İsrail değişikliği! Yeni ifade dikkat çekti... 'İşgal Altındaki Filistin'",
-          "summary": "Dünyanın en büyük film ve medya veri tabanlarından IMDb, sitesindeki bazı kayıtlarda İsrail adını \"İşgal Altındaki Filistin Toprakları\" olarak değiştirmeye başladı. Amazon'un sahibi olduğu IMDb'nin bu değişikliği profesyonellere yönelik ücretli bölümünde yaptığı belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/imdbde-israil-degisikligi-yeni-ifade-dikkat-cekti-isgal-altindaki-filistin-43300236"
+          "title": "İran medyası duyurdu: Hark ve Cask'ta patlama sesleri... ABD'den açıklama",
+          "summary": "İran'ın Basra Körfezi'nin kuzeyinde yer alan petrol ihraç terminalinin bulunduğu Hark Adası ile Hürmüzgan Eyaleti’ne bağlı Cask kenti yakınlarında patlama seslerinin duyulduğu bildirildi. ABD Dışişleri Bakanı Marco Rubio, İran'ın ABD donanmasına ait gemileri hedef almaya devam etmesi halinde \"tankerlerini kaybedeceğini\" söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-medyasi-duyurdu-hark-ve-caskta-patlama-sesleri-43300648"
         },
         {
-          "title": "Avustralya'da sosyal medyanın içerik akışına kontrol önerisi",
-          "summary": "Avustralya'da, sosyal medya kullanıcılarının akışlarında algoritma tarafından önerilen içerikleri görüp görmeyeceklerine karar verebilmelerini sağlayan düzenlemeleri içeren yeni yasa tasarısı hazırlandı. Açıklamaya göre yasa tasarısı kapsamında ayrıca dijital hizmetlerin, 18 yaş altı gençleri olumsuz etkileyebilecek tasarım özelliklerinden de koruması öngörülüyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/avustralyada-sosyal-medyanin-icerik-akisina-kontrol-onerisi-43300215"
+          "title": "Rusya ve Kuzey Kore arasındaki ilk köprü siyasi bağları güçlendiriyor",
+          "summary": "Kuzey Kore, Rusya ile arasında kurulan ilk karayolu köprüsünü daha sıkı ilişkilerin bir işareti olarak değerlendirdi. Devlet medyasının Salı günü bildirdiğine göre Kuzey Kore, Rusya ile olan dar sınırındaki ilk karayolu köprüsünü, Pyongyang'ın güçlü komşuları Moskova ve Pekin'den elde ettiği avantajlar doğrultusunda, bağların sıkılaşmasının somut bir işareti olarak nitelendirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-rusya-ve-kuzey-kore-arasindaki-ilk-kopru-siyasi-baglari-guclendiriyor-1740922"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Samsunspor Basın Sözcüsü Suat Çakır: Sergen Yalçın maç mı takip ediyormuş, takımları mı takip ediyor?. 78'inci İstanbul Challenger TED Open’ın açılış toplantısı yapıldı. Beşiktaş'tan Rıdvan Yılmaz için sakatlık açıklaması. Cumhurbaşkanı Recep Tayyip Erdoğan, Avrupa Şampiyonu olan Filenin Sultanları'nı kabul etti. Serdal Adalı'dan sürpriz karar! Beşiktaş olağanüstü seçime gidiyor. İlk ayakta sürprizi buldu 225 TL’ye 101.447 TL kazandı! İşte Misli’de günün kazanan altılısı…. Galatasaray, Avrupa'da 341. kez sahne alacak.",
+      "text": "Arda Güler'e Şampiyonlar Ligi'nden büyük onur. Beşiktaş'tan PFDK'ya Vlahovic tepkisi: Kabul edilemez!. Leao ve Okan Buruk konuştu: Abdülkerim haberi nereden çıktı bilmiyorum. Fenerbahçe’nin eski yıldızı Amrabat, ortalığı karıştırdı! ‘O varken gitmeyeceğim’. Trabzonspor’dan Fatih Tekke ayrılığı sonrası iddialara yanıt. Aziz Yıldırım, Kerem Aktürkoğlu, Dusan Vlahovic, Ertuğrul Doğan ve Metin Öztürk PFDK'ya sevk edildi. Beşiktaş, Olağanüstü Seçimli Genel Kurul kararı aldı!.",
       "items": [
         {
-          "title": "Samsunspor Basın Sözcüsü Suat Çakır: Sergen Yalçın maç mı takip ediyormuş, takımları mı takip ediyor?",
-          "summary": "Samsunspor Basın Sözcüsü Suat Çakır, “Bizim bir hedefimiz var. İlk 5 hedefimizden biz vazgeçmedik. İlk beş hedefimiz devam edecektir. Mücadelemizi sürdüreceğiz. Bu yıl sadece bugünün takımını değil geleceğin takımını kurduk” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-basin-sozcusu-suat-cakir-sergen-yalcin-mac-mi-takip-ediyormus-takimlari-mi-takip-ediyor-43300463"
+          "title": "Arda Güler'e Şampiyonlar Ligi'nden büyük onur",
+          "summary": "A Milli Futbol Takımı'mızın ve Real Madrid'in yıldızı Arda Güler, Inter maçı öncesi UEFA Şampiyonlar Ligi'nde \"en iyi çıkış yapan oyuncu\" ödülü aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulere-sampiyonlar-liginden-buyuk-onur-43300685"
         },
         {
-          "title": "78'inci İstanbul Challenger TED Open’ın açılış toplantısı yapıldı",
-          "summary": "TÜRKİYE'NİN önemli uluslararası tenis organizasyonlarından QNB İstanbul Challenger - 78'inci TED Open’da profesyonel tenisçiler şampiyonluk için 5-13 Eylül tarihleri arasında İstanbul Tenis Eskrim Dağcılık Spor Kulübü’nde korta çıkıyor. 13 Eylül Pazar günü finali gerçekleştirilecek organizasyonda uluslararası tenis dünyasında önemli kariyerlere sahip Fabrice Santoro, Cedric Pioline, Jacco Eltingh ve Richard Krajicek özel bir gösteri maçında buluşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/78inci-istanbul-challenger-ted-openin-acilis-toplantisi-yapildi-43300430"
+          "title": "Beşiktaş'tan PFDK'ya Vlahovic tepkisi: Kabul edilemez!",
+          "summary": "Beşiktaş Kulübü, futbolcusu Dusan Vlahovic'in Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edilmesine tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-pfdkya-vlahovic-tepkisi-kabul-edilemez-43300634"
         },
         {
-          "title": "Beşiktaş'tan Rıdvan Yılmaz için sakatlık açıklaması",
-          "summary": "Beşiktaş, Fenerbahçe ile oynanan derbi maçta sakatlanarak ikinci yarıya çıkamayan solbek Rıdvan Yılmaz'ın sol uyluk iç adalesinde gerilme ve ödem tespit edildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-ridvan-yilmaz-icin-sakatlik-aciklamasi-43300416"
+          "title": "Leao ve Okan Buruk konuştu: Abdülkerim haberi nereden çıktı bilmiyorum",
+          "summary": "Galatasaray'da teknik direktör Okan Buruk ve yıldız oyuncu Rafael Leao, Şampiyonlar Ligi'nde oynayacakları Sporting maçı öncesi konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/leao-ve-okan-buruk-konustu-abdulkerim-haberi-nereden-cikti-bilmiyorum-43300592"
         },
         {
-          "title": "Cumhurbaşkanı Recep Tayyip Erdoğan, Avrupa Şampiyonu olan Filenin Sultanları'nı kabul etti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 2026 CEV Avrupa Şampiyonası'nda Avrupa şampiyonu olan A Milli Kadın Voleybol Takımı'nı kabul etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cumhurbaskani-recep-tayyip-erdogan-avrupa-sampiyonu-olan-filenin-sultanlarini-kabul-etti-43300367"
+          "title": "Fenerbahçe’nin eski yıldızı Amrabat, ortalığı karıştırdı! ‘O varken gitmeyeceğim’",
+          "summary": "Kısa süre önce Fenerbahçe ile sözleşmesini fesheden ve Ajax’a transfer olan Sofyan Amrabat, ülkesi Fas’ta gündem oldu. Amrabat, milli takımı bıraktığını sert sözlerle açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-eski-yildizi-amrabat-ortaligi-karistirdi-o-varken-gitmeyecegim-43300579"
         },
         {
-          "title": "Serdal Adalı'dan sürpriz karar! Beşiktaş olağanüstü seçime gidiyor",
-          "summary": "Beşiktaş Başkanı Serdal Adalı, olağanüstü seçimli genel kurula gitme kararı aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-surpriz-karar-besiktas-olaganustu-secime-gidiyor-43300261"
+          "title": "Trabzonspor’dan Fatih Tekke ayrılığı sonrası iddialara yanıt",
+          "summary": "Trabzonspor Kulübü, teknik direktör Fatih Tekke'nin ayrılık sürecinin ardından çıkan iddialara yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-fatih-tekke-ayriligi-sonrasi-iddialara-yanit-43300569"
         },
         {
-          "title": "İlk ayakta sürprizi buldu 225 TL’ye 101.447 TL kazandı! İşte Misli’de günün kazanan altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Bursa 1. 6’lı Ganyan koşularında bir Misli üyesi, 225 TL’ye hazırladığı kuponla 101.447 TL kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ilk-ayakta-surprizi-buldu-225-tlye-101-447-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43300194"
+          "title": "Aziz Yıldırım, Kerem Aktürkoğlu, Dusan Vlahovic, Ertuğrul Doğan ve Metin Öztürk PFDK'ya sevk edildi",
+          "summary": "Türkiye Futbol Federasyonu'ndan yapılan resmi açıklamaya göre, PFDK'ya sevk edilen isimler belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-kerem-akturkoglu-dusan-vlahovic-ertugrul-dogan-ve-metin-ozturk-pfdkya-sevk-edildi-43300535"
         },
         {
-          "title": "Galatasaray, Avrupa'da 341. kez sahne alacak",
-          "summary": "UEFA Şampiyonlar Ligi'nin ilk haftasında yarın deplasmanda Portekiz temsilcisi Sporting ile mücadele edecek Galatasaray, Avrupa kupalarındaki 341. karşılaşmasına çıkacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-avrupada-341-kez-sahne-alacak-43300146"
+          "title": "Beşiktaş, Olağanüstü Seçimli Genel Kurul kararı aldı!",
+          "summary": "Beşiktaş'ın resmi yayın organından yapılan açıklamaya göre siyah beyazlılar, olağanüstü seçimli genel kurula gidecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-olaganustu-secimli-genel-kurul-karari-aldi-43300512"
         }
       ]
     },
     "teknoloji": {
-      "text": "Huawei, İran'daki ticari ilişkileri nedeniyle ABD'de yargılanacak. TEKNOFEST İHA Finalleri Malatya’da başlıyor. Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı. Huawei ve Xiaomi'den Apple'a karşı katlanabilir telefon hamlesi. Sürü İHA’lar Gaziantep’te yarışacak. Kurtarma köpeklerinden oluşan kanser teşhis ekibine yapay zeka desteği. GTA 6 için Türkçe dil desteği gelecek mi? Yapımcı şirketten yanıt.",
+      "text": "Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı. Huawei, İran'daki ticari ilişkileri nedeniyle ABD'de yargılanacak. TEKNOFEST İHA Finalleri Malatya’da başlıyor. Huawei ve Xiaomi'den Apple'a karşı katlanabilir telefon hamlesi. Sürü İHA’lar Gaziantep’te yarışacak. Kurtarma köpeklerinden oluşan kanser teşhis ekibine yapay zeka desteği. GTA 6 için Türkçe dil desteği gelecek mi? Yapımcı şirketten yanıt.",
       "items": [
+        {
+          "title": "Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı",
+          "summary": "Fransız yapay zeka girişimi Mistral, 3,5 milyar dolarlık yeni finansman sağlayarak şirket değerini 21 milyar euronun üzerine taşıdı. Fransa'da yer alan ve Avrupa'nın ciddiye alınabilir tek yapay zeka devi Mistral, 3 milyar euroluk yeni yatırım sağladığını duyurdu. Şirket, söz konusu adımı Avrupa teknoloji sektöründe şimdiye kadar gerçekleştirilen en büyük kaynak yaratma süreci olarak nitelendirdi. Yeni finansmanla birlikte şirketin toplam piyasa değeri 21 milyar euronun üzerine çıktı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-fransiz-yapay-zeka-devi-yeni-yatirimla-degerini-21-milyar-euroya-cikardi-1740909"
+        },
         {
           "title": "Huawei, İran'daki ticari ilişkileri nedeniyle ABD'de yargılanacak",
           "summary": "İran'daki faaliyetleri hakkında küresel finans kuruluşlarını yanıltarak banka dolandırıcılığı yapmakla suçlanan Huawei, ticari hırsızlık da dahil olmak üzere yöneltilen tüm suçlamaları reddetti. ABD savcılarının Çinli Huawei şirketini, İran ile ticari ilişkisi üzerinden HSBC ve diğer bankaları dolandırma suçlamasıyla gizli kapaklı yargılamasının üzerinden sekiz yıl geçtikten sonra davanın mahkemede görülmesine karar verildi.",
@@ -175,11 +180,6 @@
           "title": "TEKNOFEST İHA Finalleri Malatya’da başlıyor",
           "summary": "Türkiye’nin ve dünyanın genç İHA geliştiricileri, TEKNOFEST 2026 kapsamında düzenlenen Uluslararası ve Liseler Arası İnsansız Hava Aracı (İHA) Yarışmaları için Malatya’da buluşuyor. İHA Yarışmalarında 7 binden fazla takımın başvurusunun ardından finale kalan 113 takım, 8-13 Eylül tarihleri arasında Tulga Havalimanı’nda teknolojilerini gökyüzünde sınayacak.",
           "source": "https://www.hurriyet.com.tr/teknoloji/teknofest-iha-finalleri-malatyada-basliyor-43300317"
-        },
-        {
-          "title": "Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı",
-          "summary": "Fransız yapay zeka girişimi Mistral, 3,5 milyar dolarlık yeni finansman sağlayarak şirket değerini 21 milyar euronun üzerine taşıdı. Fransa'da yer alan ve Avrupa'nın ciddiye alınabilir tek yapay zeka devi Mistral, 3 milyar euroluk yeni yatırım sağladığını duyurdu. Şirket, söz konusu adımı Avrupa teknoloji sektöründe şimdiye kadar gerçekleştirilen en büyük kaynak yaratma süreci olarak nitelendirdi. Yeni finansmanla birlikte şirketin toplam piyasa değeri 21 milyar euronun üzerine çıktı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-fransiz-yapay-zeka-devi-yeni-yatirimla-degerini-21-milyar-euroya-cikardi-1740909"
         },
         {
           "title": "Huawei ve Xiaomi'den Apple'a karşı katlanabilir telefon hamlesi",
