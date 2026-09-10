@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-09T16:00:04.511Z",
+  "generatedAt": "2026-09-10T04:00:04.591Z",
   "categories": {
     "gundem": {
-      "text": "İzmir’de silahlı banka soygunu girişimi. Dışişleri Bakanı Fidan, Fransız mevkidaşı Barrot ile görüştü. Son dakika... Ünlü tiyatrocu Okan Karacan hakkında hırsızlık iddiası. Milli Piyango Çekiliş Sonuçları 9 Eylül | Sıralı Tam Liste ve MPİ Bilet Sorgulama. Kilyos plajı kapatıldı mı. 17 yaşındaki Efe'nin kahreden ölümü! Doğum gününden bir gün sonra ırmakta boğuldu. BİK Genel Müdürü Çay: Basınımıza sağlanan kamu desteği 5,2 milyar TL’ye ulaştı.",
+      "text": "Bolu’da sinek ilacı kokusu hastanelik etti. Karadeniz'de hareketli anlar. Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı. Özgür Özel: Cumhurbaşkanı adayı belirlemede CHP ile işbirliği yapmayacağız. Cumhurbaşkanı Erdoğan, ABD'nin Ankara Büyükelçisi Barrack ile Temsilciler Meclisi Üyesi Issa'yı kabu. Türkiye ve 7 ülkeden İngiltere'nin yasa dışı İsrail yerleşimleriyle ilgili kararına destek. Kırmızı bültenle aranan suç örgütü şüphelisi sınırda yakalandı. Özel'den Yavaş'ın Cumhurbaşkanı Erdoğan'la görüşmesine ilk yorum.",
       "items": [
         {
-          "title": "İzmir’de silahlı banka soygunu girişimi",
-          "summary": "İzmir’in Karabağlar ilçesindeki bir banka şubesinde silahlı soygun girişimi yaşandı. Polis ekiplerinin müdahalesiyle şüphelilerin bankadan çıkamadığı bildirildi. İzmir’in Karabağlar ilçesindeki TEB İzmir-Hatay Şubesi’nde silahlı soygun girişimi yaşandı. İhbar üzerine bölgeye sevk edilen polis ekiplerinin hızlı müdahalesiyle şüphelilerin bankadan çıkamadığı öğrenildi. Silahlı oldukları belirtilen şüphelilere yönelik operasyon sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/izmirde-silahli-banka-soygunu-girisimi-1741109"
+          "title": "Bolu’da sinek ilacı kokusu hastanelik etti",
+          "summary": "Bolu’da sinek ilaçlamasının ardından kokudan etkilendiği değerlendirilen astım hastası 76 yaşındaki kadın ile yaşlı kadına müdahale etmek için apartmana giren 2 sağlık çalışanı hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/boluda-sinek-ilaci-kokusu-hastanelik-etti-43301947"
         },
         {
-          "title": "Dışişleri Bakanı Fidan, Fransız mevkidaşı Barrot ile görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Fransa Dışişleri Bakanı Jean-Noël Barrot ile bugün telefon görüşmesi gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-fidan-fransiz-mevkidasi-barrot-ile-gorustu-43301663"
+          "title": "Karadeniz'de hareketli anlar. Gürcistan'dan kalkan uçak Rize'de denize acil iniş yaptı",
+          "summary": "Gürcistan'dan kalktıktan sonra Rize açıklarında denize acil iniş yapan uçaktaki 2 kişi kurtarıldı. Batum'dan Ordu-Giresun Havalimanı'na hareket eden özel uçak, teknik arıza nedeniyle Pazar ilçesi açıklarında denize acil iniş yaptı. İhbar üzerine bölgeye Sahil Güvenlik Komutanlığı ekipleri sevk edildi. SAĞ VE BİLİNÇLERİ AÇIK Ekiplerin uçakta bulunan iki kişiye ulaşmak için denizde yürüttüğü çalışma tamamlandı. Kurtarılan kazazedeler, tedbir amacıyla Kaçkar Devlet Hastanesi'ne kaldırıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-karadenizde-hareketli-anlar-gurcistandan-kalkan-ucak-rizede-denize-acil-inis-yapti-1741077"
         },
         {
-          "title": "Son dakika... Ünlü tiyatrocu Okan Karacan hakkında hırsızlık iddiası",
-          "summary": "Ünlü tiyatro oyuncusu Okan Karacan'ın İstanbul Şişli'deki etkinlik alanında düzenlenen program sırasında masada bulunan bir dizüstü bilgisayarı çaldığı öne sürüldü. O anlara ilişkin güvenlik kamerası görüntüleri ortaya çıkarken, gözaltına alınan Karacan ifadesinin alınmasının ardından serbest bırakıldı. Annesi ise oğlunun psikolojik rahatsızlığı bulunduğunu, bir süredir ilaçlarını düzenli kullanmayı bıraktığı için, dengesiz davranışlarının bulunduğunu öne sürdüğü öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-unlu-tiyatrocu-okan-karacan-hakkinda-hirsizlik-iddiasi-43301657"
+          "title": "Özgür Özel: Cumhurbaşkanı adayı belirlemede CHP ile işbirliği yapmayacağız",
+          "summary": "Yeni Parti Genel Başkanı Özgür Özel CHP ile cumhurbaşkanı adayı konusunda bir işbirliğine ilişkin, \"Onlarla birlikte herhangi bir işbirliği yapmamız asla mümkün değil. Biz, cumhurbaşkanı adayımızı bütün meşru muhalefetle konuşuruz, gayrimeşru muhalefetle işimiz olmaz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-cumhurbaskani-adayi-belirlemede-chp-ile-isbirligi-yapmayacagiz-43301925"
         },
         {
-          "title": "Milli Piyango Çekiliş Sonuçları 9 Eylül | Sıralı Tam Liste ve MPİ Bilet Sorgulama",
-          "summary": "Milli Piyango çekiliş sonuçları ve amorti kazanan numaralar netleşti. Biletinize ikramiye çıkıp çıkmadığını öğrenmek için sıralı tam listeyi inceleyebilir, anında sorgulama yapabilirsiniz. Her ayın 9'u ve 29'unda Milli Piyango İdaresi tarafından düzenlenen çekilişte şanslı bilet numaraları noter heyeti huzurunda belirlendi. Büyük ikramiye çekilişinin ardından amorti kazanan numaralar da ilan edilerek çekiliş süreci tamamlandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-milli-piyango-cekilis-sonuclari-aciklandi-sirali-tam-liste-ve-mpi-bilet-sorgulama-ekrani-1741105"
+          "title": "Cumhurbaşkanı Erdoğan, ABD'nin Ankara Büyükelçisi Barrack ile Temsilciler Meclisi Üyesi Issa'yı kabu",
+          "summary": "Cumhurbaşkanı Erdoğan, ABD'nin Ankara Büyükelçisi Tom Barrack ile ABD Temsilciler Meclisi Üyesi Darrell Issa ve eşini kabul etti. Cumhurbaşkanı Recep Tayyip Erdoğan, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Tom Barrack ile ABD Temsilciler Meclisi Üyesi Darrell Issa ve eşiyle görüştü. Cumhurbaşkanlığı Külliyesi'ndeki kabul, basına kapalı gerçekleşti. İki isim önceki gün Dışişleri Bakanı Hakan Fidan'la da görüşmüştü.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abdnin-ankara-buyukelcisi-barrack-ile-temsilciler-meclisi-uyesi-issayi-kabu-1741130"
         },
         {
-          "title": "Kilyos plajı kapatıldı mı",
-          "summary": "İstanbul'da halkın yoğun olarak kullandığı 3 plajın halk sağlığını tehdit ettiği belirlendi. Bu plajlar geçici olarak kapatıldı. İstanbul'da vatandaşların yoğun olarak kullandığı 15 plajdan, halk sağlığını koruma amaçlı yapılan çalışmalar kapsamında numuneler alındı. Alınan numune sonuçlarına ilişkin İstanbul Valiliği açıklama yaptı. 3 PLAJ TEHLİKELİ Valilikten yapılan açıklamada 15 plajdan 3'ünün halk sağlığı standartlarına uygun olmadığı tespit edildiği bildirildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-deniz-alarmi-sonuclar-aciklandi-3-plaj-icin-alarm-verildi-1741091"
+          "title": "Türkiye ve 7 ülkeden İngiltere'nin yasa dışı İsrail yerleşimleriyle ilgili kararına destek",
+          "summary": "Türkiye’nin de aralarında bulunduğu sekiz ülke, İngiltere’nin yasa dışı İsrail yerleşimlerinden ithalatı yasaklama ve bağlantılı hizmetleri kısıtlama kararını memnuniyetle karşıladı. Dışişleri Bakanlığından yapılan açıklamada, Türkiye, BAE, Endonezya, Katar, Mısır, Pakistan, Suudi Arabistan ve Ürdün dışişleri bakanlarının, İngiltere'nin, işgal altındaki Filistin topraklarındaki yasa dışı İsrail yerleşimlerinden mal ithalatını yasaklama kararına ilişkin ortak yazılı açıklama yayımladığı belirtildi.",
+          "source": "https://www.ntv.com.tr/turkiye/turkiye-ve-7-ulkeden-ingilterenin-yasa-disi-israil-yerlesimleriyle-ilgili-kararina-destek-1741113"
         },
         {
-          "title": "17 yaşındaki Efe'nin kahreden ölümü! Doğum gününden bir gün sonra ırmakta boğuldu",
-          "summary": "Mersin’in Tarsus ilçesinde, serinlemek için Berdan Irmağı’na giren 17 yaşındaki Efe Akar boğuldu. Efe Akar'ın dün doğum günü olduğu belirtildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/17-yasindaki-efenin-kahreden-olumu-dogum-gununden-bir-gun-sonra-irmakta-boguldu-43301601"
+          "title": "Kırmızı bültenle aranan suç örgütü şüphelisi sınırda yakalandı",
+          "summary": "İstanbul’da bir kafe ile Irak Konsolosluğu’na yönelik eylemlerin şüphelisi olarak kırmızı bültenle aranan Muhammed Ali Çınar, Gürcistan’dan Türkiye’ye girerken yakalandı. İstanbul Cumhuriyet Başsavcılığından yapılan açıklamaya göre Çınar’ın, 30 Kasım 2024’te Bahçelievler’deki Şato Cafe’ye ve 21 Mart 2025’te Şişli’deki Irak Konsolosluğu’na yönelik eylemlerle bağlantılı olduğu tespit edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-suc-orgutu-suphelisi-sinirda-yakalandi-1741117"
         },
         {
-          "title": "BİK Genel Müdürü Çay: Basınımıza sağlanan kamu desteği 5,2 milyar TL’ye ulaştı",
-          "summary": "Basın İlan Kurumu (BİK) Genel Müdürü Abdulkadir Çay, 2026’nın ilk 8 ayında basına yönelik resmi ilan ve reklam desteklerinin yüzde 40 artışla 5 milyar 248 milyon TL’ye ulaştığını söyledi. Basın İlan Kurumu 33. Dönem 8. Genel Kurul Toplantısı, Genel Müdür Abdulkadir Çay’ın konuşmasıyla başladı. Kurumun son dönemde yürüttüğü çalışmalara ilişkin değerlendirmelerde bulunan Çay, basın sektörünün ihtiyaçlarını sahada tespit etmeyi sürdürerek Türk basınının geleceğine yönelik adımları kararlılıkla attıklarını söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/bik-genel-muduru-cay-basinimiza-saglanan-kamu-destegi-52-milyar-tlye-ulasti-1741106"
+          "title": "Özel'den Yavaş'ın Cumhurbaşkanı Erdoğan'la görüşmesine ilk yorum",
+          "summary": "Yeni Parti Genel Başkanı Özgür Özel, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'ın Cumhurbaşkanı Erdoğan'la görüşmesine ilişkin yaptığı açıklamada \"Ondan şüphem olmaz. Mansur bey bu konuda hassastır\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ozelden-yavasin-cumhurbaskani-erdoganla-gorusmesine-ilk-yorum-43301794"
         }
       ]
     },
     "dunya": {
-      "text": "Polonya'da korkunç kaza: Tren ile kamyon çarpıştı. Araştırmacılardan ilginç keşif! Yeni buz yapısı bulundu. Bangladeş'te tatbikat sırasında tank patladı: 2 ölü. Yunan bakandan hadsiz sözler! Türkiye'ye hem diyalog hem tehdit mesajı: Tüm senaryolarımızı hazırladık. Airbnb için yolun sonu mu? Avrupa'dan kısıtlama adımı. Merkel'den aşırı sağcı AfD'nin seçim zaferi sonrası ilk yorum. \"İçim kan ağlıyor\". Rusya'dan NATO iddiası: Hazırız.",
+      "text": "Ağustos, dünya tarihinin en sıcak ayı oldu. ABD ordusu uyuşturucu taşıyan tekneyi vurdu: 3 ölü. Dünya ağustosta kayıtlardaki en sıcak ayı yaşadı. Trump'ın uçağında tahliye kaydırağı alarmı. Zelenskiy’nin uçağı Moldova’da İHA saldırısından kıl payı kurtuldu. İran devlet televizyonu: Keşm Adası ile Sirik ve Minab kenti açıklarında patlama sesleri duyuldu. İran'ın gemilere saldırıları: ABD'den ekonomik baskı uyarısı.",
       "items": [
         {
-          "title": "Polonya'da korkunç kaza: Tren ile kamyon çarpıştı",
-          "summary": "Polonya'nın orta kesimindeki Mazowieckie bölgesinde yaklaşık 120 yolcunun bulunduğu trenin hemzemin geçitte kamyonla çarpışıp raydan çıktığı kazada 1 kişi hayatını kaybetti, 19 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/polonyada-korkunc-kaza-tren-ile-kamyon-carpisti-43301622"
+          "title": "Ağustos, dünya tarihinin en sıcak ayı oldu",
+          "summary": "Dünya genelinde ortalama yüzey sıcaklığının 16.96 dereceye ulaştığı Ağustos 2026, tarihte kayda alınan en sıcak ay oldu. Avrupa Birliği'nin (AB) Copernicus İklim Değişikliği Servisi (C3S), Ağustos 2026'ya ilişkin küresel sıcaklık verilerini açıkladı. Verilere göre, küresel olarak ağustosta ortalama yüzey hava sıcaklığı 16.96 dereceye yükseldi. Bu değer, 1991-2020 yılları arasındaki ağustos ortalamasının 0.85 derece üzerine çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/agustos-dunya-tarihinin-en-sicak-ayi-oldu-1741142"
         },
         {
-          "title": "Araştırmacılardan ilginç keşif! Yeni buz yapısı bulundu",
-          "summary": "Fransa'da araştırmacılar, 2 bin derecenin üzerinde sıcaklık ve 2,3 milyon atmosferlik basınç altında yeni bir buz yapısı gözlemledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/arastirmacilardan-ilginc-kesif-yeni-buz-yapisi-bulundu-43301620"
+          "title": "ABD ordusu uyuşturucu taşıyan tekneyi vurdu: 3 ölü",
+          "summary": "ABD ordusu, Karayipler’de uyuşturucu kaçakçılığı yaptığı belirlenen bir tekneye saldırı düzenlendiğini duyurarak, \"Saldırıda 3 narko-terörist öldürülmüştür\" açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ordusu-uyusturucu-tasiyan-tekneyi-vurdu-3-olu-43301949"
         },
         {
-          "title": "Bangladeş'te tatbikat sırasında tank patladı: 2 ölü",
-          "summary": "Bangladeş’in Chittagong şehrinde askeri tatbikat sırasında Çin menşeli Type 59 tankının patlaması sonucu 2 asker hayatını kaybederken, bir asker ağır yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/bangladeste-tatbikat-sirasinda-tank-patladi-2-olu-43301570"
+          "title": "Dünya ağustosta kayıtlardaki en sıcak ayı yaşadı",
+          "summary": "Dünya genelinde ortalama yüzey sıcaklığının 16,96 dereceye ulaştığı Ağustos 2026, kayıtlardaki en sıcak ay oldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/dunya-agustosta-kayitlardaki-en-sicak-ayi-yasadi-43301948"
         },
         {
-          "title": "Yunan bakandan hadsiz sözler! Türkiye'ye hem diyalog hem tehdit mesajı: Tüm senaryolarımızı hazırladık",
-          "summary": "Yunanistan Dışişleri Bakanı Yorgos Yerapetritis, Türkiye ile olası gerilimlere karşı tüm senaryoları hazırladıklarını söyledi. Yerapetritis, \"Gerekirse sahada müdahale ederiz\" derken, Ankara ile diyaloğun sürdürülmesi gerektiğini de savundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunan-bakandan-hadsiz-sozler-turkiyeye-hem-diyalog-hem-tehdit-mesaji-tum-senaryolarimizi-hazirladik-43301526"
+          "title": "Trump'ın uçağında tahliye kaydırağı alarmı",
+          "summary": "ABD Başkanı Donald Trump binmek üzereyken Air Force One uçağının tahliye kaydırağı açıldı. Trump 20 dakika boyunca helikopterde kaydırağın değiştirilmesini beklemek zorunda kaldı. ABD Başkanlık uçağı Air Force One'da acil tahliye kaydırağı paniği yaşandı. Olay, ABD Başkanı Donald Trump’ın Dallas’a gitmek üzere Joint Base Andrews askeri havalimanına gittiği sırada yaşandı. Tahliye kaydırağının açılmasının ardından Trump, Marine One helikopterinde yaklaşık 20 dakika beklemek zorunda kaldı.",
+          "source": "https://www.ntv.com.tr/dunya/trumpin-ucaginda-tahliye-kaydiragi-alarmi-1741140"
         },
         {
-          "title": "Airbnb için yolun sonu mu? Avrupa'dan kısıtlama adımı",
-          "summary": "Avrupa Komisyonu popüler turizm kentlerindeki konut açığını kapatmak için kısa dönemli ev kiralamalarına yönelik ortak kısıtlama çerçevesi önerdi. Avrupa Komisyonu turistik merkezlerde yaşanan konut krizini hafifletmek amacıyla Airbnb ve benzeri kısa dönemli ev kiralama platformlarına yeni kısıtlamalar getirilmesini önerdi. Komisyonun hazırladığı taslak, Avrupa çapında kuralları uyumlu hale getirmeyi amaçlıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-airbnb-icin-yolun-sonu-mu-avrupadan-kisitlama-adimi-1741092"
+          "title": "Zelenskiy’nin uçağı Moldova’da İHA saldırısından kıl payı kurtuldu",
+          "summary": "Norveç Başbakanı Jonas Gahr Store, Ukrayna Devlet Başkanı Vladimir Zelenskiy’nin uçağının dün Moldova’dan kalkış yaptığı sırada neredeyse bir İHA tarafından vurulmaktan kıl payı kurtulduğunu ifade etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenskiynin-ucagi-moldovada-iha-saldirisindan-kil-payi-kurtuldu-43301938"
         },
         {
-          "title": "Merkel'den aşırı sağcı AfD'nin seçim zaferi sonrası ilk yorum. \"İçim kan ağlıyor\"",
-          "summary": "Eski Almanya Başbakanı Merkel, Saksonya-Anhalt eyalet seçimlerinde aşırı sağcı AfD'nin zaferini \"şoke edici bir dönüm noktası\" olarak tanımladı. Eski Almanya Başbakanı Angela Merkel, Saksonya-Anhalt eyalet meclisi seçimlerinde aşırı sağcı Almanya için Alternatif (AfD) partisinin elde ettiği başarıyı \"tarihi bir dönüm noktası\" olarak niteledi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-merkelden-asiri-sagci-afdnin-secim-zaferi-sonrasi-ilk-yorum-icim-kan-agliyor-1741103"
+          "title": "İran devlet televizyonu: Keşm Adası ile Sirik ve Minab kenti açıklarında patlama sesleri duyuldu",
+          "summary": "İran'ın Hürmüzgan eyaletine bağlı Keşm Adası ile Sirik ve Minab kenti açıklarında patlama seslerinin duyulduğu bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-devlet-televizyonu-kesm-adasi-ile-sirik-ve-minab-kenti-aciklarinda-patlama-sesleri-duyuldu-43301936"
         },
         {
-          "title": "Rusya'dan NATO iddiası: Hazırız",
-          "summary": "Rusya Dışişleri Bakanlığı Sözcüsü Mariya Zaharova, NATO'nun Rusya ile uzun süreli çatışma için hazırlandığını belirterek, \"Rusya, gerektiğinde tehditleri ortadan kaldırmak için tüm askeri teknik araçlarını kullanmaya hazır.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-nato-iddiasi-haziriz-43301523"
+          "title": "İran'ın gemilere saldırıları: ABD'den ekonomik baskı uyarısı",
+          "summary": "ABD Dışişleri Bakanı Marco Rubio, İran'ın ABD savaş gemilerine ateş açmayı sürdürmesi halinde ekonomik bedel ödeyeceği mesajını verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iranin-gemilere-saldirilari-abdden-ekonomik-baski-uyarisi-43301934"
         }
       ]
     },
@@ -124,48 +124,63 @@
       ]
     },
     "spor": {
-      "text": "PSV - Shakhtar Donetsk maçını Halil Umut Meler yönetecek. Curaçao, Dick Advocaat'ın sözleşmesini uzattı. Aziz Yıldırım'dan Acun Ilıcalı'nın locası için yeni başvuru! Avukat açıklama yaptı. Trabzonspor, Konyaspor maçının hazırlıklarını sürdürdü. Beşiktaş, Erzurumspor FK maçı hazırlıklarını sürdürdü. 22 yaşındaki Turgutluspor Teknik Direktörü Zeynep Mestan: Guardiola ve Sergen Yalçın'ı örnek alıyorum. Fenerbahçe stadyum projesini resmen açıkladı!.",
+      "text": "Rui Borges: 'Galatasaray'a karşı kalitemizi gösterdik!'. Sporting taraftarından Leao'ya protesto!. Okan Buruk'tan hakem yönetimine tepki: 'Skora direkt etki etti!'. Yunus Akgün'den hakem tepkisi: 'Maçın önüne geçti!'. Galatasaray iki kez isyan etti, Okan Buruk çıldırdı: Lizbon'da skandal kararlar!. Lizbon'da tarihi gol: Torreira için bir ilk! Şut sonrası herkes hakeme baktı... Barcelona'dan Galatasaray'a gözdağı! Şampiyonlar Ligi'ne 5 gollü başlangıç.",
       "items": [
         {
-          "title": "PSV - Shakhtar Donetsk maçını Halil Umut Meler yönetecek",
-          "summary": "Halil Umut Meler, PSV ile Shakhtar Donetsk arasında oynanacak olan UEFA Şampiyonlar Ligi müsabakasını yönetecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/psv-shakhtar-donetsk-macini-halil-umut-meler-yonetecek-43301612"
+          "title": "Rui Borges: 'Galatasaray'a karşı kalitemizi gösterdik!'",
+          "summary": "UEFA Şampiyonlar Ligi'nin ilk haftasında Galatasaray'ı 3-1 mağlup eden Portekiz temsilcisi Sporting'in teknik direktörü Rui Borges, hak ettikleri bir galibiyet aldıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rui-borges-galatasaraya-karsi-kalitemizi-gosterdik-43301935"
         },
         {
-          "title": "Curaçao, Dick Advocaat'ın sözleşmesini uzattı",
-          "summary": "Curaçao, teknik direktör Dick Advocaat'ın sözleşmesini 2027'ye kadar uzattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/curacao-dick-advocaatin-sozlesmesini-uzatti-43301598"
+          "title": "Sporting taraftarından Leao'ya protesto!",
+          "summary": "Sporting taraftarları, altyapılarından yetişen Galatasaray'ın yeni yıldızı Rafael Leao'yu protesto etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sporting-taraftarindan-leaoya-protesto-43301928"
         },
         {
-          "title": "Aziz Yıldırım'dan Acun Ilıcalı'nın locası için yeni başvuru! Avukat açıklama yaptı",
-          "summary": "Fenerbahçe'de Acun Ilıcalı ve Aziz Yıldırım arasındaki loca sorununa yeni bir halka daha eklendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirimdan-acun-ilicalinin-locasi-icin-yeni-basvuru-avukat-aciklama-yapti-43301552"
+          "title": "Okan Buruk'tan hakem yönetimine tepki: 'Skora direkt etki etti!'",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Sporting Lizbon'a 3-1 kaybettikleri maçın ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-hakem-yonetimine-tepki-skora-direkt-etki-etti-43301911"
         },
         {
-          "title": "Trabzonspor, Konyaspor maçının hazırlıklarını sürdürdü",
-          "summary": "Trabzonspor, Süper Lig'in 5. haftasında 12 Eylül Cumartesi günü deplasmanda Konyaspor ile yapacağı maçın hazırlıklarını sürdürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-konyaspor-macinin-hazirliklarini-surdurdu-43301584"
+          "title": "Yunus Akgün'den hakem tepkisi: 'Maçın önüne geçti!'",
+          "summary": "Galatasaray'da Yunus Akgün ve Lucas Torreira, Şampiyonlar Ligi'ndeki 3-1'lik Sporting mağlubiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/yunus-akgunden-hakem-tepkisi-macin-onune-gecti-43301905"
         },
         {
-          "title": "Beşiktaş, Erzurumspor FK maçı hazırlıklarını sürdürdü",
-          "summary": "Beşiktaş, Süper Lig'in 5. haftasında Erzurumspor FK ile oynayacağı karşılaşmanın hazırlıklarına yaptığı antrenmanla devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-erzurumspor-fk-maci-hazirliklarini-surdurdu-43301558"
+          "title": "Galatasaray iki kez isyan etti, Okan Buruk çıldırdı: Lizbon'da skandal kararlar!",
+          "summary": "UEFA Şampiyonlar Ligi'nin açılış haftasında Sporting deplasmanına konuk olan Galatasaray, ilk yarıda 'kırmızı kart', ikinci yarıda ise Portekiz ekibine çalınan penaltı için 'iptal' bekledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-iki-kez-isyan-etti-okan-buruk-cildirdi-lizbonda-skandal-kararlar-43301857"
         },
         {
-          "title": "22 yaşındaki Turgutluspor Teknik Direktörü Zeynep Mestan: Guardiola ve Sergen Yalçın'ı örnek alıyorum",
-          "summary": "Manisa'yı yıllarca 2'nci ve 3'üncü Lig'de temsil ettikten sonra geçen sezon Manisa Süper Amatör Lig'e düşen Turgutluspor'da teknik direktörlüğe getirilen 22 yaşındaki Zeynep Mestan, Türk futbolunda kadınların yerinin daha fazla olması gerektiğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/22-yasindaki-turgutluspor-teknik-direktoru-zeynep-mestan-guardiola-ve-sergen-yalcini-ornek-aliyorum-43301465"
+          "title": "Lizbon'da tarihi gol: Torreira için bir ilk! Şut sonrası herkes hakeme baktı...",
+          "summary": "UEFA Şampiyonlar Ligi'nin açılış haftasında Portekiz'de Sporting'in konuğu olan Galatasaray, 6. dakikada öne geçerken golde ilginç anlar yaşandı. Lucas Torreira, kariyerinde bir ilki yaşarken gol çizgisi teknolojisi devreye girdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lizbonda-tarihi-gol-torreira-icin-bir-ilk-sut-sonrasi-herkes-hakeme-bakti-43301845"
         },
         {
-          "title": "Fenerbahçe stadyum projesini resmen açıkladı!",
-          "summary": "Fenerbahçe, Chobani Stadyumu’nun kapasitesini 64 bine çıkaracak projenin tamamlandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-stadyum-projesini-resmen-acikladi-43301454"
+          "title": "Barcelona'dan Galatasaray'a gözdağı! Şampiyonlar Ligi'ne 5 gollü başlangıç",
+          "summary": "UEFA Şampiyonlar Ligi'nin açılış haftasında Barcelona, sahasında Feyenoord'u 5-1 mağlup ederek Devler Ligi'ne 3 puanla başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/barcelonadan-galatasaraya-gozdagi-sampiyonlar-ligine-5-gollu-baslangic-43301818"
         }
       ]
     },
     "teknoloji": {
-      "text": "TEKNOFEST E-Ticaret Yarışması’nda kazananlar belli oldu. Apple bugün tanıtacak. iPhone 18 Pro'nun fiyatı ne kadar olacak?. Google'ın yeni hamlesi, Avrupa'daki en büyük tek seferlik yatırımı olacak. X'te yeni dönem. Son ödemeler 11 Eylül'de yapılacak. Kemalpaşa’ya Teknopark. Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı. Huawei, İran'daki ticari ilişkileri nedeniyle ABD'de yargılanacak.",
+      "text": "Apple, AirPods 5 ve yeni Watch modellerini tanıttı: Türkiye fiyatları belli oldu. Iphone Türkiye fiyatları açıklandı. Anthropic araştırmacısı: ''İnsanlığın yok olma ihtimali yüzde 10’un üzerinde''. TEKNOFEST E-Ticaret Yarışması’nda kazananlar belli oldu. Apple bugün tanıtacak. iPhone 18 Pro'nun fiyatı ne kadar olacak?. Google'ın yeni hamlesi, Avrupa'daki en büyük tek seferlik yatırımı olacak. X'te yeni dönem. Son ödemeler 11 Eylül'de yapılacak.",
       "items": [
+        {
+          "title": "Apple, AirPods 5 ve yeni Watch modellerini tanıttı: Türkiye fiyatları belli oldu",
+          "summary": "Apple’ın yeni AirPods 5’i Türkiye’de 9.999 TL’den satışa çıkacak. Kablosuz şarj kutulu sürüm 11.499 TL, Apple Watch Series 12 27.999 TL, Watch Ultra 4 ise 75.999 TL’den başlayacak. Apple, Kaliforniya’daki merkezinde düzenlediği etkinlikte AirPods 5, Apple Watch Series 12 ve Apple Watch Ultra 4’ü tanıttı. Şirket, yeni kulaklıklarında gürültü engelleme ve yapay zeka özelliklerini; saatlerinde ise sağlık sensörleri ve pil ömrünü öne çıkardı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-apple-airpods-5-ve-yeni-watch-modellerini-tanitti-turkiye-fiyatlari-belli-oldu-1741132"
+        },
+        {
+          "title": "Iphone Türkiye fiyatları açıklandı",
+          "summary": "Apple’ın yeni iPhone 18 Pro modelinin Türkiye'de, başlangıç fiyatları 256 GB 137 bin 999 TL, 512 GB için 154 bin 999 TL, 1 TB için 188 bin 999 TL, 2 TB için ise 243 bin 999 TL olarak açıklandı. Apple, ABD’nin Kaliforniya eyaletindeki merkezinde düzenlediği etkinlikte iPhone 18 Pro ve iPhone 18 Pro Max modellerini tanıttı. 256 GB depolama alanıyla gelen iPhone 18 Pro’nun ABD başlangıç fiyatı bin 199 dolar, iPhone 18 Pro Max’in ise bin 299 dolar olarak açıklandı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-apple-iphone-18-pro-ve-pro-maxi-tanitti-fiyatlar-100-dolar-artti-1741119"
+        },
+        {
+          "title": "Anthropic araştırmacısı: ''İnsanlığın yok olma ihtimali yüzde 10’un üzerinde''",
+          "summary": "Anthropic’te görevli bir araştırmacı, gelecek 10 yılda yapay zekanın insanlığın yok olmasına yol açma ihtimalini yüzde 10’un üzerinde gördüğünü söyledi. Bir çalışanın istifası ise ses getirdi. Yapay zeka şirketi Anthropic’te çalışan iki araştırmacının açıklamaları, hızla gelişen teknolojinin kontrolden çıkabileceğine ilişkin tartışmaları yeniden gündeme taşıdı. Anthropic araştırmacısı Jacob Coxon, salı günü X hesabından yaptığı açıklamada şirketten istifa ettiğini duyurdu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-anthropic-arastirmacisi-insanligin-yok-olma-ihtimali-yuzde-10un-uzerinde-1741108"
+        },
         {
           "title": "TEKNOFEST E-Ticaret Yarışması’nda kazananlar belli oldu",
           "summary": "TEKNOFEST 2026 Güneydoğu kapsamında Trendyol ile T3 Vakfı’nın birlikte hayata geçirdiği “E-ticaretYarışması”, genç yetenekleri gerçek dünya e-ticaret problemlerine çözüm üretmek üzere bir araya getirdi. 544 takım ve 1.700 yarışmacının başvurduğu, 10 takımın finale kaldığı yarışmada, kazanan ekip 150 bin TL’lik büyük ödülün sahibi oldu.",
@@ -185,21 +200,6 @@
           "title": "X'te yeni dönem. Son ödemeler 11 Eylül'de yapılacak",
           "summary": "Sosyal medya platformu X, içerik üreticileri için yürürlükte olan Gelir Paylaşımı modelini tamamen sonlandırarak Özgün İçerik Ödülleri programını başlattı. Sosyal medya platformu X (eski adıyla Twitter), içerik üreticilerine yönelik gelir paylaşımı modelini sonlandırarak Özgün İçerik Ödülleri (OCR) programı için başvuruları başlattı. Yeni sistem, platformun içerik üreticilerini ödüllendirme politikasında kapsamlı bir değişime işaret ediyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-xte-yeni-donem-son-odemeler-11-eylulde-yapilacak-1741035"
-        },
-        {
-          "title": "Kemalpaşa’ya Teknopark",
-          "summary": "KEMALPAŞA Sanayici ve İş İnsanları Derneği (KESİAD) Yönetim Kurulu Başkanı Zafer Özken, sanayicilerin gündemindeki temel sorunları ve ilçenin gelecek dönem vizyonunu değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/kemalpasaya-teknopark-43300752"
-        },
-        {
-          "title": "Fransız yapay zeka devi, yeni yatırımla değerini 21 milyar euroya çıkardı",
-          "summary": "Fransız yapay zeka girişimi Mistral, 3,5 milyar dolarlık yeni finansman sağlayarak şirket değerini 21 milyar euronun üzerine taşıdı. Fransa'da yer alan ve Avrupa'nın ciddiye alınabilir tek yapay zeka devi Mistral, 3 milyar euroluk yeni yatırım sağladığını duyurdu. Şirket, söz konusu adımı Avrupa teknoloji sektöründe şimdiye kadar gerçekleştirilen en büyük kaynak yaratma süreci olarak nitelendirdi. Yeni finansmanla birlikte şirketin toplam piyasa değeri 21 milyar euronun üzerine çıktı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-fransiz-yapay-zeka-devi-yeni-yatirimla-degerini-21-milyar-euroya-cikardi-1740909"
-        },
-        {
-          "title": "Huawei, İran'daki ticari ilişkileri nedeniyle ABD'de yargılanacak",
-          "summary": "İran'daki faaliyetleri hakkında küresel finans kuruluşlarını yanıltarak banka dolandırıcılığı yapmakla suçlanan Huawei, ticari hırsızlık da dahil olmak üzere yöneltilen tüm suçlamaları reddetti. ABD savcılarının Çinli Huawei şirketini, İran ile ticari ilişkisi üzerinden HSBC ve diğer bankaları dolandırma suçlamasıyla gizli kapaklı yargılamasının üzerinden sekiz yıl geçtikten sonra davanın mahkemede görülmesine karar verildi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-huawei-irandaki-ticari-iliskileri-nedeniyle-abdde-yargilanacak-1740981"
         }
       ]
     },
