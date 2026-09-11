@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-11T04:00:04.620Z",
+  "generatedAt": "2026-09-11T10:00:04.358Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Gürlek açıkladı. 2017'den beri aranan uyuşturucu baronu yakalandı. Manisa’da korkunç kaza: 1 ölü, 4 ağır yaralı. Ezgi Apartmanı davasında karar açıklandı. Bahçelievler'de CHP’li 3 meclis üyesi AK Parti'ye geçti. Ahbap soruşturmasında beşinci dalga operasyon. 20 şüpheli tutuklandı. Ahbap Derneğine ilişkin suç örgütü soruşturmasında 20 zanlı tutuklandı. Bakan Gürlek duyurdu: Uyuşturucu baronu İslam Yakut İstanbul'da yakalandı.",
+      "text": "Girne'deki feribot faciası soruşturmasında yeni karar. Bursa'da iki otomobil kafa kafaya çarpıştı: Sürücüler yaralandı. Özgür Çelik ifade verdi. Iğdır'da idare mahkemesi kuruldu. Diyarbakır'da şüpheli ölüm: \"Evde yok\" dediler, 2 saat sonra acı haberi geldi!. Mahkemeden emsal olacak karar. 150 lira hizmet bedeli aldılar, hapis cezası verildi. 150 liralık haksız ücret tahsilatı mahkemede bitti: Oda görevlilerine hapis cezası!.",
       "items": [
         {
-          "title": "Bakan Gürlek açıkladı. 2017'den beri aranan uyuşturucu baronu yakalandı",
-          "summary": "Adalet Bakanı Akın Gürlek, uluslararası uyuşturucu ticareti yapan suç örgütünün lideri olarak aranan İslam Yakut'un İstanbul'da yakalanarak gözaltına alındığını açıkladı. Adalet Bakanı Akın Gürlek, sosyal medyada paylaştığı mesajda İstanbul Cumhuriyet Başsavcılığı koordinesinde İstanbul Emniyet Müdürlüğü, MİT ve EGM Narkotik Suçlarla Mücadele Başkanlığının yürüttüğü çalışmalar sonucunda İslam Yakut'un yakalandığını duyurdu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-gurlek-acikladi-2017den-beri-aranan-uyusturucu-baronu-yakalandi-1741289"
+          "title": "Girne'deki feribot faciası soruşturmasında yeni karar",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde batan Filo Jet isimli feribotla ilgili yargılamada dokuz zanlı hakkında yedi gün daha tutukluluk kararı verildi. Kuzey Kıbrıs Türk Cumhuriyeti'nin Girne şehri açıklarında 30 Ağustos günü meydana gelen Filo Jet gemi faciasına ilişkin soruşturmada tutuklu bulunan dokuz zanlı üçüncü kez Girne Kaza Mahkemesi'ne çıkarıldı. Mahkeme dokuz zanlının, yedi gün daha tutuklu kalmasına karar verdi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-girnedeki-feribot-faciasi-sorusturmasinda-yeni-karar-1741376"
         },
         {
-          "title": "Manisa’da korkunç kaza: 1 ölü, 4 ağır yaralı",
-          "summary": "Manisa’nın Kula ilçesinde karayolunda seyir halinde olan kamyonet, kavşaktan karayoluna çıkış yapan tıra arkadan çarptı. Kazada kamyonette bulunan 5 kişiden 1’i hayatını kaybederken, 4 kişi ağır yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/manisada-korkunc-kaza-1-olu-4-agir-yarali-43303026"
+          "title": "Bursa'da iki otomobil kafa kafaya çarpıştı: Sürücüler yaralandı",
+          "summary": "Bursa'nın Yıldırım ilçesinde iki otomobilin kafa kafaya çarpıştığı kazada sürücüler yaralandı. Güvenlik kamerasına yansıyan kazayla ilgili soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-iki-otomobil-kafa-kafaya-carpisti-suruculer-yaralandi-43303494"
         },
         {
-          "title": "Ezgi Apartmanı davasında karar açıklandı",
-          "summary": "Kahramanmaraş'ta, 6 Şubat 2023'te meydana gelen depremlerde 35 kişinin yaşamını yitirdiği Ezgi Apartmanı davasında mahkeme, sanıklara çeşitli hapis cezaları verirken 3 sanığın beraatine hükmetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/876sar-yil-hapisleri-istenen-ezgi-apartmani-davasinda-karar-aciklandi-43303024"
+          "title": "Özgür Çelik ifade verdi",
+          "summary": "Yeni Parti İstanbul İl Başkanı Özgür Çelik, Üsküdar Meclis üyesi Ayhan Aydın hakkındaki sözleri nedeniyle başlatılan soruşturma kapsamında bugün ifade verdi. İstanbul Anadolu Cumhuriyet Başsavcılığı, üç Üsküdar Belediye Meclis Üyesi'nin ağustos ayında yaptığı şikayetler üzerine Yeni Parti İstanbul İl Başkanı Özgür Çelik ve İlçe Başkanı Berk Tütüncü hakkında soruşturma başlatmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ozgur-celik-ifade-vermek-icin-adliyede-1741348"
         },
         {
-          "title": "Bahçelievler'de CHP’li 3 meclis üyesi AK Parti'ye geçti",
-          "summary": "Bahçelievler'de, Cumhuriyet Halk Partisi'nin Belediye Meclisi Üyeleri Cem Şafak, Barış Ural ve Levent Arısüt, AK Parti'ye katıldı. Yeni üyelere AK Parti Bahçelievler İlçe Başkanlığı tarafından düzenlenen ‘Yeni Üye ve Meclis Üyeleri Katılım Programı’nda rozetleri takılırken CHP'nin meclis üyesi sayısı 25'ten 22'ye düştü, Cumhur İttifakı'nın meclis üyesi sayısı ise 20'den 23'e yükseldi ve çoğunluk Cumhur İttifakı'na geçti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bahcelievlerde-chpli-3-meclis-uyesi-ak-partiye-gecti-43303023"
+          "title": "Iğdır'da idare mahkemesi kuruldu",
+          "summary": "Adalet Bakanı Akın Gürlek, Iğdır'da idare mahkemesi kurulduğunu duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/igdirda-idare-mahkemesi-kuruldu-43303427"
         },
         {
-          "title": "Ahbap soruşturmasında beşinci dalga operasyon. 20 şüpheli tutuklandı",
-          "summary": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamında başlatılan beşinci dalga operasyonda gözaltına alınan 20 şüpheli tutuklandı. İstanbul Cumhuriyet Başsavcılığınca yürütülen \"Ahbaplar suç örgütü\" soruşturması kapsamında, İstanbul Emniyet Müdürlüğü Mali Suçlarla Mücadele Şubesi ekiplerince gözaltına alınan 49 zanlının emniyetteki işlemleri tamamlandı. Şüpheliler, sağlık kontrolünün ardından Çağlayan'daki İstanbul Adliyesi'ne götürüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ahbap-sorusturmasinda-besinci-dalga-operasyon-20-supheli-tutuklandi-1741292"
+          "title": "Diyarbakır'da şüpheli ölüm: \"Evde yok\" dediler, 2 saat sonra acı haberi geldi!",
+          "summary": "Diyarbakır’da dini nikahlı eşiyle tartıştıktan sonra ailesine sığınmak isteyen 2 çocuk annesi ve 2 aylık hamile Nurcan Akpirinç, 'evde yok' denildikten yaklaşık 2 saat sonra misafir odasında asılı halde ölü bulundu. Ailenin şikayeti üzerine soruşturma başlatılırken, kesin ölüm nedeni otopsi raporunda henüz belirlenemedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-supheli-olum-evde-yok-dediler-2-saat-sonra-aci-haberi-geldi-43303420"
         },
         {
-          "title": "Ahbap Derneğine ilişkin suç örgütü soruşturmasında 20 zanlı tutuklandı",
-          "summary": "\"Ahbap Derneği adına toplanan bağışların şüphelilerin hesaplarına aktarıldığı\" iddiasına ilişkin soruşturma kapsamında başlatılan beşinci dalga operasyonda gözaltına alınan 20 şüpheli tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ahbap-sorusturmasi-5-dalga-operasyonunda-20-supheli-tutuklandi-43302984"
+          "title": "Mahkemeden emsal olacak karar. 150 lira hizmet bedeli aldılar, hapis cezası verildi",
+          "summary": "Şoförler ve Otomobilciler Esnaf Odası'nda APP plaka değişimi için istenen 150 liralık hizmet bedeli yargıya taşındı. Mahkeme iki görevliye 5'er ay hapis cezası verdi. Konya'da APP plakasını değiştirmek isteyen vatandaştan hizmet bedeli alan iki görevliye 5'er ay hapis cezası verildi. 150 LİRA HİZMET BEDELİ ÖDEDİ Esnaf Furkan Baktemur, aracının kamuoyunda APP olarak bilinen plakasını değiştirmek için kent merkezindeki Şoförler ve Otomobilciler Esnaf Odası'na gitti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-mahkemeden-emsal-olacak-karar-150-lira-hizmet-bedeli-aldilar-hapis-cezasi-verildi-1741370"
         },
         {
-          "title": "Bakan Gürlek duyurdu: Uyuşturucu baronu İslam Yakut İstanbul'da yakalandı",
-          "summary": "İstanbul'da liderliğini yaptığı suç örgütü aracılığıyla uluslararası uyuşturucu sevkiyatlarını organize ettiği, yurt içinde ve yurt dışında ele geçirilen toplam 2 ton uyuşturucudan sorumlu olduğu belirlenen İslam Yakut, Sarıyer’de düzenlenen operasyonla yakalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-uyusturucu-baronu-islam-yakut-istanbulda-yakalandi-43302982"
+          "title": "150 liralık haksız ücret tahsilatı mahkemede bitti: Oda görevlilerine hapis cezası!",
+          "summary": "Konya'da aracının APP plakasını değiştirmek için gittiği Karapınar Şoförler ve Otomobilciler Esnaf Odası'nda kendisinden yasal olmayan şekilde 150 TL alınan Furkan Baktemur'un hukuk mücadelesi sonuçlandı. Mahkeme, görevli 2 kişiye 'görevi kötüye kullanma' suçundan 5'er ay hapis ve hak mahrumiyeti cezası verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/150-liralik-haksiz-ucret-tahsilati-mahkemede-bitti-oda-gorevlilerine-hapis-cezasi-43303402"
         }
       ]
     },
     "dunya": {
-      "text": "\"İran konusunda pişman değilim, yine olsa aynısını yapardım\". Kongo'da Ebola salgını. 3.5 ayda 3 bin 267 kişi öldü. Powerbank uçakta yangın çıkardı. İtalya'yı sağanak ve fırtına vurdu. 2 ölü, 1 ağır yaralı. Netanyahu İran ve Hizbullah’ı tehdit etti: Daha fazlası kapıda. Trump’tan İran savaşının sonuna ilişkin yeni tahmin. Gazze'de 22 bin hasta ve yaralı sınırın açılmasını bekliyor.",
+      "text": "54 yıl sonra Ay'a giden NASA astronotları tek tek görevden ayrıldı. İsviçre'de korkunç kaza: 5 ölü, 40 yaralı. En güzel Türk kadınını istemişti. Türklere \"ülkeyi terk edin\" çağrısı. İsveç prensesinin adını verdiği leylek 3 bin 500 kilometre uçtu, Karaman'da ölü bulundu. Körfez'de kritik görüşme: Hürmüz için toplanacaklar. İsrailli gardiyanların mesajları ortaya çıktı. \"Bebeğim benimle gurur duyacaksın, az önce öldü\". Slovenya'da ölü karga alarmı! Batı Nil virüsü tespit edildi.",
       "items": [
         {
-          "title": "\"İran konusunda pişman değilim, yine olsa aynısını yapardım\"",
-          "summary": "ABD Başkanı Donald Trump, İran Savaşı'na ilişkin \"Pişmanlık kelimesine inanmıyorum. Yine olsa aynısını yapardım.\" dedi. ABD Başkanı Donald Trump, Fox haber kanalına verdiği röportajda, müzakerelere rağmen karşılıklı saldırıların devam ettiği İran Savaşı'na ilişkin değerlendirmeler yaptı. İran’a karşı savaş başlattığı için pişman olmadığını belirten Trump, \"Pişmanlık kelimesine inanmıyorum. İnsan her zaman kendini biraz sorgulayabilir. Yine olsa aynısını yapardım\" ifadelerini kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/iran-konusunda-pisman-degilim-yine-olsa-aynisini-yapardim-1741302"
+          "title": "54 yıl sonra Ay'a giden NASA astronotları tek tek görevden ayrıldı",
+          "summary": "Nisan ayında Ay'ın çevresinde uçarak 1972'den bu yana alçak Dünya yörüngesinin ötesine geçen ilk insanlar olan Artemis II ekibinde dikkat çeken değişimler yaşanıyor. ARTEMIS II EKİBİ DAĞILIYOR NASA'nın insanlığı yarım asır sonra Ay'ın ötesine taşıyan Artemis II görevinin ardından mürettebatta yeni bir dönem başlıyor. Nisan ayında Ay'ın çevresinde uçan dört kişilik ekibin üç üyesi kariyerlerinde yeni görevlere geçiyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-54-yil-sonra-aya-giden-nasa-astronotlari-tek-tek-gorevden-ayrildi-1741373"
         },
         {
-          "title": "Kongo'da Ebola salgını. 3.5 ayda 3 bin 267 kişi öldü",
-          "summary": "Dünya Sağlık Örgütü (DSÖ), Kongo Demokratik Cumhuriyeti'ndeki (KDC) Ebola salgınında 15 Mayıs'tan 7 Eylül'e kadar ölen insan sayısının 3 bin 267 olduğunu açıkladı. DSÖ, KDC'de Bundibugyo virüsünün neden olduğu Ebola salgınına ilişkin yeni bir rapor yayımladı. Salgının ülkenin Kuzey Kivu'daki Kayna bölgesine de yayıldığı belirtilen raporda, 6 farklı eyalette bulunan 61 bölgenin etkilendiği kaydedildi.",
-          "source": "https://www.ntv.com.tr/dunya/kongoda-ebola-salgini-35-ayda-3-bin-267-kisi-oldu-1741301"
+          "title": "İsviçre'de korkunç kaza: 5 ölü, 40 yaralı",
+          "summary": "İsviçre Alpleri’nde Hollandalı turistleri taşıyan otobüsün devrilmesi sonucu meydana gelen kazada 5 kişi hayatını kaybetti, 3’ü ağır 40 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/isvicrede-korkunc-kaza-5-olu-40-yarali-43303485"
         },
         {
-          "title": "Powerbank uçakta yangın çıkardı",
-          "summary": "Bir yolcunun kabin bagajındaki taşınabilir şarj cihazı (powerbank) nedeniyle EasyJet uçağında yangın çıktı. Yolcular acil durum kaydıraklarıyla tahliye edildi, havalimanında uçuşlar 1 saat durdu. İngiltere'nin düşük maliyetli hava yolu şirketi EasyJet'in Milano-Prag seferini yapan uçağında kalkıştan kısa süre önce yangın çıktı. Olay akşam saatlerinde İtalya'nın Milano kentindeki Malpensa Havalimanı’nda meydana geldi.",
-          "source": "https://www.ntv.com.tr/dunya/powenbank-ucakta-yangin-cikardi-1741298"
+          "title": "En güzel Türk kadınını istemişti. Türklere \"ülkeyi terk edin\" çağrısı",
+          "summary": "Uganda Genelkurmay Başkanı Kainerugaba, ülkedeki tüm Türk vatandaşlarının derhal ülkeyi terk etmesini talep ederek Türk Büyükelçiliği önünde kitlesel protesto çağrısı yaptı. Daha önce Türkiye'ye yönelik tuhaf açıklamalarıyla kamuoyunda tepki gören Uganda Genelkurmay Başkanı General Muhoozi Kainerugaba, resmi sosyal medya hesapları üzerinden yaptığı açıklamada, ülkedeki tüm Türk vatandaşlarının Uganda'yı derhal terk etmesini talep etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-en-guzel-turk-kadinini-istemisti-turklere-ulkeyi-terk-edin-cagrisi-1741364"
         },
         {
-          "title": "İtalya'yı sağanak ve fırtına vurdu. 2 ölü, 1 ağır yaralı",
-          "summary": "Sağanak ve fırtına İtalya'nın orta ve kuzey kesimlerini felç etti. 2 kişi hayatını kaybetti, 1 kişi ağır yaralandı. Sicilya Adası'nda dün çıkan orman yangını civardaki yerleşim yerlerini tehdit ederken İtalya'nın orta kesimlerini kuvvetli sağanak ve fırtına vurdu. İtalyan İtfaiyesinin sosyal medyadan yaptığı paylaşımlara göre, Udine kentine bağlı Latisana beldesinde bir kadın, su basan alt geçitte hayatını kaybetti. Başkent Roma'da da etkili fırtına nedeniyle bir ağaç otomobilin üzerine devrildi.",
-          "source": "https://www.ntv.com.tr/dunya/italyayi-saganak-ve-firtina-vurdu-2-olu-1-agir-yarali-1741297"
+          "title": "İsveç prensesinin adını verdiği leylek 3 bin 500 kilometre uçtu, Karaman'da ölü bulundu",
+          "summary": "İsveç Veliaht Prensesi Victoria'nın halkaladığı ve kendi adını verdiği yavru leylek, Afrika'ya göç ederken Karaman'da ölü bulundu. Leyleğin ölümüne elektrik hatlarının neden olduğundan şüpheleniliyor. 3 BİN 500 KİLOMETRE UÇTU, KARAMAN'DA ÖLDÜ İsveç Veliaht Prensesi Victoria'nın ülkesindeki kuş koruma çalışmaları kapsamında temmuz ayında kendi elleriyle halkaladığı yavru leyleğin yaklaşık 3 bin 500 kilometrelik göç yolculuğu Türkiye'de son buldu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-isvec-prensesinin-adini-verdigi-leylek-3-bin-500-kilometre-uctu-karamanda-olu-bulundu-1741361"
         },
         {
-          "title": "Netanyahu İran ve Hizbullah’ı tehdit etti: Daha fazlası kapıda",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, \"daha fazlası kapıda\" sözleriyle İran ve Hizbullah'a yönelik saldırı tehdidinde bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahu-iran-ve-hizbullahi-tehdit-etti-daha-fazlasi-kapida-43303021"
+          "title": "Körfez'de kritik görüşme: Hürmüz için toplanacaklar",
+          "summary": "Financial Times gazetesinin haberine göre Umman ve İran'ın Hürmüz Boğazı'ndan gemi trafiğini yönetmek için geçici bir anlaşmaya varılmasını sağlamak amacıyla Körfez ülkelerinin dışişleri bakanları, önümüzdeki hafta İran Dışişleri Bakanı Abbas Arakçi ile görüşecek.",
+          "source": "https://www.hurriyet.com.tr/dunya/korfezde-kritik-gorusme-hurmuz-icin-toplanacaklar-43303320"
         },
         {
-          "title": "Trump’tan İran savaşının sonuna ilişkin yeni tahmin",
-          "summary": "ABD Başkanı Donald Trump, son açıklamasının aksine, İran'la savaşın 3 Kasım'daki Kongre ara seçimlerinden önce sona erebileceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-iranla-savasin-kongre-ara-secimlerinden-once-sonlanabilecegini-belirtti-43303020"
+          "title": "İsrailli gardiyanların mesajları ortaya çıktı. \"Bebeğim benimle gurur duyacaksın, az önce öldü\"",
+          "summary": "İsrail'deki Ketziot Cezaevi'nde Filistinli bir mahkumun ölümüyle ilgili soruşturmada gardiyanların WhatsApp mesajları ortaya çıktı. Yazışmalar, mahkumlara yönelik ağır şiddeti gösteriyor. MAHKUMU ÖLDÜRÜP MESAJLA HABERLEŞTİLER İsrail'deki Ketziot Cezaevi'nde Filistinli mahkum Thaer Abu Asab'ın 2023 yılında hayatını kaybetmesiyle ilgili soruşturmada tüyler ürperten yeni ayrıntılar ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israilli-gardiyanlarin-mesajlari-ortaya-cikti-bebegim-benimle-gurur-duyacaksin-az-once-oldu-1741341"
         },
         {
-          "title": "Gazze'de 22 bin hasta ve yaralı sınırın açılmasını bekliyor",
-          "summary": "Gazze'deki hükümet, aralarında çocukların da bulunduğu 22 bin hasta ve yaralının yurtdışında tedavi olmak için sınır kapılarının açılmasını beklediğini açıkladı. Ekim 2025'te yürürlüğe giren ateşkese rağmen İsrail'in katliamı sürdürdüğü Gazze'de bir yandan da abluka devam ediyor. Gazze'deki hükümetin Medya Ofisi Genel Müdürü İsmail Sevabite, Times of Israel haber sitesinin, ekim ayından bu yana yaklaşık 10 bin 500 kişinin Gazze'den ayrıldığı, 6 bin kişinin de geri döndüğü yönündeki haberini değerlendirdi.",
-          "source": "https://www.ntv.com.tr/dunya/gazzede-22-bin-hasta-ve-yarali-sinirin-acilmasini-bekliyor-1741294"
+          "title": "Slovenya'da ölü karga alarmı! Batı Nil virüsü tespit edildi",
+          "summary": "Slovenya'daki ölü kargalarda Batı Nil virüsünün tespit edildiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/slovenyada-olu-karga-alarmi-bati-nil-virusu-tespit-edildi-43303234"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Şampiyonlar Ligi'nde ilk haftanın lideri PSG!. İsmail Kartal'a şişe atan taraftara men cezası!. Bartuğ Elmaz, Roma maçına devam edemedi!. Aziz Yıldırım: 'İsmail Kartal görevinin başındadır'. Fenerbahçe Teknik Direktörü İsmail Kartal istifa etti!. Archie Brown: 'Şampiyonlar Ligi'nde ilerleyebiliriz!'. Gian Piero Gasperini: 'Bu beraberlik bizim için önemli'.",
+      "text": "Beşiktaş-Erzurumspor Maçı Gollü Geçer, Sevilla Evinde Valencia’yı Mağlup Eder! İşte Misli’de Günün En Çok Oynanan Maçları. Beşiktaş maçlarında goller tek taraflı geliyor, Sarıyer’in maçlarında gol sayısı öne çıkıyor! İşte Misli’den Günün Tüyoları. Süper Lig’de gol yağmuru! Dikkat çeken penaltı verisi… İşte Misli’den Günlük Bahis İstatistikleri. Kacper Tobiasz'dan Fenerbahçe sözleri: 'Yenmek için elimizden geleni yapacağız'. Fenerbahçe - Roma maçı sonrası ülke puanı güncellendi!. Arda Turan çılgına döndü! Halil Umut Meler'den 'Avrupa'da sarı kart. Fenerbahçe - Roma maçı Çizme basınında! İtalyanlar şaşkınlığa uğradı: İstifa gecenin sürprizi oldu.",
       "items": [
         {
-          "title": "Şampiyonlar Ligi'nde ilk haftanın lideri PSG!",
-          "summary": "UEFA Şampiyonlar Ligi'nin ilk haftası, 4 maçla sona erdi. Son şampiyon Fransız devi PSG, ilk haftayı zirvede bitirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-ilk-haftanin-lideri-psg-43302993"
+          "title": "Beşiktaş-Erzurumspor Maçı Gollü Geçer, Sevilla Evinde Valencia’yı Mağlup Eder! İşte Misli’de Günün En Çok Oynanan Maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-erzurumspor-maci-gollu-gecer-sevilla-evinde-valenciayi-maglup-eder-iste-mislide-gunun-en-cok-oynanan-maclari-43303484"
         },
         {
-          "title": "İsmail Kartal'a şişe atan taraftara men cezası!",
-          "summary": "Fenerbahçe Kulübü, UEFA Şampiyonlar Ligi'nde oynanan Roma maçında Teknik Direktör İsmail Kartal'a yönelik şişe atma eylemini gerçekleştiren taraftara seyirden men cezası verildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartala-sise-atan-taraftara-men-cezasi-43302966"
+          "title": "Beşiktaş maçlarında goller tek taraflı geliyor, Sarıyer’in maçlarında gol sayısı öne çıkıyor! İşte Misli’den Günün Tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-maclarinda-goller-tek-tarafli-geliyor-sariyerin-maclarinda-gol-sayisi-one-cikiyor-iste-misliden-gunun-tuyolari-43303480"
         },
         {
-          "title": "Bartuğ Elmaz, Roma maçına devam edemedi!",
-          "summary": "Fenerbahçe’nin Roma ile oynadığı maçta Bartuğ Elmaz, yaşadığı sakatlık nedeniyle maça devam edemedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bartug-elmaz-roma-macina-devam-edemedi-43302963"
+          "title": "Süper Lig’de gol yağmuru! Dikkat çeken penaltı verisi… İşte Misli’den Günlük Bahis İstatistikleri",
+          "summary": "Misli’de Günlük ve Haftalık Bahislerle heyecan ikiye katlanıyor! Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi, Türkiye Süper Lig, 5 büyük lig ve birçok turnuvaya özel Günlük ve Haftalık Bahis istatistikleriyle bahsin keyfi Misli’de yaşanmaya devam ediyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-gol-yagmuru-dikkat-ceken-penalti-verisi-iste-misliden-gunluk-bahis-istatistikleri-43303392"
         },
         {
-          "title": "Aziz Yıldırım: 'İsmail Kartal görevinin başındadır'",
-          "summary": "Fenerbahçe Başkanı Aziz Yıldırım, İsmail Kartal'ın istifası hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirimdan-ismail-kartal-aciklamasi-istifadan-haberimiz-yoktu-43302947"
+          "title": "Kacper Tobiasz'dan Fenerbahçe sözleri: 'Yenmek için elimizden geleni yapacağız'",
+          "summary": "Süper Lig'in 5. haftasında 14 Eylül Pazartesi günü Fenerbahçe'yi konuk edecek Gaziantep FK'nin kalecisi Kacper Tobiasz, rakipleri karşısında kazanmak için mücadele edeceklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kacper-tobiaszdan-fenerbahce-sozleri-yenmek-icin-elimizden-geleni-yapacagiz-43303440"
         },
         {
-          "title": "Fenerbahçe Teknik Direktörü İsmail Kartal istifa etti!",
-          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Roma ile 1-1 berabere kaldıkları maçın ardından istifa ettiğini açıkladı",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-teknik-direktoru-ismail-kartal-istifa-etti-43302926"
+          "title": "Fenerbahçe - Roma maçı sonrası ülke puanı güncellendi!",
+          "summary": "Fenerbahçe, Şampiyonlar Ligi'nin ilk hafta maçında Roma ile 1-1 berabere kaldı. Maçın ardından ise ülke puanı güncellendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-maci-sonrasi-ulke-puani-guncellendi-43303378"
         },
         {
-          "title": "Archie Brown: 'Şampiyonlar Ligi'nde ilerleyebiliriz!'",
-          "summary": "Fenerbahçe'de Levent Mercan, Archie Brown ve Bartuğ Elmaz, 1-1 beraberlikle sona eren Roma maçının ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/archie-brown-sampiyonlar-liginde-ilerleyebiliriz-43302917"
+          "title": "Arda Turan çılgına döndü! Halil Umut Meler'den 'Avrupa'da sarı kart",
+          "summary": "Arda Turan'ın teknik direktörlüğünü yaptığı Shakhtar Donetsk, Şampiyonlar Ligi'nde PSV Eindhoven ile 1-1 berabere kaldı. Müsabakanın 85. dakikasında Arda Turan'ın yaşadığı gerginlik, maça damga vurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-turan-cilgina-dondu-halil-umut-melerden-avrupada-sari-kart-43303189"
         },
         {
-          "title": "Gian Piero Gasperini: 'Bu beraberlik bizim için önemli'",
-          "summary": "Roma Teknik Direktörü Gian Piero Gasperini, Fenerbahçe ile 1-1 berabere kaldıkları maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gian-piero-gasperini-bu-beraberlik-bizim-icin-onemli-43302921"
+          "title": "Fenerbahçe - Roma maçı Çizme basınında! İtalyanlar şaşkınlığa uğradı: İstifa gecenin sürprizi oldu",
+          "summary": "Fenerbahçe, Şampiyonlar Ligi'nin ilk haftasında Roma ile 1-1 berabere kalırken, İtalyan basını karşılaşmaya geniş yer ayırdı. İsmail Kartal'ın istifa kararı da gündem oldu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-maci-cizme-basininda-italyanlar-saskinliga-ugradi-istifa-gecenin-surprizi-oldu-43303245"
         }
       ]
     },
