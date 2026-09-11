@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-11T10:00:04.358Z",
+  "generatedAt": "2026-09-11T16:00:04.390Z",
   "categories": {
     "gundem": {
-      "text": "Girne'deki feribot faciası soruşturmasında yeni karar. Bursa'da iki otomobil kafa kafaya çarpıştı: Sürücüler yaralandı. Özgür Çelik ifade verdi. Iğdır'da idare mahkemesi kuruldu. Diyarbakır'da şüpheli ölüm: \"Evde yok\" dediler, 2 saat sonra acı haberi geldi!. Mahkemeden emsal olacak karar. 150 lira hizmet bedeli aldılar, hapis cezası verildi. 150 liralık haksız ücret tahsilatı mahkemede bitti: Oda görevlilerine hapis cezası!.",
+      "text": "Cumhurbaşkanı Erdoğan: Cephe siyasetinden kurtulmalıyız. Son dakika... Cumhurbaşkanı Erdoğan'dan önemli açıklamalar. Başakşehir'de ana ishale hattındaki su borusu patladı: Caddeyi su bastı, yol çöktü. Oğuz Murat Aci davası. Cihantimur'un avukatından tazminat karşılığında anlaşma talebi. Suç örgütü elebaşı Serkan Kurtuluş'tan mahkemede ilk savunma: Örgüt kurmadım. Bakan Göktaş duyurdu: Türkiye'de koruma altındaki Suriyeli çocuklar yakınlarına kavuştu. Timur Cihantimur'un avukatından dikkat çeken tazminat açıklaması | Eşi ile anlaştık, diğer müştekilerle de anlaşabiliriz.",
       "items": [
         {
-          "title": "Girne'deki feribot faciası soruşturmasında yeni karar",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde batan Filo Jet isimli feribotla ilgili yargılamada dokuz zanlı hakkında yedi gün daha tutukluluk kararı verildi. Kuzey Kıbrıs Türk Cumhuriyeti'nin Girne şehri açıklarında 30 Ağustos günü meydana gelen Filo Jet gemi faciasına ilişkin soruşturmada tutuklu bulunan dokuz zanlı üçüncü kez Girne Kaza Mahkemesi'ne çıkarıldı. Mahkeme dokuz zanlının, yedi gün daha tutuklu kalmasına karar verdi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-girnedeki-feribot-faciasi-sorusturmasinda-yeni-karar-1741376"
+          "title": "Cumhurbaşkanı Erdoğan: Cephe siyasetinden kurtulmalıyız",
+          "summary": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye süreci yolunda sabırla ilerleneceği mesajını verdi. Erdoğan, \"Cephe siyasetinden de kurtarmalıyız. Milli menfaatlerde ortaklaşmaya ihtiyaç var\" dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, Rize'de AK Parti Genişletilmiş İl Danışma Meclis Toplantısı'nda açıklamalarda bulundu. Cumhurbaşkanı Erdoğan'ın açıklamalarından satır başları: \"Bugün toplam yatırım bedeli 10 milyar TL'yi bulan eser ve hizmetlerin resmi açılışını gerçekleştirdik.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-cephe-siyasetinden-kurtulmaliyiz-1741421"
         },
         {
-          "title": "Bursa'da iki otomobil kafa kafaya çarpıştı: Sürücüler yaralandı",
-          "summary": "Bursa'nın Yıldırım ilçesinde iki otomobilin kafa kafaya çarpıştığı kazada sürücüler yaralandı. Güvenlik kamerasına yansıyan kazayla ilgili soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursada-iki-otomobil-kafa-kafaya-carpisti-suruculer-yaralandi-43303494"
+          "title": "Son dakika... Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Rize'de açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-43303918"
         },
         {
-          "title": "Özgür Çelik ifade verdi",
-          "summary": "Yeni Parti İstanbul İl Başkanı Özgür Çelik, Üsküdar Meclis üyesi Ayhan Aydın hakkındaki sözleri nedeniyle başlatılan soruşturma kapsamında bugün ifade verdi. İstanbul Anadolu Cumhuriyet Başsavcılığı, üç Üsküdar Belediye Meclis Üyesi'nin ağustos ayında yaptığı şikayetler üzerine Yeni Parti İstanbul İl Başkanı Özgür Çelik ve İlçe Başkanı Berk Tütüncü hakkında soruşturma başlatmıştı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ozgur-celik-ifade-vermek-icin-adliyede-1741348"
+          "title": "Başakşehir'de ana ishale hattındaki su borusu patladı: Caddeyi su bastı, yol çöktü",
+          "summary": "İstanbul Başakşehir'de İSKİ'nin ana ishale hattındaki su borusu patladı. Patlayan borudan akan su, çevredeki cadde ve sokaklar ile bir oyun parkını bastı.",
+          "source": "https://www.hurriyet.com.tr/gundem/basaksehirde-ana-ishale-hattindaki-su-borusu-patladi-caddeyi-su-basti-yol-coktu-43303902"
         },
         {
-          "title": "Iğdır'da idare mahkemesi kuruldu",
-          "summary": "Adalet Bakanı Akın Gürlek, Iğdır'da idare mahkemesi kurulduğunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/igdirda-idare-mahkemesi-kuruldu-43303427"
+          "title": "Oğuz Murat Aci davası. Cihantimur'un avukatından tazminat karşılığında anlaşma talebi",
+          "summary": "Oğuz Murat Aci'nin ölümüne ilişkin davada Timur Cihantimur'un avukatı, Aci'nin eşiyle tazminat karşılığında anlaştıklarını, diğer müştekilerle de anlaşmak istediklerini söyledi. Eyüpsultan'da 1 Mart 2024'te o dönem 17 yaşında olan ehliyetsiz sürücü Timur Cihantimur'un kontrolündeki aracın yol kenarında arıza nedeniyle park halindeki 3 adet ATV tipi araca çarptığı kazada 29 yaşındaki Oğuz Murat Aci hayatını kaybetmesine ilişkin davanın görülmesine devam edildi. Gaziosmanpaşa 4.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-oguz-murat-aci-davasi-cihantimurun-avukatindan-tazminat-karsiliginda-anlasma-talebi-1741419"
         },
         {
-          "title": "Diyarbakır'da şüpheli ölüm: \"Evde yok\" dediler, 2 saat sonra acı haberi geldi!",
-          "summary": "Diyarbakır’da dini nikahlı eşiyle tartıştıktan sonra ailesine sığınmak isteyen 2 çocuk annesi ve 2 aylık hamile Nurcan Akpirinç, 'evde yok' denildikten yaklaşık 2 saat sonra misafir odasında asılı halde ölü bulundu. Ailenin şikayeti üzerine soruşturma başlatılırken, kesin ölüm nedeni otopsi raporunda henüz belirlenemedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-supheli-olum-evde-yok-dediler-2-saat-sonra-aci-haberi-geldi-43303420"
+          "title": "Suç örgütü elebaşı Serkan Kurtuluş'tan mahkemede ilk savunma: Örgüt kurmadım",
+          "summary": "Kırmızı bültenle aranırken 2020 yılında Arjantin'de yakalanıp Türkiye'ye iade edilen organize suç örgütü elebaşı Serkan Kurtuluş, İzmir'deki davanın 53'üncü duruşmasında SEGBİS ile ilk kez ifade verdi. Suçlamaları reddeden Kurtuluş'un tutukluluk halinin devamına karar verilerek duruşma ertelendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/suc-orgutu-elebasi-serkan-kurtulustan-mahkemede-ilk-savunma-orgut-kurmadim-43303896"
         },
         {
-          "title": "Mahkemeden emsal olacak karar. 150 lira hizmet bedeli aldılar, hapis cezası verildi",
-          "summary": "Şoförler ve Otomobilciler Esnaf Odası'nda APP plaka değişimi için istenen 150 liralık hizmet bedeli yargıya taşındı. Mahkeme iki görevliye 5'er ay hapis cezası verdi. Konya'da APP plakasını değiştirmek isteyen vatandaştan hizmet bedeli alan iki görevliye 5'er ay hapis cezası verildi. 150 LİRA HİZMET BEDELİ ÖDEDİ Esnaf Furkan Baktemur, aracının kamuoyunda APP olarak bilinen plakasını değiştirmek için kent merkezindeki Şoförler ve Otomobilciler Esnaf Odası'na gitti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-mahkemeden-emsal-olacak-karar-150-lira-hizmet-bedeli-aldilar-hapis-cezasi-verildi-1741370"
+          "title": "Bakan Göktaş duyurdu: Türkiye'de koruma altındaki Suriyeli çocuklar yakınlarına kavuştu",
+          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, resmi temaslarda bulunmak üzere gittiği Şam'da, devlet koruması altındaki 3'ü kız, 4'ü erkek 7 çocuğun sosyal incelemeler sonrasında gönüllü geri dönüş kapsamında Suriye devletine teslim edildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-goktas-duyurdu-turkiyede-koruma-altindaki-suriyeli-cocuklar-yakinlarina-kavustu-43303882"
         },
         {
-          "title": "150 liralık haksız ücret tahsilatı mahkemede bitti: Oda görevlilerine hapis cezası!",
-          "summary": "Konya'da aracının APP plakasını değiştirmek için gittiği Karapınar Şoförler ve Otomobilciler Esnaf Odası'nda kendisinden yasal olmayan şekilde 150 TL alınan Furkan Baktemur'un hukuk mücadelesi sonuçlandı. Mahkeme, görevli 2 kişiye 'görevi kötüye kullanma' suçundan 5'er ay hapis ve hak mahrumiyeti cezası verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/150-liralik-haksiz-ucret-tahsilati-mahkemede-bitti-oda-gorevlilerine-hapis-cezasi-43303402"
+          "title": "Timur Cihantimur'un avukatından dikkat çeken tazminat açıklaması | Eşi ile anlaştık, diğer müştekilerle de anlaşabiliriz",
+          "summary": "İstanbul Eyüpsultan'da Timur Cihantimur, kullandığı otomobille yol kenarında arızalanan ATV aracıyla ilgilenen kişilere çarpmış ve olayda Murat Aci hayatını kaybetmişti. Ehliyeti olmadan trafiğe çıkan 17 yaşındaki Cihantimur, annesi tarafından olay yerinden alınarak Mısır üzerinden ABD'ye kaçırılmıştı. Anne ile oğlu ABD'de yakalanarak tutuklanmıştı. Oğuz Murat Aci'nin ölümüne ilişkin davada sanığın avukatından dikkat çeken bir açıklama yapıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/timur-cihantimurun-avukatindan-dikkat-ceken-tazminat-aciklamasi-esi-ile-anlastik-diger-mustekilerle-de-anlasabiliriz-43303847"
         }
       ]
     },
     "dunya": {
-      "text": "54 yıl sonra Ay'a giden NASA astronotları tek tek görevden ayrıldı. İsviçre'de korkunç kaza: 5 ölü, 40 yaralı. En güzel Türk kadınını istemişti. Türklere \"ülkeyi terk edin\" çağrısı. İsveç prensesinin adını verdiği leylek 3 bin 500 kilometre uçtu, Karaman'da ölü bulundu. Körfez'de kritik görüşme: Hürmüz için toplanacaklar. İsrailli gardiyanların mesajları ortaya çıktı. \"Bebeğim benimle gurur duyacaksın, az önce öldü\". Slovenya'da ölü karga alarmı! Batı Nil virüsü tespit edildi.",
+      "text": "İsrail'in Gazze'deki sivil katliamını belgeledi! Venedik’i salladı: NAZA'ya alkış rekoru. Trump İran kararında inatçı: Çalışmalara hız verildi. Libya'dan Türkiye’nin ev sahipliğine destek. 154 milyon euroluk imza. Pegasus Çek hava yollarını bünyesine kattı. Trump ve Musk kritik eyaletlerdeki seçim yarışına milyonlar akıtıyor. Dışişleri Bakanı Hakan Fidan'dan Diyarbakır'da esnaf ziyareti. Prens Selman \"Husiler'e saldır\" dedi, Trump reddetti.",
       "items": [
         {
-          "title": "54 yıl sonra Ay'a giden NASA astronotları tek tek görevden ayrıldı",
-          "summary": "Nisan ayında Ay'ın çevresinde uçarak 1972'den bu yana alçak Dünya yörüngesinin ötesine geçen ilk insanlar olan Artemis II ekibinde dikkat çeken değişimler yaşanıyor. ARTEMIS II EKİBİ DAĞILIYOR NASA'nın insanlığı yarım asır sonra Ay'ın ötesine taşıyan Artemis II görevinin ardından mürettebatta yeni bir dönem başlıyor. Nisan ayında Ay'ın çevresinde uçan dört kişilik ekibin üç üyesi kariyerlerinde yeni görevlere geçiyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-54-yil-sonra-aya-giden-nasa-astronotlari-tek-tek-gorevden-ayrildi-1741373"
+          "title": "İsrail'in Gazze'deki sivil katliamını belgeledi! Venedik’i salladı: NAZA'ya alkış rekoru",
+          "summary": "İngiliz The Guardian gazetesi tarafından hazırlanan ve yönetmenliğini Oscar ödüllü Yuval Abraham ve Rachel Szor'un yaptığı \"NAZA\" belgeseli, gösterildiği 83. Venedik Uluslararası Film Festivali'nde 25 dakika boyunca ayakta alkışlanarak rekora imza attı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilin-gazzedeki-sivil-katliamini-belgeledi-venediki-salladi-nazaya-alkis-rekoru-43303903"
         },
         {
-          "title": "İsviçre'de korkunç kaza: 5 ölü, 40 yaralı",
-          "summary": "İsviçre Alpleri’nde Hollandalı turistleri taşıyan otobüsün devrilmesi sonucu meydana gelen kazada 5 kişi hayatını kaybetti, 3’ü ağır 40 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/isvicrede-korkunc-kaza-5-olu-40-yarali-43303485"
+          "title": "Trump İran kararında inatçı: Çalışmalara hız verildi",
+          "summary": "ABD'nin İran'daki derin yeraltı tesislerine yönelik olası saldırı hazırlıklarında dikkat çeken bir gelişme yaşandı. New Mexico'daki White Sands Füze Menzili'nde, İran'ın yeraltındaki nükleer tesislerine yönelik operasyonlarda kullanılabilecek silahların test edilmesi için çalışmalara hız verildiği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-iran-kararinda-inatci-calismalara-hiz-verildi-43303813"
         },
         {
-          "title": "En güzel Türk kadınını istemişti. Türklere \"ülkeyi terk edin\" çağrısı",
-          "summary": "Uganda Genelkurmay Başkanı Kainerugaba, ülkedeki tüm Türk vatandaşlarının derhal ülkeyi terk etmesini talep ederek Türk Büyükelçiliği önünde kitlesel protesto çağrısı yaptı. Daha önce Türkiye'ye yönelik tuhaf açıklamalarıyla kamuoyunda tepki gören Uganda Genelkurmay Başkanı General Muhoozi Kainerugaba, resmi sosyal medya hesapları üzerinden yaptığı açıklamada, ülkedeki tüm Türk vatandaşlarının Uganda'yı derhal terk etmesini talep etti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-en-guzel-turk-kadinini-istemisti-turklere-ulkeyi-terk-edin-cagrisi-1741364"
+          "title": "Libya'dan Türkiye’nin ev sahipliğine destek",
+          "summary": "Libya Temsilciler Meclisi (Bingazi) ve Meclisin üst kanadı olarak görev yapan Devlet Yüksek Konseyi (Trablus), seçim kanunlarının belirlenmesi için kurulan ve uzun süredir iki Meclis arasındaki anlaşmazlık nedeniyle çalışmayan \"6+6 seçim kanunlarını belirleme komitesinin\" Ankara’daki toplantının ardından etkinleştirilmesi ve Türkiye’nin görüşmelere ev sahipliği davetini takdirle karşıladıklarını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/libyadan-turkiyenin-ev-sahipligine-destek-43303817"
         },
         {
-          "title": "İsveç prensesinin adını verdiği leylek 3 bin 500 kilometre uçtu, Karaman'da ölü bulundu",
-          "summary": "İsveç Veliaht Prensesi Victoria'nın halkaladığı ve kendi adını verdiği yavru leylek, Afrika'ya göç ederken Karaman'da ölü bulundu. Leyleğin ölümüne elektrik hatlarının neden olduğundan şüpheleniliyor. 3 BİN 500 KİLOMETRE UÇTU, KARAMAN'DA ÖLDÜ İsveç Veliaht Prensesi Victoria'nın ülkesindeki kuş koruma çalışmaları kapsamında temmuz ayında kendi elleriyle halkaladığı yavru leyleğin yaklaşık 3 bin 500 kilometrelik göç yolculuğu Türkiye'de son buldu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-isvec-prensesinin-adini-verdigi-leylek-3-bin-500-kilometre-uctu-karamanda-olu-bulundu-1741361"
+          "title": "154 milyon euroluk imza. Pegasus Çek hava yollarını bünyesine kattı",
+          "summary": "Çekya Rekabet Kurumu, Türk hava yolu şirketi Pegasus'un Smartwings'i 154 milyon euro karşılığında satın almasına onay verdi. Çekya Rekabet Kurumu (UOHS), Pegasus Hava Yolları'nın Çek hava yolu şirketi Smartwings'i satın almasına izin verdi. Karar, Türk şirketinin Avrupa pazarındaki etkinliğini artırma hedefine kapı aralıyor. Pegasus, 154 milyon euro (179 milyon dolar) tutarındaki anlaşmayı geçen aralık ayında duyurmuştu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-154-milyon-euroluk-imza-pegasus-cek-hava-yollarini-bunyesine-katti-1741411"
         },
         {
-          "title": "Körfez'de kritik görüşme: Hürmüz için toplanacaklar",
-          "summary": "Financial Times gazetesinin haberine göre Umman ve İran'ın Hürmüz Boğazı'ndan gemi trafiğini yönetmek için geçici bir anlaşmaya varılmasını sağlamak amacıyla Körfez ülkelerinin dışişleri bakanları, önümüzdeki hafta İran Dışişleri Bakanı Abbas Arakçi ile görüşecek.",
-          "source": "https://www.hurriyet.com.tr/dunya/korfezde-kritik-gorusme-hurmuz-icin-toplanacaklar-43303320"
+          "title": "Trump ve Musk kritik eyaletlerdeki seçim yarışına milyonlar akıtıyor",
+          "summary": "ABD Başkanı Trump ile milyarder Elon Musk, kritik eyaletlerdeki Kongre yarışlarında Cumhuriyetçileri desteklemek için on milyonlarca dolarlık reklam harcaması başlattı. ABD Başkanı Donald Trump ve milyarder Elon Musk ile bağlantılı siyasi eylem komiteleri (PAC), 2026 Kongre ara seçimlerine sekiz haftadan az bir süre kala kritik eyaletlerdeki Cumhuriyetçi adayları desteklemek için milyonlarca dolarlık harcama sürecini başlattı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-ve-musk-kritik-eyaletlerdeki-secim-yarisina-milyonlar-akitiyor-1741383"
         },
         {
-          "title": "İsrailli gardiyanların mesajları ortaya çıktı. \"Bebeğim benimle gurur duyacaksın, az önce öldü\"",
-          "summary": "İsrail'deki Ketziot Cezaevi'nde Filistinli bir mahkumun ölümüyle ilgili soruşturmada gardiyanların WhatsApp mesajları ortaya çıktı. Yazışmalar, mahkumlara yönelik ağır şiddeti gösteriyor. MAHKUMU ÖLDÜRÜP MESAJLA HABERLEŞTİLER İsrail'deki Ketziot Cezaevi'nde Filistinli mahkum Thaer Abu Asab'ın 2023 yılında hayatını kaybetmesiyle ilgili soruşturmada tüyler ürperten yeni ayrıntılar ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-israilli-gardiyanlarin-mesajlari-ortaya-cikti-bebegim-benimle-gurur-duyacaksin-az-once-oldu-1741341"
+          "title": "Dışişleri Bakanı Hakan Fidan'dan Diyarbakır'da esnaf ziyareti",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Diyarbakır'da vatandaşlarla buluştu. Bakan Fidan, Diyarbakır'ın merkez Sur ilçesinde namaz kılmasının ardından esnafı ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-diyarbakirda-esnaf-ziyareti-43303755"
         },
         {
-          "title": "Slovenya'da ölü karga alarmı! Batı Nil virüsü tespit edildi",
-          "summary": "Slovenya'daki ölü kargalarda Batı Nil virüsünün tespit edildiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/slovenyada-olu-karga-alarmi-bati-nil-virusu-tespit-edildi-43303234"
+          "title": "Prens Selman \"Husiler'e saldır\" dedi, Trump reddetti",
+          "summary": "Axios, Prens Selman'ın Trump'tan İran destekli Husiler'i vurmasını istediğini ancak talebin geri çevrildiğini öne sürdü. Yemen’de hükümet güçleri ile İran destekli Husiler arasında çatışmalar büyürken, devreye Suudi Arabistan da girdi. Husi güçlerinin Suudi Arabistan'ın güneyindeki Hamis Muşayt, Abha ve Cizan şehirlerini balistik füzeler ve insansız hava araçlarıyla hedef alması ve Kızıldeniz'deki Babülmendep Boğazı'na yönelik müdahalelerinin ardından Riyad yönetimi Husiler'e yönelik hava saldırıları düzenledi.",
+          "source": "https://www.ntv.com.tr/dunya/prens-selman-husilere-saldir-dedi-trump-reddetti-1741306"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Beşiktaş-Erzurumspor Maçı Gollü Geçer, Sevilla Evinde Valencia’yı Mağlup Eder! İşte Misli’de Günün En Çok Oynanan Maçları. Beşiktaş maçlarında goller tek taraflı geliyor, Sarıyer’in maçlarında gol sayısı öne çıkıyor! İşte Misli’den Günün Tüyoları. Süper Lig’de gol yağmuru! Dikkat çeken penaltı verisi… İşte Misli’den Günlük Bahis İstatistikleri. Kacper Tobiasz'dan Fenerbahçe sözleri: 'Yenmek için elimizden geleni yapacağız'. Fenerbahçe - Roma maçı sonrası ülke puanı güncellendi!. Arda Turan çılgına döndü! Halil Umut Meler'den 'Avrupa'da sarı kart. Fenerbahçe - Roma maçı Çizme basınında! İtalyanlar şaşkınlığa uğradı: İstifa gecenin sürprizi oldu.",
+      "text": "Chelsea, Pedro Neto'nun sözleşmesini yeniledi. Trabzonspor'un Konyaspor maçı kamp kadrosu belli oldu. Fenerbahçe, Gaziantep FK maçı hazırlıklarına başladı. Fenerbahçe'de İsmail Kartal'ın istifası kabul edildi, yollar ayrıldı! Yönetim ikna edemedi. Shane Larkin: 'Burada hedefim şampiyonluklar kazanmak!'. İsmail Kartal'a su şişesi atan Kaan A.'nın ifadesi ortaya çıktı: Özür diliyorum. Fenerbahçe-Roma maçı sonrası Rodrigo Mora, Spor Arena'ya konuştu: Atmosferin böyle olacağını biliyorduk.",
       "items": [
         {
-          "title": "Beşiktaş-Erzurumspor Maçı Gollü Geçer, Sevilla Evinde Valencia’yı Mağlup Eder! İşte Misli’de Günün En Çok Oynanan Maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-erzurumspor-maci-gollu-gecer-sevilla-evinde-valenciayi-maglup-eder-iste-mislide-gunun-en-cok-oynanan-maclari-43303484"
+          "title": "Chelsea, Pedro Neto'nun sözleşmesini yeniledi",
+          "summary": "Premier Lig ekiplerinden Chelsea, 26 yaşındaki Portekizli sağ kanat oyuncusu Pedro Neto ile 2032 yılına kadar geçerli yeni bir sözleşme imzaladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/chelsea-pedro-netonun-sozlesmesini-yeniledi-43303880"
         },
         {
-          "title": "Beşiktaş maçlarında goller tek taraflı geliyor, Sarıyer’in maçlarında gol sayısı öne çıkıyor! İşte Misli’den Günün Tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-maclarinda-goller-tek-tarafli-geliyor-sariyerin-maclarinda-gol-sayisi-one-cikiyor-iste-misliden-gunun-tuyolari-43303480"
+          "title": "Trabzonspor'un Konyaspor maçı kamp kadrosu belli oldu",
+          "summary": "Trabzonspor, Süper Lig'in 5. haftasında deplasmanda oynayacağı Konyaspor maçının hazırlıklarını tamamladı. Bordo-mavililer, bu müsabaka için Konya'ya hareket etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-konyaspor-maci-kamp-kadrosu-belli-oldu-43303842"
         },
         {
-          "title": "Süper Lig’de gol yağmuru! Dikkat çeken penaltı verisi… İşte Misli’den Günlük Bahis İstatistikleri",
-          "summary": "Misli’de Günlük ve Haftalık Bahislerle heyecan ikiye katlanıyor! Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi, Türkiye Süper Lig, 5 büyük lig ve birçok turnuvaya özel Günlük ve Haftalık Bahis istatistikleriyle bahsin keyfi Misli’de yaşanmaya devam ediyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-gol-yagmuru-dikkat-ceken-penalti-verisi-iste-misliden-gunluk-bahis-istatistikleri-43303392"
+          "title": "Fenerbahçe, Gaziantep FK maçı hazırlıklarına başladı",
+          "summary": "Fenerbahçe, Süper Lig'in 5. haftasında 14 Eylül Pazartesi günü deplasmanda Gaziantep FK ile oynayacağı maçın hazırlıklarına ara vermeden başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-gaziantep-fk-maci-hazirliklarina-basladi-43303834"
         },
         {
-          "title": "Kacper Tobiasz'dan Fenerbahçe sözleri: 'Yenmek için elimizden geleni yapacağız'",
-          "summary": "Süper Lig'in 5. haftasında 14 Eylül Pazartesi günü Fenerbahçe'yi konuk edecek Gaziantep FK'nin kalecisi Kacper Tobiasz, rakipleri karşısında kazanmak için mücadele edeceklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kacper-tobiaszdan-fenerbahce-sozleri-yenmek-icin-elimizden-geleni-yapacagiz-43303440"
+          "title": "Fenerbahçe'de İsmail Kartal'ın istifası kabul edildi, yollar ayrıldı! Yönetim ikna edemedi",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi ilk hafta maçında sahasında ağırladığı Roma ile 1-1 berabere kaldı. Maç sonrası hiç kimsenin beklemediği bir olay yaşandı. İsmail Kartal basın toplantısında istifa ettiğini açıkladı. Ardından kameraların karşısına geçen Başkan Aziz Yıldırım, 'Görevinin başındadır' dedi. Bugün yapılan idmana çıkmayan İsmail Kartal ikna edilemeyince istifası kabul edildi",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-ismail-kartalin-istifasi-kabul-edildi-yollar-ayrildi-yonetim-ikna-edemedi-43303078"
         },
         {
-          "title": "Fenerbahçe - Roma maçı sonrası ülke puanı güncellendi!",
-          "summary": "Fenerbahçe, Şampiyonlar Ligi'nin ilk hafta maçında Roma ile 1-1 berabere kaldı. Maçın ardından ise ülke puanı güncellendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-maci-sonrasi-ulke-puani-guncellendi-43303378"
+          "title": "Shane Larkin: 'Burada hedefim şampiyonluklar kazanmak!'",
+          "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, yeni sezon öncesi medya günü gerçekleştirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/shane-larkin-burada-hedefim-sampiyonluklar-kazanmak-43303696"
         },
         {
-          "title": "Arda Turan çılgına döndü! Halil Umut Meler'den 'Avrupa'da sarı kart",
-          "summary": "Arda Turan'ın teknik direktörlüğünü yaptığı Shakhtar Donetsk, Şampiyonlar Ligi'nde PSV Eindhoven ile 1-1 berabere kaldı. Müsabakanın 85. dakikasında Arda Turan'ın yaşadığı gerginlik, maça damga vurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-turan-cilgina-dondu-halil-umut-melerden-avrupada-sari-kart-43303189"
+          "title": "İsmail Kartal'a su şişesi atan Kaan A.'nın ifadesi ortaya çıktı: Özür diliyorum",
+          "summary": "KADIKÖY'de oynanan Fenerbahçe-Roma maçında Fenerbahçe Teknik Direktörü İsmail Kartal'ın kafasına su şişesi atması nedeniyle gözaltına alınan ve hakkında seyirden men tedbiri uygulanan Kaan A.'nın savcılık ifadesi ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartala-su-sisesi-atan-kaan-a-nin-ifadesi-ortaya-cikti-ozur-diliyorum-43303680"
         },
         {
-          "title": "Fenerbahçe - Roma maçı Çizme basınında! İtalyanlar şaşkınlığa uğradı: İstifa gecenin sürprizi oldu",
-          "summary": "Fenerbahçe, Şampiyonlar Ligi'nin ilk haftasında Roma ile 1-1 berabere kalırken, İtalyan basını karşılaşmaya geniş yer ayırdı. İsmail Kartal'ın istifa kararı da gündem oldu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-maci-cizme-basininda-italyanlar-saskinliga-ugradi-istifa-gecenin-surprizi-oldu-43303245"
+          "title": "Fenerbahçe-Roma maçı sonrası Rodrigo Mora, Spor Arena'ya konuştu: Atmosferin böyle olacağını biliyorduk",
+          "summary": "UEFA Şampiyonlar Ligi'nde temsilcimiz Fenerbahçe ile karşılaşan Roma'da yeni transfer Rodrigo Mora, Spor Arena muhabiri Selen Casu Akoy'a değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-maci-sonrasi-rodrigo-mora-spor-arenaya-konustu-atmosferin-boyle-olacagini-biliyorduk-43303602"
         }
       ]
     },
