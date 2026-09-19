@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-19T10:00:03.384Z",
+  "generatedAt": "2026-09-19T16:00:03.758Z",
   "categories": {
     "gundem": {
-      "text": "Büşra bebeğin borç karşılığı verildiği iddia edilen şüpheli serbest bırakıldı. DMM, \"TSK'da bazı marşların yasaklandığı\" iddiasını yalanladı. MSB'den 'Gaziler Günü' paylaşımı. Aquaparkta korkunç ölüm! İşletme sahibi hakkında tazminat davası. Ankara merkezli 15 ilde operasyon: 15 kişi tutuklandı. Masaj salonu ve güzellik merkezlerine fuhuş operasyonu | Müşterilerine katalog göndermiş. Eşi borç aldığı paraları borsada kaybedip ortadan kayboldu! 2 çocuk annesinin hayatı kabusa döndü: Ölmek istemiyorum.",
+      "text": "Fon soruşturmasında yeni gelişme: 5 yeni gözaltı. Bakan Güler: Gazilik, şanlı tarihimizde büyük bir şeref ve onur vesilesi olarak görülmüştür. Fon soruşturması: Pusula ve Tera yöneticilerine gözaltı. Fatih'te iki kişinin öldüğü çatışmaya ilişkin 6 tutuklama. Numan Kurtulmuş: Terör Türkiye'nin gündeminden kalkacak. F1'in efsane pilotu Felipe Massa İstanbul'un tarih ve gastronomisine hayran kaldı. TBMM Başkanı Numan Kurtulmuş: İsrail boşuna ham hayaller peşinde koşmasın.",
       "items": [
         {
-          "title": "Büşra bebeğin borç karşılığı verildiği iddia edilen şüpheli serbest bırakıldı",
-          "summary": "Sivas'ın Divriği ilçesinde 11 aylık Büşra bebeğin kaybolmasına ilişkin soruşturma kapsamında gözaltına alınan 1 zanlı adli kontrol şartıyla serbest bırakıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/busra-bebegin-borc-karsiligi-verildigi-iddia-edilen-supheli-serbest-birakildi-43312352"
+          "title": "Fon soruşturmasında yeni gelişme: 5 yeni gözaltı",
+          "summary": "Sermaye piyasası işlemlerine ilişkin yürüttüğü soruşturma kapsamında Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan ile Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen ve yöneticileri Alper Öztürk, Emre Alkin ve Kerem Alkin gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-5-yeni-gozalti-43312758"
         },
         {
-          "title": "DMM, \"TSK'da bazı marşların yasaklandığı\" iddiasını yalanladı",
-          "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Harp Okulu mezuniyet törenlerinde askeri bando tarafından icra edilen marşlara ilişkin iddialar ve Türk Silahlı Kuvvetlerinde (TSK) bazı marşların yasaklandığı\" yönündeki paylaşımların asılsız olduğunu bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/dmm-tskda-bazi-marslarin-yasaklandigi-iddiasini-yalanladi-43312313"
+          "title": "Bakan Güler: Gazilik, şanlı tarihimizde büyük bir şeref ve onur vesilesi olarak görülmüştür",
+          "summary": "Milli Savunma Bakanı Yaşar Güler, \"Gazilik, şanlı tarihimizde ve milletimizin vefakâr gönlünde daima büyük bir şeref ve onur vesilesi olarak görülmüştür\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-guler-gazilik-sanli-tarihimizde-buyuk-bir-seref-ve-onur-vesilesi-olarak-gorulmustur-43312755"
         },
         {
-          "title": "MSB'den 'Gaziler Günü' paylaşımı",
-          "summary": "Milli Savunma Bakanlığı (MSB), 19 Eylül Gaziler Günü’nü kutladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/msbden-gaziler-gunu-paylasimi-43312303"
+          "title": "Fon soruşturması: Pusula ve Tera yöneticilerine gözaltı",
+          "summary": "Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan ile Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen ve yöneticileri Alper Öztürk, Emre Alkin ve Kerem Alkin gözaltına alındı. Sermaye piyasalarına ilişkin soruşturmada yeni bir gelişme yaşandı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada, Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan ile Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen ve yöneticileri Alper Öztürk, Emre Alkin ve Kerem Alkin gözaltına alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-pusula-ve-tera-yoneticilerine-gozalti-1742581"
         },
         {
-          "title": "Aquaparkta korkunç ölüm! İşletme sahibi hakkında tazminat davası",
-          "summary": "Ankara'da inşaat işçisi Mehmet Keleş'in aquaparkta kaydıraktan düşerek hayatını kaybetmesine ilişkin takipsizlik kararının kaldırılması ardından yürütülen soruşturma sürüyor. Soruşturma dosyasına Keleş'in kaydıraktan düşme anına ilişkin güvenlik kamerası görüntüsü delil olarak girdi. Öte yandan aile, işletme sahibi hakkında tazminat davası açtı.",
-          "source": "https://www.hurriyet.com.tr/gundem/aquaparkta-korkunc-olum-isletme-sahibi-hakkinda-tazminat-davasi-43312272"
+          "title": "Fatih'te iki kişinin öldüğü çatışmaya ilişkin 6 tutuklama",
+          "summary": "İstanbul'un Fatih ilçesinde 2 kardeşin hayatını kaybettiği, 2 kişinin de yaralandığı silahlı kavgaya ilişkin 12 şüpheli yakalanırken, 6'sı tutuklandı. İstanbul Emniyet Müdürlüğü Asayiş Şube Müdürlüğü’nce, Fatih ilçesi Nuruosmaniye Mahallesi’nde iki grup arasında meydana gelen, 2 kişinin hayatını kaybettiği ve 2 kişinin yaralandığı silahlı çatışmaya karışan 12 şüphelinin tespit edilerek yakalandığı açıklandı. Olay yerine dışarıdan gelen 9 kişilik gruptan, A.A. (30) ve K.A.",
+          "source": "https://www.ntv.com.tr/turkiye/fatihte-iki-kisinin-oldugu-catismaya-iliskin-6-tutuklama-1742599"
         },
         {
-          "title": "Ankara merkezli 15 ilde operasyon: 15 kişi tutuklandı",
-          "summary": "Ankara merkezli 15 ilde, MİT ile Ankara Emniyet Müdürlüğü tarafından FETÖ/PDY'nin kamu mahrem izdivaç yapılanmasına yönelik gerçekleştirilen operasyonda gözaltına alınan 26 şüpheliden 15’i tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankara-merkezli-15-ilde-operasyon-15-kisi-tutuklandi-43312271"
+          "title": "Numan Kurtulmuş: Terör Türkiye'nin gündeminden kalkacak",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecini ilişkin yaptığı konuşmada, \"Türkiye'de artık bundan sonra terör kelimesi gündeme gelmeyecek.\" dedi. Kırşehir'de katıldığı STK buluşmasında konuşan Meclis Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecine ilişkin açıklamalarda bulundu. Kurtulmuş, TBMM'de kurulan komisyonda yapılan 21 toplantının ardından ortaya çıkan raporun, Türkiye demokrasisinde görülmemiş bir ittifak örneğiyle 50 milletvekilinin 47'sinin oyuyla kabul edildiğini söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/numan-kurtulmus-teror-turkiyenin-gundeminden-kalkacak-1742600"
         },
         {
-          "title": "Masaj salonu ve güzellik merkezlerine fuhuş operasyonu | Müşterilerine katalog göndermiş",
-          "summary": "Adanamerkezli 3 ilde, masaj salonu ve güzellik merkezlerinde fuhuş yaptırdığı belirlenen şüphelilere yönelik operasyonda 7'si kadın 18 şüpheli gözaltına alındı. Şüphelilerin, iş yerleri adına açtıkları sanal medya hesaplarından kendileriyle iletişime geçenlere, fuhşa zorladıkları kadınların fotoğraflarının bulunduğu katalog gönderdiği belirlendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/masaj-salonu-ve-guzellik-merkezlerine-fuhus-operasyonu-musterilerine-katalog-gondermis-43312261"
+          "title": "F1'in efsane pilotu Felipe Massa İstanbul'un tarih ve gastronomisine hayran kaldı",
+          "summary": "İstanbul Park'ta yarıştığı üç Formula 1 Grand Prix'sinin üçünü de kazanan Brezilyalı efsane pilot Felipe Massa, yıllar sonra yeniden İstanbul'a geldi. “King of Istanbul” olarak anılan Brezilyalı pilot, Kültür ve Turizm Bakanlığı'na bağlı Türkiye Turizm Tanıtım ve Geliştirme Ajansı (TGA) tarafından hazırlanan program kapsamında İstanbul'un tarihini, kültürünü ve gastronomisini keşfetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/f1in-efsane-pilotu-felipe-massa-istanbulun-tarih-ve-gastronomisine-hayran-kaldi-43312734"
         },
         {
-          "title": "Eşi borç aldığı paraları borsada kaybedip ortadan kayboldu! 2 çocuk annesinin hayatı kabusa döndü: Ölmek istemiyorum",
-          "summary": "Adana'da 2 çocuk annesi Yasemin Uğureli (36), borç aldığı paraları borsada kaybetmesinin ardından ortadan kaybolan sigortacı eşi M.U.'nun (42) alacaklıları tarafından tehdit edildiğini öne sürerek, \"Çocuklarımla birlikte yaşamak ve güvende olmak istiyorum. Psikolojimiz tamamen altüst oldu, ölmek istemiyorum. M.U. bir an önce ortaya çıksın ve başımızdaki bu dertten bizi kurtarsın\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/esi-borc-aldigi-paralari-borsada-kaybedip-ortadan-kayboldu-2-cocuk-annesinin-hayati-kabusa-dondu-olmek-istemiyorum-43312203"
+          "title": "TBMM Başkanı Numan Kurtulmuş: İsrail boşuna ham hayaller peşinde koşmasın",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, \"Çok açık söylüyoruz, İsrail boşuna ham hayaller peşinde koşmasın, Türkiye olarak biz bu bölgeyi derleyip toparlayacağız ve yolumuza devam edeceğiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-numan-kurtulmus-israil-bosuna-ham-hayaller-pesinde-kosmasin-43312733"
         }
       ]
     },
     "dunya": {
-      "text": "70 yıllık hikaye mektuplarla başladı. 51 sene yüzünü bile görmedi, ismini kızına verdi. İnsan beyniyle ilgili ezber bozan keşif. Türkiye, hayvan varlığında AB ülkelerinin tamamını geride bıraktı. Arjantin’de intihar vakaları tarihi zirveye ulaştı. Artık gençler arasında en yaygın ölüm nedeni. İran'dan Fransa'ya sert yanıt: Timsah gözyaşlarını kes. Lüksemburg'da alarm: Uçuşlar durduruldu. Batı'da Putin paniği! Gizli hamlesi ortaya çıktı.",
+      "text": "Katar, İran'ın şartlarını ABD'ye iletti. KKTC Cumhurbaşkanı Erhürman Cumhurbaşkanı Yardımcısı Yılmaz'ı kabul etti. İran'dan ABD'ye yeşil ışık: Arabuluculuk çabaları sürüyor. Erbil'de Türkiye vizesi için yeni dönem! Başvuru merkezi açıldı. Cumhurbaşkanı Yardımcısı Yılmaz: Kıbrıs Türk halkına hak ettiği geleceği hep birlikte inşa edeceğiz. Zelenskiy: Rus saldırılarına yanıt olarak yeni uzun menzilli operasyonlara onay verdim. Çin Devlet Başkanı Şi Cinping hakkında dikkat çeken iddia.",
       "items": [
         {
-          "title": "70 yıllık hikaye mektuplarla başladı. 51 sene yüzünü bile görmedi, ismini kızına verdi",
-          "summary": "İskoçya ve ABD'de yaşayan Kathleen ile Shirley, çocukken başlayan mektup arkadaşlıklarını 70 yıldır sürdürüyor. İngiliz yayın kuruluşu BBC'nin haberine göre, İskoçya'nın Glasgow kentinde yaşayan Kathleen Bonthron, 1956 yılında henüz 10 yaşındayken ABD'de yaşayan bir çocuğun adresini aldı. Adres, Wisconsin'deki 11 yaşındaki Shirley Hedtke'ye aitti. Shirley de Kathleen'in adresini seçmişti. İki çocuk kısa süre içinde birbirlerine mektup yazmaya başladı.",
-          "source": "https://www.ntv.com.tr/dunya/70-yillik-hikaye-mektuplarla-basladi-51-sene-yuzunu-bile-gormedi-ismini-kizina-verdi-1742534"
+          "title": "Katar, İran'ın şartlarını ABD'ye iletti",
+          "summary": "Katar'ın savaşı bitirmek için İran'ın şartlarını ABD'ye ilettiği ve ABD Başkanı Donald Trump'tan yanıt beklendiği açıklandı. İranlı güvenlik yetkilisi tarafından El Cezire'ye yapılan açıklamaya göre, Katar, Tahran'ın şartlarını Washington'a iletti. Güvenlik yetkilisine göre İran şartları arasında, tüm cephgelerde savaşın sona erdirilmesi, İran'ın varlıklarının serbest bırakılması ve deniz ablukasının kaldırıması yer alıyor.",
+          "source": "https://www.ntv.com.tr/dunya/katar-iranin-sartlarini-abdye-iletti-1742602"
         },
         {
-          "title": "İnsan beyniyle ilgili ezber bozan keşif",
-          "summary": "Bilim insanları, insan beyniyle ilgili ezber bozan bir keşife imza attı. Bilim insanları, beynin ön ve arka bölümlerinin farklı gelişim yolları izlediğini ortaya çıkardı.",
-          "source": "https://www.hurriyet.com.tr/dunya/insan-beyniyle-ilgili-ezber-bozan-kesif-43312312"
+          "title": "KKTC Cumhurbaşkanı Erhürman Cumhurbaşkanı Yardımcısı Yılmaz'ı kabul etti",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ı kabul etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/kktc-cumhurbaskani-erhurman-cumhurbaskani-yardimcisi-yilmazi-kabul-etti-43312730"
         },
         {
-          "title": "Türkiye, hayvan varlığında AB ülkelerinin tamamını geride bıraktı",
-          "summary": "Türkiye, 2025'te 17,7 milyon büyükbaş hayvan varlığıyla AB ülkelerinin tamamını geride bıraktı. Koyun sayısı İspanya'nın yaklaşık 4, keçi sayısı da Yunanistan'ın yaklaşık 5 katına ulaştı. Avrupa İstatistik Ofisi (Eurostat) ve Türkiye İstatistik Kurumu (TÜİK) verilerine göre Türkiye, 2025 yılında Avrupa Birliği (AB) ülkelerine kıyasla hem küçükbaş hem de büyükbaş hayvan varlığında açık ara önde yer aldı. AB'de 2025'te büyükbaş hayvan sayısı yıllık yüzde 0,4, koyun sayısı yüzde 2,2 ve keçi sayısı yüzde 2,5 geriledi.",
-          "source": "https://www.ntv.com.tr/dunya/turkiye-hayvan-varliginda-ab-ulkelerinin-tamamini-geride-birakti-1742529"
+          "title": "İran'dan ABD'ye yeşil ışık: Arabuluculuk çabaları sürüyor",
+          "summary": "İran İçişleri Bakanlığı Sözcüsü Ali Zeynivend, ABD ile İran arasındaki diplomatik sürecin aracısı Pakistan'ın İçişleri Bakanı Muhsin Nakvi'nin Tahran ziyaretine ilişkin, \"Birçok ülke bu sorunu çözmek ve tarafları yeniden anlayışa getirmek için çaba sarf etmektedir.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdye-yesil-isik-arabuluculuk-cabalari-suruyor-43312725"
         },
         {
-          "title": "Arjantin’de intihar vakaları tarihi zirveye ulaştı. Artık gençler arasında en yaygın ölüm nedeni",
-          "summary": "Arjantin'de kendi yaşamına son veren kişilerin sayısı rekor seviyeye ulaştı. İntihar, 15 ila 34 yaş arasındaki gençler arasında en yaygın ölüm nedeni haline geldi. Güney Amerika ülkesi Arjantin’de intihar vakalarında gözlenen sert yükseliş üzerine, yakınlarını kaybeden aileler ve ruh sağlığı uzmanları intihar konusunda toplumsal bir diyalog başlatmak için mücadele çağrısında bulunuyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-arjantinde-intihar-vakalari-tarihi-zirveye-ulasti-artik-gencler-arasinda-en-yaygin-olum-nedeni-1742525"
+          "title": "Erbil'de Türkiye vizesi için yeni dönem! Başvuru merkezi açıldı",
+          "summary": "Türkiye, Irak'ın Erbil kentinde vize başvurularının yapılabileceği yeni bir merkez açtı. Merkezin açılışını, Türkiye’nin Erbil Başkonsolosu Erman Topçu yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/erbilde-turkiye-vizesi-icin-yeni-donem-basvuru-merkezi-acildi-43312699"
         },
         {
-          "title": "İran'dan Fransa'ya sert yanıt: Timsah gözyaşlarını kes",
-          "summary": "İran Dışişleri Bakanı Abbas Erakçi, Fransa Dışişleri Bakanı Jean-Noel Barrot’un, İran'da zorunlu başörtüsü kuralını ihlal gerekçesiyle gözaltına alınan Mahsa Emini'nin polis nezaretinde hayatını kaybetmesine ilişkin yaptığı suçlayıcı paylaşıma tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-fransaya-sert-yanit-timsah-gozyaslarini-kes-43312258"
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Kıbrıs Türk halkına hak ettiği geleceği hep birlikte inşa edeceğiz",
+          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, KKTC Cumhuriyet Meclisi’nde düzenlenen Yeni Atatürk Stadyumu ve Çok Amaçlı Spor Kompleksi Lansmanı’nda konuştu. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Kıbrıs Türk gençliğine yönelik izolasyonlara tepki göstererek, \"Çok açık bir şekilde Kıbrıs gençliğini, Kıbrıs halkını cezalandırmaya çalışıyorlar. Bizim bu anlayışa prim vermemiz mümkün değil. Onlar ne yaparlarsa yapsınlar, biz Kıbrıs Türk halkına ve gençliğine hak ettiği geleceği hep birlikte inşa edeceğiz\" dedi.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-yardimcisi-yilmaz-kibris-turk-halkina-hak-ettigi-gelecegi-hep-birlikte-insa-edecegiz-1742595"
         },
         {
-          "title": "Lüksemburg'da alarm: Uçuşlar durduruldu",
-          "summary": "Lüksemburg'daki Findel Havalimanı'nda dron görüldüğü şüphesi nedeniyle uçuş operasyonları geçici olarak durduruldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/luksemburgda-alarm-ucuslar-durduruldu-43312253"
+          "title": "Zelenskiy: Rus saldırılarına yanıt olarak yeni uzun menzilli operasyonlara onay verdim",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya'daki hedeflere yönelik uzun menzilli silahlar kullanılarak saldırıların sürdürülmesi için yeni bir planı onayladığını bildirdi. Ukrayna Devlet Başkanı Volodimir Zelenskiy, sosyal medya hesabından yaptığı paylaşımda, Ukrayna ordusu ve güvenlik güçlerinin temsilcileriyle bir araya geldiğini belirtti.",
+          "source": "https://www.ntv.com.tr/dunya/zelenskiy-rus-saldirilarina-yanit-olarak-yeni-uzun-menzilli-operasyonlara-onay-verdim-1742592"
         },
         {
-          "title": "Batı'da Putin paniği! Gizli hamlesi ortaya çıktı",
-          "summary": "Kremlin'in seçimlerin ardından on binlerce ila yüz binlerce kişiyi kapsayabilecek bir asker toplama sürecine hazırlandığı öne sürüldü. İddia sahibi Batılı istihbarat kaynakları, yeni birliklerin NATO sınırlarına konuşlandırılmasından endişe ettiklerini ifade etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/batida-putin-panigi-gizli-hamlesi-ortaya-cikti-43312222"
+          "title": "Çin Devlet Başkanı Şi Cinping hakkında dikkat çeken iddia",
+          "summary": "Şi Cinping'in BRICS Zirvesi kapsamındaki gala yemeğine katılmaması, Çin liderinin sağlık durumuyla ilgili iddiaları gündeme getirdi. ABD basını, Şi'nin kendisini iyi hissetmediği için programa katılmadığını aktarırken, sosyal medyada \"felç geçirdiği\" yönündeki iddialar ortaya atıldı. Öne sürülen iddiaların ardından bu durumun \"sahte\" olduğu belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/cin-devlet-baskani-si-cinping-hakkinda-dikkat-ceken-iddia-43312638"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe'de Eyüpspor maçı öncesi tek eksik!. Trabzonspor - Galatasaray maçının VAR hakemi belli oldu!. Beşiktaş'tan Leandro Trossard açıklaması!. Dev derbide Trabzonspor'un konuğu Galatasaray! Maçın heyecanı canlı sohbet ile Misli'de. Olympiakos Başantrenöründen Fenerbahçe sözleri: 'Savunmada muazzam bir potansiyele sahipler!'. Trabzonspor- Galatasaray maçları bol gole sahne oluyor! West Ham, son maçlarda formda… İşte Misli’den günün tüyoları!. As yazarı Arda Güler'e övgü yağdırdı: 'Mourinho'nun açıklamalarına rağmen, Real Madrid'in 120 maçlık uzun hasretine son verdi!'.",
+      "text": "Dockers derbisinde kazanan çıkmadı!. Beşiktaş, Amedspor maçının hazırlıklarını tamamladı. Marsilya'da Bruno Genesio gelişmesi. Beşiktaş, Amed SF maçının kamp kadrosunu açıkladı! 4 isim Diyarbakır'a götürülmedi. A Milli Takım'ın rakibi İtalya, aday kadrosunu açıklandı! Mancini'den 9 isme sürpriz davet. At yarışında hafta sonu şöleni! Ankara, İzmir ve Diyarbakır… İşte Misli’den günün altılı analizi…. Bayern Münih'ten Lamine Yamal'a Ballon d'Or yanıtı.",
       "items": [
         {
-          "title": "Fenerbahçe'de Eyüpspor maçı öncesi tek eksik!",
-          "summary": "Fenerbahçe, Süper Lig'in 6. haftasında yarın Eyüpspor'u ağırlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-eyupspor-maci-oncesi-tek-eksik-43312188"
+          "title": "Dockers derbisinde kazanan çıkmadı!",
+          "summary": "İngiltere Championship'in 8. haftasında Dockers derbisinde Millwall evinde karşı karşıya geldiği West Ham United ile 2-2 berabere kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dockers-derbisinde-kazanan-cikmadi-43312701"
         },
         {
-          "title": "Trabzonspor - Galatasaray maçının VAR hakemi belli oldu!",
-          "summary": "Trabzonspor-Galatasaray maçının VAR hakemi Guillermo Cuadra Fernandez oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-galatasaray-macinin-var-hakemi-belli-oldu-43312280"
+          "title": "Beşiktaş, Amedspor maçının hazırlıklarını tamamladı",
+          "summary": "Beşiktaş, Süper Lig'in 6. haftasında yarın Amed Sportif Faaliyetler ile deplasmanda oynayacağı maçın hazırlıklarını tamamladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-amedspor-macinin-hazirliklarini-tamamladi-43312693"
         },
         {
-          "title": "Beşiktaş'tan Leandro Trossard açıklaması!",
-          "summary": "Beşiktaş, Leandro Trossard'ın topuk kemiğinde travmatik kemik ödemi saptandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-leandro-trossard-aciklamasi-43312217"
+          "title": "Marsilya'da Bruno Genesio gelişmesi",
+          "summary": "Fransız basını, Beşiktaş karşısında alınan 4-1'lik yenilginin ardından Marsilya Teknik Direktörü Bruno Genesio'nun bazı tercihlerini ve takımın performansını sorgulamaya başladığını yazdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/marsilyada-bruno-genesio-gelismesi-43312545"
         },
         {
-          "title": "Dev derbide Trabzonspor'un konuğu Galatasaray! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Süper Lig'in 6. haftasında lider Galatasaray, bu akşam deplasmanda Trabzonspor ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dev-derbide-trabzonsporun-konugu-galatasaray-macin-heyecani-canli-sohbet-ile-mislide-43312151"
+          "title": "Beşiktaş, Amed SF maçının kamp kadrosunu açıkladı! 4 isim Diyarbakır'a götürülmedi",
+          "summary": "Süper Lig'in 6. haftasında yarın deplasmanda Amed SF ile karşı karşıya gelecek olan Beşiktaş, kamp kadrosunu açıkladı. Siyah-beyazlılarda 4 isim Diyarbakır'a götürülmedi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-amed-sf-macinin-kamp-kadrosunu-acikladi-4-isim-diyarbakira-goturulmedi-43312567"
         },
         {
-          "title": "Olympiakos Başantrenöründen Fenerbahçe sözleri: 'Savunmada muazzam bir potansiyele sahipler!'",
-          "summary": "Fenerbahçe Tarfin, Olympiakos'a 92-90 kaybetti ve Euroleague Süper Kupa'ya yarı finalde veda etti. Olympiakos Başantrenörü Georgios Bartzokas, karşılaşma sonrası açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/olympiakos-basantrenorunden-fenerbahce-sozleri-savunmada-muazzam-bir-potansiyele-sahipler-43312076"
+          "title": "A Milli Takım'ın rakibi İtalya, aday kadrosunu açıklandı! Mancini'den 9 isme sürpriz davet",
+          "summary": "İtalya Milli Takımı'nın, UEFA Uluslar A Ligi'nde Türkiye, Fransa ve Belçika ile oynayacağı karşılaşmaların aday kadrosu belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takimin-rakibi-italya-aday-kadrosunu-aciklandi-manciniden-9-isme-surpriz-davet-43312475"
         },
         {
-          "title": "Trabzonspor- Galatasaray maçları bol gole sahne oluyor! West Ham, son maçlarda formda… İşte Misli’den günün tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-galatasaray-maclari-bol-gole-sahne-oluyor-west-ham-son-maclarda-formda-iste-misliden-gunun-tuyolari-43312112"
+          "title": "At yarışında hafta sonu şöleni! Ankara, İzmir ve Diyarbakır… İşte Misli’den günün altılı analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/at-yarisinda-hafta-sonu-soleni-ankara-izmir-ve-diyarbakir-iste-misliden-gunun-altili-analizi-43312403"
         },
         {
-          "title": "As yazarı Arda Güler'e övgü yağdırdı: 'Mourinho'nun açıklamalarına rağmen, Real Madrid'in 120 maçlık uzun hasretine son verdi!'",
-          "summary": "Real Madrid'in ligde kazandığı Rayo Vallecano ve Elche maçlarına performansıyla damga vuran Arda Güler, teknik direktörü Jose Mourinho'nun söylemlerinin aksine İspanya basınından övgü toplamaya devam ediyor. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/as-yazari-arda-gulere-ovgu-yagdirdi-mourinhonun-aciklamalarina-ragmen-real-madridin-120-maclik-uzun-hasretine-son-verdi-43312007"
+          "title": "Bayern Münih'ten Lamine Yamal'a Ballon d'Or yanıtı",
+          "summary": "Bayern Münih'in Union Berlin'i 7-0 mağlup etmesinin ardından sportif direktör Max Eberl, Lamine Yamal'ın Ballon d'Or sözlerine yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihten-lamine-yamala-ballon-dor-yaniti-43312382"
         }
       ]
     },
