@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-20T04:00:03.399Z",
+  "generatedAt": "2026-09-20T10:00:03.370Z",
   "categories": {
     "gundem": {
-      "text": "Cumhurbaşkanı Erdoğan bugün ABD'ye gidecek. Özel ekip ‘Kurtlar Vadisi-Pusu’yu izleyecek… Senaristlerin telefon trafiği mercek altında. Ankara’da suç örgütlerine operasyon: 5 tutuklama. Kozinoğlu soruşturmasında 4 gözaltı daha. Hasan Atilla Uğur'un ifadesi ortaya çıktı. Otobüs yoldan çıktı. 18 yaralı. Villa bahçesinde kaçak kazı. Göçük altında kalan 2 işçiden biri hayatını kaybetti. Bakan Fidan'dan NTV'ye önemli açıklamalar. \"Arabistan'a saldırıları yakından takip ediyoruz\".",
+      "text": "Kaşif Kozinoğlu soruşturmasında şüphelilerden biri serbest bırakıldı. Borsa soruşturmasında patron ifade verdi. Fon soruşturmasında kritik talep: MASAK'tan hesap hareketleri istendi. Küçükçekmece'de derede cansız bedeni bulunmuştu: Kimliği ve ölüm nedeni belli oldu. Eskişehir'de kocasının zorla tuttuğu araçtan atlayan kadın hastanelik oldu. 3 arkadaş gözlerine inanamadı! Sivas'taki nehirde tuttular: Tam 190 santim uzunluğunda. Kornaya bastı, ortalık karıştı: Şişli'de yolda giden kadın sürücüye şok saldırı.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan bugün ABD'ye gidecek",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81'inci Genel Kurulu'na katılmak üzere 20-23 Eylül tarihlerinde ABD'yi ziyaret edecek. Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler 81'inci Genel Kurulu genel görüşmelerine katılmak üzere bugün ABD'nin New York kentine gidecek. Erdoğan ve Türkiye heyetini taşıyacak uçağın bugün saat 12.00'da İstanbul'dan kalkması bekleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bugun-abdye-gidecek-1742615"
+          "title": "Kaşif Kozinoğlu soruşturmasında şüphelilerden biri serbest bırakıldı",
+          "summary": "Eski MİT mensubu Kaşif Kozinoğlu’nun 2011 yılında cezaevindeki şüpheli ölümüne ilişkin soruşturma kapsamında İstanbul ve Tekirdağ’da düzenlenen operasyonda 4 şüpheli gözaltına alındı. Şüphelilerden ambulans şoförü Süleyman Kaba, jandarmadaki işlemlerinin ardından serbest bırakıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kasif-kozinoglu-sorusturmasinda-suphelilerden-biri-serbest-birakildi-43313325"
         },
         {
-          "title": "Özel ekip ‘Kurtlar Vadisi-Pusu’yu izleyecek… Senaristlerin telefon trafiği mercek altında",
-          "summary": "Kozinoğlu soruşturmasında 3 kişilik bilirkişi heyeti oluşturulacak. Heyet, ‘Kurtlar Vadisi Pusu’nun tüm bölümlerini izleyip senaryoda FETÖ izini sürecek. Senaristlerin telefon irtibatları da inceleme altına alındı...",
-          "source": "https://www.hurriyet.com.tr/gundem/ozel-ekip-kurtlar-vadisi-pusuyu-izleyecek-senaristlerin-telefon-trafigi-mercek-altinda-43313038"
+          "title": "Borsa soruşturmasında patron ifade verdi",
+          "summary": "900 milyarlık fon soruşturmasında gözaltına alınan Destek Holding'in patronu Altunç Kumova, şirket değerindeki artışta anormallik sezdiğini ama müdahale edemediğini ileri sürdü. Yeni Şafak'ta yer alan habere göre, Destek Holding'un patronu Kumova, savcılık ifadesinde, genel olarak, şirketinin değerindeki anormal artışa ilişkin tatmin edici cevap veremedi. İddiaya göre, Kumova, sorgusunda, “Halka arz olduğunda 15 milyar TL olan şirketinizin değeri 1,3 trilyon TL’ye ulaşmış.",
+          "source": "https://www.ntv.com.tr/turkiye/destek-holding-patronu-savciya-anlatti-hisselerin-yukselisi-hosuma-gidiyordu-1742669"
         },
         {
-          "title": "Ankara’da suç örgütlerine operasyon: 5 tutuklama",
-          "summary": "ANKARA'da son 1 hafta içerisinde yakarak mala zarar verme ve silahla kasten yaralama suçlarını gerçekleştirdikleri belirlenen yeni nesil suç örgütleriyle irtibatlı oldukları gerekçesiyle gözaltına alınan 5 şüpheli, tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-suc-orgutlerine-operasyon-5-tutuklama-43313050"
+          "title": "Fon soruşturmasında kritik talep: MASAK'tan hesap hareketleri istendi",
+          "summary": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturması kapsamında kritik şirketlerin yöneticilerine ait 2024 yılından bu yana gerçekleştirilen tüm hesap hareketleri ile yurt dışı kripto ve para transferlerinin MASAK'tan istedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-kritik-talep-masaktan-hesap-hareketleri-istendi-43313328"
         },
         {
-          "title": "Kozinoğlu soruşturmasında 4 gözaltı daha. Hasan Atilla Uğur'un ifadesi ortaya çıktı",
-          "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'un ölümüne ilişkin dört kişi daha gözaltına alındı. Soruşturmada ev hapsine çarptırılan koğuş arkadaşı Hasan Atilla Uğur'un savcılık ifadesi de ortaya çıktı. Ergenekon davasında tutuklu bulunduğu sırada, 2011 yılında Silivri'deki cezaevinde yaşamını yitiren eski Milli İstihbarat Teşkilatı (MİT) görevlisi Kaşif Kozinoğlu'nun ölümüyle ilgili dosya genişliyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kozinoglu-sorusturmasinda-4-gozalti-daha-hasan-atilla-ugurun-ifadesi-ortaya-cikti-1742596"
+          "title": "Küçükçekmece'de derede cansız bedeni bulunmuştu: Kimliği ve ölüm nedeni belli oldu",
+          "summary": "İstanbul’da bulunan Menekşe Deresi'nde vatandaşlar tarafından fark edilen erkek cesedinin Sebahattin Güler'e ait olduğu ortaya çıktı. Yapılan otopsi incelemesinde, Güler'in dereye düşerek boğulduğu saptandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kucukcekmecede-derede-cesedi-bulunmustu-kimligi-ve-olum-nedeni-belli-oldu-43313295"
         },
         {
-          "title": "Otobüs yoldan çıktı. 18 yaralı",
-          "summary": "Şehirlerarası yolcu otobüsü Manisa Kırkağaç'ta yoldan çıkarak kaza yaptı. 18 yaralıdan şoför ve muavinin durumu ağır. Denizli-Balıkesir seferini yapan yolcu otobüsü gece yarısı Balıkesir Kırkağaç Karayolu'nda yoldan çıktı. 37 yolcu taşıyan otobüste, aralarında şoför ve muavinin de olduğu toplamda 18 kişi yaralandı. Olay yerine polis, jandarma ve sağlık ekipleri sevk edildi. Şoför ve muavinin durumunun ağır olduğu öğrenildi.",
-          "source": "https://www.ntv.com.tr/turkiye/otobus-yoldan-cikti-18-yarali-1742634"
+          "title": "Eskişehir'de kocasının zorla tuttuğu araçtan atlayan kadın hastanelik oldu",
+          "summary": "Eskişehir'de seyir halindeki kamyonette eşi tarafından zorla tutulduğu iddia edilen Aysun I., araçtan atlayarak ağır yaralandı. Ehliyetsiz ve 1.10 promil alkollü olduğu belirlenen eşi Emre I. (28) gözaltına alınırken, sürücüye 350 bin lira ceza kesildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/eskisehirde-kocasinin-zorla-tuttugu-aractan-atlayan-kadin-hastanelik-oldu-43313268"
         },
         {
-          "title": "Villa bahçesinde kaçak kazı. Göçük altında kalan 2 işçiden biri hayatını kaybetti",
-          "summary": "Büyükçekmece'de bir villada yapılan izinsiz foseptik kazısında göçük meydana geldi. Toprak altında kalan 2 işçiden biri hayatını kaybetti, 3 kişi gözaltına alındı. Alkent 2000 Mahallesi'nde bir villanın bahçesinde izinsiz olarak yapılan foseptik kazısı sırasında toprak kayması meydana geldi. İhbar üzerine bölgeye itfaiye, sağlık, AFAD ve polis ekipleri sevk edildi. Ekipler, göçük altında kalan A.M. (39) ve B.M. (28) isimli inşaat çalışanları için arama kurtarma çalışmalarına başladı.",
-          "source": "https://www.ntv.com.tr/turkiye/buyukcekmecede-toprak-kaymasi-gocuk-altinda-kalan-2-isciden-biri-kurtarildi-1742610"
+          "title": "3 arkadaş gözlerine inanamadı! Sivas'taki nehirde tuttular: Tam 190 santim uzunluğunda",
+          "summary": "Sivas’ın Şarkışla ilçesinde olta balıkçılığı yapan 3 arkadaş, yakaladıkları balığı görünce büyük şaşkınlık yaşadı. Enes Çukur, Emre Gamsızoğlu ve Erdi Gamsızoğlu, Kızılırmak’ta çıktıkları balık avında 190 santimetre uzunluğunda ve 45 kilogram ağırlığında yayın balığı yakaladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/3-arkadas-gozlerine-inanamadi-sivastaki-nehirde-tuttular-tam-190-santim-uzunlugunda-43313259"
         },
         {
-          "title": "Bakan Fidan'dan NTV'ye önemli açıklamalar. \"Arabistan'a saldırıları yakından takip ediyoruz\"",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan'da Husilerle yaşanan çatışmalarda Mekke İttifakı olarak askeri ihtiyaçlara yanıt verilebileceğini söyledi. Dışişleri Bakanı Hakan Fidan, gündemdeki konulara ilişkin NTV yayınında Burak Özcan ile Burcu Kaya'nın sorularını yanıtladı. Bakan Fidan, Netanyahu'nun artan saldırganlığı ve Türkiye karşıtı söylemleriyle ilgili, İsrail'in sadece bölge için değil, tüm dünya için tehdit oluşturduğunu söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-fidandan-ntvye-onemli-aciklamalar-arabistana-saldirilari-yakindan-takip-ediyoruz-1742605"
+          "title": "Kornaya bastı, ortalık karıştı: Şişli'de yolda giden kadın sürücüye şok saldırı",
+          "summary": "İstanbul, Şişli'de AVM girişinde trafikte kornaya basarak tepki gösteren Buket A.'ya saldıran ve aracın camından içeri uzanarak \"Beni öyle çekemezsin, senin kafanı kırarım\" diyerek tehdit eden şüpheli kadının o anları cep telefonu kamerasına yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kornaya-basti-ortalik-karisti-sislide-yolda-giden-kadin-surucuye-sok-saldiri-43313254"
         }
       ]
     },
     "dunya": {
-      "text": "Çin’in eline geçmiş olabilir… ABD’nin F-35 kargosu ‘yanlış adrese’ gitti. Atina’nın son korkusu ‘Ya Türkler müdahale ederse’. Tahran’dan \"masaya dönüş\" sinyali: Katar, İran'ın 7 şartını ABD'ye iletti. ABD büyükelçiliklerinden Orta Doğu için güvenlik uyarısı. Kudüs Valiliği, Netanyahu ve binlerce İsraillinin Burak Duvarı'na baskın yaptığını duyurdu. \"Özgür Filistin\" krizi. Sheeran sahnede ağladı: \"Savunulamaz büyük felaket\". ABD vatandaşlarına Ortadoğu için güvenlik uyarısı.",
+      "text": "Fransa Cumhurbaşkanı Macron'dan savaşa hazırlık talimatı: Paris'te acil durum toplantısı. ABD ordusu uyuşturucu taşıyan tekneyi böyle vurdu: 4 ölü. BM Genel Kurulu New York'ta toplanıyor. Almanya'da iki eyalette kritik seçim. Gözler Türk kökenli aday Elif Eralp'in üzerinde. ABD ordusundan Karayipler'de tekne saldırısı: 4 kişi yaşamını yitirdi. İran'dan Hürmüz Boğazı'na ilişkin açıklama: ABD'ye 'taahhüt çağrısı'. Ugandalı \"çılgın general\" bu kez de Türkiye ile askeri ilişkileri askıya aldı.",
       "items": [
         {
-          "title": "Çin’in eline geçmiş olabilir… ABD’nin F-35 kargosu ‘yanlış adrese’ gitti",
-          "summary": "ABD’nin gözü gibi sakındığı F-35’lere ait hassas parçaların, uzun süredir uçağın sırlarını ele geçirmeye çalışmakla suçlanan Hong Kong’a gönderildiği ortaya çıktı. Kayıp parçalar arasında F-35’in radarda görünürlüğünü azaltan parçaların da bulunduğu belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/cinin-eline-gecmis-olabilir-abdnin-f-35-kargosu-yanlis-adrese-gitti-43313051"
+          "title": "Fransa Cumhurbaşkanı Macron'dan savaşa hazırlık talimatı: Paris'te acil durum toplantısı",
+          "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, kritik altyapıların ve savunma sanayinin korunması için hazırlanacak plan doğrultusunda siyasi parti liderleri ile cumhurbaşkanlığı adaylarını 18 Eylül Cuma günü Elysee Sarayı’nda bilgilendirdi. Görüşmede üst düzey yetkililer tehdit seviyesine ilişkin gizli sunum yaptı. Fransız basını, Paris yönetiminin Rusya kaynaklı hibrit eylemlere karşı konvansiyonel askeri yöntemleri gündeme aldığını öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransa-cumhurbaskani-macrondan-savasa-hazirlik-talimati-pariste-acil-durum-toplantisi-43313306"
         },
         {
-          "title": "Atina’nın son korkusu ‘Ya Türkler müdahale ederse’",
-          "summary": "Yunanistan, Türkiye’nin itirazları nedeniyle daha önce askıya alınan Girit-Güney Kıbrıs-İsrail elektrik bağlantısı projesini yeniden başlatmaya hazırlanırken olası bir krize karşı üç aşamalı plan oluşturdu. Atina, Türkiye’nin müdahalesi halinde Fransa, ABD, AB’nin desteğini devreye sokmayı planlıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/atinanin-son-korkusu-ya-turkler-mudahale-ederse-43313052"
+          "title": "ABD ordusu uyuşturucu taşıyan tekneyi böyle vurdu: 4 ölü",
+          "summary": "ABD ordusu, Karayipler’de karteller adına uyuşturucu taşıdığı belirlenen bir tekneye saldırı düzenlendiğini duyurarak, \"Operasyonda 4 narko-terörist öldürülmüştür\" açıklamasında bulundu. ABD ordusu, Karayipler'de uyuşturucu madde taşıdığını öne sürdüğü bir teknenin vurulduğunu ve 4 kişinin öldürüldüğünü duyurdu. ABD Güney Saha Komutanlığı (SOUTHCOM), ABD merkezli X şirketinin sosyal medya platformundaki hesabından konuya ilişkin açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-ordusu-uyusturucu-tasiyan-tekneyi-boyle-vurdu-4-olu-1742663"
         },
         {
-          "title": "Tahran’dan \"masaya dönüş\" sinyali: Katar, İran'ın 7 şartını ABD'ye iletti",
-          "summary": "Katar'ın savaşı bitirmek için İran'ın 7 şartını ABD'ye ilettiği ve ABD Başkanı Donald Trump'tan yanıt beklendiği açıklandı. Orta Doğu’da gerilim tırmanırken Tahran’dan \"masaya şartlı dönüş\" sinyali geldi. İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, Tahran'ın şartlarını açıkladı. Rozai sosyal medya hesabından yaptığı açıklamada \"Tahran’ın mesajı gayet nettir. İran'ın herhangi bir müzakereye başlaması için ileri sürdüğü 7 şart, ABD hükümetine bildirilmiştir.\" dedi.",
-          "source": "https://www.ntv.com.tr/dunya/katar-iranin-sartlarini-abdye-iletti-1742602"
+          "title": "BM Genel Kurulu New York'ta toplanıyor",
+          "summary": "Birleşmiş Milletler (BM) Genel Kurulu, 81. oturumu için 22 Eylül'de New York'ta bir araya gelecek. Toplantıda Türkiye'yi temsil edecek olan Cumhurbaşkanı Recep Tayyip Erdoğan, oturumun ilk gününde konuşma yapacak.",
+          "source": "https://www.hurriyet.com.tr/dunya/bm-genel-kurulu-new-yorkta-toplaniyor-43313243"
         },
         {
-          "title": "ABD büyükelçiliklerinden Orta Doğu için güvenlik uyarısı",
-          "summary": "ABD'nin Irak, Lübnan, Kuveyt ve Bahreyn'de bulunan büyükelçilikleri, Orta Doğu'daki gerilimlerin \"beklenmedik bir şekilde tırmanabileceğini\" belirterek, bölgedeki ABD'lilere güvenlik uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-buyukelciliklerinden-orta-dogu-icin-guvenlik-uyarisi-43313049"
+          "title": "Almanya'da iki eyalette kritik seçim. Gözler Türk kökenli aday Elif Eralp'in üzerinde",
+          "summary": "Almanya'da siyaseti doğrudan etkilemesi beklenen Berlin ve Mecklenburg-Vorpommern eyalet seçimleri yapılıyor. Türk kökenli aday Elif Eralp, kazanırsa Berlin'in ilk göçmen eyalet başbakanı olabilir. Almanya'da siyasi açıdan önem taşıyan iki eyalette bugün sandık başına gidiliyor.",
+          "source": "https://www.ntv.com.tr/dunya/almanyada-iki-eyalette-kritik-secim-gozler-turk-kokenli-aday-elif-eralpin-uzerinde-1742659"
         },
         {
-          "title": "Kudüs Valiliği, Netanyahu ve binlerce İsraillinin Burak Duvarı'na baskın yaptığını duyurdu",
-          "summary": "Filistin'in Kudüs Valiliği, İsrail Başbakanı Binyamin Netanyahu, hükümetinden bazı bakanlar ve Filistin topraklarını gasbeden binlerce İsraillinin işgal altındaki Doğu Kudüs'te bulunan Burak (Ağlama) Duvarı'na baskın düzenlediğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kudus-valiligi-netanyahu-ve-binlerce-israillinin-burak-duvarina-baskin-yaptigini-duyurdu-43313048"
+          "title": "ABD ordusundan Karayipler'de tekne saldırısı: 4 kişi yaşamını yitirdi",
+          "summary": "Karayipler'de operasyonlarını sürdüren ABD ordusu bir tekneyi vurdu. Hedef alınan teknede 4 kişinin hayatını kaybettiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ordusundan-karayiplerde-tekne-saldirisi-4-kisi-yasamini-yitirdi-43313208"
         },
         {
-          "title": "\"Özgür Filistin\" krizi. Sheeran sahnede ağladı: \"Savunulamaz büyük felaket\"",
-          "summary": "Ed Sheeran, rapçi Macklemore'un Filistin desteği sonrası turneden çıkarılması sonrası ilk konserine yalnız çıktı. Gözyaşlarına hakim olamayan Sheeran \"Gazze'de yaşananlar felaket niteliğinde.\" dedi. İngiliz pop yıldızı Ed Sheeran, ABD turnesinde sahne alan rapçi Macklemore'un \"Özgür Filistin\" açıklaması nedeniyle kadrodan çıkarılmasının ardından başlayan tartışmaların gölgesinde ilk kez sahneye çıktı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ozgur-filistin-krizi-sheeran-sahnede-agladi-savunulamaz-buyuk-felaket-1742635"
+          "title": "İran'dan Hürmüz Boğazı'na ilişkin açıklama: ABD'ye 'taahhüt çağrısı'",
+          "summary": "İran, talep ettiği şartlar yerine getirilmediği sürece Hürmüz Boğazı'nın açılmayacağını belirtti. Tahran yönetimi, ABD'nin mutabakat zaptındaki taahhütlerini uygulamamasını istedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-hurmuz-bogazina-iliskin-aciklama-abdye-taahhut-cagrisi-43313193"
         },
         {
-          "title": "ABD vatandaşlarına Ortadoğu için güvenlik uyarısı",
-          "summary": "ABD'nin Irak, Lübnan, Kuveyt ve Bahreyn büyükelçilikleri, Ortadoğu'daki gerilimlerin \"beklenmedik bir şekilde tırmanabileceğini\" belirterek, bölgede bulunan vatandaşlarına güvenlik uyarısı yaptı. ABD-İran Savaşı devam ederken, Yemen'deki İran destekli Husiler de özellikle Suudi Arabistan'a yönelik füze ve dron saldırılarını yoğunlaştırdı. ABD'nin Bağdat, Beyrut, Kuveyt ve Manama büyükelçilikleri Suudi Arabistan ile Husiler arasındaki çatışmanın \"hızla tırmanabileceğine\" işaret ederek vatandaşlarını uyardı.",
-          "source": "https://www.ntv.com.tr/dunya/abd-vatandaslarina-ortadogu-icin-guvenlik-uyarisi-1742632"
+          "title": "Ugandalı \"çılgın general\" bu kez de Türkiye ile askeri ilişkileri askıya aldı",
+          "summary": "Türkiye'ye yönelik tuhaf talepleriyle bilinen Ugandalı General Muhoozi Kainerugaba bu kez de hükümet muhalifi Fred Lumbuye'yi \"iade etmediği\" iddiasıyla Türkiye ile askeri ilişkileri askıya aldı. Türkiye'ye yönelik garip talepleriyle bilinen Uganda Savunma Kuvvetleri Komutanı Muhoozi Kainerugaba bu kez de Uganda hükümeti muhalifi Fred Kajubi Lumbuye'yi \"iade etmediği\" iddiasıyla Türkiye ile askeri ilişkileri askıya aldığını duyurdu. Daha önce, “Zaten 5 Türk kadınıyla evlendim. Kolay bir işti.",
+          "source": "https://www.ntv.com.tr/dunya/ugandali-cilgin-general-bu-kez-de-turkiye-ile-askeri-iliskileri-askiya-aldi-1742648"
         }
       ]
     },
     "ekonomi": {
-      "text": "Tera Finansal Yatırımlar ile Hedef Holding'de yönetim değişikliği. 3 fonunda pay satımı geçici olarak durduruldu. Bakanlık açıkladı! 81,9 milyar TL'lik ticari eşya ve uyuşturucu yakalandı. Finansal İstikrar Komitesi, Bakan Şimşek başkanlığında yarın toplanacak. İsrailli yetkiliden Babülmendep itirafı: Geceleri uyuyamıyoruz. Bakan Akın Gürlek'ten DEİK buluşması: Ekonomimizi zehirleyen suç örgütleriyle mücadele ediyoruz. İzmir'de Dominik Cumhuriyeti'nin Fahri Konsolosluğu açıldı.",
+      "text": "Kuriş soruşturmasında 29 gözaltı kararı! 23 şirkete kayyum atandı. Tera Finansal Yatırımlar ile Hedef Holding'de yönetim değişikliği. 3 fonunda pay satımı geçici olarak durduruldu. Bakanlık açıkladı! 81,9 milyar TL'lik ticari eşya ve uyuşturucu yakalandı. Finansal İstikrar Komitesi, Bakan Şimşek başkanlığında yarın toplanacak. İsrailli yetkiliden Babülmendep itirafı: Geceleri uyuyamıyoruz. Bakan Akın Gürlek'ten DEİK buluşması: Ekonomimizi zehirleyen suç örgütleriyle mücadele ediyoruz.",
       "items": [
+        {
+          "title": "Kuriş soruşturmasında 29 gözaltı kararı! 23 şirkete kayyum atandı",
+          "summary": "Ankara Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturmada, Alihan Kuriş suç örgütünün kayıt dışı finansal hareketlerini organize ettiği ve suç gelirlerini akladığı belirlenen şüpheliler için düğmeye basıldı. 29 şüpheli hakkında gözaltı kararı verilirken, örgüte ait 23 şirkete kayyum atandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kuris-sorusturmasinda-29-gozalti-karari-23-sirkete-kayyum-atandi-43313077"
+        },
         {
           "title": "Tera Finansal Yatırımlar ile Hedef Holding'de yönetim değişikliği",
           "summary": "Finansal Yatırımlar Holding AŞ Yönetim Kurulu Başkan Vekili ve Genel Müdürü Erkan Kilimci ile Hedef Holding Yönetim Kurulu Üyesi Namık Kemal Gökalp görevlerinden ayrıldı.",
@@ -115,56 +120,51 @@
           "title": "Bakan Akın Gürlek'ten DEİK buluşması: Ekonomimizi zehirleyen suç örgütleriyle mücadele ediyoruz",
           "summary": "DEİK Yönetim Kurulu üyeleriyle bir araya gelen Adalet Bakanı Akın Gürlek, yatırım ortamının güvenliği için hukuk dışı yapılarla mücadelenin süreceğini belirtti. Yargılamalardaki hedef süreler, bilirkişi sistemi ve istinaf kapasitesinin artırılmasına yönelik atılan adımları paylaştı.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-akin-gurlekten-deik-bulusmasi-ekonomimizi-zehirleyen-suc-orgutleriyle-mucadele-ediyoruz-43307311"
-        },
-        {
-          "title": "İzmir'de Dominik Cumhuriyeti'nin Fahri Konsolosluğu açıldı",
-          "summary": "Dominik Cumhuriyeti’nin milli günlerinden Yeniden Kuruluş Günü (Día de la Restauración), 11 Eylül 2026 Cuma akşamı İzmir’de düzenlenen özel bir resepsiyonla kutlandı. Gecede aynı zamanda Dominik Cumhuriyeti’nin İzmir Fahri Konsolosluğu’nun resmi açılışı gerçekleştirildi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmirde-dominik-cumhuriyetinin-fahri-konsoloslugu-acildi-43304802"
         }
       ]
     },
     "spor": {
-      "text": "Ertuğrul Doğan'dan hakem tepkisi: 'Gözlerine bir şey oluyor!'. İrfan Saraloğlu'ndan Trabzonspor maçı sonrası kırmızı kart tepkisi!. Nuri Şahin: 'kırmızı kart yediğim için sorumluluk benimdi!'. Metin Diyadin: 'Mağlubiyeti hak ettik!'. Lucas Torreira: 'Acı bir kayıp!'. Fabinho: 'Büyük maçlarda Salah gibi büyük oyuncu gerekir!'. Thomas Reis: 'Kısa zamanda iyi bir iş çıkardık'.",
+      "text": "Beşiktaş'tan Okan Buruk ve yayıncı kuruluş tepkisi: Hukuki süreç başlamıştır. Futbolda milli mesai başlıyor!. İstanbul'da 9 koşuluk program! İşte Misli'den günün altılı analizi... Mourinho'dan olay derbi sözleri: 'Türkiye’den bahsetmiyorum bile!'. Real Madrid, Atletico Madrid deplasmanında! Maçın heyecanı canlı yayın ile Misli'de. Beşiktaş, Amed Sportif Faaliyetler'e konuk oluyor! Maçın heyecanı Misli'de. Fenerbahçe, Eyüpspor'u ağırlıyor! Maçın heyecanı Misli'de.",
       "items": [
         {
-          "title": "Ertuğrul Doğan'dan hakem tepkisi: 'Gözlerine bir şey oluyor!'",
-          "summary": "Trabzonspor Başkanı Ertuğrul Doğan, Galatasaray maçının ardından, eksikleri bulunduğunu yeni teknik direktörleri Thomas Reis’in istekleri doğrultusunda transferde gerekeni yapacaklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogandan-hakem-tepkisi-gozlerine-bir-sey-oluyor-43312955"
+          "title": "Beşiktaş'tan Okan Buruk ve yayıncı kuruluş tepkisi: Hukuki süreç başlamıştır",
+          "summary": "Beşiktaş kulübü, Trabzonspor maçında Okan Buruk'un kırmızı kart görmesinin ardından yayıncı kuruluşa verdiği röportajın yayınlanmasına tepki açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-okan-buruk-ve-yayinci-kurulus-tepkisi-hukuki-surec-baslamistir-43313311"
         },
         {
-          "title": "İrfan Saraloğlu'ndan Trabzonspor maçı sonrası kırmızı kart tepkisi!",
-          "summary": "Galatasaray Yardımcı Antrenörü İrfan Saraloğlu, Trabzonspor'a 4-0 yenildikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/irfan-saraloglundan-trabzonspor-maci-sonrasi-kirmizi-kart-tepkisi-43312950"
+          "title": "Futbolda milli mesai başlıyor!",
+          "summary": "UEFA Uluslar A Ligi 1. Grup'ta Fransa, İtalya ve Belçika ile karşılaşacak A Milli Futbol Takımı, yarın Riva'da toplanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/futbolda-milli-mesai-basliyor-43313304"
         },
         {
-          "title": "Nuri Şahin: 'kırmızı kart yediğim için sorumluluk benimdi!'",
-          "summary": "Başakşehir Teknik Direktörü Nuri Şahin, geçtiğimiz hafta alınan 5-0’lık mağlubiyetin ardından reaksiyon göstermeleri gereken bir maça çıktıklarını ve bunu gerçekleştirdikleri için mutlu olduğunu belirterek, \"Hepimizin ana hedefi Başakşehir’i yeniden o yarışa sokmak\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-kirmizi-kart-yedigim-icin-sorumluluk-benimdi-43312951"
+          "title": "İstanbul'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
+          "summary": "İstanbul Veliefendi Hipodromu’nda bugün 9 koşudan oluşan birbirinden çekişmeli bir program yarışseverleri bekliyor. Günün en önemli mücadelesi Veliefendi Koşusu olurken, gözler özellikle Özmenbey’in üzerinde olacak. Başarılı safkan, bu önemli mücadeleden de galibiyetle ayrılması halinde Triple Crown başarısına ulaşacak. Bu nedenle Veliefendi Koşusu, günün en dikkat çekici yarışı konumunda.",
+          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43313297"
         },
         {
-          "title": "Metin Diyadin: 'Mağlubiyeti hak ettik!'",
-          "summary": "Gençlerbirliği Teknik Direktörü Metin Diyadin, Başakşehir maçının ardından, oyun anlamında etkili olamadıkları bir karşılaşmayı geride bıraktıklarını belirterek, \"Hak ettiğimiz bir mağlubiyet aldık\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/metin-diyadin-maglubiyeti-hak-ettik-43312939"
+          "title": "Mourinho'dan olay derbi sözleri: 'Türkiye’den bahsetmiyorum bile!'",
+          "summary": "Real Madrid, La Liga'nın 7. haftasındaki derbi maçta Atletico Madrid ile karşı karşıya gelecek. Karşılaşma öncesi Real Madrid Teknik Direktörü Jose Mourinho açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mourinhodan-olay-derbi-sozleri-turkiyeden-bahsetmiyorum-bile-43313234"
         },
         {
-          "title": "Lucas Torreira: 'Acı bir kayıp!'",
-          "summary": "Galatasaray'da Lucas Torreira ve Abdülkerim Bardakcı, Trabzonspor yenilgisinin ardından taraftardan özür diledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lucas-torreira-aci-bir-kayip-43312934"
+          "title": "Real Madrid, Atletico Madrid deplasmanında! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "İspanya La Liga'da haftanın maçı, Real Madrid ve Atletico Madrid arasında oynanacak. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-atletico-madrid-deplasmaninda-macin-heyecani-canli-yayin-ile-mislide-43313221"
         },
         {
-          "title": "Fabinho: 'Büyük maçlarda Salah gibi büyük oyuncu gerekir!'",
-          "summary": "Trabzonspor'da Fabinho, Noah Saviolo ve Franculino Dju, Galatasaray'ı 4-0 mağlup ettikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fabinho-buyuk-maclarda-salah-gibi-buyuk-oyuncu-gerekir-43312928"
+          "title": "Beşiktaş, Amed Sportif Faaliyetler'e konuk oluyor! Maçın heyecanı Misli'de",
+          "summary": "Beşiktaş, Süper Lig'in 6. haftasında deplasmanda Amed Sportif Faaliyetler ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-amed-sportif-faaliyetlere-konuk-oluyor-macin-heyecani-mislide-43313215"
         },
         {
-          "title": "Thomas Reis: 'Kısa zamanda iyi bir iş çıkardık'",
-          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, Galatasaray'ı 4-0 yendikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/thomas-reis-kisa-zamanda-iyi-bir-is-cikardik-43312929"
+          "title": "Fenerbahçe, Eyüpspor'u ağırlıyor! Maçın heyecanı Misli'de",
+          "summary": "Fenerbahçe, Süper Lig'in 6. haftasında evinde Eyüpspor ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-eyupsporu-agirliyor-macin-heyecani-mislide-43313187"
         }
       ]
     },
     "teknoloji": {
-      "text": "4 yapay zeka devine rekabet davası. Gemini üç şirketi hackledi. iPhone 18 Pro ve Pro Max Türkiye'de satışa çıktı. Yapay zeka kontrolden çıkarsa fişi çekilebilir mi?. iPhone 18 Pro'yu düşürmenin bedeli ağır. Apple onarım ücretlerini açıkladı. Yüz yılda bir oluyor. Ay'a gök cismi çarptı, 222 metrelik dev krater açıldı. Anthropic kurucusundan yapay zeka için ''acil kapatma düğmesi'' önerisi.",
+      "text": "4 yapay zeka devine rekabet davası. Trump’tan yapay zeka için yeni isim önerisi. Gemini üç şirketi hackledi. Bakan Kacır: 8 proje için sözleşmeleri imzalayacağız. iPhone 18 Pro ve Pro Max Türkiye'de satışa çıktı. Küresel 6G projesine Türk şirketten katkı. Yapay zeka kontrolden çıkarsa fişi çekilebilir mi?.",
       "items": [
         {
           "title": "4 yapay zeka devine rekabet davası",
@@ -172,9 +172,19 @@
           "source": "https://www.ntv.com.tr/teknoloji/4-yapay-zeka-devine-rekabet-davasi-1742631"
         },
         {
+          "title": "Trump’tan yapay zeka için yeni isim önerisi",
+          "summary": "Yapay zekanın gelişme hızına ilişkin tartışmalar sürerken, ABD Başkanı Donald Trump, \"yapay zeka\" isminin değiştirilmesini önerdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-yapay-zeka-icin-yeni-isim-onerisi-43312811"
+        },
+        {
           "title": "Gemini üç şirketi hackledi",
           "summary": "Google'ın yapay zeka modeli Gemini, siber güvenlik yeteneklerinin test edildiği sırada internete erişerek üç şirkete yönelik siber saldırı düzenledi. Yapay zekanın insanlık için oluşturabileceği tehlikelere ilişkin tartışmalar son haftalarda yeniden alevlenirken, Gemini bir ilke imza attı. Gemini, bağımsız bir siber güvenlik değerlendirme şirketi olan Irregular tarafından gerçekleştirilen bir test sırasında internete erişerek üç şirketin web sitesine siber saldırı yaptı.",
           "source": "https://www.ntv.com.tr/teknoloji/gemini-uc-sirketi-hackledi-1742487"
+        },
+        {
+          "title": "Bakan Kacır: 8 proje için sözleşmeleri imzalayacağız",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Güçlü üretim kabiliyetimiz ve sağlam altyapımızla, imalat sanayimizin katma değerini 41 milyar dolardan 250 milyar doların üzerine çıkardık. 36 milyar dolar seviyesinde olan yıllık ürün ihracatımızı 280 milyar dolara taşıdık. Türkiye'yi pek çok sektörde Avrupa'nın ve dünyanın önde gelen üretim merkezlerinden biri haline getirdik.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-8-proje-icin-sozlesmeleri-imzalayacagiz-43311682"
         },
         {
           "title": "iPhone 18 Pro ve Pro Max Türkiye'de satışa çıktı",
@@ -182,30 +192,25 @@
           "source": "https://www.ntv.com.tr/teknoloji/galeri-iphone-18-pro-ve-pro-max-turkiyede-satisa-cikti-1742394"
         },
         {
+          "title": "Küresel 6G projesine Türk şirketten katkı",
+          "summary": "Mobil iletişimde uluslararası çapta teknik kuralları belirleyen 3. Nesil Ortaklık Projesi (3GPP) bünyesinde Turkcell mühendislerinin de görev aldığı açıklandı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/kuresel-6g-projesine-turk-sirketten-katki-43311142"
+        },
+        {
           "title": "Yapay zeka kontrolden çıkarsa fişi çekilebilir mi?",
           "summary": "Yapay zeka sistemleri için zorunlu bir ''acil kapatma mekanizması'' oluşturulması yeniden gündemde. Ancak uzmanlara göre dünyadaki bütün yapay zekayı durdurabilecek tek bir düğme bulunmuyor. Yapay zekanın insanlık için oluşturabileceği tehlikelere ilişkin tartışmalar son haftalarda yeniden alevlendi. Bazı araştırmacılar teknolojinin kontrolsüz gelişiminin ciddi riskler taşıdığını savunurken, yapay zeka şirketlerinin yöneticilerinden de geliştirme hızının düşürülmesi yönünde açıklamalar geldi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-kontrolden-cikarsa-fisi-cekilebilir-mi-1742316"
-        },
-        {
-          "title": "iPhone 18 Pro'yu düşürmenin bedeli ağır. Apple onarım ücretlerini açıkladı",
-          "summary": "Türkiye'de yarın satışa çıkacak iPhone 18 Pro ve iPhone 18 Pro Max modellerinin onarım ücretleri belli oldu. Bazı hasar türlerinde servis maliyetinin 97 bin TL'yi aştığı görüldü. Teknoloji devi Apple, yarın resmen satışına başlayacağı iPhone 18 Pro ve Pro Max modellerinin tamir ücretlerini paylaştı. Apple, ABD’nin Kaliforniya eyaletindeki merkezinde 9 Eylül 2026 tarihinde düzenlediği etkinlikte iPhone 18 Pro ve iPhone 18 Pro Max modellerini tanıttı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-iphone-18-proyu-dusurmenin-bedeli-agir-apple-onarim-ucretlerini-acikladi-1742267"
-        },
-        {
-          "title": "Yüz yılda bir oluyor. Ay'a gök cismi çarptı, 222 metrelik dev krater açıldı",
-          "summary": "NASA araştırmacıları, Ay'ın yüzeyinde 222 metre genişliğinde dev bir krater keşfetti. 2024 yılında oluştuğu düşünülen kraterin, “yüz yılda bir görülebilecek\" büyüklükte olduğu belirtildi. BİNA BÜYÜKLÜĞÜNDE GÖK CİSMİ ÇARPTI NASA, Ay'ın yüzeyinde yakın zamanda oluşmuş 222 metre genişliğinde dev bir krater keşfedildiğini açıkladı. “McGetchin” adı verilen kraterin, 2024 ilkbaharında bir asteroit ya da kuyruklu yıldızın Ay'a çarpması sonucu oluştuğu düşünülüyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yuz-yilda-bir-oluyor-aya-gok-cismi-carpti-222-metrelik-dev-krater-acildi-1742216"
-        },
-        {
-          "title": "Anthropic kurucusundan yapay zeka için ''acil kapatma düğmesi'' önerisi",
-          "summary": "Anthropic'in kurucu ortaklarından Jack Clark, şirketler için üçüncü bir tarafça kullanılabilecek bir \"acil kapatma düğmesinin\" zorunlu hale gelebileceği yorumunda bulundu. ABD'li yapay zeka şirketi Anthropic'in kurucu ortaklarından Jack Clark, son dönemde yapay zekayla ilgili gündeme gelen tartışmalara ilişkin, BBC'ye bir röportaj verdi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-anthropic-kurucusundan-yapay-zeka-icin-acil-kapatma-dugmesi-cagrisi-1741976"
         }
       ]
     },
     "saglik": {
-      "text": "Uyku çiftlerin ortak sorunu: Eşinizin uykusuzluğu yeme düzeninizi bozabilir. \"Demans Pandemisi\" uyarısı: 3 katına çıkması bekleniyor. Beyin sinyallerinden dijital bedene: Kelimeler ve jestler avatara taşındı. Son araştırmalar ortaya koydu. Organ nakline alternatif bir yöntem olabilir. Bakan Memişoğlu: \"1,5 milyondan fazla vatandaşımıza ücretsiz ilaç desteği sağladık\". Öksürük şikayetiyle gitti, gerçeği öğrenince inanamadı!. Bilim insanlarından içki uyarısı: 10 kanser türüyle bağlantısı incelendi.",
+      "text": "Melatonin kalp sağlığını etkiler mi?. Uyku çiftlerin ortak sorunu: Eşinizin uykusuzluğu yeme düzeninizi bozabilir. \"Demans Pandemisi\" uyarısı: 3 katına çıkması bekleniyor. Beyin sinyallerinden dijital bedene: Kelimeler ve jestler avatara taşındı. Son araştırmalar ortaya koydu. Organ nakline alternatif bir yöntem olabilir. Bakan Memişoğlu: \"1,5 milyondan fazla vatandaşımıza ücretsiz ilaç desteği sağladık\". Öksürük şikayetiyle gitti, gerçeği öğrenince inanamadı!.",
       "items": [
+        {
+          "title": "Melatonin kalp sağlığını etkiler mi?",
+          "summary": "Uyku için uzun süre melatonin kullananlarda kalp yetersizliğinin daha yüksek bulunduğu bir araştırma dikkatleri üzerine çekti. Ancak çalışma direkt olarak melatoninin kalp yetersizliğine neden olduğunu göstermiyor. Bu çalışmada araştırılan konu aylarca veya yıllarca kontrolsüz şekilde kullanılması, kısa süreli kullanımın güvenilirliği ile ilgili bir soru işareti yok.",
+          "source": "https://www.ntv.com.tr/yazarlar/sahin-senay/melatonin-kalp-sagligini-etkiler-mi-1742660"
+        },
         {
           "title": "Uyku çiftlerin ortak sorunu: Eşinizin uykusuzluğu yeme düzeninizi bozabilir",
           "summary": "Kanada’da 204 çiftle yapılan araştırma, bir kişinin kötü uyumasının yalnızca kendi beslenme düzenini değil, partnerinin sağlıklı beslenme çabasını da olumsuz etkileyebileceğini gösterdi. Kötü uykunun sağlıksız beslenmeyle ilişkili olduğu uzun süredir biliniyor. Ancak Kanada'daki Concordia Üniversitesi öncülüğünde yürütülen yeni araştırma, uykusuzluğun aynı evi paylaşan çiftler arasında dolaylı bir etkisi olabileceğini ortaya koydu.",
@@ -235,11 +240,6 @@
           "title": "Öksürük şikayetiyle gitti, gerçeği öğrenince inanamadı!",
           "summary": "Afyonkarahisar'da nefes darlığı ve öksürük şikayetiyle hastaneye başvuran kişinin akciğerindeki kitle sanılan cismin, 6 ay önce soluk borusundan akciğerine kaçan sarımsak olduğu ortaya çıktı. Çobanlar ilçesinde yaşayan 63 yaşındaki Recep Arslan, öksürük, yutkunamama ve nefes alamama gibi şikayetleri artınca Afyonkarahisar Sağlık Bilimleri Üniversitesi Hastanesi'ne götürüldü.",
           "source": "https://www.ntv.com.tr/saglik/video-oksuruk-sikayetiyle-gitti-gercegi-ogrenince-inanamadi-1740618"
-        },
-        {
-          "title": "Bilim insanlarından içki uyarısı: 10 kanser türüyle bağlantısı incelendi",
-          "summary": "ABD’de yapılan yeni bir araştırma, içkinin çok sayıda kanser türüne bağlı ölümlerde sanılandan daha büyük rol oynayabileceğini ortaya koydu. Araştırmanın başyazarı Dr. Chinmay Jani, genel olarak kansere bağlı ölüm oranlarının azalmasına rağmen, 20 yaş ve üzerindeki kişilerde alkole bağlanabilen kanser ölümlerinin toplam kanser ölümleri içindeki payının son 33 yılda iki katına çıktığını söyledi.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-bilim-insanlarindan-icki-uyarisi-10-kanser-turuyle-baglantisi-incelendi-1740257"
         }
       ]
     },
