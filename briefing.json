@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-21T04:00:03.721Z",
+  "generatedAt": "2026-09-21T10:00:03.962Z",
   "categories": {
     "gundem": {
-      "text": "‘Süper bit’ tehlikesi! Geleneksel ilaçlar artık işe yaramıyor, doğal yöntemler de etkisiz... Peki nasıl korunacağız?. ‘Bu kadarını da yapmazlar’ dedirten yöntem: Romantik dolandırıcılıkta yeni tuzak! Evini ve arabasını kaybedenler var. Adana'da 5.0 büyüklüğünde deprem. Cilvegözü Gümrük Kapısı’nda yaşanan geçici tıkanıklık giderildi. Motosiklet bariyere çarptı! Sürücü öldü, kız arkadaşı ağır yaralı. Cumhurbaşkanı Erdoğan’a Türkevi’nde coşkulu karşılama. Fon soruşturması: SPK, fonların tasfiye sürecini 6 aya çıkardı.",
+      "text": "Veliler öğretmen görüşmeleri için MEBİM’den telefonla randevu alabilecek. Tuvalet avizesine telefon yerleştirip kadının görüntüsünü kaydetti: Garson için Yargıtay'dan yeni karar. Ağır hasarlı araçları 'change' yapıp satan şebeke çökertildi: 16 gözaltı. İki günlük kış geliyor. Sıcaklık sert düşecek, montlarınızı hazırlayın. Barışın binlerce yıllık izi Hattuşa’da gün yüzüne çıktı. Terastan düşen doktor Alime Özge taburcu oldu: Avukat sevgiliden şoke eden savunma: Tutmaya çalıştım elimden kaydı. Milli Savunma Bakanlığı duyurdu, Türk savaş uçakları Akdeniz semalarında.",
       "items": [
         {
-          "title": "‘Süper bit’ tehlikesi! Geleneksel ilaçlar artık işe yaramıyor, doğal yöntemler de etkisiz... Peki nasıl korunacağız?",
-          "summary": "Okulların açılmasıyla birlikte çocuklarda hızla yayılan baş biti, bu kez çok daha güçlü bir tehditle karşımızda. Yıllardır kullanılan geleneksel kimyasal ilaçlara karşı direnç geliştiren 'süper bitler', aileleri çaresiz bırakıyor. Uzmanlar, ilaçların neden yetersiz kaldığını ve çocukları korumanın en etkili yollarını anlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/super-bit-tehlikesi-geleneksel-ilaclar-artik-ise-yaramiyor-dogal-yontemler-de-etkisiz-peki-nasil-korunacagiz-43312067"
+          "title": "Veliler öğretmen görüşmeleri için MEBİM’den telefonla randevu alabilecek",
+          "summary": "Okul Randevu Sistemi’ne MEBİM de eklendi. Veliler, 444 0 632 numaralı hattan günün her saatinde randevu oluşturabilecek veya mevcut randevularını iptal edebilecek. Okul Randevu Sistemi uygulaması kapsamında velilere, Millî Eğitim Bakanlığı İletişim Merkezi (MEBİM) üzerinden 7 gün 24 saat telefonla randevu alabilme imkânı sunuldu.",
+          "source": "https://www.ntv.com.tr/turkiye/veliler-ogretmen-gorusmeleri-icin-mebimden-telefonla-randevu-alabilecek-1742836"
         },
         {
-          "title": "‘Bu kadarını da yapmazlar’ dedirten yöntem: Romantik dolandırıcılıkta yeni tuzak! Evini ve arabasını kaybedenler var",
-          "summary": "Size mesaj atan, sizinle aynı şeylerden hoşlanan ve kısa sürede hayatınızda önemli bir yer edinen kişi gerçekten sizi tesadüfen mi buldu? ‘Romantik dolandırıcılıkta’ artık çok daha farklı yöntemler kullanılıyor. Asıl tehlike ise ilişkinin hiç beklenmeyen bir noktasında ortaya çıkıyor. Avukat Ceren Küpeli, son dönemde önlerine gelen dosyalarda karşılaştıkları yöntemlerin kendilerini dahi şaşırttığını belirterek, romantik dolandırıcılığın geldiği noktaya ilişkin çok kritik detayları paylaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bu-kadarini-da-yapmazlar-dedirten-yontem-romantik-dolandiricilikta-yeni-tuzak-evini-ve-arabasini-kaybedenler-var-43310206"
+          "title": "Tuvalet avizesine telefon yerleştirip kadının görüntüsünü kaydetti: Garson için Yargıtay'dan yeni karar",
+          "summary": "Konya'da yaşanan skandal olayda yeni bir gelişme yaşandı. Garson olarak çalıştığı kafenin tuvaletindeki avizenin içine cep telefonu yerleştirerek bir kadının görüntüsünü kaydeden sanığa verilen 4,5 yıl hapis cezası, Yargıtay'ın hükmü bozmasının ardından yapılan yeniden yargılamayla 1 yıl 8 aya düştü.",
+          "source": "https://www.hurriyet.com.tr/gundem/tuvalet-avizesine-telefon-yerlestirip-kadinin-goruntusunu-kaydetti-garson-icin-yargitaydan-yeni-karar-43314273"
         },
         {
-          "title": "Adana'da 5.0 büyüklüğünde deprem",
-          "summary": "Adana'da, Saimbeyli ilçesi merkezli 5.0 büyüklüğünde deprem meydana geldi. AFAD Deprem Dairesi'nin verilerine göre Adana'nın Saimbeyli ilçesinde 5.0 büyüklüğünde deprem oldu. Saat 04.02'de meydana gelen depremin derinliği 7 kilometre olarak ölçüldü. Sarsıntı Kahramanmaraş, Osmaniye, Kayseri, Gaziantep gibi çevre illerde de hissedildi.",
-          "source": "https://www.ntv.com.tr/turkiye/adanada-50-buyuklugunde-deprem-1742768"
+          "title": "Ağır hasarlı araçları 'change' yapıp satan şebeke çökertildi: 16 gözaltı",
+          "summary": "İstanbul, Gaziantep ve Diyarbakır'da gerçekleştirilen eş zamanlı operasyonlarda, afet ve kazalarda hurdaya dönen araçların şasi numaralarını hacizli araçlara uyarlayan 16 şüpheli yakalanarak adliyeye çıkarıldı. Operasyonda 17 araca el konuldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/agir-hasarli-araclari-change-yapip-satan-sebeke-cokertildi-16-gozalti-43314279"
         },
         {
-          "title": "Cilvegözü Gümrük Kapısı’nda yaşanan geçici tıkanıklık giderildi",
-          "summary": "Ticaret Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, Cilvegözü Gümrük Kapısı’nda bu akşam yaşanan geçici tıkanıklığın, gerekli çalışmaların ardından giderildiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/cilvegozu-gumruk-kapisinda-yasanan-gecici-tikaniklik-giderildi-43313862"
+          "title": "İki günlük kış geliyor. Sıcaklık sert düşecek, montlarınızı hazırlayın",
+          "summary": "Rusya üzerinden gelecek soğuk hava dalgasıyla İstanbul başta olmak üzere yurdun bazı bölgelerinde kış yaşanacak. NTV Meteoroloji Editörü Dilek Çalışkan, \"Montlarınızı hazırlayın.\" uyarısında bulundu. Havanın parçalı bulutlu, sıcaklığın 25 dereceye kadar çıktığı İstanbul'da bugün bahar tadında geçecek. Ancak bu durum yarınla beraber değişecek. NTV Meteoroloji Editörü Dilek Çalışkan, \"İki günlük kış yaşayacağız.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-iki-gunluk-kis-geliyor-sicaklik-sert-dusecek-montlarinizi-hazirlayin-1742789"
         },
         {
-          "title": "Motosiklet bariyere çarptı! Sürücü öldü, kız arkadaşı ağır yaralı",
-          "summary": "Zonguldak’ta lise öğrencisi Kerem Cin (18), kontrolünü yitirdiği motosikletin bariyerlere çarpması sonucu hayatını kaybetti, beraberindeki aynı liseden kız arkadaşı Hasret Yağmur G. (15) ise ağır yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/motosiklet-bariyere-carpti-surucu-oldu-kiz-arkadasi-agir-yarali-43313861"
+          "title": "Barışın binlerce yıllık izi Hattuşa’da gün yüzüne çıktı",
+          "summary": "Çorum’daki Hitit başkenti Hattuşa’da bulunan çivi yazılı tablet parçasının, Kadeş Barış Antlaşması’nın nüshalarından birine ait olduğu belirlendi. Bir ülkeden diğerine sığınan insanlara yönelik hükümlerden satırlar içeren keşfi 21 Eylül Dünya Barış Günü’nde duyuran Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, “Barışın binlerce yıllık izini Anadolu’nun toprağında bulduk” ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/barisin-binlerce-yillik-izi-hattusada-gun-yuzune-cikti-43314228"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan’a Türkevi’nde coşkulu karşılama",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, New York’ta bulunan Türkevi’ne gelişi sırasında Türk vatandaşları tarafından coşkuyla karşılandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogana-turkevinde-coskulu-karsilama-43313821"
+          "title": "Terastan düşen doktor Alime Özge taburcu oldu: Avukat sevgiliden şoke eden savunma: Tutmaya çalıştım elimden kaydı",
+          "summary": "İstanbul Kağıthane'de avukat erkek arkadaşı Özgür Y.'nin evinin 4'üncü katındaki terastan düşerek ağır yaralanan nöroloji doktoru Alime Özge K. taburcu edilerek memleketi Denizli'ye götürüldü. Tutuksuz yargılanan şüpheli Özgür Y.'nin \"Atladığı sırada tutmaya çalıştım, paçası elimden kaydı\" şeklindeki ifadesi ortaya çıkarken, düşme anına ait yeni güvenlik kamerası görüntüleri de dosyaya girdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/terastan-dusen-doktor-alime-ozge-taburcu-oldu-avukat-sevgiliden-soke-eden-savunma-tutmaya-calistim-elimden-kaydi-43314214"
         },
         {
-          "title": "Fon soruşturması: SPK, fonların tasfiye sürecini 6 aya çıkardı",
-          "summary": "Sermaye Piyasası Kurulu (SPK), tasfiye kararı alınan bazı fonlara ilişkin tasfiye usul ve esaslarında süre değişikliğine gitti. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen “fon soruşturması ” kapsamında piyasada yaşanan belirsizlik devam ediyor. SPK tarafından alınan yeni ilke kararları doğrultusunda 17 Eylül'de duyurulan fon tasfiye usul ve esaslarında değişikliğe gidildi.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-spk-fonlarin-tasfiye-surecini-6-aya-cikardi-1742738"
+          "title": "Milli Savunma Bakanlığı duyurdu, Türk savaş uçakları Akdeniz semalarında",
+          "summary": "MSB, çeşitli üslerden havalanan savaş uçaklarının Kıbrıs’ın güneyinde uçuş yaptığını duyurdu. Faaliyete havadan ihbar ve erken uyarı uçakları da katıldı. Türk savaş uçakları, havadan ihbar ve erken uyarı uçaklarının da katılımıyla Kıbrıs’ın güneyinde ve Akdeniz’de uçuş gerçekleştirdi. Milli Savunma Bakanlığının açıklamasına göre faaliyete, çeşitli üslerden havalanan savaş uçaklarının yanı sıra çok sayıda hava aracı katıldı. Faaliyete havadan ihbar ve erken uyarı uçakları da katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/milli-savunma-bakanligi-duyurdu-turk-savas-ucaklari-akdeniz-semalarinda-1742828"
         }
       ]
     },
     "dunya": {
-      "text": "Cumhurbaşkanı Erdoğan ABD'de: 16'ncı kez Birleşmiş Milletler Genel Kurulu'na hitap edecek. 4 milli boksör Avrupa Şampiyonası'nda tur atladı. Almanya'da tarihi seçim. Tarkan şarkıları ve halayla kutladılar. Berlin'de solun zaferi. Tarkan şarkıları ve halayla kutladılar. Almanya'da iki eyalette kritik seçim. Türk kökenli aday Elif Eralp'in partisi önde. Rusya’daki parlamento seçimleri. İlk sonuçlara göre Putin’in partisi birinci sırada. Fransız istihbaratından Rusya iddiası... 2027 sonbaharında saldıracaklar.",
+      "text": "Rusya'da Duma seçimlerinin galibi Putin’in Birleşik Rusya partisi oldu. Çin Devlet Başkanı Şi, çarşamba günü ABD'ye gidiyor. Rusya gizli planını harekete geçirdi! NATO savaşa hazırlanıyor. Berlin'de Elif Eralp'in seçim zaferi annesini gözyaşlarına boğdu. Rusya: Ukrayna’da lojistik merkezleri, limanları ve gemileri vurduk. ABD'de ICE görevlisi, Venezuelalıyı silahla yaraladı, ortalık karıştı. Kuzey Kore ile Güney Kore arasındaki sınırda patlama.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan ABD'de: 16'ncı kez Birleşmiş Milletler Genel Kurulu'na hitap edecek",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan Birleşmiş Milletler 81'nci Genel Kurulu için ABD'ye gitti. Erdoğan, 22 Eylül'de BM kürsüsünden mesajlarını paylaşacak. Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere TSİ 22.50'de \"TUR\" uçağıyla ABD'nin New York şehrine geldi. Cumhurbaşkanı Erdoğan'ı, John F.",
-          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-abdde-16nci-kez-birlesmis-milletler-genel-kuruluna-hitap-edecek-1742668"
+          "title": "Rusya'da Duma seçimlerinin galibi Putin’in Birleşik Rusya partisi oldu",
+          "summary": "Rusya’da Devlet Duması'nın yeni üyelerinin belirlenmesi için düzenlenen seçimlerde Rusya Devlet Başkanı Vladimir Putin’in partisi Birleşik Rusya yüzde 57,82 oy alarak birinci oldu. Rusya’da parlamentonun alt kanadı Devlet Duması için yapılan milletvekili seçiminde kesin olmayan ilk sonuçlara göre Rusya Devlet Başkanı Vladimir Putin’in partisi Birleşik Rusya yüzde 57,82 oy alarak birinci oldu.",
+          "source": "https://www.ntv.com.tr/dunya/rusyada-duma-secimlerinin-galibi-putinin-birlesik-rusya-partisi-oldu-1742760"
         },
         {
-          "title": "4 milli boksör Avrupa Şampiyonası'nda tur atladı",
-          "summary": "Avrupa Boks Şampiyonası'nda Havvanur Kethüda yarı, Buse Naz Çakıroğlu, Busenaz Sürmeneli ve Emrah Yaşar ise çeyrek finale kaldı. Bulgaristan'ın Başkenti Sofya'da düzenlenen Avrupa Boks Şampiyonası'nda dün 5 milli boksör ringe çıktı. Kadınlar +80 kiloda Havvanur Kethüda, Ukraynalı Mariia Lovchynska'yı hakem kararıyla mağlup ederek yarı finale yükselip madalyayı garantiledi. Son Avrupa şampiyonu Buse Naz Çakıroğlu da 54 kiloda Azerbaycanlı Zeynab Rahimova'yı yine hakem kararıyla mağlup ederek çeyrek finale kaldı.",
-          "source": "https://www.ntv.com.tr/dunya/4-milli-boksor-avrupa-sampiyonasinda-tur-atladi-1742766"
+          "title": "Çin Devlet Başkanı Şi, çarşamba günü ABD'ye gidiyor",
+          "summary": "Çin Devlet Başkanı Şi Cinping'in bu hafta ABD'yi ziyaret ederek Başkan Donald Trump ile görüşeceği, Pekin yönetimi tarafından doğrulandı. Ziyaretin 23-25 Eylül tarihlerinde gerçekleşeceği bildirildi. Çin Devlet Başkanı Şi Cinping, ekonomik ve ticari anlaşmazlıklar, Orta Doğu'daki savaş ve yapay zeka güvenliği konularını görüşmek üzere bu hafta ülkesinin stratejik rakibi ABD'yi ziyaret edecek.",
+          "source": "https://www.ntv.com.tr/dunya/cin-devlet-baskani-si-carsamba-gunu-abdye-gidiyor-1742814"
         },
         {
-          "title": "Almanya'da tarihi seçim. Tarkan şarkıları ve halayla kutladılar",
-          "summary": "Berlin'de Sol Parti Türk kökenli siyasetçi Elif Eralp liderliğinde sandıktan birinci çıktı. Kutlamalarda Tarkan şarkıları ve halay vardı. Mecklenburg-Vorpommern'de ise aşırı sağcı AFD rekor kırdı. Almanya'da siyasi açıdan kritik önem taşıyan iki eyalette dün seçim vardı. 6 Eylül'de aşırı sağcı Almanya için Alternatif Partisi'nin (AfD) zaferiyle sonuçlanan Saksonya-Anhalt eyalet seçimlerinin ardından bu kez Berlin ve Mecklenburg-Vorpommern eyaletlerinde seçmenler tarihi seçim için sandığa gitti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-tarihi-secim-tarkan-sarkilari-ve-halayla-kutladilar-1742765"
+          "title": "Rusya gizli planını harekete geçirdi! NATO savaşa hazırlanıyor",
+          "summary": "NATO Askeri Komitesi Başkanı Amiral Cavo Dragone, ittifakın Rusya'nın olası bir saldırısına karşılık vermeye hazır olduğunu belirtti. Dragone, \"NATO'nun bütün yapısıyla, askerleriyle ve silahlarıyla çatışmaya hazır olduğunu kaydetti. Öte yandan Rus devlet şirketi Rosatom'dan sızdırılan belgeler, Rusya'nın savaş kabiliyetlerini artırmak için gizli planını devreye aldığını ortaya koydu.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusya-gizli-planini-harekete-gecirdi-nato-savasa-hazirlaniyor-43314079"
         },
         {
-          "title": "Berlin'de solun zaferi. Tarkan şarkıları ve halayla kutladılar",
-          "summary": "Berlin'de Sol Parti Türk kökenli siyasetçi Elif Eralp liderliğinde sandıktan birinci çıktı. Kutlamalarda Tarkan şarkıları ve halay vardı. Mecklenburg-Vorpommern'de ise aşırı sağcı AFD rekor kırdı.",
-          "source": "https://www.ntv.com.tr/dunya/video-berlinde-solun-zaferi-tarkan-sarkilari-ve-halayla-kutladilar-1742767"
+          "title": "Berlin'de Elif Eralp'in seçim zaferi annesini gözyaşlarına boğdu",
+          "summary": "Almanya'da Berlin eyalet meclisi seçimlerini kazanan Sol Parti'nin başbakan adayı Elif Eralp'in annesi Hülya Eralp, kızının başarısıyla gurur duyduğunu söyledi. Almanya'da Berlin eyalet meclisi seçimlerini tarihi bir başarıyla kazanan Sol Parti'nin başbakan adayı Elif Eralp'in annesi Hülya Eralp kızının elde ettiği başarıdan büyük mutluluk ve gurur duyduğunu söyledi. Hülya Eralp seçim sonuçlarının açıklanmasının ardından yaptığı açıklamada, \"Çok mutluyum. Kızımla gurur duyuyorum.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-berlinde-elif-eralpin-secim-zaferi-annesini-gozyaslarina-bogdu-1742824"
         },
         {
-          "title": "Almanya'da iki eyalette kritik seçim. Türk kökenli aday Elif Eralp'in partisi önde",
-          "summary": "Almanya'da Berlin eyalet meclisi seçiminde, sandık çıkış anketlerine göre başbakanlığa Elif Eralp'i aday gösteren Sol Parti ilk sırayı aldı. Almanya'da siyasi açıdan önem taşıyan iki eyalette bugün sandık başına gidiliyor. Ülkede 6 Eylül'de aşırı sağcı Almanya için Alternatif Partisi'nin (AfD) zaferiyle sonuçlanan Saksonya-Anhalt eyalet seçimlerinin ardından bu kez Berlin ve Mecklenburg-Vorpommern eyaletlerinde seçmenler ülke tarihinin en kritik seçimleri için oy kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/almanyada-iki-eyalette-kritik-secim-turk-kokenli-aday-elif-eralpin-partisi-onde-1742659"
+          "title": "Rusya: Ukrayna’da lojistik merkezleri, limanları ve gemileri vurduk",
+          "summary": "Rusya, Ukrayna ordusunun ihtiyaçları doğrultusunda kullanılan gemilerin İHA'larla vurulduğunu; lojistik merkezlere, depolara ve limanlara saldırı düzenlendiğini açıkladı. Rusya Savunma Bakanlığı'ndan yapılan açıklamada, gece saatlerinde Ukrayna’nın Kiev ve Odessa bölgelerindeki çeşitli hedeflerin vurulduğu belirtildi. Kiev bölgesindeki Şçastlivoye yerleşiminde bulunan \"BDU Logistic\" merkezinin vurulduğu kaydedilen açıklamada, merkezin depolarında askeri amaçlı ürünlerin depolandığı ve dağıtıldığı aktarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/rusya-ukraynada-lojistik-merkezleri-limanlari-ve-gemileri-vurduk-1742799"
         },
         {
-          "title": "Rusya’daki parlamento seçimleri. İlk sonuçlara göre Putin’in partisi birinci sırada",
-          "summary": "Rusya’da Devlet Duması'nın yeni üyelerinin belirlenmesi için düzenlenen seçimlerde Rusya Devlet Başkanı Vladimir Putin’in partisi ilk sırada yer aldı. Rusya’da halk, parlamentonun alt meclisi Devlet Duması üyelerini belirlemek için sandık başına gitti. Ukrayna'daki savaşın başladığı 2022 yılından bu yana parlamento seçimleri için ilk kez sandık başına giden Ruslar, meclisteki 450 vekilin seçimi için oy kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/rusyadaki-parlamento-secimleri-ilk-sonuclara-gore-putinin-partisi-birinci-sirada-1742760"
+          "title": "ABD'de ICE görevlisi, Venezuelalıyı silahla yaraladı, ortalık karıştı",
+          "summary": "Teksas'ta Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) görevlisi, trafik çevirmesinin ardından bir Venezuelalıyı aracında silahla yaraladı; olay yerinde ICE karşıtı protesto gösterisi düzenlendi. ABD'nin Teksas eyaletinde Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) görevlisi, trafik çevirmesinin ardından 28 yaşındaki Venezuelalıyı aracında silahla yaraladı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abdde-ice-gorevlisi-venezuelaliyi-silahla-yaraladi-ortalik-karisti-1742795"
         },
         {
-          "title": "Fransız istihbaratından Rusya iddiası... 2027 sonbaharında saldıracaklar",
-          "summary": "France Televisions, Fransız istihbarat servislerinin olası büyük bir Rus saldırısı için tarih olarak 2027 sonbaharı üzerinde durduklarını ileri sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransiz-istihbaratindan-rusya-iddiasi-2027-sonbaharinda-saldiracaklar-43313746"
+          "title": "Kuzey Kore ile Güney Kore arasındaki sınırda patlama",
+          "summary": "Kuzey Kore ile Güney Kore arasındaki sınır hattını oluşturan Askerden Arındırılmış Bölge'de (DMZ) patlama gerçekleştiği bildirildi. Aram çalışmaları sırasında yaşanan patlamada 3 Güney Koreli subayın yaralandığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kuzey-kore-ile-guney-kore-arasindaki-sinirda-patlama-43313927"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Stanimir Stoilov: 'Bu sezon evimizde oynadığımız en iyi maçtı!'. Vincenzo Italiano: 'Bu maç aklımdan çıkmayacak'. Beşiktaş'tan penaltı ve kırmızı kart beklentisi: Serdal Adalı'dan sert tepki. Oğuz Çetin'den İsmail Kartal açıklaması!. Old Firm derbisinde kazanan Rangers!. 8-0'lık Fenerbahçe yenilgisi sonrası Özhan Pulat ile yollar ayrıldı!. Mason Greenwood: 'Daha fazla atabilirdik!'.",
+      "text": "Beşiktaş, ilk milli araya üç deplasman yenilgisiyle girdi. Salah'tan Trabzonspor'da son 9 sezonun en iyi gol performansı. Basketbolda 39. Erkekler Cumhurbaşkanlığı Kupası, yarın sahibini bulacak. Hakan Çalhanoğlu sürprizi! Ezeli rakibin listesinde. Fenerbahçe-Eyüpspor maçını Nihat Kahveci yorumladı: Vedat'a yapılan müdahale penaltı! Kramponu bile çıktı. Göztepe’nin galibiyet hasreti 6 maça çıktı. Kalp krizi şüphesiyle hastaneye kaldırılmıştı: İstanbulsporlu Elvin Mendy'den iyi haber.",
       "items": [
         {
-          "title": "Stanimir Stoilov: 'Bu sezon evimizde oynadığımız en iyi maçtı!'",
-          "summary": "Göztepe Teknik Direktörü Stanimir Stoilov, Çaykur Rizespor karşısında oynadıkları oyunun bu sezonki en iyi iç saha oyunu olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/stanimir-stoilov-bu-sezon-evimizde-oynadigimiz-en-iyi-macti-43313759"
+          "title": "Beşiktaş, ilk milli araya üç deplasman yenilgisiyle girdi",
+          "summary": "Süper Lig ve UEFA Avrupa Ligi'nde üst üste aldığı iyi sonuçlarla sezona başlayan Beşiktaş, deplasmanlarda kazanmakta zorlanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ilk-milli-araya-uc-deplasman-yenilgisiyle-girdi-43314265"
         },
         {
-          "title": "Vincenzo Italiano: 'Bu maç aklımdan çıkmayacak'",
-          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Amed Sportif Faaliyetler'e 3-2 yenildikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-bu-mac-aklimdan-cikmayacak-43313753"
+          "title": "Salah'tan Trabzonspor'da son 9 sezonun en iyi gol performansı",
+          "summary": "Süper Lig'in 6. haftasında sahasında Galatasaray'ı 4-0 mağlup eden Trabzonspor'da 7. golüne ulaşan Mısırlı yıldız futbolcu Mohamed Salah, bordo-mavili takımda son 9 sezondaki en golcü başlangıcı yapan isim oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/salahtan-trabzonsporda-son-9-sezonun-en-iyi-gol-performansi-43314255"
         },
         {
-          "title": "Beşiktaş'tan penaltı ve kırmızı kart beklentisi: Serdal Adalı'dan sert tepki",
-          "summary": "Milli ara öncesi Trendyol Süper Lig'in 6. haftasında Amedspor'a deplasmanda 3-1 mağlup olan Beşiktaş, Diyarbakır'da oynanan maçın ilk devresinde yaşanan bir pozisyon için penaltı + kırmızı kart bekledi. Mücadelenin ardından Beşiktaş Başkanı Serdal Adalı, hakem yönetimine sert tepki gösterirken, pozisyonla ilgili eski hakemlerin yorumları da dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-penalti-ve-kirmizi-kart-beklentisi-serdal-adalidan-sert-tepki-43313729"
+          "title": "Basketbolda 39. Erkekler Cumhurbaşkanlığı Kupası, yarın sahibini bulacak",
+          "summary": "Basketbol 39. Erkekler Cumhurbaşkanlığı Kupası'nda yarın Fenerbahçe Tarfin ile Beşiktaş karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basketbolda-39-erkekler-cumhurbaskanligi-kupasi-yarin-sahibini-bulacak-43314218"
         },
         {
-          "title": "Oğuz Çetin'den İsmail Kartal açıklaması!",
-          "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, takımın oyun adaptasyonu ve gelişiminin her geçen gün yükseldiğini belirterek, \"Temel amacımız mayıs 2027’de şampiyonluğumuzu ilan etmek\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/oguz-cetinden-ismail-kartal-aciklamasi-43313686"
+          "title": "Hakan Çalhanoğlu sürprizi! Ezeli rakibin listesinde",
+          "summary": "A Milli Futbol Takımı’mızın ve Inter’in kaptanı Hakan Çalhanoğlu için İtalya’dan önemli bir transfer haberine yer verildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hakan-calhanoglu-surprizi-ezeli-rakibin-listesinde-43314212"
         },
         {
-          "title": "Old Firm derbisinde kazanan Rangers!",
-          "summary": "Rangers, İskoçya Premiership'in 7. haftasında Old Firm derbisinde deplasmanda karşılaştığı Celtic'i 1-0'lık skorla mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/old-firm-derbisinde-kazanan-rangers-43313674"
+          "title": "Fenerbahçe-Eyüpspor maçını Nihat Kahveci yorumladı: Vedat'a yapılan müdahale penaltı! Kramponu bile çıktı",
+          "summary": "Fenerbahçe, Süper Lig'de uzun yıllar unutulmayacak bir galibiyete imza atarak Eyüpspor'u 8-0 mağlup etti. Maç sonrası Nihat Kahveci, sarı lacivertlileri değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-eyupspor-macini-nihat-kahveci-yorumladi-vedata-yapilan-mudahale-penalti-kramponu-bile-cikti-43314128"
         },
         {
-          "title": "8-0'lık Fenerbahçe yenilgisi sonrası Özhan Pulat ile yollar ayrıldı!",
-          "summary": "Eyüpspor, 8-0'lık Fenerbahçe yenilgisinin ardından Teknik Direktör Özhan Pulat ile yollarını ayırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/8-0lik-fenerbahce-yenilgisi-sonrasi-ozhan-pulat-ile-yollar-ayrildi-43313663"
+          "title": "Göztepe’nin galibiyet hasreti 6 maça çıktı",
+          "summary": "Göztepe, Süper Lig’in 6. haftasında Çaykur Rizespor ile berabere kalarak bu sezonki galibiyet hasretine son veremedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/goztepenin-galibiyet-hasreti-6-maca-cikti-43314058"
         },
         {
-          "title": "Mason Greenwood: 'Daha fazla atabilirdik!'",
-          "summary": "Fenerbahçe'de Vedat Muriqi, Mason Greenwood ve Guendouzi, Eyüpspor galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-daha-fazla-atabilirdik-43313640"
+          "title": "Kalp krizi şüphesiyle hastaneye kaldırılmıştı: İstanbulsporlu Elvin Mendy'den iyi haber",
+          "summary": "1. Lig'in 8. haftasında Manisa FK'yi 1-0 mağlup eden İstanbulspor'da genç futbolcu Elvin Mendy, takım otobüsünde yaşadığı rahatsızlığın ardından kalp krizi şüphesiyle hastaneye kaldırılmıştı. Anjiyo olan Gambiyalı oyuncuda herhangi bir soruna rastlanmadığı ve sağlık durumunun iyi olduğu açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kalp-krizi-suphesiyle-hastaneye-kaldirilmisti-istanbulsporlu-elvin-mendyden-iyi-haber-43313964"
         }
       ]
     },
