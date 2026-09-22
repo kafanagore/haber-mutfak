@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-22T10:00:03.404Z",
+  "generatedAt": "2026-09-22T16:00:03.594Z",
   "categories": {
     "gundem": {
-      "text": "İkinci el araç satışında \"yeni sistem\" tuzağı: 40 bin lirasını son anda kurtardı. Edirne'de yasa dışı bahis operasyonu: 274 milyonluk işlem hacmine 7 gözaltı. 325 bin liralık altın ve gözlük çalan 2 kadın Bulgaristan’a kaçtı. Manisa Turgutlu'da okul önünde silahlı saldırı. Bulgar iki kadından 'pes' dedirten yöntemle vurgun: Biri pazarlık yaptı diğeri çaldı. Aksaray'da yolcu alma kavgasında silah sesini duyan şoför kalp krizi geçirdi. İBB'ye yönelik yolsuzluk davasında 85. duruşma.",
+      "text": "AB ülkelerinden Rusya'ya yönelik yaptırımları uzatma kararı. Bodrum merkezli 5 ilde suç örgütüne operasyon: 12 gözaltı. Son dakika... Cumhurbaşkanı Erdoğan'dan BM'de önemli açıklamalar. Bayraktar TB3 SİHA’dan başarılı sonoboy atışı. Manisa’daki saldırıya ilişkin ilk açıklama. Manisa Turgutlu'da lisenin önünde silahlı saldırı: 3 öğrencinin durumu kritik. Bakan Bayraktar, ABD'de iş dünyası temsilcileri ve yatırımcılarla görüştü.",
       "items": [
         {
-          "title": "İkinci el araç satışında \"yeni sistem\" tuzağı: 40 bin lirasını son anda kurtardı",
-          "summary": "Kocaeli'de aracını satmak isteyen bir kişi, dolandırıcıların \"güvenli kapora\" tuzağını son anda fark edip dolandırılmaktan kurtuldu. Kocaeli'de bir kişi dolandırıcıların hedefi olmaktan son anda kurtuldu. Edinilen bilgiye göre, 20 Eylül'de aracını bir ilan sitesi üzerinden satışa sunan Bahadır Bostan'a kısa süre sonra telefonla ulaşan ve aracı almak istediğini belirten şüpheli, ödemenin güvenli kapora sistemi adı verilen yeni bir uygulama üzerinden yapılacağını söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/ikinci-el-arac-satisinda-yeni-sistem-tuzagi-40-bin-lirasini-son-anda-kurtardi-1742991"
+          "title": "AB ülkelerinden Rusya'ya yönelik yaptırımları uzatma kararı",
+          "summary": "Avrupa Birliği (AB) ülkeleri, iş insanları Alişer Usmanov ile Mihail Fridman’ın yaptırım listesinden çıkarılması, 3 binden fazla kişi ve kuruluşa yönelik kısıtlayıcı tedbirlerin ise 36 ay uzatılmasında anlaştı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ab-ulkelerinden-rusyaya-yonelik-yaptirimlari-uzatma-karari-43315917"
         },
         {
-          "title": "Edirne'de yasa dışı bahis operasyonu: 274 milyonluk işlem hacmine 7 gözaltı",
-          "summary": "Edirne’de düzenlenen yasa dışı bahis operasyonunda 7 şüpheli gözaltına alındı. MASAK raporunda, şüphelilerin banka hesaplarının yaklaşık 274,7 milyon lira işlem hacmine ulaştığı tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/edirnede-yasa-disi-bahis-operasyonu-274-milyonluk-islem-hacmine-7-gozalti-43315366"
+          "title": "Bodrum merkezli 5 ilde suç örgütüne operasyon: 12 gözaltı",
+          "summary": "Muğla’nın Bodrum ilçesi merkezli 5 ilde organize suç örgütüne yönelik düzenlenen eş zamanlı operasyonda, aralarında örgüt elebaşının da bulunduğu 12 şüpheli gözaltına alındı. Şüphelilerin banka hesaplarında 619 milyon liralık hareketlilik tespit edilirken, adreslerinde yapılan aramalarda çok sayıda senet, silah ve mühimmat ele geçirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bodrum-merkezli-5-ilde-suc-orgutune-operasyon-12-gozalti-43315910"
         },
         {
-          "title": "325 bin liralık altın ve gözlük çalan 2 kadın Bulgaristan’a kaçtı",
-          "summary": "Edirne’de müşteri gibi girdikleri kuyumcu ve gözlükçüden toplam 325 bin liralık ürün çalan 2 kadın güvenlik kameralarına yansıdı. Şüphelilerin Bulgaristan’a döndüğü belirlendi. Eedirne'de, Bulgaristan uyruklu 2 kadın şüphelinin kuyumcu dükkanından altın ile gözlükçüden de gözlük çaldığı anlar, güvenlik kamerasına yansıdı. Toplam değeri 325 bin lira olan altın ve gözlük çalan şüphelilerin ülkelerine kaçtığı belirlendi.",
-          "source": "https://www.ntv.com.tr/turkiye/325-bin-liralik-altin-ve-gozluk-calan-2-kadin-bulgaristana-kacti-1742989"
+          "title": "Son dakika... Cumhurbaşkanı Erdoğan'dan BM'de önemli açıklamalar",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) Genel Kurulu'nun 81. oturumunda dünya liderlerine hitap ediyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-bmde-onemli-aciklamalar-43315907"
         },
         {
-          "title": "Manisa Turgutlu'da okul önünde silahlı saldırı",
-          "summary": "Manisa'nın Turgutlu ilçesinde bir lisenin önünde silahlı saldırı düzenlendi. Olayda 2'si ağır 11 öğrenci yaralandı. Saldırgan, annesi, babası ve dedesi gözaltına alındı. Manisa'nın Turgutlu ilçesinde bir lisenin önünde silahlı saldırı düzenlendi. Olay, İnci Üzmez Mesleki ve Teknik Anadolu Lisesi'nde sabah saat 08.00 sıralarında gerçekleşti. 22 Eylül 2026 tarihinde gerçekleşen saldırıda, saldırganın okulun dokuzuncu sınıf öğrencisi H.O. olduğu anlaşıldı. Saldırıda 11 öğrenci tüfek saçması nedeniyle yaralandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-manisa-turgutluda-okula-silahli-saldiri-yarali-ogrenciler-var-1742937"
+          "title": "Bayraktar TB3 SİHA’dan başarılı sonoboy atışı",
+          "summary": "Denizkurdu Tatbikatı kapsamında TCG Anadolu'dan havalanan Bayraktar TB3, Baykar SAS POD ile gerçekleştirdiği sonoboy atış testini başarıyla tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bayraktar-tb3-sihadan-basarili-sonoboy-atisi-43315903"
         },
         {
-          "title": "Bulgar iki kadından 'pes' dedirten yöntemle vurgun: Biri pazarlık yaptı diğeri çaldı",
-          "summary": "Edirne'de iki Bulgar kadın, bir kuyumcudan altın, gözlükçüden de gözlük çaldı. Hırsızlık anları güvenlik kameralarına yansırken kadınların ülkelerine döndüğü tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bulgar-iki-kadindan-pes-dedirten-yontemle-vurgun-biri-pazarlik-yapti-digeri-caldi-43315330"
+          "title": "Manisa’daki saldırıya ilişkin ilk açıklama",
+          "summary": "Cumhurbaşkanı Erdoğan, Manisa’nın Turgutlu ilçesinde meydana gelen olayda yaralanan 11 çocuk ile olaydan etkilenenlere geçmiş olsun dileklerini ileterek, “Bu müessif hadise, ilgili birimlerimiz tarafından titizlikle soruşturulmaktadır. Emniyet birimlerimiz, gereken tüm tedbirleri almaktadır.” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-manisadaki-saldiriya-iliskin-ilk-aciklama-43315902"
         },
         {
-          "title": "Aksaray'da yolcu alma kavgasında silah sesini duyan şoför kalp krizi geçirdi",
-          "summary": "Aksaray’da meslektaşıyla yolcu alma meselesi yüzünden çıkan kavgada, duraktaki saldırı ve silah sesinden korkan özel halk otobüsü şoförü Bünyamin Şakar (64) kalp krizi geçirdi. Hastaneye kaldırılan Şakar’ın sağlık durumunun ağır olduğu bildirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/aksarayda-yolcu-alma-kavgasinda-silah-sesini-duyan-sofor-kalp-krizi-gecirdi-43315329"
+          "title": "Manisa Turgutlu'da lisenin önünde silahlı saldırı: 3 öğrencinin durumu kritik",
+          "summary": "Manisa'da bir lisenin önünde silahlı saldırı düzenlendi. Olayda üçü ağır 11 öğrenci yaralandı. İçişleri Bakanı Mustafa Çiftçi, \"Saldırının gerçekleştiği okul birinci derece riskli okuldu.\" dedi. Manisa'nın Turgutlu ilçesinde bir lisenin önünde silahlı saldırı düzenlendi. Olay, İnci Üzmez Mesleki ve Teknik Anadolu Lisesi'nde sabah saat 08.00 sıralarında gerçekleşti. 22 Eylül 2026 tarihinde gerçekleşen saldırıda, saldırganın okulun dokuzuncu sınıf öğrencisi H.O. olduğu anlaşıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-manisa-turgutluda-lisenin-onunde-silahli-saldiri-3-ogrencinin-durumu-kritik-1742937"
         },
         {
-          "title": "İBB'ye yönelik yolsuzluk davasında 85. duruşma",
-          "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 57'si tutuklu 436 sanığın yargılandığı davanın 85. duruşması başladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-85-durusma-43315301"
+          "title": "Bakan Bayraktar, ABD'de iş dünyası temsilcileri ve yatırımcılarla görüştü",
+          "summary": "ENERJİ ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, ABD'nin New York kentinde düzenlenen yuvarlak masa toplantısında farklı sektörlerden iş dünyası temsilcileri ve yatırımcılarla bir araya geldi. Bakan Bayraktar, Türkiye'nin güçlü altyapısını, gelişmiş enerji piyasasını ve stratejik konumuyla bölgesel enerji ticaretinde üstlendiği rolü değerlendirdiklerini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bayraktar-abdde-is-dunyasi-temsilcileri-ve-yatirimcilarla-gorustu-43315898"
         }
       ]
     },
     "dunya": {
-      "text": "Berlin seçiminin galibi Elif Eralp'ten göçmen kökenli seçmenlere teşekkür. Uzayda bir ilk. Başka bir gezegenden doğrudan radyo sinyali alındı. İsrail'de hesap değişti: Türkiye'nin gücüne karşı yeni plan. Atina'da panik! Suudiler'in F-35'leri endişe yarattı. Japonya'yı Dujuan Tayfunu vurdu: 4 ölü, 22 yaralı. İran Cumhurbaşkanı Pezeşkiyan'dan BM'ye \"güvensizlik\" mesajı. Erkek kılığına girerek bisiklete bindi, Asya Oyunları'nda madalya kazandı.",
+      "text": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'nda konuşuyor. Almanya'da ABD Hava Üssünden kalkan F-16 savaş uşağı düştü. Almanya'daki Spangdahlem ABD Hava Üssü'nden kalkan bir F-16 düştü. Trump, BM'de konuştu: ''İran'la anlaşma seçimden sonra olabilir''. Trump’tan BM’de flaş açıklamalar: İran’ın nükleer silahı olmayacak. Trump'tan diplomasiye yeşil ışık: Görüşmeye hazır. BM'nin 81. Genel Kurulu’nun yüksek düzeyli katılım haftası başladı.",
       "items": [
         {
-          "title": "Berlin seçiminin galibi Elif Eralp'ten göçmen kökenli seçmenlere teşekkür",
-          "summary": "Almanya'da seçimi kazanan ve Berlin eyalet başbakanı olmaya hazırlanan Sol Partili Elif Eralp, özellikle göçmen kökenli seçmenlerin desteğinin kendisini çok mutlu ettiğini söyleyerek teşekkür etti. Almanya'nın başkenti Berlin'deki eyalet meclisi seçimlerini birinci sırada tamamlayan Sol Parti'nin (Die Linke) başbakan adayı Elif Eralp, seçimlerde beklediğinden daha büyük bir başarı kazandıklarını ve kendisine oy veren göçmen kökenli seçmenlere özellikle teşekkür ettiğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/berlin-seciminin-galibi-elif-eralpten-gocmen-kokenli-secmenlere-tesekkur-1742977"
+          "title": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'nda konuşuyor",
+          "summary": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'nda hitapta bulunuyor. Cumhurbaşkanı Recep Tayyip Erdoğan, 16. kez 81. Genel Kurulu'nda dünya liderlerine sesleniyor. Cumhurbaşkanı Erdoğan'ın açıklamalarından öne çıkanlar: BM 81. Genel Kurulu tüm insanlık için hayırlara vesile olsun. Öncelikle bir üzüntümü ifade etmek isterim. Sayın Mahmud Abbas 2 yıldır bu salonda yer alamıyor. Filistinli kardeşlerimize yönelik bu haksızlık vicdanları yaralamaktadır.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-bm-genel-kurulunda-konusuyor-1743026"
         },
         {
-          "title": "Uzayda bir ilk. Başka bir gezegenden doğrudan radyo sinyali alındı",
-          "summary": "Gökbilimciler, yaklaşık 63 ışık yılı uzaklıktaki \"Beta Pictoris b\" adlı ötegezegenden doğrudan gelen radyo sinyalleri tespit etti. Gökbilimciler, ilk kez Güneş Sistemi dışında bulunan bir gezegenden doğrudan geldiği belirlenen radyo sinyalleri tespit etti. Harvard & Smithsonian Astrofizik Merkezi ile Oregon Üniversitesi'nden araştırmacılar, Dünya'dan yaklaşık 63 ışık yılı uzaklıktaki Beta Pictoris b adlı ötegezegenden kısa ve tekrarlayan radyo dalgaları yakaladı.",
-          "source": "https://www.ntv.com.tr/dunya/uzayda-bir-ilk-baska-bir-gezegenden-dogrudan-radyo-sinyali-alindi-1742976"
+          "title": "Almanya'da ABD Hava Üssünden kalkan F-16 savaş uşağı düştü",
+          "summary": "Almanya'nın Rheinland-Pfalz eyaletindeki Spangdahlem ABD Hava Üssü'nden kalkan F-16 savaş uçağının düştüğü bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-abd-hava-ussunden-kalkan-f-16-savas-usagi-dustu-43315901"
         },
         {
-          "title": "İsrail'de hesap değişti: Türkiye'nin gücüne karşı yeni plan",
-          "summary": "İsrail güvenlik yetkilileri, Türk Deniz Kuvvetlerinin denizaltı filosundaki büyümeyi dikkate alarak filonun genişletilmesini önerdi. İsrail Ordu Radyosu, mevcut 5 denizaltıya ek olarak 7'nci ve 8'inci denizaltıların alınmasının gündemde olduğunu bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilde-hesap-degisti-turkiyenin-gucune-karsi-yeni-plan-43315272"
+          "title": "Almanya'daki Spangdahlem ABD Hava Üssü'nden kalkan bir F-16 düştü",
+          "summary": "Almanya'nın Rheinland-Pfalz eyaletindeki Spangdahlem ABD Hava Üssü'nden kalkan F-16 savaş uçağının düştüğü bildirildi. Spangdahlem'deki ABD Hava Üssü'nden yapılan açıklamada, üsten kalkan bir F-16'nın yerel saatle 14.30 sıralarında düştüğü ve pilotun güvenli bir şekilde fırlatma koltuğunu kullanarak uçağı terk ettiği ifade edildi. Yaralanan pilotun hastanede tedavi altına alındığı belirtildi. Açıklamada, \"Kazanın nedeni araştırılıyor.",
+          "source": "https://www.ntv.com.tr/dunya/almanyadaki-spangdahlem-abd-hava-ussunden-kalkan-bir-f-16-dustu-1743028"
         },
         {
-          "title": "Atina'da panik! Suudiler'in F-35'leri endişe yarattı",
-          "summary": "ABD'nin Suudi Arabistan'a 48 adet F-35 satışı, Yunan basınında yeni iddiaları gündeme getirdi. Ta Nea gazetesinde yer alan iddiada, Riyad'ın Türkiye ile savunma alanındaki iş birliğine dikkat çekildi ve Suudi Arabistan'ın F-35 sahibi olmasının Türkiye açısından dolaylı bir erişim imkanı oluşturabileceği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/atinada-panik-suudilerin-f-35leri-endise-yaratti-43315245"
+          "title": "Trump, BM'de konuştu: ''İran'la anlaşma seçimden sonra olabilir''",
+          "summary": "ABD Başkanı Donald Trump, ''İran üzerindeki baskıyı sürdürme konusunda birlik olmalıyız.'' dedi. ABD Başkanı Donald Trump, Birleşmiş Milletler'in 81. Genel Kurulu'nda dünya liderlerine seslendi. Trump, 38 dakika süren konuşmasının başlangıcında ''ABD geri döndü ve hiç olmadığı kadar güçlüyüz.'' dedi. İran'ı ''Terörü durdurmayı reddettiler, nükleer silaha ulaşmaya çalışıyorlardı.'' sözleriyle hedef alan Trump, ülkesindeki ara seçimler sonrasında Tahran ile bir anlaşma olabileceğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/trump-bmde-konusuyor-iranla-anlasma-secimden-sonra-olabilir-1743023"
         },
         {
-          "title": "Japonya'yı Dujuan Tayfunu vurdu: 4 ölü, 22 yaralı",
-          "summary": "Japonya'da etkili olan Dujuan Tayfunu nedeniyle 4 kişi hayatını kaybederken 22 kişi yaralandı, 6 kişi ise kayıp. Tokyo ve çevresindeki 6 eyalette toplam 1,9 milyon kişi tahliye edildi. Japonya'nın orta ve doğusundaki Pasifik kıyılarına doğru ilerleyen Dujuan Tayfunu nedeniyle 4 kişi hayatını kaybetti, 22 kişi yaralandı, 6 kişi ise kayıp olarak kayıtlara geçti. Başkent Tokyo yakınlarında 45 bin ev elektriksiz kalırken 460 ev de hasar gördü.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-japonyayi-dujuan-tayfunu-vurdu-4-olu-22-yarali-1742946"
+          "title": "Trump’tan BM’de flaş açıklamalar: İran’ın nükleer silahı olmayacak",
+          "summary": "ABD Başkanı Donald Trump, BMGK oturumunda konuştu. Trump, \"ABD geri döndü. Ülkemiz bugün, şimdiye kadarkinden daha güçlü. Ekonomimiz, enerjimiz, ordumuz en güçlü durumda ve geleceğimiz çok parlak.\" ifadesini kullandı. Trump, İran'a yönelik sert sözler kullanırken \"İran nükleer silaha sahip olamayacak\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-43315664"
         },
         {
-          "title": "İran Cumhurbaşkanı Pezeşkiyan'dan BM'ye \"güvensizlik\" mesajı",
-          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, BM Genel Kurulu'nun 81. oturumu için New York'a hareketinden önce BM'nin “Güveni yeniden tesis etmek” sloganına atıf yaparak eleştirilerde bulundu. İran Cumhurbaşkanlığı’ndan yapılan yazılı açıklamaya göre, Cumhurbaşkanı Mesud Pezeşkiyan, Birleşmiş Milletler (BM) Genel Kurulu'nun 81. oturumu için New York'a hareket etmeden önce havalimanında açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/iran-cumhurbaskani-pezeskiyandan-bmye-guvensizlik-mesaji-1742967"
+          "title": "Trump'tan diplomasiye yeşil ışık: Görüşmeye hazır",
+          "summary": "ABD Başkanı Donald Trump, İran Cumhurbaşkanı Mesud Pezeşkiyan ile görüşme ihtimaline açık olduğunu belirtti. Dışişleri Bakanı Marco Rubio da şu anda planlanmış bir görüşme bulunmadığını ancak Trump yönetiminin böyle bir temasa \"kesinlikle açık\" olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-diplomasiye-yesil-isik-gorusmeye-hazir-43315788"
         },
         {
-          "title": "Erkek kılığına girerek bisiklete bindi, Asya Oyunları'nda madalya kazandı",
-          "summary": "Afganistan'da bisiklete binebilmek için erkek kılığına giren ve taşlı saldırılara uğrayan Fariba Hashimi, Asya Oyunları'nda kadınlar yol yarışını ikinci tamamladı. ERKEK KILIĞINA GİREREK ANTRENMAN YAPTI Afganistan'da spor yapabilmek için erkek kılığına girerek antrenman yapan bisikletçi Fariba Hashimi, Asya Oyunları'nda gümüş madalya kazandı. İtalya'da yaşayan 23 yaşındaki Hashimi, Japonya'nın Nagoya kenti yakınlarında düzenlenen kadınlar yol yarışını ikinci sırada tamamladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-erkek-kiligina-girerek-bisiklete-bindi-asya-oyunlarinda-madalya-kazandi-1742953"
+          "title": "BM'nin 81. Genel Kurulu’nun yüksek düzeyli katılım haftası başladı",
+          "summary": "Birleşmiş Milletler (BM) üyesi ülkelerin liderlerini bir araya getiren BM'nin 81. Genel Kurulu'nun yüksek düzeyli katılım haftası başladı. 193 üyeli BM'nin New York'taki Genel Merkezi'nde devlet ve hükümet liderleri ile dışişleri bakanları, küresel gündemin öne çıkan başlıklarını 22-28 Eylül tarihleri arasında Genel Kurul kürsüsünden değerlendirecek. \"Güveni yeniden tesis etmek, dönüşümü yönetmek: Herkes için sonuç üreten bir BM” temasıyla gerçekleştirilen 81.",
+          "source": "https://www.ntv.com.tr/dunya/bmnin-81-genel-kurulunun-yuksek-duzeyli-katilim-haftasi-basladi-1743020"
         }
       ]
     },
     "ekonomi": {
-      "text": "Kuriş soruşturmasında 29 gözaltı kararı! 23 şirkete kayyum atandı. Tera Finansal Yatırımlar ile Hedef Holding'de yönetim değişikliği. 3 fonunda pay satımı geçici olarak durduruldu. Bakanlık açıkladı! 81,9 milyar TL'lik ticari eşya ve uyuşturucu yakalandı. Finansal İstikrar Komitesi, Bakan Şimşek başkanlığında yarın toplanacak. İsrailli yetkiliden Babülmendep itirafı: Geceleri uyuyamıyoruz. Bakan Akın Gürlek'ten DEİK buluşması: Ekonomimizi zehirleyen suç örgütleriyle mücadele ediyoruz.",
+      "text": "İZMAR’ın 25’inci mağazası Buca’ya. Miami’de Ege rüzgarı esti. Kuriş soruşturmasında 29 gözaltı kararı! 23 şirkete kayyum atandı. Tera Finansal Yatırımlar ile Hedef Holding'de yönetim değişikliği. 3 fonunda pay satımı geçici olarak durduruldu. Bakanlık açıkladı! 81,9 milyar TL'lik ticari eşya ve uyuşturucu yakalandı. Finansal İstikrar Komitesi, Bakan Şimşek başkanlığında yarın toplanacak.",
       "items": [
+        {
+          "title": "İZMAR’ın 25’inci mağazası Buca’ya",
+          "summary": "İZMİR Büyükşehir Belediyesi’nin tanzim satış mağazası İZMAR, 25’inci şubesini Buca Gediz’de hizmete girdi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmarin-25inci-magazasi-bucaya-43315628"
+        },
+        {
+          "title": "Miami’de Ege rüzgarı esti",
+          "summary": "Ege Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği’nce yürütülen Aegean Cereals, Pulses, Oilseeds and Products UR-GE Projesi kapsamında 10 firma, Miami’de düzenlenen America’s Food & Beverage Show’da sahaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/miamide-ege-ruzgari-esti-43315612"
+        },
         {
           "title": "Kuriş soruşturmasında 29 gözaltı kararı! 23 şirkete kayyum atandı",
           "summary": "Ankara Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturmada, Alihan Kuriş suç örgütünün kayıt dışı finansal hareketlerini organize ettiği ve suç gelirlerini akladığı belirlenen şüpheliler için düğmeye basıldı. 29 şüpheli hakkında gözaltı kararı verilirken, örgüte ait 23 şirkete kayyum atandı. Öte yandan soruşturmada dosyaya giren üç ayrı tanık ifadesi, söz konusu yapının içindeki siyasi yönlendirme ve dışlama iddialarını gündeme getirdi.",
@@ -110,56 +120,46 @@
           "title": "Finansal İstikrar Komitesi, Bakan Şimşek başkanlığında yarın toplanacak",
           "summary": "Finansal İstikrar Komitesinin (FİK) yarın 08.00'de Hazine ve Maliye Bakanı Mehmet Şimşek'in başkanlığında toplanarak finansal piyasalardaki gelişmeleri değerlendireceği bildirildi.",
           "source": "https://www.hurriyet.com.tr/gundem/finansal-istikrar-komitesi-bakan-simsek-baskanliginda-yarin-toplanacak-43309261"
-        },
-        {
-          "title": "İsrailli yetkiliden Babülmendep itirafı: Geceleri uyuyamıyoruz",
-          "summary": "İsrail Limanları Şirketi Yönetim Kurulu Başkanı Hezi Halavia, Babulmendep'deki yeni durum nedeniyle bugün sürdürülen sınırlı faaliyetlerin bile kendileri açısından devam etmesinin mümkün olmayabileceğini kaydetti. Halavia, \"Geceleri uyuyamıyoruz, endişeliyiz.\" diye konuştu.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilli-yetkiliden-babulmendep-itirafi-geceleri-uyuyamiyoruz-43309081"
-        },
-        {
-          "title": "Bakan Akın Gürlek'ten DEİK buluşması: Ekonomimizi zehirleyen suç örgütleriyle mücadele ediyoruz",
-          "summary": "DEİK Yönetim Kurulu üyeleriyle bir araya gelen Adalet Bakanı Akın Gürlek, yatırım ortamının güvenliği için hukuk dışı yapılarla mücadelenin süreceğini belirtti. Yargılamalardaki hedef süreler, bilirkişi sistemi ve istinaf kapasitesinin artırılmasına yönelik atılan adımları paylaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-akin-gurlekten-deik-bulusmasi-ekonomimizi-zehirleyen-suc-orgutleriyle-mucadele-ediyoruz-43307311"
         }
       ]
     },
     "spor": {
-      "text": "Icardi şoke oldu! 2099'a kadar men edildi. Trabzonspor, iç saha ve dış sahada farklı. İrlanda Teknik Direktörü Heimir Hallgrimsson’dan İsrail’e soykırım tepkisi!. Asensio planı! Fenerbahçe'de milli ara sonrası müjde. Fenerbahçe ile Beşiktaş karşılaşıyor! Cumhurbaşkanlığı Kupası heyecanı canlı sohbet ile Misli'de. Leao'yu topa tuttu: Galatasaray'da, tatildeymiş gibi!. Bayern Münih’in (K) maçları 'Üst' oluyor; Real Madrid (K) - PSG (K) maçları 'KG Var' bitiyor... İşte Misli’den günün tüyoları!.",
+      "text": "Fenerbahçeli kadınlar locada ağırlandı. Galatasay'da ağır bilanço: 80 milyon harcandı, 60 sezonun en kötüsü!. Amedspor Başkanı Nahit Eren: 122 bin insan ilk 10 dakikada bilet almak istedi'. Galatasaray, Kasımpaşa maçının hazırlıklarını sürdürdü. Galatasaray'da Singo gelişmesi! Sahalara dönüş tarihi belli oldu. Skriniar'dan Fenerbahçe itirafı: Devasa bir kulüp! İşler çılgınca. Boluspor'da Daniel Farrar dönemi sona erdi.",
       "items": [
         {
-          "title": "Icardi şoke oldu! 2099'a kadar men edildi",
-          "summary": "Galatasaray ile sözleşmesinin sona ermesinin ardından henüz yeni bir takım ile anlaşma sağlayamayan Mauro Icardi'ye bakanlıktan şoke eden haber geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/icardi-soke-oldu-2099a-kadar-men-edildi-43315308"
+          "title": "Fenerbahçeli kadınlar locada ağırlandı",
+          "summary": "Fenerbahçe Yüksek Divan Kurulu Üyesi Hürer Fethi Gündüz, Dünya Fenerbahçeli Kadınlar Günü’nde özel bir buluşmaya ev sahipliği yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-kadinlar-locada-agirlandi-43315892"
         },
         {
-          "title": "Trabzonspor, iç saha ve dış sahada farklı",
-          "summary": "Süper Lig'in ilk 6 haftasında 10 puan toplayan Trabzonspor, iç sahada başarılı olurken dış sahada ise tam tersi bir grafik ortaya koydu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-ic-saha-ve-dis-sahada-farkli-43315325"
+          "title": "Galatasay'da ağır bilanço: 80 milyon harcandı, 60 sezonun en kötüsü!",
+          "summary": "Son olarak Süper Lig'de Trabzonspor'a 4-0 gibi ağır bir skorla mağlup olan Galatasaray'da yeni transferlerden verim alınamadı. Bununla beraber istatistiklerde, savunmada son 60 yılın en kötüsü olduğu ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasayda-agir-bilanco-80-milyon-harcandi-60-sezonun-en-kotusu-43315784"
         },
         {
-          "title": "İrlanda Teknik Direktörü Heimir Hallgrimsson’dan İsrail’e soykırım tepkisi!",
-          "summary": "İrlanda Milli Takımı'nın İzlandalı teknik direktörü Heimir Hallgrimsson, Gazze'de soykırım yapan İsrail'e tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/irlanda-teknik-direktoru-heimir-hallgrimssondan-israile-soykirim-tepkisi-43315323"
+          "title": "Amedspor Başkanı Nahit Eren: 122 bin insan ilk 10 dakikada bilet almak istedi'",
+          "summary": "Amed Sportif Faaliyetler Kulübü Başkanı Nahit Eren, bilet satışı sırasında ilk 10 dakika içinde 122 bin kişinin bilet almak için başvurduğunu bunun Passolig kurulduğu tarihten itibaren bir rekor olarak kayıtlara geçtiğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/amedspor-baskani-nahit-eren-122-bin-insan-ilk-10-dakikada-bilet-almak-istedi-43315775"
         },
         {
-          "title": "Asensio planı! Fenerbahçe'de milli ara sonrası müjde",
-          "summary": "Fenerbahçeli Asensio, yaşadığı sakatlık nedeniyle uzun süredir form giyemezken, Eyüpspor maçında kadroya alınmıştı. Bu bağlamda sarı lacivertliler, milli ara sonrası dönüş için İspanyol yıldıza dair çalışmalarını hazırladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/asensio-plani-fenerbahcede-milli-ara-sonrasi-mujde-43315224"
+          "title": "Galatasaray, Kasımpaşa maçının hazırlıklarını sürdürdü",
+          "summary": "Galatasaray, 7. haftasında 9 Ekim Cuma günü Kasımpaşa iel oynayacağı maç öncesi hazırlıklarına devam etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kasimpasa-macinin-hazirliklarini-surdurdu-43315757"
         },
         {
-          "title": "Fenerbahçe ile Beşiktaş karşılaşıyor! Cumhurbaşkanlığı Kupası heyecanı canlı sohbet ile Misli'de",
-          "summary": "39. Erkekler Cumhurbaşkanlığı Kupası'nda Fenerbahçe ile Beşiktaş karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ile-besiktas-karsilasiyor-cumhurbaskanligi-kupasi-heyecani-canli-sohbet-ile-mislide-43315209"
+          "title": "Galatasaray'da Singo gelişmesi! Sahalara dönüş tarihi belli oldu",
+          "summary": "Üst üste yaşadığı sakatlıklar nedeniyle uzun süre formasından uzak kalan Galatasaray'ın Fildişili savunmacısı Wilfried Singo'nun bu ay sonunda sahalara dönmesi bekleniyor. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-singo-gelismesi-sahalara-donus-tarihi-belli-oldu-43315715"
         },
         {
-          "title": "Leao'yu topa tuttu: Galatasaray'da, tatildeymiş gibi!",
-          "summary": "Galatasaray'ın 38 milyon Euro bedelle kadrosuna kattığı Rafael Leao, Trabzonspor derbisindeki etkisiz performansı ile eleştirilerin odağı oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/leaoyu-topa-tuttu-galatasarayda-tatildeymis-gibi-43315134"
+          "title": "Skriniar'dan Fenerbahçe itirafı: Devasa bir kulüp! İşler çılgınca",
+          "summary": "Fenerbahçe kaptanı Milan Skriniar, ülkesinin basınına konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/skriniardan-fenerbahce-itirafi-devasa-bir-kulup-isler-cilginca-43315661"
         },
         {
-          "title": "Bayern Münih’in (K) maçları 'Üst' oluyor; Real Madrid (K) - PSG (K) maçları 'KG Var' bitiyor... İşte Misli’den günün tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihin-k-maclari-ust-oluyor-real-madrid-k-psg-k-maclari-kg-var-bitiyor-iste-misliden-gunun-tuyolari-43315151"
+          "title": "Boluspor'da Daniel Farrar dönemi sona erdi",
+          "summary": "1. Lig ekiplerinden Boluspor, ABD'li teknik direktör Daniel Farrar ile karşılıklı anlaşarak yollarını ayırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bolusporda-daniel-farrar-donemi-sona-erdi-43315694"
         }
       ]
     },
