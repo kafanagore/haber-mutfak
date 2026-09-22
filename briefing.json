@@ -1,51 +1,61 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-21T16:00:03.545Z",
+  "generatedAt": "2026-09-22T04:00:03.558Z",
   "categories": {
     "gundem": {
-      "text": "Tahliye edilen eski DHMİ Daire Başkanı Mehmet Cemil Acar gözaltına alındı. Birlemiş Milletler'de COP31 damgası. Kahramanmaraş’ta uyuşturucu operasyonu: 10 gözaltı. İki günlük kış geliyor. Sıcaklık sert düşecek, montlarınızı hazırlayın. 15 aydır kayıptı; kıyafetleri, kimliği ve kemik parçaları bulundu. Usulsüz vatandaşlık soruşturması. 6 bin 134 kişinin vatandaşlığı iptal edildi. Fon soruşturmasını başlatan yazı ortaya çıktı.",
+      "text": "Cumhurbaşkanı Erdoğan: Türkiye'ye yatırım yapan kazanır. Romantik dolandırıcılık yöntemi. Evlilik vaadi, aşk oyunu ya da şantajla kandırıyorlar. Emine Erdoğan, Sierra Leone Cumhurbaşkanı'nın eşi Fatima Maada Bio ile görüştü. Son dakika... Cumhurbaşkanı Erdoğan'dan New York'ta önemli açıklamalar: Trump ile diyaloğumuz güçlü ve samimi. Uyarılar art arda geldi, montlar dolaptan çıkıyor: İstanbul'da sıcaklık 15 dereceye düşecek. Bakan Kurum COP31'in lansmanını New York'ta yaptı. Yolcu otobüsü şarampole uçtu: 2'si ağır 24 yaralı.",
       "items": [
         {
-          "title": "Tahliye edilen eski DHMİ Daire Başkanı Mehmet Cemil Acar gözaltına alındı",
-          "summary": "Eski DHMİ yöneticisi Mehmet Cemil Acar, bugün hakkında verilen tahliye kararının ardından bu kez ''suçtan kaynaklanan malvarlığı değerlerini aklama'' soruşturması kapsamında yeniden gözaltına alındı. Ankara Cumhuriyet Başsavcılığı, DHMİ yöneticisi Mehmet Cemil Acar’ın Ankara İl Emniyet Müdürlüğü Mali Suçlarla Mücadele Şube Müdürlüğü koordinesinde yürütülen soruşturma kapsamında 21 Eylül’de gözaltına alındığını açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/tahliye-edilen-dhmi-daire-baskani-mehmet-cemil-acar-gozaltina-alindi-1742887"
+          "title": "Cumhurbaşkanı Erdoğan: Türkiye'ye yatırım yapan kazanır",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD ile ticaret hacminin ikiye katlandığını duyurdu. Erdoğan, yabancı iş insanlarına \"Türkiye yatırım yapan kazanır\" diyerek çağrıda bulundu. Cumhurbaşkanı Erdoğan, Birleşmiş Milletler'in (BM) 81. Genel Kurulu'na katılmak için geldiği ABD'nin New York kentinde bir restoranda düzenlenen \"100 Yıllık Dostluk: Türkiye-Amerika Birleşik Devletleri\" etkinliğine katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-turkiyeye-yatirim-yapan-kazanir-1742913"
         },
         {
-          "title": "Birlemiş Milletler'de COP31 damgası",
-          "summary": "Türkiye'nin iklim değişikliği ile mücadelede BM'nin en önemli organizasyonu olan BM İklim Değişikliği Çerçeve Sözleşmesi'nin (UNFCCC) 31. Taraflar Konferansı'na (COP31) ev sahipliği ve başkanlığı, BM 81. Genel Kurulu'na damga vuruyor. Genel Kurul haftası kapsamında Cumhurbaşkanı Recep Tayyip Erdoğan'ın BM kürsüsündeki görsellerinin bulunduğu \"Dünyanın Geleceği Türkiye'de\" başlıklı COP31 tanıtım afişleri Türkevi binasına asıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/birlemis-milletlerde-cop31-damgasi-43314776"
+          "title": "Romantik dolandırıcılık yöntemi. Evlilik vaadi, aşk oyunu ya da şantajla kandırıyorlar",
+          "summary": "Dolandırıcılar sosyal medyadan elde ettikleri veri ve bilgilerle ulaştıkları kişilere aşk oyunu oynuyor. Güven kazandıktan sonraysa paralarını ele geçirmeye çalışıyor. (Haber: Rojbin Hayrullahoğlu) Dolandırıcılar yöntemlerine yenisini ekledi. Dolandırıcı tuttuğunuz takımı, beğendiğiniz sayfaları, takip ettiğiniz kişileri, paylaştığınız şarkıları, gittiğiniz mekanları her şeyi tarıyor. Sonra tam da aynı hobilere, aynı hayat tarzına sahip, biriymiş gibi karşınıza çıkıyor ve duygusal bağ kurmaya çalışıyor.",
+          "source": "https://www.ntv.com.tr/turkiye/romantik-dolandiricilik-yontemi-evlilik-vaadi-ask-oyunu-ya-da-santajla-kandiriyorlar-1742915"
         },
         {
-          "title": "Kahramanmaraş’ta uyuşturucu operasyonu: 10 gözaltı",
-          "summary": "Kahramanmaraş’ta düzenlenen uyuşturucu operasyonunda 10 kişi gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kahramanmarasta-uyusturucu-operasyonu-10-gozalti-43314771"
+          "title": "Emine Erdoğan, Sierra Leone Cumhurbaşkanı'nın eşi Fatima Maada Bio ile görüştü",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi, Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Sierra Leone Cumhurbaşkanı Julius Maada Bio'nun eşi Fatima Maada Bio ile bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogan-sierra-leone-cumhurbaskaninin-esi-fatima-maada-bio-ile-gorustu-43314980"
         },
         {
-          "title": "İki günlük kış geliyor. Sıcaklık sert düşecek, montlarınızı hazırlayın",
-          "summary": "Rusya üzerinden gelecek soğuk hava dalgasıyla İstanbul başta olmak üzere yurdun bazı bölgelerinde kış yaşanacak. NTV Meteoroloji Editörü Dilek Çalışkan, \"Montlarınızı hazırlayın.\" uyarısında bulundu. Havanın parçalı bulutlu, sıcaklığın 25 dereceye kadar çıktığı İstanbul'da bugün bahar tadında geçecek. Ancak bu durum yarınla beraber değişecek. NTV Meteoroloji Editörü Dilek Çalışkan, \"İki günlük kış yaşayacağız.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-iki-gunluk-kis-geliyor-sicaklik-sert-dusecek-montlarinizi-hazirlayin-1742789"
+          "title": "Son dakika... Cumhurbaşkanı Erdoğan'dan New York'ta önemli açıklamalar: Trump ile diyaloğumuz güçlü ve samimi",
+          "summary": "Cumhurbaşkanı Recep Tayip Erdoğan, New York’ta “100 Yıllık Dostluk: Türkiye-Amerika Birleşik Devletleri” etkinliğinde açıklamalarda bulundu. Cumhurbaşkanı Erdoğan, \"ABD ile tesis ettiğimiz diyalog sayesinde Orta Doğu başta, küresel etkilerine tanık olduğumuz birçok meselede ülkelerimiz için olumlu neticeler alıyoruz. ABD Başkanı Donald Trump ile güçlü ve samimi bir diyaloğumuz var. Başkan Trump'ın Türkiye ziyareti ile ilişkimize yeni bir soluk kazandırdı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-new-yorkta-onemli-aciklamalar-43314979"
         },
         {
-          "title": "15 aydır kayıptı; kıyafetleri, kimliği ve kemik parçaları bulundu",
-          "summary": "Antalya'nın Gazipaşa ilçesinde, geçen yıl haziran ayında mevlide gitmek için evden ayrıldıktan sonra bir daha haber alınamayan Hüseyin Karadeniz'in (80) kıyafetleri ve kimliği ormanda bulundu. Çevrede yapılan aramada Karadeniz'e ait olduğu değerlendirilen kafatası ve kemik parçalarına da ulaşıldı. Kafatası ve kemik parçaları DNA testi için Adli Tıp Kurumu'na gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/15-aydir-kayipti-kiyafetleri-kimligi-ve-kemik-parcalari-bulundu-43314767"
+          "title": "Uyarılar art arda geldi, montlar dolaptan çıkıyor: İstanbul'da sıcaklık 15 dereceye düşecek",
+          "summary": "Rusya üzerinden gelen soğuk hava dalgası İstanbul dahil birçok ilde sıcaklıkları sert biçimde düşürecek. Meteoroloji 11 il için sarı kodlu kuvvetli yağış uyarısı yaptı. Sıcaklığın 25 dereceye kadar çıktığı İstanbul'da iki günlük kış yaşanacak. NTV Meteoroloji Editörü Dilek Çalışkan, \"İki günlük kış yaşayacağız. Montlarınızı hazırlayın.\" diyerek beklenen hava durumuna ilişkin şu bilgileri paylaştı: “Kısa süreli bir kış yaşayacağız. Ülkenin her yeri etkilenemeyecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-uyarilar-art-arda-geldi-montlar-dolaptan-cikiyor-istanbulda-sicaklik-15-dereceye-dusecek-1742914"
         },
         {
-          "title": "Usulsüz vatandaşlık soruşturması. 6 bin 134 kişinin vatandaşlığı iptal edildi",
-          "summary": "İçişleri Bakanlığı, usulsüz Türk vatandaşlığı soruşturmasında 6 bin 134 kişinin vatandaşlığının iptal edildiğini açıkladı. İçişleri Bakanlığı, yatırım yoluyla Türk vatandaşlığı işlemlerinde yapılan incelemelerde, sahte ve usulsüz ekspertiz raporlarıyla süreci suistimal ettiği belirlenen 1413 yatırımcı ve aile fertleriyle birlikte 6 bin 134 kişinin vatandaşlık kazanma kararının iptal edildiğini veya geri alındığını duyurdu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-usulsuz-vatandaslik-sorusturmasi-bakan-gurlek-72-kisi-gozaltinda-30-sirkete-kayyum-atandi-1742800"
+          "title": "Bakan Kurum COP31'in lansmanını New York'ta yaptı",
+          "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, BM’de COP31 Eylem Gündemi’ni uluslararası kamuoyuna deklere etti. Kurum, BM 81. Genel Kurul haftası kapsamında geldiği New York'ta, kasımda Antalya'da düzenlenecek COP31'in lansmanını yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-kurum-cop31in-lansmanini-new-yorkta-yapti-1742912"
         },
         {
-          "title": "Fon soruşturmasını başlatan yazı ortaya çıktı",
-          "summary": "Son günlerde peş peşe alınan adli tedbirlerle gündeme gelen fon soruşturmasının perde arkası ortaya çıktı. Edinilen bilgilere göre, İstanbul Cumhuriyet Başsavcılığının 19 Ağustos 2026 tarihinde Sermaye Piyasası Kuruluna (SPK) gönderdiği müzekkerede, Borsa İstanbul’da işlem gören bazı hisselerde fonlar üzerinden gerçekleştirildiği değerlendirilen olağan dışı işlemlere ilişkin tespit ve iddialara yer verildi.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasini-baslatan-yazi-ortaya-cikti-1742881"
+          "title": "Yolcu otobüsü şarampole uçtu: 2'si ağır 24 yaralı",
+          "summary": "Amasya'nın Merzifon ilçesinde yolcu otobüsünün kontrolden çıkarak tarlaya girmesi sonucu 2'si ağır 24 kişi yaralandı. Edinilen bilgiye göre, İstanbul'dan Ağrı istikametine giden M.S idaresindeki Has Ağrılı firmasına ait yolcu otobüsü, Amasya'nın Merzifon ilçesine bağlı Gökçebağ köyü mevkiinde kontrolden çıkarak bariyerlere çarpıp şarampole uçtu. Olay yerine AFAD, acil sağlık, polis ve jandarma ekipler, sevk edildi. Kazada 24 kişi yaralandı. Yaralılar ambulanslarla hastanelere kaldırılarak tedavi altına alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/yolcu-otobusu-sarampole-uctu-2si-agir-24-yarali-1742911"
         }
       ]
     },
     "dunya": {
-      "text": "Trump’ın Yemen Cumhurbaşkanı Al Alimi ile telefon görüşmesi yaptığı iddiası. Somali'den Türkiye'nin 'önemli rolüne' teşekkür. Avrupa Milletleri'nden Yunanistan'a Batı Trakya Türkleri çağrısı. Suriye hükümetinden Halep'teki patlamaya soruşturma kararı. Avrupa'da üç ülkede uçuşlar aksadı. Avrupa Birliği'nden Google'a 403 milyon avroluk ceza. Danimarka, ABD ile Grönland anlaşmasının detaylarını açıkladı.",
+      "text": "WSJ: ABD, Körfez'deki enerji tesislerinin yeniden inşası için 5 milyar dolar önerdi. Almanya Başbakanı Merz, eyalet seçim sonuçlarını \"ağır bir darbe\" olarak nitelendirdi. Trump’ın Yemen Cumhurbaşkanı Al Alimi ile telefon görüşmesi yaptığı iddiası. Somali'den Türkiye'nin 'önemli rolüne' teşekkür. Avrupa Milletleri'nden Yunanistan'a Batı Trakya Türkleri çağrısı. Suriye hükümetinden Halep'teki patlamaya soruşturma kararı. Avrupa'da üç ülkede uçuşlar aksadı.",
       "items": [
+        {
+          "title": "WSJ: ABD, Körfez'deki enerji tesislerinin yeniden inşası için 5 milyar dolar önerdi",
+          "summary": "ABD’nin, Orta Doğu ülkelerinin ABD/İsrail-İran savaşında zarar gören enerji altyapılarını yeniden inşa etmelerine yardımcı olacak yeni bir fona 5 milyar dolar yatırım yapmayı önerdiği iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/wsj-abd-korfezdeki-enerji-tesislerinin-yeniden-insasi-icin-5-milyar-dolar-onerdi-43314937"
+        },
+        {
+          "title": "Almanya Başbakanı Merz, eyalet seçim sonuçlarını \"ağır bir darbe\" olarak nitelendirdi",
+          "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, partisinin eyalet seçimlerindeki yenilgisini “ağır bir darbe” olarak nitelendirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanya-basbakani-merz-eyalet-secim-sonuclarini-agir-bir-darbe-olarak-nitelendirdi-43314818"
+        },
         {
           "title": "Trump’ın Yemen Cumhurbaşkanı Al Alimi ile telefon görüşmesi yaptığı iddiası",
           "summary": "ABD Başkanı Donald Trump’ın dün Yemen Cumhurbaşkanı Rashad Muhammad Al Alimi ile telefon görüşmesi yaptığı öne sürüldü.",
@@ -70,16 +80,6 @@
           "title": "Avrupa'da üç ülkede uçuşlar aksadı",
           "summary": "İngiltere, İskoçya ve Kuzey İrlanda'da teknik bir sorun nedeniyle bazı uçuşlarda aksaklık yaşandığı kaydedildi.",
           "source": "https://www.hurriyet.com.tr/dunya/avrupada-uc-ulkede-ucuslar-aksadi-43314536"
-        },
-        {
-          "title": "Avrupa Birliği'nden Google'a 403 milyon avroluk ceza",
-          "summary": "Google, Avrupa Birliği'nin (AB) kurallarına aykırı şekilde kullanıcı verilerini işlemesi nedeniyle 403 milyon avro para cezası aldı. AB, Google'ın kullanıcıların konum bilgilerini düzenlemelere uygun olmayan biçimde kullandığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/avrupa-birliginden-googlea-403-milyon-avroluk-ceza-43314509"
-        },
-        {
-          "title": "Danimarka, ABD ile Grönland anlaşmasının detaylarını açıkladı",
-          "summary": "ABD Başkanı Donald Trump'ın Amerikan toprağı olmasını talep ettiği Grönland, Washington ve Kopenhag arasındaki anlaşmayla \"kalıcı güvenlik kontrolü\" çerçevesine alındı. Danimarka Dışişleri Bakanı Lars Lokke Rasmussen, anlaşmanın ayrıntılarına ilişkin değerlendirmesinde Grönland'ın yeni statüsü hakkında bilgi verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/danimarka-abd-ile-gronland-anlasmasinin-detaylarini-acikladi-43314441"
         }
       ]
     },
@@ -124,57 +124,57 @@
       ]
     },
     "spor": {
-      "text": "Gençlik ve Spor Bakanı Dr. Osman Aşkın Bak’tan Turkcell’e nezaket ziyareti. İspanya, Luis de la Fuente'nin sözleşmesini uzattı. Mohamed Salah'a İngiltere'de şok ceza! 6 ay araç kullanamayacak. Sahte Covid-19 aşısı itirafında bulunan Granit Xhaka'ya hapis şoku! 'Derin bir güvensizlik hissetmiştim! Hataydı, özür dilerim'. 17.75 Ganyan Buldu! Yapay Zeka Yazarı Mislington 100.975 TL Kazandırdı!. İzmir'in altın kardeşleri. Beşiktaş'tan transfer hamlesi! 20 milyon Euro.",
+      "text": "Fenerbahçe Kadın Basketbol Takımı'nda Meesseman'ın sözleşmesi uzatıldı!. Ümit Milli Takım'da Ukrayna ve Macaristan maçı mesaisi başladı!. A Milli Futbol Takımı, Fransa maçının hazırlıklarına başladı!. Süper Lig'de VAR kayıtları açıklandı! Ugochukwu'nın kırmızısı ve Beşiktaş'ın penaltısı... Şenol Kazancı'dan, TFF Başkanı Hacıosmanoğlu'na Ziyaret!. Sergen Yalçın’dan Galatasaray’a sert eleştiri: 'Amatör takım öyle gol yemez!'. Galatasaray'dan flaş Okan Buruk açıklaması!.",
       "items": [
         {
-          "title": "Gençlik ve Spor Bakanı Dr. Osman Aşkın Bak’tan Turkcell’e nezaket ziyareti",
-          "summary": "Turkcell, Gençlik ve Spor Bakanı Dr. Osman Aşkın Bak’ı Genel Müdürlük binasında ağırladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclik-ve-spor-bakani-dr-osman-askin-baktan-turkcelle-nezaket-ziyareti-43314672"
+          "title": "Fenerbahçe Kadın Basketbol Takımı'nda Meesseman'ın sözleşmesi uzatıldı!",
+          "summary": "Fenerbahçe Kadın Basketbol Takımı, Emma Meesseman ile 1 yıllık yeni sözleşme imzaladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kadin-basketbol-takiminda-meessemanin-sozlesmesi-uzatildi-43314933"
         },
         {
-          "title": "İspanya, Luis de la Fuente'nin sözleşmesini uzattı",
-          "summary": "İspanya, Luis de la Fuente'nin görev süresini 2032'ye kadar uzattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ispanya-luis-de-la-fuentenin-sozlesmesini-uzatti-43314662"
+          "title": "Ümit Milli Takım'da Ukrayna ve Macaristan maçı mesaisi başladı!",
+          "summary": "Ümit Milli Futbol Takımı, Ukrayna ve Macaristan maçlarının hazırlıklarına başladı",
+          "source": "https://www.hurriyet.com.tr/sporarena/umit-milli-takimda-ukrayna-ve-macaristan-maci-mesaisi-basladi-43314930"
         },
         {
-          "title": "Mohamed Salah'a İngiltere'de şok ceza! 6 ay araç kullanamayacak",
-          "summary": "Trabzonspor'un Mısırlı yıldızı Mohamed Salah, İngiltere'de hız sınırını aşmasının ardından 6 ay süreyle araç kullanmaktan men edildi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/mohamed-salaha-ingilterede-sok-ceza-6-ay-arac-kullanamayacak-43314594"
+          "title": "A Milli Futbol Takımı, Fransa maçının hazırlıklarına başladı!",
+          "summary": "UEFA Uluslar A Ligi 1. Grup ilk maçında 25 Eylül Cuma günü saat 21.45'te Kocaeli'de Fransa'yı konuk edecek A Milli Futbol Takımı, mücadelenin hazırlıklarına başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimi-fransa-macinin-hazirliklarina-basladi-43314848"
         },
         {
-          "title": "Sahte Covid-19 aşısı itirafında bulunan Granit Xhaka'ya hapis şoku! 'Derin bir güvensizlik hissetmiştim! Hataydı, özür dilerim'",
-          "summary": "İngiltere'nin Sunderland takımında forma giyen İsviçreli orta saha oyuncusu Granit Xhaka'nın başı corona virüsü aşısı nedeniyle dertte.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sahte-covid-19-asisi-itirafinda-bulunan-granit-xhakaya-hapis-soku-derin-bir-guvensizlik-hissetmistim-hataydi-ozur-dilerim-43314578"
+          "title": "Süper Lig'de VAR kayıtları açıklandı! Ugochukwu'nın kırmızısı ve Beşiktaş'ın penaltısı...",
+          "summary": "Trendyol Süper Lig'de 6. haftanın VAR kayıtları yayınlandı. Türkiye Futbol Federasyonu Merkez Hakem Kurulu, kayıtları YouTube üzerinden yayına verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-var-kayitlari-aciklandi-ugochukwunin-kirmizisi-ve-besiktasin-penaltisi-43314842"
         },
         {
-          "title": "17.75 Ganyan Buldu! Yapay Zeka Yazarı Mislington 100.975 TL Kazandırdı!",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Cumartesi günü koşulan Diyarbakır 6’lı Ganyan koşularında yapay zeka yazarı Mislington, hazırladığı kuponla 100.975 TL kazandırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/17-75-ganyan-buldu-yapay-zeka-yazari-mislington-100-975-tl-kazandirdi-43314575"
+          "title": "Şenol Kazancı'dan, TFF Başkanı Hacıosmanoğlu'na Ziyaret!",
+          "summary": "Millî Takımlar ana sponsoru Turkcell'in Yönetim Kurulu Başkanı Şenol Kazancı, Türkiye Futbol Federasyonu Başkanı İbrahim Ethem Hacıosmanoğlu'nu makamında ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/senol-kazancidan-tff-baskani-haciosmanogluna-ziyaret-43314822"
         },
         {
-          "title": "İzmir'in altın kardeşleri",
-          "summary": "İzmir Büyükşehir Belediyesi Spor Kulübü’nün genç tekvandocuları Kaan ve Eda Yelaldı, Sırbistan’da düzenlenen Multi Taekwondo Avrupa Oyunları’ndan iki şampiyonlukla döndü.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmirin-altin-kardesleri-43314510"
+          "title": "Sergen Yalçın’dan Galatasaray’a sert eleştiri: 'Amatör takım öyle gol yemez!'",
+          "summary": "Sergen Yalçın, Trabzonspor’un Galatasaray karşısındaki 4-0’lık galibiyetini değerlendirirken sarı-kırmızılılara ve Okan Buruk'a birçok konuda dikkat çeken eleştirilerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcindan-galatasaraya-sert-elestiri-amator-takim-oyle-gol-yemez-43314811"
         },
         {
-          "title": "Beşiktaş'tan transfer hamlesi! 20 milyon Euro",
-          "summary": "Sezon başında futbol yapılanmasında yeni bir sayfa açan Beşiktaş, transferlerine bir yenisini daha eklemeye hazırlanıyor. Siyah beyazlılar bu bağlamda, 21 yaşındaki gurbetçi oyuncunun peşine düştü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-transfer-hamlesi-20-milyon-euro-43314483"
+          "title": "Galatasaray'dan flaş Okan Buruk açıklaması!",
+          "summary": "Galatasaray Başkanı Dursun Özbek, Teknik Direktör Okan Buruk'a destek mesajı paylaşarak, \"Okan Buruk yönetiminde dört yıldır nasıl inanç ve kararlılıkla yolumuza devam ettiysek, bundan sonra da aynı şekilde yolumuza devam edeceğiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-flas-okan-buruk-aciklamasi-43314796"
         }
       ]
     },
     "teknoloji": {
-      "text": "Gençlerden afet senaryolarına otonom çözüm. Geleceği Kodlayanlar programında yeni adım. 4 yapay zeka devine rekabet davası. Trump’tan yapay zeka için yeni isim önerisi. Gemini üç şirketi hackledi. Bakan Kacır: 8 proje için sözleşmeleri imzalayacağız. iPhone 18 Pro ve Pro Max Türkiye'de satışa çıktı.",
+      "text": "Google’ın yapay zekalı dizüstü bilgisayarı ön satışa çıktı. Gençlerden afet senaryolarına otonom çözüm: İHA ve yapay zeka TEKNOFEST’te görev başında. 4 yapay zeka devine rekabet davası. Gemini üç şirketi hackledi. iPhone 18 Pro ve Pro Max Türkiye'de satışa çıktı. Yapay zeka kontrolden çıkarsa fişi çekilebilir mi?. iPhone 18 Pro'yu düşürmenin bedeli ağır. Apple onarım ücretlerini açıkladı.",
       "items": [
         {
-          "title": "Gençlerden afet senaryolarına otonom çözüm",
-          "summary": "TEKNOFEST 2026 kapsamında düzenlenen İleri Otonom Sistemler Tasarım ve Operasyon Yarışması’nda gençler; insansız hava araçları, yapay zeka, görüntü işleme ve otonom sistem teknolojilerini bir araya getiriyor. 118 takımın başvurduğu yarışmada 30 takım final değerlendirme aşamasına katılmaya hak kazanırken, başarılı bulunan 20 takım final turuna yükselecek.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/genclerden-afet-senaryolarina-otonom-cozum-43314602"
+          "title": "Google’ın yapay zekalı dizüstü bilgisayarı ön satışa çıktı",
+          "summary": "Google, mayıs ayında tanıttığı yapay zeka odaklı dizüstü bilgisayarı Googlebook’u 899 dolardan ön siparişe açtı. Android işletim sistemiyle çalışan Googlebook’larda Chrome tarayıcısının masaüstü sürümü ile ChromeOS’tan tanıdık bazı özellikler bulunuyor. Ancak cihazın öne çıkan yönünü, Google’ın yapay zekâ modeli Gemini için geliştirilen yeni araçlar oluşturuyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-googlein-yapay-zekali-dizustu-bilgisayari-on-satisa-cikti-1742899"
         },
         {
-          "title": "Geleceği Kodlayanlar programında yeni adım",
-          "summary": "Çocukların teknoloji okuryazarlığını geliştirmek ve geleceğin yetkinliklerini erken yaşta kazanmalarını desteklemek amacıyla BSH Türkiye’nin, Kodluyoruz Derneği ile birlikte hayata geçirdiği Geleceği Kodlayanlar (Makers of Tomorrow) programına yeni bir adım ekleniyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/gelecegi-kodlayanlar-programinda-yeni-adim-43314588"
+          "title": "Gençlerden afet senaryolarına otonom çözüm: İHA ve yapay zeka TEKNOFEST’te görev başında",
+          "summary": "TEKNOFEST 2026'daki İleri Otonom Sistemler Tasarım ve Operasyon Yarışması’nda gençler; insansız hava araçları, yapay zeka, görüntü işleme ve otonom sistem teknolojilerini bir araya getiriyor. T.C. Sanayi ve Teknoloji Bakanlığı ve Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ana yürütücülüğünde düzenlenen TEKNOFEST 2026 kapsamında, Türk Havacılık ve Uzay Sanayii (TUSAŞ) yürütücülüğünde gerçekleştirilen İleri Otonom Sistemler Tasarım ve Operasyon Yarışması, gençleri geleceğin otonom teknolojilerini geliştirmek üzere bir",
+          "source": "https://www.ntv.com.tr/teknoloji/genclerden-afet-senaryolarina-otonom-cozum-iha-ve-yapay-zeka-teknofestte-gorev-basinda-1742837"
         },
         {
           "title": "4 yapay zeka devine rekabet davası",
@@ -182,24 +182,24 @@
           "source": "https://www.ntv.com.tr/teknoloji/4-yapay-zeka-devine-rekabet-davasi-1742631"
         },
         {
-          "title": "Trump’tan yapay zeka için yeni isim önerisi",
-          "summary": "Yapay zekanın gelişme hızına ilişkin tartışmalar sürerken, ABD Başkanı Donald Trump, \"yapay zeka\" isminin değiştirilmesini önerdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-yapay-zeka-icin-yeni-isim-onerisi-43312811"
-        },
-        {
           "title": "Gemini üç şirketi hackledi",
           "summary": "Google'ın yapay zeka modeli Gemini, siber güvenlik yeteneklerinin test edildiği sırada internete erişerek üç şirkete yönelik siber saldırı düzenledi. Yapay zekanın insanlık için oluşturabileceği tehlikelere ilişkin tartışmalar son haftalarda yeniden alevlenirken, Gemini bir ilke imza attı. Gemini, bağımsız bir siber güvenlik değerlendirme şirketi olan Irregular tarafından gerçekleştirilen bir test sırasında internete erişerek üç şirketin web sitesine siber saldırı yaptı.",
           "source": "https://www.ntv.com.tr/teknoloji/gemini-uc-sirketi-hackledi-1742487"
         },
         {
-          "title": "Bakan Kacır: 8 proje için sözleşmeleri imzalayacağız",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Güçlü üretim kabiliyetimiz ve sağlam altyapımızla, imalat sanayimizin katma değerini 41 milyar dolardan 250 milyar doların üzerine çıkardık. 36 milyar dolar seviyesinde olan yıllık ürün ihracatımızı 280 milyar dolara taşıdık. Türkiye'yi pek çok sektörde Avrupa'nın ve dünyanın önde gelen üretim merkezlerinden biri haline getirdik.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-8-proje-icin-sozlesmeleri-imzalayacagiz-43311682"
-        },
-        {
           "title": "iPhone 18 Pro ve Pro Max Türkiye'de satışa çıktı",
           "summary": "Apple'ın geçen hafta tanıttığı iPhone 18 Pro ve iPhone 18 Pro Max modelleri Türkiye'de satışa sunuldu. Apple, 9 Eylül 2026 tarihinde düzenlediği etkinlikte iPhone 18 Pro ve iPhone 18 Pro Max modellerini tanıttı. Modeller 512 GB, 1 TB ve 2 TB depolama seçenekleriyle de satışa sunuldu. Geçen yılki modellere kıyasla fiyatlarda 100’er dolar artış gözlemlendi. Yeni modellerin öne çıkan yeniliği, değişken diyaframlı 48 megapiksel ana kamera oldu.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-iphone-18-pro-ve-pro-max-turkiyede-satisa-cikti-1742394"
+        },
+        {
+          "title": "Yapay zeka kontrolden çıkarsa fişi çekilebilir mi?",
+          "summary": "Yapay zeka sistemleri için zorunlu bir ''acil kapatma mekanizması'' oluşturulması yeniden gündemde. Ancak uzmanlara göre dünyadaki bütün yapay zekayı durdurabilecek tek bir düğme bulunmuyor. Yapay zekanın insanlık için oluşturabileceği tehlikelere ilişkin tartışmalar son haftalarda yeniden alevlendi. Bazı araştırmacılar teknolojinin kontrolsüz gelişiminin ciddi riskler taşıdığını savunurken, yapay zeka şirketlerinin yöneticilerinden de geliştirme hızının düşürülmesi yönünde açıklamalar geldi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-kontrolden-cikarsa-fisi-cekilebilir-mi-1742316"
+        },
+        {
+          "title": "iPhone 18 Pro'yu düşürmenin bedeli ağır. Apple onarım ücretlerini açıkladı",
+          "summary": "Türkiye'de yarın satışa çıkacak iPhone 18 Pro ve iPhone 18 Pro Max modellerinin onarım ücretleri belli oldu. Bazı hasar türlerinde servis maliyetinin 97 bin TL'yi aştığı görüldü. Teknoloji devi Apple, yarın resmen satışına başlayacağı iPhone 18 Pro ve Pro Max modellerinin tamir ücretlerini paylaştı. Apple, ABD’nin Kaliforniya eyaletindeki merkezinde 9 Eylül 2026 tarihinde düzenlediği etkinlikte iPhone 18 Pro ve iPhone 18 Pro Max modellerini tanıttı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-iphone-18-proyu-dusurmenin-bedeli-agir-apple-onarim-ucretlerini-acikladi-1742267"
         }
       ]
     },
@@ -244,14 +244,8 @@
       ]
     },
     "magazin": {
-      "text": "Düğün sonrası ilk görüntü.",
-      "items": [
-        {
-          "title": "Düğün sonrası ilk görüntü",
-          "summary": "Ünlü şarkıcı Zeynep Bastık, 2 Eylül’de nikâh masasına oturduğu Serkay Tütüncü ile önceki gün Çeşme’de özel bir plajda görüntülendi.",
-          "source": "https://www.hurriyet.com.tr/kelebek/hayat/dugun-sonrasi-ilk-goruntu-43297613"
-        }
-      ]
+      "text": "",
+      "items": []
     }
   }
 }
