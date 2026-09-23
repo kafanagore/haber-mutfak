@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-22T16:00:03.594Z",
+  "generatedAt": "2026-09-23T04:00:03.509Z",
   "categories": {
     "gundem": {
-      "text": "AB ülkelerinden Rusya'ya yönelik yaptırımları uzatma kararı. Bodrum merkezli 5 ilde suç örgütüne operasyon: 12 gözaltı. Son dakika... Cumhurbaşkanı Erdoğan'dan BM'de önemli açıklamalar. Bayraktar TB3 SİHA’dan başarılı sonoboy atışı. Manisa’daki saldırıya ilişkin ilk açıklama. Manisa Turgutlu'da lisenin önünde silahlı saldırı: 3 öğrencinin durumu kritik. Bakan Bayraktar, ABD'de iş dünyası temsilcileri ve yatırımcılarla görüştü.",
+      "text": "Lastikçide başlayan yangın iş yerlerine sıçradı! 6 iş yeri zarar gördü. Esenyurt'ta iş yeri yangını. Lastikçi dükkanında çıktı, 5 iş yerine sıçradı. Çocuklarımıza neler oluyor? Şiddet eğilimi neden artıyor? Anne babalar bu belirtileri asla görmezden gelmemeli. Cumhurbaşkanı Erdoğan: BM görevini icra edemez halde. İstanbul'da sağanak etkili oldu. Devlet başkanları ve eşleri onuruna verilen davete katıldı. Bakan Fidan, İngiliz mevkidaşı ile görüştü.",
       "items": [
         {
-          "title": "AB ülkelerinden Rusya'ya yönelik yaptırımları uzatma kararı",
-          "summary": "Avrupa Birliği (AB) ülkeleri, iş insanları Alişer Usmanov ile Mihail Fridman’ın yaptırım listesinden çıkarılması, 3 binden fazla kişi ve kuruluşa yönelik kısıtlayıcı tedbirlerin ise 36 ay uzatılmasında anlaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ab-ulkelerinden-rusyaya-yonelik-yaptirimlari-uzatma-karari-43315917"
+          "title": "Lastikçide başlayan yangın iş yerlerine sıçradı! 6 iş yeri zarar gördü",
+          "summary": "Esenyurt'ta lastikçide başlayan yangın, 3 katlı yemek firması ile 4 farklı iş yerine sıçradı. İtfaiye ekipleri alevlere farklı noktalardan müdahale ederken, yangın sonrası 6 iş yerinde hasar oluştu.",
+          "source": "https://www.hurriyet.com.tr/gundem/lastikcide-baslayan-yangin-is-yerlerine-sicradi-6-is-yeri-zarar-gordu-43316124"
         },
         {
-          "title": "Bodrum merkezli 5 ilde suç örgütüne operasyon: 12 gözaltı",
-          "summary": "Muğla’nın Bodrum ilçesi merkezli 5 ilde organize suç örgütüne yönelik düzenlenen eş zamanlı operasyonda, aralarında örgüt elebaşının da bulunduğu 12 şüpheli gözaltına alındı. Şüphelilerin banka hesaplarında 619 milyon liralık hareketlilik tespit edilirken, adreslerinde yapılan aramalarda çok sayıda senet, silah ve mühimmat ele geçirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bodrum-merkezli-5-ilde-suc-orgutune-operasyon-12-gozalti-43315910"
+          "title": "Esenyurt'ta iş yeri yangını. Lastikçi dükkanında çıktı, 5 iş yerine sıçradı",
+          "summary": "İstanbul Esenyurt'ta oto lastikçi dükkanında çıkan yangın, bitişikte bulunan 4 iş yeri ile bir yemek şirketine sıçradı. Yangın, Yeşilkent Mahallesi Nazım Hikmet Bulvarı üzerinde bulunan iş yerlerinde gece saat 02.30 sıralarında meydana geldi. Edinilen bilgiye göre, bitişik nizamda bulunan iş yerlerinden oto lastikçi dükkanında henüz bilinmeyen nedenle alevler yükseldi. Alevler kısa sürede büyüyerek 4 dükkana daha ve bir yemek şirketine sıçradı.",
+          "source": "https://www.ntv.com.tr/turkiye/esenyurtta-is-yeri-yangini-lastikci-dukkaninda-cikti-5-is-yerine-sicradi-1743054"
         },
         {
-          "title": "Son dakika... Cumhurbaşkanı Erdoğan'dan BM'de önemli açıklamalar",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) Genel Kurulu'nun 81. oturumunda dünya liderlerine hitap ediyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-bmde-onemli-aciklamalar-43315907"
+          "title": "Çocuklarımıza neler oluyor? Şiddet eğilimi neden artıyor? Anne babalar bu belirtileri asla görmezden gelmemeli",
+          "summary": "Şanlıurfa ve Kahramanmaraş’tan sonra şimdi de Manisa’daki okul saldırısı, gözleri bir kez daha çocuk ve ergenlerde artan şiddet eğilimine çevirdi. Ağır şiddet davranışlarının çoğu zaman bir gecede ortaya çıkmadığını belirten uzmanlar, anne babaları çocuklardaki davranış ve duygu değişikliklerini yakından takip etmeleri konusunda uyarıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/cocuklarimiza-neler-oluyor-siddet-egilimi-neden-artiyor-anne-babalar-bu-belirtileri-asla-gormezden-gelmemeli-43315644"
         },
         {
-          "title": "Bayraktar TB3 SİHA’dan başarılı sonoboy atışı",
-          "summary": "Denizkurdu Tatbikatı kapsamında TCG Anadolu'dan havalanan Bayraktar TB3, Baykar SAS POD ile gerçekleştirdiği sonoboy atış testini başarıyla tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bayraktar-tb3-sihadan-basarili-sonoboy-atisi-43315903"
+          "title": "Cumhurbaşkanı Erdoğan: BM görevini icra edemez halde",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 81'ncisi düzenlenen Birleşmiş Milletler Genel Kurulu'na hitap etti. Erdoğan konuşmasında BM'nin görevini icra edemez hale geldiğini söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-cumhurbaskani-erdogan-bm-gorevini-icra-edemez-halde-1743055"
         },
         {
-          "title": "Manisa’daki saldırıya ilişkin ilk açıklama",
-          "summary": "Cumhurbaşkanı Erdoğan, Manisa’nın Turgutlu ilçesinde meydana gelen olayda yaralanan 11 çocuk ile olaydan etkilenenlere geçmiş olsun dileklerini ileterek, “Bu müessif hadise, ilgili birimlerimiz tarafından titizlikle soruşturulmaktadır. Emniyet birimlerimiz, gereken tüm tedbirleri almaktadır.” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-manisadaki-saldiriya-iliskin-ilk-aciklama-43315902"
+          "title": "İstanbul'da sağanak etkili oldu",
+          "summary": "İstanbul'da akşam saatlerinde başlayan sağanak etkisini arttırdı. Taksim Meydanı ve Yenibosna'da yağışa hazırlıksız yakalananlar çöp poşeti ve şemsiyelerle korunmaya çalıştı. Sağanak gece boyunca devem etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-saganak-etkili-oldu-43316123"
         },
         {
-          "title": "Manisa Turgutlu'da lisenin önünde silahlı saldırı: 3 öğrencinin durumu kritik",
-          "summary": "Manisa'da bir lisenin önünde silahlı saldırı düzenlendi. Olayda üçü ağır 11 öğrenci yaralandı. İçişleri Bakanı Mustafa Çiftçi, \"Saldırının gerçekleştiği okul birinci derece riskli okuldu.\" dedi. Manisa'nın Turgutlu ilçesinde bir lisenin önünde silahlı saldırı düzenlendi. Olay, İnci Üzmez Mesleki ve Teknik Anadolu Lisesi'nde sabah saat 08.00 sıralarında gerçekleşti. 22 Eylül 2026 tarihinde gerçekleşen saldırıda, saldırganın okulun dokuzuncu sınıf öğrencisi H.O. olduğu anlaşıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-manisa-turgutluda-lisenin-onunde-silahli-saldiri-3-ogrencinin-durumu-kritik-1742937"
+          "title": "Devlet başkanları ve eşleri onuruna verilen davete katıldı",
+          "summary": "Cumhurbaşkanı Erdoğan, devlet başkanları ve eşleri onuruna verilen davete katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/devlet-baskanlari-ve-esleri-onuruna-verilen-davete-katildi-43316122"
         },
         {
-          "title": "Bakan Bayraktar, ABD'de iş dünyası temsilcileri ve yatırımcılarla görüştü",
-          "summary": "ENERJİ ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, ABD'nin New York kentinde düzenlenen yuvarlak masa toplantısında farklı sektörlerden iş dünyası temsilcileri ve yatırımcılarla bir araya geldi. Bakan Bayraktar, Türkiye'nin güçlü altyapısını, gelişmiş enerji piyasasını ve stratejik konumuyla bölgesel enerji ticaretinde üstlendiği rolü değerlendirdiklerini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-bayraktar-abdde-is-dunyasi-temsilcileri-ve-yatirimcilarla-gorustu-43315898"
+          "title": "Bakan Fidan, İngiliz mevkidaşı ile görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Birleşik Krallık Dışişleri Bakanı Ed Miliband ile görüştü. Dışişleri Bakanı Hakan Fidan Birleşmiş Milletler (BM) 81. Genel Kurulu için geldiği New York’ta temaslarını sürdürüyor. Bakan Fidan, temasları kapsamında Birleşik Krallık Dışişleri Bakanı Ed Miliband ile New York’ta bir araya geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-fidan-ingiliz-mevkidasi-ile-gorustu-1743051"
         }
       ]
     },
     "dunya": {
-      "text": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'nda konuşuyor. Almanya'da ABD Hava Üssünden kalkan F-16 savaş uşağı düştü. Almanya'daki Spangdahlem ABD Hava Üssü'nden kalkan bir F-16 düştü. Trump, BM'de konuştu: ''İran'la anlaşma seçimden sonra olabilir''. Trump’tan BM’de flaş açıklamalar: İran’ın nükleer silahı olmayacak. Trump'tan diplomasiye yeşil ışık: Görüşmeye hazır. BM'nin 81. Genel Kurulu’nun yüksek düzeyli katılım haftası başladı.",
+      "text": "Suriye Cumhurbaşkanı Şara: Suriye topraklarının işgal altında olması bir barış değildir. Ahmed Şara'nın koltuk değişimi alkış aldı. Cumhurbaşkanı Erdoğan ABD'de diplomasi trafiğini sürdürüyor. Fransa Cumhurbaşkanı Macron: Gazze'deki durum utanç verici. Cumhurbaşkanı Erdoğan'dan BM Genel Kurulu'nda Gazze çağrısı. \"İsrail üzerinde baskı kurun\". ABD ile İran masaya döndü. Heyetler 3 saat görüştü. Trump: Erdoğan çok çetin birisi ve dostum.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'nda konuşuyor",
-          "summary": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'nda hitapta bulunuyor. Cumhurbaşkanı Recep Tayyip Erdoğan, 16. kez 81. Genel Kurulu'nda dünya liderlerine sesleniyor. Cumhurbaşkanı Erdoğan'ın açıklamalarından öne çıkanlar: BM 81. Genel Kurulu tüm insanlık için hayırlara vesile olsun. Öncelikle bir üzüntümü ifade etmek isterim. Sayın Mahmud Abbas 2 yıldır bu salonda yer alamıyor. Filistinli kardeşlerimize yönelik bu haksızlık vicdanları yaralamaktadır.",
+          "title": "Suriye Cumhurbaşkanı Şara: Suriye topraklarının işgal altında olması bir barış değildir",
+          "summary": "Suriye Cumhurbaşkanı Ahmed Şara, İsrail ile kalıcı bir barış için çalıştıklarını belirterek \"Suriye topraklarının işgal altında olması bir barış değildir.\" dedi. Ahmed Şara, Birleşmiş Milletler 81. Genel Kurulu için geldiği New York’ta Atlantic Council isimli düşünce kuruluşunda eski Beyaz Saray Orta Doğu Özel Temsilcisi Brett McGurk'ün moderatörlüğündeki panelde konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/suriye-cumhurbaskani-sara-suriye-topraklarinin-isgal-altinda-olmasi-bir-baris-degildir-1743052"
+        },
+        {
+          "title": "Ahmed Şara'nın koltuk değişimi alkış aldı",
+          "summary": "New York’ta Suriye toplumunun temsilcileriyle bir araya gel Suriye Cumhurbaşkanı Ahmed Şara, salondakilerin sandalyede oturduğunu görünce, koltuğundan kalktı kendisi de bir sandalyeye oturdu.",
+          "source": "https://www.ntv.com.tr/dunya/video-ahmed-saranin-koltuk-degisimi-alkis-aldi-1743053"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan ABD'de diplomasi trafiğini sürdürüyor",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, BM Genel Kurulu'ndaki hitabının ardından diplomatik temaslarını sürdürdü. Cumhurbaşkanı Erdoğan, BM Genel Kurul Salonu'nda BM'nin 81. Genel Kurul görüşmelerinde katılımcılara hitabının ardından Birleşmiş Milletler Genel Sekreteri Antonio Guterres ile görüştü. BM Genel Merkezi'ndeki görüşmede, Cumhurbaşkanı Erdoğan, BM 81. Genel Kurulu'na ilişkin hazırlanan defteri de imzaladı. Cumhurbaşkanı Erdoğan'ın Guterres ile görüşmesinde bölgesel ve küresel konular ele alındı.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-bm-genel-sekreteri-guterres-ile-gorustu-1743034"
+        },
+        {
+          "title": "Fransa Cumhurbaşkanı Macron: Gazze'deki durum utanç verici",
+          "summary": "Fransa Cumhurbaşkanı Emmanuel Macron Birleşmiş Milletler Genel Kurulu'ndaki konuşmasında Gazze'de yaşananlardan utanç duyduğunu söyledi. Nisan ayında görev süresi dolacak olan Fransa Cumhurbaşkanı Emmanuel Macron, Birleşmiş Milletler Genel Kurulu’na son kez hitap etti. Gündeminde Gazze olan Macron, barış ilan edilmesine karşın bölgeye insani yardımların ulaştırılmasının engellenmesini \"utanç verici\" olarak nitelendirirken, “Gazze konusunda harekete geçmezsek, güvenilirliğimizin ne değeri kalır ki?",
+          "source": "https://www.ntv.com.tr/dunya/fransa-cumhurbaskani-macron-gazzedeki-durum-utanc-verici-1743049"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan BM Genel Kurulu'nda Gazze çağrısı. \"İsrail üzerinde baskı kurun\"",
+          "summary": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'nda yaptığı konuşmada Gazze için çağrıda bulunarak, İsrail üzerinde daha fazla baskı kurulması gerektiğini belirtti. Cumhurbaşkanı Recep Tayyip Erdoğan, 81. BM Genel Kurulu'nda dünya liderlerine seslendi. Cumhurbaşkanı Erdoğan, konuşmasında Filistin konusunda mesajlar vererek dünyayı İsrail'e yönelik daha fazla baskı yapmaya davet etti. Gazze'de yeniden inşanın başlaması gerektiğinin altını çizdi.",
           "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-bm-genel-kurulunda-konusuyor-1743026"
         },
         {
-          "title": "Almanya'da ABD Hava Üssünden kalkan F-16 savaş uşağı düştü",
-          "summary": "Almanya'nın Rheinland-Pfalz eyaletindeki Spangdahlem ABD Hava Üssü'nden kalkan F-16 savaş uçağının düştüğü bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-abd-hava-ussunden-kalkan-f-16-savas-usagi-dustu-43315901"
+          "title": "ABD ile İran masaya döndü. Heyetler 3 saat görüştü",
+          "summary": "ABD Başkanı Donald Trump, ABD ve İran heyetlerinin BM Genel Kurulu kapsamında New York'ta üç saat süren bir görüşme gerçekleştirdiğini açıkladı. ABD Başkanı Donald Trump, gazetecilere yaptığı açıklamada ABD'li yetkililer ile İran heyetinin yaklaşık üç saat süren görüşmesini \"çok iyi\" ve \"verimli\" olarak nitelendirdi. Trump, ABD heyetinde Özel Temsilci Steve Witkoff ile damadı ve eski danışmanı Jared Kushner'ın da yer aldığını doğruladı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-ile-iran-masaya-dondu-heyetler-3-saat-gorustu-1743044"
         },
         {
-          "title": "Almanya'daki Spangdahlem ABD Hava Üssü'nden kalkan bir F-16 düştü",
-          "summary": "Almanya'nın Rheinland-Pfalz eyaletindeki Spangdahlem ABD Hava Üssü'nden kalkan F-16 savaş uçağının düştüğü bildirildi. Spangdahlem'deki ABD Hava Üssü'nden yapılan açıklamada, üsten kalkan bir F-16'nın yerel saatle 14.30 sıralarında düştüğü ve pilotun güvenli bir şekilde fırlatma koltuğunu kullanarak uçağı terk ettiği ifade edildi. Yaralanan pilotun hastanede tedavi altına alındığı belirtildi. Açıklamada, \"Kazanın nedeni araştırılıyor.",
-          "source": "https://www.ntv.com.tr/dunya/almanyadaki-spangdahlem-abd-hava-ussunden-kalkan-bir-f-16-dustu-1743028"
-        },
-        {
-          "title": "Trump, BM'de konuştu: ''İran'la anlaşma seçimden sonra olabilir''",
-          "summary": "ABD Başkanı Donald Trump, ''İran üzerindeki baskıyı sürdürme konusunda birlik olmalıyız.'' dedi. ABD Başkanı Donald Trump, Birleşmiş Milletler'in 81. Genel Kurulu'nda dünya liderlerine seslendi. Trump, 38 dakika süren konuşmasının başlangıcında ''ABD geri döndü ve hiç olmadığı kadar güçlüyüz.'' dedi. İran'ı ''Terörü durdurmayı reddettiler, nükleer silaha ulaşmaya çalışıyorlardı.'' sözleriyle hedef alan Trump, ülkesindeki ara seçimler sonrasında Tahran ile bir anlaşma olabileceğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-bmde-konusuyor-iranla-anlasma-secimden-sonra-olabilir-1743023"
-        },
-        {
-          "title": "Trump’tan BM’de flaş açıklamalar: İran’ın nükleer silahı olmayacak",
-          "summary": "ABD Başkanı Donald Trump, BMGK oturumunda konuştu. Trump, \"ABD geri döndü. Ülkemiz bugün, şimdiye kadarkinden daha güçlü. Ekonomimiz, enerjimiz, ordumuz en güçlü durumda ve geleceğimiz çok parlak.\" ifadesini kullandı. Trump, İran'a yönelik sert sözler kullanırken \"İran nükleer silaha sahip olamayacak\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-43315664"
-        },
-        {
-          "title": "Trump'tan diplomasiye yeşil ışık: Görüşmeye hazır",
-          "summary": "ABD Başkanı Donald Trump, İran Cumhurbaşkanı Mesud Pezeşkiyan ile görüşme ihtimaline açık olduğunu belirtti. Dışişleri Bakanı Marco Rubio da şu anda planlanmış bir görüşme bulunmadığını ancak Trump yönetiminin böyle bir temasa \"kesinlikle açık\" olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-diplomasiye-yesil-isik-gorusmeye-hazir-43315788"
-        },
-        {
-          "title": "BM'nin 81. Genel Kurulu’nun yüksek düzeyli katılım haftası başladı",
-          "summary": "Birleşmiş Milletler (BM) üyesi ülkelerin liderlerini bir araya getiren BM'nin 81. Genel Kurulu'nun yüksek düzeyli katılım haftası başladı. 193 üyeli BM'nin New York'taki Genel Merkezi'nde devlet ve hükümet liderleri ile dışişleri bakanları, küresel gündemin öne çıkan başlıklarını 22-28 Eylül tarihleri arasında Genel Kurul kürsüsünden değerlendirecek. \"Güveni yeniden tesis etmek, dönüşümü yönetmek: Herkes için sonuç üreten bir BM” temasıyla gerçekleştirilen 81.",
-          "source": "https://www.ntv.com.tr/dunya/bmnin-81-genel-kurulunun-yuksek-duzeyli-katilim-haftasi-basladi-1743020"
+          "title": "Trump: Erdoğan çok çetin birisi ve dostum",
+          "summary": "ABD Başkanı Donald Trump, Körfez ülkeleriyle düzenlediği zirvede ''Erdoğan çok çetin birisi ve dostum.'' dedi. BM Genel Kurulu sürerken, ABD Başkanı Donald Trump'ın ev sahipliğinde Körfez İşbirliği Konseyi (KİK) üyesi ülke liderlerinin ve Cumhurbaşkanı Recep Tayyip Erdoğan'ın katıldığı İran konulu bir toplantı düzenlendi. ABD Başkanı Trump, geçen yıl yine BM marjında bölge ülkeleriyle bir araya gelerek Gazze konusunda önemli adımlar attıklarını ve bölgedeki krizi sona erdirmek için çaba gösterdiklerini hatırlattı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-erdogan-cok-cetin-birisi-ve-dostum-1743042"
         }
       ]
     },
@@ -124,8 +124,28 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçeli kadınlar locada ağırlandı. Galatasay'da ağır bilanço: 80 milyon harcandı, 60 sezonun en kötüsü!. Amedspor Başkanı Nahit Eren: 122 bin insan ilk 10 dakikada bilet almak istedi'. Galatasaray, Kasımpaşa maçının hazırlıklarını sürdürdü. Galatasaray'da Singo gelişmesi! Sahalara dönüş tarihi belli oldu. Skriniar'dan Fenerbahçe itirafı: Devasa bir kulüp! İşler çılgınca. Boluspor'da Daniel Farrar dönemi sona erdi.",
+      "text": "Sarunas Jasikevicius: 'Beşiktaş'a karşı kazanmak zor!'. Alvaro Negredo'dan Beşiktaş itirafı: 'Gözüm kapalı giderim!'. UEFA Uluslar Ligi 20 bin kez simüle edildi: A Milli Takım için dikkat çeken sonuç!. Fenerbahçe'nin tarihi galibiyetinde dikkat çeken İsmail Kartal detayı!. Fenerbahçeli kadınlar locada ağırlandı. Galatasay'da ağır bilanço: 80 milyon harcandı, 60 sezonun en kötüsü!. Amedspor Başkanı Nahit Eren: 122 bin insan ilk 10 dakikada bilet almak istedi'.",
       "items": [
+        {
+          "title": "Sarunas Jasikevicius: 'Beşiktaş'a karşı kazanmak zor!'",
+          "summary": "Erkekler Cumhurbaşkanlığı Kupası'nda Beşiktaş'ı 72-59 yenerek kupayı müzesine götüren Fenerbahçe Tarfin'in başantrenörü Sarunas Jasikevicius, siyah-beyazlı ekibe karşı oynamanın her zaman zor olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sarunas-jasikevicius-besiktasa-karsi-kazanmak-zor-43316039"
+        },
+        {
+          "title": "Alvaro Negredo'dan Beşiktaş itirafı: 'Gözüm kapalı giderim!'",
+          "summary": "Beşiktaş'ın eski golcüsü Alvaro Negredo, siyah-beyazlı kulüpte geçirdiği günler hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alvaro-negredodan-besiktas-itirafi-gozum-kapali-giderim-43315972"
+        },
+        {
+          "title": "UEFA Uluslar Ligi 20 bin kez simüle edildi: A Milli Takım için dikkat çeken sonuç!",
+          "summary": "Dünya Kupası'nın ardından A Milli Takım, UEFA Uluslar Ligi'nde boy gösterecek. Bizim Çocuklar'ın Fransa karşılaşmasıyla başlayacağı mücadele öncesinde turnuvanın tamamına ilişkin dikkat çeken bir simülasyon gerçekleştirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-uluslar-ligi-20-bin-kez-simule-edildi-a-milli-takim-icin-dikkat-ceken-sonuc-43315966"
+        },
+        {
+          "title": "Fenerbahçe'nin tarihi galibiyetinde dikkat çeken İsmail Kartal detayı!",
+          "summary": "Fenerbahçe'nin Eyüpspor'u 8-0 mağlup ettiği karşılaşmanın üzerinden günler geçerken, tarihi galibiyete ilişkin dikkat çeken bir istatistik ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-tarihi-galibiyetinde-dikkat-ceken-ismail-kartal-detayi-43315932"
+        },
         {
           "title": "Fenerbahçeli kadınlar locada ağırlandı",
           "summary": "Fenerbahçe Yüksek Divan Kurulu Üyesi Hürer Fethi Gündüz, Dünya Fenerbahçeli Kadınlar Günü’nde özel bir buluşmaya ev sahipliği yaptı.",
@@ -140,32 +160,22 @@
           "title": "Amedspor Başkanı Nahit Eren: 122 bin insan ilk 10 dakikada bilet almak istedi'",
           "summary": "Amed Sportif Faaliyetler Kulübü Başkanı Nahit Eren, bilet satışı sırasında ilk 10 dakika içinde 122 bin kişinin bilet almak için başvurduğunu bunun Passolig kurulduğu tarihten itibaren bir rekor olarak kayıtlara geçtiğini söyledi.",
           "source": "https://www.hurriyet.com.tr/sporarena/amedspor-baskani-nahit-eren-122-bin-insan-ilk-10-dakikada-bilet-almak-istedi-43315775"
-        },
-        {
-          "title": "Galatasaray, Kasımpaşa maçının hazırlıklarını sürdürdü",
-          "summary": "Galatasaray, 7. haftasında 9 Ekim Cuma günü Kasımpaşa iel oynayacağı maç öncesi hazırlıklarına devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kasimpasa-macinin-hazirliklarini-surdurdu-43315757"
-        },
-        {
-          "title": "Galatasaray'da Singo gelişmesi! Sahalara dönüş tarihi belli oldu",
-          "summary": "Üst üste yaşadığı sakatlıklar nedeniyle uzun süre formasından uzak kalan Galatasaray'ın Fildişili savunmacısı Wilfried Singo'nun bu ay sonunda sahalara dönmesi bekleniyor. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-singo-gelismesi-sahalara-donus-tarihi-belli-oldu-43315715"
-        },
-        {
-          "title": "Skriniar'dan Fenerbahçe itirafı: Devasa bir kulüp! İşler çılgınca",
-          "summary": "Fenerbahçe kaptanı Milan Skriniar, ülkesinin basınına konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/skriniardan-fenerbahce-itirafi-devasa-bir-kulup-isler-cilginca-43315661"
-        },
-        {
-          "title": "Boluspor'da Daniel Farrar dönemi sona erdi",
-          "summary": "1. Lig ekiplerinden Boluspor, ABD'li teknik direktör Daniel Farrar ile karşılıklı anlaşarak yollarını ayırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bolusporda-daniel-farrar-donemi-sona-erdi-43315694"
         }
       ]
     },
     "teknoloji": {
-      "text": "Google’ın yapay zekalı dizüstü bilgisayarı ön satışa çıktı. Gençlerden afet senaryolarına otonom çözüm. Geleceği Kodlayanlar programında yeni adım. 4 yapay zeka devine rekabet davası. Trump’tan yapay zeka için yeni isim önerisi. Gemini üç şirketi hackledi. Bakan Kacır: 8 proje için sözleşmeleri imzalayacağız.",
+      "text": "Meta’nın yapay zeka asistanında kritik açık: Saldırganlar bilgisayarın kontrolü ele geçirdi. Bayraktar TB3 SİHA'ya yeni kabiliyet. Google’ın yapay zekalı dizüstü bilgisayarı ön satışa çıktı. Gençlerden afet senaryolarına otonom çözüm. Geleceği Kodlayanlar programında yeni adım. 4 yapay zeka devine rekabet davası. Trump’tan yapay zeka için yeni isim önerisi.",
       "items": [
+        {
+          "title": "Meta’nın yapay zeka asistanında kritik açık: Saldırganlar bilgisayarın kontrolü ele geçirdi",
+          "summary": "Meta’nın geliştirdiği Muse yapay zeka asistanında, saldırganların kontrolü ele geçirdiği bir açık tespit edildi. Meta, açığı kapatan acil güncellemeyi yayımladı. Meta’nın kullanıcı adına işlemler gerçekleştirebilen kişisel yapay zeka asistanı Muse, ciddi bir güvenlik açığıyla gündeme geldi.",
+          "source": "https://www.ntv.com.tr/teknoloji/metanin-yapay-zeka-asistaninda-kritik-acik-saldirganlar-bilgisayarin-kontrolu-ele-gecirdi-1743057"
+        },
+        {
+          "title": "Bayraktar TB3 SİHA'ya yeni kabiliyet",
+          "summary": "Bayraktar TB3 SİHA, Denizkurdu Tatbikatı'nda sonoboy atış testini başarıyla tamamladı. Bayraktar TB3 SİHA (Silahlı İnsansız Hava Aracı), Denizkurdu-I/2026 Tatbikatı kapsamında TCG Anadolu’dan havalanarak gerçekleştirdiği görevle denizaltı savunma harbinde kritik bir kabiliyet sergiledi. Milli SİHA, Baykar tarafından milli ve özgün olarak geliştirilen Sonoboy Atım Sistemi (SAS POD) ile gerçekleştirdiği 2 adet sonoboy atış testini başarıyla tamamlarken deniz karakol uçağıyla da ortak operasyona imza attı.",
+          "source": "https://www.ntv.com.tr/teknoloji/bayraktar-tb3-sihadan-yeni-kabiliyet-1743033"
+        },
         {
           "title": "Google’ın yapay zekalı dizüstü bilgisayarı ön satışa çıktı",
           "summary": "Google, mayıs ayında tanıttığı yapay zeka odaklı dizüstü bilgisayarı Googlebook’u 899 dolardan ön siparişe açtı. Android işletim sistemiyle çalışan Googlebook’larda Chrome tarayıcısının masaüstü sürümü ile ChromeOS’tan tanıdık bazı özellikler bulunuyor. Ancak cihazın öne çıkan yönünü, Google’ın yapay zekâ modeli Gemini için geliştirilen yeni araçlar oluşturuyor.",
@@ -190,16 +200,6 @@
           "title": "Trump’tan yapay zeka için yeni isim önerisi",
           "summary": "Yapay zekanın gelişme hızına ilişkin tartışmalar sürerken, ABD Başkanı Donald Trump, \"yapay zeka\" isminin değiştirilmesini önerdi.",
           "source": "https://www.hurriyet.com.tr/dunya/trumptan-yapay-zeka-icin-yeni-isim-onerisi-43312811"
-        },
-        {
-          "title": "Gemini üç şirketi hackledi",
-          "summary": "Google'ın yapay zeka modeli Gemini, siber güvenlik yeteneklerinin test edildiği sırada internete erişerek üç şirkete yönelik siber saldırı düzenledi. Yapay zekanın insanlık için oluşturabileceği tehlikelere ilişkin tartışmalar son haftalarda yeniden alevlenirken, Gemini bir ilke imza attı. Gemini, bağımsız bir siber güvenlik değerlendirme şirketi olan Irregular tarafından gerçekleştirilen bir test sırasında internete erişerek üç şirketin web sitesine siber saldırı yaptı.",
-          "source": "https://www.ntv.com.tr/teknoloji/gemini-uc-sirketi-hackledi-1742487"
-        },
-        {
-          "title": "Bakan Kacır: 8 proje için sözleşmeleri imzalayacağız",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Güçlü üretim kabiliyetimiz ve sağlam altyapımızla, imalat sanayimizin katma değerini 41 milyar dolardan 250 milyar doların üzerine çıkardık. 36 milyar dolar seviyesinde olan yıllık ürün ihracatımızı 280 milyar dolara taşıdık. Türkiye'yi pek çok sektörde Avrupa'nın ve dünyanın önde gelen üretim merkezlerinden biri haline getirdik.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-8-proje-icin-sozlesmeleri-imzalayacagiz-43311682"
         }
       ]
     },
