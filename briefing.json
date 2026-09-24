@@ -1,51 +1,76 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-23T16:00:03.479Z",
+  "generatedAt": "2026-09-24T04:00:06.435Z",
   "categories": {
     "gundem": {
-      "text": "Balıkesir'de kahreden kaza! Hamile anne ve kızı öldü; ameliyata alınan kadının bebeği de kurtarılamadı. Doğu Perinçek 'Kozinoğlu soruşturması'nda ifade verdi. 20 bin lira sandı, 20 milyon kazandığını bayide öğrendi. Tera'nın değeri 1 yılda 280 milyar liraya nasıl ulaştı? Alkin kardeşlerin ifadeleri ortaya çıktı. Fatih'te şoke eden olay: Kayıp olarak aranıyordu, hırsızlık şüphelisi çıktı. Düzce'de \"insanlık ölmemiş\" dedirten olay: Parayı kameraya gösterip bıraktılar. Ankara'da şüpheli ölüm: Çalışır vaziyetteki otomobilde 2 cansız beden bulundu.",
+      "text": "Fon soruşturmasında yeni gelişme. 14 kişi tutuklandı. Çin Devlet Başkanı Şi, ABD ziyaretine başladı. Etimesgut’ta apartman dairesinde yangın! Vatandaşlar tahliye edildi. Cumhurbaşkanı Erdoğan: Entegrasyona evet, asimilasyonun her çeşidine hayır diyoruz. Kars’ta seyir halindeki tır alev alev yandı: Şoför son anda kurtuldu. SPK'dan 3 gerçek ve 1 tüzel kişiye 71 milyon lira idari para cezası. Cumhurbaşkanı Erdoğan'dan New York'ta diplomasi trafiği. Irak ile kritik mutabakat.",
       "items": [
         {
-          "title": "Balıkesir'de kahreden kaza! Hamile anne ve kızı öldü; ameliyata alınan kadının bebeği de kurtarılamadı",
-          "summary": "Balıkesir’in Bandırma ilçesinde sürücüsünün direksiyon hakimiyetini kaybettiği otomobil, refüjü aşarak karşı yönden gelen kamyonun altına girdi. Kazada, hamile olan ve doğuma 2 hata kaldığı öğrenilen otomobil sürücüsü Merve Turan ile kızı Ahsen Turan (3) hayatını kaybetti. Ameliyata alınan Merve Turan’ın bebeğinin de hayatını kaybettiği öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/balikesirde-kahreden-kaza-hamile-anne-ve-kizi-oldu-ameliyata-alinan-kadinin-bebegi-de-kurtarilamadi-43317215"
+          "title": "Fon soruşturmasında yeni gelişme. 14 kişi tutuklandı",
+          "summary": "Fon soruşturmasında gözaltına alınan tutuklamaya sevk edilen 20 kişiden 14'ü tutuklandı. Sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar sürüyor. Soruşturma kapsamında gözaltına alınan 20 şüpheli tutuklama istemiyle sulh ceza hakimliğine sevk edildi. Tutuklama talep edilen 20 şüpheliden 14'ü tutuklandı. 3 şüpheli hakkında ise adli kontrol tedbiri uygulanmasına karar verdi.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-17-kisi-hakkinda-tutuklama-talebi-1743182"
         },
         {
-          "title": "Doğu Perinçek 'Kozinoğlu soruşturması'nda ifade verdi.",
-          "summary": "Vatan Partisi Genel Başkanı Doğu Perinçek, Kaşif Kozinoğlu soruşturması kapsamında bilgi sahibi sıfatıyla ifade verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/dogu-perincek-kozinoglu-sorusturmasinda-ifade-verdi-43317214"
+          "title": "Çin Devlet Başkanı Şi, ABD ziyaretine başladı",
+          "summary": "Çin Devlet Başkanı Şi Cinping'in, 11 yıl aradan sonra ABD'ye yaptığı resmi ziyaret için bu ülkeye ulaştığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cin-devlet-baskani-si-abd-ziyaretine-basladi-43317472"
         },
         {
-          "title": "20 bin lira sandı, 20 milyon kazandığını bayide öğrendi",
-          "summary": "İzmir'de Kazı-Kazan'dan 20 bin lira kazandığını zanneden kişi, 20 milyon lira kazandığını bayiden öğrendi. İzmir'in Çiğli ilçesinde Küçük Çiğli Mahallesi’nde 5 yıldır hizmet veren Milli Piyango bayisinde 14 Eylül tarihinde oynanan Kazı Kazan Elmas kartı büyük ikramiye kazandırdı. Kazı Kazan oyunlarından Elmas kartını alan talihli, kartı kazımasının ardından 20 milyon TL’lik büyük ikramiyeyi kazandı. Talihliye büyük ikramiyeyi kazandıran bayi Küçük Çiğli Mahallesi’nde bulunan Adıbelli Tekel oldu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-20-bin-lira-sandi-20-milyon-lira-kazandigini-bayide-ogrendi-1743178"
+          "title": "Etimesgut’ta apartman dairesinde yangın! Vatandaşlar tahliye edildi",
+          "summary": "Ankara’nın Etimesgut ilçesinde bir sitede bulunan apartman dairesinde çıkan yangın sonucunda vatandaşlar binadan tahliye edildi. İtfaiye ekiplerinin müdahalesi sonucunda yangın kontrol altına alınarak söndürüldü.",
+          "source": "https://www.hurriyet.com.tr/gundem/etimesgutta-apartman-dairesinde-yangin-vatandaslar-tahliye-edildi-43317471"
         },
         {
-          "title": "Tera'nın değeri 1 yılda 280 milyar liraya nasıl ulaştı? Alkin kardeşlerin ifadeleri ortaya çıktı",
-          "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında tutuklanan Tera Grubu şirketlerinde bağımsız yönetim kurulu üyeliği yapan Kerem Alkin ile Emre Alkin’in ifadeleri ortaya çıktı. Savcılık, Tera Yatırım’ın yaklaşık 1,4 milyar lira olan piyasa değerinin bir yıl içinde 280 milyar liraya ulaşmasının nedenini ve peş peşe gelen istifalarının ardından yaşanan fon kriziyle bu ayrılıkların bağlantısı olup olmadığını sordu.",
-          "source": "https://www.hurriyet.com.tr/gundem/teranin-degeri-1-yilda-280-milyar-liraya-nasil-ulasti-alkin-kardeslerin-ifadeleri-ortaya-cikti-43317184"
+          "title": "Cumhurbaşkanı Erdoğan: Entegrasyona evet, asimilasyonun her çeşidine hayır diyoruz",
+          "summary": "Cumhurbaşkanı Erdoğan, New York'ta TASC, UID, MÜSİAD ve USCMO tarafından düzenlenen Türk-Amerikan Ulusal Yönlendirme Komitesi Toplantısı'nda konuştu. Erdoğan, \"Dünyanın birçok bölgesinde maalesef sorunlar yaşanıyor. Müslümanlardan entegre olmaları değil asimile olmaları bekleniyor. Biz ise entegrasyona evet, asimilasyonun her çeşidine hayır diyoruz.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-turk-amerikan-ulusal-yonlendirme-komitesi-toplantisinda-konusuyor-43317470"
         },
         {
-          "title": "Fatih'te şoke eden olay: Kayıp olarak aranıyordu, hırsızlık şüphelisi çıktı",
-          "summary": "İstanbul’da kayıp olarak aranırken şüphe üzerine durdurulan M.R.B.'nin, bir iş yerindeki hırsızlık olayının şüphelisi olduğu belirlendi. Gözaltına alınan M.R.B., sevk edildiği mahkemece tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/fatihte-soke-eden-olay-kayip-olarak-araniyordu-hirsizlik-suphelisi-cikti-43317150"
+          "title": "Kars’ta seyir halindeki tır alev alev yandı: Şoför son anda kurtuldu",
+          "summary": "Kars’ta seyir halindeki tır, henüz belirlenemeyen bir nedenle alev aldı. Yangını fark eden sürücü, kendisini son anda araçtan dışarı atarak kurtardı.",
+          "source": "https://www.hurriyet.com.tr/gundem/karsta-seyir-halindeki-tir-alev-alev-yandi-sofor-son-anda-kurtuldu-43317469"
         },
         {
-          "title": "Düzce'de \"insanlık ölmemiş\" dedirten olay: Parayı kameraya gösterip bıraktılar",
-          "summary": "Düzce’nin Gölyaka ilçesinde gece saatlerinde açık buldukları marketten 2 ekmek alan gençler, içeride kimseyi bulamayınca ekmeğin parasını güvenlik kamerasına gösterip dolaba bıraktı. O anlar iş yerinin güvenlik kamerasına saniye saniye yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/duzcede-insanlik-olmemis-dedirten-olay-parayi-kameraya-gosterip-biraktilar-43317134"
+          "title": "SPK'dan 3 gerçek ve 1 tüzel kişiye 71 milyon lira idari para cezası",
+          "summary": "Sermaye Piyasası Kurulu (SPK), 23 Eylül 2026 tarihli bülteninde 3 gerçek ve 1 tüzel kişiye toplam 71 milyon 26 bin 385 lira idari para cezası uygulanmasına karar verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/spkdan-3-gercek-ve-1-tuzel-kisiye-71-milyon-lira-idari-para-cezasi-43317468"
         },
         {
-          "title": "Ankara'da şüpheli ölüm: Çalışır vaziyetteki otomobilde 2 cansız beden bulundu",
-          "summary": "Ankara’nın Çubuk ilçesinde, akaryakıt istasyonunda çalışır vaziyetteki otomobilde hareketsiz duran 2 kişinin hayatını kaybettiği belirlendi. Olay yerine sevk edilen ekiplerin ilk incelemelerinde herhangi bir kesici alet ya da silah izine rastlanmazken, cenazeler otopsi için hastane morguna kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-calisir-vaziyetteki-otomobilde-2-cansiz-beden-bulundu-43317117"
+          "title": "Cumhurbaşkanı Erdoğan'dan New York'ta diplomasi trafiği. Irak ile kritik mutabakat",
+          "summary": "Cumhurbaşkanı Erdoğan'ın Irak lideri Zeydi ile vardığı mutabakat terörsüz Türkiye açısından kritik öneme sahip. Uzlaşı, Türkiye'nin önemli sınır sorununu ortadan kaldırıyor. Cumhurbaşkanı Recep Tayyip Erdoğan, BM 81. Genel Kurulu kapsamında bulunduğu New York’ta temaslarını sürdürüyor. Erdoğan, Türkevi’ndeki temasları kapsamında ilk olarak Ermenistan Başbakanı Nikol Paşinyan ile bir araya geldi. IRAK İLE GÖRÜŞME SONRASI ORTAK BASIN AÇIKLAMA Cumhurbaşkanı Erdoğan daha sonra Irak Başbakanı Ali ez-Zeydi ile görüştü.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-new-yorkta-diplomasi-trafigi-irak-ile-kritik-mutabakat-1743190"
         }
       ]
     },
     "dunya": {
-      "text": "Rubio: Moskova ve Kiev sınırlı ateşkese sıcak bakıyor. İran Cumhurbaşkanı Pezeşkiyan'dan Trump'a yanıt: Asıl biz terör mağduruyuz, asla diz çökmeyeceğiz. İran lideri Pezeşkiyan New York'ta rest çekti: Soykırımı işliyorlar bize terörist diyorlar. \"Acemi hırsızlar\" bankaya giremeyince, Türk kuaförü soydu. 16 milyon sterlinlik İngiliz jeti yere çakıldı. Rusya'da ayı saldırılarına soruşturma. Sayıları 300 bini aştı. Polonya Cumhurbaşkanı açıkladı. ABD üssünün adı \"Fort Trump\" olacak.",
+      "text": "64 yıl sonra bir ilk. Trump, Şi'yi uçağın kapısında karşıladı. Cumhurbaşkanı Erdoğan'dan iklim mesajı. \"Artık kaybedecek vaktimiz kalmadı\". Tom Barrack NTV'ye konuştu: ''Türkiye ile ABD arasında işbirliği elzem''. Ryanair yöneticisi uyardı: ''Gelecek yaz Avrupa'da uçak bileti fiyatları artacak''. Barış Kurulu, Gazze için 2,45 milyar dolarlık \"yeniden inşa\" planını duyurdu. Rubio: Moskova ve Kiev sınırlı ateşkese sıcak bakıyor. İran Cumhurbaşkanı Pezeşkiyan'dan Trump'a yanıt: Asıl biz terör mağduruyuz, asla diz çökmeyeceğiz.",
       "items": [
+        {
+          "title": "64 yıl sonra bir ilk. Trump, Şi'yi uçağın kapısında karşıladı",
+          "summary": "ABD Başkanı Donald Trump, 64 yıl sonra bir ilke imza attı. Trump resmi ziyaret için ülkeye giden Çin lideri Şi Cinping'i Andrews Hava Üssü'nde uçağının kapısında görkemli bir törenle karşıladı. EN SON KENNEDY YAPMIŞTI Çin Devlet Başkanı Şi Cinping, 3 yıl sonra ilk kez ABD'ye gitti. 2023'te eski başkan Joe Biden'la görüşen Şi'yi taşıyan uçak, Maryland'deki Air Force One'ın da konuşlandığı Andrews Hava Üssü'ne indi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-64-yil-sonra-bir-ilk-trump-siyi-ucagin-kapisinda-karsiladi-1743200"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan iklim mesajı. \"Artık kaybedecek vaktimiz kalmadı\"",
+          "summary": "Cumhurbaşkanı Erdoğan, BM İklim Zirvesi'ndeki konuşmasında Nepal'deki felaketi hatırlatarak, \"Bu artık kaybedecek vaktimiz olmadığını çok acı bir şekilde gösterdi\" dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, BM İklim Zirvesi'nde açıklamalarda bulundu. Son bir yılın kayıtlara geçen en sıcak dönem olduğunun altını çizen Erdoğan, “Nepal'de meydana gelen sel felaketi, artık kaybedecek vaktimiz olmadığını çok acı bir şekilde gösterdi.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogandan-iklim-mesaji-artik-kaybedecek-vaktimiz-kalmadi-1743194"
+        },
+        {
+          "title": "Tom Barrack NTV'ye konuştu: ''Türkiye ile ABD arasında işbirliği elzem''",
+          "summary": "ABD’nin Ankara Büyükelçisi Tom Barrack, Türkiye ile ABD arasındaki savunma işbirliğinin elzem olduğunu söyledi. ABD’nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack, Türkiye-ABD ilişkileri, S-400 meselesi ve bölgesel güvenlik konularına ilişkin NTV muhabiri Begün Dönmez Ersöz'e açıklamalarda bulundu. Barrack, iki ülke arasındaki savunma işbirliğinin kritik önem taşıdığını belirterek, “Türkiye ile ABD arasındaki savunma işbirliği elzem” dedi.",
+          "source": "https://www.ntv.com.tr/dunya/tom-barrack-ntvye-konustu-turkiye-ile-abd-arasinda-isbirligi-elzem-1743183"
+        },
+        {
+          "title": "Ryanair yöneticisi uyardı: ''Gelecek yaz Avrupa'da uçak bileti fiyatları artacak''",
+          "summary": "Ryanair Üst Yöneticisi (CEO) Michael O'Leary, gelecek yaz Avrupa'da uçak bileti fiyatlarının yüzde 10-20​​​​​​​ arasında \"dramatik\" bir artış göstereceğini öngördü. İngiliz medyasında yer alan haberlere göre, O'Leary, hava yolu şirketlerinin yüksek petrol fiyatlarını karşılayamaması nedeniyle uçak bileti fiyatlarının artabileceğini dile getirdi.",
+          "source": "https://www.ntv.com.tr/dunya/ryanair-yoneticisi-uyardi-gelecek-yaz-avrupada-ucak-bileti-fiyatlari-artacak-1743188"
+        },
+        {
+          "title": "Barış Kurulu, Gazze için 2,45 milyar dolarlık \"yeniden inşa\" planını duyurdu",
+          "summary": "Barış Kurulu, Gazze Şeridi'nin \"yeniden inşası\" ve \"yönetilmesi\" için 2,45 milyar dolar değerinde, 6 ay süreli bir plan hazırladıklarını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/baris-kurulu-gazze-icin-2-45-milyar-dolarlik-yeniden-insa-planini-duyurdu-43317261"
+        },
         {
           "title": "Rubio: Moskova ve Kiev sınırlı ateşkese sıcak bakıyor",
           "summary": "ABD Dışişleri Bakanı Marco Rubio, hem Rusya hem de Ukrayna’nın tahıl ve enerji alanlarını kapsayan sınırlı bir ateşkesle ilgilendiğini söyledi. ABD Dışişleri Bakanı Marco Rubio, Rusya ile Ukrayna arasında savaşı tamamen sona erdirecek bir anlaşma öncesinde tahıl ve enerji alanlarını kapsayan sınırlı bir ateşkes için tarafların istekli olduğunu söyledi.",
@@ -55,117 +80,107 @@
           "title": "İran Cumhurbaşkanı Pezeşkiyan'dan Trump'a yanıt: Asıl biz terör mağduruyuz, asla diz çökmeyeceğiz",
           "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, BM Genel Kurulu’nda yaptığı konuşmada ülkesinin askeri gücünün savunma amaçlı olduğunu söyledi. İran Cumhurbaşkanı Mesud Pezeşkiyan, Birleşmiş Milletler Genel Kurulu’nda yaptığı konuşmada ABD Başkanı Donald Trump’ın bir gün önce İran’a yönelik açıklamalarına yanıt verdi. Pezeşkiyan, İran’ın askeri kapasitesinin savunma amaçlı olduğunu belirterek, ülkesinin ABD ve diğer düşmanlarına karşı koyabilmek için güçlü olması gerektiğini söyledi.",
           "source": "https://www.ntv.com.tr/dunya/iran-cumhurbaskani-pezeskiyandan-trumpa-yanit-asil-biz-teror-magduruyuz-1743175"
-        },
-        {
-          "title": "İran lideri Pezeşkiyan New York'ta rest çekti: Soykırımı işliyorlar bize terörist diyorlar",
-          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Birleşmiş Milletler Genel Kurulu'nda konuştu. ABD ve İsrail'e BM kürsüsünden rest çeken Pezeşkiyan, \"Soykırımı işliyorlar bize terörist diyorlar\" ifadesini kullandı. Pezeşkiyan, \"Atom ve nükleer silahlar, İsrail'in elinde ama bunu denetleyenler İran'a gelmek istiyor\" dedi. Pezeşkiyan'ın konuşmasının başlamasının hemen ardından ABD heyetinin sırası tamamen boş kaldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-lideri-pezeskiyan-new-yorkta-rest-cekti-soykirimi-isliyorlar-bize-terorist-diyorlar-43317126"
-        },
-        {
-          "title": "\"Acemi hırsızlar\" bankaya giremeyince, Türk kuaförü soydu",
-          "summary": "Almanya’nın Garbsen kentinde banka soymak için bitişikteki Türk kuaför salonunun duvarını delmeye çalışan hırsızlar, kalın duvarı aşamayınca, kuafördeki malzemeleri ve bozuk paraları çaldı. Almanya’da hafta sonu yaşanan bir hırsızlık girişimi, planlanan hedef ile ortaya çıkan sonuç arasındaki fark nedeniyle dikkat çekti. Soyguncuların hazırladığı plan, karşılaştıkları engel nedeniyle bekledikleri gibi ilerlemedi.",
-          "source": "https://www.ntv.com.tr/dunya/acemi-hirsizlar-bankaya-giremeyince-turk-kuaforu-soydu-1743173"
-        },
-        {
-          "title": "16 milyon sterlinlik İngiliz jeti yere çakıldı",
-          "summary": "İngiltere'de eğitim amacıyla kullanılan Hawk T2 tipi jet, kalkıştan kısa süre sonra düştü. 16 milyon sterlin değerindeki jette bulunan iki pilot, fırlatma koltuklarını kullanarak kazadan yara almadan kurtuldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/16-milyon-sterlinlik-ingiliz-jeti-yere-cakildi-43317087"
-        },
-        {
-          "title": "Rusya'da ayı saldırılarına soruşturma. Sayıları 300 bini aştı",
-          "summary": "Rusya'nın Sibirya bölgesinde son bir ayda altı kişinin ayı saldırılarında yaşamını yitirmesi üzerine yetkililer hakkında ihmal soruşturması açıldı. Rusya'nın Sibirya bölgesindeki Krasnoyarsk'ta son bir ay içinde ayı saldırıları sonucu en az altı kişi hayatını kaybetti. Savcılık, ayı nüfusunu kontrol altına almakta yetersiz kaldıkları gerekçesiyle yerel yetkililer hakkında görevi ihmal soruşturması açtı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-rusyada-ayi-saldirilarina-sorusturma-sayilari-300-bini-asti-1743170"
-        },
-        {
-          "title": "Polonya Cumhurbaşkanı açıkladı. ABD üssünün adı \"Fort Trump\" olacak",
-          "summary": "Polonya Cumhurbaşkanı Karol Nawrocki, ABD'nin ülkesinde kurmayı planladığı kalıcı askeri üssün \"Fort Trump\" olarak adlandırılacağını bildirdi. Polonya Cumhurbaşkanı Karol Nawrocki, Bloomberg'e verdiği röportajda ABD'nin Polonya'da kalıcı bir askeri üs kurma planlarını sonuçlandırmasını umduğunu söyledi. Eğer bu gerçekleşirse üssün “Fort Trump” olarak adlandırılacağını ifade eden Nawrocki, altyapı hazırlıklarının sürdüğünü, ABD'den danışmanların Polonya'yı ziyaret ettiğini aktardı.",
-          "source": "https://www.ntv.com.tr/dunya/polonya-cumhurbaskani-acikladi-abd-ussunun-adi-fort-trump-olacak-1743168"
         }
       ]
     },
     "ekonomi": {
-      "text": "Tariş Söke’den pamuğa 102 TL. Türkiye Trafik Durum Raporu açıklandı: İstanbul trafiğinin maliyeti 10 milyar dolar. İZMAR’ın 25’inci mağazası Buca’ya. Miami’de Ege rüzgarı esti. Kuriş soruşturmasında 29 gözaltı kararı! 23 şirkete kayyum atandı. Tera Finansal Yatırımlar ile Hedef Holding'de yönetim değişikliği. 3 fonunda pay satımı geçici olarak durduruldu.",
+      "text": "Bellona'da üst düzey atama. Fed faizi sabit tuttu. Yatırım araçlarının haftalık performansı nasıl oldu?. DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli. Petrol fiyatları 25 Mayıs: Petrol fiyatları düştü mü, ne kadar oldu? Brent petrol varil fiyatı ne kadar?. Altın fiyatları canlı grafik 22 Mayıs: Altın fiyatları ne oldu, düştü mü, çıktı mı? Gram, çeyrek ve tam altın alış satış fiyatları. Emekli maaşı ödemeleri ne zaman yatacak? SGK, Bağ-Kur, Emekli Sandığı maaş ödemeleri başladı.",
       "items": [
         {
-          "title": "Tariş Söke’den pamuğa 102 TL",
-          "summary": "YENİ sezonun ilk pamuk alımını geçtiğimiz hafta gerçekleştiren Söke Tariş Pamuk Kooperatifi’nde, üreticilerin merakla beklediği alım fiyatı da netleşti.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/taris-sokeden-pamuga-102-tl-43316956"
+          "title": "Bellona'da üst düzey atama",
+          "summary": "Bellona’nın Genel Müdürlük görevine, mobilya sektöründe 30 yılı aşkın yöneticilik deneyimine sahip Bilal Uyanık getirildi. (İlandır) Türkiye mobilya sektörünün köklü markalarından Bellona’da Genel Müdürlük görevine Bilal Uyanık atandı. Anadolu Güçbirliği Holding bünyesinde yeni dönem hedefleri doğrultusunda büyüme yolculuğunu sürdüren Bellona, Bilal Uyanık’ın liderliğinde yurt içi ve uluslararası pazarlardaki konumunu daha da güçlendirmeyi hedefliyor.",
+          "source": "https://www.ntv.com.tr/ekonomi/bellonada-ust-duzey-atama-1737061"
         },
         {
-          "title": "Türkiye Trafik Durum Raporu açıklandı: İstanbul trafiğinin maliyeti 10 milyar dolar",
-          "summary": "Hazırlanan kapsamlı rapora göre, İstanbul'da trafik sıkışıklığı nedeniyle sürücüler yılda 288 saate varan zaman kaybederken, durumun yıllık ekonomik maliyeti 10 milyar doları buluyor. Uzmanlar, trafikteki en büyük sorunun sürücü davranışları ve dikkatsizlik olduğuna dikkat çekerek toplu taşıma ve denetim vurgusu yaptı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-trafik-durum-raporu-aciklandi-istanbul-trafiginin-maliyeti-10-milyar-dolar-43316243"
+          "title": "Fed faizi sabit tuttu",
+          "summary": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,5-3,75 aralığında sabit tuttu. Federal Açık Piyasa Komitesi (FOMC), iki günlük toplantının ardından federal fonlama faizini üst üste beşinci kez yüzde 3,50-3,75 aralığında sabit tuttu. Karar, 12 üyeli komitede 9’a karşı 3 oyla alındı. Cleveland Fed Başkanı Beth Hammack, Dallas Fed Başkanı Lorie Logan ve Minneapolis Fed Başkanı Neel Kashkari, enflasyonla mücadele amacıyla faizin 25 baz puan artırılmasını istedi.",
+          "source": "https://www.ntv.com.tr/ekonomi/fed-faizi-sabit-tuttu-1735157"
         },
         {
-          "title": "İZMAR’ın 25’inci mağazası Buca’ya",
-          "summary": "İZMİR Büyükşehir Belediyesi’nin tanzim satış mağazası İZMAR, 25’inci şubesini Buca Gediz’de hizmete girdi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmarin-25inci-magazasi-bucaya-43315628"
+          "title": "Yatırım araçlarının haftalık performansı nasıl oldu?",
+          "summary": "Borsa İstanbul'da işlem gören hisse senetleri, haftalık bazda ortalama yüzde 0,27 değer kaybederken, altının gram fiyatı yüzde 2,18, dolar/TL yüzde 0,76 ve euro/TL yüzde 0,31 değer kazandı. BIST 100 endeksi, en düşük 13.875,58 puanı ve en yüksek 14.228,02 puanı gördükten sonra haftayı, önceki hafta kapanışının yüzde 0,27 altında 13.943,87 puandan tamamladı.",
+          "source": "https://www.ntv.com.tr/ekonomi/yatirim-araclarinin-haftalik-performansi-nasil-oldu-1734435"
         },
         {
-          "title": "Miami’de Ege rüzgarı esti",
-          "summary": "Ege Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği’nce yürütülen Aegean Cereals, Pulses, Oilseeds and Products UR-GE Projesi kapsamında 10 firma, Miami’de düzenlenen America’s Food & Beverage Show’da sahaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/miamide-ege-ruzgari-esti-43315612"
+          "title": "DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli",
+          "summary": "Gayrimenkul sektöründe sanat eseri niteliğinde projeler üreten DAP Gayrimenkul Geliştirme, Emlak Konut güvencesi ve Dap vizyonu ile satışa çıkardığı yeni projesi Ataşehir 173’te kontrollü ve planlı bir finansman modeline imza attı. Tasarrufa Dayalı Faizsiz Finansman sistemi ile 60 ve 30 aylık sözleşmelerle faizsiz kefilsiz finansman desteği.",
+          "source": "https://www.ntv.com.tr/ekonomi/dap-yapidan-bir-ilk-emlak-konut-guvencesi-dap-vizyonuyla-kendi-kendini-odeyen-ev-modeli-1734193"
         },
         {
-          "title": "Kuriş soruşturmasında 29 gözaltı kararı! 23 şirkete kayyum atandı",
-          "summary": "Ankara Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturmada, Alihan Kuriş suç örgütünün kayıt dışı finansal hareketlerini organize ettiği ve suç gelirlerini akladığı belirlenen şüpheliler için düğmeye basıldı. 29 şüpheli hakkında gözaltı kararı verilirken, örgüte ait 23 şirkete kayyum atandı. Öte yandan soruşturmada dosyaya giren üç ayrı tanık ifadesi, söz konusu yapının içindeki siyasi yönlendirme ve dışlama iddialarını gündeme getirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kuris-sorusturmasinda-29-gozalti-karari-23-sirkete-kayyum-atandi-43313077"
+          "title": "Petrol fiyatları 25 Mayıs: Petrol fiyatları düştü mü, ne kadar oldu? Brent petrol varil fiyatı ne kadar?",
+          "summary": "Küresel enerji piyasalarında gözler Orta Doğu’ya çevrildi. ABD ile İran arasında esen yumuşama rüzgarları, uluslararası vadeli piyasalarda petrol fiyatlarının hızla çakılmasına neden oldu. Haftaya sert bir düşüşle başlayan Brent petrolün varil fiyatı, iki ülkenin uzlaşıya yaklaştığına yönelik resmi açıklamaların ardından yüzde 5'in üzerinde geriledi. Brent petrolün varil fiyatı, ABD ile İran'ın uzlaşı sağlamaya yaklaştığına ilişkin açıklamalarla uluslararası vadeli piyasalarda yüzde 5'in üzerinde geriledi.",
+          "source": "https://www.ntv.com.tr/ekonomi/galeri-petrol-fiyatlari-25-mayis-petrol-fiyatlari-dustu-mu-ne-kadar-oldu-brent-petrol-varil-fiyati-ne-kadar-1725826"
         },
         {
-          "title": "Tera Finansal Yatırımlar ile Hedef Holding'de yönetim değişikliği",
-          "summary": "Finansal Yatırımlar Holding AŞ Yönetim Kurulu Başkan Vekili ve Genel Müdürü Erkan Kilimci ile Hedef Holding Yönetim Kurulu Üyesi Namık Kemal Gökalp görevlerinden ayrıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tera-finansal-yatirimlar-ile-hedef-holdingde-yonetim-degisikligi-43311752"
+          "title": "Altın fiyatları canlı grafik 22 Mayıs: Altın fiyatları ne oldu, düştü mü, çıktı mı? Gram, çeyrek ve tam altın alış satış fiyatları",
+          "summary": "Altın fiyatlarında son durum merak ediliyor. Ankara Bölge Adliye Mahkemesi’nin CHP'ye mutlak butlan kararı sonrası Borsa İstanbul’da yaşanan dalgalanmalar ve devre kesicilerin devreye girmesi, yatırımcıları güvenli liman arayışı olan altına itti. İşte 22 Mayıs 2026 tarihli gram, çeyrek ve tam altın alış satış fiyatları. Bugün altın fiyatları ne oldu, düştü mü, çıktı mı? Çeyrek altın, gram altın, yarım ve tam altın fiyatlarında son durum ne? İşte 22 Mayıs tarihli güncel altın alış satış fiyatları.",
+          "source": "https://www.ntv.com.tr/ekonomi/galeri-altin-fiyatlari-canli-grafik-22-mayis-altin-fiyatlari-ne-oldu-dustu-mu-cikti-mi-gram-ceyrek-ve-tam-altin-alis-satis-fiyatlari-1725412"
         },
         {
-          "title": "3 fonunda pay satımı geçici olarak durduruldu",
-          "summary": "Golden Global Portföy Yönetimi AŞ, yönettiği 3 fonun pay satım (iade) işlemlerinin geçici olarak durdurulduğunu bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/3-fonunda-pay-satimi-gecici-olarak-durduruldu-43310489"
+          "title": "Emekli maaşı ödemeleri ne zaman yatacak? SGK, Bağ-Kur, Emekli Sandığı maaş ödemeleri başladı",
+          "summary": "Emekli maaşı ödemeleri, 2026 Kurban Bayramı öncesinde milyonlarca emeklinin gündeminde yer alıyor. Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan tarafından yapılan açıklama sonrasında SGK, Bağ-Kur ve Emekli Sandığı emeklilerinin maaş ödeme takvimi belli oldu. İşte bayram öncesi emeklilerin maaşlarının yatırılacağı tarih.",
+          "source": "https://www.ntv.com.tr/ekonomi/galeri-emekli-maasi-odemeleri-ne-zaman-yatacak-sgk-bag-kur-emekli-sandigi-maas-odemeleri-basladi-1725243"
         }
       ]
     },
     "spor": {
-      "text": "Trabzonspor'dan Salah'ın isim ve görsellerinin izinsiz kullanımına ilişkin açıklama: Hukuki ve cezai başvurular yapılacak. PFDK, Yeni Malatyaspor'u Amatör Lig'e düşürdü!. Kocaeli Stadyumu, Türkiye-Fransa maçına hazır. Süper Lig'e döneceği iddia edilmişti: Gedson Fernandes için resmi açıklama geldi!. UEFA Şampiyonlar Ligi Kadınlar’ da 'Üst' tercihleri ön planda! İşte Misli’de günün en çok oynanan maçları. Anadolu Efesli basketbolcular, EuroLeague'de 3 Türk takımı olmasını değerlendirdi. Okan Buruk 'Ben olsam hakemlik hayatını bitiririm' demişti, Türkiye-Fransa maçına atandı!.",
+      "text": "TFF’den Orkun Kökçü ve sakatlık açıklaması. Sporting başkanından Galatasaray maçı açıklaması: Birileri uyarsın!. Raskin'den Beşiktaş itirafı! 'Hazırdım'. Serdal Adalı'dan Italiano, Sergen Yalçın, Vlahovic, Trossard, Önder Özen ve transfer açıklaması: Çalışmaları durdurmadık. Ederson gerçeği ortaya çıktı! Aziz Yıldırım'dan mesaj. Cristiano Ronaldo'dan 1000 gol açıklaması. Trabzonspor'dan Salah'ın isim ve görsellerinin izinsiz kullanımına ilişkin açıklama: Hukuki ve cezai başvurular yapılacak.",
       "items": [
+        {
+          "title": "TFF’den Orkun Kökçü ve sakatlık açıklaması",
+          "summary": "Türkiye-Fransa maçı öncesi Türkiye Futbol Federasyonu, Milli Takım’daki gelişmeleri paylaştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tffden-orkun-kokcu-ve-sakatlik-aciklamasi-43317386"
+        },
+        {
+          "title": "Sporting başkanından Galatasaray maçı açıklaması: Birileri uyarsın!",
+          "summary": "Galatasaray’ın Şampiyonlar Ligi’nde karşılaştığı Sporting’de başkan Federico Varandas konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sporting-baskanindan-galatasaray-maci-aciklamasi-birileri-uyarsin-43317376"
+        },
+        {
+          "title": "Raskin'den Beşiktaş itirafı! 'Hazırdım'",
+          "summary": "Beşiktaş'ın yaz transfer sezonunda kadrosuna katmak istediği ancak başarılı olamadığı Raskin, transfer sürecine dair açıklık getirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/raskinden-besiktas-itirafi-hazirdim-43317356"
+        },
+        {
+          "title": "Serdal Adalı'dan Italiano, Sergen Yalçın, Vlahovic, Trossard, Önder Özen ve transfer açıklaması: Çalışmaları durdurmadık",
+          "summary": "Beşiktaş Başkanı Serdal Adalı, siyah beyazlı camiada merak edilen konulara dair konuştu. Adalı, Italiano, Sergen Yalçın, Graf, Önder Özen ve transfere dair önemli ifadeler kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-italiano-sergen-yalcin-vlahovic-trossard-onder-ozen-ve-transfer-aciklamasi-calismalari-durdurmadik-43317290"
+        },
+        {
+          "title": "Ederson gerçeği ortaya çıktı! Aziz Yıldırım'dan mesaj",
+          "summary": "Fenerbahçe'nin Brezilyalı eldiveni Ederson'un performansının zirve yapmasındaki neden ortaya çıktı. Brezilyalı eldiven ile Aziz Yıldırım arasındaki diyalog, yıldız oyuncunun motivasyonunda büyük etken oldu. İşte ayrıntılar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/ederson-gercegi-ortaya-cikti-aziz-yildirimdan-mesaj-43317237"
+        },
+        {
+          "title": "Cristiano Ronaldo'dan 1000 gol açıklaması",
+          "summary": "Cristiano Ronaldo, Portekiz'in Galler ile oynayacağı Uluslar Ligi maçı öncesi basın toplantısında konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cristiano-ronaldodan-1000-gol-aciklamasi-43317231"
+        },
         {
           "title": "Trabzonspor'dan Salah'ın isim ve görsellerinin izinsiz kullanımına ilişkin açıklama: Hukuki ve cezai başvurular yapılacak",
           "summary": "Trabzonspor Kulübü, Mohamed Salah'ın isim ve görsellerinin izinsiz kullanımına ilişkin açıklama yayınladı.",
           "source": "https://www.hurriyet.com.tr/sporarena/trabzonspordan-salahin-isim-ve-gorsellerinin-izinsiz-kullanimina-iliskin-aciklama-hukuki-ve-cezai-basvurular-yapilacak-43317193"
-        },
-        {
-          "title": "PFDK, Yeni Malatyaspor'u Amatör Lig'e düşürdü!",
-          "summary": "Profesyonel Futbol Disiplin Kurulu, Yeni Malatyaspor'u 3. Lig'de maça çıkmadığı gerekçesiyle Amatör Lig'e düşürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pfdk-yeni-malatyasporu-amator-lige-dusurdu-43316921"
-        },
-        {
-          "title": "Kocaeli Stadyumu, Türkiye-Fransa maçına hazır",
-          "summary": "UEFA Uluslar A Ligi 1. Grup'ta Türkiye ile Fransa arasında 25 Eylül Cuma günü saat 21.45'te oynanacak karşılaşmaya ev sahipliği yapacak Kocaeli Stadyumu, milli maç atmosferine hazır hale getirildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kocaeli-stadyumu-turkiye-fransa-macina-hazir-43316899"
-        },
-        {
-          "title": "Süper Lig'e döneceği iddia edilmişti: Gedson Fernandes için resmi açıklama geldi!",
-          "summary": "Kariyerini Rusya'da Spartak Moskova forması altında sürdüren ve ismi Trabzospor'la anılan Gedson Fernandes'in menajerlik şirketinden iddialar hakkında açıklama geldi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-lige-donecegi-iddia-edilmisti-gedson-fernandes-icin-resmi-aciklama-geldi-43316849"
-        },
-        {
-          "title": "UEFA Şampiyonlar Ligi Kadınlar’ da 'Üst' tercihleri ön planda! İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uefa-sampiyonlar-ligi-kadinlar-da-ust-tercihleri-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43316585"
-        },
-        {
-          "title": "Anadolu Efesli basketbolcular, EuroLeague'de 3 Türk takımı olmasını değerlendirdi",
-          "summary": "Anadolu Efesli basketbolculardan Kai Jones, Erkan Yılmaz ve PJ Dozier, Euro League'de 3 Türk takımının mücadele edecek olması ile ilgili Spor Arena'ya özel açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efesli-basketbolcular-euroleaguede-3-turk-takimi-olmasini-degerlendirdi-43316502"
-        },
-        {
-          "title": "Okan Buruk 'Ben olsam hakemlik hayatını bitiririm' demişti, Türkiye-Fransa maçına atandı!",
-          "summary": "Galatasaray teknik direktörü Okan Buruk'un Sporting maçının ardından, \"Ben olsam hakemlik hayatını bitiririm. Bir daha bu hakemin Şampiyonlar Ligi'nde maç almaması gerekiyor\" sözleriyle tepki gösterdiği Alman hakem Christian Dingert, A Milli Takım'ın Fransa'yı konuk edeceği Uluslar Ligi ilk hafta maçına atandı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-ben-olsam-hakemlik-hayatini-bitiririm-demisti-turkiye-fransa-macina-atandi-43316470"
         }
       ]
     },
     "teknoloji": {
-      "text": "Huawei'den Watch GT 7 ile temassız ödeme imkanı. Airbus, uzay ve uydu teknolojilerinde Türkiye ile işbirliğine odaklandı. Meta yapay zeka ve akıllı gözlük atağında. Tepkilerin nedeni ne?. Çinli Alibaba Türkiye'ye “bulut” getirecek. Xiaomi'nin Redmi Note 17 Türkiye'de piyasaya çıktı. Facebook ve Instagram'da 4 milyona yakın dolandırıcı hesaba müdahale. Meta’nın yapay zeka asistanında kritik açık: Saldırganlar bilgisayarın kontrolü ele geçirdi.",
+      "text": "Yapay zeka Avustralya devlet sitesini hackledi. Yapay zeka zirvesi. Ya yeni rönesans ya da kaos. İngiltere, askeri uzay filosu kuruyor. Huawei'den Watch GT 7 ile temassız ödeme imkanı. Airbus, uzay ve uydu teknolojilerinde Türkiye ile işbirliğine odaklandı. Meta yapay zeka ve akıllı gözlük atağında. Tepkilerin nedeni ne?. Çinli Alibaba Türkiye'ye “bulut” getirecek.",
       "items": [
+        {
+          "title": "Yapay zeka Avustralya devlet sitesini hackledi",
+          "summary": "OpenAI'ın geliştirdiği bir yapay zeka ajanı, Avustralya hükümetinin sağlık verileri portalına siber saldırı düzenleyip yetkisiz olarak dosyalara erişti. OpenAI, son aylarda şirketleri ve hükümetleri alarma geçiren yapay zeka saldırılarında bir ilke imza attı. Avustralya hükümeti, OpenAI tarafından geliştirilen bir yapay zeka ajanının haziran ayında resmi bir sağlık verileri portalına sızarak dosyalara eriştiğini duyurdu.",
+          "source": "https://www.ntv.com.tr/teknoloji/yapay-zeka-avustralya-devlet-sitesini-hackledi-1743205"
+        },
+        {
+          "title": "Yapay zeka zirvesi. Ya yeni rönesans ya da kaos",
+          "summary": "Yapay zeka teknolojisinin öncüleri Sam Altman ve Dario Amodei, Birleşmiş Milletler Güvenlik Konseyi'nde gelecek için uyardı: \"Kötü yönetilmesi halinde bütün olarak insanlık için risk oluşturabilir.\" ABD'li teknoloji devleri OpenAI Üst Yöneticisi Sam Altman ile Anthropic'in Üst Yöneticisi Dario Amodei, Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) \"yapay zeka ve uluslararası güvenlik\" başlığı altında düzenlenen toplantıda değerlendirmeler yaptı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-zirvesi-ya-yeni-yeni-ronesans-ya-da-kaos-1743204"
+        },
+        {
+          "title": "İngiltere, askeri uzay filosu kuruyor",
+          "summary": "İngiltere, uzaydaki çıkarlarını ve uydularını düşman müdahaleleri ve saldırılardan korumak amacıyla askeri uzay filosu kuracak. İngiltere, uzaydaki hasmane eylemlerle ilgili gözlem ve uyarı görevlerini yürüten No 1 Uzay Operasyonları Filosu ile No 2 Uzay Uyarı Filosunun oluşturduğu kuvvetlerine; bu eylemlere karşı doğrudan harekete geçecek olan yeni bir uzay filosu eklemeye hazırlanıyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/ingiltere-askeri-uzay-filosu-kuruyor-1743203"
+        },
         {
           "title": "Huawei'den Watch GT 7 ile temassız ödeme imkanı",
           "summary": "Huawei, yeni nesil akıllı saat serisi Watch GT 7 ile Türkiye'deki tüketicilere temassız ödeme imkanı sunuyor.",
@@ -185,21 +200,6 @@
           "title": "Çinli Alibaba Türkiye'ye “bulut” getirecek",
           "summary": "Denizaşırı ülkelerdeki veri merkezlerini genişleteceğini duyuran Çinli teknoloji ve e-ticaret devi Alibaba'nın kuracağı \"ilk bulut bölgeleri\" arasında Türkiye'nin de olduğu ortaya çıktı. Trendyol'un da yüzde 86.5'lik hissesine sahip olan Çinli e-ticaret ve teknoloji devi Alibaba, Avrupa ve Orta Doğu'daki pazarları hedefleyerek, denizaşırı bölgelerdeki veri merkezlerini genişletme planlarını açıkladı. Bu kapsamda, 12 ay içinde kurulacak \"ilk bulut bölgeleri\" arasında Türkiye de bulunuyor.",
           "source": "https://www.ntv.com.tr/teknoloji/cinli-alibaba-turkiyeye-bulut-getirecek-1743119"
-        },
-        {
-          "title": "Xiaomi'nin Redmi Note 17 Türkiye'de piyasaya çıktı",
-          "summary": "Dört farklı modeliyle Türkiye'de satışa çıkan sunulan Redmi Note 17 serisi, batarya kapasitesi, dayanıklılığı ve yapay zeka destekli teknolojileriyle öne çıkıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/xiaominin-redmi-note-17-turkiyede-piyasaya-cikti-43316515"
-        },
-        {
-          "title": "Facebook ve Instagram'da 4 milyona yakın dolandırıcı hesaba müdahale",
-          "summary": "Meta, Singapur polisinin sağladığı istihbarat doğrultusunda bu yıl dolandırıcılıkla bağlantılı 3,7 milyondan fazla hesap ve sayfaya müdahale ettiğini duyurdu. Facebook, Instagram ve WhatsApp'ın çatı şirketi Meta, Singapur polisinin sağladığı istihbarat doğrultusunda bu yıl dolandırıcılıkla bağlantılı 3,7 milyondan fazla hesap, sayfa ve içeriğe müdahale ettiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/facebook-ve-instagramda-4-milyona-yakin-dolandirici-hesaba-mudahale-1743083"
-        },
-        {
-          "title": "Meta’nın yapay zeka asistanında kritik açık: Saldırganlar bilgisayarın kontrolü ele geçirdi",
-          "summary": "Meta’nın geliştirdiği Muse yapay zeka asistanında, saldırganların kontrolü ele geçirdiği bir açık tespit edildi. Meta, açığı kapatan acil güncellemeyi yayımladı. Meta’nın kullanıcı adına işlemler gerçekleştirebilen kişisel yapay zeka asistanı Muse, ciddi bir güvenlik açığıyla gündeme geldi.",
-          "source": "https://www.ntv.com.tr/teknoloji/metanin-yapay-zeka-asistaninda-kritik-acik-saldirganlar-bilgisayarin-kontrolu-ele-gecirdi-1743057"
         }
       ]
     },
