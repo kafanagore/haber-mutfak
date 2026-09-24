@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-24T10:00:03.521Z",
+  "generatedAt": "2026-09-24T16:00:03.572Z",
   "categories": {
     "gundem": {
-      "text": "Elazığ'da tehlikeli şerit değiştiren sürücüye ceza. İstanbul’da okul önünde feci kaza: Otomobil kaldırımdaki 4 lise öğrencisine çarptı. Milli Eğitim Bakanı Yusuf Tekin'den Manisa'daki saldırı açıklaması: Akran zorbalığı söz konusu değil. Karaman'da korkunç olay: Boşanma aşamasındaki çift, evlerinde ölü bulundu! Ekipler 'Siyanür var, girmeyin' notuyla karşılaştı. Fon soruşturmasında yeni gelişme: Fon hesaplarındaki milyonlarca lira donduruldu! 5 lüks aracı 26 bin TL’ye devretmiş. Edirne'de 274 milyonluk yasa dışı bahis operasyonu: 7 şüpheli adliyede. Cumhurbaşkanı Erdoğan'dan New York'taki toplantıya ilişkin mesaj.",
+      "text": "Antalya'da üç aracın karıştığı zincirleme kaza: 17 yaralı. DMM: Deprem sonrası Diyarbakır'da zeminde göçük iddiası gerçeği yansıtmıyor. Cumhurbaşkanı Erdoğan'dan fon soruşturması mesajı. \"Türkiye ekonomisine yönelik bir risk yok\". Bakan Kurum: Şili'nin tecrübesinin küresel iklim eylemine katkı sunacağına inanıyorum. Acı veda: Hamile anne ve 3 yaşındaki kızı son yolculuğuna uğurlandı. Fon soruşturmasında tutuklanan Serdar Turhan'ın savcılık ifadesi ortaya çıktı. Nefes kesen tatbikat gerçeği aratmadı: Mahalle muhtarı olaya müdahale etmeye çalıştı.",
       "items": [
         {
-          "title": "Elazığ'da tehlikeli şerit değiştiren sürücüye ceza",
-          "summary": "Elazığ'da hafif ticari aracıyla trafikte tehlikeli şerit değiştiren sürücüye, polis ekipleri tarafından 10 bin lira para cezası yazıldı. Olay, dün merkez Atatürk Bulvarı'nda meydana geldi. Edinilen bilgiye göre, bulvarda tehlikeli şerit değiştirerek ilerleyen hafif ticari araç trafiği tehlikeye attı. Kendisinin ve diğer sürücülerin canını hiçe sayan sürücü bir süre sonra gözden kayboldu. O anlar ise bir başka aracın kamerasına anbean yansıdı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-elazigda-tehlikeli-serit-degistiren-surucuye-ceza-1743282"
+          "title": "Antalya'da üç aracın karıştığı zincirleme kaza: 17 yaralı",
+          "summary": "Antalya'nın Manavgat ilçesinde tur midibüsü, kamyonet ve otomobilin karıştığı zincirleme kazada 17 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/antalyada-uc-aracin-karistigi-zincirleme-kaza-17-yarali-43318482"
         },
         {
-          "title": "İstanbul’da okul önünde feci kaza: Otomobil kaldırımdaki 4 lise öğrencisine çarptı",
-          "summary": "İstanbul, Üsküdar'da sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu önce önündeki araca, ardından da kaldırıma çıkan otomobil okul yolundaki 4 lise öğrencisine çarptı. Yaralı öğrenciler hastaneye kaldırılırken, sağlık durumlarının iyi olduğu öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-okul-onunde-feci-kaza-otomobil-kaldirimdaki-4-lise-ogrencisine-carpti-43317938"
+          "title": "DMM: Deprem sonrası Diyarbakır'da zeminde göçük iddiası gerçeği yansıtmıyor",
+          "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, Şanlıurfa merkezli 5,4 büyüklüğündeki deprem sırasında ve sonrasında Diyarbakır'da zeminde göçük meydana geldiği iddialarının gerçeği yansıtmadığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/dmm-deprem-sonrasi-diyarbakirda-zeminde-gocuk-iddiasi-gercegi-yansitmiyor-43318479"
         },
         {
-          "title": "Milli Eğitim Bakanı Yusuf Tekin'den Manisa'daki saldırı açıklaması: Akran zorbalığı söz konusu değil",
-          "summary": "Milli Eğitim Bakanı Yusuf Tekin, ailelere çocukların sosyal medya ve internet kullanımı konusunda uyarılarda bulundu. Manisa'nın Turgutlu ilçesindeki saldırının \"okul saldırısı\" olarak nitelendirilmemesi gerektiğini vurgulayan Tekin, ailelerin evdeki ruhsatlı silahlar konusunda da sorumlu davranması gerektiğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/milli-egitim-bakani-yusuf-tekinden-manisadaki-saldiri-aciklamasi-akran-zorbaligi-soz-konusu-degil-43317891"
+          "title": "Cumhurbaşkanı Erdoğan'dan fon soruşturması mesajı. \"Türkiye ekonomisine yönelik bir risk yok\"",
+          "summary": "Cumhurbaşkanı Erdoğan, ABD'den dönüşünde gazetecilerin sorularını yanıtladı. Fon soruşturması hakkında Erdoğan, finansal sisteme veya ekonomiye yönelik bir riskin olmadığını söyledi. Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler 81. Genel Kurulu'na katıldığı ABD'nin New York şehrindeki temaslarını tamamladı ve yurda döndü. Erdoğan, ABD'den dönüşünde gazetecilerin gündeme ilişkin sorularını yanıtladı.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-fon-sorusturmasi-mesaji-sorumlulugu-olan-kim-varsa-hesap-sorulacak-1743344"
         },
         {
-          "title": "Karaman'da korkunç olay: Boşanma aşamasındaki çift, evlerinde ölü bulundu! Ekipler 'Siyanür var, girmeyin' notuyla karşılaştı",
-          "summary": "Karaman’da çocuklarının haber alamadığı boşanma aşamasındaki 53 yaşındaki Namık Özcan ve 45 yaşındaki eşi Fatma Özcan evlerinde ölü bulundu. Eve giren ekipler, \"Evde siyanür var, girmeyin\" notu buldu. Polis, Namık Özcan’ın eşi Fatma Özcan’ı siyanürle öldürüp, sonra intihar etmiş olabileceği ihtimali üzerinde duruyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/karamanda-kan-donduran-olay-bosanma-asamasindaki-cift-evlerinde-olu-bulundu-ekipler-siyanur-var-girmeyin-notuyla-karsilasti-43317861"
+          "title": "Bakan Kurum: Şili'nin tecrübesinin küresel iklim eylemine katkı sunacağına inanıyorum",
+          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, ABD'nin New York kentinde Şili Çevre Bakanı Francisca Toledo Echegaray ile bir araya geldi. Görüşmeye ilişkin açıklamada bulunan Kurum, “COP31 sürecinde Şili’nin sahip olduğu tecrübenin küresel iklim eylemine önemli katkı sunacağına inanıyorum” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurum-silinin-tecrubesinin-kuresel-iklim-eylemine-katki-sunacagina-inaniyorum-43318458"
         },
         {
-          "title": "Fon soruşturmasında yeni gelişme: Fon hesaplarındaki milyonlarca lira donduruldu! 5 lüks aracı 26 bin TL’ye devretmiş",
-          "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen fon soruşturmasında, fon hesaplarındaki 387 milyon 461 bin 359,86 lira donduruldu. Piyasa değeri yaklaşık 200-220 milyon TL civarında olan lüks araçların toplamda 26 bin 280 TL'ye devredildiği tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-fon-hesaplarindaki-milyonlarca-lira-donduruldu-43317859"
+          "title": "Acı veda: Hamile anne ve 3 yaşındaki kızı son yolculuğuna uğurlandı",
+          "summary": "Balıkesir'in Bandırma ilçesinde doktor kontrolünden dönerken kullandığı otomobilin karşı yönden gelen kamyonun altında kaldığı kazada hayatını kaybeden hamile Merve Turan (33) ile kızı Ahsen Turan (3) yan yana son yolculuğuna uğurlandı. Merve Turan'ın doğumuna 2 hafta kaldığı öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/aci-veda-hamile-anne-ve-3-yasindaki-kizi-son-yolculuguna-ugurlandi-43318437"
         },
         {
-          "title": "Edirne'de 274 milyonluk yasa dışı bahis operasyonu: 7 şüpheli adliyede",
-          "summary": "Edirne’de düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 7 şüpheli adliyeye sevk edildi. Yaklaşık 274,7 milyon lira işlem hacmine ulaştığı belirlenen 9 şüpheliden 7'si yakalanırken, firari 2 kişinin aranmasına devam ediliyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/edirnede-274-milyonluk-yasa-disi-bahis-operasyonu-7-supheli-adliyede-43317867"
+          "title": "Fon soruşturmasında tutuklanan Serdar Turhan'ın savcılık ifadesi ortaya çıktı",
+          "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında tutuklanan Pusula Holding Yönetim Kurulu Başkanı Serdar Turhan'ın savcılık ifadesi ortaya çıktı. Savcılık, Turhan'a Gündoğdu şirketinin Turhan grubuna geçmeden önce yaklaşık 3,5 milyar lira değerinde olduğunu, satın alma sonrasında faaliyet bulunmamasına karşın şirket değerinin 105 milyar liraya yükseldiğini hatırlatarak bunun nasıl gerçekleştiğini sordu.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-tutuklanan-serdar-turhanin-savcilik-ifadesi-ortaya-cikti-43318423"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan New York'taki toplantıya ilişkin mesaj",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, New York'ta düşünce kuruluşu temsilcileriyle yapılan toplantıya ilişkin değerlendirmede bulundu",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-new-yorktaki-toplantiya-iliskin-mesaj-43317849"
+          "title": "Nefes kesen tatbikat gerçeği aratmadı: Mahalle muhtarı olaya müdahale etmeye çalıştı",
+          "summary": "Kayseri’nin Yeşilhisar Devlet Hastanesi'nde gerçekleştirilen Hastane Afet Planı (HAP) tatbikatını gerçek sanan Beyler Yukarı Mahallesi Muhtarı Mustafa Korkmaz, panik yaşayarak yaralılara yardım etmeye çalıştı. Muhtarın tatbikat olduğunu öğrendikten sonra yaşadığı şaşkınlık ve o anlar cep telefonu kamerasına yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/nefes-kesen-tatbikat-gercegi-aratmadi-mahalle-muhtari-olaya-mudahale-etmeye-calisti-43318408"
         }
       ]
     },
     "dunya": {
-      "text": "Rusya'dan AB'ye sert çıkış: Paramızın Kiev'e aktarılması hırsızlıktır. Zelenski açıkladı: Cumhurbaşkanı Erdoğan'a teşekkür ettim. Güney Asya'da tansiyon yükseldi! Afganistan'da 10 nokta vuruldu. KKTC'den GKRY liderine tepki. 11 yıl sonra ABD'ye tarihi ziyaret. İşte Trump-Şi zirvesinin gündem maddeleri. 11 yıl sonra ilk! Trump uçağın kapısında karşıladı. Rusya'dan Kiev ve Harkiv'e saldırı: 8 ölü.",
+      "text": "Mahmud Abbas: Filistin halkı en tehlikeli dönemini yaşıyor. Trump-Şi zirvesi: İki liderden işbirliği mesajları. Şi Cinping: ABD ile Çin çatışırsa kayıp çok olur. Filistin Devlet Başkanı Abbas: İsrail devlet terörü işliyor... ‘Filistin halkı en zor günlerinde’. Arnavutluk'tan Gazze kararı: Yasa tasarısı onaylandı. AB içinde \"Made in Europe\" kavgası. Milyarlarca euroluk teşvik kime gidecek?. Merakla beklenen zirve öncesi Trump'tan Çin Devlet Başkanı Şi'ye övgüler.",
       "items": [
         {
-          "title": "Rusya'dan AB'ye sert çıkış: Paramızın Kiev'e aktarılması hırsızlıktır",
-          "summary": "Rus yönetimi, Avrupa Birliği'nin (AB), dondurulmuş Rus varlıklarından elde edilen gelirlerin Ukrayna'ya aktarılmasını “bir tür hırsızlık” ve yasa dışı bir işlem olarak nitelendirdi. Avrupa Komisyonu, geçen ay yaptığı açıklamada, Ukrayna'daki savaş nedeniyle Avrupa Birliği (AB) tarafından dondurulan Rus Merkez Bankası varlıkları kapsamındaki nakit bakiyelerin faizinden elde edilen 1.4 milyar euroyu Kiev'e vereceğini duyurmuştu.",
-          "source": "https://www.ntv.com.tr/dunya/rusyadan-abye-sert-cikis-paramizin-kieve-aktarilmasi-hirsizliktir-1743291"
+          "title": "Mahmud Abbas: Filistin halkı en tehlikeli dönemini yaşıyor",
+          "summary": "Filistin Devlet Başkanı Mahmud Abbas, İsrail politikalarının iki devletli çözümü yok ettiğini belirtti. Filistin Devlet Başkanı Abbas, ABD’nin vize vermemesi nedeniyle bir kez daha Birleşmiş Milletler (BM) Genel Kurulu’na video konferans yoluyla hitap etmek zorunda kaldı. Filistin heyetinin BM toplantılarına katılmasının engellenmesini reddettiklerini belirten Abbas, \"Filistin halkı ve yönetimi işgalin sona ermesini talep ettiği için cezalandırılmamalı.\" dedi.",
+          "source": "https://www.ntv.com.tr/dunya/mahmud-abbas-filistin-halki-en-tehlikeli-donemini-yasiyor-1743342"
         },
         {
-          "title": "Zelenski açıkladı: Cumhurbaşkanı Erdoğan'a teşekkür ettim",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan ile gerçekleştirdiği görüşmenin ardından açıklma yaptı. Zelenski, yaptığı açıklamada, \"Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan ile görüştüm. Türkiye'nin Ukrayna'nın toprak bütünlüğü ve egemenliğine yönelik sürekli desteği için kendisine teşekkür ettim\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/zelenski-acikladi-cumhurbaskani-erdogana-tesekkur-ettim-43317931"
+          "title": "Trump-Şi zirvesi: İki liderden işbirliği mesajları",
+          "summary": "ABD Başkanı Donald Trump ile Çin Devlet Başkanı Şi Cinping Washington’da bir araya geldi. İki lider ticaret, güvenlik ve yapay zeka başlıklarında işbirliği mesajı verdi. ABD Başkanı Donald Trump ile Çin Devlet Başkanı Şi Cinping, iki ülke arasındaki ticaret, teknoloji ve güvenlik gerilimlerinin sürdüğü bir dönemde Washington’da bir araya geldi. Trump, Beyaz Saray'daki görüşmenin başlangıcında Şi ile güvenlik, teknoloji ve yapay zeka konularını ele alacaklarını söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-si-zirvesi-iki-liderden-isbirligi-mesajlari-1743345"
         },
         {
-          "title": "Güney Asya'da tansiyon yükseldi! Afganistan'da 10 nokta vuruldu",
-          "summary": "Pakistan, Afganistan'dan ülke hava sahasına giren 8 insansız hava aracının (İHA) düşürülmesinin ardından, İHA'ların fırlatıldığı ve depolandığı belirtilen 10 noktaya hava saldırısı düzenledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/guney-asyada-tansiyon-yukseldi-afganistanda-10-nokta-vuruldu-43317885"
+          "title": "Şi Cinping: ABD ile Çin çatışırsa kayıp çok olur",
+          "summary": "Çin Devlet Başkanı Şi Cin Ping, ABD ziyareti kapsamında Washington'a geldi. Çin lideri, burada yaptığı konuşmada, \"ABD ile Çin çatışırsa kayıp çok olur\" ifadesinde bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/si-cinping-abd-ile-cin-catisirsa-kayip-cok-olur-43318441"
         },
         {
-          "title": "KKTC'den GKRY liderine tepki",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanı Ünal Üstel ve KKTC Dışişleri Bakanlığı, Güney Kıbrıs Rum Yönetimi (GKRY) Lideri Nikos Hristodulidis'in Birleşmiş Milletler'deki konuşmasına tepki gösterdi. Üstel, açıklamasında \"Güney Kıbrıs Rum Yönetimi Lideri Nikos Hristodulidis’in, BM kürsüsünü kullanarak ana vatan Türkiye Cumhurbaşkanı Sayın Recep Tayyip Erdoğan’a yönelik sarf ettiği ifadeleri şiddetle kınıyorum\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kktcden-gkry-liderine-tepki-43317846"
+          "title": "Filistin Devlet Başkanı Abbas: İsrail devlet terörü işliyor... ‘Filistin halkı en zor günlerinde’",
+          "summary": "Filistin Devlet Başkanı Mahmud Abbas, Birleşmiş Milletler Genel Kurulu'nda açıklamalarda bulundu. Filistin lideri Abbas, \"İsrail devlet terörü işliyor\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/filistin-devlet-baskani-abbas-israil-devlet-teroru-isliyor-filistin-halki-en-zor-gunlerinde-43318422"
         },
         {
-          "title": "11 yıl sonra ABD'ye tarihi ziyaret. İşte Trump-Şi zirvesinin gündem maddeleri",
-          "summary": "Çin Devlet Başkanı Şi Cinping 11 yıl aradan sonra ilk kez resmi ziyaret için ABD'de. Dünya iki lider arasındaki kritik görüşmeye odaklandı. İşte Trump ve Şi'nin gündemindeki en sıcak konular... ABD Başkanı Donald Trump, 64 yıl sonra bir ilke imza attı. Trump 11 yıl aradan sonra ilk kez resmi ziyaret için ülkeye gelen Çin Devlet Başkanı Şi Cinping'i, Maryland'deki Andrews Hava Üssü'nde uçağının kapısında görkemli bir törenle karşıladı.",
-          "source": "https://www.ntv.com.tr/dunya/11-yil-sonra-abdye-tarihi-ziyaret-iste-trump-si-zirvesinin-gundem-maddeleri-1743279"
+          "title": "Arnavutluk'tan Gazze kararı: Yasa tasarısı onaylandı",
+          "summary": "Arnavutluk Meclisi, Gazze'de konuşlandırılması planlanan \"Uluslararası İstikrar Gücü\" kapsamında Arnavutluk Silahlı Kuvvetleri mensuplarının bölgeye gönderilmesini onayladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/arnavutluktan-gazze-karari-yasa-tasarisi-onaylandi-43318344"
         },
         {
-          "title": "11 yıl sonra ilk! Trump uçağın kapısında karşıladı",
-          "summary": "ABD Başkanı Donald Trump, Çinli mevkidaşı Şi Cinping'i Joint Base Andrews Hava Üssü'nde kırmızı halı ve askeri uçak gösterisiyle karşıladı. Bu, bir ABD başkanının 11 yıl sonra ilk kez bir yabancı lideri üste karşılaması oldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/11-yil-sonra-ilk-trump-ucagin-kapisinda-karsiladi-43317788"
+          "title": "AB içinde \"Made in Europe\" kavgası. Milyarlarca euroluk teşvik kime gidecek?",
+          "summary": "Avrupa Birliği, kamu ihaleleri ve sübvansiyonlarda yerli üretimi şart koşan Sanayi Hızlandırma Yasası tasarısı nedeniyle derin bir görüş ayrılığına sürüklendi. Avrupa Birliği, kamu kaynaklarını stratejik yerli sanayiyi ayağa kaldırmak amacıyla kullanmaya hazırlanırken, Brüksel'de \"Made in Europe\" (Avrupa'da Üretilmiştir) kavramının sınırları üzerine şiddetli bir anlaşmazlık yaşanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ab-icinde-made-in-europe-kavgasi-milyarlarca-euroluk-tesvik-kime-gidecek-1743337"
         },
         {
-          "title": "Rusya'dan Kiev ve Harkiv'e saldırı: 8 ölü",
-          "summary": "Rus güçlerinin Ukrayna'nın başkenti Kiev'e balistik füze ve insansız hava araçlarıyla (İHA) düzenlediği saldırıda 2 kişi hayatını kaybederken, Harkiv'de sebze deposuna gerçekleştiriklen İHA saldırısında 6 kişi öldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-kiev-ve-harkive-saldiri-8-olu-43317766"
+          "title": "Merakla beklenen zirve öncesi Trump'tan Çin Devlet Başkanı Şi'ye övgüler",
+          "summary": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi ile yapacağı görüşme öncesinde, \"Şi ile büyük bir gün\" paylaşımı yaptı. Trump başka bir paylaşımında da Şi ve eşine övgüler yağdırdı. ABD Başkanı Donald Trump, Çin Devlet Başkanı ile yapacağı görüşmeye ilişkin yaptığı açıklamada, \"Çin Devlet Başkanı Şi ile büyük bir gün. Süper Zeka (SI), görüşmelerin önemli bir konusu olacak\" dedi. ABD Başkanı Donald Trump, bugün TSİ 19.00'da Washington DC.‘de Çin Devlet Başkanı Şi Cinping'i ağırlayacak.",
+          "source": "https://www.ntv.com.tr/dunya/merakla-beklenen-zirve-oncesi-trumptan-cin-devlet-baskani-siye-ovguler-1743335"
         }
       ]
     },
@@ -124,48 +124,68 @@
       ]
     },
     "spor": {
-      "text": "Fatih Terim'den Okan Buruk'a mesaj: Kalkacaksın!. Türkiye'nin UEFA Uluslar Ligi'ndeki ilk rakibi Fransa. Basketbol Süper Ligi'nde 61. sezon yarın başlayacak. Formula 1'de sıradaki durak Azerbaycan. A Milli Takım'dan Ümit Milli Takım'a takviye. Hollanda’nın maçlarında goller karşılıklı gelmeye devam ediyor! İşte Misli’den günün tüyoları. Vincenzo Italiano'dan Beşiktaş ve Türkiye itirafları: 'Çocukluğumdaki duyguları yeniden yaşıyormuşum gibi hissediyorum!'.",
+      "text": "Beşiktaşlı Olaitan, zirveye oynuyor! Rakibi Yamal. David Alaba yeni takımına imzayı attı. UEFA Uluslar Ligi maçlarının bol gollü geçmesi bekleniyor! İşte Misli’ de günün en çok oynanan maçları... Ankara'da 9 koşuluk program! İşte Misli'den günün altılı analizi... Beşiktaş, Fenerbahçe ya da Galatasaray! Türkiye ihtimali doğdu. Çorum FK'da Uğur Uçar dönemi sona erdi. Süper Lig ekibinde Abdullah Avcı sesleri!.",
       "items": [
         {
-          "title": "Fatih Terim'den Okan Buruk'a mesaj: Kalkacaksın!",
-          "summary": "Galatasaray'ın efsane teknik direktörü Fatih Terim, son olarak Trabzonspor'a 4-0 mağlup olan sarı kırmızılılarda eleştiri oklarının hedefi olan Okan Buruk hakkında konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fatih-terimden-okan-buruka-mesaj-kalkacaksin-43317919"
+          "title": "Beşiktaşlı Olaitan, zirveye oynuyor! Rakibi Yamal",
+          "summary": "Beşiktaş’ta sezon fırtına gibi başlayan Junior Olaitan, istatistiklerde önemli bir başarı elde etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasli-olaitan-zirveye-oynuyor-rakibi-yamal-43318316"
         },
         {
-          "title": "Türkiye'nin UEFA Uluslar Ligi'ndeki ilk rakibi Fransa",
-          "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki ilk maçında yarın Kocaeli'de Fransa ile karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turkiyenin-uefa-uluslar-ligindeki-ilk-rakibi-fransa-43317886"
+          "title": "David Alaba yeni takımına imzayı attı",
+          "summary": "Real Madrid'le yollarını ayıran Avusturyalı savunma oyuncusu David Alaba, İtalyan ekibi Udinese ile sözleşme imzaladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/david-alaba-yeni-takimina-imzayi-atti-43318336"
         },
         {
-          "title": "Basketbol Süper Ligi'nde 61. sezon yarın başlayacak",
-          "summary": "Türkiye Sigorta Basketbol Süper Ligi'nde 61. sezon yarın başlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-61-sezon-yarin-baslayacak-43317872"
+          "title": "UEFA Uluslar Ligi maçlarının bol gollü geçmesi bekleniyor! İşte Misli’ de günün en çok oynanan maçları...",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-uluslar-ligi-maclarinin-bol-gollu-gecmesi-bekleniyor-iste-misli-de-gunun-en-cok-oynanan-maclari-43318308"
         },
         {
-          "title": "Formula 1'de sıradaki durak Azerbaycan",
-          "summary": "Formula 1 Dünya Şampiyonası'nda heyecan, sezonun 15. yarışı Azerbaycan Grand Prix'siyle devam edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/formula-1de-siradaki-durak-azerbaycan-43317855"
+          "title": "Ankara'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
+          "summary": "Ankara 75. Yıl Hipodromu, bugün yarışseverleri 9 koşudan oluşan heyecan dolu bir programla buluşturuyor. Günün programında, birbirine denk güçte safkanların mücadele edeceği zorlu handikap koşularının yanı sıra, kalite isimlerin sahne alacağı önemli mücadeleler de dikkat çekiyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43318250"
         },
         {
-          "title": "A Milli Takım'dan Ümit Milli Takım'a takviye",
-          "summary": "A Milli Takım kadrosunda bulunan İlhan Fakılı, Ukrayna ile oynanacak kritik maç öncesi Ümit Milli Takım kadrosuna dahil edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takimdan-umit-milli-takima-takviye-43317836"
+          "title": "Beşiktaş, Fenerbahçe ya da Galatasaray! Türkiye ihtimali doğdu",
+          "summary": "Brezilya'nın son dönemde yetiştirdiği önemli golcülerden Gabriel Barbosa (Gabigol), geleceğine yönelik sürpriz bir karar aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-fenerbahce-ya-da-galatasaray-turkiye-ihtimali-dogdu-43318062"
         },
         {
-          "title": "Hollanda’nın maçlarında goller karşılıklı gelmeye devam ediyor! İşte Misli’den günün tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hollandanin-maclarinda-goller-karsilikli-gelmeye-devam-ediyor-iste-misliden-gunun-tuyolari-43317833"
+          "title": "Çorum FK'da Uğur Uçar dönemi sona erdi",
+          "summary": "Süper Lig ekiplerinden Çorum FK, teknik direktör Uğur Uçar ile karşılıklı anlaşarak yolların ayrıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/corum-fkda-ugur-ucar-donemi-sona-erdi-43318197"
         },
         {
-          "title": "Vincenzo Italiano'dan Beşiktaş ve Türkiye itirafları: 'Çocukluğumdaki duyguları yeniden yaşıyormuşum gibi hissediyorum!'",
-          "summary": "Beşiktaş teknik direktörü Vincenzo Italiano, Beşiktaş ve Türkiye tercihinden dolayı son derece mutlu olduğunu belirterek, \"Buradaki atmosfer olağanüstü, çocukluğumdaki duyguları yeniden yaşıyormuşum gibi hissediyorum\" ifadelerini kullandı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italianodan-besiktas-ve-turkiye-itiraflari-cocuklugumdaki-duygulari-yeniden-yasiyormusum-gibi-hissediyorum-buradaki-43317618"
+          "title": "Süper Lig ekibinde Abdullah Avcı sesleri!",
+          "summary": "Süper Lig ekiplerinden Çorum FK, teknik direktör Uğur Uçar ile yollarını ayırdı. Kırmızı-siyahlılar, deneyimli teknik adam Abdullah Avcı'yı gündemine aldı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-lig-ekibinde-abdullah-avci-sesleri-43318124"
         }
       ]
     },
     "teknoloji": {
-      "text": "Yapay zeka şirketlerinin yöneticilerinden BMGK'de kritik uyarılar. Meta'dan akıllı telefona rakip yeni cihaz. Cebe sığacak. UniChallenge Tech tamamlandı. Programın kapsamı ilk kez genişletildi. Meta, kamerasız akıllı gözlüğünü tanıttı. Yapay zeka Avustralya devlet sitesini hackledi. Yapay zeka zirvesi. Ya yeni rönesans ya da kaos. İngiltere, askeri uzay filosu kuruyor.",
+      "text": "Yapay zeka biyoloji laboratuvarına girdi: Claude yeni sistemin izini buldu. YouTube kapıyı kapattı: Böyle bir düşüncemiz yok. Yapay zekâ ve bankacılık İstanbul’da masaya yatırılacak. Kızıl Gezegen şaşırtmaya devam ediyor. Şimdi de sıcak su izleri bulundu. Yapay zeka şirketlerinin yöneticilerinden BMGK'de kritik uyarılar. Meta'dan akıllı telefona rakip yeni cihaz. Cebe sığacak. UniChallenge Tech tamamlandı. Programın kapsamı ilk kez genişletildi.",
       "items": [
+        {
+          "title": "Yapay zeka biyoloji laboratuvarına girdi: Claude yeni sistemin izini buldu",
+          "summary": "Anthropic, Claude yapay zeka modelinin geniş DNA veri tabanlarını analiz ederek CRISPR gen düzenleme mekanizmalarını andıran yeni bir enzim sisteminin temel özelliklerini ortaya çıkardığını açıkladı. Yapay zeka şirketi Anthropic, Claude modelinin geniş DNA veri tabanlarını analiz ederek daha önce bütünüyle tanımlanmamış yeni bir enzim sistemini ortaya çıkarmaya yardımcı olduğunu açıkladı. Şirket, söz konusu sistemin bazı özelliklerinin gen düzenleme teknolojisi CRISPR’da görülen mekanizmaları andırdığını belirtti.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-biyoloji-laboratuvarina-girdi-claude-yeni-sistemin-izini-buldu-1743341"
+        },
+        {
+          "title": "YouTube kapıyı kapattı: Böyle bir düşüncemiz yok",
+          "summary": "YouTube Üst Yöneticisi (CEO) Neal Mohan, çocuk güvenliği konusunda Meta’nın çok eyaletli uzlaşma adımına katılma fikrini reddederek video platformunun genç kullanıcıları korumak için halihazırda gerekli önlemleri aldığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/youtube-kapiyi-kapatti-boyle-bir-dusuncemiz-yok-43318324"
+        },
+        {
+          "title": "Yapay zekâ ve bankacılık İstanbul’da masaya yatırılacak",
+          "summary": "Yapay zekâ, bankaların teknoloji altyapısından müşteri deneyimine, risk yönetiminden iş modellerine kadar değer zincirini yeniden şekillendiriyor. Bankalararası Kart Merkezi (BKM) dijital cüzdanı BEX Dijital Cüzdan katkılarıyla düzenlenen İstanbul Fintech Week 2026, 5–7 Ekim’de Hilton İstanbul Maslak’ta gerçekleştirilecek.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-ve-bankacilik-istanbulda-masaya-yatirilacak-43318254"
+        },
+        {
+          "title": "Kızıl Gezegen şaşırtmaya devam ediyor. Şimdi de sıcak su izleri bulundu",
+          "summary": "Amerikan Ulusal Havacılık ve Uzay Dairesi'nin (NASA) Mars'taki keşif aracı Perseverance, bir zamanlar Kızıl Gezegen'de sıcak su akıntıları olduğuna dair bulgulara ulaştı. Yüzeyden kaya örnekleri toplamak, bunları analiz etmek ve geçmişten kalma olası yaşam belirtileri aramak üzere 2021 yılında NASA tarafından Mars'a indirilen gezgin keşif aracı Perseverance şimdi de Kızıl Gezegen'deki bir krater yakınında çok eski zamanlardan kalma sıcak su izlerine rastladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/kizil-gezegen-sasirtmaya-devam-ediyor-simdi-de-sicak-su-izleri-bulundu-1743312"
+        },
         {
           "title": "Yapay zeka şirketlerinin yöneticilerinden BMGK'de kritik uyarılar",
           "summary": "Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) yapay zeka şirketleri OpenAI ve Anthropic'in yöneticileri, yapay zeka konusunda önemli uyarılarda bulunarak küresel işbirliği çağrısı yaptı. ABD'li teknoloji şirketlerinden OpenAI Üst Yöneticisi Sam Altman ile Anthropic'in Üst Yöneticisi Dario Amodei, Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) gelecekte kontrolün yapay zekaya kaptırılma riski konusunda uyarılarda bulunarak gerekli düzenlemeler için küresel işbirliği çağrısında bulundu.",
@@ -180,26 +200,6 @@
           "title": "UniChallenge Tech tamamlandı. Programın kapsamı ilk kez genişletildi",
           "summary": "IAB tarafından genç yetenekleri dijital pazarlama ve teknoloji ekosistemiyle buluşturmak amacıyla düzenlenen UniChallenge Tech, Lenovo Türkiye ana sponsorluğunda 8. dönemini tamamladı. Programın hedef kitlesi bu yıl ilk kez genişletilerek, bölümü ne olursa olsun teknolojiye ilgi duyan üniversite öğrencileri ve yeni mezunlara açıldı. Bu dönemde 17 üniversiteden ve 11 farklı şehirden 26 genç mezun oldu ve mezunların 16'sı İstanbul dışındaki üniversitelerden geldi.",
           "source": "https://www.ntv.com.tr/teknoloji/unichallenge-tech-tamamlandi-programin-kapsami-ilk-kez-genisletildi-1743263"
-        },
-        {
-          "title": "Meta, kamerasız akıllı gözlüğünü tanıttı",
-          "summary": "Kameralı gözlüklerin mahremiyet ihlallerine yol açtığına yönelik küresel çapta endişeler artarken Amerikan teknoloji firması Meta, sadece ses özelliği bulunan kamerasız akıllı gözlüklerini tanıttı. Özellikle kadın ve kız çocuklarının, rızaları olmadan başkaları tarafından görüntülenmesine yönelik dünya çapında tepkiler ve mahremiyetle ilgili endişeler sürerken, Amerikan teknoloji devi Meta, bu kez de sadece ses özelliği olan \"kamerasız\" akıllı gözlük geliştirdi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-meta-kamerasiz-akilli-gozlugunu-tanitti-1743261"
-        },
-        {
-          "title": "Yapay zeka Avustralya devlet sitesini hackledi",
-          "summary": "OpenAI'ın geliştirdiği bir yapay zeka ajanı, Avustralya hükümetinin sağlık verileri portalına siber saldırı düzenleyip yetkisiz olarak dosyalara erişti. OpenAI, son aylarda şirketleri ve hükümetleri alarma geçiren yapay zeka saldırılarında bir ilke imza attı. Avustralya hükümeti, OpenAI tarafından geliştirilen bir yapay zeka ajanının haziran ayında resmi bir sağlık verileri portalına sızarak dosyalara eriştiğini duyurdu.",
-          "source": "https://www.ntv.com.tr/teknoloji/yapay-zeka-avustralya-devlet-sitesini-hackledi-1743205"
-        },
-        {
-          "title": "Yapay zeka zirvesi. Ya yeni rönesans ya da kaos",
-          "summary": "Yapay zeka teknolojisinin öncüleri Sam Altman ve Dario Amodei, Birleşmiş Milletler Güvenlik Konseyi'nde gelecek için uyardı: \"Kötü yönetilmesi halinde bütün olarak insanlık için risk oluşturabilir.\" ABD'li teknoloji devleri OpenAI Üst Yöneticisi Sam Altman ile Anthropic'in Üst Yöneticisi Dario Amodei, Birleşmiş Milletler Güvenlik Konseyi'nde (BMGK) \"yapay zeka ve uluslararası güvenlik\" başlığı altında düzenlenen toplantıda değerlendirmeler yaptı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-zirvesi-ya-yeni-yeni-ronesans-ya-da-kaos-1743204"
-        },
-        {
-          "title": "İngiltere, askeri uzay filosu kuruyor",
-          "summary": "İngiltere, uzaydaki çıkarlarını ve uydularını düşman müdahaleleri ve saldırılardan korumak amacıyla askeri uzay filosu kuracak. İngiltere, uzaydaki hasmane eylemlerle ilgili gözlem ve uyarı görevlerini yürüten No 1 Uzay Operasyonları Filosu ile No 2 Uzay Uyarı Filosunun oluşturduğu kuvvetlerine; bu eylemlere karşı doğrudan harekete geçecek olan yeni bir uzay filosu eklemeye hazırlanıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/ingiltere-askeri-uzay-filosu-kuruyor-1743203"
         }
       ]
     },
