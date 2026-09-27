@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-27T10:00:05.349Z",
+  "generatedAt": "2026-09-27T16:00:04.731Z",
   "categories": {
     "gundem": {
-      "text": "Emine Erdoğan'dan Sıfır Atık Hareketi'nin 9'uncu yıl dönümü paylaşımı. Bakan Ersoy: Turizmi dört mevsime ve 81 ilimize yaymak için çalışıyoruz. AK Partili Kasapoğlu: BM 81 Genel Kurulu'nda konuşan Cumhurbaşkanımız, yine adalet bekleyenlerin sesini yükseltti. Yeni Parti Antalya Milletvekili Mustafa Erdem'e rüşvet soruşturması. Aslı adli emanette olan sahte senedin fotokopisiyle milyonlarca dolarlık icra takibi!. TBMM'de yeni yasama yılı 1 Ekim'de başlıyor. İşte Meclis'in yeni dönem gündemi. İstanbul Boğazı'nda görkemli geçit: Preveze Deniz Zaferi 488'inci yıl dönümünde kutlandı.",
+      "text": "Kozinoğlu soruşturmasında gözaltına alınmıştı. Dönemin cezaevi doktoru evinde ölü bulundu. Bakan Güler, şehit Alaattin Buluç’un ailesini ziyaret etti. Kaşif Kozanoğlu soruşturmasında yeni gelişme… Pana Film Direktörü Karademir serbest bırakıldı. İçişleri Bakanı Çiftçi, \"Türkiye Yüzyılı Buluşmaları\" kapsamında Ümraniye'de ziyaretlerde bulundu. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. Ankara’da savunma alanında 4 etkinlik gerçekleştirildi. Özel: Yeni Parti kardeşlik hukukuyla bağlı olanların partisidir.",
       "items": [
         {
-          "title": "Emine Erdoğan'dan Sıfır Atık Hareketi'nin 9'uncu yıl dönümü paylaşımı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Sıfır Atık Hareketi'nin önemine dikkat çekerek \"Evlerden okullara, şehirlerden uluslararası platformlara yayıldı.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-sifir-atik-hareketinin-9uncu-yil-donumu-paylasimi-43321125"
+          "title": "Kozinoğlu soruşturmasında gözaltına alınmıştı. Dönemin cezaevi doktoru evinde ölü bulundu",
+          "summary": "Kozinoğlu soruşturması kapsamında gözaltına alınan ve adli kontrol şartıyla serbest bırakılan o dönemin eski cezaevi doktoru Turgay Tamer evinde ölü bulundu. Ergenekon davasında tutuklu bulunduğu sırada, 2011 yılında Silivri'deki cezaevinde yaşamını yitiren Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturma sürüyor. Soruşturma kapsamında gözaltına alınan ve daha sonra adli kontrol tedbiri ile serbest bırakılan Turgay Tamer (66) evinde ölü bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasinda-gozaltina-alinmisti-cezaevi-doktoru-evine-olu-bulundu-1743761"
         },
         {
-          "title": "Bakan Ersoy: Turizmi dört mevsime ve 81 ilimize yaymak için çalışıyoruz",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, 27 Eylül Dünya Turizm Günü dolayısıyla yayımladığı mesajda, Türkiye’nin eşsiz doğal ve kültürel zenginliklerine dikkat çekerek turizmin dört mevsime ve 81 ile yayılması hedefiyle çalışmaların sürdüğünü vurguladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-ersoy-turizmi-dort-mevsime-ve-81-ilimize-yaymak-icin-calisiyoruz-43321114"
+          "title": "Bakan Güler, şehit Alaattin Buluç’un ailesini ziyaret etti",
+          "summary": "Milli Savunma Bakanı Yaşar Güler, Diyarbakır’ın Lice ilçesinde şehit olan Alaattin Buluç’un İstanbul’da yaşayan ailesini ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-guler-sehit-alaattin-bulucun-ailesini-ziyaret-etti-43321468"
         },
         {
-          "title": "AK Partili Kasapoğlu: BM 81 Genel Kurulu'nda konuşan Cumhurbaşkanımız, yine adalet bekleyenlerin sesini yükseltti",
-          "summary": "AK Parti İzmir Milletvekili, Türkiye-ABD Parlamentolar Arası Dostluk Grubu Başkanı Dr. Mehmet Kasapoğlu, Birleşmiş Milletler (BM) 81. Genel Kurulu'nda konuşan Cumhurbaşkanı Recep Tayyip Erdoğan'ın kürsüye her adım attığında ezber bozan, mazlumların ve adaleti mumla arayanların derdini doğrudan yüzlere çarpan bir tavır ortaya koyduğunu belirtip, \"Yine adalet bekleyenlerin sesini yükseltti\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-kasapoglu-bm-81-genel-kurulunda-konusan-cumhurbaskanimiz-yine-adalet-bekleyenlerin-sesini-yukseltti-43321098"
+          "title": "Kaşif Kozanoğlu soruşturmasında yeni gelişme… Pana Film Direktörü Karademir serbest bırakıldı",
+          "summary": "Kaşif Kozanoğlu soruşturmasında ifade veren Pana Film Direktörü Karademir adli kontrol şartıyla serbest bırakıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kasif-kozanoglu-sorusturmasinda-yeni-gelisme-pana-film-direktoru-karademir-serbest-birakildi-43321460"
         },
         {
-          "title": "Yeni Parti Antalya Milletvekili Mustafa Erdem'e rüşvet soruşturması",
-          "summary": "Ankara Cumhuriyet Başsavcılığı, Yeni Parti Antalya Milletvekili Mustafa Erdem hakkında \"rüşvet\" suçundan resen soruşturma başlattı. Ankara Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçlar Soruşturma Bürosu tarafından yürütülen soruşturma kapsamında elde edilen deliller neticesinde; Yeni Parti Antalya Milletvekili Mustafa Erdem hakkında 5237 sayılı TCK'nın 252. maddesi uyarınca rüşvet suçundan re'sen soruşturma başlatıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/yeni-parti-antalya-milletvekili-mustafa-erdeme-rusvet-sorusturmasi-1743692"
+          "title": "İçişleri Bakanı Çiftçi, \"Türkiye Yüzyılı Buluşmaları\" kapsamında Ümraniye'de ziyaretlerde bulundu",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, okul saldırılarına ilişkin, \"Bu sene içerisinde Kahramanmaraş saldırısından sonra sosyal medya platformlarında veya birtakım Telegram gibi gruplarda eylem yapacağını belirten, bununla ilgili paylaşımlarda bulunan çocuklardan 2 bin 419 kişiyi gözaltına aldık, 243 tanesi tutuklandı. Onlar da şu anda cezaevindeler.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftci-turkiye-yuzyili-bulusmalari-kapsaminda-umraniyede-ziyaretlerde-bulundu-43321459"
         },
         {
-          "title": "Aslı adli emanette olan sahte senedin fotokopisiyle milyonlarca dolarlık icra takibi!",
-          "summary": "Antalya'da sahte senet nedeniyle hapis cezası alan cezaevindeki Zekai Kaplan, aynı senedin fotokopisiyle hırdavatçı Hasan Uzuner hakkında yeniden 3,27 milyon dolarlık icra takibi başlattı. Mağdur iş insanı hukuk mücadelesi başlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/asli-adli-emanette-olan-sahte-senedin-fotokopisiyle-milyonlarca-dolarlik-icra-takibi-43321093"
+          "title": "Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız",
+          "summary": "‘TÜRKİYE Yüzyılı Buluşmaları’ kapsamında ziyaret ettiği AK Parti Tuzla İlçe Başkanlığı'nda konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bilimde, teknolojide çok ilerlemiş bir ülke veya ülkeler insanlığın hiçbir kriterine uymayan katliamlar, zulümler işleyebiliyorlar. Gazze bunun en güzel örneği. Dolayısıyla sadece bilim, teknoloji yetmez. Bilimi, teknolojiyi ahlakla, erdemle, hukukla, insan onuruyla birleştirmeden bir medeniyet inşa edilemez. İnsani bir medeniyet inşa edilemez.",
+          "source": "https://www.hurriyet.com.tr/gundem/cevdet-yilmaz-bu-sene-sonu-itibariyla-1-8-trilyon-dolarlik-bir-ekonomi-olacagiz-43321457"
         },
         {
-          "title": "TBMM'de yeni yasama yılı 1 Ekim'de başlıyor. İşte Meclis'in yeni dönem gündemi",
-          "summary": "Türkiye Büyük Millet Meclisi'nde (TBMM) 10 Ağustos’ta çerçeve yasanın kabul edilmesinin ardından başlayan tatil, 1 Ekim Perşembe günü sona erecek. Yeni dönemde Meclis'in gündeminde neler olacak? TBMM'nin tatili bitiyor. Yeni yasama yılı, 1 Ekim Perşembe günü başlayacak. Genel Kurul’da, perşembe günü saat 14.00’te özel oturum düzenlenecek. CUMHURBAŞKANI ERDOĞAN KONUŞMA YAPACAK Cumhurbaşkanı Recep Tayyip Erdoğan yeni yasama yılının açılışında, Genel Kurul'da milletvekillerine seslenecek.",
-          "source": "https://www.ntv.com.tr/turkiye/tbmmde-yeni-yasama-yili-1-ekimde-basliyor-iste-meclisin-yeni-donem-gundemi-1743696"
+          "title": "Ankara’da savunma alanında 4 etkinlik gerçekleştirildi",
+          "summary": "Milli Savunma Bakanlığı, Ankara'da 19'uncu Müttefikler için Uçuşa Elverişlilik Gözden Geçirme Kurulu Toplantısı, 22'nci NATO Uçuşa Elverişlilik Tavsiye Grubu Toplantısı, 17'nci NATO Savaş Zamanı Uçuşa Elverişlilik Yazım Ekibi Toplantısı ve TUSAŞ tesislerinde Teknoloji Günü faaliyetinin yapıldığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-savunma-alaninda-4-etkinlik-gerceklestirildi-43321458"
         },
         {
-          "title": "İstanbul Boğazı'nda görkemli geçit: Preveze Deniz Zaferi 488'inci yıl dönümünde kutlandı",
-          "summary": "Deniz Kuvvetleri Komutanlığı'na ait 15 gemi, Preveze Deniz Zaferi'nin 488'inci yıl dönümü ve Deniz Kuvvetleri Günü kapsamında İstanbul Boğazı'ndan geçiş yaptı. Geçit töreni havadan görüntülendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbul-bogazinda-gorkemli-gecit-preveze-deniz-zaferi-488inci-yil-donumunde-kutlandi-43321076"
+          "title": "Özel: Yeni Parti kardeşlik hukukuyla bağlı olanların partisidir",
+          "summary": "YENİ Parti Genel Başkanı Özgür Özel, \"Yeni Parti kendine ait hedefi olan, özgüveni yüksek olan, bütünün neredeyse tamamına sahip olan, birbirine de çıkar ilişkileri ile değil, kardeşlik hukukuyla bağlı olanların partisidir\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ozel-yeni-parti-kardeslik-hukukuyla-bagli-olanlarin-partisidir-43321455"
         }
       ]
     },
     "dunya": {
-      "text": "Kazakistan'da tatbikatta 14 askerin ölümünün ardından Savunma Bakanı görevden alındı. Güney Afrika'da iki ayrı kanlı baskın. 27 ölü, 26 yaralı. İngiltere'de ABD üssü yakınında acil durum: Bomba imha ekipleri bölgeye sevk edildi. Karadağ'a gidecekler dikkat. Vizesiz seyahat dönemi bitiyor. KKTC'den Kıbrıs Türk halkının izolasyonuna son verme çağrısı: 'Tek ada, iki devlet'. Trump'ın eski avukatı Alina Habba ve Türk iş insanı Turhan Mildon evlendi. Çin'den ABD'ye sürpriz hediyeler.",
+      "text": "Trump’tan İran açıklaması: Bu hafta daha fazla görüşme yapılmasını bekliyoruz. İran, Hürmüz Boğazı'nda ABD'ye ait denizaltı dronu ele geçirdi. Klinik çalışma: Kronik uykusuzluk tedavisi biyolojik yaşlanmayı yavaşlatıyor. İngiltere'de ABD üssü yakınında patlayıcı alarmı. İran'a giden uçaklar buradan kalkıyordu. Fransa'dan İsrail'e Batı Şeria suçlaması. Dışişleri Bakanı Hakan Fidan'dan BM paylaşımı. Azerbaycan'da 2. Karabağ Savaşı'nın 6. yılında şehitler anıldı.",
       "items": [
         {
-          "title": "Kazakistan'da tatbikatta 14 askerin ölümünün ardından Savunma Bakanı görevden alındı",
-          "summary": "Kazakistan’da Hazar Denizi’nde düzenlenen askeri tatbikat sırasında 14 askerin hayatını kaybetmesinin ardından Savunma Bakanı Dauren Kosanov görevden alındı. Hazar Denizi’nde 24 Eylül'de düzenlenen askeri tatbikat sırasında 14 askerin hayatını kaybetmesinin ardından, Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev, Savunma Bakanı Dauren Kosanov’un görevden alınmasına ilişkin kararnameyi imzaladı. Kararnameye göre, Aydos Mırzahmetov Kazakistan Savunma Bakanı olarak atandı.",
-          "source": "https://www.ntv.com.tr/dunya/kazakistanda-tatbikatta-14-askerin-olumunun-ardindan-savunma-bakani-gorevden-alindi-1743709"
+          "title": "Trump’tan İran açıklaması: Bu hafta daha fazla görüşme yapılmasını bekliyoruz",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın gemi trafiğine açılması için İran'ın yaptığı 7 günlük ateşkes teklifini reddetmesinin ardından bu hafta İran ile daha fazla görüşme gerçekleştirilmesini beklediğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-iran-aciklamasi-bu-hafta-daha-fazla-gorusme-yapilmasini-bekliyoruz-43321484"
         },
         {
-          "title": "Güney Afrika'da iki ayrı kanlı baskın. 27 ölü, 26 yaralı",
-          "summary": "Güney Afrika Cumhuriyeti'nde bir bar ve bir eğlence mekanına düzenlenen iki ayrı silahlı saldırıda, ilk belirlemelere göre 27 kişi hayatını kaybetti, 26 kişi de yaralandı. Güney Afrika Cumhuriyeti'nin Johannesburg kentinin güneybatısındaki Wedela kasabasındaki bir barda AK-47 piyade tüfekleri (Kalaşnikof) ve tabancalarla düzenlenen saldırıda ilk belirlemelere göre 17 kişi öldü, 15 kişi de yaralandı.",
-          "source": "https://www.ntv.com.tr/dunya/guney-afrikada-iki-ayri-kanli-baskin-27-olu-26-yarali-1743656"
+          "title": "İran, Hürmüz Boğazı'nda ABD'ye ait denizaltı dronu ele geçirdi",
+          "summary": "İran Devrim Muhafızları, ABD’nin Hürmüz Boğazı’nda casusluk faaliyetlerinde kullandığı \"Remus 600\" tipi gelişmiş bir insansız sualtı aracının ele geçirildiğini bildirdi. İran Devrim Muhafızları Ordusu (DMO), Hürmüz Boğazı’nda ABD’ye ait bir insansız sualtı aracına el koyduğunu duyurdu. Yapılan açıklamada, aracın \"Remus 600\" tipi gelişmiş bir sualtı aracı olduğu belirtildi. Aracın, içerdiği bilgilerin elde edilmesi amacıyla DMO uzmanlarının incelemesinde olduğu kaydedildi.",
+          "source": "https://www.ntv.com.tr/dunya/iran-hurmuz-bogazinda-abdye-ait-denizalti-dronu-ele-gecirdi-1743764"
         },
         {
-          "title": "İngiltere'de ABD üssü yakınında acil durum: Bomba imha ekipleri bölgeye sevk edildi",
-          "summary": "İngiltere'nin Gloucestershire bölgesinde ABD askeri uçaklarının kullanıldığı Fairford Üssü'nün yanındaki Whelford köyündeki bazı evler, \"Patlayıcılar Yasası'nı ihlal\" suçlamasıyla gözaltına alınan bir grup şüpheli nedeniyle boşaltıldı. Acil durum ilan edilen köyde bomba imha ekiplerinin çalışma yürüttüğü kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-abd-ussu-yakininda-acil-durum-bomba-imha-ekipleri-bolgeye-sevk-edildi-43321081"
+          "title": "Klinik çalışma: Kronik uykusuzluk tedavisi biyolojik yaşlanmayı yavaşlatıyor",
+          "summary": "Yeni bir çalışma, kronik uykusuzluk tedavisinde uygulanan ilaçsız yöntem olan bilişsel davranışçı terapinin biyolojik yaşlanma hızını yavaşlattığını gösterdi. ABD'deki California Üniversitesi Los Angeles (UCLA) bünyesinde yürütülen yeni bir klinik çalışma, kronik uykusuzluk çeken ileri yaştaki bireylerde uygulanan bilişsel davranışçı terapinin, biyolojik yaşlanma hızını yavaşlatabildiğini ortaya koydu.",
+          "source": "https://www.ntv.com.tr/dunya/klinik-calisma-kronik-uykusuzluk-tedavisi-biyolojik-yaslanmayi-yavaslatiyor-1743762"
         },
         {
-          "title": "Karadağ'a gidecekler dikkat. Vizesiz seyahat dönemi bitiyor",
-          "summary": "Karadağ, Avrupa Birliği'nin (AB) vize politikasına uyum süreci kapsamında 1 Kasım 2026'dan itibaren Türk vatandaşlarından vize isteyecek. Türk vatandaşlarının halen vizesiz giriş yapabildiği Karadağ, 1 Kasım 2026'dan itibaren vize istemeye başlayacak. Ülkenin AB politikasına uyum süreci kapsamında getirdiği bu düzenleme, Türkiye'nin yanı sıra Belarus, Çin, Rusya ve Suudi Arabistan vatandaşlarını da kapsıyor. Yürürlükte olan uygulamaya göre Türk vatandaşları Karadağ’da 30 güne kadar vizesiz kalabiliyor.",
-          "source": "https://www.ntv.com.tr/dunya/karadaga-gidecekler-dikkat-vizesiz-seyahat-donemi-bitiyor-1743697"
+          "title": "İngiltere'de ABD üssü yakınında patlayıcı alarmı. İran'a giden uçaklar buradan kalkıyordu",
+          "summary": "İngiltere'de ABD uçaklarının İran'a yönelik hava operasyonları için kullanıldığı Fairford Üssü bitişiğindeki köyde bazı evler, patlayıcı operasyonu nedeniyle boşaltıldı. İngiltere'de Gloucestershire Polisinden yapılan yazılı açıklamada, Kraliyet Hava Kuvvetleri (RAF) Fairford Üssü'nün bitişiğindeki Whelford köyündeki bazı evlerin ilan edilen acil durum nedeniyle tahliye edildiği belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/ingilterede-abd-ussu-yakininda-patlayici-alarmi-irana-giden-ucaklar-buradan-kalkiyordu-1743737"
         },
         {
-          "title": "KKTC'den Kıbrıs Türk halkının izolasyonuna son verme çağrısı: 'Tek ada, iki devlet'",
-          "summary": "KKTC Dışişleri Bakanı Tahsin Ertuğruloğlu, New York’ta Ekonomik İşbirliği Teşkilatı (EİT) Dışişleri Bakanları Konseyi Gayriresmi Toplantısı’ndaki konuşmasında, Kıbrıs’ta iki devletin egemen eşitliği ve eşit uluslararası statüsüne dayalı bir anlaşma hedeflediklerini vurgulayan Ertuğruloğlu, \"Kıbrıs Türk halkına uygulanan insanlık dışı izolasyonun sonlandırılmasına yönelik cesur adımlar atmalarını bekliyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kktcden-kibris-turk-halkinin-izolasyonuna-son-verme-cagrisi-tek-ada-iki-devlet-43321067"
+          "title": "Fransa'dan İsrail'e Batı Şeria suçlaması",
+          "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, İsrail hükümetinin, Filistin topraklarının gasbının devam ettiği ve Filistinlilere yönelik şiddetin arttığı işgal altındaki Batı Şeria'da yaşananlara müsamaha gösterdiğini belirtti. Barrot, Tel Aviv yönetiminin Batı Şeria konusunda \"suçlu olduğunu\" kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransadan-israile-bati-seria-suclamasi-43321372"
         },
         {
-          "title": "Trump'ın eski avukatı Alina Habba ve Türk iş insanı Turhan Mildon evlendi",
-          "summary": "ABD Başkanı Donald Trump'ın eski danışmanı ve avukatı Alina Habba ile Türk iş insanı, Çorum FK Asbaşkanı Turhan Mildon New York'ta evlendi. Çorum FK Asbaşkanı ve Miller Holding CEO’su Turhan Mildon ile ABD Başkanı Donald Trump’ın eski avukatı ve danışmanı olan Alina Habba ile ABD'nin New York kentinde dünyaevine girdi.",
-          "source": "https://www.ntv.com.tr/dunya/trumpin-eski-avukati-alina-habba-ve-turk-is-insani-turhan-mildon-evlendi-1743687"
+          "title": "Dışişleri Bakanı Hakan Fidan'dan BM paylaşımı",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Birleşmiş Milletler (BM) 81. Genel Kurul haftasında yoğun bir diplomasi trafiği sürdürdüklerini kaydetti. Fidan, \"Sayın Cumhurbaşkanı'mızın (Recep Tayyip Erdoğan) liderliğinde, ülkemizin hak ve menfaatlerini korumak, bölgemizde barış ve istikrarı güçlendirmek ve daha adil bir uluslararası düzenin inşasına katkı sağlamak için aynı azimle çalışmaya devam edeceğiz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-bm-paylasimi-43321368"
         },
         {
-          "title": "Çin'den ABD'ye sürpriz hediyeler",
-          "summary": "Çin Devlet Başkanı Şi Cinping, ABD ziyaretinde ülkeler arasında dostluk ve iyi niyet göstergesi olarak Washington yönetimine iki panda hediye etme kararı aldı. ABD'ye gönderilmesi kararlaştırılan iki panda yola çıktığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/cinden-abdye-surpriz-hediyeler-43321049"
+          "title": "Azerbaycan'da 2. Karabağ Savaşı'nın 6. yılında şehitler anıldı",
+          "summary": "Azerbaycan'da, Ermenistan'ın işgali altındaki toprakların kurtarılması amacıyla 27 Eylül 2020'de başlatılan ve 44 gün süren 2. Karabağ Savaşı'nın 6. yılında şehitler anıldı. Azerbaycan Cumhurbaşkanı İlham Aliyev, eşi Mihriban Aliyeva ile \"Şehitleri Anma Günü\" dolayısıyla Zafer Anıtı'nı ziyaret etti. Aliyev, anıta çelenk sundu. Başkent Bakü'de vatandaşlar ve şehit yakınları da Askeri Şehitlik'i ziyaret etti. Şehit mezarlarına çiçek bırakan ve dua eden vatandaşlar, zaman zaman gözyaşlarına hakim olamadı.",
+          "source": "https://www.ntv.com.tr/dunya/azerbaycanda-2-karabag-savasinin-6-yilinda-sehitler-anildi-1743757"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Aziz Yıldırım'dan Sadettin Saran yönetimine tepki: 'Paraları yemişsiniz! Erkek gibi neden söylemiyorsunuz?'. Fenerbahçe'nin borcu açıklandı!. Şekip Mosturoğlu: 'Her yıl tekrarlanan seçimlerle istikrar sağlamak mümkün değil'. Arjantin'de final maçında ortalık karıştı: Trivela gol yiyen Muslera, rakibinin boğazına yapıştı!. A Milli Futbol Takımı, 656. maçına İtalya karşısında çıkacak. Anadolu Efes derbide Beşiktaş’ı konuk ediyor! Basketbol Süper Ligi heyecanı canlı sohbet ile Misli'de. Norveç, Portekiz'i ağırlıyor! Uluslar Ligi heyecanı canlı sohbet ile Misli'de.",
+      "text": "Beşiktaş'ın eski yöneticisi Metin Keçeli son yolculuğuna uğurlandı. Fenerbahçe'ye 'stat' müjdesi! Tarih verdi. Er meydanlarının minik pehlivanı \"Arap Osman\"ın hedefi başpehlivanlık!. Milli satranççı Yağız Kaan Erdoğmuş'tan tarihe geçen rekor puan!. Fenerbahçe’de eski başkan Sadettin Saran ve yönetimi ibra edildi. Mancini'den flaş karar: İtalya'da 10 futbolcu Türkiye karşısında olmayacak!. UEFA Uluslar Ligi’nde Almanya ve Danimarka evinde, Hollanda deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları...",
       "items": [
         {
-          "title": "Aziz Yıldırım'dan Sadettin Saran yönetimine tepki: 'Paraları yemişsiniz! Erkek gibi neden söylemiyorsunuz?'",
-          "summary": "Fenerbahçe'nin Olağan Genel Kurulunda Başkan Aziz Yıldırım, Sadettin Saran döneminde yöneticilik yapan Orhan Demirel'e, \"Paraları yemişsiniz, çıkın erkek gibi 'yedik' deyin, neden söylemiyorsunuz?\" sözleriyle tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirimdan-sadettin-saran-yonetimine-tepki-paralari-yemissiniz-erkek-gibi-neden-soylemiyorsunuz-43321094"
+          "title": "Beşiktaş'ın eski yöneticisi Metin Keçeli son yolculuğuna uğurlandı",
+          "summary": "Beşiktaş Kulübünün 77 yaşında vefat eden eski yöneticisi Metin Keçeli'nin cenazesi, İstanbul'da toprağa verildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-eski-yoneticisi-metin-keceli-son-yolculuguna-ugurlandi-43321414"
         },
         {
-          "title": "Fenerbahçe'nin borcu açıklandı!",
-          "summary": "Fenerbahçe Kulübünün olağan mali ve idari genel kurulunda borcun 31 Mayıs 2026 tarihi itibariyle 27 milyar 821 milyon lira olduğu açıklandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-borcu-aciklandi-43321075"
+          "title": "Fenerbahçe'ye 'stat' müjdesi! Tarih verdi",
+          "summary": "Fenerbahçe Yönetim Kurulu Üyesi Nihat Özbağı, Fenerbahçe Stadı'nın kapasite artışı sonrası 64 bin kişiyle Türkiye'nin kulüp bazında en büyük stat olacağını belirterek, \"Bu projelerin bedellerini Fenerbahçe’ye hiçbir yük getirmeden ben karşılayacağımı belirtmek istiyorum. Fenerbahçemize feda olsun\" dedi",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-stat-mujdesi-tarih-verdi-43321381"
         },
         {
-          "title": "Şekip Mosturoğlu: 'Her yıl tekrarlanan seçimlerle istikrar sağlamak mümkün değil'",
-          "summary": "Fenerbahçe Yüksek Divan Kurulu Başkanı Şekip Mosturoğlu, “İstikrar, kurumsal başarının en önemli gerekliliğidir. Her yıl tekrarlanan seçimlerle kalıcı bir istikrar sağlamak mümkün değildir. Geçtiğimiz 3 yılda karşı karşıya kaldığımız bu istikrarsız tablo özellikle futbol arzuladığımız şampiyonlukları elde edemeyişimizin sebeplerinden birisidir” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sekip-mosturoglu-her-yil-tekrarlanan-secimlerle-istikrar-saglamak-mumkun-degil-43321053"
+          "title": "Er meydanlarının minik pehlivanı \"Arap Osman\"ın hedefi başpehlivanlık!",
+          "summary": "Tanzanya'da doğup Türk diplomat ailesi tarafından evlat edinilen 11 yaşındaki Osman Ali Davutoğlu, er meydanlarında \"Arap Osman\" olarak sürdürdüğü yağlı güreş kariyerinde başpehlivan olmayı hedefliyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/er-meydanlarinin-minik-pehlivani-arap-osmanin-hedefi-baspehlivanlik-43321359"
         },
         {
-          "title": "Arjantin'de final maçında ortalık karıştı: Trivela gol yiyen Muslera, rakibinin boğazına yapıştı!",
-          "summary": "Arjantin Uluslararası Süper Kupa finalinde karşı karşıya gelen Rosario Central ile Estudiantes maçına, karşılaşmanın son bölümünde yaşanan ve Fernando Muslera'nın başrolünde olduğu tartışmalar damgasını vurdu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/arjantinde-final-macinda-ortalik-karisti-trivela-gol-yiyen-muslera-rakibinin-bogazina-yapisti-43320978"
+          "title": "Milli satranççı Yağız Kaan Erdoğmuş'tan tarihe geçen rekor puan!",
+          "summary": "Büyükusta (GM) ünvanlı milli satranççı Yağız Kaan Erdoğmuş, Özbekistan'da yapılan 46. FIDE Satranç Olimpiyatı'nı yenilgisiz tamamlayarak 15 yaşında ulaşılan en yüksek elo (satranç derecelendirme sistemi) puanı rekorunu kırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/milli-satrancci-yagiz-kaan-erdogmustan-tarihe-gecen-rekor-puan-43321346"
         },
         {
-          "title": "A Milli Futbol Takımı, 656. maçına İtalya karşısında çıkacak",
-          "summary": "UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında yarın İtalya ile karşılaşacak A Milli Futbol Takımı, tarihindeki 656'ncı müsabakaya çıkacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimi-656-macina-italya-karsisinda-cikacak-43321006"
+          "title": "Fenerbahçe’de eski başkan Sadettin Saran ve yönetimi ibra edildi",
+          "summary": "Fenerbahçe Spor Kulübü Olağan Mali Genel Kurul Toplantısı’nda, eski başkan Sadettin Saran ve yönetimi oy çokluğuyla ibra edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-eski-baskan-sadettin-saran-ve-yonetimi-ibra-edildi-43321315"
         },
         {
-          "title": "Anadolu Efes derbide Beşiktaş’ı konuk ediyor! Basketbol Süper Ligi heyecanı canlı sohbet ile Misli'de",
-          "summary": "Basketbol Süper Ligi'nde 2026-27 sezonunun ilk haftasındaki derbide Anadolu Efes, bu akşam Beşiktaş'ı ağırlayacak. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-derbide-besiktasi-konuk-ediyor-basketbol-super-ligi-heyecani-canli-sohbet-ile-mislide-43320917"
+          "title": "Mancini'den flaş karar: İtalya'da 10 futbolcu Türkiye karşısında olmayacak!",
+          "summary": "İtalya Milli Takımı'nın, UEFA Uluslar A Ligi 1. Grup'un ikinci haftasında A Milli Takım ile deplasmanda oynayacağı müsabaka öncesinde aday kadrodaki 10 futbolcuyu Türkiye'ye götürmeyeceği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/manciniden-flas-karar-italyada-10-futbolcu-turkiye-karsisinda-olmayacak-43321184"
         },
         {
-          "title": "Norveç, Portekiz'i ağırlıyor! Uluslar Ligi heyecanı canlı sohbet ile Misli'de",
-          "summary": "UEFA Uluslar A Ligi 4. Grup'ta Norveç, sahasında Portekiz ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/norvec-portekizi-agirliyor-uluslar-ligi-heyecani-canli-sohbet-ile-mislide-43320913"
+          "title": "UEFA Uluslar Ligi’nde Almanya ve Danimarka evinde, Hollanda deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları...",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-uluslar-liginde-almanya-ve-danimarka-evinde-hollanda-deplasmanda-kazanir-iste-misli-de-gunun-en-cok-oynanan-maclari-43321160"
         }
       ]
     },
@@ -204,12 +204,22 @@
       ]
     },
     "saglik": {
-      "text": "En güçlü antioksidan. Tek tek elle toplanıyor. Güçlü bağışıklığın tek kuralı. Özellikle sonbaharda dikkat!. Araştırma umut verdi: Kan testi kanser riskini 8 yıl önceden gösterebilir. Araştırma: Yapay zeka, sigortacıların sağlık maliyetlerini 1 milyar dolara yakın yükseltti. Melatonin kalp sağlığını etkiler mi?. Uyku çiftlerin ortak sorunu: Eşinizin uykusuzluğu yeme düzeninizi bozabilir. \"Demans Pandemisi\" uyarısı: 3 katına çıkması bekleniyor.",
+      "text": "En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor. Gözlerde ortaya çıkıyor. Yaşlanma hızını ve gizli hastalıkları gösteriyor. Sabahları yorgun mu uyanıyorsunuz? Rüyaların şaşırtıcı etkisi. Güçlü bağışıklığın tek kuralı. Özellikle sonbaharda dikkat!. Araştırma umut verdi: Kan testi kanser riskini 8 yıl önceden gösterebilir. Araştırma: Yapay zeka, sigortacıların sağlık maliyetlerini 1 milyar dolara yakın yükseltti. Melatonin kalp sağlığını etkiler mi?.",
       "items": [
         {
-          "title": "En güçlü antioksidan. Tek tek elle toplanıyor",
+          "title": "En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor",
           "summary": "Konya'da alternatif tarım ürünü olarak yetiştirilen aronyada bu yılın hasat dönemi başladı. Aronya meyveleri, olgunlaşan salkımların tek tek elle toplanmasıyla hasat ediliyor. Tahıl üretiminin yaygın olduğu bölgede farklı bir üretim modeli oluşturan Tahsin Tosun, aronyadan elde ettiği verimle üretimini sürdürürken, bu yıl da bahçesinde hasat mesaisine başladı. Küçük taneli meyveler, olgunluk durumlarına göre seçilerek toplanıyor.",
           "source": "https://www.ntv.com.tr/saglik/galeri-en-guclu-antioksidan-tek-tek-elle-toplaniyor-1743699"
+        },
+        {
+          "title": "Gözlerde ortaya çıkıyor. Yaşlanma hızını ve gizli hastalıkları gösteriyor",
+          "summary": "Gözler, vücudun biyolojik yaşlanması ve henüz belirti vermeyen hastalıklar hakkında önemli ipuçları verebilir. Yeni bir araştırma, yapay zeka destekli göz taramasının bireylerin biyolojik yaşlanma hızını ve gizli sistemik hastalıklarını erkenden ortaya koyabildiğini gösterdi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-gozlerde-ortaya-cikiyor-yaslanma-hizini-ve-gizli-hastaliklari-gosteriyor-1743755"
+        },
+        {
+          "title": "Sabahları yorgun mu uyanıyorsunuz? Rüyaların şaşırtıcı etkisi",
+          "summary": "Yeni bir araştırma, rüya görme sırasında beynin ürettiğinden çok daha hızlı enerji tükettiğini ve bu durumun sabahları yorgun uyanmaya yol açtığını gösterdi. Japonya'daki Tohoku Üniversitesi'nde yürütülen yeni bir araştırma, rüyaların görüldüğü REM uykusu sırasında beyne giden kan ve yakıt akışı artmasına rağmen, nöronların doğrudan kullandığı hücresel enerjinin (ATP) hızla tükendiğini ortaya koydu.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-sabahlari-yorgun-mu-uyaniyorsunuz-ruyalarin-sasirtici-etkisi-1743728"
         },
         {
           "title": "Güçlü bağışıklığın tek kuralı. Özellikle sonbaharda dikkat!",
@@ -230,16 +240,6 @@
           "title": "Melatonin kalp sağlığını etkiler mi?",
           "summary": "Uyku için uzun süre melatonin kullananlarda kalp yetersizliğinin daha yüksek bulunduğu bir araştırma dikkatleri üzerine çekti. Ancak çalışma direkt olarak melatoninin kalp yetersizliğine neden olduğunu göstermiyor. Bu çalışmada araştırılan konu aylarca veya yıllarca kontrolsüz şekilde kullanılması, kısa süreli kullanımın güvenilirliği ile ilgili bir soru işareti yok.",
           "source": "https://www.ntv.com.tr/yazarlar/sahin-senay/melatonin-kalp-sagligini-etkiler-mi-1742660"
-        },
-        {
-          "title": "Uyku çiftlerin ortak sorunu: Eşinizin uykusuzluğu yeme düzeninizi bozabilir",
-          "summary": "Kanada’da 204 çiftle yapılan araştırma, bir kişinin kötü uyumasının yalnızca kendi beslenme düzenini değil, partnerinin sağlıklı beslenme çabasını da olumsuz etkileyebileceğini gösterdi. Kötü uykunun sağlıksız beslenmeyle ilişkili olduğu uzun süredir biliniyor. Ancak Kanada'daki Concordia Üniversitesi öncülüğünde yürütülen yeni araştırma, uykusuzluğun aynı evi paylaşan çiftler arasında dolaylı bir etkisi olabileceğini ortaya koydu.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-uyku-ciftlerin-ortak-sorunu-esinizin-uykusuzlugu-yeme-duzeninizi-bozabilir-1741995"
-        },
-        {
-          "title": "\"Demans Pandemisi\" uyarısı: 3 katına çıkması bekleniyor",
-          "summary": "Bilim dünyası, sessizce yaklaşan yeni bir küresel sağlık tehdidine dikkat çekiyor: Demans. Dünya genelinde demansla yaşayanların sayısının 2050’ye kadar 3 katına çıkması bekleniyor.",
-          "source": "https://www.ntv.com.tr/saglik/video-demans-pandemisi-uyarisi-3-katina-cikmasi-bekleniyor-1741966"
         }
       ]
     },
