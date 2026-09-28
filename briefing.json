@@ -1,10 +1,10 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-27T16:00:04.731Z",
+  "generatedAt": "2026-09-28T04:00:04.092Z",
   "categories": {
     "gundem": {
-      "text": "Kozinoğlu soruşturmasında gözaltına alınmıştı. Dönemin cezaevi doktoru evinde ölü bulundu. Bakan Güler, şehit Alaattin Buluç’un ailesini ziyaret etti. Kaşif Kozanoğlu soruşturmasında yeni gelişme… Pana Film Direktörü Karademir serbest bırakıldı. İçişleri Bakanı Çiftçi, \"Türkiye Yüzyılı Buluşmaları\" kapsamında Ümraniye'de ziyaretlerde bulundu. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. Ankara’da savunma alanında 4 etkinlik gerçekleştirildi. Özel: Yeni Parti kardeşlik hukukuyla bağlı olanların partisidir.",
+      "text": "Kozinoğlu soruşturmasında gözaltına alınmıştı. Dönemin cezaevi doktoru evinde ölü bulundu. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Fon soruşturması: Tedbir kararı kaldırıldı. Düğün konvoyunda kaza: 2 ölü, 5 yaralı. Kayalıktan kopan taşlar, babasının kucağındaki çocuğu hayattan kopardı. \"Terörsüz Türkiye\" yürütme kurulu ikinci toplantısını yapacak. EGM'den \"polislerin iş bırakacağı\" iddialarına yalanlama.",
       "items": [
         {
           "title": "Kozinoğlu soruşturmasında gözaltına alınmıştı. Dönemin cezaevi doktoru evinde ölü bulundu",
@@ -12,80 +12,85 @@
           "source": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasinda-gozaltina-alinmisti-cezaevi-doktoru-evine-olu-bulundu-1743761"
         },
         {
-          "title": "Bakan Güler, şehit Alaattin Buluç’un ailesini ziyaret etti",
-          "summary": "Milli Savunma Bakanı Yaşar Güler, Diyarbakır’ın Lice ilçesinde şehit olan Alaattin Buluç’un İstanbul’da yaşayan ailesini ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-guler-sehit-alaattin-bulucun-ailesini-ziyaret-etti-43321468"
+          "title": "Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’",
+          "summary": "Özata Denizcilik Sanayi ve Ticaret A.Ş. (OZATD) pay piyasasında gerçekleştirilen işlemler nedeniyle 11 kişi hakkında suç duyurusunda bulunan SPK, 107’nci maddeyi hatırlattı. Bu kişilerin etkin pişmanlıktan yararlanmak için kazandıkları paranın iki katını ödemeleri gerekecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-krizinde-etkin-pismanlik-kriteri-kazandiginin-iki-katini-ode-43321768"
         },
         {
-          "title": "Kaşif Kozanoğlu soruşturmasında yeni gelişme… Pana Film Direktörü Karademir serbest bırakıldı",
-          "summary": "Kaşif Kozanoğlu soruşturmasında ifade veren Pana Film Direktörü Karademir adli kontrol şartıyla serbest bırakıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kasif-kozanoglu-sorusturmasinda-yeni-gelisme-pana-film-direktoru-karademir-serbest-birakildi-43321460"
+          "title": "Fon soruşturması: Tedbir kararı kaldırıldı",
+          "summary": "Fon soruşturması kapsamında mal varlığı ve para hareketlerine yönelik tedbir uygulanan firmalarla ilgili yapılan yeni değerlendirmeler doğrultusunda, söz konusu tedbirlerin kaldırıldığı açıklandı. İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından yürütülen sermaye piyasası soruşturması kapsamında, 46 tüzel kişi, 18 fon ve 42 gerçek kişi olmak üzere toplam 106 kişi ve kuruluş hakkında malvarlığı tedbiri uygulanması talep edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-106-kisi-ve-kurulusun-mal-varligi-incelenecek-1743776"
         },
         {
-          "title": "İçişleri Bakanı Çiftçi, \"Türkiye Yüzyılı Buluşmaları\" kapsamında Ümraniye'de ziyaretlerde bulundu",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, okul saldırılarına ilişkin, \"Bu sene içerisinde Kahramanmaraş saldırısından sonra sosyal medya platformlarında veya birtakım Telegram gibi gruplarda eylem yapacağını belirten, bununla ilgili paylaşımlarda bulunan çocuklardan 2 bin 419 kişiyi gözaltına aldık, 243 tanesi tutuklandı. Onlar da şu anda cezaevindeler.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftci-turkiye-yuzyili-bulusmalari-kapsaminda-umraniyede-ziyaretlerde-bulundu-43321459"
+          "title": "Düğün konvoyunda kaza: 2 ölü, 5 yaralı",
+          "summary": "Karaman'da, düğün konvoyundaki otomobil, karşı yönden gelen otomobille kafa kafaya çarpıştı. Kazada, 2 kişi hayatını kaybederken, 5 kişi de yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/dugun-konvoyunda-kaza-2-olu-5-yarali-43321779"
         },
+        {
+          "title": "Kayalıktan kopan taşlar, babasının kucağındaki çocuğu hayattan kopardı",
+          "summary": "Kayseri'de babasının kucağındayken kayalık alandan başına taş düşen 3 yaşındaki çocuk hayatını kaybetti. Kayseri'nin merkez Hacılar ilçesinde R.Ş., kucağındaki 3 yaşındaki oğlu K.Ş. ile kayalık alanda dolaştığı sırada, henüz belirlenemeyen bir nedenle yukarıdan taşlar düşmeye başladı. 3 yaşındaki çocuk, taşlardan birinin kafasına çarpması sonucu ağır yaralandı. Olay yerine polis ve sağlık ekipleri sevk edildi. Küçük çocuk, sağlık ekiplerince kaldırıldığı hastanedeki müdahaleye rağmen kurtarılamadı.",
+          "source": "https://www.ntv.com.tr/turkiye/kayaliktan-kopan-taslar-babasinin-kucagindaki-cocugu-hayattan-kopardi-1743786"
+        },
+        {
+          "title": "\"Terörsüz Türkiye\" yürütme kurulu ikinci toplantısını yapacak",
+          "summary": "\"Terörsüz Türkiye\" süreci kapsamında kurulan yürütme kurulunun ikinci toplantısı bugün gerçekleştirecek. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Terörsüz Türkiye\" süreci kapsamında kurulan ve kendisinin başkanlık ettiği yürütme kurulunun bu sabah ikinci toplantısını gerçekleştireceğini açıkladı. Doğu ve Güneydoğu Anadolu Bölgeleri Kanaat Önderleri Buluşması’nda konuşan Yılmaz, \"Buradan bir haber olarak da vermiş olayım, sabah ikinci toplantımızı yapacağız inşallah kurul olarak. Bu kurulun görevi nedir?",
+          "source": "https://www.ntv.com.tr/turkiye/terorsuz-turkiye-yurutme-kurulu-ikinci-toplantisini-yapacak-1743773"
+        },
+        {
+          "title": "EGM'den \"polislerin iş bırakacağı\" iddialarına yalanlama",
+          "summary": "Emniyet Genel Müdürlüğü (EGM), bazı sosyal medya platformları ve haber sitelerinde yer alan \"polislerin iş bırakacağı\" yönündeki iddiaların gerçeği yansıtmadığını bildirdi. EGM'nin sosyal medya hesabından yapılan açıklamada, bazı sosyal medya hesaplarında ve haber sitelerinde yer alan \"polislerin iş bırakacağı\" yönündeki iddialar nedeniyle açıklama yapılmasına ihtiyaç duyulduğu belirtildi.",
+          "source": "https://www.ntv.com.tr/turkiye/egmden-polislerin-is-birakacagi-iddialarina-yalanlama-1743784"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Uzay diplomasisi. Çin, Pakistan'ı yörüngeye taşıyor. Trump, Hürmüz Boğazı'nı \"Trump Boğazı\" olarak niteleyen görsel paylaştı. ABD ve İran'dan karşılıklı açıklamalar. Tayland'da sel felaketi! 8 ölü. Trump: Bu hafta İran'la daha fazla görüşme yapılmasını bekliyorum. İran Dışişleri Bakanı Arakçi: Savaşa da, diplomasiye de hazırız. Sırbistan erken seçime gidiyor. Cumhurbaşkanı Vucic istifa etti.",
+      "items": [
+        {
+          "title": "Uzay diplomasisi. Çin, Pakistan'ı yörüngeye taşıyor",
+          "summary": "Çin, Pakistan'la süren işbirliğini uzaya taşıyor. Pakistanlı iki astronot adayı pilot, Tiangong uzay istasyonunda görev yapacak ilk yabancı olmak için eğitim alıyor, Çince öğreniyor. Pakistan ve Çin, son yıllarda ilerlettikleri diplomatik ve askeri ilişkilerini bir adım öteye taşıyor. Çin'in ABD'yle rekabetinin en önemli sahalarından biri olan uzay yarışına Pakistan'ı da dahil etti. Çin Ulusal Uzay İdaresi (CNSA), tarihte bir ilki gerçekleştirerek Tiangong uzay istasyonuna yabancı bir astronot gönderecek.",
+          "source": "https://www.ntv.com.tr/dunya/uzay-diplomasisi-cin-pakistani-yorungeye-tasiyor-1743789"
+        },
+        {
+          "title": "Trump, Hürmüz Boğazı'nı \"Trump Boğazı\" olarak niteleyen görsel paylaştı",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nı \"Trump Boğazı\" olarak gösteren bir görsel paylaştı.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-hurmuz-bogazini-trump-bogazi-olarak-niteleyen-gorsel-paylasti-43321765"
+        },
+        {
+          "title": "ABD ve İran'dan karşılıklı açıklamalar",
+          "summary": "İran Dışişleri Bakanı Abbas Arakçi, \"Savaşa tamamen hazırız. Aynı zamanda diplomasiye de hazırız.\" dedi. ABD Başkanı Donald Trump ise, bu hafta daha fazla görüşme olabileceğini söyledi. İran Dışişleri Bakanı Abbas Arakçi, ABD televizyon kanalı NBC'ye konuştu. Arakçi, ABD Başkanı Donald Trump'ın Hürmüz Boğazı'nı yeniden açma teklifini kamuoyu önünde reddetmesinin ardından ülkesinin ABD ile yeniden savaşa girmeye hazır olduğunu ancak diplomasiden henüz vazgeçmediğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-ve-irandan-karsilikli-aciklamalar-1743783"
+        },
+        {
+          "title": "Tayland'da sel felaketi! 8 ölü",
+          "summary": "Tayland'da etkili olan şiddetli yağışların yol açtığı sel ve su baskınları nedeniyle son 10 günde 8 kişi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/taylandda-sel-felaketi-8-olu-43321735"
+        },
+        {
+          "title": "Trump: Bu hafta İran'la daha fazla görüşme yapılmasını bekliyorum",
+          "summary": "ABD Başkanı Donald Trump, Amerikan haber sitesi Axios'a verdiği röportajda, \"Bu hafta İran'la daha fazla görüşme yapılmasını bekliyorum. Anlaşma yapmak istiyorlar ancak bu, benim yapmak istediğim anlaşma değil. Bu, belki bir yıl önce kabul etmiş olabileceğimiz bir anlaşma. Fazla ileri gittiler\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-bu-hafta-iranla-daha-fazla-gorusme-yapilmasini-bekliyorum-43321734"
+        },
+        {
+          "title": "İran Dışişleri Bakanı Arakçi: Savaşa da, diplomasiye de hazırız",
+          "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD televizyon kanalı NBC'ye yaptığı açıklamada, \"Savaşın yeniden başlamasına tamamen hazırız. Yeni bir saldırı karşısında, bu kıyamet savaşı anlamına gelse bile kararlı duruyoruz. Aynı zamanda diplomasiye de hazırız. Seçim Başkan Trump'a bağlı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-disisleri-bakani-arakci-savasa-da-diplomasiye-de-haziriz-43321723"
+        },
+        {
+          "title": "Sırbistan erken seçime gidiyor. Cumhurbaşkanı Vucic istifa etti",
+          "summary": "Sırbistan Cumhurbaşkanı Aleksander Vucic istifasını açıkladı. İstifayla ikinci ve son görev süresini erken bitiren Vucic erken seçimin de yolunu açtı. Sırbistan Cumhurbaşkanı Aleksandar Vucic, görevinden istifa ettiğini duyurdu. Vucic, cumhurbaşkanlığı binasında halka sesleniş konuşmasında, istifa kararını imzaladığını, cumhurbaşkanlığına Ulusal Meclis Başkanı Ana Brnabic'in vekalet edeceğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/sirbistan-erken-secime-gidiyor-cumhurbaskani-vucic-istifa-etti-1743780"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında. Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı. Tariş Söke’den pamuğa 102 TL. Türkiye Trafik Durum Raporu açıklandı: İstanbul trafiğinin maliyeti 10 milyar dolar. İZMAR’ın 25’inci mağazası Buca’ya.",
+      "items": [
         {
           "title": "Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız",
           "summary": "‘TÜRKİYE Yüzyılı Buluşmaları’ kapsamında ziyaret ettiği AK Parti Tuzla İlçe Başkanlığı'nda konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bilimde, teknolojide çok ilerlemiş bir ülke veya ülkeler insanlığın hiçbir kriterine uymayan katliamlar, zulümler işleyebiliyorlar. Gazze bunun en güzel örneği. Dolayısıyla sadece bilim, teknoloji yetmez. Bilimi, teknolojiyi ahlakla, erdemle, hukukla, insan onuruyla birleştirmeden bir medeniyet inşa edilemez. İnsani bir medeniyet inşa edilemez.",
           "source": "https://www.hurriyet.com.tr/gundem/cevdet-yilmaz-bu-sene-sonu-itibariyla-1-8-trilyon-dolarlik-bir-ekonomi-olacagiz-43321457"
         },
-        {
-          "title": "Ankara’da savunma alanında 4 etkinlik gerçekleştirildi",
-          "summary": "Milli Savunma Bakanlığı, Ankara'da 19'uncu Müttefikler için Uçuşa Elverişlilik Gözden Geçirme Kurulu Toplantısı, 22'nci NATO Uçuşa Elverişlilik Tavsiye Grubu Toplantısı, 17'nci NATO Savaş Zamanı Uçuşa Elverişlilik Yazım Ekibi Toplantısı ve TUSAŞ tesislerinde Teknoloji Günü faaliyetinin yapıldığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-savunma-alaninda-4-etkinlik-gerceklestirildi-43321458"
-        },
-        {
-          "title": "Özel: Yeni Parti kardeşlik hukukuyla bağlı olanların partisidir",
-          "summary": "YENİ Parti Genel Başkanı Özgür Özel, \"Yeni Parti kendine ait hedefi olan, özgüveni yüksek olan, bütünün neredeyse tamamına sahip olan, birbirine de çıkar ilişkileri ile değil, kardeşlik hukukuyla bağlı olanların partisidir\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ozel-yeni-parti-kardeslik-hukukuyla-bagli-olanlarin-partisidir-43321455"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Trump’tan İran açıklaması: Bu hafta daha fazla görüşme yapılmasını bekliyoruz. İran, Hürmüz Boğazı'nda ABD'ye ait denizaltı dronu ele geçirdi. Klinik çalışma: Kronik uykusuzluk tedavisi biyolojik yaşlanmayı yavaşlatıyor. İngiltere'de ABD üssü yakınında patlayıcı alarmı. İran'a giden uçaklar buradan kalkıyordu. Fransa'dan İsrail'e Batı Şeria suçlaması. Dışişleri Bakanı Hakan Fidan'dan BM paylaşımı. Azerbaycan'da 2. Karabağ Savaşı'nın 6. yılında şehitler anıldı.",
-      "items": [
-        {
-          "title": "Trump’tan İran açıklaması: Bu hafta daha fazla görüşme yapılmasını bekliyoruz",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın gemi trafiğine açılması için İran'ın yaptığı 7 günlük ateşkes teklifini reddetmesinin ardından bu hafta İran ile daha fazla görüşme gerçekleştirilmesini beklediğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-iran-aciklamasi-bu-hafta-daha-fazla-gorusme-yapilmasini-bekliyoruz-43321484"
-        },
-        {
-          "title": "İran, Hürmüz Boğazı'nda ABD'ye ait denizaltı dronu ele geçirdi",
-          "summary": "İran Devrim Muhafızları, ABD’nin Hürmüz Boğazı’nda casusluk faaliyetlerinde kullandığı \"Remus 600\" tipi gelişmiş bir insansız sualtı aracının ele geçirildiğini bildirdi. İran Devrim Muhafızları Ordusu (DMO), Hürmüz Boğazı’nda ABD’ye ait bir insansız sualtı aracına el koyduğunu duyurdu. Yapılan açıklamada, aracın \"Remus 600\" tipi gelişmiş bir sualtı aracı olduğu belirtildi. Aracın, içerdiği bilgilerin elde edilmesi amacıyla DMO uzmanlarının incelemesinde olduğu kaydedildi.",
-          "source": "https://www.ntv.com.tr/dunya/iran-hurmuz-bogazinda-abdye-ait-denizalti-dronu-ele-gecirdi-1743764"
-        },
-        {
-          "title": "Klinik çalışma: Kronik uykusuzluk tedavisi biyolojik yaşlanmayı yavaşlatıyor",
-          "summary": "Yeni bir çalışma, kronik uykusuzluk tedavisinde uygulanan ilaçsız yöntem olan bilişsel davranışçı terapinin biyolojik yaşlanma hızını yavaşlattığını gösterdi. ABD'deki California Üniversitesi Los Angeles (UCLA) bünyesinde yürütülen yeni bir klinik çalışma, kronik uykusuzluk çeken ileri yaştaki bireylerde uygulanan bilişsel davranışçı terapinin, biyolojik yaşlanma hızını yavaşlatabildiğini ortaya koydu.",
-          "source": "https://www.ntv.com.tr/dunya/klinik-calisma-kronik-uykusuzluk-tedavisi-biyolojik-yaslanmayi-yavaslatiyor-1743762"
-        },
-        {
-          "title": "İngiltere'de ABD üssü yakınında patlayıcı alarmı. İran'a giden uçaklar buradan kalkıyordu",
-          "summary": "İngiltere'de ABD uçaklarının İran'a yönelik hava operasyonları için kullanıldığı Fairford Üssü bitişiğindeki köyde bazı evler, patlayıcı operasyonu nedeniyle boşaltıldı. İngiltere'de Gloucestershire Polisinden yapılan yazılı açıklamada, Kraliyet Hava Kuvvetleri (RAF) Fairford Üssü'nün bitişiğindeki Whelford köyündeki bazı evlerin ilan edilen acil durum nedeniyle tahliye edildiği belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/ingilterede-abd-ussu-yakininda-patlayici-alarmi-irana-giden-ucaklar-buradan-kalkiyordu-1743737"
-        },
-        {
-          "title": "Fransa'dan İsrail'e Batı Şeria suçlaması",
-          "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, İsrail hükümetinin, Filistin topraklarının gasbının devam ettiği ve Filistinlilere yönelik şiddetin arttığı işgal altındaki Batı Şeria'da yaşananlara müsamaha gösterdiğini belirtti. Barrot, Tel Aviv yönetiminin Batı Şeria konusunda \"suçlu olduğunu\" kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransadan-israile-bati-seria-suclamasi-43321372"
-        },
-        {
-          "title": "Dışişleri Bakanı Hakan Fidan'dan BM paylaşımı",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Birleşmiş Milletler (BM) 81. Genel Kurul haftasında yoğun bir diplomasi trafiği sürdürdüklerini kaydetti. Fidan, \"Sayın Cumhurbaşkanı'mızın (Recep Tayyip Erdoğan) liderliğinde, ülkemizin hak ve menfaatlerini korumak, bölgemizde barış ve istikrarı güçlendirmek ve daha adil bir uluslararası düzenin inşasına katkı sağlamak için aynı azimle çalışmaya devam edeceğiz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-bm-paylasimi-43321368"
-        },
-        {
-          "title": "Azerbaycan'da 2. Karabağ Savaşı'nın 6. yılında şehitler anıldı",
-          "summary": "Azerbaycan'da, Ermenistan'ın işgali altındaki toprakların kurtarılması amacıyla 27 Eylül 2020'de başlatılan ve 44 gün süren 2. Karabağ Savaşı'nın 6. yılında şehitler anıldı. Azerbaycan Cumhurbaşkanı İlham Aliyev, eşi Mihriban Aliyeva ile \"Şehitleri Anma Günü\" dolayısıyla Zafer Anıtı'nı ziyaret etti. Aliyev, anıta çelenk sundu. Başkent Bakü'de vatandaşlar ve şehit yakınları da Askeri Şehitlik'i ziyaret etti. Şehit mezarlarına çiçek bırakan ve dua eden vatandaşlar, zaman zaman gözyaşlarına hakim olamadı.",
-          "source": "https://www.ntv.com.tr/dunya/azerbaycanda-2-karabag-savasinin-6-yilinda-sehitler-anildi-1743757"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında. Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı. Tariş Söke’den pamuğa 102 TL. Türkiye Trafik Durum Raporu açıklandı: İstanbul trafiğinin maliyeti 10 milyar dolar. İZMAR’ın 25’inci mağazası Buca’ya. Miami’de Ege rüzgarı esti.",
-      "items": [
         {
           "title": "AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek",
           "summary": "AK Parti Sözcüsü Ömer Çelik, fon krizi olarak adlandırılan sürecin ilk andan itibaren titizlikle takip edildiğini belirterek, her türlü usulsüzlükle tavizsiz mücadele edileceğini ve yanlış yapanların hesap vereceğini açıkladı.",
@@ -115,51 +120,46 @@
           "title": "İZMAR’ın 25’inci mağazası Buca’ya",
           "summary": "İZMİR Büyükşehir Belediyesi’nin tanzim satış mağazası İZMAR, 25’inci şubesini Buca Gediz’de hizmete girdi.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmarin-25inci-magazasi-bucaya-43315628"
-        },
-        {
-          "title": "Miami’de Ege rüzgarı esti",
-          "summary": "Ege Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği’nce yürütülen Aegean Cereals, Pulses, Oilseeds and Products UR-GE Projesi kapsamında 10 firma, Miami’de düzenlenen America’s Food & Beverage Show’da sahaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/miamide-ege-ruzgari-esti-43315612"
         }
       ]
     },
     "spor": {
-      "text": "Beşiktaş'ın eski yöneticisi Metin Keçeli son yolculuğuna uğurlandı. Fenerbahçe'ye 'stat' müjdesi! Tarih verdi. Er meydanlarının minik pehlivanı \"Arap Osman\"ın hedefi başpehlivanlık!. Milli satranççı Yağız Kaan Erdoğmuş'tan tarihe geçen rekor puan!. Fenerbahçe’de eski başkan Sadettin Saran ve yönetimi ibra edildi. Mancini'den flaş karar: İtalya'da 10 futbolcu Türkiye karşısında olmayacak!. UEFA Uluslar Ligi’nde Almanya ve Danimarka evinde, Hollanda deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları...",
+      "text": "Almanya'ya evinde Yunanistan şoku!. Anadolu Efes evinde Beşiktaş'ı devirdi!. Vincenzo Montella: 'Bu ülkeyi çok seviyorum'. Fenerbahçe Tarfin, Bahçeşehir Koleji'ne kaybetti!. Sandro Tonali: 'Arda Güler'i durdurmalıyız'. Roberto Mancini: 'Türkiye çok iyi bir takım, elenmeyi hak etmediler'. Beşiktaş'ın eski yöneticisi Metin Keçeli son yolculuğuna uğurlandı.",
       "items": [
+        {
+          "title": "Almanya'ya evinde Yunanistan şoku!",
+          "summary": "UEFA Uluslar Ligi Lig A Grup 2'de Yunanistan, deplasmanda Almanya'yı 1-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/almanyaya-evinde-yunanistan-soku-43321729"
+        },
+        {
+          "title": "Anadolu Efes evinde Beşiktaş'ı devirdi!",
+          "summary": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi 2026-2027 sezonu ilk maçında Beşiktaş'ı 95-81 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-evinde-besiktasi-devirdi-43321711"
+        },
+        {
+          "title": "Vincenzo Montella: 'Bu ülkeyi çok seviyorum'",
+          "summary": "UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında yarın İtalya ile karşılaşacak A Milli Takımı'nın teknik direktörü Vincenzo Montella, topa daha fazla sahip olarak istedikleri performansı sahaya yansıtmayı hedeflediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-montella-bu-ulkeyi-cok-seviyorum-43321641"
+        },
+        {
+          "title": "Fenerbahçe Tarfin, Bahçeşehir Koleji'ne kaybetti!",
+          "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin ilk haftasında Bahçeşehir Koleji, Fenerbahçe Tarfin'i 98-83 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-bahcesehir-kolejine-kaybetti-43321559"
+        },
+        {
+          "title": "Sandro Tonali: 'Arda Güler'i durdurmalıyız'",
+          "summary": "A Milli Takım ile Uluslar Ligi'nde karşılaşacak olan İtalya'da Sanro Tonali, basın toplantısında açıklamalar yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sandro-tonali-arda-guleri-durdurmaliyiz-43321555"
+        },
+        {
+          "title": "Roberto Mancini: 'Türkiye çok iyi bir takım, elenmeyi hak etmediler'",
+          "summary": "UEFA Uluslar A Ligi 1. Grup’taki ikinci maçında yarın Türkiye ile karşılaşacak İtalya’da Teknik Direktör Roberto Mancini, Türkiye’nin güçlü ve kaliteli bir ekip olduğunu belirterek, karşılaşmanın çekişmeli geçeceğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/roberto-mancini-turkiye-cok-iyi-bir-takim-elenmeyi-hak-etmediler-43321545"
+        },
         {
           "title": "Beşiktaş'ın eski yöneticisi Metin Keçeli son yolculuğuna uğurlandı",
           "summary": "Beşiktaş Kulübünün 77 yaşında vefat eden eski yöneticisi Metin Keçeli'nin cenazesi, İstanbul'da toprağa verildi.",
           "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-eski-yoneticisi-metin-keceli-son-yolculuguna-ugurlandi-43321414"
-        },
-        {
-          "title": "Fenerbahçe'ye 'stat' müjdesi! Tarih verdi",
-          "summary": "Fenerbahçe Yönetim Kurulu Üyesi Nihat Özbağı, Fenerbahçe Stadı'nın kapasite artışı sonrası 64 bin kişiyle Türkiye'nin kulüp bazında en büyük stat olacağını belirterek, \"Bu projelerin bedellerini Fenerbahçe’ye hiçbir yük getirmeden ben karşılayacağımı belirtmek istiyorum. Fenerbahçemize feda olsun\" dedi",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-stat-mujdesi-tarih-verdi-43321381"
-        },
-        {
-          "title": "Er meydanlarının minik pehlivanı \"Arap Osman\"ın hedefi başpehlivanlık!",
-          "summary": "Tanzanya'da doğup Türk diplomat ailesi tarafından evlat edinilen 11 yaşındaki Osman Ali Davutoğlu, er meydanlarında \"Arap Osman\" olarak sürdürdüğü yağlı güreş kariyerinde başpehlivan olmayı hedefliyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/er-meydanlarinin-minik-pehlivani-arap-osmanin-hedefi-baspehlivanlik-43321359"
-        },
-        {
-          "title": "Milli satranççı Yağız Kaan Erdoğmuş'tan tarihe geçen rekor puan!",
-          "summary": "Büyükusta (GM) ünvanlı milli satranççı Yağız Kaan Erdoğmuş, Özbekistan'da yapılan 46. FIDE Satranç Olimpiyatı'nı yenilgisiz tamamlayarak 15 yaşında ulaşılan en yüksek elo (satranç derecelendirme sistemi) puanı rekorunu kırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/milli-satrancci-yagiz-kaan-erdogmustan-tarihe-gecen-rekor-puan-43321346"
-        },
-        {
-          "title": "Fenerbahçe’de eski başkan Sadettin Saran ve yönetimi ibra edildi",
-          "summary": "Fenerbahçe Spor Kulübü Olağan Mali Genel Kurul Toplantısı’nda, eski başkan Sadettin Saran ve yönetimi oy çokluğuyla ibra edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-eski-baskan-sadettin-saran-ve-yonetimi-ibra-edildi-43321315"
-        },
-        {
-          "title": "Mancini'den flaş karar: İtalya'da 10 futbolcu Türkiye karşısında olmayacak!",
-          "summary": "İtalya Milli Takımı'nın, UEFA Uluslar A Ligi 1. Grup'un ikinci haftasında A Milli Takım ile deplasmanda oynayacağı müsabaka öncesinde aday kadrodaki 10 futbolcuyu Türkiye'ye götürmeyeceği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/manciniden-flas-karar-italyada-10-futbolcu-turkiye-karsisinda-olmayacak-43321184"
-        },
-        {
-          "title": "UEFA Uluslar Ligi’nde Almanya ve Danimarka evinde, Hollanda deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları...",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uefa-uluslar-liginde-almanya-ve-danimarka-evinde-hollanda-deplasmanda-kazanir-iste-misli-de-gunun-en-cok-oynanan-maclari-43321160"
         }
       ]
     },
