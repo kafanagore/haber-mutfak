@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-28T04:00:04.092Z",
+  "generatedAt": "2026-09-28T10:00:04.153Z",
   "categories": {
     "gundem": {
-      "text": "Kozinoğlu soruşturmasında gözaltına alınmıştı. Dönemin cezaevi doktoru evinde ölü bulundu. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Fon soruşturması: Tedbir kararı kaldırıldı. Düğün konvoyunda kaza: 2 ölü, 5 yaralı. Kayalıktan kopan taşlar, babasının kucağındaki çocuğu hayattan kopardı. \"Terörsüz Türkiye\" yürütme kurulu ikinci toplantısını yapacak. EGM'den \"polislerin iş bırakacağı\" iddialarına yalanlama.",
+      "text": "TUSAŞ'ın geliştirdiği eğitim uçağı TSK envanterine girdi!. TBMM yeni yasama yılı tarihi 2026-2027: Meclis açıldı mı, ne zaman açılacak?. Sakarya'da karga tulumba kurtarma çabası kamerada: Akıma kapılan genç kurtarılamadı. Girne feribot felaketinde iki cansız bedene daha ulaşıldı. Deniz Göktaş ilk kez hakim karşısında. Türkiye sinema festivali iki günde 777 bin seyirciyle rekor kırdı. Ankara'da spor salonu kavgası! 1 kişinin öldüğü silahlı çatışma kamerada.",
       "items": [
         {
-          "title": "Kozinoğlu soruşturmasında gözaltına alınmıştı. Dönemin cezaevi doktoru evinde ölü bulundu",
-          "summary": "Kozinoğlu soruşturması kapsamında gözaltına alınan ve adli kontrol şartıyla serbest bırakılan o dönemin eski cezaevi doktoru Turgay Tamer evinde ölü bulundu. Ergenekon davasında tutuklu bulunduğu sırada, 2011 yılında Silivri'deki cezaevinde yaşamını yitiren Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturma sürüyor. Soruşturma kapsamında gözaltına alınan ve daha sonra adli kontrol tedbiri ile serbest bırakılan Turgay Tamer (66) evinde ölü bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/kozinoglu-sorusturmasinda-gozaltina-alinmisti-cezaevi-doktoru-evine-olu-bulundu-1743761"
+          "title": "TUSAŞ'ın geliştirdiği eğitim uçağı TSK envanterine girdi!",
+          "summary": "TUSAŞ tarafından yerli imkanlarla tasarlanıp üretilen Hürkuş-2 eğitim uçakları, düzenlenen törenle Türk Silahlı Kuvvetleri envanterine resmen katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-tusasin-gelistirdigi-egitim-ucagi-tsk-envanterine-girdi-1743865"
+        },
+        {
+          "title": "TBMM yeni yasama yılı tarihi 2026-2027: Meclis açıldı mı, ne zaman açılacak?",
+          "summary": "TBMM Genel Kurulu, 51 günlük aranın ardından yasama çalışmalarına kısa bir zaman sonra başlayacak. Yeni yasama yılıyla birlikte Meclis'i yoğun bir gündem bekliyor. Meclis'in ne zaman açılacağıyla ilgili tarih araştırmaları sürmeye devam ediyor. Yeni yasama yılında birçok gündem maddesini değerlendirecek olan Meclis, ekim ayında yeni yasama yılına başlayacak. Peki, Meclis ne zaman yasalaşacak. MECLİS AÇILIŞ TARİHİ TBMM Başkanı Numan Kurtulmuş'un katılımıyla, 28. Dönem 5.",
+          "source": "https://www.ntv.com.tr/turkiye/tbmm-yeni-yasama-yili-tarihi-2026-2027-meclis-acildi-mi-ne-zaman-acilacak-1743863"
+        },
+        {
+          "title": "Sakarya'da karga tulumba kurtarma çabası kamerada: Akıma kapılan genç kurtarılamadı",
+          "summary": "Sakarya, Karasu ilçesindeki mesire alanında akıma kapılan Vahit Abdülhakim'i yakınlarının ayaklarından tutup sarkıtarak indirmeye çalıştığı anlar kameraya yansırken, hastaneye kaldırılan talihsiz adam kurtarılamadı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sakaryada-karga-tulumba-kurtarma-cabasi-kamerada-akima-kapilan-genc-kurtarilamadi-43322186"
+        },
+        {
+          "title": "Girne feribot felaketinde iki cansız bedene daha ulaşıldı",
+          "summary": "KKTC'de batan geminin bin metre uzağında yapılan taramada iki kişinin cansız bedenine ulaşıldı. Kuzey Kıbrıs Türk Cumhuriyeti'nden (KKTC) Mersin'e hareket ettiği sırada alabora olarak batan \"Filo Jet\" isimli feribotun çevresindeki arama çalışmalarında iki naaşa ulaşıldı. Başbakanlıktan yapılan açıklamaya göre, batığın yaklaşık bin metre uzağında ve 570 metre derinlikte yürütülen dip arama çalışmalarında iki cansız beden daha bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-girne-feribot-felaketinde-iki-cansiz-bedene-daha-ulasildi-1743854"
+        },
+        {
+          "title": "Deniz Göktaş ilk kez hakim karşısında",
+          "summary": "Deniz Göktaş, 12 yıla kadar hapis cezası talebiyle yargılandığı davada bugün ilk kez hakim karşısına çıktı. İstanbul Cumhuriyet Başsavcılığı tarafından, sosyal medya platformlarında yayınladığı videolarda suç unsuru bulunduğu gerekçesiyle başlatılan soruşturma kapsamında, “Cumhurbaşkanına hakaret”, “halkı kin ve düşmanlığa tahrik ve aşağılama” ile “suçu ve suçluyu övme” suçlarından 2 yıl 7 aydan 12 yıla kadar hapis cezası talebiyle tutuklanan Deniz Göktaş, bugün yargılanmasına başlandı.",
+          "source": "https://www.ntv.com.tr/turkiye/deniz-goktas-ilk-kez-hakim-karsisinda-1743826"
+        },
+        {
+          "title": "Türkiye sinema festivali iki günde 777 bin seyirciyle rekor kırdı",
+          "summary": "GNÇ Türkiye Sinema Festivali, ikinci yılında 26-27 Eylül tarihlerinde 777 bin seyirciyi sinema salonlarında buluşturdu. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, bu ilginin birlikte film izleme kültürünün gücünü gösterdiğini belirterek Türk sinemasına yönelik desteklerin süreceğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiye-sinema-festivali-iki-gunde-777-bin-seyirciyle-rekor-kirdi-43322149"
+        },
+        {
+          "title": "Ankara'da spor salonu kavgası! 1 kişinin öldüğü silahlı çatışma kamerada",
+          "summary": "Ankara’nın Çankaya ilçesinde spor salonun devri konusunda anlaşmazlık yaşayan gruplar karşı karşıya geldi. Silahların konuştuğu kavgada 1 kişi hayatını kaybederken olay anı kameralara yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-spor-salonu-kavgasi-1-kisinin-oldugu-silahli-catisma-kamerada-43322141"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "İsrail, İspanya Maslahatgüzarı'nı Dışişleri Bakanlığı'na çağırdı. Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı. Yerleşim yaptırımı gerilimi. İsrail, Hollandalı diplomatlara 7 gün süre verdi. Girne açıklarındaki faciada yeni gelişme: 2 naaşa daha ulaşıldı. Rusya'ya Vivaldi Operasyonu: Ukrayna taarruz harekatının detaylarını paylaştı. İspanyol bakanın sözleri İsrail'i kızdırdı: Maslahatgüzar bakanlığa çağrıldı. Japonya’yı vuran Dujuan Tayfunu’nda ölü sayısı 13’e yükseldi.",
+      "items": [
+        {
+          "title": "İsrail, İspanya Maslahatgüzarı'nı Dışişleri Bakanlığı'na çağırdı",
+          "summary": "İsrail, İspanya Gençlik ve Çocukluk Bakanı Sira Rego'nun \"Nehirden Denize Filistin Devleti\" sözleri üzerine İspanya'nın İsrail Maslahatgüzarı Francisca Pedros'u Dışişleri Bakanlığı'na çağırdı. İsrail Dışişleri Bakanlığı'ndan yapılan açıklamada, Maslahatgüzar Pedros'a Tel Aviv yönetiminin İspanyol Bakan Rego'nun açıklamalarını kınadığı bildirildi. Açıklamada, Bakan Rego'nun sözlerinin İspanya hükümeti ve Başbakan Pedro Sanchez'in \"sistematik İsrail karşıtı politikasının bir parçası\" olduğu iddia edildi.",
+          "source": "https://www.ntv.com.tr/dunya/israil-ispanya-maslahatguzarini-disisleri-bakanligina-cagirdi-1743859"
+        },
+        {
+          "title": "Miçotakis'in partisine saldırı: Atina'daki ofisler hedef alındı",
+          "summary": "Yunanistan'ın başkenti Atina'da, iktidardaki Yeni Demokrasi Partisinin iki ayrı ofisi saldırıların hedefi oldu. Saldırılarda ofislerin camları kırılırken, giriş ve bina cephelerine boya atıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/micotakisin-partisine-saldiri-atinadaki-ofisler-hedef-alindi-43322185"
+        },
+        {
+          "title": "Yerleşim yaptırımı gerilimi. İsrail, Hollandalı diplomatlara 7 gün süre verdi",
+          "summary": "İsrail, Batı Şeria'daki yerleşimlere yönelik yaptırım kararı alan Hollanda'nın Filistin Yönetimi nezdindeki diplomatlarının statüsünü iptal etti. İsrail, işgal altındaki Batı Şeria'da yer alan Yahudi yerleşimlerine yönelik yaptırım kararı alan Hollanda'ya karşı diplomatik misillemede bulundu. Tel Aviv yönetimi, Ramallah merkezli Filistin Yönetimi nezdinde görev yapan Hollandalı diplomatların diplomatik statülerini iptal ettiğini duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-yerlesim-yaptirimi-gerilimi-israil-hollandali-diplomatlara-7-gun-sure-verdi-1743855"
+        },
+        {
+          "title": "Girne açıklarındaki faciada yeni gelişme: 2 naaşa daha ulaşıldı",
+          "summary": "Girne açıklarında batan gemiye ilişkin sürdürülen dip arama çalışmalarında iki kişinin daha cansız bedenine ulaşıldı. KKTC Başbakanlığı tarafından yapılan açıklamada, \"kayıp 11 kişiyi arama çalışmaları devam ediyor\" denildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/girne-aciklarindaki-faciada-yeni-gelisme-2-naasa-daha-ulasildi-43322154"
+        },
+        {
+          "title": "Rusya'ya Vivaldi Operasyonu: Ukrayna taarruz harekatının detaylarını paylaştı",
+          "summary": "Ukrayna Üçüncü Kolordusu, kuzey Donetsk'te \"Vivaldi\" adı verilen taarruz operasyonunun ilk iki aşamasını tamamladı. Kolordu, 125 kilometrekarelik alanı Rusya'dan geri aldığını duyurdu. Operasyonda Rus kuvvetlerinin toplam kayıplarının 3 bini aştığı bildirildi. Üçüncü Kolordu, insansız kara araçlarını bir savaşta hava operasyonuyla konuşlandıran ilk birlik olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyaya-vivaldi-operasyonu-ukrayna-taarruz-harekatinin-detaylarini-paylasti-43322104"
+        },
+        {
+          "title": "İspanyol bakanın sözleri İsrail'i kızdırdı: Maslahatgüzar bakanlığa çağrıldı",
+          "summary": "İsrail, İspanya Gençlik ve Çocukluk Bakanı Sira Rego'nun Filistin'e ilişkin sözlerinin ardından İspanya Maslahatgüzarını Dışişleri Bakanlığına çağırdı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyol-bakanin-sozleri-israili-kizdirdi-maslahatguzar-bakanliga-cagrildi-43322137"
+        },
+        {
+          "title": "Japonya’yı vuran Dujuan Tayfunu’nda ölü sayısı 13’e yükseldi",
+          "summary": "Japonya’da etkili olan Dujuan Tayfunu nedeniyle hayatını kaybedenlerin sayısı 13’e yükselirken, kayıp 3 kişiyi arama çalışmaları sürüyor. Japonya’yı vuranDujuan Tayfunu’nun ardından 1 hafta geride kalırken, felaketin bilançosu ağırlaşmaya devam ediyor. Yerel yetkililerden edinilen bilgilere göre; Chiba ve Kanagawa eyaletlerindeki farklı bölgelerde meydana gelen toprak kaymaları ve sel baskınlarında hayatını kaybedenlerin sayısı en az 13’e yükseldi.",
+          "source": "https://www.ntv.com.tr/dunya/japonyayi-vuran-dujuan-tayfununda-olu-sayisi-13e-yukseldi-1743847"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında. Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı. Tariş Söke’den pamuğa 102 TL.",
+      "items": [
+        {
+          "title": "Obezitenin faturası da ağır geldi",
+          "summary": "Obezite ve fazla kilo, Avrupa ekonomilerine her yıl milyarlarca euro'luk maliyet getiriyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/obezitenin-faturasi-da-agir-geldi-43321716"
         },
         {
           "title": "Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’",
           "summary": "Özata Denizcilik Sanayi ve Ticaret A.Ş. (OZATD) pay piyasasında gerçekleştirilen işlemler nedeniyle 11 kişi hakkında suç duyurusunda bulunan SPK, 107’nci maddeyi hatırlattı. Bu kişilerin etkin pişmanlıktan yararlanmak için kazandıkları paranın iki katını ödemeleri gerekecek.",
           "source": "https://www.hurriyet.com.tr/gundem/fon-krizinde-etkin-pismanlik-kriteri-kazandiginin-iki-katini-ode-43321768"
         },
-        {
-          "title": "Fon soruşturması: Tedbir kararı kaldırıldı",
-          "summary": "Fon soruşturması kapsamında mal varlığı ve para hareketlerine yönelik tedbir uygulanan firmalarla ilgili yapılan yeni değerlendirmeler doğrultusunda, söz konusu tedbirlerin kaldırıldığı açıklandı. İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından yürütülen sermaye piyasası soruşturması kapsamında, 46 tüzel kişi, 18 fon ve 42 gerçek kişi olmak üzere toplam 106 kişi ve kuruluş hakkında malvarlığı tedbiri uygulanması talep edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasi-106-kisi-ve-kurulusun-mal-varligi-incelenecek-1743776"
-        },
-        {
-          "title": "Düğün konvoyunda kaza: 2 ölü, 5 yaralı",
-          "summary": "Karaman'da, düğün konvoyundaki otomobil, karşı yönden gelen otomobille kafa kafaya çarpıştı. Kazada, 2 kişi hayatını kaybederken, 5 kişi de yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/dugun-konvoyunda-kaza-2-olu-5-yarali-43321779"
-        },
-        {
-          "title": "Kayalıktan kopan taşlar, babasının kucağındaki çocuğu hayattan kopardı",
-          "summary": "Kayseri'de babasının kucağındayken kayalık alandan başına taş düşen 3 yaşındaki çocuk hayatını kaybetti. Kayseri'nin merkez Hacılar ilçesinde R.Ş., kucağındaki 3 yaşındaki oğlu K.Ş. ile kayalık alanda dolaştığı sırada, henüz belirlenemeyen bir nedenle yukarıdan taşlar düşmeye başladı. 3 yaşındaki çocuk, taşlardan birinin kafasına çarpması sonucu ağır yaralandı. Olay yerine polis ve sağlık ekipleri sevk edildi. Küçük çocuk, sağlık ekiplerince kaldırıldığı hastanedeki müdahaleye rağmen kurtarılamadı.",
-          "source": "https://www.ntv.com.tr/turkiye/kayaliktan-kopan-taslar-babasinin-kucagindaki-cocugu-hayattan-kopardi-1743786"
-        },
-        {
-          "title": "\"Terörsüz Türkiye\" yürütme kurulu ikinci toplantısını yapacak",
-          "summary": "\"Terörsüz Türkiye\" süreci kapsamında kurulan yürütme kurulunun ikinci toplantısı bugün gerçekleştirecek. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Terörsüz Türkiye\" süreci kapsamında kurulan ve kendisinin başkanlık ettiği yürütme kurulunun bu sabah ikinci toplantısını gerçekleştireceğini açıkladı. Doğu ve Güneydoğu Anadolu Bölgeleri Kanaat Önderleri Buluşması’nda konuşan Yılmaz, \"Buradan bir haber olarak da vermiş olayım, sabah ikinci toplantımızı yapacağız inşallah kurul olarak. Bu kurulun görevi nedir?",
-          "source": "https://www.ntv.com.tr/turkiye/terorsuz-turkiye-yurutme-kurulu-ikinci-toplantisini-yapacak-1743773"
-        },
-        {
-          "title": "EGM'den \"polislerin iş bırakacağı\" iddialarına yalanlama",
-          "summary": "Emniyet Genel Müdürlüğü (EGM), bazı sosyal medya platformları ve haber sitelerinde yer alan \"polislerin iş bırakacağı\" yönündeki iddiaların gerçeği yansıtmadığını bildirdi. EGM'nin sosyal medya hesabından yapılan açıklamada, bazı sosyal medya hesaplarında ve haber sitelerinde yer alan \"polislerin iş bırakacağı\" yönündeki iddialar nedeniyle açıklama yapılmasına ihtiyaç duyulduğu belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/egmden-polislerin-is-birakacagi-iddialarina-yalanlama-1743784"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Uzay diplomasisi. Çin, Pakistan'ı yörüngeye taşıyor. Trump, Hürmüz Boğazı'nı \"Trump Boğazı\" olarak niteleyen görsel paylaştı. ABD ve İran'dan karşılıklı açıklamalar. Tayland'da sel felaketi! 8 ölü. Trump: Bu hafta İran'la daha fazla görüşme yapılmasını bekliyorum. İran Dışişleri Bakanı Arakçi: Savaşa da, diplomasiye de hazırız. Sırbistan erken seçime gidiyor. Cumhurbaşkanı Vucic istifa etti.",
-      "items": [
-        {
-          "title": "Uzay diplomasisi. Çin, Pakistan'ı yörüngeye taşıyor",
-          "summary": "Çin, Pakistan'la süren işbirliğini uzaya taşıyor. Pakistanlı iki astronot adayı pilot, Tiangong uzay istasyonunda görev yapacak ilk yabancı olmak için eğitim alıyor, Çince öğreniyor. Pakistan ve Çin, son yıllarda ilerlettikleri diplomatik ve askeri ilişkilerini bir adım öteye taşıyor. Çin'in ABD'yle rekabetinin en önemli sahalarından biri olan uzay yarışına Pakistan'ı da dahil etti. Çin Ulusal Uzay İdaresi (CNSA), tarihte bir ilki gerçekleştirerek Tiangong uzay istasyonuna yabancı bir astronot gönderecek.",
-          "source": "https://www.ntv.com.tr/dunya/uzay-diplomasisi-cin-pakistani-yorungeye-tasiyor-1743789"
-        },
-        {
-          "title": "Trump, Hürmüz Boğazı'nı \"Trump Boğazı\" olarak niteleyen görsel paylaştı",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nı \"Trump Boğazı\" olarak gösteren bir görsel paylaştı.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-hurmuz-bogazini-trump-bogazi-olarak-niteleyen-gorsel-paylasti-43321765"
-        },
-        {
-          "title": "ABD ve İran'dan karşılıklı açıklamalar",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi, \"Savaşa tamamen hazırız. Aynı zamanda diplomasiye de hazırız.\" dedi. ABD Başkanı Donald Trump ise, bu hafta daha fazla görüşme olabileceğini söyledi. İran Dışişleri Bakanı Abbas Arakçi, ABD televizyon kanalı NBC'ye konuştu. Arakçi, ABD Başkanı Donald Trump'ın Hürmüz Boğazı'nı yeniden açma teklifini kamuoyu önünde reddetmesinin ardından ülkesinin ABD ile yeniden savaşa girmeye hazır olduğunu ancak diplomasiden henüz vazgeçmediğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/abd-ve-irandan-karsilikli-aciklamalar-1743783"
-        },
-        {
-          "title": "Tayland'da sel felaketi! 8 ölü",
-          "summary": "Tayland'da etkili olan şiddetli yağışların yol açtığı sel ve su baskınları nedeniyle son 10 günde 8 kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/taylandda-sel-felaketi-8-olu-43321735"
-        },
-        {
-          "title": "Trump: Bu hafta İran'la daha fazla görüşme yapılmasını bekliyorum",
-          "summary": "ABD Başkanı Donald Trump, Amerikan haber sitesi Axios'a verdiği röportajda, \"Bu hafta İran'la daha fazla görüşme yapılmasını bekliyorum. Anlaşma yapmak istiyorlar ancak bu, benim yapmak istediğim anlaşma değil. Bu, belki bir yıl önce kabul etmiş olabileceğimiz bir anlaşma. Fazla ileri gittiler\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-bu-hafta-iranla-daha-fazla-gorusme-yapilmasini-bekliyorum-43321734"
-        },
-        {
-          "title": "İran Dışişleri Bakanı Arakçi: Savaşa da, diplomasiye de hazırız",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD televizyon kanalı NBC'ye yaptığı açıklamada, \"Savaşın yeniden başlamasına tamamen hazırız. Yeni bir saldırı karşısında, bu kıyamet savaşı anlamına gelse bile kararlı duruyoruz. Aynı zamanda diplomasiye de hazırız. Seçim Başkan Trump'a bağlı\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-disisleri-bakani-arakci-savasa-da-diplomasiye-de-haziriz-43321723"
-        },
-        {
-          "title": "Sırbistan erken seçime gidiyor. Cumhurbaşkanı Vucic istifa etti",
-          "summary": "Sırbistan Cumhurbaşkanı Aleksander Vucic istifasını açıkladı. İstifayla ikinci ve son görev süresini erken bitiren Vucic erken seçimin de yolunu açtı. Sırbistan Cumhurbaşkanı Aleksandar Vucic, görevinden istifa ettiğini duyurdu. Vucic, cumhurbaşkanlığı binasında halka sesleniş konuşmasında, istifa kararını imzaladığını, cumhurbaşkanlığına Ulusal Meclis Başkanı Ana Brnabic'in vekalet edeceğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/sirbistan-erken-secime-gidiyor-cumhurbaskani-vucic-istifa-etti-1743780"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında. Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı. Tariş Söke’den pamuğa 102 TL. Türkiye Trafik Durum Raporu açıklandı: İstanbul trafiğinin maliyeti 10 milyar dolar. İZMAR’ın 25’inci mağazası Buca’ya.",
-      "items": [
         {
           "title": "Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız",
           "summary": "‘TÜRKİYE Yüzyılı Buluşmaları’ kapsamında ziyaret ettiği AK Parti Tuzla İlçe Başkanlığı'nda konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bilimde, teknolojide çok ilerlemiş bir ülke veya ülkeler insanlığın hiçbir kriterine uymayan katliamlar, zulümler işleyebiliyorlar. Gazze bunun en güzel örneği. Dolayısıyla sadece bilim, teknoloji yetmez. Bilimi, teknolojiyi ahlakla, erdemle, hukukla, insan onuruyla birleştirmeden bir medeniyet inşa edilemez. İnsani bir medeniyet inşa edilemez.",
@@ -110,62 +120,67 @@
           "title": "Tariş Söke’den pamuğa 102 TL",
           "summary": "YENİ sezonun ilk pamuk alımını geçtiğimiz hafta gerçekleştiren Söke Tariş Pamuk Kooperatifi’nde, üreticilerin merakla beklediği alım fiyatı da netleşti.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/taris-sokeden-pamuga-102-tl-43316956"
-        },
-        {
-          "title": "Türkiye Trafik Durum Raporu açıklandı: İstanbul trafiğinin maliyeti 10 milyar dolar",
-          "summary": "Hazırlanan kapsamlı rapora göre, İstanbul'da trafik sıkışıklığı nedeniyle sürücüler yılda 288 saate varan zaman kaybederken, durumun yıllık ekonomik maliyeti 10 milyar doları buluyor. Uzmanlar, trafikteki en büyük sorunun sürücü davranışları ve dikkatsizlik olduğuna dikkat çekerek toplu taşıma ve denetim vurgusu yaptı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-trafik-durum-raporu-aciklandi-istanbul-trafiginin-maliyeti-10-milyar-dolar-43316243"
-        },
-        {
-          "title": "İZMAR’ın 25’inci mağazası Buca’ya",
-          "summary": "İZMİR Büyükşehir Belediyesi’nin tanzim satış mağazası İZMAR, 25’inci şubesini Buca Gediz’de hizmete girdi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmarin-25inci-magazasi-bucaya-43315628"
         }
       ]
     },
     "spor": {
-      "text": "Almanya'ya evinde Yunanistan şoku!. Anadolu Efes evinde Beşiktaş'ı devirdi!. Vincenzo Montella: 'Bu ülkeyi çok seviyorum'. Fenerbahçe Tarfin, Bahçeşehir Koleji'ne kaybetti!. Sandro Tonali: 'Arda Güler'i durdurmalıyız'. Roberto Mancini: 'Türkiye çok iyi bir takım, elenmeyi hak etmediler'. Beşiktaş'ın eski yöneticisi Metin Keçeli son yolculuğuna uğurlandı.",
+      "text": "Beşiktaş'ı milli maç arasının ardından zorlu bir maraton bekliyor. UEFA Uluslar Ligi’nde İsveç evinde, İtalya ve Fransa deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları... Türkiye-İtalya maçı öncesi Fatih Terim konuştu: Hayal kırıklığıdır!. Ümit Milli Takım'da sakatlık şoku! Kadrodan çıkarıldı. Fatih Tekke'den Mohamed Salah sözleri!. Anadolu Efes, Avrupa Ligi'nde yarın Real Madrid'i ağırlayacak. A Milli Takım, Uluslar Ligi'nde İtalya'yı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de.",
       "items": [
         {
-          "title": "Almanya'ya evinde Yunanistan şoku!",
-          "summary": "UEFA Uluslar Ligi Lig A Grup 2'de Yunanistan, deplasmanda Almanya'yı 1-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/almanyaya-evinde-yunanistan-soku-43321729"
+          "title": "Beşiktaş'ı milli maç arasının ardından zorlu bir maraton bekliyor",
+          "summary": "Beşiktaş, milli maçlar dolayısıyla verilen aranın ardından zorlu bir fikstürle yoluna devam edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasi-milli-mac-arasinin-ardindan-zorlu-bir-maraton-bekliyor-43322163"
         },
         {
-          "title": "Anadolu Efes evinde Beşiktaş'ı devirdi!",
-          "summary": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi 2026-2027 sezonu ilk maçında Beşiktaş'ı 95-81 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-evinde-besiktasi-devirdi-43321711"
+          "title": "UEFA Uluslar Ligi’nde İsveç evinde, İtalya ve Fransa deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları...",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-uluslar-liginde-isvec-evinde-italya-ve-fransa-deplasmanda-kazanir-iste-misli-de-gunun-en-cok-oynanan-maclari-43322164"
         },
         {
-          "title": "Vincenzo Montella: 'Bu ülkeyi çok seviyorum'",
-          "summary": "UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında yarın İtalya ile karşılaşacak A Milli Takımı'nın teknik direktörü Vincenzo Montella, topa daha fazla sahip olarak istedikleri performansı sahaya yansıtmayı hedeflediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-montella-bu-ulkeyi-cok-seviyorum-43321641"
+          "title": "Türkiye-İtalya maçı öncesi Fatih Terim konuştu: Hayal kırıklığıdır!",
+          "summary": "A Milli Futbol Takımı'mızın İtalya ile oynayacağı karşılaşma öncesi, Fatih Terim Çizme basınına konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-italya-maci-oncesi-fatih-terim-konustu-hayal-kirikligidir-43322072"
         },
         {
-          "title": "Fenerbahçe Tarfin, Bahçeşehir Koleji'ne kaybetti!",
-          "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin ilk haftasında Bahçeşehir Koleji, Fenerbahçe Tarfin'i 98-83 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-bahcesehir-kolejine-kaybetti-43321559"
+          "title": "Ümit Milli Takım'da sakatlık şoku! Kadrodan çıkarıldı",
+          "summary": "Ümit Milli Futbol Takımı'nda İsak Vural, sakatlığı nedeniyle aday kadrodan çıkarıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/umit-milli-takimda-sakatlik-soku-kadrodan-cikarildi-43322106"
         },
         {
-          "title": "Sandro Tonali: 'Arda Güler'i durdurmalıyız'",
-          "summary": "A Milli Takım ile Uluslar Ligi'nde karşılaşacak olan İtalya'da Sanro Tonali, basın toplantısında açıklamalar yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sandro-tonali-arda-guleri-durdurmaliyiz-43321555"
+          "title": "Fatih Tekke'den Mohamed Salah sözleri!",
+          "summary": "Trabzonspor'dan ayrılmasının ardından Mısır basınına konuşan Fatih Tekke, kısa süre birlikte çalışma fırsatı bulduğu Mohamed Salah hakkında dikkat çeken açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fatih-tekkeden-mohamed-salah-sozleri-43321996"
         },
         {
-          "title": "Roberto Mancini: 'Türkiye çok iyi bir takım, elenmeyi hak etmediler'",
-          "summary": "UEFA Uluslar A Ligi 1. Grup’taki ikinci maçında yarın Türkiye ile karşılaşacak İtalya’da Teknik Direktör Roberto Mancini, Türkiye’nin güçlü ve kaliteli bir ekip olduğunu belirterek, karşılaşmanın çekişmeli geçeceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/roberto-mancini-turkiye-cok-iyi-bir-takim-elenmeyi-hak-etmediler-43321545"
+          "title": "Anadolu Efes, Avrupa Ligi'nde yarın Real Madrid'i ağırlayacak",
+          "summary": "Anadolu Efes Basketbol Takımı, Avrupa Ligi'nin 2. haftasında yarın İspanyol ekibi Real Madrid'i konuk edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-avrupa-liginde-yarin-real-madridi-agirlayacak-43322008"
         },
         {
-          "title": "Beşiktaş'ın eski yöneticisi Metin Keçeli son yolculuğuna uğurlandı",
-          "summary": "Beşiktaş Kulübünün 77 yaşında vefat eden eski yöneticisi Metin Keçeli'nin cenazesi, İstanbul'da toprağa verildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-eski-yoneticisi-metin-keceli-son-yolculuguna-ugurlandi-43321414"
+          "title": "A Milli Takım, Uluslar Ligi'nde İtalya'yı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "A Milli Futbol Takımımız, UEFA Uluslar A Ligi 1. Grup'taki 2. maçında İtalya ile karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-uluslar-liginde-italyayi-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43322005"
         }
       ]
     },
     "teknoloji": {
-      "text": "Kontrolden çıkan yapay zeka kamu sistemini hackledi. CEO'lar ifadeye çağrıldı. Bill Gates’ten yapay zekâ uyarısı: Kötü ellerde katliam olur. Apple'a 5.7 milyar dolarlık patent cezası. Bill Gates: Yapay zeka 1 milyar insan ölüme yol açabilecek kadar güçlü. Salah kadrodan çıkarıldı, resmi açıklama yapıldı. Bill Gates’ten yapay zeka uyarısı: \"Bir milyar kişinin ölümüne yol açabilir\". ChatGPT sağlık sistemine sızdı. 105 milyar dolarlık yaptırım hazırlığı.",
+      "text": "SpaceX 14'üncü denemede Starship'i ilk kez yörüngeye oturtmaya çalışacak. ABD'de Apple'a 5,7 milyar dolarlık patent cezası. Kaspersky'den oltalama saldırısı açıklaması: Bini aşkın e-posta kullanıldı. Kontrolden çıkan yapay zeka kamu sistemini hackledi. CEO'lar ifadeye çağrıldı. Bill Gates’ten yapay zekâ uyarısı: Kötü ellerde katliam olur. Bill Gates: Yapay zeka 1 milyar insan ölüme yol açabilecek kadar güçlü. Salah kadrodan çıkarıldı, resmi açıklama yapıldı.",
       "items": [
+        {
+          "title": "SpaceX 14'üncü denemede Starship'i ilk kez yörüngeye oturtmaya çalışacak",
+          "summary": "SpaceX, Ay ve Mars görevleri için insan ve yük taşımayı hedeflediği Starship (Yıldız Gemisi) roketini, 3 yıl önceki ilk test uçuşunun ardından bugün ilk kez Dünya yörüngesine oturtmaya çalışacak. HER ŞEY YOLUNDA GİDERSE UÇUŞ 10 SAAT SÜRECEK Uzay, havacılık ve yapay zeka şirketi SpaceX, gelecekteki Ay ve Mars misyonları kapsamında insan ve yük taşımak üzere geliştirdiği Starship (Yıldız Gemisi) roketini, 3 yıl önceki ilk test uçuşunun ardından bugün ilk kez Dünya yörüngesine oturtmaya çalışacak.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-spacex-14uncu-denemede-starshipi-ilk-kez-yorungeye-oturtmaya-calisacak-1743836"
+        },
+        {
+          "title": "ABD'de Apple'a 5,7 milyar dolarlık patent cezası",
+          "summary": "ABD'de mahkeme, teknoloji şirketi Apple'ın iki patenti ihlal ettiğine hükmederek şirketin yaklaşık 5,72 milyar dolar tazminat ödemesine karar verdi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/apple/abdde-applea-5-7-milyar-dolarlik-patent-cezasi-43322019"
+        },
+        {
+          "title": "Kaspersky'den oltalama saldırısı açıklaması: Bini aşkın e-posta kullanıldı",
+          "summary": "Kaspersky, kurumsal hesapları hedef alan ve eylül itibarıyla bini aşkın oltalama e-postasının tespit edildiği siber saldırıyı ortaya çıkardı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/kasperskyden-oltalama-saldirisi-aciklamasi-bini-askin-e-posta-kullanildi-43321980"
+        },
         {
           "title": "Kontrolden çıkan yapay zeka kamu sistemini hackledi. CEO'lar ifadeye çağrıldı",
           "summary": "Kontrolden çıkan bir OpenAI yapay zeka modelinin Avustralya'nın kamu sağlığı veri tabanına sızması üzerine Senato, OpenAI ve Anthropic CEO'larını ifadeye çağırdı. Avustralya Senatosu, OpenAI ve Anthropic şirketlerinin CEO'larını yapay zeka alanında yürütülen özel bir soruşturma kapsamında ifade vermeye çağırdı. Birkaç gün önce kontrolden çıkan bir OpenAI yapay zeka modelinin Avustralya'nın ulusal sağlık sistemi veri tabanına sızdığı açıklanmıştı.",
@@ -177,11 +192,6 @@
           "source": "https://www.hurriyet.com.tr/dunya/bill-gatesten-yapay-zeka-uyarisi-kotu-ellerde-katliam-olur-43320829"
         },
         {
-          "title": "Apple'a 5.7 milyar dolarlık patent cezası",
-          "summary": "ABD'de federal mahkeme jürisi, dokunsal teknolojisi \"Taptic Engine\"de patent ihlali yaptığı gerekçesiyle açılan davada Apple'ın 5,7 milyar dolar ödemesine karar verdi. Şirket cezaya itiraz edecek. 4.88 trilyon dolarlık piyasa değeriyle dünyanın en değerli şirketleri listesinin en tepesinde yer alan Apple, rekor bir tazminat cezasıyla karşı karşıya.",
-          "source": "https://www.ntv.com.tr/teknoloji/applea-57-milyar-dolarlik-patent-cezasi-1743635"
-        },
-        {
           "title": "Bill Gates: Yapay zeka 1 milyar insan ölüme yol açabilecek kadar güçlü",
           "summary": "Microsoft'un kurucu ortağı Bill Gates, yapay zekanın büyük risk yarattığını söyledi. Gates'e göre yapay zeka, bir milyar insanın ölümüne yol açabilecek olayları tetikleyecek kadar güçlü. Amerikan yayın kuruluşu NBC'ye konuşan Gates, kötü niyetli aktörlerin en yeni yapay zeka araçlarını kullanmasının büyük ölçekli sonuçlar yaratabileceğini söyledi. Bill Gates, \"Kötü niyetli insanların en son yapay zeka araçlarını kullanmasıyla oluşacak kombinasyon kadar güçlü bir silah daha önce hiç var olmadı.\" ifadesini kullandı.",
           "source": "https://www.ntv.com.tr/teknoloji/bill-gates-yapay-zeka-1-milyar-insan-olume-yol-acabilecek-kadar-guclu-1743606"
@@ -190,22 +200,22 @@
           "title": "Salah kadrodan çıkarıldı, resmi açıklama yapıldı",
           "summary": "Muhammed Salah, zemin nedeniyle Güney Sudan maçında forma giymeyecek. Mısır Futbol Federasyonu, Trabzonspor'da forma giyen Muhammed Salah'ın sentetik çim zeminde oynanacak Güney Sudan maçında dinlendirileceğini duyurdu. Federasyonun açıklamasında, \"Milli takım teknik heyeti, maçın oynanacağı stadın zemininin sentetik çim olması nedeniyle Muhammed Salah'ın 29 Eylül'deki Güney Sudan maçında dinlendirilmesine karar verdi.\" denildi.",
           "source": "https://www.ntv.com.tr/teknoloji/salah-kadrodan-cikarildi-resmi-aciklama-yapildi-1743593"
-        },
-        {
-          "title": "Bill Gates’ten yapay zeka uyarısı: \"Bir milyar kişinin ölümüne yol açabilir\"",
-          "summary": "Bill Gates, yapay zekanın kötü niyetli kişilerin elinde bir milyar kişinin ölümüne neden olabilecek olayları tetikleyecek kadar güçlü olduğunu söyledi. Microsoft’un kurucusu Bill Gates, NBC’nin Meet the Press programına verdiği röportajda yapay zekanın yol açabileceği tehlikeler hakkında konuştu. Gates, teknolojinin ''bir milyar kişinin ölümüne neden olabilecek olayları tetikleyecek kadar güçlü'' olduğunu belirtti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-bill-gatesten-yapay-zeka-uyarisi-bir-milyar-kisinin-olumune-yol-acabilir-1743492"
-        },
-        {
-          "title": "ChatGPT sağlık sistemine sızdı. 105 milyar dolarlık yaptırım hazırlığı",
-          "summary": "OpenAI'a ait bir yapay zeka botunun Avustralya'nın ulusal sağlık sistemi veri tabanına sızması üzerine hükümet yasal yaptırımları masaya yatırdı. Avustralya Başbakanı Anthony Albanese, OpenAI'a ait bir yapay zeka botunun ulusal sağlık sistemi Medicare veri tabanına sızmasını \"kabul edilemez\" olarak nitelendirdi. Hükümetin kolluk kuvvetleri ve yasal düzenleme düzeyinde atılabilecek adımları değerlendirdiğini belirten Albanese, konuya ilişkin derin endişesini OpenAI CEO'su Sam Altman'a doğrudan ilettiğini kaydetti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-chatgpt-saglik-sistemine-sizdi-105-milyar-dolarlik-yaptirim-hazirligi-1743413"
         }
       ]
     },
     "saglik": {
-      "text": "En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor. Gözlerde ortaya çıkıyor. Yaşlanma hızını ve gizli hastalıkları gösteriyor. Sabahları yorgun mu uyanıyorsunuz? Rüyaların şaşırtıcı etkisi. Güçlü bağışıklığın tek kuralı. Özellikle sonbaharda dikkat!. Araştırma umut verdi: Kan testi kanser riskini 8 yıl önceden gösterebilir. Araştırma: Yapay zeka, sigortacıların sağlık maliyetlerini 1 milyar dolara yakın yükseltti. Melatonin kalp sağlığını etkiler mi?.",
+      "text": "Uykunun rüya evresi uzadıkça bu hastalıklara yakalanma riski azalıyor. Çinlilerin uzun yaşam sırrı onda gizli. En güçlü şifa kaynağı Bitlis'te yetişiyor. En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor. Gözlerde ortaya çıkıyor. Yaşlanma hızını ve gizli hastalıkları gösteriyor. Sabahları yorgun mu uyanıyorsunuz? Rüyaların şaşırtıcı etkisi. Güçlü bağışıklığın tek kuralı. Özellikle sonbaharda dikkat!. Araştırma umut verdi: Kan testi kanser riskini 8 yıl önceden gösterebilir.",
       "items": [
+        {
+          "title": "Uykunun rüya evresi uzadıkça bu hastalıklara yakalanma riski azalıyor",
+          "summary": "Yeni bir araştırma, rüyaların görüldüğü REM uykusunda geçirilen sürenin uzamasının, Parkinson ve demans başta olmak üzere 83 kronik hastalığın riskini önemli ölçüde düşürdüğünü gösterdi. Çin'deki Başkent Tıp Üniversitesi öncülüğünde yürütülen uluslararası bir araştırmada, rüyaların görüldüğü REM uykusunda geçirilen süre uzadıkça, aralarında demans ve Parkinson'un da yer aldığı 83 farklı kronik hastalığa yakalanma riskinin önemli ölçüde düştüğü ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-uykunun-ruya-evresi-uzadikca-bu-hastaliklara-yakalanma-riski-azaliyor-1743852"
+        },
+        {
+          "title": "Çinlilerin uzun yaşam sırrı onda gizli. En güçlü şifa kaynağı Bitlis'te yetişiyor",
+          "summary": "Geleneksel Çin tıbbında iki bin yılı aşkın süredir uzun ömrün sırrı ve vücudun yaşam özünü besleyen Goji Berry meyvesi, Bitlis’in topraklarında ve yüksek rakımlı ikliminde yetiştirilmeye başlandı. Bitlis'in Tatvan ilçesinde Mehmet Okay tarafından Van Gölü sahiline yakın kendisine ait bahçede deneme amaçlı ekilen Goji Berry meyvesi hayat buldu.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-cinlilerin-uzun-yasam-sirri-onda-gizli-en-guclu-sifa-kaynagi-bitliste-yetisiyor-1743815"
+        },
         {
           "title": "En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor",
           "summary": "Konya'da alternatif tarım ürünü olarak yetiştirilen aronyada bu yılın hasat dönemi başladı. Aronya meyveleri, olgunlaşan salkımların tek tek elle toplanmasıyla hasat ediliyor. Tahıl üretiminin yaygın olduğu bölgede farklı bir üretim modeli oluşturan Tahsin Tosun, aronyadan elde ettiği verimle üretimini sürdürürken, bu yıl da bahçesinde hasat mesaisine başladı. Küçük taneli meyveler, olgunluk durumlarına göre seçilerek toplanıyor.",
@@ -230,16 +240,6 @@
           "title": "Araştırma umut verdi: Kan testi kanser riskini 8 yıl önceden gösterebilir",
           "summary": "Oxford Üniversitesi ve Toronto Üniversitesi araştırmacıları, kanda dolaşan DNA’daki kimyasal değişikliklerin prostat ve meme kanseri riskini klinik tanıdan yıllar önce gösterebildiğini ortaya koydu. Oxford Üniversitesi ve Toronto Üniversitesi’nden araştırmacılar, kanserin en erken biyolojik izlerinin klinik tanıdan yıllar önce kanda tespit edilebileceğini gösteren yeni bir çalışma yayımladı. Cell Genomics dergisinde yayımlanan araştırmada, kanda dolaşan DNA’daki kimyasal değişiklikler incelendi.",
           "source": "https://www.ntv.com.tr/saglik/galeri-sivi-biyopsi-umut-verdi-kanser-riski-8-yil-onceden-saptanabilir-1743359"
-        },
-        {
-          "title": "Araştırma: Yapay zeka, sigortacıların sağlık maliyetlerini 1 milyar dolara yakın yükseltti",
-          "summary": "Araştırmaya göre sağlık kuruluşlarının yapay zeka araçlarıyla daha fazla ikincil tanı kaydetmesi, sigorta şirketlerinin iki yılda yaklaşık 942 milyon dolar ek maliyet üstlenmesine yol açtı. Blue Cross Blue Shield Association’ın (BCBSA) yayımladığı çalışmaya göre, 2024 ve 2025 yıllarında sağlık hizmeti sağlayıcılarının daha fazla ikincil hastalık ve ek sağlık sorunu faturalandırması, BCBSA’ya bağlı şirketlerde 653 milyon dolarlık ek maliyet yarattı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-arastirma-yapay-zeka-sigortacilarin-saglik-maliyetlerini-1-milyar-dolara-yakin-yukseltti-1743348"
-        },
-        {
-          "title": "Melatonin kalp sağlığını etkiler mi?",
-          "summary": "Uyku için uzun süre melatonin kullananlarda kalp yetersizliğinin daha yüksek bulunduğu bir araştırma dikkatleri üzerine çekti. Ancak çalışma direkt olarak melatoninin kalp yetersizliğine neden olduğunu göstermiyor. Bu çalışmada araştırılan konu aylarca veya yıllarca kontrolsüz şekilde kullanılması, kısa süreli kullanımın güvenilirliği ile ilgili bir soru işareti yok.",
-          "source": "https://www.ntv.com.tr/yazarlar/sahin-senay/melatonin-kalp-sagligini-etkiler-mi-1742660"
         }
       ]
     },
