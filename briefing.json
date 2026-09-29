@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-29T04:00:04.077Z",
+  "generatedAt": "2026-09-29T10:00:04.663Z",
   "categories": {
     "gundem": {
-      "text": "Yahşihan Belediyesi'ne yolsuzluk soruşturması: İki eski başkan dahil 15 tutuklama. Yahşihan Belediyesine yönelik yolsuzluk operasyonunda 15 şüpheli tutuklandı. Fatih Ergin \"yanıltıcı bilgiyi alenen yayma\" suçlamasıyla tutuklandı. Kömür silosuna düşen madenci yoğun bakıma alındı. İstanbul'da kuvvetli yağış ve rüzgar. AKOM ve Valilik saat saat uyardı. Şanlıurfa'da silah kaçakçılığı operasyonu: 16 gözaltı. İzmit sahilinde dikkat çeken köpüklenme. Numune alındı, incelendi.",
+      "text": "Casusluk davasında üçüncü duruşma. İmamoğlu hakim karşısında. KYK burs ve kredi başvuru tarihi 2026: KYK burs başvuruları başladı mı, ne zaman başlayacak?. Hudut kartallarından zehir tacirlerine darbe: 412 kilo uyuşturucu yakalandı. AK Parti Sözcüsü Ömer Çelik'ten Özgür Özel'e tepki. \"Kendi siyasi tükenmişliklerini sergiliyorlar\". AK Partili Çelik'ten Özel'e: Siyasi ilkesizliği parti programı haline getirdiniz. AK Partili Faruk Acar'dan Özgür Özel'e sert tepki: Bu kadar heyecana gerek yok. SON DAKİKA: Merkez Hakem Kurulu Başkanı Ferhat Gündoğdu gözaltına alındı.",
       "items": [
         {
-          "title": "Yahşihan Belediyesi'ne yolsuzluk soruşturması: İki eski başkan dahil 15 tutuklama",
-          "summary": "Kırıkkale'nin Yahşihan Belediyesi'ne yönelik yürütülen yolsuzluk soruşturmasında, aralarında eski belediye başkanları Ahmet Sungur ve Osman Türkyılmaz'ın da bulunduğu 15 şüpheli tutuklandı. Kırıkkale Cumhuriyet Başsavcılığı koordinesinde İl Jandarma Komutanlığı ekiplerince yürütülen soruşturma kapsamında gözaltına alınan şüphelilerin adliyedeki işlemleri tamamlandı. Savcılık ifadelerinin ardından hakimliğe sevk edilen şüpheliler hakkındaki kararlar açıklandı.",
-          "source": "https://www.ntv.com.tr/turkiye/yahsihan-belediyesine-yolsuzluk-sorusturmasi-iki-eski-baskan-dahil-15-tutuklama-1743936"
+          "title": "Casusluk davasında üçüncü duruşma. İmamoğlu hakim karşısında",
+          "summary": "Ekrem İmamoğlu, Necati Özkan, Hüseyin Gün ve Merdan Yanardağ’ın yargılandığı casusluk davasının üçüncü duruşması başladı. İstanbul Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu, gazeteci Merdan Yanardağ, İmamoğlu'nun kampanya danışmanı Necati Özkan ve Hüseyin Gün'ün yargılandığı casusluk suçlamasıyla açılan davanın 3'üncü duruşması bugün görülüyor. Duruşma, Marmara Kapalı Ceza İnfaz Kurumu karşısında bulunan duruşma salonunda başladı.",
+          "source": "https://www.ntv.com.tr/turkiye/casusluk-davasinda-ucuncu-durusma-imamoglu-hakim-karsisinda-1744006"
         },
         {
-          "title": "Yahşihan Belediyesine yönelik yolsuzluk operasyonunda 15 şüpheli tutuklandı",
-          "summary": "Kırıkkale'nin Yahşihan Belediyesine yönelik 4 ilde düzenlenen yolsuzluk operasyonunda gözaltına alınan 35 zanlıdan 15'i tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yahsihan-belediyesine-yonelik-yolsuzluk-operasyonunda-15-supheli-tutuklandi-43322910"
+          "title": "KYK burs ve kredi başvuru tarihi 2026: KYK burs başvuruları başladı mı, ne zaman başlayacak?",
+          "summary": "Üniversite kayıtlarının ardından gözler Gençlik ve Spor Bakanlığı’na (GSB) çevrildi. Milyonlarca gencin eğitim hayatına maddi destek sağlayacak 2026-2027 KYK burs başvuruları için tarihler bekleniyor. Üniversiteliler için kritik süreç başlıyor. Gençlik ve Spor Bakanlığı bünyesinde sağlanan KYK burs ve kredi imkanından yararlanmak isteyen adaylar için başvuru tarihi netleşmeye başladı. e-Devlet üzerinden erişime açılacak KYK başvuru formuyla, on binlerce öğrenci maddi destek alabilmek için şansını deneyecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-ve-kredi-basvuru-tarihi-2026-kyk-burs-basvurulari-basladi-mi-ne-zaman-baslayacak-1744034"
         },
         {
-          "title": "Fatih Ergin \"yanıltıcı bilgiyi alenen yayma\" suçlamasıyla tutuklandı",
-          "summary": "Eski MİT görevlisi Kaşif Kozinoğlu’nun cezaevinde şüpheli ölümüne ilişkin sosyal medya hesabından paylaşım yapan Gazeteci Fatih Ergin tutuklandı. Gazeteci Fatih Ergin, eski MİT görevlisi Kaşif Kozinoğlu'nun 2011'de Silivri Cezaevi'nde şüpheli şekilde ölümüne ilişkin yeniden açılan soruşturma kapsamında gözaltına alınıp, serbest bırakılan eski Adli Tıp çalışanı Turgay Tamer’in ölümüyle ilgili yaptığı paylaşım nedeniyle gözaltına alındı. Emniyetteki işlemleri tamamlanan Ergin, bugün adliyeye sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/fatih-ergin-yaniltici-bilgiyi-alenen-yayma-suclamasiyla-tutuklandi-1743934"
+          "title": "Hudut kartallarından zehir tacirlerine darbe: 412 kilo uyuşturucu yakalandı",
+          "summary": "Milli Savunma Bakanlığı (MSB), Van hudut hattında gerçekleştirilen arama tarama faaliyetinde 412 kilo 741 gram uyuşturucu madde ele geçirildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/hudut-kartallarindan-zehir-tacirlerine-darbe-412-kilo-uyusturucu-yakalandi-43323385"
         },
         {
-          "title": "Kömür silosuna düşen madenci yoğun bakıma alındı",
-          "summary": "Zonguldak'ta Türkiye Taşkömürü Kurumu (TTK) Kozlu işletmesinde tıkanan kömür silosunu temizlemek için içeri giren işçi Ufuk Demir (27), siloya düştü. Üzerine kömür gelen ve bir süre nefessiz kalan işçinin duran kalbi yapılan müdahaleyle yeniden çalıştırıldı. Yoğun bakıma alınan işçinin hastanedeki tedavisi sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/komur-silosuna-dusen-madenci-yogun-bakima-alindi-43322908"
+          "title": "AK Parti Sözcüsü Ömer Çelik'ten Özgür Özel'e tepki. \"Kendi siyasi tükenmişliklerini sergiliyorlar\"",
+          "summary": "AK Parti Sözcüsü Ömer Çelik, Özgür Özel'in Cumhurbaşkanı Erdoğan'a yönelik sözlerine tepki gösterdi. Çelik, \"Yalnızca kendi siyasi tükenmişliklerini sergiliyorlar.\" dedi. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik'ten Yeni Parti Genel Başkanı Özgür Özel'e tepki geldi. AK Parti Sözcüsü Çelik, “Sayın Özgür Özel’in “siyasi sorumluluğun alfabesi” hakkındaki bilgisizliği çok nettir.",
+          "source": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-omer-celikten-ozgur-ozele-tepki-kendi-siyasi-tukenmisliklerini-sergiliyorlar-1744026"
         },
         {
-          "title": "İstanbul'da kuvvetli yağış ve rüzgar. AKOM ve Valilik saat saat uyardı",
-          "summary": "Yurt geneli bir hafta sürecek yağışlı havanın etkisinde. İstanbul'da da yağışlı ve rüzgarlı havanın özellikle bugün gece yarısına kadar kuvvetli olacağı ve yarın devam edeceği uyarısı yapıldı. İstanbul'da pazar gününden beri etkili olan yağmur, etkisini artırarak devam edecek. Meteoroloji Genel Müdürlüğü bugün için İstanbul dahil 14 il için sarı kodlu uyarıda bulundu. Yağmurlu hava pazar gününe kadar sürecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-kuvvetli-yagis-ve-ruzgar-gece-yarisina-kadar-surecek-1743933"
+          "title": "AK Partili Çelik'ten Özel'e: Siyasi ilkesizliği parti programı haline getirdiniz",
+          "summary": "AK Parti Sözcüsü Ömer Çelik, Yeni Parti Genel Başkanı Özgür Özel'in açıklamalarına sosyal medya hesabından yanıt vererek, Özel'in sözlerinin siyasi cehalet ve iftiradan ibaret olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-celikten-ozele-siyasi-ilkesizligi-parti-programi-haline-getirdiniz-43323309"
         },
         {
-          "title": "Şanlıurfa'da silah kaçakçılığı operasyonu: 16 gözaltı",
-          "summary": "Şanlıurfa'da düzenlenen eş zamanlı operasyonlarda 57 silah, 318 kartuş, 874 fişek ile çeşitli kaçak ürünler ele geçirildi, 16 şüpheli gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sanliurfada-silah-kacakciligi-operasyonu-16-gozalti-43322893"
+          "title": "AK Partili Faruk Acar'dan Özgür Özel'e sert tepki: Bu kadar heyecana gerek yok",
+          "summary": "AK Parti Genel Başkan Yardımcısı Faruk Acar, Yeni Parti Genel Başkanı Özgür Özel'in iktidarı hedef alan sözlerine sert tepki gösterdi. Acar, \"Biz yanlış yapanı savunmayız. Masumiyet karinesini gözetir, hükmü yargıya bırakır, gerektiğinde siyasi sorumluluk almaktan da kaçmayız. Bir de kendince oradan parmak sallayıp hesap sorduğunu zannediyorsun. Bu kadar heyecana gerek yok.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-faruk-acardan-ozgur-ozele-sert-tepki-bu-kadar-heyecana-gerek-yok-43323296"
         },
         {
-          "title": "İzmit sahilinde dikkat çeken köpüklenme. Numune alındı, incelendi",
-          "summary": "Kocaeli'nin İzmit ilçesindeki Sekapark sahilinde denize açılan tahliye kanalında oluşan yoğun köpük dikkat çekti. Yoğun köpükle ilgili yapılan analiz sonuçları açıklandı. Sekapark sahilinde akşam saatlerinde denize açılan tahliye kanalında yoğun miktarda köpük oluştuğu görüldü. Kanal boyunca yayılan beyaz köpükler bazı noktalarda birikirken, denize yakın bölümde de yoğunluk oluştu. Bölgede görülen köpükler çevrede bulunan vatandaşların dikkatini çekti.",
-          "source": "https://www.ntv.com.tr/turkiye/izmit-sahilinde-dikkat-ceken-kopuklenme-numune-alindi-incelendi-1743930"
+          "title": "SON DAKİKA: Merkez Hakem Kurulu Başkanı Ferhat Gündoğdu gözaltına alındı",
+          "summary": "Merkezi Hakem Kurulu (MHK) Başkanı Ferhat Gündoğdu ve 6 şüpheli mobbing ve resmi belgede sahtecilik suçlamasıyla gözaltına alındı. Şüphelilerin hakemlerle ilgili WhatsApp konuşmaları da ortaya çıktı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Merkezi Hakem Kurulu (MHK) Başkanı Ferhat Gündoğdu gözaltına alındı. Gündoğdu'nun yanı sıra 6 şüpheli daha gözaltına alınırken şüphelilere, mobbing ve resmi belgede sahtecilik suçlaması yöneltiliyor.",
+          "source": "https://www.ntv.com.tr/turkiye/son-dakika-mhk-baskani-ferhat-gundogdu-gozaltina-alindi-1743948"
         }
       ]
     },
     "dunya": {
-      "text": "Uzaydan görülen soykırım. Google Gazze'nin yeni uydu görüntülerini yayınladı. İran-ABD New York'ta görüştü. Trump: Savaşı yakında kazanacağız, benzin fiyatları düşecek. Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri'nde. ABD Başkanı Trump’tan İran açıklaması: Bu savaşı çok yakında kazanacağız ve her şey sona erecek. BM: İsrail, Lübnan hava sahasını 143 kez ihlal etti. İsrail basınından çarpıcı yorum: Ankara'nın hamleleri Tel Aviv'i izole ediyor.",
+      "text": "Yunan basınından Türkiye itirafı: Hazır değiliz. Estonya'dan Rusya'ya sabotaj suçlaması. Evden atılması İspanya'yı ayağa kaldırmıştı. 87 yaşındaki kadından güzel haber var. İran Devrim Muhafızları'ndan ABD'lilere 25 sayfalık mektup: 'Gerçekleri bilmelerini istiyoruz'. Brezilya cep telefonu gasplarının önünü alamıyor. Konu seçmenin gündeminde. Starship ilk kez yörüngeye ulaştı. Dünyanın en genç hükümdarı öldü, taht kavgası çıktı. Televizyon spikeri kral oluyor.",
       "items": [
         {
-          "title": "Uzaydan görülen soykırım. Google Gazze'nin yeni uydu görüntülerini yayınladı",
-          "summary": "Google'ın haritalar uygulaması Gazze görüntülerini 21 Eylül'de bir yıl aradan sonra ilk kez güncelledi. Yeni eklenen fotoğraflar yıkımın boyutu gözler önüne serildi. İsrail ordusunun Gazze Şeridi'ne yönelik Ekim 2023'ten bu yana sürdürdüğü bombardımanların sahada oluşturduğu ağır tahribat, Google Haritalar'ın güncellenen uydu görüntülerine yansıdı. Google, görüntülere 2026 başlarından itibaren Gazze'nin güneyinin büyük bir bölümünü kapsayan geniş kapsamlı yüksek çözünürlüklü uydu görüntülerini ekledi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-uzaydan-gorulen-soykirim-google-gazzenin-yeni-uydu-goruntulerini-yayinladi-1743937"
+          "title": "Yunan basınından Türkiye itirafı: Hazır değiliz",
+          "summary": "Yunanistan basını, Türkiye ile tansiyonun artması ihtimali mercek altına alındı. Yunanistan merkezli Militaire'de yayımlanan analizde, \"Türkiye'nin gücü ortada\" ifadesi kullanılırken \"Hazır değiliz\" itirafı yer aldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/yunan-basinindan-turkiye-itirafi-hazir-degiliz-43323308"
         },
         {
-          "title": "İran-ABD New York'ta görüştü",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi New York'ta Amerikan yönetimi ile Tahran arasındaki görüşmelere başkanlık etti. Arakçi, \"İran'ın barışçıl çözüm önerisine, bugün yanıt bekliyoruz.\" dedi. Birleşmiş Milletler Genel Kurulu sona erdi, ama İran heyeti dönmedi. New York'ta ABD'li yetkililerle Katarlı arabulucular aracılığıyla görüşmeler gerçekleştirildi. İran heyetine Dışişleri Bakanı Abbas Arakçi başkanlık etti.",
-          "source": "https://www.ntv.com.tr/dunya/iran-abd-new-yorkta-gorustu-1743935"
+          "title": "Estonya'dan Rusya'ya sabotaj suçlaması",
+          "summary": "Estonya Dışişleri Bakanı Margus Tsahkna, ulusal savunma sanayi şirketlerinden Milrem Robotics'in tesisinin kundaklanmasının arkasında Rusya'nın olduğunu iddia etti. Sabotaj eyleminin Rus özel servislerinin talimatıyla gerçekleştirildiği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/estonyadan-rusyaya-sabotaj-suclamasi-43323387"
         },
         {
-          "title": "Trump: Savaşı yakında kazanacağız, benzin fiyatları düşecek",
-          "summary": "ABD Başkanı Trump, İran'la savaşı yakında kazanacaklarını öne sürerek, hemen ardından benzin fiyatlarının düşeceğini iddia etti. ABD Başkanı Donald Trump, Beyaz Saray’da düzenlediği bir basın toplantısının ardından dış politika gündemine ilişkin soruları yanıtladı. 3 Kasım'da yapılacak Kongre ara seçimlerine en iyi şekilde hazırlandıklarını anlatan Trump, İran'ın nükleer silaha sahip olmasını engellediğini ve bunun sadece ABD için değil tüm dünya için çok önemli bir kazanım olduğunu savundu.",
-          "source": "https://www.ntv.com.tr/dunya/trump-savasi-yakinda-kazanacagiz-benzin-fiyatlari-dusecek-1743922"
+          "title": "Evden atılması İspanya'yı ayağa kaldırmıştı. 87 yaşındaki kadından güzel haber var",
+          "summary": "İspanya'nın başkenti Madrid'de 70 yıldır aynı evde oturan ama son fahiş zamma gücü yetmediği için evden atılan kadın için kitlesel eylemler başlamıştı. 87 yaşındaki kadınla ilgili güzel haber geldi. İspanya'nın başkenti Madrid'de, 87 yaşındaki emekli bir kadının, fahiş zam yapılan kirasını artık ödeyememesi üzerine polis zoruyla evden çıkarılması sonrası başlayan ve ülke geneline yayılan protesto gösterileri sürerken, olayların sembol ismi haline gelen yaşlı kadınla ilgili güzel bir gelişme yaşandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-evden-atilmasi-ispanyayi-ayaga-kaldirmisti-87-yasindaki-kadindan-guzel-haber-var-1744028"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri'nde",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayid Al Nahyan tarafından kabul edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-birlesik-arap-emirliklerinde-43322814"
+          "title": "İran Devrim Muhafızları'ndan ABD'lilere 25 sayfalık mektup: 'Gerçekleri bilmelerini istiyoruz'",
+          "summary": "Devrim Muhafızları, ABD halkına, İran’a yönelik saldırıların gerçek sebeplerinin yer aldığı ve \"ABD’nin küresel saldırganlığının nedenleri ve İsrail'e verdiği desteğin sebeplerine\" ilişkin 25 sayfalık mektup hazırladı. Mektubun ABD halkına savaşın gerçeklerini aktarma amacı taşıdığı belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-devrim-muhafizlarindan-abdlilere-25-sayfalik-mektup-gercekleri-bilmelerini-istiyoruz-43323366"
         },
         {
-          "title": "ABD Başkanı Trump’tan İran açıklaması: Bu savaşı çok yakında kazanacağız ve her şey sona erecek",
-          "summary": "ABD Başkanı Donald Trump, İran'la savaşın yakında sona ereceğini ve savaşı kazanacaklarını savunarak, hemen ardından enerji fiyatlarının hızla düşeceğini ifade etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-iran-aciklamasi-bu-savasi-cok-yakinda-kazanacagiz-ve-her-sey-sona-erecek-43322812"
+          "title": "Brezilya cep telefonu gasplarının önünü alamıyor. Konu seçmenin gündeminde",
+          "summary": "Brezilya'da cep telefonu soygunlarının organize bankacılık dolandırıcılığına dönüşmesi, yaklaşan devlet başkanlığı seçimleri öncesinde kamu güvenliğini ülkenin en kritik gündemi haline getirdi. Brezilya'da sokak soygunlarının bankacılık uygulamalarını ve kişisel verileri hedef alan organize bir suç sektörüne dönüşmesi, pazar günü yapılacak devlet başkanlığı ilk tur seçimleri öncesinde kamu güvenliğini ülkenin başlıca gündemi haline getirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-brezilya-cep-telefonu-gasplarinin-onunu-alamiyor-konu-secmenin-gundeminde-1744024"
         },
         {
-          "title": "BM: İsrail, Lübnan hava sahasını 143 kez ihlal etti",
-          "summary": "Birleşmiş Milletler (BM) Genel Sekreter Sözcüsü Stephane Dujarric, İsrail'in insansız hava aracı (İHA), uçak ve helikopterlerle, Lübnan hava sahasında 143 ihlal gerçekleştirdiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/bm-israil-lubnan-hava-sahasini-143-kez-ihlal-etti-43322797"
+          "title": "Starship ilk kez yörüngeye ulaştı",
+          "summary": "SpaceX, şimdiye kadar üretilmiş en güçlü uzay aracı olan Starship’in 14. test uçuşunu gerçekleştirdi. Uzay aracı, motor arızasına rağmen ilk kez yörüngeye ulaştı.",
+          "source": "https://www.ntv.com.tr/dunya/video-starship-ilk-kez-yorungeye-ulasti-1744016"
         },
         {
-          "title": "İsrail basınından çarpıcı yorum: Ankara'nın hamleleri Tel Aviv'i izole ediyor",
-          "summary": "İsrail basını, Türkiye'nin Libya ile imzaladığı deniz yetki alanları mutabakatı ve bölgede giderek artan askeri ve diplomatik ağırlığının İsrail'in stratejik projelerini engellediğini ve Tel Aviv'i izole ettiğini yazdı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-basinindan-carpici-yorum-ankaranin-hamleleri-tel-avivi-izole-ediyor-43322717"
+          "title": "Dünyanın en genç hükümdarı öldü, taht kavgası çıktı. Televizyon spikeri kral oluyor",
+          "summary": "Uganda'nın Tooro Krallığı'nda 34 yaşındaki Kral Oyo'nun ölümünün ardından başlayan taht kavgası sonuçlandı. Kraliyet ailesi, kamu yayıncısı UBC'de spiker olarak çalışan Prens Edward'ı yeni kral seçti. İŞTE YENİ KRAL Uganda'nın tarihi krallıklarından Tooro'da haftalardır devam eden taht kavgasının ardından yeni kral belli oldu. Gazeteci ve televizyon spikeri Prens Edward Rukidi Kijanangoma Nyabongo II'nin bugün düzenlenecek törenle tahta çıkması bekleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-dunyanin-en-genc-hukumdari-oldu-taht-kavgasi-cikti-televizyon-spikeri-kral-oluyor-1744010"
         }
       ]
     },
     "ekonomi": {
-      "text": "Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında. Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı. Tariş Söke’den pamuğa 102 TL.",
+      "text": "Fon soruşturmasında kritik zirve! Cumhurbaşkanı Erdoğan ekonomi kurmaylarıyla Beştepe'de toplanıyor. Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında. Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı.",
       "items": [
+        {
+          "title": "Fon soruşturmasında kritik zirve! Cumhurbaşkanı Erdoğan ekonomi kurmaylarıyla Beştepe'de toplanıyor",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon piyasasındaki gelişmeler üzerine bugün ekonomi kurmaylarıyla bir araya gelerek atılacak idari ve hukuki adımları değerlendirecek. Öte yandan Meclis'in açılmasıyla birlikte araştırma komisyonu kurulması da gündemde.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-kritik-zirve-cumhurbaskani-erdogan-ekonomi-kurmaylariyla-bestepede-toplaniyor-43323121"
+        },
         {
           "title": "Obezitenin faturası da ağır geldi",
           "summary": "Obezite ve fazla kilo, Avrupa ekonomilerine her yıl milyarlarca euro'luk maliyet getiriyor.",
@@ -115,25 +120,61 @@
           "title": "Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı",
           "summary": "Münih merkezli Dax şirketi Allianz'ın açıklamasına göre, son aylardaki şiddetli sıcaklar birçok insanı olumsuz etkiledi. Şirketin araştırmasına göre hava koşulları ekonomik güç üzerinde de önemli etkiler yarattı.",
           "source": "https://www.hurriyet.com.tr/avrupa/sicaklik-avrupanin-ekonomik-gucunu-zayiflatti-43318782"
-        },
-        {
-          "title": "Tariş Söke’den pamuğa 102 TL",
-          "summary": "YENİ sezonun ilk pamuk alımını geçtiğimiz hafta gerçekleştiren Söke Tariş Pamuk Kooperatifi’nde, üreticilerin merakla beklediği alım fiyatı da netleşti.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/taris-sokeden-pamuga-102-tl-43316956"
         }
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
-    },
-    "teknoloji": {
-      "text": "SpaceX, motor arızasına rağmen Starship'i ilk kez yörüngeye yerleştirdi. ABD'de Apple'a 5,7 milyar dolarlık patent cezası. Kaspersky'den oltalama saldırısı açıklaması: Bini aşkın e-posta kullanıldı. Kontrolden çıkan yapay zeka kamu sistemini hackledi. CEO'lar ifadeye çağrıldı. Bill Gates’ten yapay zekâ uyarısı: Kötü ellerde katliam olur. Bill Gates: Yapay zeka 1 milyar insan ölüme yol açabilecek kadar güçlü. Salah kadrodan çıkarıldı, resmi açıklama yapıldı.",
+      "text": "Acun Ilıcalı’dan Manchester City açıklaması: Bu finansal doping!. Mbappe, Galatasaray maçında yok! Resmen açıklandı. Fenerbahçe ve Anadolu Efes EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli'de. Uluslar Ligi’nde taraf bahisleri öne çıkıyor! İşte Misli’de günün en çok oynanan maçları. Arda Turan'dan kariyer zirvesi: 128 gol, şampiyonluk!. İspanya Uluslar Ligi’nde Hırvatistan’ı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli’de. 'Ferhat Gündoğdu dokunulmaz mı kardeşim?' demişti! Burak Yılmaz'ın aylar önceki sözleri yeniden gündemde.",
       "items": [
         {
-          "title": "SpaceX, motor arızasına rağmen Starship'i ilk kez yörüngeye yerleştirdi",
-          "summary": "SpaceX, Ay ve Mars görevleri için insan ve yük taşımayı hedeflediği Starship (Yıldız Gemisi) roketini, motorlardan birinin arızalanmasına rağmen bugün ilk kez Dünya yörüngesine oturttu. Uzay, havacılık ve yapay zeka şirketi SpaceX, gelecekteki Ay ve Mars misyonları kapsamında insan ve yük taşımak üzere geliştirdiği Starship (Yıldız Gemisi) roketini, 3 yıl önceki ilk test uçuşunun ardından bugün ilk kez Dünya yörüngesine oturtmayı başardı; hem de tek motoru arızalanmasına rağmen… Haziran ayında yapılan halka arzın a",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-spacex-motor-arizasina-ragmen-starshipi-ilk-kez-yorungeye-yerlestirdi-1743836"
+          "title": "Acun Ilıcalı’dan Manchester City açıklaması: Bu finansal doping!",
+          "summary": "Premier Lig ekiplerinden Hull City’nin sahibi Acun Ilıcalı, Mancehester City’e dair yürütülen operasyona ilişkin açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/acun-ilicalidan-manchester-city-aciklamasi-bu-finansal-doping-43323388"
+        },
+        {
+          "title": "Mbappe, Galatasaray maçında yok! Resmen açıklandı",
+          "summary": "Galatasaray'ın Şampiyonlar Ligi'ndeki rakiplerinden Lille'de kırmızı kart gören Mbappe için UEFA Disiplin Kurulu'nda karar çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mbappe-galatasaray-macinda-yok-resmen-aciklandi-43323282"
+        },
+        {
+          "title": "Fenerbahçe ve Anadolu Efes EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli'de",
+          "summary": "EuroLeague’deki temsilcilerimiz Fenerbahçe ve Anadolu Efes, 2. haftada rakiplerini İstanbul’da ağırlıyor. Maçların heyecanı canlı yayın ve canlı sohbet ile Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ve-anadolu-efes-euroleague-sahnesinde-maclarin-heyecani-canli-yayin-ile-mislide-43323332"
+        },
+        {
+          "title": "Uluslar Ligi’nde taraf bahisleri öne çıkıyor! İşte Misli’de günün en çok oynanan maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uluslar-liginde-taraf-bahisleri-one-cikiyor-iste-mislide-gunun-en-cok-oynanan-maclari-43323271"
+        },
+        {
+          "title": "Arda Turan'dan kariyer zirvesi: 128 gol, şampiyonluk!",
+          "summary": "Shakhtar Donetsk teknik direktörü Arda Turan, Avrupa arenasında gösterdiği performansla göz dolduruyor. Arda Turan'ın Shakhtar serüvenindeki galibiyet ve gol oranları takımında alkış topluyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-turandan-kariyer-zirvesi-128-gol-sampiyonluk-43323166"
+        },
+        {
+          "title": "İspanya Uluslar Ligi’nde Hırvatistan’ı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli’de",
+          "summary": "UEFA Uluslar Ligi C Grubu'nda İspanya, Hırvatistan'ı konuk ediyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ispanya-uluslar-liginde-hirvatistani-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43323235"
+        },
+        {
+          "title": "'Ferhat Gündoğdu dokunulmaz mı kardeşim?' demişti! Burak Yılmaz'ın aylar önceki sözleri yeniden gündemde",
+          "summary": "Merkez Hakem Kurulu Başkanı Ferhat Gündoğdu ve 7 kurul üyesinin gözaltına alınmasının ardından teknik direktör Burak Yılmaz'ın Nisan ayında yaptığı açıklamalar yeniden gündeme geldi. İşte o sözler....",
+          "source": "https://www.hurriyet.com.tr/sporarena/ferhat-gundogdu-dokunulmaz-mi-kardesim-demisti-burak-yilmazin-aylar-onceki-sozleri-yeniden-gundemde-43323186"
+        }
+      ]
+    },
+    "teknoloji": {
+      "text": "Google, AB'nin \"Verilerini paylaş\" kararını temyize götürdü. OpenAI, yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını rafa kaldırdı. ABD'de Apple'a 5,7 milyar dolarlık patent cezası. Kaspersky'den oltalama saldırısı açıklaması: Bini aşkın e-posta kullanıldı. Kontrolden çıkan yapay zeka kamu sistemini hackledi. CEO'lar ifadeye çağrıldı. Bill Gates’ten yapay zekâ uyarısı: Kötü ellerde katliam olur. Bill Gates: Yapay zeka 1 milyar insan ölüme yol açabilecek kadar güçlü.",
+      "items": [
+        {
+          "title": "Google, AB'nin \"Verilerini paylaş\" kararını temyize götürdü",
+          "summary": "Google, verilerini diğer arama motorlarıyla paylaşmasına ve Android sistemini rakip yapay zeka hizmetlerine açmasına hükmeden AB kararını \"gizlilik kaygılarını\" gerekçe göstererek temyize götürdü. Avrupa Birliği'nin (AB) Dijital Pazarlar Yasası (DMA) kapsamında temmuz ayında yayımlanan bir genelgeyle, kullanıcılara daha fazla seçenek sunulabilmesi amacıyla, dünyanın en büyük teknoloji firmalarından, kendilerini rekabete açmaları istenmişti.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-google-abnin-verilerini-paylas-kararini-temyize-goturdu-1743994"
+        },
+        {
+          "title": "OpenAI, yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını rafa kaldırdı",
+          "summary": "OpenAI, yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını güvenlik kaygıları nedeniyle rafa kaldırdığını duyurdu. ChatGPT'nin sahibi OpenAI, ekim ayında piyasaya sürülmesi planlanan yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını rafa kaldırdığını açıkladı. OpenAI, bu karara gerekçe olarak, yapılan dahili testlerde GPT-6.1 Astra'nın, şirketin güvenlik standartlarını karşılayamamasını gösterdi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-openai-yeni-nesil-yapay-zeka-modeli-gpt-61-astranin-cikisini-rafa-kaldirdi-1743972"
         },
         {
           "title": "ABD'de Apple'a 5,7 milyar dolarlık patent cezası",
@@ -159,11 +200,6 @@
           "title": "Bill Gates: Yapay zeka 1 milyar insan ölüme yol açabilecek kadar güçlü",
           "summary": "Microsoft'un kurucu ortağı Bill Gates, yapay zekanın büyük risk yarattığını söyledi. Gates'e göre yapay zeka, bir milyar insanın ölümüne yol açabilecek olayları tetikleyecek kadar güçlü. Amerikan yayın kuruluşu NBC'ye konuşan Gates, kötü niyetli aktörlerin en yeni yapay zeka araçlarını kullanmasının büyük ölçekli sonuçlar yaratabileceğini söyledi. Bill Gates, \"Kötü niyetli insanların en son yapay zeka araçlarını kullanmasıyla oluşacak kombinasyon kadar güçlü bir silah daha önce hiç var olmadı.\" ifadesini kullandı.",
           "source": "https://www.ntv.com.tr/teknoloji/bill-gates-yapay-zeka-1-milyar-insan-olume-yol-acabilecek-kadar-guclu-1743606"
-        },
-        {
-          "title": "Salah kadrodan çıkarıldı, resmi açıklama yapıldı",
-          "summary": "Muhammed Salah, zemin nedeniyle Güney Sudan maçında forma giymeyecek. Mısır Futbol Federasyonu, Trabzonspor'da forma giyen Muhammed Salah'ın sentetik çim zeminde oynanacak Güney Sudan maçında dinlendirileceğini duyurdu. Federasyonun açıklamasında, \"Milli takım teknik heyeti, maçın oynanacağı stadın zemininin sentetik çim olması nedeniyle Muhammed Salah'ın 29 Eylül'deki Güney Sudan maçında dinlendirilmesine karar verdi.\" denildi.",
-          "source": "https://www.ntv.com.tr/teknoloji/salah-kadrodan-cikarildi-resmi-aciklama-yapildi-1743593"
         }
       ]
     },
