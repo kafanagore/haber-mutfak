@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-28T16:00:04.202Z",
+  "generatedAt": "2026-09-29T04:00:04.077Z",
   "categories": {
     "gundem": {
-      "text": "Eşi tarafından bıçaklanmıştı, 23 gün sonra hayatını kaybetti. Kütahya'da iki otomobil çarpıştı: 2 ölü, 8 yaralı. NATO: AB'nin üye ülkeleriyle oluşturduğu herhangi bir yapı, İttifak ile rekabet halinde olmamalı. Son dakika... Gazeteci Fatih Ergin'e tutuklama talebi. MASAK'ta FETÖ yapılanmasına ilişkin soruşturmada yeni gelişme: 3 şüpheli tutuklandı. BUDO'nun 12 seferi iptal edildi. Fatih'te araç alev alev yandı.",
+      "text": "Yahşihan Belediyesi'ne yolsuzluk soruşturması: İki eski başkan dahil 15 tutuklama. Yahşihan Belediyesine yönelik yolsuzluk operasyonunda 15 şüpheli tutuklandı. Fatih Ergin \"yanıltıcı bilgiyi alenen yayma\" suçlamasıyla tutuklandı. Kömür silosuna düşen madenci yoğun bakıma alındı. İstanbul'da kuvvetli yağış ve rüzgar. AKOM ve Valilik saat saat uyardı. Şanlıurfa'da silah kaçakçılığı operasyonu: 16 gözaltı. İzmit sahilinde dikkat çeken köpüklenme. Numune alındı, incelendi.",
       "items": [
         {
-          "title": "Eşi tarafından bıçaklanmıştı, 23 gün sonra hayatını kaybetti",
-          "summary": "SAKARYA'nın Akyazı ilçesinde eşi Ömür Arık tarafından bıçaklanarak ağır yaralanan 6 çocuk annesi Betül Arık (50), tedavi gördüğü hastanede 23 gün sonra yaşamını yitirdi. Arık, düzenlenen cenaze töreninin ardından gözyaşları arasında toprağa verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/esi-tarafindan-bicaklanmisti-23-gun-sonra-hayatini-kaybetti-43322686"
+          "title": "Yahşihan Belediyesi'ne yolsuzluk soruşturması: İki eski başkan dahil 15 tutuklama",
+          "summary": "Kırıkkale'nin Yahşihan Belediyesi'ne yönelik yürütülen yolsuzluk soruşturmasında, aralarında eski belediye başkanları Ahmet Sungur ve Osman Türkyılmaz'ın da bulunduğu 15 şüpheli tutuklandı. Kırıkkale Cumhuriyet Başsavcılığı koordinesinde İl Jandarma Komutanlığı ekiplerince yürütülen soruşturma kapsamında gözaltına alınan şüphelilerin adliyedeki işlemleri tamamlandı. Savcılık ifadelerinin ardından hakimliğe sevk edilen şüpheliler hakkındaki kararlar açıklandı.",
+          "source": "https://www.ntv.com.tr/turkiye/yahsihan-belediyesine-yolsuzluk-sorusturmasi-iki-eski-baskan-dahil-15-tutuklama-1743936"
         },
         {
-          "title": "Kütahya'da iki otomobil çarpıştı: 2 ölü, 8 yaralı",
-          "summary": "Kütahya'nın Altıntaş ilçesinde iki otomobilin çarpışması sonucu meydana gelen trafik kazasında 2 kişi hayatını kaybetti, 8 kişi yaralandı. Kaza anı güvenlik kameralarına saniye saniye yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kutahyada-iki-otomobil-carpisti-2-olu-8-yarali-43322678"
+          "title": "Yahşihan Belediyesine yönelik yolsuzluk operasyonunda 15 şüpheli tutuklandı",
+          "summary": "Kırıkkale'nin Yahşihan Belediyesine yönelik 4 ilde düzenlenen yolsuzluk operasyonunda gözaltına alınan 35 zanlıdan 15'i tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yahsihan-belediyesine-yonelik-yolsuzluk-operasyonunda-15-supheli-tutuklandi-43322910"
         },
         {
-          "title": "NATO: AB'nin üye ülkeleriyle oluşturduğu herhangi bir yapı, İttifak ile rekabet halinde olmamalı",
-          "summary": "NATO Avrupa Müttefik Yüksek Komutanı (SACEUR) General Alexus G. Grynkewich, \"Avrupa Savunma Birliği\" fikrine ilişkin bazı Avrupalı liderlerle görüşme yaptığını belirterek Avrupa Birliği'nin (AB) üye ülkeleriyle oluşturduğu herhangi bir yapının NATO ile rekabet halinde olmaması gerektiğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/nato-abnin-uye-ulkeleriyle-olusturdugu-herhangi-bir-yapi-ittifak-ile-rekabet-halinde-olmamali-43322667"
+          "title": "Fatih Ergin \"yanıltıcı bilgiyi alenen yayma\" suçlamasıyla tutuklandı",
+          "summary": "Eski MİT görevlisi Kaşif Kozinoğlu’nun cezaevinde şüpheli ölümüne ilişkin sosyal medya hesabından paylaşım yapan Gazeteci Fatih Ergin tutuklandı. Gazeteci Fatih Ergin, eski MİT görevlisi Kaşif Kozinoğlu'nun 2011'de Silivri Cezaevi'nde şüpheli şekilde ölümüne ilişkin yeniden açılan soruşturma kapsamında gözaltına alınıp, serbest bırakılan eski Adli Tıp çalışanı Turgay Tamer’in ölümüyle ilgili yaptığı paylaşım nedeniyle gözaltına alındı. Emniyetteki işlemleri tamamlanan Ergin, bugün adliyeye sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/fatih-ergin-yaniltici-bilgiyi-alenen-yayma-suclamasiyla-tutuklandi-1743934"
         },
         {
-          "title": "Son dakika... Gazeteci Fatih Ergin'e tutuklama talebi",
-          "summary": "Son dakika haberi... Kaşif Kozinoğlu’nun ölümüne ilişkin yürütülen soruşturmada gazeteci Fatih Ergin, 'halkı yanıltıcı bilgiyi alenen yayma' suçundan tutuklama talebiyle nöbetçi hakimliğe sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-gazeteci-fatih-ergine-tutuklama-talebi-43322665"
+          "title": "Kömür silosuna düşen madenci yoğun bakıma alındı",
+          "summary": "Zonguldak'ta Türkiye Taşkömürü Kurumu (TTK) Kozlu işletmesinde tıkanan kömür silosunu temizlemek için içeri giren işçi Ufuk Demir (27), siloya düştü. Üzerine kömür gelen ve bir süre nefessiz kalan işçinin duran kalbi yapılan müdahaleyle yeniden çalıştırıldı. Yoğun bakıma alınan işçinin hastanedeki tedavisi sürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/komur-silosuna-dusen-madenci-yogun-bakima-alindi-43322908"
         },
         {
-          "title": "MASAK'ta FETÖ yapılanmasına ilişkin soruşturmada yeni gelişme: 3 şüpheli tutuklandı",
-          "summary": "Siyasal veya Askeri Casusluk soruşturmasında, MASAK'ın dijital altyapısında FETÖ yapılanması tespit edildi. Sistem üzerinden Cumhurbaşkanı Erdoğan ve yakınlarının sorgulandığı belirlenirken, gözaltına alınan eski başkanın da aralarında olduğu 3 kişi tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/masakta-feto-yapilanmasina-iliskin-sorusturmada-yeni-gelisme-3-supheli-tutuklandi-43322624"
+          "title": "İstanbul'da kuvvetli yağış ve rüzgar. AKOM ve Valilik saat saat uyardı",
+          "summary": "Yurt geneli bir hafta sürecek yağışlı havanın etkisinde. İstanbul'da da yağışlı ve rüzgarlı havanın özellikle bugün gece yarısına kadar kuvvetli olacağı ve yarın devam edeceği uyarısı yapıldı. İstanbul'da pazar gününden beri etkili olan yağmur, etkisini artırarak devam edecek. Meteoroloji Genel Müdürlüğü bugün için İstanbul dahil 14 il için sarı kodlu uyarıda bulundu. Yağmurlu hava pazar gününe kadar sürecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-kuvvetli-yagis-ve-ruzgar-gece-yarisina-kadar-surecek-1743933"
         },
         {
-          "title": "BUDO'nun 12 seferi iptal edildi",
-          "summary": "Bursa Deniz Otobüsleri'nin (BUDO) bugün yapılması planlanan 12 seferi, olumsuz hava koşulları nedeniyle iptal edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/budonun-12-seferi-iptal-edildi-43322598"
+          "title": "Şanlıurfa'da silah kaçakçılığı operasyonu: 16 gözaltı",
+          "summary": "Şanlıurfa'da düzenlenen eş zamanlı operasyonlarda 57 silah, 318 kartuş, 874 fişek ile çeşitli kaçak ürünler ele geçirildi, 16 şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sanliurfada-silah-kacakciligi-operasyonu-16-gozalti-43322893"
         },
         {
-          "title": "Fatih'te araç alev alev yandı",
-          "summary": "Fatih Vatan Caddesi'nde seyir halindeki ticari araçta yangın çıktı. Trafik kontrollü olarak sağlanırken, yol kenarında alev alev yanan araç itfaiye ekiplerinin müdahalesiyle söndürüldü. Edinilen bilgiye göre Fatih Vatan Caddesi Aksaray istikametinde seyir halinde olan ticari araçtan bilinmeyen bir nedenle dumanlar yükselmeye başladı. Yol kenarına çekilen araç bir süre sonra alev topuna döndü. Olay yerine itfaiye ve polis ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-fatihte-arac-alev-alev-yandi-1743906"
+          "title": "İzmit sahilinde dikkat çeken köpüklenme. Numune alındı, incelendi",
+          "summary": "Kocaeli'nin İzmit ilçesindeki Sekapark sahilinde denize açılan tahliye kanalında oluşan yoğun köpük dikkat çekti. Yoğun köpükle ilgili yapılan analiz sonuçları açıklandı. Sekapark sahilinde akşam saatlerinde denize açılan tahliye kanalında yoğun miktarda köpük oluştuğu görüldü. Kanal boyunca yayılan beyaz köpükler bazı noktalarda birikirken, denize yakın bölümde de yoğunluk oluştu. Bölgede görülen köpükler çevrede bulunan vatandaşların dikkatini çekti.",
+          "source": "https://www.ntv.com.tr/turkiye/izmit-sahilinde-dikkat-ceken-kopuklenme-numune-alindi-incelendi-1743930"
         }
       ]
     },
     "dunya": {
-      "text": "İran Dışişleri Bakanı Arakçi ABD'li arabulucularla görüşecek. Günde 100 gram ultra işlenmiş gıda bile hastalık riskini artırabilir. Kız ve erkek çocukların doğumdan sadece birkaç saat sonra gösterdikleri şaşırtıcı farklılıklar. Fazla kahve içmek kemik sağlığını olumsuz etkileyebilir. İran'dan İngiltere'deki terör hücresiyle bağlantılı olduğu iddialarına yalanlama. KORKUT İsrail basınının manşetinde: 'Hareket halindeki hedeflere tam isabet'. TBMM Başkanı Kurtulmuş, Türkiye'nin Lizbon Büyükelçiliğini ziyaret etti.",
+      "text": "Uzaydan görülen soykırım. Google Gazze'nin yeni uydu görüntülerini yayınladı. İran-ABD New York'ta görüştü. Trump: Savaşı yakında kazanacağız, benzin fiyatları düşecek. Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri'nde. ABD Başkanı Trump’tan İran açıklaması: Bu savaşı çok yakında kazanacağız ve her şey sona erecek. BM: İsrail, Lübnan hava sahasını 143 kez ihlal etti. İsrail basınından çarpıcı yorum: Ankara'nın hamleleri Tel Aviv'i izole ediyor.",
       "items": [
         {
-          "title": "İran Dışişleri Bakanı Arakçi ABD'li arabulucularla görüşecek",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi’nin ABD’de bugün arabulucularla bir araya geleceği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-disisleri-bakani-arakci-abdli-arabulucularla-gorusecek-43322643"
+          "title": "Uzaydan görülen soykırım. Google Gazze'nin yeni uydu görüntülerini yayınladı",
+          "summary": "Google'ın haritalar uygulaması Gazze görüntülerini 21 Eylül'de bir yıl aradan sonra ilk kez güncelledi. Yeni eklenen fotoğraflar yıkımın boyutu gözler önüne serildi. İsrail ordusunun Gazze Şeridi'ne yönelik Ekim 2023'ten bu yana sürdürdüğü bombardımanların sahada oluşturduğu ağır tahribat, Google Haritalar'ın güncellenen uydu görüntülerine yansıdı. Google, görüntülere 2026 başlarından itibaren Gazze'nin güneyinin büyük bir bölümünü kapsayan geniş kapsamlı yüksek çözünürlüklü uydu görüntülerini ekledi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-uzaydan-gorulen-soykirim-google-gazzenin-yeni-uydu-goruntulerini-yayinladi-1743937"
         },
         {
-          "title": "Günde 100 gram ultra işlenmiş gıda bile hastalık riskini artırabilir",
-          "summary": "Yaklaşık 8,8 milyon yetişkinin verilerini kapsayan geniş çaplı bir araştırmaya göre, günlük tüketilen her 100 gram ek ultra işlenmiş gıda, kalp-damar hastalıkları başta olmak üzere çeşitli kronik hastalıkların riskindeki artışla ilişkilendirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/gunde-100-gram-ultra-islenmis-gida-bile-hastalik-riskini-artirabilir-43322631"
+          "title": "İran-ABD New York'ta görüştü",
+          "summary": "İran Dışişleri Bakanı Abbas Arakçi New York'ta Amerikan yönetimi ile Tahran arasındaki görüşmelere başkanlık etti. Arakçi, \"İran'ın barışçıl çözüm önerisine, bugün yanıt bekliyoruz.\" dedi. Birleşmiş Milletler Genel Kurulu sona erdi, ama İran heyeti dönmedi. New York'ta ABD'li yetkililerle Katarlı arabulucular aracılığıyla görüşmeler gerçekleştirildi. İran heyetine Dışişleri Bakanı Abbas Arakçi başkanlık etti.",
+          "source": "https://www.ntv.com.tr/dunya/iran-abd-new-yorkta-gorustu-1743935"
         },
         {
-          "title": "Kız ve erkek çocukların doğumdan sadece birkaç saat sonra gösterdikleri şaşırtıcı farklılıklar",
-          "summary": "Yeni bir araştırmaya göre, kız ve erkek bebekler arasındaki bazı davranış farklılıkları doğumdan yalnızca birkaç saat sonra ortaya çıkabiliyor. Yaklaşık 33 saatlik yenidoğanlarla yapılan deneyde, kız bebeklerin insan yüzüne erkek bebeklerden daha fazla ilgi gösterdiği görüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/kiz-ve-erkek-cocuklarin-dogumdan-sadece-birkac-saat-sonra-gosterdikleri-sasirtici-farkliliklar-43322615"
+          "title": "Trump: Savaşı yakında kazanacağız, benzin fiyatları düşecek",
+          "summary": "ABD Başkanı Trump, İran'la savaşı yakında kazanacaklarını öne sürerek, hemen ardından benzin fiyatlarının düşeceğini iddia etti. ABD Başkanı Donald Trump, Beyaz Saray’da düzenlediği bir basın toplantısının ardından dış politika gündemine ilişkin soruları yanıtladı. 3 Kasım'da yapılacak Kongre ara seçimlerine en iyi şekilde hazırlandıklarını anlatan Trump, İran'ın nükleer silaha sahip olmasını engellediğini ve bunun sadece ABD için değil tüm dünya için çok önemli bir kazanım olduğunu savundu.",
+          "source": "https://www.ntv.com.tr/dunya/trump-savasi-yakinda-kazanacagiz-benzin-fiyatlari-dusecek-1743922"
         },
         {
-          "title": "Fazla kahve içmek kemik sağlığını olumsuz etkileyebilir",
-          "summary": "Yeni bir araştırma, günde beş fincandan fazla kahve tüketiminin 65 yaş ve üzerindeki kadınlarda daha düşük kemik mineral yoğunluğuyla ilişkili olabileceğini ortaya koydu. Uzmanlara göre günde 2-3 fincan kahve tüketiminde ise benzer bir olumsuz etki görülmedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fazla-kahve-icmek-kemik-sagligini-olumsuz-etkileyebilir-43322607"
+          "title": "Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri'nde",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayid Al Nahyan tarafından kabul edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-birlesik-arap-emirliklerinde-43322814"
         },
         {
-          "title": "İran'dan İngiltere'deki terör hücresiyle bağlantılı olduğu iddialarına yalanlama",
-          "summary": "İran’ın Londra Büyükelçiliği, İngiliz basınının ABD askeri uçaklarının kullandığı Fairford Hava Üssü yakınlarında \"terör eylemi hazırlığı içinde oldukları\" şüphesiyle gözaltına alınan beş kişinin İran'ın yönlendirmesi doğrultusunda hareket ettiği iddialarının gerçeği yansıtmadığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-ingilteredeki-teror-hucresiyle-baglantili-oldugu-iddialarina-yalanlama-43322578"
+          "title": "ABD Başkanı Trump’tan İran açıklaması: Bu savaşı çok yakında kazanacağız ve her şey sona erecek",
+          "summary": "ABD Başkanı Donald Trump, İran'la savaşın yakında sona ereceğini ve savaşı kazanacaklarını savunarak, hemen ardından enerji fiyatlarının hızla düşeceğini ifade etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-iran-aciklamasi-bu-savasi-cok-yakinda-kazanacagiz-ve-her-sey-sona-erecek-43322812"
         },
         {
-          "title": "KORKUT İsrail basınının manşetinde: 'Hareket halindeki hedeflere tam isabet'",
-          "summary": "Türkiye'nin geliştirdiği KORKUT 35 mm Hava Savunma Sistemi'nin uluslararası savunma heyetlerinin katıldığı canlı atış gösterisi İsrail basınının gündemine girdi. İsrail merkezli Mako, 12 ülkeden askeri heyetin takip ettiği gösterimde KORKUT 35'in kamikaze İHA'ları ve hareket halindeki kara hedefini vurmasına dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/dunya/korkut-israil-basininin-mansetinde-hareket-halindeki-hedeflere-tam-isabet-43322539"
+          "title": "BM: İsrail, Lübnan hava sahasını 143 kez ihlal etti",
+          "summary": "Birleşmiş Milletler (BM) Genel Sekreter Sözcüsü Stephane Dujarric, İsrail'in insansız hava aracı (İHA), uçak ve helikopterlerle, Lübnan hava sahasında 143 ihlal gerçekleştirdiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/bm-israil-lubnan-hava-sahasini-143-kez-ihlal-etti-43322797"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş, Türkiye'nin Lizbon Büyükelçiliğini ziyaret etti",
-          "summary": "TBMM Başkanı Numan Kurtulmuş, Portekiz'deki resmi temasları kapsamında Türkiye'nin Lizbon Büyükelçiliğini ziyaret etti. TBMM Başkanı Numan Kurtulmuş, sosyal medya hesabından yaptığı paylaşımda, \"Portekiz'deki resmi temaslarımız kapsamında Lizbon Büyükelçiliğimizi ziyaret ederek Büyükelçi Haldun Koç'tan çalışmaları hakkında bilgi aldık. Misyonumuzda görev yapan personelimize çalışmalarında üstün başarılar diliyorum.\" ifadesini kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/tbmm-baskani-kurtulmus-turkiyenin-lizbon-buyukelciligini-ziyaret-etti-1743903"
+          "title": "İsrail basınından çarpıcı yorum: Ankara'nın hamleleri Tel Aviv'i izole ediyor",
+          "summary": "İsrail basını, Türkiye'nin Libya ile imzaladığı deniz yetki alanları mutabakatı ve bölgede giderek artan askeri ve diplomatik ağırlığının İsrail'in stratejik projelerini engellediğini ve Tel Aviv'i izole ettiğini yazdı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-basinindan-carpici-yorum-ankaranin-hamleleri-tel-avivi-izole-ediyor-43322717"
         }
       ]
     },
@@ -124,44 +124,8 @@
       ]
     },
     "spor": {
-      "text": "Kemer Country Club, Tektaş Watches Jewellery Premium Padel Tournament’a ev sahipliği yaptı. Atiba Hutchinson: Süper Lig’de çok heyecanlı bir sezon olacağını düşünüyorum. Italiano listeyi verdi! Beşiktaş'a 2 transfer. Ertan Torunoğulları'ndan Aziz Yıldırım'ın sözlerine tepki: 'Sanırım ülkede sadece Kante için vergi uygulaması var!'. Trabzonspor’da Ruslan Malinovskyi ameliyat oldu. Fenerbahçe, Çaykur Rizespor maçının hazırlıklarını sürdürdü. Beşiktaş, Kocaelispor maçının hazırlıklarına başladı.",
-      "items": [
-        {
-          "title": "Kemer Country Club, Tektaş Watches Jewellery Premium Padel Tournament’a ev sahipliği yaptı",
-          "summary": "TEKTAŞ Watches Jewellery Premium Padel Tournament, 26-27 Eylül tarihlerinde İstanbul'un seçkin yaşam ve spor merkezlerinden Kemer Country Club'da Tektaş Saatçilik’in sponsorluğunda düzenlendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kemer-country-club-tektas-watches-jewellery-premium-padel-tournamenta-ev-sahipligi-yapti-43322647"
-        },
-        {
-          "title": "Atiba Hutchinson: Süper Lig’de çok heyecanlı bir sezon olacağını düşünüyorum",
-          "summary": "Beşiktaş’ın eski futbolcularından Atiba Hutchinson, “Bence çok iyi, en iyisi. Uzun zamandır gördüğüm en iyi seviye olduğunu düşünüyorum. Tabi ki sezonun henüz çok başındayız ama özellikle 4 büyükler çok iyi görünüyor. Bu yüzden çok heyecanlı bir sezon olacağını düşünüyorum” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/atiba-hutchinson-super-ligde-cok-heyecanli-bir-sezon-olacagini-dusunuyorum-43322589"
-        },
-        {
-          "title": "Italiano listeyi verdi! Beşiktaş'a 2 transfer",
-          "summary": "Beşiktaş teknik direktörü Vincenzo Italiano, Beşiktaş Başkanı Serdal Adalı'ya istediği isimleri iletti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/italiano-listeyi-verdi-besiktasa-2-transfer-43321822"
-        },
-        {
-          "title": "Ertan Torunoğulları'ndan Aziz Yıldırım'ın sözlerine tepki: 'Sanırım ülkede sadece Kante için vergi uygulaması var!'",
-          "summary": "Fenerbahçe'de dün gerçekleşen Genel Kurul'da Başkan Aziz Yıldırım'ın N'Golo Kante'nin maliyetine dair yaptığı açıklamalara, Sadettin Saran döneminde futbol şubesinden sorumlu yönetici olarak görev yapan Ertan Torunoğulları tepki gösterdi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertan-torunogullarindan-aziz-yildirimin-sozlerine-tepki-sanirim-ulkede-sadece-kante-icin-vergi-uygulamasi-var-43322448"
-        },
-        {
-          "title": "Trabzonspor’da Ruslan Malinovskyi ameliyat oldu",
-          "summary": "Trabzonspor, sol dizinde yaygın kemik ödemi ve mekanik şikayetleri devam eden futbolcusu Ruslan Malinovskyi’nin ameliyat edildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-ruslan-malinovskyi-ameliyat-oldu-43322476"
-        },
-        {
-          "title": "Fenerbahçe, Çaykur Rizespor maçının hazırlıklarını sürdürdü",
-          "summary": "Fenerbahçe, Trendyol Süper Lig'in 7. haftasında 10 Ekim Cumartesi günü Çaykur Rizespor'a konuk olacağı karşılaşmanın hazırlıklarına devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-caykur-rizespor-macinin-hazirliklarini-surdurdu-43322409"
-        },
-        {
-          "title": "Beşiktaş, Kocaelispor maçının hazırlıklarına başladı",
-          "summary": "Beşiktaş, Trendyol Süper Lig'in 7. haftasında sahasında Kocaelispor ile karşı karşıya geleceği mücadelenin hazırlıklarına başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-kocaelispor-macinin-hazirliklarina-basladi-43322383"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
       "text": "SpaceX, motor arızasına rağmen Starship'i ilk kez yörüngeye yerleştirdi. ABD'de Apple'a 5,7 milyar dolarlık patent cezası. Kaspersky'den oltalama saldırısı açıklaması: Bini aşkın e-posta kullanıldı. Kontrolden çıkan yapay zeka kamu sistemini hackledi. CEO'lar ifadeye çağrıldı. Bill Gates’ten yapay zekâ uyarısı: Kötü ellerde katliam olur. Bill Gates: Yapay zeka 1 milyar insan ölüme yol açabilecek kadar güçlü. Salah kadrodan çıkarıldı, resmi açıklama yapıldı.",
