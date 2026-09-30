@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-29T16:00:04.184Z",
+  "generatedAt": "2026-09-30T04:00:04.385Z",
   "categories": {
     "gundem": {
-      "text": "Ticaret Bakanlığı: Bakan Yardımcısı Tuzcu hakkında ortaya atılan iddialar gerçek dışı. Ankara'da çıkan yangında iki mobilya dükkanı kullanılamaz hale geldi. AK Parti’ye yeni katılımlar... 9 belediye başkanının rozetlerini Cumhurbaşkanı Erdoğan taktı. Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Devlet Denetleme Kurulu görevlendirildi. Diyarbakır’da motosikletli saldırganlar iş yerini kurşunladı: O anlar saniye saniye kaydedildi. TBMM Başkanı Kurtulmuş: Ucu kime dokunursa dokunsun ortaya çıkarılmalı. Balkondan düşüp yaralanan Aylin Güler'den şoke eden suçlama: Eşim bacaklarımdan tutup attı.",
+      "text": "İstanbul'da kuvvetli sağanak. Valilikten 3 ilçe için uyarı. KKTC'de feribot felaketi. İki cansız bedenin kimlik tespitleri tamamlandı. MGK bugün toplanıyor. Gündem Terörsüz Türkiye. Fon soruşturmasında denetim süreci başladı. Ödemelere öncelik verilecek. Kayseri’de 10 katlı binada yangın paniği. Küçükçekmece'de elektrik akımına kapılan köpek öldü. Tuzla Belediye Başkanı Bingöl'den, ilçede iki mahallede oluşan koku şikayetine ilişkin açıklama.",
       "items": [
         {
-          "title": "Ticaret Bakanlığı: Bakan Yardımcısı Tuzcu hakkında ortaya atılan iddialar gerçek dışı",
-          "summary": "Ticaret Bakanlığı, Bakan Yardımcısı Mustafa Tuzcu hakkında bir milletvekili tarafından sosyal medya üzerinden ortaya atılan iddialara ilişkin açıklama yaptı. Bakanlık, söz konusu iddiaların \"gerçek dışı, senaryo ve kurgu ürünü, mesnetsiz ve iftira niteliğinde\" olduğunu bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ticaret-bakanligi-bakan-yardimcisi-tuzcu-hakkinda-ortaya-atilan-iddialar-gercek-disi-43323858"
+          "title": "İstanbul'da kuvvetli sağanak. Valilikten 3 ilçe için uyarı",
+          "summary": "İstanbul'da pazar gününden bu yana etkili olan sağanak, aralıklarla şiddetini artırarak devam ediyor. İstanbul Valiliği bugün Şile, Pendik ve Tuzla ilçeleri için uyarıda bulundu. İSTANBUL VALİLİĞİ'NDEN ÜÇ İLÇE İÇİN UYARI İstanbul'da yağış aralıklarla bugün de devam edecek. Yarın ve Cuma ise yine şiddetlenecek. Kuvvetli poyrazın etkisiyle sıcaklık 15-16 derece hissediliyor. İstanbul Valiliği, kentte etkili olması beklenen kuvvetli yağış ve fırtına nedeniyle tedbirli olunması uyarısı yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-kuvvetli-saganak-valilikten-3-ilce-icin-uyari-1744103"
         },
         {
-          "title": "Ankara'da çıkan yangında iki mobilya dükkanı kullanılamaz hale geldi",
-          "summary": "Ankara’nın Altındağ ilçesinde, yan yana bulunan iki mobilya dükkanı çıkan yangında kullanılamaz hale geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-cikan-yanginda-iki-mobilya-dukkani-kullanilamaz-hale-geldi-43323856"
+          "title": "KKTC'de feribot felaketi. İki cansız bedenin kimlik tespitleri tamamlandı",
+          "summary": "KKTC'de batan geminin bin metre uzağında yapılan taramada bulunan cansız bedenlerin Hataylı Mehmet Asaf Biçer (5) ve Nihat Pancar (51) oldukları tespit edildi. Çalışmalarda bir naaşa daha ulaşıldı. KKTC'den Mersin’in Taşucu Limanı’na gitmek üzere 30 Ağustos Pazar hareket eden \"Filo Jet\" isimli feribot alabora oldu. Kazada kaybolan Mehmet Asaf Biçer ve Nihat Pancar'ın cansız bedenlerine ulaşıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-girne-feribot-felaketi-iki-cansiz-bedenin-kimlik-tespitleri-tamamlandi-1744098"
         },
         {
-          "title": "AK Parti’ye yeni katılımlar... 9 belediye başkanının rozetlerini Cumhurbaşkanı Erdoğan taktı",
-          "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, AK Parti Kongre Merkezi'nde Genişletilmiş İl Başkanları Toplantısı'na katıldı. Erdoğan, partisine katılan 9 belediye başkanına rozetlerini taktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-partiye-yeni-katilimlar-9-belediye-baskaninin-rozetlerini-cumhurbaskani-erdogan-takti-43323847"
+          "title": "MGK bugün toplanıyor. Gündem Terörsüz Türkiye",
+          "summary": "Milli Güvenlik Kurulu (MGK) bugün toplanacak. Toplantının ana gündem başlığı Terörsüz Türkiye süreci olacak. Milli Güvenlik Kurulu (MGK) toplantısı Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Beştepe'de gerçekleştirilecek. Toplantıda Terörsüz Türkiye sürecine ilişkin yasal düzenlemelerin devreye girmesi için silah bırakmanın tamamlandığına dair MGK kararı gerekiyor. Bu kapsamda toplantıda, sahadaki son durumun kapsamlı olarak değerlendirilmesi bekleniyor.",
+          "source": "https://www.ntv.com.tr/turkiye/mgk-bugun-toplaniyor-gundem-terorsuz-turkiye-1744062"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Devlet Denetleme Kurulu görevlendirildi",
-          "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, AK Parti Kongre Merkezi'nde Genişletilmiş İl Başkanları Toplantısı'nda açıklamalarda bulundu. Cumhurbaşkanı Erdoğan fon soruşturması ile ilgili olarak Tasfiyesine karar verilen fonlara ilişkin süreci koordine etmek için Cumhurbaşkanı Yardımcımızın başkanlığında tam yetkili bir kurul oluşturduk. Ayrıca Devlet Denetleme Kurulumuzu görevlendirdik. İnşallah bu süreci süratle neticelendireceğiz. İnanıyorum ki Türkiye bu meseleden temizlenerek çıkacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43323664"
+          "title": "Fon soruşturmasında denetim süreci başladı. Ödemelere öncelik verilecek.",
+          "summary": "Fon soruşturmasında denetim süreci başlatıldı. Yatırımcılara yapılacak ödemeler için yol haritası belirlendi. Ödemelerin yapılmasına öncelik verilecek. Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında ekonomi kurmayları ve ilgili kurumların üst düzey yöneticilerinin katılımıyla eşgüdüm toplantısı düzenlendi. İletişim Başkanlığından toplantıda ele alınan konulara ilişkin açıklama yapıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-denetim-sureci-basladi-odemeleri-oncelik-verilecek-1744079"
         },
         {
-          "title": "Diyarbakır’da motosikletli saldırganlar iş yerini kurşunladı: O anlar saniye saniye kaydedildi",
-          "summary": "Diyarbakır'da motosikletle gelerek bir iş yerine silahlı saldırı düzenlediği güvenlik kamerasına yansıyan şüpheli, polis ekiplerince yakalanarak tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-motosikletli-saldirganlar-is-yerini-kursunladi-o-anlar-saniye-saniye-kaydedildi-43323819"
+          "title": "Kayseri’de 10 katlı binada yangın paniği",
+          "summary": "Kayseri’nin Talas ilçesinde 10 katlı bir binanın zemin katından yükselen duman paniğe neden oldu. Dumanın binanın elektrik aksamında oluşan bir arıza nedeniyle oluştuğu değerlendirilirken, dumanların tahliye edilmesinin ardından vatandaşlar yeniden evlerine alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-10-katli-binada-yangin-panigi-43324107"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş: Ucu kime dokunursa dokunsun ortaya çıkarılmalı",
-          "summary": "TBMM Başkanı Numan Kurtulmuş, fon soruşturmasına dair yaptığı açıklamada \"Kim olursa olsun, ucu kime nereye uzanırsa uzansın ortaya çıkarılması gerekir.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-ucu-kime-dokunursa-dokunsun-ortaya-cikarilmali-43323801"
+          "title": "Küçükçekmece'de elektrik akımına kapılan köpek öldü",
+          "summary": "Küçükçekmece'de, kaldırımda yürüyüş yapan Can Demir (21) ile yanındaki köpeği elektrik akımına kapıldı. Olayda köpek ölürken, Demir parmağından yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kucukcekmecede-elektrik-akimina-kapilan-kopek-oldu-43324106"
         },
         {
-          "title": "Balkondan düşüp yaralanan Aylin Güler'den şoke eden suçlama: Eşim bacaklarımdan tutup attı",
-          "summary": "İzmir, Karabağlar'da 4'üncü kattan düşerek ağır yaralanan Aylin Güler'in davasında tutuklu sanık koca \"intihar etti\" savunması yaparken, talihsiz kadın eşinin kendisini aşağı attığını mahkemede anlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/balkondan-dusup-yaralanan-aylin-gulerden-soke-eden-suclama-esim-bacaklarimdan-tutup-atti-43323778"
+          "title": "Tuzla Belediye Başkanı Bingöl'den, ilçede iki mahallede oluşan koku şikayetine ilişkin açıklama",
+          "summary": "Tuzla Belediye Başkanı Eren Ali Bingöl, ilçede iki mahallede oluşan koku şikayetine ilişkin, \"Şikayetlerin geldiği ilk andan itibaren İSKİ, tarafımızca konu hakkında bilgilendirilmiştir ancak şu ana kadar henüz herhangi bir çalışma başlatmamıştır.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/tuzla-belediye-baskani-bingolden-ilcede-iki-mahallede-olusan-koku-sikayetine-iliskin-aciklama-43324105"
         }
       ]
     },
     "dunya": {
-      "text": "ABD Başkan Yardımcısı Vance: İran’la anlaşmaya varabileceğimiz bir senaryo var. Rusya'dan NATO'ya nükleer silahla karşılık tehdidi. İran, ABD savaş gemilerinin Hürmüz'den çekildiğini öne sürdü. Netanyahu'dan İsrail'in yakın zamanda saldırıya uğrayacağı iddiası. Almanya önderliğindeki 6 AB ülkesinden, Brüksel'e \"bütçe\" ültimatomu. Çocuklukta tüketilen şeker yıllar sonra kaygı riskini etkileyebilir. Uykunuz sizi hastalıklardan koruyor olabilir.",
+      "text": "Dikkat çeken hazırlık! NATO bunu neden test etti? Seçilen yerin verdiği mesaj ne? ‘Mevcut gerilimi daha da artırabilir’. Katar Başbakanı Al Sani. \"Netanyahu bir savaş suçlusudur\". Irak'ta 12 yıllık bir devir kapandı. ABD askerleri Irak'tan ayrıldı. Fas’ın ilk kadın başbakanı Fatima Ezzahra El Mansouri oldu. Trump, kararnameyi imzaladı. Yapay zeka \"süper zeka\" oldu. Rusya'da bombardıman uçağı düştü: 6 ölü, 1 yaralı. ABD Başkan Yardımcısı Vance: İran’la anlaşmaya varabileceğimiz bir senaryo var.",
       "items": [
+        {
+          "title": "Dikkat çeken hazırlık! NATO bunu neden test etti? Seçilen yerin verdiği mesaj ne? ‘Mevcut gerilimi daha da artırabilir’",
+          "summary": "Avrupa’da son dönemde artan güvenlik endişeleri NATO’yu dikkat çeken bir adım atmaya yöneltti. Kuzey Denizi’nde ortaya çıkan hareketlilik, ittifakın farklı senaryolara karşı hazırlığını bir kez daha gündeme getirdi. Ancak bu adımın asıl dikkat çeken tarafı, NATO’nun aynı anda birden fazla ihtimali hesaba katması oldu. Peki NATO neden özellikle bu bölgeye odaklandı, perde arkasında hangi gelişmeler yaşanıyor? Bu hamlenin ayrıntıları, Avrupa’nın güvenlik gündeminde dikkat çeken yeni bir tabloyu ortaya çıkardı.",
+          "source": "https://www.hurriyet.com.tr/dunya/dikkat-ceken-hazirlik-nato-bunu-neden-test-etti-secilen-yerin-verdigi-mesaj-ne-mevcut-gerilimi-daha-da-artirabilir-43323536"
+        },
+        {
+          "title": "Katar Başbakanı Al Sani. \"Netanyahu bir savaş suçlusudur\"",
+          "summary": "Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani, İsrail Başbakanı Binyamin Netanyahu'nun bir \"savaş suçlusu\" olduğunu söyledi. Al Sani, İngiliz gazeteci Piers Morgan'ın \"Piers Morgan Uncensored\" programına verdiği mülakatta gündeme ilişkin değerlendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/katar-basbakani-al-sani-netanyahu-bir-savas-suclusudur-1744105"
+        },
+        {
+          "title": "Irak'ta 12 yıllık bir devir kapandı. ABD askerleri Irak'tan ayrıldı",
+          "summary": "Irak'ta terör örgütü DAEŞ'le mücadele adı altında Irak hükümetiyle işbirliği yapan ABD güçleri öncülüğündeki uluslararası koalisyon 12 yılın ardından ülkeden çekildi. Ülkede 9 askeri üsse sahip olan ABD askerlerinin ülkeden ayrılmasıyla Irak’ta yeni bir dönem başlıyor. Irak Savunma Bakanı Yahya Resul, Katar Merkezli El Cezire televizyonuna koalisyon güçlerinin ülkeden çekildiğini duyurdu. Çekilmeyle birlikte ABD'nin ülke genelinde bulunan çok sayıda üssü de boşaldı.",
+          "source": "https://www.ntv.com.tr/dunya/irakta-12-yillik-bir-devir-kapandi-abd-askerleri-iraktan-ayrildi-1744102"
+        },
+        {
+          "title": "Fas’ın ilk kadın başbakanı Fatima Ezzahra El Mansouri oldu",
+          "summary": "Fas Kralı 6. Muhammed, Fatima Zahra el-Mansuri'yi ülkenin ilk kadın başbakanı olarak atadı ve hükümeti kurmakla görevlendirdi. Fas’ta 23 Eylül'de yapılan parlamento seçimlerinin ardından Özgünlük ve Modernlik Partisi’nin (PAM) en fazla oyu almasıyla ülkede başbakanlık koltuğuna ilk kez bir kadın oturacak. Fas Kralı VI. Muhammed, PAM’ın liderlerinden Fatima Ezzahra El Mansouri'yi ülkenin ilk kadın başbakanı olarak atadı. Fas Kraliyet Sarayı, Protokol ve Şeref Nişanları Bakanlığından yapılan açıklamaya göre, Kral 6.",
+          "source": "https://www.ntv.com.tr/dunya/fasin-ilk-kadin-basbakani-fatima-ezzahra-el-mansouri-oldu-1744101"
+        },
+        {
+          "title": "Trump, kararnameyi imzaladı. Yapay zeka \"süper zeka\" oldu",
+          "summary": "ABD Başkanı Donald Trump, \"yapay zeka\" (AI) yerine \"süper zeka\" (SI) teriminin kullanılmasını öngören başkanlık kararnamesini imzaladı. Beyaz Saray tarafından yayımlanan bilgi notuna göre, kararname, tüm bakanlık ve kurumların resmi yazışmalar, kamuoyu duyuruları, politika belgeleri ve yasal nitelikte olmayan tüm evraklarda \"süper zeka\" ve \"SI\" terimlerini kullanmasını zorunlu kılıyor.",
+          "source": "https://www.ntv.com.tr/dunya/trump-kararnameyi-imzaladi-yapay-zeka-super-zeka-oldu-1744099"
+        },
+        {
+          "title": "Rusya'da bombardıman uçağı düştü: 6 ölü, 1 yaralı",
+          "summary": "Rusya'nın Amur bölgesinde eğitim uçuşu yapan Tu-95 tipi stratejik bombardıman uçağının düşmesi sonucu 7 kişilik mürettebattan 6'sı hayatını kaybetti, 1 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/rusyada-bombardiman-ucagi-dustu-6-olu-1-yarali-43323913"
+        },
         {
           "title": "ABD Başkan Yardımcısı Vance: İran’la anlaşmaya varabileceğimiz bir senaryo var",
           "summary": "ABD Başkan Yardımcısı James David Vance, İran’ın ABD’ye karşı taahhütlerini yerine getirmesi halinde İran’la bir anlaşmanın mümkün olduğunu belirterek, ABD’nin İran’la anlaşmaya varabileceği bir senaryo olduğunu aktardı.",
           "source": "https://www.hurriyet.com.tr/dunya/abd-baskan-yardimcisi-vance-iranla-anlasmaya-varabilecegimiz-bir-senaryo-var-43323859"
-        },
-        {
-          "title": "Rusya'dan NATO'ya nükleer silahla karşılık tehdidi",
-          "summary": "Rusya, Kaliningrad'a olası bir abluka veya saldırısına karşı NATO'ya nükleer silahla karşılık verebileceği uyarısında bulundu. Rusya'nın Londra Büyükelçiliği, sosyal medya hesabından yaptığı açıklamada, İngiliz basınında Rusya'nın Kaliningrad bölgesine ilişkin yer alan haber ve yorumlara yanıt verdi. Açıklamada, The i Paper'da yayımlanan makalede NATO'nun Kaliningrad'ı ablukaya alabileceği ya da bölge üzerindeki Rus egemenliğini tanımaktan vazgeçebileceği yönündeki ifadelerin yer aldığı belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/rusyadan-natoya-nukleer-silahla-karsilik-tehdidi-1744072"
-        },
-        {
-          "title": "İran, ABD savaş gemilerinin Hürmüz'den çekildiğini öne sürdü",
-          "summary": "İran, Hürmüz Boğazı'ndaki ABD'ye ait bütün savaş gemilerinin bölgeden çekildiğini iddia etti. ABD savaş gemilerinin boğazın 500 kilometre güneyine konuşlandığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-abd-savas-gemilerinin-hurmuzden-cekildigini-one-surdu-43323790"
-        },
-        {
-          "title": "Netanyahu'dan İsrail'in yakın zamanda saldırıya uğrayacağı iddiası",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, genel seçimlere kısa süre kala ülkenin saldırı düzenleneceğini öne sürdü. Sözde saldırıyı gerçekleştirecek düşmanların isimlerini vermekten kaçınan Netanyahu, İsrail'in işgal ettiği bölgelerden geri çekilmeyeceğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahudan-israilin-yakin-zamanda-saldiriya-ugrayacagi-iddiasi-43323737"
-        },
-        {
-          "title": "Almanya önderliğindeki 6 AB ülkesinden, Brüksel'e \"bütçe\" ültimatomu",
-          "summary": "Almanya, Hollanda, Avusturya, Danimarka, İsveç ve Finlandiya, AB bütçe taslağında yüz milyarca euroluk kesinti yapılması teklifinde bulundu. Financial Times bunu \"ültimatom\" olarak nitelendirdi. Avrupa Birliği (AB) bütçesine yüksek katkı sağlayan ülkelerden Almanya, Hollanda, Avusturya, Danimarka, İsveç ve Finlandiya, 2028-2034 dönemi için önerilen yaklaşık 2 trilyon euroluk bütçenin yüzlerce milyar euro azaltılmasını istiyor.",
-          "source": "https://www.ntv.com.tr/dunya/almanya-onderligindeki-6-ab-ulkesinden-bruksele-butce-ultimatomu-1744067"
-        },
-        {
-          "title": "Çocuklukta tüketilen şeker yıllar sonra kaygı riskini etkileyebilir",
-          "summary": "Yeni bir araştırmaya göre, anne karnından başlayarak yaşamın ilk iki yılına kadar daha az şekere maruz kalan kişilerde, yetişkinlik döneminde anksiyete görülme riskinin daha düşük olduğu belirlendi. Bulgular, yaşamın ilk 1000 günündeki beslenmenin uzun vadeli etkilerine dikkat çekiyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/cocuklukta-tuketilen-seker-yillar-sonra-kaygi-riskini-etkileyebilir-43323729"
-        },
-        {
-          "title": "Uykunuz sizi hastalıklardan koruyor olabilir",
-          "summary": "Yeni bir araştırmaya göre, rüyaların büyük bölümünün görüldüğü REM uykusunda daha fazla zaman geçirmek, 83 farklı hastalığın daha düşük riskiyle ilişkilendirildi. Araştırmacılar, yalnızca ne kadar uyuduğumuzun değil, uykunun hangi evrelerinde ne kadar zaman geçirdiğimizin de sağlık açısından önemli olabileceğini belirtiyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/uykunuz-sizi-hastaliklardan-koruyor-olabilir-43323720"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Eyüpspor'da Mustafa Dalcı dönemi!. Beşiktaş Başkanı Serdal Adalı'nın yönetim kurulu aday listesi belli oldu. TFF'den MHK Başkanı Ferhat Gündoğdu'ya ilişkin açıklama. Braga'dan Beşiktaş'a 500 bin euro daha! Demir Ege Tıknaz'ın bonus maddesi devreye girdi. Adana'da 9 koşuluk program! İşte Misli'den günün altılı analizi... FIFA dünya sıralaması güncellendi: A Milli Takım yokuş aşağı gidiyor!. Serdal Adalı, Beşiktaş'ın İsrail takımıyla oynayacağı maçın yerini canlı yayında açıkladı!.",
+      "text": "Pablo Laso: 'Galibiyet zorunluydu!'. Cumhurbaşkanı Erdoğan, Türkiye Özel Sporcular Spor Federasyonu temsilcilerini kabul etti. Serdal Adalı'dan MHK açıklaması: 'Biz de hiç hoşnut değiliz!'. A Milli Takım'a 2 isimden kötü haber!. Dursun Özbek, EFC yönetim kuruluna seçildi!. Fenerbahçe'den Jan Vesely için veda seremonisi!. PFDK açıkladı: Okan Buruk'a 1 maç ceza!.",
       "items": [
         {
-          "title": "Eyüpspor'da Mustafa Dalcı dönemi!",
-          "summary": "Trendyol Süper Lig ekiplerinden Eyüpspor, teknik direktörlük görevine Mustafa Dalcı'nın getirildiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/eyupsporda-mustafa-dalci-donemi-43323842"
+          "title": "Pablo Laso: 'Galibiyet zorunluydu!'",
+          "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 2. haftasında ağırladığı İspanya ekibi Real Madrid'i 94-84 yenen Anadolu Efes'te başantrenör Pablo Laso, önemli bir galibiyet aldıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/pablo-laso-galibiyet-zorunluydu-43324038"
         },
         {
-          "title": "Beşiktaş Başkanı Serdal Adalı'nın yönetim kurulu aday listesi belli oldu",
-          "summary": "Beşiktaş'ın resmi yayın organından yapılan açıklamada, mevcut başkan Serdal Adalı'nın yönetim kurulu aday listesi duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-baskani-serdal-adalinin-yonetim-kurulu-aday-listesi-belli-oldu-43323757"
+          "title": "Cumhurbaşkanı Erdoğan, Türkiye Özel Sporcular Spor Federasyonu temsilcilerini kabul etti",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Genel Merkezi'nde, Türkiye Özel Sporcular Spor Federasyonu temsilcilerini ve sporcuları kabul etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cumhurbaskani-erdogan-turkiye-ozel-sporcular-spor-federasyonu-temsilcilerini-kabul-etti-43324004"
         },
         {
-          "title": "TFF'den MHK Başkanı Ferhat Gündoğdu'ya ilişkin açıklama",
-          "summary": "Türkiye Futbol Federasyonu, MHK Başkanı Ferhat Gündoğdu'nun gözaltına alınmasına ilişkin açıklama yayınladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tffden-mhk-baskani-ferhat-gundogduya-iliskin-aciklama-43323695"
+          "title": "Serdal Adalı'dan MHK açıklaması: 'Biz de hiç hoşnut değiliz!'",
+          "summary": "Beşiktaş Kulübü Başkanı Serdal Adalı, gündeme dair dikkat çeken açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-mhk-aciklamasi-biz-de-hic-hosnut-degiliz-43324001"
         },
         {
-          "title": "Braga'dan Beşiktaş'a 500 bin euro daha! Demir Ege Tıknaz'ın bonus maddesi devreye girdi",
-          "summary": "Beşiktaş geçtiğimiz Ocak ayında 7 milyon euro karşılığında Braga'ya sattığı milli futbolcu Demir Ege Tıknaz'dan 500 bin euro daha kazandı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/bragadan-besiktasa-500-bin-euro-daha-demir-ege-tiknazin-bonus-maddesi-devreye-girdi-43323640"
+          "title": "A Milli Takım'a 2 isimden kötü haber!",
+          "summary": "UEFA Uluslar A Ligi 1. Grup'taki üçüncü maçında 2 Ekim Cuma günü deplasmanda Belçika ile karşılaşacak A Milli Futbol Takımı, mücadelenin hazırlıklarına Riva'da yaptığı antrenmanla başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takima-2-isimden-kotu-haber-43323991"
         },
         {
-          "title": "Adana'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
-          "summary": "Adana Yeşiloba Hipodromu’nda bugün 9 koşudan oluşan birbirinden çekişmeli bir program yarışseverleri bekliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/adanada-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43323630"
+          "title": "Dursun Özbek, EFC yönetim kuruluna seçildi!",
+          "summary": "Galatasaray Spor Kulübü Başkanı Dursun Özbek, Avrupa'daki profesyonel futbol kulüplerini uluslararası arenada temsil eden Avrupa Futbol Kulüpleri'nin (EFC) yönetim kurulu üyeliğine oy birliğiyle seçildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-efc-yonetim-kuruluna-secildi-43323973"
         },
         {
-          "title": "FIFA dünya sıralaması güncellendi: A Milli Takım yokuş aşağı gidiyor!",
-          "summary": "Uluslar Ligi A Ligi'nde oynadığı ilk iki maçta önce Fransa'ya sonra da İtalya'ya mağlup olan A Milli Futbol Takımımız, FIFA dünya sıralamasında 4 sıra birden geriledi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fifa-dunya-siralamasi-guncellendi-a-milli-takim-yokus-asagi-gidiyor-43323549"
+          "title": "Fenerbahçe'den Jan Vesely için veda seremonisi!",
+          "summary": "Profesyonel basketbol kariyerini noktalandıran Çekyalı sporcu Jan Vesely için Fenerbahçe-Bayern Münih maçı öncesi özel veda seremonisi düzenlendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-jan-vesely-icin-veda-seremonisi-43323966"
         },
         {
-          "title": "Serdal Adalı, Beşiktaş'ın İsrail takımıyla oynayacağı maçın yerini canlı yayında açıkladı!",
-          "summary": "Beşiktaş Başkanı Serdal Adalı, 26 Kasım'da UEFA Avrupa Ligi'nde İsrail takımı Hapoel Beer-Sheva ile oynayacakları maçın Gürcistan'ın Batum şehrinde ve seyircili oynanacağını açıkladı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-besiktasin-israil-takimiyla-oynayacagi-macin-yerini-canli-yayinda-acikladi-43323506"
+          "title": "PFDK açıkladı: Okan Buruk'a 1 maç ceza!",
+          "summary": "Profesyonel Futbol Disiplin Kurulu (PFDK), Galatasaray Teknik Direktörü Okan Buruk'a, Trabzonspor-Galatasaray maçında hakeme yönelik sportmenliğe aykırı hareketi nedeniyle 1 resmi maç soyunma odası ve yedek kulübesine giriş yasağı ile 100 bin TL para cezası verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/pfdk-acikladi-okan-buruka-1-mac-ceza-43323921"
         }
       ]
     },
