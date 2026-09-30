@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-30T04:00:04.385Z",
+  "generatedAt": "2026-09-30T10:00:04.130Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da kuvvetli sağanak. Valilikten 3 ilçe için uyarı. KKTC'de feribot felaketi. İki cansız bedenin kimlik tespitleri tamamlandı. MGK bugün toplanıyor. Gündem Terörsüz Türkiye. Fon soruşturmasında denetim süreci başladı. Ödemelere öncelik verilecek. Kayseri’de 10 katlı binada yangın paniği. Küçükçekmece'de elektrik akımına kapılan köpek öldü. Tuzla Belediye Başkanı Bingöl'den, ilçede iki mahallede oluşan koku şikayetine ilişkin açıklama.",
+      "text": "Bilal Erdoğan'dan dikkat çeken açıklamalar: Bir sonraki çığır sağlık teknolojilerinde olacak. Şeyda Yılmaz'ın şehit olduğu olayda 3 polis memuru yargılanıyor | Ekip arkadaşının ifadesi ortaya çıktı. Mezar açılınca gerçek ortaya çıktı: Bir günlük bebeği peçeteyle öldüren anne ve anneanne cezaevinde. AVM'deki dehşet davasında karar belli oldu. Mersin'de kimya fabrikasında yangın: Müdahale sürüyor. Türk yükseköğretiminde büyük başarı: Türkiye dünya üçüncülüğüne yükseldi!. 62 bin 701 eser, 5 farklı tema, tek çatı! Kütahya Arkeoloji ve Maden müzesi açıldı.",
       "items": [
         {
-          "title": "İstanbul'da kuvvetli sağanak. Valilikten 3 ilçe için uyarı",
-          "summary": "İstanbul'da pazar gününden bu yana etkili olan sağanak, aralıklarla şiddetini artırarak devam ediyor. İstanbul Valiliği bugün Şile, Pendik ve Tuzla ilçeleri için uyarıda bulundu. İSTANBUL VALİLİĞİ'NDEN ÜÇ İLÇE İÇİN UYARI İstanbul'da yağış aralıklarla bugün de devam edecek. Yarın ve Cuma ise yine şiddetlenecek. Kuvvetli poyrazın etkisiyle sıcaklık 15-16 derece hissediliyor. İstanbul Valiliği, kentte etkili olması beklenen kuvvetli yağış ve fırtına nedeniyle tedbirli olunması uyarısı yaptı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-kuvvetli-saganak-valilikten-3-ilce-icin-uyari-1744103"
+          "title": "Bilal Erdoğan'dan dikkat çeken açıklamalar: Bir sonraki çığır sağlık teknolojilerinde olacak",
+          "summary": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Necmettin Bilal Erdoğan, Türkiye'nin savunma sanayindeki başarısını sağlık teknolojileri ve ilaç araştırmaları alanına taşıyacağını vurguladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bilal-erdogandan-dikkat-ceken-aciklamalar-bir-sonraki-cigir-saglik-teknolojilerinde-olacak-43324572"
         },
         {
-          "title": "KKTC'de feribot felaketi. İki cansız bedenin kimlik tespitleri tamamlandı",
-          "summary": "KKTC'de batan geminin bin metre uzağında yapılan taramada bulunan cansız bedenlerin Hataylı Mehmet Asaf Biçer (5) ve Nihat Pancar (51) oldukları tespit edildi. Çalışmalarda bir naaşa daha ulaşıldı. KKTC'den Mersin’in Taşucu Limanı’na gitmek üzere 30 Ağustos Pazar hareket eden \"Filo Jet\" isimli feribot alabora oldu. Kazada kaybolan Mehmet Asaf Biçer ve Nihat Pancar'ın cansız bedenlerine ulaşıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-girne-feribot-felaketi-iki-cansiz-bedenin-kimlik-tespitleri-tamamlandi-1744098"
+          "title": "Şeyda Yılmaz'ın şehit olduğu olayda 3 polis memuru yargılanıyor | Ekip arkadaşının ifadesi ortaya çıktı",
+          "summary": "İstanbul Ümraniye'de 2 yıl önce karakoldan firar eden Yunus Emre Geçti'nin açtığı ateş sonucu Polis memuru Şeyda Yılmaz şehit olmuştu. Acı olayın ardından 'görevi kötüye kullanma' suçundan 3 polis memuru hakkında soruşturma başlatılmıştı. Bugün görülen ilk duruşmada tutuksuz sanık polis memuru Abdullah A. savunmasında, \"Daha öncesinde karakoldan bu şekilde kaçan olmadı ancak normalde lavaboda olmasaydım Ramazan’ın şüpheli şahsı ailesiyle görüştürmesine izin vermezdim.",
+          "source": "https://www.hurriyet.com.tr/gundem/seyda-yilmazin-sehit-oldugu-olayda-3-polis-memuru-yargilaniyor-ekip-arkadasinin-ifadesi-ortaya-cikti-43324543"
         },
         {
-          "title": "MGK bugün toplanıyor. Gündem Terörsüz Türkiye",
-          "summary": "Milli Güvenlik Kurulu (MGK) bugün toplanacak. Toplantının ana gündem başlığı Terörsüz Türkiye süreci olacak. Milli Güvenlik Kurulu (MGK) toplantısı Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Beştepe'de gerçekleştirilecek. Toplantıda Terörsüz Türkiye sürecine ilişkin yasal düzenlemelerin devreye girmesi için silah bırakmanın tamamlandığına dair MGK kararı gerekiyor. Bu kapsamda toplantıda, sahadaki son durumun kapsamlı olarak değerlendirilmesi bekleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/mgk-bugun-toplaniyor-gundem-terorsuz-turkiye-1744062"
+          "title": "Mezar açılınca gerçek ortaya çıktı: Bir günlük bebeği peçeteyle öldüren anne ve anneanne cezaevinde",
+          "summary": "Kars'ta yeni doğan bebeğin ağzına peçete konularak öldürüldüğünün belirlenmesi üzerine gözaltına alınan anne ve anneanne tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/mezar-acilinca-gercek-ortaya-cikti-bir-gunluk-bebegi-peceteyle-olduren-anne-ve-anneanne-cezaevinde-43324542"
         },
         {
-          "title": "Fon soruşturmasında denetim süreci başladı. Ödemelere öncelik verilecek.",
-          "summary": "Fon soruşturmasında denetim süreci başlatıldı. Yatırımcılara yapılacak ödemeler için yol haritası belirlendi. Ödemelerin yapılmasına öncelik verilecek. Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında ekonomi kurmayları ve ilgili kurumların üst düzey yöneticilerinin katılımıyla eşgüdüm toplantısı düzenlendi. İletişim Başkanlığından toplantıda ele alınan konulara ilişkin açıklama yapıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-denetim-sureci-basladi-odemeleri-oncelik-verilecek-1744079"
+          "title": "AVM'deki dehşet davasında karar belli oldu",
+          "summary": "Diyarbakır'da Merve Nur Yararlık'ı bir AVM'deki kafede oturduğu sırada tabancayla vurarak öldürüp, S.K.'yi de yaralayan sanık Bülten Arpacı hakkındaki davada karar belli oldu. Diyarbakır'da bir kişinin öldüğü, bir kişinin de yaralandığı silahlı saldırı davasında sanık Bülent Arpacı, 29 yıl hapis cezasına çarptırıldı. Olay, 8 Mart 2025'te Şanlıurfa karayolu üzerindeki bir alışveriş merkezinin girişinde bulunan kafede meydana geldi. Kafeye gelen Bülent Arpacı, dışarıdan tabancayla ateş açtı.",
+          "source": "https://www.ntv.com.tr/turkiye/avmdeki-dehset-davasinda-karar-belli-oldu-1744173"
         },
         {
-          "title": "Kayseri’de 10 katlı binada yangın paniği",
-          "summary": "Kayseri’nin Talas ilçesinde 10 katlı bir binanın zemin katından yükselen duman paniğe neden oldu. Dumanın binanın elektrik aksamında oluşan bir arıza nedeniyle oluştuğu değerlendirilirken, dumanların tahliye edilmesinin ardından vatandaşlar yeniden evlerine alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-10-katli-binada-yangin-panigi-43324107"
+          "title": "Mersin'de kimya fabrikasında yangın: Müdahale sürüyor",
+          "summary": "Mersin'in merkez Akdeniz ilçesinde kimya fabrikasında çıkan yangına müdahale ediliyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/mersinde-kimya-fabrikasinda-yangin-mudahale-suruyor-43324523"
         },
         {
-          "title": "Küçükçekmece'de elektrik akımına kapılan köpek öldü",
-          "summary": "Küçükçekmece'de, kaldırımda yürüyüş yapan Can Demir (21) ile yanındaki köpeği elektrik akımına kapıldı. Olayda köpek ölürken, Demir parmağından yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kucukcekmecede-elektrik-akimina-kapilan-kopek-oldu-43324106"
+          "title": "Türk yükseköğretiminde büyük başarı: Türkiye dünya üçüncülüğüne yükseldi!",
+          "summary": "Times Higher Education 2027 Dünya Üniversite Sıralaması sonuçlarına göre Türkiye, listeye giren 124 üniversitesiyle ABD ve Hindistan'ın ardından dünyada 3'üncü sıraya adını yazdırdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turk-yuksekogretiminde-buyuk-basari-turkiye-dunya-ucunculugune-yukseldi-43324513"
         },
         {
-          "title": "Tuzla Belediye Başkanı Bingöl'den, ilçede iki mahallede oluşan koku şikayetine ilişkin açıklama",
-          "summary": "Tuzla Belediye Başkanı Eren Ali Bingöl, ilçede iki mahallede oluşan koku şikayetine ilişkin, \"Şikayetlerin geldiği ilk andan itibaren İSKİ, tarafımızca konu hakkında bilgilendirilmiştir ancak şu ana kadar henüz herhangi bir çalışma başlatmamıştır.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tuzla-belediye-baskani-bingolden-ilcede-iki-mahallede-olusan-koku-sikayetine-iliskin-aciklama-43324105"
+          "title": "62 bin 701 eser, 5 farklı tema, tek çatı! Kütahya Arkeoloji ve Maden müzesi açıldı",
+          "summary": "AK Parti Türkiye Yüzyılı Buluşmaları kapsamında Kütahya’ya gelen Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, burada şehrin kültür ve turizm yatırımlarına ilişkin açıklamalarda bulundu. Ersoy, Kütahya’nın 90 yıllık müzecilik yolculuğunda arkeoloji, kent ve etnografya, çini, maden ve çocuk müzeciliğini ilk kez aynı çatı altında buluşturan Kütahya Arkeoloji ve Maden Müzesinin de açılışını gerçekleştirdi. Toplam 62 bin 701 eserin muhafaza edileceği müzede yaklaşık 3 bin 300 eser ziyaretçilerle buluşacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/62-bin-701-eser-5-farkli-tema-tek-cati-kutahya-arkeoloji-ve-maden-muzesi-acildi-43324459"
         }
       ]
     },
     "dunya": {
-      "text": "Dikkat çeken hazırlık! NATO bunu neden test etti? Seçilen yerin verdiği mesaj ne? ‘Mevcut gerilimi daha da artırabilir’. Katar Başbakanı Al Sani. \"Netanyahu bir savaş suçlusudur\". Irak'ta 12 yıllık bir devir kapandı. ABD askerleri Irak'tan ayrıldı. Fas’ın ilk kadın başbakanı Fatima Ezzahra El Mansouri oldu. Trump, kararnameyi imzaladı. Yapay zeka \"süper zeka\" oldu. Rusya'da bombardıman uçağı düştü: 6 ölü, 1 yaralı. ABD Başkan Yardımcısı Vance: İran’la anlaşmaya varabileceğimiz bir senaryo var.",
+      "text": "Yunan siyasetçiden 2024 itirafı: 'Türkiye savaş gemilerini gönderince geri çekildik'. Güney Afrika ile ABD arasında toprak reformu gerilimi. Elçi üçüncü kez bakanlığa çağrıldı. İsrailliler Mescid-i Aksa'ya baskın düzenledi. Irak'ta bir dönem kapandı! 'Egemenlik Günü' ilan edildi. Rusya'dan Ukrayna'ya şiddetli saldırılar: 5 kişi hayatını kaybetti. Irak Başbakanı, uluslararası koalisyonun DEAŞ'la mücadele misyonunun sona erdiğini duyurdu. İsrail Genelkurmay Başkanı Zamir'in ABD planı değişti! Nedeni belli oldu.",
       "items": [
         {
-          "title": "Dikkat çeken hazırlık! NATO bunu neden test etti? Seçilen yerin verdiği mesaj ne? ‘Mevcut gerilimi daha da artırabilir’",
-          "summary": "Avrupa’da son dönemde artan güvenlik endişeleri NATO’yu dikkat çeken bir adım atmaya yöneltti. Kuzey Denizi’nde ortaya çıkan hareketlilik, ittifakın farklı senaryolara karşı hazırlığını bir kez daha gündeme getirdi. Ancak bu adımın asıl dikkat çeken tarafı, NATO’nun aynı anda birden fazla ihtimali hesaba katması oldu. Peki NATO neden özellikle bu bölgeye odaklandı, perde arkasında hangi gelişmeler yaşanıyor? Bu hamlenin ayrıntıları, Avrupa’nın güvenlik gündeminde dikkat çeken yeni bir tabloyu ortaya çıkardı.",
-          "source": "https://www.hurriyet.com.tr/dunya/dikkat-ceken-hazirlik-nato-bunu-neden-test-etti-secilen-yerin-verdigi-mesaj-ne-mevcut-gerilimi-daha-da-artirabilir-43323536"
+          "title": "Yunan siyasetçiden 2024 itirafı: 'Türkiye savaş gemilerini gönderince geri çekildik'",
+          "summary": "Yunan Milletvekili Angelos Syrigos, Yunanistan ile Güney Kıbrıs Rum Yönetimi (GKRY)arasında 2024 yılında hayata geçirmeye çalıştıkları elektrik hattı projesine ilişkin konuştu. Syrigos, Ankara'nın izni alınmadan yürütülen deniz tabanı araştırmalarının Türk savaş gemilerinin bölgeye gönderilmesi üzerine terk edildiğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/yunan-siyasetciden-2024-itirafi-turkiye-savas-gemilerini-gonderince-geri-cekildik-43324541"
         },
         {
-          "title": "Katar Başbakanı Al Sani. \"Netanyahu bir savaş suçlusudur\"",
-          "summary": "Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani, İsrail Başbakanı Binyamin Netanyahu'nun bir \"savaş suçlusu\" olduğunu söyledi. Al Sani, İngiliz gazeteci Piers Morgan'ın \"Piers Morgan Uncensored\" programına verdiği mülakatta gündeme ilişkin değerlendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/katar-basbakani-al-sani-netanyahu-bir-savas-suclusudur-1744105"
+          "title": "Güney Afrika ile ABD arasında toprak reformu gerilimi. Elçi üçüncü kez bakanlığa çağrıldı",
+          "summary": "Güney Afrika Dışişleri Bakanlığı, göreve dokuz ay önce başlayan ABD Büyükelçisi Leo Brent Bozell'i diplomatik teamüllere aykırı tutumu nedeniyle üçüncü kez çağırdı. Güney Afrika Cumhuriyeti, ABD'nin Pretoria Büyükelçisi Leo Brent Bozell III'ü görevdeki dokuzuncu ayında üçüncü kez Dışişleri Bakanlığına çağırdı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-guney-afrika-ile-abd-arasinda-toprak-reformu-gerilimi-elci-ucuncu-kez-bakanliga-cagrildi-1744171"
         },
         {
-          "title": "Irak'ta 12 yıllık bir devir kapandı. ABD askerleri Irak'tan ayrıldı",
-          "summary": "Irak'ta terör örgütü DAEŞ'le mücadele adı altında Irak hükümetiyle işbirliği yapan ABD güçleri öncülüğündeki uluslararası koalisyon 12 yılın ardından ülkeden çekildi. Ülkede 9 askeri üsse sahip olan ABD askerlerinin ülkeden ayrılmasıyla Irak’ta yeni bir dönem başlıyor. Irak Savunma Bakanı Yahya Resul, Katar Merkezli El Cezire televizyonuna koalisyon güçlerinin ülkeden çekildiğini duyurdu. Çekilmeyle birlikte ABD'nin ülke genelinde bulunan çok sayıda üssü de boşaldı.",
-          "source": "https://www.ntv.com.tr/dunya/irakta-12-yillik-bir-devir-kapandi-abd-askerleri-iraktan-ayrildi-1744102"
+          "title": "İsrailliler Mescid-i Aksa'ya baskın düzenledi",
+          "summary": "Filistin topraklarını gasbeden 1300'den fazla İsrailli, İsrail'in işgal altında tuttuğu Doğu Kudüs'te, Sukot (Çardaklar) Bayramı'nı bahane ederek Mescid-i Aksa'yı hedef aldı. Mescid-i Aksa'ya baskın yapan gruba İsrail polisinin koruma sağladığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilliler-mescid-i-aksaya-baskin-duzenledi-43324530"
         },
         {
-          "title": "Fas’ın ilk kadın başbakanı Fatima Ezzahra El Mansouri oldu",
-          "summary": "Fas Kralı 6. Muhammed, Fatima Zahra el-Mansuri'yi ülkenin ilk kadın başbakanı olarak atadı ve hükümeti kurmakla görevlendirdi. Fas’ta 23 Eylül'de yapılan parlamento seçimlerinin ardından Özgünlük ve Modernlik Partisi’nin (PAM) en fazla oyu almasıyla ülkede başbakanlık koltuğuna ilk kez bir kadın oturacak. Fas Kralı VI. Muhammed, PAM’ın liderlerinden Fatima Ezzahra El Mansouri'yi ülkenin ilk kadın başbakanı olarak atadı. Fas Kraliyet Sarayı, Protokol ve Şeref Nişanları Bakanlığından yapılan açıklamaya göre, Kral 6.",
-          "source": "https://www.ntv.com.tr/dunya/fasin-ilk-kadin-basbakani-fatima-ezzahra-el-mansouri-oldu-1744101"
+          "title": "Irak'ta bir dönem kapandı! 'Egemenlik Günü' ilan edildi",
+          "summary": "Irak Savunma Bakanlığı, ABD öncülüğündeki terör örgütü DEAŞ karşıtı uluslararası koalisyon güçlerinin ülkeden çekilmesinin tamamlanmasıyla Irak topraklarında koalisyona bağlı herhangi bir askeri unsurun kalmadığını açıkladı. Irak'ta 30 Eylül, \"Egemenlik Günü\" ilan edildi. Ülkede, 30 Eylül Çarşamba gününden 3 Ekim Cumartesi gününe kadar tüm devlet kurumları ve kamu kuruluşlarında resmi tatil ilan edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/irakta-bir-donem-kapandi-egemenlik-gunu-ilan-edildi-43324519"
         },
         {
-          "title": "Trump, kararnameyi imzaladı. Yapay zeka \"süper zeka\" oldu",
-          "summary": "ABD Başkanı Donald Trump, \"yapay zeka\" (AI) yerine \"süper zeka\" (SI) teriminin kullanılmasını öngören başkanlık kararnamesini imzaladı. Beyaz Saray tarafından yayımlanan bilgi notuna göre, kararname, tüm bakanlık ve kurumların resmi yazışmalar, kamuoyu duyuruları, politika belgeleri ve yasal nitelikte olmayan tüm evraklarda \"süper zeka\" ve \"SI\" terimlerini kullanmasını zorunlu kılıyor.",
-          "source": "https://www.ntv.com.tr/dunya/trump-kararnameyi-imzaladi-yapay-zeka-super-zeka-oldu-1744099"
+          "title": "Rusya'dan Ukrayna'ya şiddetli saldırılar: 5 kişi hayatını kaybetti",
+          "summary": "Kiev yönetimi, Rus ordusunun saldırıları sonucu 1'i çocuk 5 kişinin öldüğünü, 14 kişinin yaralandığını kaydetti. Saldırılarda Kiev ve çevresinin hedef alındığı belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-ukraynaya-siddetli-saldirilar-5-kisi-hayatini-kaybetti-43324524"
         },
         {
-          "title": "Rusya'da bombardıman uçağı düştü: 6 ölü, 1 yaralı",
-          "summary": "Rusya'nın Amur bölgesinde eğitim uçuşu yapan Tu-95 tipi stratejik bombardıman uçağının düşmesi sonucu 7 kişilik mürettebattan 6'sı hayatını kaybetti, 1 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/rusyada-bombardiman-ucagi-dustu-6-olu-1-yarali-43323913"
+          "title": "Irak Başbakanı, uluslararası koalisyonun DEAŞ'la mücadele misyonunun sona erdiğini duyurdu",
+          "summary": "Irak Başbakanı Ali ez-Zeydi, ABD öncülüğündeki uluslararası koalisyonun ülkede terör örgütü DEAŞ'la mücadele misyonunun sona erdiğini belirtti. ABD, Irak'taki askeri varlığına bugün son vermişti. Irak Başbakanı Ali ez-Zeydi, başkent Bağdat'ta \"Egemenlik Günü\" ve uluslararası koalisyonun görev sürecinin tamamlanması dolayısıyla düzenlenen resmi törende konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/irak-basbakani-uluslararasi-koalisyonun-deasla-mucadele-misyonunun-sona-erdigini-duyurdu-1744166"
         },
         {
-          "title": "ABD Başkan Yardımcısı Vance: İran’la anlaşmaya varabileceğimiz bir senaryo var",
-          "summary": "ABD Başkan Yardımcısı James David Vance, İran’ın ABD’ye karşı taahhütlerini yerine getirmesi halinde İran’la bir anlaşmanın mümkün olduğunu belirterek, ABD’nin İran’la anlaşmaya varabileceği bir senaryo olduğunu aktardı.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskan-yardimcisi-vance-iranla-anlasmaya-varabilecegimiz-bir-senaryo-var-43323859"
+          "title": "İsrail Genelkurmay Başkanı Zamir'in ABD planı değişti! Nedeni belli oldu",
+          "summary": "İsrail Genelkurmay Başkanı Eyal Zamir’in, ülkedeki güvenlik durumu ve ordunun tüm cephelerde yüksek alarma geçirilmesi nedeniyle gelecek günlerde ABD’ye yapmayı planladığı ziyareti iptal ettiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-genelkurmay-baskani-zamirin-abd-plani-degisti-nedeni-belli-oldu-43324470"
         }
       ]
     },
     "ekonomi": {
-      "text": "Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi. Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında. Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı.",
+      "text": "Fonlarda yeni dönem: 5 kritik adım! Ödemeler nasıl yapılacak? Yatırımcıların parası ne zaman ödenecek?. Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi. Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında.",
       "items": [
+        {
+          "title": "Fonlarda yeni dönem: 5 kritik adım! Ödemeler nasıl yapılacak? Yatırımcıların parası ne zaman ödenecek?",
+          "summary": "Sermaye piyasalarında yaşanan son gelişmelerin ardından gözler tasfiye sürecinin nasıl ilerleyeceğine çevrildi. Yatırımcıların alacaklarına ilişkin süreçte hangi adımların atılacağı ve yeni oluşturulan mekanizmaların nasıl işleyeceği merak konusu. İşte bundan sonraki süreçte atılacak 5 kritik adıma dair detaylar…",
+          "source": "https://www.hurriyet.com.tr/gundem/fonlarda-yeni-donem-5-kritik-adim-odemeler-nasil-yapilacak-yatirimcilarin-parasi-ne-zaman-odenecek-43324334"
+        },
         {
           "title": "Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi",
           "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon piyasasındaki gelişmeler üzerine bugün ekonomi kurmaylarıyla Beştepe'de bir araya geldi ve atılacak idari ve hukuki adımları değerlendirdi. Beştepe'deki kritik zirve sona erdi.",
@@ -115,57 +120,67 @@
           "title": "Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında",
           "summary": "Sermaye piyasası işlemlerine yönelik yürütülen soruşturmanın üçüncü dalgası kapsamında, Pusula Holding Kapalı Fon sisteminde hesabı bulunduğu belirlenen 12 şüpheliden 5'ine yönelik operasyonun ardından, kalan 7 şüpheliye yeni baskın yapıldı. Operasyonda 6 şüpheli yakalanırken, 1 kişinin yakalanması için çalışmalar sürüyor.",
           "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-ucuncu-dalga-operasyon-6-supheli-gozaltina-alindi-43319148"
-        },
-        {
-          "title": "Sıcaklık Avrupa'nın ekonomik gücünü zayıflattı",
-          "summary": "Münih merkezli Dax şirketi Allianz'ın açıklamasına göre, son aylardaki şiddetli sıcaklar birçok insanı olumsuz etkiledi. Şirketin araştırmasına göre hava koşulları ekonomik güç üzerinde de önemli etkiler yarattı.",
-          "source": "https://www.hurriyet.com.tr/avrupa/sicaklik-avrupanin-ekonomik-gucunu-zayiflatti-43318782"
         }
       ]
     },
     "spor": {
-      "text": "Pablo Laso: 'Galibiyet zorunluydu!'. Cumhurbaşkanı Erdoğan, Türkiye Özel Sporcular Spor Federasyonu temsilcilerini kabul etti. Serdal Adalı'dan MHK açıklaması: 'Biz de hiç hoşnut değiliz!'. A Milli Takım'a 2 isimden kötü haber!. Dursun Özbek, EFC yönetim kuruluna seçildi!. Fenerbahçe'den Jan Vesely için veda seremonisi!. PFDK açıkladı: Okan Buruk'a 1 maç ceza!.",
+      "text": "Belçika-Türkiye maçının hakemi açıklandı. Beşiktaş, EuroLeague'de Maccabi deplasmanında! Maçın heyecanı canlı yayın ile Misli'de. Barcelona ve Lyon gol olup yağıyor! İşte Misli’den Günün Tüyoları. Bedava, Beşiktaş'a! Transfer 2027'de gelebilir. Orkun Kökçü, Milli Takım kadrosundan çıkarıldı. Ronaldo krizi! Federasyon Başkanı Kopenhag'a uçtu. Fenerbahçe, transferi belirledi! Anadolu'dan 2 genç geliyor.",
       "items": [
         {
-          "title": "Pablo Laso: 'Galibiyet zorunluydu!'",
-          "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 2. haftasında ağırladığı İspanya ekibi Real Madrid'i 94-84 yenen Anadolu Efes'te başantrenör Pablo Laso, önemli bir galibiyet aldıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pablo-laso-galibiyet-zorunluydu-43324038"
+          "title": "Belçika-Türkiye maçının hakemi açıklandı",
+          "summary": "A Milli Futbol Takımı'mızın Uluslar Ligi'nde oynayacağı Belçika müsabakasının hakemi belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/belcika-turkiye-macinin-hakemi-aciklandi-43324419"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Türkiye Özel Sporcular Spor Federasyonu temsilcilerini kabul etti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Genel Merkezi'nde, Türkiye Özel Sporcular Spor Federasyonu temsilcilerini ve sporcuları kabul etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cumhurbaskani-erdogan-turkiye-ozel-sporcular-spor-federasyonu-temsilcilerini-kabul-etti-43324004"
+          "title": "Beşiktaş, EuroLeague'de Maccabi deplasmanında! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "Beşiktaş, EuroLeague'in 2. haftasında deplasmanda İsrail ekibi Maccabi Tel Aviv ile karşılaşıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-euroleaguede-maccabi-deplasmaninda-macin-heyecani-canli-yayin-ile-mislide-43324397"
         },
         {
-          "title": "Serdal Adalı'dan MHK açıklaması: 'Biz de hiç hoşnut değiliz!'",
-          "summary": "Beşiktaş Kulübü Başkanı Serdal Adalı, gündeme dair dikkat çeken açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-mhk-aciklamasi-biz-de-hic-hosnut-degiliz-43324001"
+          "title": "Barcelona ve Lyon gol olup yağıyor! İşte Misli’den Günün Tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/barcelona-ve-lyon-gol-olup-yagiyor-iste-misliden-gunun-tuyolari-43324384"
         },
         {
-          "title": "A Milli Takım'a 2 isimden kötü haber!",
-          "summary": "UEFA Uluslar A Ligi 1. Grup'taki üçüncü maçında 2 Ekim Cuma günü deplasmanda Belçika ile karşılaşacak A Milli Futbol Takımı, mücadelenin hazırlıklarına Riva'da yaptığı antrenmanla başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takima-2-isimden-kotu-haber-43323991"
+          "title": "Bedava, Beşiktaş'a! Transfer 2027'de gelebilir",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano'nun 'özellikle' istediği yıldız oyuncu için bedava transfer ihtimali doğdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bedava-besiktasa-transfer-2027de-gelebilir-43324293"
         },
         {
-          "title": "Dursun Özbek, EFC yönetim kuruluna seçildi!",
-          "summary": "Galatasaray Spor Kulübü Başkanı Dursun Özbek, Avrupa'daki profesyonel futbol kulüplerini uluslararası arenada temsil eden Avrupa Futbol Kulüpleri'nin (EFC) yönetim kurulu üyeliğine oy birliğiyle seçildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-efc-yonetim-kuruluna-secildi-43323973"
+          "title": "Orkun Kökçü, Milli Takım kadrosundan çıkarıldı",
+          "summary": "Türkiye Futbol Federasyonu'nundan (TFF) yapılan açıklamaya göre Orkun Kökçü, Belçika ve İtalya ile oynanacak maç kadrosundan çıkarıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/orkun-kokcu-milli-takim-kadrosundan-cikarildi-43324275"
         },
         {
-          "title": "Fenerbahçe'den Jan Vesely için veda seremonisi!",
-          "summary": "Profesyonel basketbol kariyerini noktalandıran Çekyalı sporcu Jan Vesely için Fenerbahçe-Bayern Münih maçı öncesi özel veda seremonisi düzenlendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-jan-vesely-icin-veda-seremonisi-43323966"
+          "title": "Ronaldo krizi! Federasyon Başkanı Kopenhag'a uçtu",
+          "summary": "Portekiz Milli Takımı'nın UEFA Uluslar Ligi'nde oynayacağı Danimarka maçı öncesi Cristiano Ronaldo krizi yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ronaldo-krizi-federasyon-baskani-kopenhaga-uctu-43324140"
         },
         {
-          "title": "PFDK açıkladı: Okan Buruk'a 1 maç ceza!",
-          "summary": "Profesyonel Futbol Disiplin Kurulu (PFDK), Galatasaray Teknik Direktörü Okan Buruk'a, Trabzonspor-Galatasaray maçında hakeme yönelik sportmenliğe aykırı hareketi nedeniyle 1 resmi maç soyunma odası ve yedek kulübesine giriş yasağı ile 100 bin TL para cezası verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pfdk-acikladi-okan-buruka-1-mac-ceza-43323921"
+          "title": "Fenerbahçe, transferi belirledi! Anadolu'dan 2 genç geliyor",
+          "summary": "Fenerbahçe, transferde yerlilere yönelmeye başladı. Sarı lacivertlilerin listesinde TFF 1. Lig'de forma giyen bir golcü ve bir stoper var.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-transferleri-belirledi-anadoludan-2-genc-geliyor-43324125"
         }
       ]
     },
     "teknoloji": {
-      "text": "Uzmanlar uyardı. İnsanlığın yok olma riski en az yüzde 10. 2 trilyon dolarlık halka arza hazırlanan Anthropic, 42 milyar dolar zarar etti. Google, AB'nin \"Verilerini paylaş\" kararını temyize götürdü. OpenAI, yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını rafa kaldırdı. SpaceX, motor arızasına rağmen Starship'i ilk kez yörüngeye yerleştirdi. ABD'de Apple'a 5,7 milyar dolarlık patent cezası. Kaspersky'den oltalama saldırısı açıklaması: Bini aşkın e-posta kullanıldı.",
+      "text": "Veri güvenliği krizi. İflas eden firmalar, yapay zeka şirketlerinin radarına girdi. Satış yapacaktı, yapay zeka pazarlık yapıp alıcıyı evine gönderdi. Servet gösterilmez yönetilir. Uzmanlar uyardı. İnsanlığın yok olma riski en az yüzde 10. 2 trilyon dolarlık halka arza hazırlanan Anthropic, 42 milyar dolar zarar etti. Google, AB'nin \"Verilerini paylaş\" kararını temyize götürdü. OpenAI, yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını rafa kaldırdı.",
       "items": [
+        {
+          "title": "Veri güvenliği krizi. İflas eden firmalar, yapay zeka şirketlerinin radarına girdi",
+          "summary": "Yapay zeka şirketlerinin modellerini eğitmek amacıyla iflas eden firmaların büyük veri paketlerine yönelmesi, küresel teknoloji pazarında yeni bir ticari yarış ve veri güvenliği krizi başlattı. ABD'li teknoloji şirketi Google ve yapay zeka girişimi Micro1, iflas başvurusunda bulunan ABD'li hava yolu şirketi Spirit Airlines'ın dahili iletişim ve yolcu verilerini satın almak için milyonlarca dolarlık teklif verdi. Tedarikçiler ve çalışanlar ise hassas bilgilerin sızmasından endişe ediyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/veri-guvenligi-krizi-iflas-eden-firmalar-yapay-zeka-sirketlerinin-radarina-girdi-1744169"
+        },
+        {
+          "title": "Satış yapacaktı, yapay zeka pazarlık yapıp alıcıyı evine gönderdi",
+          "summary": "Meta’nın yapay zeka asistanı Muse, bir kullanıcının adına pazarlık yaptı, ev adresini paylaştı ve kendisinden habersiz bir buluşma ayarladı. Kanada’nın Toronto kentinde yaşayan teknoloji içerik üreticisi Matt Robb, Facebook Marketplace’teki satış mesajlarını yönetmesi için Meta’nın yeni yapay zeka asistanı Muse’u kullanmaya başladı. Ancak asistanın bir alıcıyla fiyat konusunda anlaşarak ev adresini paylaşması ve buluşma ayarlaması, Robb’un haberi olmadan gerçekleşti.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-satis-yapacakti-yapay-zeka-pazarlik-yapip-aliciyi-evine-gonderdi-1744154"
+        },
+        {
+          "title": "Servet gösterilmez yönetilir",
+          "summary": "Nefes çalışmalarıyla tanınan Nevşah Fidan Karamehmet, şimdilerde girişim ve yatırımlarıyla adından söz ettiriyor.",
+          "source": "https://www.hurriyet.com.tr/kelebek/stil/servet-gosterilmez-yonetilir-43323984"
+        },
         {
           "title": "Uzmanlar uyardı. İnsanlığın yok olma riski en az yüzde 10",
           "summary": "Teknoloji devlerinde çalışan araştırmacılar, kendi kendini eğiten yapay zeka modellerinin insan denetiminden çıkarak varoluşsal felaket doğurabileceği uyarısında bulundu. Yapay zeka alanında çalışan mevcut ve eski araştırmacılar, şirketlerin insan kontrolünü aşabilecek ve kendi kendini geliştiren sistemler üretirken dünyayı felaket risklerine karşı korumakta yetersiz kaldığı uyarısını yapıyor.",
@@ -185,27 +200,17 @@
           "title": "OpenAI, yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını rafa kaldırdı",
           "summary": "OpenAI, yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını güvenlik kaygıları nedeniyle rafa kaldırdığını duyurdu. ChatGPT'nin sahibi OpenAI, ekim ayında piyasaya sürülmesi planlanan yeni nesil yapay zeka modeli GPT-6.1 Astra'nın çıkışını rafa kaldırdığını açıkladı. OpenAI, bu karara gerekçe olarak, yapılan dahili testlerde GPT-6.1 Astra'nın, şirketin güvenlik standartlarını karşılayamamasını gösterdi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-openai-yeni-nesil-yapay-zeka-modeli-gpt-61-astranin-cikisini-rafa-kaldirdi-1743972"
-        },
-        {
-          "title": "SpaceX, motor arızasına rağmen Starship'i ilk kez yörüngeye yerleştirdi",
-          "summary": "SpaceX, Ay ve Mars görevleri için insan ve yük taşımayı hedeflediği Starship (Yıldız Gemisi) roketini, motorlardan birinin arızalanmasına rağmen bugün ilk kez Dünya yörüngesine oturttu. Uzay, havacılık ve yapay zeka şirketi SpaceX, gelecekteki Ay ve Mars misyonları kapsamında insan ve yük taşımak üzere geliştirdiği Starship (Yıldız Gemisi) roketini, 3 yıl önceki ilk test uçuşunun ardından bugün ilk kez Dünya yörüngesine oturtmayı başardı; hem de tek motoru arızalanmasına rağmen… Haziran ayında yapılan halka arzın a",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-spacex-motor-arizasina-ragmen-starshipi-ilk-kez-yorungeye-yerlestirdi-1743836"
-        },
-        {
-          "title": "ABD'de Apple'a 5,7 milyar dolarlık patent cezası",
-          "summary": "ABD'de mahkeme, teknoloji şirketi Apple'ın iki patenti ihlal ettiğine hükmederek şirketin yaklaşık 5,72 milyar dolar tazminat ödemesine karar verdi.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/apple/abdde-applea-5-7-milyar-dolarlik-patent-cezasi-43322019"
-        },
-        {
-          "title": "Kaspersky'den oltalama saldırısı açıklaması: Bini aşkın e-posta kullanıldı",
-          "summary": "Kaspersky, kurumsal hesapları hedef alan ve eylül itibarıyla bini aşkın oltalama e-postasının tespit edildiği siber saldırıyı ortaya çıkardı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/kasperskyden-oltalama-saldirisi-aciklamasi-bini-askin-e-posta-kullanildi-43321980"
         }
       ]
     },
     "saglik": {
-      "text": "Yeni araştırma: 10 dakikalık yavaş koşu bile beyni canlandırıyor. Uykunun rüya evresi uzadıkça bu hastalıklara yakalanma riski azalıyor. Çinlilerin uzun yaşam sırrı onda gizli. En güçlü şifa kaynağı Bitlis'te yetişiyor. En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor. Gözlerde ortaya çıkıyor. Yaşlanma hızını ve gizli hastalıkları gösteriyor. Sabahları yorgun mu uyanıyorsunuz? Rüyaların şaşırtıcı etkisi. Güçlü bağışıklığın tek kuralı. Özellikle sonbaharda dikkat!.",
+      "text": "Doğada kendiliğinden yetişiyor. Vücuttaki zararlı toksinleri temizliyormuş. Yeni araştırma: 10 dakikalık yavaş koşu bile beyni canlandırıyor. Uykunun rüya evresi uzadıkça bu hastalıklara yakalanma riski azalıyor. Çinlilerin uzun yaşam sırrı onda gizli. En güçlü şifa kaynağı Bitlis'te yetişiyor. En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor. Gözlerde ortaya çıkıyor. Yaşlanma hızını ve gizli hastalıkları gösteriyor. Sabahları yorgun mu uyanıyorsunuz? Rüyaların şaşırtıcı etkisi.",
       "items": [
+        {
+          "title": "Doğada kendiliğinden yetişiyor. Vücuttaki zararlı toksinleri temizliyormuş",
+          "summary": "Yozgat'ın Sorgun ilçesine bağlı Boğazcumafakılı köyünde, sonbaharın gelmesiyle birlikte doğal olarak yetişen alıç meyvesinin hasadı başladı. Yozgat genelinde kırsal alanlarda kendiliğinden yetişen ve şifa kaynağı olarak bilinen alıç, Sorgun ilçesine bağlı Boğazcumafakılı köyü sakinleri için besin deposu oldu. Dağlık ve kayalık arazilerin yolunu tutan köylüler, sarı veya kırmızı renkleriyle dalları süsleyen alıçları özenle topluyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-dogada-kendiliginden-yetisiyor-vucuttaki-zararli-toksinleri-temizliyormus-1744144"
+        },
         {
           "title": "Yeni araştırma: 10 dakikalık yavaş koşu bile beyni canlandırıyor",
           "summary": "Yeni bir araştırma, yürüme hızına yakın son derece yavaş tempoda yapılan 10 dakikalık bir koşunun bile beyni canlandırarak dikkati ve duygu durumunu geliştirdiğini gösterdi. Japonya'daki Tsukuba Üniversitesi'nden sinir bilimciler, 24 sağlıklı genç yetişkini koşu bandında saatte ortalama 3 ila 6 kilometre gibi düşük bir hızda 10 dakika boyunca koşturdu. Katılımcıların nabzı dakikada 104 ila 107 atım bandında kalırken, beyin yüzeyindeki oksijenli kan seviyeleri özel algılayıcı başlıklarla takip edildi.",
@@ -235,11 +240,6 @@
           "title": "Sabahları yorgun mu uyanıyorsunuz? Rüyaların şaşırtıcı etkisi",
           "summary": "Yeni bir araştırma, rüya görme sırasında beynin ürettiğinden çok daha hızlı enerji tükettiğini ve bu durumun sabahları yorgun uyanmaya yol açtığını gösterdi. Japonya'daki Tohoku Üniversitesi'nde yürütülen yeni bir araştırma, rüyaların görüldüğü REM uykusu sırasında beyne giden kan ve yakıt akışı artmasına rağmen, nöronların doğrudan kullandığı hücresel enerjinin (ATP) hızla tükendiğini ortaya koydu.",
           "source": "https://www.ntv.com.tr/saglik/galeri-sabahlari-yorgun-mu-uyaniyorsunuz-ruyalarin-sasirtici-etkisi-1743728"
-        },
-        {
-          "title": "Güçlü bağışıklığın tek kuralı. Özellikle sonbaharda dikkat!",
-          "summary": "Sonbaharla birlikte hava sıcaklıklarının düşmesi, bağışıklık sisteminin zayıflamasına ve vücudun mevsim değişikliğine uyum sağlamakta zorlanmasına neden olabiliyor. Beslenme ve Diyet Uzmanı Havva Korkut, mevsim geçişlerinde sağlıklı beslenmeye ilişkin tavsiyelerde bulundu. Vitamin ve minerallerin metabolizmanın düzenli çalışmasında önemli rol oynadığını belirten Korkut, özellikle D ve B12 vitamini eksikliğinin kronik yorgunluk, hafıza güçlüğü ve bağışıklık sisteminde zayıflamaya yol açabileceğini ifade etti.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-guclu-bagisikligin-tek-kurali-ozellikle-sonbaharda-dikkat-1743665"
         }
       ]
     },
