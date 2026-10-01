@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-09-30T16:00:04.335Z",
+  "generatedAt": "2026-10-01T04:00:03.399Z",
   "categories": {
     "gundem": {
-      "text": "Fon soruşturmasında 5 fon şirketi TMSF'ye devredildi. Azerbaycan sahillerini ROKETSAN’ın BARBAROS'u koruyacak. Samsun'da sahilde insan iskeleti bulundu. Fon soruşturmasında 5 firma BDDK'ya devredildi. Sabiha Gökçen ile Köln Bonn arasında \"Kardeş Havalimanları\" Mutabakat Zaptı imzalandı. KAYI SAVUNMA, milli teknoloji ve üretim kabiliyetlerini ADEX 2026'da sergiliyor. Aydın'ı sağanak vurdu… Cadde ve sokakları su bastı.",
+      "text": "Siber Güvenlik Başkanlığı'na atamalar Resmi Gazete’de. Mustafa Yazıcı hakkında yurt dışı yasağı. Fon soruşturmasında beşinci dalga. Şarkıcı Nil Özalp da gözaltına alındı. Resmi Gazete'de yayımlandı.... Akaryakıtta eşel mobil sisteminin uygulanması sona erdi. Uçakta şaşkına çeviren olay! Taşkınlık çıkaran yolcu kabin memurunu ve bir yolcuyu ısırdı. İletişim Başkanı Duran: Konya’dan yükselen selamın Filistin’in dört bir yanına ulaşmasını diliyorum. Cinsel taciz suçundan yargılanmıştı… Hasbi Dede’nin cezasına onama, Görele'de yeniden başkan seçilecek.",
       "items": [
         {
-          "title": "Fon soruşturmasında 5 fon şirketi TMSF'ye devredildi",
-          "summary": "Fon soruşturmasında adı geçen beş yatırım ve faktoring şirketi TMSF'ye devredildi. İstanbul Cumhuriyet Başsavcılığı Aklama Suçları Soruşturma Bürosunca yürütülen fon soruşturmasına ilişkin Bankacılık Düzenleme ve Denetleme Kurumu'ndan yeni açıklama yapıldı. Buna göre Tera Yatırım, Destek Yatırım Bankası, Hedef Yatırım Bankası, Destek Finans Faktoring ve Tera Finans Faktoring yönetimlerinin Tasarruf Mevduatı Sigorta Fonu'na (TMSF) devredilmesine karar verildi.",
-          "source": "https://www.ntv.com.tr/turkiye/3-banka-ve-2-faktoring-tmsfye-devredildi-1744226"
+          "title": "Siber Güvenlik Başkanlığı'na atamalar Resmi Gazete’de",
+          "summary": "Cumhurbaşkanlığı tarafından Siber Güvenlik Başkanlığı'nda yapılan atamalar hakkında karar Resmi Gazete’de yayımlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/siber-guvenlik-baskanligina-atamalar-resmi-gazetede-43325363"
         },
         {
-          "title": "Azerbaycan sahillerini ROKETSAN’ın BARBAROS'u koruyacak",
-          "summary": "BARBAROS Kıyı Savunma Sistemi'nin tedariki için ROKETSAN ile Azerbaycan Savunma Sanayii Bakanlığı arasında ADEX 2026 Fuarı'nda sözleşme imzalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/azerbaycan-sahillerini-roketsanin-barbarosu-koruyacak-43325102"
+          "title": "Mustafa Yazıcı hakkında yurt dışı yasağı",
+          "summary": "İstanbul Cumhuriyet Başsavcılığı'nın 'fon soruşturması' kapsamında bugün ifadesi alınan AK Parti Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu Mustafa Yazıcı hakkında yalnızca yurt dışına çıkış yasağı şeklinde adli kontrol tedbiri uygulanmasına karar verildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mustafa-yazici-hakkinda-yurt-disi-yasagi-43325362"
         },
         {
-          "title": "Samsun'da sahilde insan iskeleti bulundu",
-          "summary": "Samsun'un Terme ilçesinde kıyıya vurmuş insan iskeleti bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/samsunda-sahilde-insan-iskeleti-bulundu-43325096"
+          "title": "Fon soruşturmasında beşinci dalga. Şarkıcı Nil Özalp da gözaltına alındı",
+          "summary": "Fon soruşturmasında bugün gerçekleşen 5. dalga operasyonda 34 şüpheli hakkında gözaltı kararı verildi. Şarkıcı Nil Özalp de gözaltına alınanlar arasında. İstanbul Cumhuriyet Başsavcılığı Aklama Suçları Soruşturma Bürosunca yürütülen fon soruşturmalarında bugün 5'inci dalga operasyon gerçekleştirildi. 34 şüpheli hakkında arama, el koyma ve gözaltı kararı verildiğini bildirdi. Adliyeye sevk edilen 6 şüpheliden 3’ü tutuklama talebiyle sulh ceza hakimliğine sevk edildi. 1 kişi için adli kontrol talep edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-besinci-dalga-sarkici-nil-ozalp-da-gozaltina-alindi-1744195"
         },
         {
-          "title": "Fon soruşturmasında 5 firma BDDK'ya devredildi",
-          "summary": "BDDK, fon soruşturması kapsamında Tera Yatırım Bankası, Destek Yatırım Bankası, Hedef Yatırım Bankası ile Destek Faktoring ve Tera Finans Faktoring yönetimlerinin TMSF'ye devredilmesine karar verildiği duyuruldu",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-5-firma-bddkya-devredildi-43325095"
+          "title": "Resmi Gazete'de yayımlandı.... Akaryakıtta eşel mobil sisteminin uygulanması sona erdi",
+          "summary": "Akaryakıt fiyatlarındaki küresel dalgalanmaları ve kur hareketlerini tüketiciye yansıtmamak amacıyla uygulanan eşel mobil sistemi, bugün itibarıyla sona erdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/akaryakitta-esel-mobil-sisteminin-uygulanmasi-son-buldu-43325316"
         },
         {
-          "title": "Sabiha Gökçen ile Köln Bonn arasında \"Kardeş Havalimanları\" Mutabakat Zaptı imzalandı",
-          "summary": "İstanbul Sabiha Gökçen (ISG) Uluslararası Havalimanı ile Köln Bonn Havalimanı (CGN) arasında bilgi, deneyim ve teknoloji paylaşımını kapsayan \"Kardeş Havalimanları-Sister Airports\" Mutabakat Zaptı imzalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sabiha-gokcen-ile-koln-bonn-arasinda-kardes-havalimanlari-mutabakat-zapti-imzalandi-43325090"
+          "title": "Uçakta şaşkına çeviren olay! Taşkınlık çıkaran yolcu kabin memurunu ve bir yolcuyu ısırdı",
+          "summary": "Ajet, Londra Stansted- Sabiha Gökçen seferini yapan uçakta yabancı uyruklu alkollü bir yolcunun, taşkınlık çıkarıp kendisine müdahale eden kabin memurunu ve bir yolcuyu ısırarak yaraladığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ucakta-saskina-ceviren-olay-taskinlik-cikaran-yolcu-kabin-memurunu-ve-bir-yolcuyu-isirdi-43325304"
         },
         {
-          "title": "KAYI SAVUNMA, milli teknoloji ve üretim kabiliyetlerini ADEX 2026'da sergiliyor",
-          "summary": "KAYI SAVUNMA, Türk savunma sanayisi ekosisteminin stratejik üreticilerinden biri olarak milli teknoloji ve üretim kabiliyetlerini dost ve kardeş ülke Azerbaycan'da düzenlenen Azeybaycan Uluslararası Savunma Fuarı (ADEX) 2026'da sergiliyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayi-savunma-milli-teknoloji-ve-uretim-kabiliyetlerini-adex-2026da-sergiliyor-43325088"
+          "title": "İletişim Başkanı Duran: Konya’dan yükselen selamın Filistin’in dört bir yanına ulaşmasını diliyorum",
+          "summary": "İletişim Başkanı Burhanettin Duran, \"Bu akşam Konya’dan yükselen selamın Gazze’ye, Kudüs’e ve Filistin’in dört bir yanına ulaşmasını diliyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-konyadan-yukselen-selamin-filistinin-dort-bir-yanina-ulasmasini-diliyorum-43325290"
         },
         {
-          "title": "Aydın'ı sağanak vurdu… Cadde ve sokakları su bastı",
-          "summary": "AYDIN'ın Efeler ilçesinde etkili olan sağanak yağmur nedeniyle cadde ve sokaklar suyla doldu, sürücüler ilerlemekte güçlük çekti.",
-          "source": "https://www.hurriyet.com.tr/gundem/aydini-saganak-vurdu-cadde-ve-sokaklari-su-basti-43325085"
+          "title": "Cinsel taciz suçundan yargılanmıştı… Hasbi Dede’nin cezasına onama, Görele'de yeniden başkan seçilecek",
+          "summary": "GİRESUN'da Görele Belediye Başkanlığı görevinden uzaklaştırılan Hasbi Dede’nin, lise öğrencisi Tuana Elif Torun’a (16) karşı 'Çocuğa karşı elektronik haberleşme araçlarının sağladığı kolaylıktan faydalanmak suretiyle cinsel taciz' suçundan aldığı 1 yıl 6 ay hapis cezası, istinaf mahkemesi tarafından onandı. Cezanın kesinleşmesiyle daha önce başkan vekili seçen Görele Belediye Meclisi’nde yapılacak seçimle belediye başkanı yeniden seçilecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/cinsel-taciz-sucundan-yargilanmisti-hasbi-dedenin-cezasina-onama-gorelede-yeniden-baskan-secilecek-43325265"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail uçağında alarm. Pilotlar kavga etmiş. Enerji fiyatları fırladı. Euro Bölgesi'nde enflasyon yüzde 4'e dayandı. Hindistan'da Başbakan Modi'ye seçimlerde hile suçlaması. Muhalefet sokaklara iniyor. ABD'de mortgage faizi yaklaşık 3 yılın en yüksek seviyesine çıktı. Gökyüzünde görsel şölen için geri sayım. Draconid meteor yağmuru geliyor. Okyanusların çehresi değişiyor. Penguenler 2100'de yok olabilir. Güney Afrika ile ABD arasında toprak reformu gerilimi. Elçi üçüncü kez bakanlığa çağrıldı.",
+      "text": "5 yılda Alpler'deki buzulların yüzde 20'si eridi. Bakan Bolat, Kanada Uluslararası Ticaret Bakanı Sidhu ile görüştü. Suriye'de minibüse saldırı: 7 ölü, 4 yaralı. İsrail uçağında alarm. Pilotlar kavga etmiş. ABD Başkanı Trump’tan Irak yorumu: Defolup gidiyoruz. Suriye'de doğalgaz boru hattında patlama. Elektrik santralleri devre dışı kaldı. NATO Genel Sekreteri Rutte’den Putin’e mesaj: NATO’yu asla yenemeyeceğini biliyor.",
       "items": [
+        {
+          "title": "5 yılda Alpler'deki buzulların yüzde 20'si eridi",
+          "summary": "İsviçreli bilim insanları, son 5 yılda etkili olan aşırı sıcaklar nedeniyle Alpler'deki buzulların hacmi yüzde 20 azaldı. Sadece 1 yılda bazı bölgelerde buzulların kalınlığı 2.5 ila 4 metre azaldı. İsviçre Buzul İzleme Ağı (GLAMOS) ve İsviçre Bilimler Akademisine (SCNAT) bağlı İsviçre Kriyosfer Gözlem Komisyonu, Alpler'deki buzul erimelerine ilişkin yeni bir rapor yayımladı.",
+          "source": "https://www.ntv.com.tr/dunya/5-yilda-alplerdeki-buzullarin-yuzde-20si-eridi-1744248"
+        },
+        {
+          "title": "Bakan Bolat, Kanada Uluslararası Ticaret Bakanı Sidhu ile görüştü",
+          "summary": "Ticaret Bakanı Ömer Bolat, G20 Ticaret Bakanları Toplantısı kapsamında Kanada Uluslararası Ticaret Bakanı Maninder Sidhu ile bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/dunya/bakan-bolat-kanada-uluslararasi-ticaret-bakani-sidhu-ile-gorustu-43325361"
+        },
+        {
+          "title": "Suriye'de minibüse saldırı: 7 ölü, 4 yaralı",
+          "summary": "Suriye'nin Hama ilinde minibüse düzenlenen silahlı saldırıda 7 kişi öldü, 4 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-minibuse-saldiri-7-olu-4-yarali-43325360"
+        },
         {
           "title": "İsrail uçağında alarm. Pilotlar kavga etmiş",
           "summary": "İsrailli 180 yolcusuyla Dubai-Tel Aviv seferi yapan BAE'ye ait yolcu uçağında pilotların kokpitteki kavgası nedeniyle kaçırılma kodunun aktive edilmesi, anlık olarak dünyayı alarma geçirdi. Birleşik Arap Emirlikleri'ne (BAE) ait hava yolu şirketi Flydubai'nin Dubai-Tel Aviv seferini yapan yolcu uçağının havada acil durum ve kaçırılma ihbarında bulunduğu haberi dünya gündemine bomba gibi düştü. Kısa bir süre içinde, 180 yolcu taşıyan uçağın kaçırılıp kaçırılmadığına dair birçok çelişkili bilgi gelmeye başladı.",
           "source": "https://www.ntv.com.tr/dunya/israil-ucaginda-alarm-pilotlar-kavga-etmis-1744130"
         },
         {
-          "title": "Enerji fiyatları fırladı. Euro Bölgesi'nde enflasyon yüzde 4'e dayandı",
-          "summary": "İran savaşının yakıt sevkiyatını aksatmasıyla tırmanan enerji maliyetleri, Almanya, Fransa, İtalya ve İspanya'da eylül enflasyonunu beklentilerin üzerine taşıdı. İran savaşı nedeniyle pik yapan enerji maliyetleri, Avrupa'nın önde gelen ekonomilerinde enflasyonu eylül ayında beklentilerin üzerine taşıdı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-enerji-fiyatlari-firladi-euro-bolgesinde-enflasyon-yuzde-4e-dayandi-1744221"
+          "title": "ABD Başkanı Trump’tan Irak yorumu: Defolup gidiyoruz",
+          "summary": "ABD Başkanı Donald Trump, \"Irak’tan defolup gidiyoruz. Bugün, ABD için zafer günüdür\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-irak-yorumu-defolup-gidiyoruz-43325255"
         },
         {
-          "title": "Hindistan'da Başbakan Modi'ye seçimlerde hile suçlaması. Muhalefet sokaklara iniyor",
-          "summary": "Hindistan'da muhalefet ittifakı, 130 milyon kişinin seçmen listelerinden usulsüz şekilde silindiği iddiası üzerine ülke genelinde protesto kararı aldı. Hindistan'da muhalefet partileri, Seçim Komisyonunun seçmen kütüklerinde kapsamlı usulsüzlükler yaptığı yönündeki haberlerin ardından sokak gösterileri başlatma kararı aldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-hindistanda-basbakan-modiye-secimlerde-hile-suclamasi-muhalefet-sokaklara-iniyor-1744206"
+          "title": "Suriye'de doğalgaz boru hattında patlama. Elektrik santralleri devre dışı kaldı",
+          "summary": "Suriye'de doğal gaz hattında patlama gerçekleşti. Üç elektrik santralinin devre dışı kaldığı bildirildi. Suriye Elektrik Şirketi (SEC), Deyr Ali, Nasiriyye ve Tişrin elektrik santrallerinin, Tişrin Santrali'ndeki gaz hattında meydana gelen patlama nedeniyle devre dışı kaldığını bildirdi. Şirketten yapılan yazılı açıklamada, Tişrin Santrali'ndeki gaz hattında meydana gelen patlamanın ardından santrallerin çalışması için gerekli gaz tedarikinin durduğu belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/suriyede-dogalgaz-boru-hattinda-patlama-elektrik-santralleri-devre-disi-kaldi-1744234"
         },
         {
-          "title": "ABD'de mortgage faizi yaklaşık 3 yılın en yüksek seviyesine çıktı",
-          "summary": "ABD'de 30 yıl vadeli mortgage (konut kredisi) için ortalama faiz oranı geçen hafta yüzde 7,3'e çıkarak Kasım 2023'ten bu yana en yüksek seviyesine ulaştı. ABD'de Mortgage Bankalar Birliği (MBA), 25 Eylül'de sona eren haftaya ilişkin mortgage başvuru verilerini açıkladı. Buna göre, mortgage başvuruları geçen hafta bir önceki haftaya kıyasla yüzde 6 azaldı.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-mortgage-faizi-yaklasik-3-yilin-en-yuksek-seviyesine-cikti-1744199"
-        },
-        {
-          "title": "Gökyüzünde görsel şölen için geri sayım. Draconid meteor yağmuru geliyor",
-          "summary": "Dünya’nın bir kuyruklu yıldızın arkasında bıraktığı enkaz bulutunun içinden geçmesiyle oluşan meteor yağmurlarından biri daha gökyüzünde görsel şölen sergilemek üzere gün sayıyor. 21P/Giacobini-Zinner kuyruklu yıldızının arkasındaki parçacıkların oluşturduğu Draconid meteor yağmuru 8 Ekim Perşembe'yi 9 Ekim Cuma'ya bağlayan gece zirve yapacak. Her yıl gerçekleşen bu meteor yağmuru aslında 6 - 10 Ekim tarihleri arasında oluyor ancak zirve noktası 8-9 Ekim'de yaşanıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-gokyuzunde-gorsel-solen-icin-geri-sayim-draconid-meteor-yagmuru-geliyor-1744194"
-        },
-        {
-          "title": "Okyanusların çehresi değişiyor. Penguenler 2100'de yok olabilir",
-          "summary": "Copernicus Okyanus Durumu Raporu, kutup sularındaki benzeri görülmemiş ısınmanın deniz buzlarını eriterek ekosistemleri dönüştürdüğünü ortaya koydu. İklim krizi, kutup okyanuslarının yapısını hızla dönüştürüyor. Kutuplardaki deniz buzunun erimesi yaban hayatının yaşam alanlarını yok ederken, Kuzey Kutbu sularındaki ısınma küresel ortalamanın katbekat üzerine çıkıyor. Avrupa Birliği'nin Copernicus Deniz Hizmetini yöneten Mercator Ocean International bünyesinde hazırlanan 10'uncu Okyanus Durumu Raporu yayımlandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-okyanuslarin-cehresi-degisiyor-penguenler-2100de-yok-olabilir-1744191"
-        },
-        {
-          "title": "Güney Afrika ile ABD arasında toprak reformu gerilimi. Elçi üçüncü kez bakanlığa çağrıldı",
-          "summary": "Güney Afrika Dışişleri Bakanlığı, göreve dokuz ay önce başlayan ABD Büyükelçisi Leo Brent Bozell'i diplomatik teamüllere aykırı tutumu nedeniyle üçüncü kez çağırdı. Güney Afrika Cumhuriyeti, ABD'nin Pretoria Büyükelçisi Leo Brent Bozell III'ü görevdeki dokuzuncu ayında üçüncü kez Dışişleri Bakanlığına çağırdı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-guney-afrika-ile-abd-arasinda-toprak-reformu-gerilimi-elci-ucuncu-kez-bakanliga-cagrildi-1744171"
+          "title": "NATO Genel Sekreteri Rutte’den Putin’e mesaj: NATO’yu asla yenemeyeceğini biliyor",
+          "summary": "NATO Genel Sekreteri Mark Rutte, Rusya’dan NATO’ya iletilen \"nükleer tehdit\" mesajına yanıt verildiğini ve ittifakın Moskova’ya \"Nükleer tehditlere son verin\" mesajı ilettiğini açıklayarak, \"Putin, NATO’yu asla yenemeyeceğini biliyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/nato-genel-sekreteri-rutteden-putine-mesaj-natoyu-asla-yenemeyecegini-biliyor-43325163"
         }
       ]
     },
@@ -124,44 +124,8 @@
       ]
     },
     "spor": {
-      "text": "TFF, bahis oynadığı tespit edilen 448 kulüp yöneticisini tek tek açıkladı! Trabzonspor Başkanı Ertuğrul Doğan da listede. TFF, 'VAR odasında inceleme yapıldı' açıklaması yapmıştı! İstanbul Cumhuriyet Başsavcılığı'ndan açıklama: İnceleme yapılmadı. Red Bull Back Line 2026 Türkiye şampiyonu Athena takımı oldu. Gençlik ve Spor Bakanı Osman Aşkın Bak, Konyaspor - Filistin maçı öncesi konuştu: Evimiz evinizdir. Sürprizleri Birer Birer Buldu 48 TL’ye 32.353 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…. İstanbul’da Çim Pist Koşuları Sentetik Piste Alındı! İşte Misli’den Günün Altılı Analizi…. Kadınlar Şampiyonlar Ligi’nde gol sağanağı bekleniyor! İşte Misli’de günün en çok oynanan maçları.",
-      "items": [
-        {
-          "title": "TFF, bahis oynadığı tespit edilen 448 kulüp yöneticisini tek tek açıkladı! Trabzonspor Başkanı Ertuğrul Doğan da listede",
-          "summary": "TÜRKİYE Futbol Federasyonu (TFF), yürütülen bahis soruşturması kapsamında 2026-2027 futbol sezonunda Süper Lig ve TFF 1’inci Lig’de mücadele eden kulüplerde son 5 yıl içerisinde idareci olarak görev almış ve görev aldığı dönemde bahis oynadığı tespit edilen 448 kişiyi tedbirli olarak PFDK'ya sevk etti. Trabzonspor Başkanı Ertuğrul Doğan dahil olmak üzere 4 büyüklerden yöneticiler 448 kişilik geniş listede yer aldı. İşte tüm detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-bahis-oynadigi-tespit-edilen-kulup-yoneticilerini-acikladi-448-yonetici-pfdkya-sevk-edildi-43324985"
-        },
-        {
-          "title": "TFF, 'VAR odasında inceleme yapıldı' açıklaması yapmıştı! İstanbul Cumhuriyet Başsavcılığı'ndan açıklama: İnceleme yapılmadı",
-          "summary": "Türkiye Futbol Federasyonu (TFF), İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Riva Tesisleri'ndeki Video Yardımcı Hakem (VAR) odasında inceleme gerçekleştirildiğini belirterek, bazı dijital materyallerin önceden silindiği ve emniyet ekiplerince geri getirildiği yönündeki iddiaların gerçeği yansıtmadığını açıkladı. Öte yandan İstanbul Cumhuriyet Başsavcılığı, 'TFF Riva tesislerinde bulunan VAR odasında ve VAR kayıtlarında herhangi bir inceleme yaptırılmamıştır' açıklaması yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-var-odasinda-inceleme-yapildi-aciklamasi-yapmisti-istanbul-cumhuriyet-bassavciligindan-aciklama-inceleme-yapilmadi-43324589"
-        },
-        {
-          "title": "Red Bull Back Line 2026 Türkiye şampiyonu Athena takımı oldu",
-          "summary": "Voleybolu sokağa taşıyan ve sıra dışı kurallarıyla oyuna yeni bir boyut kazandıran Red Bull Back Line, bu yıl İstanbul’da kumsalda düzenlendi. Kalamış Atatürk Parkı Plaj Voleybolu Sahaları’nda oynanan karşılaşmalar, rekabet ve eğlenceyi bir araya getirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/red-bull-back-line-2026-turkiye-sampiyonu-athena-takimi-oldu-43324941"
-        },
-        {
-          "title": "Gençlik ve Spor Bakanı Osman Aşkın Bak, Konyaspor - Filistin maçı öncesi konuştu: Evimiz evinizdir",
-          "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, resmi raporların 7 Ekim 2023'ten bu yana Gazze'de binden fazla Filistinli sporcu, antrenör, hakem ve spor yöneticisinin şehit edildiğini ortaya koyduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclik-ve-spor-bakani-osman-askin-bak-konyaspor-filistin-maci-oncesi-konustu-evimiz-evinizdir-43324904"
-        },
-        {
-          "title": "Sürprizleri Birer Birer Buldu 48 TL’ye 32.353 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Horseshoe Indianapolis 2. 6’lı Ganyanda 48 TL’ye 32.353 TL kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/surprizleri-birer-birer-buldu-48-tlye-32-353-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43324882"
-        },
-        {
-          "title": "İstanbul’da Çim Pist Koşuları Sentetik Piste Alındı! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-cim-pist-kosulari-sentetik-piste-alindi-iste-misliden-gunun-altili-analizi-43324878"
-        },
-        {
-          "title": "Kadınlar Şampiyonlar Ligi’nde gol sağanağı bekleniyor! İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kadinlar-sampiyonlar-liginde-gol-saganagi-bekleniyor-iste-mislide-gunun-en-cok-oynanan-maclari-43324873"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
       "text": "‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi. Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir. Veri güvenliği krizi. İflas eden firmalar, yapay zeka şirketlerinin radarına girdi. Satış yapacaktı, yapay zeka pazarlık yapıp alıcıyı evine gönderdi. Servet gösterilmez yönetilir. Uzmanlar uyardı. İnsanlığın yok olma riski en az yüzde 10. 2 trilyon dolarlık halka arza hazırlanan Anthropic, 42 milyar dolar zarar etti.",
