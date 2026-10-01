@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-01T04:00:03.399Z",
+  "generatedAt": "2026-10-01T16:00:04.154Z",
   "categories": {
     "gundem": {
-      "text": "Siber Güvenlik Başkanlığı'na atamalar Resmi Gazete’de. Mustafa Yazıcı hakkında yurt dışı yasağı. Fon soruşturmasında beşinci dalga. Şarkıcı Nil Özalp da gözaltına alındı. Resmi Gazete'de yayımlandı.... Akaryakıtta eşel mobil sisteminin uygulanması sona erdi. Uçakta şaşkına çeviren olay! Taşkınlık çıkaran yolcu kabin memurunu ve bir yolcuyu ısırdı. İletişim Başkanı Duran: Konya’dan yükselen selamın Filistin’in dört bir yanına ulaşmasını diliyorum. Cinsel taciz suçundan yargılanmıştı… Hasbi Dede’nin cezasına onama, Görele'de yeniden başkan seçilecek.",
+      "text": "Güllü davası başladı. Kızı Tuğyan suçlamaları reddetti: \"Arkam dönüktü, nasıl düştüğünü görmedim\". Akran vahşeti! Islatıp, sürükleyip acımasızca dövdüler. Bakan Bolat, Rusya Ekonomik Kalkınma Bakanı Reşetnikov ile görüştü. İletişim Başkanı Duran'dan Genel Kurul'u terk eden Yeni Parti Grubu'na tepki: Ciddi bir saygısız. Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler. İBB davasında 4 kişi tahliye edildi. İBB'ye yönelik 'Yolsuzluk' davasında ara karar: 4 sanığa tahliye.",
       "items": [
         {
-          "title": "Siber Güvenlik Başkanlığı'na atamalar Resmi Gazete’de",
-          "summary": "Cumhurbaşkanlığı tarafından Siber Güvenlik Başkanlığı'nda yapılan atamalar hakkında karar Resmi Gazete’de yayımlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/siber-guvenlik-baskanligina-atamalar-resmi-gazetede-43325363"
+          "title": "Güllü davası başladı. Kızı Tuğyan suçlamaları reddetti: \"Arkam dönüktü, nasıl düştüğünü görmedim\"",
+          "summary": "Güllü'nün ölümüne ilişkin dava başladı. Davanın bir numaralı sanığı Güllü'nün kızı Tuğyan Ülkem Gülter, hakkındaki iddiaları reddetti. Gülter, \"Arkam dönüktü, annemin nasıl düştüğünü görmedim.\" dedi. Yalova'da altıncı kattaki evinin penceresinden düşerek şüpheli şekilde yaşamını yitiren Güllü olarak tanınan sanatçı Gül Tut'un ölümüne ilişkin davanın görülmesine başlandı. Duruşmadan gelişmeleri NTV Muhabiri Dilek Yaman Demir aktarıyor.",
+          "source": "https://www.ntv.com.tr/turkiye/gullu-davasi-basladi-kizi-tugyan-suclamalari-reddetti-arkam-donuktu-nasil-dustugunu-gormedim-1744261"
         },
         {
-          "title": "Mustafa Yazıcı hakkında yurt dışı yasağı",
-          "summary": "İstanbul Cumhuriyet Başsavcılığı'nın 'fon soruşturması' kapsamında bugün ifadesi alınan AK Parti Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu Mustafa Yazıcı hakkında yalnızca yurt dışına çıkış yasağı şeklinde adli kontrol tedbiri uygulanmasına karar verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mustafa-yazici-hakkinda-yurt-disi-yasagi-43325362"
+          "title": "Akran vahşeti! Islatıp, sürükleyip acımasızca dövdüler",
+          "summary": "Denizli'nin Buldan ilçesinde, 3 lise kız öğrencisi, bir ortaokul kız öğrencine yaptıkları akran zorbalığını arkadaşlarına da cep telefonuyla kaydettirdi. Görüntülerin ortaya çıkmasının ardından 3 kız öğrenci hakkında adli işlem başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/akran-vahseti-islatip-surukleyip-acimasizca-dovduler-43326443"
         },
         {
-          "title": "Fon soruşturmasında beşinci dalga. Şarkıcı Nil Özalp da gözaltına alındı",
-          "summary": "Fon soruşturmasında bugün gerçekleşen 5. dalga operasyonda 34 şüpheli hakkında gözaltı kararı verildi. Şarkıcı Nil Özalp de gözaltına alınanlar arasında. İstanbul Cumhuriyet Başsavcılığı Aklama Suçları Soruşturma Bürosunca yürütülen fon soruşturmalarında bugün 5'inci dalga operasyon gerçekleştirildi. 34 şüpheli hakkında arama, el koyma ve gözaltı kararı verildiğini bildirdi. Adliyeye sevk edilen 6 şüpheliden 3’ü tutuklama talebiyle sulh ceza hakimliğine sevk edildi. 1 kişi için adli kontrol talep edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-besinci-dalga-sarkici-nil-ozalp-da-gozaltina-alindi-1744195"
+          "title": "Bakan Bolat, Rusya Ekonomik Kalkınma Bakanı Reşetnikov ile görüştü",
+          "summary": "Ticaret Bakanı Ömer Bolat, G20 Ticaret Bakanları Toplantısı kapsamında Rusya Ekonomik Kalkınma Bakanı Maksim Reşetnikov ile bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-rusya-ekonomik-kalkinma-bakani-resetnikov-ile-gorustu-43326445"
         },
         {
-          "title": "Resmi Gazete'de yayımlandı.... Akaryakıtta eşel mobil sisteminin uygulanması sona erdi",
-          "summary": "Akaryakıt fiyatlarındaki küresel dalgalanmaları ve kur hareketlerini tüketiciye yansıtmamak amacıyla uygulanan eşel mobil sistemi, bugün itibarıyla sona erdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/akaryakitta-esel-mobil-sisteminin-uygulanmasi-son-buldu-43325316"
+          "title": "İletişim Başkanı Duran'dan Genel Kurul'u terk eden Yeni Parti Grubu'na tepki: Ciddi bir saygısız",
+          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın TBMM'nin 28. Dönem 5. Yasama Yılı açılışı dolayısıyla Genel Kurula hitabı için kürsüye çıktığı sırada Yeni Parti Grubu milletvekillerinin Genel Kurul salonunu terk etmesine tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-genel-kurulu-terk-eden-yeni-parti-grubuna-tepki-ciddi-bir-saygisiz-43326438"
         },
         {
-          "title": "Uçakta şaşkına çeviren olay! Taşkınlık çıkaran yolcu kabin memurunu ve bir yolcuyu ısırdı",
-          "summary": "Ajet, Londra Stansted- Sabiha Gökçen seferini yapan uçakta yabancı uyruklu alkollü bir yolcunun, taşkınlık çıkarıp kendisine müdahale eden kabin memurunu ve bir yolcuyu ısırarak yaraladığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ucakta-saskina-ceviren-olay-taskinlik-cikaran-yolcu-kabin-memurunu-ve-bir-yolcuyu-isirdi-43325304"
+          "title": "Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,53 değer kazanarak 12.249,04 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-iste-en-cok-deger-kazanan-sektorler-43326434"
         },
         {
-          "title": "İletişim Başkanı Duran: Konya’dan yükselen selamın Filistin’in dört bir yanına ulaşmasını diliyorum",
-          "summary": "İletişim Başkanı Burhanettin Duran, \"Bu akşam Konya’dan yükselen selamın Gazze’ye, Kudüs’e ve Filistin’in dört bir yanına ulaşmasını diliyorum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-konyadan-yukselen-selamin-filistinin-dort-bir-yanina-ulasmasini-diliyorum-43325290"
+          "title": "İBB davasında 4 kişi tahliye edildi",
+          "summary": "İstanbul Büyükşehir Belediyesi davasında 4 kişi tahliye edildi. İstanbul Büyükşehir Belediyesi (İBB) davasında yeni gelişme yaşandı. İstanbul 33. Ağır Ceza Mahkemesi, Marmara Kapalı Ceza İnfaz Kurumu karşısındaki salonda yapılan duruşmada, aranın ardından aylık tutukluluk incelemesi ile ilgili kararını açıkladı.",
+          "source": "https://www.ntv.com.tr/turkiye/ibb-davasinda-4-kisi-tahliye-edildi-1744393"
         },
         {
-          "title": "Cinsel taciz suçundan yargılanmıştı… Hasbi Dede’nin cezasına onama, Görele'de yeniden başkan seçilecek",
-          "summary": "GİRESUN'da Görele Belediye Başkanlığı görevinden uzaklaştırılan Hasbi Dede’nin, lise öğrencisi Tuana Elif Torun’a (16) karşı 'Çocuğa karşı elektronik haberleşme araçlarının sağladığı kolaylıktan faydalanmak suretiyle cinsel taciz' suçundan aldığı 1 yıl 6 ay hapis cezası, istinaf mahkemesi tarafından onandı. Cezanın kesinleşmesiyle daha önce başkan vekili seçen Görele Belediye Meclisi’nde yapılacak seçimle belediye başkanı yeniden seçilecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/cinsel-taciz-sucundan-yargilanmisti-hasbi-dedenin-cezasina-onama-gorelede-yeniden-baskan-secilecek-43325265"
+          "title": "İBB'ye yönelik 'Yolsuzluk' davasında ara karar: 4 sanığa tahliye",
+          "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 57’si tutuklu 436 sanık, 91’inci duruşmada hakim karşısına çıktı. Mahkeme, ara kararında 4 sanığın tahliyesine karar verdi. Duruşma 5 Ekim'e ertelendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-ara-karar-4-saniga-tahliye-43326416"
         }
       ]
     },
     "dunya": {
-      "text": "5 yılda Alpler'deki buzulların yüzde 20'si eridi. Bakan Bolat, Kanada Uluslararası Ticaret Bakanı Sidhu ile görüştü. Suriye'de minibüse saldırı: 7 ölü, 4 yaralı. İsrail uçağında alarm. Pilotlar kavga etmiş. ABD Başkanı Trump’tan Irak yorumu: Defolup gidiyoruz. Suriye'de doğalgaz boru hattında patlama. Elektrik santralleri devre dışı kaldı. NATO Genel Sekreteri Rutte’den Putin’e mesaj: NATO’yu asla yenemeyeceğini biliyor.",
+      "text": "Avrupa Merkez Bankası'ndan yapay zeka uyarısı. Kosova'dan Avrupa Birliği'ne aday ülke statüsü talebi. Birleşmiş Milletler'de Türk kahvesi tanıtımı. Almanya Başbakanı Merz'den dikkat çeken NATO açıklaması. Bosna Hersek'ten Sırbistan'a soykırımcı Mladiç tepkisi. Hollanda'da Batı Nil virüsünden ölenlerin sayısı 9'a yükseldi. Lahey'in mahkum ettiği tek kadındı. Bosnalı Sırp Plavsic öldü.",
       "items": [
         {
-          "title": "5 yılda Alpler'deki buzulların yüzde 20'si eridi",
-          "summary": "İsviçreli bilim insanları, son 5 yılda etkili olan aşırı sıcaklar nedeniyle Alpler'deki buzulların hacmi yüzde 20 azaldı. Sadece 1 yılda bazı bölgelerde buzulların kalınlığı 2.5 ila 4 metre azaldı. İsviçre Buzul İzleme Ağı (GLAMOS) ve İsviçre Bilimler Akademisine (SCNAT) bağlı İsviçre Kriyosfer Gözlem Komisyonu, Alpler'deki buzul erimelerine ilişkin yeni bir rapor yayımladı.",
-          "source": "https://www.ntv.com.tr/dunya/5-yilda-alplerdeki-buzullarin-yuzde-20si-eridi-1744248"
+          "title": "Avrupa Merkez Bankası'ndan yapay zeka uyarısı",
+          "summary": "Avrupa Merkez Bankası (ECB) ve Avrupa Sistemik Risk Kurulu (ESRB) Başkanı Christine Lagarde, yapay zekanın finans sektöründe güvenli kullanılabilmesi için politika yapıcıların finansal sistemin bütününe yönelik riskleri öngörmesi gerektiğini vurguladı. Lagarde, en gelişmiş modellerin ABD ve Çin'de yoğunlaştığını hatırlatarak, artan jeopolitik gerilimlerin Avrupa'nın bu teknolojilere erişimini aniden kesebileceğini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/avrupa-merkez-bankasindan-yapay-zeka-uyarisi-43326387"
         },
         {
-          "title": "Bakan Bolat, Kanada Uluslararası Ticaret Bakanı Sidhu ile görüştü",
-          "summary": "Ticaret Bakanı Ömer Bolat, G20 Ticaret Bakanları Toplantısı kapsamında Kanada Uluslararası Ticaret Bakanı Maninder Sidhu ile bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/bakan-bolat-kanada-uluslararasi-ticaret-bakani-sidhu-ile-gorustu-43325361"
+          "title": "Kosova'dan Avrupa Birliği'ne aday ülke statüsü talebi",
+          "summary": "Kosova Başbakanı Albin Kurti, Avrupa Birliği'nden (AB) ülkesine aday ülke statüsü vermesini ve üyelik müzakerelerinin başlatılmasını istedi. Kurti, AB Komisyonu Başkanı Ursula von der Leyen'e aday ülke statüsü konusunda çok güvendiklerini ve kendisini bu konuda önemli bir muhatap olarak gördüklerini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/kosovadan-avrupa-birligine-aday-ulke-statusu-talebi-43326383"
         },
         {
-          "title": "Suriye'de minibüse saldırı: 7 ölü, 4 yaralı",
-          "summary": "Suriye'nin Hama ilinde minibüse düzenlenen silahlı saldırıda 7 kişi öldü, 4 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriyede-minibuse-saldiri-7-olu-4-yarali-43325360"
+          "title": "Birleşmiş Milletler'de Türk kahvesi tanıtımı",
+          "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü'nde (FAO) \"1 Ekim Dünya Kahve Günü\" dolayısıyla Türk kahvesi ve kahve kültürü tanıtıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/birlesmis-milletlerde-turk-kahvesi-tanitimi-43326375"
         },
         {
-          "title": "İsrail uçağında alarm. Pilotlar kavga etmiş",
-          "summary": "İsrailli 180 yolcusuyla Dubai-Tel Aviv seferi yapan BAE'ye ait yolcu uçağında pilotların kokpitteki kavgası nedeniyle kaçırılma kodunun aktive edilmesi, anlık olarak dünyayı alarma geçirdi. Birleşik Arap Emirlikleri'ne (BAE) ait hava yolu şirketi Flydubai'nin Dubai-Tel Aviv seferini yapan yolcu uçağının havada acil durum ve kaçırılma ihbarında bulunduğu haberi dünya gündemine bomba gibi düştü. Kısa bir süre içinde, 180 yolcu taşıyan uçağın kaçırılıp kaçırılmadığına dair birçok çelişkili bilgi gelmeye başladı.",
-          "source": "https://www.ntv.com.tr/dunya/israil-ucaginda-alarm-pilotlar-kavga-etmis-1744130"
+          "title": "Almanya Başbakanı Merz'den dikkat çeken NATO açıklaması",
+          "summary": "Almanya Başbakanı Friedrich Merz, NATO’nun 3 nesildir Avro-Atlantik barış düzeninin temel direği olduğunu kaydetti. Merz, Berlin yönetiminin Almanya'nın savunmasına önemli yatırımlar yaptığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanya-basbakani-merzden-dikkat-ceken-nato-aciklamasi-43326365"
         },
         {
-          "title": "ABD Başkanı Trump’tan Irak yorumu: Defolup gidiyoruz",
-          "summary": "ABD Başkanı Donald Trump, \"Irak’tan defolup gidiyoruz. Bugün, ABD için zafer günüdür\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-irak-yorumu-defolup-gidiyoruz-43325255"
+          "title": "Bosna Hersek'ten Sırbistan'a soykırımcı Mladiç tepkisi",
+          "summary": "Sırbistan Dışişleri Bakanı Marko Duric'e Srebrenitsa Soykırımı'nın sorumlusu Ratko Mladic'e resmi cenaze töreni yapılmasıyla ilgili tepki gösteren Bosna Hersek Dışişleri Bakanı Elmedin Konakovic, soykırımın yoruma açık olmadığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/bosna-hersekten-sirbistana-soykirimci-mladic-tepkisi-43326360"
         },
         {
-          "title": "Suriye'de doğalgaz boru hattında patlama. Elektrik santralleri devre dışı kaldı",
-          "summary": "Suriye'de doğal gaz hattında patlama gerçekleşti. Üç elektrik santralinin devre dışı kaldığı bildirildi. Suriye Elektrik Şirketi (SEC), Deyr Ali, Nasiriyye ve Tişrin elektrik santrallerinin, Tişrin Santrali'ndeki gaz hattında meydana gelen patlama nedeniyle devre dışı kaldığını bildirdi. Şirketten yapılan yazılı açıklamada, Tişrin Santrali'ndeki gaz hattında meydana gelen patlamanın ardından santrallerin çalışması için gerekli gaz tedarikinin durduğu belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/suriyede-dogalgaz-boru-hattinda-patlama-elektrik-santralleri-devre-disi-kaldi-1744234"
+          "title": "Hollanda'da Batı Nil virüsünden ölenlerin sayısı 9'a yükseldi",
+          "summary": "Hollanda Ulusal Halk Sağlığı ve Çevre Enstitüsü (RIVM), bu yıl Batı Nil virüsü nedeniyle hayatını kaybedenlerin sayısının 9'a, toplam vaka sayısının 56'ya yükseldiğini bildirdi. RIVM'den yapılan açıklamada, 24 Eylül'deki son güncellemeden bu yana 12 kişide daha Batı Nil virüsü tespit edildiği ve 4 kişinin daha hayatını kaybettiği ifade edildi. Buna göre, bu yıl virüs nedeniyle ölenlerin sayısı 9'a, vaka sayısı 56'ya yükseldi.",
+          "source": "https://www.ntv.com.tr/dunya/hollandada-bati-nil-virusunden-olenlerin-sayisi-9a-yukseldi-1744385"
         },
         {
-          "title": "NATO Genel Sekreteri Rutte’den Putin’e mesaj: NATO’yu asla yenemeyeceğini biliyor",
-          "summary": "NATO Genel Sekreteri Mark Rutte, Rusya’dan NATO’ya iletilen \"nükleer tehdit\" mesajına yanıt verildiğini ve ittifakın Moskova’ya \"Nükleer tehditlere son verin\" mesajı ilettiğini açıklayarak, \"Putin, NATO’yu asla yenemeyeceğini biliyor\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/nato-genel-sekreteri-rutteden-putine-mesaj-natoyu-asla-yenemeyecegini-biliyor-43325163"
+          "title": "Lahey'in mahkum ettiği tek kadındı. Bosnalı Sırp Plavsic öldü",
+          "summary": "Eski Bosnalı Sırp lider Biljana Plavsic, 96 yaşında Belgrad'da öldü. Yaklaşık 100 bin kişinin öldüğü savaşta sivillere yönelik zulmü üstlenen Plavsic, Lahey Mahkemesi'nin mahkum ettiği tek kadındı. Bosna Savaşı sırasında Boşnak ve Hırvatlara yönelik zulüm politikasındaki rolünü kabul eden ve savaş suçundan hüküm giyen eski Bosnalı Sırp lider Biljana Plavsic, 96 yaşında Sırbistan'ın başkenti Belgrad'da öldü.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-laheyin-mahkum-ettigi-tek-kadindi-bosnali-sirp-plavsic-oldu-1744382"
         }
       ]
     },
     "ekonomi": {
-      "text": "Fonlarda yeni dönem: 5 kritik adım! Ödemeler nasıl yapılacak? Yatırımcıların parası ne zaman ödenecek?. Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi. Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek. Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında.",
+      "text": "Mustafa Destici'den fon soruşturması açıklaması: Kim bu işe bulaştıysa hesap vermeli. Fonlarda yeni dönem: 5 kritik adım! Ödemeler nasıl yapılacak? Yatırımcıların parası ne zaman ödenecek?. Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi. Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek.",
       "items": [
+        {
+          "title": "Mustafa Destici'den fon soruşturması açıklaması: Kim bu işe bulaştıysa hesap vermeli",
+          "summary": "Büyük Birlik Partisi (BBP) Genel Başkanı Mustafa Destici, fon piyasasına yönelik soruşturmalarla ilgili, \"Dileğimiz kim bu işe bulaştıysa, organize ettiyse, bile isteye kim bu işin içinde olanlar mutlaka hukuk önünde hesap vermeli\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mustafa-desticiden-fon-sorusturmasi-aciklamasi-kim-bu-ise-bulastiysa-hesap-vermeli-43326059"
+        },
         {
           "title": "Fonlarda yeni dönem: 5 kritik adım! Ödemeler nasıl yapılacak? Yatırımcıların parası ne zaman ödenecek?",
           "summary": "Sermaye piyasalarında yaşanan son gelişmelerin ardından gözler tasfiye sürecinin nasıl ilerleyeceğine çevrildi. Yatırımcıların alacaklarına ilişkin süreçte hangi adımların atılacağı ve yeni oluşturulan mekanizmaların nasıl işleyeceği merak konusu. İşte bundan sonraki süreçte atılacak 5 kritik adıma dair detaylar…",
@@ -115,21 +120,62 @@
           "title": "AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek",
           "summary": "AK Parti Sözcüsü Ömer Çelik, fon krizi olarak adlandırılan sürecin ilk andan itibaren titizlikle takip edildiğini belirterek, her türlü usulsüzlükle tavizsiz mücadele edileceğini ve yanlış yapanların hesap vereceğini açıkladı.",
           "source": "https://www.hurriyet.com.tr/gundem/ak-partili-omer-celikten-fon-krizi-aciklamasi-yanlis-yapanlar-hukuk-onunde-hesabini-verecek-43320961"
-        },
-        {
-          "title": "Pusula Holding kapalı fon soruşturmasında üçüncü dalga: 6 şüpheli gözaltında",
-          "summary": "Sermaye piyasası işlemlerine yönelik yürütülen soruşturmanın üçüncü dalgası kapsamında, Pusula Holding Kapalı Fon sisteminde hesabı bulunduğu belirlenen 12 şüpheliden 5'ine yönelik operasyonun ardından, kalan 7 şüpheliye yeni baskın yapıldı. Operasyonda 6 şüpheli yakalanırken, 1 kişinin yakalanması için çalışmalar sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-ucuncu-dalga-operasyon-6-supheli-gozaltina-alindi-43319148"
         }
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "Hakan Daltaban'dan 'bahis' açıklaması!. Fenerbahçe'nin transfer yasağı kaldırıldı!. Dursun Özbek, Avrupa Futbol Kulüpleri Birliği yönetim kuruluna seçildi. Edin Dzeko milli takıma veda ediyor!. Fenerbahçe Tarfin, Dubai Basketbol'u ağırlayacak. Beşiktaş Erkek Basketbol Takımı, Barcelona'yla karşılaşacak. Premier Lig ekibi, Beşiktaş'ın yıldızı için devrede! Devre arası transfer dönemini bekliyorlar.",
+      "items": [
+        {
+          "title": "Hakan Daltaban'dan 'bahis' açıklaması!",
+          "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği tarafından \"bahis oynama\" gerekçesiyle Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edilen Beşiktaş Kulübü İkinci Başkanı Hakan Daltaban, kendi adına açılan hesabı yakın çevresini kontrol altında tutmak için kullandırdığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hakan-daltabandan-bahis-aciklamasi-43326446"
+        },
+        {
+          "title": "Fenerbahçe'nin transfer yasağı kaldırıldı!",
+          "summary": "Fenerbahçe, FIFA'nın uyduladığı 3 dönemlik transfer yasağının kaldırıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-transfer-yasagi-kaldirildi-43326424"
+        },
+        {
+          "title": "Dursun Özbek, Avrupa Futbol Kulüpleri Birliği yönetim kuruluna seçildi",
+          "summary": "Galatasaray Spor Kulübü Başkanı Dursun Özbek, oy birliği ile Avrupa Futbol Kulüpleri Birliği (EFC) yönetim kurulu üyeliğine seçildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-avrupa-futbol-kulupleri-birligi-yonetim-kuruluna-secildi-43326388"
+        },
+        {
+          "title": "Edin Dzeko milli takıma veda ediyor!",
+          "summary": "Bosna Hersek futbolunun \"yaşayan efsanesi\" olarak bilinen Edin Dzeko, Zenica şehrinde yarın oynayacakları İsveç maçıyla milli takım kariyerini sonlandıracak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/edin-dzeko-milli-takima-veda-ediyor-43326291"
+        },
+        {
+          "title": "Fenerbahçe Tarfin, Dubai Basketbol'u ağırlayacak",
+          "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 3. haftasında yarın Birleşik Arap Emirlikleri temsilcisi Dubai Basketbol'u konuk edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-dubai-basketbolu-agirlayacak-43326283"
+        },
+        {
+          "title": "Beşiktaş Erkek Basketbol Takımı, Barcelona'yla karşılaşacak",
+          "summary": "Beşiktaş Erkek Basketbol Takımı, Avrupa Ligi'nde yarın Barcelona'yla mücadele edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-erkek-basketbol-takimi-barcelonayla-karsilasacak-43326279"
+        },
+        {
+          "title": "Premier Lig ekibi, Beşiktaş'ın yıldızı için devrede! Devre arası transfer dönemini bekliyorlar",
+          "summary": "Premier Lig'de zor günler geçiren İngiliz futbolunun köklü kulüplerinden Tottenham, Beşiktaş'ın Güney Koreli yıldızı Hyeon-gyu Oh'u transfer gündemine aldı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/premier-lig-ekibi-besiktasin-yildizi-icin-devrede-devre-arasi-transfer-donemini-bekliyorlar-43326210"
+        }
+      ]
     },
     "teknoloji": {
-      "text": "‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi. Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir. Veri güvenliği krizi. İflas eden firmalar, yapay zeka şirketlerinin radarına girdi. Satış yapacaktı, yapay zeka pazarlık yapıp alıcıyı evine gönderdi. Servet gösterilmez yönetilir. Uzmanlar uyardı. İnsanlığın yok olma riski en az yüzde 10. 2 trilyon dolarlık halka arza hazırlanan Anthropic, 42 milyar dolar zarar etti.",
+      "text": "Türkiye’nin dijital geleceğine global yatırım. Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor. ‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi. Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir. Veri güvenliği krizi. İflas eden firmalar, yapay zeka şirketlerinin radarına girdi. Satış yapacaktı, yapay zeka pazarlık yapıp alıcıyı evine gönderdi. Servet gösterilmez yönetilir.",
       "items": [
+        {
+          "title": "Türkiye’nin dijital geleceğine global yatırım",
+          "summary": "Bulut ve operatör bağımsız veri merkezi platformu Digital Realty ile Rönesans Altyapı, Türkiye’de yeni nesil veri merkezleri geliştirmek ve işletmek üzere ortaklık kurduklarını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/turkiyenin-dijital-gelecegine-global-yatirim-43326385"
+        },
+        {
+          "title": "Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor",
+          "summary": "Dünya'nın derinliklerindeki katı iç çekirdek ile kayalık manto arasındaki yerçekimsel çekişme, gezegenin 24 saatlik dönüş hızında milisaniyelik oynamalar yaratıyor. Yerkürenin derinliklerinde süregelen fiziksel kuvvet mücadelesi, yüzeydeki zaman algısını doğrudan etkiliyor. Bilim dergisi Nature'da yayımlanan yeni bir araştırma, Dünya'nın 24 saatlik gün süresinde meydana gelen milisaniyelik oynamaların gezegenin metalik çekirdeğindeki hareketlerden kaynaklandığını ortaya koydu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-dunyanin-derinliklerindeki-gorunmez-cekisme-gunler-uzuyor-1744268"
+        },
         {
           "title": "‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi",
           "summary": "Turkcell’in T3 Vakfı iş birliğiyle düzenlediği ‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda dereceye giren takımların ödülleri de verildi.",
@@ -154,22 +200,32 @@
           "title": "Servet gösterilmez yönetilir",
           "summary": "Nefes çalışmalarıyla tanınan Nevşah Fidan Karamehmet, şimdilerde girişim ve yatırımlarıyla adından söz ettiriyor.",
           "source": "https://www.hurriyet.com.tr/kelebek/stil/servet-gosterilmez-yonetilir-43323984"
-        },
-        {
-          "title": "Uzmanlar uyardı. İnsanlığın yok olma riski en az yüzde 10",
-          "summary": "Teknoloji devlerinde çalışan araştırmacılar, kendi kendini eğiten yapay zeka modellerinin insan denetiminden çıkarak varoluşsal felaket doğurabileceği uyarısında bulundu. Yapay zeka alanında çalışan mevcut ve eski araştırmacılar, şirketlerin insan kontrolünü aşabilecek ve kendi kendini geliştiren sistemler üretirken dünyayı felaket risklerine karşı korumakta yetersiz kaldığı uyarısını yapıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-uzmanlar-uyardi-insanligin-yok-olma-riski-en-az-yuzde-10-1744055"
-        },
-        {
-          "title": "2 trilyon dolarlık halka arza hazırlanan Anthropic, 42 milyar dolar zarar etti",
-          "summary": "Yapay zeka şirketi Anthropic, hazırladığı halka arz izahnamesinde 2025 yılı net zararının 42 milyar dolara ulaştığını bildirdi. Claude adlı dil modeli serisini geliştiren ABD'li yapay zeka devi Anthropic, hazırladığı halka arz izahnamesinde küresel ekonomiyi sanayileşme, elektrik ve internetten daha köklü biçimde dönüştürmeyi hedeflediğini duyurdu.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-2-trilyon-dolarlik-halka-arza-hazirlanan-anthropic-42-milyar-dolar-zarar-etti-1744036"
         }
       ]
     },
     "saglik": {
-      "text": "Ölümünden sonra incelendi: Akıllı saati ve yüzüğü sağlık durumundaki bozulmayı kaydetmiş. Kanser tedavisi kedilerde mi gizli?. Doğada kendiliğinden yetişiyor. Vücuttaki zararlı toksinleri temizliyormuş. Yeni araştırma: 10 dakikalık yavaş koşu bile beyni canlandırıyor. Uykunun rüya evresi uzadıkça bu hastalıklara yakalanma riski azalıyor. Çinlilerin uzun yaşam sırrı onda gizli. En güçlü şifa kaynağı Bitlis'te yetişiyor. En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor.",
+      "text": "Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat. Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı. Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı. Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı. Ölümünden sonra incelendi: Akıllı saati ve yüzüğü sağlık durumundaki bozulmayı kaydetmiş. Kanser tedavisi kedilerde mi gizli?. Doğada kendiliğinden yetişiyor. Vücuttaki zararlı toksinleri temizliyormuş.",
       "items": [
+        {
+          "title": "Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat",
+          "summary": "Mevsim değişikliği grip ve nezle vakalarını artırdı. Özellikle çocuklarda vakalar yükselirken, uzmanlar velileri ve öğretmenleri hijyene dikkat etmeleri konusunda uyarıyor.",
+          "source": "https://www.ntv.com.tr/saglik/video-mevsim-degisikligi-hastaliklari-artirdi-cocuklara-dikkat-1744377"
+        },
+        {
+          "title": "Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı",
+          "summary": "Tokat'ta, halk arasında \"ağlayan çiçek\" olarak bilinen difenbahya bitkisini yiyen 2 yaşındaki çocuk, dudaklarında ve boğazında şişlik oluşması üzerine yoğun bakıma alındı. Olay, 2 yaşındaki çocuğun evde babaannesi ve dedesinin yanında bulunduğu sırada meydana geldi. Saksıda yetiştirilen difenbahya bitkisinden kopardığı parçayı ağzına alan Z.L. Hanlı (2), bir süre sonra ağlayarak babaannesinin yanına gitti. Çocuğun dudaklarının şiştiğini fark eden yakınları, onu hastaneye götürdü.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-evdeki-bitkiyi-yedi-dudaklari-ve-bogazi-sisti-2-yasindaki-cocuk-yogun-bakima-alindi-1744372"
+        },
+        {
+          "title": "Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı",
+          "summary": "Kütahya'nın Simav ilçesinde yetiştirilen \"ölümsüzlük meyvesi\" pazar tezgâhlarında yerini aldı. Kalitesi ve aromasıyla dikkat çeken Simav hünnabı, kilogramı 50 ile 80 TL arasında değişen fiyatlarla satışa sunuluyor. Türkiye'nin farklı il ve ilçelerine de gönderilen hünnapta üretim her yıl artıyor. Pazarcı esnafı ve üretici Yusuf Özkan, bu yıl ürün miktarının fazla olduğunu ancak fiyat istikrarının istenilen seviyede olmadığını belirtti. Özkan, üreticinin artan maliyetler nedeniyle zorlandığını söyledi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-ona-olumsuzluk-meyvesi-diyorlar-pazara-cikti-satislari-artti-1744305"
+        },
+        {
+          "title": "Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı",
+          "summary": "ABD'li ilaç şirketi Regeneron'un geliştirdiği deneysel yeni zayıflama ilacı Trevogrumab, Novo Nordisk'in Semaglutid adlı ilacıyla birlikte kullanıldığında kas kütlesi kaybını yüzde 50 azalttı. Zayıflama ilaçlarının hızla yaygınlaşmasıyla birlikte, hızlı kilo kaybına eşlik eden önemli miktardaki kas kaybına ilişkin endişeler de arttı. Tıp dünyası, yeni nesil ilaçların kilo kaybı sırasında vücudun kas dokusunu parçalamasını önleyebilmesi için de çalışıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-zayiflama-ilaclarinda-yeni-kesif-kas-kaybini-yuzde-50-azaltti-1744249"
+        },
         {
           "title": "Ölümünden sonra incelendi: Akıllı saati ve yüzüğü sağlık durumundaki bozulmayı kaydetmiş",
           "summary": "Yoğun bir bisiklet antrenmanının ardından hayatını kaybeden 76 yaşındaki araştırmacının giyilebilir cihaz verileri incelendi. Sağlık göstergelerindeki değişim yaklaşık beş ay önce başlamış. Yoğun bir bisiklet antrenmanını tamamladıktan üç dakika sonra yere yığılan ve ismi açıklanmayan 76 yaşındaki araştırmacı, yaklaşık 40 dakika süren müdahaleye rağmen kurtarılamadı.",
@@ -184,26 +240,6 @@
           "title": "Doğada kendiliğinden yetişiyor. Vücuttaki zararlı toksinleri temizliyormuş",
           "summary": "Yozgat'ın Sorgun ilçesine bağlı Boğazcumafakılı köyünde, sonbaharın gelmesiyle birlikte doğal olarak yetişen alıç meyvesinin hasadı başladı. Yozgat genelinde kırsal alanlarda kendiliğinden yetişen ve şifa kaynağı olarak bilinen alıç, Sorgun ilçesine bağlı Boğazcumafakılı köyü sakinleri için besin deposu oldu. Dağlık ve kayalık arazilerin yolunu tutan köylüler, sarı veya kırmızı renkleriyle dalları süsleyen alıçları özenle topluyor.",
           "source": "https://www.ntv.com.tr/saglik/galeri-dogada-kendiliginden-yetisiyor-vucuttaki-zararli-toksinleri-temizliyormus-1744144"
-        },
-        {
-          "title": "Yeni araştırma: 10 dakikalık yavaş koşu bile beyni canlandırıyor",
-          "summary": "Yeni bir araştırma, yürüme hızına yakın son derece yavaş tempoda yapılan 10 dakikalık bir koşunun bile beyni canlandırarak dikkati ve duygu durumunu geliştirdiğini gösterdi. Japonya'daki Tsukuba Üniversitesi'nden sinir bilimciler, 24 sağlıklı genç yetişkini koşu bandında saatte ortalama 3 ila 6 kilometre gibi düşük bir hızda 10 dakika boyunca koşturdu. Katılımcıların nabzı dakikada 104 ila 107 atım bandında kalırken, beyin yüzeyindeki oksijenli kan seviyeleri özel algılayıcı başlıklarla takip edildi.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-yeni-arastirma-10-dakikalik-yavas-kosu-bile-beyni-canlandiriyor-1743881"
-        },
-        {
-          "title": "Uykunun rüya evresi uzadıkça bu hastalıklara yakalanma riski azalıyor",
-          "summary": "Yeni bir araştırma, rüyaların görüldüğü REM uykusunda geçirilen sürenin uzamasının, Parkinson ve demans başta olmak üzere 83 kronik hastalığın riskini önemli ölçüde düşürdüğünü gösterdi. Çin'deki Başkent Tıp Üniversitesi öncülüğünde yürütülen uluslararası bir araştırmada, rüyaların görüldüğü REM uykusunda geçirilen süre uzadıkça, aralarında demans ve Parkinson'un da yer aldığı 83 farklı kronik hastalığa yakalanma riskinin önemli ölçüde düştüğü ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-uykunun-ruya-evresi-uzadikca-bu-hastaliklara-yakalanma-riski-azaliyor-1743852"
-        },
-        {
-          "title": "Çinlilerin uzun yaşam sırrı onda gizli. En güçlü şifa kaynağı Bitlis'te yetişiyor",
-          "summary": "Geleneksel Çin tıbbında iki bin yılı aşkın süredir uzun ömrün sırrı ve vücudun yaşam özünü besleyen Goji Berry meyvesi, Bitlis’in topraklarında ve yüksek rakımlı ikliminde yetiştirilmeye başlandı. Bitlis'in Tatvan ilçesinde Mehmet Okay tarafından Van Gölü sahiline yakın kendisine ait bahçede deneme amaçlı ekilen Goji Berry meyvesi hayat buldu.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-cinlilerin-uzun-yasam-sirri-onda-gizli-en-guclu-sifa-kaynagi-bitliste-yetisiyor-1743815"
-        },
-        {
-          "title": "En güçlü antioksidan kaynaklarından biri. Tek tek elle toplanıyor",
-          "summary": "Konya'da alternatif tarım ürünü olarak yetiştirilen aronyada bu yılın hasat dönemi başladı. Aronya meyveleri, olgunlaşan salkımların tek tek elle toplanmasıyla hasat ediliyor. Tahıl üretiminin yaygın olduğu bölgede farklı bir üretim modeli oluşturan Tahsin Tosun, aronyadan elde ettiği verimle üretimini sürdürürken, bu yıl da bahçesinde hasat mesaisine başladı. Küçük taneli meyveler, olgunluk durumlarına göre seçilerek toplanıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-en-guclu-antioksidan-tek-tek-elle-toplaniyor-1743699"
         }
       ]
     },
