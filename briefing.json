@@ -1,91 +1,111 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-01T16:00:04.154Z",
+  "generatedAt": "2026-10-02T10:00:04.044Z",
   "categories": {
     "gundem": {
-      "text": "Güllü davası başladı. Kızı Tuğyan suçlamaları reddetti: \"Arkam dönüktü, nasıl düştüğünü görmedim\". Akran vahşeti! Islatıp, sürükleyip acımasızca dövdüler. Bakan Bolat, Rusya Ekonomik Kalkınma Bakanı Reşetnikov ile görüştü. İletişim Başkanı Duran'dan Genel Kurul'u terk eden Yeni Parti Grubu'na tepki: Ciddi bir saygısız. Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler. İBB davasında 4 kişi tahliye edildi. İBB'ye yönelik 'Yolsuzluk' davasında ara karar: 4 sanığa tahliye.",
+      "text": "Eyüpsultan Belediyesi'ne operasyon. Belediye Başkanı Mithat Bülent Özmen gözaltında. Soma'da maden ocağında göçükte 5 işçi hayatını kaybetti. AK Parti Sözcüsü Çelik'ten Suudi Arabistan'daki saldırıya tepki. Gözaltına alınan 10 fenomen adliyeye sevk edildi: Aylık gelirleri ortaya çıktı. Burun akıntısını nezle sandı, 4 yıl sonra hayatının şokunu yaşadı | Apar topar beyin ameliyatına alındı. Güngören'de tramvay, ticari minibüse çarptı: Yaralılar var. Nevşehir'de DEAŞ operasyonu.",
       "items": [
         {
-          "title": "Güllü davası başladı. Kızı Tuğyan suçlamaları reddetti: \"Arkam dönüktü, nasıl düştüğünü görmedim\"",
-          "summary": "Güllü'nün ölümüne ilişkin dava başladı. Davanın bir numaralı sanığı Güllü'nün kızı Tuğyan Ülkem Gülter, hakkındaki iddiaları reddetti. Gülter, \"Arkam dönüktü, annemin nasıl düştüğünü görmedim.\" dedi. Yalova'da altıncı kattaki evinin penceresinden düşerek şüpheli şekilde yaşamını yitiren Güllü olarak tanınan sanatçı Gül Tut'un ölümüne ilişkin davanın görülmesine başlandı. Duruşmadan gelişmeleri NTV Muhabiri Dilek Yaman Demir aktarıyor.",
-          "source": "https://www.ntv.com.tr/turkiye/gullu-davasi-basladi-kizi-tugyan-suclamalari-reddetti-arkam-donuktu-nasil-dustugunu-gormedim-1744261"
+          "title": "Eyüpsultan Belediyesi'ne operasyon. Belediye Başkanı Mithat Bülent Özmen gözaltında",
+          "summary": "CHP'li Eyüpsultan Belediye Başkanı Mithat Bülent Özmen ve 27 şüpheli \"suç örgütüne üye olma\", \"rüşvet alma\", \"rüşvet verme\" ve \"ihaleye fesat karıştırma\" suçlarından gözaltına alındı. İstanbul Eyüpsultan Belediyesi'ne operasyon düzenlendi. Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Eyüpsultan Belediye Başkanı Mithat Bülent Özmen’in de aralarında bulunduğu 28 kişi gözaltına alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesine-operasyon-belediye-baskani-mithat-bulent-ozmen-gozaltinda-1744424"
         },
         {
-          "title": "Akran vahşeti! Islatıp, sürükleyip acımasızca dövdüler",
-          "summary": "Denizli'nin Buldan ilçesinde, 3 lise kız öğrencisi, bir ortaokul kız öğrencine yaptıkları akran zorbalığını arkadaşlarına da cep telefonuyla kaydettirdi. Görüntülerin ortaya çıkmasının ardından 3 kız öğrenci hakkında adli işlem başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/akran-vahseti-islatip-surukleyip-acimasizca-dovduler-43326443"
+          "title": "Soma'da maden ocağında göçükte 5 işçi hayatını kaybetti",
+          "summary": "Manisa'nın Soma ilçesindeki maden ocağında meydana gelen göçükte 5 madenci yaşamını yitirdi. Maden şirketinin yöneticilerinin de aralarında olduğu 9 kişi gözaltına alındı. Manisa'nın Soma ilçesinde bir maden ocağında göçük oldu. Özel bir işletmeye ait maden ocağında işçiler çalıştığı sırada göçük oldu. Göçük altında kalan 7 işçiden ikisi kurtarıldı ancak Halit Ersay ve Kerim Ören isimli madenciler hayatını kaybetti. CANSIZ BEDENLERİNE ULAŞILDI Üç madenci ise göçük altında mahsur kaldı.",
+          "source": "https://www.ntv.com.tr/turkiye/manisa-somada-maden-ocaginda-gocuk-4-kisi-kurtarildi-1-isci-hayatini-kaybetti-1744369"
         },
         {
-          "title": "Bakan Bolat, Rusya Ekonomik Kalkınma Bakanı Reşetnikov ile görüştü",
-          "summary": "Ticaret Bakanı Ömer Bolat, G20 Ticaret Bakanları Toplantısı kapsamında Rusya Ekonomik Kalkınma Bakanı Maksim Reşetnikov ile bir araya geldi.",
+          "title": "AK Parti Sözcüsü Çelik'ten Suudi Arabistan'daki saldırıya tepki",
+          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Suudi Arabistan'a yönelik saldırıya tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-suudi-arabistandaki-saldiriya-tepki-43327081"
+        },
+        {
+          "title": "Gözaltına alınan 10 fenomen adliyeye sevk edildi: Aylık gelirleri ortaya çıktı",
+          "summary": "Sosyal medya üzerinde açtıkları canlı yayınlarda kavga, tehdit, hakaret, gerilim ve mağduriyet içerikli paylaşımlar yapan sanal medya ünlüsü 10 şüpheli adliyeye sevk edildi. Şüpheliler hakkında 'Halkı kin ve düşmanlığa tahrik ve aşağılama' ve 'Müstehcenlik' suçlarından işlem yapıldığı öğrenildi. Polis sorgusunda aylık gelirleri de ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gozaltina-alinan-10-fenomen-adliyeye-sevk-edildi-aylik-gelirleri-ortaya-cikti-43327072"
+        },
+        {
+          "title": "Burun akıntısını nezle sandı, 4 yıl sonra hayatının şokunu yaşadı | Apar topar beyin ameliyatına alındı",
+          "summary": "Ankara'da yaşayan Rukiye Ağaçayak(38) isimli kadın, 4 yıl önce geçirdiği trafik kazasının ardından burun akıntısı yaşamaya başladı. Akıntının son zamanlarda artması üzerine giden Ağaçayak, bunun travmaya bağlı olarak beyin tabanında oluşan açıklıktan kaynaklandığını öğrendi. Doktorların 'ölüm riski' uyarısında bulunduğu genç kadın, burun içinden endoskopik yöntemle yapılan ameliyatla sağlığına kavuştu.",
+          "source": "https://www.hurriyet.com.tr/gundem/trafik-kazasi-geciren-kadin-4-yil-sonra-hayatinin-sokunu-yasadi-apar-topar-beyin-ameliyatina-alindi-43327073"
+        },
+        {
+          "title": "Güngören'de tramvay, ticari minibüse çarptı: Yaralılar var",
+          "summary": "İstanbul Güngören'de tramvay, ters yönden dönüş yapan ticari minibüse çarptı. Kazada yaralıların olduğu öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/gungorende-feci-kaza-tramvay-ticari-minibuse-carpti-yaralilar-var-43327056"
+        },
+        {
+          "title": "Nevşehir'de DEAŞ operasyonu",
+          "summary": "Nevşehir'de DEAŞ terör örgütünü meşru göstermeye yönelik paylaşımlarda bulunan kişi jandarma tarafından gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/nevsehirde-deas-operasyonu-43327014"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Dünya genelinde fabrikalarda aktif çalışan robot sayısı 5 milyonu aştı. Türkiye tarihi zirvesinde. Türkiye-Azerbaycan-Gürcistan Üçlü Savunma Bakanları Toplantısı Şuşa'da düzenlendi. ABD bu idamı konuşuyor... 200 yıl sonra ilk olacaktı! Kalbi durmadı: Yaşananlar aklımdan çıkmıyor. Baltık ülkesi Letonya sandık başına gidiyor. New York Belediye Başkanı Mamdani: Netanyahu soykırımın mimarı. Fransa'daki lise eylemlerinde 1793 kişi gözaltına alındı, çok sayıda yaralı var. Avrupa'da sıcaklık rekorları kırıldı. Kuraklık nehirleri vurdu.",
+      "items": [
+        {
+          "title": "Dünya genelinde fabrikalarda aktif çalışan robot sayısı 5 milyonu aştı. Türkiye tarihi zirvesinde",
+          "summary": "Yapay zeka teknolojisindeki hızlı gelişim ve tedarik zincirlerinin yeniden yapılanması, dünya genelindeki üretim hatlarında otomasyonu zirveye taşıdı. Türkiye'de de toplam robot stoku tarihi zirvede. Uluslararası Robotik Federasyonu (IFR) raporundan derlenen bilgiye göre, dünya genelindeki fabrikalarda faaliyet gösteren aktif endüstriyel robot sayısı, 2025 yılında bir önceki yıla kıyasla yüzde 9 artarak 5 milyon 79 bin ile rekor kırdı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-dunya-genelinde-fabrikalarda-aktif-calisan-robot-sayisi-5-milyonu-asti-turkiye-tarihi-zirvesinde-1744458"
+        },
+        {
+          "title": "Türkiye-Azerbaycan-Gürcistan Üçlü Savunma Bakanları Toplantısı Şuşa'da düzenlendi",
+          "summary": "Türkiye-Azerbaycan-Gürcistan Üçlü Savunma Bakanları 13. Toplantısı, Azerbaycan'ın Şuşa şehrinde düzenlendi. Azerbaycan Savunma Bakanı Zakir Hasanov'un ev sahipliğinde düzenlenen toplantıya Milli Savunma Bakanı Yaşar Güler ve Gürcistan Savunma Bakanı İrakli Çikovani katıldı. Üç ülke arasındaki askeri ve savunma alanındaki işbirliklerinin görüşüldüğü etkinliğin sonunda Güler, Hasanov ve Çikovani toplantı protokolünü imzaladı.",
+          "source": "https://www.ntv.com.tr/dunya/turkiye-azerbaycan-gurcistan-uclu-savunma-bakanlari-toplantisi-susada-duzenlendi-1744467"
+        },
+        {
+          "title": "ABD bu idamı konuşuyor... 200 yıl sonra ilk olacaktı! Kalbi durmadı: Yaşananlar aklımdan çıkmıyor",
+          "summary": "ABD'de idam mahkumu Christa Pike'ın iki doz ölümcül ilaç verilmesine rağmen infazı gerçekleşmedi. Pike'ın sağlık durumunun ağır olduğu bildirilirken avukatı, \"Dün gece yaşananlar hâlâ aklımdan çıkmıyor\" sözleriyle anlattı. Pike'ın infazı, 200 yıl sonra bir ilk olarak kayıtlara geçecekti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-bu-idami-konusuyor-200-yil-sonra-ilk-olacakti-kalbi-durmadi-yasananlar-aklimdan-cikmiyor-43327058"
+        },
+        {
+          "title": "Baltık ülkesi Letonya sandık başına gidiyor",
+          "summary": "Letonya'da cumartesi günü 100 sandalyeli parlamentonun (Saeima) yeni üyelerinin belirleneceği genel seçimler yapılacak. Genel seçimler öncesinde Letonya Başbakanı Andris Kulbergs'in temsil ettiği Birleşik Liste, son anketlerde birinci çıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/baltik-ulkesi-letonya-sandik-basina-gidiyor-43327024"
+        },
+        {
+          "title": "New York Belediye Başkanı Mamdani: Netanyahu soykırımın mimarı",
+          "summary": "İsrail'in Gazze'de soykırım yapmaya devam ettiğini belirten New York Belediye Başkanı Zohran Mamdani, İsrail Başbakanı Binyamin Netanyahu'nun \"soykırımın mimarı\" olduğunu kaydetti. Mamdani, İsrail ordusunun geçen hafta 11 yaşında bir çocuğu öldürdüğünü belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/new-york-belediye-baskani-mamdani-netanyahu-soykirimin-mimari-43327006"
+        },
+        {
+          "title": "Fransa'daki lise eylemlerinde 1793 kişi gözaltına alındı, çok sayıda yaralı var",
+          "summary": "Fransa'da eğitim koşullarının iyileştirilmesi talebiyle geçen haftadan bu yana düzenlenen lise eylemlerinde 1793 kişi gözaltına alındı, çok sayıda yaralı var. Bugün 400'den fazla okul kapalı olacak. Fransa Eğitim Bakanı Edouard Geffray, konuk olduğu France 2 kanalında lise eylemlerine ilişkin açıklamalarda bulundu. Geffray, eylemler nedeniyle 400'den fazla eğitim kurumunun bugün kapalı olacağını belirterek ilgili okullardaki öğrencilerin eğitiminin çevrim içi yapılacağını aktardı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransadaki-lise-eylemlerinde-1793-kisi-gozaltina-alindi-cok-sayida-yarali-var-1744454"
+        },
+        {
+          "title": "Avrupa'da sıcaklık rekorları kırıldı. Kuraklık nehirleri vurdu",
+          "summary": "Avrupa kıtasının yarısından fazlası bu yaz çok güçlü sıcaklık stresine maruz kalırken, aşırı sıcağın etkilediği alanın büyüklüğü rekor seviyeye ulaştı. Nehirlerde en düşük yaz debileri görüldü. Avrupa Birliği'nin (AB) Copernicus İklim Değişikliği Servisi (C3S), 2026 yazına ilişkin değerlendirmesini yayımladı. Buna göre, haziran-ağustos döneminde Avrupa genelinde kayıtlardaki en sıcak üçüncü yaz, Batı Avrupa'da ise en sıcak yaz yaşandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-avrupada-sicaklik-rekorlari-kirildi-kuraklik-nehirleri-vurdu-1744449"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar. Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler. Mustafa Destici'den fon soruşturması açıklaması: Kim bu işe bulaştıysa hesap vermeli. Fonlarda yeni dönem: 5 kritik adım! Ödemeler nasıl yapılacak? Yatırımcıların parası ne zaman ödenecek?. Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi.",
+      "items": [
+        {
+          "title": "TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz",
+          "summary": "Cumhurbaşkanı Tayyip Erdoğan Meclis’i açış konuşmasında fon krizine de değinirken “Fon piyasasının belli bölümünde ortaya çıkan sorunun da üstesinden başarıyla geliyoruz. Sermaye piyasası kuralları çerçevesinde, hakkaniyet ve adaleti gözeterek, kimsenin hakkını kimseye yedirmeden, bu meseleyi süratle çözüyoruz” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-28-donem-5-yasama-yili-torenle-basladi-erdogandan-fon-mesaji-suratle-cozuyoruz-43326668"
+        },
+        {
+          "title": "Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık",
+          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasalarında yaşanan son gelişmelere ilişkin, \"Çok hızlı hareket ettik. Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bahse konu fonların tasfiyesi ve çözümlenmesi süreci başladı. Burada amacımız, bulaşıcılığın sistemin geri kalanına yayılmasını durdurmaktı ve bunda büyük ölçüde başarılı olduğumuzu düşünüyoruz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-simsek-sorunlu-portfoy-yonetim-sirketlerini-ve-ilgili-fonlari-karantinaya-aldik-43326466"
+        },
+        {
+          "title": "Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar",
+          "summary": "Ticaret Bakanı Ömer Bolat, G20 Ticaret Bakanları Toplantısı kapsamında Rusya Ekonomik Kalkınma Bakanı Maksim Reşetnikov ve Polonya Maliye ve Ekonomi Bakanı Andrzej Domanski ile bir araya geldi.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-rusya-ekonomik-kalkinma-bakani-resetnikov-ile-gorustu-43326445"
-        },
-        {
-          "title": "İletişim Başkanı Duran'dan Genel Kurul'u terk eden Yeni Parti Grubu'na tepki: Ciddi bir saygısız",
-          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın TBMM'nin 28. Dönem 5. Yasama Yılı açılışı dolayısıyla Genel Kurula hitabı için kürsüye çıktığı sırada Yeni Parti Grubu milletvekillerinin Genel Kurul salonunu terk etmesine tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-genel-kurulu-terk-eden-yeni-parti-grubuna-tepki-ciddi-bir-saygisiz-43326438"
         },
         {
           "title": "Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,53 değer kazanarak 12.249,04 puandan tamamladı.",
           "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-iste-en-cok-deger-kazanan-sektorler-43326434"
         },
-        {
-          "title": "İBB davasında 4 kişi tahliye edildi",
-          "summary": "İstanbul Büyükşehir Belediyesi davasında 4 kişi tahliye edildi. İstanbul Büyükşehir Belediyesi (İBB) davasında yeni gelişme yaşandı. İstanbul 33. Ağır Ceza Mahkemesi, Marmara Kapalı Ceza İnfaz Kurumu karşısındaki salonda yapılan duruşmada, aranın ardından aylık tutukluluk incelemesi ile ilgili kararını açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/ibb-davasinda-4-kisi-tahliye-edildi-1744393"
-        },
-        {
-          "title": "İBB'ye yönelik 'Yolsuzluk' davasında ara karar: 4 sanığa tahliye",
-          "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 57’si tutuklu 436 sanık, 91’inci duruşmada hakim karşısına çıktı. Mahkeme, ara kararında 4 sanığın tahliyesine karar verdi. Duruşma 5 Ekim'e ertelendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-ara-karar-4-saniga-tahliye-43326416"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Avrupa Merkez Bankası'ndan yapay zeka uyarısı. Kosova'dan Avrupa Birliği'ne aday ülke statüsü talebi. Birleşmiş Milletler'de Türk kahvesi tanıtımı. Almanya Başbakanı Merz'den dikkat çeken NATO açıklaması. Bosna Hersek'ten Sırbistan'a soykırımcı Mladiç tepkisi. Hollanda'da Batı Nil virüsünden ölenlerin sayısı 9'a yükseldi. Lahey'in mahkum ettiği tek kadındı. Bosnalı Sırp Plavsic öldü.",
-      "items": [
-        {
-          "title": "Avrupa Merkez Bankası'ndan yapay zeka uyarısı",
-          "summary": "Avrupa Merkez Bankası (ECB) ve Avrupa Sistemik Risk Kurulu (ESRB) Başkanı Christine Lagarde, yapay zekanın finans sektöründe güvenli kullanılabilmesi için politika yapıcıların finansal sistemin bütününe yönelik riskleri öngörmesi gerektiğini vurguladı. Lagarde, en gelişmiş modellerin ABD ve Çin'de yoğunlaştığını hatırlatarak, artan jeopolitik gerilimlerin Avrupa'nın bu teknolojilere erişimini aniden kesebileceğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/avrupa-merkez-bankasindan-yapay-zeka-uyarisi-43326387"
-        },
-        {
-          "title": "Kosova'dan Avrupa Birliği'ne aday ülke statüsü talebi",
-          "summary": "Kosova Başbakanı Albin Kurti, Avrupa Birliği'nden (AB) ülkesine aday ülke statüsü vermesini ve üyelik müzakerelerinin başlatılmasını istedi. Kurti, AB Komisyonu Başkanı Ursula von der Leyen'e aday ülke statüsü konusunda çok güvendiklerini ve kendisini bu konuda önemli bir muhatap olarak gördüklerini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/kosovadan-avrupa-birligine-aday-ulke-statusu-talebi-43326383"
-        },
-        {
-          "title": "Birleşmiş Milletler'de Türk kahvesi tanıtımı",
-          "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü'nde (FAO) \"1 Ekim Dünya Kahve Günü\" dolayısıyla Türk kahvesi ve kahve kültürü tanıtıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/birlesmis-milletlerde-turk-kahvesi-tanitimi-43326375"
-        },
-        {
-          "title": "Almanya Başbakanı Merz'den dikkat çeken NATO açıklaması",
-          "summary": "Almanya Başbakanı Friedrich Merz, NATO’nun 3 nesildir Avro-Atlantik barış düzeninin temel direği olduğunu kaydetti. Merz, Berlin yönetiminin Almanya'nın savunmasına önemli yatırımlar yaptığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanya-basbakani-merzden-dikkat-ceken-nato-aciklamasi-43326365"
-        },
-        {
-          "title": "Bosna Hersek'ten Sırbistan'a soykırımcı Mladiç tepkisi",
-          "summary": "Sırbistan Dışişleri Bakanı Marko Duric'e Srebrenitsa Soykırımı'nın sorumlusu Ratko Mladic'e resmi cenaze töreni yapılmasıyla ilgili tepki gösteren Bosna Hersek Dışişleri Bakanı Elmedin Konakovic, soykırımın yoruma açık olmadığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bosna-hersekten-sirbistana-soykirimci-mladic-tepkisi-43326360"
-        },
-        {
-          "title": "Hollanda'da Batı Nil virüsünden ölenlerin sayısı 9'a yükseldi",
-          "summary": "Hollanda Ulusal Halk Sağlığı ve Çevre Enstitüsü (RIVM), bu yıl Batı Nil virüsü nedeniyle hayatını kaybedenlerin sayısının 9'a, toplam vaka sayısının 56'ya yükseldiğini bildirdi. RIVM'den yapılan açıklamada, 24 Eylül'deki son güncellemeden bu yana 12 kişide daha Batı Nil virüsü tespit edildiği ve 4 kişinin daha hayatını kaybettiği ifade edildi. Buna göre, bu yıl virüs nedeniyle ölenlerin sayısı 9'a, vaka sayısı 56'ya yükseldi.",
-          "source": "https://www.ntv.com.tr/dunya/hollandada-bati-nil-virusunden-olenlerin-sayisi-9a-yukseldi-1744385"
-        },
-        {
-          "title": "Lahey'in mahkum ettiği tek kadındı. Bosnalı Sırp Plavsic öldü",
-          "summary": "Eski Bosnalı Sırp lider Biljana Plavsic, 96 yaşında Belgrad'da öldü. Yaklaşık 100 bin kişinin öldüğü savaşta sivillere yönelik zulmü üstlenen Plavsic, Lahey Mahkemesi'nin mahkum ettiği tek kadındı. Bosna Savaşı sırasında Boşnak ve Hırvatlara yönelik zulüm politikasındaki rolünü kabul eden ve savaş suçundan hüküm giyen eski Bosnalı Sırp lider Biljana Plavsic, 96 yaşında Sırbistan'ın başkenti Belgrad'da öldü.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-laheyin-mahkum-ettigi-tek-kadindi-bosnali-sirp-plavsic-oldu-1744382"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "Mustafa Destici'den fon soruşturması açıklaması: Kim bu işe bulaştıysa hesap vermeli. Fonlarda yeni dönem: 5 kritik adım! Ödemeler nasıl yapılacak? Yatırımcıların parası ne zaman ödenecek?. Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi. Obezitenin faturası da ağır geldi. Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’. Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız. AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek.",
-      "items": [
         {
           "title": "Mustafa Destici'den fon soruşturması açıklaması: Kim bu işe bulaştıysa hesap vermeli",
           "summary": "Büyük Birlik Partisi (BBP) Genel Başkanı Mustafa Destici, fon piyasasına yönelik soruşturmalarla ilgili, \"Dileğimiz kim bu işe bulaştıysa, organize ettiyse, bile isteye kim bu işin içinde olanlar mutlaka hukuk önünde hesap vermeli\" dedi.",
@@ -100,72 +120,67 @@
           "title": "Cumhurbaşkanı Erdoğan ekonomi kurmaylarını topladı! Fon soruşturmasında kritik zirve sona erdi",
           "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon piyasasındaki gelişmeler üzerine bugün ekonomi kurmaylarıyla Beştepe'de bir araya geldi ve atılacak idari ve hukuki adımları değerlendirdi. Beştepe'deki kritik zirve sona erdi.",
           "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-ekonomi-kurmaylarini-topladi-fon-sorusturmasinda-kritik-zirve-sona-erdi-43323121"
-        },
-        {
-          "title": "Obezitenin faturası da ağır geldi",
-          "summary": "Obezite ve fazla kilo, Avrupa ekonomilerine her yıl milyarlarca euro'luk maliyet getiriyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/obezitenin-faturasi-da-agir-geldi-43321716"
-        },
-        {
-          "title": "Fon krizinde etkin pişmanlık kriteri: ‘Kazandığının iki katını öde’",
-          "summary": "Özata Denizcilik Sanayi ve Ticaret A.Ş. (OZATD) pay piyasasında gerçekleştirilen işlemler nedeniyle 11 kişi hakkında suç duyurusunda bulunan SPK, 107’nci maddeyi hatırlattı. Bu kişilerin etkin pişmanlıktan yararlanmak için kazandıkları paranın iki katını ödemeleri gerekecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-krizinde-etkin-pismanlik-kriteri-kazandiginin-iki-katini-ode-43321768"
-        },
-        {
-          "title": "Cevdet Yılmaz: Bu sene sonu itibarıyla 1,8 trilyon dolarlık bir ekonomi olacağız",
-          "summary": "‘TÜRKİYE Yüzyılı Buluşmaları’ kapsamında ziyaret ettiği AK Parti Tuzla İlçe Başkanlığı'nda konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Bilimde, teknolojide çok ilerlemiş bir ülke veya ülkeler insanlığın hiçbir kriterine uymayan katliamlar, zulümler işleyebiliyorlar. Gazze bunun en güzel örneği. Dolayısıyla sadece bilim, teknoloji yetmez. Bilimi, teknolojiyi ahlakla, erdemle, hukukla, insan onuruyla birleştirmeden bir medeniyet inşa edilemez. İnsani bir medeniyet inşa edilemez.",
-          "source": "https://www.hurriyet.com.tr/gundem/cevdet-yilmaz-bu-sene-sonu-itibariyla-1-8-trilyon-dolarlik-bir-ekonomi-olacagiz-43321457"
-        },
-        {
-          "title": "AK Partili Ömer Çelik'ten fon krizi açıklaması: Yanlış yapanlar hukuk önünde hesabını verecek",
-          "summary": "AK Parti Sözcüsü Ömer Çelik, fon krizi olarak adlandırılan sürecin ilk andan itibaren titizlikle takip edildiğini belirterek, her türlü usulsüzlükle tavizsiz mücadele edileceğini ve yanlış yapanların hesap vereceğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-omer-celikten-fon-krizi-aciklamasi-yanlis-yapanlar-hukuk-onunde-hesabini-verecek-43320961"
         }
       ]
     },
     "spor": {
-      "text": "Hakan Daltaban'dan 'bahis' açıklaması!. Fenerbahçe'nin transfer yasağı kaldırıldı!. Dursun Özbek, Avrupa Futbol Kulüpleri Birliği yönetim kuruluna seçildi. Edin Dzeko milli takıma veda ediyor!. Fenerbahçe Tarfin, Dubai Basketbol'u ağırlayacak. Beşiktaş Erkek Basketbol Takımı, Barcelona'yla karşılaşacak. Premier Lig ekibi, Beşiktaş'ın yıldızı için devrede! Devre arası transfer dönemini bekliyorlar.",
+      "text": "Gizem Örge: 'Bu seneden çok umutluyum ve beklentim yüksek'. Galatasaray'a Kasımpaşa maçı öncesi iki isimden iyi haber!. İlkay Gündoğan'dan Osimhen sözleri: 'Dünya çapında bir forvet!'. A Milli Takım, Uluslar Ligi'nde Belçika'ya konuk oluyor! Maçın heyecanı canlı sohbet ile Misli'de. MHK Başkanı Ferhat Gündoğdu ve hakem Yasin Kol'un WhatsApp yazışmaları ortaya çıktı! 'Değişme şansımız varsa Özgür abi olsun'. Beşiktaş'a sakat oyuncularından müjde! Milli ara ilaç gibi geldi. Beşiktaş Kulübü'nde hafta sonu yoğun geçecek.",
       "items": [
         {
-          "title": "Hakan Daltaban'dan 'bahis' açıklaması!",
-          "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği tarafından \"bahis oynama\" gerekçesiyle Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk edilen Beşiktaş Kulübü İkinci Başkanı Hakan Daltaban, kendi adına açılan hesabı yakın çevresini kontrol altında tutmak için kullandırdığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hakan-daltabandan-bahis-aciklamasi-43326446"
+          "title": "Gizem Örge: 'Bu seneden çok umutluyum ve beklentim yüksek'",
+          "summary": "Fenerbahçe Medicana Kadın Voleybol Takımı oyuncuları Gizem Örge ile Arina Fedorovtseva, sarı-lacivertlilerin 2026-27 sezonundaki kadro kalitesi ve gücüne inandıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gizem-orge-bu-seneden-cok-umutluyum-ve-beklentim-yuksek-43327105"
         },
         {
-          "title": "Fenerbahçe'nin transfer yasağı kaldırıldı!",
-          "summary": "Fenerbahçe, FIFA'nın uyduladığı 3 dönemlik transfer yasağının kaldırıldığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-transfer-yasagi-kaldirildi-43326424"
+          "title": "Galatasaray'a Kasımpaşa maçı öncesi iki isimden iyi haber!",
+          "summary": "Galatasaray’da Victor Osimhen ve Mario Lemina’nın tedavi sürecinde son aşamaya gelindi. İki futbolcunun da ligdeki Kasımpaşa maçına hazır olması bekleniyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-kasimpasa-maci-oncesi-iki-isimden-iyi-haber-43327080"
         },
         {
-          "title": "Dursun Özbek, Avrupa Futbol Kulüpleri Birliği yönetim kuruluna seçildi",
-          "summary": "Galatasaray Spor Kulübü Başkanı Dursun Özbek, oy birliği ile Avrupa Futbol Kulüpleri Birliği (EFC) yönetim kurulu üyeliğine seçildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-avrupa-futbol-kulupleri-birligi-yonetim-kuruluna-secildi-43326388"
+          "title": "İlkay Gündoğan'dan Osimhen sözleri: 'Dünya çapında bir forvet!'",
+          "summary": "Galatasaray'ın başarılı oyuncusu İlkay Gündoğan, Sport.pl, Die Zeit, The Guardian ve La Repubblica'ınn ortak röportajında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ilkay-gundogandan-osimhen-sozleri-dunya-capinda-bir-forvet-43326918"
         },
         {
-          "title": "Edin Dzeko milli takıma veda ediyor!",
-          "summary": "Bosna Hersek futbolunun \"yaşayan efsanesi\" olarak bilinen Edin Dzeko, Zenica şehrinde yarın oynayacakları İsveç maçıyla milli takım kariyerini sonlandıracak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/edin-dzeko-milli-takima-veda-ediyor-43326291"
+          "title": "A Milli Takım, Uluslar Ligi'nde Belçika'ya konuk oluyor! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "A Milli Futbol Takımımız, UEFA Uluslar A Ligi 1. Grup'taki üçüncü maçında bu akşam deplasmanda Belçika ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-uluslar-liginde-belcikaya-konuk-oluyor-macin-heyecani-canli-sohbet-ile-mislide-43326941"
         },
         {
-          "title": "Fenerbahçe Tarfin, Dubai Basketbol'u ağırlayacak",
-          "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 3. haftasında yarın Birleşik Arap Emirlikleri temsilcisi Dubai Basketbol'u konuk edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-dubai-basketbolu-agirlayacak-43326283"
+          "title": "MHK Başkanı Ferhat Gündoğdu ve hakem Yasin Kol'un WhatsApp yazışmaları ortaya çıktı! 'Değişme şansımız varsa Özgür abi olsun'",
+          "summary": "Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınıp adliyeye sevk edilen MHK Başkanı Ferhat Gündoğdu ve dün akşam gözaltına alınan Süper Lig hakemi Yasin Kol arasında geçen bir yazışma ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mhk-baskani-ferhat-gundogdu-ve-hakem-yasin-kolun-whatsapp-yazismalari-ortaya-cikti-degisme-sansimiz-varsa-ozgur-abi-olsun-43326920"
         },
         {
-          "title": "Beşiktaş Erkek Basketbol Takımı, Barcelona'yla karşılaşacak",
-          "summary": "Beşiktaş Erkek Basketbol Takımı, Avrupa Ligi'nde yarın Barcelona'yla mücadele edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-erkek-basketbol-takimi-barcelonayla-karsilasacak-43326279"
+          "title": "Beşiktaş'a sakat oyuncularından müjde! Milli ara ilaç gibi geldi",
+          "summary": "Süper Lig'in 7. haftasında Kocaelispor'u konuk edecek olan Beşiktaş'a sakatlık problemleriyle boğuşan 3 yıldızından sevindirici haber geldi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-sakat-oyuncularindan-mujde-milli-ara-ilac-gibi-geldi-43326870"
         },
         {
-          "title": "Premier Lig ekibi, Beşiktaş'ın yıldızı için devrede! Devre arası transfer dönemini bekliyorlar",
-          "summary": "Premier Lig'de zor günler geçiren İngiliz futbolunun köklü kulüplerinden Tottenham, Beşiktaş'ın Güney Koreli yıldızı Hyeon-gyu Oh'u transfer gündemine aldı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/premier-lig-ekibi-besiktasin-yildizi-icin-devrede-devre-arasi-transfer-donemini-bekliyorlar-43326210"
+          "title": "Beşiktaş Kulübü'nde hafta sonu yoğun geçecek",
+          "summary": "Beşiktaş Kulübü, ekim ayının ilk hafta sonunu yoğun genel kurul gündemleriyle geçirecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-kulubunde-hafta-sonu-yogun-gececek-43326868"
         }
       ]
     },
     "teknoloji": {
-      "text": "Türkiye’nin dijital geleceğine global yatırım. Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor. ‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi. Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir. Veri güvenliği krizi. İflas eden firmalar, yapay zeka şirketlerinin radarına girdi. Satış yapacaktı, yapay zeka pazarlık yapıp alıcıyı evine gönderdi. Servet gösterilmez yönetilir.",
+      "text": "Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi. Avrupa'dan ABD ve Çin'e karşı yapay zeka hamlesi. Dev tesis üretime geçti. Uzaydayken 3'üncü kez baba olacak. Türkiye’nin dijital geleceğine global yatırım. Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor. ‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi. Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir.",
       "items": [
+        {
+          "title": "Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi",
+          "summary": "Amazon Web Services, yapay zeka veri merkezlerinin su ve elektrik tüketimine yönelik tepkileri dindirmek amacıyla yerel topluluklara 1 milyar doları aşkın kaynak aktaracağını duyurdu. Yapay zeka modellerini eğitmek ve çalıştırmak için gereken bilgi işlem gücünü sağlayan veri merkezleri, ABD genelinde elektrik talebi, fatura artışları ve yerel altyapı üzerindeki etkileri nedeniyle tepki topluyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-elektrik-faturalari-tirmandi-amazon-tepkilere-1-milyar-dolar-butceyle-cevap-verdi-1744473"
+        },
+        {
+          "title": "Avrupa'dan ABD ve Çin'e karşı yapay zeka hamlesi. Dev tesis üretime geçti",
+          "summary": "Fransız süper bilgisayar üreticisi Bull, Avrupa'nın ABD ve Çin ile rekabetinde işlem gücünü artırmak amacıyla 80 milyon euroluk yatırımla üretim kapasitesini iki katına çıkardı. Avrupa Birliği (AB), ABD ve Çin ile arasındaki işlem gücü farkını kapatmak amacıyla 2021-2027 döneminde süper bilgisayar ağına 7 milyar euro kaynak ayırdı.",
+          "source": "https://www.ntv.com.tr/teknoloji/avrupadan-abd-ve-cine-karsi-yapay-zeka-hamlesi-dev-tesis-uretime-gecti-1744461"
+        },
+        {
+          "title": "Uzaydayken 3'üncü kez baba olacak",
+          "summary": "NASA, 13'üncü uzun süreli astronot ekibini SpaceX roketiyle Uluslararası Uzay İstasyonu'na gönderdi. 4 kişilik ekipten Joshua Kutryk uzaydayken, eşi üçüncü çocuklarını dünyaya getirecek. 7 SAAT 55 DAKİKALIK UÇUŞ NASA'nın yörüngede insan sağlığı ve performansına odaklanan Crew-13 görevi için iki ABD'li ve bir Kanadalı astronot ile bir Rus kozmonottan oluşan ekibi Uluslararası Uzay İstasyonu'na (ISS) ulaştı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-uzaydayken-3uncu-kez-baba-olacak-1744416"
+        },
         {
           "title": "Türkiye’nin dijital geleceğine global yatırım",
           "summary": "Bulut ve operatör bağımsız veri merkezi platformu Digital Realty ile Rönesans Altyapı, Türkiye’de yeni nesil veri merkezleri geliştirmek ve işletmek üzere ortaklık kurduklarını duyurdu.",
@@ -185,21 +200,6 @@
           "title": "Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir",
           "summary": "Massachusetts Teknoloji Enstitüsü (MIT) mühendisleri, canlı kas hücrelerinin hareketiyle yüzebilen küçük bir robot geliştirdi. Suda hareket etmek, havada hareket etmeye göre daha fazla kuvvet gerektiriyor. Ancak MIT mühendislerinin geliştirdiği yeni robot, uygun bir tasarımla tek katmanlı kas hücrelerinin bile yüzmek için yeterli güç üretebildiğini gösterdi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-canli-kaslarla-calisan-yuzucu-robot-gelistirildi-hassas-ortamlarin-yeni-kesif-araci-olabilir-1744188"
-        },
-        {
-          "title": "Veri güvenliği krizi. İflas eden firmalar, yapay zeka şirketlerinin radarına girdi",
-          "summary": "Yapay zeka şirketlerinin modellerini eğitmek amacıyla iflas eden firmaların büyük veri paketlerine yönelmesi, küresel teknoloji pazarında yeni bir ticari yarış ve veri güvenliği krizi başlattı. ABD'li teknoloji şirketi Google ve yapay zeka girişimi Micro1, iflas başvurusunda bulunan ABD'li hava yolu şirketi Spirit Airlines'ın dahili iletişim ve yolcu verilerini satın almak için milyonlarca dolarlık teklif verdi. Tedarikçiler ve çalışanlar ise hassas bilgilerin sızmasından endişe ediyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/veri-guvenligi-krizi-iflas-eden-firmalar-yapay-zeka-sirketlerinin-radarina-girdi-1744169"
-        },
-        {
-          "title": "Satış yapacaktı, yapay zeka pazarlık yapıp alıcıyı evine gönderdi",
-          "summary": "Meta’nın yapay zeka asistanı Muse, bir kullanıcının adına pazarlık yaptı, ev adresini paylaştı ve kendisinden habersiz bir buluşma ayarladı. Kanada’nın Toronto kentinde yaşayan teknoloji içerik üreticisi Matt Robb, Facebook Marketplace’teki satış mesajlarını yönetmesi için Meta’nın yeni yapay zeka asistanı Muse’u kullanmaya başladı. Ancak asistanın bir alıcıyla fiyat konusunda anlaşarak ev adresini paylaşması ve buluşma ayarlaması, Robb’un haberi olmadan gerçekleşti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-satis-yapacakti-yapay-zeka-pazarlik-yapip-aliciyi-evine-gonderdi-1744154"
-        },
-        {
-          "title": "Servet gösterilmez yönetilir",
-          "summary": "Nefes çalışmalarıyla tanınan Nevşah Fidan Karamehmet, şimdilerde girişim ve yatırımlarıyla adından söz ettiriyor.",
-          "source": "https://www.hurriyet.com.tr/kelebek/stil/servet-gosterilmez-yonetilir-43323984"
         }
       ]
     },
