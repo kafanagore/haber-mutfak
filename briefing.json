@@ -1,51 +1,66 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-02T16:00:03.974Z",
+  "generatedAt": "2026-10-03T04:00:04.268Z",
   "categories": {
     "gundem": {
-      "text": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. MHK soruşturmasında gözaltına alınan Yasin Kol'un ilk ifadesi ortaya çıktı. 3 yaşındaki Yakup toprağa gömülü halde bulunmuştu… 14 yıllık sır cinayette baba tutuklandı. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, KKTC’de iki hastanenin açılışına katıldı. TBMM Başkanı Kurtulmuş, Bulgaristan Ulusal Meclisi Başkanvekili Sabri'yi kabul etti. Bungalovdaki skandalda savcı mütalaasını sundu | Sanıktan 'kamera bozuktu' savunması. Kaçak maden ocağında göçük: 1 ölü.",
+      "text": "Beyoğlu'nda hanutçu, değnekçi, dilenci operasyonu. Sahte belgelerle 31 milyar liralık usulsüzlük: 31 kişi tutuklandı. Ankara’da yasa dışı bahis soruşturmasında 33 tutuklama. Beyoğlu’nda denetim: 20 işletme kapatıldı, 11 kişi yakalandı. Kırıkkale Belediyesi’ne yönelik rüşvet operasyonunda 3 tutuklama. İzmir'de büyük kaçak içki operasyonu: 3 milyon 800 bin liralık kaçak içki ele geçirildi. Trump'a CAATSA yaptırımları soruldu. \"Erdoğan dostum, her zaman konuşuruz\".",
       "items": [
         {
-          "title": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi haftalık bazda yüzde 4,88, altının gram fiyatı yüzde 1,53 ve avro/TL yüzde 0,69 değer kaybederken, dolar/TL yüzde 0,14 değer kazandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsa-altin-dolar-iste-haftanin-en-cok-kazandiran-yatirim-araclari-43327645"
+          "title": "Beyoğlu'nda hanutçu, değnekçi, dilenci operasyonu",
+          "summary": "İstanbul'un kalbi Beyoğlu'nda dilencilik, hanutçuluk ve \"değnekçi\" diye tabir edilen yasa dışı otoparkçılık yapanlara yönelik denetimlerde çok sayıda kişiye ceza uygulandı. Beyoğlu İlçe Emniyet Müdürlüğü ve Turizm Şube Müdürlüğü ekipleri, yerli ve yabancı ziyaretçilerin huzur ve güvenliğinin sağlanması amacıyla turistlerin yoğun bulunduğu bölgelerdeki denetimlerini artırdı. Ekipler, dilencilik, hanutçuluk ve değnekçilik yapanları suçüstü yakaladı.",
+          "source": "https://www.ntv.com.tr/turkiye/beyoglunda-hanutcu-degnekci-dilenci-operasyonu-1744561"
         },
         {
-          "title": "MHK soruşturmasında gözaltına alınan Yasin Kol'un ilk ifadesi ortaya çıktı",
-          "summary": "Merkez Hakem Kurulu'na yönelik soruşturma kapsamında Süper Lig hakemi Yasin Kol ve Süper Lig Yardımcı Hakemi Göktuğ Hazar Erel gözaltına alındı. Yasin Kol, ilk ifadesinde bahis iddiasını reddetti. İstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Bürosu tarafından yürütülen hakemler dosyası olarak bilinen soruşturmada gözaltına alınan hakem Yasin Kol'un ifadesi ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/mhk-sorusturmasinda-gozaltina-alinan-yasin-kolun-ilk-ifadesi-ortaya-cikti-1744403"
+          "title": "Sahte belgelerle 31 milyar liralık usulsüzlük: 31 kişi tutuklandı",
+          "summary": "Kocaeli merkezli 20 ili kapsayan operasyonda, sahte belge düzenleyerek haksız vergi iadesi aldıkları öne sürülen 155 firmaya yönelik soruşturmada 52 şüpheli yakalandı. Şüphelilerden 31'i tutuklanırken, toplam işlem hacminin 31 milyar 300 milyon 142 bin 753 lira 34 kuruş olduğu belirlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sahte-belgelerle-31-milyar-liralik-usulsuzluk-31-kisi-tutuklandi-43327898"
         },
         {
-          "title": "3 yaşındaki Yakup toprağa gömülü halde bulunmuştu… 14 yıllık sır cinayette baba tutuklandı",
-          "summary": "ESKİŞEHİR’in Seyitgazi ilçesinde 2012 yılında kaybolduktan 12 gün sonra cansız bedeni toprağa gömülü halde bulunan 3 yaşındaki Yakup Bozkurt’un yeniden açılan soruşturma dosyası kapsamında gözaltına alınan babası Abdurrezzak Bozkurt tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/3-yasindaki-yakup-topraga-gomulu-halde-bulunmustu-14-yillik-sir-cinayette-baba-tutuklandi-43327641"
+          "title": "Ankara’da yasa dışı bahis soruşturmasında 33 tutuklama",
+          "summary": "ANKARA’DA yasa dışı bahis siteleri üzerinden bahis oynattıkları ve elde edilen suç gelirlerini farklı banka hesapları ile kripto para borsalarına aktardıkları belirlenen şüphelilere yönelik operasyonda gözaltına alınan 50 şüpheliden 33’ü tutuklandı, 8’i hakkında adli kontrol kararı verildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-yasa-disi-bahis-sorusturmasinda-33-tutuklama-43327897"
         },
         {
-          "title": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, KKTC’de iki hastanenin açılışına katıldı",
-          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, Kuzey Kıbrıs Türk Cumhuriyeti’nde (KKTC) Girne Devlet Hastanesi ve Güzelyurt Devlet Hastanesi’nin açılış törenine katıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-cevdet-yilmaz-kktcde-iki-hastanenin-acilisina-katildi-43327625"
+          "title": "Beyoğlu’nda denetim: 20 işletme kapatıldı, 11 kişi yakalandı",
+          "summary": "BEYOĞLU’nda dilencilik, hanutçuluk, izinsiz otoparkçılık ve eğlence mekanlarına yönelik denetimlerde çeşitli suçlardan aranan 11 kişi yakalandı. Eğlence mekanlarına yönelik çalışmalarda ise 20 işletme kapatıldı, 725 bin lira ceza uygulandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/beyoglunda-denetim-20-isletme-kapatildi-11-kisi-yakalandi-43327896"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş, Bulgaristan Ulusal Meclisi Başkanvekili Sabri'yi kabul etti",
-          "summary": "TBMM Başkanı Numan Kurtulmuş, Bulgaristan Ulusal Meclisi Başkanvekili Ayten Sabri ile Bulgaristan Hak ve Özgürlükler Hareketi heyetini kabul etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-bulgaristan-ulusal-meclisi-baskanvekili-sabriyi-kabul-etti-43327621"
+          "title": "Kırıkkale Belediyesi’ne yönelik rüşvet operasyonunda 3 tutuklama",
+          "summary": "KIRIKKALE Belediyesi İmar ve Şehircilik Müdürlüğüne yönelik 'rüşvet' operasyonunda gözaltına alınan belediye çalışanları R.Z, G.Ç. ve Ö.G., tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kirikkale-belediyesine-yonelik-rusvet-operasyonunda-3-tutuklama-43327895"
         },
         {
-          "title": "Bungalovdaki skandalda savcı mütalaasını sundu | Sanıktan 'kamera bozuktu' savunması",
-          "summary": "Sakarya'nın Sapanca ilçesinde yaşanan gizli kamera skandalı Türkiye'nin gündemine oturmuştu. Bungalovda gizli kamerayla izleme yaptıkları iddiasıyla 2 sanığın yargılandığı davada cumhuriyet savcısı, esas hakkındaki mütalaasını sundu. Sanık H.K, \"Daha önceki beyanlarımı tekrar ederim. Üzerime atılı suçlamaları kabul etmiyorum. Kameranın bozuk olduğu tespit edilmiştir, bu sebeple beraatimi talep ederim.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bungalovdaki-skandalda-savci-mutalaasini-sundu-saniktan-kamera-bozuktu-savunmasi-43327582"
+          "title": "İzmir'de büyük kaçak içki operasyonu: 3 milyon 800 bin liralık kaçak içki ele geçirildi",
+          "summary": "İzmir'de, polis ekiplerince düzenlenen operasyonda piyasa değeri yaklaşık 3 milyon 800 bin TL olan 23 bin 40 şişe sahte içki ele geçirildi, 1 şüpheli hakkında adli işlem başlatıldı. İzmir Cumhuriyet Başsavcılığı koordinesinde çalışmalarını yürüten İzmir İl Emniyet Müdürlüğü Kaçakçılık Suçlarıyla Mücadele Şube Müdürlüğü ekipleri, kent genelinde kaçak içki ticareti ve sevkiyatının önlenmesine yönelik çalışmalarına hız kesmeden devam ediyor.",
+          "source": "https://www.ntv.com.tr/turkiye/izmirde-buyuk-kacak-icki-operasyonu-3-milyon-800-bin-liralik-kacak-icki-ele-gecirildi-1744554"
         },
         {
-          "title": "Kaçak maden ocağında göçük: 1 ölü",
-          "summary": "Manisa'da dün bir maden ocağında meydana gelen göçükte 5 işçi yaşamını yitirmişti. Bir acı haber de bugün Zonguldak'tan geldi. Kaçak maden ocağında meydana gelen göçükte Muhammet Çelik (51) hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/kacak-maden-ocaginda-gocuk-1-olu-43327570"
+          "title": "Trump'a CAATSA yaptırımları soruldu. \"Erdoğan dostum, her zaman konuşuruz\"",
+          "summary": "CAATSA yaptırımları sorulan ABD Başkanı Donald Trump, \"Cumhurbaşkanı Recep Tayyip Erdoğan dostumdur, her zaman konuşuruz.\" dedi. ABD Başkanı Donald Trump, Beyaz Saray'da basın mensuplarının sorularını cevaplarken, \"Türkiye'yi seviyorum. Cumhurbaşkanı Recep Tayyip Erdoğan yakın arkadaşım.\" dedi. CAATSA yaptırımlarının kaldırılması konusunda neden gecikme yaşandığı sorulan ABD Başkanı \"Herhangi bir gecikme yok\" ifadelerini kullandı. CAATSA YAPTIRIMLARI NEDİR?",
+          "source": "https://www.ntv.com.tr/turkiye/trumpa-caatsa-yaptirimlari-soruldu-erdogan-dostum-her-zaman-konusuruz-1744547"
         }
       ]
     },
     "dunya": {
-      "text": "Gökçeada ve Bozcaada feribot seferleri iptal edildi. Trump: Avrupa stokladığı akaryakıtı serbest bırakacak. Trump, Avrupa ile dizel yakıt anlaşmasını duyurdu: Stoklar piyasa sürülecek. Husilere eş zamanlı hava saldırıları: Suudi Arabistan 7 noktayı hedef aldı. Berlin seçimlerinde oy sayım hatası tespit edildi: Mecliste sandalye sayısı değişti. Almanya’da \"Nazi müziği\" operasyonu: 2 milyon euroyu aşan 33 bin CD, plak ve kaset. Fransa'daki lise eylemlerinde 1793 kişi gözaltına alındı, çok sayıda yaralı var.",
+      "text": "İsrail’den Gazze'ye saldırı, 1'i çocuk 5 Filistinli öldü. Kölelik tartışması. Kral Charles özür dileyecek mi?. Fransa'da liseliler polisle karşı karşıya. 5 günde 5 binden fazla gözaltı. Gökçeada ve Bozcaada feribot seferleri iptal edildi. Trump: Avrupa stokladığı akaryakıtı serbest bırakacak. Trump, Avrupa ile dizel yakıt anlaşmasını duyurdu: Stoklar piyasa sürülecek. Husilere eş zamanlı hava saldırıları: Suudi Arabistan 7 noktayı hedef aldı.",
       "items": [
+        {
+          "title": "İsrail’den Gazze'ye saldırı, 1'i çocuk 5 Filistinli öldü",
+          "summary": "İsrail ordusunun ateşkese rağmen Gazze'de bir daireyi bombalaması sonucu biri kız çocuğu 5 Filistinli hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-gazzeye-saldiri-1i-cocuk-5-filistinli-oldu-43327894"
+        },
+        {
+          "title": "Kölelik tartışması. Kral Charles özür dileyecek mi?",
+          "summary": "Kral Charles'ın Karayipler turu öncesi, İngiltere'nin transatlantik köle ticaretindeki rolü tartışması alevlendi. Saray, kralın \"geçmişin en karanlık günleri\" için resmen özür dilemeyeceğini açıkladı. İngiltere Kralı 3'üncü Charles ve eşi Kraliçe Camilla, Bahamalar ve Guyana'yı ziyaret edecek. Çift daha sonra, bu yıl 1-4 Kasım tarihlerindeki İngiliz Milletler Topluluğu Hükümet Başkanları Toplantısı (CHOGM) için üzere Antigua ve Barbuda'ya geçecek.",
+          "source": "https://www.ntv.com.tr/dunya/kolelik-tartismasi-kral-charles-ozur-dileyecek-mi-1744559"
+        },
+        {
+          "title": "Fransa'da liseliler polisle karşı karşıya. 5 günde 5 binden fazla gözaltı",
+          "summary": "Fransa'da şiddetli lise eylemlerinde bugün gözaltına alınanların sayısının bin 747'ye yükseldiğini, pazartesi gününden bu yana ise 5 binden fazla kişinin gözaltına alındığını açıkladı. Fransa'da geçtiğimiz hafta öğretmen eksikliği ve eğitim şartlarına tepki olarak başlayan ve ülke geneline yayılan lise eylemlerinde gözaltı sayısı yükseliyor.",
+          "source": "https://www.ntv.com.tr/dunya/fransada-liseliler-polisle-karsi-karsiya-5-gunde-5-binden-fazla-gozalti-1744556"
+        },
         {
           "title": "Gökçeada ve Bozcaada feribot seferleri iptal edildi",
           "summary": "ÇANAKKALE’nin Gökçeada ve Bozcaada ilçelerine yarın yapılması planlanan bazı feribot seferleri iptal edildi.",
@@ -65,27 +80,17 @@
           "title": "Husilere eş zamanlı hava saldırıları: Suudi Arabistan 7 noktayı hedef aldı",
           "summary": "Suudi Arabistan'a ait savaş uçakları, Yemen'in batısında Husilerin konuşlandığı Hacce, Taiz ve Lahic vilayetlerine hava saldırıları düzenledi. Husiler, Suudi Arabistan'ın saldırılarda 7 ayrı noktayı vurduğunu belirtti.",
           "source": "https://www.hurriyet.com.tr/dunya/husilere-es-zamanli-hava-saldirilari-suudi-arabistan-7-noktayi-hedef-aldi-43327549"
-        },
-        {
-          "title": "Berlin seçimlerinde oy sayım hatası tespit edildi: Mecliste sandalye sayısı değişti",
-          "summary": "Almanya'da Berlin eyalet meclisi seçimlerinde oy sayım hatası yapıldığı ortaya çıktı. Eyalette 20 Eylül Pazar günü yapılan seçimlerdeki hata sonucu meclisteki sandalye sayısı, 158'den 153'e indirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/berlin-secimlerinde-oy-sayim-hatasi-tespit-edildi-mecliste-sandalye-sayisi-degisti-43327526"
-        },
-        {
-          "title": "Almanya’da \"Nazi müziği\" operasyonu: 2 milyon euroyu aşan 33 bin CD, plak ve kaset",
-          "summary": "Almanya’nın çeşitli eyaletlerinde ve komşu ülkelerde, Nazi dönemini öven sağcı gruba yönelik eş zamanlı operasyonlarda, toplam değeri 2 milyon euroyu aşan 33 bin CD, plak ve kaset ele geçirildi. Almanya'da aşırı sağcı örgüt ve gruplara yönelik operasyonlar bu kez müzik sektöründe faaliyet gösteren şüphelilere yönelik gerçekleştirildi.",
-          "source": "https://www.ntv.com.tr/dunya/almanyada-nazi-muzigi-operasyonu-2-milyon-euroyu-asan-33-bin-cd-plak-ve-kaset-1744519"
-        },
-        {
-          "title": "Fransa'daki lise eylemlerinde 1793 kişi gözaltına alındı, çok sayıda yaralı var",
-          "summary": "Fransa'da eğitim koşullarının iyileştirilmesi talebiyle geçen haftadan bu yana düzenlenen lise eylemlerinde 1793 kişi gözaltına alındı, çok sayıda yaralı var. Eylemler Belçika'ya da sıçramış durumda. Fransa Eğitim Bakanı Edouard Geffray, konuk olduğu France 2 kanalında lise eylemlerine ilişkin açıklamalarda bulundu. Geffray, eylemler nedeniyle 400'den fazla eğitim kurumunun bugün kapalı olacağını belirterek ilgili okullardaki öğrencilerin eğitiminin çevrim içi yapılacağını aktardı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransadaki-lise-eylemlerinde-1793-kisi-gozaltina-alindi-cok-sayida-yarali-var-1744454"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar. Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler. Mustafa Destici'den fon soruşturması açıklaması: Kim bu işe bulaştıysa hesap vermeli.",
+      "text": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar. Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler.",
       "items": [
+        {
+          "title": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi haftalık bazda yüzde 4,88, altının gram fiyatı yüzde 1,53 ve avro/TL yüzde 0,69 değer kaybederken, dolar/TL yüzde 0,14 değer kazandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsa-altin-dolar-iste-haftanin-en-cok-kazandiran-yatirim-araclari-43327645"
+        },
         {
           "title": "Bitcoin yeniden 86 bin doların üzerine çıktı",
           "summary": "Küresel kripto para piyasasının toplam değeri son 24 saatte yüzde 2,27 artarak 2 trilyon 930 milyar dolara yükselirken, bitcoin haftalık yüzde 2,6 değer kazandı. Kripto para piyasasında hareketlilik sürerken, bitcoinin fiyatı eylül ayındaki güçlü toparlanma ve ekim ayına yönelik tarihsel yükseliş beklentilerinin etkisiyle yeniden 86 bin doların üzerine çıktı.",
@@ -115,57 +120,62 @@
           "title": "Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,53 değer kazanarak 12.249,04 puandan tamamladı.",
           "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-iste-en-cok-deger-kazanan-sektorler-43326434"
-        },
-        {
-          "title": "Mustafa Destici'den fon soruşturması açıklaması: Kim bu işe bulaştıysa hesap vermeli",
-          "summary": "Büyük Birlik Partisi (BBP) Genel Başkanı Mustafa Destici, fon piyasasına yönelik soruşturmalarla ilgili, \"Dileğimiz kim bu işe bulaştıysa, organize ettiyse, bile isteye kim bu işin içinde olanlar mutlaka hukuk önünde hesap vermeli\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mustafa-desticiden-fon-sorusturmasi-aciklamasi-kim-bu-ise-bulastiysa-hesap-vermeli-43326059"
         }
       ]
     },
     "spor": {
-      "text": "Gözaltına alınan hakem Yasin Kol İstanbul’da sağlık kontrolünden geçirildi. Sultanlar Ligi'nde sezon başlıyor. Fred'den transfer itirafı!. Fenerbahçe arsaVev'nin Kadınlar Avrupa Kupası'ndaki rakibi belli oldu. Belçika - Türkiye maçlarında goller karşılıklı geliyor! İşte Misli’den günün tüyoları. İngiltere Futbol Federasyonu'ndan Manchester City açıklaması. İşte Yasin Kol'un Beşiktaş, Fenerbahçe, Galatasaray ve derbi maç karnesi!.",
+      "text": "Mark van Bommel: 'Türkiye elinden gelenin fazlasını yaptı!'. Edin Dzeko, Bosna Hersek Milli Takımı'na veda etti!. Romelu Lukaku'dan Fenerbahçe açıklaması: 'Yerimi kazanmak için döneceğim!'. Sarunas Jasikevicius: 'Savunmada iyi duruş sergiledik!'. Dusan Alimpijevic: 'Bir şeyleri oturtmak için zaman gerekiyor!'. Fransa 1-1 İtalya (UEFA Uluslar Ligi). Vincenzo Montella: 'Kimsenin suçu yok, deneyim kazanıyoruz'.",
       "items": [
         {
-          "title": "Gözaltına alınan hakem Yasin Kol İstanbul’da sağlık kontrolünden geçirildi",
-          "summary": "Merkez Hakem Kurulu'na (MHK) yönelik yürütülen soruşturma kapsamında Trabzon'da gözaltına alınan Süper Lig hakemi Yasin Kol İstanbul'a getirildi. Kol, emniyete götürülmeden önce sağlık kontrolünden geçirildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gozaltina-alinan-hakem-yasin-kol-istanbulda-saglik-kontrolunden-gecirildi-43327616"
+          "title": "Mark van Bommel: 'Türkiye elinden gelenin fazlasını yaptı!'",
+          "summary": "UEFA Uluslar A Ligi 1. Grup üçüncü maçında sahasında Türkiye'yi 3-0 mağlup eden Belçika'nın teknik direktörü Mark van Bommel, Türkiye'nin elinden geleni yaptığını ancak kendilerinin iyi oynayarak galip geldiklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mark-van-bommel-turkiye-elinden-gelenin-fazlasini-yapti-43327845"
         },
         {
-          "title": "Sultanlar Ligi'nde sezon başlıyor",
-          "summary": "Voleybolda Sultanlar Ligi'nde 2026-27 sezonu yarınki maçlarla başlıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sultanlar-liginde-sezon-basliyor-43327535"
+          "title": "Edin Dzeko, Bosna Hersek Milli Takımı'na veda etti!",
+          "summary": "Bosna Hersek'in \"yaşayan efsanesi\" olarak bilinen ve Boşnaklar tarafından \"Elmas\" olarak isimlendirilen Edin Dzeko, milli takımla son kez sahaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/edin-dzeko-bosna-hersek-milli-takimina-veda-etti-43327844"
         },
         {
-          "title": "Fred'den transfer itirafı!",
-          "summary": "Fred, Fenerbahçe'den Atletico Mineiro'ya transfer sürecine dair dikkat çeken açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fredden-transfer-itirafi-43327475"
+          "title": "Romelu Lukaku'dan Fenerbahçe açıklaması: 'Yerimi kazanmak için döneceğim!'",
+          "summary": "Fenerbahçe'nin Belçikalı santraforu Romelu Lukaku, Türkiye maçının ardından açıklamalarda bulundu. Lukaku, \"milli takımdaki yerimi kazanmak için Fenerbahçe’ye geri döneceğim.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/romelu-lukakudan-fenerbahce-aciklamasi-yerimi-kazanmak-icin-donecegim-43327837"
         },
         {
-          "title": "Fenerbahçe arsaVev'nin Kadınlar Avrupa Kupası'ndaki rakibi belli oldu",
-          "summary": "Fenerbahçe arsaVev, UEFA Kadınlar Avrupa Kupası'nda Real Sociedad ile eşleşti",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-arsavevnin-kadinlar-avrupa-kupasindaki-rakibi-belli-oldu-43327445"
+          "title": "Sarunas Jasikevicius: 'Savunmada iyi duruş sergiledik!'",
+          "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 3. haftasında ağırladığı Birleşik Arap Emirlikleri temsilcisi Dubai Basketbol'u 76-66 mağlup eden Fenerbahçe Tarfin'de başantrenör Sarunas Jasikevicius, özellikle 4. periyotta çok iyi performans sergilediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sarunas-jasikevicius-savunmada-iyi-durus-sergiledik-43327835"
         },
         {
-          "title": "Belçika - Türkiye maçlarında goller karşılıklı geliyor! İşte Misli’den günün tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/belcika-turkiye-maclarinda-goller-karsilikli-geliyor-iste-misliden-gunun-tuyolari-43327407"
+          "title": "Dusan Alimpijevic: 'Bir şeyleri oturtmak için zaman gerekiyor!'",
+          "summary": "Basketbol Avrupa Ligi'nin 3. haftasında Barcelona'ya 95-82 yenilen Beşiktaş'ta başantrenör Dusan Alimpijevic, zamana ihtiyaçları olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dusan-alimpijevic-bir-seyleri-oturtmak-icin-zaman-gerekiyor-43327832"
         },
         {
-          "title": "İngiltere Futbol Federasyonu'ndan Manchester City açıklaması",
-          "summary": "İngiltere Futbol Federasyonu (FA), İngiliz ekibi Manchester City hakkında bağımsız komisyon tarafından verilen kararla ilgili süreci yakından takip ettiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ingiltere-futbol-federasyonundan-manchester-city-aciklamasi-43327379"
+          "title": "Fransa 1-1 İtalya (UEFA Uluslar Ligi)",
+          "summary": "Türkiye'nin de yer aldığı UEFA Uluslar A Ligi 1. Grup'un üçüncü maçında Fransa, sahasında karşılaştığı İtalya ile 1-1 berabere kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fransa-1-1-italya-uefa-uluslar-ligi-43327831"
         },
         {
-          "title": "İşte Yasin Kol'un Beşiktaş, Fenerbahçe, Galatasaray ve derbi maç karnesi!",
-          "summary": "Trabzonspor'un Drogheda United ile oynadığı hazırlık karşılaşmasının ardından gözaltına alınan Süper Lig hakemi Yasin Kol, son yıllarda yönettiği karşılaşmalarla dikkat çekti. İşte Yasin Kol'un yönettiği maçlarda Beşiktaş, Fenerbahçe ve Galatasaray'ın aldığı sonuçlar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/iste-yasin-kolun-besiktas-fenerbahce-galatasaray-ve-derbi-mac-karnesi-43327325"
+          "title": "Vincenzo Montella: 'Kimsenin suçu yok, deneyim kazanıyoruz'",
+          "summary": "A Milli Takım Teknik Direktörü Vincenzo Montella, Belçika'ya 3-0 yenildikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-montella-kimsenin-sucu-yok-deneyim-kazaniyoruz-43327830"
         }
       ]
     },
     "teknoloji": {
-      "text": "Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi. Avrupa'dan ABD ve Çin'e karşı yapay zeka hamlesi. Dev tesis üretime geçti. Uzaydayken 3'üncü kez baba olacak. Türkiye’nin dijital geleceğine global yatırım. Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor. ‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi. Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir.",
+      "text": "Bill Gates'ten yapay zeka uyarısı: Evcil hayvana döneriz. Teknofest'te renkli görüntüler. İnsansı robot halay çekti. Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi. Avrupa'dan ABD ve Çin'e karşı yapay zeka hamlesi. Dev tesis üretime geçti. Uzaydayken 3'üncü kez baba olacak. Türkiye’nin dijital geleceğine global yatırım. Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor.",
       "items": [
+        {
+          "title": "Bill Gates'ten yapay zeka uyarısı: Evcil hayvana döneriz",
+          "summary": "\"Yapay zeka insanlığın sonunu mu hazırlıyor?\" sorusunu yanıtlayan Microsoft’un kurucu ortağı Bill Gates, felaket senaryosu çizdi. Teknoloji devi Microsoft'un kurucusu Bill Gates, New York Times'a verdiği röportajda yapay zekanın yol açabileceği tehlikenin boyutuna dikkat çekti. Gates, gerekli önlemler alınmazsa biyolojik, siber ve psikososyal risklerin, yapay zekanın sağlayacağı faydalardan çok daha hızlı yayılabileceği uyarısında bulundu.",
+          "source": "https://www.ntv.com.tr/teknoloji/bill-gatesten-yapay-zeka-uyarisi-evcil-hayvana-doneriz-1744560"
+        },
+        {
+          "title": "Teknofest'te renkli görüntüler. İnsansı robot halay çekti",
+          "summary": "Teknofest’in adresi Şanlıurfa olunca insansı robot da geleneğe uydu. Çiğ köfte yoğurdu,, katıldığı sıra gecesinde türkü eşliğinde mendil sallayıp halay çekti.",
+          "source": "https://www.ntv.com.tr/teknoloji/video-teknofestte-renkli-goruntuler-insansi-robot-halay-cekti-1744557"
+        },
         {
           "title": "Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi",
           "summary": "Amazon Web Services, yapay zeka veri merkezlerinin su ve elektrik tüketimine yönelik tepkileri dindirmek amacıyla yerel topluluklara 1 milyar doları aşkın kaynak aktaracağını duyurdu. Yapay zeka modellerini eğitmek ve çalıştırmak için gereken bilgi işlem gücünü sağlayan veri merkezleri, ABD genelinde elektrik talebi, fatura artışları ve yerel altyapı üzerindeki etkileri nedeniyle tepki topluyor.",
@@ -190,16 +200,6 @@
           "title": "Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor",
           "summary": "Dünya'nın derinliklerindeki katı iç çekirdek ile kayalık manto arasındaki yerçekimsel çekişme, gezegenin 24 saatlik dönüş hızında milisaniyelik oynamalar yaratıyor. Yerkürenin derinliklerinde süregelen fiziksel kuvvet mücadelesi, yüzeydeki zaman algısını doğrudan etkiliyor. Bilim dergisi Nature'da yayımlanan yeni bir araştırma, Dünya'nın 24 saatlik gün süresinde meydana gelen milisaniyelik oynamaların gezegenin metalik çekirdeğindeki hareketlerden kaynaklandığını ortaya koydu.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-dunyanin-derinliklerindeki-gorunmez-cekisme-gunler-uzuyor-1744268"
-        },
-        {
-          "title": "‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda kazananlara ödülleri verildi",
-          "summary": "Turkcell’in T3 Vakfı iş birliğiyle düzenlediği ‘5G ve Yapay Zekâ ile Akıllı Yol Güvenliği Yarışması’nda dereceye giren takımların ödülleri de verildi.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/5g-ve-yapay-zeka-ile-akilli-yol-guvenligi-yarismasinda-kazananlara-odulleri-verildi-43325047"
-        },
-        {
-          "title": "Canlı kaslarla çalışan yüzücü robot geliştirildi. Hassas ortamların yeni keşif aracı olabilir",
-          "summary": "Massachusetts Teknoloji Enstitüsü (MIT) mühendisleri, canlı kas hücrelerinin hareketiyle yüzebilen küçük bir robot geliştirdi. Suda hareket etmek, havada hareket etmeye göre daha fazla kuvvet gerektiriyor. Ancak MIT mühendislerinin geliştirdiği yeni robot, uygun bir tasarımla tek katmanlı kas hücrelerinin bile yüzmek için yeterli güç üretebildiğini gösterdi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-canli-kaslarla-calisan-yuzucu-robot-gelistirildi-hassas-ortamlarin-yeni-kesif-araci-olabilir-1744188"
         }
       ]
     },
@@ -244,8 +244,14 @@
       ]
     },
     "magazin": {
-      "text": "",
-      "items": []
+      "text": "Düğün sonrası ilk görüntü.",
+      "items": [
+        {
+          "title": "Düğün sonrası ilk görüntü",
+          "summary": "Ünlü şarkıcı Zeynep Bastık, 2 Eylül’de nikâh masasına oturduğu Serkay Tütüncü ile önceki gün Çeşme’de özel bir plajda görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/kelebek/hayat/dugun-sonrasi-ilk-goruntu-43297613"
+        }
+      ]
     }
   }
 }
