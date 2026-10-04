@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-04T10:00:03.905Z",
+  "generatedAt": "2026-10-04T16:00:03.872Z",
   "categories": {
     "gundem": {
-      "text": "Karabük'te üzücü olay: Mantar toplamak için ormana giden adamdan acı haber geldi. Fon soruşturmasında yeni gelişme. Eski SPK Başkanı için soruşturma izni istendi. TBMM, çalışmalarına başlıyor: Türk Kızılay Kanunu Teklifi ele alınacak. Felsefenin öncü ismi Prof. Dr. İoanna Kuçuradi'ye veda. Denizolgun soruşturmasında şok gelişme: Otopsi görüntülerine \"yok\" diyen 3 Adli Tıp görevlisine hapis istemi. Eski bakan Denizolgun'un ölümüne iki ayrı iddianame. Otopsi videosu fethi kabir günü ortaya çıktı. BEDAŞ saat verip uyardı, 8 saat sürecek. İstanbul'un 21 ilçesinde elektrik kesintisi yaşanacak.",
+      "text": "24 dakikada 3 sarsıntı. Adana ve Osmaniye'de peş peşe depremler. Son dakika... AK Parti Sözcüsü Çelik'ten önemli açıklamalar. Mehmetçik'ten 'deprem tatbikatı'. El değmeden üretiliyor, 1 kilogramı 400 bin liraya satıldı. Kültür Yolu Festivali’nde 'esnek soğuk porselen atölyesi' yapıldı. Konya'da yağmur kazası: Otomobil şarampole uçtu, aynı aileden 5 kişi yaralandı. Bakan Tekin'den YKS açıklaması. \"Sınavın ne sistemi değişecek ne usulü\".",
       "items": [
         {
-          "title": "Karabük'te üzücü olay: Mantar toplamak için ormana giden adamdan acı haber geldi",
-          "summary": "Karabük'te mantar toplamak amacıyla evinden ayrılan ve haber alınamayan 59 yaşındaki Gökmen Çemek, ormanda ölü olarak bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/karabukte-uzucu-olay-mantar-toplamak-icin-ormana-giden-adamdan-aci-haber-geldi-43329118"
+          "title": "24 dakikada 3 sarsıntı. Adana ve Osmaniye'de peş peşe depremler",
+          "summary": "Adana'nın Saimbeyli ilçesinde 4,8 ve 4,9'luk, Osmaniye'nin Sumbas ilçesinde ise 5,2 büyüklüğünde deprem oldu. Uzmanlara göre bu depremler, 6 Şubat depremlerinin etkisi. Osmaniye ve Adana'da peş peşe depremler meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığından (AFAD) yapılan açıklamaya göre Adana'nın Saimbeyli ilçesinde saat 14.19'da 4.8 büyüklüğünde deprem kaydedildi. 7,9 kilometre derinlikte gerçekleşen depremden 17 dakika sonra 4,9 büyüklüğünde bir deprem daha meydana geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/24-dakikada-3-sarsinti-adana-ve-osmaniyede-pes-pese-depremler-1744783"
         },
         {
-          "title": "Fon soruşturmasında yeni gelişme. Eski SPK Başkanı için soruşturma izni istendi",
-          "summary": "Eski SPK Başkanı İbrahim Ömer Gönül hakkında Hazine ve Maliye Bakanlığı'ndan soruşturma izni istendi. Savcılık, Gönül görevini yerine getirmemekle suçlandı. İstanbul Cumhuriyet Başsavcılığı Aklama Suçları Soruşturma Bürosu, fon soruşturması kapsamında yeni bir adım attı.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-eski-spk-baskani-icin-sorusturma-izni-istendi-1744759"
+          "title": "Son dakika... AK Parti Sözcüsü Çelik'ten önemli açıklamalar",
+          "summary": "AK Parti Sözcüsü Ömer Çelik, Osmaniye ve Adana'da meydana gelen depremler sonrası açıklamalarda bulunuyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-ak-parti-sozcusu-celikten-onemli-aciklamalar-43329493"
         },
         {
-          "title": "TBMM, çalışmalarına başlıyor: Türk Kızılay Kanunu Teklifi ele alınacak",
-          "summary": "TBMM Genel Kurulu'nda, Türk Kızılay Derneğinin görev alanına giren faaliyetleri daha etkin bir yapıda yürütebilmesi için görev ve yetkileriyle hak ve muafiyetleri düzenleyen Türk Kızılay Kanunu Teklifi görüşülecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-calismalarina-basliyor-turk-kizilay-kanunu-teklifi-ele-alinacak-43329087"
+          "title": "Mehmetçik'ten 'deprem tatbikatı'",
+          "summary": "Milli Savunma Bakanlığı, Erzincan'da 3’üncü Ordu Komutanlığı tarafından ‘Deprem Tatbikatı’ gerçekleştirildiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/mehmetcikten-deprem-tatbikati-43329487"
         },
         {
-          "title": "Felsefenin öncü ismi Prof. Dr. İoanna Kuçuradi'ye veda",
-          "summary": "89 yaşında hayatını kaybeden filozof Prof. Dr. İoanna Kuçuradi için Maltepe Üniversitesi'nde cenaze töreni düzenleniyor. Türkiye Felsefe Kurumu Başkanı ve Dünya Felsefe Kuruluşları Federasyonu Onursal Başkanı olan İoanna Kuçuradi, tedavi gördüğü Maltepe Üniversitesi Tıp Fakültesi Eğitim ve Araştırma Hastanesi’nde Cuma günü hayatını kaybetti. 90'ıncı yaşına girmeye hazırlanan Kuçuradi, 10 Ekim'de Sarıyer Boğaziçi Kültür Merkezi'ndeki düzenlenecek programla öğrencileri ve sevenleriyle yeni yaşına girecekti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-felsefenin-oncu-ismi-prof-dr-ioanna-kucuradiye-veda-1744745"
+          "title": "El değmeden üretiliyor, 1 kilogramı 400 bin liraya satıldı",
+          "summary": "Batman'ın Sason ilçesinde doğal ortamda, el değmeden üretilen ve Sason'a özgü tescilli balın 1 kilogramı, açık artırmada tam 400 bin liraya alıcı buldu. Batman'ın Sason ilçesinde Bal, Ceviz ve Çilek Festivali'nin bu yıl dördüncüsü düzenlendi. İlçe merkezinde düzenlenen festivale yaklaşık 170 bin kişi katılırken, etkinlik boyunca yöresel ürünler ziyaretçilerin beğenisine sunuldu. Festivalin en dikkat çeken anı ise Sason'un doğal ortamında üretilen tescilli balın açık artırmayla satışa çıkarılması oldu.",
+          "source": "https://www.ntv.com.tr/turkiye/el-degmeden-uretiliyor-1-kilogrami-400-bin-liraya-satildi-1744811"
         },
         {
-          "title": "Denizolgun soruşturmasında şok gelişme: Otopsi görüntülerine \"yok\" diyen 3 Adli Tıp görevlisine hapis istemi",
-          "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un şüpheli ölümüne ilişkin dosyada, ellerinde video kayıtları olduğu halde savcılığa gerçeğe aykırı cevap verdikleri belirlenen 3 kamu görevlisi hakkında resmi belgede sahtecilik suçundan dava açıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/denizolgun-sorusturmasinda-sok-gelisme-otopsi-goruntulerine-yok-diyen-3-adli-tip-gorevlisine-hapis-istemi-43329069"
+          "title": "Kültür Yolu Festivali’nde 'esnek soğuk porselen atölyesi' yapıldı",
+          "summary": "Kültür ve Turizm Bakanlığınca düzenlenen Türkiye Kültür Yolu Festivali'nin İstanbul durağında Esnek Soğuk Porselen Atölyesi gerçekleştirildi. Çınar Uluslararası Kültür ve Sanat Derneği’nin Rami Kütüphanesi’nde düzenlediği atölyeyi esnek soğuk porselen sanatçısı Fatoş Sarpkaya yönetti. Etkinlikte Sarpkaya’nın esnek soğuk porselenden hazırladığı eserler de sergilendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kultur-yolu-festivalinde-esnek-soguk-porselen-atolyesi-yapildi-43329457"
         },
         {
-          "title": "Eski bakan Denizolgun'un ölümüne iki ayrı iddianame. Otopsi videosu fethi kabir günü ortaya çıktı",
-          "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un 7 Eylül 2016’da Beykoz’daki çiftliğinde ölü bulunmasına ilişkin yürütülen soruşturmada 10 yıl sonra iki kritik iddianame hazırlandı. Bakırköy Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosu, bir dosyada İstanbul Adli Tıp Kurumunda görevli İsmail Çoban, Çağdaş Köse ve Samet Çalışkan hakkında “kamu görevlisinin resmî belgede sahteciliği”, diğer dosyada ise Denizolgun’un olay tarihinde özel doktoru olduğu belirtilen Nurettin Demirkol hakkında “yalan tanıklık” suç",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-eski-bakan-denizolgunun-olumune-iki-ayri-iddianame-otopsi-videosu-fethi-kabir-gunu-ortaya-cikti-1744750"
+          "title": "Konya'da yağmur kazası: Otomobil şarampole uçtu, aynı aileden 5 kişi yaralandı",
+          "summary": "Seydişehir ilçesinde Hasan Uluışık yönetimindeki otomobilin yağışlı havada kontrolden çıkarak şarampole yuvarlandığı kazada 2 kişi sıkıştıkları yerden itfaiye ekiplerince kurtarıldı. Yaralanan 5 kişi hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/konyada-yagmur-kazasi-otomobil-sarampole-uctu-ayni-aileden-5-kisi-yaralandi-43329435"
         },
         {
-          "title": "BEDAŞ saat verip uyardı, 8 saat sürecek. İstanbul'un 21 ilçesinde elektrik kesintisi yaşanacak",
-          "summary": "İstanbul'da yaşayan milyonlarca vatandaş yarın elektrik kesintisiyle güne uyanacak. BEDAŞ tarafından yayımlanan son planlı kesinti programına göre tam 21 ilçede elektrik kesintisi yaşanacak. Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ) tarafından yayımlanan 5 Ekim tarihli elektrik kesintisi programından tam 21 ilçe etkilenecek. Avrupa Yakası'nda yaşayan ve elektrik kesintilerinin hangi ilçelerde yaşanacağını merak eden vatandaşlar, BEDAŞ'ın yayımladığı ayrıntılı kesinti programını sorguluyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bedas-saat-verip-uyardi-8-saat-surecek-istanbulun-21-ilcesinde-elektrik-kesintisi-yasanacak-1744753"
+          "title": "Bakan Tekin'den YKS açıklaması. \"Sınavın ne sistemi değişecek ne usulü\"",
+          "summary": "Öğrencilerin sorularını yanıtlayan Milli Eğitim Bakanı Yusuf Tekin, Yükseköğretim Kurumları Sınavı'nda bir değişiklik olmayacağını söyledi. Bakanlıktan yapılan açıklamaya göre, Tekin, \"Haberimiz Olsun\" projesinde pilot okul olan Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesini ziyaret etti. Öğrencilerin stüdyo ortamında kendilerinin hazırlayıp sunduğu bültene konuk olan Tekin, gençlerin yönelttiği soruları yanıtladı.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-tekinden-yks-aciklamasi-sinavin-ne-sistemi-degisecek-ne-usulu-1744804"
         }
       ]
     },
     "dunya": {
-      "text": "Rusya Ukrayna'nın askeri yük gemisini hedef aldı. Tayvan'da bir dükkan alevler içinde kaldı: Bir aile yok oldu. İran, diplomatlarının ABD'den sınır dışı edildiği iddiasını yalanladı. ABD basınından gündemi sarsacak iddia: Trump savaş için tarih verdi! İran'dan Hürmüz Boğazı'nın açılması için 7 şart. İran Meclis Başkanı: Sunduğumuz 7 şart uygulanmadıkça Hürmüz Boğazı açılmayacak. Eski İsrail Başbakanı Barak, Netanyahu'nun kanlı planını anlattı: Seçimi erteletmek için savaş çıkaracak. Zelenski açıkladı. Rusya’nın ''yeni doktrini''ne karşı petrol rafinerileri daha çok hedef alınacak.",
+      "text": "Fransa'da lise eylemleri. 500 okulda yarın eğitime ara verilecek. Yemen hükümeti Husilere geniş çaplı operasyon başlattı. İsrail muhalefetinden Netanyahu'ya Flydubai suçlaması. Almanya'da küçük uçağın düşmesi sonucu 2 kişi hayatını kaybetti. Brezilya'da halk, devlet başkanı seçimi için sandık başına gitti. Mekke İttifakı Riyad'da toplanıyor. Letonya'da genel seçim sonuçları açıklandı.",
       "items": [
         {
-          "title": "Rusya Ukrayna'nın askeri yük gemisini hedef aldı",
-          "summary": "Moskova yönetimi, Odessa limanına yakın bir bölgede Ukrayna ordusunun askeri malzeme tedariğinde kullanılan bir gemiye saldırdığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusya-ukraynanin-askeri-yuk-gemisini-hedef-aldi-43329065"
+          "title": "Fransa'da lise eylemleri. 500 okulda yarın eğitime ara verilecek",
+          "summary": "Fransa'da günlerdir devam eden lise eylemleri yer yer şiddet olaylarına sahne olurken hasar gören yaklaşık 500 okulda yarın eğitime ara verileceği bildirildi. Fransa Eğitim Bakanı Edouard Geffray, France 2 ve France Inter kanallarında katıldığı programda, eğitim koşullarının iyileştirilmesi ve personel sayısının artırılması talebiyle liselilerin günlerdir sürdürdüğü eylemleri değerlendirdi.",
+          "source": "https://www.ntv.com.tr/dunya/fransada-lise-eylemleri-500-okulda-yarin-egitime-ara-verilecek-1744809"
         },
         {
-          "title": "Tayvan'da bir dükkan alevler içinde kaldı: Bir aile yok oldu",
-          "summary": "Tayvan'da inşaat malzemeleri satan bir dükkanda yangın çıktı. Dükkanda mahsur kalan aynı aileden 4 kişinin yaşamını yitirdiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/tayvanda-bir-dukkan-alevler-icinde-kaldi-bir-aile-yok-oldu-43329061"
+          "title": "Yemen hükümeti Husilere geniş çaplı operasyon başlattı",
+          "summary": "Yemen Başkanlık Konseyi Başkanı Reşad Muhammed el-Alimi, İran desteili Husilerin kontrolündeki yerleri geri almak için geniş kapsamlı askeri operasyon başlattıklarını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/yemen-hukumeti-husilere-genis-capli-operasyon-baslatti-43329448"
         },
         {
-          "title": "İran, diplomatlarının ABD'den sınır dışı edildiği iddiasını yalanladı",
-          "summary": "New York'taki Birleşmiş Milletler (BM) Genel Kurulu'na katılan iki İranlı diplomatın sınır dışı edildiği haberlerinin gerçeği yansıtmadığını belirten İran Dışişleri Bakanı Abbas Arakçi, \"ABD'nin çaresizlikten yalan söylediğini öne sürdü. Arakçi, diplomatların ABD tarafından ülkeden ayrılmaları istenen sürede ayrılmadıkları iddiasının doğru olmadığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-diplomatlarinin-abdden-sinir-disi-edildigi-iddiasini-yalanladi-43329050"
+          "title": "İsrail muhalefetinden Netanyahu'ya Flydubai suçlaması",
+          "summary": "İsrail'de ana muhalefet lideri Yair Lapid, Dubai-Tel Aviv seferini yaparken Suudi Arabistan'a acil iniş yapan Flydubai uçağındaki olaydan Binyamin Netanyahu hükümetinin sorumlu olduğunu belirtti. Lapid, İsraillilerin mevcut hükümet döneminde hayatta kalabilmesinin bir mucize olduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-muhalefetinden-netanyahuya-flydubai-suclamasi-43329399"
         },
         {
-          "title": "ABD basınından gündemi sarsacak iddia: Trump savaş için tarih verdi! İran'dan Hürmüz Boğazı'nın açılması için 7 şart",
-          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD'nin Tahran yönetimine yeni bir teklif ilettiğini iddia etti. İran'ın Katar arabuluculuğunda ABD'ye yaptığı teklife ilişkin değerlendirmede bulunan Kalibaf, \"İran'ın sunduğu 7 şart uygulanmadıkça Hürmüz Boğazı açılmayacak.\" diye konuştu. ABD basını, Başkan Donald Trump'ın kabine üyeleriyle toplantısında İran savaşının \"büyük olasılıkla\" yeniden başlayacağı tarihi açıkladığını öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-basinindan-gundemi-sarsacak-iddia-trump-savas-icin-tarih-verdi-irandan-hurmuz-bogazinin-acilmasi-icin-7-sart-43328973"
+          "title": "Almanya'da küçük uçağın düşmesi sonucu 2 kişi hayatını kaybetti",
+          "summary": "Almanya'nın Baden-Württemberg eyaletindeki Heilbronn ilçesinde, küçük uçağın düşmesi sonucu 2 kişi yaşamını yitirdi. Güney Batı Radyo Televizyon Kurumunun (SWR) Alman polisine dayandırdığı habere göre, kaza, Gundelsheim kentinin kuzeyindeki Hofgut Hohschön bölgesinde meydana geldi. Polisin ilk belirlemelerine göre, uçaktaki 2 kişi kazada hayatını kaybetti. Uçakta başka kimsenin bulunmadığı bilgisi paylaşıldı. Kaza sonrası uçak alev alırken, çıkan yangın itfaiye ekiplerince söndürüldü.",
+          "source": "https://www.ntv.com.tr/dunya/almanyada-kucuk-ucagin-dusmesi-sonucu-2-kisi-hayatini-kaybetti-1744799"
         },
         {
-          "title": "İran Meclis Başkanı: Sunduğumuz 7 şart uygulanmadıkça Hürmüz Boğazı açılmayacak",
-          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ülkesinin Katar arabuluculuğunda ABD'ye ilettiği teklife ilişkin, \"İran'ın sunduğu 7 şart uygulanmadıkça Hürmüz Boğazı açılmayacak.\" dedi. İran resmi haber ajansı IRNA'ya göre, Kalibaf, Meclisin basına açık oturumunda gündeme ilişkin değerlendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/iran-meclis-baskani-sundugumuz-7-sart-uygulanmadikca-hurmuz-bogazi-acilmayacak-1744739"
+          "title": "Brezilya'da halk, devlet başkanı seçimi için sandık başına gitti",
+          "summary": "Brezilya'da halk, devlet başkanının yanı sıra eyalet valileri, Kongre üyeleri ve eyalet meclisi üyelerini belirlemek üzere sandık başına gitti. Brezilya'da yaklaşık 159 milyon seçmen, yerel saatle 08.00'de sandık başına gitti. Yerel saatle 17.00'de bitecek oy verme işlemi sonucunda seçmenler, yeni devlet başkanını belirleyecek. Devlet Başkanlığı yarışında, mevcut Devlet Başkanı Luiz Inacio Lula da Silva ile sağın adayı eski Devlet Başkanı Jair Bolsonaro'nun oğlu Senatör Flavio Bolsonaro öne çıkıyor.",
+          "source": "https://www.ntv.com.tr/dunya/brezilyada-halk-devlet-baskani-secimi-icin-sandik-basina-gitti-1744796"
         },
         {
-          "title": "Eski İsrail Başbakanı Barak, Netanyahu'nun kanlı planını anlattı: Seçimi erteletmek için savaş çıkaracak",
-          "summary": "Eski İsrail Başbakanı Ehud Barak, Başbakan Binyamin Netanyahu'yu 27 Ekim'de yapılacak genel seçimleri erteletebilecek bir savaşın zeminini hazırlamakla suçladı. Barak, \"Netanyahu seçimleri erteleyecek şekilde savaşa gitmek için altyapıyı hazırlıyor\" dedi. Netanyahu ise seçim öncesi olası saldırılara karşı uyarıda bulunarak Flydubai olayının faillerine ağır bedel ödeteceğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/eski-israil-basbakani-barak-netanyahunun-kanli-planini-anlatti-secimi-erteletmek-icin-savas-cikaracak-43328936"
+          "title": "Mekke İttifakı Riyad'da toplanıyor",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Mekke Ortak Savunma Anlaşması kapsamında tesis edilen Stratejik Siyasi ve Savunma Komitesi'nin yarın Suudi Arabistan'ın başkenti Riyad'da düzenlenecek toplantısına iştirak edecek. Fidan'ın uluslararası ticaret yollarında seyrüsefer serbestisinin ve güvenliğinin sağlanmasının önemini bir kez daha vurgulaması ve İsrail'in bölgede barış ve istikrarın sağlanmasına yönelik çabaları hedef almaya devam ettiğine dikkati çekmesi öngörülüyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/mekke-ittifaki-riyadda-toplaniyor-43329321"
         },
         {
-          "title": "Zelenski açıkladı. Rusya’nın ''yeni doktrini''ne karşı petrol rafinerileri daha çok hedef alınacak",
-          "summary": "Ukrayna Devlet Başkanı Zelenski, Moskova'nın yeni bir stratejiye geçtiğini savunarak, buna Rus petrol rafinerilerine yönelik saldırıları artırarak karşılık vereceklerini söyledi. Ukrayna Devlet Başkanı Volodimir Zelenski, Ukrayna istihbaratının Rusya Devlet Başkanı Vladimir Putin’in kış öncesinde çok daha geniş bir hedef yelpazesine saldırılmasına izin veren ''yeni bir doktrin'' benimsediğini gösteren belgelere ulaştığını öne sürdü.",
-          "source": "https://www.ntv.com.tr/dunya/zelenski-acikladi-rusyanin-yeni-doktrinine-karsi-petrol-rafinerileri-daha-cok-hedef-alinacak-1744725"
+          "title": "Letonya'da genel seçim sonuçları açıklandı",
+          "summary": "Baltık ülkesi Letonya'da dün yapılan genel seçimleri, Başbakan Andris Kulbergs liderliğindeki Birleşik Liste (AS) kazandı. Seçimlere katılım oranının yüzde 51,8 olduğu bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/letonyada-genel-secim-sonuclari-aciklandi-43329313"
         }
       ]
     },
@@ -124,52 +124,67 @@
       ]
     },
     "spor": {
-      "text": "Milli yıldız için 100 milyon Euro!. Serdal Adalı, oyunu kullandı. Serdal Adalı: 'Rakiplerimizin 1-2 oyuncuya verdiği yıllık ücretlere biz takım kurduk!'. İstanbul’da Pazar Programı Dopdolu! İşte Misli’den Günün Altılı Analizi…. Portekiz, Norveç'i ağırlıyor! Maçın heyecanı Misli'de yaşanacak. Valeriy Karpin'den Aleksey Batrakov açıklaması: 'Galatasaray'da kendine yer bulmasını umuyoruz!'. MotoGP'de Japonya Grand Prix'sini Marc Marquez kazandı.",
+      "text": "Beşiktaş'ta Serdal Adalı yeniden başkanlığa seçildi!. Beşiktaş Yönetim Kurulu Üyesi Mete Düren: 'Bunu bir güven oylaması gibi görmek lazım!'. Fenerbahçe Tarfin evinde Körfez Basket’i mağlup etti!. 9. Uluslararası Bodrum Yarı Maratonu tamamlandı. Galatasaray Çağdaş Faktoring, sezona galibiyetle başladı!. Fred, eski hocasına patladı! 'Tam bir pislikti'. Sofoklis Schortsanitis’ten Ergin Ataman açıklaması: ‘Oyunculara karşı davranış şeklini sevmiyorum!’.",
       "items": [
         {
-          "title": "Milli yıldız için 100 milyon Euro!",
-          "summary": "A Milli Futbol Takımı'mızın yıldız ismi için İtalyan basını dev transfer haberine yer verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/milli-yildiz-icin-100-milyon-euro-43329072"
+          "title": "Beşiktaş'ta Serdal Adalı yeniden başkanlığa seçildi!",
+          "summary": "Beşiktaş'ta gerçekleşen olağanüstü seçimli genel kurul toplantısında Serdal Adalı yeniden başlanlığa seçildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-serdal-adali-yeniden-baskanliga-secildi-43329472"
         },
         {
-          "title": "Serdal Adalı, oyunu kullandı",
-          "summary": "Beşiktaş Başkanı Serdal Adalı, olağanüstü seçimli genel kurul toplantısında oyunu kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-oyunu-kullandi-43329102"
+          "title": "Beşiktaş Yönetim Kurulu Üyesi Mete Düren: 'Bunu bir güven oylaması gibi görmek lazım!'",
+          "summary": "Beşiktaş Yönetim Kurulu Üyesi Mete Düren, “Bunu bir güven oylaması gibi görmek lazım. Tek adaylı bir seçim ama katılımın böyle yüksek bir rakama ulaşmış olması; camianın, doğru işler yapıldığı ve doğru kişilerle yüründüğü zaman desteğini esirgemeyeceğini gösterdi” dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-yonetim-kurulu-uyesi-mete-duren-bunu-bir-guven-oylamasi-gibi-gormek-lazim-43329485"
         },
         {
-          "title": "Serdal Adalı: 'Rakiplerimizin 1-2 oyuncuya verdiği yıllık ücretlere biz takım kurduk!'",
-          "summary": "Beşiktaş Kulübü Başkanı Serdal Adalı, siyah-beyazlı kulübün yeni döneminde sürdürülebilir gelir projeleri üzerinde duracaklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-rakiplerimizin-1-2-oyuncuya-verdigi-yillik-ucretlere-biz-takim-kurduk-43329066"
+          "title": "Fenerbahçe Tarfin evinde Körfez Basket’i mağlup etti!",
+          "summary": "Basketbol Süper Ligi'nin ikinci haftasında Fenerbahçe Tarfin, sahasında Biotekno Körfez Basket'i 85-84 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-evinde-korfez-basketi-maglup-etti-43329456"
         },
         {
-          "title": "İstanbul’da Pazar Programı Dopdolu! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-pazar-programi-dopdolu-iste-misliden-gunun-altili-analizi-43329064"
+          "title": "9. Uluslararası Bodrum Yarı Maratonu tamamlandı",
+          "summary": "‘Bodrum’da koşmak iyi hissettirir’ mottosuyla 2-3 ve 4 Ekim tarihlerinde dokuzuncu kez düzenlenen Uluslararası Bodrum Yarı Maratonu tamamlandı. 23 ülkeden 2 bin 500 sporcunun katıldığı organizasyonda atletler 21K, 10K ve 5K parkurlarında mücadele etti. Yarışların ardından dereceye girenlere ödülleri törenle takdim edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/9-uluslararasi-bodrum-yari-maratonu-tamamlandi-43329380"
         },
         {
-          "title": "Portekiz, Norveç'i ağırlıyor! Maçın heyecanı Misli'de yaşanacak",
-          "summary": "Cristiano Ronaldo'nun ayrılığının ardından Portekiz, 2. resmi mücadelesini Norveç'e karşı verecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/portekiz-norveci-agirliyor-macin-heyecani-mislide-yasanacak-43329037"
+          "title": "Galatasaray Çağdaş Faktoring, sezona galibiyetle başladı!",
+          "summary": "Halkbank Kadınlar Basketbol Süper Ligi'nin ikinci haftasında Galatasaray Çağdaş Faktoring, normal süresi 77-77 sona eren maçta İstanbul Gençlikspor'u deplasmanda 84-83 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-cagdas-faktoring-sezona-galibiyetle-basladi-43329384"
         },
         {
-          "title": "Valeriy Karpin'den Aleksey Batrakov açıklaması: 'Galatasaray'da kendine yer bulmasını umuyoruz!'",
-          "summary": "Rusya Milli Takımı Teknik Direktörü Valeriy Karpin, Galatasaray forması giyen Aleksey Batrakov ile ilgili konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/valeriy-karpinden-aleksey-batrakov-aciklamasi-galatasarayda-kendine-yer-bulmasini-umuyoruz-43329029"
+          "title": "Fred, eski hocasına patladı! 'Tam bir pislikti'",
+          "summary": "Sezon başında Fenerbahçe'den Atletico Mineiro'ya transfer olan Fred, bir podcast kanalına konuk oldu. Brezilyalı futbolcu, Manchester United döneminde çalıştığı Erik ten Hag hakkında çarpıcı ifadelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fred-eski-hocasina-patladi-tam-bir-pislikti-43329315"
         },
         {
-          "title": "MotoGP'de Japonya Grand Prix'sini Marc Marquez kazandı",
-          "summary": "MotoGP Dünya Şampiyonası'nın 16. etabı Japonya Grand Prix'sini, Ducati Lenovo takımından İspanyol pilot Marc Marquez kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/motogpde-japonya-grand-prixsini-marc-marquez-kazandi-43329013"
+          "title": "Sofoklis Schortsanitis’ten Ergin Ataman açıklaması: ‘Oyunculara karşı davranış şeklini sevmiyorum!’",
+          "summary": "Sofoklis Schortsanitis, Ergin Ataman ile ilgili dikkat çeken açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sofoklis-schortsanitisten-ergin-ataman-aciklamasi-oyunculara-karsi-davranis-seklini-sevmiyorum-43329263"
         }
       ]
     },
     "teknoloji": {
-      "text": "Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı. Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek. Yapay zekaya trilyonluk yatırım. Getiri beklentiyi karşılayacak mı?. Tesla Avrupa satışlarıyla toparlandı. Gözler 21 Ekim bilançosunda. Bill Gates'ten yapay zeka uyarısı: Evcil hayvana döneriz. Teknofest'te renkli görüntüler. İnsansı robot halay çekti. Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi.",
+      "text": "Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi. Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı. ‘İK sadece süreçleri yöneten değil, değişime yön veren olmalı’. İletişim Başkanı Duran: TEKNOFEST ruhu Türkiye'nin dört bir yanında. Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek. Yapay zekaya trilyonluk yatırım. Getiri beklentiyi karşılayacak mı?. Tesla Avrupa satışlarıyla toparlandı. Gözler 21 Ekim bilançosunda.",
       "items": [
+        {
+          "title": "Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi",
+          "summary": "Bilim insanları pahalı metallere ihtiyaç duymadan güneş ışığıyla suyu ayrıştırıp temiz hidrojen gazı üreten yeni bir kristal malzeme geliştirdi. ABD'deki Oregon Eyalet Üniversitesi'nden kimya mühendisleri, güneş ışığını doğrudan kullanarak suyu ayrıştıran ve pahalı metal katalizörlere ihtiyaç duymadan temiz hidrojen gazı üreten yeni bir fotokatalitik malzeme sınıfı geliştirdi. Araştırmada, metal-organik kafes mimarisine sahip 'BVR-19' adı verilen kristal yapı mercek altına alındı.",
+          "source": "https://www.ntv.com.tr/teknoloji/gunes-isigi-ve-sudan-hidrojen-ureten-yeni-malzeme-gelistirildi-1744807"
+        },
         {
           "title": "Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı",
           "summary": "Kısa süre önce istifa eden bir OpenAI güvenlik sorumlusu, yapay zeka modellerinin test edildiklerini algılayabileceklerini ve devreye alındıktan sonra farklı davranabileceklerini belirtti. OpenAI'da 3,5 yıl görev yapan ve 12 yapay zeka modelinin piyasaya sürülmesine ilişkin güvenlik raporlarını denetleyen David Robinson'ın The Atlantic dergisinde yayımlanan makalesi dikkati çekti.",
           "source": "https://www.ntv.com.tr/teknoloji/eski-openai-guvenlik-sorumlusundan-yapay-zeka-guvenlik-testlerinden-kacabilir-uyarisi-1744722"
+        },
+        {
+          "title": "‘İK sadece süreçleri yöneten değil, değişime yön veren olmalı’",
+          "summary": "Teknolojiyle insan arasındaki ilişkinin yeniden şekillendiği bir dönemden geçildiğini söyleyen Vakıf Katılım İnsan Kaynakları Genel Müdür Yardımcısı Ersin Çatalbaş, “Bizim için asıl mesele, teknolojinin gücünü insanımızın potansiyeliyle birleştirerek çalışan deneyimini ve iş yapış biçimlerimizi geliştirmek. Bu doğrultuda yapay zekâyı İK süreçlerimize entegre ederek dijitalleşme çalışmalarımızı sürdürüyoruz.",
+          "source": "https://www.hurriyet.com.tr/ik/ik-sadece-surecleri-yoneten-degil-degisime-yon-veren-olmali-43328823"
+        },
+        {
+          "title": "İletişim Başkanı Duran: TEKNOFEST ruhu Türkiye'nin dört bir yanında",
+          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TEKNOFEST Güneydoğu'ya ilişkin, \"Göklerde, denizlerde ve karada kendi teknolojisini geliştiren Türkiye, şimdi gençlerinin hayalleriyle çok daha güçlü bir geleceğe yürüyor. Türkiye Yüzyılı, işte bu gençlerimizin fikirleri, emeği, cesareti ve büyük hayalleriyle yükselecek.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-teknofest-ruhu-turkiyenin-dort-bir-yaninda-43328777"
         },
         {
           "title": "Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek",
@@ -185,21 +200,6 @@
           "title": "Tesla Avrupa satışlarıyla toparlandı. Gözler 21 Ekim bilançosunda",
           "summary": "Elektrikli araç üreticisi Tesla, üçüncü çeyrekte 486 bin 532 araç teslim ederek Wall Street beklentilerini aştı ve iki yıllık satış daralmasını kırma yoluna girdi. Elektrikli araç üreticisi Tesla, üçüncü çeyrek araç teslimatlarında Wall Street'in beklentilerini aşarak iki yıldır devam eden satış düşüşünü sonlandırma yoluna girdi. Reuters ajansının aktardığı Visible Alpha verilerine göre şirket, temmuz-eylül döneminde analistlerin ortalama 456 bin 896 olan tahminini geride bırakarak 486 bin 532 araç teslim etti.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-tesla-avrupa-satislariyla-toparlandi-gozler-21-ekim-bilancosunda-1744580"
-        },
-        {
-          "title": "Bill Gates'ten yapay zeka uyarısı: Evcil hayvana döneriz",
-          "summary": "\"Yapay zeka insanlığın sonunu mu hazırlıyor?\" sorusunu yanıtlayan Microsoft’un kurucu ortağı Bill Gates, felaket senaryosu çizdi. Teknoloji devi Microsoft'un kurucusu Bill Gates, New York Times'a verdiği röportajda yapay zekanın yol açabileceği tehlikenin boyutuna dikkat çekti. Gates, gerekli önlemler alınmazsa biyolojik, siber ve psikososyal risklerin, yapay zekanın sağlayacağı faydalardan çok daha hızlı yayılabileceği uyarısında bulundu.",
-          "source": "https://www.ntv.com.tr/teknoloji/bill-gatesten-yapay-zeka-uyarisi-evcil-hayvana-doneriz-1744560"
-        },
-        {
-          "title": "Teknofest'te renkli görüntüler. İnsansı robot halay çekti",
-          "summary": "Teknofest’in adresi Şanlıurfa olunca insansı robot da geleneğe uydu. Çiğ köfte yoğurdu,, katıldığı sıra gecesinde türkü eşliğinde mendil sallayıp halay çekti.",
-          "source": "https://www.ntv.com.tr/teknoloji/video-teknofestte-renkli-goruntuler-insansi-robot-halay-cekti-1744557"
-        },
-        {
-          "title": "Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi",
-          "summary": "Amazon Web Services, yapay zeka veri merkezlerinin su ve elektrik tüketimine yönelik tepkileri dindirmek amacıyla yerel topluluklara 1 milyar doları aşkın kaynak aktaracağını duyurdu. Yapay zeka modellerini eğitmek ve çalıştırmak için gereken bilgi işlem gücünü sağlayan veri merkezleri, ABD genelinde elektrik talebi, fatura artışları ve yerel altyapı üzerindeki etkileri nedeniyle tepki topluyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-elektrik-faturalari-tirmandi-amazon-tepkilere-1-milyar-dolar-butceyle-cevap-verdi-1744473"
         }
       ]
     },
@@ -244,8 +244,19 @@
       ]
     },
     "magazin": {
-      "text": "",
-      "items": []
+      "text": "Muhabirlere ‘aşk’ sözü. Düğün sonrası ilk görüntü.",
+      "items": [
+        {
+          "title": "Muhabirlere ‘aşk’ sözü",
+          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
+        },
+        {
+          "title": "Düğün sonrası ilk görüntü",
+          "summary": "Ünlü şarkıcı Zeynep Bastık, 2 Eylül’de nikâh masasına oturduğu Serkay Tütüncü ile önceki gün Çeşme’de özel bir plajda görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/kelebek/hayat/dugun-sonrasi-ilk-goruntu-43297613"
+        }
+      ]
     }
   }
 }
