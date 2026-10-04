@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-03T04:00:04.268Z",
+  "generatedAt": "2026-10-04T04:00:03.756Z",
   "categories": {
     "gundem": {
-      "text": "Beyoğlu'nda hanutçu, değnekçi, dilenci operasyonu. Sahte belgelerle 31 milyar liralık usulsüzlük: 31 kişi tutuklandı. Ankara’da yasa dışı bahis soruşturmasında 33 tutuklama. Beyoğlu’nda denetim: 20 işletme kapatıldı, 11 kişi yakalandı. Kırıkkale Belediyesi’ne yönelik rüşvet operasyonunda 3 tutuklama. İzmir'de büyük kaçak içki operasyonu: 3 milyon 800 bin liralık kaçak içki ele geçirildi. Trump'a CAATSA yaptırımları soruldu. \"Erdoğan dostum, her zaman konuşuruz\".",
+      "text": "Alfa kuşağını anlama kılavuzu. Kaza bölgesine giren otomobil, ikinci kazaya neden oldu: 1’i ağır 12 yaralı. TEM'de otomobil alev alev yandı. Akaryakıt istasyonunda tankerde çıkan yangın, yanındakine de sıçradı. Antalya'da kan donduran olay: 16 yaşındaki kızı ile görüştüğü gerekçesiyle bıçaklayarak öldürdü. Şişli’de eğlence mekanlarına denetim. Gece yarısı facianın eşiğinden dönüldü! Yangına uykularında yakalandılar.",
       "items": [
         {
-          "title": "Beyoğlu'nda hanutçu, değnekçi, dilenci operasyonu",
-          "summary": "İstanbul'un kalbi Beyoğlu'nda dilencilik, hanutçuluk ve \"değnekçi\" diye tabir edilen yasa dışı otoparkçılık yapanlara yönelik denetimlerde çok sayıda kişiye ceza uygulandı. Beyoğlu İlçe Emniyet Müdürlüğü ve Turizm Şube Müdürlüğü ekipleri, yerli ve yabancı ziyaretçilerin huzur ve güvenliğinin sağlanması amacıyla turistlerin yoğun bulunduğu bölgelerdeki denetimlerini artırdı. Ekipler, dilencilik, hanutçuluk ve değnekçilik yapanları suçüstü yakaladı.",
-          "source": "https://www.ntv.com.tr/turkiye/beyoglunda-hanutcu-degnekci-dilenci-operasyonu-1744561"
+          "title": "Alfa kuşağını anlama kılavuzu",
+          "summary": "Alfa kuşağı, iletişim kurarken yeni nesil terimler kullanıyor. Yetişkinler tarafından anlamlandırılmakta güçlük çekilen ‘6-7’, ‘no cap’, ‘mog’, ‘crash out’ ve ‘unc’ gibi ifadeler, dijital dünyada anlamı en çok araştırılan kelimeler listesine damga vurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/alfa-kusagini-anlama-kilavuzu-43328806"
         },
         {
-          "title": "Sahte belgelerle 31 milyar liralık usulsüzlük: 31 kişi tutuklandı",
-          "summary": "Kocaeli merkezli 20 ili kapsayan operasyonda, sahte belge düzenleyerek haksız vergi iadesi aldıkları öne sürülen 155 firmaya yönelik soruşturmada 52 şüpheli yakalandı. Şüphelilerden 31'i tutuklanırken, toplam işlem hacminin 31 milyar 300 milyon 142 bin 753 lira 34 kuruş olduğu belirlendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/sahte-belgelerle-31-milyar-liralik-usulsuzluk-31-kisi-tutuklandi-43327898"
+          "title": "Kaza bölgesine giren otomobil, ikinci kazaya neden oldu: 1’i ağır 12 yaralı",
+          "summary": "Aydın’ın Nazilli ilçesinde, iddiaya göre alkollü sürücünün kullandığı otomobil, başka bir kazanın olduğu bölgede ikinci bir kazaya neden oldu. Kazada 1’i ağır, 12 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kaza-bolgesine-giren-otomobil-ikinci-kazaya-neden-oldu-1i-agir-12-yarali-43328856"
         },
         {
-          "title": "Ankara’da yasa dışı bahis soruşturmasında 33 tutuklama",
-          "summary": "ANKARA’DA yasa dışı bahis siteleri üzerinden bahis oynattıkları ve elde edilen suç gelirlerini farklı banka hesapları ile kripto para borsalarına aktardıkları belirlenen şüphelilere yönelik operasyonda gözaltına alınan 50 şüpheliden 33’ü tutuklandı, 8’i hakkında adli kontrol kararı verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-yasa-disi-bahis-sorusturmasinda-33-tutuklama-43327897"
+          "title": "TEM'de otomobil alev alev yandı",
+          "summary": "Küçükçekmece’de TEM Otoyolu’nda seyir halindeki bir otomobilin motor bölümünde yangın çıktı. Çevredekilerin kendi imkanlarıyla müdahale etmeye çalıştığı yangın, itfaiye ekiplerince söndürüldü.",
+          "source": "https://www.hurriyet.com.tr/gundem/temde-otomobil-alev-alev-yandi-43328853"
         },
         {
-          "title": "Beyoğlu’nda denetim: 20 işletme kapatıldı, 11 kişi yakalandı",
-          "summary": "BEYOĞLU’nda dilencilik, hanutçuluk, izinsiz otoparkçılık ve eğlence mekanlarına yönelik denetimlerde çeşitli suçlardan aranan 11 kişi yakalandı. Eğlence mekanlarına yönelik çalışmalarda ise 20 işletme kapatıldı, 725 bin lira ceza uygulandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/beyoglunda-denetim-20-isletme-kapatildi-11-kisi-yakalandi-43327896"
+          "title": "Akaryakıt istasyonunda tankerde çıkan yangın, yanındakine de sıçradı",
+          "summary": "Denizli'de bir akaryakıt istasyonunda yakıt boşaltılan tankerde çıkan yangın, yanındaki tankere de sıçradı. İstasyonda görevli Mehmet Can'ın yangın sırasında yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/akaryakit-istasyonunda-tankerde-cikan-yangin-yanindakine-de-sicradi-43328851"
         },
         {
-          "title": "Kırıkkale Belediyesi’ne yönelik rüşvet operasyonunda 3 tutuklama",
-          "summary": "KIRIKKALE Belediyesi İmar ve Şehircilik Müdürlüğüne yönelik 'rüşvet' operasyonunda gözaltına alınan belediye çalışanları R.Z, G.Ç. ve Ö.G., tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kirikkale-belediyesine-yonelik-rusvet-operasyonunda-3-tutuklama-43327895"
+          "title": "Antalya'da kan donduran olay: 16 yaşındaki kızı ile görüştüğü gerekçesiyle bıçaklayarak öldürdü",
+          "summary": "Antalya’nın Gazipaşa ilçesinde yol kenarında 20 yaşında bir erkek cesedi bulundu. Yapılan incelemede gencin bıçaklanarak öldürüldüğü tespit edilirken, cinayetin 16 yaşındaki kızıyla görüştüğü gerekçesiyle baba tarafından işlendiği belirlendi. Şüpheli baba olay yerine yakın olan evinde gözaltına alınırken kızı da ifadesine başvurulmak üzere karakola götürüldü. Cinayet aleti olduğu değerlendirilen bıçak ise şüpheli babanın gösterdiği yerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/antalyada-kan-donduran-olay-16-yasindaki-kizi-ile-gorustugu-gerekcesiyle-bicaklayarak-oldurdu-43328850"
         },
         {
-          "title": "İzmir'de büyük kaçak içki operasyonu: 3 milyon 800 bin liralık kaçak içki ele geçirildi",
-          "summary": "İzmir'de, polis ekiplerince düzenlenen operasyonda piyasa değeri yaklaşık 3 milyon 800 bin TL olan 23 bin 40 şişe sahte içki ele geçirildi, 1 şüpheli hakkında adli işlem başlatıldı. İzmir Cumhuriyet Başsavcılığı koordinesinde çalışmalarını yürüten İzmir İl Emniyet Müdürlüğü Kaçakçılık Suçlarıyla Mücadele Şube Müdürlüğü ekipleri, kent genelinde kaçak içki ticareti ve sevkiyatının önlenmesine yönelik çalışmalarına hız kesmeden devam ediyor.",
-          "source": "https://www.ntv.com.tr/turkiye/izmirde-buyuk-kacak-icki-operasyonu-3-milyon-800-bin-liralik-kacak-icki-ele-gecirildi-1744554"
+          "title": "Şişli’de eğlence mekanlarına denetim",
+          "summary": "İstanbul Şişli'de eğlence mekanlarına yönelik denetim gerçekleştirildi. Denetimlerde, 22’si yabancı uyruklu 34 kadının ruhsat faaliyet konusu dışında ve sigortasız olarak konsomatris şeklinde çalıştırıldığı tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sislide-eglence-mekanlarina-denetim-43328849"
         },
         {
-          "title": "Trump'a CAATSA yaptırımları soruldu. \"Erdoğan dostum, her zaman konuşuruz\"",
-          "summary": "CAATSA yaptırımları sorulan ABD Başkanı Donald Trump, \"Cumhurbaşkanı Recep Tayyip Erdoğan dostumdur, her zaman konuşuruz.\" dedi. ABD Başkanı Donald Trump, Beyaz Saray'da basın mensuplarının sorularını cevaplarken, \"Türkiye'yi seviyorum. Cumhurbaşkanı Recep Tayyip Erdoğan yakın arkadaşım.\" dedi. CAATSA yaptırımlarının kaldırılması konusunda neden gecikme yaşandığı sorulan ABD Başkanı \"Herhangi bir gecikme yok\" ifadelerini kullandı. CAATSA YAPTIRIMLARI NEDİR?",
-          "source": "https://www.ntv.com.tr/turkiye/trumpa-caatsa-yaptirimlari-soruldu-erdogan-dostum-her-zaman-konusuruz-1744547"
+          "title": "Gece yarısı facianın eşiğinden dönüldü! Yangına uykularında yakalandılar",
+          "summary": "Aydın'ın Efeler ilçesinde bir apartmanda çıkan yangına vatandaşlar hane halkı uykuda yakalanırken, yangında dumandan etkilenen 5 kişi ambulanslarla hastaneye kaldırıldı. Küçük çocukların da bulunduğu evde mahsur kalanların kurtarılması için gece yarısı yüzlerce kişi binanın önüne geldi. Evin arka tarafına saklanmayı başaran 5 kişi sağ olarak kurtarıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gece-yarisi-facianin-esiginden-donuldu-yangina-uykularinda-yakalandilar-43328848"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail’den Gazze'ye saldırı, 1'i çocuk 5 Filistinli öldü. Kölelik tartışması. Kral Charles özür dileyecek mi?. Fransa'da liseliler polisle karşı karşıya. 5 günde 5 binden fazla gözaltı. Gökçeada ve Bozcaada feribot seferleri iptal edildi. Trump: Avrupa stokladığı akaryakıtı serbest bırakacak. Trump, Avrupa ile dizel yakıt anlaşmasını duyurdu: Stoklar piyasa sürülecek. Husilere eş zamanlı hava saldırıları: Suudi Arabistan 7 noktayı hedef aldı.",
+      "text": "ABD'de yaz saati krizi. Trump senatörün cep numarasını paylaştı. Eski OpenAI güvenlik sorumlusu, tehlikeye dikkat çekip uyardı. ABD’de dünyanın konuştuğu başarısız infaz sonrası istifa. ABD'li siyasetçi, rakibine uyuşturucu komplosu kurdu. Husiler: Riyad'da Aramco'yu füze ve İHA'larla hedef aldık. İsrail’de Flydubai uçağı iddiası: Yardımcı pilotun Ummanlı olduğunu İsrail biliyordu. İki doz iğneye rağmen ölmemişti. Başarısız infaz istifa getirdi.",
       "items": [
         {
-          "title": "İsrail’den Gazze'ye saldırı, 1'i çocuk 5 Filistinli öldü",
-          "summary": "İsrail ordusunun ateşkese rağmen Gazze'de bir daireyi bombalaması sonucu biri kız çocuğu 5 Filistinli hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-gazzeye-saldiri-1i-cocuk-5-filistinli-oldu-43327894"
+          "title": "ABD'de yaz saati krizi. Trump senatörün cep numarasını paylaştı",
+          "summary": "ABD Başkanı Donald Trump, yaz saati uygulamasının kalıcı hale getirilmesi talebini yineledi. Düzenlemeye karşı çıkan Cumhuriyetçi senatörün cep telefonun numarasını paylaşıp \"Arayıp baskı yapın.\" dedi Donald Trump, sosyal medya hesabından yaptığı paylaşımda, yılda iki kez saatlerin bir saat ileri veya geri alınması uygulamasına son verilmesini öngören tasarıya karşı çıkan Cumhuriyetçi Arkansas Senatörü Tom Cotton'ı hedef aldı.",
+          "source": "https://www.ntv.com.tr/dunya/abdde-yaz-saati-krizi-trump-senatorun-cep-numarasini-paylasti-1744696"
         },
         {
-          "title": "Kölelik tartışması. Kral Charles özür dileyecek mi?",
-          "summary": "Kral Charles'ın Karayipler turu öncesi, İngiltere'nin transatlantik köle ticaretindeki rolü tartışması alevlendi. Saray, kralın \"geçmişin en karanlık günleri\" için resmen özür dilemeyeceğini açıkladı. İngiltere Kralı 3'üncü Charles ve eşi Kraliçe Camilla, Bahamalar ve Guyana'yı ziyaret edecek. Çift daha sonra, bu yıl 1-4 Kasım tarihlerindeki İngiliz Milletler Topluluğu Hükümet Başkanları Toplantısı (CHOGM) için üzere Antigua ve Barbuda'ya geçecek.",
-          "source": "https://www.ntv.com.tr/dunya/kolelik-tartismasi-kral-charles-ozur-dileyecek-mi-1744559"
+          "title": "Eski OpenAI güvenlik sorumlusu, tehlikeye dikkat çekip uyardı",
+          "summary": "Kısa süre önce istifa eden bir OpenAI güvenlik sorumlusu, yapay zeka modellerinin test edildiklerini algılayabileceklerini ve devreye alındıktan sonra farklı davranabileceklerini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/eski-openai-guvenlik-sorumlusu-tehlikeye-dikkat-cekip-uyardi-43328854"
         },
         {
-          "title": "Fransa'da liseliler polisle karşı karşıya. 5 günde 5 binden fazla gözaltı",
-          "summary": "Fransa'da şiddetli lise eylemlerinde bugün gözaltına alınanların sayısının bin 747'ye yükseldiğini, pazartesi gününden bu yana ise 5 binden fazla kişinin gözaltına alındığını açıkladı. Fransa'da geçtiğimiz hafta öğretmen eksikliği ve eğitim şartlarına tepki olarak başlayan ve ülke geneline yayılan lise eylemlerinde gözaltı sayısı yükseliyor.",
-          "source": "https://www.ntv.com.tr/dunya/fransada-liseliler-polisle-karsi-karsiya-5-gunde-5-binden-fazla-gozalti-1744556"
+          "title": "ABD’de dünyanın konuştuğu başarısız infaz sonrası istifa",
+          "summary": "ABD’nin Tennessee eyaletinde ölüm cezasına çarptırılan Christa Pike’ın iki doz ölümcül ilaç verilmesine rağmen hayatta kalmasının ardından Tennessee Ceza İnfaz Kurumu (TDOC) Komiseri Frank Strada görevinden istifa etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-dunyanin-konustugu-basarisiz-infaz-sonrasi-istifa-43328852"
         },
         {
-          "title": "Gökçeada ve Bozcaada feribot seferleri iptal edildi",
-          "summary": "ÇANAKKALE’nin Gökçeada ve Bozcaada ilçelerine yarın yapılması planlanan bazı feribot seferleri iptal edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/gokceada-ve-bozcaada-feribot-seferleri-iptal-edildi-43327631"
+          "title": "ABD'li siyasetçi, rakibine uyuşturucu komplosu kurdu",
+          "summary": "Missouri eyalet meclisi Cumhuriyetçi Parti adayı Thomas Christopher Ross isimli siyasetçi, ön seçimdeki rakibine uyuşturucu komplosu kurmakla suçlandı. Ross, 20 yıla kadar hapisle karşı karşıya. ABD'nin Missouri eyaleti son günlerde bir uyuşturucu skandalıyla çalkalanıyor. 37 yaşındaki Thomas Christopher Ross, ağustos ayında Temsilciler Meclisi'nin 161'inci Bölgesi için düzenlenen Cumhuriyetçi Parti ön seçimini rakibi Louise Secker'ın sadece 33 oy önünde tamamlayarak kazandı.",
+          "source": "https://www.ntv.com.tr/dunya/abdli-siyasetci-rakibine-uyusturucu-komplosu-kurdu-1744692"
         },
         {
-          "title": "Trump: Avrupa stokladığı akaryakıtı serbest bırakacak",
-          "summary": "ABD Başkanı Donald Trump, Avrupa'nın stokladığı akaryakıtın büyük kısmını serbest bırakacağını söyledi. ABD Başkanı Donald Trump, Truth sosyal hesabından petrol fiyatlarına ilişkin açıklama yaptı. Trump, “Avrupa stokladığı akaryakıtın büyük bölümünü serbest bırakmayı kabul etti.” dedi. Trump, sürecin derhal başlayacağını da duyurdu. Konuya ilişkin önce Fransa Cumhurbaşkanı Emmanuel Macron'dan ardından G7 ülkelerinden ortak açıklama geldi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-avrupa-stokladigi-akaryakiti-serbest-birakacak-1744421"
+          "title": "Husiler: Riyad'da Aramco'yu füze ve İHA'larla hedef aldık",
+          "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın başkenti Riyad'daki ulusal petrol şirketi Aramco'yu balistik füzeler ve insansız hava araçlarıyla (İHA) hedef aldıklarını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/husiler-riyadda-aramcoyu-fuze-ve-ihalarla-hedef-aldik-43328794"
         },
         {
-          "title": "Trump, Avrupa ile dizel yakıt anlaşmasını duyurdu: Stoklar piyasa sürülecek",
-          "summary": "ABD Başkanı Donald Trump, Avrupa ile dizel stoklar konusunda anlaşmaya vardıklarını bildirdi. Trump, Avrupa ülkelerinin stoklarındaki dizel yakıt stoklarını piyasaya sürmeyi kabul ettiğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-avrupa-ile-dizel-yakit-anlasmasini-duyurdu-stoklar-piyasa-surulecek-43327562"
+          "title": "İsrail’de Flydubai uçağı iddiası: Yardımcı pilotun Ummanlı olduğunu İsrail biliyordu",
+          "summary": "İsrail basını, bakanlık ve Mossad'ın Flydubai uçağını kasten düşürmeye çalıştığı ileri sürülen Umman vatandaşı yardımcı pilotun da olduğu listeyi önceden teslim aldığını iddia etti. İsrail'in, Dubai-Tel Aviv seferini yaptığı sırada Suudi Arabistan’a acil iniş yapmak zorunda kalan Flydubai uçağındaki yolcu ve mürettebat listesini 2 gün öncesinden aldığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/israilde-flydubai-ucagi-iddiasi-yardimci-pilotun-ummanli-oldugunu-israil-biliyordu-1744682"
         },
         {
-          "title": "Husilere eş zamanlı hava saldırıları: Suudi Arabistan 7 noktayı hedef aldı",
-          "summary": "Suudi Arabistan'a ait savaş uçakları, Yemen'in batısında Husilerin konuşlandığı Hacce, Taiz ve Lahic vilayetlerine hava saldırıları düzenledi. Husiler, Suudi Arabistan'ın saldırılarda 7 ayrı noktayı vurduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/husilere-es-zamanli-hava-saldirilari-suudi-arabistan-7-noktayi-hedef-aldi-43327549"
+          "title": "İki doz iğneye rağmen ölmemişti. Başarısız infaz istifa getirdi",
+          "summary": "ABD’de mahkum Christa Pike’ın başarısız infazının ardından Tennessee Ceza İnfaz Kurumu Komiseri Frank Strada istifa etti. ABD’nin Tennessee eyaletinde yaklaşık 200 yıl sonra zehirli iğne yöntemiyle idam edilmesi planlanan ilk kadın mahkum olan Christa Pike’ın geçtiğimiz hafta başarısız olan infazının ardından yeni bir gelişme yaşandı. Pike’ın iki doz ölümcül ilaç verilmesine rağmen hayatta kalmasının ardından Tennessee Ceza İnfaz Kurumu (TDOC) Komiseri Frank Strada görevinden istifa etti.",
+          "source": "https://www.ntv.com.tr/dunya/iki-doz-igneye-ragmen-olmemisti-basarisiz-infaz-istifa-getirdi-1744683"
         }
       ]
     },
@@ -124,48 +124,68 @@
       ]
     },
     "spor": {
-      "text": "Mark van Bommel: 'Türkiye elinden gelenin fazlasını yaptı!'. Edin Dzeko, Bosna Hersek Milli Takımı'na veda etti!. Romelu Lukaku'dan Fenerbahçe açıklaması: 'Yerimi kazanmak için döneceğim!'. Sarunas Jasikevicius: 'Savunmada iyi duruş sergiledik!'. Dusan Alimpijevic: 'Bir şeyleri oturtmak için zaman gerekiyor!'. Fransa 1-1 İtalya (UEFA Uluslar Ligi). Vincenzo Montella: 'Kimsenin suçu yok, deneyim kazanıyoruz'.",
+      "text": "MHK'deki kangrene TFF'den yara bandı!. MHK Başkanı Ferhat Gündoğdu istifa etti!. MHK üyesi Sebahattin Şahin görevinden istifa etti!. A Milli Takım'ın İtalya maçı mesaisi başladı!. Fenerbahçe’nin hazırlık maçında ilginç anlar! Greenwood rakibine tekme attı, kırmızı kart gördü: 11’e 11 devam edildi. Alanyaspor hazırlık maçında Amed Sportif Faaliyetler'i yendi!. Bodrum'da \"9. Uluslararası Yarı Maraton\" heyecanı başladı!.",
       "items": [
         {
-          "title": "Mark van Bommel: 'Türkiye elinden gelenin fazlasını yaptı!'",
-          "summary": "UEFA Uluslar A Ligi 1. Grup üçüncü maçında sahasında Türkiye'yi 3-0 mağlup eden Belçika'nın teknik direktörü Mark van Bommel, Türkiye'nin elinden geleni yaptığını ancak kendilerinin iyi oynayarak galip geldiklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mark-van-bommel-turkiye-elinden-gelenin-fazlasini-yapti-43327845"
+          "title": "MHK'deki kangrene TFF'den yara bandı!",
+          "summary": "Süper Lig'in başlamasına 5 gün kalırken, Türkiye Futbol Federasyonu sonunda sessizliğini bozdu ama hala cevap bekleyen birçok soru var.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mhkdeki-kangrene-tffden-yara-bandi-43328846"
         },
         {
-          "title": "Edin Dzeko, Bosna Hersek Milli Takımı'na veda etti!",
-          "summary": "Bosna Hersek'in \"yaşayan efsanesi\" olarak bilinen ve Boşnaklar tarafından \"Elmas\" olarak isimlendirilen Edin Dzeko, milli takımla son kez sahaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/edin-dzeko-bosna-hersek-milli-takimina-veda-etti-43327844"
+          "title": "MHK Başkanı Ferhat Gündoğdu istifa etti!",
+          "summary": "MHK Başkanı Ferhat Gündoğdu istifa etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mhk-baskani-ferhat-gundogdu-istifa-etti-43328790"
         },
         {
-          "title": "Romelu Lukaku'dan Fenerbahçe açıklaması: 'Yerimi kazanmak için döneceğim!'",
-          "summary": "Fenerbahçe'nin Belçikalı santraforu Romelu Lukaku, Türkiye maçının ardından açıklamalarda bulundu. Lukaku, \"milli takımdaki yerimi kazanmak için Fenerbahçe’ye geri döneceğim.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/romelu-lukakudan-fenerbahce-aciklamasi-yerimi-kazanmak-icin-donecegim-43327837"
+          "title": "MHK üyesi Sebahattin Şahin görevinden istifa etti!",
+          "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen Merkez Hakem Kurulu (MHK) soruşturması kapsamında gözaltına alınan ve adli kontrol tedbiriyle serbest bırakılan MHK üyesi Sebahattin Şahin, görevinden istifa etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mhk-uyesi-sebahattin-sahin-gorevinden-istifa-etti-43328780"
         },
         {
-          "title": "Sarunas Jasikevicius: 'Savunmada iyi duruş sergiledik!'",
-          "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 3. haftasında ağırladığı Birleşik Arap Emirlikleri temsilcisi Dubai Basketbol'u 76-66 mağlup eden Fenerbahçe Tarfin'de başantrenör Sarunas Jasikevicius, özellikle 4. periyotta çok iyi performans sergilediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sarunas-jasikevicius-savunmada-iyi-durus-sergiledik-43327835"
+          "title": "A Milli Takım'ın İtalya maçı mesaisi başladı!",
+          "summary": "A Milli Takım, UEFA Uluslar A Ligi 1. Grup'ta İtalya ile oynayacağı karşılaşmanın hazırlıklarına Belçika'da başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takimin-italya-maci-mesaisi-basladi-43328761"
         },
         {
-          "title": "Dusan Alimpijevic: 'Bir şeyleri oturtmak için zaman gerekiyor!'",
-          "summary": "Basketbol Avrupa Ligi'nin 3. haftasında Barcelona'ya 95-82 yenilen Beşiktaş'ta başantrenör Dusan Alimpijevic, zamana ihtiyaçları olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dusan-alimpijevic-bir-seyleri-oturtmak-icin-zaman-gerekiyor-43327832"
+          "title": "Fenerbahçe’nin hazırlık maçında ilginç anlar! Greenwood rakibine tekme attı, kırmızı kart gördü: 11’e 11 devam edildi",
+          "summary": "Fenerbahçe'nin Turan Tovuz ile oynadığı hazırlık maçında Mason Greenwood, rakibine topsuz alanda tekme atmasının ardından kırmızı kart gördü. Bu kararın ardından ise ilginç anlar yaşandı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-hazirlik-macinda-ilginc-anlar-greenwood-rakibine-tekme-atti-kirmizi-kart-gordu-11e-11-devam-edildi-43328696"
         },
         {
-          "title": "Fransa 1-1 İtalya (UEFA Uluslar Ligi)",
-          "summary": "Türkiye'nin de yer aldığı UEFA Uluslar A Ligi 1. Grup'un üçüncü maçında Fransa, sahasında karşılaştığı İtalya ile 1-1 berabere kaldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fransa-1-1-italya-uefa-uluslar-ligi-43327831"
+          "title": "Alanyaspor hazırlık maçında Amed Sportif Faaliyetler'i yendi!",
+          "summary": "Corendon Alanyaspor, milli takım arasında Süper Lig ekiplerinden Amed Sportif Faaliyetler ile oynadığı hazırlık maçını 4-0 kazandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-hazirlik-macinda-amed-sportif-faaliyetleri-yendi-43328691"
         },
         {
-          "title": "Vincenzo Montella: 'Kimsenin suçu yok, deneyim kazanıyoruz'",
-          "summary": "A Milli Takım Teknik Direktörü Vincenzo Montella, Belçika'ya 3-0 yenildikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-montella-kimsenin-sucu-yok-deneyim-kazaniyoruz-43327830"
+          "title": "Bodrum'da \"9. Uluslararası Yarı Maraton\" heyecanı başladı!",
+          "summary": "Yarış sonunda sporculara verilecek madalyalar, özel gereksinimli çocuklar tarafından el emeğiyle hazırlandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bodrumda-9-uluslararasi-yari-maraton-heyecani-basladi-43328602"
         }
       ]
     },
     "teknoloji": {
-      "text": "Bill Gates'ten yapay zeka uyarısı: Evcil hayvana döneriz. Teknofest'te renkli görüntüler. İnsansı robot halay çekti. Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi. Avrupa'dan ABD ve Çin'e karşı yapay zeka hamlesi. Dev tesis üretime geçti. Uzaydayken 3'üncü kez baba olacak. Türkiye’nin dijital geleceğine global yatırım. Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor.",
+      "text": "İletişim Başkanı Duran: TEKNOFEST ruhu Türkiye'nin dört bir yanında. Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek. Yapay zekaya trilyonluk yatırım. Getiri beklentiyi karşılayacak mı?. Tesla Avrupa satışlarıyla toparlandı. Gözler 21 Ekim bilançosunda. Bill Gates'ten yapay zeka uyarısı: Evcil hayvana döneriz. Teknofest'te renkli görüntüler. İnsansı robot halay çekti. Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi.",
       "items": [
+        {
+          "title": "İletişim Başkanı Duran: TEKNOFEST ruhu Türkiye'nin dört bir yanında",
+          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TEKNOFEST Güneydoğu'ya ilişkin, \"Göklerde, denizlerde ve karada kendi teknolojisini geliştiren Türkiye, şimdi gençlerinin hayalleriyle çok daha güçlü bir geleceğe yürüyor. Türkiye Yüzyılı, işte bu gençlerimizin fikirleri, emeği, cesareti ve büyük hayalleriyle yükselecek.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-teknofest-ruhu-turkiyenin-dort-bir-yaninda-43328777"
+        },
+        {
+          "title": "Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek",
+          "summary": "Google, Türkiye özelinde yeni bir uygulama başlattı. Yeni uygulamayla birlikte, Google'da istenmeyen kişisel veriler için başvuru yolu açıldı. Google, Türkiye'de yeni bir uygulama başlatarak, arama motorundan kaldırılması istenen içerikler için başvuru sayfasını devreye aldı. Kişisel Verileri Koruma Kurumu (KVKK) Başkanı Prof. Dr. Faruk Bilir, yeni uygulamayla birlikte Google'ın 30 gün içinde bu bilginin kaldırılıp, kaldırılmayacağına ilişkin yanıt vermek zorunda olduğunu söyledi.",
+          "source": "https://www.ntv.com.tr/teknoloji/googledan-turkiyeye-ozel-yeni-uygulama-30-gun-icinde-yanit-verilecek-1744632"
+        },
+        {
+          "title": "Yapay zekaya trilyonluk yatırım. Getiri beklentiyi karşılayacak mı?",
+          "summary": "Yapay zeka altyapısına yönelik harcamaların 2050 yılına kadar 30 trilyon doları aşması beklenirken ekonomistler yatırımların boşa gitmesinden endişeli. Yapay zeka sektörüne yönelen sermaye akışı, demiryolları ya da internet dönemlerinde görülen harcamaları geride bırakırken ekonomistler yatırımların geri dönüş takvimi ile sahadaki verimlilik artışları arasındaki uyumsuzluğa işaret ediyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zekaya-trilyonluk-yatirim-getiri-beklentiyi-karsilayacak-mi-1744606"
+        },
+        {
+          "title": "Tesla Avrupa satışlarıyla toparlandı. Gözler 21 Ekim bilançosunda",
+          "summary": "Elektrikli araç üreticisi Tesla, üçüncü çeyrekte 486 bin 532 araç teslim ederek Wall Street beklentilerini aştı ve iki yıllık satış daralmasını kırma yoluna girdi. Elektrikli araç üreticisi Tesla, üçüncü çeyrek araç teslimatlarında Wall Street'in beklentilerini aşarak iki yıldır devam eden satış düşüşünü sonlandırma yoluna girdi. Reuters ajansının aktardığı Visible Alpha verilerine göre şirket, temmuz-eylül döneminde analistlerin ortalama 456 bin 896 olan tahminini geride bırakarak 486 bin 532 araç teslim etti.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-tesla-avrupa-satislariyla-toparlandi-gozler-21-ekim-bilancosunda-1744580"
+        },
         {
           "title": "Bill Gates'ten yapay zeka uyarısı: Evcil hayvana döneriz",
           "summary": "\"Yapay zeka insanlığın sonunu mu hazırlıyor?\" sorusunu yanıtlayan Microsoft’un kurucu ortağı Bill Gates, felaket senaryosu çizdi. Teknoloji devi Microsoft'un kurucusu Bill Gates, New York Times'a verdiği röportajda yapay zekanın yol açabileceği tehlikenin boyutuna dikkat çekti. Gates, gerekli önlemler alınmazsa biyolojik, siber ve psikososyal risklerin, yapay zekanın sağlayacağı faydalardan çok daha hızlı yayılabileceği uyarısında bulundu.",
@@ -180,32 +200,17 @@
           "title": "Elektrik faturaları tırmandı. Amazon tepkilere 1 milyar dolar bütçeyle cevap verdi",
           "summary": "Amazon Web Services, yapay zeka veri merkezlerinin su ve elektrik tüketimine yönelik tepkileri dindirmek amacıyla yerel topluluklara 1 milyar doları aşkın kaynak aktaracağını duyurdu. Yapay zeka modellerini eğitmek ve çalıştırmak için gereken bilgi işlem gücünü sağlayan veri merkezleri, ABD genelinde elektrik talebi, fatura artışları ve yerel altyapı üzerindeki etkileri nedeniyle tepki topluyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-elektrik-faturalari-tirmandi-amazon-tepkilere-1-milyar-dolar-butceyle-cevap-verdi-1744473"
-        },
-        {
-          "title": "Avrupa'dan ABD ve Çin'e karşı yapay zeka hamlesi. Dev tesis üretime geçti",
-          "summary": "Fransız süper bilgisayar üreticisi Bull, Avrupa'nın ABD ve Çin ile rekabetinde işlem gücünü artırmak amacıyla 80 milyon euroluk yatırımla üretim kapasitesini iki katına çıkardı. Avrupa Birliği (AB), ABD ve Çin ile arasındaki işlem gücü farkını kapatmak amacıyla 2021-2027 döneminde süper bilgisayar ağına 7 milyar euro kaynak ayırdı.",
-          "source": "https://www.ntv.com.tr/teknoloji/avrupadan-abd-ve-cine-karsi-yapay-zeka-hamlesi-dev-tesis-uretime-gecti-1744461"
-        },
-        {
-          "title": "Uzaydayken 3'üncü kez baba olacak",
-          "summary": "NASA, 13'üncü uzun süreli astronot ekibini SpaceX roketiyle Uluslararası Uzay İstasyonu'na gönderdi. 4 kişilik ekipten Joshua Kutryk uzaydayken, eşi üçüncü çocuklarını dünyaya getirecek. 7 SAAT 55 DAKİKALIK UÇUŞ NASA'nın yörüngede insan sağlığı ve performansına odaklanan Crew-13 görevi için iki ABD'li ve bir Kanadalı astronot ile bir Rus kozmonottan oluşan ekibi Uluslararası Uzay İstasyonu'na (ISS) ulaştı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-uzaydayken-3uncu-kez-baba-olacak-1744416"
-        },
-        {
-          "title": "Türkiye’nin dijital geleceğine global yatırım",
-          "summary": "Bulut ve operatör bağımsız veri merkezi platformu Digital Realty ile Rönesans Altyapı, Türkiye’de yeni nesil veri merkezleri geliştirmek ve işletmek üzere ortaklık kurduklarını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/turkiyenin-dijital-gelecegine-global-yatirim-43326385"
-        },
-        {
-          "title": "Dünya'nın derinliklerindeki görünmez çekişme. Günler uzuyor",
-          "summary": "Dünya'nın derinliklerindeki katı iç çekirdek ile kayalık manto arasındaki yerçekimsel çekişme, gezegenin 24 saatlik dönüş hızında milisaniyelik oynamalar yaratıyor. Yerkürenin derinliklerinde süregelen fiziksel kuvvet mücadelesi, yüzeydeki zaman algısını doğrudan etkiliyor. Bilim dergisi Nature'da yayımlanan yeni bir araştırma, Dünya'nın 24 saatlik gün süresinde meydana gelen milisaniyelik oynamaların gezegenin metalik çekirdeğindeki hareketlerden kaynaklandığını ortaya koydu.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-dunyanin-derinliklerindeki-gorunmez-cekisme-gunler-uzuyor-1744268"
         }
       ]
     },
     "saglik": {
-      "text": "Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat. Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı. Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı. Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı. Ölümünden sonra incelendi: Akıllı saati ve yüzüğü sağlık durumundaki bozulmayı kaydetmiş. Kanser tedavisi kedilerde mi gizli?. Doğada kendiliğinden yetişiyor. Vücuttaki zararlı toksinleri temizliyormuş.",
+      "text": "Takviyeler çözüm değil. \"Günde yarım saat yürüyün\". Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat. Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı. Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı. Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı. Ölümünden sonra incelendi: Akıllı saati ve yüzüğü sağlık durumundaki bozulmayı kaydetmiş. Kanser tedavisi kedilerde mi gizli?.",
       "items": [
+        {
+          "title": "Takviyeler çözüm değil. \"Günde yarım saat yürüyün\"",
+          "summary": "Zincirleme Reaksiyon'un bu haftaki bölümünde bağırsak sağlığı ile beyin arasındaki ilişkiyi masaya yatırıldı. Prof. Dr. Yaşar Çolak, takviyelerle alakalı da konuştu. Her Cuma NTV ekranlarında, Seda Öğretir moderatörlüğünde izleyiciyle buluşan Zincirleme Reaksiyon, bu haftaki bölümünde bağırsak sağlığı ile beyin arasındaki ilişkiyi masaya yatırdı. Programın konukları müzisyen Bahadır Tatlıöz ile Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı Prof. Dr. Yaşar Çolak oldu.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-prof-dr-yasar-colak-takviyeler-cozum-degil-gunde-yarim-saat-yuruyun-1744621"
+        },
         {
           "title": "Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat",
           "summary": "Mevsim değişikliği grip ve nezle vakalarını artırdı. Özellikle çocuklarda vakalar yükselirken, uzmanlar velileri ve öğretmenleri hijyene dikkat etmeleri konusunda uyarıyor.",
@@ -235,17 +240,17 @@
           "title": "Kanser tedavisi kedilerde mi gizli?",
           "summary": "Kedilerdeki bazı kanser türlerinin insan kanserleriyle genetik benzerlik taşıdığı ortaya çıktı. Bu keşif, yeni kanser tedavilerinin geliştirilmesine ışık tutabilir.",
           "source": "https://www.ntv.com.tr/saglik/video-kanser-tedavisi-kedilerde-mi-gizli-1744197"
-        },
-        {
-          "title": "Doğada kendiliğinden yetişiyor. Vücuttaki zararlı toksinleri temizliyormuş",
-          "summary": "Yozgat'ın Sorgun ilçesine bağlı Boğazcumafakılı köyünde, sonbaharın gelmesiyle birlikte doğal olarak yetişen alıç meyvesinin hasadı başladı. Yozgat genelinde kırsal alanlarda kendiliğinden yetişen ve şifa kaynağı olarak bilinen alıç, Sorgun ilçesine bağlı Boğazcumafakılı köyü sakinleri için besin deposu oldu. Dağlık ve kayalık arazilerin yolunu tutan köylüler, sarı veya kırmızı renkleriyle dalları süsleyen alıçları özenle topluyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-dogada-kendiliginden-yetisiyor-vucuttaki-zararli-toksinleri-temizliyormus-1744144"
         }
       ]
     },
     "magazin": {
-      "text": "Düğün sonrası ilk görüntü.",
+      "text": "Muhabirlere ‘aşk’ sözü. Düğün sonrası ilk görüntü.",
       "items": [
+        {
+          "title": "Muhabirlere ‘aşk’ sözü",
+          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
+        },
         {
           "title": "Düğün sonrası ilk görüntü",
           "summary": "Ünlü şarkıcı Zeynep Bastık, 2 Eylül’de nikâh masasına oturduğu Serkay Tütüncü ile önceki gün Çeşme’de özel bir plajda görüntülendi.",
