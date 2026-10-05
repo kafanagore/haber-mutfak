@@ -1,70 +1,65 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-05T10:00:03.755Z",
+  "generatedAt": "2026-10-05T16:00:03.906Z",
   "categories": {
     "gundem": {
-      "text": "İsrail'in Suriye'deki girişimine Dışişleri'nden tepki. Tanju Özcan cinsel saldırı davasında beraat etti. Hakem Yasin Kol’un MASAK raporu: 62,5 milyon TL yatırılmış. AK Parti Sözcüsü Çelik: Harem-i İbrahim Camii'ne yönelik provokasyonları lanetliyoruz. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. İşten dönünce koltukta uyuyakaldı, uyandığında felç kaldı. Çöpteki kolilerden dev uyuşturucu ağı çıktı: Kağıthane polisi iğneyle kuyu kazdı, milyonluk zulayı buldu.",
+      "text": "Yasin Kol ile Göktuğ Hazar Erel tutuklandı. Fon soruşturmasında yeni gelişme! Başsavcılık 3 ismin hisse hareketlerinin incelenmesini istedi. Fon soruşturmasında yurt içi ve yurt dışı para transferleri için yeni inceleme başlatıldı. NASA’nın Adana doğumlu astronotu Deniz Burnham: Uzaydan hemşehrilerime el sallayacağım. Türk Kanser Derneği'nden erken tanı uyarısı: Korkmayın ama ertelemeyin. Turhal Şeker Fabrikası'nda gaz sızıntısı: 26 işçi zehirlendi, 1 çalışanın durumu ağır. Bakan Ersoy, Bursevî’nin 300 yıllık mirasını Cumhurbaşkanı Erdoğan’a takdim etti.",
       "items": [
         {
-          "title": "İsrail'in Suriye'deki girişimine Dışişleri'nden tepki",
-          "summary": "Dışişleri Bakanlığı, İsrail'in Suriye'nin Kuneytra vilayetindeki faaliyetlerini kınadı.",
-          "source": "https://www.hurriyet.com.tr/gundem/israilin-suriyedeki-girisimine-disislerinden-tepki-43330138"
+          "title": "Yasin Kol ile Göktuğ Hazar Erel tutuklandı",
+          "summary": "Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel tutuklandı. Kol ifadesinde suçlamaları reddetti ve MASAK raporundaki verilerin hatalı olduğunu öne sürdü. İstanbul Cumhuriyet Başsavcılığı Yasa Dışı Bahis ve Spor Suçları Bürosu tarafından yürütülen ve “hakemler dosyası” olarak bilinen soruşturma sürüyor. Son olarak Mali Suçları Araştırma Kurulu'nun (MASAK) hazırladığı rapor nedeniyle tartışılan Yasin Kol ve Göktuğ Hazar Erel bugün tutuklandı.",
+          "source": "https://www.ntv.com.tr/turkiye/yasin-kol-ile-goktug-hazar-erel-tutuklandi-1744931"
         },
         {
-          "title": "Tanju Özcan cinsel saldırı davasında beraat etti",
-          "summary": "Bolu Belediye Başkanlığı görevinden uzaklaştırılan tutuklu Tanju Özcan \"cinsel saldırı\" davasında beraat etti. İrtikap soruşturması kapsamında tutukluluğu sürüyor. Şubat ayında ‘İcbar suretiyle irtikap’ soruşturması kapsamında tutuklanıp Bolu Belediye Başkanlığı görevinden uzaklaştırılan Tanju Özcan hakkında, belediye personeli Öznur Ç.’nin şikayeti sonrası, ‘Nitelikli cinsel saldırı’ ve ‘Zincirleme şekilde kişiyi hürriyetinden yoksun kılma’ suçlarından da dava açılmıştı.",
-          "source": "https://www.ntv.com.tr/turkiye/tanju-ozcan-cinsel-saldiri-davasinda-beraat-etti-1744900"
+          "title": "Fon soruşturmasında yeni gelişme! Başsavcılık 3 ismin hisse hareketlerinin incelenmesini istedi",
+          "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen sermaye piyasası soruşturması kapsamında Serdar Turhan, Muhammed Yarız ve Şaban Serkan İlaldı’nın banka ve aracı kurum hesaplarında bulunan hisse senetlerinin Ocak 2025’ten itibaren geriye dönük olarak incelenmesi istendi. Başsavcılık, hisselerin başka hesaplara veya yurt dışındaki banka ve aracı kurumlara aktarılıp aktarılmadığının tespit edilmesini talep etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-bassavcilik-3-ismin-hisse-hareketlerinin-incelenmesini-istedi-43330641"
         },
         {
-          "title": "Hakem Yasin Kol’un MASAK raporu: 62,5 milyon TL yatırılmış",
-          "summary": "Süper Lig hakemi Yasin Kol’un MASAK raporu ortaya çıktı. İşlem hacmi 2020’den itibaren ciddi artış gösterirken sadece 2026 yılında hesabına 22,3 TL para yatırılmış.",
-          "source": "https://www.hurriyet.com.tr/gundem/hakem-yasin-kolun-masak-raporu-62-5-milyon-tl-yatirilmis-43330114"
+          "title": "Fon soruşturmasında yurt içi ve yurt dışı para transferleri için yeni inceleme başlatıldı",
+          "summary": "Fon soruşturması kapsamında üç şüphelinin Ocak 2025’ten bu yana gerçekleştirdiği hisse virmanları ile yurt dışına yapılan olası transferlerin incelenmesini istendi. İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu tarafından yürütülen fon soruşturmasında yeni bir inceleme başlatıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yurt-ici-ve-yurt-disi-para-transferleri-icin-yeni-inceleme-baslatildi-1744949"
         },
         {
-          "title": "AK Parti Sözcüsü Çelik: Harem-i İbrahim Camii'ne yönelik provokasyonları lanetliyoruz",
-          "summary": "AK Parti Sözcüsü Ömer Çelik, Harem-i İbrahim Camii’ne yönelik provokasyonları lanetledi. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Harem-i İbrahim Camii’ne yönelik devam eden insanlık dışı saygısızlıkları ve işgalcilerin camide yaptığı provokasyonları lanetliyoruz.\" dedi. Ömer Çelik, sosyal medya hesabından yaptığı açıklamada şu ifadelere yer verdi: “Harem-i İbrahim Camii’ne yönelik devam eden insanlık dışı saygısızlıkları ve işgalcilerin camide yaptığı provokasyonları lanetliyoruz.",
-          "source": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-celik-harem-i-ibrahim-camiine-yonelik-provokasyonlari-lanetliyoruz-1744896"
+          "title": "NASA’nın Adana doğumlu astronotu Deniz Burnham: Uzaydan hemşehrilerime el sallayacağım",
+          "summary": "NASA’nın Adana doğumlu astronotu Deniz Burnham, 2027 yılında gerçekleştirilmesi planlanan ilk uzay görevi öncesinde yayınladığı video mesajıyla Türkiye’de yaşayan ailesine ve Adanalı hemşehrilerine seslendi. Burnham, “Uzaydan anneannem ile dedeme, Adanalı hemşehrilerime ve bütün dünyaya el sallayacağım” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/nasanin-adana-dogumlu-astronotu-deniz-burnham-uzaydan-hemsehrilerime-el-sallayacagim-43330638"
         },
         {
-          "title": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi",
-          "summary": "Vali Davut Gül'ün katılımıyla düzenlenen toplantıda İstanbul'un 9 aylık güvenlik verileri kamuoyuyla paylaşıldı. Vali Gül, organize suç örgütlerine 343 operasyon yapıldığını, mal varlığına karşı işlenen suçlarda ise belirgin düşüşler yaşandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-2026nin-ilk-9-aylik-suc-ve-operasyon-bilancosu-aciklandi-130-cete-cokertildi-43330059"
+          "title": "Türk Kanser Derneği'nden erken tanı uyarısı: Korkmayın ama ertelemeyin",
+          "summary": "Ekim Meme Kanseri Farkındalık Ayı dolayısıyla düzenlenen toplantıda uzmanlar erken teşhisin hayat kurtardığına vurgu yaptı. Dernek başkanı Burak Duruman, ücretsiz taramalar için vatandaşlara çağrıda bulunurken, uzmanlar 40 yaşından itibaren rutin taramaların önemine dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/gundem/turk-kanser-derneginden-erken-tani-uyarisi-korkmayin-ama-ertelemeyin-43330607"
         },
         {
-          "title": "İşten dönünce koltukta uyuyakaldı, uyandığında felç kaldı",
-          "summary": "Antalya'da iş dönüşü koltukta uyuyakalan Serkan Özdemir, geçirdiği felç sonucu 3 yıldır yatağa bağımlı olarak yaşıyor. Antalya'nın Muratpaşa ilçesinde yalnız yaşayan ve bir ayakkabı mağazasında satış danışmanı olarak çalışan Serkan Özdemir, 2023 yılında işten çıkıp evine gitti. Dinlenmek için koltuğa uzanan Özdemir, aynı yerde uyuyakaldı. Sabah işe gitmek için uyanan Özdemir, ayağa kalkmak için davranınca yattığı yere düştü.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-isten-donunce-koltukta-uyuyakaldi-uyandiginda-felc-kaldi-1744887"
+          "title": "Turhal Şeker Fabrikası'nda gaz sızıntısı: 26 işçi zehirlendi, 1 çalışanın durumu ağır",
+          "summary": "Tokat'ın Turhal ilçesindeki şeker fabrikasında rutin kireç yakma işlemi sırasında sızan karbonmonoksit ve karbondioksit gazından etkilenen 26 fabrika çalışanı hastanede tedavi altına alındı. Olayla ilgili inceleme başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turhal-seker-fabrikasinda-gaz-sizintisi-26-isci-zehirlendi-1-calisanin-durumu-agir-43330598"
         },
         {
-          "title": "Çöpteki kolilerden dev uyuşturucu ağı çıktı: Kağıthane polisi iğneyle kuyu kazdı, milyonluk zulayı buldu",
-          "summary": "Kağıthane'de çöp konteynerinde bulunan kolilerden yola çıkan asayiş ekipleri, Fatih ve Başakşehir'de belirlenen adreslere düzenledikleri operasyonlarda 643 binden fazla uyuşturucu hap ve yüzlerce kilogram hammadde ele geçirdi. Olayla ilgili 5 şüpheli yakalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/copteki-kolilerden-dev-uyusturucu-agi-cikti-kagithane-polisi-igneyle-kuyu-kazdi-milyonluk-zulayi-buldu-43330044"
+          "title": "Bakan Ersoy, Bursevî’nin 300 yıllık mirasını Cumhurbaşkanı Erdoğan’a takdim etti",
+          "summary": "Bakan Mehmet Nuri Ersoy, İsmâil Hakkı Bursevî’nin kendi el yazısıyla hazırladığı 16 defterlik Rûhu’l-Beyân’ın tıpkıbasımını Cumhurbaşkanı Erdoğan’a takdim etti. 23 YILDA TAMAMLANAN ESER İLK KEZ TIPKIBASIM OLARAK YAYIMLANDI Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Cumhurbaşkanı Recep Tayyip Erdoğan’a büyük Osmanlı âlimi İsmâil Hakkı Bursevî’nin Rûhu’l-Beyân fî Tefsîri’l-Kur’ân adlı eserinin müellif nüshasının tıpkıbasımını takdim etti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-ersoy-bursevinin-300-yillik-mirasini-cumhurbaskani-erdogana-takdim-etti-1744942"
         }
       ]
     },
     "dunya": {
-      "text": "Dışişleri Bakanlığı, İsrail’in Suriye’deki faaliyetlerine kınama. Nobel Tıp Ödülü açıklandı. Üç bilim insanı 1,2 milyon doları paylaştı. 2026 Nobel Tıp Ödülü sahiplerini buldu. Avrupa Birliği'nden Rusya'ya rest. \"Kiev'de kalmaya devam edeceğiz\". Milyarderler İngiltere'yi terk ediyor. Ülkeden çıkan servet 160 milyar dolara ulaştı. Konut krizi büyüdü. İspanya Başbakanı Sanchez, erken seçime gitme kararı aldı. Fransa'da lise eylemleri büyüyor. 5 bin kişi gözaltına alındı, yüzlerce okul kapandı.",
+      "text": "Fransa'da liseli eylemleri büyüyor. Kongo Nehri'nde tekne faciası: 30 kişi hayatını kaybetti... Onlarca kişi kayıp. Rusya'da \"veba\" iddiası paniğe yol açtı. 1 ölü, 200 kişi gözetim altında. Milyarderler İngiltere'yi terk ediyor. Ülkeden çıkan servet 160 milyar dolara ulaştı. 37 günlük kesintisiz yağmur rekorunun ardından Tokyo'da güneş açtı. Gazze'de can kaybı 74 bin 243’e yükseldi. Rum Yönetimi'nden skandal Kapalı Maraş önerisi.",
       "items": [
         {
-          "title": "Dışişleri Bakanlığı, İsrail’in Suriye’deki faaliyetlerine kınama",
-          "summary": "Dışişleri Bakanlığı, İsrail’in, Suriye’nin Kuneytra vilayetinde sözde \"Sufa 53 hattı\" üzerindeki çalışmalarını yeniden başlatmasını kınadı. Dışişleri Bakanlığı, İsrail'in Suriye'deki faaliyetlerine ilişkin açıklamada bulundu. Açıklamada İsrail’in, Suriye’nin Kuneytra vilayetinde sözde “Sufa 53 hattı” üzerindeki çalışmalarını yeniden başlatarak 1974 Kuvvetlerin Ayrıştırılması Anlaşması’nı aşındırması ve Suriye’de yeni oldubittiler yaratmaya yönelik faaliyetleri güçlü bir şekildi kınandı.",
-          "source": "https://www.ntv.com.tr/dunya/disisleri-bakanligi-israilin-suriyedeki-faaliyetlerine-kinama-1744902"
+          "title": "Fransa'da liseli eylemleri büyüyor",
+          "summary": "Fransa’da eğitim koşullarının iyileştirilmesi talebiyle düzenlenen, şiddet olaylarının da yaşandığı lise eylemleri yüzlerce okulda devam ediyor. Fransa'nın en büyük lise sendikası olan USL, hükümetin liselilerin taleplerini karşılamadığını ifade ederek eylemlerin devam edeceğini kaydetti. Fransa'nın en büyük sendikası CGT, salı gününden itibaren eylemlere katılacağını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-liseli-eylemleri-buyuyor-43330590"
         },
         {
-          "title": "Nobel Tıp Ödülü açıklandı. Üç bilim insanı 1,2 milyon doları paylaştı",
-          "summary": "2026 Nobel Tıp Ödülü, beyindeki sinir hücrelerinin ışıkla kontrol edilmesini sağlayan optogenetik keşifleri nedeniyle Amerikalı Deisseroth ile Alman araştırmacılar Hegemann ve Nagel'e verildi. 2026 Nobel Tıp Ödülü, ışığa duyarlı iyon kanalları ve optogenetik alanındaki keşifleri nedeniyle Amerikalı bilim insanı Karl Deisseroth ile Alman araştırmacılar Peter Hegemann ve Georg Nagel'e verildi.",
-          "source": "https://www.ntv.com.tr/dunya/nobel-tip-odulu-aciklandi-uc-bilim-insani-12-milyon-dolari-paylasti-1744903"
+          "title": "Kongo Nehri'nde tekne faciası: 30 kişi hayatını kaybetti... Onlarca kişi kayıp",
+          "summary": "Kongo Demokratik Cumhuriyeti'ndeki (KDC) Kongo Nehri'nde iki teknenin çarpışması sonucu 30 kişinin öldüğü bildirildi. Kazanın ardından onlarca kişiden haber alınamadığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kongo-nehrinde-tekne-faciasi-30-kisi-hayatini-kaybetti-onlarca-kisi-kayip-43330573"
         },
         {
-          "title": "2026 Nobel Tıp Ödülü sahiplerini buldu",
-          "summary": "2026 Nobel Fizyoloji veya Tıp Ödülü, \"ışıkla kontrol edilen iyon kanalları ve optogenetik alanındaki keşifleri\" nedeniyle Karl Deisseroth, Peter Hegemann ve Georg Nagel’e verildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/nobel-tip-odulu-sahibini-buldu-43330124"
-        },
-        {
-          "title": "Avrupa Birliği'nden Rusya'ya rest. \"Kiev'de kalmaya devam edeceğiz\"",
-          "summary": "AB, Rusya Dışişleri'nin, yabancı ülke vatandaşları ve diplomatlara Kiev'i terk etmeleri ve Ukrayna'ya seyahat etmemeleri yönündeki uyarısına rağmen Kiev'de mevcudiyetini sürdüreceğini bildirdi. Avrupa Birliği (AB) Dış İlişkiler Servisi'nin (EEAS), X sosyal medya platformundaki hesabından konuya ilişkin paylaşım yapıldı. Paylaşımda, \"Biz Kiev'de kalmaya devam edeceğiz.\" ifadesi kullanıldı.",
-          "source": "https://www.ntv.com.tr/dunya/avrupa-birliginden-rusyaya-rest-kievde-kalmaya-devam-edecegiz-1744893"
+          "title": "Rusya'da \"veba\" iddiası paniğe yol açtı. 1 ölü, 200 kişi gözetim altında",
+          "summary": "Rusya'da veba araştırma merkezinde çalışan bir kadının ölümü, 5 hastanenin bir anda kapatılması ve yaklaşık 200 kişinin gözetim altına alınması \"veba salgını\" iddialarını gündeme getirdi. Rusya'nın Sibirya bölgesinde veba araştırma enstitüsünde çalışan bir kadın laborantın ölümü; laboratuvar kazası ve salgın iddialarını gündeme getirdi. Olası salgın nedeniyle 5 hastanenin kapatıldığı belirtiliyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-rusyada-veba-iddiasi-panige-yol-acti-1-olu-200-kisi-gozetim-altinda-1744876"
         },
         {
           "title": "Milyarderler İngiltere'yi terk ediyor. Ülkeden çıkan servet 160 milyar dolara ulaştı",
@@ -72,20 +67,30 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-milyarderler-ingiltereyi-terk-ediyor-ulkeden-cikan-servet-160-milyar-dolara-ulasti-1744892"
         },
         {
-          "title": "Konut krizi büyüdü. İspanya Başbakanı Sanchez, erken seçime gitme kararı aldı",
-          "summary": "İspanya Başbakanı Pedro Sanchez, konut krizine çözüm içeren kararnamelerin mecliste reddedilmesinin ardından erken seçime gitme kararı aldığını açıkladı. Bakanlar Kurulu'nda 29 Eylül'de alınan konut sorununa çözümler öngören iki kararnamenin mecliste 2 Ekim'de yapılan oylamada reddedilmesi sonrasında Sanchez, Başbakanlık konutu Moncloa'da basına kapalı canlı bir konuşma yaparak erken seçim kararını duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/konut-krizi-buyudu-ispanya-basbakani-sanchez-erken-secime-gitme-karari-aldi-1744885"
+          "title": "37 günlük kesintisiz yağmur rekorunun ardından Tokyo'da güneş açtı",
+          "summary": "Tam 37 gün aralıksız yağış alan Japonya'nın başkenti Tokyo hafta sonunda nihayet güneşli günlere kavuştu. Ardışık yağışlı gün rekorunu kıran Tokyo, bu dönemde normalin üç katı yağış gördü. Japonya'nın başkenti Tokyo'da kesintisiz 37 gün yağan yağmur, sonunda yerini güneşli havaya bıraktı. Hava durumu kayıtlarının tutulmaya başlandığı 1886 yılından bu yana, yani 140 yıldır ilk kez bu kadar uzun süreli yağışa maruz kalarak kendi rekorunu kıran Tokyo, hafta sonunu güneşli geçirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-37-gunluk-kesintisiz-yagmur-rekorunun-ardindan-tokyoda-gunes-acti-1744934"
         },
         {
-          "title": "Fransa'da lise eylemleri büyüyor. 5 bin kişi gözaltına alındı, yüzlerce okul kapandı",
-          "summary": "Fransa'da eğitim koşullarını protesto eden lise öğrencilerinin eylemleri nedeniyle 500'e yakın okul kapılarını kapatırken, olaylarda yaklaşık 5 bin kişi gözaltına alındı. Fransa'da bakımsız derslikler, aşırı kalabalık sınıflar ve öğretmen açığı gerekçesiyle lise öğrencilerinin başlattığı protestolar ikinci haftasına girdi. Ülke genelinde yüzlerce lise eğitime tamamen veya kısmen ara verirken, öğrenci sendikaları salı günü için ülke çapında genel gösteri çağrısı yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-lise-eylemleri-buyuyor-5-bin-kisi-gozaltina-alindi-yuzlerce-okul-kapandi-1744882"
+          "title": "Gazze'de can kaybı 74 bin 243’e yükseldi",
+          "summary": "İsrail'in 7 Ekim 2023'ten bu yana saldırılar düzenlediği Gazze Şeridi'nde hayatını kaybedenlerin sayısı 74 bin 243’e, yaralı sayısı ise 175 bin 232’ye ulaştı. Filistin Sağlık Bakanlığı, İsrail’in ateşkes anlaşmasına rağmen sivilleri hedef aldığı Gazze Şeridi'ndeki son duruma ilişkin açıklama yaptı. Bakanlık tarafından yapılan açıklamada, İsrail ordusunun son 24 saatte ateşkesi ihlal ederek düzenlediği saldırılarda 3 kişinin hayatını kaybettiği, 26 kişinin de yaralandığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/gazzede-can-kaybi-74-bin-243e-yukseldi-1744939"
+        },
+        {
+          "title": "Rum Yönetimi'nden skandal Kapalı Maraş önerisi",
+          "summary": "Güney Kıbrıs Rum Yönetimi (GKRY) Cumhurbaşkanı Nikos Hristodulidis'in Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman'a ilettiği 19 maddelik öneri paketinde dikkat çeken bir formül yer aldı. Buna göre Kapalı Maraş, Birleşmiş Milletler (BM) yönetimine devredilecek ve Rumların bölgeye geri dönüşü sağlanacak. Planda, Gazimağusa Limanı'nın Avrupa Komisyonu gözetiminde işletilmesi de yer aldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/rum-yonetiminden-skandal-kapali-maras-onerisi-43330490"
         }
       ]
     },
     "ekonomi": {
-      "text": "Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar.",
+      "text": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık.",
       "items": [
+        {
+          "title": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi",
+          "summary": "Vali Davut Gül'ün katılımıyla düzenlenen toplantıda İstanbul'un 9 aylık güvenlik verileri kamuoyuyla paylaşıldı. Vali Gül, organize suç örgütlerine 343 operasyon yapıldığını, mal varlığına karşı işlenen suçlarda ise belirgin düşüşler yaşandığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-2026nin-ilk-9-aylik-suc-ve-operasyon-bilancosu-aciklandi-130-cete-cokertildi-43330059"
+        },
         {
           "title": "Online alışverişte sahte yoruma erişim engeli",
           "summary": "Ticaret Bakanlığı, e-ticarette sahte yorum ve puanlarla tüketiciyi kandıran işletmelere karşı harekete geçti. Sahte yorum ve puana yer veren sitelere erişim engeli getirdi. (Haber: Evra Balkı) Artık e-ticarette, ürünlere yapılan sahte puanlama ve yorumların önü kesiliyor. Gelen şikayetler üzerine Ticaret Bakanlığı Reklam Kurulu, takipçi ve yorum satışı yapan internet siteleri ile sahte yorumlara yer veren e-ticaret sitelerine yönelik inceleme başlattı.",
@@ -115,57 +120,72 @@
           "title": "Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık",
           "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasalarında yaşanan son gelişmelere ilişkin, \"Çok hızlı hareket ettik. Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bahse konu fonların tasfiyesi ve çözümlenmesi süreci başladı. Burada amacımız, bulaşıcılığın sistemin geri kalanına yayılmasını durdurmaktı ve bunda büyük ölçüde başarılı olduğumuzu düşünüyoruz.\" dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-simsek-sorunlu-portfoy-yonetim-sirketlerini-ve-ilgili-fonlari-karantinaya-aldik-43326466"
-        },
-        {
-          "title": "Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar",
-          "summary": "Ticaret Bakanı Ömer Bolat, G20 Ticaret Bakanları Toplantısı kapsamında Rusya Ekonomik Kalkınma Bakanı Maksim Reşetnikov ve Polonya Maliye ve Ekonomi Bakanı Andrzej Domanski ile bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-rusya-ekonomik-kalkinma-bakani-resetnikov-ile-gorustu-43326445"
         }
       ]
     },
     "spor": {
-      "text": "Zihin antrenmanıyla dünya şampiyonu oldular. Arnavutluk’tan Kapadokya’ya koşuyor!. Fenerbahçe'de Greenwood için ceza tehlikesi! Süper Lig'de forma giyebilecek mi?. Eczacıbaşı kaptanı Simge Aköz'ün 5 kupada da şampiyonluğa inancı tam. Jorge Jesus'tan Ronaldo sorusuna sert çıkış! 'Kimseden özür dilemem'. Misli üyeleri Fransa’dan iç sahada, İsveç’ten ise deplasmanda galibiyet bekliyor…İşte Misli’de günün en çok oynanan maçları. İsveç’te KG Var serisi sürüyor! Belçika’nın maçlarında dikkat çeken gol sayısı… İşte Misli’den günün tüyoları.",
+      "text": "Fenerbahçe'nin efsane kalecisi Ilie Datcu hayatını kaybetti! Rekoru 56 yıldır kırılamıyor. 2027 Kadınlar Voleybol Dünya Kupası'na katılacak ülkeler belli oldu. Antonio Conte'den N'Golo Kante itirafı!. Fenerbahçe'de Muriqi müjdesi! Asensio ve Lukaku dahil oluyor. UEFA'dan Mehmet Türkmen'e Uluslar Ligi'nde görev. Tarık Biberovic: 'Burada olabilmek için çok şeyden vazgeçtim'. Arda Güler, Real Madrid ile anlaştı! Dev zam.",
       "items": [
         {
-          "title": "Zihin antrenmanıyla dünya şampiyonu oldular",
-          "summary": "Ankara TVF Spor Lisesi Erkek Voleybol Takımı, altı hafta boyunca fiziksel antrenmanlarının ardından zihinsel antrenman yaptı. Beyin ölçümlerinde, hareketle ilişkili bölgelerde aktivasyon artışı belirlenen sporcular, daha sonra Çin’de dünya şampiyonluğuna ulaştı.",
-          "source": "https://www.hurriyet.com.tr/egitim/zihin-antrenmaniyla-dunya-sampiyonu-oldular-43330148"
+          "title": "Fenerbahçe'nin efsane kalecisi Ilie Datcu hayatını kaybetti! Rekoru 56 yıldır kırılamıyor",
+          "summary": "Fenerbahçe'de forma giydiği 5 sezonda 3 lig şampiyonluğu yaşayan ve Süper Lig tarihinde \"bir sezonda en az gol yiyen kaleci\" unvanının halâ sahibi olan Rumen file bekçisi Ilie Datcu, 89 yaşında hayata gözlerini yumdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-efsane-kalecisi-ilie-datcu-hayatini-kaybetti-43330589"
         },
         {
-          "title": "Arnavutluk’tan Kapadokya’ya koşuyor!",
-          "summary": "İngiliz sporcu Nick Coats, Salomon Cappadocia Ultra Trail için Arnavutluk’tan koşmaya başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arnavutluktan-kapadokyaya-kosuyor-43330093"
+          "title": "2027 Kadınlar Voleybol Dünya Kupası'na katılacak ülkeler belli oldu",
+          "summary": "2027 FIVB Kadınlar Voleybol Dünya Kupası'nda yer alacak 32 ülke belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/2027-kadinlar-voleybol-dunya-kupasina-katilacak-ulkeler-belli-oldu-43330569"
         },
         {
-          "title": "Fenerbahçe'de Greenwood için ceza tehlikesi! Süper Lig'de forma giyebilecek mi?",
-          "summary": "Fenerbahçe'de Turan Tovuz ile oynanan hazırlık maçında kırmızı kart gören Mason Greenwood'un Süper Lig'de cezalı duruma düşüp düşmeyeceği merak edilirken TFF'nin ilgili talimatındaki hüküm dikkat çekti. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-greenwood-icin-ceza-tehlikesi-super-ligde-forma-giyebilecek-mi-43329799"
+          "title": "Antonio Conte'den N'Golo Kante itirafı!",
+          "summary": "Antonio Conte, Fenerbahçe forması giyen N'Golo Kante için dikkat çeken açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/antonio-conteden-ngolo-kante-itirafi-43330444"
         },
         {
-          "title": "Eczacıbaşı kaptanı Simge Aköz'ün 5 kupada da şampiyonluğa inancı tam",
-          "summary": "Eczacıbaşı Peron İstanbul Kadın Voleybol Takımı'nın kaptanı Simge Aköz, yeni sezonda mücadeleci ve dirençli bir oyun ortaya koymak istediklerini belirterek mücadele edecekleri 5 kulvarda da şampiyonluk hedeflediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/eczacibasi-kaptani-simge-akozun-5-kupada-da-sampiyonluga-inanci-tam-43330007"
+          "title": "Fenerbahçe'de Muriqi müjdesi! Asensio ve Lukaku dahil oluyor",
+          "summary": "Fenerbahçe, milli ara sonrası yeni bir sayfa açıyor. Vedat Muriqi'nin durumunun iyi olması, Asensio'nun dönüşü ile beraber Rizespor maçında Lukaku'dan beklentiler belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-muriqi-mujdesi-asensio-ve-lukaku-dahil-oluyor-43330364"
         },
         {
-          "title": "Jorge Jesus'tan Ronaldo sorusuna sert çıkış! 'Kimseden özür dilemem'",
-          "summary": "UEFA Uluslar Ligi A Ligi'nde Portekiz, Norveç'i evinde 2-1 mağlup etti. Jorge Jesus karşılaşma sonrası Cristiano Ronaldo hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jorge-jesustan-ronaldo-sorusuna-sert-cikis-kimseden-ozur-dilemem-43329992"
+          "title": "UEFA'dan Mehmet Türkmen'e Uluslar Ligi'nde görev",
+          "summary": "FIFA kokartlı hakem Mehmet Türkmen, Arnavutluk ile San Marino arasında oynanacak UEFA Uluslar C Ligi 1. Grup müsabakasını yönetecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefadan-mehmet-turkmene-uluslar-liginde-gorev-43330398"
         },
         {
-          "title": "Misli üyeleri Fransa’dan iç sahada, İsveç’ten ise deplasmanda galibiyet bekliyor…İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/misli-uyeleri-fransadan-ic-sahada-isvecten-ise-deplasmanda-galibiyet-bekliyor-iste-mislide-gunun-en-cok-oynanan-maclari-43329993"
+          "title": "Tarık Biberovic: 'Burada olabilmek için çok şeyden vazgeçtim'",
+          "summary": "Fenerbahçe'den Dallas Mavericks’e transfer olan milli basketbolcuTarık Biberovic, yeni takımında sadece şutörlüğüyle değil, savunma, ribaund ve basketbol zekasıyla da fark yaratmak istediğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tarik-biberovic-burada-olabilmek-icin-cok-seyden-vazgectim-43330377"
         },
         {
-          "title": "İsveç’te KG Var serisi sürüyor! Belçika’nın maçlarında dikkat çeken gol sayısı… İşte Misli’den günün tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/isvecte-kg-var-serisi-suruyor-belcikanin-maclarinda-dikkat-ceken-gol-sayisi-iste-misliden-gunun-tuyolari-43329983"
+          "title": "Arda Güler, Real Madrid ile anlaştı! Dev zam",
+          "summary": "Real Madrid'in milli yıldızı Arda Güler, İspanyol yönetimi ile el sıkıştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-guler-real-madrid-ile-anlasti-dev-zam-43330311"
         }
       ]
     },
     "teknoloji": {
-      "text": "Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi. Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı. ‘İK sadece süreçleri yöneten değil, değişime yön veren olmalı’. İletişim Başkanı Duran: TEKNOFEST ruhu Türkiye'nin dört bir yanında. Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek. Yapay zekaya trilyonluk yatırım. Getiri beklentiyi karşılayacak mı?. Tesla Avrupa satışlarıyla toparlandı. Gözler 21 Ekim bilançosunda.",
+      "text": "Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı. NASA'dan Türkiye açıklaması: Türkiye Ay üssümüzü inşa etmeye yardımcı olabilir. Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi. Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı. ‘İK sadece süreçleri yöneten değil, değişime yön veren olmalı’.",
       "items": [
+        {
+          "title": "Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı",
+          "summary": "Yapay zeka modellerine \"ahlak\" öğretilmesi veya insan muhakemesinin bu araçlara \"teslim edilmesine\" yönelik çabalar, sektörün öncüleri arasında yeni bir tartışma yarattı. Yapay zeka sohbet robotu ChatGPT'yi geliştiren ABD merkezli teknoloji şirketi OpenAI'ın Üst Yöneticisi (CEO) Sam Altman, konuya ilişkin görüşünü ABD merkezli X şirketinin sosyal medya platformundaki hesabında paylaştı.",
+          "source": "https://www.ntv.com.tr/teknoloji/yapay-zekada-ahlak-tartismasi-sam-altmandan-dikkat-ceken-uyari-1744948"
+        },
+        {
+          "title": "Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi",
+          "summary": "Norveç hükümeti, mahremiyet kaygıları nedeniyle park, okul ve plaj gibi kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmeyi planlıyor. Norveç hükümeti, kişilerin bilgisi ve rızası dışında görüntü kaydı yapılmasının yarattığı mahremiyet endişeleri nedeniyle kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmek istiyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-akilli-gozluklere-tepki-buyuyor-satislar-durdu-pes-pese-davalar-geldi-1744941"
+        },
+        {
+          "title": "Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı",
+          "summary": "Alışveriş platformu Trendyol, yapay zekâ ve makine öğrenmesi çözümlerini “Yapay Zeka/Makine Öğrenimi Zirvesi: Ölçeklenebilir Yapay Zeka” (AI/ML Summit: AI at Scale) buluşmasında profesyoneller ve akademisyenlerle paylaştı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-ve-makine-ogrenimi-zirvesi-tamamlandi-43330538"
+        },
+        {
+          "title": "NASA'dan Türkiye açıklaması: Türkiye Ay üssümüzü inşa etmeye yardımcı olabilir",
+          "summary": "NASA Başkan Yardımcısı Matt Anderson, \"Uzay, Türkiye için ulusal bir öncelik ve Artemis Anlaşmaları'nın imzalanmasıyla açıkça görülüyor ki Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde Türkiye için bir ulusal öncelik haline gelmiştir. Dolayısıyla bu ortaklığı dört gözle bekliyoruz ve buradan nereye gideceğini göreceğiz\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/nasadan-turkiye-aciklamasi-bu-ortakligi-dort-gozle-bekliyoruz-43330318"
+        },
         {
           "title": "Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi",
           "summary": "Bilim insanları pahalı metallere ihtiyaç duymadan güneş ışığıyla suyu ayrıştırıp temiz hidrojen gazı üreten yeni bir kristal malzeme geliştirdi. ABD'deki Oregon Eyalet Üniversitesi'nden kimya mühendisleri, güneş ışığını doğrudan kullanarak suyu ayrıştıran ve pahalı metal katalizörlere ihtiyaç duymadan temiz hidrojen gazı üreten yeni bir fotokatalitik malzeme sınıfı geliştirdi. Araştırmada, metal-organik kafes mimarisine sahip 'BVR-19' adı verilen kristal yapı mercek altına alındı.",
@@ -180,26 +200,6 @@
           "title": "‘İK sadece süreçleri yöneten değil, değişime yön veren olmalı’",
           "summary": "Teknolojiyle insan arasındaki ilişkinin yeniden şekillendiği bir dönemden geçildiğini söyleyen Vakıf Katılım İnsan Kaynakları Genel Müdür Yardımcısı Ersin Çatalbaş, “Bizim için asıl mesele, teknolojinin gücünü insanımızın potansiyeliyle birleştirerek çalışan deneyimini ve iş yapış biçimlerimizi geliştirmek. Bu doğrultuda yapay zekâyı İK süreçlerimize entegre ederek dijitalleşme çalışmalarımızı sürdürüyoruz.",
           "source": "https://www.hurriyet.com.tr/ik/ik-sadece-surecleri-yoneten-degil-degisime-yon-veren-olmali-43328823"
-        },
-        {
-          "title": "İletişim Başkanı Duran: TEKNOFEST ruhu Türkiye'nin dört bir yanında",
-          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TEKNOFEST Güneydoğu'ya ilişkin, \"Göklerde, denizlerde ve karada kendi teknolojisini geliştiren Türkiye, şimdi gençlerinin hayalleriyle çok daha güçlü bir geleceğe yürüyor. Türkiye Yüzyılı, işte bu gençlerimizin fikirleri, emeği, cesareti ve büyük hayalleriyle yükselecek.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-teknofest-ruhu-turkiyenin-dort-bir-yaninda-43328777"
-        },
-        {
-          "title": "Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek",
-          "summary": "Google, Türkiye özelinde yeni bir uygulama başlattı. Yeni uygulamayla birlikte, Google'da istenmeyen kişisel veriler için başvuru yolu açıldı. Google, Türkiye'de yeni bir uygulama başlatarak, arama motorundan kaldırılması istenen içerikler için başvuru sayfasını devreye aldı. Kişisel Verileri Koruma Kurumu (KVKK) Başkanı Prof. Dr. Faruk Bilir, yeni uygulamayla birlikte Google'ın 30 gün içinde bu bilginin kaldırılıp, kaldırılmayacağına ilişkin yanıt vermek zorunda olduğunu söyledi.",
-          "source": "https://www.ntv.com.tr/teknoloji/googledan-turkiyeye-ozel-yeni-uygulama-30-gun-icinde-yanit-verilecek-1744632"
-        },
-        {
-          "title": "Yapay zekaya trilyonluk yatırım. Getiri beklentiyi karşılayacak mı?",
-          "summary": "Yapay zeka altyapısına yönelik harcamaların 2050 yılına kadar 30 trilyon doları aşması beklenirken ekonomistler yatırımların boşa gitmesinden endişeli. Yapay zeka sektörüne yönelen sermaye akışı, demiryolları ya da internet dönemlerinde görülen harcamaları geride bırakırken ekonomistler yatırımların geri dönüş takvimi ile sahadaki verimlilik artışları arasındaki uyumsuzluğa işaret ediyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zekaya-trilyonluk-yatirim-getiri-beklentiyi-karsilayacak-mi-1744606"
-        },
-        {
-          "title": "Tesla Avrupa satışlarıyla toparlandı. Gözler 21 Ekim bilançosunda",
-          "summary": "Elektrikli araç üreticisi Tesla, üçüncü çeyrekte 486 bin 532 araç teslim ederek Wall Street beklentilerini aştı ve iki yıllık satış daralmasını kırma yoluna girdi. Elektrikli araç üreticisi Tesla, üçüncü çeyrek araç teslimatlarında Wall Street'in beklentilerini aşarak iki yıldır devam eden satış düşüşünü sonlandırma yoluna girdi. Reuters ajansının aktardığı Visible Alpha verilerine göre şirket, temmuz-eylül döneminde analistlerin ortalama 456 bin 896 olan tahminini geride bırakarak 486 bin 532 araç teslim etti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-tesla-avrupa-satislariyla-toparlandi-gozler-21-ekim-bilancosunda-1744580"
         }
       ]
     },
