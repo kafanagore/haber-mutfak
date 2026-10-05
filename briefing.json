@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-05T04:00:03.699Z",
+  "generatedAt": "2026-10-05T10:00:03.755Z",
   "categories": {
     "gundem": {
-      "text": "Günlerce yataktan kaldırmıyor! Vakalar tırmanışta... İşte Türkiye’deki durum ve çok kritik belirtiler. 27 yaşında Milli Piyango ile milyoner olmuştu, yıllar sonra evinde ölü bulundu. Adana ve Osmaniye'de peş peşe depremler. AFAD'dan ön değerlendirme raporları. İzmir’de 7 otomobil, 1 motosikletin karıştığı zincirleme kaza: 4 yaralı. Gürbulak Sınır Kapısında memura bıçaklı tehdit. AK Parti İstanbul Milletvekili Serkan Bayram: Maksadımı aştım. 13 yerinden bıçaklanmıştı! Kan donduran olayda yeni detaylar ortaya çıktı.",
+      "text": "İsrail'in Suriye'deki girişimine Dışişleri'nden tepki. Tanju Özcan cinsel saldırı davasında beraat etti. Hakem Yasin Kol’un MASAK raporu: 62,5 milyon TL yatırılmış. AK Parti Sözcüsü Çelik: Harem-i İbrahim Camii'ne yönelik provokasyonları lanetliyoruz. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. İşten dönünce koltukta uyuyakaldı, uyandığında felç kaldı. Çöpteki kolilerden dev uyuşturucu ağı çıktı: Kağıthane polisi iğneyle kuyu kazdı, milyonluk zulayı buldu.",
       "items": [
         {
-          "title": "Günlerce yataktan kaldırmıyor! Vakalar tırmanışta... İşte Türkiye’deki durum ve çok kritik belirtiler",
-          "summary": "Batı ülkelerinde tırmanışa geçen yeni varyantlar ve artan hastaneye yatışlar, Türkiye’de de solunum yolu şikayetlerinin çoğalmasıyla yeniden gündemde. Yataktan kaldırmayan, günlerce ağrılara neden olan yeni varyant ülkemize geldi mi? Acil servislerdeki gerçek tablo ne? Grip ile Covid nasıl ayrışıyor? Sahadaki son durumu acil tıp uzmanına sorduk.",
-          "source": "https://www.hurriyet.com.tr/gundem/gunlerce-yataktan-kaldirmiyor-vakalar-tirmanista-iste-turkiyedeki-durum-ve-cok-kritik-belirtiler-43329112"
+          "title": "İsrail'in Suriye'deki girişimine Dışişleri'nden tepki",
+          "summary": "Dışişleri Bakanlığı, İsrail'in Suriye'nin Kuneytra vilayetindeki faaliyetlerini kınadı.",
+          "source": "https://www.hurriyet.com.tr/gundem/israilin-suriyedeki-girisimine-disislerinden-tepki-43330138"
         },
         {
-          "title": "27 yaşında Milli Piyango ile milyoner olmuştu, yıllar sonra evinde ölü bulundu",
-          "summary": "Aydın'da 1974 yılında Milli Piyango büyük ikramiyesini kazanan 79 yaşındaki Fikret Otar, yaşadığı maddi sıkıntıların ardından evinde pompalı tüfekle vurulmuş halde ölü bulundu. Olay, Tepecik Mahallesi Krizantem Sokak'taki iki katlı evde meydana geldi. Evden gelen silah sesini duyan komşuların 112 Acil Çağrı Merkezi'ne ihbarı üzerine adrese sağlık ve polis ekipleri sevk edildi. Eve giren ekipler, Fikret Otar'ı (79) pompalı tüfekle vurulmuş halde buldu. Yapılan kontrolde Otar'ın hayatını kaybettiği belirlendi.",
-          "source": "https://www.ntv.com.tr/turkiye/27-yasinda-milli-piyango-ile-milyoner-olmustu-yillar-sonra-evinde-olu-bulundu-1744816"
+          "title": "Tanju Özcan cinsel saldırı davasında beraat etti",
+          "summary": "Bolu Belediye Başkanlığı görevinden uzaklaştırılan tutuklu Tanju Özcan \"cinsel saldırı\" davasında beraat etti. İrtikap soruşturması kapsamında tutukluluğu sürüyor. Şubat ayında ‘İcbar suretiyle irtikap’ soruşturması kapsamında tutuklanıp Bolu Belediye Başkanlığı görevinden uzaklaştırılan Tanju Özcan hakkında, belediye personeli Öznur Ç.’nin şikayeti sonrası, ‘Nitelikli cinsel saldırı’ ve ‘Zincirleme şekilde kişiyi hürriyetinden yoksun kılma’ suçlarından da dava açılmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/tanju-ozcan-cinsel-saldiri-davasinda-beraat-etti-1744900"
         },
         {
-          "title": "Adana ve Osmaniye'de peş peşe depremler. AFAD'dan ön değerlendirme raporları",
-          "summary": "Adana'nın Saimbeyli ve Osmaniye'nin Sumbas ilçesinde gün içinde ve akşam saatlerinde art arda 4.8, 4.9, 4.4, 4.3 ve 4.1 büyüklüğünde depremler oldu. AFAD ön değerlendirme raporunu yayımladı. Osmaniye ve Adana'da peş peşe depremler meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığından (AFAD) yapılan açıklamaya göre Adana'nın Saimbeyli ilçesinde saat 14.19'da 4.8 büyüklüğünde deprem kaydedildi. 7,9 kilometre derinlikte gerçekleşen depremden 17 dakika sonra 4,9 büyüklüğünde bir deprem daha meydana geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/adana-ve-osmaniyede-pes-pese-depremler-afaddan-on-degerlendirme-raporlari-1744783"
+          "title": "Hakem Yasin Kol’un MASAK raporu: 62,5 milyon TL yatırılmış",
+          "summary": "Süper Lig hakemi Yasin Kol’un MASAK raporu ortaya çıktı. İşlem hacmi 2020’den itibaren ciddi artış gösterirken sadece 2026 yılında hesabına 22,3 TL para yatırılmış.",
+          "source": "https://www.hurriyet.com.tr/gundem/hakem-yasin-kolun-masak-raporu-62-5-milyon-tl-yatirilmis-43330114"
         },
         {
-          "title": "İzmir’de 7 otomobil, 1 motosikletin karıştığı zincirleme kaza: 4 yaralı",
-          "summary": "İzmir’in Konak ilçesinde 7 otomobil, 1 motosikletin karıştığı zincirleme kazada 4 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-7-otomobil-1-motosikletin-karistigi-zincirleme-kaza-4-yarali-43329710"
+          "title": "AK Parti Sözcüsü Çelik: Harem-i İbrahim Camii'ne yönelik provokasyonları lanetliyoruz",
+          "summary": "AK Parti Sözcüsü Ömer Çelik, Harem-i İbrahim Camii’ne yönelik provokasyonları lanetledi. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, \"Harem-i İbrahim Camii’ne yönelik devam eden insanlık dışı saygısızlıkları ve işgalcilerin camide yaptığı provokasyonları lanetliyoruz.\" dedi. Ömer Çelik, sosyal medya hesabından yaptığı açıklamada şu ifadelere yer verdi: “Harem-i İbrahim Camii’ne yönelik devam eden insanlık dışı saygısızlıkları ve işgalcilerin camide yaptığı provokasyonları lanetliyoruz.",
+          "source": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-celik-harem-i-ibrahim-camiine-yonelik-provokasyonlari-lanetliyoruz-1744896"
         },
         {
-          "title": "Gürbulak Sınır Kapısında memura bıçaklı tehdit",
-          "summary": "Gürbulak Gümrük Kapısında bir yolcunun, eşyalarının kontrol edilmesi sırasında bıçak çekerek görevli gümrük muhafaza memurlarını tehdit ettiği belirtildi. Ticaret Bakanlığı tarafından yapılan yazılı açıklamaya göre, 3 Ekim 2026 günü meydana gelen olayda, İran’dan Türkiye’ye giriş yapmak üzere Gürbulak Gümrük Sahası Giriş Yolcu Salonu muayene alanına gelen bir kişi, eşyalarının muayenesi sırasında elindeki bıçakla görevli gümrük muhafaza memurlarını tehdit ettiği ve akabinde arbede çıkardığı belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/gurbulak-sinir-kapisinda-memura-bicakli-tehdit-1744822"
+          "title": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi",
+          "summary": "Vali Davut Gül'ün katılımıyla düzenlenen toplantıda İstanbul'un 9 aylık güvenlik verileri kamuoyuyla paylaşıldı. Vali Gül, organize suç örgütlerine 343 operasyon yapıldığını, mal varlığına karşı işlenen suçlarda ise belirgin düşüşler yaşandığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-2026nin-ilk-9-aylik-suc-ve-operasyon-bilancosu-aciklandi-130-cete-cokertildi-43330059"
         },
         {
-          "title": "AK Parti İstanbul Milletvekili Serkan Bayram: Maksadımı aştım",
-          "summary": "AK Parti İstanbul Milletvekili Serkan Bayram, fon soruşturmalarıyla ilgili önceki açıklamalarına ilişkin, \"Başta Sayın Cumhurbaşkanımız olmak üzere tüm dava arkadaşlarımdan, teşkilatlarımızdan ve AK Parti'ye gönül vermiş milyonlarca vatandaşımızdan maksadını aşan ifadelerimden dolayı haklarını helal etmesini istiyorum. Herkesin yapamadığı özür de bir olgunluktur.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-istanbul-milletvekili-serkan-bayram-maksadimi-astim-43329601"
+          "title": "İşten dönünce koltukta uyuyakaldı, uyandığında felç kaldı",
+          "summary": "Antalya'da iş dönüşü koltukta uyuyakalan Serkan Özdemir, geçirdiği felç sonucu 3 yıldır yatağa bağımlı olarak yaşıyor. Antalya'nın Muratpaşa ilçesinde yalnız yaşayan ve bir ayakkabı mağazasında satış danışmanı olarak çalışan Serkan Özdemir, 2023 yılında işten çıkıp evine gitti. Dinlenmek için koltuğa uzanan Özdemir, aynı yerde uyuyakaldı. Sabah işe gitmek için uyanan Özdemir, ayağa kalkmak için davranınca yattığı yere düştü.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-isten-donunce-koltukta-uyuyakaldi-uyandiginda-felc-kaldi-1744887"
         },
         {
-          "title": "13 yerinden bıçaklanmıştı! Kan donduran olayda yeni detaylar ortaya çıktı",
-          "summary": "Antalya'nın Gazipaşa ilçesinde 20 yaşındaki gencin 13 bıçak darbesiyle öldürülmesiyle ilgili gözaltına alının baba ve 16 yaşındaki kızı tutuklandı. Şüpheli babanın ifadesinde evin çevresinde dolaşırken görüp kimi aradığını sorduğu gencin \"Berna'yı arıyorum\" cevabı üzerine \"Berna kim?\" diye sorduğunda \"4 aylık karım\" cevabını alınca çıkan tartışmada bıçakladığını söylediği öğrenildi. Kızın ise ifadesinde genci babasının isteğiyle bölgeye çağırdığını söylediği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/13-yerinden-bicaklanmisti-kan-donduran-olay-yeni-detaylar-ortaya-cikti-43329582"
+          "title": "Çöpteki kolilerden dev uyuşturucu ağı çıktı: Kağıthane polisi iğneyle kuyu kazdı, milyonluk zulayı buldu",
+          "summary": "Kağıthane'de çöp konteynerinde bulunan kolilerden yola çıkan asayiş ekipleri, Fatih ve Başakşehir'de belirlenen adreslere düzenledikleri operasyonlarda 643 binden fazla uyuşturucu hap ve yüzlerce kilogram hammadde ele geçirdi. Olayla ilgili 5 şüpheli yakalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/copteki-kolilerden-dev-uyusturucu-agi-cikti-kagithane-polisi-igneyle-kuyu-kazdi-milyonluk-zulayi-buldu-43330044"
         }
       ]
     },
     "dunya": {
-      "text": "Cepheye dronlarla 4 ton gıda gönderdiler. Brezilya'da seçim ikinci tura kaldı. Rusya'da korkutan salgın. Laboratuvardan sızdı, 5 hastane kapatıldı. Online alışverişte sahte yoruma erişim engeli. Bosna Hersek'te Becirovic, Filipovic ve Cvijanovic seçim zaferini ilan etti. Yemen açıklarındaki tankerin çevresinde patlama sesleri. Rusya Kiev'de köprüleri vurmaya devam ediyor.",
+      "text": "Dışişleri Bakanlığı, İsrail’in Suriye’deki faaliyetlerine kınama. Nobel Tıp Ödülü açıklandı. Üç bilim insanı 1,2 milyon doları paylaştı. 2026 Nobel Tıp Ödülü sahiplerini buldu. Avrupa Birliği'nden Rusya'ya rest. \"Kiev'de kalmaya devam edeceğiz\". Milyarderler İngiltere'yi terk ediyor. Ülkeden çıkan servet 160 milyar dolara ulaştı. Konut krizi büyüdü. İspanya Başbakanı Sanchez, erken seçime gitme kararı aldı. Fransa'da lise eylemleri büyüyor. 5 bin kişi gözaltına alındı, yüzlerce okul kapandı.",
       "items": [
         {
-          "title": "Cepheye dronlarla 4 ton gıda gönderdiler",
-          "summary": "Ukrayna ordusu, ağır yük taşıyabilen dronlarla Rusya'nın işgali altındaki Herson bölgesine bağlı Oleşki kasabasındaki asker ve sivillere 4 ton gıda-ilaç gönderdi. Rusya-Ukrayna Savaşı 4.5 yılını geride bıraktı. Karşılıklı saldırılar sürerken, Ukrayna'nın insansız hava aracı (drone) kapasitesi de dikkat çekiyor. Ukrayna saldırılar ve keşif çalışmalarının yanı sıra cephedeki askerleri ile işgal altındaki bölgelerin gerisinde sıkışan sivil halkın ihtiyaçları için de dronları kullanıyor.",
-          "source": "https://www.ntv.com.tr/dunya/cepheye-dronlarla-4-ton-gida-gonderdiler-1744829"
+          "title": "Dışişleri Bakanlığı, İsrail’in Suriye’deki faaliyetlerine kınama",
+          "summary": "Dışişleri Bakanlığı, İsrail’in, Suriye’nin Kuneytra vilayetinde sözde \"Sufa 53 hattı\" üzerindeki çalışmalarını yeniden başlatmasını kınadı. Dışişleri Bakanlığı, İsrail'in Suriye'deki faaliyetlerine ilişkin açıklamada bulundu. Açıklamada İsrail’in, Suriye’nin Kuneytra vilayetinde sözde “Sufa 53 hattı” üzerindeki çalışmalarını yeniden başlatarak 1974 Kuvvetlerin Ayrıştırılması Anlaşması’nı aşındırması ve Suriye’de yeni oldubittiler yaratmaya yönelik faaliyetleri güçlü bir şekildi kınandı.",
+          "source": "https://www.ntv.com.tr/dunya/disisleri-bakanligi-israilin-suriyedeki-faaliyetlerine-kinama-1744902"
         },
         {
-          "title": "Brezilya'da seçim ikinci tura kaldı",
-          "summary": "Brezilya'da solcu Devlet Başkanı Lula ile aşırı sağcı senatör Flavio Bolsonaro'nun başa baş yarıştığı seçim ikinci tura kaldı. Güney Amerika'nın en büyük ülkesi Brezilya'da yaklaşık 159 milyon seçmen sandığa gitti. Üç dönem başkanlık yapan ve BRICS grubunun kurucuları arasında yer alan 80 yaşındaki Devlet Başkanı Lula da Silva, darbe planlama suçlamasıyla 27 yıl ev hapsi cezası istenen eski başkan Jair Bolsonaro'nun oğlu 45 yaşındaki Senatör Flavio Bolsonaro ile yarıştı.",
-          "source": "https://www.ntv.com.tr/dunya/brezilyada-secim-ikinci-tura-kaldi-1744828"
+          "title": "Nobel Tıp Ödülü açıklandı. Üç bilim insanı 1,2 milyon doları paylaştı",
+          "summary": "2026 Nobel Tıp Ödülü, beyindeki sinir hücrelerinin ışıkla kontrol edilmesini sağlayan optogenetik keşifleri nedeniyle Amerikalı Deisseroth ile Alman araştırmacılar Hegemann ve Nagel'e verildi. 2026 Nobel Tıp Ödülü, ışığa duyarlı iyon kanalları ve optogenetik alanındaki keşifleri nedeniyle Amerikalı bilim insanı Karl Deisseroth ile Alman araştırmacılar Peter Hegemann ve Georg Nagel'e verildi.",
+          "source": "https://www.ntv.com.tr/dunya/nobel-tip-odulu-aciklandi-uc-bilim-insani-12-milyon-dolari-paylasti-1744903"
         },
         {
-          "title": "Rusya'da korkutan salgın. Laboratuvardan sızdı, 5 hastane kapatıldı",
-          "summary": "Rusya'da veba araştırma enstitüsünde çalışan kadının ölümü, laboratuvar kazası ve salgın iddialarını gündeme getirdi. Olası salgın nedeniyle 5 hastanenin kapatıldığı belirtildi. Rusya’nın İrkutsk bölgesinde bir laboratuvar çalışanının hayatını kaybetmesi, veba şüphesiyle alınan önlemler endişeye yol açtı. Rus devlet haber ajansı TASS'a göre, olay veba araştırma enstitüsünde meydana geldi. Hayatını kaybeden kişinin, İrkutsk Veba Araştırma Enstitüsü çalışanı Darya Şhipilova olduğu belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/rusyadan-korkutan-salgin-laboratuvardan-sizdi-5-hastane-kapatildi-1744814"
+          "title": "2026 Nobel Tıp Ödülü sahiplerini buldu",
+          "summary": "2026 Nobel Fizyoloji veya Tıp Ödülü, \"ışıkla kontrol edilen iyon kanalları ve optogenetik alanındaki keşifleri\" nedeniyle Karl Deisseroth, Peter Hegemann ve Georg Nagel’e verildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/nobel-tip-odulu-sahibini-buldu-43330124"
         },
         {
-          "title": "Online alışverişte sahte yoruma erişim engeli",
-          "summary": "Ticaret Bakanlığı, e-ticarette sahte yorum ve puanlarla tüketiciyi kandıran işletmelere karşı harekete geçti. Sahte yorum ve puana yer veren sitelere erişim engeli getirdi. (Haber: Evra Balkı) Artık e-ticarette, ürünlere yapılan sahte puanlama ve yorumların önü kesiliyor. Gelen şikayetler üzerine Ticaret Bakanlığı Reklam Kurulu, takipçi ve yorum satışı yapan internet siteleri ile sahte yorumlara yer veren e-ticaret sitelerine yönelik inceleme başlattı.",
-          "source": "https://www.ntv.com.tr/dunya/online-alisveriste-sahte-yoruma-erisim-engeli-1744825"
+          "title": "Avrupa Birliği'nden Rusya'ya rest. \"Kiev'de kalmaya devam edeceğiz\"",
+          "summary": "AB, Rusya Dışişleri'nin, yabancı ülke vatandaşları ve diplomatlara Kiev'i terk etmeleri ve Ukrayna'ya seyahat etmemeleri yönündeki uyarısına rağmen Kiev'de mevcudiyetini sürdüreceğini bildirdi. Avrupa Birliği (AB) Dış İlişkiler Servisi'nin (EEAS), X sosyal medya platformundaki hesabından konuya ilişkin paylaşım yapıldı. Paylaşımda, \"Biz Kiev'de kalmaya devam edeceğiz.\" ifadesi kullanıldı.",
+          "source": "https://www.ntv.com.tr/dunya/avrupa-birliginden-rusyaya-rest-kievde-kalmaya-devam-edecegiz-1744893"
         },
         {
-          "title": "Bosna Hersek'te Becirovic, Filipovic ve Cvijanovic seçim zaferini ilan etti",
-          "summary": "Bosna Hersek'teki genel seçimde, devletin en üst mevkisi olan Devlet Başkanlığı Konseyinin Boşnak üyeliğine yeniden seçilen Denis Becirovic ve Hırvat üyeliğine seçilen Darijana Filipovic ile Sırp üyeliğine tekrar seçilen Zeljka Cvijanovic, zafer ilan etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bosna-hersekte-becirovic-filipovic-ve-cvijanovic-secim-zaferini-ilan-etti-43329706"
+          "title": "Milyarderler İngiltere'yi terk ediyor. Ülkeden çıkan servet 160 milyar dolara ulaştı",
+          "summary": "Bloomberg Milyarderler Endeksi verilerine göre son iki yılda İngiltere'den ayrılan ultra zenginlerin toplam varlığı 160 milyar dolara ulaştı. İngiltere'den son iki yılda bağlarını koparan ya da zayıflatan süper zenginlerin toplam servetinin 160 milyar dolara ulaştığı hesaplandı. Bloomberg Milyarderler Endeksi'nin yayımladığı analiz, ülkeden ayrılan isimlerin kontrol ettiği varlıkların, endekste yer alıp İngiltere'de yaşamayı sürdürenlerin toplam servetini geride bıraktığını ortaya koydu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-milyarderler-ingiltereyi-terk-ediyor-ulkeden-cikan-servet-160-milyar-dolara-ulasti-1744892"
         },
         {
-          "title": "Yemen açıklarındaki tankerin çevresinde patlama sesleri",
-          "summary": "Birleşik Krallık Deniz Ticareti Operasyonları Ajansı (UKMTO), Yemen’in Mocha şehrinin 60 deniz mili güneyinde Babülmendep Boğazı yakınlarındaki bir tanker çevresinde birden fazla patlama meydana geldiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yemen-aciklarindaki-tankerin-cevresinde-patlama-sesleri-43329626"
+          "title": "Konut krizi büyüdü. İspanya Başbakanı Sanchez, erken seçime gitme kararı aldı",
+          "summary": "İspanya Başbakanı Pedro Sanchez, konut krizine çözüm içeren kararnamelerin mecliste reddedilmesinin ardından erken seçime gitme kararı aldığını açıkladı. Bakanlar Kurulu'nda 29 Eylül'de alınan konut sorununa çözümler öngören iki kararnamenin mecliste 2 Ekim'de yapılan oylamada reddedilmesi sonrasında Sanchez, Başbakanlık konutu Moncloa'da basına kapalı canlı bir konuşma yaparak erken seçim kararını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/konut-krizi-buyudu-ispanya-basbakani-sanchez-erken-secime-gitme-karari-aldi-1744885"
         },
         {
-          "title": "Rusya Kiev'de köprüleri vurmaya devam ediyor",
-          "summary": "Rusya Ukrayna arasındaki saldırılar karşılıklı olarak artıyor. Kiev yönetimi Rus rafinerilerini hedef alacağız açıklaması yaptı. Moskova yönetimi ise Kiev'deki köprüleri hedef alarak karşılık verdi. Kiev'deki köprüler 4 gündür Rus dronlarının hedefi oluyor. Son olarak başkentteki Kuzey Köprüsü'ne dron saldırısı düzenlendi. Hızla gelen dron köprüye isabet ettikten sonra patlama meydana geldi. Sosyal medyada paylaşılan görüntülerde köprünün isabet alan noktasında küçük bir krater oluştuğu görülüyor.",
-          "source": "https://www.ntv.com.tr/dunya/rusya-kievde-kopruleri-vurmaya-devam-ediyor-1744821"
+          "title": "Fransa'da lise eylemleri büyüyor. 5 bin kişi gözaltına alındı, yüzlerce okul kapandı",
+          "summary": "Fransa'da eğitim koşullarını protesto eden lise öğrencilerinin eylemleri nedeniyle 500'e yakın okul kapılarını kapatırken, olaylarda yaklaşık 5 bin kişi gözaltına alındı. Fransa'da bakımsız derslikler, aşırı kalabalık sınıflar ve öğretmen açığı gerekçesiyle lise öğrencilerinin başlattığı protestolar ikinci haftasına girdi. Ülke genelinde yüzlerce lise eğitime tamamen veya kısmen ara verirken, öğrenci sendikaları salı günü için ülke çapında genel gösteri çağrısı yaptı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-lise-eylemleri-buyuyor-5-bin-kisi-gozaltina-alindi-yuzlerce-okul-kapandi-1744882"
         }
       ]
     },
     "ekonomi": {
-      "text": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar. Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler.",
+      "text": "Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar.",
       "items": [
+        {
+          "title": "Online alışverişte sahte yoruma erişim engeli",
+          "summary": "Ticaret Bakanlığı, e-ticarette sahte yorum ve puanlarla tüketiciyi kandıran işletmelere karşı harekete geçti. Sahte yorum ve puana yer veren sitelere erişim engeli getirdi. (Haber: Evra Balkı) Artık e-ticarette, ürünlere yapılan sahte puanlama ve yorumların önü kesiliyor. Gelen şikayetler üzerine Ticaret Bakanlığı Reklam Kurulu, takipçi ve yorum satışı yapan internet siteleri ile sahte yorumlara yer veren e-ticaret sitelerine yönelik inceleme başlattı.",
+          "source": "https://www.ntv.com.tr/ekonomi/online-alisveriste-sahte-yoruma-erisim-engeli-1744825"
+        },
         {
           "title": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları",
           "summary": "Borsa İstanbul'da BIST 100 endeksi haftalık bazda yüzde 4,88, altının gram fiyatı yüzde 1,53 ve avro/TL yüzde 0,69 değer kaybederken, dolar/TL yüzde 0,14 değer kazandı.",
@@ -115,51 +120,46 @@
           "title": "Bakan Bolat'tan 20 Ticaret Bakanları Toplantısı kapsamında diplomatik temaslar",
           "summary": "Ticaret Bakanı Ömer Bolat, G20 Ticaret Bakanları Toplantısı kapsamında Rusya Ekonomik Kalkınma Bakanı Maksim Reşetnikov ve Polonya Maliye ve Ekonomi Bakanı Andrzej Domanski ile bir araya geldi.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-rusya-ekonomik-kalkinma-bakani-resetnikov-ile-gorustu-43326445"
-        },
-        {
-          "title": "Borsa günü yükselişle tamamladı… İşte en çok değer kazanan sektörler",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,53 değer kazanarak 12.249,04 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-iste-en-cok-deger-kazanan-sektorler-43326434"
         }
       ]
     },
     "spor": {
-      "text": "Ozan Kabak: 'Düştüğümüz yerden de birlik olarak çıkacağız!'. Vincenzo Montella'dan eleştirilere yanıt: 'Desteğe inanıyorum!'. TFF'den Serdal Adalı'ya tebrik!. Nicolo Barella'dan Hakan Çalhanoğlu yorumu: 'Türkiye liderliğinin eksikliğini hissedecek!'. Roberto Mancini'den Türkiye maçı açıklaması: 'Kolay olacağını düşünmek hata olur!'. Kenan Yıldız için dev transfer planı! 100 milyon Euro'luk teklif kapıda. Beşiktaş Yönetim Kurulu Üyesi Mete Düren: 'Bunu bir güven oylaması gibi görmek lazım!'.",
+      "text": "Zihin antrenmanıyla dünya şampiyonu oldular. Arnavutluk’tan Kapadokya’ya koşuyor!. Fenerbahçe'de Greenwood için ceza tehlikesi! Süper Lig'de forma giyebilecek mi?. Eczacıbaşı kaptanı Simge Aköz'ün 5 kupada da şampiyonluğa inancı tam. Jorge Jesus'tan Ronaldo sorusuna sert çıkış! 'Kimseden özür dilemem'. Misli üyeleri Fransa’dan iç sahada, İsveç’ten ise deplasmanda galibiyet bekliyor…İşte Misli’de günün en çok oynanan maçları. İsveç’te KG Var serisi sürüyor! Belçika’nın maçlarında dikkat çeken gol sayısı… İşte Misli’den günün tüyoları.",
       "items": [
         {
-          "title": "Ozan Kabak: 'Düştüğümüz yerden de birlik olarak çıkacağız!'",
-          "summary": "Milli futbolcu Ozan Kabak, İtalya maçında iyi bir oyun ve skorla sahadan ayrılmak istediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ozan-kabak-dustugumuz-yerden-de-birlik-olarak-cikacagiz-43329658"
+          "title": "Zihin antrenmanıyla dünya şampiyonu oldular",
+          "summary": "Ankara TVF Spor Lisesi Erkek Voleybol Takımı, altı hafta boyunca fiziksel antrenmanlarının ardından zihinsel antrenman yaptı. Beyin ölçümlerinde, hareketle ilişkili bölgelerde aktivasyon artışı belirlenen sporcular, daha sonra Çin’de dünya şampiyonluğuna ulaştı.",
+          "source": "https://www.hurriyet.com.tr/egitim/zihin-antrenmaniyla-dunya-sampiyonu-oldular-43330148"
         },
         {
-          "title": "Vincenzo Montella'dan eleştirilere yanıt: 'Desteğe inanıyorum!'",
-          "summary": "A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella, İtalya maçı öncesi basın toplantısında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-montelladan-elestirilere-yanit-destege-inaniyorum-43329607"
+          "title": "Arnavutluk’tan Kapadokya’ya koşuyor!",
+          "summary": "İngiliz sporcu Nick Coats, Salomon Cappadocia Ultra Trail için Arnavutluk’tan koşmaya başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arnavutluktan-kapadokyaya-kosuyor-43330093"
         },
         {
-          "title": "TFF'den Serdal Adalı'ya tebrik!",
-          "summary": "Türkiye Futbol Federasyonu (TFF) Beşiktaş'ta yeniden başkanlığa seçilen Serdal Adalı için tebrik mesajı yayımladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tffden-serdal-adaliya-tebrik-43329621"
+          "title": "Fenerbahçe'de Greenwood için ceza tehlikesi! Süper Lig'de forma giyebilecek mi?",
+          "summary": "Fenerbahçe'de Turan Tovuz ile oynanan hazırlık maçında kırmızı kart gören Mason Greenwood'un Süper Lig'de cezalı duruma düşüp düşmeyeceği merak edilirken TFF'nin ilgili talimatındaki hüküm dikkat çekti. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-greenwood-icin-ceza-tehlikesi-super-ligde-forma-giyebilecek-mi-43329799"
         },
         {
-          "title": "Nicolo Barella'dan Hakan Çalhanoğlu yorumu: 'Türkiye liderliğinin eksikliğini hissedecek!'",
-          "summary": "İtalya Milli Takımı'nın yıldızı Nicolo Barella, UEFA Uluslar A Ligi'nde 1. Grup dördüncü maçında yarın Türkiye ile oynayacakları müsabaka öncesi açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nicolo-barelladan-hakan-calhanoglu-yorumu-turkiye-liderliginin-eksikligini-hissedecek-43329599"
+          "title": "Eczacıbaşı kaptanı Simge Aköz'ün 5 kupada da şampiyonluğa inancı tam",
+          "summary": "Eczacıbaşı Peron İstanbul Kadın Voleybol Takımı'nın kaptanı Simge Aköz, yeni sezonda mücadeleci ve dirençli bir oyun ortaya koymak istediklerini belirterek mücadele edecekleri 5 kulvarda da şampiyonluk hedeflediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/eczacibasi-kaptani-simge-akozun-5-kupada-da-sampiyonluga-inanci-tam-43330007"
         },
         {
-          "title": "Roberto Mancini'den Türkiye maçı açıklaması: 'Kolay olacağını düşünmek hata olur!'",
-          "summary": "İtalya Milli Takım Teknik Direktörü Roberto Mancini, UEFA Uluslar A Ligi'nde 1. Grup dördüncü maçında yarın Türkiye ile oynayacakları müsabakayı, basit bir maç olarak düşünmenin hata olacağını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/roberto-manciniden-turkiye-maci-aciklamasi-kolay-olacagini-dusunmek-hata-olur-43329579"
+          "title": "Jorge Jesus'tan Ronaldo sorusuna sert çıkış! 'Kimseden özür dilemem'",
+          "summary": "UEFA Uluslar Ligi A Ligi'nde Portekiz, Norveç'i evinde 2-1 mağlup etti. Jorge Jesus karşılaşma sonrası Cristiano Ronaldo hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/jorge-jesustan-ronaldo-sorusuna-sert-cikis-kimseden-ozur-dilemem-43329992"
         },
         {
-          "title": "Kenan Yıldız için dev transfer planı! 100 milyon Euro'luk teklif kapıda",
-          "summary": "İtalyan basınında yer alan son iddialara göre Juventus forması giyen milli futbolcumuz Kenan Yıldız'ın kulübündeki geleceği sezon sonunda Şampiyonlar Ligi vizesine bağlı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kenan-yildiz-icin-dev-transfer-plani-100-milyon-euroluk-teklif-kapida-43329562"
+          "title": "Misli üyeleri Fransa’dan iç sahada, İsveç’ten ise deplasmanda galibiyet bekliyor…İşte Misli’de günün en çok oynanan maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/misli-uyeleri-fransadan-ic-sahada-isvecten-ise-deplasmanda-galibiyet-bekliyor-iste-mislide-gunun-en-cok-oynanan-maclari-43329993"
         },
         {
-          "title": "Beşiktaş Yönetim Kurulu Üyesi Mete Düren: 'Bunu bir güven oylaması gibi görmek lazım!'",
-          "summary": "Beşiktaş Yönetim Kurulu Üyesi Mete Düren, “Bunu bir güven oylaması gibi görmek lazım. Tek adaylı bir seçim ama katılımın böyle yüksek bir rakama ulaşmış olması; camianın, doğru işler yapıldığı ve doğru kişilerle yüründüğü zaman desteğini esirgemeyeceğini gösterdi” dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-yonetim-kurulu-uyesi-mete-duren-bunu-bir-guven-oylamasi-gibi-gormek-lazim-43329485"
+          "title": "İsveç’te KG Var serisi sürüyor! Belçika’nın maçlarında dikkat çeken gol sayısı… İşte Misli’den günün tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/isvecte-kg-var-serisi-suruyor-belcikanin-maclarinda-dikkat-ceken-gol-sayisi-iste-misliden-gunun-tuyolari-43329983"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı. Takviyeler çözüm değil. \"Günde yarım saat yürüyün\". Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat. Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı. Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı. Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı. Ölümünden sonra incelendi: Akıllı saati ve yüzüğü sağlık durumundaki bozulmayı kaydetmiş.",
+      "text": "Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu. Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı. Takviyeler çözüm değil. \"Günde yarım saat yürüyün\". Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat. Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı. Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı. Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı.",
       "items": [
+        {
+          "title": "Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu",
+          "summary": "Kahve günlük yaşamın vazgeçilmez içeceklerinden biri ve özellikle kilo verme sürecinden yağ yakımına yardımcı olmasıyla biliniyor. Ancak kahve, farkında olmadan kilo almanıza neden olabilir. Kahve gün içerisinde çay kadar sık tüketilen içeceklerin başında geliyor. Vücuda olan faydalarıyla da dikkat çeken kahve, özellikle kilo verme sürecinde olan kişiler arasında da oldukça popüler.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-fazla-kalori-bir-fincan-kahvede-gizliymis-kilo-vermeyi-destekledigi-soyleniyordu-1744883"
+        },
         {
           "title": "Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı",
           "summary": "Gaziantep'in Oğuzeli ilçesinde yöresel lezzetlerden cevizli sucuk ve bastık yapımı başladı. Bağlardan toplanan üzümlerden tepeleme yöntemiyle elde edilen üzüm suyu ile yapılan cevizli sucuk ve bastık, yöre halkından ve şehir dışından gelenlerden yoğun ilgi görüyor. Gaziantep'in Oğuzeli ilçesinde geleneksel yöntemlerle hazırlanan yöresel lezzetlerden cevizli sucuk ve bastık mesaisi devam ediyor.",
@@ -235,11 +240,6 @@
           "title": "Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı",
           "summary": "ABD'li ilaç şirketi Regeneron'un geliştirdiği deneysel yeni zayıflama ilacı Trevogrumab, Novo Nordisk'in Semaglutid adlı ilacıyla birlikte kullanıldığında kas kütlesi kaybını yüzde 50 azalttı. Zayıflama ilaçlarının hızla yaygınlaşmasıyla birlikte, hızlı kilo kaybına eşlik eden önemli miktardaki kas kaybına ilişkin endişeler de arttı. Tıp dünyası, yeni nesil ilaçların kilo kaybı sırasında vücudun kas dokusunu parçalamasını önleyebilmesi için de çalışıyor.",
           "source": "https://www.ntv.com.tr/saglik/galeri-zayiflama-ilaclarinda-yeni-kesif-kas-kaybini-yuzde-50-azaltti-1744249"
-        },
-        {
-          "title": "Ölümünden sonra incelendi: Akıllı saati ve yüzüğü sağlık durumundaki bozulmayı kaydetmiş",
-          "summary": "Yoğun bir bisiklet antrenmanının ardından hayatını kaybeden 76 yaşındaki araştırmacının giyilebilir cihaz verileri incelendi. Sağlık göstergelerindeki değişim yaklaşık beş ay önce başlamış. Yoğun bir bisiklet antrenmanını tamamladıktan üç dakika sonra yere yığılan ve ismi açıklanmayan 76 yaşındaki araştırmacı, yaklaşık 40 dakika süren müdahaleye rağmen kurtarılamadı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-olumunden-sonra-incelendi-akilli-saati-ve-yuzugu-saglik-durumundaki-bozulmayi-kaydetmis-1744218"
         }
       ]
     },
