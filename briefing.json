@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-07T10:00:03.797Z",
+  "generatedAt": "2026-10-07T16:00:03.841Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'un gündüzü sıcak gecesi soğuk. AKOM paylaştı, 8 derece birden düşüyor. Nobel Kimya Ödülü'nü Henri Kagan ve Kenso Soai kazandı. İzmir ilk kez AK Parti'de. Cemil Tugay'ın rozetini Cumhurbaşkanı Erdoğan taktı. TBMM Başkanvekilliği'nden istifa etmişti. Bekir Bozdağ'ın yerine gelen isim belli oldu. Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Sahtekarlık yapanlar hesabını verecek. Daha kış gelmeden lapa lapa kar yağdı: 5 santimetre. Son dakika... İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti'ye katıldı.",
+      "text": "CHP Sözcüsü Sarı MYK gündemine ilişkin açıklamalarda bulundu. İletişim Başkanlığı'ndan Mekke Anlaşması'na ilişkin dezenformasyon uyarısı. Memurluk vaadiyle 5 kişiyi 3 milyon 570 bin lira dolandırdı! Sahte savcı yakalandı. AK Parti Sözcüsü Ömer Çelik: Fonda karanlık nokta kalmayacak. Manisa'da komşu dehşeti: Kapıyı tekmeledi, 3 gün sonra yine aynı adrese gitti. KYK burs ve kredi başvurusu 2026: GSB KYK burs ve kredi başvuruları başladı mı, ne zaman başlayacak?. İzmir ilk kez AK Parti'de. Cemil Tugay'ın rozetini Cumhurbaşkanı Erdoğan taktı.",
       "items": [
         {
-          "title": "İstanbul'un gündüzü sıcak gecesi soğuk. AKOM paylaştı, 8 derece birden düşüyor",
-          "summary": "Hafta boyunca yağışın beklenmediği İstanbul'da gündüz ile gece sıcaklıkları arasında fark 8 dereceye kadar çıkıyor. Megakentte önümüzdeki bir hafta boyunca yağış beklenmezken havada çoğunlukla parçalı bulutlu bir gökyüzü hakim olacak. Gün içerisinde 21-23 derece aralığında seyreden sıcaklıklar, akşam ve gece saatlerinde 15 derecelerin altına gerileyerek üşütecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-gunduzu-sicak-gecesi-soguk-akom-paylasti-8-derece-birden-dusuyor-1745209"
+          "title": "CHP Sözcüsü Sarı MYK gündemine ilişkin açıklamalarda bulundu",
+          "summary": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye katılmasına ilişkin, \"Muhalefet partisinden seçilmiş bir belediye başkanının başka bir partiye geçişi, hele ki siyasal mücadelesinin tamamında onun karşıtlığı üzerine kurulmuş iktidar partisine geçiyor olması, bir defa dünyada eşi benzeri olmayan ya da çok az olan ve hiçbir biçimde savunulamayan bir durumdur.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/chp-sozcusu-sari-myk-gundemine-iliskin-aciklamalarda-bulundu-43333170"
         },
         {
-          "title": "Nobel Kimya Ödülü'nü Henri Kagan ve Kenso Soai kazandı",
-          "summary": "Nobel Kimya Ödülü'nü Henri Kagan ve Kenso Soai'nin kazandığı açıklandı. Ayrıntılar geliyor.",
-          "source": "https://www.ntv.com.tr/dunya/nobel-kimya-odulunu-henri-kagan-ve-kenso-soai-kazandi-1745231"
+          "title": "İletişim Başkanlığı'ndan Mekke Anlaşması'na ilişkin dezenformasyon uyarısı",
+          "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Pakistan halkının Türkiye'nin de taraf olduğu Mekke Anlaşması'nı protesto etmek amacıyla sokaklara döküldüğü yönünde dolaşıma sokulan iddiaların tamamen gerçek dışı olduğunu duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskanligindan-mekke-anlasmasina-iliskin-dezenformasyon-uyarisi-43333093"
+        },
+        {
+          "title": "Memurluk vaadiyle 5 kişiyi 3 milyon 570 bin lira dolandırdı! Sahte savcı yakalandı",
+          "summary": "İstanbul Büyükçekmece'de kendisini savcı olarak tanıtarak iş ve memurluk vaadinde bulunarak 5 kişiyi toplam 3 milyon 570 bin lira dolandırdığı belirlenen 59 yaşındaki Cüneyt A. ile birlikte hareket ettiği tespit edilen 50 yaşındaki Kadir M. yakalandı. Cüneyt A.’nın 8 ayrı suçtan 10 yıl 2 ay kesinleşmiş hapis cezasıyla arandığı ortaya çıktı. Adliyeye sevk edilen şüpheliler tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/memurluk-vaadiyle-5-kisiyi-3-milyon-570-bin-lira-dolandirdi-sahte-savci-yakalandi-43333065"
+        },
+        {
+          "title": "AK Parti Sözcüsü Ömer Çelik: Fonda karanlık nokta kalmayacak",
+          "summary": "AK Partisi Sözcüsü Ömer Çelik, \"Hakları gasp edilenler müsterih olsun.\" diyerek fon krizi sürecinde karanlık noktanın kalmayacağını belirtti. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Merkez Yürütme Kurulu (MYK) toplantısı sonrası açıklama yaptı. Ömer Çelik, bugün AK Parti'ye geçen İzmir Büyükşehir Belediye Başkanı'na “hoş geldin\" gelen eleştirilere yönelik de Cemil Tugay'ın kendi değerlendirmesini ortaya koyduğunu söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-omer-celik-fonda-karanlik-nokta-kalmayacak-1745272"
+        },
+        {
+          "title": "Manisa'da komşu dehşeti: Kapıyı tekmeledi, 3 gün sonra yine aynı adrese gitti",
+          "summary": "Manisa’da komşusunun çelik kapısına zarar verdiği gerekçesiyle gözaltına alınıp serbest bırakılan 69 yaşındaki Hurisimal Ç., 3 gün sonra aynı adrese giderek yeni takılan kapıya tekme attı. Olay, 23 Eylül'de Şehzadeler ilçesinde meydana geldi. İddiaya göre Hurisimal Ç., henüz belirlenemeyen bir nedenle komşusu Musa Efe'nin evinin çelik kapısına matkap ve sert cisimlerle zarar verdikten sonra kendisini eve kilitledi. Polisin yürüttüğü çalışmada Hurisimal Ç.'nin kızına ulaşıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-manisada-komsu-dehseti-kapiyi-tekmeledi-3-gun-sonra-yine-ayni-adrese-gitti-1745278"
+        },
+        {
+          "title": "KYK burs ve kredi başvurusu 2026: GSB KYK burs ve kredi başvuruları başladı mı, ne zaman başlayacak?",
+          "summary": "Üniversite kayıt maratonunun tamamlanması ve akademik yılın başlamasıyla birlikte milyonlarca öğrencinin gözü 2026 KYK burs ve kredi başvurularına çevrildi. 2026 KYK burs ve kredi başvuruları için geri sayım sürmeye devam ediyor. Üniversiteye yeni kayıt yaptıran birçok öğrenci, eğitim hayatlarına maddi destek sağlaması için KYK burs ve kredi başvurularının başlayacağı tarihi merak ediyor. Peki, 2026 KYK burs ve kredi başvuruları başladı mı, ne zaman başlar? 2026 KYK BURS BAŞVURULARI NE ZAMAN?",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-ve-kredi-basvurusu-2026-gsb-kyk-burs-ve-kredi-basvurulari-basladi-mi-ne-zaman-baslayacak-1745277"
         },
         {
           "title": "İzmir ilk kez AK Parti'de. Cemil Tugay'ın rozetini Cumhurbaşkanı Erdoğan taktı",
-          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katıldı. Cumhurbaşkanı Erdoğan tarafından rozeti takılan Tugay, \"AK Parti kimsesizlerin kimsesidir.\" dedi. Üç ay önce istinaf mahkemesinin mutlak butlan kararı sonrası CHP'den istifa ederek yoluna bağımsız devam etme kararı alan İzmir Büyükşehir Belediye Başkanı Cemil Tugay, bugün AK Parti'ye katıldı.",
+          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katıldı. Cumhurbaşkanı Erdoğan tarafından rozeti takılan Tugay, \"AK Parti kimsesizlerin kimsesidir.\" dedi. Üç ay önce istinaf mahkemesinin mutlak butlan kararı sonrası CHP'den istifa ederek yoluna bağımsız devam etme kararı alan İzmir Büyükşehir Belediye Başkanı Cemil Tugay, bugün AK Parti'ye katıldı. Tugay'ın rozetini Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Milletvekilleri ile Yasama Yılı Açılış Toplantısı'nda taktı.",
           "source": "https://www.ntv.com.tr/turkiye/galeri-izmir-ilk-kez-ak-partide-cemil-tugayin-rozetini-cumhurbaskani-erdogan-takti-1745195"
-        },
-        {
-          "title": "TBMM Başkanvekilliği'nden istifa etmişti. Bekir Bozdağ'ın yerine gelen isim belli oldu",
-          "summary": "Sağlık sorunları nedeniyle görevinden istifa eden yerine Bekir Bozdağ'ın yerine Meclis Başkanvekilliği görevini AK Parti Tokat Milletvekili Yusuf Beyazıt devralacak. AK Parti Şanlıurfa Milletvekili Bekir Bozdağ, sağlık sorunları gerekçesiyle TBMM Başkanvekilliği görevinden istifa etmişti.",
-          "source": "https://www.ntv.com.tr/turkiye/bekir-bozdag-tbmm-baskanvekilliginden-istifa-etmisti-yerine-gelecek-isim-belli-oldu-1745224"
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Sahtekarlık yapanlar hesabını verecek",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasında gerekli adımların atıldığını belirterek, \"Memlekete hizmet yolunda önümüzde çıkan kim olursa olsun, kenara alır yürümeye devam ederiz.\" dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Kongre Merkezi'nde AK Parti Milletvekilleri ile Yasama Yılı Açılış Toplantısı'na katılıyor. Cumhurbaşkanı Erdoğan konuşmasında sermaye piyasalarında yaşanan gelişmeler sonrası başlatılan fon soruşturmasına değindi.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-mesafeleri-kapatacak-toplumsal-zemine-ihtiyacimiz-var-1745217"
-        },
-        {
-          "title": "Daha kış gelmeden lapa lapa kar yağdı: 5 santimetre",
-          "summary": "Soğuk iklimi ile meşhur olan Erzurum'dan ilk kar görüntüleri geldi. Önemli kış turizm merkezlerinden olan Palandöklen'de gece saatlerinde kar yağışı etkili oldu, bölgedeki kar kalınlığı 5 santimetre seviyesine ulaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/daha-kis-gelmeden-lapa-lapa-kar-yagdi-5-santimetre-43332548"
-        },
-        {
-          "title": "Son dakika... İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti'ye katıldı",
-          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti'ye katıldı. Cemil Tugay'a AK Parti rozetini Cumhurbaşkanı Erdoğan taktı. Tugay yaptığı açıklamada, \"İnanarak ve güvenerek katıldığım bu çatının altında sayın Cumhurbaşkanımızın liderliğinde büyük ve güçlü Türkiye ile kutuplaştırmadan ve ayrıştırmadan kurtulmuş bir millet için bu yola baş koymuşların yoluna refik olmak üzere aranıza geldim\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-izmir-buyuksehir-belediye-baskani-cemil-tugay-ak-partiye-katildi-43332207"
         }
       ]
     },
     "dunya": {
-      "text": "Yapay zeka çipleri üreten fabrikada kanser alarmı. İşçiler neden hastalanıyor?. Nobel Barış Ödülü üzerinde ABD Başkanı Trump'ın \"hayaleti\" dolaşıyor. Gazze'de soykırımın 3. yılı. IMF'den kritik uyarı! Dünya ekonomisi için üçlü tehdit. Fransız polisi liseli protestoculara ses bombalarıyla müdahale edecek. Girne'de batan gemide bir kişinin daha cansız bedenine ulaşıldı. ABD'den İran müzakere sinyali: Anlaşmaya açığız.",
+      "text": "Karadeniz'de üçlü güvenlik hamlesi: Bulgaristan, Türkiye ve Romanya'yı istişareye çağıracak. ABD'de 'biyolojik silah' korkusu: Rusya'dan kanıt istedi. Büyük skandal. Eski CIA yetkilisi devleti 195 milyon dolar dolandırdığını itiraf etti. Almanya'da belediyeler köpek vergisinden 430 milyon euro kazandı. Polonya'da bıçaklı öğrenci okulda dehşet saçtı: 7 yaralı. Belçika'daki tartışma büyüyor. Avrupa Birliği devreye girdi: Tüketicilerin bilgilendirin. Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı.",
       "items": [
         {
-          "title": "Yapay zeka çipleri üreten fabrikada kanser alarmı. İşçiler neden hastalanıyor?",
-          "summary": "Güney Kore'deki hak savunucuları, teknoloji devi SK hynix bünyesinde çalışırken kansere yakalanan üç işçinin resmi olarak meslek hastalığı kapsamına alınmasını talep etti. Güney Kore'de yarı iletken sektöründe iş güvenliği için mücadele eden hak savunucuları, teknoloji devi SK hynix'in eski üç çalışanına konulan kanser teşhisinin meslek hastalığı olarak tanınması talebiyle hükümete çağrıda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-yapay-zeka-cipleri-ureten-fabrikada-kanser-alarmi-isciler-neden-hastalaniyor-1745229"
+          "title": "Karadeniz'de üçlü güvenlik hamlesi: Bulgaristan, Türkiye ve Romanya'yı istişareye çağıracak",
+          "summary": "Bulgaristan Cumhurbaşkanı İliyana Yotova, Karadeniz'de ticari gemilere yönelik saldırıların ardından Türkiye ve Romanya ile acil istişarelerde bulunacaklarını açıkladı. Bulgaristan, Karadeniz'de ticari gemileri hedef alan son saldırıların ardından Türkiye ve Romanya ile ortak hareket etmek için girişimde bulunacak. Bulgaristan Cumhurbaşkanı İliyana Yotova, Ulusal Güvenlik Danışma Konseyi'nin (KSNS) deniz güvenliği gündemiyle düzenlenen olağanüstü toplantısının ardından açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/karadenizde-uclu-guvenlik-hamlesi-bulgaristan-turkiye-ve-romanyayi-istisareye-cagiracak-1745283"
         },
         {
-          "title": "Nobel Barış Ödülü üzerinde ABD Başkanı Trump'ın \"hayaleti\" dolaşıyor",
-          "summary": "Kendisine Nobel Barış Ödülü verilmesi gerektiğini her fırsatta dile getiren ABD Başkanı Donald Trump'ın \"hayaleti\"nin, kazananı seçecek komitenin üzerinde dolaştığı yorumları yapılıyor. Ocak 2025'te Beyaz Saray'a geri dönmesinin ardından Nobel Barış Ödülü almak için çok sıkı kampanya yürüten, hatta şu ana kadar bu ödülü alamamış olmanın kendisinde yarattığı hayal kırıklığını saklamayan ABD Başkanı Doland Trump'ın 'hayaleti' bu yıl da ödülün üzerinde dolaşıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-nobel-baris-odulu-uzerinde-abd-baskani-trumpin-hayaleti-dolasiyor-1745227"
+          "title": "ABD'de 'biyolojik silah' korkusu: Rusya'dan kanıt istedi",
+          "summary": "Rusya'da yaşanan gizemli ölüm ABD'de biyolojik silah ve mutasyon korkusunu gündeme getirdi. Washington, Moskova'dan olayın perde arkasına ilişkin daha fazla bilgi ve kanıt istedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-biyolojik-silah-korkusu-rusyadan-kanit-istedi-43333133"
         },
         {
-          "title": "Gazze'de soykırımın 3. yılı",
-          "summary": "İsrail'in 7 Ekim 2023 tarihindeki olayların ardından Gazze'de başlattığı soykırımda 3 yıl geride kaldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/gazzede-soykirimin-3-yili-43332501"
+          "title": "Büyük skandal. Eski CIA yetkilisi devleti 195 milyon dolar dolandırdığını itiraf etti",
+          "summary": "ABD'de eski bir üst düzey CIA yetkilisi, sözde \"gizli programlar\" uydurarak devletten 195 milyon dolardan fazla para aldığına ilişkin dolandırıcılık suçlamalarını kabul etti. Washington Post gazetesinin haberine göre, teşkilattan ayrılmadan önce ABD Merkezi Haberalma Teşkilatı'nın (CIA) casusluk operasyonlarında kullanılan teknolojileri geliştiren Bilim ve Teknoloji Direktörlüğünde üst düzey yönetici olarak görev yapan David Rush'a ilişkin duruşma, ABD'nin Virginia eyaletindeki federal mahkemede görüldü.",
+          "source": "https://www.ntv.com.tr/dunya/buyuk-skandal-eski-cia-yetkilisi-devleti-195-milyon-dolar-dolandirdigini-itiraf-etti-1745276"
         },
         {
-          "title": "IMF'den kritik uyarı! Dünya ekonomisi için üçlü tehdit",
-          "summary": "Uluslararası Para Fonu (IMF) Başkanı Kristalina Georgieva, küresel ekonominin yapay zeka, enerji fiyatları ve kamu borçları ile büyük bir belirsizlik ve hızlı değişim döneminden geçtiğini belirterek, düşük büyüme oranlarını yukarı taşımak için acil politika adımları atılması çağrısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/imfden-kritik-uyari-dunya-ekonomisi-icin-uclu-tehdit-43332451"
+          "title": "Almanya'da belediyeler köpek vergisinden 430 milyon euro kazandı",
+          "summary": "Almanya'da belediyelerin köpek sahiplerinden aldığı verginin tutarı, 2025 yılında 429,7 milyon euro olarak kayıtlara geçti. Köpek vergisi gelirleri son 10 yılda yüzde 33,4 artış gösterdi. 2024'TE REKOR KIRILMIŞTI Almanya Federal İstatistik Ofisi (Destatis), 10 Ekim Dünya Köpek Günü dolayısıyla köpek vergisi gelirleri ve evcil hayvan harcamalarına ilişkin verileri açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-belediyeler-kopek-vergisinde-430-milyon-euro-kazandi-1745257"
         },
         {
-          "title": "Fransız polisi liseli protestoculara ses bombalarıyla müdahale edecek",
-          "summary": "Fransa İçişleri Bakanı Laurent Nunez, lise eylemlerini bastırmak için polise yeni talimatlar verdi. Nunez, güvenlik güçlerine ülke genelinde ses bombası kullanmamaları izni çıkardı.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransiz-polisi-liseli-protestoculara-ses-bombalariyla-mudahale-edecek-43332440"
+          "title": "Polonya'da bıçaklı öğrenci okulda dehşet saçtı: 7 yaralı",
+          "summary": "Polonya'nın Ostroleka kentindeki bir okulda 19 yaşındaki öğrencinin gerçekleştirdiği bıçaklı saldırı sonucu 1'i öğretmen olmak üzere 7 kişi yaralandı. Saldırgan öğrenci yakalanarak gözaltına alındı. Polonya'nın kuzeydoğusundaki Mazovya Voyvodalığı'nda yer alan Ostroleka şehrindeki bir okulda yerel saatle 11.00 civarında 19 yaşındaki öğrenci, diğer öğrencilere ve bir öğretmene bıçakla saldırdı. “YARALILARDAN İKİSİNİN DURUMU AĞIR” Polisten yapılan açıklamada, öğretmen ve 6 kişinin yaralandığı aktarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/polonyada-bicakli-ogrenci-okulda-dehset-sacti-7-yarali-1745263"
         },
         {
-          "title": "Girne'de batan gemide bir kişinin daha cansız bedenine ulaşıldı",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC), Girne açıklarında batan yolcu gemisinde bir kişinin daha cansız bedenine ulaşıldığını kaydetti. Gemideki arama çalışmalarının sürdüğü belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/girnede-batan-gemide-bir-kisinin-daha-cansiz-bedenine-ulasildi-43332379"
+          "title": "Belçika'daki tartışma büyüyor. Avrupa Birliği devreye girdi: Tüketicilerin bilgilendirin",
+          "summary": "AB Komisyonu, Belçika'da bazı etli atıştırmalıklarda at DNA'sı tespit edilmesinin ardından, tüketicilerin satın aldıkları gıdalar hakkında açık ve doğru bilgilendirilmesi gerektiğini bildirdi. Avrupa Birliği (AB) Komisyonu'nun günlük basın toplantısında, hayvan hakları kuruluşu GAIA'nın Belçika'daki patates kızartması ve atıştırmalık satan işletmelerde yaptırdığı araştırma gündeme geldi.",
+          "source": "https://www.ntv.com.tr/dunya/belcikadaki-tartisma-buyuyor-avrupa-birligi-devreye-girdi-tuketicilerin-bilgilendirin-1745271"
         },
         {
-          "title": "ABD'den İran müzakere sinyali: Anlaşmaya açığız",
-          "summary": "ABD Başkan Yardımcısı James David Vance, Alaska eyaletindeki bir seçim kampanyası gezisinin ardından verdiği röportajda, \"ABD İran ile bir anlaşmaya hala açık, ancak nükleer programla ilgili somut tavizler vermeliler\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdden-iran-muzakere-sinyali-anlasmaya-acigiz-43332361"
+          "title": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı",
+          "summary": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Aden Uluslararası Havalimanı'nı balistik füzeler ve insansız hava araçlarıyla (İHA) hedef aldığı bildirildi. Aden İl Emniyet Müdürlüğünün Facebook hesabından yapılan açıklamada, Husilerin Aden Uluslararası Havalimanı'nı 2 füzeyle hedef aldığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-hedef-aldi-1745153"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe Tarfin Panathinaikos'a konuk olacak!. Trabzonspor, 153 günlük seriyi Samsun'da bozmak istiyor. Galatasaray yoğun maç trafiğine giriyor: 30 günde 8 karşılaşma!. Cedi Osman: 'Berbat oynadım, hiç iyi değildim!'. EuroLeague'de 4. hafta başlıyor. Görme engelli Levent Karadöl, Felipe Massa ile İstanbul'da piste çıktı. Jean Onana’dan Beşiktaş sözleri: 'Özgüvenim eksikti!'.",
+      "text": "Monaco Basket iflas başvurusunda bulundu. Arsenal, Mikel Arteta'nın sözleşmesini uzattı!. MHK açıkladı: Süper Lig’de hakemleri Anthony Taylor atayacak!. Beşiktaş’ta Serdal Adalı ve yönetim kurulu üyeleri mazbatalarını aldı. Obradovic'ten Fenerbahçe açıklaması: 'Önümüzde çok zor bir maç var, dikkatli olmalıyız!'. Jose Mourinho'dan kritik Arda Güler kararı! Mbappe tercihi tepki toplamıştı. Yelken yarışları Foça’ya renk kattı.",
       "items": [
         {
-          "title": "Fenerbahçe Tarfin Panathinaikos'a konuk olacak!",
-          "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, EuroLeague'in 4. haftasında yarın Panathinaikos ile deplasmanda karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-panathinaikosa-konuk-olacak-43332533"
+          "title": "Monaco Basket iflas başvurusunda bulundu",
+          "summary": "Fransa basketbolunun ve EuroLeague'in son yıllardaki en başarılı ekiplerinden Monaco Basket, iflas başvurusunda bulunduğunu duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/monaco-basket-iflas-basvurusunda-bulundu-43333132"
         },
         {
-          "title": "Trabzonspor, 153 günlük seriyi Samsun'da bozmak istiyor",
-          "summary": "Süper Lig'in ilk 6 haftasında 10 puan toplayan Trabzonspor, Samsunspor karşısında deplasmanda sezonun ilk galibiyetini almanın mücadelesini verecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-153-gunluk-seriyi-samsunda-bozmak-istiyor-43332459"
+          "title": "Arsenal, Mikel Arteta'nın sözleşmesini uzattı!",
+          "summary": "Arsenal, Teknik Direktör Mikel Arteta’nın sözleşmesinin 2030 yılına kadar uzatıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arsenal-mikel-artetanin-sozlesmesini-uzatti-43333105"
         },
         {
-          "title": "Galatasaray yoğun maç trafiğine giriyor: 30 günde 8 karşılaşma!",
-          "summary": "Süper Lig'in 7. haftasında 9 Ekim Cuma günü Kasımpaşa'yı ağırlayacak Galatasaray'ı 30 günlük süreçte zorlu bir fikstür bekliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-yogun-mac-trafigine-giriyor-30-gunde-8-karsilasma-43332433"
+          "title": "MHK açıkladı: Süper Lig’de hakemleri Anthony Taylor atayacak!",
+          "summary": "MHK, Süper Lig hakem atamalarının Anthony Taylor, 1. Lig hakem atamalarının ise Alan Snoddy’nin teknik değerlendirmeleri doğrultusunda yapıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-hakemleri-anthony-taylor-atayacak-43333081"
         },
         {
-          "title": "Cedi Osman: 'Berbat oynadım, hiç iyi değildim!'",
-          "summary": "PAOK, EuroCup'ın 2. haftasında Bosna Royal’i 75-72 mağlup ederek Avrupa'daki sezonuna 2'de 2 ile başladı. Cedi Osman, karşılaşma sonrası açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cedi-osman-berbat-oynadim-hic-iyi-degildim-43332403"
+          "title": "Beşiktaş’ta Serdal Adalı ve yönetim kurulu üyeleri mazbatalarını aldı",
+          "summary": "Beşiktaş’ta hafta sonunda gerçekleştirilen olağanüstü seçimli genel kurulda yeniden başkanlığa seçilen Serdal Adalı ve yönetim kurulu üyeleri düzenlenen törenle mazbatalarını aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-serdal-adali-ve-yonetim-kurulu-uyeleri-mazbatalarini-aldi-43333026"
         },
         {
-          "title": "EuroLeague'de 4. hafta başlıyor",
-          "summary": "EuroLeague'de 4. hafta heyecanı, bugün oynanacak tek maçla başlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-4-hafta-basliyor-43332423"
+          "title": "Obradovic'ten Fenerbahçe açıklaması: 'Önümüzde çok zor bir maç var, dikkatli olmalıyız!'",
+          "summary": "EuroLeague'in 4. haftasında yarın Fenerbahçe Tarfin'i konuk edecek olan Panathinaikos'ta başantrenör Zeljko Obradovic, karşılaşma öncesi açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/obradovicten-fenerbahce-aciklamasi-onumuzde-cok-zor-bir-mac-var-dikkatli-olmaliyiz-43332954"
         },
         {
-          "title": "Görme engelli Levent Karadöl, Felipe Massa ile İstanbul'da piste çıktı",
-          "summary": "Dünyaca ünlü Brezilyalı eski Formula 1 pilotu Felipe Massa, Formula 1 tutkunu olan görme engelli Levent Karadöl ile İstanbul'da piste çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gorme-engelli-levent-karadol-felipe-massa-ile-istanbulda-piste-cikti-43332292"
+          "title": "Jose Mourinho'dan kritik Arda Güler kararı! Mbappe tercihi tepki toplamıştı",
+          "summary": "Real Madrid teknik direktörü Jose Mourinho, merakla beklenen ve tartışma konusu olan takımdaki duran top kullanıcıları konusunda sonunda net kararını verdi. İspanyol basını, Portekizli hocanın milli futbolcu Arda Güler'i ilk sıraya yazdığını duyurdu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/jose-mourinhodan-kritik-arda-guler-karari-mbappe-tercihi-tepki-toplamisti-43332855"
         },
         {
-          "title": "Jean Onana’dan Beşiktaş sözleri: 'Özgüvenim eksikti!'",
-          "summary": "Beşiktaş'ın sözleşmesini feshederek yollarını ayırdığı Jean Onana, geleceği hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jean-onanadan-besiktas-sozleri-ozguvenim-eksikti-43332232"
+          "title": "Yelken yarışları Foça’ya renk kattı",
+          "summary": "Türkiye Yelken Federasyonu (TYF) Yelken Ligi 1’inci Ayak MW Phokaia Beach Resort Kupası Techno 293 Yarışları Foça’da gerçekleştirildi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/yelken-yarislari-focaya-renk-katti-43332854"
         }
       ]
     },
     "teknoloji": {
-      "text": "İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı. NASA'dan Türkiye açıklaması: Türkiye Ay üssümüzü inşa etmeye yardımcı olabilir.",
+      "text": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı.",
       "items": [
+        {
+          "title": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü",
+          "summary": "Türkiye’nin milli teknoloji hamlesinde tarihi bir milat daha geride kaldı. Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ile T.C. Sanayi ve Teknoloji Bakanlığı yürütücülüğünde, 157 paydaş kurumun güçlü desteğiyle 30 Eylül - 4 Ekim tarihleri arasında Şanlıurfa GAP Havalimanında düzenlenen TEKNOFEST Güneydoğu, dev bir coşku ve rekor katılımla tamamlandı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/teknofest-guneydogu-1-5-milyon-ziyaretciyle-teknoloji-solenine-donustu-43332659"
+        },
         {
           "title": "İstanbul Fintech Week 2026 başladı",
           "summary": "İstanbul Fintech Week 2026’nın 6–7 Ekim ana zirve programı başladı. Açılış konuşmasını Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkan Yardımcısı Prof. Dr. Hatice Karahan yaptı. Nobel ödüllü ekonomist Prof. Dr. Daron Acemoğlu ise 6 Ekim’de (bugün) ana sahnede yer alacak. 5 Ekim’de Sürdürülebilir Finans Zirvesi ile başlayan etkinliğin programında ödemeler, yapay zekâ, otonom finans, dijital bankacılık ve tokenizasyon başlıkları ele alınacak.",
@@ -195,17 +200,17 @@
           "title": "Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı",
           "summary": "Alışveriş platformu Trendyol, yapay zekâ ve makine öğrenmesi çözümlerini “Yapay Zeka/Makine Öğrenimi Zirvesi: Ölçeklenebilir Yapay Zeka” (AI/ML Summit: AI at Scale) buluşmasında profesyoneller ve akademisyenlerle paylaştı.",
           "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-ve-makine-ogrenimi-zirvesi-tamamlandi-43330538"
-        },
-        {
-          "title": "NASA'dan Türkiye açıklaması: Türkiye Ay üssümüzü inşa etmeye yardımcı olabilir",
-          "summary": "NASA Başkan Yardımcısı Matt Anderson, \"Uzay, Türkiye için ulusal bir öncelik ve Artemis Anlaşmaları'nın imzalanmasıyla açıkça görülüyor ki Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde Türkiye için bir ulusal öncelik haline gelmiştir. Dolayısıyla bu ortaklığı dört gözle bekliyoruz ve buradan nereye gideceğini göreceğiz\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/nasadan-turkiye-aciklamasi-bu-ortakligi-dort-gozle-bekliyoruz-43330318"
         }
       ]
     },
     "saglik": {
-      "text": "100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor. Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış. Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini. Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu. Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı. Takviyeler çözüm değil. \"Günde yarım saat yürüyün\". Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat.",
+      "text": "Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş. 100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor. Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış. Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini. Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu. Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı. Takviyeler çözüm değil. \"Günde yarım saat yürüyün\".",
       "items": [
+        {
+          "title": "Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş",
+          "summary": "Sadece Kastamonu'da yetişen ve Osmanlı mutfağının vazgeçilmez meyvelerinden olan coğrafi işaretli üryani eriğinin hasadına başlandı. Türkiye'de sadece Kastamonu il merkezinde ve Daday ilçesinde yetişen, içerdiği antioksidan maddelerden dolayı sağlıklı yaşam meyveleri arasında ilk sıralarda yer alan üryani eriğinin (ala) hasadı başladı.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-sadece-kastamonuda-yetisiyor-magnezyum-potasyum-demir-deposuymus-1745233"
+        },
         {
           "title": "100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor",
           "summary": "Tokat'ta geçen yıl 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Tokat'ta kuşburnunda yaşanan bolluk, satış fiyatlarına da yansıdı. Geçen yıl kilogramı 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Fiyatlardaki gerileme, özellikle kış hazırlığı yapan vatandaşların ilgisini artırdı. Kuşburnunun bol çıkması üreticileri sevindirirken, vatandaşlar da geçen yıla göre daha uygun fiyatlarla alışveriş yapma imkânı buldu.",
@@ -235,11 +240,6 @@
           "title": "Takviyeler çözüm değil. \"Günde yarım saat yürüyün\"",
           "summary": "Zincirleme Reaksiyon'un bu haftaki bölümünde bağırsak sağlığı ile beyin arasındaki ilişkiyi masaya yatırıldı. Prof. Dr. Yaşar Çolak, takviyelerle alakalı da konuştu. Her Cuma NTV ekranlarında, Seda Öğretir moderatörlüğünde izleyiciyle buluşan Zincirleme Reaksiyon, bu haftaki bölümünde bağırsak sağlığı ile beyin arasındaki ilişkiyi masaya yatırdı. Programın konukları müzisyen Bahadır Tatlıöz ile Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı Prof. Dr. Yaşar Çolak oldu.",
           "source": "https://www.ntv.com.tr/saglik/galeri-prof-dr-yasar-colak-takviyeler-cozum-degil-gunde-yarim-saat-yuruyun-1744621"
-        },
-        {
-          "title": "Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat",
-          "summary": "Mevsim değişikliği grip ve nezle vakalarını artırdı. Özellikle çocuklarda vakalar yükselirken, uzmanlar velileri ve öğretmenleri hijyene dikkat etmeleri konusunda uyarıyor.",
-          "source": "https://www.ntv.com.tr/saglik/video-mevsim-degisikligi-hastaliklari-artirdi-cocuklara-dikkat-1744377"
         }
       ]
     },
