@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-06T10:00:03.760Z",
+  "generatedAt": "2026-10-07T04:00:04.345Z",
   "categories": {
     "gundem": {
-      "text": "Herkes köyü terk etti, o gitmedi. 72 yaşındaki Selami dede 11 yıldır tek başına yaşıyor. Kuşları vahşice katledip görüntüleri sanal medyada paylaşmıştı: Yusufcan Turay tutuklandı. Başakşehir'de ortaokulda bıçaklı saldırı. 3'ü ağır 8 öğrenci yaralı. Taşımalı eğitimden Hacettepe Tıp’a uzanan başarı: Bakan Ersoy genç öğrenciyi ağırladı. Kuyumcukent'te büyük dolandırıcılık operasyonu: 64 kilo altın toplayıp eritmişler. İzmir Bayraklı Belediyesi'ne operasyon. Eski başkan dahil 48 kişi hakkında gözaltı kararı. MHP Genel Başkanı Devlet Bahçeli: Erdoğan bir kez daha aday olmalı.",
+      "text": "Booking, Expedia ve Airbnb'ye yeni kurallar. Teklif komisyondan geçti. ÖSYM duyurdu: KPSS lisans sonuçları açıklandı. Bakan Kurum'dan CAP31 mesajı. \"Artık yaptıklarımızı değil, yapacaklarımızı konuşmalıyız\". Çorum'daki feci kazada 4 kişi hayatını kaybetti. Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de. AK Parti’den dikkat çeken İzmir paylaşımı: Cemil Tugay AK Parti'ye mi geçecek?. Çorum'da feci kaza: 4 kişi yaşamını yitirdi, 1 kişi yaralandı.",
       "items": [
         {
-          "title": "Herkes köyü terk etti, o gitmedi. 72 yaşındaki Selami dede 11 yıldır tek başına yaşıyor",
-          "summary": "Aksaray’da 72 yaşındaki adam su çıkmaması nedeniyle tüm sakinleri taşınan 180 hanelik köyde 11 yıldır yalnız yaşıyor. Aksaray’ın merkeze bağlı Gözlükuyu köyünde 72 yıl önce doğup büyüyen Selami Salman, su çıkmaması nedeniyle 11 yıl önce terk edilen köyde tek başına yaşamaya başladı. Hasan Dağı’nın eteğinde 180 hane bulunan köyün halkı yerleşim yerinin yüksek kesimde olması ve su kaynaklarının kuruması nedeniyle 11 yıl önce devletin desteğiyle 8 kilometre uzaklıktaki bir yerleşim yerine taşındı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-herkes-koyu-terk-etti-o-gitmedi-72-yasindaki-selami-dede-11-yildir-tek-basina-yasiyor-1745068"
+          "title": "Booking, Expedia ve Airbnb'ye yeni kurallar. Teklif komisyondan geçti",
+          "summary": "Booking, Expedia ve Airbnb gibi yabancı dijital konaklama platformlarına Türkiye’de temsilci bulundurma, izin belgesi alma ve turizm payı ödeme zorunluluğu getirilmesi planlanıyor. Yabancı Dijital Konaklama Platformları Kanunu Teklifi, TBMM Bayındırlık, İmar, Ulaştırma ve Turizm Komisyonunda kabul edildi. Teklife göre Booking, Expedia ve Airbnb gibi platformların Türkiye’de faaliyet gösterebilmek için Kültür ve Turizm Bakanlığı’ndan iki yıl süreli izin belgesi alması gerekecek.",
+          "source": "https://www.ntv.com.tr/turkiye/booking-expedia-ve-airbnbye-yeni-kurallar-teklif-komisyondan-gecti-1745121"
         },
         {
-          "title": "Kuşları vahşice katledip görüntüleri sanal medyada paylaşmıştı: Yusufcan Turay tutuklandı",
-          "summary": "Antalya, Alanya'da kuşlara yönelik işkence görüntüleriyle büyük tepki çeken Yusufcan Turay, jandarma tarafından yakalanarak adliyeye sevk edildi. Hakim karşısına çıkarılan şüpheli tutuklanarak cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kuslari-vahsice-katledip-goruntuleri-sanal-medyada-paylasmisti-yusufcan-turay-tutuklandi-43331347"
+          "title": "ÖSYM duyurdu: KPSS lisans sonuçları açıklandı",
+          "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) 2026-KPSS Lisans Genel Yetenek-Genel Kültür ve Alan Bilgisi sınavlarına ilişkin sonuçlar açıklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kpss-lisans-sonuclari-aciklandi-43332117"
         },
         {
-          "title": "Başakşehir'de ortaokulda bıçaklı saldırı. 3'ü ağır 8 öğrenci yaralı",
-          "summary": "İstanbul Başakşehir'deki bir ortaokulda öğrenciler arasında kavga çıktı. 3'ü ağır 8 öğrenci yaralandı. Okulda eğitime bugün ve yarın ara verildi. Kayabaşı Mahallesi'nde bulunan Kayaşehir'deki Şeyh Şamil İmam Hatip Ortaokulu'nda öğrenciler arasında kavga çıktı. Küçükçekmece'de bir lisede okuyan 10. sınıf kız öğrencisi F.M., Başakşehir'deki okulda bıçaklı saldırı gerçekleştirdi. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-basaksehirde-ortaokulda-bicakli-saldiri-3u-agir-8-ogrenci-yarali-1745010"
+          "title": "Bakan Kurum'dan CAP31 mesajı. \"Artık yaptıklarımızı değil, yapacaklarımızı konuşmalıyız\"",
+          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 dönem başkanı Murat Kurum Fiji’deki oturumda, Antalya'daki İklim Zirvesi'ndeki eylem planını anlattı. BM İklim Zirvesi'nin 31'incisi COP31 bu yıl Türkiye'de düzenleniyor. Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum COP31'in dönem başkanlığını yürütüyor. Kurum Fiji'de Pre-COP adı verilen, iklim zirvesi öncesi dünyadan farklı ülkelerde değerlendirmeler yapılan zirveye katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-kurumdan-cap31-mesaji-artik-yaptiklarimizi-degil-yapacaklarimizi-konusmaliyiz-1745154"
         },
         {
-          "title": "Taşımalı eğitimden Hacettepe Tıp’a uzanan başarı: Bakan Ersoy genç öğrenciyi ağırladı",
-          "summary": "Bakan Mehmet Nuri Ersoy, zorlu yaşam koşullarına rağmen Hacettepe Üniversitesi Tıp Fakültesini kazanan 18 yaşındaki öğrenciyi ağırlayarak başarısından dolayı tebrik etti. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya’nın Akseki ilçesinde orman işçisi olarak çalışan bir ailenin evladı olan 18 yaşındaki Ahmet Deniz ile bir araya geldi. Zorlu yaşam koşulları içinde eğitimini başarıyla sürdüren Deniz’i tebrik eden Ersoy, genç öğrenciye gelecek yaşamında başarılar diledi.",
-          "source": "https://www.ntv.com.tr/turkiye/tasimali-egitimden-hacettepe-tipa-uzanan-basari-bakan-ersoy-genc-ogrenciyi-agirladi-1745062"
+          "title": "Çorum'daki feci kazada 4 kişi hayatını kaybetti",
+          "summary": "Çorum'da otomobil ile cipin çarpıştığı kazada biri çocuk 4 kişi hayatını kaybetti, 1 kişi ağır yaralandı. Zehra Betül Yılmaz idaresindeki otomobil, Çorum-İskilip kara yolu Ceritbeli mevkisinde Mert Üstünel'in kullandığı ciple çarpıştı. İhbar üzerine kaza yerine jandarma, sağlık ve itfaiye ekipleri sevk edildi. Kazada sürücüler Zehra Betül Yılmaz ve Mert Üstünel ile otomobilde bulunan 6 yaşındaki Hüsra Lal, olay yerinde hayatını kaybetti.",
+          "source": "https://www.ntv.com.tr/turkiye/corumdaki-feci-kazada-4-kisi-hayatini-kaybetti-1745150"
         },
         {
-          "title": "Kuyumcukent'te büyük dolandırıcılık operasyonu: 64 kilo altın toplayıp eritmişler",
-          "summary": "Bakırköy Cumhuriyet Başsavcılığı'nca yürütülen soruşturmada, Kuyumcukent'te 16 firmanın şikayeti üzerine piyasadan topladıkları 64 kilogram altını eritip kaçtıkları belirlenen şüphelilere yönelik 3 ilde düzenlenen operasyonda 33 şüpheli yakalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kuyumcukentte-buyuk-dolandiricilik-operasyonu-64-kilo-altin-toplayip-eritmisler-43331341"
+          "title": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de",
+          "summary": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de yayımlanarak yürürlüğe girdi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, sosyal medya hesabından yaptığı paylaşımda, \"Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği\"nin Resmi Gazete'de yayımlanarak yürürlüğe girdiğini bildirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/engelli-bireylere-yonelik-ozel-bakim-merkezleri-yonetmeligi-resmi-gazetede-1745149"
         },
         {
-          "title": "İzmir Bayraklı Belediyesi'ne operasyon. Eski başkan dahil 48 kişi hakkında gözaltı kararı",
-          "summary": "İzmir’in Bayraklı Belediyesi'ne yönelik yolsuzluk soruşturmasında , aralarında eski Bayraklı Belediye Başkanı Serdar Sandal'ın da bulunduğu 46 şüpheli gözaltına alındı. İzmir'de Bayraklı Belediyesine yönelik \"suç işlemek amacıyla örgüt kurmak\", \"rüşvet\" ve \"ihaleye fesat karıştırmak\" iddiasıyla yürütülen soruşturma başlatıldı. Soruşturma kapsamında geçmiş dönem Belediye Başkanı Serdar Sandal’ın da aralarında olduğu 48 kişi hakkında gözaltı kararı verildi.",
-          "source": "https://www.ntv.com.tr/turkiye/izmir-bayrakli-belediyesine-operasyon-eski-baskan-dahil-40a-yakin-gozalti-karari-1744978"
+          "title": "AK Parti’den dikkat çeken İzmir paylaşımı: Cemil Tugay AK Parti'ye mi geçecek?",
+          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın bugün AK Parti'ye geçeceği iddia edilirken, AK Parti'nin sosyal medya hesabından İzmir'e ilişkin dikkat çekici bir paylaşım geldi. AK Parti’nin sosyal medya hesabından İzmir’e ilişkin kum saati görseliyle 30 saniyelik bir video paylaşıldı. Videoda çöp yığınlarının bulunduğu görüntülerin ardından çiçeklerin açtığı sahnelere yer verilirken, fonda İzmir Marşı kullanıldı. Paylaşımın sonunda ise “07.10.2026” tarihi ekrana geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/ak-partiden-dikkat-ceken-izmir-paylasimi-7-ekim-detayi-1745129"
         },
         {
-          "title": "MHP Genel Başkanı Devlet Bahçeli: Erdoğan bir kez daha aday olmalı",
-          "summary": "MHP Genel Başkanı Bahçeli, Recep Tayyip Erdoğan'ın bir kez daha Cumhurbaşkanı adayı olması gerektiğine yönelik çağrıda bulunarak bunun için de gerekli hukuki ve toplumsal yapının bulunduğunu belirtti. Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, yeni yasama yılının ilk grup toplantısında önemli mesajlar verdi. Bahçeli, Cumhurbaşkanı Erdoğan'ın bir kez daha aday olması gerektiğini söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/mhp-genel-baskani-devlet-bahceli-erdogan-bir-kez-daha-aday-olmali-1745017"
+          "title": "Çorum'da feci kaza: 4 kişi yaşamını yitirdi, 1 kişi yaralandı",
+          "summary": "Çorum'da otomobil ile cipin çarpışması neticesinde meydana gelen kazada 1'i çocuk 4 kişi hayatını kaybetti, 1 kişi de ağır yaralandı. Kazada ölen iki kişinin ise dün nişanlanan çift olduğu öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/corumda-feci-kaza-4-kisi-yasamini-yitirdi-1-kisi-yaralandi-43332103"
         }
       ]
     },
     "dunya": {
-      "text": "Almanya'da eski istihbarat şefine gözaltı: Casuslukla suçlandı. Öğrenciler ava giderken avlandı. Profesör kendi yöntemini geliştirdi, kimse ne olduğunu anlamadı. Ukrayna, Moskova’yı 650'den fazla İHA ile vurdu: 2 ölü, 9 yaralı. Rusya'daki 'veba salgını' iddiası. Ölen kadına temas edenlerle ilgili yeni açıklama. Almanya’da eski istihbarat servisi başkanı casusluk ve vatana ihanetten tutuklandı. ABD'de 65 yıl sonra bir ilk. Malik Hasan kurşuna dizilecek. Japonya'da bir Amerikan askeri cinayete karıştı. Tokyo'dan Washington'a protesto.",
+      "text": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı. Kosova'nın yeni Cumhurbaşkanı Justina Shiroka Pula oldu. Rusya'da veba salgını iddiası. ABD'den şeffaflık çağrısı. Karadeniz'de petrol tankeri vuruldu. Sızan petrol yanmaya devam ediyor. ABD Başkanı Trump'tan İran mesajı: Bu işi bitirmemiz gerekiyor. ABD medyası yazdı: Rusya uyarıldı…. Trump, Putin ile salgını görüşecek. Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol taşındığını belirtti.",
       "items": [
         {
-          "title": "Almanya'da eski istihbarat şefine gözaltı: Casuslukla suçlandı",
-          "summary": "Almanya’da eski Federal İstihbarat Servisi (BND) Başkanı August Hanning casusluk suçlamasıyla gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-eski-istihbarat-sefine-gozalti-casuslukla-suclandi-43331348"
+          "title": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı",
+          "summary": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Aden Uluslararası Havalimanı'nı balistik füzeler ve insansız hava araçlarıyla (İHA) hedef aldığı bildirildi. Aden İl Emniyet Müdürlüğünün Facebook hesabından yapılan açıklamada, Husilerin Aden Uluslararası Havalimanı'nı 2 füzeyle hedef aldığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-hedef-aldi-1745153"
         },
         {
-          "title": "Öğrenciler ava giderken avlandı. Profesör kendi yöntemini geliştirdi, kimse ne olduğunu anlamadı",
-          "summary": "Öğrenciler arasında, yazılı ev ödevlerinde yapay zeka kullanımı giderek artarken, ABD'de bir profesör, işin kolayına kaçan öğrencilerini kurnazca bir yöntemle tespit etti. Her geçen gün biraz daha güçlenen yapay zekalı sohbet botları, yazılı ödevleri saniyeler içinde hazırlayabildiği için, işin kolayına kaçan öğrenciler tarafından da sıkça tercih ediliyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ogrenciler-ava-giderken-avladi-profesor-kendi-yontemini-gelistirdi-kimse-ne-oldugunu-anlamadi-1745020"
+          "title": "Kosova'nın yeni Cumhurbaşkanı Justina Shiroka Pula oldu",
+          "summary": "Kosova Meclisinde yapılan oylamada, Kosova Bilimler ve Sanatlar Akademisi (ASHAK) Başkanı 73 yaşındaki Justina Shiroka Pula ülkenin yeni cumhurbaşkanı seçildi. Kosova Anayasa Mahkemesi, 23 Eylül'de aldığı kararla yeni cumhurbaşkanının milletvekilleri tarafından seçilmesi için öngörülen anayasal 60 günlük sürenin 8 Ağustos'ta başladığını ve 6 Ekim'de sona ererek Meclisin feshedileceğini bildirmişti.",
+          "source": "https://www.ntv.com.tr/dunya/kosovanin-yeni-cumhurbaskani-justina-shiroka-pula-oldu-1745151"
         },
         {
-          "title": "Ukrayna, Moskova’yı 650'den fazla İHA ile vurdu: 2 ölü, 9 yaralı",
-          "summary": "Ukrayna tarafından Rusya’nın başkenti Moskova’ya gece saatlerinde 650'den fazla İHA ile düzenlenen saldırıda 2 kişi hayatını kaybetti, 9 kişi yaralandı. Rusya-Ukrayna Savaşı beşinci yılına yaklaşırken, tarafların karşılıklı saldırıları sürüyor. Ukrayna, gece boyunca Rusya’nın Moskova bölgesini 650’den fazla insansız hava aracı (İHA) ile hedef aldı. Moskova Bölge Valisi Andrei Vorobyev, saldırılarda 2 kişinin hayatını kaybettiğini, 9 kişinin yaralandığını bildirdi.",
-          "source": "https://www.ntv.com.tr/dunya/ukrayna-moskovayi-650den-fazla-iha-ile-vurdu-2-olu-9-yarali-1745050"
+          "title": "Rusya'da veba salgını iddiası. ABD'den şeffaflık çağrısı",
+          "summary": "Rusya’da bir veba araştırma enstitüsü çalışanının şüpheli ölümüyle ilgili inceleme sürüyor. Moskova yönetimi, veba vakası tespit edilmediğini açıklarken, ABD şeffaflık çağrısı yaptı. Rusya’da bir laboratuvar çalışanının ölümünün ardından ortaya çıkan veba şüphesiyle ilgili soru işaretleri sürüyor. Rus yetkililer hayatını kaybeden 28 yaşındaki Darya Shipilova’nın temasta olduğu kişilerde herhangi bir veba vakası tespit edilmediğini açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/rusyada-veba-salgini-iddiasi-abdden-seffaflik-cagrisi-1745147"
         },
         {
-          "title": "Rusya'daki 'veba salgını' iddiası. Ölen kadına temas edenlerle ilgili yeni açıklama",
-          "summary": "Rusya'da bir veba araştırma merkezinde çalışan kadının ölümüyle sosyal medyada tırmanan \"veba salgını\" iddiaları sürerken, kadınla temas edenlerin durumuna ilişkin resmi açıklama yapıldı. Rusya'nın Sibirya bölgesinde veba araştırma merkezinde çalışan bir kadının ölümü, 5 hastanenin kapatılması ve yaklaşık 200 kişinin de hastanede gözetim altına alınması, \"veba salgını\" iddialarını gündeme getirmişti.",
-          "source": "https://www.ntv.com.tr/dunya/rusyadaki-veba-salgini-iddiasi-olen-kadina-temas-edenlerle-ilgili-yeni-aciklama-1744983"
+          "title": "Karadeniz'de petrol tankeri vuruldu. Sızan petrol yanmaya devam ediyor",
+          "summary": "Karadeniz’de Rusya’nın Soçi kenti yakınlarında Liberya bayraklı bir petrol tankeri insansız deniz araçlarının hedefi oldu. Saldırı sonrası tanker alev alırken, 23 kişilik mürettebat kurtarıldı. Karadeniz yakınlarındaki Sirius Federal Bölgesi İdaresi Başkanı Dmitriy Plişkin, yaptığı yazılı açıklamada, bölgenin açıklarında bir tankerde yangın çıktığını ifade etti.",
+          "source": "https://www.ntv.com.tr/dunya/karadenizde-petrol-tankeri-vuruldu-sizan-petrol-yanmaya-devam-ediyor-1745146"
         },
         {
-          "title": "Almanya’da eski istihbarat servisi başkanı casusluk ve vatana ihanetten tutuklandı",
-          "summary": "Almanya’da 1998’den 2005'e kadar Alman Dış İstihbarat Servisi'nin (BND) başkanlığını yapan August Hanning ile o dönemki özel kalem müdürü, casusluk ve vatana ihanet şüphesiyle tutuklandı. Almanya'da, eski Dış İstihbarat Servisi (BND) başkanının casusluk ve vatana ihanet suçlamasıyla tutuklanmasının şokunu yaşıyor. Almanya Federal Savcılığı tarafından yapılan açıklamada, Bavyera ve Kuzey Ren Vestfalya eyaletleri ile Berlin’de gerçekleştirilen operasyonlarda 2 kişinin tutuklandığı bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/almanyada-eski-istihbarat-servisi-baskani-casusluk-ve-vatana-ihanetten-tutuklandi-1745061"
+          "title": "ABD Başkanı Trump'tan İran mesajı: Bu işi bitirmemiz gerekiyor",
+          "summary": "ABD Başkanı Donald Trump, İran'da başladıkları işi bitirmeleri gerektiğini belirterek sadece bunu \"nazik mi yoksa kaba\" bir yolla mı gerçekleştireceklerini düşündüklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-iran-mesaji-bu-isi-bitirmemiz-gerekiyor-43332105"
         },
         {
-          "title": "ABD'de 65 yıl sonra bir ilk. Malik Hasan kurşuna dizilecek",
-          "summary": "ABD'deki bir üsse 2009'da saldırı düzenleyerek 13 kişiyi öldüren, 32 kişiyi de yaralayan ordu psikiyatristi Binbaşı Nidal Malik Hasan'ın kurşuna dizilerek infazına ABD Başkanı Trump onay verdi. ABD Başkanı Donald Trump, 2009 yılında Teksas'taki Ford Hood askeri üssüne saldırı düzenleyerek 13 kişiyi öldüren, 32 kişiyi de yaralayan ordu psikiyatristi Binbaşı Nidal Malik Hasan'ın kurşuna dizilerek infaz edilmesine onay verdi.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-65-yil-sonra-bir-ilk-malik-hasan-kursuna-dizilecek-1745042"
+          "title": "ABD medyası yazdı: Rusya uyarıldı…. Trump, Putin ile salgını görüşecek",
+          "summary": "ABD Başkanı Donald Trump, Rusya'daki salgınla ilgili Rusya Devlet Başkanı Vladimir Putin ile çok yakında görüşeceğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-medyasi-yazdi-rusya-uyarildi-trump-salginla-ilgili-putin-ile-gorusecek-43332104"
         },
         {
-          "title": "Japonya'da bir Amerikan askeri cinayete karıştı. Tokyo'dan Washington'a protesto",
-          "summary": "Okinawa'da 20 yaşındaki bir ABD deniz piyadesinin cinayet ve yağma şüphesiyle gözaltına alınması üzerine Japonya Başbakanı Sanae Takaichi Washington yönetimine protesto iletti. Japonya'nın Okinawa Adası'nda görev yapan 20 yaşındaki bir ABD deniz piyadesi, 39 yaşındaki bir Japon kadını öldürdüğü ve eşyalarını gasbettiği şüphesiyle gözaltına alındı. Japonya Başbakanı Sanae Takaichi olayı kınayarak ABD nezdinde resmi protesto girişiminde bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-japonyada-bir-amerikan-askeri-cinayete-karisti-tokyodan-washingtona-protesto-1745056"
+          "title": "Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol taşındığını belirtti",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol sevkiyatı yapıldığını ifade ederek petrol fiyatlarının düşmesini beklediğini söyledi. ABD Başkanı Donald Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol sevkiyatı yapıldığını ifade ederek petrol fiyatlarının düşmesini beklediğini söyledi. ABD Başkanı Trump, Baltimore kentinde düzenlenecek bir açılışa katılmak üzere Beyaz Saray'dan ayrılırken basın mensuplarına gündemi değerlendirdi.",
+          "source": "https://www.ntv.com.tr/dunya/trump-hurmuz-bogazindan-son-donemde-inanilmaz-miktarda-petrol-tasindigini-belirtti-1745140"
         }
       ]
     },
     "ekonomi": {
-      "text": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz. Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık.",
+      "text": "TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz.",
       "items": [
+        {
+          "title": "TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor",
+          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, fon piyasası genelinin sağlıklı işlemeye devam ettiğini, finansal sistemin genelini etkileyen bir sorun olmadığını değerlendirdiklerini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tcmb-baskani-karahan-fon-piyasasi-saglikli-islemeye-devam-ediyor-43332002"
+        },
         {
           "title": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi",
           "summary": "Vali Davut Gül'ün katılımıyla düzenlenen toplantıda İstanbul'un 9 aylık güvenlik verileri kamuoyuyla paylaşıldı. Vali Gül, organize suç örgütlerine 343 operasyon yapıldığını, mal varlığına karşı işlenen suçlarda ise belirgin düşüşler yaşandığını açıkladı.",
@@ -115,57 +120,57 @@
           "title": "TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz",
           "summary": "Cumhurbaşkanı Tayyip Erdoğan Meclis’i açış konuşmasında fon krizine de değinirken “Fon piyasasının belli bölümünde ortaya çıkan sorunun da üstesinden başarıyla geliyoruz. Sermaye piyasası kuralları çerçevesinde, hakkaniyet ve adaleti gözeterek, kimsenin hakkını kimseye yedirmeden, bu meseleyi süratle çözüyoruz” dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/tbmm-28-donem-5-yasama-yili-torenle-basladi-erdogandan-fon-mesaji-suratle-cozuyoruz-43326668"
-        },
-        {
-          "title": "Bakan Şimşek: Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık",
-          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon piyasalarında yaşanan son gelişmelere ilişkin, \"Çok hızlı hareket ettik. Sorunlu portföy yönetim şirketlerini ve ilgili fonları karantinaya aldık. Bahse konu fonların tasfiyesi ve çözümlenmesi süreci başladı. Burada amacımız, bulaşıcılığın sistemin geri kalanına yayılmasını durdurmaktı ve bunda büyük ölçüde başarılı olduğumuzu düşünüyoruz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-simsek-sorunlu-portfoy-yonetim-sirketlerini-ve-ilgili-fonlari-karantinaya-aldik-43326466"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe-Roma maçında görüştüler! Ocakta teklif geliyor. Messi milli formaya veda ediyor. İspanya’nın maçlarında ilk yarılar gollü geçiyor, Çekya İngiltere’ye gol atmakta zorlanıyor… İşte Misli’den günün tüyoları!. Serdal Adalı yeniden başkan! İşte 7 vaadi. Formula 1'den sonra F2 ve F3'de İstanbul'da düzenlenecek!. Uluslar Ligi maçlarının heyecanı canlı sohbet ile Misli’de. Galatasaray'da divan kurulu toplantısı yarın yapılacak.",
+      "text": "Ümit Milli Takım, Macaristan ile berabere kaldı!. Cristiano Ronaldo, Portekiz Milli Takımı'ndaki geleceğini açıkladı!. İngiltere, UEFA Uluslar Ligi'nde Çekya'yı 3 golle geçti!. Galatasaray'a Victor Osimhen müjdesi!. Alex de Souza için Süper Lig iddiası!. Kendi federasyonuna \"kayyum\" olarak atandı!. Şampiyonlar Kupası’nın sahibi Vakıfbank!.",
       "items": [
         {
-          "title": "Fenerbahçe-Roma maçında görüştüler! Ocakta teklif geliyor",
-          "summary": "İtalyan basını, Fenerbahçe-Roma maçında Gasperini'nin sarı lacivertli yıldız için görüşmelerde bulunduğunu duyurdu. İşte ayrıntılar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-roma-macinda-gorustuler-ocakta-teklif-geliyor-43331244"
+          "title": "Ümit Milli Takım, Macaristan ile berabere kaldı!",
+          "summary": "ÜMİT Milli Takım, UEFA 21 Yaş Altı Avrupa Şampiyonası Elemeleri H Grubu'ndaki son maçında konuk ettiği Macaristan ile 0-0 berabere kaldı. Ay-yıldızlılar, Hırvatistan'ın ardından 2'nci sırada yer alarak play-off oynama hakkı kazandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/umit-milli-takim-macaristan-ile-berabere-kaldi-43332056"
         },
         {
-          "title": "Messi milli formaya veda ediyor",
-          "summary": "Milli takım kariyerini noktalamaya hazırlanan 39 yaşındaki yıldız futbolcu Lionel Messi, Arjantin'in yarın gece Benin ile yapacağı hazırlık maçında son kez sahaya çıkacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/messi-milli-formaya-veda-ediyor-43331224"
+          "title": "Cristiano Ronaldo, Portekiz Milli Takımı'ndaki geleceğini açıkladı!",
+          "summary": "Portekizli futbolcu Cristiano Ronaldo, 1740 kelimelik açıklamasında, teknik direktör Jorge Jesus'u sözünü tutmamakla suçladı",
+          "source": "https://www.hurriyet.com.tr/sporarena/cristiano-ronaldo-portekiz-milli-takimindaki-gelecegini-acikladi-43332052"
         },
         {
-          "title": "İspanya’nın maçlarında ilk yarılar gollü geçiyor, Çekya İngiltere’ye gol atmakta zorlanıyor… İşte Misli’den günün tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/ispanyanin-maclarinda-ilk-yarilar-gollu-geciyor-cekya-ingiltereye-gol-atmakta-zorlaniyor-iste-misliden-gunun-tuyolari-43331203"
+          "title": "İngiltere, UEFA Uluslar Ligi'nde Çekya'yı 3 golle geçti!",
+          "summary": "İngiltere, UEFA Uluslar A Ligi 3. Grup'ta Çekya'yı evinde 3-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ingiltere-uefa-uluslar-liginde-cekyayi-3-golle-gecti-43332050"
         },
         {
-          "title": "Serdal Adalı yeniden başkan! İşte 7 vaadi",
-          "summary": "Beşiktaş'ta tek adaylı seçimde Serdal Adalı, yeniden başkan seçildi ve güven tazeledi. Adalı'nın 7 maddelik vaadi belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-yeniden-baskan-iste-7-vaadi-43331046"
+          "title": "Galatasaray'a Victor Osimhen müjdesi!",
+          "summary": "Galatasaray'a Victor Osimhen'den iyi haber geldi. Bir süredir sakatlığından kaynaklı takımdan uzak kalan Nijeryalı yıldız, bugün yapılan antrenmanın bir bölümünde takımla birlikte çalıştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-victor-osimhen-mujdesi-43331981"
         },
         {
-          "title": "Formula 1'den sonra F2 ve F3'de İstanbul'da düzenlenecek!",
-          "summary": "Formula 2 ve Formula 3 yarışları, Formula 1 Türkiye Grand Prix kapsamında TOSFED İstanbul Park'ta gerçekleştirilecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/formula-1den-sonra-f2-ve-f3de-istanbulda-duzenlenecek-43331106"
+          "title": "Alex de Souza için Süper Lig iddiası!",
+          "summary": "Metin Diyadin ile yollarını ayıran Gençlerbirliği'ne 2 teknik direktör önerildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alex-de-souza-icin-super-lig-iddiasi-43331973"
         },
         {
-          "title": "Uluslar Ligi maçlarının heyecanı canlı sohbet ile Misli’de",
-          "summary": "UEFA Uluslar Ligi'nde bu akşam Hırvatistan İspanya'yı, İngiltere ise Çekya'yı ağırlıyor. Maçların heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uluslar-ligi-maclarinin-heyecani-canli-sohbet-ile-mislide-43331077"
+          "title": "Kendi federasyonuna \"kayyum\" olarak atandı!",
+          "summary": "İtalya Futbol Federasyonu Başkanı Malago, kendi federasyonuna \"kayyum\" olarak atandı",
+          "source": "https://www.hurriyet.com.tr/sporarena/kendi-federasyonuna-kayyum-olarak-atandi-43331967"
         },
         {
-          "title": "Galatasaray'da divan kurulu toplantısı yarın yapılacak",
-          "summary": "Galatasaray Kulübünün ekim ayı olağan divan kurulu toplantısı yarın gerçekleştirilecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-divan-kurulu-toplantisi-yarin-yapilacak-43331038"
+          "title": "Şampiyonlar Kupası’nın sahibi Vakıfbank!",
+          "summary": "2026 Kadınlar AXA Sigorta Şampiyonlar Kupası'nda Vakıfbank, Eczacıbaşı'nı 3-2 mağlup ederek kupanın sahibi oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-kupasinin-sahibi-vakifbank-43331955"
         }
       ]
     },
     "teknoloji": {
-      "text": "“Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı. NASA'dan Türkiye açıklaması: Türkiye Ay üssümüzü inşa etmeye yardımcı olabilir. Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi.",
+      "text": "İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı. NASA'dan Türkiye açıklaması: Türkiye Ay üssümüzü inşa etmeye yardımcı olabilir.",
       "items": [
+        {
+          "title": "İstanbul Fintech Week 2026 başladı",
+          "summary": "İstanbul Fintech Week 2026’nın 6–7 Ekim ana zirve programı başladı. Açılış konuşmasını Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkan Yardımcısı Prof. Dr. Hatice Karahan yaptı. Nobel ödüllü ekonomist Prof. Dr. Daron Acemoğlu ise 6 Ekim’de (bugün) ana sahnede yer alacak. 5 Ekim’de Sürdürülebilir Finans Zirvesi ile başlayan etkinliğin programında ödemeler, yapay zekâ, otonom finans, dijital bankacılık ve tokenizasyon başlıkları ele alınacak.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/istanbul-fintech-week-2026-basladi-43331692"
+        },
         {
           "title": "“Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı",
           "summary": "TEKNOFEST kapsamında düzenlenen “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nı kazanan genç öğrencilerden oluşan takımlar ödüllerine TEKNOFEST Güneydoğu’da kavuştu.",
@@ -195,11 +200,6 @@
           "title": "NASA'dan Türkiye açıklaması: Türkiye Ay üssümüzü inşa etmeye yardımcı olabilir",
           "summary": "NASA Başkan Yardımcısı Matt Anderson, \"Uzay, Türkiye için ulusal bir öncelik ve Artemis Anlaşmaları'nın imzalanmasıyla açıkça görülüyor ki Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde Türkiye için bir ulusal öncelik haline gelmiştir. Dolayısıyla bu ortaklığı dört gözle bekliyoruz ve buradan nereye gideceğini göreceğiz\" ifadelerini kullandı.",
           "source": "https://www.hurriyet.com.tr/teknoloji/nasadan-turkiye-aciklamasi-bu-ortakligi-dort-gozle-bekliyoruz-43330318"
-        },
-        {
-          "title": "Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi",
-          "summary": "Bilim insanları pahalı metallere ihtiyaç duymadan güneş ışığıyla suyu ayrıştırıp temiz hidrojen gazı üreten yeni bir kristal malzeme geliştirdi. ABD'deki Oregon Eyalet Üniversitesi'nden kimya mühendisleri, güneş ışığını doğrudan kullanarak suyu ayrıştıran ve pahalı metal katalizörlere ihtiyaç duymadan temiz hidrojen gazı üreten yeni bir fotokatalitik malzeme sınıfı geliştirdi. Araştırmada, metal-organik kafes mimarisine sahip 'BVR-19' adı verilen kristal yapı mercek altına alındı.",
-          "source": "https://www.ntv.com.tr/teknoloji/gunes-isigi-ve-sudan-hidrojen-ureten-yeni-malzeme-gelistirildi-1744807"
         }
       ]
     },
@@ -244,8 +244,13 @@
       ]
     },
     "magazin": {
-      "text": "Muhabirlere ‘aşk’ sözü.",
+      "text": "Sessiz yürüyüş. Muhabirlere ‘aşk’ sözü.",
       "items": [
+        {
+          "title": "Sessiz yürüyüş",
+          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
+        },
         {
           "title": "Muhabirlere ‘aşk’ sözü",
           "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
