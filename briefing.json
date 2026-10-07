@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-07T04:00:04.345Z",
+  "generatedAt": "2026-10-07T10:00:03.797Z",
   "categories": {
     "gundem": {
-      "text": "Booking, Expedia ve Airbnb'ye yeni kurallar. Teklif komisyondan geçti. ÖSYM duyurdu: KPSS lisans sonuçları açıklandı. Bakan Kurum'dan CAP31 mesajı. \"Artık yaptıklarımızı değil, yapacaklarımızı konuşmalıyız\". Çorum'daki feci kazada 4 kişi hayatını kaybetti. Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de. AK Parti’den dikkat çeken İzmir paylaşımı: Cemil Tugay AK Parti'ye mi geçecek?. Çorum'da feci kaza: 4 kişi yaşamını yitirdi, 1 kişi yaralandı.",
+      "text": "İstanbul'un gündüzü sıcak gecesi soğuk. AKOM paylaştı, 8 derece birden düşüyor. Nobel Kimya Ödülü'nü Henri Kagan ve Kenso Soai kazandı. İzmir ilk kez AK Parti'de. Cemil Tugay'ın rozetini Cumhurbaşkanı Erdoğan taktı. TBMM Başkanvekilliği'nden istifa etmişti. Bekir Bozdağ'ın yerine gelen isim belli oldu. Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Sahtekarlık yapanlar hesabını verecek. Daha kış gelmeden lapa lapa kar yağdı: 5 santimetre. Son dakika... İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti'ye katıldı.",
       "items": [
         {
-          "title": "Booking, Expedia ve Airbnb'ye yeni kurallar. Teklif komisyondan geçti",
-          "summary": "Booking, Expedia ve Airbnb gibi yabancı dijital konaklama platformlarına Türkiye’de temsilci bulundurma, izin belgesi alma ve turizm payı ödeme zorunluluğu getirilmesi planlanıyor. Yabancı Dijital Konaklama Platformları Kanunu Teklifi, TBMM Bayındırlık, İmar, Ulaştırma ve Turizm Komisyonunda kabul edildi. Teklife göre Booking, Expedia ve Airbnb gibi platformların Türkiye’de faaliyet gösterebilmek için Kültür ve Turizm Bakanlığı’ndan iki yıl süreli izin belgesi alması gerekecek.",
-          "source": "https://www.ntv.com.tr/turkiye/booking-expedia-ve-airbnbye-yeni-kurallar-teklif-komisyondan-gecti-1745121"
+          "title": "İstanbul'un gündüzü sıcak gecesi soğuk. AKOM paylaştı, 8 derece birden düşüyor",
+          "summary": "Hafta boyunca yağışın beklenmediği İstanbul'da gündüz ile gece sıcaklıkları arasında fark 8 dereceye kadar çıkıyor. Megakentte önümüzdeki bir hafta boyunca yağış beklenmezken havada çoğunlukla parçalı bulutlu bir gökyüzü hakim olacak. Gün içerisinde 21-23 derece aralığında seyreden sıcaklıklar, akşam ve gece saatlerinde 15 derecelerin altına gerileyerek üşütecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-gunduzu-sicak-gecesi-soguk-akom-paylasti-8-derece-birden-dusuyor-1745209"
         },
         {
-          "title": "ÖSYM duyurdu: KPSS lisans sonuçları açıklandı",
-          "summary": "Ölçme, Seçme ve Yerleştirme Merkezince (ÖSYM) 2026-KPSS Lisans Genel Yetenek-Genel Kültür ve Alan Bilgisi sınavlarına ilişkin sonuçlar açıklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kpss-lisans-sonuclari-aciklandi-43332117"
+          "title": "Nobel Kimya Ödülü'nü Henri Kagan ve Kenso Soai kazandı",
+          "summary": "Nobel Kimya Ödülü'nü Henri Kagan ve Kenso Soai'nin kazandığı açıklandı. Ayrıntılar geliyor.",
+          "source": "https://www.ntv.com.tr/dunya/nobel-kimya-odulunu-henri-kagan-ve-kenso-soai-kazandi-1745231"
         },
         {
-          "title": "Bakan Kurum'dan CAP31 mesajı. \"Artık yaptıklarımızı değil, yapacaklarımızı konuşmalıyız\"",
-          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 dönem başkanı Murat Kurum Fiji’deki oturumda, Antalya'daki İklim Zirvesi'ndeki eylem planını anlattı. BM İklim Zirvesi'nin 31'incisi COP31 bu yıl Türkiye'de düzenleniyor. Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum COP31'in dönem başkanlığını yürütüyor. Kurum Fiji'de Pre-COP adı verilen, iklim zirvesi öncesi dünyadan farklı ülkelerde değerlendirmeler yapılan zirveye katıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-kurumdan-cap31-mesaji-artik-yaptiklarimizi-degil-yapacaklarimizi-konusmaliyiz-1745154"
+          "title": "İzmir ilk kez AK Parti'de. Cemil Tugay'ın rozetini Cumhurbaşkanı Erdoğan taktı",
+          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katıldı. Cumhurbaşkanı Erdoğan tarafından rozeti takılan Tugay, \"AK Parti kimsesizlerin kimsesidir.\" dedi. Üç ay önce istinaf mahkemesinin mutlak butlan kararı sonrası CHP'den istifa ederek yoluna bağımsız devam etme kararı alan İzmir Büyükşehir Belediye Başkanı Cemil Tugay, bugün AK Parti'ye katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-izmir-ilk-kez-ak-partide-cemil-tugayin-rozetini-cumhurbaskani-erdogan-takti-1745195"
         },
         {
-          "title": "Çorum'daki feci kazada 4 kişi hayatını kaybetti",
-          "summary": "Çorum'da otomobil ile cipin çarpıştığı kazada biri çocuk 4 kişi hayatını kaybetti, 1 kişi ağır yaralandı. Zehra Betül Yılmaz idaresindeki otomobil, Çorum-İskilip kara yolu Ceritbeli mevkisinde Mert Üstünel'in kullandığı ciple çarpıştı. İhbar üzerine kaza yerine jandarma, sağlık ve itfaiye ekipleri sevk edildi. Kazada sürücüler Zehra Betül Yılmaz ve Mert Üstünel ile otomobilde bulunan 6 yaşındaki Hüsra Lal, olay yerinde hayatını kaybetti.",
-          "source": "https://www.ntv.com.tr/turkiye/corumdaki-feci-kazada-4-kisi-hayatini-kaybetti-1745150"
+          "title": "TBMM Başkanvekilliği'nden istifa etmişti. Bekir Bozdağ'ın yerine gelen isim belli oldu",
+          "summary": "Sağlık sorunları nedeniyle görevinden istifa eden yerine Bekir Bozdağ'ın yerine Meclis Başkanvekilliği görevini AK Parti Tokat Milletvekili Yusuf Beyazıt devralacak. AK Parti Şanlıurfa Milletvekili Bekir Bozdağ, sağlık sorunları gerekçesiyle TBMM Başkanvekilliği görevinden istifa etmişti.",
+          "source": "https://www.ntv.com.tr/turkiye/bekir-bozdag-tbmm-baskanvekilliginden-istifa-etmisti-yerine-gelecek-isim-belli-oldu-1745224"
         },
         {
-          "title": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de",
-          "summary": "Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği Resmi Gazete'de yayımlanarak yürürlüğe girdi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, sosyal medya hesabından yaptığı paylaşımda, \"Engelli Bireylere Yönelik Özel Bakım Merkezleri Yönetmeliği\"nin Resmi Gazete'de yayımlanarak yürürlüğe girdiğini bildirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/engelli-bireylere-yonelik-ozel-bakim-merkezleri-yonetmeligi-resmi-gazetede-1745149"
+          "title": "Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Sahtekarlık yapanlar hesabını verecek",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasında gerekli adımların atıldığını belirterek, \"Memlekete hizmet yolunda önümüzde çıkan kim olursa olsun, kenara alır yürümeye devam ederiz.\" dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Kongre Merkezi'nde AK Parti Milletvekilleri ile Yasama Yılı Açılış Toplantısı'na katılıyor. Cumhurbaşkanı Erdoğan konuşmasında sermaye piyasalarında yaşanan gelişmeler sonrası başlatılan fon soruşturmasına değindi.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-mesafeleri-kapatacak-toplumsal-zemine-ihtiyacimiz-var-1745217"
         },
         {
-          "title": "AK Parti’den dikkat çeken İzmir paylaşımı: Cemil Tugay AK Parti'ye mi geçecek?",
-          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın bugün AK Parti'ye geçeceği iddia edilirken, AK Parti'nin sosyal medya hesabından İzmir'e ilişkin dikkat çekici bir paylaşım geldi. AK Parti’nin sosyal medya hesabından İzmir’e ilişkin kum saati görseliyle 30 saniyelik bir video paylaşıldı. Videoda çöp yığınlarının bulunduğu görüntülerin ardından çiçeklerin açtığı sahnelere yer verilirken, fonda İzmir Marşı kullanıldı. Paylaşımın sonunda ise “07.10.2026” tarihi ekrana geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/ak-partiden-dikkat-ceken-izmir-paylasimi-7-ekim-detayi-1745129"
+          "title": "Daha kış gelmeden lapa lapa kar yağdı: 5 santimetre",
+          "summary": "Soğuk iklimi ile meşhur olan Erzurum'dan ilk kar görüntüleri geldi. Önemli kış turizm merkezlerinden olan Palandöklen'de gece saatlerinde kar yağışı etkili oldu, bölgedeki kar kalınlığı 5 santimetre seviyesine ulaştı.",
+          "source": "https://www.hurriyet.com.tr/gundem/daha-kis-gelmeden-lapa-lapa-kar-yagdi-5-santimetre-43332548"
         },
         {
-          "title": "Çorum'da feci kaza: 4 kişi yaşamını yitirdi, 1 kişi yaralandı",
-          "summary": "Çorum'da otomobil ile cipin çarpışması neticesinde meydana gelen kazada 1'i çocuk 4 kişi hayatını kaybetti, 1 kişi de ağır yaralandı. Kazada ölen iki kişinin ise dün nişanlanan çift olduğu öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/corumda-feci-kaza-4-kisi-yasamini-yitirdi-1-kisi-yaralandi-43332103"
+          "title": "Son dakika... İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti'ye katıldı",
+          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti'ye katıldı. Cemil Tugay'a AK Parti rozetini Cumhurbaşkanı Erdoğan taktı. Tugay yaptığı açıklamada, \"İnanarak ve güvenerek katıldığım bu çatının altında sayın Cumhurbaşkanımızın liderliğinde büyük ve güçlü Türkiye ile kutuplaştırmadan ve ayrıştırmadan kurtulmuş bir millet için bu yola baş koymuşların yoluna refik olmak üzere aranıza geldim\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-izmir-buyuksehir-belediye-baskani-cemil-tugay-ak-partiye-katildi-43332207"
         }
       ]
     },
     "dunya": {
-      "text": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı. Kosova'nın yeni Cumhurbaşkanı Justina Shiroka Pula oldu. Rusya'da veba salgını iddiası. ABD'den şeffaflık çağrısı. Karadeniz'de petrol tankeri vuruldu. Sızan petrol yanmaya devam ediyor. ABD Başkanı Trump'tan İran mesajı: Bu işi bitirmemiz gerekiyor. ABD medyası yazdı: Rusya uyarıldı…. Trump, Putin ile salgını görüşecek. Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol taşındığını belirtti.",
+      "text": "Yapay zeka çipleri üreten fabrikada kanser alarmı. İşçiler neden hastalanıyor?. Nobel Barış Ödülü üzerinde ABD Başkanı Trump'ın \"hayaleti\" dolaşıyor. Gazze'de soykırımın 3. yılı. IMF'den kritik uyarı! Dünya ekonomisi için üçlü tehdit. Fransız polisi liseli protestoculara ses bombalarıyla müdahale edecek. Girne'de batan gemide bir kişinin daha cansız bedenine ulaşıldı. ABD'den İran müzakere sinyali: Anlaşmaya açığız.",
       "items": [
         {
-          "title": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı",
-          "summary": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Aden Uluslararası Havalimanı'nı balistik füzeler ve insansız hava araçlarıyla (İHA) hedef aldığı bildirildi. Aden İl Emniyet Müdürlüğünün Facebook hesabından yapılan açıklamada, Husilerin Aden Uluslararası Havalimanı'nı 2 füzeyle hedef aldığı belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-hedef-aldi-1745153"
+          "title": "Yapay zeka çipleri üreten fabrikada kanser alarmı. İşçiler neden hastalanıyor?",
+          "summary": "Güney Kore'deki hak savunucuları, teknoloji devi SK hynix bünyesinde çalışırken kansere yakalanan üç işçinin resmi olarak meslek hastalığı kapsamına alınmasını talep etti. Güney Kore'de yarı iletken sektöründe iş güvenliği için mücadele eden hak savunucuları, teknoloji devi SK hynix'in eski üç çalışanına konulan kanser teşhisinin meslek hastalığı olarak tanınması talebiyle hükümete çağrıda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-yapay-zeka-cipleri-ureten-fabrikada-kanser-alarmi-isciler-neden-hastalaniyor-1745229"
         },
         {
-          "title": "Kosova'nın yeni Cumhurbaşkanı Justina Shiroka Pula oldu",
-          "summary": "Kosova Meclisinde yapılan oylamada, Kosova Bilimler ve Sanatlar Akademisi (ASHAK) Başkanı 73 yaşındaki Justina Shiroka Pula ülkenin yeni cumhurbaşkanı seçildi. Kosova Anayasa Mahkemesi, 23 Eylül'de aldığı kararla yeni cumhurbaşkanının milletvekilleri tarafından seçilmesi için öngörülen anayasal 60 günlük sürenin 8 Ağustos'ta başladığını ve 6 Ekim'de sona ererek Meclisin feshedileceğini bildirmişti.",
-          "source": "https://www.ntv.com.tr/dunya/kosovanin-yeni-cumhurbaskani-justina-shiroka-pula-oldu-1745151"
+          "title": "Nobel Barış Ödülü üzerinde ABD Başkanı Trump'ın \"hayaleti\" dolaşıyor",
+          "summary": "Kendisine Nobel Barış Ödülü verilmesi gerektiğini her fırsatta dile getiren ABD Başkanı Donald Trump'ın \"hayaleti\"nin, kazananı seçecek komitenin üzerinde dolaştığı yorumları yapılıyor. Ocak 2025'te Beyaz Saray'a geri dönmesinin ardından Nobel Barış Ödülü almak için çok sıkı kampanya yürüten, hatta şu ana kadar bu ödülü alamamış olmanın kendisinde yarattığı hayal kırıklığını saklamayan ABD Başkanı Doland Trump'ın 'hayaleti' bu yıl da ödülün üzerinde dolaşıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-nobel-baris-odulu-uzerinde-abd-baskani-trumpin-hayaleti-dolasiyor-1745227"
         },
         {
-          "title": "Rusya'da veba salgını iddiası. ABD'den şeffaflık çağrısı",
-          "summary": "Rusya’da bir veba araştırma enstitüsü çalışanının şüpheli ölümüyle ilgili inceleme sürüyor. Moskova yönetimi, veba vakası tespit edilmediğini açıklarken, ABD şeffaflık çağrısı yaptı. Rusya’da bir laboratuvar çalışanının ölümünün ardından ortaya çıkan veba şüphesiyle ilgili soru işaretleri sürüyor. Rus yetkililer hayatını kaybeden 28 yaşındaki Darya Shipilova’nın temasta olduğu kişilerde herhangi bir veba vakası tespit edilmediğini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/rusyada-veba-salgini-iddiasi-abdden-seffaflik-cagrisi-1745147"
+          "title": "Gazze'de soykırımın 3. yılı",
+          "summary": "İsrail'in 7 Ekim 2023 tarihindeki olayların ardından Gazze'de başlattığı soykırımda 3 yıl geride kaldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/gazzede-soykirimin-3-yili-43332501"
         },
         {
-          "title": "Karadeniz'de petrol tankeri vuruldu. Sızan petrol yanmaya devam ediyor",
-          "summary": "Karadeniz’de Rusya’nın Soçi kenti yakınlarında Liberya bayraklı bir petrol tankeri insansız deniz araçlarının hedefi oldu. Saldırı sonrası tanker alev alırken, 23 kişilik mürettebat kurtarıldı. Karadeniz yakınlarındaki Sirius Federal Bölgesi İdaresi Başkanı Dmitriy Plişkin, yaptığı yazılı açıklamada, bölgenin açıklarında bir tankerde yangın çıktığını ifade etti.",
-          "source": "https://www.ntv.com.tr/dunya/karadenizde-petrol-tankeri-vuruldu-sizan-petrol-yanmaya-devam-ediyor-1745146"
+          "title": "IMF'den kritik uyarı! Dünya ekonomisi için üçlü tehdit",
+          "summary": "Uluslararası Para Fonu (IMF) Başkanı Kristalina Georgieva, küresel ekonominin yapay zeka, enerji fiyatları ve kamu borçları ile büyük bir belirsizlik ve hızlı değişim döneminden geçtiğini belirterek, düşük büyüme oranlarını yukarı taşımak için acil politika adımları atılması çağrısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/imfden-kritik-uyari-dunya-ekonomisi-icin-uclu-tehdit-43332451"
         },
         {
-          "title": "ABD Başkanı Trump'tan İran mesajı: Bu işi bitirmemiz gerekiyor",
-          "summary": "ABD Başkanı Donald Trump, İran'da başladıkları işi bitirmeleri gerektiğini belirterek sadece bunu \"nazik mi yoksa kaba\" bir yolla mı gerçekleştireceklerini düşündüklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-iran-mesaji-bu-isi-bitirmemiz-gerekiyor-43332105"
+          "title": "Fransız polisi liseli protestoculara ses bombalarıyla müdahale edecek",
+          "summary": "Fransa İçişleri Bakanı Laurent Nunez, lise eylemlerini bastırmak için polise yeni talimatlar verdi. Nunez, güvenlik güçlerine ülke genelinde ses bombası kullanmamaları izni çıkardı.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransiz-polisi-liseli-protestoculara-ses-bombalariyla-mudahale-edecek-43332440"
         },
         {
-          "title": "ABD medyası yazdı: Rusya uyarıldı…. Trump, Putin ile salgını görüşecek",
-          "summary": "ABD Başkanı Donald Trump, Rusya'daki salgınla ilgili Rusya Devlet Başkanı Vladimir Putin ile çok yakında görüşeceğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-medyasi-yazdi-rusya-uyarildi-trump-salginla-ilgili-putin-ile-gorusecek-43332104"
+          "title": "Girne'de batan gemide bir kişinin daha cansız bedenine ulaşıldı",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC), Girne açıklarında batan yolcu gemisinde bir kişinin daha cansız bedenine ulaşıldığını kaydetti. Gemideki arama çalışmalarının sürdüğü belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/girnede-batan-gemide-bir-kisinin-daha-cansiz-bedenine-ulasildi-43332379"
         },
         {
-          "title": "Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol taşındığını belirtti",
-          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol sevkiyatı yapıldığını ifade ederek petrol fiyatlarının düşmesini beklediğini söyledi. ABD Başkanı Donald Trump, Hürmüz Boğazı'ndan son dönemde \"inanılmaz\" miktarda petrol sevkiyatı yapıldığını ifade ederek petrol fiyatlarının düşmesini beklediğini söyledi. ABD Başkanı Trump, Baltimore kentinde düzenlenecek bir açılışa katılmak üzere Beyaz Saray'dan ayrılırken basın mensuplarına gündemi değerlendirdi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-hurmuz-bogazindan-son-donemde-inanilmaz-miktarda-petrol-tasindigini-belirtti-1745140"
+          "title": "ABD'den İran müzakere sinyali: Anlaşmaya açığız",
+          "summary": "ABD Başkan Yardımcısı James David Vance, Alaska eyaletindeki bir seçim kampanyası gezisinin ardından verdiği röportajda, \"ABD İran ile bir anlaşmaya hala açık, ancak nükleer programla ilgili somut tavizler vermeliler\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdden-iran-muzakere-sinyali-anlasmaya-acigiz-43332361"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Ümit Milli Takım, Macaristan ile berabere kaldı!. Cristiano Ronaldo, Portekiz Milli Takımı'ndaki geleceğini açıkladı!. İngiltere, UEFA Uluslar Ligi'nde Çekya'yı 3 golle geçti!. Galatasaray'a Victor Osimhen müjdesi!. Alex de Souza için Süper Lig iddiası!. Kendi federasyonuna \"kayyum\" olarak atandı!. Şampiyonlar Kupası’nın sahibi Vakıfbank!.",
+      "text": "Fenerbahçe Tarfin Panathinaikos'a konuk olacak!. Trabzonspor, 153 günlük seriyi Samsun'da bozmak istiyor. Galatasaray yoğun maç trafiğine giriyor: 30 günde 8 karşılaşma!. Cedi Osman: 'Berbat oynadım, hiç iyi değildim!'. EuroLeague'de 4. hafta başlıyor. Görme engelli Levent Karadöl, Felipe Massa ile İstanbul'da piste çıktı. Jean Onana’dan Beşiktaş sözleri: 'Özgüvenim eksikti!'.",
       "items": [
         {
-          "title": "Ümit Milli Takım, Macaristan ile berabere kaldı!",
-          "summary": "ÜMİT Milli Takım, UEFA 21 Yaş Altı Avrupa Şampiyonası Elemeleri H Grubu'ndaki son maçında konuk ettiği Macaristan ile 0-0 berabere kaldı. Ay-yıldızlılar, Hırvatistan'ın ardından 2'nci sırada yer alarak play-off oynama hakkı kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/umit-milli-takim-macaristan-ile-berabere-kaldi-43332056"
+          "title": "Fenerbahçe Tarfin Panathinaikos'a konuk olacak!",
+          "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, EuroLeague'in 4. haftasında yarın Panathinaikos ile deplasmanda karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-panathinaikosa-konuk-olacak-43332533"
         },
         {
-          "title": "Cristiano Ronaldo, Portekiz Milli Takımı'ndaki geleceğini açıkladı!",
-          "summary": "Portekizli futbolcu Cristiano Ronaldo, 1740 kelimelik açıklamasında, teknik direktör Jorge Jesus'u sözünü tutmamakla suçladı",
-          "source": "https://www.hurriyet.com.tr/sporarena/cristiano-ronaldo-portekiz-milli-takimindaki-gelecegini-acikladi-43332052"
+          "title": "Trabzonspor, 153 günlük seriyi Samsun'da bozmak istiyor",
+          "summary": "Süper Lig'in ilk 6 haftasında 10 puan toplayan Trabzonspor, Samsunspor karşısında deplasmanda sezonun ilk galibiyetini almanın mücadelesini verecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-153-gunluk-seriyi-samsunda-bozmak-istiyor-43332459"
         },
         {
-          "title": "İngiltere, UEFA Uluslar Ligi'nde Çekya'yı 3 golle geçti!",
-          "summary": "İngiltere, UEFA Uluslar A Ligi 3. Grup'ta Çekya'yı evinde 3-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ingiltere-uefa-uluslar-liginde-cekyayi-3-golle-gecti-43332050"
+          "title": "Galatasaray yoğun maç trafiğine giriyor: 30 günde 8 karşılaşma!",
+          "summary": "Süper Lig'in 7. haftasında 9 Ekim Cuma günü Kasımpaşa'yı ağırlayacak Galatasaray'ı 30 günlük süreçte zorlu bir fikstür bekliyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-yogun-mac-trafigine-giriyor-30-gunde-8-karsilasma-43332433"
         },
         {
-          "title": "Galatasaray'a Victor Osimhen müjdesi!",
-          "summary": "Galatasaray'a Victor Osimhen'den iyi haber geldi. Bir süredir sakatlığından kaynaklı takımdan uzak kalan Nijeryalı yıldız, bugün yapılan antrenmanın bir bölümünde takımla birlikte çalıştı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-victor-osimhen-mujdesi-43331981"
+          "title": "Cedi Osman: 'Berbat oynadım, hiç iyi değildim!'",
+          "summary": "PAOK, EuroCup'ın 2. haftasında Bosna Royal’i 75-72 mağlup ederek Avrupa'daki sezonuna 2'de 2 ile başladı. Cedi Osman, karşılaşma sonrası açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cedi-osman-berbat-oynadim-hic-iyi-degildim-43332403"
         },
         {
-          "title": "Alex de Souza için Süper Lig iddiası!",
-          "summary": "Metin Diyadin ile yollarını ayıran Gençlerbirliği'ne 2 teknik direktör önerildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/alex-de-souza-icin-super-lig-iddiasi-43331973"
+          "title": "EuroLeague'de 4. hafta başlıyor",
+          "summary": "EuroLeague'de 4. hafta heyecanı, bugün oynanacak tek maçla başlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-4-hafta-basliyor-43332423"
         },
         {
-          "title": "Kendi federasyonuna \"kayyum\" olarak atandı!",
-          "summary": "İtalya Futbol Federasyonu Başkanı Malago, kendi federasyonuna \"kayyum\" olarak atandı",
-          "source": "https://www.hurriyet.com.tr/sporarena/kendi-federasyonuna-kayyum-olarak-atandi-43331967"
+          "title": "Görme engelli Levent Karadöl, Felipe Massa ile İstanbul'da piste çıktı",
+          "summary": "Dünyaca ünlü Brezilyalı eski Formula 1 pilotu Felipe Massa, Formula 1 tutkunu olan görme engelli Levent Karadöl ile İstanbul'da piste çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gorme-engelli-levent-karadol-felipe-massa-ile-istanbulda-piste-cikti-43332292"
         },
         {
-          "title": "Şampiyonlar Kupası’nın sahibi Vakıfbank!",
-          "summary": "2026 Kadınlar AXA Sigorta Şampiyonlar Kupası'nda Vakıfbank, Eczacıbaşı'nı 3-2 mağlup ederek kupanın sahibi oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-kupasinin-sahibi-vakifbank-43331955"
+          "title": "Jean Onana’dan Beşiktaş sözleri: 'Özgüvenim eksikti!'",
+          "summary": "Beşiktaş'ın sözleşmesini feshederek yollarını ayırdığı Jean Onana, geleceği hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/jean-onanadan-besiktas-sozleri-ozguvenim-eksikti-43332232"
         }
       ]
     },
@@ -204,8 +204,23 @@
       ]
     },
     "saglik": {
-      "text": "Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu. Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı. Takviyeler çözüm değil. \"Günde yarım saat yürüyün\". Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat. Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı. Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı. Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı.",
+      "text": "100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor. Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış. Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini. Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu. Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı. Takviyeler çözüm değil. \"Günde yarım saat yürüyün\". Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat.",
       "items": [
+        {
+          "title": "100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor",
+          "summary": "Tokat'ta geçen yıl 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Tokat'ta kuşburnunda yaşanan bolluk, satış fiyatlarına da yansıdı. Geçen yıl kilogramı 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Fiyatlardaki gerileme, özellikle kış hazırlığı yapan vatandaşların ilgisini artırdı. Kuşburnunun bol çıkması üreticileri sevindirirken, vatandaşlar da geçen yıla göre daha uygun fiyatlarla alışveriş yapma imkânı buldu.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-100-tlden-50-tlye-dustu-demleyip-icince-hazimsizligi-gideriyor-1745222"
+        },
+        {
+          "title": "Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış",
+          "summary": "Uluslararası veriler, gençlerde kanser vakalarının arttığını ortaya koydu. İngiltere, ABD ve Hollanda verilerinde 7 kanser türünde dikkat çekici artış görüldü. Uzmanlar yaşam tarzına dikkat çekti.",
+          "source": "https://www.ntv.com.tr/saglik/video-genclerde-kanser-alarmi-7-kanser-turunde-dikkat-ceken-artis-1745191"
+        },
+        {
+          "title": "Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini",
+          "summary": "Türkiye'de doğal olarak yetişen 27 kuşburnu türünün 17'sine ev sahipliği yapan Gümüşhane'de, kuşburnu toplama mesaisi başladı. Gümüşhane ile özdeşleşen kuşburnu, kentte eylül ve ekim aylarında olgunlaşıyor. Doğada kendiliğinden yetişen ve halk arasında \"dikenli gül\" olarak da bilinen kuşburnu, özellikle yüksek C vitamini içeriğiyle öne çıkıyor. Gümüşhane'nin iklimi ve doğal yapısının kuşburnunun yetişmesi için uygun olması nedeniyle kent, Türkiye'nin önemli kuşburnu merkezlerinden biri olarak gösteriliyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-halk-arasinda-dikenli-gul-diyorlar-dallardan-tek-tek-toplanan-dogal-c-vitamini-1745187"
+        },
         {
           "title": "Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu",
           "summary": "Kahve günlük yaşamın vazgeçilmez içeceklerinden biri ve özellikle kilo verme sürecinden yağ yakımına yardımcı olmasıyla biliniyor. Ancak kahve, farkında olmadan kilo almanıza neden olabilir. Kahve gün içerisinde çay kadar sık tüketilen içeceklerin başında geliyor. Vücuda olan faydalarıyla da dikkat çeken kahve, özellikle kilo verme sürecinde olan kişiler arasında da oldukça popüler.",
@@ -225,21 +240,6 @@
           "title": "Mevsim değişikliği hastalıkları artırdı: Çocuklara dikkat",
           "summary": "Mevsim değişikliği grip ve nezle vakalarını artırdı. Özellikle çocuklarda vakalar yükselirken, uzmanlar velileri ve öğretmenleri hijyene dikkat etmeleri konusunda uyarıyor.",
           "source": "https://www.ntv.com.tr/saglik/video-mevsim-degisikligi-hastaliklari-artirdi-cocuklara-dikkat-1744377"
-        },
-        {
-          "title": "Evdeki bitkiyi yedi, dudakları ve boğazı şişti. 2 yaşındaki çocuk yoğun bakıma alındı",
-          "summary": "Tokat'ta, halk arasında \"ağlayan çiçek\" olarak bilinen difenbahya bitkisini yiyen 2 yaşındaki çocuk, dudaklarında ve boğazında şişlik oluşması üzerine yoğun bakıma alındı. Olay, 2 yaşındaki çocuğun evde babaannesi ve dedesinin yanında bulunduğu sırada meydana geldi. Saksıda yetiştirilen difenbahya bitkisinden kopardığı parçayı ağzına alan Z.L. Hanlı (2), bir süre sonra ağlayarak babaannesinin yanına gitti. Çocuğun dudaklarının şiştiğini fark eden yakınları, onu hastaneye götürdü.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-evdeki-bitkiyi-yedi-dudaklari-ve-bogazi-sisti-2-yasindaki-cocuk-yogun-bakima-alindi-1744372"
-        },
-        {
-          "title": "Ona \"ölümsüzlük meyvesi\" diyorlar. Pazara çıktı, satışları arttı",
-          "summary": "Kütahya'nın Simav ilçesinde yetiştirilen \"ölümsüzlük meyvesi\" pazar tezgâhlarında yerini aldı. Kalitesi ve aromasıyla dikkat çeken Simav hünnabı, kilogramı 50 ile 80 TL arasında değişen fiyatlarla satışa sunuluyor. Türkiye'nin farklı il ve ilçelerine de gönderilen hünnapta üretim her yıl artıyor. Pazarcı esnafı ve üretici Yusuf Özkan, bu yıl ürün miktarının fazla olduğunu ancak fiyat istikrarının istenilen seviyede olmadığını belirtti. Özkan, üreticinin artan maliyetler nedeniyle zorlandığını söyledi.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-ona-olumsuzluk-meyvesi-diyorlar-pazara-cikti-satislari-artti-1744305"
-        },
-        {
-          "title": "Zayıflama ilaçlarında yeni keşif. Kas kaybını yüzde 50 azalttı",
-          "summary": "ABD'li ilaç şirketi Regeneron'un geliştirdiği deneysel yeni zayıflama ilacı Trevogrumab, Novo Nordisk'in Semaglutid adlı ilacıyla birlikte kullanıldığında kas kütlesi kaybını yüzde 50 azalttı. Zayıflama ilaçlarının hızla yaygınlaşmasıyla birlikte, hızlı kilo kaybına eşlik eden önemli miktardaki kas kaybına ilişkin endişeler de arttı. Tıp dünyası, yeni nesil ilaçların kilo kaybı sırasında vücudun kas dokusunu parçalamasını önleyebilmesi için de çalışıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-zayiflama-ilaclarinda-yeni-kesif-kas-kaybini-yuzde-50-azaltti-1744249"
         }
       ]
     },
