@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-08T04:00:03.775Z",
+  "generatedAt": "2026-10-08T10:00:05.510Z",
   "categories": {
     "gundem": {
-      "text": "Maltepe'de 6 katlı binada çökme: Arama kurtarma ekibi sevk edildi. Borsada kazanma vaadiyle dolandırıcılığa 5 tutuklama. Konut krizinin sembolü olmuştu. 70 yıl yaşadığı evine dönemedi. Yağ fabrikasında çıkan yangın kontrol altında. Konuşmak için çağırdığı kişiyi silahla tehdit etti. TEM Otoyolu'nda feci kaza: 1 ölü, 2 yaralı. Kan donduran olay: 16 yaşındaki çocuk bıçaklanarak öldürüldü.",
+      "text": "Maltepe'de çöken binadan kurtarılan vatandaş: Binamız çatlaktı, çatır çatır ses duyuluyordu. İstanbul’da 7 katlı bina çöktü: Enkazdan kurtarılanlar o dehşet anlarını anlattı! ‘Binadan sesler geldi’. Tezgahlar bereketli. Fiyatı düştü, yüzler güldü. Konya'da korkunç kaza: 3 kişi hayatını kaybetti. MSB açıkladı. Türk askeri Riyad'a gidecek mi?. Eskişehir’de 15 yaşındaki kız çocuğu kayıplara karıştı: Acılı anne gözyaşlarıyla yardım istedi. Maltepe'deki binanın çökmeden önceki son hali dikkat çekti: \"Bu binanın iki katili var\".",
       "items": [
         {
-          "title": "Maltepe'de 6 katlı binada çökme: Arama kurtarma ekibi sevk edildi",
-          "summary": "İstanbul Maltepe'de 6 katlı binanın alttaki 2 katı çöktü. Olay yerine çok sayıda arama kurtarma ekibi sevk edildi. Arama kurtarma çalışmaları sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/maltepede-6-katli-bina-coktu-arama-kurtarma-ekibi-sevk-edildi-43333414"
+          "title": "Maltepe'de çöken binadan kurtarılan vatandaş: Binamız çatlaktı, çatır çatır ses duyuluyordu",
+          "summary": "İstanbul Maltepe'de çöken 7 katlı binadan kurtarılan vatandaş, binanın çatlak olduğunu ve ses duyduklarını dile getirdi. Cevizli Mahallesi Doğu Sokak'taki 7 katlı binada çökme meydana geldi. Binanın 3 katındaki çökmenin nedeni bilinmezken enkazda kalan 14 kişiden 10'u sağ olarak kurtarıldı. Enkazdan iki kişinin cansız bedenine ulaşılırken iki kişiyi arama çalışması sürüyor. “ÇATIR ÇATIR SESLER DUYULUYORDU” Tolga Gürpınar çöken binadan kurtarılan vatandaşlar arasında yer aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/maltepede-coken-binadan-kurtarilan-vatandas-binamiz-catlakti-catir-catir-ses-duyuluyordu-1745369"
         },
         {
-          "title": "Borsada kazanma vaadiyle dolandırıcılığa 5 tutuklama",
-          "summary": "Mersin’de borsa hesapları açarak para kazanma vaadiyle 3 kişiyi dolandırdıkları iddia edilen 6 şüpheliden 5’i tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsada-kazanma-vaadiyle-dolandiriciliga-5-tutuklama-43333411"
+          "title": "İstanbul’da 7 katlı bina çöktü: Enkazdan kurtarılanlar o dehşet anlarını anlattı! ‘Binadan sesler geldi’",
+          "summary": "İstanbul, Maltepe’deki Cevizli Mahallesi'nde 3 katı çöken binada arama kurtarma çalışmaları sürerken, sağ kurtarılan bina sakinleri yaşananları paylaştı. Kentsel dönüşümün komşular arasında konuşulduğunu ancak sonuçlanmadığını belirten ev sahipleri, binadan sesler geldiğini ifade etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-7-katli-bina-coktu-enkazdan-kurtarilanlar-o-dehset-anlarini-anlatti-binada-sesler-geldi-43333860"
         },
         {
-          "title": "Konut krizinin sembolü olmuştu. 70 yıl yaşadığı evine dönemedi",
-          "summary": "Madrid'de 70 yıldan fazla süre kiracı olarak yaşadığı evinden zorla tahliye edilmesi nedeniyle konut protestolarının fitilini ateşleyen 87 yaşındaki Maricarmen Abascal hayatını kaybetti. İspanya'nın başkenti Madrid'de, 87 yaşındaki emekli Maricarmen Abascal'ın, fahiş zam yapılan kirasını artık ödeyememesi üzerine polis zoruyla evden çıkarılması sonrası başlayan protesto gösterileri, ülke geneline yayıldı. Ülkedeki barınma krizini protesto eden yüz binlerce kişi sokaklara döküldü.",
-          "source": "https://www.ntv.com.tr/turkiye/konut-krizinin-sembolu-olmustu-70-yil-yasadigi-evine-donemedi-1745306"
+          "title": "Tezgahlar bereketli. Fiyatı düştü, yüzler güldü",
+          "summary": "Sinop’un Türkeli ilçesinde balık tezgâhlarında yaşanan palamut bolluğu, fiyatlara da yansıdı. Balık tezgahlarında bu yıl palamut bolluğu yaşanıyor. Vatandaşlar tarafından yoğun ilgi gören palamut uygun fiyatıyla da dikkat çekiyor. Denizlerde palamut avının artmasıyla birlikte tezgâhlarda bolca yer bulan palamut, uygun fiyatıyla vatandaşlardan yoğun ilgi görüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-tezgahlar-bereketli-fiyati-dustu-yuzler-guldu-1745396"
         },
         {
-          "title": "Yağ fabrikasında çıkan yangın kontrol altında",
-          "summary": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında çıkan yangın kontrol altına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yag-fabrikasinda-cikan-yangin-kontrol-altina-alindi-43333407"
+          "title": "Konya'da korkunç kaza: 3 kişi hayatını kaybetti",
+          "summary": "Konya’nın Hüyük ilçesinde otomobil ile hafif ticari aracın çarpıştı. Feci kazada 3 kişi hayatını kaybetti, 1 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/konyada-korkunc-kaza-3-kisi-hayatini-kaybetti-43333837"
         },
         {
-          "title": "Konuşmak için çağırdığı kişiyi silahla tehdit etti",
-          "summary": "İstanbul Beylikdüzü'nde bir kişi, konuşmak için çağırdığı adamı silahla tehdit ederek hakaret etti. Yaşanan olay cep telefonu kamerasıyla kaydedilirken, E.T.'nin elindeki silahla görüntü aldığı ve silahla ateş ettiği anlar da kameraya yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/konusmak-icin-cagirdigi-kisiyi-silahla-tehdit-etti-43333406"
+          "title": "MSB açıkladı. Türk askeri Riyad'a gidecek mi?",
+          "summary": "Milli Savunma Bakanlığı (MSB), Mekke Savunma İttifakı toplantısında Türkiye'nin Suudi Arabistan'a asker konuşlandırma kararına ilişkin \"Kuvvet süreci Anayasa yürütülecek.\" açıklamasında bulundu. Milli Savunma Bakanlığı (MSB), haftalık bilgilendirme toplantısında, gündeme ilişkin bilgilendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/msb-acikladi-turk-askeri-riyada-gidecek-mi-1745391"
         },
         {
-          "title": "TEM Otoyolu'nda feci kaza: 1 ölü, 2 yaralı",
-          "summary": "İstanbul Kağıthane’de aynı yönde seyir halindeki taksiye arkadan çarpan otomobil bariyerlere savruldu. Otomobilin sürücüsü, kaldırıldığı hastanede hayatını kaybetti, 2 kişi yaralandı. Kaza nedeniyle TEM Otoyolu Ankara istikametinde kilometrelerce trafik yoğunluğu oluştu.",
-          "source": "https://www.hurriyet.com.tr/gundem/tem-otoyolunda-feci-kaza-1-olu-2-yarali-43333405"
+          "title": "Eskişehir’de 15 yaşındaki kız çocuğu kayıplara karıştı: Acılı anne gözyaşlarıyla yardım istedi",
+          "summary": "Eskişehir’de hafta başından bu yana 15 yaşındaki kızı K.A.’dan haber alamayan anne Zekiye Akay, polise kayıp başvurusunda bulunarak kızının bulunması için yardım istedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/eskisehirde-15-yasindaki-kiz-cocugu-kayiplara-karisti-acili-anne-gozyaslariyla-yardim-istedi-43333804"
         },
         {
-          "title": "Kan donduran olay: 16 yaşındaki çocuk bıçaklanarak öldürüldü",
-          "summary": "Gaziantep'te tartıştığı 2 kişi tarafından göğüs ve kasık bölgesinden bıçaklanan Suriye uyruklu Muhammed Salih (16), kaldırıldığı hastanede hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/kan-donduran-olay-16-yasindaki-cocuk-bicaklanarak-olduruldu-43333404"
+          "title": "Maltepe'deki binanın çökmeden önceki son hali dikkat çekti: \"Bu binanın iki katili var\"",
+          "summary": "Maltepe'de üç katı çöken yedi katlı binanın üstteki iki katının kaçak olduğu ortaya çıktı. Uzmanlar yaşanan olayda kaçak katlar ile binada yaşanan korozyonun etkili olduğuna dikkat çekiyor. İstanbul'un Maltepe ilçesinde yedi katlı binada çökme meydana geldi. Toplam 12 daireden oluşan dairenin üç katı çöktü. Çökme yaşanan binada ilk belirlemelere göre 33 kişi yaşıyordu. İstanbul Valiliği, enkazda iki cansız bedene ulaşıldığını açıkladı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-maltepedeki-binanin-cokmeden-onceki-son-hali-dikkat-cekti-kolonlari-mi-kesildi-1745319"
         }
       ]
     },
     "dunya": {
-      "text": "Trump, Nobel'in peşini bırakmıyor. \"İtibarını kaybeder\". Tutanaklar yayımlandı… Fed’den bir faiz artış sinyali daha. ABD Başkanı Trump’tan İran açıklaması: Çok hızlı şekilde sona erecek. Suudi Arabistan açıkladı… Husiler, 2 havalimanını vurdu, çok sayıda ölü ve yaralı var... Karşılıklı peş peşe açıklamalar. Trump: Türkiye Suudi Arabistan'a yardım etmek istiyor, bence bu harika. Rusya’daki gizemli salgın ‘biyolojik silah’ mı? Trump’tan iddialara cevap. AB’den Çin’e ihracat freni: Hibrit araçlar masada.",
+      "text": "Elon Musk'ın hedefinde bu kez Hindistan var. \"Belirli oligarklar bizi engelliyor\". İsrail'den İngiltere'ye kritik hamle! Konsolosluk faaliyetleri sona erdi. Yandex'e ilk kez İHA saldırısı. Veri merkezinde faaliyetler durdu. Doğu Kudüs'teki İngiliz Konsolosluğu faaliyetlerini \"temsilcilik\" olarak sürdürecek. Rusya'dan Ukrayna'ya art arda saldırılar: 3 kişi yaşamını yitirdi. Son dakika... Riyad'da patlama sesi duyuldu. Dört ihtimal gündemde. İnfazdan sağ kurtulan idam mahkumunu neler bekliyor?.",
       "items": [
         {
-          "title": "Trump, Nobel'in peşini bırakmıyor. \"İtibarını kaybeder\"",
-          "summary": "ABD Başkanı Donald Trump, Nobel Barış Ödülü'nü hak ettiğini tekrarlayıp ekledi: Ödülü almasam da çok şey başardım ve bence bu, onlar için büyük itibar kaybı olur. Ocak 2025'te yeniden ABD Başkanı seçilip Beyaz Saray'a dönmesinin ardından Nobel Barış Ödülü'nün kendisine verilmesi için kampanya yürüten Donald Trump, bu yıl da talebinden vazgeçmedi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trump-nobelin-pesini-birakmiyor-itibarini-kaybeder-1745307"
+          "title": "Elon Musk'ın hedefinde bu kez Hindistan var. \"Belirli oligarklar bizi engelliyor\"",
+          "summary": "SpaceX kurucusu Elon Musk, Starlink'in Hindistan pazarına girişinin iki yerel telekomünikasyon devi tarafından engellendiğini iddia etti. Tesla ve SpaceX'in CEO'su milyarder Elon Musk, uydu üzerinden internet hizmeti sunan şirketi Starlink'in Hindistan pazarına girişinin yerel çıkar çevrelerince engellendiğini öne sürdü.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-elin-muskin-hedefinde-bu-kez-hindistan-var-belirli-oligarklar-bizi-engelliyor-1745372"
         },
         {
-          "title": "Tutanaklar yayımlandı… Fed’den bir faiz artış sinyali daha",
-          "summary": "ABD Merkez Bankasının (Fed) son toplantısına ilişkin tutanakları, yıl sonuna kadar politika faizinde bir artışa daha gidilmesinin muhtemel olduğunu ortaya koydu.",
-          "source": "https://www.hurriyet.com.tr/dunya/tutanaklar-yayimlandi-fedden-bir-faiz-artis-sinyali-daha-43333355"
+          "title": "İsrail'den İngiltere'ye kritik hamle! Konsolosluk faaliyetleri sona erdi",
+          "summary": "İsrail, işgal altındaki Doğu Kudüs'teki İngiltere Konsolosluğu'nun faaliyetlerine son verildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-ingiltereye-kritik-hamle-konsolosluk-faaliyetleri-sona-erdi-43333818"
         },
         {
-          "title": "ABD Başkanı Trump’tan İran açıklaması: Çok hızlı şekilde sona erecek",
-          "summary": "ABD Başkanı Donald Trump, İran'ın nükleer silaha sahip olmaması misyonunu tamamladıklarını savunarak, \"Bu durum, çok hızlı şekilde sona erecek.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-iran-aciklamasi-cok-hizli-sekilde-sona-erecek-43333337"
+          "title": "Yandex'e ilk kez İHA saldırısı. Veri merkezinde faaliyetler durdu",
+          "summary": "Rusya'nın en büyük teknoloji şirketi Yandex'in Ryazan bölgesindeki ana veri merkezi düzenlenen İHA saldırısının ardından faaliyetlerini tamamen durdurdu. Rusya'nın önde gelen teknoloji ve yapay zeka şirketi Yandex'e ait büyük bir veri merkezi, insansız hava araçlarının (İHA) hedefi oldu. Reuters ajansının aktardığına göre Başkent Moskova'nın güneydoğusundaki Ryazan bölgesinde yer alan tesise düzenlenen saldırı sonucu yangın çıkarken şirket veri merkezindeki faaliyetleri tamamen durdurduğunu açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-yandexe-ilk-kez-iha-saldirisi-veri-merkezinde-faaliyetler-durdu-1745392"
         },
         {
-          "title": "Suudi Arabistan açıkladı… Husiler, 2 havalimanını vurdu, çok sayıda ölü ve yaralı var... Karşılıklı peş peşe açıklamalar",
-          "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Abha'daki Abha Uluslararası Havalimanı ile başkent Riyad'daki Kral Halid Uluslararası Havalimanı'na dün ve bugün düzenlenen saldırılarda 3 kişinin hayatını kaybettiğini, 36 kişinin yaralandığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistan-acikladi-husiler-abha-ve-riyaddaki-havalimanlarini-vurdu-cok-sayida-olu-ve-yarali-var-43333326"
+          "title": "Doğu Kudüs'teki İngiliz Konsolosluğu faaliyetlerini \"temsilcilik\" olarak sürdürecek",
+          "summary": "İsrail, İngiltere'ye \"Doğu Kudüs'teki konsolosluğunu kapat\" demişti. İngiltere ise burayı kapatmayacaklarını, \"temsilcilik\" adı altında faaliyetlerine devam edeceklerini bildirdi. İngiltere dahil 12 Batılı ülkenin, işgal altındaki Filistin topraklarından gasbedilen İsrail yerleşimleriyle ticareti yasaklayacağını duyurmasının ardından, İsrail Dışişleri Bakanı Saar, 8 Eylül'de yaptığı açıklamayla, İngiltere'ye yaptırım uygulayacaklarını söylemişti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-dogu-kudusteki-ingiliz-konsoloslugu-faaliyetlerini-temsilcilik-olarak-surdurecek-1745378"
         },
         {
-          "title": "Trump: Türkiye Suudi Arabistan'a yardım etmek istiyor, bence bu harika",
-          "summary": "ABD Başkanı Donald Trump, Türkiye'nin Suudi Arabistan'a yardım etmek istediğini belirterek, \"Bence bu harika.\" dedi. ABD Başkanı Donald Trump, Teksas'a hareketinden önce gazetecilerin sorularını yanıtladı. Trump, Ortadoğu'daki gelişmelere ilişkin değerlendirmesinde “Türkiye Suudi Arabistan'a yardım etmek istiyor. Bence bu harika.” ifadelerini kullandı. Açıklama, Türkiye, Suudi Arabistan ve Pakistan arasında Mekke Savunma İttifakı kapsamında savunma ve güvenlik alanındaki temasların arttığı bir dönemde geldi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-turkiye-suudi-arabistana-yardim-etmek-istiyor-bence-bu-harika-1745296"
+          "title": "Rusya'dan Ukrayna'ya art arda saldırılar: 3 kişi yaşamını yitirdi",
+          "summary": "Rus ordusunun Ukrayna'nın başkenti Kiev'e yönelik dün geceden itibaren düzenlediği hava saldırılarında 3 sivilin hayatını kaybettiği ve 33 kişinin yaralandığı bildirildi. Ukrayna, Ruaya'nın Çernigiv bölgesine bağlı Priluki şehrini de hedef aldığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-ukraynaya-art-arda-saldirilar-3-kisi-yasamini-yitirdi-43333731"
         },
         {
-          "title": "Rusya’daki gizemli salgın ‘biyolojik silah’ mı? Trump’tan iddialara cevap",
-          "summary": "ABD Başkanı Donald Trump, Rusya'da ortaya çıkan salgın şüphesinin \"biyolojik bir silah\" kaynaklı olduğunu düşünmediklerini ve durumun kontrol altında olduğunu umduklarını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadaki-gizemli-salgin-biyolojik-silah-mi-trumptan-iddialara-cevap-43333287"
+          "title": "Son dakika... Riyad'da patlama sesi duyuldu",
+          "summary": "Yemen’deki Husilerin saldırılarının hedefindeki Suudi Arabistan’ın başkenti Riyad’da patlama sesi duyuldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-afp-riyadda-patlama-sesleri-duyuldu-43333666"
         },
         {
-          "title": "AB’den Çin’e ihracat freni: Hibrit araçlar masada",
-          "summary": "Avrupa Birliği (AB), Çin’in Avrupa pazarına yönelik hızla artan ihracatını sınırlamak amacıyla Pekin’le kritik ticaret görüşmelerine hazırlanıyor. AB Ticaret Komiseri Maroš Šefčovič ve beraberindeki heyetin çarşamba günü Çin’e gitmesi, görüşmelerin ise perşembe günü başlayıp cuma gecesine kadar sürmesi bekleniyor. Tarafların, Çin’in AB karşısında günlük yaklaşık 1 milyar euro'yu ticaret fazlasını azaltmaya yönelik somut adımlar üzerinde çalışacağı belirtiliyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abden-cine-ihracat-freni-hibrit-araclar-masada-1745287"
+          "title": "Dört ihtimal gündemde. İnfazdan sağ kurtulan idam mahkumunu neler bekliyor?",
+          "summary": "ABD'nin Tennessee eyaletinde zehirli iğneyle yürütülen infaz girişiminden sağ kurtulan 50 yaşındaki Christa Pike, komadan uyanarak hastanede yaşam mücadelesi vermeye başladı. ABD'nin Tennessee eyaletinde 1995 yılındaki bir cinayet nedeniyle idam cezasına çarptırılan 50 yaşındaki Christa Pike, zehirli iğneyle infaz girişiminden sağ kurtuldu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-iki-doz-zehirli-igneye-ragmen-olmedi-konusmaya-bile-basladi-1745336"
         }
       ]
     },
     "ekonomi": {
-      "text": "TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi. TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz.",
+      "text": "Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi.",
       "items": [
+        {
+          "title": "Alman şirketleri üretimi beklentinin çok üzerinde artırdı",
+          "summary": "Almanya'da sanayi, inşaat ve enerji şirketleri ağustos ayında üretimlerini beklentilerin dört katı oranında artırdı. Üretim, bir önceki aya göre yüzde 2,0 yükselirken, ekonomistler yalnızca yüzde 0,5'lik artış bekliyordu. Bu, yaklaşık bir buçuk yılın en güçlü artışı oldu.",
+          "source": "https://www.hurriyet.com.tr/avrupa/alman-sirketleri-uretimi-beklentinin-cok-uzerinde-artirdi-43333534"
+        },
         {
           "title": "TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor",
           "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, fon piyasası genelinin sağlıklı işlemeye devam ettiğini, finansal sistemin genelini etkileyen bir sorun olmadığını değerlendirdiklerini bildirdi.",
@@ -115,51 +120,46 @@
           "title": "Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi",
           "summary": "Uluslararası kredi derecelendirme kuruluşu S&P Global Ratings'e göre fon soruşturması, Türkiye'nin kredi notunda aşağı yönlü baskı oluşturmuyor. S&P Global Ratings yetkilileri, Türkiye'de bazı fonların tasfiye sürecine ilişkin gelişmelerin ülkenin kredi notu açısından aşağı yönlü bir baskı oluşturmasının beklenmediğini açıkladı. S&P Global Ratings'in Türkiye'ye yönelik bu yılki ikinci kredi notu ve görünüm değerlendirmesini 16 Ekim'de yayınlaması bekleniyor.",
           "source": "https://www.ntv.com.tr/ekonomi/uluslararasi-kredi-derecelendirme-kurulusundan-fon-sorusturmasi-analizi-1744478"
-        },
-        {
-          "title": "TBMM 28. Dönem 5. Yasama Yılı törenle başladı… Erdoğan’dan fon mesajı: Süratle çözüyoruz",
-          "summary": "Cumhurbaşkanı Tayyip Erdoğan Meclis’i açış konuşmasında fon krizine de değinirken “Fon piyasasının belli bölümünde ortaya çıkan sorunun da üstesinden başarıyla geliyoruz. Sermaye piyasası kuralları çerçevesinde, hakkaniyet ve adaleti gözeterek, kimsenin hakkını kimseye yedirmeden, bu meseleyi süratle çözüyoruz” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-28-donem-5-yasama-yili-torenle-basladi-erdogandan-fon-mesaji-suratle-cozuyoruz-43326668"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe'den Brezilya taarruzu! Harekete geçildi. Çimsa ÇBK Mersin 71-79 Fenerbahçe Tarfin (FIBA Kadınlar Süper Kupa finali). Beşiktaş yönetiminde görev dağılımı yapıldı. Cristiano Ronaldo'dan Messi'ye mesaj: Sonsuza dek yaşayacak tarih yazdın. Ronaldo'ya sert çıkıştı! 'Neden özel muamele görmek zorunda? Böyle görmedim!'. Galatasaray Kulüp Doktoru Yener İnce'den Osimhen, Singo, Sallai, Lemina açıklaması: Kronik sakatlığı yok. Monaco Basket iflas başvurusunda bulundu.",
+      "text": "Icardi cephesi Dursun Özbek’i yalanladı!. Göztepe'den Eyüpspor'a bilet tepkisi. A Milli Takım'ın FIFA sıralamasındaki yeri belli oldu. Bakan Osman Aşkın Bak, Formula 1 öncesi İstanbul Park'ta sürüş yaptı. İtalya'dan flaş iddia: 'Montella sonrasında A Milli Takım'ın başına Arda Turan geçecek!'. Kasımpaşalı Elson Mendes'den Galatasaray maçı öncesi iddialı açıklama: 'Kaybedecek bir şeyimiz yok!'. Galatasaray ile Kasımpaşa 45. randevuda.",
       "items": [
         {
-          "title": "Fenerbahçe'den Brezilya taarruzu! Harekete geçildi",
-          "summary": "Fenerbahçe, ocak transfer sezonunda kadrosuna katmak istediği golcü için hamlesini yapıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-brezilya-taarruzu-harekete-gecildi-43333302"
+          "title": "Icardi cephesi Dursun Özbek’i yalanladı!",
+          "summary": "Galatasaray’a dönüşü gündemde olan Mauro Icardi’ye ilişkin Arjantinli golcünün menajeri konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/icardi-cephesi-dursun-ozbeki-yalanladi-43333805"
         },
         {
-          "title": "Çimsa ÇBK Mersin 71-79 Fenerbahçe Tarfin (FIBA Kadınlar Süper Kupa finali)",
-          "summary": "Fenerbahçe Tarfin, FIBA Kadınlar Süper Kupa finalinde Çimsa ÇBK Mersin'i mağlup ederek kupayı müzesine götürdü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cimsa-cbk-mersin-71-79-fenerbahce-tarfin-fiba-kadinlar-super-kupa-finali-43333294"
+          "title": "Göztepe'den Eyüpspor'a bilet tepkisi",
+          "summary": "Süper Lig'de milli aranın ardından deplasmanda Eyüpspor'la karşı karşıya gelecek Göztepe'de taraftarlar ve yönetim deplasman bilet fiyatına tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/goztepeden-eyupspora-bilet-tepkisi-43333820"
         },
         {
-          "title": "Beşiktaş yönetiminde görev dağılımı yapıldı",
-          "summary": "Beşiktaş'ta Başkan Serdal Adalı'nın yeniden seçilmesinin ardından görev dağılımı belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-yonetiminde-gorev-dagilimi-yapildi-43333283"
+          "title": "A Milli Takım'ın FIFA sıralamasındaki yeri belli oldu",
+          "summary": "A Milli Futbol Takımı, Uluslararası Futbol Federasyonları Birliği (FIFA) tarafından açıklanan ekim ayı dünya sıralamasında bin 563 puanla 31. sırada yer aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takimin-fifa-siralamasindaki-yeri-belli-oldu-43333793"
         },
         {
-          "title": "Cristiano Ronaldo'dan Messi'ye mesaj: Sonsuza dek yaşayacak tarih yazdın",
-          "summary": "Portekizli efsane Cristiano Ronaldo, Arjantin milli takım kariyerini sonlandıran Messi'ye sosyal medyadan mesaj yolladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cristiano-ronaldodan-messiye-mesaj-sonsuza-dek-yasayacak-tarih-yazdin-43333274"
+          "title": "Bakan Osman Aşkın Bak, Formula 1 öncesi İstanbul Park'ta sürüş yaptı",
+          "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2027'den itibaren yeniden Formula 1'e ev sahipliği yapacak İstanbul Park'ta test sürüşüne çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bakan-osman-askin-bak-formula-1-oncesi-istanbul-parkta-surus-yapti-43333784"
         },
         {
-          "title": "Ronaldo'ya sert çıkıştı! 'Neden özel muamele görmek zorunda? Böyle görmedim!'",
-          "summary": "Portekiz futbolunun önemli isimlerinden Antonio Simoes, Cristiano Ronaldo hakkında konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ronaldoya-sert-cikisti-neden-ozel-muamele-gormek-zorunda-boyle-gormedim-43333221"
+          "title": "İtalya'dan flaş iddia: 'Montella sonrasında A Milli Takım'ın başına Arda Turan geçecek!'",
+          "summary": "Türkiye Futbol Federasyonu'nun üst üste alınan kötü sonuçlar nedeniyle yollarını ayırmaya hazırlandığı Vincenzo Montella sonrasında A Milli Takım'ı Arda Turan'a emanet edeceği iddia edildi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/italyadan-flas-iddia-montella-sonrasinda-a-milli-takimin-basina-arda-turan-gececek-43333578"
         },
         {
-          "title": "Galatasaray Kulüp Doktoru Yener İnce'den Osimhen, Singo, Sallai, Lemina açıklaması: Kronik sakatlığı yok",
-          "summary": "Galatasaray Kulüp Doktoru Yener İnce, sarı kırmızılılardaki sakatlıklara ilişkin son bilgileri aktardı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kulup-doktoru-yener-inceden-osimhen-singo-sallai-lemina-aciklamasi-kronik-sakatligi-yok-43333140"
+          "title": "Kasımpaşalı Elson Mendes'den Galatasaray maçı öncesi iddialı açıklama: 'Kaybedecek bir şeyimiz yok!'",
+          "summary": "Kasımpaşa'nın Yeşil Burun Adalı futbolcusu Elson Mendes, Galatasaray ile yapacakları maçta kaybedecek bir şeylerinin olmadığını ve sahada yüreklerini ortaya koyacaklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kasimpasali-elson-mendesden-galatasaray-maci-oncesi-iddiali-aciklama-kaybedecek-bir-seyimiz-yok-43333705"
         },
         {
-          "title": "Monaco Basket iflas başvurusunda bulundu",
-          "summary": "Fransa basketbolunun ve EuroLeague'in son yıllardaki en başarılı ekiplerinden Monaco Basket, iflas başvurusunda bulunduğunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/monaco-basket-iflas-basvurusunda-bulundu-43333132"
+          "title": "Galatasaray ile Kasımpaşa 45. randevuda",
+          "summary": "Galatasaray ile Kasımpaşa, Süper Lig'de yarın 45. kez karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ile-kasimpasa-45-randevuda-43333680"
         }
       ]
     },
