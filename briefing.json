@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-08T10:00:05.510Z",
+  "generatedAt": "2026-10-08T16:00:04.402Z",
   "categories": {
     "gundem": {
-      "text": "Maltepe'de çöken binadan kurtarılan vatandaş: Binamız çatlaktı, çatır çatır ses duyuluyordu. İstanbul’da 7 katlı bina çöktü: Enkazdan kurtarılanlar o dehşet anlarını anlattı! ‘Binadan sesler geldi’. Tezgahlar bereketli. Fiyatı düştü, yüzler güldü. Konya'da korkunç kaza: 3 kişi hayatını kaybetti. MSB açıkladı. Türk askeri Riyad'a gidecek mi?. Eskişehir’de 15 yaşındaki kız çocuğu kayıplara karıştı: Acılı anne gözyaşlarıyla yardım istedi. Maltepe'deki binanın çökmeden önceki son hali dikkat çekti: \"Bu binanın iki katili var\".",
+      "text": "Girne’deki gemi kazasında 2 kişinin kimliği belirlendi. Bakan Kacır, Türk ve yabancı astronotlar ile Salda Gölü’nde bilim merkezi açtı. Evdeki tartışma ölümle bitti! Eşini tabancayla öldüren kadın gözaltına alındı. Ordu’da oğlunun katilinin evini basan anne silahla öldürüldü. Nevşehir’deki Göreme Kavşağı’nda can pazarı: Takla atan otomobilin sürücüsü ve eşi öldü. DEM Parti İmralı Heyeti AK Parti heyetiyle görüştü. Maltepe'deki binada duvardaki çatakları görüntüleyen işletmeci: \"Kolon kesme durumu yok\".",
       "items": [
         {
-          "title": "Maltepe'de çöken binadan kurtarılan vatandaş: Binamız çatlaktı, çatır çatır ses duyuluyordu",
-          "summary": "İstanbul Maltepe'de çöken 7 katlı binadan kurtarılan vatandaş, binanın çatlak olduğunu ve ses duyduklarını dile getirdi. Cevizli Mahallesi Doğu Sokak'taki 7 katlı binada çökme meydana geldi. Binanın 3 katındaki çökmenin nedeni bilinmezken enkazda kalan 14 kişiden 10'u sağ olarak kurtarıldı. Enkazdan iki kişinin cansız bedenine ulaşılırken iki kişiyi arama çalışması sürüyor. “ÇATIR ÇATIR SESLER DUYULUYORDU” Tolga Gürpınar çöken binadan kurtarılan vatandaşlar arasında yer aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/maltepede-coken-binadan-kurtarilan-vatandas-binamiz-catlakti-catir-catir-ses-duyuluyordu-1745369"
+          "title": "Girne’deki gemi kazasında 2 kişinin kimliği belirlendi",
+          "summary": "KUZEY Kıbrıs Türk Cumhuriyeti Başbakanlığı, 30 Ağustos'ta Girne açıklarında meydana gelen gemi kazasının ardından sürdürülen arama çalışmalarında cesedi bulunan iki kişinin kimlik tespit işlemlerinin tamamlandığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/girnedeki-gemi-kazasinda-2-kisinin-kimligi-belirlendi-43334484"
         },
         {
-          "title": "İstanbul’da 7 katlı bina çöktü: Enkazdan kurtarılanlar o dehşet anlarını anlattı! ‘Binadan sesler geldi’",
-          "summary": "İstanbul, Maltepe’deki Cevizli Mahallesi'nde 3 katı çöken binada arama kurtarma çalışmaları sürerken, sağ kurtarılan bina sakinleri yaşananları paylaştı. Kentsel dönüşümün komşular arasında konuşulduğunu ancak sonuçlanmadığını belirten ev sahipleri, binadan sesler geldiğini ifade etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-7-katli-bina-coktu-enkazdan-kurtarilanlar-o-dehset-anlarini-anlatti-binada-sesler-geldi-43333860"
+          "title": "Bakan Kacır, Türk ve yabancı astronotlar ile Salda Gölü’nde bilim merkezi açtı",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"2027'nin ilk aylarında uzaya uğurlamayı öngördüğümüz, millî kabiliyetlerimizin eseri uzay aracımızla Ay yörüngesinde bilimsel araştırmalar gerçekleştireceğiz. Bütün bu iddialı projelerin arkasında kararlı bir irade; bilim insanlarımızın, mühendislerimizin, teknisyenlerimizin emeği var. Hiçbir engel tanımayan, bu ülke için gece gündüz çalışan, Türkiye'ye vurulmaya çalışılan prangaları parçalayan Türk gençliği var.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-turk-ve-yabanci-astronotlar-ile-salda-golunde-bilim-merkezi-acti-43334473"
         },
         {
-          "title": "Tezgahlar bereketli. Fiyatı düştü, yüzler güldü",
-          "summary": "Sinop’un Türkeli ilçesinde balık tezgâhlarında yaşanan palamut bolluğu, fiyatlara da yansıdı. Balık tezgahlarında bu yıl palamut bolluğu yaşanıyor. Vatandaşlar tarafından yoğun ilgi gören palamut uygun fiyatıyla da dikkat çekiyor. Denizlerde palamut avının artmasıyla birlikte tezgâhlarda bolca yer bulan palamut, uygun fiyatıyla vatandaşlardan yoğun ilgi görüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-tezgahlar-bereketli-fiyati-dustu-yuzler-guldu-1745396"
+          "title": "Evdeki tartışma ölümle bitti! Eşini tabancayla öldüren kadın gözaltına alındı",
+          "summary": "Manisa’nın Salihli ilçesinde Şinda Yakut G., henüz belirlenemeyen nedenle tartıştığı eşi Rıdvan G.’yi tabancayla vurarak öldürdü. Olayın ardından kadın gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/evdeki-tartisma-olumle-bitti-esini-tabancayla-olduren-kadin-gozaltina-alindi-43334428"
         },
         {
-          "title": "Konya'da korkunç kaza: 3 kişi hayatını kaybetti",
-          "summary": "Konya’nın Hüyük ilçesinde otomobil ile hafif ticari aracın çarpıştı. Feci kazada 3 kişi hayatını kaybetti, 1 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/konyada-korkunc-kaza-3-kisi-hayatini-kaybetti-43333837"
+          "title": "Ordu’da oğlunun katilinin evini basan anne silahla öldürüldü",
+          "summary": "Ordu’nun Korgan ilçesinde 2 gün önce yol verme kavgasında bıçaklanarak öldürülen Orhan Artça’nın annesi Nezaket Artça, gittiği cinayet şüphelisinin evinde tabancayla vurularak öldürüldü. Olayda 1 kişi de yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/orduda-oglunun-katilinin-evini-basan-anne-silahla-olduruldu-43334388"
         },
         {
-          "title": "MSB açıkladı. Türk askeri Riyad'a gidecek mi?",
-          "summary": "Milli Savunma Bakanlığı (MSB), Mekke Savunma İttifakı toplantısında Türkiye'nin Suudi Arabistan'a asker konuşlandırma kararına ilişkin \"Kuvvet süreci Anayasa yürütülecek.\" açıklamasında bulundu. Milli Savunma Bakanlığı (MSB), haftalık bilgilendirme toplantısında, gündeme ilişkin bilgilendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/msb-acikladi-turk-askeri-riyada-gidecek-mi-1745391"
+          "title": "Nevşehir’deki Göreme Kavşağı’nda can pazarı: Takla atan otomobilin sürücüsü ve eşi öldü",
+          "summary": "Nevşehir-Avanos kara yolundaki kavşakta meydana gelen kazada kamyonetle çarpışan otomobil takla attı. Olayda Nurettin ve Sıddık Turgut çifti yaşamını yitirirken, 1 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/nevsehirdeki-goreme-kavsaginda-can-pazari-takla-atan-otomobilin-surucusu-ve-esi-oldu-43334369"
         },
         {
-          "title": "Eskişehir’de 15 yaşındaki kız çocuğu kayıplara karıştı: Acılı anne gözyaşlarıyla yardım istedi",
-          "summary": "Eskişehir’de hafta başından bu yana 15 yaşındaki kızı K.A.’dan haber alamayan anne Zekiye Akay, polise kayıp başvurusunda bulunarak kızının bulunması için yardım istedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/eskisehirde-15-yasindaki-kiz-cocugu-kayiplara-karisti-acili-anne-gozyaslariyla-yardim-istedi-43333804"
+          "title": "DEM Parti İmralı Heyeti AK Parti heyetiyle görüştü",
+          "summary": "DEM Parti İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar, AK Parti heyetiyle görüştü. Görüşmede sürecin geldiği aşama ve izlenecek adımlar değerlendirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-kritik-temas-dem-parti-imrali-heyeti-ak-parti-heyetiyle-gorustu-43334353"
         },
         {
-          "title": "Maltepe'deki binanın çökmeden önceki son hali dikkat çekti: \"Bu binanın iki katili var\"",
-          "summary": "Maltepe'de üç katı çöken yedi katlı binanın üstteki iki katının kaçak olduğu ortaya çıktı. Uzmanlar yaşanan olayda kaçak katlar ile binada yaşanan korozyonun etkili olduğuna dikkat çekiyor. İstanbul'un Maltepe ilçesinde yedi katlı binada çökme meydana geldi. Toplam 12 daireden oluşan dairenin üç katı çöktü. Çökme yaşanan binada ilk belirlemelere göre 33 kişi yaşıyordu. İstanbul Valiliği, enkazda iki cansız bedene ulaşıldığını açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-maltepedeki-binanin-cokmeden-onceki-son-hali-dikkat-cekti-kolonlari-mi-kesildi-1745319"
+          "title": "Maltepe'deki binada duvardaki çatakları görüntüleyen işletmeci: \"Kolon kesme durumu yok\"",
+          "summary": "Maltepe’de 7 katlı binanın 3 katı çöktü: 2 kişi hayatını kaybetti, 3’ü çocuk 10 kişi yaralandı. Çatlakları kaydeden Fatma Kaya’nın görüntüleri ortaya çıktı. Cevizli Mahallesi Doğu Sokak’ta 7 katlı binanın alttaki 3 katı henüz belirlenemeyen nedenle sabah erken saatlerde çöktü. İhbar üzerine olay yerine çok sayıda itfaiye, sağlık, polis ve arama kurtarma ekibi sevk edildi. Üst katlarda bulunanlar, ekiplerin çalışmasıyla kurtarıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-maltepedeki-binada-duvardaki-cataklari-goruntuleyen-isletmeci-kolon-kesme-durumu-yok-1745442"
         }
       ]
     },
     "dunya": {
-      "text": "Elon Musk'ın hedefinde bu kez Hindistan var. \"Belirli oligarklar bizi engelliyor\". İsrail'den İngiltere'ye kritik hamle! Konsolosluk faaliyetleri sona erdi. Yandex'e ilk kez İHA saldırısı. Veri merkezinde faaliyetler durdu. Doğu Kudüs'teki İngiliz Konsolosluğu faaliyetlerini \"temsilcilik\" olarak sürdürecek. Rusya'dan Ukrayna'ya art arda saldırılar: 3 kişi yaşamını yitirdi. Son dakika... Riyad'da patlama sesi duyuldu. Dört ihtimal gündemde. İnfazdan sağ kurtulan idam mahkumunu neler bekliyor?.",
+      "text": "Rusya'dan '2. ölüm' iddiasına yanıt. ABD gazetesinden çarpıcı iddia: Raporları İsrail lehine değiştirdi. Denizde boğulan 3 kız kardeşin ölümü \"toplu intihar\" çıktı. Anneleri de gölde canına kıymış. İran'dan ABD'ye rest! 'Hakkımızdan vazgeçmeyeceğiz'. İsrail'de Türkiye endişesi: Mekke İttifakı mercek altında. İtalya'da seçim sistemi değişti: Parlamentodan yeni yasaya onay. Nobel Edebiyat Ödülü'nün sahibi belli oldu. Rüzgarın sesini dinlerken öğrenmiş.",
       "items": [
         {
-          "title": "Elon Musk'ın hedefinde bu kez Hindistan var. \"Belirli oligarklar bizi engelliyor\"",
-          "summary": "SpaceX kurucusu Elon Musk, Starlink'in Hindistan pazarına girişinin iki yerel telekomünikasyon devi tarafından engellendiğini iddia etti. Tesla ve SpaceX'in CEO'su milyarder Elon Musk, uydu üzerinden internet hizmeti sunan şirketi Starlink'in Hindistan pazarına girişinin yerel çıkar çevrelerince engellendiğini öne sürdü.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-elin-muskin-hedefinde-bu-kez-hindistan-var-belirli-oligarklar-bizi-engelliyor-1745372"
+          "title": "Rusya'dan '2. ölüm' iddiasına yanıt",
+          "summary": "Rusya İnsan Sağlığı ve Tüketiciyi Koruma Kurumu (Rospotrebnadzor), Sibirya'daki bir veba araştırma laboratuvarında çalışan ve geçtiğimiz hafta hayatını kaybeden personelle temaslı birinin hastalandığı iddialarını yalanladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-2-olum-iddiasina-yanit-43334442"
         },
         {
-          "title": "İsrail'den İngiltere'ye kritik hamle! Konsolosluk faaliyetleri sona erdi",
-          "summary": "İsrail, işgal altındaki Doğu Kudüs'teki İngiltere Konsolosluğu'nun faaliyetlerine son verildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-ingiltereye-kritik-hamle-konsolosluk-faaliyetleri-sona-erdi-43333818"
+          "title": "ABD gazetesinden çarpıcı iddia: Raporları İsrail lehine değiştirdi",
+          "summary": "New York Times (NYT) gazetesi, ABD'nin İsrail Büyükelçisi Mike Huckabee’nin baş danışmanlarından David Milstein isimli diplomatın, Binyamin Netanyahu hükümetini olumlu şekilde göstermek amacıyla bilgi çarpıttığını öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-gazetesinden-carpici-iddia-raporlari-israil-lehine-degistirdi-43334427"
         },
         {
-          "title": "Yandex'e ilk kez İHA saldırısı. Veri merkezinde faaliyetler durdu",
-          "summary": "Rusya'nın en büyük teknoloji şirketi Yandex'in Ryazan bölgesindeki ana veri merkezi düzenlenen İHA saldırısının ardından faaliyetlerini tamamen durdurdu. Rusya'nın önde gelen teknoloji ve yapay zeka şirketi Yandex'e ait büyük bir veri merkezi, insansız hava araçlarının (İHA) hedefi oldu. Reuters ajansının aktardığına göre Başkent Moskova'nın güneydoğusundaki Ryazan bölgesinde yer alan tesise düzenlenen saldırı sonucu yangın çıkarken şirket veri merkezindeki faaliyetleri tamamen durdurduğunu açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-yandexe-ilk-kez-iha-saldirisi-veri-merkezinde-faaliyetler-durdu-1745392"
+          "title": "Denizde boğulan 3 kız kardeşin ölümü \"toplu intihar\" çıktı. Anneleri de gölde canına kıymış",
+          "summary": "İngiltere'nin güneyinde mayıs ayında denizde cesetleri bulunan 3 kız kardeşin, toplu şekilde intihar ettiği; annelerinin de 16 yıl önce bir gölün sularında kendi canına kıydığı ortaya çıktı. İngiltere'nin güneyindeki Brighton kentinde geçen 13 Mayıs'ta denizde cansız bedenleri çıkarılan 3 kız kardeşin ölümüyle ilgili trajik gerçek ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/denizde-bogulan-3-kiz-kardesin-olumu-toplu-intihar-cikti-anneleri-de-golde-canina-kiymis-1745438"
         },
         {
-          "title": "Doğu Kudüs'teki İngiliz Konsolosluğu faaliyetlerini \"temsilcilik\" olarak sürdürecek",
-          "summary": "İsrail, İngiltere'ye \"Doğu Kudüs'teki konsolosluğunu kapat\" demişti. İngiltere ise burayı kapatmayacaklarını, \"temsilcilik\" adı altında faaliyetlerine devam edeceklerini bildirdi. İngiltere dahil 12 Batılı ülkenin, işgal altındaki Filistin topraklarından gasbedilen İsrail yerleşimleriyle ticareti yasaklayacağını duyurmasının ardından, İsrail Dışişleri Bakanı Saar, 8 Eylül'de yaptığı açıklamayla, İngiltere'ye yaptırım uygulayacaklarını söylemişti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-dogu-kudusteki-ingiliz-konsoloslugu-faaliyetlerini-temsilcilik-olarak-surdurecek-1745378"
+          "title": "İran'dan ABD'ye rest! 'Hakkımızdan vazgeçmeyeceğiz'",
+          "summary": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, ülkesinin uranyum zenginleştirme faaliyetlerinden geri adım atmayacağını söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdye-rest-hakkimizdan-vazgecmeyecegiz-43334319"
         },
         {
-          "title": "Rusya'dan Ukrayna'ya art arda saldırılar: 3 kişi yaşamını yitirdi",
-          "summary": "Rus ordusunun Ukrayna'nın başkenti Kiev'e yönelik dün geceden itibaren düzenlediği hava saldırılarında 3 sivilin hayatını kaybettiği ve 33 kişinin yaralandığı bildirildi. Ukrayna, Ruaya'nın Çernigiv bölgesine bağlı Priluki şehrini de hedef aldığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-ukraynaya-art-arda-saldirilar-3-kisi-yasamini-yitirdi-43333731"
+          "title": "İsrail'de Türkiye endişesi: Mekke İttifakı mercek altında",
+          "summary": "İsrail basını, yayımladığı analizler ile Mekke İttifakı'nı mercek altına aldı. Analizde, Ankara'nın bölgesel ağırlığının artması ve Pakistan'ın olası bir krizde Türkiye'nin yanında yer alması ihtimali tartışıldı. Analizlerde, ittifakın genişlemesi halinde İsrail'in bölgedeki konumunun daha da zayıflayabileceği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilde-turkiye-endisesi-mekke-ittifaki-mercek-altinda-43333966"
         },
         {
-          "title": "Son dakika... Riyad'da patlama sesi duyuldu",
-          "summary": "Yemen’deki Husilerin saldırılarının hedefindeki Suudi Arabistan’ın başkenti Riyad’da patlama sesi duyuldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-afp-riyadda-patlama-sesleri-duyuldu-43333666"
+          "title": "İtalya'da seçim sistemi değişti: Parlamentodan yeni yasaya onay",
+          "summary": "İtalya'da Giorgia Meloni'nin liderliğindeki sağ koalisyon hükümetinin hazırladığı ve genel seçimleri en az yüzde 42'lik oy oranıyla kazanan ittifaka, parlamentoda ek sandalyeler kazandırmayı öngören yeni seçim yasası tasarısı, parlamentonun alt kanadı Temsilciler Meclisi'ndeki nihai oylamada onaylanarak yasalaştı.",
+          "source": "https://www.hurriyet.com.tr/dunya/italyada-secim-sistemi-degisti-parlamentodan-yeni-yasaya-onay-43334189"
         },
         {
-          "title": "Dört ihtimal gündemde. İnfazdan sağ kurtulan idam mahkumunu neler bekliyor?",
-          "summary": "ABD'nin Tennessee eyaletinde zehirli iğneyle yürütülen infaz girişiminden sağ kurtulan 50 yaşındaki Christa Pike, komadan uyanarak hastanede yaşam mücadelesi vermeye başladı. ABD'nin Tennessee eyaletinde 1995 yılındaki bir cinayet nedeniyle idam cezasına çarptırılan 50 yaşındaki Christa Pike, zehirli iğneyle infaz girişiminden sağ kurtuldu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-iki-doz-zehirli-igneye-ragmen-olmedi-konusmaya-bile-basladi-1745336"
+          "title": "Nobel Edebiyat Ödülü'nün sahibi belli oldu. Rüzgarın sesini dinlerken öğrenmiş",
+          "summary": "2026 Nobel Edebiyat Ödülü'nü Kanadalı şair, deneme yazarı, çevirmen ve klasik edebiyat profesörü Anne Carson kazandı. Şairin, \"İzlanda'da rüzgarı dinlerken haberi aldığı\" öğrenildi. Merakla beklenen 2026 Nobel Edebiyat Ödülü'nün kazananı açıklandı. Ödüle bu yıl, Kanadalı bir şair, deneme yazarı, çevirmen ve klasik edebiyat profesörü olan 76 yaşındaki Anne Carson layık görüldü.",
+          "source": "https://www.ntv.com.tr/dunya/nobel-edebiyat-odulunun-sahibi-belli-oldu-1745389"
         }
       ]
     },
     "ekonomi": {
-      "text": "Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı. Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi.",
+      "text": "\"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı.",
       "items": [
+        {
+          "title": "\"Sanayimizi korurken geleceğe hazırlamalıyız\"",
+          "summary": "EGE Sanayicileri ve İş İnsanları Derneği (ESİAD), sanayinin mevcut sorunlarını ve değişen rekabet koşullarını iş dünyasının deneyimleri üzerinden ele aldığı Sanayi Çalıştayı’nın sonuçlarını rapor haline getirdi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sanayimizi-korurken-gelecege-hazirlamaliyiz-43334165"
+        },
         {
           "title": "Alman şirketleri üretimi beklentinin çok üzerinde artırdı",
           "summary": "Almanya'da sanayi, inşaat ve enerji şirketleri ağustos ayında üretimlerini beklentilerin dört katı oranında artırdı. Üretim, bir önceki aya göre yüzde 2,0 yükselirken, ekonomistler yalnızca yüzde 0,5'lik artış bekliyordu. Bu, yaklaşık bir buçuk yılın en güçlü artışı oldu.",
@@ -115,53 +120,12 @@
           "title": "Bitcoin yeniden 86 bin doların üzerine çıktı",
           "summary": "Küresel kripto para piyasasının toplam değeri son 24 saatte yüzde 2,27 artarak 2 trilyon 930 milyar dolara yükselirken, bitcoin haftalık yüzde 2,6 değer kazandı. Kripto para piyasasında hareketlilik sürerken, bitcoinin fiyatı eylül ayındaki güçlü toparlanma ve ekim ayına yönelik tarihsel yükseliş beklentilerinin etkisiyle yeniden 86 bin doların üzerine çıktı.",
           "source": "https://www.ntv.com.tr/ekonomi/bitcoin-yeniden-86-bin-dolarin-uzerine-cikti-1744517"
-        },
-        {
-          "title": "Uluslararası kredi derecelendirme kuruluşundan fon soruşturması analizi",
-          "summary": "Uluslararası kredi derecelendirme kuruluşu S&P Global Ratings'e göre fon soruşturması, Türkiye'nin kredi notunda aşağı yönlü baskı oluşturmuyor. S&P Global Ratings yetkilileri, Türkiye'de bazı fonların tasfiye sürecine ilişkin gelişmelerin ülkenin kredi notu açısından aşağı yönlü bir baskı oluşturmasının beklenmediğini açıkladı. S&P Global Ratings'in Türkiye'ye yönelik bu yılki ikinci kredi notu ve görünüm değerlendirmesini 16 Ekim'de yayınlaması bekleniyor.",
-          "source": "https://www.ntv.com.tr/ekonomi/uluslararasi-kredi-derecelendirme-kurulusundan-fon-sorusturmasi-analizi-1744478"
         }
       ]
     },
     "spor": {
-      "text": "Icardi cephesi Dursun Özbek’i yalanladı!. Göztepe'den Eyüpspor'a bilet tepkisi. A Milli Takım'ın FIFA sıralamasındaki yeri belli oldu. Bakan Osman Aşkın Bak, Formula 1 öncesi İstanbul Park'ta sürüş yaptı. İtalya'dan flaş iddia: 'Montella sonrasında A Milli Takım'ın başına Arda Turan geçecek!'. Kasımpaşalı Elson Mendes'den Galatasaray maçı öncesi iddialı açıklama: 'Kaybedecek bir şeyimiz yok!'. Galatasaray ile Kasımpaşa 45. randevuda.",
-      "items": [
-        {
-          "title": "Icardi cephesi Dursun Özbek’i yalanladı!",
-          "summary": "Galatasaray’a dönüşü gündemde olan Mauro Icardi’ye ilişkin Arjantinli golcünün menajeri konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/icardi-cephesi-dursun-ozbeki-yalanladi-43333805"
-        },
-        {
-          "title": "Göztepe'den Eyüpspor'a bilet tepkisi",
-          "summary": "Süper Lig'de milli aranın ardından deplasmanda Eyüpspor'la karşı karşıya gelecek Göztepe'de taraftarlar ve yönetim deplasman bilet fiyatına tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/goztepeden-eyupspora-bilet-tepkisi-43333820"
-        },
-        {
-          "title": "A Milli Takım'ın FIFA sıralamasındaki yeri belli oldu",
-          "summary": "A Milli Futbol Takımı, Uluslararası Futbol Federasyonları Birliği (FIFA) tarafından açıklanan ekim ayı dünya sıralamasında bin 563 puanla 31. sırada yer aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takimin-fifa-siralamasindaki-yeri-belli-oldu-43333793"
-        },
-        {
-          "title": "Bakan Osman Aşkın Bak, Formula 1 öncesi İstanbul Park'ta sürüş yaptı",
-          "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2027'den itibaren yeniden Formula 1'e ev sahipliği yapacak İstanbul Park'ta test sürüşüne çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bakan-osman-askin-bak-formula-1-oncesi-istanbul-parkta-surus-yapti-43333784"
-        },
-        {
-          "title": "İtalya'dan flaş iddia: 'Montella sonrasında A Milli Takım'ın başına Arda Turan geçecek!'",
-          "summary": "Türkiye Futbol Federasyonu'nun üst üste alınan kötü sonuçlar nedeniyle yollarını ayırmaya hazırlandığı Vincenzo Montella sonrasında A Milli Takım'ı Arda Turan'a emanet edeceği iddia edildi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/italyadan-flas-iddia-montella-sonrasinda-a-milli-takimin-basina-arda-turan-gececek-43333578"
-        },
-        {
-          "title": "Kasımpaşalı Elson Mendes'den Galatasaray maçı öncesi iddialı açıklama: 'Kaybedecek bir şeyimiz yok!'",
-          "summary": "Kasımpaşa'nın Yeşil Burun Adalı futbolcusu Elson Mendes, Galatasaray ile yapacakları maçta kaybedecek bir şeylerinin olmadığını ve sahada yüreklerini ortaya koyacaklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kasimpasali-elson-mendesden-galatasaray-maci-oncesi-iddiali-aciklama-kaybedecek-bir-seyimiz-yok-43333705"
-        },
-        {
-          "title": "Galatasaray ile Kasımpaşa 45. randevuda",
-          "summary": "Galatasaray ile Kasımpaşa, Süper Lig'de yarın 45. kez karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ile-kasimpasa-45-randevuda-43333680"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
       "text": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı.",
