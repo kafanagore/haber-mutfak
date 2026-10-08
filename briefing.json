@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-07T16:00:03.841Z",
+  "generatedAt": "2026-10-08T04:00:03.775Z",
   "categories": {
     "gundem": {
-      "text": "CHP Sözcüsü Sarı MYK gündemine ilişkin açıklamalarda bulundu. İletişim Başkanlığı'ndan Mekke Anlaşması'na ilişkin dezenformasyon uyarısı. Memurluk vaadiyle 5 kişiyi 3 milyon 570 bin lira dolandırdı! Sahte savcı yakalandı. AK Parti Sözcüsü Ömer Çelik: Fonda karanlık nokta kalmayacak. Manisa'da komşu dehşeti: Kapıyı tekmeledi, 3 gün sonra yine aynı adrese gitti. KYK burs ve kredi başvurusu 2026: GSB KYK burs ve kredi başvuruları başladı mı, ne zaman başlayacak?. İzmir ilk kez AK Parti'de. Cemil Tugay'ın rozetini Cumhurbaşkanı Erdoğan taktı.",
+      "text": "Maltepe'de 6 katlı binada çökme: Arama kurtarma ekibi sevk edildi. Borsada kazanma vaadiyle dolandırıcılığa 5 tutuklama. Konut krizinin sembolü olmuştu. 70 yıl yaşadığı evine dönemedi. Yağ fabrikasında çıkan yangın kontrol altında. Konuşmak için çağırdığı kişiyi silahla tehdit etti. TEM Otoyolu'nda feci kaza: 1 ölü, 2 yaralı. Kan donduran olay: 16 yaşındaki çocuk bıçaklanarak öldürüldü.",
       "items": [
         {
-          "title": "CHP Sözcüsü Sarı MYK gündemine ilişkin açıklamalarda bulundu",
-          "summary": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye katılmasına ilişkin, \"Muhalefet partisinden seçilmiş bir belediye başkanının başka bir partiye geçişi, hele ki siyasal mücadelesinin tamamında onun karşıtlığı üzerine kurulmuş iktidar partisine geçiyor olması, bir defa dünyada eşi benzeri olmayan ya da çok az olan ve hiçbir biçimde savunulamayan bir durumdur.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/chp-sozcusu-sari-myk-gundemine-iliskin-aciklamalarda-bulundu-43333170"
+          "title": "Maltepe'de 6 katlı binada çökme: Arama kurtarma ekibi sevk edildi",
+          "summary": "İstanbul Maltepe'de 6 katlı binanın alttaki 2 katı çöktü. Olay yerine çok sayıda arama kurtarma ekibi sevk edildi. Arama kurtarma çalışmaları sürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/maltepede-6-katli-bina-coktu-arama-kurtarma-ekibi-sevk-edildi-43333414"
         },
         {
-          "title": "İletişim Başkanlığı'ndan Mekke Anlaşması'na ilişkin dezenformasyon uyarısı",
-          "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Pakistan halkının Türkiye'nin de taraf olduğu Mekke Anlaşması'nı protesto etmek amacıyla sokaklara döküldüğü yönünde dolaşıma sokulan iddiaların tamamen gerçek dışı olduğunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskanligindan-mekke-anlasmasina-iliskin-dezenformasyon-uyarisi-43333093"
+          "title": "Borsada kazanma vaadiyle dolandırıcılığa 5 tutuklama",
+          "summary": "Mersin’de borsa hesapları açarak para kazanma vaadiyle 3 kişiyi dolandırdıkları iddia edilen 6 şüpheliden 5’i tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsada-kazanma-vaadiyle-dolandiriciliga-5-tutuklama-43333411"
         },
         {
-          "title": "Memurluk vaadiyle 5 kişiyi 3 milyon 570 bin lira dolandırdı! Sahte savcı yakalandı",
-          "summary": "İstanbul Büyükçekmece'de kendisini savcı olarak tanıtarak iş ve memurluk vaadinde bulunarak 5 kişiyi toplam 3 milyon 570 bin lira dolandırdığı belirlenen 59 yaşındaki Cüneyt A. ile birlikte hareket ettiği tespit edilen 50 yaşındaki Kadir M. yakalandı. Cüneyt A.’nın 8 ayrı suçtan 10 yıl 2 ay kesinleşmiş hapis cezasıyla arandığı ortaya çıktı. Adliyeye sevk edilen şüpheliler tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/memurluk-vaadiyle-5-kisiyi-3-milyon-570-bin-lira-dolandirdi-sahte-savci-yakalandi-43333065"
+          "title": "Konut krizinin sembolü olmuştu. 70 yıl yaşadığı evine dönemedi",
+          "summary": "Madrid'de 70 yıldan fazla süre kiracı olarak yaşadığı evinden zorla tahliye edilmesi nedeniyle konut protestolarının fitilini ateşleyen 87 yaşındaki Maricarmen Abascal hayatını kaybetti. İspanya'nın başkenti Madrid'de, 87 yaşındaki emekli Maricarmen Abascal'ın, fahiş zam yapılan kirasını artık ödeyememesi üzerine polis zoruyla evden çıkarılması sonrası başlayan protesto gösterileri, ülke geneline yayıldı. Ülkedeki barınma krizini protesto eden yüz binlerce kişi sokaklara döküldü.",
+          "source": "https://www.ntv.com.tr/turkiye/konut-krizinin-sembolu-olmustu-70-yil-yasadigi-evine-donemedi-1745306"
         },
         {
-          "title": "AK Parti Sözcüsü Ömer Çelik: Fonda karanlık nokta kalmayacak",
-          "summary": "AK Partisi Sözcüsü Ömer Çelik, \"Hakları gasp edilenler müsterih olsun.\" diyerek fon krizi sürecinde karanlık noktanın kalmayacağını belirtti. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Merkez Yürütme Kurulu (MYK) toplantısı sonrası açıklama yaptı. Ömer Çelik, bugün AK Parti'ye geçen İzmir Büyükşehir Belediye Başkanı'na “hoş geldin\" gelen eleştirilere yönelik de Cemil Tugay'ın kendi değerlendirmesini ortaya koyduğunu söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/ak-parti-sozcusu-omer-celik-fonda-karanlik-nokta-kalmayacak-1745272"
+          "title": "Yağ fabrikasında çıkan yangın kontrol altında",
+          "summary": "Balıkesir'in Bandırma ilçesinde yağ fabrikasında çıkan yangın kontrol altına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yag-fabrikasinda-cikan-yangin-kontrol-altina-alindi-43333407"
         },
         {
-          "title": "Manisa'da komşu dehşeti: Kapıyı tekmeledi, 3 gün sonra yine aynı adrese gitti",
-          "summary": "Manisa’da komşusunun çelik kapısına zarar verdiği gerekçesiyle gözaltına alınıp serbest bırakılan 69 yaşındaki Hurisimal Ç., 3 gün sonra aynı adrese giderek yeni takılan kapıya tekme attı. Olay, 23 Eylül'de Şehzadeler ilçesinde meydana geldi. İddiaya göre Hurisimal Ç., henüz belirlenemeyen bir nedenle komşusu Musa Efe'nin evinin çelik kapısına matkap ve sert cisimlerle zarar verdikten sonra kendisini eve kilitledi. Polisin yürüttüğü çalışmada Hurisimal Ç.'nin kızına ulaşıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-manisada-komsu-dehseti-kapiyi-tekmeledi-3-gun-sonra-yine-ayni-adrese-gitti-1745278"
+          "title": "Konuşmak için çağırdığı kişiyi silahla tehdit etti",
+          "summary": "İstanbul Beylikdüzü'nde bir kişi, konuşmak için çağırdığı adamı silahla tehdit ederek hakaret etti. Yaşanan olay cep telefonu kamerasıyla kaydedilirken, E.T.'nin elindeki silahla görüntü aldığı ve silahla ateş ettiği anlar da kameraya yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/konusmak-icin-cagirdigi-kisiyi-silahla-tehdit-etti-43333406"
         },
         {
-          "title": "KYK burs ve kredi başvurusu 2026: GSB KYK burs ve kredi başvuruları başladı mı, ne zaman başlayacak?",
-          "summary": "Üniversite kayıt maratonunun tamamlanması ve akademik yılın başlamasıyla birlikte milyonlarca öğrencinin gözü 2026 KYK burs ve kredi başvurularına çevrildi. 2026 KYK burs ve kredi başvuruları için geri sayım sürmeye devam ediyor. Üniversiteye yeni kayıt yaptıran birçok öğrenci, eğitim hayatlarına maddi destek sağlaması için KYK burs ve kredi başvurularının başlayacağı tarihi merak ediyor. Peki, 2026 KYK burs ve kredi başvuruları başladı mı, ne zaman başlar? 2026 KYK BURS BAŞVURULARI NE ZAMAN?",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kyk-burs-ve-kredi-basvurusu-2026-gsb-kyk-burs-ve-kredi-basvurulari-basladi-mi-ne-zaman-baslayacak-1745277"
+          "title": "TEM Otoyolu'nda feci kaza: 1 ölü, 2 yaralı",
+          "summary": "İstanbul Kağıthane’de aynı yönde seyir halindeki taksiye arkadan çarpan otomobil bariyerlere savruldu. Otomobilin sürücüsü, kaldırıldığı hastanede hayatını kaybetti, 2 kişi yaralandı. Kaza nedeniyle TEM Otoyolu Ankara istikametinde kilometrelerce trafik yoğunluğu oluştu.",
+          "source": "https://www.hurriyet.com.tr/gundem/tem-otoyolunda-feci-kaza-1-olu-2-yarali-43333405"
         },
         {
-          "title": "İzmir ilk kez AK Parti'de. Cemil Tugay'ın rozetini Cumhurbaşkanı Erdoğan taktı",
-          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AK Parti'ye katıldı. Cumhurbaşkanı Erdoğan tarafından rozeti takılan Tugay, \"AK Parti kimsesizlerin kimsesidir.\" dedi. Üç ay önce istinaf mahkemesinin mutlak butlan kararı sonrası CHP'den istifa ederek yoluna bağımsız devam etme kararı alan İzmir Büyükşehir Belediye Başkanı Cemil Tugay, bugün AK Parti'ye katıldı. Tugay'ın rozetini Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Milletvekilleri ile Yasama Yılı Açılış Toplantısı'nda taktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-izmir-ilk-kez-ak-partide-cemil-tugayin-rozetini-cumhurbaskani-erdogan-takti-1745195"
+          "title": "Kan donduran olay: 16 yaşındaki çocuk bıçaklanarak öldürüldü",
+          "summary": "Gaziantep'te tartıştığı 2 kişi tarafından göğüs ve kasık bölgesinden bıçaklanan Suriye uyruklu Muhammed Salih (16), kaldırıldığı hastanede hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/kan-donduran-olay-16-yasindaki-cocuk-bicaklanarak-olduruldu-43333404"
         }
       ]
     },
     "dunya": {
-      "text": "Karadeniz'de üçlü güvenlik hamlesi: Bulgaristan, Türkiye ve Romanya'yı istişareye çağıracak. ABD'de 'biyolojik silah' korkusu: Rusya'dan kanıt istedi. Büyük skandal. Eski CIA yetkilisi devleti 195 milyon dolar dolandırdığını itiraf etti. Almanya'da belediyeler köpek vergisinden 430 milyon euro kazandı. Polonya'da bıçaklı öğrenci okulda dehşet saçtı: 7 yaralı. Belçika'daki tartışma büyüyor. Avrupa Birliği devreye girdi: Tüketicilerin bilgilendirin. Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı.",
+      "text": "Trump, Nobel'in peşini bırakmıyor. \"İtibarını kaybeder\". Tutanaklar yayımlandı… Fed’den bir faiz artış sinyali daha. ABD Başkanı Trump’tan İran açıklaması: Çok hızlı şekilde sona erecek. Suudi Arabistan açıkladı… Husiler, 2 havalimanını vurdu, çok sayıda ölü ve yaralı var... Karşılıklı peş peşe açıklamalar. Trump: Türkiye Suudi Arabistan'a yardım etmek istiyor, bence bu harika. Rusya’daki gizemli salgın ‘biyolojik silah’ mı? Trump’tan iddialara cevap. AB’den Çin’e ihracat freni: Hibrit araçlar masada.",
       "items": [
         {
-          "title": "Karadeniz'de üçlü güvenlik hamlesi: Bulgaristan, Türkiye ve Romanya'yı istişareye çağıracak",
-          "summary": "Bulgaristan Cumhurbaşkanı İliyana Yotova, Karadeniz'de ticari gemilere yönelik saldırıların ardından Türkiye ve Romanya ile acil istişarelerde bulunacaklarını açıkladı. Bulgaristan, Karadeniz'de ticari gemileri hedef alan son saldırıların ardından Türkiye ve Romanya ile ortak hareket etmek için girişimde bulunacak. Bulgaristan Cumhurbaşkanı İliyana Yotova, Ulusal Güvenlik Danışma Konseyi'nin (KSNS) deniz güvenliği gündemiyle düzenlenen olağanüstü toplantısının ardından açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/karadenizde-uclu-guvenlik-hamlesi-bulgaristan-turkiye-ve-romanyayi-istisareye-cagiracak-1745283"
+          "title": "Trump, Nobel'in peşini bırakmıyor. \"İtibarını kaybeder\"",
+          "summary": "ABD Başkanı Donald Trump, Nobel Barış Ödülü'nü hak ettiğini tekrarlayıp ekledi: Ödülü almasam da çok şey başardım ve bence bu, onlar için büyük itibar kaybı olur. Ocak 2025'te yeniden ABD Başkanı seçilip Beyaz Saray'a dönmesinin ardından Nobel Barış Ödülü'nün kendisine verilmesi için kampanya yürüten Donald Trump, bu yıl da talebinden vazgeçmedi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-nobelin-pesini-birakmiyor-itibarini-kaybeder-1745307"
         },
         {
-          "title": "ABD'de 'biyolojik silah' korkusu: Rusya'dan kanıt istedi",
-          "summary": "Rusya'da yaşanan gizemli ölüm ABD'de biyolojik silah ve mutasyon korkusunu gündeme getirdi. Washington, Moskova'dan olayın perde arkasına ilişkin daha fazla bilgi ve kanıt istedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-biyolojik-silah-korkusu-rusyadan-kanit-istedi-43333133"
+          "title": "Tutanaklar yayımlandı… Fed’den bir faiz artış sinyali daha",
+          "summary": "ABD Merkez Bankasının (Fed) son toplantısına ilişkin tutanakları, yıl sonuna kadar politika faizinde bir artışa daha gidilmesinin muhtemel olduğunu ortaya koydu.",
+          "source": "https://www.hurriyet.com.tr/dunya/tutanaklar-yayimlandi-fedden-bir-faiz-artis-sinyali-daha-43333355"
         },
         {
-          "title": "Büyük skandal. Eski CIA yetkilisi devleti 195 milyon dolar dolandırdığını itiraf etti",
-          "summary": "ABD'de eski bir üst düzey CIA yetkilisi, sözde \"gizli programlar\" uydurarak devletten 195 milyon dolardan fazla para aldığına ilişkin dolandırıcılık suçlamalarını kabul etti. Washington Post gazetesinin haberine göre, teşkilattan ayrılmadan önce ABD Merkezi Haberalma Teşkilatı'nın (CIA) casusluk operasyonlarında kullanılan teknolojileri geliştiren Bilim ve Teknoloji Direktörlüğünde üst düzey yönetici olarak görev yapan David Rush'a ilişkin duruşma, ABD'nin Virginia eyaletindeki federal mahkemede görüldü.",
-          "source": "https://www.ntv.com.tr/dunya/buyuk-skandal-eski-cia-yetkilisi-devleti-195-milyon-dolar-dolandirdigini-itiraf-etti-1745276"
+          "title": "ABD Başkanı Trump’tan İran açıklaması: Çok hızlı şekilde sona erecek",
+          "summary": "ABD Başkanı Donald Trump, İran'ın nükleer silaha sahip olmaması misyonunu tamamladıklarını savunarak, \"Bu durum, çok hızlı şekilde sona erecek.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-iran-aciklamasi-cok-hizli-sekilde-sona-erecek-43333337"
         },
         {
-          "title": "Almanya'da belediyeler köpek vergisinden 430 milyon euro kazandı",
-          "summary": "Almanya'da belediyelerin köpek sahiplerinden aldığı verginin tutarı, 2025 yılında 429,7 milyon euro olarak kayıtlara geçti. Köpek vergisi gelirleri son 10 yılda yüzde 33,4 artış gösterdi. 2024'TE REKOR KIRILMIŞTI Almanya Federal İstatistik Ofisi (Destatis), 10 Ekim Dünya Köpek Günü dolayısıyla köpek vergisi gelirleri ve evcil hayvan harcamalarına ilişkin verileri açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-belediyeler-kopek-vergisinde-430-milyon-euro-kazandi-1745257"
+          "title": "Suudi Arabistan açıkladı… Husiler, 2 havalimanını vurdu, çok sayıda ölü ve yaralı var... Karşılıklı peş peşe açıklamalar",
+          "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Abha'daki Abha Uluslararası Havalimanı ile başkent Riyad'daki Kral Halid Uluslararası Havalimanı'na dün ve bugün düzenlenen saldırılarda 3 kişinin hayatını kaybettiğini, 36 kişinin yaralandığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistan-acikladi-husiler-abha-ve-riyaddaki-havalimanlarini-vurdu-cok-sayida-olu-ve-yarali-var-43333326"
         },
         {
-          "title": "Polonya'da bıçaklı öğrenci okulda dehşet saçtı: 7 yaralı",
-          "summary": "Polonya'nın Ostroleka kentindeki bir okulda 19 yaşındaki öğrencinin gerçekleştirdiği bıçaklı saldırı sonucu 1'i öğretmen olmak üzere 7 kişi yaralandı. Saldırgan öğrenci yakalanarak gözaltına alındı. Polonya'nın kuzeydoğusundaki Mazovya Voyvodalığı'nda yer alan Ostroleka şehrindeki bir okulda yerel saatle 11.00 civarında 19 yaşındaki öğrenci, diğer öğrencilere ve bir öğretmene bıçakla saldırdı. “YARALILARDAN İKİSİNİN DURUMU AĞIR” Polisten yapılan açıklamada, öğretmen ve 6 kişinin yaralandığı aktarıldı.",
-          "source": "https://www.ntv.com.tr/dunya/polonyada-bicakli-ogrenci-okulda-dehset-sacti-7-yarali-1745263"
+          "title": "Trump: Türkiye Suudi Arabistan'a yardım etmek istiyor, bence bu harika",
+          "summary": "ABD Başkanı Donald Trump, Türkiye'nin Suudi Arabistan'a yardım etmek istediğini belirterek, \"Bence bu harika.\" dedi. ABD Başkanı Donald Trump, Teksas'a hareketinden önce gazetecilerin sorularını yanıtladı. Trump, Ortadoğu'daki gelişmelere ilişkin değerlendirmesinde “Türkiye Suudi Arabistan'a yardım etmek istiyor. Bence bu harika.” ifadelerini kullandı. Açıklama, Türkiye, Suudi Arabistan ve Pakistan arasında Mekke Savunma İttifakı kapsamında savunma ve güvenlik alanındaki temasların arttığı bir dönemde geldi.",
+          "source": "https://www.ntv.com.tr/dunya/trump-turkiye-suudi-arabistana-yardim-etmek-istiyor-bence-bu-harika-1745296"
         },
         {
-          "title": "Belçika'daki tartışma büyüyor. Avrupa Birliği devreye girdi: Tüketicilerin bilgilendirin",
-          "summary": "AB Komisyonu, Belçika'da bazı etli atıştırmalıklarda at DNA'sı tespit edilmesinin ardından, tüketicilerin satın aldıkları gıdalar hakkında açık ve doğru bilgilendirilmesi gerektiğini bildirdi. Avrupa Birliği (AB) Komisyonu'nun günlük basın toplantısında, hayvan hakları kuruluşu GAIA'nın Belçika'daki patates kızartması ve atıştırmalık satan işletmelerde yaptırdığı araştırma gündeme geldi.",
-          "source": "https://www.ntv.com.tr/dunya/belcikadaki-tartisma-buyuyor-avrupa-birligi-devreye-girdi-tuketicilerin-bilgilendirin-1745271"
+          "title": "Rusya’daki gizemli salgın ‘biyolojik silah’ mı? Trump’tan iddialara cevap",
+          "summary": "ABD Başkanı Donald Trump, Rusya'da ortaya çıkan salgın şüphesinin \"biyolojik bir silah\" kaynaklı olduğunu düşünmediklerini ve durumun kontrol altında olduğunu umduklarını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadaki-gizemli-salgin-biyolojik-silah-mi-trumptan-iddialara-cevap-43333287"
         },
         {
-          "title": "Yemen'de Husiler, Aden Uluslararası Havalimanı'nı hedef aldı",
-          "summary": "Yemen'de İran destekli Husilerin, ülkenin güneyindeki Aden Uluslararası Havalimanı'nı balistik füzeler ve insansız hava araçlarıyla (İHA) hedef aldığı bildirildi. Aden İl Emniyet Müdürlüğünün Facebook hesabından yapılan açıklamada, Husilerin Aden Uluslararası Havalimanı'nı 2 füzeyle hedef aldığı belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/yemende-husiler-aden-uluslararasi-havalimanini-hedef-aldi-1745153"
+          "title": "AB’den Çin’e ihracat freni: Hibrit araçlar masada",
+          "summary": "Avrupa Birliği (AB), Çin’in Avrupa pazarına yönelik hızla artan ihracatını sınırlamak amacıyla Pekin’le kritik ticaret görüşmelerine hazırlanıyor. AB Ticaret Komiseri Maroš Šefčovič ve beraberindeki heyetin çarşamba günü Çin’e gitmesi, görüşmelerin ise perşembe günü başlayıp cuma gecesine kadar sürmesi bekleniyor. Tarafların, Çin’in AB karşısında günlük yaklaşık 1 milyar euro'yu ticaret fazlasını azaltmaya yönelik somut adımlar üzerinde çalışacağı belirtiliyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abden-cine-ihracat-freni-hibrit-araclar-masada-1745287"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Monaco Basket iflas başvurusunda bulundu. Arsenal, Mikel Arteta'nın sözleşmesini uzattı!. MHK açıkladı: Süper Lig’de hakemleri Anthony Taylor atayacak!. Beşiktaş’ta Serdal Adalı ve yönetim kurulu üyeleri mazbatalarını aldı. Obradovic'ten Fenerbahçe açıklaması: 'Önümüzde çok zor bir maç var, dikkatli olmalıyız!'. Jose Mourinho'dan kritik Arda Güler kararı! Mbappe tercihi tepki toplamıştı. Yelken yarışları Foça’ya renk kattı.",
+      "text": "Fenerbahçe'den Brezilya taarruzu! Harekete geçildi. Çimsa ÇBK Mersin 71-79 Fenerbahçe Tarfin (FIBA Kadınlar Süper Kupa finali). Beşiktaş yönetiminde görev dağılımı yapıldı. Cristiano Ronaldo'dan Messi'ye mesaj: Sonsuza dek yaşayacak tarih yazdın. Ronaldo'ya sert çıkıştı! 'Neden özel muamele görmek zorunda? Böyle görmedim!'. Galatasaray Kulüp Doktoru Yener İnce'den Osimhen, Singo, Sallai, Lemina açıklaması: Kronik sakatlığı yok. Monaco Basket iflas başvurusunda bulundu.",
       "items": [
+        {
+          "title": "Fenerbahçe'den Brezilya taarruzu! Harekete geçildi",
+          "summary": "Fenerbahçe, ocak transfer sezonunda kadrosuna katmak istediği golcü için hamlesini yapıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-brezilya-taarruzu-harekete-gecildi-43333302"
+        },
+        {
+          "title": "Çimsa ÇBK Mersin 71-79 Fenerbahçe Tarfin (FIBA Kadınlar Süper Kupa finali)",
+          "summary": "Fenerbahçe Tarfin, FIBA Kadınlar Süper Kupa finalinde Çimsa ÇBK Mersin'i mağlup ederek kupayı müzesine götürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cimsa-cbk-mersin-71-79-fenerbahce-tarfin-fiba-kadinlar-super-kupa-finali-43333294"
+        },
+        {
+          "title": "Beşiktaş yönetiminde görev dağılımı yapıldı",
+          "summary": "Beşiktaş'ta Başkan Serdal Adalı'nın yeniden seçilmesinin ardından görev dağılımı belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-yonetiminde-gorev-dagilimi-yapildi-43333283"
+        },
+        {
+          "title": "Cristiano Ronaldo'dan Messi'ye mesaj: Sonsuza dek yaşayacak tarih yazdın",
+          "summary": "Portekizli efsane Cristiano Ronaldo, Arjantin milli takım kariyerini sonlandıran Messi'ye sosyal medyadan mesaj yolladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cristiano-ronaldodan-messiye-mesaj-sonsuza-dek-yasayacak-tarih-yazdin-43333274"
+        },
+        {
+          "title": "Ronaldo'ya sert çıkıştı! 'Neden özel muamele görmek zorunda? Böyle görmedim!'",
+          "summary": "Portekiz futbolunun önemli isimlerinden Antonio Simoes, Cristiano Ronaldo hakkında konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ronaldoya-sert-cikisti-neden-ozel-muamele-gormek-zorunda-boyle-gormedim-43333221"
+        },
+        {
+          "title": "Galatasaray Kulüp Doktoru Yener İnce'den Osimhen, Singo, Sallai, Lemina açıklaması: Kronik sakatlığı yok",
+          "summary": "Galatasaray Kulüp Doktoru Yener İnce, sarı kırmızılılardaki sakatlıklara ilişkin son bilgileri aktardı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kulup-doktoru-yener-inceden-osimhen-singo-sallai-lemina-aciklamasi-kronik-sakatligi-yok-43333140"
+        },
         {
           "title": "Monaco Basket iflas başvurusunda bulundu",
           "summary": "Fransa basketbolunun ve EuroLeague'in son yıllardaki en başarılı ekiplerinden Monaco Basket, iflas başvurusunda bulunduğunu duyurdu.",
           "source": "https://www.hurriyet.com.tr/sporarena/monaco-basket-iflas-basvurusunda-bulundu-43333132"
-        },
-        {
-          "title": "Arsenal, Mikel Arteta'nın sözleşmesini uzattı!",
-          "summary": "Arsenal, Teknik Direktör Mikel Arteta’nın sözleşmesinin 2030 yılına kadar uzatıldığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arsenal-mikel-artetanin-sozlesmesini-uzatti-43333105"
-        },
-        {
-          "title": "MHK açıkladı: Süper Lig’de hakemleri Anthony Taylor atayacak!",
-          "summary": "MHK, Süper Lig hakem atamalarının Anthony Taylor, 1. Lig hakem atamalarının ise Alan Snoddy’nin teknik değerlendirmeleri doğrultusunda yapıldığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-hakemleri-anthony-taylor-atayacak-43333081"
-        },
-        {
-          "title": "Beşiktaş’ta Serdal Adalı ve yönetim kurulu üyeleri mazbatalarını aldı",
-          "summary": "Beşiktaş’ta hafta sonunda gerçekleştirilen olağanüstü seçimli genel kurulda yeniden başkanlığa seçilen Serdal Adalı ve yönetim kurulu üyeleri düzenlenen törenle mazbatalarını aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-serdal-adali-ve-yonetim-kurulu-uyeleri-mazbatalarini-aldi-43333026"
-        },
-        {
-          "title": "Obradovic'ten Fenerbahçe açıklaması: 'Önümüzde çok zor bir maç var, dikkatli olmalıyız!'",
-          "summary": "EuroLeague'in 4. haftasında yarın Fenerbahçe Tarfin'i konuk edecek olan Panathinaikos'ta başantrenör Zeljko Obradovic, karşılaşma öncesi açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/obradovicten-fenerbahce-aciklamasi-onumuzde-cok-zor-bir-mac-var-dikkatli-olmaliyiz-43332954"
-        },
-        {
-          "title": "Jose Mourinho'dan kritik Arda Güler kararı! Mbappe tercihi tepki toplamıştı",
-          "summary": "Real Madrid teknik direktörü Jose Mourinho, merakla beklenen ve tartışma konusu olan takımdaki duran top kullanıcıları konusunda sonunda net kararını verdi. İspanyol basını, Portekizli hocanın milli futbolcu Arda Güler'i ilk sıraya yazdığını duyurdu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/jose-mourinhodan-kritik-arda-guler-karari-mbappe-tercihi-tepki-toplamisti-43332855"
-        },
-        {
-          "title": "Yelken yarışları Foça’ya renk kattı",
-          "summary": "Türkiye Yelken Federasyonu (TYF) Yelken Ligi 1’inci Ayak MW Phokaia Beach Resort Kupası Techno 293 Yarışları Foça’da gerçekleştirildi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/yelken-yarislari-focaya-renk-katti-43332854"
         }
       ]
     },
