@@ -1,60 +1,75 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-08T16:00:04.402Z",
+  "generatedAt": "2026-10-09T04:00:04.118Z",
   "categories": {
     "gundem": {
-      "text": "Girne’deki gemi kazasında 2 kişinin kimliği belirlendi. Bakan Kacır, Türk ve yabancı astronotlar ile Salda Gölü’nde bilim merkezi açtı. Evdeki tartışma ölümle bitti! Eşini tabancayla öldüren kadın gözaltına alındı. Ordu’da oğlunun katilinin evini basan anne silahla öldürüldü. Nevşehir’deki Göreme Kavşağı’nda can pazarı: Takla atan otomobilin sürücüsü ve eşi öldü. DEM Parti İmralı Heyeti AK Parti heyetiyle görüştü. Maltepe'deki binada duvardaki çatakları görüntüleyen işletmeci: \"Kolon kesme durumu yok\".",
+      "text": "Kayseri'de korkunç kaza: 3 ölü, 1 yaralı. Bakan Göktaş'tan milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu. Tarım ve Orman Bakanı Yumaklı'dan, Bakanlar Bolat ve Göktaş'a destek açıklaması. AK Parti Genel Başkan Yardımcısı Acar'dan fon soruşturmasına ilişkin iddialara tepki: Düpedüz ahlaksızlık. MİT Başkanı Kalın, Suriye Dışişleri Bakanı Şeybani ile Ankara'da görüştü. Bakan Kacır'dan uzay meraklılarına davet. Silahla vurulmuş halde bulunmuştu… Vali yardımcısı hayatını kaybetti.",
       "items": [
         {
-          "title": "Girne’deki gemi kazasında 2 kişinin kimliği belirlendi",
-          "summary": "KUZEY Kıbrıs Türk Cumhuriyeti Başbakanlığı, 30 Ağustos'ta Girne açıklarında meydana gelen gemi kazasının ardından sürdürülen arama çalışmalarında cesedi bulunan iki kişinin kimlik tespit işlemlerinin tamamlandığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/girnedeki-gemi-kazasinda-2-kisinin-kimligi-belirlendi-43334484"
+          "title": "Kayseri'de korkunç kaza: 3 ölü, 1 yaralı",
+          "summary": "Kayseri’nin İncesu ilçesinde iki otomobilin çarpıştığı kazada 3 kişi öldü, 1 kişi yaralandı. Yaralanan sürücü Halil Özdemir’in, HAK-İŞ Genel Başkan Yardımcısı ve Hizmet-İş Sendikası Genel Başkanvekili olduğu belirtildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-korkunc-kaza-3-olu-1-yarali-43334765"
         },
         {
-          "title": "Bakan Kacır, Türk ve yabancı astronotlar ile Salda Gölü’nde bilim merkezi açtı",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"2027'nin ilk aylarında uzaya uğurlamayı öngördüğümüz, millî kabiliyetlerimizin eseri uzay aracımızla Ay yörüngesinde bilimsel araştırmalar gerçekleştireceğiz. Bütün bu iddialı projelerin arkasında kararlı bir irade; bilim insanlarımızın, mühendislerimizin, teknisyenlerimizin emeği var. Hiçbir engel tanımayan, bu ülke için gece gündüz çalışan, Türkiye'ye vurulmaya çalışılan prangaları parçalayan Türk gençliği var.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-turk-ve-yabanci-astronotlar-ile-salda-golunde-bilim-merkezi-acti-43334473"
+          "title": "Bakan Göktaş'tan milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu",
+          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, fon soruşturmasına ilişkin iddialar nedeniyle Yeni Parti milletvekilleri Ümit Özlale ve Cemal Enginyurt hakkında suç duyurusunda bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-goktastan-milletvekilleri-ozlale-ve-enginyurt-hakkinda-suc-duyurusu-43334754"
         },
         {
-          "title": "Evdeki tartışma ölümle bitti! Eşini tabancayla öldüren kadın gözaltına alındı",
-          "summary": "Manisa’nın Salihli ilçesinde Şinda Yakut G., henüz belirlenemeyen nedenle tartıştığı eşi Rıdvan G.’yi tabancayla vurarak öldürdü. Olayın ardından kadın gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/evdeki-tartisma-olumle-bitti-esini-tabancayla-olduren-kadin-gozaltina-alindi-43334428"
+          "title": "Tarım ve Orman Bakanı Yumaklı'dan, Bakanlar Bolat ve Göktaş'a destek açıklaması",
+          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, haklarında ortaya atılan iddialara karşı Ticaret Bakanı Ömer Bolat ve Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'a destek verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tarim-ve-orman-bakani-yumaklidan-bakanlar-bolat-ve-goktasa-destek-aciklamasi-43334753"
         },
         {
-          "title": "Ordu’da oğlunun katilinin evini basan anne silahla öldürüldü",
-          "summary": "Ordu’nun Korgan ilçesinde 2 gün önce yol verme kavgasında bıçaklanarak öldürülen Orhan Artça’nın annesi Nezaket Artça, gittiği cinayet şüphelisinin evinde tabancayla vurularak öldürüldü. Olayda 1 kişi de yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/orduda-oglunun-katilinin-evini-basan-anne-silahla-olduruldu-43334388"
+          "title": "AK Parti Genel Başkan Yardımcısı Acar'dan fon soruşturmasına ilişkin iddialara tepki: Düpedüz ahlaksızlık",
+          "summary": "AK Parti Genel Başkan Yardımcısı Faruk Acar, \"Kasıtlı biçimde yalan haber üreten, mesnetsiz ithamları dolaşıma sokan ve insanların itibarını hedef alan herkes hakkında gerekli hukuki yollara başvuracağız.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-acardan-fon-sorusturmasina-iliskin-iddialara-tepki-dupeduz-ahlaksizlik-43334749"
         },
         {
-          "title": "Nevşehir’deki Göreme Kavşağı’nda can pazarı: Takla atan otomobilin sürücüsü ve eşi öldü",
-          "summary": "Nevşehir-Avanos kara yolundaki kavşakta meydana gelen kazada kamyonetle çarpışan otomobil takla attı. Olayda Nurettin ve Sıddık Turgut çifti yaşamını yitirirken, 1 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/nevsehirdeki-goreme-kavsaginda-can-pazari-takla-atan-otomobilin-surucusu-ve-esi-oldu-43334369"
+          "title": "MİT Başkanı Kalın, Suriye Dışişleri Bakanı Şeybani ile Ankara'da görüştü",
+          "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile Ankara'da bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mit-baskani-kalin-suriye-disisleri-bakani-seybani-ile-ankarada-gorustu-43334685"
         },
         {
-          "title": "DEM Parti İmralı Heyeti AK Parti heyetiyle görüştü",
-          "summary": "DEM Parti İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar, AK Parti heyetiyle görüştü. Görüşmede sürecin geldiği aşama ve izlenecek adımlar değerlendirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-kritik-temas-dem-parti-imrali-heyeti-ak-parti-heyetiyle-gorustu-43334353"
+          "title": "Bakan Kacır'dan uzay meraklılarına davet",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, uzay ve teknolojiye ilgi duyan herkesi 77. Uluslararası Uzay Kongresi'nin (IAC 2026) Halk Günü'ne davet etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-uzay-meraklilarina-davet-43334682"
         },
         {
-          "title": "Maltepe'deki binada duvardaki çatakları görüntüleyen işletmeci: \"Kolon kesme durumu yok\"",
-          "summary": "Maltepe’de 7 katlı binanın 3 katı çöktü: 2 kişi hayatını kaybetti, 3’ü çocuk 10 kişi yaralandı. Çatlakları kaydeden Fatma Kaya’nın görüntüleri ortaya çıktı. Cevizli Mahallesi Doğu Sokak’ta 7 katlı binanın alttaki 3 katı henüz belirlenemeyen nedenle sabah erken saatlerde çöktü. İhbar üzerine olay yerine çok sayıda itfaiye, sağlık, polis ve arama kurtarma ekibi sevk edildi. Üst katlarda bulunanlar, ekiplerin çalışmasıyla kurtarıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-maltepedeki-binada-duvardaki-cataklari-goruntuleyen-isletmeci-kolon-kesme-durumu-yok-1745442"
+          "title": "Silahla vurulmuş halde bulunmuştu… Vali yardımcısı hayatını kaybetti",
+          "summary": "AFYONKARAHİSAR Vali Yardımcısı İhsan Ayrancı (46), kentteki bir otelin otoparkında aracında silahla başından vurulmuş halde bulundu. Hastaneye kaldırılan Ayrancı kurtarılamadı.",
+          "source": "https://www.hurriyet.com.tr/gundem/silahla-vurulmus-halde-bulunmustu-vali-yardimcisi-hayatini-kaybetti-43334675"
         }
       ]
     },
     "dunya": {
-      "text": "Rusya'dan '2. ölüm' iddiasına yanıt. ABD gazetesinden çarpıcı iddia: Raporları İsrail lehine değiştirdi. Denizde boğulan 3 kız kardeşin ölümü \"toplu intihar\" çıktı. Anneleri de gölde canına kıymış. İran'dan ABD'ye rest! 'Hakkımızdan vazgeçmeyeceğiz'. İsrail'de Türkiye endişesi: Mekke İttifakı mercek altında. İtalya'da seçim sistemi değişti: Parlamentodan yeni yasaya onay. Nobel Edebiyat Ödülü'nün sahibi belli oldu. Rüzgarın sesini dinlerken öğrenmiş.",
+      "text": "İsrailli profesörün katliam planı. 700 kişiyi katledecekti. New York'ta ICE ajanı göçmeni vurdu. USS Abraham Lincoln, 265 günlük rekorun ardından ABD'ye döndü. 90 yıl sonra bir ilk. Halka açık şekilde kurşuna dizilerek idam edilecek. Yapay zekâ artık reçete yazacak. Denizde boğulan 3 kız kardeşin ölümü \"toplu intihar\" çıktı. Anneleri de gölde canına kıymış. Beyaz Saray'da gündem olan kadın: Susan Dell kimdir?.",
       "items": [
         {
-          "title": "Rusya'dan '2. ölüm' iddiasına yanıt",
-          "summary": "Rusya İnsan Sağlığı ve Tüketiciyi Koruma Kurumu (Rospotrebnadzor), Sibirya'daki bir veba araştırma laboratuvarında çalışan ve geçtiğimiz hafta hayatını kaybeden personelle temaslı birinin hastalandığı iddialarını yalanladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-2-olum-iddiasina-yanit-43334442"
+          "title": "İsrailli profesörün katliam planı. 700 kişiyi katledecekti",
+          "summary": "İsrail'deki Bar İlan Üniversitesi'nde görevli matematik profesörünün, İsrailli Araplara yönelik eş zamanlı saldırılar düzenlemek için 72 kişilik bir terör timi kurmaya çalıştığı ortaya çıktı. İsrail, bir üniversite profesörünün kurguladığı kanlı terör planıyla çalkalanıyor. İsrail medyası, Bar İlan Üniversitesi'nde görev yapan 60 yaşındaki Şahar Nevo adlı matematik profesörünün İsrailli Araplara yönelik büyük bir terör saldırısı planladığı gerekçesiyle tutuklandığını yazdı.",
+          "source": "https://www.ntv.com.tr/dunya/israilli-profesorun-katliam-plani-700-kisiyi-katledecekti-1745468"
         },
         {
-          "title": "ABD gazetesinden çarpıcı iddia: Raporları İsrail lehine değiştirdi",
-          "summary": "New York Times (NYT) gazetesi, ABD'nin İsrail Büyükelçisi Mike Huckabee’nin baş danışmanlarından David Milstein isimli diplomatın, Binyamin Netanyahu hükümetini olumlu şekilde göstermek amacıyla bilgi çarpıttığını öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-gazetesinden-carpici-iddia-raporlari-israil-lehine-degistirdi-43334427"
+          "title": "New York'ta ICE ajanı göçmeni vurdu",
+          "summary": "ABD'nin New York kentinde Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) ajanlarının düzenlediği operasyon sırasında 28 yaşındaki bir göçmenin vurulması tepkilere neden oldu. Araçta 5 yaşında bir çocuğun da bulunduğu olayın ardından bölgede protestolar başladı. New York Belediye Başkanı Zohran Mamdani, Başkan Donald Trump'tan kentteki ICE operasyonlarını durdurmasını isteyeceğini açıklarken, New York Valisi Kathy Hochul federal makamlardan şeffaflık talep etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/new-yorkta-ice-ajani-gocmeni-vurdu-43334767"
+        },
+        {
+          "title": "USS Abraham Lincoln, 265 günlük rekorun ardından ABD'ye döndü",
+          "summary": "İran Savaşı için 265 gün açık deniz görevi yürüten, küflü duşlar, bozuk tuvaletler ve intihar girişimleriyle gündemden düşmeyen USS Abraham Lincoln, 5 bin denizci ve piyadeyle ABD'ye döndü. Amerikan ordusunun, yaklaşık 9 aydır denizaşırı görevde olan ve bu sürenin büyük bölümünü Orta Doğu'da geçiren uçak gemisi USS Abraham Lincoln, San Diego Körfezi'nde törenle karşılandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-uss-abraham-lincoln-265-gunluk-rekorun-ardindan-abdye-dondu-1745467"
+        },
+        {
+          "title": "90 yıl sonra bir ilk. Halka açık şekilde kurşuna dizilerek idam edilecek",
+          "summary": "ABD yönetimi, 1936'dan sonra ilk kez bir idam mahkumunu halka açık infaz etmeye hazırlanıyor. Savunma Bakanı, 2009'daki Fort Hood Üssü saldırganının halka açık şekilde kurşuna dizileceğini söyledi. ABD kamuoyunda, Tennessee eyaletinde zehirli iğneyle yürütülen infaz girişiminden sağ kurtulan ilk idam mahkumu Christa Pike'ın ardından yeni bir idam tartışması başladı.",
+          "source": "https://www.ntv.com.tr/dunya/90-yil-sonra-bir-ilk-halka-acik-sekilde-kursuna-dizilerek-idam-edilecek-1745464"
+        },
+        {
+          "title": "Yapay zekâ artık reçete yazacak",
+          "summary": "ABD’nin Utah eyaletinde, yapay zekânın doktor muayenesi olmadan hastaları değerlendirerek sınırlı sayıdaki ilaç için reçete oluşturmasına olanak tanıyan bir pilot program başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/yapay-zeka-artik-recete-yazacak-43334762"
         },
         {
           "title": "Denizde boğulan 3 kız kardeşin ölümü \"toplu intihar\" çıktı. Anneleri de gölde canına kıymış",
@@ -62,24 +77,9 @@
           "source": "https://www.ntv.com.tr/dunya/denizde-bogulan-3-kiz-kardesin-olumu-toplu-intihar-cikti-anneleri-de-golde-canina-kiymis-1745438"
         },
         {
-          "title": "İran'dan ABD'ye rest! 'Hakkımızdan vazgeçmeyeceğiz'",
-          "summary": "İran Atom Enerjisi Kurumu Başkanı Muhammed İslami, ülkesinin uranyum zenginleştirme faaliyetlerinden geri adım atmayacağını söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdye-rest-hakkimizdan-vazgecmeyecegiz-43334319"
-        },
-        {
-          "title": "İsrail'de Türkiye endişesi: Mekke İttifakı mercek altında",
-          "summary": "İsrail basını, yayımladığı analizler ile Mekke İttifakı'nı mercek altına aldı. Analizde, Ankara'nın bölgesel ağırlığının artması ve Pakistan'ın olası bir krizde Türkiye'nin yanında yer alması ihtimali tartışıldı. Analizlerde, ittifakın genişlemesi halinde İsrail'in bölgedeki konumunun daha da zayıflayabileceği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilde-turkiye-endisesi-mekke-ittifaki-mercek-altinda-43333966"
-        },
-        {
-          "title": "İtalya'da seçim sistemi değişti: Parlamentodan yeni yasaya onay",
-          "summary": "İtalya'da Giorgia Meloni'nin liderliğindeki sağ koalisyon hükümetinin hazırladığı ve genel seçimleri en az yüzde 42'lik oy oranıyla kazanan ittifaka, parlamentoda ek sandalyeler kazandırmayı öngören yeni seçim yasası tasarısı, parlamentonun alt kanadı Temsilciler Meclisi'ndeki nihai oylamada onaylanarak yasalaştı.",
-          "source": "https://www.hurriyet.com.tr/dunya/italyada-secim-sistemi-degisti-parlamentodan-yeni-yasaya-onay-43334189"
-        },
-        {
-          "title": "Nobel Edebiyat Ödülü'nün sahibi belli oldu. Rüzgarın sesini dinlerken öğrenmiş",
-          "summary": "2026 Nobel Edebiyat Ödülü'nü Kanadalı şair, deneme yazarı, çevirmen ve klasik edebiyat profesörü Anne Carson kazandı. Şairin, \"İzlanda'da rüzgarı dinlerken haberi aldığı\" öğrenildi. Merakla beklenen 2026 Nobel Edebiyat Ödülü'nün kazananı açıklandı. Ödüle bu yıl, Kanadalı bir şair, deneme yazarı, çevirmen ve klasik edebiyat profesörü olan 76 yaşındaki Anne Carson layık görüldü.",
-          "source": "https://www.ntv.com.tr/dunya/nobel-edebiyat-odulunun-sahibi-belli-oldu-1745389"
+          "title": "Beyaz Saray'da gündem olan kadın: Susan Dell kimdir?",
+          "summary": "ABD Başkanı Donald Trump'ın Beyaz Saray'da ağırladığı, teknoloji devi Dell'in kurucusu Michael Dell'in eşi Susan Dell sosyal medyada gündem oldu. ABD Başkanı Donald Trump'ın Beyaz Saray'da düzenlediği etkinliğe katılan Susan Dell, sosyal medyanın en çok konuşulan isimlerinden biri oldu. Teknoloji şirketi Dell'in kurucusu milyarder Michael Dell'in eşi olan Susan Dell, 7 Ekim'de Beyaz Saray'da çocuklar için oluşturulan yatırım hesaplarına ilişkin düzenlenen toplantıda konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-beyaz-sarayda-gundem-olan-kadin-susan-dell-kimdir-1745459"
         }
       ]
     },
