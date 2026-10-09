@@ -1,75 +1,65 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-09T10:00:03.798Z",
+  "generatedAt": "2026-10-09T16:00:03.859Z",
   "categories": {
     "gundem": {
-      "text": "Gazeteci Murat Ağırel, ifade vermek için adliyede. Özgür Özel, Vahap Seçer’i cezaevinde ziyaret etti. Güllü davasında karar günü. Tuğyan Ülkem Gülter yeniden hakim karşısında. Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'e tahliye. Mal paylaşımı davasının görüleceği gün eski eşini öldürdü! Görgü tanığı dehşeti anlattı: 'Abi yapma' diye yalvardım. İlçede sıcaklıklar düştü: Zirveler beyaz örtüyle kaplandı. İlk teklifler 14 Ekim'de alınacak. Marmaray'a alternatif yeni demir yolu geliyor.",
+      "text": "Fon tasfiye kanunu Meclis'te. Ağırel ve Saymaz’a adli kontrol talebi. MSB'den, Senegalli personele eğitim. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır'dan CNN Türk'e özel açıklamalar. TİP Milletvekili Ahmet Şık, Eskişehir'de rahatsızlanarak hastaneye kaldırıldı. Yasa dışı bahis ve milyarlık aklama ağına baskın: 8 ilde 22 gözaltı. Çanakkale'de el freni çekilmeyen otomobil denize düştü.",
       "items": [
         {
-          "title": "Gazeteci Murat Ağırel, ifade vermek için adliyede",
-          "summary": "Gazeteci Murat Ağırel, fon soruşturmasına ilişkin kamuoyunu yanıltıcı nitelikte açıklamalarda bulunduğu gerekçesiyle \"şüpheli\" sıfatıyla ifade vermek için Çağlayan'da bulunan İstanbul Adalet Sarayına geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/gazeteci-murat-agirel-ifade-vermek-icin-adliyede-43335256"
+          "title": "Fon tasfiye kanunu Meclis'te",
+          "summary": "Fon tasfiyesi ve yapılacak geri ödemelere ilişkin kanun teklifi TBMM Başkanlığı'na sunuldu. AK Parti Grup Başkanı Abdullah Güler tasfiye sürecinde asla kamu kaynağının kullanılmayacağını söyledi. AK Parti, fonların tasfiyesi ve yatırımcılara yapılacak geri ödemelere ilişkin 9 maddelik kanun teklifi hazırladı. Kanun teklifinin bugün TBMM Başkanlığı'na sunulması bekleniyor.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-tasfiye-kanunu-bugun-meclise-sunulacak-1745545"
         },
         {
-          "title": "Özgür Özel, Vahap Seçer’i cezaevinde ziyaret etti",
-          "summary": "Yeni Parti Genel Başkanı Özgür Özel, belediyelere yönelik soruşturma kapsamında tutuklanıp görevlerinden uzaklaştırılan Vahap Seçer, Abdullah Özyiğit ve Ahmet Serkan Tuncer'i cezaevinde ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-vahap-seceri-cezaevinde-ziyaret-etti-43335235"
+          "title": "Ağırel ve Saymaz’a adli kontrol talebi",
+          "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında, 'halkı yanıltıcı bilgiyi alenen yayma' suçlamasıyla 'şüpheli' sıfatıyla ifadeye çağırılan gazeteciler İsmail Saymaz ve Murat Ağırel hakkında, yurtdışına çıkış yasağı ve imza şeklindeki adli kontrol talep edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/agirel-ve-saymaza-adli-kontrol-talebi-43335861"
         },
         {
-          "title": "Güllü davasında karar günü. Tuğyan Ülkem Gülter yeniden hakim karşısında",
-          "summary": "Güllü'nün ölümüne ilişkin davada hakim karşısına çıkan kızı Tuğyan Ülkem Gülter savcının mütalaasını açıklamasının ardından gözyaşlarını tutamadı. Kamuoyunda “Güllü” olarak bilinen Gül Tut'un ölümüne ilişkin dava devam ediyor. Sanatçı 26 Eylül 2025'te Yalova'da altıncı kattaki evinin penceresinden düşerek şüpheli şekilde yaşamını yitirmişti. ilk duruşma 1 Ekim'de düzenlenmişti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-gullu-davasinda-tugyan-ulkem-gulter-yeniden-hakim-karsisinda-1745501"
+          "title": "MSB'den, Senegalli personele eğitim",
+          "summary": "Milli Savunma Bakanlığı (MSB), İzmir Çiğli'deki 2’nci Ana Jet Üs ve Uluslararası Uçuş Eğitim Okul Komutanlığı'nda, Senegal Hava Kuvvetleri'nden 5 personele uçak bakım ve teknik eğitimi verildiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/msbden-senegalli-personele-egitim-43335815"
         },
         {
-          "title": "Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'e tahliye",
-          "summary": "Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'in tahliyesine karar verildi. Ahbap Derneği'ne ilişkin soruşturmada tutuklanan avukat Ece Güner, tahliye edildi. Avukat Ece Güner, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada 16 Temmuz'da tutuklanmıştı. Güner'e suç işlemek amacıyla kurulan örgüte üye olma, görevi kötüye kullanma ve suçtan kaynaklanan malvarlığı değerlerini aklama suçlamaları yöneltilmişti. Güner'in 7 Ekim günü tahliye edildiği bildirildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ahbap-dernegi-sorusturmasinda-tutuklanan-avukat-ece-gunere-tahliye-1745533"
+          "title": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır'dan CNN Türk'e özel açıklamalar",
+          "summary": "Antalya'da düzenlenen ve 111 ülkeden 10 binden fazla katılımcıyı buluşturan 77. Uluslararası Uzay Kongresi gerçekleştirildi. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, kongreye ilişkin CNN Türk'e özel açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/sanayi-ve-teknoloji-bakani-mehmet-fatih-kacirdan-cnn-turke-ozel-aciklamalar-43335805"
         },
         {
-          "title": "Mal paylaşımı davasının görüleceği gün eski eşini öldürdü! Görgü tanığı dehşeti anlattı: 'Abi yapma' diye yalvardım",
-          "summary": "Kocaeli’nin İzmit ilçesinde Erdoğan Büyükkurt, mal paylaşımıyla ilgili davalarının görüleceği gün boşandığı, 1 çocuğunun annesi Füsun Yuluğkural'ı evinin yakınında, sığındığı iş yerinde tabancayla vurarak öldürdü. Görgü tanığı esnaf Muharrem Zeyrek, “Önüne geçtim ama engel olamadım. ‘Abi yapma’ diye yalvarıyordum. O 2 el ateşi de yanımdan sıktı. 4 kurşunun da ablamıza isabet ettiğini gördüm” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mal-paylasimi-davasinin-gorulecegi-gun-eski-esini-oldurdu-gorgu-tanigi-dehseti-anlatti-abi-yapma-diye-yalvardim-43335189"
+          "title": "TİP Milletvekili Ahmet Şık, Eskişehir'de rahatsızlanarak hastaneye kaldırıldı",
+          "summary": "Eskişehir'de rahatsızlanan TİP İstanbul Milletvekili Ahmet Şık, kalp damarlarındaki tıkanıklık nedeniyle tedavi altına alındı. Anjiyo yapılan Şık'ın durumunun iyi olduğu, operasyon ve tedavi süreci için İstanbul'a sevk edileceği açıklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/tip-milletvekili-ahmet-sik-eskisehirde-rahatsizlanarak-hastaneye-kaldirildi-43335779"
         },
         {
-          "title": "İlçede sıcaklıklar düştü: Zirveler beyaz örtüyle kaplandı",
-          "summary": "Hakkari'nin Yüksekova ilçesinde yüksek kesimlere kar yağdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ilcede-sicakliklar-dustu-zirveler-beyaz-ortuyle-kaplandi-43335182"
+          "title": "Yasa dışı bahis ve milyarlık aklama ağına baskın: 8 ilde 22 gözaltı",
+          "summary": "Uşak Cumhuriyet Başsavcılığı koordinesinde 8 ilde eş zamanlı düzenlenen yasa dışı bahis ve kara para aklama operasyonunda 22 şüpheli yakalandı. 4 şirkete TMSF kayyımı atanırken; 333 milyon TL donduruldu, 184 milyon TL'lik mal varlığına el konuldu. MASAK raporuna göre sistemin 5,1 milyar TL'lik işlem hacmine ulaştığı belirlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahis-ve-milyarlik-aklama-agina-baskin-8-ilde-22-gozalti-43335752"
         },
         {
-          "title": "İlk teklifler 14 Ekim'de alınacak. Marmaray'a alternatif yeni demir yolu geliyor",
-          "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul'da Yavuz Sultan Selim Köprüsü üzerinden geçecek hatla Marmaray'a alternatif yeni bir demir yolu bağlantısı oluşturulacağını söyledi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Halkalı-Kapıkule Hızlı Tren Hattı'nın Çerkezköy-Kapıkule kesiminin hizmete alınması öncesi açıklamalarda bulundu; konuşmasında İstanbul ile ilgili önemli bir duyuru da yer aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ilk-teklifler-14-ekimde-alinacak-istanbula-marmaraya-alternatif-yeni-demir-yolu-geliyor-1745526"
+          "title": "Çanakkale'de el freni çekilmeyen otomobil denize düştü",
+          "summary": "Çanakkale'nin Kepez beldesinde sürücüsünün el frenini çekmeyi unuttuğu otomobil denize düştü. Araç 3 saatlik çalışmayla sudan çıkarıldı",
+          "source": "https://www.hurriyet.com.tr/gundem/canakkalede-el-freni-cekilmeyen-otomobil-denize-dustu-43335723"
         }
       ]
     },
     "dunya": {
-      "text": "Trump \"Bana verin\" diyordu. Nobel Barış Ödülü'nün sahibi belli oldu. İngiltere'de ikinci üs krizi: Gözaltına alındılar. Suudi Arabistan açıkladı: Saldırılarda 3 kişi öldü. İsrail'i sarsan itiraf: Netanyahu'nun telefon kayıtları değiştirildi mi?. Şili'yi sel vurdu: Başkentte 'acil durum'. Eski prens hakkındaki deliller tehlikede. Epstein krizinde polisten usul hatası itirafı. Meksika'daki hapishanede dehşet: Ziyaret saatinde cehennemi yaşadılar.",
+      "text": "İsrail basınından itiraf: Filistinli esirlere sistematik işkence. Trump'tan yeni ateşkes planı! Putin'in taktiği deşifre mi oldu? İşte Avrupa'nın esas korkusu. İngiliz İşçi Partisi'nde seçim. Eski Başbakan'ın koltuğuna Somalili sığınmacı. Eski prens hakkındaki deliller tehlikede. Epstein krizinde polisten usul hatası itirafı. İntihar iddilarıyla gündeme gelmişti: 322 gün sonra ABD'de. AfD kazandı: Ünlü marka teklifini geri çekti. Prens Harry ve Meghan Markle özür dilemeyecek.",
       "items": [
         {
-          "title": "Trump \"Bana verin\" diyordu. Nobel Barış Ödülü'nün sahibi belli oldu",
-          "summary": "Norveç Nobel Komitesi, 2026 Nobel Barış Ödülü'nü apartheid rejimine karşı mücadelesiyle tanınan 85 yaşındaki Güney Afrikalı hukukçu Navanethem \"Navi\" Pillay'a verdi. Norveç Nobel Komitesi, 2026 Nobel Barış Ödülü'nü Güney Afrikalı hukukçu ve eski Birleşmiş Milletler (BM) İnsan Hakları Yüksek Komiseri Navanethem \"Navi\" Pillay'a verdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trump-bana-verin-diyordu-nobel-baris-odulunun-sahibi-belli-oldu-1745532"
+          "title": "İsrail basınından itiraf: Filistinli esirlere sistematik işkence",
+          "summary": "İsrail basını, ülkedeki cezaevlerinde tutulan Filistinli esirlerin sistematik işkenceye, açlığa ve salgın hastalıklara maruz kaldığını yazdı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-basinindan-itiraf-filistinli-esirlere-sistematik-iskence-43335795"
         },
         {
-          "title": "İngiltere'de ikinci üs krizi: Gözaltına alındılar",
-          "summary": "İngiltere'nin Cambridgeshire bölgesindeki Kraliyet Hava Kuvvetleri (RAF) Molesworth askeri üssüne izinsiz girdikleri şüphesiyle 2 Letonyalı gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-ikinci-us-krizi-gozaltina-alindilar-43335143"
+          "title": "Trump'tan yeni ateşkes planı! Putin'in taktiği deşifre mi oldu? İşte Avrupa'nın esas korkusu",
+          "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında yeni bir ateşkes sağlamak için harekete geçti. Putin’in talepleri diplomatik süreci zorlaştırırken, Avrupa’nın asıl korkusu Moskova’nın sabotaj faaliyetleriyle kıtada daha büyük bir krize yol açması.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-yeni-ateskes-plani-putinin-taktigi-desifre-mi-oldu-iste-avrupanin-esas-korkusu-43335740"
         },
         {
-          "title": "Suudi Arabistan açıkladı: Saldırılarda 3 kişi öldü",
-          "summary": "Suudi Arabistan, dün düzenlenen saldırılarda 3 vatandaşının öldüğünü ve çok sayıda kişinin yaralandığını açıkladı",
-          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistan-acikladi-saldirilarda-3-kisi-oldu-43335001"
-        },
-        {
-          "title": "İsrail'i sarsan itiraf: Netanyahu'nun telefon kayıtları değiştirildi mi?",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun eski askeri sekreteri Avi Gil, ülke gündemini sarsan itirafta bulundu. Gil, Netanyahu'nun 7 Ekim sabahı yaptığı telefon görüşmelerinin kayıtlarında değişiklik yapılmaya çalışıldığını öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/israili-sarsan-itiraf-netanyahunun-telefon-kayitlari-degistirildi-mi-43334985"
-        },
-        {
-          "title": "Şili'yi sel vurdu: Başkentte 'acil durum'",
-          "summary": "Şili'nin başkenti Santiago'da şiddetli yağışların yol açtığı sel nedeniyle acil durum ilan edildi. Mapocho Nehri'nin taşmasıyla evler ve yollar sular altında kalırken, 12 binden fazla haneye elektrik verilemiyor ve mahsur kalan vatandaşlar helikopterlerle tahliye ediliyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/siliyi-sel-vurdu-baskentte-acil-durum-43334905"
+          "title": "İngiliz İşçi Partisi'nde seçim. Eski Başbakan'ın koltuğuna Somalili sığınmacı",
+          "summary": "İngiltere'de eski Başbakan Starmer'ın milletvekilliğinden çekilmesiyle boşalan sandalye için yapılan ara seçimi Somalili bir sığınmacı olan İşçi Partisi adayı Sagal Abdi-Wali kazandı. İngiltere'de eski Başbakan ve eski İşçi Partisi lideri Keir Starmer'ın milletvekilliğinden istifasıyla boşalan Londra'daki Holborn ve St Pancras seçim bölgesinde yapılan ara seçimi, İşçi Partisi adayı Sagal Abdi-Wali kazandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ingiliz-isci-partisinde-secim-eski-basbakanin-koltuguna-somalili-siginmaci-1745573"
         },
         {
           "title": "Eski prens hakkındaki deliller tehlikede. Epstein krizinde polisten usul hatası itirafı",
@@ -77,9 +67,19 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-eski-prens-hakkindaki-deliller-tehlikede-epstein-krizinde-polisten-usul-hatasi-itirafi-1745498"
         },
         {
-          "title": "Meksika'daki hapishanede dehşet: Ziyaret saatinde cehennemi yaşadılar",
-          "summary": "Meksika'nın Sinaloa eyaletindeki hapishanede ziyaret saatlerinde çıkan isyan kanlı bitti. Ateşli silahların kullanıldığı olayda 9 mahkum ve bir mahkum yakını hayatını kaybederken, 16 mahkum yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/meksikadaki-hapishanede-dehset-ziyaret-saatinde-cehennemi-yasadilar-43334872"
+          "title": "İntihar iddilarıyla gündeme gelmişti: 322 gün sonra ABD'de",
+          "summary": "ABD'nin İran ile savaş da dahil olmak üzere uzun süredir Orta Doğu'da görevde olan ve kötü şartlar nedeniyle bazı personelinin intihar girişiminde bulunduğu USS Abraham Lincoln uçak gemisi, 322 gün sonra San Diego'ya döndü. Gemi bu süre zarfında 265 günlük rekor süreyle denizde kaldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/intihar-iddilariyla-gundeme-gelmisti-322-gun-sonra-abdde-43335554"
+        },
+        {
+          "title": "AfD kazandı: Ünlü marka teklifini geri çekti",
+          "summary": "Almanya’nın Saksonya-Anhalt Eyalet Meclis Başkanlığına Almanya için Alternatif (AfD) partisinden Tobias Rausch'un seçilmesinin ardından üst düzey siyasetçilere makam aracı kiralama hizmeti veren Alman otomotiv devi BMW’nin teklifini geri çekti. AfD ise Tesla’nın sahibi Elon Musk’tan makam aracı için destek istedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/afd-kazandi-unlu-marka-teklifini-geri-cekti-43335519"
+        },
+        {
+          "title": "Prens Harry ve Meghan Markle özür dilemeyecek",
+          "summary": "İngiliz kraliyet ailesinden ayrılarak ABD'ye yerleşen Prens Harry ve Meghan Markle, 2021'de dile getirdikleri ten rengi iddiaları nedeniyle saraydan özür dilemeyi reddedebilir. İngiltere kraliyet ailesindeki resmi görevlerini bırakarak ABD'ye yerleşen Sussex Dükü Prens Harry ile eşi Meghan Markle'ın, 2021 yılındaki televizyon mülakatında saray mensuplarına yönelttikleri tenkitler nedeniyle aileden özür dilemeyi planlamadıkları iddia edildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-prens-harry-ve-meghan-markle-ozur-dilemeyecek-1745556"
         }
       ]
     },
@@ -124,67 +124,52 @@
       ]
     },
     "spor": {
-      "text": "Beşiktaş'tan transfer teklifi! Trossard konuşacak. Fenerbahçe, Çaykur Rizespor'a konuk olacak. Süper Lig’de Heyecan Kaldığı Yerden Devam Ediyor! Avrupa’da Cuma Bülteni Dopdolu… İşte Misli’de Günün En Çok Oynanan Maçları…. Trabzonspor, Samsunspor'a konuk olacak. Fenerbahçe’de Mert Hakan ve sakatlık müjdesi! Eli ilk kez güçlü. Tedesco için ayrılık itirafı! 'Bu kadar erken beklemiyordum'. EuroLeague’deki iki temsilcimiz parkeye çıkıyor! Maçların heyecanı canlı yayın ile Misli’de.",
+      "text": "TFF toplantısından seçim kararı çıkmadı! TFF Başkanvekili Otyakmaz ve 5 yönetici istifa etti. TFF resmen açıkladı: Göreve devam ediyoruz! Montella ile yollar ayrıldı. Fotoğrafıyla dünya çapında viral olan voleybolcu Meryem Cabbaroğlu: 'Böyle bir şeyi beklemiyordum!'. Fenerbahçe, Rizespor maçı kamp kadrosunu açıkladı. Aral Şimşir: 'Trabzonspor’u seçmek zor olmadı!'. NBA Europe cephesi güçleniyor: Yeni lige 360 derecelik ilgi. Mourinho'dan Mbappe açıklaması.",
       "items": [
         {
-          "title": "Beşiktaş'tan transfer teklifi! Trossard konuşacak",
-          "summary": "Beşiktaş'ın ocak transfer sezonunda devreye gireceği yıldız için Trossard kozu kullanılacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-transfer-teklifi-trossard-konusacak-43335260"
+          "title": "TFF toplantısından seçim kararı çıkmadı! TFF Başkanvekili Otyakmaz ve 5 yönetici istifa etti",
+          "summary": "TFF'de seçim kararı alınmayınca TFF Başkanvekili Mecnun Otyakmaz ve 5 yönetici daha istifa etti",
+          "source": "https://www.hurriyet.com.tr/sporarena/tff-toplantisindan-secim-karari-cikmadi-tff-baskanvekili-otyakmaz-ve-5-yonetici-istifa-etti-43335816"
         },
         {
-          "title": "Fenerbahçe, Çaykur Rizespor'a konuk olacak",
-          "summary": "Fenerbahçe, Süper Lig'in 7. haftasında yarın Çaykur Rizespor'la deplasmanda karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-caykur-rizespora-konuk-olacak-43335236"
+          "title": "TFF resmen açıkladı: Göreve devam ediyoruz! Montella ile yollar ayrıldı",
+          "summary": "Türkiye Futbol Federasyonu bugün yapılan toplantı sonrası yapılan açıkamada göreve devam kararı alındığı ve A Milli Takım Teknik Direktörü Vincenzo Montella ile yolların ayrıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tff-resmen-acikladi-goreve-devam-ediyoruz-montella-ile-yollar-ayrildi-43335826"
         },
         {
-          "title": "Süper Lig’de Heyecan Kaldığı Yerden Devam Ediyor! Avrupa’da Cuma Bülteni Dopdolu… İşte Misli’de Günün En Çok Oynanan Maçları…",
-          "summary": "Misli’de günün iddaa programı içerisinde en çok oynanan bahisleri ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-heyecan-kaldigi-yerden-devam-ediyor-avrupada-cuma-bulteni-dopdolu-iste-mislide-gunun-en-cok-oynanan-maclari-43335192"
+          "title": "Fotoğrafıyla dünya çapında viral olan voleybolcu Meryem Cabbaroğlu: 'Böyle bir şeyi beklemiyordum!'",
+          "summary": "Kadınlar Voleybol 1'inci Ligi A Grubu ekiplerinden Bodrum Belediyesi Bodrumspor'da sezonun ilk haftasında Karşıyaka ile oynanan maç öncesi paylaştığı fotoğrafıyla dünya çapında viral olan Meryem Cabbaroğlu, Demirören Haber Ajansı'na özel açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fotografiyla-dunya-capinda-viral-olan-voleybolcu-meryem-cabbaroglu-boyle-bir-seyi-beklemiyordum-43335687"
         },
         {
-          "title": "Trabzonspor, Samsunspor'a konuk olacak",
-          "summary": "Trabzonspor, Süper Lig'in 7. haftasında yarın deplasmanda Samsunspor ile karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-samsunspora-konuk-olacak-43335193"
+          "title": "Fenerbahçe, Rizespor maçı kamp kadrosunu açıkladı",
+          "summary": "Fenerbahçe'nin Rizespor maçı kamp kadrosu belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-rizespor-maci-kamp-kadrosunu-acikladi-43335679"
         },
         {
-          "title": "Fenerbahçe’de Mert Hakan ve sakatlık müjdesi! Eli ilk kez güçlü",
-          "summary": "Milli ara sonrası Rizespor ile karşılaşacak Fenerbahçe’de, teknik direktör İsmail Kartal’ın eli ilk sezon başından bu yana ilk kez güçlü olacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-mert-hakan-ve-sakatlik-mujdesi-eli-ilk-kez-guclu-43335085"
+          "title": "Aral Şimşir: 'Trabzonspor’u seçmek zor olmadı!'",
+          "summary": "Trabzonspor’un genç futbolcusu Aral Şimşir, bordo-mavili kulübü tercih etmesinde kulübün tarihi ve büyüklüğünün yanı sıra kendisine 4-5 yıldır gösterilen ilginin de etkili olduğunu belirterek, \"Her transfer döneminde benimle ilgilenmeleri ve beni ne kadar çok istediklerini hissettirmeleri kararımı kolaylaştırdı\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aral-simsir-trabzonsporu-secmek-zor-olmadi-43335634"
         },
         {
-          "title": "Tedesco için ayrılık itirafı! 'Bu kadar erken beklemiyordum'",
-          "summary": "Bologna'nın eski oyuncusu Tomas Locatelli, Domenico Tedesco'nun İtalyan ekibinden ayrılığı hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tedesco-icin-ayrilik-itirafi-bu-kadar-erken-beklemiyordum-43335045"
+          "title": "NBA Europe cephesi güçleniyor: Yeni lige 360 derecelik ilgi",
+          "summary": "Avrupa basketbolunun geleceği Como zirvesi ve ardından gelen açıklamalarla tartışılmaya devam ederken, NBA Europe’a farklı kesimlerden gelen ilgi dikkat çekiyor. Panathinaikos’un sahibi Dimitris Giannakopoulos’tan Real Madrid Başkanı Florentino Pérez’e, Milan’ın sahibi RedBird’den Cleveland Cavaliers Başantrenörü Kenny Atkinson’a uzanan açıklamalar, yeni lig projesinin etrafında oluşan hareketliliği ortaya koyuyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nba-europe-cephesi-gucleniyor-yeni-lige-360-derecelik-ilgi-43335640"
         },
         {
-          "title": "EuroLeague’deki iki temsilcimiz parkeye çıkıyor! Maçların heyecanı canlı yayın ile Misli’de",
-          "summary": "EuroLeague'in 4. haftasında temsilcilerimiz Beşiktaş ile Anadolu Efes parkeye çıkıyor. Maçların heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguedeki-iki-temsilcimiz-parkeye-cikiyor-maclarin-heyecani-canli-yayin-ile-mislide-43335010"
+          "title": "Mourinho'dan Mbappe açıklaması",
+          "summary": "Real Madrid Teknik Direktörü Jose Mourinho, Kylian Mbappe'nin sakatlık süreciyle ilgili açıklamalarda bulunarak Fransız yıldızın durumuna açıklık getirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mourinhodan-mbappe-aciklamasi-43335595"
         }
       ]
     },
     "teknoloji": {
-      "text": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi.",
+      "text": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi. Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı. Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek.",
       "items": [
         {
           "title": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu",
           "summary": "Yapay zeka şirketi OpenAI, gizli şirket bilgilerini sızdırdıkları gerekçesiyle üç güvenlik araştırmacısının işine son verdi. ChatGPT sohbet botunun geliştiricisi olan ABD merkezli teknoloji devi OpenAI, hassas şirket bilgilerinin kullanımıyla ilgili şirket içi kuralları ihlal ettikleri gerekçesiyle üç güvenlik araştırmacısının işine son verdi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-openaida-kriz-uc-yapay-zeka-arastirmacisi-kovuldu-1745509"
-        },
-        {
-          "title": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü",
-          "summary": "Türkiye’nin milli teknoloji hamlesinde tarihi bir milat daha geride kaldı. Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ile T.C. Sanayi ve Teknoloji Bakanlığı yürütücülüğünde, 157 paydaş kurumun güçlü desteğiyle 30 Eylül - 4 Ekim tarihleri arasında Şanlıurfa GAP Havalimanında düzenlenen TEKNOFEST Güneydoğu, dev bir coşku ve rekor katılımla tamamlandı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/teknofest-guneydogu-1-5-milyon-ziyaretciyle-teknoloji-solenine-donustu-43332659"
-        },
-        {
-          "title": "İstanbul Fintech Week 2026 başladı",
-          "summary": "İstanbul Fintech Week 2026’nın 6–7 Ekim ana zirve programı başladı. Açılış konuşmasını Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkan Yardımcısı Prof. Dr. Hatice Karahan yaptı. Nobel ödüllü ekonomist Prof. Dr. Daron Acemoğlu ise 6 Ekim’de (bugün) ana sahnede yer alacak. 5 Ekim’de Sürdürülebilir Finans Zirvesi ile başlayan etkinliğin programında ödemeler, yapay zekâ, otonom finans, dijital bankacılık ve tokenizasyon başlıkları ele alınacak.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/istanbul-fintech-week-2026-basladi-43331692"
-        },
-        {
-          "title": "“Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı",
-          "summary": "TEKNOFEST kapsamında düzenlenen “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nı kazanan genç öğrencilerden oluşan takımlar ödüllerine TEKNOFEST Güneydoğu’da kavuştu.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-destekli-lojistik-anahat-optimizasyonu-yarismasinin-kazananlarina-odullerini-aldi-43331184"
         },
         {
           "title": "ChatGPT kullananlar dikkat. Metinde görünmeyecek",
@@ -200,6 +185,21 @@
           "title": "Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi",
           "summary": "Norveç hükümeti, mahremiyet kaygıları nedeniyle park, okul ve plaj gibi kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmeyi planlıyor. Norveç hükümeti, kişilerin bilgisi ve rızası dışında görüntü kaydı yapılmasının yarattığı mahremiyet endişeleri nedeniyle kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmek istiyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-akilli-gozluklere-tepki-buyuyor-satislar-durdu-pes-pese-davalar-geldi-1744941"
+        },
+        {
+          "title": "Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi",
+          "summary": "Bilim insanları pahalı metallere ihtiyaç duymadan güneş ışığıyla suyu ayrıştırıp temiz hidrojen gazı üreten yeni bir kristal malzeme geliştirdi. ABD'deki Oregon Eyalet Üniversitesi'nden kimya mühendisleri, güneş ışığını doğrudan kullanarak suyu ayrıştıran ve pahalı metal katalizörlere ihtiyaç duymadan temiz hidrojen gazı üreten yeni bir fotokatalitik malzeme sınıfı geliştirdi. Araştırmada, metal-organik kafes mimarisine sahip 'BVR-19' adı verilen kristal yapı mercek altına alındı.",
+          "source": "https://www.ntv.com.tr/teknoloji/gunes-isigi-ve-sudan-hidrojen-ureten-yeni-malzeme-gelistirildi-1744807"
+        },
+        {
+          "title": "Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı",
+          "summary": "Kısa süre önce istifa eden bir OpenAI güvenlik sorumlusu, yapay zeka modellerinin test edildiklerini algılayabileceklerini ve devreye alındıktan sonra farklı davranabileceklerini belirtti. OpenAI'da 3,5 yıl görev yapan ve 12 yapay zeka modelinin piyasaya sürülmesine ilişkin güvenlik raporlarını denetleyen David Robinson'ın The Atlantic dergisinde yayımlanan makalesi dikkati çekti.",
+          "source": "https://www.ntv.com.tr/teknoloji/eski-openai-guvenlik-sorumlusundan-yapay-zeka-guvenlik-testlerinden-kacabilir-uyarisi-1744722"
+        },
+        {
+          "title": "Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek",
+          "summary": "Google, Türkiye özelinde yeni bir uygulama başlattı. Yeni uygulamayla birlikte, Google'da istenmeyen kişisel veriler için başvuru yolu açıldı. Google, Türkiye'de yeni bir uygulama başlatarak, arama motorundan kaldırılması istenen içerikler için başvuru sayfasını devreye aldı. Kişisel Verileri Koruma Kurumu (KVKK) Başkanı Prof. Dr. Faruk Bilir, yeni uygulamayla birlikte Google'ın 30 gün içinde bu bilginin kaldırılıp, kaldırılmayacağına ilişkin yanıt vermek zorunda olduğunu söyledi.",
+          "source": "https://www.ntv.com.tr/teknoloji/googledan-turkiyeye-ozel-yeni-uygulama-30-gun-icinde-yanit-verilecek-1744632"
         }
       ]
     },
