@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-09T04:00:04.118Z",
+  "generatedAt": "2026-10-09T10:00:03.798Z",
   "categories": {
     "gundem": {
-      "text": "Kayseri'de korkunç kaza: 3 ölü, 1 yaralı. Bakan Göktaş'tan milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu. Tarım ve Orman Bakanı Yumaklı'dan, Bakanlar Bolat ve Göktaş'a destek açıklaması. AK Parti Genel Başkan Yardımcısı Acar'dan fon soruşturmasına ilişkin iddialara tepki: Düpedüz ahlaksızlık. MİT Başkanı Kalın, Suriye Dışişleri Bakanı Şeybani ile Ankara'da görüştü. Bakan Kacır'dan uzay meraklılarına davet. Silahla vurulmuş halde bulunmuştu… Vali yardımcısı hayatını kaybetti.",
+      "text": "Gazeteci Murat Ağırel, ifade vermek için adliyede. Özgür Özel, Vahap Seçer’i cezaevinde ziyaret etti. Güllü davasında karar günü. Tuğyan Ülkem Gülter yeniden hakim karşısında. Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'e tahliye. Mal paylaşımı davasının görüleceği gün eski eşini öldürdü! Görgü tanığı dehşeti anlattı: 'Abi yapma' diye yalvardım. İlçede sıcaklıklar düştü: Zirveler beyaz örtüyle kaplandı. İlk teklifler 14 Ekim'de alınacak. Marmaray'a alternatif yeni demir yolu geliyor.",
       "items": [
         {
-          "title": "Kayseri'de korkunç kaza: 3 ölü, 1 yaralı",
-          "summary": "Kayseri’nin İncesu ilçesinde iki otomobilin çarpıştığı kazada 3 kişi öldü, 1 kişi yaralandı. Yaralanan sürücü Halil Özdemir’in, HAK-İŞ Genel Başkan Yardımcısı ve Hizmet-İş Sendikası Genel Başkanvekili olduğu belirtildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-korkunc-kaza-3-olu-1-yarali-43334765"
+          "title": "Gazeteci Murat Ağırel, ifade vermek için adliyede",
+          "summary": "Gazeteci Murat Ağırel, fon soruşturmasına ilişkin kamuoyunu yanıltıcı nitelikte açıklamalarda bulunduğu gerekçesiyle \"şüpheli\" sıfatıyla ifade vermek için Çağlayan'da bulunan İstanbul Adalet Sarayına geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/gazeteci-murat-agirel-ifade-vermek-icin-adliyede-43335256"
         },
         {
-          "title": "Bakan Göktaş'tan milletvekilleri Özlale ve Enginyurt hakkında suç duyurusu",
-          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, fon soruşturmasına ilişkin iddialar nedeniyle Yeni Parti milletvekilleri Ümit Özlale ve Cemal Enginyurt hakkında suç duyurusunda bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-goktastan-milletvekilleri-ozlale-ve-enginyurt-hakkinda-suc-duyurusu-43334754"
+          "title": "Özgür Özel, Vahap Seçer’i cezaevinde ziyaret etti",
+          "summary": "Yeni Parti Genel Başkanı Özgür Özel, belediyelere yönelik soruşturma kapsamında tutuklanıp görevlerinden uzaklaştırılan Vahap Seçer, Abdullah Özyiğit ve Ahmet Serkan Tuncer'i cezaevinde ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-vahap-seceri-cezaevinde-ziyaret-etti-43335235"
         },
         {
-          "title": "Tarım ve Orman Bakanı Yumaklı'dan, Bakanlar Bolat ve Göktaş'a destek açıklaması",
-          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, haklarında ortaya atılan iddialara karşı Ticaret Bakanı Ömer Bolat ve Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'a destek verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tarim-ve-orman-bakani-yumaklidan-bakanlar-bolat-ve-goktasa-destek-aciklamasi-43334753"
+          "title": "Güllü davasında karar günü. Tuğyan Ülkem Gülter yeniden hakim karşısında",
+          "summary": "Güllü'nün ölümüne ilişkin davada hakim karşısına çıkan kızı Tuğyan Ülkem Gülter savcının mütalaasını açıklamasının ardından gözyaşlarını tutamadı. Kamuoyunda “Güllü” olarak bilinen Gül Tut'un ölümüne ilişkin dava devam ediyor. Sanatçı 26 Eylül 2025'te Yalova'da altıncı kattaki evinin penceresinden düşerek şüpheli şekilde yaşamını yitirmişti. ilk duruşma 1 Ekim'de düzenlenmişti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-gullu-davasinda-tugyan-ulkem-gulter-yeniden-hakim-karsisinda-1745501"
         },
         {
-          "title": "AK Parti Genel Başkan Yardımcısı Acar'dan fon soruşturmasına ilişkin iddialara tepki: Düpedüz ahlaksızlık",
-          "summary": "AK Parti Genel Başkan Yardımcısı Faruk Acar, \"Kasıtlı biçimde yalan haber üreten, mesnetsiz ithamları dolaşıma sokan ve insanların itibarını hedef alan herkes hakkında gerekli hukuki yollara başvuracağız.\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-acardan-fon-sorusturmasina-iliskin-iddialara-tepki-dupeduz-ahlaksizlik-43334749"
+          "title": "Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'e tahliye",
+          "summary": "Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'in tahliyesine karar verildi. Ahbap Derneği'ne ilişkin soruşturmada tutuklanan avukat Ece Güner, tahliye edildi. Avukat Ece Güner, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada 16 Temmuz'da tutuklanmıştı. Güner'e suç işlemek amacıyla kurulan örgüte üye olma, görevi kötüye kullanma ve suçtan kaynaklanan malvarlığı değerlerini aklama suçlamaları yöneltilmişti. Güner'in 7 Ekim günü tahliye edildiği bildirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ahbap-dernegi-sorusturmasinda-tutuklanan-avukat-ece-gunere-tahliye-1745533"
         },
         {
-          "title": "MİT Başkanı Kalın, Suriye Dışişleri Bakanı Şeybani ile Ankara'da görüştü",
-          "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile Ankara'da bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mit-baskani-kalin-suriye-disisleri-bakani-seybani-ile-ankarada-gorustu-43334685"
+          "title": "Mal paylaşımı davasının görüleceği gün eski eşini öldürdü! Görgü tanığı dehşeti anlattı: 'Abi yapma' diye yalvardım",
+          "summary": "Kocaeli’nin İzmit ilçesinde Erdoğan Büyükkurt, mal paylaşımıyla ilgili davalarının görüleceği gün boşandığı, 1 çocuğunun annesi Füsun Yuluğkural'ı evinin yakınında, sığındığı iş yerinde tabancayla vurarak öldürdü. Görgü tanığı esnaf Muharrem Zeyrek, “Önüne geçtim ama engel olamadım. ‘Abi yapma’ diye yalvarıyordum. O 2 el ateşi de yanımdan sıktı. 4 kurşunun da ablamıza isabet ettiğini gördüm” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mal-paylasimi-davasinin-gorulecegi-gun-eski-esini-oldurdu-gorgu-tanigi-dehseti-anlatti-abi-yapma-diye-yalvardim-43335189"
         },
         {
-          "title": "Bakan Kacır'dan uzay meraklılarına davet",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, uzay ve teknolojiye ilgi duyan herkesi 77. Uluslararası Uzay Kongresi'nin (IAC 2026) Halk Günü'ne davet etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-uzay-meraklilarina-davet-43334682"
+          "title": "İlçede sıcaklıklar düştü: Zirveler beyaz örtüyle kaplandı",
+          "summary": "Hakkari'nin Yüksekova ilçesinde yüksek kesimlere kar yağdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ilcede-sicakliklar-dustu-zirveler-beyaz-ortuyle-kaplandi-43335182"
         },
         {
-          "title": "Silahla vurulmuş halde bulunmuştu… Vali yardımcısı hayatını kaybetti",
-          "summary": "AFYONKARAHİSAR Vali Yardımcısı İhsan Ayrancı (46), kentteki bir otelin otoparkında aracında silahla başından vurulmuş halde bulundu. Hastaneye kaldırılan Ayrancı kurtarılamadı.",
-          "source": "https://www.hurriyet.com.tr/gundem/silahla-vurulmus-halde-bulunmustu-vali-yardimcisi-hayatini-kaybetti-43334675"
+          "title": "İlk teklifler 14 Ekim'de alınacak. Marmaray'a alternatif yeni demir yolu geliyor",
+          "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul'da Yavuz Sultan Selim Köprüsü üzerinden geçecek hatla Marmaray'a alternatif yeni bir demir yolu bağlantısı oluşturulacağını söyledi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Halkalı-Kapıkule Hızlı Tren Hattı'nın Çerkezköy-Kapıkule kesiminin hizmete alınması öncesi açıklamalarda bulundu; konuşmasında İstanbul ile ilgili önemli bir duyuru da yer aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ilk-teklifler-14-ekimde-alinacak-istanbula-marmaraya-alternatif-yeni-demir-yolu-geliyor-1745526"
         }
       ]
     },
     "dunya": {
-      "text": "İsrailli profesörün katliam planı. 700 kişiyi katledecekti. New York'ta ICE ajanı göçmeni vurdu. USS Abraham Lincoln, 265 günlük rekorun ardından ABD'ye döndü. 90 yıl sonra bir ilk. Halka açık şekilde kurşuna dizilerek idam edilecek. Yapay zekâ artık reçete yazacak. Denizde boğulan 3 kız kardeşin ölümü \"toplu intihar\" çıktı. Anneleri de gölde canına kıymış. Beyaz Saray'da gündem olan kadın: Susan Dell kimdir?.",
+      "text": "Trump \"Bana verin\" diyordu. Nobel Barış Ödülü'nün sahibi belli oldu. İngiltere'de ikinci üs krizi: Gözaltına alındılar. Suudi Arabistan açıkladı: Saldırılarda 3 kişi öldü. İsrail'i sarsan itiraf: Netanyahu'nun telefon kayıtları değiştirildi mi?. Şili'yi sel vurdu: Başkentte 'acil durum'. Eski prens hakkındaki deliller tehlikede. Epstein krizinde polisten usul hatası itirafı. Meksika'daki hapishanede dehşet: Ziyaret saatinde cehennemi yaşadılar.",
       "items": [
         {
-          "title": "İsrailli profesörün katliam planı. 700 kişiyi katledecekti",
-          "summary": "İsrail'deki Bar İlan Üniversitesi'nde görevli matematik profesörünün, İsrailli Araplara yönelik eş zamanlı saldırılar düzenlemek için 72 kişilik bir terör timi kurmaya çalıştığı ortaya çıktı. İsrail, bir üniversite profesörünün kurguladığı kanlı terör planıyla çalkalanıyor. İsrail medyası, Bar İlan Üniversitesi'nde görev yapan 60 yaşındaki Şahar Nevo adlı matematik profesörünün İsrailli Araplara yönelik büyük bir terör saldırısı planladığı gerekçesiyle tutuklandığını yazdı.",
-          "source": "https://www.ntv.com.tr/dunya/israilli-profesorun-katliam-plani-700-kisiyi-katledecekti-1745468"
+          "title": "Trump \"Bana verin\" diyordu. Nobel Barış Ödülü'nün sahibi belli oldu",
+          "summary": "Norveç Nobel Komitesi, 2026 Nobel Barış Ödülü'nü apartheid rejimine karşı mücadelesiyle tanınan 85 yaşındaki Güney Afrikalı hukukçu Navanethem \"Navi\" Pillay'a verdi. Norveç Nobel Komitesi, 2026 Nobel Barış Ödülü'nü Güney Afrikalı hukukçu ve eski Birleşmiş Milletler (BM) İnsan Hakları Yüksek Komiseri Navanethem \"Navi\" Pillay'a verdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-bana-verin-diyordu-nobel-baris-odulunun-sahibi-belli-oldu-1745532"
         },
         {
-          "title": "New York'ta ICE ajanı göçmeni vurdu",
-          "summary": "ABD'nin New York kentinde Göçmenlik ve Gümrük Muhafaza Dairesi (ICE) ajanlarının düzenlediği operasyon sırasında 28 yaşındaki bir göçmenin vurulması tepkilere neden oldu. Araçta 5 yaşında bir çocuğun da bulunduğu olayın ardından bölgede protestolar başladı. New York Belediye Başkanı Zohran Mamdani, Başkan Donald Trump'tan kentteki ICE operasyonlarını durdurmasını isteyeceğini açıklarken, New York Valisi Kathy Hochul federal makamlardan şeffaflık talep etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/new-yorkta-ice-ajani-gocmeni-vurdu-43334767"
+          "title": "İngiltere'de ikinci üs krizi: Gözaltına alındılar",
+          "summary": "İngiltere'nin Cambridgeshire bölgesindeki Kraliyet Hava Kuvvetleri (RAF) Molesworth askeri üssüne izinsiz girdikleri şüphesiyle 2 Letonyalı gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-ikinci-us-krizi-gozaltina-alindilar-43335143"
         },
         {
-          "title": "USS Abraham Lincoln, 265 günlük rekorun ardından ABD'ye döndü",
-          "summary": "İran Savaşı için 265 gün açık deniz görevi yürüten, küflü duşlar, bozuk tuvaletler ve intihar girişimleriyle gündemden düşmeyen USS Abraham Lincoln, 5 bin denizci ve piyadeyle ABD'ye döndü. Amerikan ordusunun, yaklaşık 9 aydır denizaşırı görevde olan ve bu sürenin büyük bölümünü Orta Doğu'da geçiren uçak gemisi USS Abraham Lincoln, San Diego Körfezi'nde törenle karşılandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-uss-abraham-lincoln-265-gunluk-rekorun-ardindan-abdye-dondu-1745467"
+          "title": "Suudi Arabistan açıkladı: Saldırılarda 3 kişi öldü",
+          "summary": "Suudi Arabistan, dün düzenlenen saldırılarda 3 vatandaşının öldüğünü ve çok sayıda kişinin yaralandığını açıkladı",
+          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistan-acikladi-saldirilarda-3-kisi-oldu-43335001"
         },
         {
-          "title": "90 yıl sonra bir ilk. Halka açık şekilde kurşuna dizilerek idam edilecek",
-          "summary": "ABD yönetimi, 1936'dan sonra ilk kez bir idam mahkumunu halka açık infaz etmeye hazırlanıyor. Savunma Bakanı, 2009'daki Fort Hood Üssü saldırganının halka açık şekilde kurşuna dizileceğini söyledi. ABD kamuoyunda, Tennessee eyaletinde zehirli iğneyle yürütülen infaz girişiminden sağ kurtulan ilk idam mahkumu Christa Pike'ın ardından yeni bir idam tartışması başladı.",
-          "source": "https://www.ntv.com.tr/dunya/90-yil-sonra-bir-ilk-halka-acik-sekilde-kursuna-dizilerek-idam-edilecek-1745464"
+          "title": "İsrail'i sarsan itiraf: Netanyahu'nun telefon kayıtları değiştirildi mi?",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun eski askeri sekreteri Avi Gil, ülke gündemini sarsan itirafta bulundu. Gil, Netanyahu'nun 7 Ekim sabahı yaptığı telefon görüşmelerinin kayıtlarında değişiklik yapılmaya çalışıldığını öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/israili-sarsan-itiraf-netanyahunun-telefon-kayitlari-degistirildi-mi-43334985"
         },
         {
-          "title": "Yapay zekâ artık reçete yazacak",
-          "summary": "ABD’nin Utah eyaletinde, yapay zekânın doktor muayenesi olmadan hastaları değerlendirerek sınırlı sayıdaki ilaç için reçete oluşturmasına olanak tanıyan bir pilot program başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/yapay-zeka-artik-recete-yazacak-43334762"
+          "title": "Şili'yi sel vurdu: Başkentte 'acil durum'",
+          "summary": "Şili'nin başkenti Santiago'da şiddetli yağışların yol açtığı sel nedeniyle acil durum ilan edildi. Mapocho Nehri'nin taşmasıyla evler ve yollar sular altında kalırken, 12 binden fazla haneye elektrik verilemiyor ve mahsur kalan vatandaşlar helikopterlerle tahliye ediliyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/siliyi-sel-vurdu-baskentte-acil-durum-43334905"
         },
         {
-          "title": "Denizde boğulan 3 kız kardeşin ölümü \"toplu intihar\" çıktı. Anneleri de gölde canına kıymış",
-          "summary": "İngiltere'nin güneyinde mayıs ayında denizde cesetleri bulunan 3 kız kardeşin, toplu şekilde intihar ettiği; annelerinin de 16 yıl önce bir gölün sularında kendi canına kıydığı ortaya çıktı. İngiltere'nin güneyindeki Brighton kentinde geçen 13 Mayıs'ta denizde cansız bedenleri çıkarılan 3 kız kardeşin ölümüyle ilgili trajik gerçek ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/dunya/denizde-bogulan-3-kiz-kardesin-olumu-toplu-intihar-cikti-anneleri-de-golde-canina-kiymis-1745438"
+          "title": "Eski prens hakkındaki deliller tehlikede. Epstein krizinde polisten usul hatası itirafı",
+          "summary": "İngiliz polisi, Kral Charles'ın kardeşi Andrew Mountbatten-Windsor'ın mülklerinde yapılan aramalara dair izin kararlarının hukuka aykırı olduğunu duyurdu. İngiliz polisi, Kral 3. Charles'ın kardeşi ve eski prens Andrew Mountbatten-Windsor'ın mülklerinde arama yapılmasına imkan tanıyan izin kararlarının hukuka aykırı şekilde alındığını ve iptal edilmesi gerektiğini açıkladı. Emniyet yetkilileri, hukuki hataya karşın eski prense yönelik ceza soruşturmasının sürdüğünü bildirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-eski-prens-hakkindaki-deliller-tehlikede-epstein-krizinde-polisten-usul-hatasi-itirafi-1745498"
         },
         {
-          "title": "Beyaz Saray'da gündem olan kadın: Susan Dell kimdir?",
-          "summary": "ABD Başkanı Donald Trump'ın Beyaz Saray'da ağırladığı, teknoloji devi Dell'in kurucusu Michael Dell'in eşi Susan Dell sosyal medyada gündem oldu. ABD Başkanı Donald Trump'ın Beyaz Saray'da düzenlediği etkinliğe katılan Susan Dell, sosyal medyanın en çok konuşulan isimlerinden biri oldu. Teknoloji şirketi Dell'in kurucusu milyarder Michael Dell'in eşi olan Susan Dell, 7 Ekim'de Beyaz Saray'da çocuklar için oluşturulan yatırım hesaplarına ilişkin düzenlenen toplantıda konuştu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-beyaz-sarayda-gundem-olan-kadin-susan-dell-kimdir-1745459"
+          "title": "Meksika'daki hapishanede dehşet: Ziyaret saatinde cehennemi yaşadılar",
+          "summary": "Meksika'nın Sinaloa eyaletindeki hapishanede ziyaret saatlerinde çıkan isyan kanlı bitti. Ateşli silahların kullanıldığı olayda 9 mahkum ve bir mahkum yakını hayatını kaybederken, 16 mahkum yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/meksikadaki-hapishanede-dehset-ziyaret-saatinde-cehennemi-yasadilar-43334872"
         }
       ]
     },
     "ekonomi": {
-      "text": "\"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları. Bitcoin yeniden 86 bin doların üzerine çıktı.",
+      "text": "İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları.",
       "items": [
+        {
+          "title": "İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi",
+          "summary": "Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü Tütün ve Tütün Mamulleri Kaçakçılığıyla Mücadele Özel Ekibi ile İzmir Gümrük Muhafaza Kaçakçılık ve İstihbarat Müdürlüğü ekiplerince Kemalpaşa ilçesinde kaçak üretim yapılan fabrikaya düzenlenen operasyonda, 125 milyon 480 bin TL değerinde tütün mamulü üretiminde kullanılan makine ve eşya ele geçirildi. Olayla ilgili 1 şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmirde-dev-kacak-tutun-baskini-125-4-milyon-tllik-malzeme-ele-gecirildi-43335060"
+        },
         {
           "title": "\"Sanayimizi korurken geleceğe hazırlamalıyız\"",
           "summary": "EGE Sanayicileri ve İş İnsanları Derneği (ESİAD), sanayinin mevcut sorunlarını ve değişen rekabet koşullarını iş dünyasının deneyimleri üzerinden ele aldığı Sanayi Çalıştayı’nın sonuçlarını rapor haline getirdi.",
@@ -115,21 +120,57 @@
           "title": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları",
           "summary": "Borsa İstanbul'da BIST 100 endeksi haftalık bazda yüzde 4,88, altının gram fiyatı yüzde 1,53 ve avro/TL yüzde 0,69 değer kaybederken, dolar/TL yüzde 0,14 değer kazandı.",
           "source": "https://www.hurriyet.com.tr/gundem/borsa-altin-dolar-iste-haftanin-en-cok-kazandiran-yatirim-araclari-43327645"
-        },
-        {
-          "title": "Bitcoin yeniden 86 bin doların üzerine çıktı",
-          "summary": "Küresel kripto para piyasasının toplam değeri son 24 saatte yüzde 2,27 artarak 2 trilyon 930 milyar dolara yükselirken, bitcoin haftalık yüzde 2,6 değer kazandı. Kripto para piyasasında hareketlilik sürerken, bitcoinin fiyatı eylül ayındaki güçlü toparlanma ve ekim ayına yönelik tarihsel yükseliş beklentilerinin etkisiyle yeniden 86 bin doların üzerine çıktı.",
-          "source": "https://www.ntv.com.tr/ekonomi/bitcoin-yeniden-86-bin-dolarin-uzerine-cikti-1744517"
         }
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "Beşiktaş'tan transfer teklifi! Trossard konuşacak. Fenerbahçe, Çaykur Rizespor'a konuk olacak. Süper Lig’de Heyecan Kaldığı Yerden Devam Ediyor! Avrupa’da Cuma Bülteni Dopdolu… İşte Misli’de Günün En Çok Oynanan Maçları…. Trabzonspor, Samsunspor'a konuk olacak. Fenerbahçe’de Mert Hakan ve sakatlık müjdesi! Eli ilk kez güçlü. Tedesco için ayrılık itirafı! 'Bu kadar erken beklemiyordum'. EuroLeague’deki iki temsilcimiz parkeye çıkıyor! Maçların heyecanı canlı yayın ile Misli’de.",
+      "items": [
+        {
+          "title": "Beşiktaş'tan transfer teklifi! Trossard konuşacak",
+          "summary": "Beşiktaş'ın ocak transfer sezonunda devreye gireceği yıldız için Trossard kozu kullanılacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-transfer-teklifi-trossard-konusacak-43335260"
+        },
+        {
+          "title": "Fenerbahçe, Çaykur Rizespor'a konuk olacak",
+          "summary": "Fenerbahçe, Süper Lig'in 7. haftasında yarın Çaykur Rizespor'la deplasmanda karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-caykur-rizespora-konuk-olacak-43335236"
+        },
+        {
+          "title": "Süper Lig’de Heyecan Kaldığı Yerden Devam Ediyor! Avrupa’da Cuma Bülteni Dopdolu… İşte Misli’de Günün En Çok Oynanan Maçları…",
+          "summary": "Misli’de günün iddaa programı içerisinde en çok oynanan bahisleri ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-heyecan-kaldigi-yerden-devam-ediyor-avrupada-cuma-bulteni-dopdolu-iste-mislide-gunun-en-cok-oynanan-maclari-43335192"
+        },
+        {
+          "title": "Trabzonspor, Samsunspor'a konuk olacak",
+          "summary": "Trabzonspor, Süper Lig'in 7. haftasında yarın deplasmanda Samsunspor ile karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-samsunspora-konuk-olacak-43335193"
+        },
+        {
+          "title": "Fenerbahçe’de Mert Hakan ve sakatlık müjdesi! Eli ilk kez güçlü",
+          "summary": "Milli ara sonrası Rizespor ile karşılaşacak Fenerbahçe’de, teknik direktör İsmail Kartal’ın eli ilk sezon başından bu yana ilk kez güçlü olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-mert-hakan-ve-sakatlik-mujdesi-eli-ilk-kez-guclu-43335085"
+        },
+        {
+          "title": "Tedesco için ayrılık itirafı! 'Bu kadar erken beklemiyordum'",
+          "summary": "Bologna'nın eski oyuncusu Tomas Locatelli, Domenico Tedesco'nun İtalyan ekibinden ayrılığı hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tedesco-icin-ayrilik-itirafi-bu-kadar-erken-beklemiyordum-43335045"
+        },
+        {
+          "title": "EuroLeague’deki iki temsilcimiz parkeye çıkıyor! Maçların heyecanı canlı yayın ile Misli’de",
+          "summary": "EuroLeague'in 4. haftasında temsilcilerimiz Beşiktaş ile Anadolu Efes parkeye çıkıyor. Maçların heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguedeki-iki-temsilcimiz-parkeye-cikiyor-maclarin-heyecani-canli-yayin-ile-mislide-43335010"
+        }
+      ]
     },
     "teknoloji": {
-      "text": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı.",
+      "text": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi.",
       "items": [
+        {
+          "title": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu",
+          "summary": "Yapay zeka şirketi OpenAI, gizli şirket bilgilerini sızdırdıkları gerekçesiyle üç güvenlik araştırmacısının işine son verdi. ChatGPT sohbet botunun geliştiricisi olan ABD merkezli teknoloji devi OpenAI, hassas şirket bilgilerinin kullanımıyla ilgili şirket içi kuralları ihlal ettikleri gerekçesiyle üç güvenlik araştırmacısının işine son verdi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-openaida-kriz-uc-yapay-zeka-arastirmacisi-kovuldu-1745509"
+        },
         {
           "title": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü",
           "summary": "Türkiye’nin milli teknoloji hamlesinde tarihi bir milat daha geride kaldı. Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ile T.C. Sanayi ve Teknoloji Bakanlığı yürütücülüğünde, 157 paydaş kurumun güçlü desteğiyle 30 Eylül - 4 Ekim tarihleri arasında Şanlıurfa GAP Havalimanında düzenlenen TEKNOFEST Güneydoğu, dev bir coşku ve rekor katılımla tamamlandı.",
@@ -159,11 +200,6 @@
           "title": "Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi",
           "summary": "Norveç hükümeti, mahremiyet kaygıları nedeniyle park, okul ve plaj gibi kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmeyi planlıyor. Norveç hükümeti, kişilerin bilgisi ve rızası dışında görüntü kaydı yapılmasının yarattığı mahremiyet endişeleri nedeniyle kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmek istiyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-akilli-gozluklere-tepki-buyuyor-satislar-durdu-pes-pese-davalar-geldi-1744941"
-        },
-        {
-          "title": "Yapay Zeka ve Makine Öğrenimi Zirvesi tamamlandı",
-          "summary": "Alışveriş platformu Trendyol, yapay zekâ ve makine öğrenmesi çözümlerini “Yapay Zeka/Makine Öğrenimi Zirvesi: Ölçeklenebilir Yapay Zeka” (AI/ML Summit: AI at Scale) buluşmasında profesyoneller ve akademisyenlerle paylaştı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-ve-makine-ogrenimi-zirvesi-tamamlandi-43330538"
         }
       ]
     },
