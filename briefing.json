@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-10T10:00:03.895Z",
+  "generatedAt": "2026-10-10T16:00:03.956Z",
   "categories": {
     "gundem": {
-      "text": "İETT otobüsü duvara çarptı: 4 yolcu yaralandı. Mezopotamya’nın kalbi dokuz gün boyunca kültür, sanat ve gastronominin merkezi olacak. Raporlu ilaç kullananlar dikkat: Reçete yazdırma dönemi bitiyor. Ataşehir'de belediye AK Parti'ye geçti. 6 ilde rüşvet operasyonu: Damal Belediye Başkanı dahil 10 kişi gözaltına alındı. ASELSAN'dan drone avcısı: GÖKALP. Canlı yayında, genç kızlara gazinoda çalışma çağrısı yapmıştı! 'Reşo' ve kız arkadaşına 3 yıl hapsi istemi.",
+      "text": "Eyüpsultan Belediyesi başkanvekili seçimi. CHP'li Cafer Parlak kazandı. Ümraniye'de ağaçların arasında el bombası bulundu. Cumhurbaşkanı Erdoğan'dan Uluslararası Demokratlar Birliği Genel Kuruluna mesaj. Cumhurbaşkanı Erdoğan: Yurt dışındaki kardeşlerimizi yalnız bırakmayız. Ankara Büyükşehir Belediyesi'nden Mansur Yavaş açıklaması. TBMM Başkanı Kurtulmuş: Şimdi bizim önümüzde yepyeni bir yol, daha zor bir yol var. 20 yıl önceki cinayet aydınlatıldı: Çocukları öldürüp araziye gömmüş.",
       "items": [
         {
-          "title": "İETT otobüsü duvara çarptı: 4 yolcu yaralandı",
-          "summary": "İstanbul Sultangazi'de İETT otobüsü henüz bilinmeyen bir nedenle saat 11.30 sıralarında duvara çarptı. Kazada ilk belirlemelere göre 4 yolcu yaralandı. Olay yerine çok sayıda ekip sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/iett-otobusu-duvara-carpti-4-yolcu-yaralandi-43336517"
+          "title": "Eyüpsultan Belediyesi başkanvekili seçimi. CHP'li Cafer Parlak kazandı",
+          "summary": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanmasının ardından belediye meclis üyeleri yeni başkanvekilini seçti. CHP'nin adayı Cafer Parlak başkanvekili seçildi. Geçtiğimiz günlerde Eyüpsultan Belediye Başkanı Mithat Bülent Özmen \"kamu kurum veya kuruluşlarının ihalesine fesat karıştırmak\", \"rüşvet almak\" ve \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklanmıştı. Bugün görevden uzaklaştırılan Özmen'in yerine belediye meclisinde seçim yapıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesi-baskanvekili-secimi-chpli-cafer-parlak-kazandi-1745683"
         },
         {
-          "title": "Mezopotamya’nın kalbi dokuz gün boyunca kültür, sanat ve gastronominin merkezi olacak",
-          "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali’nin 22. durağı Diyarbakır’da, dokuz günlük kültür, sanat ve gastronomi maratonu başladı. Festival kapsamında 14 farklı mekanda düzenlenecek 249 etkinlik, Diyarbakır’ın binlerce yıllık kültürel mirasını sanatın farklı dallarıyla buluşturacak. Gastronomi programı kapsamında belirlenen 48 Lezzet Noktası ise kentin zengin mutfak kültürünü ve yöresel lezzetlerini ziyaretçilere sunacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/mezopotamyanin-kalbi-dokuz-gun-boyunca-kultur-sanat-ve-gastronominin-merkezi-olacak-43336511"
+          "title": "Ümraniye'de ağaçların arasında el bombası bulundu",
+          "summary": "İstanbul Ümraniye'de bir mobilya imalathanesi önünde ağaçların arasına saklanmış çanta içerisinde el bombası bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/umraniyede-agaclarin-arasinda-el-bombasi-bulundu-43336970"
         },
         {
-          "title": "Raporlu ilaç kullananlar dikkat: Reçete yazdırma dönemi bitiyor",
-          "summary": "Raporlu ilaç kullanan hastalar için yeni bir düzenlemeye gidiliyor. Yeni düzenlemeyle birlikte raporu olan hastaların reçete yazdırmak için yeniden doktora gitmesine gerek kalmayacak. Sağlık Bakanlığı, raporlu ilaç kullanan hastaların, rapor süresi boyunca yeniden reçete yazdırmak için doktora gitmeden ilaçlarını eczaneden alabilmesini sağlayacak bir sistem üzerinde çalışıyor. Sağlık Bakanı Kemal Memişoğlu, söz konusu yenilik için Çalışma ve Sosyal Güvenlik Bakanlığı'yla birlikte çalıştıklarını anlattı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-raporlu-ilac-kullananlar-dikkat-her-ay-recete-yazdirma-devri-bitiyor-1745661"
+          "title": "Cumhurbaşkanı Erdoğan'dan Uluslararası Demokratlar Birliği Genel Kuruluna mesaj",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan Uluslararası Demokratlar Birliği Genel Kurulu için bir video mesaj gönderdi. Erdoğan mesajında, \"Yurt dışında yaşayan kardeşlerimizi asla bırakmayacağız\" dedi. Cumhurbaşkanı Erdoğan, merkezi Almanya'da bulunan Uluslararası Demokratlar Birliği'nin (UID) 9. Olağan Genel Kurulu'na video mesaj gönderdi.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-uluslararasi-demokratlar-birligi-genel-kuruluna-mesaj-1745718"
         },
         {
-          "title": "Ataşehir'de belediye AK Parti'ye geçti",
-          "summary": "İstanbul Ataşehir'de düzenlenen başkanvekilliği seçimini Cumhur İttifakı'nın adayı Serdar Orhan kazandı. İstanbul'un iki ilçesinde belediye meclis üyeleri, yeni başkanvekilini belirlemek üzere sandık başına gitti. İlk seçim, Ataşehir'de yapıldı. CHP grubunun salona gelmediği oylamaya Cumhur İttifakı'nın adayı Serdar Orhan tek aday olarak girdi. Orhan 18 oy alarak Ataşehir Belediye Başkanvekilliği'ne seçildi. Böylece ilçe belediyesi, AK Parti'ye geçmiş oldu.",
-          "source": "https://www.ntv.com.tr/turkiye/atasehir-ak-partiye-gecti-1745630"
+          "title": "Cumhurbaşkanı Erdoğan: Yurt dışındaki kardeşlerimizi yalnız bırakmayız",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"UID ailesi, kalplerinde memleket hasreti taşıyan kardeşlerimizin bulundukları ülkelerde daha iyi yerlere gelebilmek için, kimlik ve kültürlerini muhafaza edebilmesi için demokratik katılım dahil, içinde yaşadıkları topluma azami katkı verebilmesi için ciddi bir gayret sarf ediyor. Eş zamanlı olarak kültürel ırkçılık, İslam düşmanlığı ve yabancı karşıtlığı gibi sorunların çözümüne yönelik önemli bir çaba harcıyor.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-yurt-disindaki-kardeslerimizi-yalniz-birakmayiz-43336929"
         },
         {
-          "title": "6 ilde rüşvet operasyonu: Damal Belediye Başkanı dahil 10 kişi gözaltına alındı",
-          "summary": "Ardahan merkezli 6 ilde düzenlenen ‘rüşvet’ operasyonunda, aralarında Damal Belediye Başkanı Kemal Çamlıyurt’un da bulunduğu 10 kişi gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/6-ilde-rusvet-operasyonu-damal-belediye-baskani-dahil-10-kisi-gozaltina-alindi-43336497"
+          "title": "Ankara Büyükşehir Belediyesi'nden Mansur Yavaş açıklaması",
+          "summary": "Ankara Büyükşehir Belediyesi (ABB), Belediye Başkanı Mansur Yavaş'ın farkı siyasi partiye katılacağı iddialarının gerçeği yansıtmadığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankara-buyuksehir-belediyesinden-mansur-yavas-aciklamasi-43336916"
         },
         {
-          "title": "ASELSAN'dan drone avcısı: GÖKALP",
-          "summary": "ASELSAN tarafından geliştirilen GÖKALP İHA Önleme Sistemi, radar ve elektro-optik sistemlerle tehditleri tespit ediyor, avcı dronelarıyla düşman dronelarını otonom olarak etkisiz hale getiriyor. ASELSAN tarafından geliştirilen GÖKALP İHA Önleme Sistemi, radar ve elektro-optik sistemlerle tehditleri tespit ediyor, avcı dronlarıyla düşman dronelarının oluşturduğu tehdidi otonom olarak ortadan kaldırıyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-aselsandan-drone-avcisi-gokalp-1745656"
+          "title": "TBMM Başkanı Kurtulmuş: Şimdi bizim önümüzde yepyeni bir yol, daha zor bir yol var",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, İlim Yayma Cemiyeti 75. Yıl Buluşması'nda yaptığı konuşmada, \"İlim Yaymanın 75 yıllık genel tarihini özetlersek Türkiye'de yaygın bir dua vardır: 'Allah hayırları fethede, şerleri defede.' İlim Yayma camiası, şerleri defeden, hayırları fetheden bir camiadır\" dedi. Kurtulmuş, \"Yokluk ve kıtlık zamanlarında, zorluk ortamlarında nice mücadelelerle bu işi buraya getirdiler. Şimdi bizim önümüzde yepyeni bir yol, daha zor bir yol var.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-simdi-bizim-onumuzde-yepyeni-bir-yol-daha-zor-bir-yol-var-43336905"
         },
         {
-          "title": "Canlı yayında, genç kızlara gazinoda çalışma çağrısı yapmıştı! 'Reşo' ve kız arkadaşına 3 yıl hapsi istemi",
-          "summary": "Yalova'da sosyal medya üzerinden canlı yayın yapan yaparak genç kızları gazinoda çalışmaya davet eden, 'Reşo' takma adlı Tevfik Beyhan ile kız arkadaşı Dilan P. hakkında ‘Fuhşu kolaylaştırmak veya fuhşa aracılık etmek amacıyla hazırlanmış görüntü, yazı ve sözleri içeren ürünleri verme, dağıtma veya yayma’ suçundan 3 yıla kadar hapis cezası istemiyle dava açıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/canli-yayinda-genc-kizlara-gazinoda-calisma-cagrisi-yapmisti-reso-ve-kiz-arkadasina-3-yil-hapsi-istemi-43336453"
+          "title": "20 yıl önceki cinayet aydınlatıldı: Çocukları öldürüp araziye gömmüş",
+          "summary": "Kırşehir'de 2006'da ailesi tarafından kayıp başvurusu yapılan Rıza Güzel'e ilişkin soruşturmayı, tanık beyanları çözdü. Güzel'in kemikleri 20 yıl sonra boş arazide bulunurken 2 oğlu tutuklandı. Kırşehir'in Akpınar ilçesi Köşker köyünde 2006'da ailesi tarafından kayıp başvurusu yapılan Rıza Güzel'in ölümüne ilişkin soruşturma, 4 ildeki tanık beyanlarıyla çözüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/20-yil-onceki-cinayet-aydinlatildi-cocuklari-oldurup-araziye-gommus-1745715"
         }
       ]
     },
     "dunya": {
-      "text": "Avrupa ülkesinden Türkiye'ye teşekkür. Zelenski küplere bindi: Trump'tan tek kelimelik yanıt... ABD'den Rusya'ya teşekkür! 'Telefonu kapatmak istemediler'. Tüm dünyayı çalkalayan eğitim sisteminin akılalmaz çöküşü! İhmal iddiaları ve karanlık iç yüzü... Almanya'da aşırı sağa uygulanan siyasi tecrit kalkıyor. AfD'den ilk meclis başkanı. Putin - Trump görüşmesi | 1,5 saat konuştular, telefonu bırakamadılar. \"Önce sen kapat\". Güney Kore'de binanın tavan çöktü: Çok sayıda yaralı. Arap Koalisyonu Husilerin 136 hedefini vurdu.",
+      "text": "ABD'de silahlı saldırı... Aralarında çocukların da olduğu çok sayıda ölü var. Çernobil'de korkutan keşif: Felaketten 40 yıl sonra bulundu. Putin'den Trump'a 'İran' önerisi. İran'dan Netanyahu'ya sert sözler: Yozlaşmış bir kumarbaz gibi. Filistin'de seçim tarihi belli oldu: Eş zamanlı yapılacak. ABD'yi 'Isaias' vurdu: Yüz binlerce kişi elektriksiz kaldı. Atina'da Türkiye kavgası! Miçotakis ve muhalefet arasında F-35 krizi.",
       "items": [
         {
-          "title": "Avrupa ülkesinden Türkiye'ye teşekkür",
-          "summary": "Letonya Savunma Bakanı Raivis Melnis, ülkesinin hava sahasının güvenliğinin güçlendirilmesine sağladığı katkı dolayısıyla Türkiye'ye teşekkür etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/avrupa-ulkesinden-turkiyeye-tesekkur-43336557"
+          "title": "ABD'de silahlı saldırı... Aralarında çocukların da olduğu çok sayıda ölü var",
+          "summary": "ABD'nin Pensilvanya eyaletinde düzenlenen silahlı saldırıda, aralarında çocukların da bulunduğu 9 kişi yaşamını yitirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-silahli-saldiri-9-olu-43336943"
         },
         {
-          "title": "Zelenski küplere bindi: Trump'tan tek kelimelik yanıt... ABD'den Rusya'ya teşekkür! 'Telefonu kapatmak istemediler'",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, ABD ile Rusya arasında dizel yakıt tedariki konusunda anlaşmaya varılmasına sert tepki gösterdi. Zelenski, Rusya'ya yönelik yaptırımların hafifletilmesini “açık bir zayıflık göstergesi” olarak nitelendirirken Trump, bu eleştiriye tek kelimeyle yanıt verdi. Öte yandan Kremlin, iki liderin yaklaşık 1,5 saat süren telefon görüşmesine ilişkin detayları açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/zelenski-kuplere-bindi-trumptan-tek-kelimelik-yanit-abdden-rusyaya-tesekkur-telefonu-kapatmak-istemediler-43336520"
+          "title": "Çernobil'de korkutan keşif: Felaketten 40 yıl sonra bulundu",
+          "summary": "Çernobil faciasının üzerinden yaklaşık 40 yıl geçmesine rağmen, çevreye yayılan radyoaktif yakıt parçacıklarının yapısını koruduğu ortaya çıktı. Bilim insanları, mikroskobik parçacıkların hâlâ radyoaktif madde kaynağı olabileceği ve ciddi sağlık riski oluşturabileceği uyarısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/cernobilde-korkutan-kesif-felaketten-40-yil-sonra-bulundu-43336906"
         },
         {
-          "title": "Tüm dünyayı çalkalayan eğitim sisteminin akılalmaz çöküşü! İhmal iddiaları ve karanlık iç yüzü...",
-          "summary": "Ebeveynlerin ve eğitim dünyasının yakından tanıdığı, çocukların kendi hızlarında keşfederek öğrenmesini temel alan Montessori metodu, son yıllarda tüm dünyada büyük bir ilgi görüyor. Ancak bu güvenilir eğitim felsefesi, kontrolsüz bir büyüme hırsı ve agresif bir iş modeliyle birleştiğinde tarihin en büyük skandallarından birine dönüştü. İşte vizyoner bir eğitim hayaliyle başlayıp 440 milyon dolarlık devasa bir fiyaskoyla sonuçlanan çarpıcı hikâye...",
-          "source": "https://www.hurriyet.com.tr/dunya/tum-dunyayi-calkalayan-egitim-sisteminin-akilalmaz-cokusu-ihmal-iddialari-ve-karanlik-ic-yuzu-43308551"
+          "title": "Putin'den Trump'a 'İran' önerisi",
+          "summary": "Sözcüsü Dmitriy Peskov, “Rusya Devlet Başkanı Vladimir Putin, İran tarafının çatışmanın olası çözümüne ilişkin görüşünü ABD Başkanı Donald Trump'a iletti” dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/putinden-trumpa-iran-onerisi-43336832"
         },
         {
-          "title": "Almanya'da aşırı sağa uygulanan siyasi tecrit kalkıyor. AfD'den ilk meclis başkanı",
-          "summary": "Almanya'nın Saksonya-Anhalt eyaletinde ana akım partilerden en az dört milletvekilinin parti kararına uymayarak aşırı sağcı AfD'li adaya oy vermesi, Berlin'deki siyasi tecrit duvarını sarstı. Almanya'da ana akım siyasi partilerin aşırı sağcı Almanya için Alternatif (AfD) partisini tecrit etmek amacıyla uyguladığı ve \"güvenlik duvarı\" (firewall) olarak adlandırılan işbirliği yasağının zayıfladığına yönelik emareler artıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-asiri-saga-uygulanan-siyasi-tecrit-kalkiyor-afdden-ilk-meclis-baskani-1745655"
+          "title": "İran'dan Netanyahu'ya sert sözler: Yozlaşmış bir kumarbaz gibi",
+          "summary": "İran Dışişleri Bakanı Abbas Arakçi, İsrail Başbakanı Binyamin Netanyahu’nun “Yozlaşmış bir kumarbaz gibi çaresizce daha fazla Amerikan kanı ve servetiyle kendini kurtarmaya çalıştığını” savundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-netanyahuya-sert-sozler-yozlasmis-bir-kumarbaz-gibi-43336814"
         },
         {
-          "title": "Putin - Trump görüşmesi | 1,5 saat konuştular, telefonu bırakamadılar. \"Önce sen kapat\"",
-          "summary": "Rusya Devlet Başkanı Putin ile ABD Başkanı Trump arasındaki telefon görüşmesinde iki liderin de konuşmayı ilk sonlandıran taraf olmak istemediği ve telefonları aynı anda kapattığı açıklandı. Rusya Devlet Başkanı Vladimir Putin ile ABD Başkanı Donald Trump arasındaki 1,5 saat süren telefon görüşmesinde iki liderin de konuşmayı sonlandırmak istemediği ve ahizeleri aynı anda kapattığı bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-15-saat-surdu-ikisi-de-telefonu-kapatmak-istemedi-putin-ve-trump-ne-konustu-1745646"
+          "title": "Filistin'de seçim tarihi belli oldu: Eş zamanlı yapılacak",
+          "summary": "Filistin Devlet Başkanı Mahmud Abbas, devlet başkanlığı ve genel seçimlerin 11 Eylül 2027'de eş zamanlı yapılması için kararname yayımladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/filistinde-secim-tarihi-belli-oldu-es-zamanli-yapilacak-43336810"
         },
         {
-          "title": "Güney Kore'de binanın tavan çöktü: Çok sayıda yaralı",
-          "summary": "Güney Kore'nin Daegu kentinde bir binada tavanın çökmesi sonucu 38 kişinin yaralandığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/guney-korede-binanin-tavan-coktu-cok-sayida-yarali-43336439"
+          "title": "ABD'yi 'Isaias' vurdu: Yüz binlerce kişi elektriksiz kaldı",
+          "summary": "Atlantik bölgesinde 2026 sezonunun ilk kasırgası olan Isaias, ABD'nin güneydoğusundaki Florida eyaletinde karaya çıktı. Şiddetli fırtına ve yağışa yol açan kasırga nedeniyle 800 binden fazla ev ve iş yeri elektriksiz kaldı. Florida, Georgia ve Alabama'da acil durum ilan edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdyi-isaias-vurdu-yuz-binlerce-kisi-elektriksiz-kaldi-43336772"
         },
         {
-          "title": "Arap Koalisyonu Husilerin 136 hedefini vurdu",
-          "summary": "Yemen'de Suudi Arabistan öncülüğündeki Arap Koalisyonu, Husiler'e ait 136 askeri hedefin imha edildiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/arap-koalisyonu-husilerin-136-hedefini-vurdu-43336378"
+          "title": "Atina'da Türkiye kavgası! Miçotakis ve muhalefet arasında F-35 krizi",
+          "summary": "Yunanistan Başbakanı Kiryakos Miçotakis, ABD'nin Türkiye'ye olası F-35 savaş uçakları satışı üzerinden muhalefeti sert sözlerle eleştirdi. Muhalefet ise Miçotakis'in açıklamalarına karşı çıkarak Türkiye'nin F-35 sipariş sürecinin geçmişine ilişkin farklı bir tablo ortaya koydu.",
+          "source": "https://www.hurriyet.com.tr/dunya/atinada-turkiye-kavgasi-micotakis-ve-muhalefet-arasinda-f-35-krizi-43336661"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Galatasaray'a İngiltere'den teklif! Ocakta ayrılık kapıda. Beşiktaş, Kocaelispor'u konuk edecek. Trabzonspor, Samsunspor ile karşı karşıya gelecek! Maçın heyecanı Misli'de. Fenerbahçe, Rize deplasmanında! Maçın heyecanı Misli'de. Vincent Aboubakar'dan Beşiktaş açıklaması!. Fenerbahçe'den ilk temas! 20 milyon Euro. Nihat Kahveci’den Galatasaraylı yıldıza: 'Yeniden doğma maçı olabilir!'.",
+      "text": "Melih Kabasakal’dan kırmızı kart özrü: 'Mazereti olamaz!'. Murat Karahan Hull City’de sahne alacak!. Bernd Storck: 'Oyuncularımla sadece bir idman yapabildim'. Fenerbahçe Medicana'dan Hande Baladın açıklaması!. Chelsea, Cole Palmer’ın sözleşmesini 2034 yılına kadar uzattı. TFF'den Vincenzo Montella'ya teşekkür mesajı. Son Ayakta 25.80 Ganyan! 90 TL’ye 60.225 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı….",
       "items": [
         {
-          "title": "Galatasaray'a İngiltere'den teklif! Ocakta ayrılık kapıda",
-          "summary": "Galatasaray'ın Brezilyalı yıldızı Gabriel Sara'ya dair İngiliz basınından önemli bir habere yer verildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-ingiltereden-teklif-ocakta-ayrilik-kapida-43336486"
+          "title": "Melih Kabasakal’dan kırmızı kart özrü: 'Mazereti olamaz!'",
+          "summary": "Trabzonsporlu futbolcu Melih Kabasakal, Samsunspor müsabakasında gördüğü kırmızı kartla ilgili açıklama yaparak, \"Samsunspor maçında gördüğüm kırmızı kartın hiçbir açıklaması ve mazereti olamaz. Kariyerimde ilk kez kırmızı kart görmüş olmanın üzüntüsünü yaşıyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/melih-kabasakaldan-kirmizi-kart-ozru-mazereti-olamaz-43336975"
         },
         {
-          "title": "Beşiktaş, Kocaelispor'u konuk edecek",
-          "summary": "Beşiktaş, Süper Lig'in 7. haftasında yarın Kocaelispor'u ağırlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-kocaelisporu-konuk-edecek-43336516"
+          "title": "Murat Karahan Hull City’de sahne alacak!",
+          "summary": "İngiltere Premier Lig’de mücadele eden Hull City’nin sahibi Acun Ilıcalı, Everton maçı öncesi Murat Karahan'ın mini bir konser vereceğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/murat-karahan-hull-cityde-sahne-alacak-43336973"
         },
         {
-          "title": "Trabzonspor, Samsunspor ile karşı karşıya gelecek! Maçın heyecanı Misli'de",
-          "summary": "Trabzonspor, milli ara sonrası Samsunspor ile deplasmanda karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-samsunspor-ile-karsi-karsiya-gelecek-macin-heyecani-mislide-43336441"
+          "title": "Bernd Storck: 'Oyuncularımla sadece bir idman yapabildim'",
+          "summary": "Gençlerbirliği Teknik Direktörü Bernd Storck, Amed Sportif Faaliyetler müsabakasının ardından yaptığı açıklamada, \"Sabah dörttü buraya geldiğimde. Daha sonra sabahın devamında da bir sağlık kontrolü ile oyuncularımla sadece bir idman yapabildim\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bernd-storck-oyuncularimla-sadece-bir-idman-yapabildim-43336891"
         },
         {
-          "title": "Fenerbahçe, Rize deplasmanında! Maçın heyecanı Misli'de",
-          "summary": "Fenerbahçe, Süper Lig'in 7. haftasında Rizespor'a konuk olacak. Maçı heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-rize-deplasmaninda-macin-heyecani-mislide-43336419"
+          "title": "Fenerbahçe Medicana'dan Hande Baladın açıklaması!",
+          "summary": "Fenerbahçe Medicana, kalça kasında zorlanma ve ödem tespit edilen Hande Baladın’ın tedbir amaçlı pazar günü oynanacak karşılaşmada forma giyemeyeceğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-medicanadan-hande-baladin-aciklamasi-43336837"
         },
         {
-          "title": "Vincent Aboubakar'dan Beşiktaş açıklaması!",
-          "summary": "Beşiktaş'ın eski golcüsü Vincent Aboubakar, siyah-beyazlılarla ilgili açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincent-aboubakardan-besiktas-aciklamasi-43336416"
+          "title": "Chelsea, Cole Palmer’ın sözleşmesini 2034 yılına kadar uzattı",
+          "summary": "Premier Lig ekiplerinden Chelsea, İngiliz futbolcu Cole Palmer’ın sözleşmesinin 2034 yılına kadar uzatıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/chelsea-cole-palmerin-sozlesmesini-2034-yilina-kadar-uzatti-43336807"
         },
         {
-          "title": "Fenerbahçe'den ilk temas! 20 milyon Euro",
-          "summary": "Fenerbahçe, +4 yabancı kuralına uygun transfer gerçekleştirmeye hazırlanıyor. Sarı lacivertliler, 21 yaşındaki oyuncu için ilk görüşmesini gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-ilk-temas-20-milyon-euro-43336355"
+          "title": "TFF'den Vincenzo Montella'ya teşekkür mesajı",
+          "summary": "Türkiye Futbol Federasyonu (TFF), dün gerçekleştirilen toplantıda yolları ayırma kararı aldığı A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella için teşekkür mesajı yayımladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tffden-vincenzo-montellaya-tesekkur-mesaji-43336714"
         },
         {
-          "title": "Nihat Kahveci’den Galatasaraylı yıldıza: 'Yeniden doğma maçı olabilir!'",
-          "summary": "Galatasaray, Süper Lig'in 7. haftasında Kasımpaşa'yı 3-1 mağlup ederek maç fazlasıyla liderliğe yükseldi. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-galatasarayli-yildiza-yeniden-dogma-maci-olabilir-43336254"
+          "title": "Son Ayakta 25.80 Ganyan! 90 TL’ye 60.225 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…",
+          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Bursa 5’li Ganyan koşularında Misli üyesi, 90 TL’ye 60.225 TL Kazandı!",
+          "source": "https://www.hurriyet.com.tr/sporarena/son-ayakta-25-80-ganyan-90-tlye-60-225-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43336748"
         }
       ]
     },
