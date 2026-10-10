@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-10T04:00:03.830Z",
+  "generatedAt": "2026-10-10T10:00:03.895Z",
   "categories": {
     "gundem": {
-      "text": "Maltepe'de kısmen çöken binanın enkazında çalışmalar tamamlandı. Kuzey Marmara Otoyolu'nda feci kaza: 1 ölü. İzmir'de Çeşme Belediyesine yönelik soruşturmada 10 şüpheli tutuklandı. Manisa'da dehşet. Yanan araçta ceset bulundu. Selçuk Bayraktar: TEKNOFEST kuşağıyla insanlığın iyiliğine bir dünyanın inşasını hedefliyoruz. Sosyal medyaya 15 yaş sınırı: Yeni düzenleme Resmi Gazete'de. İletişim Başkanı Duran’dan Suudi Arabistan’a saldırıya kınama.",
+      "text": "İETT otobüsü duvara çarptı: 4 yolcu yaralandı. Mezopotamya’nın kalbi dokuz gün boyunca kültür, sanat ve gastronominin merkezi olacak. Raporlu ilaç kullananlar dikkat: Reçete yazdırma dönemi bitiyor. Ataşehir'de belediye AK Parti'ye geçti. 6 ilde rüşvet operasyonu: Damal Belediye Başkanı dahil 10 kişi gözaltına alındı. ASELSAN'dan drone avcısı: GÖKALP. Canlı yayında, genç kızlara gazinoda çalışma çağrısı yapmıştı! 'Reşo' ve kız arkadaşına 3 yıl hapsi istemi.",
       "items": [
         {
-          "title": "Maltepe'de kısmen çöken binanın enkazında çalışmalar tamamlandı",
-          "summary": "Maltepe'de, ilk üç katının çökmesi sonucunda 5 kişinin hayatını kaybettiği 7 katlı binanın enkazında çalışmalar tamamlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/maltepede-kismen-coken-binanin-enkazinda-calismalar-tamamlandi-43336202"
+          "title": "İETT otobüsü duvara çarptı: 4 yolcu yaralandı",
+          "summary": "İstanbul Sultangazi'de İETT otobüsü henüz bilinmeyen bir nedenle saat 11.30 sıralarında duvara çarptı. Kazada ilk belirlemelere göre 4 yolcu yaralandı. Olay yerine çok sayıda ekip sevk edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/iett-otobusu-duvara-carpti-4-yolcu-yaralandi-43336517"
         },
         {
-          "title": "Kuzey Marmara Otoyolu'nda feci kaza: 1 ölü",
-          "summary": "BAŞAKŞEHİR Kuzey Marmara Otoyolu'nda hafif ticari araç, önce bariyerlere ardından aynı yönde ilerleyen otomobile çarptı. Kazada, çarpmanın etkisiyle yola savrulan hafif ticari aracın sürücüsü hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/kuzey-marmara-otoyolunda-feci-kaza-1-olu-43336203"
+          "title": "Mezopotamya’nın kalbi dokuz gün boyunca kültür, sanat ve gastronominin merkezi olacak",
+          "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali’nin 22. durağı Diyarbakır’da, dokuz günlük kültür, sanat ve gastronomi maratonu başladı. Festival kapsamında 14 farklı mekanda düzenlenecek 249 etkinlik, Diyarbakır’ın binlerce yıllık kültürel mirasını sanatın farklı dallarıyla buluşturacak. Gastronomi programı kapsamında belirlenen 48 Lezzet Noktası ise kentin zengin mutfak kültürünü ve yöresel lezzetlerini ziyaretçilere sunacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/mezopotamyanin-kalbi-dokuz-gun-boyunca-kultur-sanat-ve-gastronominin-merkezi-olacak-43336511"
         },
         {
-          "title": "İzmir'de Çeşme Belediyesine yönelik soruşturmada 10 şüpheli tutuklandı",
-          "summary": "İzmir'de Çeşme Belediyesine yönelik \"suç örgütü kurma, yönetme ve üye olma\", \"rüşvet\", \"irtikap\" ve \"resmi belgede sahtecilik\" iddialarıyla yürütülen soruşturmada gözaltına alınan 12 şüpheliden 10'u tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-cesme-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-43336175"
+          "title": "Raporlu ilaç kullananlar dikkat: Reçete yazdırma dönemi bitiyor",
+          "summary": "Raporlu ilaç kullanan hastalar için yeni bir düzenlemeye gidiliyor. Yeni düzenlemeyle birlikte raporu olan hastaların reçete yazdırmak için yeniden doktora gitmesine gerek kalmayacak. Sağlık Bakanlığı, raporlu ilaç kullanan hastaların, rapor süresi boyunca yeniden reçete yazdırmak için doktora gitmeden ilaçlarını eczaneden alabilmesini sağlayacak bir sistem üzerinde çalışıyor. Sağlık Bakanı Kemal Memişoğlu, söz konusu yenilik için Çalışma ve Sosyal Güvenlik Bakanlığı'yla birlikte çalıştıklarını anlattı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-raporlu-ilac-kullananlar-dikkat-her-ay-recete-yazdirma-devri-bitiyor-1745661"
         },
         {
-          "title": "Manisa'da dehşet. Yanan araçta ceset bulundu",
-          "summary": "Akhisar'da gece saatlerinde yanan otomobilde bir erkeğin cansız bedeni bulundu. Manisa'nın Akhisar ilçesine bağlı Kayalıoğlu Mahallesi'nde yol kenarında yanan otomobili görenler, durumu 112 Acil Çağrı Merkezi'ne bildirdi. Olay yerine itfaiye, jandarma ve sağlık ekipleri sevk edildi. İtfaiye ekiplerinin alevleri söndürmesinin ardından otomobilde bir erkeğe ait ceset bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/manisada-dehset-yanan-aracta-ceset-bulundu-1745609"
+          "title": "Ataşehir'de belediye AK Parti'ye geçti",
+          "summary": "İstanbul Ataşehir'de düzenlenen başkanvekilliği seçimini Cumhur İttifakı'nın adayı Serdar Orhan kazandı. İstanbul'un iki ilçesinde belediye meclis üyeleri, yeni başkanvekilini belirlemek üzere sandık başına gitti. İlk seçim, Ataşehir'de yapıldı. CHP grubunun salona gelmediği oylamaya Cumhur İttifakı'nın adayı Serdar Orhan tek aday olarak girdi. Orhan 18 oy alarak Ataşehir Belediye Başkanvekilliği'ne seçildi. Böylece ilçe belediyesi, AK Parti'ye geçmiş oldu.",
+          "source": "https://www.ntv.com.tr/turkiye/atasehir-ak-partiye-gecti-1745630"
         },
         {
-          "title": "Selçuk Bayraktar: TEKNOFEST kuşağıyla insanlığın iyiliğine bir dünyanın inşasını hedefliyoruz",
-          "summary": "T3 Vakfı Mütevelli Heyeti Başkanı ve Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, \"TEKNOFEST kuşağıyla birlikte yürüdüğümüz bu yolda daha adil, daha güzel, daha iyi, insanlığın iyiliğine bir dünyanın inşasını hedefliyoruz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/selcuk-bayraktar-teknofest-kusagiyla-insanligin-iyiligine-bir-dunyanin-insasini-hedefliyoruz-43336138"
+          "title": "6 ilde rüşvet operasyonu: Damal Belediye Başkanı dahil 10 kişi gözaltına alındı",
+          "summary": "Ardahan merkezli 6 ilde düzenlenen ‘rüşvet’ operasyonunda, aralarında Damal Belediye Başkanı Kemal Çamlıyurt’un da bulunduğu 10 kişi gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/6-ilde-rusvet-operasyonu-damal-belediye-baskani-dahil-10-kisi-gozaltina-alindi-43336497"
         },
         {
-          "title": "Sosyal medyaya 15 yaş sınırı: Yeni düzenleme Resmi Gazete'de",
-          "summary": "Sosyal medya platformlarının 15 yaşından küçüklere hizmet sunmasını yasaklayan yönetmelik Resmi Gazete'de yayımlandı. Yaş doğrulaması e-Devlet üzerinden yapılacak. Sosyal medya kullanımına yönelik yeni düzenleme, 10 Ekim tarihli Resmi Gazete'de yayımlandı. Siber Güvenlik Başkanlığı tarafından hazırlanan yönetmelikle sosyal medya platformlarına yaş doğrulama ve çocukların korunmasına yönelik yeni yükümlülükler getirildi. Yönetmeliğe göre sosyal medya platformları, 15 yaşını doldurmamış çocuklara hizmet sunamayacak.",
-          "source": "https://www.ntv.com.tr/turkiye/sosyal-medyaya-15-yas-siniri-yeni-duzenleme-resmi-gazetede-1745607"
+          "title": "ASELSAN'dan drone avcısı: GÖKALP",
+          "summary": "ASELSAN tarafından geliştirilen GÖKALP İHA Önleme Sistemi, radar ve elektro-optik sistemlerle tehditleri tespit ediyor, avcı dronelarıyla düşman dronelarını otonom olarak etkisiz hale getiriyor. ASELSAN tarafından geliştirilen GÖKALP İHA Önleme Sistemi, radar ve elektro-optik sistemlerle tehditleri tespit ediyor, avcı dronlarıyla düşman dronelarının oluşturduğu tehdidi otonom olarak ortadan kaldırıyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-aselsandan-drone-avcisi-gokalp-1745656"
         },
         {
-          "title": "İletişim Başkanı Duran’dan Suudi Arabistan’a saldırıya kınama",
-          "summary": "İLETİŞİM Başkanı Burhanettin Duran, “Suudi Arabistan’ın güneyinde yer alan Abha Uluslararası Havalimanı ile Riyad’daki Kral Halid Uluslararası Havalimanı’na düzenlenen saldırıları şiddetle kınıyorum” açıklamasında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-suudi-arabistana-saldiriya-kinama-43336134"
+          "title": "Canlı yayında, genç kızlara gazinoda çalışma çağrısı yapmıştı! 'Reşo' ve kız arkadaşına 3 yıl hapsi istemi",
+          "summary": "Yalova'da sosyal medya üzerinden canlı yayın yapan yaparak genç kızları gazinoda çalışmaya davet eden, 'Reşo' takma adlı Tevfik Beyhan ile kız arkadaşı Dilan P. hakkında ‘Fuhşu kolaylaştırmak veya fuhşa aracılık etmek amacıyla hazırlanmış görüntü, yazı ve sözleri içeren ürünleri verme, dağıtma veya yayma’ suçundan 3 yıla kadar hapis cezası istemiyle dava açıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/canli-yayinda-genc-kizlara-gazinoda-calisma-cagrisi-yapmisti-reso-ve-kiz-arkadasina-3-yil-hapsi-istemi-43336453"
         }
       ]
     },
     "dunya": {
-      "text": "Trump, canlı yayında idamı onayladı. Trump ile Putin'den enerji hamlesi: Milyonlarca ton dizel piyasaya sürülecek. Panama'da 7,7 büyüklüğünde deprem. Tsunami alarmı verildi. Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti. Nobel Barış Ödülü'nün ardından ABD'den UCM'ye yaptırım. BAE Başsavcılığı açıkladı. Yardımcı pilot, uçağı havalimanına düşürmeyi planlamış. ABD Dışişleri Bakanı Rubio duyurdu... ABD'den Uluslararası Ceza Mahkemesine yaptırım kararı.",
+      "text": "Avrupa ülkesinden Türkiye'ye teşekkür. Zelenski küplere bindi: Trump'tan tek kelimelik yanıt... ABD'den Rusya'ya teşekkür! 'Telefonu kapatmak istemediler'. Tüm dünyayı çalkalayan eğitim sisteminin akılalmaz çöküşü! İhmal iddiaları ve karanlık iç yüzü... Almanya'da aşırı sağa uygulanan siyasi tecrit kalkıyor. AfD'den ilk meclis başkanı. Putin - Trump görüşmesi | 1,5 saat konuştular, telefonu bırakamadılar. \"Önce sen kapat\". Güney Kore'de binanın tavan çöktü: Çok sayıda yaralı. Arap Koalisyonu Husilerin 136 hedefini vurdu.",
       "items": [
         {
-          "title": "Trump, canlı yayında idamı onayladı",
-          "summary": "ABD Başkanı Donald Trump, 2009'da Fort Hood Üssü'ne saldırı düzenleyen Nidal Hasan adlı Amerikan askerinin kurşuna dizilerek idam edilmesinin canlı yayınlanmasını \"şahsen\" onayladığını açıkladı. ABD yönetimi, 1936'dan sonra ilk kez bir idam mahkumunu halka açık şekilde infaz etmeye hazırlanıyor. ABD Savunma Bakanı Pete Hegseth'in 2009'da Fort Hood Üssü'nde 13 kişiyi öldüren, 32 kişiyi de yaralayan saldırganının halka açık şekilde kurşuna dizileceğini açıklamasıyla başlayan tartışmaya Başkan Trump da katıldı.",
-          "source": "https://www.ntv.com.tr/dunya/trump-canli-yayinda-idami-onayladi-1745612"
+          "title": "Avrupa ülkesinden Türkiye'ye teşekkür",
+          "summary": "Letonya Savunma Bakanı Raivis Melnis, ülkesinin hava sahasının güvenliğinin güçlendirilmesine sağladığı katkı dolayısıyla Türkiye'ye teşekkür etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/avrupa-ulkesinden-turkiyeye-tesekkur-43336557"
         },
         {
-          "title": "Trump ile Putin'den enerji hamlesi: Milyonlarca ton dizel piyasaya sürülecek",
-          "summary": "ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin telefonda görüştü. Trump, Rusya'nın küresel piyasalara milyonlarca ton dizel yakıt sağlayacağını açıkladı. ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin arasında telefon görüşmesi gerçekleştirildi. Görüşmede enerji alanındaki işbirliğinin yanı sıra Ukrayna'daki savaş ve İran'daki gelişmeler ele alındı.",
-          "source": "https://www.ntv.com.tr/dunya/trump-ile-putinden-enerji-hamlesi-milyonlarca-ton-dizel-piyasaya-surulecek-1745598"
+          "title": "Zelenski küplere bindi: Trump'tan tek kelimelik yanıt... ABD'den Rusya'ya teşekkür! 'Telefonu kapatmak istemediler'",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, ABD ile Rusya arasında dizel yakıt tedariki konusunda anlaşmaya varılmasına sert tepki gösterdi. Zelenski, Rusya'ya yönelik yaptırımların hafifletilmesini “açık bir zayıflık göstergesi” olarak nitelendirirken Trump, bu eleştiriye tek kelimeyle yanıt verdi. Öte yandan Kremlin, iki liderin yaklaşık 1,5 saat süren telefon görüşmesine ilişkin detayları açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenski-kuplere-bindi-trumptan-tek-kelimelik-yanit-abdden-rusyaya-tesekkur-telefonu-kapatmak-istemediler-43336520"
         },
         {
-          "title": "Panama'da 7,7 büyüklüğünde deprem. Tsunami alarmı verildi",
-          "summary": "Panama'da meydana gelen depremin ardından altı eyalette elektrikler kesildi. Orta Amerika ülkesi Panama'da meydana gelen 7,7 büyüklüğündeki deprem, ülke genelinde büyük paniğe neden oldu. Çok sayıda evin hasar gördüğü deprem nedeniyle elektrik kesintileri yaşanırken, uçuşlar ve toplu taşıma seferleri durduruldu. ABD Jeolojik Araştırmalar Kurumu (USGS), depremin yerin 12,6 kilometre derinliğinde meydana geldiğini bildirdi. Kurum, depremde can kayıplarının yaşanmış olabileceği uyarısında bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/panamada-77-buyuklugunde-deprem-tsunami-alarmi-verildi-1745592"
+          "title": "Tüm dünyayı çalkalayan eğitim sisteminin akılalmaz çöküşü! İhmal iddiaları ve karanlık iç yüzü...",
+          "summary": "Ebeveynlerin ve eğitim dünyasının yakından tanıdığı, çocukların kendi hızlarında keşfederek öğrenmesini temel alan Montessori metodu, son yıllarda tüm dünyada büyük bir ilgi görüyor. Ancak bu güvenilir eğitim felsefesi, kontrolsüz bir büyüme hırsı ve agresif bir iş modeliyle birleştiğinde tarihin en büyük skandallarından birine dönüştü. İşte vizyoner bir eğitim hayaliyle başlayıp 440 milyon dolarlık devasa bir fiyaskoyla sonuçlanan çarpıcı hikâye...",
+          "source": "https://www.hurriyet.com.tr/dunya/tum-dunyayi-calkalayan-egitim-sisteminin-akilalmaz-cokusu-ihmal-iddialari-ve-karanlik-ic-yuzu-43308551"
         },
         {
-          "title": "Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti",
-          "summary": "Rusya Devlet Başkanı Vladimir Putin, ABD ve küresel piyasalara petrol ve petrol ürünleri tedarik etmeye hazır olduklarını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti-43336077"
+          "title": "Almanya'da aşırı sağa uygulanan siyasi tecrit kalkıyor. AfD'den ilk meclis başkanı",
+          "summary": "Almanya'nın Saksonya-Anhalt eyaletinde ana akım partilerden en az dört milletvekilinin parti kararına uymayarak aşırı sağcı AfD'li adaya oy vermesi, Berlin'deki siyasi tecrit duvarını sarstı. Almanya'da ana akım siyasi partilerin aşırı sağcı Almanya için Alternatif (AfD) partisini tecrit etmek amacıyla uyguladığı ve \"güvenlik duvarı\" (firewall) olarak adlandırılan işbirliği yasağının zayıfladığına yönelik emareler artıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-asiri-saga-uygulanan-siyasi-tecrit-kalkiyor-afdden-ilk-meclis-baskani-1745655"
         },
         {
-          "title": "Nobel Barış Ödülü'nün ardından ABD'den UCM'ye yaptırım",
-          "summary": "Eski UCM yargıcı Navi Pillay'ın Nobel Barış Ödülü'nü kazanmasının ardından ABD, mahkemeye yaptırım uygulama kararı aldı. Karar uluslararası tepki çekti. ABD Dışişleri Bakanı Marco Rubio, Uluslararası Ceza Mahkemesinin (UCM) eski yargıçlarından Güney Afrikalı hukukçu Navi Pillay'ın \"2026 Nobel Barış Ödülü\"nü kazanmasının ardından UCM'ye yaptırım kararı aldıklarını açıkladı. Rubio sosyal medya hesabından \"Başkan Trump, Uluslararası Ceza Mahkemesinin Amerikalıları yargılamasına asla izin vermeyecektir.",
-          "source": "https://www.ntv.com.tr/dunya/nobel-baris-odulunun-ardindan-abdden-ucmye-yaptirim-1745589"
+          "title": "Putin - Trump görüşmesi | 1,5 saat konuştular, telefonu bırakamadılar. \"Önce sen kapat\"",
+          "summary": "Rusya Devlet Başkanı Putin ile ABD Başkanı Trump arasındaki telefon görüşmesinde iki liderin de konuşmayı ilk sonlandıran taraf olmak istemediği ve telefonları aynı anda kapattığı açıklandı. Rusya Devlet Başkanı Vladimir Putin ile ABD Başkanı Donald Trump arasındaki 1,5 saat süren telefon görüşmesinde iki liderin de konuşmayı sonlandırmak istemediği ve ahizeleri aynı anda kapattığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-15-saat-surdu-ikisi-de-telefonu-kapatmak-istemedi-putin-ve-trump-ne-konustu-1745646"
         },
         {
-          "title": "BAE Başsavcılığı açıkladı. Yardımcı pilot, uçağı havalimanına düşürmeyi planlamış",
-          "summary": "BAE Başsavcılığı, Dubai-Tel Aviv seferindeki Ummanlı yardımcı pilotun uçağı Ben Gurion Havalimanı'na düşürmeyi planladığını açıkladı. Birleşik Arap Emirlikleri (BAE) Başsavcısı Hamad Saif Al Shamsi, 30 Eylül'de Flydubai havayolu şirketinin Dubai-Tel Aviv seferini yapan FZ1073 sayılı uçuşunda yaşanan saldırı girişimine ilişkin soruşturmada elde edilen yeni bulguları kamuoyuyla paylaştı.",
-          "source": "https://www.ntv.com.tr/dunya/bae-bassavciligi-acikladi-yardimci-pilot-ucagi-havalimanina-dusurmeyi-planlamis-1745588"
+          "title": "Güney Kore'de binanın tavan çöktü: Çok sayıda yaralı",
+          "summary": "Güney Kore'nin Daegu kentinde bir binada tavanın çökmesi sonucu 38 kişinin yaralandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/guney-korede-binanin-tavan-coktu-cok-sayida-yarali-43336439"
         },
         {
-          "title": "ABD Dışişleri Bakanı Rubio duyurdu... ABD'den Uluslararası Ceza Mahkemesine yaptırım kararı",
-          "summary": "ABD Dışişleri Bakanı Marco Rubio, Uluslararası Ceza Mahkemesinin (UCM) eski yargıçlarından Güney Afrikalı hukukçu Navi Pillay'ın \"2026 Nobel Barış Ödülü\"nü kazanmasının ardından UCM'ye yaptırım kararı aldıklarını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-disisleri-bakani-rubio-duyurdu-abdden-uluslararasi-ceza-mahkemesine-yaptirim-karari-43335910"
+          "title": "Arap Koalisyonu Husilerin 136 hedefini vurdu",
+          "summary": "Yemen'de Suudi Arabistan öncülüğündeki Arap Koalisyonu, Husiler'e ait 136 askeri hedefin imha edildiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/arap-koalisyonu-husilerin-136-hedefini-vurdu-43336378"
         }
       ]
     },
     "ekonomi": {
-      "text": "İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli.",
+      "text": "Almanya hükümeti 2026 büyüme tahminini yükseltti. İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi.",
       "items": [
+        {
+          "title": "Almanya hükümeti 2026 büyüme tahminini yükseltti",
+          "summary": "Almanya Federal Hükümeti, 2026 yılına ilişkin ekonomik büyüme tahminini önemli ölçüde yukarı çekti. Ekonomi Bakanlığı tarafından açıklanan sonbahar projeksiyonuna göre, gayri safi yurtiçi hasılanın (GSYİH) bu yıl yüzde 1,3 oranında büyümesi bekleniyor. Bu oran, Nisan ayında öngörülen yüzde 0,5'lik tahminin çok üzerinde ve hükümetin ekonomik görünüme ilişkin belirgin şekilde daha iyimser olduğunu gösteriyor.",
+          "source": "https://www.hurriyet.com.tr/avrupa/almanya-hukumeti-2026-buyume-tahminini-yukseltti-43336377"
+        },
         {
           "title": "İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor",
           "summary": "Türkiye Varlık Fonu (TVF) Katılım Finans Yatırımları AŞ'nin, Ziraat Katılım ve Halk Katılım paylarının tamamını bedelleri ödenmek suretiyle devralmasına ilişkin pay devir sözleşmelerinin imzalandığını duyurdu.",
@@ -115,51 +120,46 @@
           "title": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi",
           "summary": "Vali Davut Gül'ün katılımıyla düzenlenen toplantıda İstanbul'un 9 aylık güvenlik verileri kamuoyuyla paylaşıldı. Vali Gül, organize suç örgütlerine 343 operasyon yapıldığını, mal varlığına karşı işlenen suçlarda ise belirgin düşüşler yaşandığını açıkladı.",
           "source": "https://www.hurriyet.com.tr/gundem/istanbulda-2026nin-ilk-9-aylik-suc-ve-operasyon-bilancosu-aciklandi-130-cete-cokertildi-43330059"
-        },
-        {
-          "title": "Online alışverişte sahte yoruma erişim engeli",
-          "summary": "Ticaret Bakanlığı, e-ticarette sahte yorum ve puanlarla tüketiciyi kandıran işletmelere karşı harekete geçti. Sahte yorum ve puana yer veren sitelere erişim engeli getirdi. (Haber: Evra Balkı) Artık e-ticarette, ürünlere yapılan sahte puanlama ve yorumların önü kesiliyor. Gelen şikayetler üzerine Ticaret Bakanlığı Reklam Kurulu, takipçi ve yorum satışı yapan internet siteleri ile sahte yorumlara yer veren e-ticaret sitelerine yönelik inceleme başlattı.",
-          "source": "https://www.ntv.com.tr/ekonomi/online-alisveriste-sahte-yoruma-erisim-engeli-1744825"
         }
       ]
     },
     "spor": {
-      "text": "Emre Belözoğlu: 'Ne yazık ki cezasını çektik!'. İlkay Gündoğan'dan olay yanıt: \"Oynamıyorum ki niye hazır olayım?\". Kerem Demirbay, Galatasaray taraftarından özür diledi!. İrfan Saraloğlu: 'Halil Umut Meler isteksizdi!'. Victor Osimhen 35 gün sonra asistle döndü!. Barış Alper Yılmaz: 'Zaman zaman formum düşüyor!'. Mario Lemina, Galatasaray'a golle döndü!.",
+      "text": "Galatasaray'a İngiltere'den teklif! Ocakta ayrılık kapıda. Beşiktaş, Kocaelispor'u konuk edecek. Trabzonspor, Samsunspor ile karşı karşıya gelecek! Maçın heyecanı Misli'de. Fenerbahçe, Rize deplasmanında! Maçın heyecanı Misli'de. Vincent Aboubakar'dan Beşiktaş açıklaması!. Fenerbahçe'den ilk temas! 20 milyon Euro. Nihat Kahveci’den Galatasaraylı yıldıza: 'Yeniden doğma maçı olabilir!'.",
       "items": [
         {
-          "title": "Emre Belözoğlu: 'Ne yazık ki cezasını çektik!'",
-          "summary": "Kasımpaşa Teknik Direktörü Emre Belözoğlu, Galatasaray’a 3-1 mağlup oldukları karşılaşmanın ardından, \"Takımımız çok genç bir takım. Gelişime açık oyuncularla kuruldu. Bu gece onlar için acı bir tecrübe oldu. Hepimiz için acı bir tecrübe oldu\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-ne-yazik-ki-cezasini-cektik-43336095"
+          "title": "Galatasaray'a İngiltere'den teklif! Ocakta ayrılık kapıda",
+          "summary": "Galatasaray'ın Brezilyalı yıldızı Gabriel Sara'ya dair İngiliz basınından önemli bir habere yer verildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-ingiltereden-teklif-ocakta-ayrilik-kapida-43336486"
         },
         {
-          "title": "İlkay Gündoğan'dan olay yanıt: \"Oynamıyorum ki niye hazır olayım?\"",
-          "summary": "Trendyol Süper Lig'in 7. haftasında sahasında Kasımpaşa'yı 3-1 mağlup eden Galatasaray'da İlkay Gündoğan, maç sonu Barcelona karşılaşması için flaş yanıt verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ilkay-gundogandan-olay-yanit-oynamiyorum-ki-niye-hazir-olayim-43336092"
+          "title": "Beşiktaş, Kocaelispor'u konuk edecek",
+          "summary": "Beşiktaş, Süper Lig'in 7. haftasında yarın Kocaelispor'u ağırlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-kocaelisporu-konuk-edecek-43336516"
         },
         {
-          "title": "Kerem Demirbay, Galatasaray taraftarından özür diledi!",
-          "summary": "Kasımpaşalı futbolcu Kerem Demirbay, geçtiğimiz günlerde verdiği bir röportajda kullandığı ifadelerin yanlış anlaşıldığını söyleyerek sarı-kırmızılı taraftarlardan özür diledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kerem-demirbay-galatasaray-taraftarindan-ozur-diledi-43336066"
+          "title": "Trabzonspor, Samsunspor ile karşı karşıya gelecek! Maçın heyecanı Misli'de",
+          "summary": "Trabzonspor, milli ara sonrası Samsunspor ile deplasmanda karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-samsunspor-ile-karsi-karsiya-gelecek-macin-heyecani-mislide-43336441"
         },
         {
-          "title": "İrfan Saraloğlu: 'Halil Umut Meler isteksizdi!'",
-          "summary": "Galatasaray Teknik Sorumlusu İrfan Saraloğlu, 3-1 kazanılan Kasımpaşa maçının ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/irfan-saraloglu-halil-umut-meler-isteksizdi-43336064"
+          "title": "Fenerbahçe, Rize deplasmanında! Maçın heyecanı Misli'de",
+          "summary": "Fenerbahçe, Süper Lig'in 7. haftasında Rizespor'a konuk olacak. Maçı heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-rize-deplasmaninda-macin-heyecani-mislide-43336419"
         },
         {
-          "title": "Victor Osimhen 35 gün sonra asistle döndü!",
-          "summary": "Galatasaray’ın Nijeryalı futbolcusu Victor Osimhen, sakatlığının ardından Kasımpaşa maçıyla 35 gün sonra forma giydi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/victor-osimhen-35-gun-sonra-asistle-dondu-43336058"
+          "title": "Vincent Aboubakar'dan Beşiktaş açıklaması!",
+          "summary": "Beşiktaş'ın eski golcüsü Vincent Aboubakar, siyah-beyazlılarla ilgili açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincent-aboubakardan-besiktas-aciklamasi-43336416"
         },
         {
-          "title": "Barış Alper Yılmaz: 'Zaman zaman formum düşüyor!'",
-          "summary": "Galatasaray'da Barış Alper Yılmaz, Ismael Jakobs ve Abdülkerim Bardakcı, Kasımpaşa galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/baris-alper-yilmaz-zaman-zaman-formum-dusuyor-43336034"
+          "title": "Fenerbahçe'den ilk temas! 20 milyon Euro",
+          "summary": "Fenerbahçe, +4 yabancı kuralına uygun transfer gerçekleştirmeye hazırlanıyor. Sarı lacivertliler, 21 yaşındaki oyuncu için ilk görüşmesini gerçekleştirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-ilk-temas-20-milyon-euro-43336355"
         },
         {
-          "title": "Mario Lemina, Galatasaray'a golle döndü!",
-          "summary": "Galatasaray’ın Gabonlu futbolcusu Mario Lemina, sakatlığının ardından Kasımpaşa maçıyla 35 gün sonra görev aldı ve bu sezonki ilk golünü kaydetti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mario-lemina-galatasaraya-golle-dondu-43336028"
+          "title": "Nihat Kahveci’den Galatasaraylı yıldıza: 'Yeniden doğma maçı olabilir!'",
+          "summary": "Galatasaray, Süper Lig'in 7. haftasında Kasımpaşa'yı 3-1 mağlup ederek maç fazlasıyla liderliğe yükseldi. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-galatasarayli-yildiza-yeniden-dogma-maci-olabilir-43336254"
         }
       ]
     },
