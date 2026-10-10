@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-09T16:00:03.859Z",
+  "generatedAt": "2026-10-10T04:00:03.830Z",
   "categories": {
     "gundem": {
-      "text": "Fon tasfiye kanunu Meclis'te. Ağırel ve Saymaz’a adli kontrol talebi. MSB'den, Senegalli personele eğitim. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır'dan CNN Türk'e özel açıklamalar. TİP Milletvekili Ahmet Şık, Eskişehir'de rahatsızlanarak hastaneye kaldırıldı. Yasa dışı bahis ve milyarlık aklama ağına baskın: 8 ilde 22 gözaltı. Çanakkale'de el freni çekilmeyen otomobil denize düştü.",
+      "text": "Maltepe'de kısmen çöken binanın enkazında çalışmalar tamamlandı. Kuzey Marmara Otoyolu'nda feci kaza: 1 ölü. İzmir'de Çeşme Belediyesine yönelik soruşturmada 10 şüpheli tutuklandı. Manisa'da dehşet. Yanan araçta ceset bulundu. Selçuk Bayraktar: TEKNOFEST kuşağıyla insanlığın iyiliğine bir dünyanın inşasını hedefliyoruz. Sosyal medyaya 15 yaş sınırı: Yeni düzenleme Resmi Gazete'de. İletişim Başkanı Duran’dan Suudi Arabistan’a saldırıya kınama.",
       "items": [
         {
-          "title": "Fon tasfiye kanunu Meclis'te",
-          "summary": "Fon tasfiyesi ve yapılacak geri ödemelere ilişkin kanun teklifi TBMM Başkanlığı'na sunuldu. AK Parti Grup Başkanı Abdullah Güler tasfiye sürecinde asla kamu kaynağının kullanılmayacağını söyledi. AK Parti, fonların tasfiyesi ve yatırımcılara yapılacak geri ödemelere ilişkin 9 maddelik kanun teklifi hazırladı. Kanun teklifinin bugün TBMM Başkanlığı'na sunulması bekleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-tasfiye-kanunu-bugun-meclise-sunulacak-1745545"
+          "title": "Maltepe'de kısmen çöken binanın enkazında çalışmalar tamamlandı",
+          "summary": "Maltepe'de, ilk üç katının çökmesi sonucunda 5 kişinin hayatını kaybettiği 7 katlı binanın enkazında çalışmalar tamamlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/maltepede-kismen-coken-binanin-enkazinda-calismalar-tamamlandi-43336202"
         },
         {
-          "title": "Ağırel ve Saymaz’a adli kontrol talebi",
-          "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında, 'halkı yanıltıcı bilgiyi alenen yayma' suçlamasıyla 'şüpheli' sıfatıyla ifadeye çağırılan gazeteciler İsmail Saymaz ve Murat Ağırel hakkında, yurtdışına çıkış yasağı ve imza şeklindeki adli kontrol talep edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/agirel-ve-saymaza-adli-kontrol-talebi-43335861"
+          "title": "Kuzey Marmara Otoyolu'nda feci kaza: 1 ölü",
+          "summary": "BAŞAKŞEHİR Kuzey Marmara Otoyolu'nda hafif ticari araç, önce bariyerlere ardından aynı yönde ilerleyen otomobile çarptı. Kazada, çarpmanın etkisiyle yola savrulan hafif ticari aracın sürücüsü hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/kuzey-marmara-otoyolunda-feci-kaza-1-olu-43336203"
         },
         {
-          "title": "MSB'den, Senegalli personele eğitim",
-          "summary": "Milli Savunma Bakanlığı (MSB), İzmir Çiğli'deki 2’nci Ana Jet Üs ve Uluslararası Uçuş Eğitim Okul Komutanlığı'nda, Senegal Hava Kuvvetleri'nden 5 personele uçak bakım ve teknik eğitimi verildiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/msbden-senegalli-personele-egitim-43335815"
+          "title": "İzmir'de Çeşme Belediyesine yönelik soruşturmada 10 şüpheli tutuklandı",
+          "summary": "İzmir'de Çeşme Belediyesine yönelik \"suç örgütü kurma, yönetme ve üye olma\", \"rüşvet\", \"irtikap\" ve \"resmi belgede sahtecilik\" iddialarıyla yürütülen soruşturmada gözaltına alınan 12 şüpheliden 10'u tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmirde-cesme-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-43336175"
         },
         {
-          "title": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır'dan CNN Türk'e özel açıklamalar",
-          "summary": "Antalya'da düzenlenen ve 111 ülkeden 10 binden fazla katılımcıyı buluşturan 77. Uluslararası Uzay Kongresi gerçekleştirildi. Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, kongreye ilişkin CNN Türk'e özel açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/sanayi-ve-teknoloji-bakani-mehmet-fatih-kacirdan-cnn-turke-ozel-aciklamalar-43335805"
+          "title": "Manisa'da dehşet. Yanan araçta ceset bulundu",
+          "summary": "Akhisar'da gece saatlerinde yanan otomobilde bir erkeğin cansız bedeni bulundu. Manisa'nın Akhisar ilçesine bağlı Kayalıoğlu Mahallesi'nde yol kenarında yanan otomobili görenler, durumu 112 Acil Çağrı Merkezi'ne bildirdi. Olay yerine itfaiye, jandarma ve sağlık ekipleri sevk edildi. İtfaiye ekiplerinin alevleri söndürmesinin ardından otomobilde bir erkeğe ait ceset bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/manisada-dehset-yanan-aracta-ceset-bulundu-1745609"
         },
         {
-          "title": "TİP Milletvekili Ahmet Şık, Eskişehir'de rahatsızlanarak hastaneye kaldırıldı",
-          "summary": "Eskişehir'de rahatsızlanan TİP İstanbul Milletvekili Ahmet Şık, kalp damarlarındaki tıkanıklık nedeniyle tedavi altına alındı. Anjiyo yapılan Şık'ın durumunun iyi olduğu, operasyon ve tedavi süreci için İstanbul'a sevk edileceği açıklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/tip-milletvekili-ahmet-sik-eskisehirde-rahatsizlanarak-hastaneye-kaldirildi-43335779"
+          "title": "Selçuk Bayraktar: TEKNOFEST kuşağıyla insanlığın iyiliğine bir dünyanın inşasını hedefliyoruz",
+          "summary": "T3 Vakfı Mütevelli Heyeti Başkanı ve Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, \"TEKNOFEST kuşağıyla birlikte yürüdüğümüz bu yolda daha adil, daha güzel, daha iyi, insanlığın iyiliğine bir dünyanın inşasını hedefliyoruz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/selcuk-bayraktar-teknofest-kusagiyla-insanligin-iyiligine-bir-dunyanin-insasini-hedefliyoruz-43336138"
         },
         {
-          "title": "Yasa dışı bahis ve milyarlık aklama ağına baskın: 8 ilde 22 gözaltı",
-          "summary": "Uşak Cumhuriyet Başsavcılığı koordinesinde 8 ilde eş zamanlı düzenlenen yasa dışı bahis ve kara para aklama operasyonunda 22 şüpheli yakalandı. 4 şirkete TMSF kayyımı atanırken; 333 milyon TL donduruldu, 184 milyon TL'lik mal varlığına el konuldu. MASAK raporuna göre sistemin 5,1 milyar TL'lik işlem hacmine ulaştığı belirlendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahis-ve-milyarlik-aklama-agina-baskin-8-ilde-22-gozalti-43335752"
+          "title": "Sosyal medyaya 15 yaş sınırı: Yeni düzenleme Resmi Gazete'de",
+          "summary": "Sosyal medya platformlarının 15 yaşından küçüklere hizmet sunmasını yasaklayan yönetmelik Resmi Gazete'de yayımlandı. Yaş doğrulaması e-Devlet üzerinden yapılacak. Sosyal medya kullanımına yönelik yeni düzenleme, 10 Ekim tarihli Resmi Gazete'de yayımlandı. Siber Güvenlik Başkanlığı tarafından hazırlanan yönetmelikle sosyal medya platformlarına yaş doğrulama ve çocukların korunmasına yönelik yeni yükümlülükler getirildi. Yönetmeliğe göre sosyal medya platformları, 15 yaşını doldurmamış çocuklara hizmet sunamayacak.",
+          "source": "https://www.ntv.com.tr/turkiye/sosyal-medyaya-15-yas-siniri-yeni-duzenleme-resmi-gazetede-1745607"
         },
         {
-          "title": "Çanakkale'de el freni çekilmeyen otomobil denize düştü",
-          "summary": "Çanakkale'nin Kepez beldesinde sürücüsünün el frenini çekmeyi unuttuğu otomobil denize düştü. Araç 3 saatlik çalışmayla sudan çıkarıldı",
-          "source": "https://www.hurriyet.com.tr/gundem/canakkalede-el-freni-cekilmeyen-otomobil-denize-dustu-43335723"
+          "title": "İletişim Başkanı Duran’dan Suudi Arabistan’a saldırıya kınama",
+          "summary": "İLETİŞİM Başkanı Burhanettin Duran, “Suudi Arabistan’ın güneyinde yer alan Abha Uluslararası Havalimanı ile Riyad’daki Kral Halid Uluslararası Havalimanı’na düzenlenen saldırıları şiddetle kınıyorum” açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-suudi-arabistana-saldiriya-kinama-43336134"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail basınından itiraf: Filistinli esirlere sistematik işkence. Trump'tan yeni ateşkes planı! Putin'in taktiği deşifre mi oldu? İşte Avrupa'nın esas korkusu. İngiliz İşçi Partisi'nde seçim. Eski Başbakan'ın koltuğuna Somalili sığınmacı. Eski prens hakkındaki deliller tehlikede. Epstein krizinde polisten usul hatası itirafı. İntihar iddilarıyla gündeme gelmişti: 322 gün sonra ABD'de. AfD kazandı: Ünlü marka teklifini geri çekti. Prens Harry ve Meghan Markle özür dilemeyecek.",
+      "text": "Trump, canlı yayında idamı onayladı. Trump ile Putin'den enerji hamlesi: Milyonlarca ton dizel piyasaya sürülecek. Panama'da 7,7 büyüklüğünde deprem. Tsunami alarmı verildi. Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti. Nobel Barış Ödülü'nün ardından ABD'den UCM'ye yaptırım. BAE Başsavcılığı açıkladı. Yardımcı pilot, uçağı havalimanına düşürmeyi planlamış. ABD Dışişleri Bakanı Rubio duyurdu... ABD'den Uluslararası Ceza Mahkemesine yaptırım kararı.",
       "items": [
         {
-          "title": "İsrail basınından itiraf: Filistinli esirlere sistematik işkence",
-          "summary": "İsrail basını, ülkedeki cezaevlerinde tutulan Filistinli esirlerin sistematik işkenceye, açlığa ve salgın hastalıklara maruz kaldığını yazdı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-basinindan-itiraf-filistinli-esirlere-sistematik-iskence-43335795"
+          "title": "Trump, canlı yayında idamı onayladı",
+          "summary": "ABD Başkanı Donald Trump, 2009'da Fort Hood Üssü'ne saldırı düzenleyen Nidal Hasan adlı Amerikan askerinin kurşuna dizilerek idam edilmesinin canlı yayınlanmasını \"şahsen\" onayladığını açıkladı. ABD yönetimi, 1936'dan sonra ilk kez bir idam mahkumunu halka açık şekilde infaz etmeye hazırlanıyor. ABD Savunma Bakanı Pete Hegseth'in 2009'da Fort Hood Üssü'nde 13 kişiyi öldüren, 32 kişiyi de yaralayan saldırganının halka açık şekilde kurşuna dizileceğini açıklamasıyla başlayan tartışmaya Başkan Trump da katıldı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-canli-yayinda-idami-onayladi-1745612"
         },
         {
-          "title": "Trump'tan yeni ateşkes planı! Putin'in taktiği deşifre mi oldu? İşte Avrupa'nın esas korkusu",
-          "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında yeni bir ateşkes sağlamak için harekete geçti. Putin’in talepleri diplomatik süreci zorlaştırırken, Avrupa’nın asıl korkusu Moskova’nın sabotaj faaliyetleriyle kıtada daha büyük bir krize yol açması.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-yeni-ateskes-plani-putinin-taktigi-desifre-mi-oldu-iste-avrupanin-esas-korkusu-43335740"
+          "title": "Trump ile Putin'den enerji hamlesi: Milyonlarca ton dizel piyasaya sürülecek",
+          "summary": "ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin telefonda görüştü. Trump, Rusya'nın küresel piyasalara milyonlarca ton dizel yakıt sağlayacağını açıkladı. ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin arasında telefon görüşmesi gerçekleştirildi. Görüşmede enerji alanındaki işbirliğinin yanı sıra Ukrayna'daki savaş ve İran'daki gelişmeler ele alındı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-ile-putinden-enerji-hamlesi-milyonlarca-ton-dizel-piyasaya-surulecek-1745598"
         },
         {
-          "title": "İngiliz İşçi Partisi'nde seçim. Eski Başbakan'ın koltuğuna Somalili sığınmacı",
-          "summary": "İngiltere'de eski Başbakan Starmer'ın milletvekilliğinden çekilmesiyle boşalan sandalye için yapılan ara seçimi Somalili bir sığınmacı olan İşçi Partisi adayı Sagal Abdi-Wali kazandı. İngiltere'de eski Başbakan ve eski İşçi Partisi lideri Keir Starmer'ın milletvekilliğinden istifasıyla boşalan Londra'daki Holborn ve St Pancras seçim bölgesinde yapılan ara seçimi, İşçi Partisi adayı Sagal Abdi-Wali kazandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ingiliz-isci-partisinde-secim-eski-basbakanin-koltuguna-somalili-siginmaci-1745573"
+          "title": "Panama'da 7,7 büyüklüğünde deprem. Tsunami alarmı verildi",
+          "summary": "Panama'da meydana gelen depremin ardından altı eyalette elektrikler kesildi. Orta Amerika ülkesi Panama'da meydana gelen 7,7 büyüklüğündeki deprem, ülke genelinde büyük paniğe neden oldu. Çok sayıda evin hasar gördüğü deprem nedeniyle elektrik kesintileri yaşanırken, uçuşlar ve toplu taşıma seferleri durduruldu. ABD Jeolojik Araştırmalar Kurumu (USGS), depremin yerin 12,6 kilometre derinliğinde meydana geldiğini bildirdi. Kurum, depremde can kayıplarının yaşanmış olabileceği uyarısında bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/panamada-77-buyuklugunde-deprem-tsunami-alarmi-verildi-1745592"
         },
         {
-          "title": "Eski prens hakkındaki deliller tehlikede. Epstein krizinde polisten usul hatası itirafı",
-          "summary": "İngiliz polisi, Kral Charles'ın kardeşi Andrew Mountbatten-Windsor'ın mülklerinde yapılan aramalara dair izin kararlarının hukuka aykırı olduğunu duyurdu. İngiliz polisi, Kral 3. Charles'ın kardeşi ve eski prens Andrew Mountbatten-Windsor'ın mülklerinde arama yapılmasına imkan tanıyan izin kararlarının hukuka aykırı şekilde alındığını ve iptal edilmesi gerektiğini açıkladı. Emniyet yetkilileri, hukuki hataya karşın eski prense yönelik ceza soruşturmasının sürdüğünü bildirdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-eski-prens-hakkindaki-deliller-tehlikede-epstein-krizinde-polisten-usul-hatasi-itirafi-1745498"
+          "title": "Putin, ABD'ye ve dünyaya petrol tedarik etmeye hazır olduklarını belirtti",
+          "summary": "Rusya Devlet Başkanı Vladimir Putin, ABD ve küresel piyasalara petrol ve petrol ürünleri tedarik etmeye hazır olduklarını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/putin-abdye-ve-dunyaya-petrol-tedarik-etmeye-hazir-olduklarini-belirtti-43336077"
         },
         {
-          "title": "İntihar iddilarıyla gündeme gelmişti: 322 gün sonra ABD'de",
-          "summary": "ABD'nin İran ile savaş da dahil olmak üzere uzun süredir Orta Doğu'da görevde olan ve kötü şartlar nedeniyle bazı personelinin intihar girişiminde bulunduğu USS Abraham Lincoln uçak gemisi, 322 gün sonra San Diego'ya döndü. Gemi bu süre zarfında 265 günlük rekor süreyle denizde kaldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/intihar-iddilariyla-gundeme-gelmisti-322-gun-sonra-abdde-43335554"
+          "title": "Nobel Barış Ödülü'nün ardından ABD'den UCM'ye yaptırım",
+          "summary": "Eski UCM yargıcı Navi Pillay'ın Nobel Barış Ödülü'nü kazanmasının ardından ABD, mahkemeye yaptırım uygulama kararı aldı. Karar uluslararası tepki çekti. ABD Dışişleri Bakanı Marco Rubio, Uluslararası Ceza Mahkemesinin (UCM) eski yargıçlarından Güney Afrikalı hukukçu Navi Pillay'ın \"2026 Nobel Barış Ödülü\"nü kazanmasının ardından UCM'ye yaptırım kararı aldıklarını açıkladı. Rubio sosyal medya hesabından \"Başkan Trump, Uluslararası Ceza Mahkemesinin Amerikalıları yargılamasına asla izin vermeyecektir.",
+          "source": "https://www.ntv.com.tr/dunya/nobel-baris-odulunun-ardindan-abdden-ucmye-yaptirim-1745589"
         },
         {
-          "title": "AfD kazandı: Ünlü marka teklifini geri çekti",
-          "summary": "Almanya’nın Saksonya-Anhalt Eyalet Meclis Başkanlığına Almanya için Alternatif (AfD) partisinden Tobias Rausch'un seçilmesinin ardından üst düzey siyasetçilere makam aracı kiralama hizmeti veren Alman otomotiv devi BMW’nin teklifini geri çekti. AfD ise Tesla’nın sahibi Elon Musk’tan makam aracı için destek istedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/afd-kazandi-unlu-marka-teklifini-geri-cekti-43335519"
+          "title": "BAE Başsavcılığı açıkladı. Yardımcı pilot, uçağı havalimanına düşürmeyi planlamış",
+          "summary": "BAE Başsavcılığı, Dubai-Tel Aviv seferindeki Ummanlı yardımcı pilotun uçağı Ben Gurion Havalimanı'na düşürmeyi planladığını açıkladı. Birleşik Arap Emirlikleri (BAE) Başsavcısı Hamad Saif Al Shamsi, 30 Eylül'de Flydubai havayolu şirketinin Dubai-Tel Aviv seferini yapan FZ1073 sayılı uçuşunda yaşanan saldırı girişimine ilişkin soruşturmada elde edilen yeni bulguları kamuoyuyla paylaştı.",
+          "source": "https://www.ntv.com.tr/dunya/bae-bassavciligi-acikladi-yardimci-pilot-ucagi-havalimanina-dusurmeyi-planlamis-1745588"
         },
         {
-          "title": "Prens Harry ve Meghan Markle özür dilemeyecek",
-          "summary": "İngiliz kraliyet ailesinden ayrılarak ABD'ye yerleşen Prens Harry ve Meghan Markle, 2021'de dile getirdikleri ten rengi iddiaları nedeniyle saraydan özür dilemeyi reddedebilir. İngiltere kraliyet ailesindeki resmi görevlerini bırakarak ABD'ye yerleşen Sussex Dükü Prens Harry ile eşi Meghan Markle'ın, 2021 yılındaki televizyon mülakatında saray mensuplarına yönelttikleri tenkitler nedeniyle aileden özür dilemeyi planlamadıkları iddia edildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-prens-harry-ve-meghan-markle-ozur-dilemeyecek-1745556"
+          "title": "ABD Dışişleri Bakanı Rubio duyurdu... ABD'den Uluslararası Ceza Mahkemesine yaptırım kararı",
+          "summary": "ABD Dışişleri Bakanı Marco Rubio, Uluslararası Ceza Mahkemesinin (UCM) eski yargıçlarından Güney Afrikalı hukukçu Navi Pillay'ın \"2026 Nobel Barış Ödülü\"nü kazanmasının ardından UCM'ye yaptırım kararı aldıklarını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-disisleri-bakani-rubio-duyurdu-abdden-uluslararasi-ceza-mahkemesine-yaptirim-karari-43335910"
         }
       ]
     },
     "ekonomi": {
-      "text": "İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli. Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları.",
+      "text": "İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi. Online alışverişte sahte yoruma erişim engeli.",
       "items": [
+        {
+          "title": "İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor",
+          "summary": "Türkiye Varlık Fonu (TVF) Katılım Finans Yatırımları AŞ'nin, Ziraat Katılım ve Halk Katılım paylarının tamamını bedelleri ödenmek suretiyle devralmasına ilişkin pay devir sözleşmelerinin imzalandığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/imzalar-atildi-ziraat-katilim-ve-halk-katilim-turkiye-varlik-fonuna-devrediliyor-43335909"
+        },
         {
           "title": "İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi",
           "summary": "Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü Tütün ve Tütün Mamulleri Kaçakçılığıyla Mücadele Özel Ekibi ile İzmir Gümrük Muhafaza Kaçakçılık ve İstihbarat Müdürlüğü ekiplerince Kemalpaşa ilçesinde kaçak üretim yapılan fabrikaya düzenlenen operasyonda, 125 milyon 480 bin TL değerinde tütün mamulü üretiminde kullanılan makine ve eşya ele geçirildi. Olayla ilgili 1 şüpheli gözaltına alındı.",
@@ -115,61 +120,76 @@
           "title": "Online alışverişte sahte yoruma erişim engeli",
           "summary": "Ticaret Bakanlığı, e-ticarette sahte yorum ve puanlarla tüketiciyi kandıran işletmelere karşı harekete geçti. Sahte yorum ve puana yer veren sitelere erişim engeli getirdi. (Haber: Evra Balkı) Artık e-ticarette, ürünlere yapılan sahte puanlama ve yorumların önü kesiliyor. Gelen şikayetler üzerine Ticaret Bakanlığı Reklam Kurulu, takipçi ve yorum satışı yapan internet siteleri ile sahte yorumlara yer veren e-ticaret sitelerine yönelik inceleme başlattı.",
           "source": "https://www.ntv.com.tr/ekonomi/online-alisveriste-sahte-yoruma-erisim-engeli-1744825"
-        },
-        {
-          "title": "Borsa, altın, dolar… İşte haftanın en çok kazandıran yatırım araçları",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi haftalık bazda yüzde 4,88, altının gram fiyatı yüzde 1,53 ve avro/TL yüzde 0,69 değer kaybederken, dolar/TL yüzde 0,14 değer kazandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsa-altin-dolar-iste-haftanin-en-cok-kazandiran-yatirim-araclari-43327645"
         }
       ]
     },
     "spor": {
-      "text": "TFF toplantısından seçim kararı çıkmadı! TFF Başkanvekili Otyakmaz ve 5 yönetici istifa etti. TFF resmen açıkladı: Göreve devam ediyoruz! Montella ile yollar ayrıldı. Fotoğrafıyla dünya çapında viral olan voleybolcu Meryem Cabbaroğlu: 'Böyle bir şeyi beklemiyordum!'. Fenerbahçe, Rizespor maçı kamp kadrosunu açıkladı. Aral Şimşir: 'Trabzonspor’u seçmek zor olmadı!'. NBA Europe cephesi güçleniyor: Yeni lige 360 derecelik ilgi. Mourinho'dan Mbappe açıklaması.",
+      "text": "Emre Belözoğlu: 'Ne yazık ki cezasını çektik!'. İlkay Gündoğan'dan olay yanıt: \"Oynamıyorum ki niye hazır olayım?\". Kerem Demirbay, Galatasaray taraftarından özür diledi!. İrfan Saraloğlu: 'Halil Umut Meler isteksizdi!'. Victor Osimhen 35 gün sonra asistle döndü!. Barış Alper Yılmaz: 'Zaman zaman formum düşüyor!'. Mario Lemina, Galatasaray'a golle döndü!.",
       "items": [
         {
-          "title": "TFF toplantısından seçim kararı çıkmadı! TFF Başkanvekili Otyakmaz ve 5 yönetici istifa etti",
-          "summary": "TFF'de seçim kararı alınmayınca TFF Başkanvekili Mecnun Otyakmaz ve 5 yönetici daha istifa etti",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-toplantisindan-secim-karari-cikmadi-tff-baskanvekili-otyakmaz-ve-5-yonetici-istifa-etti-43335816"
+          "title": "Emre Belözoğlu: 'Ne yazık ki cezasını çektik!'",
+          "summary": "Kasımpaşa Teknik Direktörü Emre Belözoğlu, Galatasaray’a 3-1 mağlup oldukları karşılaşmanın ardından, \"Takımımız çok genç bir takım. Gelişime açık oyuncularla kuruldu. Bu gece onlar için acı bir tecrübe oldu. Hepimiz için acı bir tecrübe oldu\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-ne-yazik-ki-cezasini-cektik-43336095"
         },
         {
-          "title": "TFF resmen açıkladı: Göreve devam ediyoruz! Montella ile yollar ayrıldı",
-          "summary": "Türkiye Futbol Federasyonu bugün yapılan toplantı sonrası yapılan açıkamada göreve devam kararı alındığı ve A Milli Takım Teknik Direktörü Vincenzo Montella ile yolların ayrıldığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-resmen-acikladi-goreve-devam-ediyoruz-montella-ile-yollar-ayrildi-43335826"
+          "title": "İlkay Gündoğan'dan olay yanıt: \"Oynamıyorum ki niye hazır olayım?\"",
+          "summary": "Trendyol Süper Lig'in 7. haftasında sahasında Kasımpaşa'yı 3-1 mağlup eden Galatasaray'da İlkay Gündoğan, maç sonu Barcelona karşılaşması için flaş yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ilkay-gundogandan-olay-yanit-oynamiyorum-ki-niye-hazir-olayim-43336092"
         },
         {
-          "title": "Fotoğrafıyla dünya çapında viral olan voleybolcu Meryem Cabbaroğlu: 'Böyle bir şeyi beklemiyordum!'",
-          "summary": "Kadınlar Voleybol 1'inci Ligi A Grubu ekiplerinden Bodrum Belediyesi Bodrumspor'da sezonun ilk haftasında Karşıyaka ile oynanan maç öncesi paylaştığı fotoğrafıyla dünya çapında viral olan Meryem Cabbaroğlu, Demirören Haber Ajansı'na özel açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fotografiyla-dunya-capinda-viral-olan-voleybolcu-meryem-cabbaroglu-boyle-bir-seyi-beklemiyordum-43335687"
+          "title": "Kerem Demirbay, Galatasaray taraftarından özür diledi!",
+          "summary": "Kasımpaşalı futbolcu Kerem Demirbay, geçtiğimiz günlerde verdiği bir röportajda kullandığı ifadelerin yanlış anlaşıldığını söyleyerek sarı-kırmızılı taraftarlardan özür diledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kerem-demirbay-galatasaray-taraftarindan-ozur-diledi-43336066"
         },
         {
-          "title": "Fenerbahçe, Rizespor maçı kamp kadrosunu açıkladı",
-          "summary": "Fenerbahçe'nin Rizespor maçı kamp kadrosu belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-rizespor-maci-kamp-kadrosunu-acikladi-43335679"
+          "title": "İrfan Saraloğlu: 'Halil Umut Meler isteksizdi!'",
+          "summary": "Galatasaray Teknik Sorumlusu İrfan Saraloğlu, 3-1 kazanılan Kasımpaşa maçının ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/irfan-saraloglu-halil-umut-meler-isteksizdi-43336064"
         },
         {
-          "title": "Aral Şimşir: 'Trabzonspor’u seçmek zor olmadı!'",
-          "summary": "Trabzonspor’un genç futbolcusu Aral Şimşir, bordo-mavili kulübü tercih etmesinde kulübün tarihi ve büyüklüğünün yanı sıra kendisine 4-5 yıldır gösterilen ilginin de etkili olduğunu belirterek, \"Her transfer döneminde benimle ilgilenmeleri ve beni ne kadar çok istediklerini hissettirmeleri kararımı kolaylaştırdı\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aral-simsir-trabzonsporu-secmek-zor-olmadi-43335634"
+          "title": "Victor Osimhen 35 gün sonra asistle döndü!",
+          "summary": "Galatasaray’ın Nijeryalı futbolcusu Victor Osimhen, sakatlığının ardından Kasımpaşa maçıyla 35 gün sonra forma giydi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/victor-osimhen-35-gun-sonra-asistle-dondu-43336058"
         },
         {
-          "title": "NBA Europe cephesi güçleniyor: Yeni lige 360 derecelik ilgi",
-          "summary": "Avrupa basketbolunun geleceği Como zirvesi ve ardından gelen açıklamalarla tartışılmaya devam ederken, NBA Europe’a farklı kesimlerden gelen ilgi dikkat çekiyor. Panathinaikos’un sahibi Dimitris Giannakopoulos’tan Real Madrid Başkanı Florentino Pérez’e, Milan’ın sahibi RedBird’den Cleveland Cavaliers Başantrenörü Kenny Atkinson’a uzanan açıklamalar, yeni lig projesinin etrafında oluşan hareketliliği ortaya koyuyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nba-europe-cephesi-gucleniyor-yeni-lige-360-derecelik-ilgi-43335640"
+          "title": "Barış Alper Yılmaz: 'Zaman zaman formum düşüyor!'",
+          "summary": "Galatasaray'da Barış Alper Yılmaz, Ismael Jakobs ve Abdülkerim Bardakcı, Kasımpaşa galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/baris-alper-yilmaz-zaman-zaman-formum-dusuyor-43336034"
         },
         {
-          "title": "Mourinho'dan Mbappe açıklaması",
-          "summary": "Real Madrid Teknik Direktörü Jose Mourinho, Kylian Mbappe'nin sakatlık süreciyle ilgili açıklamalarda bulunarak Fransız yıldızın durumuna açıklık getirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mourinhodan-mbappe-aciklamasi-43335595"
+          "title": "Mario Lemina, Galatasaray'a golle döndü!",
+          "summary": "Galatasaray’ın Gabonlu futbolcusu Mario Lemina, sakatlığının ardından Kasımpaşa maçıyla 35 gün sonra görev aldı ve bu sezonki ilk golünü kaydetti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mario-lemina-galatasaraya-golle-dondu-43336028"
         }
       ]
     },
     "teknoloji": {
-      "text": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı. Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi. Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi. Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı. Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek.",
+      "text": "Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı.",
       "items": [
+        {
+          "title": "Yapay zeka, polise sahte cinayet ihbarı gönderdi",
+          "summary": "Anthropic’in kontrolden çıkan bir yapay zeka modelinin Philadelphia polisine sahte faili meçhul cinayet ihbarı göndermesi, tartışmaları alevlendirdi. Son dönemde \"ya kontrolden çıkarsa\" endişelerini artıran siber saldırı ve sızma girişimleriyle gündemden düşmeyen yapay zeka ajanları, ilginç vakalarla tartışılmaya devam ediyor. Son örnek Anthropic’in bir yapay zeka modelinden geldi. Model, ABD'de Philadelphia polisine internet sitesi üzerinden sahte bir cinayet ihbarı yaptı.",
+          "source": "https://www.ntv.com.tr/teknoloji/yapay-zeka-polise-sahte-cinayet-ihbari-gonderdi-1745610"
+        },
         {
           "title": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu",
           "summary": "Yapay zeka şirketi OpenAI, gizli şirket bilgilerini sızdırdıkları gerekçesiyle üç güvenlik araştırmacısının işine son verdi. ChatGPT sohbet botunun geliştiricisi olan ABD merkezli teknoloji devi OpenAI, hassas şirket bilgilerinin kullanımıyla ilgili şirket içi kuralları ihlal ettikleri gerekçesiyle üç güvenlik araştırmacısının işine son verdi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-openaida-kriz-uc-yapay-zeka-arastirmacisi-kovuldu-1745509"
+        },
+        {
+          "title": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü",
+          "summary": "Türkiye’nin milli teknoloji hamlesinde tarihi bir milat daha geride kaldı. Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ile T.C. Sanayi ve Teknoloji Bakanlığı yürütücülüğünde, 157 paydaş kurumun güçlü desteğiyle 30 Eylül - 4 Ekim tarihleri arasında Şanlıurfa GAP Havalimanında düzenlenen TEKNOFEST Güneydoğu, dev bir coşku ve rekor katılımla tamamlandı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/teknofest-guneydogu-1-5-milyon-ziyaretciyle-teknoloji-solenine-donustu-43332659"
+        },
+        {
+          "title": "İstanbul Fintech Week 2026 başladı",
+          "summary": "İstanbul Fintech Week 2026’nın 6–7 Ekim ana zirve programı başladı. Açılış konuşmasını Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkan Yardımcısı Prof. Dr. Hatice Karahan yaptı. Nobel ödüllü ekonomist Prof. Dr. Daron Acemoğlu ise 6 Ekim’de (bugün) ana sahnede yer alacak. 5 Ekim’de Sürdürülebilir Finans Zirvesi ile başlayan etkinliğin programında ödemeler, yapay zekâ, otonom finans, dijital bankacılık ve tokenizasyon başlıkları ele alınacak.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/istanbul-fintech-week-2026-basladi-43331692"
+        },
+        {
+          "title": "“Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı",
+          "summary": "TEKNOFEST kapsamında düzenlenen “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nı kazanan genç öğrencilerden oluşan takımlar ödüllerine TEKNOFEST Güneydoğu’da kavuştu.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-destekli-lojistik-anahat-optimizasyonu-yarismasinin-kazananlarina-odullerini-aldi-43331184"
         },
         {
           "title": "ChatGPT kullananlar dikkat. Metinde görünmeyecek",
@@ -180,26 +200,6 @@
           "title": "Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı",
           "summary": "Yapay zeka modellerine \"ahlak\" öğretilmesi veya insan muhakemesinin bu araçlara \"teslim edilmesine\" yönelik çabalar, sektörün öncüleri arasında yeni bir tartışma yarattı. Yapay zeka sohbet robotu ChatGPT'yi geliştiren ABD merkezli teknoloji şirketi OpenAI'ın Üst Yöneticisi (CEO) Sam Altman, konuya ilişkin görüşünü ABD merkezli X şirketinin sosyal medya platformundaki hesabında paylaştı.",
           "source": "https://www.ntv.com.tr/teknoloji/yapay-zekada-ahlak-tartismasi-sam-altmandan-dikkat-ceken-uyari-1744948"
-        },
-        {
-          "title": "Akıllı gözlüklere tepki büyüyor. Satışlar durdu, peş peşe davalar geldi",
-          "summary": "Norveç hükümeti, mahremiyet kaygıları nedeniyle park, okul ve plaj gibi kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmeyi planlıyor. Norveç hükümeti, kişilerin bilgisi ve rızası dışında görüntü kaydı yapılmasının yarattığı mahremiyet endişeleri nedeniyle kamusal alanlarda akıllı gözlük kullanımına geçici yasak getirmek istiyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-akilli-gozluklere-tepki-buyuyor-satislar-durdu-pes-pese-davalar-geldi-1744941"
-        },
-        {
-          "title": "Güneş ışığı ve sudan hidrojen üreten yeni malzeme geliştirildi",
-          "summary": "Bilim insanları pahalı metallere ihtiyaç duymadan güneş ışığıyla suyu ayrıştırıp temiz hidrojen gazı üreten yeni bir kristal malzeme geliştirdi. ABD'deki Oregon Eyalet Üniversitesi'nden kimya mühendisleri, güneş ışığını doğrudan kullanarak suyu ayrıştıran ve pahalı metal katalizörlere ihtiyaç duymadan temiz hidrojen gazı üreten yeni bir fotokatalitik malzeme sınıfı geliştirdi. Araştırmada, metal-organik kafes mimarisine sahip 'BVR-19' adı verilen kristal yapı mercek altına alındı.",
-          "source": "https://www.ntv.com.tr/teknoloji/gunes-isigi-ve-sudan-hidrojen-ureten-yeni-malzeme-gelistirildi-1744807"
-        },
-        {
-          "title": "Eski OpenAI güvenlik sorumlusundan \"yapay zeka güvenlik testlerinden kaçabilir\" uyarısı",
-          "summary": "Kısa süre önce istifa eden bir OpenAI güvenlik sorumlusu, yapay zeka modellerinin test edildiklerini algılayabileceklerini ve devreye alındıktan sonra farklı davranabileceklerini belirtti. OpenAI'da 3,5 yıl görev yapan ve 12 yapay zeka modelinin piyasaya sürülmesine ilişkin güvenlik raporlarını denetleyen David Robinson'ın The Atlantic dergisinde yayımlanan makalesi dikkati çekti.",
-          "source": "https://www.ntv.com.tr/teknoloji/eski-openai-guvenlik-sorumlusundan-yapay-zeka-guvenlik-testlerinden-kacabilir-uyarisi-1744722"
-        },
-        {
-          "title": "Google'dan Türkiye'ye özel yeni uygulama: 30 gün içinde yanıt verilecek",
-          "summary": "Google, Türkiye özelinde yeni bir uygulama başlattı. Yeni uygulamayla birlikte, Google'da istenmeyen kişisel veriler için başvuru yolu açıldı. Google, Türkiye'de yeni bir uygulama başlatarak, arama motorundan kaldırılması istenen içerikler için başvuru sayfasını devreye aldı. Kişisel Verileri Koruma Kurumu (KVKK) Başkanı Prof. Dr. Faruk Bilir, yeni uygulamayla birlikte Google'ın 30 gün içinde bu bilginin kaldırılıp, kaldırılmayacağına ilişkin yanıt vermek zorunda olduğunu söyledi.",
-          "source": "https://www.ntv.com.tr/teknoloji/googledan-turkiyeye-ozel-yeni-uygulama-30-gun-icinde-yanit-verilecek-1744632"
         }
       ]
     },
