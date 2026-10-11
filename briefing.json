@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-11T10:00:04.839Z",
+  "generatedAt": "2026-10-11T16:00:04.983Z",
   "categories": {
     "gundem": {
-      "text": "Manisa'da katliam gibi kaza: 11 can kaybı var. İşçiler günlük bin 300 TL alıyor. Toplandıktan sonra turşu yapılıyor. Küçük Oğuzhan pencereden düşüp ölmüştü! Dayı hakkında kan donduran suçlama: Ağırlaştırılmış müebbet istendi. Ceza korkusuyla sokağa bıraktılar! İstanbul’da sokak ortasında kıyafet kapma yarışı. Arda Bozkurt'un ailesinden serbest bırakılan sürücüye tepki: Bir canı alıp dışarıda geziyor. Emine Erdoğan'dan Dünya Kız Çocukları Günü mesajı. GastroAntep Kültür Yolu Festivali: Gaziantep’in tatları 73 lezzet noktasında buluştu.",
+      "text": "İletişim Başkanı Duran'dan İsrailli bakana tepki. Manisa'da katliam gibi kaza: 11 can kaybı var. Manisa'da 11 kişinin öldüğü kaza anı kamerada. İstanbul'da hissedilen bir deprem meydana geldi. Son dakika... AFAD duyurdu! Yalova açıklarında korkunta deprem... İstanbul'da da hissedildi. İstanbul’daki cinayette acılı akrabadan şoke eden iddia: Öldürüp fotoğrafını çekiyorlar. 'İşimiz henüz bitmedi' | Bakan Kurum, Hataylı vatandaşın övgüsünü paylaştı.",
       "items": [
         {
+          "title": "İletişim Başkanı Duran'dan İsrailli bakana tepki",
+          "summary": "İletişim Başkanı Burhanettin Duran, \"İsrail Savunma Bakanı Katz’ın ifadeleri, İsrail’de yaklaşan seçimler öncesinde içine düştükleri siyasi çaresizliğin bir göstergesidir\" dedi. İletişim Başkanı Duran, sosyal medya hesabından yaptığı paylaşımda, İsrail Savunma Bakanı Israel Katz’ın açıklamalrına tepki gösterdi. Duran, “Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan’ı ve ülkemizi hedef alan hadsiz ifadeleri, İsrail’de yaklaşan seçimler öncesinde içine düştükleri siyasi çaresizliğin bir göstergesidir.” dedi.",
+          "source": "https://www.ntv.com.tr/turkiye/iletisim-baskani-durandan-israilli-bakana-tepki-1745870"
+        },
+        {
           "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
-          "summary": "İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, 27 kişi yaralandı. Manisa'nın Akhisar ilçesinde, saat 11.00 sıralarında Gebze-Orhangazi-İzmir Otoyolu'nun Akhisar Gişeleri mevkisinde tur otobüsü ile çekici çarpıştı. İhbarı üzerine bölgeye çok sayıda ambulans, itfaiye ve polis ekibi sevk edildi. NTV Ege Bölge Temsilcisi Merih Ak, kazada 11 kişinin hayatını kaybettiğini ve 27 kişinin yaralandığını söyledi. Yaralılar çeşitli hastanelere kaldırıldı.",
+          "summary": "Manisa'da İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı. Kazaya karışan iki şoför ve otobüsün sahibi de gözaltına alındı. Manisa'nın Akhisar ilçesinde, saat 11.11 sıralarında Gebze-Orhangazi-İzmir Otoyolu'nun Akhisar Gişeleri mevkisinde tur otobüsü ile çekici çarpıştı. İhbarı üzerine bölgeye çok sayıda ambulans, itfaiye ve polis ekibi sevk edildi.",
           "source": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808"
         },
         {
-          "title": "İşçiler günlük bin 300 TL alıyor. Toplandıktan sonra turşu yapılıyor",
-          "summary": "Gaziantep'in Oğuzeli ilçesinde turşuluk acur hasadı başladı. İlçe kırsalındaki tarlalardan hasat edilen taze acurlar, kışın tüketilmek üzere turşu yapılıyor. Gaziantep'in Oğuzeli ilçesinde kış aylarına hazırlık çerçevesinde turşuluk acur hasadı başladı. Oğuzeli ilçesi kırsalındaki tarlalarda sabah erken saatlerde başlayan hasat mesaisi öğle saatlerinden sonra bitiyor. Acur hasadı yapan işçiler günlük yevmiye olarak bin 300 TL alıyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-isciler-gunluk-bin-300-tl-aliyor-toplandiktan-sonra-tursu-yapiliyor-1745815"
+          "title": "Manisa'da 11 kişinin öldüğü kaza anı kamerada",
+          "summary": "Manisa'da tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi. Görüntülerde kavşağı kaçıran otobüs şoförünün, geri geri gitmeye çalıştığı, çekicinin otobüse arkadan çarptığı görülüyor",
+          "source": "https://www.ntv.com.tr/turkiye/video-manisada-11-kisinin-oldugu-kaza-ani-kamerada-1745869"
         },
         {
-          "title": "Küçük Oğuzhan pencereden düşüp ölmüştü! Dayı hakkında kan donduran suçlama: Ağırlaştırılmış müebbet istendi",
-          "summary": "İstanbul Bahçelievler’de 2024 yılında 6’ncı kattaki evin penceresinden düşerek hayatını kaybeden 6 yaşındaki Oğuzhan Moğol’un ölümüne ilişkin soruşturma tamamlandı. İddianamede çocuğun dayısıyla ilgili dehşete düşüren detaylar yer aldı. Savcılık, yeğenini camdan aşağı atarak öldürdüğü iddiasıyla dayı Mustafa Uğur S. hakkında “çocuğu kasten öldürme” suçundan ağırlaştırılmış müebbet hapis cezası talep etti. İddianamede, olay sırasında evde bulunan kız kardeşinin tanık olarak verdiği ifadeye de yer verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kucuk-oguzhan-pencereden-dusup-olmustu-dayi-hakkinda-kan-donduran-suclama-agirlastirilmis-muebbet-istendi-43337495"
+          "title": "İstanbul'da hissedilen bir deprem meydana geldi",
+          "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde 2,9 büyüklüğünde deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı, Marmara'da saat 18.14'de 2,9 büyüklüğünde deprem meydana geldiğini açıkladı. Depremin merkez üssü Yalova olarak açıklanırken, derinliği 7,16 kilometre. Deprem İstanbul'da birçok noktada da hissedildi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868"
         },
         {
-          "title": "Ceza korkusuyla sokağa bıraktılar! İstanbul’da sokak ortasında kıyafet kapma yarışı",
-          "summary": "Avcılar Gümüşpala Mahallesi'nde psikolojik tedavi gördüğü belirtilen bir kadının çevreden toplayarak binanın bodrum katında biriktirdiği kıyafetler, yakınları tarafından ceza yazılacağı endişesiyle sokağa bırakıldı. Sokağa dökülen giysileri çevredekiler poşet ve çuvallara doldurarak götürürken, ihbar üzerine gelen belediye ekipleri kalan kıyafetleri iki kamyonete yükleyerek topladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ceza-korkusuyla-sokaga-biraktilar-istanbulda-sokak-ortasinda-kiyafet-kapma-yarisi-43337513"
+          "title": "Son dakika... AFAD duyurdu! Yalova açıklarında korkunta deprem... İstanbul'da da hissedildi",
+          "summary": "AFAD, Marmara Denizi Yalova açıklarında 2.9 büyüklüğünde deprem meydana geldiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-hissedilen-bir-deprem-meydana-geldi-43337892"
         },
         {
-          "title": "Arda Bozkurt'un ailesinden serbest bırakılan sürücüye tepki: Bir canı alıp dışarıda geziyor",
-          "summary": "Aksaray'da motosiklet sürücüsü Arda Bozkurt'un ölümüne yol açan minibüs sürücüsü Faruk Koçak, yargılandığı davanın ilk duruşmasında 3 yıl 4 ay hapis cezasına çarptırılarak tahliye edildi. Karara isyan eden baba Musa Bozkurt, \"Ortada bir ölüm var. Bir canı alıp dışarıda gezmesi vicdanımızı sızlatıyor, adalet istiyoruz\" diyerek karara itiraz edeceklerini belirtti.",
-          "source": "https://www.hurriyet.com.tr/gundem/arda-bozkurtun-ailesinden-serbest-birakilan-surucuye-tepki-bir-cani-alip-disarida-geziyor-43337481"
+          "title": "İstanbul’daki cinayette acılı akrabadan şoke eden iddia: Öldürüp fotoğrafını çekiyorlar",
+          "summary": "Bağcılar'da silahlı saldırıda hayatını kaybeden Emirhan Menteşe'nin akrabası, \"Çocuğa pusu kurup vurdular, şimdi de 'Bu sefer öldün' diyerek fotoğrafını çekiyorlar.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbuldaki-cinayette-acili-akrabadan-soke-eden-iddia-oldurup-fotografini-cekiyorlar-43337857"
         },
         {
-          "title": "Emine Erdoğan'dan Dünya Kız Çocukları Günü mesajı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Dünya Kız Çocukları Günü\"nü kutladı. Emine Erdoğan, 11 Ekim Dünya Kız Çocukları Günü dolayısıyla sosyal medya hesabından paylaşım yaptı. Erdoğan; paylaşımında bir kız çocuğunun kalbinde filizlenen hayalin, bazen bir buluşa, bazen bir başarıya, bazen de nice insanın hayatına dokunacak büyük bir esere dönüştüğünü belirtti.",
-          "source": "https://www.ntv.com.tr/turkiye/emine-erdogandan-dunya-kiz-cocuklari-gunu-mesaji-1745796"
-        },
-        {
-          "title": "GastroAntep Kültür Yolu Festivali: Gaziantep’in tatları 73 lezzet noktasında buluştu",
-          "summary": "Gaziantep, Kültür ve Turizm Bakanlığı tarafından düzenlenen GastroAntep Kültür Yolu Festivali kapsamında ünlü şeflerin buluşma noktası oldu. MasterChef jüri üyesi Şef Mehmet Yalçınkaya ve Şef Doğa Çitçi’nin ev sahipliğinde, gastronomi dünyasının tanınmış 12 şefi Gaziantep’te lezzet turuna çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gastroantep-kultur-yolu-festivali-gaziantepin-tatlari-73-lezzet-noktasinda-bulustu-43337467"
+          "title": "'İşimiz henüz bitmedi' | Bakan Kurum, Hataylı vatandaşın övgüsünü paylaştı",
+          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, sosyal medya hesabından Hatay Atatürk Caddesi’ndeki yeni evine taşınan Bülent Artun’un görüntülerini \"Hatay, Asrın İnşası’nda en çok emek verdiğimiz şehirlerdendi. İşimiz henüz bitmedi. Ama şükürler olsun, hemşerilerimiz artık kendi yuvalarında Gerisini ben değil, Bülent abi anlatsın\" notuyla paylaştı.",
+          "source": "https://www.hurriyet.com.tr/gundem/isimiz-henuz-bitmedi-bakan-kurum-hatayli-vatandasin-ovgusunu-paylasti-43337835"
         }
       ]
     },
     "dunya": {
-      "text": "Arakçi'den ABD ve İsrail saldırılarına 'doğa katliamı' tepkisi. Trump'tan Hürmüz Boğazı çıkışı: Adını \"Trump Boğazı\" olarak değiştirmeyi düşünüyoruz. Rusya'da İHA saldırısıyla vurulan bir Yandex veri merkezi daha faaliyetlerini durdurdu. 7,7 büyüklüğündeki depremin ardından Panama yaralarını sarıyor. Halk hâlâ korku içinde. Rusya'dan Ukrayna'ya peş peşe saldırılar. İngiltere'de kaplan kafesine giren adam hayatını kaybetti. İsrail Başbakanı Netanyahu hakim karşısına çıkacak.",
+      "text": "Kral Halid Uluslararası Havalimanı yolcu terminaline saldırı. Trump'tan ateşkes mesajı. \"Rusya ve Ukrayna enerji ateşkesinde anlaştı\". Netanyahu hakkında iddianame hazırlayan eski Başsavcı Mandelblit ifade verdi. Dışişleri Bakanlığı'ndan Riyad saldırısına kınama. Rusya ile Ukrayna arasında ateşkes anlaşması! Zelenski'den seçim mesajı. Hindistan'da gözaltındaki Hamam Böceği Halk Partisi liderleri salıverildi. Papa 14. Leo, akciğerinde kitle tespit edildiğini ve ameliyat olacağını açıkladı.",
       "items": [
         {
-          "title": "Arakçi'den ABD ve İsrail saldırılarına 'doğa katliamı' tepkisi",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD ve İsrail'in İran'ın enerji tesislerine yönelik saldırılarının geniş çaplı çevresel sonuçlara neden olduğunu kaydetti. Arakçi, çevrenin siyasi baskı aracı veya kısa vadeli ekonomik ve askeri çıkarların kurbanı olmaması gerektiğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/arakciden-abd-ve-israil-saldirilarina-doga-katliami-tepkisi-43337499"
+          "title": "Kral Halid Uluslararası Havalimanı yolcu terminaline saldırı",
+          "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Riyad yakınlarındaki Kral Halid Uluslararası Havalimanı'nın 4 numaralı yolcu terminaline düzenlenen saldırı sonrası tesiste yangın çıktığını açıkladı. Yetkililer, Riyad yakınlarında tespit edilen bir füzenin de hava savunma sistemleri tarafından engellendiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kral-halid-uluslararasi-havalimani-yolcu-terminaline-saldiri-43337926"
         },
         {
-          "title": "Trump'tan Hürmüz Boğazı çıkışı: Adını \"Trump Boğazı\" olarak değiştirmeyi düşünüyoruz",
-          "summary": "ABD Başkanı Donald Trump, ara seçim için Cumhuriyetçi Parti adaylarına destek konuşması yaparken, bir kez daha Hürmüz Boğazı'nın adını \"Trump Boğazı\" olarak değiştirme planından bahsetti. ABD Başkanı Donald Trump, Tennessee eyaletinde, ABD Kongresi'ndeki dengeleri değiştirme gücü olan 3 Kasım'daki ara seçim için Cumhuriyetçi Parti tarafından düzenlenen etkinlikte konuştu.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-hurmuz-bogazi-cikisi-adini-trump-bogazi-olarak-degistirmeyi-dusunuyoruz-1745788"
+          "title": "Trump'tan ateşkes mesajı. \"Rusya ve Ukrayna enerji ateşkesinde anlaştı\"",
+          "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında bir enerji ateşkesi anlaşması yapıldığını duyurdu. ABD Başkanı Trump, sosyal medya hesabından yaptığı paylaşımla Rusya ile Ukrayna arasındaki anlaşmayı duyurdu. Trump paylaşımında, “Savaşta derhal yürürlüğe girmek üzere, bir enerji ateşkesi sağlanmıştır.\" dedi. İki ülkenin, savaşın devam etmesine rağmen birbirlerinin enerji altyapısına saldırmama taahhüdü verdiğini belirten Trump, \"Her iki taraf da anlaştı. Bunu bozmayın.\" diye ekledi.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-ateskes-mesaji-rusya-ve-ukrayna-enerji-ateskesinde-anlasti-1745863"
         },
         {
-          "title": "Rusya'da İHA saldırısıyla vurulan bir Yandex veri merkezi daha faaliyetlerini durdurdu",
-          "summary": "Rus teknoloji şirketi Yandex, ülkenin Vladimir bölgesindeki veri merkezinin de insansız hava aracı (İHA) saldırısında hasar gördüğünü ve faaliyetlerinin tamamen durduğunu bildirdi. Yandex, 8 Ekim'de Ryazan bölgesindeki Sasovo veri merkezinin, 9 Ekim'de ise Kaluga bölgesindeki veri merkezinin İHA saldırılarında hasar gördüğünü, Sasovo'daki tesisin faaliyetlerinin tamamen durduğunu, Kaluga'daki tesisin ise altyapısının bir kısmının kullanılamaz hale geldiğini açıklamıştı.",
-          "source": "https://www.ntv.com.tr/dunya/rusyada-iha-saldirisiyla-vurulan-bir-yandex-veri-merkezi-daha-faaliyetlerini-durdurdu-1745785"
+          "title": "Netanyahu hakkında iddianame hazırlayan eski Başsavcı Mandelblit ifade verdi",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun yolsuzluktan yargılandığı davanın iddianamesini hazırlayan eski Başsavcı Avichai Mandelblit, bu kez Netanyahu’nun avukatlarının talebiyle savunma tanığı olarak mahkemede tanık kürsüsüne çıktı. Mandelblit, \"polisin kendisine haber vermeden bir iş çevirdiğini düşündüğünü\" belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/netanyahu-hakkinda-iddianame-hazirlayan-eski-bassavci-mandelblit-ifade-verdi-43337804"
         },
         {
-          "title": "7,7 büyüklüğündeki depremin ardından Panama yaralarını sarıyor. Halk hâlâ korku içinde",
-          "summary": "Orta Amerika ülkesi Panama, önceki gün meydana gelen ve ülke genelinde büyük paniğe neden olan 7,7 büyüklüğündeki depremin ardından yaralarını sarmaya çalışıyor. Depremzedeler ise hâlâ korku içinde. BÜYÜKLÜĞÜ 6,0'A VARAN 100'DEN FAZLA ARTÇI ŞOK Panama önceki gün 7,7 büyüklüğünde bir depremle sarsıldı. Çok sayıda binanın hasar gördüğü deprem nedeniyle elektrik kesintileri yaşanırken, uçuşlar ve toplu taşıma seferleri durduruldu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-77-buyuklugundeki-depremin-ardindan-panama-yaralarini-sariyor-halk-hala-korku-icinde-1745781"
+          "title": "Dışişleri Bakanlığı'ndan Riyad saldırısına kınama",
+          "summary": "Dışişleri Bakanlığı, Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'nın Husiler tarafından bir kere daha hedef alınmasını en güçlü şekilde kınadığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakanligindan-riyad-saldirisina-kinama-43337801"
         },
         {
-          "title": "Rusya'dan Ukrayna'ya peş peşe saldırılar",
-          "summary": "Rusya, Ukrayna'nın Odessa şehrinde bir veri merkezi ile Çernomorsk Limanı'nda askeri yük taşıyan bir kuru yük gemisini vurduğunu duyurdu. Saldırıların insansız hava araçlarıyla (İHA) gerçekleştirildiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-ukraynaya-pes-pese-saldirilar-43337388"
+          "title": "Rusya ile Ukrayna arasında ateşkes anlaşması! Zelenski'den seçim mesajı",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'ya \"seçim ateşkesi\" önerisinde bulundu. Ukrayna'da 60 günlük geçici ateşkes sağlanması halinde seçim yapılabileceğini ifade eden Zelenski, Rusya'nın ülkesindeki enerji altyapısını hedef almayı bırakması halinde Rus petrol rafinerilerine saldırıları durdurmaya hazır olduklarını kaydetti. ABD Başkanı Donald Trump, Rusya ile Ukrayna'nın derhal uygulanmak üzere ateşkeste anlaştığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusya-ile-ukrayna-arasinda-ateskes-anlasmasi-zelenskiden-secim-mesaji-43337795"
         },
         {
-          "title": "İngiltere'de kaplan kafesine giren adam hayatını kaybetti",
-          "summary": "İngiltere'nin Yorkshire bölgesindeki bir vahşi yaşam parkında kafese giren bir adam, 190 kiloluk Sibirya kaplanı Altai'nin saldırısı sonucu yaşamını yitirdi. Görgü tanıkları, adamın çite tırmanmadan önce \"motive olmak için dans ettiğini\" belirtti. Olay sırasında parkta bulunan aileler yaşananları dehşet içinde izledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-kaplan-kafesine-giren-adam-hayatini-kaybetti-43337366"
+          "title": "Hindistan'da gözaltındaki Hamam Böceği Halk Partisi liderleri salıverildi",
+          "summary": "Hindistan'da seçmen listelerinin yeniden düzenlenmesine karşı organize edilen gösterilerde gözaltına alınan \"Z kuşağı\" internet kullanıcıları öncülüğünde kurulan \"Hamam Böceği Halk Partisi\" adlı siyasi hareketin liderleri serbest bırakıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/hindistanda-gozaltindaki-hamam-bocegi-halk-partisi-liderleri-saliverildi-43337790"
         },
         {
-          "title": "İsrail Başbakanı Netanyahu hakim karşısına çıkacak",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, yargılandığı yolsuzluk davasında bugün hakim karşısına çıkacak. Mahkemede Netanyahu'nun iddianameyi hazırlayan eski Başsavcı Avichai Mandelblit'i sorgulaması bekleniyor. Duruşma, 27 Ekim'deki seçimlerden iki hafta önce yapılıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-basbakani-netanyahu-hakim-karsisina-cikacak-43337331"
+          "title": "Papa 14. Leo, akciğerinde kitle tespit edildiğini ve ameliyat olacağını açıkladı",
+          "summary": "Vatikan Devlet Başkanı Papa 14. Leo, akciğerinde tespit edilen bir kitle nedeniyle birkaç gün içinde ameliyat olacağını açıkladı. Vatikan Devlet Başkanı Papa 14. Leo, Aziz Petrus Meydanı'na bakan ofisinin penceresinden yaptığı geleneksel pazar duasını takip eden konuşmasında, önümüzdeki birkaç gün içinde akciğerinden ameliyat olacağını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/papa-14-leo-akcigerinde-kitle-tespit-edildigini-ve-ameliyat-olacagini-acikladi-1745857"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Göztepe deplasmanda Eyüpspor'la oynayacak. MotoGP'de Endonezya Grand Prix'sini Marco Bezzecchi kazandı. Galatasaray - Barcelona maçına İtalyan hakem!. Real Madrid efsanesi Fernando Morientes'ten Jose Mourinho'ya Arda Güler tepkisi: 'Ona bunu yapamazsın!'. Hansi Flick'ten Galatasaray açıklaması! 'Tarih yazmak istiyoruz'. Nihat Kahveci’den Fenerbahçe’nin yıldızına sert eleştiri: 'En kötüsüydü, operasyon yapılmış!'. Manchester City, Premier Lig'de Liverpool'u konuk edecek! Dev maçın heyecanı canlı sohbet ile Misli'de.",
+      "text": "Hull City, Everton karşısında 1 puana razı!. Trabzonspor evinde Bordo Bandırma'yı mağlup etti!. İlhan Palut: 'Sonuçtan dolayı üzgünüz!'. Nuri Şahin: 'İki takımın da 1 puanı hak ettiği bir maç oldu!'. Galatasaray Daikin evinde galip!. Trabzonspor, KuPS Kuopio maçının hazırlıklarına başladı. Tolu Arokodare'den gol sevinci açıklaması: 'Fikir Osimhen'den geldi!'.",
       "items": [
         {
-          "title": "Göztepe deplasmanda Eyüpspor'la oynayacak",
-          "summary": "Süper Lig'de 3 haftalık uzun milli araya 3 puanla 17'nci basamakta giren Göztepe, ara sonrası yarın 7’nci hafta karşılaşmasında sonuncu sırada yer alan Eyüpspor'la deplasmanda karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/goztepe-deplasmanda-eyupsporla-oynayacak-43337528"
+          "title": "Hull City, Everton karşısında 1 puana razı!",
+          "summary": "Hull City, Premier Lig'in 6. haftasında konuk ettiği Everton ile 2-2 berabere kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hull-city-everton-karsisinda-1-puana-razi-43337886"
         },
         {
-          "title": "MotoGP'de Endonezya Grand Prix'sini Marco Bezzecchi kazandı",
-          "summary": "MotoGP Dünya Şampiyonası'nda Endonezya Grand Prix'sini, Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/motogpde-endonezya-grand-prixsini-marco-bezzecchi-kazandi-43337518"
+          "title": "Trabzonspor evinde Bordo Bandırma'yı mağlup etti!",
+          "summary": "Basketbol Süper Ligi'nin üçüncü haftasında Trabzonspor, sahasında Bordo Bandırma'yı 83-80 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-evinde-bordo-bandirmayi-maglup-etti-43337850"
         },
         {
-          "title": "Galatasaray - Barcelona maçına İtalyan hakem!",
-          "summary": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde 13 Ekim Salı günü sahasında İspanya temsilcisi Barcelona ile yapacağı maçı İtalyan hakem Marco Guida yönetecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-barcelona-macini-italyan-hakem-43337477"
+          "title": "İlhan Palut: 'Sonuçtan dolayı üzgünüz!'",
+          "summary": "Süper Lig'in 7. haftasında konuk ettiği İstanbul Başakşehir ile 0-0 berabere kalan Konyaspor'da teknik direktör İlhan Palut, galibiyeti kaçırdıkları için üzgün olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ilhan-palut-sonuctan-dolayi-uzgunuz-43337845"
         },
         {
-          "title": "Real Madrid efsanesi Fernando Morientes'ten Jose Mourinho'ya Arda Güler tepkisi: 'Ona bunu yapamazsın!'",
-          "summary": "Real Madrid tarihinin en golcü isimleri arasında yer alan eski futbolcu Fernando Morientes, eflatun-beyazlı kulüpte forma giyen milli futbolcu Arda Güler'in sahadaki rolüne ilişkin dikkat çeken açıklamalarda bulundu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-efsanesi-fernando-morientesten-jose-mourinhoya-arda-guler-tepkisi-ona-bunu-yapamazsin-43337379"
+          "title": "Nuri Şahin: 'İki takımın da 1 puanı hak ettiği bir maç oldu!'",
+          "summary": "Süper Lig'in 7. haftasında deplasmanda Konyaspor ile 0-0 berabere kalan İstanbul Başakşehir'de teknik direktör Nuri Şahin, iki takımın da 1 puanı hak ettiğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-iki-takimin-da-1-puani-hak-ettigi-bir-mac-oldu-43337837"
         },
         {
-          "title": "Hansi Flick'ten Galatasaray açıklaması! 'Tarih yazmak istiyoruz'",
-          "summary": "İspanya LaLiga'nın 8. haftasında Barcelona, sahasında Getafe'yi 3-0 mağlup etti. Hansi Flick, galibiyet sonrası açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hansi-flickten-galatasaray-aciklamasi-tarih-yazmak-istiyoruz-43337421"
+          "title": "Galatasaray Daikin evinde galip!",
+          "summary": "Galatasaray Daikin, Sultanlar Ligi'nin ikinci haftasında konuk ettiği Nilüfer Belediyespor Eker'i 3-1 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-daikin-evinde-galip-43337819"
         },
         {
-          "title": "Nihat Kahveci’den Fenerbahçe’nin yıldızına sert eleştiri: 'En kötüsüydü, operasyon yapılmış!'",
-          "summary": "Fenerbahçe, Süper Lig'in 7. haftasında Çaykur Rizespor'u deplasmanda 3-0 mağlup etti. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-fenerbahcenin-yildizina-sert-elestiri-en-kotusuydu-operasyon-yapilmis-43337308"
+          "title": "Trabzonspor, KuPS Kuopio maçının hazırlıklarına başladı",
+          "summary": "Trabzonspor, UEFA Konferans Ligi'nin 1. haftasında 15 Ekim Perşembe günü deplasmanda Finlandiya'nın KuPS Kuopio ekibiyle yapacağı maçın hazırlıklarına başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-kups-kuopio-macinin-hazirliklarina-basladi-43337789"
         },
         {
-          "title": "Manchester City, Premier Lig'de Liverpool'u konuk edecek! Dev maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "İngiltere Premier Lig'in 6. haftası dev bir maça sahne olacak. Lider Manchester City, bu akşam deplasmanda Liverpool ile karşı karşıya gelecek. Zorlu mücadelenin heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/manchester-city-premier-ligde-liverpoolu-konuk-edecek-dev-macin-heyecani-canli-sohbet-ile-mislide-43337307"
+          "title": "Tolu Arokodare'den gol sevinci açıklaması: 'Fikir Osimhen'den geldi!'",
+          "summary": "Ajax'ın NEC ile 1-1 berabere kaldığı maçta gol atan Tolu Arokodare, sakatlanan takım arkadaşı Kasper Dolberg'e formasını göstererek destek verdi. Nijeryalı oyuncu maçın ardından fikri Victor Osimhen'den aldığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tolu-arokodareden-gol-sevinci-aciklamasi-fikir-osimhenden-geldi-43337742"
         }
       ]
     },
