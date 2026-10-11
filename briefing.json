@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-11T04:00:03.707Z",
+  "generatedAt": "2026-10-11T10:00:04.839Z",
   "categories": {
     "gundem": {
-      "text": "Sarıyer’de trafik kazası! 2 araç alev topuna döndü. Bağcılar’da silahlı saldırı: 1 ölü. Yahşihan Belediyesi soruşturması. Başkanvekili Aydın Demirdirek görevden uzaklaştırıldı. Kayseri'de 3.6 büyüklüğünde deprem. Marmara'da deprem: İstanbul'da da hissedildi. Profesör Okan Tüysüz, fayla ilgili bilgi verdi. Tokat’ta 1400 kişi hastanelere başvurdu… Yetkililerden uyarı: Suları kaynatarak tüketin. Sarıyer TEM Otoyolu’nda otomobil duran taksiye çarptı: 2 araç yandı, 5 kişi yaralandı.",
+      "text": "Manisa'da katliam gibi kaza: 11 can kaybı var. İşçiler günlük bin 300 TL alıyor. Toplandıktan sonra turşu yapılıyor. Küçük Oğuzhan pencereden düşüp ölmüştü! Dayı hakkında kan donduran suçlama: Ağırlaştırılmış müebbet istendi. Ceza korkusuyla sokağa bıraktılar! İstanbul’da sokak ortasında kıyafet kapma yarışı. Arda Bozkurt'un ailesinden serbest bırakılan sürücüye tepki: Bir canı alıp dışarıda geziyor. Emine Erdoğan'dan Dünya Kız Çocukları Günü mesajı. GastroAntep Kültür Yolu Festivali: Gaziantep’in tatları 73 lezzet noktasında buluştu.",
       "items": [
         {
-          "title": "Sarıyer’de trafik kazası! 2 araç alev topuna döndü",
-          "summary": "Sarıyer’de meydana gelen trafik kazasının ardından, kaza yapan otomobil ile taksi alev topuna döndü. İtfaiye ekiplerinin müdahalesiyle yangın söndürüldü.",
-          "source": "https://www.hurriyet.com.tr/gundem/sariyerde-trafik-kazasi-2-arac-alev-topuna-dondu-43337250"
+          "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
+          "summary": "İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, 27 kişi yaralandı. Manisa'nın Akhisar ilçesinde, saat 11.00 sıralarında Gebze-Orhangazi-İzmir Otoyolu'nun Akhisar Gişeleri mevkisinde tur otobüsü ile çekici çarpıştı. İhbarı üzerine bölgeye çok sayıda ambulans, itfaiye ve polis ekibi sevk edildi. NTV Ege Bölge Temsilcisi Merih Ak, kazada 11 kişinin hayatını kaybettiğini ve 27 kişinin yaralandığını söyledi. Yaralılar çeşitli hastanelere kaldırıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808"
         },
         {
-          "title": "Bağcılar’da silahlı saldırı: 1 ölü",
-          "summary": "Bağcılar’da, cadde üzerinde silahlı saldırıya uğrayan bir kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249"
+          "title": "İşçiler günlük bin 300 TL alıyor. Toplandıktan sonra turşu yapılıyor",
+          "summary": "Gaziantep'in Oğuzeli ilçesinde turşuluk acur hasadı başladı. İlçe kırsalındaki tarlalardan hasat edilen taze acurlar, kışın tüketilmek üzere turşu yapılıyor. Gaziantep'in Oğuzeli ilçesinde kış aylarına hazırlık çerçevesinde turşuluk acur hasadı başladı. Oğuzeli ilçesi kırsalındaki tarlalarda sabah erken saatlerde başlayan hasat mesaisi öğle saatlerinden sonra bitiyor. Acur hasadı yapan işçiler günlük yevmiye olarak bin 300 TL alıyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-isciler-gunluk-bin-300-tl-aliyor-toplandiktan-sonra-tursu-yapiliyor-1745815"
         },
         {
-          "title": "Yahşihan Belediyesi soruşturması. Başkanvekili Aydın Demirdirek görevden uzaklaştırıldı",
-          "summary": "Kırıkkale'de Yahşihan Belediyesi'ne yönelik yürütülen yolsuzluk soruşturmasının ikinci dalgasında tutuklanan Yahşihan Belediye Başkanvekili Aydın Demirdirek, görevden uzaklaştırıldı. Kırıkkale Cumhuriyet Başsavcılığı tarafından Yahşihan Belediyesi'ne yönelik yürütülen yolsuzluk soruşturması kapsamında İl Jandarma Komutanlığı ekiplerince Ankara ve Kırıkkale'de belirlenen adreslere eş zamanlı operasyon düzenlendi.",
-          "source": "https://www.ntv.com.tr/turkiye/yahsihan-belediyesi-sorusturmasi-baskanvekili-aydin-demirdirek-gorevden-uzaklastirildi-1745723"
+          "title": "Küçük Oğuzhan pencereden düşüp ölmüştü! Dayı hakkında kan donduran suçlama: Ağırlaştırılmış müebbet istendi",
+          "summary": "İstanbul Bahçelievler’de 2024 yılında 6’ncı kattaki evin penceresinden düşerek hayatını kaybeden 6 yaşındaki Oğuzhan Moğol’un ölümüne ilişkin soruşturma tamamlandı. İddianamede çocuğun dayısıyla ilgili dehşete düşüren detaylar yer aldı. Savcılık, yeğenini camdan aşağı atarak öldürdüğü iddiasıyla dayı Mustafa Uğur S. hakkında “çocuğu kasten öldürme” suçundan ağırlaştırılmış müebbet hapis cezası talep etti. İddianamede, olay sırasında evde bulunan kız kardeşinin tanık olarak verdiği ifadeye de yer verildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kucuk-oguzhan-pencereden-dusup-olmustu-dayi-hakkinda-kan-donduran-suclama-agirlastirilmis-muebbet-istendi-43337495"
         },
         {
-          "title": "Kayseri'de 3.6 büyüklüğünde deprem",
-          "summary": "Kayseri'nin Bünyan ilçesinde 3.6 büyüklüğünde deprem meydana geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-3-6-buyuklugunde-deprem-43337243"
+          "title": "Ceza korkusuyla sokağa bıraktılar! İstanbul’da sokak ortasında kıyafet kapma yarışı",
+          "summary": "Avcılar Gümüşpala Mahallesi'nde psikolojik tedavi gördüğü belirtilen bir kadının çevreden toplayarak binanın bodrum katında biriktirdiği kıyafetler, yakınları tarafından ceza yazılacağı endişesiyle sokağa bırakıldı. Sokağa dökülen giysileri çevredekiler poşet ve çuvallara doldurarak götürürken, ihbar üzerine gelen belediye ekipleri kalan kıyafetleri iki kamyonete yükleyerek topladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ceza-korkusuyla-sokaga-biraktilar-istanbulda-sokak-ortasinda-kiyafet-kapma-yarisi-43337513"
         },
         {
-          "title": "Marmara'da deprem: İstanbul'da da hissedildi. Profesör Okan Tüysüz, fayla ilgili bilgi verdi",
-          "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde Yalova merkezli 3,5 büyüklüğünde deprem meydana geldi. Prof. Okan Tüysüz, ntv.com.tr'ye, \"İstanbul ile bağlantılı değil\" bilgisini verdi. Afet ve Acil Durum Yönetimi Başkanlığı, Marmara'da saat 22.08'de 3,5 büyüklüğünde deprem meydana geldiğini açıkladı. Yalova açıklarında olduğu açıklanan depremin derinliği 7,9 kilometre. Deprem İstanbul'da birçok noktada da hissedildi. Prof.",
-          "source": "https://www.ntv.com.tr/turkiye/marmarada-deprem-istanbulda-da-hissedildi-profesor-okan-tuysuz-fayla-ilgili-bilgi-verdi-1745730"
+          "title": "Arda Bozkurt'un ailesinden serbest bırakılan sürücüye tepki: Bir canı alıp dışarıda geziyor",
+          "summary": "Aksaray'da motosiklet sürücüsü Arda Bozkurt'un ölümüne yol açan minibüs sürücüsü Faruk Koçak, yargılandığı davanın ilk duruşmasında 3 yıl 4 ay hapis cezasına çarptırılarak tahliye edildi. Karara isyan eden baba Musa Bozkurt, \"Ortada bir ölüm var. Bir canı alıp dışarıda gezmesi vicdanımızı sızlatıyor, adalet istiyoruz\" diyerek karara itiraz edeceklerini belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/arda-bozkurtun-ailesinden-serbest-birakilan-surucuye-tepki-bir-cani-alip-disarida-geziyor-43337481"
         },
         {
-          "title": "Tokat’ta 1400 kişi hastanelere başvurdu… Yetkililerden uyarı: Suları kaynatarak tüketin",
-          "summary": "TOKAT’ta mide bulantısı, kusma ve karın ağrısı şikayetiyle 1300- 1400 kişi hastanelere başvurdu. Hastalardan 15’i yatarak tedaviye alındı. İçme suyu numunelerinde yapılan son testlerde olumsuzluk saptanmadığını açıklayan yetkililer, sonuçlar kesinleşene kadar suların kaynatılarak tüketilmesi uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/tokatta-1400-kisi-hastanelere-basvurdu-yetkililerden-uyari-sulari-kaynatarak-tuketin-43337165"
+          "title": "Emine Erdoğan'dan Dünya Kız Çocukları Günü mesajı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Dünya Kız Çocukları Günü\"nü kutladı. Emine Erdoğan, 11 Ekim Dünya Kız Çocukları Günü dolayısıyla sosyal medya hesabından paylaşım yaptı. Erdoğan; paylaşımında bir kız çocuğunun kalbinde filizlenen hayalin, bazen bir buluşa, bazen bir başarıya, bazen de nice insanın hayatına dokunacak büyük bir esere dönüştüğünü belirtti.",
+          "source": "https://www.ntv.com.tr/turkiye/emine-erdogandan-dunya-kiz-cocuklari-gunu-mesaji-1745796"
         },
         {
-          "title": "Sarıyer TEM Otoyolu’nda otomobil duran taksiye çarptı: 2 araç yandı, 5 kişi yaralandı",
-          "summary": "Sarıyer TEM Otoyolu’nda, iddiaya göre otomobil, yol üzerinde duran taksiye arkadan çarptı. Çarpışmanın ardından taksinin LPG tankında yangın çıktı, her iki araç alev alev yandı. Otomobildeki 4 kişi hafif yaralanırken, taksi sürücüsünün kolunda yanık oluştu.",
-          "source": "https://www.hurriyet.com.tr/gundem/sariyer-tem-otoyolunda-otomobil-duran-taksiye-carpti-2-arac-yandi-5-kisi-yaralandi-43337226"
+          "title": "GastroAntep Kültür Yolu Festivali: Gaziantep’in tatları 73 lezzet noktasında buluştu",
+          "summary": "Gaziantep, Kültür ve Turizm Bakanlığı tarafından düzenlenen GastroAntep Kültür Yolu Festivali kapsamında ünlü şeflerin buluşma noktası oldu. MasterChef jüri üyesi Şef Mehmet Yalçınkaya ve Şef Doğa Çitçi’nin ev sahipliğinde, gastronomi dünyasının tanınmış 12 şefi Gaziantep’te lezzet turuna çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gastroantep-kultur-yolu-festivali-gaziantepin-tatlari-73-lezzet-noktasinda-bulustu-43337467"
         }
       ]
     },
     "dunya": {
-      "text": "İnfazdan sağ kurtulan idam mahkumu cezaevine döndü. Hürmüz'de dev tanker mayına çarptı. Gözünü okyanuslara dikti. \"Trump Okyanusu'na ihtiyacımız var\". Kiev karanlığa gömüldü. Husiler Riyad'da havalimanını vurdu. 12 kişi öldü, 309 kişi yaralandı. Hayvanat bahçesinin kaplan bölümüne atladı. Şahıs hayatını kaybetti, alan tahliye edildi. Trump: Ukrayna'nın yeni bir lidere ihtiyacı var.",
+      "text": "Arakçi'den ABD ve İsrail saldırılarına 'doğa katliamı' tepkisi. Trump'tan Hürmüz Boğazı çıkışı: Adını \"Trump Boğazı\" olarak değiştirmeyi düşünüyoruz. Rusya'da İHA saldırısıyla vurulan bir Yandex veri merkezi daha faaliyetlerini durdurdu. 7,7 büyüklüğündeki depremin ardından Panama yaralarını sarıyor. Halk hâlâ korku içinde. Rusya'dan Ukrayna'ya peş peşe saldırılar. İngiltere'de kaplan kafesine giren adam hayatını kaybetti. İsrail Başbakanı Netanyahu hakim karşısına çıkacak.",
       "items": [
         {
-          "title": "İnfazdan sağ kurtulan idam mahkumu cezaevine döndü",
-          "summary": "ABD'nin Tennessee eyaletinde zehirli iğneyle infaz girişiminden sağ kurtulan 50 yaşındaki Christa Pike hastaneden taburcu edildi, cezaevine geri gönderildi. 1995 yılında henüz 19 yaşındayken okul arkadaşı Colleen Slemmer'ın işkence edilerek öldürülmesi olayındaki rolü nedeniyle idam cezasına çarptırılan Christa Pike, zehirli iğneyle infaz girişiminden sağ kurtuldu. İki doz ilaç enjekte edilmesine rağmen hayatını kaybetmeyen ve komadan uyanan Pike hastaneden de taburcu edildi.",
-          "source": "https://www.ntv.com.tr/dunya/infazdan-sag-kurtulan-idam-mahkumu-cezaevine-dondu-1745749"
+          "title": "Arakçi'den ABD ve İsrail saldırılarına 'doğa katliamı' tepkisi",
+          "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD ve İsrail'in İran'ın enerji tesislerine yönelik saldırılarının geniş çaplı çevresel sonuçlara neden olduğunu kaydetti. Arakçi, çevrenin siyasi baskı aracı veya kısa vadeli ekonomik ve askeri çıkarların kurbanı olmaması gerektiğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/arakciden-abd-ve-israil-saldirilarina-doga-katliami-tepkisi-43337499"
         },
         {
-          "title": "Hürmüz'de dev tanker mayına çarptı",
-          "summary": "İran Devrim Muhafızları, Hürmüz Boğazı'nda 2 milyon varil petrol taşıyabilen dev bir tankerin mayına çarptığını açıkladı. ABD ve İran arasında pazarlıklar aracılar eliyle sürdürülürken, çift taraflı abluka altındaki Hürmüz Boğazı yeniden hareketlendi. İran Devrim Muhafızları, Hürmüz Boğazı’ndan izinsiz geçmeye çalışan bir süper tankerde patlama meydana geldiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/hurmuzde-dev-tanker-mayina-carpti-1745748"
+          "title": "Trump'tan Hürmüz Boğazı çıkışı: Adını \"Trump Boğazı\" olarak değiştirmeyi düşünüyoruz",
+          "summary": "ABD Başkanı Donald Trump, ara seçim için Cumhuriyetçi Parti adaylarına destek konuşması yaparken, bir kez daha Hürmüz Boğazı'nın adını \"Trump Boğazı\" olarak değiştirme planından bahsetti. ABD Başkanı Donald Trump, Tennessee eyaletinde, ABD Kongresi'ndeki dengeleri değiştirme gücü olan 3 Kasım'daki ara seçim için Cumhuriyetçi Parti tarafından düzenlenen etkinlikte konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-hurmuz-bogazi-cikisi-adini-trump-bogazi-olarak-degistirmeyi-dusunuyoruz-1745788"
         },
         {
-          "title": "Gözünü okyanuslara dikti. \"Trump Okyanusu'na ihtiyacımız var\"",
-          "summary": "ABD Başkanı Donald Trump seçim mitinginde iddialı konuştu: \"Bir okyanusa ihtiyacımız var. Atlantik ya da Pasifik'e ‘Trump Okyanusu’ ya da ‘Amerikan Okyanusu’ gibi bir isim vermeyi düşünüyorum.\" ABD Başkanı Donald Trump'ın 3 Kasım ara seçimleri için başladığı tur devam ediyor. Cumhuriyetçilerin Tennessee'deki seçim mitingine katılan Trump'ın gündeminde bu defa da \"Trump Okyanusu\" vardı. Taraftarlarına seslenirken \"Bir okyanusa ihtiyacımız var.\" diyen Trump, şöyle konuştu: \"Körfez'imiz var. Güzel bir gölümüz var.",
-          "source": "https://www.ntv.com.tr/dunya/gozunu-okyanuslara-dikti-trump-okyanusuna-ihtiyacimiz-var-1745746"
+          "title": "Rusya'da İHA saldırısıyla vurulan bir Yandex veri merkezi daha faaliyetlerini durdurdu",
+          "summary": "Rus teknoloji şirketi Yandex, ülkenin Vladimir bölgesindeki veri merkezinin de insansız hava aracı (İHA) saldırısında hasar gördüğünü ve faaliyetlerinin tamamen durduğunu bildirdi. Yandex, 8 Ekim'de Ryazan bölgesindeki Sasovo veri merkezinin, 9 Ekim'de ise Kaluga bölgesindeki veri merkezinin İHA saldırılarında hasar gördüğünü, Sasovo'daki tesisin faaliyetlerinin tamamen durduğunu, Kaluga'daki tesisin ise altyapısının bir kısmının kullanılamaz hale geldiğini açıklamıştı.",
+          "source": "https://www.ntv.com.tr/dunya/rusyada-iha-saldirisiyla-vurulan-bir-yandex-veri-merkezi-daha-faaliyetlerini-durdurdu-1745785"
         },
         {
-          "title": "Kiev karanlığa gömüldü",
-          "summary": "ABD'nin Rusya'yla dizel yakıt anlaşması yapması Donald Trump-Volodimir Zelenski gerilimi yükseldi, Rusya saldırılarını artırdı. Zaporijya'da ölü sayısı 20'ye çıktı, Kiev karanlıkta kaldı. Savaşta 4.5 yıl geride kalırken, Rusya ile Ukrayna'nın karşılıklı saldırıları devam ediyor. Rus güçleri yerleşim yerleri ve sivil altyapıyı hedef alırken, Ukrayna ordusu ise liman ve petrol üretim tesislerini vuruyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-kiev-karanliga-gomuldu-1745745"
+          "title": "7,7 büyüklüğündeki depremin ardından Panama yaralarını sarıyor. Halk hâlâ korku içinde",
+          "summary": "Orta Amerika ülkesi Panama, önceki gün meydana gelen ve ülke genelinde büyük paniğe neden olan 7,7 büyüklüğündeki depremin ardından yaralarını sarmaya çalışıyor. Depremzedeler ise hâlâ korku içinde. BÜYÜKLÜĞÜ 6,0'A VARAN 100'DEN FAZLA ARTÇI ŞOK Panama önceki gün 7,7 büyüklüğünde bir depremle sarsıldı. Çok sayıda binanın hasar gördüğü deprem nedeniyle elektrik kesintileri yaşanırken, uçuşlar ve toplu taşıma seferleri durduruldu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-77-buyuklugundeki-depremin-ardindan-panama-yaralarini-sariyor-halk-hala-korku-icinde-1745781"
         },
         {
-          "title": "Husiler Riyad'da havalimanını vurdu. 12 kişi öldü, 309 kişi yaralandı",
-          "summary": "Husilerin Suudi Arabistan'daki Kral Halid Havalimanına yönelik saldırılarında 12 kişi öldü, 309 kişi yaralandı. Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Havalimanının biri pilot, üç kişinin hayatını kaybettiği saldırıdan iki gün sonra tekrar saldırıya uğradığı bildirildi. Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), tarafından yayımlanan açıklamada, dün öğleden sonra Kral Halid Uluslararası Havalimanı'na yönelik saldırıya ilişkin güncel veriler paylaşıldı.",
-          "source": "https://www.ntv.com.tr/dunya/husiler-riyadda-havalimanini-vurdu-12-kisi-oldu-309-kisi-yaralandi-1745722"
+          "title": "Rusya'dan Ukrayna'ya peş peşe saldırılar",
+          "summary": "Rusya, Ukrayna'nın Odessa şehrinde bir veri merkezi ile Çernomorsk Limanı'nda askeri yük taşıyan bir kuru yük gemisini vurduğunu duyurdu. Saldırıların insansız hava araçlarıyla (İHA) gerçekleştirildiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-ukraynaya-pes-pese-saldirilar-43337388"
         },
         {
-          "title": "Hayvanat bahçesinin kaplan bölümüne atladı. Şahıs hayatını kaybetti, alan tahliye edildi",
-          "summary": "İngiltere'nin Yorkshire bölgesindeki bir hayvanat bahçesinde Bengal kaplanı bölümüne giren şahıs, kaplanın saldırması sonucu hayatını kaybetti. Batı Yorkshire Polisi’nden yapılan açıklamaya göre Yorkshire Wildlife Park adlı hayvanat bahçesinde bir şahıs Bengal kaplanının tutulduğu etrafı yüksek tellerle çevrili bölüme girdi. Kaplanın saldırdığı şahıs ağır yaralanırken saldırı anı ziyaretçilerin kameralarına yansıdı.",
-          "source": "https://www.ntv.com.tr/dunya/hayvanat-bahcesinin-kaplan-bolumune-atladi-sahis-hayatini-kaybetti-alan-tahliye-edildi-1745741"
+          "title": "İngiltere'de kaplan kafesine giren adam hayatını kaybetti",
+          "summary": "İngiltere'nin Yorkshire bölgesindeki bir vahşi yaşam parkında kafese giren bir adam, 190 kiloluk Sibirya kaplanı Altai'nin saldırısı sonucu yaşamını yitirdi. Görgü tanıkları, adamın çite tırmanmadan önce \"motive olmak için dans ettiğini\" belirtti. Olay sırasında parkta bulunan aileler yaşananları dehşet içinde izledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-kaplan-kafesine-giren-adam-hayatini-kaybetti-43337366"
         },
         {
-          "title": "Trump: Ukrayna'nın yeni bir lidere ihtiyacı var",
-          "summary": "Akaryakıt fiyatlarını düşürmek için Rusya'dan ithalat yolunu seçen ABD Başkanı Donald Trump, hedefine Ukrayna Lideri Volodimir Zelenski'yi aldı. Trump, \"Ukrayna'nın yeni bir lidere ihtiyacı var\" dedi. Trump, Beyaz Saray'dan ayrılmadan önce gazetecilere yaptığı basın açıklamasında, Ukrayna Devlet Başkanı Zelenski hakkında değerlendirmelerde bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/trump-ukraynanin-yeni-bir-lidere-ihtiyaci-var-1745689"
+          "title": "İsrail Başbakanı Netanyahu hakim karşısına çıkacak",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu, yargılandığı yolsuzluk davasında bugün hakim karşısına çıkacak. Mahkemede Netanyahu'nun iddianameyi hazırlayan eski Başsavcı Avichai Mandelblit'i sorgulaması bekleniyor. Duruşma, 27 Ekim'deki seçimlerden iki hafta önce yapılıyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-basbakani-netanyahu-hakim-karsisina-cikacak-43337331"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe Tarfin'den 100 sayılık şov!. Recep Uçar: 'Ağır şekilde cezalandırıldık!'. İsmail Kartal'dan oyuncularına tebrik: 'Yolumuza devam ediyoruz'. Galatasaray'ın rakibi Barcelona, 3 puanı 3 golle aldı!. Marco Asensio: 'Maç maç ritim kazanacağım!'. Rize'de kırılma anı: Ederson'dan Fenerbahçe’yi ayağa kaldıran kurtarış. Bayern Münih 5. saniyede gol yediği maçta berabere kaldı!.",
+      "text": "Göztepe deplasmanda Eyüpspor'la oynayacak. MotoGP'de Endonezya Grand Prix'sini Marco Bezzecchi kazandı. Galatasaray - Barcelona maçına İtalyan hakem!. Real Madrid efsanesi Fernando Morientes'ten Jose Mourinho'ya Arda Güler tepkisi: 'Ona bunu yapamazsın!'. Hansi Flick'ten Galatasaray açıklaması! 'Tarih yazmak istiyoruz'. Nihat Kahveci’den Fenerbahçe’nin yıldızına sert eleştiri: 'En kötüsüydü, operasyon yapılmış!'. Manchester City, Premier Lig'de Liverpool'u konuk edecek! Dev maçın heyecanı canlı sohbet ile Misli'de.",
       "items": [
         {
-          "title": "Fenerbahçe Tarfin'den 100 sayılık şov!",
-          "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 3. haftasında Fenerbahçe Tarfin, deplasmanda Glint Çayırova Belediyesi'ni 100-85 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfinden-100-sayilik-sov-43337107"
+          "title": "Göztepe deplasmanda Eyüpspor'la oynayacak",
+          "summary": "Süper Lig'de 3 haftalık uzun milli araya 3 puanla 17'nci basamakta giren Göztepe, ara sonrası yarın 7’nci hafta karşılaşmasında sonuncu sırada yer alan Eyüpspor'la deplasmanda karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/goztepe-deplasmanda-eyupsporla-oynayacak-43337528"
         },
         {
-          "title": "Recep Uçar: 'Ağır şekilde cezalandırıldık!'",
-          "summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar, Fenerbahçe maçının ardından yaptığı açıklamada, \"Mazeretlere sığınmıyorum ancak yaptığımız bireysel hatalar sonucunda ağır şekilde cezalandırıldık\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/recep-ucar-agir-sekilde-cezalandirildik-43337096"
+          "title": "MotoGP'de Endonezya Grand Prix'sini Marco Bezzecchi kazandı",
+          "summary": "MotoGP Dünya Şampiyonası'nda Endonezya Grand Prix'sini, Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/motogpde-endonezya-grand-prixsini-marco-bezzecchi-kazandi-43337518"
         },
         {
-          "title": "İsmail Kartal'dan oyuncularına tebrik: 'Yolumuza devam ediyoruz'",
-          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Çaykur Rizespor'u 3-0 mağlup ettikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartaldan-oyuncularina-tebrik-yolumuza-devam-ediyoruz-43337089"
+          "title": "Galatasaray - Barcelona maçına İtalyan hakem!",
+          "summary": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde 13 Ekim Salı günü sahasında İspanya temsilcisi Barcelona ile yapacağı maçı İtalyan hakem Marco Guida yönetecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-barcelona-macini-italyan-hakem-43337477"
         },
         {
-          "title": "Galatasaray'ın rakibi Barcelona, 3 puanı 3 golle aldı!",
-          "summary": "İspanya LaLiga'nın 8. haftasında Barcelona, sahasında Getafe'yi 3-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-rakibi-barcelona-3-puani-3-golle-aldi-43337073"
+          "title": "Real Madrid efsanesi Fernando Morientes'ten Jose Mourinho'ya Arda Güler tepkisi: 'Ona bunu yapamazsın!'",
+          "summary": "Real Madrid tarihinin en golcü isimleri arasında yer alan eski futbolcu Fernando Morientes, eflatun-beyazlı kulüpte forma giyen milli futbolcu Arda Güler'in sahadaki rolüne ilişkin dikkat çeken açıklamalarda bulundu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-efsanesi-fernando-morientesten-jose-mourinhoya-arda-guler-tepkisi-ona-bunu-yapamazsin-43337379"
         },
         {
-          "title": "Marco Asensio: 'Maç maç ritim kazanacağım!'",
-          "summary": "Fenerbahçe'de Nathan Ake, Milan Skriniar ve Marco Asensio, 3-0'lık Çaykur Rizespor galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/marco-asensio-mac-mac-ritim-kazanacagim-43337078"
+          "title": "Hansi Flick'ten Galatasaray açıklaması! 'Tarih yazmak istiyoruz'",
+          "summary": "İspanya LaLiga'nın 8. haftasında Barcelona, sahasında Getafe'yi 3-0 mağlup etti. Hansi Flick, galibiyet sonrası açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hansi-flickten-galatasaray-aciklamasi-tarih-yazmak-istiyoruz-43337421"
         },
         {
-          "title": "Rize'de kırılma anı: Ederson'dan Fenerbahçe’yi ayağa kaldıran kurtarış",
-          "summary": "Süper Lig’in 7. haftasında Çaykur Rizespor’a konuk olan Fenerbahçe, Ederson’un kritik kurtarışının ardından bulduğu gollerle sahadan 3-0 galip ayrıldı. Brezilyalı kalecinin son bölümde yaptığı müdahale maçın kırılma anı oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/rizede-kirilma-ani-edersondan-fenerbahceyi-ayaga-kaldiran-kurtaris-43337067"
+          "title": "Nihat Kahveci’den Fenerbahçe’nin yıldızına sert eleştiri: 'En kötüsüydü, operasyon yapılmış!'",
+          "summary": "Fenerbahçe, Süper Lig'in 7. haftasında Çaykur Rizespor'u deplasmanda 3-0 mağlup etti. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-fenerbahcenin-yildizina-sert-elestiri-en-kotusuydu-operasyon-yapilmis-43337308"
         },
         {
-          "title": "Bayern Münih 5. saniyede gol yediği maçta berabere kaldı!",
-          "summary": "Almanya Birinci Futbol Ligi (Bundesliga) ekiplerinden Augsburg'da Robin Fellhauer, Bayern Münih maçında 5. saniyede attığı golle tarihe geçti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munih-5-saniyede-gol-yedigi-macta-berabere-kaldi-43337050"
+          "title": "Manchester City, Premier Lig'de Liverpool'u konuk edecek! Dev maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "İngiltere Premier Lig'in 6. haftası dev bir maça sahne olacak. Lider Manchester City, bu akşam deplasmanda Liverpool ile karşı karşıya gelecek. Zorlu mücadelenin heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/manchester-city-premier-ligde-liverpoolu-konuk-edecek-dev-macin-heyecani-canli-sohbet-ile-mislide-43337307"
         }
       ]
     },
@@ -204,8 +204,23 @@
       ]
     },
     "saglik": {
-      "text": "Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş. 100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor. Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış. Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini. Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu. Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı. Takviyeler çözüm değil. \"Günde yarım saat yürüyün\".",
+      "text": "Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor. Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor. Doğada kendiliğinden yetişen kalp dostu meyve. Toplamak için dağların yolunu tuttular. Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş. 100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor. Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış. Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini.",
       "items": [
+        {
+          "title": "Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor",
+          "summary": "Gaziantep'te kış aylarının gelmesiyle birlikte aktarlarda kış mesaisi başladı. Soğuk algınlığı ve boğaz ağrısı şikayeti yaşayan vatandaşlar bitkisel ürünlere yönelirken, zerdeçal, zencefil, ıhlamur ve hatmi çiçeğinin yanı sıra çeşitli karışımlara da ilgi arttı. Gaziantep'te kış aylarının gelmesi ve yaşanan mevsim geçişleri nedeniyle vatandaşlar, boğaz ağrısı, öksürük, halsizlik ve burun akıntısı gibi şikayetlerle karşılaşıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-bagisikligini-guclendirmek-isteyen-solugu-orada-aldi-kisin-yogun-ilgi-goruyor-1745805"
+        },
+        {
+          "title": "Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor",
+          "summary": "Antalya'nın Manavgat ilçesi Taşkesiği sakinlerinden Gani Şahin, Konya'nın Bozkır, Ahırlı ve Yalıhüyük ilçeleri sınırında bulunan bin 800 rakımlı Taşkesiği Yaylası'na göç ediyor.Burada pekmez üretiyor. Keçileri, tavukları ve kazlarıyla birlikte Toroslar'ın yüksek kesimlerinde yaz sezonunu geçiren Şahin, sahilden getirdiği keçiboynuzlarını (harnup) özel tanklarda ıslatıp beklettikten sonra kazanlarda kaynatarak tamamen organik pekmez üretiyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-astim-bronsit-ve-kansizlik-icin-faydaliymis-kazanda-kaynatilarak-uretiliyor-1745800"
+        },
+        {
+          "title": "Doğada kendiliğinden yetişen kalp dostu meyve. Toplamak için dağların yolunu tuttular",
+          "summary": "Erzurum’un Olur ilçesinde kalp dostu olarak bilinen alıç meyvesinin hasadı başladı. Doğada kendiliğinden yetişen ve şifa kaynağı olan alıçları toplamak için vatandaşlar dağların yolunu tuttu. Erzurum'un Olur ilçesine bağlı Boğazgören Mahallesi’nde, sonbaharın gelmesiyle birlikte alıç meyvesi olgunlaştı. Kalp, damar ve bağışıklık sistemini destekleyici özellikleriyle bilinen şifalı meyve, bölge halkı tarafından hem taze olarak tüketiliyor hem de kışlık sirke yapımında kullanılıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-dogada-kendiliginden-yetisen-kalp-dostu-meyve-toplamak-icin-daglarin-yolunu-tuttular-1745767"
+        },
         {
           "title": "Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş",
           "summary": "Sadece Kastamonu'da yetişen ve Osmanlı mutfağının vazgeçilmez meyvelerinden olan coğrafi işaretli üryani eriğinin hasadına başlandı. Türkiye'de sadece Kastamonu il merkezinde ve Daday ilçesinde yetişen, içerdiği antioksidan maddelerden dolayı sağlıklı yaşam meyveleri arasında ilk sıralarda yer alan üryani eriğinin (ala) hasadı başladı.",
@@ -225,21 +240,6 @@
           "title": "Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini",
           "summary": "Türkiye'de doğal olarak yetişen 27 kuşburnu türünün 17'sine ev sahipliği yapan Gümüşhane'de, kuşburnu toplama mesaisi başladı. Gümüşhane ile özdeşleşen kuşburnu, kentte eylül ve ekim aylarında olgunlaşıyor. Doğada kendiliğinden yetişen ve halk arasında \"dikenli gül\" olarak da bilinen kuşburnu, özellikle yüksek C vitamini içeriğiyle öne çıkıyor. Gümüşhane'nin iklimi ve doğal yapısının kuşburnunun yetişmesi için uygun olması nedeniyle kent, Türkiye'nin önemli kuşburnu merkezlerinden biri olarak gösteriliyor.",
           "source": "https://www.ntv.com.tr/saglik/galeri-halk-arasinda-dikenli-gul-diyorlar-dallardan-tek-tek-toplanan-dogal-c-vitamini-1745187"
-        },
-        {
-          "title": "Fazla kalori bir fincan kahvede gizliymiş. Kilo vermeyi desteklediği söyleniyordu",
-          "summary": "Kahve günlük yaşamın vazgeçilmez içeceklerinden biri ve özellikle kilo verme sürecinden yağ yakımına yardımcı olmasıyla biliniyor. Ancak kahve, farkında olmadan kilo almanıza neden olabilir. Kahve gün içerisinde çay kadar sık tüketilen içeceklerin başında geliyor. Vücuda olan faydalarıyla da dikkat çeken kahve, özellikle kilo verme sürecinde olan kişiler arasında da oldukça popüler.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-fazla-kalori-bir-fincan-kahvede-gizliymis-kilo-vermeyi-destekledigi-soyleniyordu-1744883"
-        },
-        {
-          "title": "Kış aylarında tüketilen şifalı enerji deposu. Gaziantep'te yapımı başladı",
-          "summary": "Gaziantep'in Oğuzeli ilçesinde yöresel lezzetlerden cevizli sucuk ve bastık yapımı başladı. Bağlardan toplanan üzümlerden tepeleme yöntemiyle elde edilen üzüm suyu ile yapılan cevizli sucuk ve bastık, yöre halkından ve şehir dışından gelenlerden yoğun ilgi görüyor. Gaziantep'in Oğuzeli ilçesinde geleneksel yöntemlerle hazırlanan yöresel lezzetlerden cevizli sucuk ve bastık mesaisi devam ediyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-kis-aylarinda-tuketilen-sifali-enerji-deposu-gaziantepte-yapimi-basladi-1744735"
-        },
-        {
-          "title": "Takviyeler çözüm değil. \"Günde yarım saat yürüyün\"",
-          "summary": "Zincirleme Reaksiyon'un bu haftaki bölümünde bağırsak sağlığı ile beyin arasındaki ilişkiyi masaya yatırıldı. Prof. Dr. Yaşar Çolak, takviyelerle alakalı da konuştu. Her Cuma NTV ekranlarında, Seda Öğretir moderatörlüğünde izleyiciyle buluşan Zincirleme Reaksiyon, bu haftaki bölümünde bağırsak sağlığı ile beyin arasındaki ilişkiyi masaya yatırdı. Programın konukları müzisyen Bahadır Tatlıöz ile Gastroenteroloji ve İleri Endoskopik Uygulamalar Uzmanı Prof. Dr. Yaşar Çolak oldu.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-prof-dr-yasar-colak-takviyeler-cozum-degil-gunde-yarim-saat-yuruyun-1744621"
         }
       ]
     },
