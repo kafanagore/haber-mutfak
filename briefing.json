@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-10T16:00:03.956Z",
+  "generatedAt": "2026-10-11T04:00:03.707Z",
   "categories": {
     "gundem": {
-      "text": "Eyüpsultan Belediyesi başkanvekili seçimi. CHP'li Cafer Parlak kazandı. Ümraniye'de ağaçların arasında el bombası bulundu. Cumhurbaşkanı Erdoğan'dan Uluslararası Demokratlar Birliği Genel Kuruluna mesaj. Cumhurbaşkanı Erdoğan: Yurt dışındaki kardeşlerimizi yalnız bırakmayız. Ankara Büyükşehir Belediyesi'nden Mansur Yavaş açıklaması. TBMM Başkanı Kurtulmuş: Şimdi bizim önümüzde yepyeni bir yol, daha zor bir yol var. 20 yıl önceki cinayet aydınlatıldı: Çocukları öldürüp araziye gömmüş.",
+      "text": "Sarıyer’de trafik kazası! 2 araç alev topuna döndü. Bağcılar’da silahlı saldırı: 1 ölü. Yahşihan Belediyesi soruşturması. Başkanvekili Aydın Demirdirek görevden uzaklaştırıldı. Kayseri'de 3.6 büyüklüğünde deprem. Marmara'da deprem: İstanbul'da da hissedildi. Profesör Okan Tüysüz, fayla ilgili bilgi verdi. Tokat’ta 1400 kişi hastanelere başvurdu… Yetkililerden uyarı: Suları kaynatarak tüketin. Sarıyer TEM Otoyolu’nda otomobil duran taksiye çarptı: 2 araç yandı, 5 kişi yaralandı.",
       "items": [
         {
-          "title": "Eyüpsultan Belediyesi başkanvekili seçimi. CHP'li Cafer Parlak kazandı",
-          "summary": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen'in tutuklanmasının ardından belediye meclis üyeleri yeni başkanvekilini seçti. CHP'nin adayı Cafer Parlak başkanvekili seçildi. Geçtiğimiz günlerde Eyüpsultan Belediye Başkanı Mithat Bülent Özmen \"kamu kurum veya kuruluşlarının ihalesine fesat karıştırmak\", \"rüşvet almak\" ve \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklanmıştı. Bugün görevden uzaklaştırılan Özmen'in yerine belediye meclisinde seçim yapıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/eyupsultan-belediyesi-baskanvekili-secimi-chpli-cafer-parlak-kazandi-1745683"
+          "title": "Sarıyer’de trafik kazası! 2 araç alev topuna döndü",
+          "summary": "Sarıyer’de meydana gelen trafik kazasının ardından, kaza yapan otomobil ile taksi alev topuna döndü. İtfaiye ekiplerinin müdahalesiyle yangın söndürüldü.",
+          "source": "https://www.hurriyet.com.tr/gundem/sariyerde-trafik-kazasi-2-arac-alev-topuna-dondu-43337250"
         },
         {
-          "title": "Ümraniye'de ağaçların arasında el bombası bulundu",
-          "summary": "İstanbul Ümraniye'de bir mobilya imalathanesi önünde ağaçların arasına saklanmış çanta içerisinde el bombası bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/umraniyede-agaclarin-arasinda-el-bombasi-bulundu-43336970"
+          "title": "Bağcılar’da silahlı saldırı: 1 ölü",
+          "summary": "Bağcılar’da, cadde üzerinde silahlı saldırıya uğrayan bir kişi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bagcilarda-silahli-saldiri-1-olu-43337249"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan Uluslararası Demokratlar Birliği Genel Kuruluna mesaj",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan Uluslararası Demokratlar Birliği Genel Kurulu için bir video mesaj gönderdi. Erdoğan mesajında, \"Yurt dışında yaşayan kardeşlerimizi asla bırakmayacağız\" dedi. Cumhurbaşkanı Erdoğan, merkezi Almanya'da bulunan Uluslararası Demokratlar Birliği'nin (UID) 9. Olağan Genel Kurulu'na video mesaj gönderdi.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-uluslararasi-demokratlar-birligi-genel-kuruluna-mesaj-1745718"
+          "title": "Yahşihan Belediyesi soruşturması. Başkanvekili Aydın Demirdirek görevden uzaklaştırıldı",
+          "summary": "Kırıkkale'de Yahşihan Belediyesi'ne yönelik yürütülen yolsuzluk soruşturmasının ikinci dalgasında tutuklanan Yahşihan Belediye Başkanvekili Aydın Demirdirek, görevden uzaklaştırıldı. Kırıkkale Cumhuriyet Başsavcılığı tarafından Yahşihan Belediyesi'ne yönelik yürütülen yolsuzluk soruşturması kapsamında İl Jandarma Komutanlığı ekiplerince Ankara ve Kırıkkale'de belirlenen adreslere eş zamanlı operasyon düzenlendi.",
+          "source": "https://www.ntv.com.tr/turkiye/yahsihan-belediyesi-sorusturmasi-baskanvekili-aydin-demirdirek-gorevden-uzaklastirildi-1745723"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: Yurt dışındaki kardeşlerimizi yalnız bırakmayız",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"UID ailesi, kalplerinde memleket hasreti taşıyan kardeşlerimizin bulundukları ülkelerde daha iyi yerlere gelebilmek için, kimlik ve kültürlerini muhafaza edebilmesi için demokratik katılım dahil, içinde yaşadıkları topluma azami katkı verebilmesi için ciddi bir gayret sarf ediyor. Eş zamanlı olarak kültürel ırkçılık, İslam düşmanlığı ve yabancı karşıtlığı gibi sorunların çözümüne yönelik önemli bir çaba harcıyor.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-yurt-disindaki-kardeslerimizi-yalniz-birakmayiz-43336929"
+          "title": "Kayseri'de 3.6 büyüklüğünde deprem",
+          "summary": "Kayseri'nin Bünyan ilçesinde 3.6 büyüklüğünde deprem meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-3-6-buyuklugunde-deprem-43337243"
         },
         {
-          "title": "Ankara Büyükşehir Belediyesi'nden Mansur Yavaş açıklaması",
-          "summary": "Ankara Büyükşehir Belediyesi (ABB), Belediye Başkanı Mansur Yavaş'ın farkı siyasi partiye katılacağı iddialarının gerçeği yansıtmadığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankara-buyuksehir-belediyesinden-mansur-yavas-aciklamasi-43336916"
+          "title": "Marmara'da deprem: İstanbul'da da hissedildi. Profesör Okan Tüysüz, fayla ilgili bilgi verdi",
+          "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde Yalova merkezli 3,5 büyüklüğünde deprem meydana geldi. Prof. Okan Tüysüz, ntv.com.tr'ye, \"İstanbul ile bağlantılı değil\" bilgisini verdi. Afet ve Acil Durum Yönetimi Başkanlığı, Marmara'da saat 22.08'de 3,5 büyüklüğünde deprem meydana geldiğini açıkladı. Yalova açıklarında olduğu açıklanan depremin derinliği 7,9 kilometre. Deprem İstanbul'da birçok noktada da hissedildi. Prof.",
+          "source": "https://www.ntv.com.tr/turkiye/marmarada-deprem-istanbulda-da-hissedildi-profesor-okan-tuysuz-fayla-ilgili-bilgi-verdi-1745730"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş: Şimdi bizim önümüzde yepyeni bir yol, daha zor bir yol var",
-          "summary": "TBMM Başkanı Numan Kurtulmuş, İlim Yayma Cemiyeti 75. Yıl Buluşması'nda yaptığı konuşmada, \"İlim Yaymanın 75 yıllık genel tarihini özetlersek Türkiye'de yaygın bir dua vardır: 'Allah hayırları fethede, şerleri defede.' İlim Yayma camiası, şerleri defeden, hayırları fetheden bir camiadır\" dedi. Kurtulmuş, \"Yokluk ve kıtlık zamanlarında, zorluk ortamlarında nice mücadelelerle bu işi buraya getirdiler. Şimdi bizim önümüzde yepyeni bir yol, daha zor bir yol var.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-simdi-bizim-onumuzde-yepyeni-bir-yol-daha-zor-bir-yol-var-43336905"
+          "title": "Tokat’ta 1400 kişi hastanelere başvurdu… Yetkililerden uyarı: Suları kaynatarak tüketin",
+          "summary": "TOKAT’ta mide bulantısı, kusma ve karın ağrısı şikayetiyle 1300- 1400 kişi hastanelere başvurdu. Hastalardan 15’i yatarak tedaviye alındı. İçme suyu numunelerinde yapılan son testlerde olumsuzluk saptanmadığını açıklayan yetkililer, sonuçlar kesinleşene kadar suların kaynatılarak tüketilmesi uyarısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/tokatta-1400-kisi-hastanelere-basvurdu-yetkililerden-uyari-sulari-kaynatarak-tuketin-43337165"
         },
         {
-          "title": "20 yıl önceki cinayet aydınlatıldı: Çocukları öldürüp araziye gömmüş",
-          "summary": "Kırşehir'de 2006'da ailesi tarafından kayıp başvurusu yapılan Rıza Güzel'e ilişkin soruşturmayı, tanık beyanları çözdü. Güzel'in kemikleri 20 yıl sonra boş arazide bulunurken 2 oğlu tutuklandı. Kırşehir'in Akpınar ilçesi Köşker köyünde 2006'da ailesi tarafından kayıp başvurusu yapılan Rıza Güzel'in ölümüne ilişkin soruşturma, 4 ildeki tanık beyanlarıyla çözüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/20-yil-onceki-cinayet-aydinlatildi-cocuklari-oldurup-araziye-gommus-1745715"
+          "title": "Sarıyer TEM Otoyolu’nda otomobil duran taksiye çarptı: 2 araç yandı, 5 kişi yaralandı",
+          "summary": "Sarıyer TEM Otoyolu’nda, iddiaya göre otomobil, yol üzerinde duran taksiye arkadan çarptı. Çarpışmanın ardından taksinin LPG tankında yangın çıktı, her iki araç alev alev yandı. Otomobildeki 4 kişi hafif yaralanırken, taksi sürücüsünün kolunda yanık oluştu.",
+          "source": "https://www.hurriyet.com.tr/gundem/sariyer-tem-otoyolunda-otomobil-duran-taksiye-carpti-2-arac-yandi-5-kisi-yaralandi-43337226"
         }
       ]
     },
     "dunya": {
-      "text": "ABD'de silahlı saldırı... Aralarında çocukların da olduğu çok sayıda ölü var. Çernobil'de korkutan keşif: Felaketten 40 yıl sonra bulundu. Putin'den Trump'a 'İran' önerisi. İran'dan Netanyahu'ya sert sözler: Yozlaşmış bir kumarbaz gibi. Filistin'de seçim tarihi belli oldu: Eş zamanlı yapılacak. ABD'yi 'Isaias' vurdu: Yüz binlerce kişi elektriksiz kaldı. Atina'da Türkiye kavgası! Miçotakis ve muhalefet arasında F-35 krizi.",
+      "text": "İnfazdan sağ kurtulan idam mahkumu cezaevine döndü. Hürmüz'de dev tanker mayına çarptı. Gözünü okyanuslara dikti. \"Trump Okyanusu'na ihtiyacımız var\". Kiev karanlığa gömüldü. Husiler Riyad'da havalimanını vurdu. 12 kişi öldü, 309 kişi yaralandı. Hayvanat bahçesinin kaplan bölümüne atladı. Şahıs hayatını kaybetti, alan tahliye edildi. Trump: Ukrayna'nın yeni bir lidere ihtiyacı var.",
       "items": [
         {
-          "title": "ABD'de silahlı saldırı... Aralarında çocukların da olduğu çok sayıda ölü var",
-          "summary": "ABD'nin Pensilvanya eyaletinde düzenlenen silahlı saldırıda, aralarında çocukların da bulunduğu 9 kişi yaşamını yitirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-silahli-saldiri-9-olu-43336943"
+          "title": "İnfazdan sağ kurtulan idam mahkumu cezaevine döndü",
+          "summary": "ABD'nin Tennessee eyaletinde zehirli iğneyle infaz girişiminden sağ kurtulan 50 yaşındaki Christa Pike hastaneden taburcu edildi, cezaevine geri gönderildi. 1995 yılında henüz 19 yaşındayken okul arkadaşı Colleen Slemmer'ın işkence edilerek öldürülmesi olayındaki rolü nedeniyle idam cezasına çarptırılan Christa Pike, zehirli iğneyle infaz girişiminden sağ kurtuldu. İki doz ilaç enjekte edilmesine rağmen hayatını kaybetmeyen ve komadan uyanan Pike hastaneden de taburcu edildi.",
+          "source": "https://www.ntv.com.tr/dunya/infazdan-sag-kurtulan-idam-mahkumu-cezaevine-dondu-1745749"
         },
         {
-          "title": "Çernobil'de korkutan keşif: Felaketten 40 yıl sonra bulundu",
-          "summary": "Çernobil faciasının üzerinden yaklaşık 40 yıl geçmesine rağmen, çevreye yayılan radyoaktif yakıt parçacıklarının yapısını koruduğu ortaya çıktı. Bilim insanları, mikroskobik parçacıkların hâlâ radyoaktif madde kaynağı olabileceği ve ciddi sağlık riski oluşturabileceği uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/cernobilde-korkutan-kesif-felaketten-40-yil-sonra-bulundu-43336906"
+          "title": "Hürmüz'de dev tanker mayına çarptı",
+          "summary": "İran Devrim Muhafızları, Hürmüz Boğazı'nda 2 milyon varil petrol taşıyabilen dev bir tankerin mayına çarptığını açıkladı. ABD ve İran arasında pazarlıklar aracılar eliyle sürdürülürken, çift taraflı abluka altındaki Hürmüz Boğazı yeniden hareketlendi. İran Devrim Muhafızları, Hürmüz Boğazı’ndan izinsiz geçmeye çalışan bir süper tankerde patlama meydana geldiğini açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/hurmuzde-dev-tanker-mayina-carpti-1745748"
         },
         {
-          "title": "Putin'den Trump'a 'İran' önerisi",
-          "summary": "Sözcüsü Dmitriy Peskov, “Rusya Devlet Başkanı Vladimir Putin, İran tarafının çatışmanın olası çözümüne ilişkin görüşünü ABD Başkanı Donald Trump'a iletti” dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/putinden-trumpa-iran-onerisi-43336832"
+          "title": "Gözünü okyanuslara dikti. \"Trump Okyanusu'na ihtiyacımız var\"",
+          "summary": "ABD Başkanı Donald Trump seçim mitinginde iddialı konuştu: \"Bir okyanusa ihtiyacımız var. Atlantik ya da Pasifik'e ‘Trump Okyanusu’ ya da ‘Amerikan Okyanusu’ gibi bir isim vermeyi düşünüyorum.\" ABD Başkanı Donald Trump'ın 3 Kasım ara seçimleri için başladığı tur devam ediyor. Cumhuriyetçilerin Tennessee'deki seçim mitingine katılan Trump'ın gündeminde bu defa da \"Trump Okyanusu\" vardı. Taraftarlarına seslenirken \"Bir okyanusa ihtiyacımız var.\" diyen Trump, şöyle konuştu: \"Körfez'imiz var. Güzel bir gölümüz var.",
+          "source": "https://www.ntv.com.tr/dunya/gozunu-okyanuslara-dikti-trump-okyanusuna-ihtiyacimiz-var-1745746"
         },
         {
-          "title": "İran'dan Netanyahu'ya sert sözler: Yozlaşmış bir kumarbaz gibi",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi, İsrail Başbakanı Binyamin Netanyahu’nun “Yozlaşmış bir kumarbaz gibi çaresizce daha fazla Amerikan kanı ve servetiyle kendini kurtarmaya çalıştığını” savundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-netanyahuya-sert-sozler-yozlasmis-bir-kumarbaz-gibi-43336814"
+          "title": "Kiev karanlığa gömüldü",
+          "summary": "ABD'nin Rusya'yla dizel yakıt anlaşması yapması Donald Trump-Volodimir Zelenski gerilimi yükseldi, Rusya saldırılarını artırdı. Zaporijya'da ölü sayısı 20'ye çıktı, Kiev karanlıkta kaldı. Savaşta 4.5 yıl geride kalırken, Rusya ile Ukrayna'nın karşılıklı saldırıları devam ediyor. Rus güçleri yerleşim yerleri ve sivil altyapıyı hedef alırken, Ukrayna ordusu ise liman ve petrol üretim tesislerini vuruyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-kiev-karanliga-gomuldu-1745745"
         },
         {
-          "title": "Filistin'de seçim tarihi belli oldu: Eş zamanlı yapılacak",
-          "summary": "Filistin Devlet Başkanı Mahmud Abbas, devlet başkanlığı ve genel seçimlerin 11 Eylül 2027'de eş zamanlı yapılması için kararname yayımladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/filistinde-secim-tarihi-belli-oldu-es-zamanli-yapilacak-43336810"
+          "title": "Husiler Riyad'da havalimanını vurdu. 12 kişi öldü, 309 kişi yaralandı",
+          "summary": "Husilerin Suudi Arabistan'daki Kral Halid Havalimanına yönelik saldırılarında 12 kişi öldü, 309 kişi yaralandı. Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Havalimanının biri pilot, üç kişinin hayatını kaybettiği saldırıdan iki gün sonra tekrar saldırıya uğradığı bildirildi. Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), tarafından yayımlanan açıklamada, dün öğleden sonra Kral Halid Uluslararası Havalimanı'na yönelik saldırıya ilişkin güncel veriler paylaşıldı.",
+          "source": "https://www.ntv.com.tr/dunya/husiler-riyadda-havalimanini-vurdu-12-kisi-oldu-309-kisi-yaralandi-1745722"
         },
         {
-          "title": "ABD'yi 'Isaias' vurdu: Yüz binlerce kişi elektriksiz kaldı",
-          "summary": "Atlantik bölgesinde 2026 sezonunun ilk kasırgası olan Isaias, ABD'nin güneydoğusundaki Florida eyaletinde karaya çıktı. Şiddetli fırtına ve yağışa yol açan kasırga nedeniyle 800 binden fazla ev ve iş yeri elektriksiz kaldı. Florida, Georgia ve Alabama'da acil durum ilan edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdyi-isaias-vurdu-yuz-binlerce-kisi-elektriksiz-kaldi-43336772"
+          "title": "Hayvanat bahçesinin kaplan bölümüne atladı. Şahıs hayatını kaybetti, alan tahliye edildi",
+          "summary": "İngiltere'nin Yorkshire bölgesindeki bir hayvanat bahçesinde Bengal kaplanı bölümüne giren şahıs, kaplanın saldırması sonucu hayatını kaybetti. Batı Yorkshire Polisi’nden yapılan açıklamaya göre Yorkshire Wildlife Park adlı hayvanat bahçesinde bir şahıs Bengal kaplanının tutulduğu etrafı yüksek tellerle çevrili bölüme girdi. Kaplanın saldırdığı şahıs ağır yaralanırken saldırı anı ziyaretçilerin kameralarına yansıdı.",
+          "source": "https://www.ntv.com.tr/dunya/hayvanat-bahcesinin-kaplan-bolumune-atladi-sahis-hayatini-kaybetti-alan-tahliye-edildi-1745741"
         },
         {
-          "title": "Atina'da Türkiye kavgası! Miçotakis ve muhalefet arasında F-35 krizi",
-          "summary": "Yunanistan Başbakanı Kiryakos Miçotakis, ABD'nin Türkiye'ye olası F-35 savaş uçakları satışı üzerinden muhalefeti sert sözlerle eleştirdi. Muhalefet ise Miçotakis'in açıklamalarına karşı çıkarak Türkiye'nin F-35 sipariş sürecinin geçmişine ilişkin farklı bir tablo ortaya koydu.",
-          "source": "https://www.hurriyet.com.tr/dunya/atinada-turkiye-kavgasi-micotakis-ve-muhalefet-arasinda-f-35-krizi-43336661"
+          "title": "Trump: Ukrayna'nın yeni bir lidere ihtiyacı var",
+          "summary": "Akaryakıt fiyatlarını düşürmek için Rusya'dan ithalat yolunu seçen ABD Başkanı Donald Trump, hedefine Ukrayna Lideri Volodimir Zelenski'yi aldı. Trump, \"Ukrayna'nın yeni bir lidere ihtiyacı var\" dedi. Trump, Beyaz Saray'dan ayrılmadan önce gazetecilere yaptığı basın açıklamasında, Ukrayna Devlet Başkanı Zelenski hakkında değerlendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/trump-ukraynanin-yeni-bir-lidere-ihtiyaci-var-1745689"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Melih Kabasakal’dan kırmızı kart özrü: 'Mazereti olamaz!'. Murat Karahan Hull City’de sahne alacak!. Bernd Storck: 'Oyuncularımla sadece bir idman yapabildim'. Fenerbahçe Medicana'dan Hande Baladın açıklaması!. Chelsea, Cole Palmer’ın sözleşmesini 2034 yılına kadar uzattı. TFF'den Vincenzo Montella'ya teşekkür mesajı. Son Ayakta 25.80 Ganyan! 90 TL’ye 60.225 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı….",
+      "text": "Fenerbahçe Tarfin'den 100 sayılık şov!. Recep Uçar: 'Ağır şekilde cezalandırıldık!'. İsmail Kartal'dan oyuncularına tebrik: 'Yolumuza devam ediyoruz'. Galatasaray'ın rakibi Barcelona, 3 puanı 3 golle aldı!. Marco Asensio: 'Maç maç ritim kazanacağım!'. Rize'de kırılma anı: Ederson'dan Fenerbahçe’yi ayağa kaldıran kurtarış. Bayern Münih 5. saniyede gol yediği maçta berabere kaldı!.",
       "items": [
         {
-          "title": "Melih Kabasakal’dan kırmızı kart özrü: 'Mazereti olamaz!'",
-          "summary": "Trabzonsporlu futbolcu Melih Kabasakal, Samsunspor müsabakasında gördüğü kırmızı kartla ilgili açıklama yaparak, \"Samsunspor maçında gördüğüm kırmızı kartın hiçbir açıklaması ve mazereti olamaz. Kariyerimde ilk kez kırmızı kart görmüş olmanın üzüntüsünü yaşıyorum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/melih-kabasakaldan-kirmizi-kart-ozru-mazereti-olamaz-43336975"
+          "title": "Fenerbahçe Tarfin'den 100 sayılık şov!",
+          "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 3. haftasında Fenerbahçe Tarfin, deplasmanda Glint Çayırova Belediyesi'ni 100-85 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfinden-100-sayilik-sov-43337107"
         },
         {
-          "title": "Murat Karahan Hull City’de sahne alacak!",
-          "summary": "İngiltere Premier Lig’de mücadele eden Hull City’nin sahibi Acun Ilıcalı, Everton maçı öncesi Murat Karahan'ın mini bir konser vereceğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/murat-karahan-hull-cityde-sahne-alacak-43336973"
+          "title": "Recep Uçar: 'Ağır şekilde cezalandırıldık!'",
+          "summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar, Fenerbahçe maçının ardından yaptığı açıklamada, \"Mazeretlere sığınmıyorum ancak yaptığımız bireysel hatalar sonucunda ağır şekilde cezalandırıldık\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/recep-ucar-agir-sekilde-cezalandirildik-43337096"
         },
         {
-          "title": "Bernd Storck: 'Oyuncularımla sadece bir idman yapabildim'",
-          "summary": "Gençlerbirliği Teknik Direktörü Bernd Storck, Amed Sportif Faaliyetler müsabakasının ardından yaptığı açıklamada, \"Sabah dörttü buraya geldiğimde. Daha sonra sabahın devamında da bir sağlık kontrolü ile oyuncularımla sadece bir idman yapabildim\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bernd-storck-oyuncularimla-sadece-bir-idman-yapabildim-43336891"
+          "title": "İsmail Kartal'dan oyuncularına tebrik: 'Yolumuza devam ediyoruz'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Çaykur Rizespor'u 3-0 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartaldan-oyuncularina-tebrik-yolumuza-devam-ediyoruz-43337089"
         },
         {
-          "title": "Fenerbahçe Medicana'dan Hande Baladın açıklaması!",
-          "summary": "Fenerbahçe Medicana, kalça kasında zorlanma ve ödem tespit edilen Hande Baladın’ın tedbir amaçlı pazar günü oynanacak karşılaşmada forma giyemeyeceğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-medicanadan-hande-baladin-aciklamasi-43336837"
+          "title": "Galatasaray'ın rakibi Barcelona, 3 puanı 3 golle aldı!",
+          "summary": "İspanya LaLiga'nın 8. haftasında Barcelona, sahasında Getafe'yi 3-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-rakibi-barcelona-3-puani-3-golle-aldi-43337073"
         },
         {
-          "title": "Chelsea, Cole Palmer’ın sözleşmesini 2034 yılına kadar uzattı",
-          "summary": "Premier Lig ekiplerinden Chelsea, İngiliz futbolcu Cole Palmer’ın sözleşmesinin 2034 yılına kadar uzatıldığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/chelsea-cole-palmerin-sozlesmesini-2034-yilina-kadar-uzatti-43336807"
+          "title": "Marco Asensio: 'Maç maç ritim kazanacağım!'",
+          "summary": "Fenerbahçe'de Nathan Ake, Milan Skriniar ve Marco Asensio, 3-0'lık Çaykur Rizespor galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/marco-asensio-mac-mac-ritim-kazanacagim-43337078"
         },
         {
-          "title": "TFF'den Vincenzo Montella'ya teşekkür mesajı",
-          "summary": "Türkiye Futbol Federasyonu (TFF), dün gerçekleştirilen toplantıda yolları ayırma kararı aldığı A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella için teşekkür mesajı yayımladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tffden-vincenzo-montellaya-tesekkur-mesaji-43336714"
+          "title": "Rize'de kırılma anı: Ederson'dan Fenerbahçe’yi ayağa kaldıran kurtarış",
+          "summary": "Süper Lig’in 7. haftasında Çaykur Rizespor’a konuk olan Fenerbahçe, Ederson’un kritik kurtarışının ardından bulduğu gollerle sahadan 3-0 galip ayrıldı. Brezilyalı kalecinin son bölümde yaptığı müdahale maçın kırılma anı oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rizede-kirilma-ani-edersondan-fenerbahceyi-ayaga-kaldiran-kurtaris-43337067"
         },
         {
-          "title": "Son Ayakta 25.80 Ganyan! 90 TL’ye 60.225 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Bursa 5’li Ganyan koşularında Misli üyesi, 90 TL’ye 60.225 TL Kazandı!",
-          "source": "https://www.hurriyet.com.tr/sporarena/son-ayakta-25-80-ganyan-90-tlye-60-225-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43336748"
+          "title": "Bayern Münih 5. saniyede gol yediği maçta berabere kaldı!",
+          "summary": "Almanya Birinci Futbol Ligi (Bundesliga) ekiplerinden Augsburg'da Robin Fellhauer, Bayern Münih maçında 5. saniyede attığı golle tarihe geçti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munih-5-saniyede-gol-yedigi-macta-berabere-kaldi-43337050"
         }
       ]
     },
