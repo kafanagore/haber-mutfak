@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-12T04:00:04.197Z",
+  "generatedAt": "2026-10-12T10:00:06.330Z",
   "categories": {
     "gundem": {
-      "text": "Kabine bugün sıcak başlıklarla toplanıyor. Birlikte yaşadığı kadını vahşice öldürüp teslim oldu. Önce otomobile sonra levhaya çarptı: 50 metre sürüklendi. 335 bin lira ceza kesilince, ‘Dershane param gidecek’ diye ağladı. Kabine toplanıyor. Ana gündem fon soruşturması ve Terörsüz Türkiye. Dört ülkeden Husi saldırılarına ortak tepki. İstanbul Boğazı'nda gemi trafiği açıldı.",
+      "text": "İSKİ duyurdu: İstanbul'da bazı mahallelere su verilemeyecek. Manisa'daki otobüs kazasında geri manevra hatası: 11 eve ateş düştü! Şoförlerin ifadesi ortaya çıktı. Uludağ'da yeni dönem. Dört mevsim turizm için planlar yürürlükte. Pes dedirten anlar: Otobüs seyir halindeyken şoför değişimi yaptılar. Şanlıurfa’da alevlerin sardığı rezidansta can pazarı: 1 ölü, 1 yaralı. Antalya'da midibüs kaygan yolda devrildi: Yaralılar var. Mersin'de tütün işleme tesisinde yangın.",
+      "items": [
+        {
+          "title": "İSKİ duyurdu: İstanbul'da bazı mahallelere su verilemeyecek",
+          "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ), bölgedeki isale hattında yapılacak çalışmalar nedeniyle Maltepe'nin bazı mahallelerinde 16 saat su kesintisi yaşanacağını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/iski-duyurdu-istanbulda-bazi-mahallelere-su-verilemeyecek-43338599"
+        },
+        {
+          "title": "Manisa'daki otobüs kazasında geri manevra hatası: 11 eve ateş düştü! Şoförlerin ifadesi ortaya çıktı",
+          "summary": "Manisa Akhisar'da tur otobüsü ile tırın çarpışması sonucu meydana gelen ve 11 kişinin hayatını kaybettiği faciada eşini kaybeden Süleyman Eryılmaz, kazanın otobüsün geri manevrası sırasında yaşandığını açıkladı. Bursa'ya ateş düşüren kazada yaşamını yitiren 11 kişi bugün son yolculuğuna uğurlanırken, kazaya karışan şoförlerin ifadesi de ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/manisadaki-otobus-kazasinda-geri-manevra-hatasi-suruculer-gozaltinda-11-eve-ates-dustu-43338586"
+        },
+        {
+          "title": "Uludağ'da yeni dönem. Dört mevsim turizm için planlar yürürlükte",
+          "summary": "Uludağ'ı dört mevsim turizm merkezine dönüştürmeyi amaçlayan imar planları yürürlüğe girdi. Yeni düzenlemelerle ulaşım, otopark ve yaya alanları yeniden şekillenecek. ULAŞIM VE YAYA DÜZENİ DEĞİŞİYOR, ULUDAĞ'DA DÖRT MEVSİM TURİZM BAŞLIYOR Türkiye’nin en eski ve en önemli kış turizm merkezlerinden Uludağ’ın dört mevsim kullanılan, ulaşımı kolay, güvenli ve konforlu bir destinasyona dönüştürülmesine yönelik yeni dönem planlamasında önemli bir aşamaya gelindi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-uludagda-yeni-donem-dort-mevsim-turizm-icin-planlar-yururlukte-1745958"
+        },
+        {
+          "title": "Pes dedirten anlar: Otobüs seyir halindeyken şoför değişimi yaptılar",
+          "summary": "Van’dan Bursa’ya gitmekte olan bir yolcu otobüsü seyir halindeyken şoför değişimi yapılması yürekleri ağza getirdi. Van’dan Bursa’ya giden Erciş İtimat firmasına ait yolcu otobüsünde yaşananlar büyük korkuya neden oldu. Polatlı-Eskişehir arasında seyir halindeki otobüsü kullanan şoför, sağa çekmeden koltuktan kalkarak yerini diğer şoföre bıraktı. Dün Manisa’da tur otobüsüyle tırın çarpışması sonucu 11 kişinin hayatını kaybettiği kazanın hemen ardından yaşanan bu durum büyük tepki topladı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-pes-dedirten-anlar-otobus-seyir-halindeyken-sofor-degisimi-yaptilar-1745960"
+        },
+        {
+          "title": "Şanlıurfa’da alevlerin sardığı rezidansta can pazarı: 1 ölü, 1 yaralı",
+          "summary": "Şanlıurfa’daki Osmangazi Mahallesi'nde bulunan bir rezidansın üst katında sabaha karşı alevler yükseldi. İtfaiyenin söndürdüğü yangında içeride bulunan otel çalışanı Ezgi Evcil hayatını kaybederken, dumandan etkilenen bir kişi hastanede tedavi altına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sanliurfada-alevlerin-sardigi-rezidansta-can-pazari-1-olu-1-yarali-43338553"
+        },
+        {
+          "title": "Antalya'da midibüs kaygan yolda devrildi: Yaralılar var",
+          "summary": "Antalya'nın Aksu ilçesinde yola dökülen mazot nedeniyle kayganlaşan yolda midibüs devrildi. Yolculardan 17 kişi yaralandı. Kazayla ilgili soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/midibus-kaygan-yolda-devrildi-yaralilar-var-43338545"
+        },
+        {
+          "title": "Mersin'de tütün işleme tesisinde yangın",
+          "summary": "Mersin'in Tarsus ilçesinde bir tütün işleme tesisinde yangın çıktı. Bölgeye itfaiye ekipleri sevk edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mersinde-tutun-isleme-tesisinde-yangin-43338522"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Zelenskiy, Cumhurbaşkanı Erdoğan'ın arabuluculuğu veya Trump'ın katılımıyla Putin ile görüşebilir. Çin'in AB'ye 7,5 milyar dolarlık hibrit araç ihracatına kota engeli. Yolcu uçağında panik dolu anlar: Hindistan'da yolcular felaketin eşiğinden döndü. İsrail'de seçim yarışı kızıştı. Eisenkot, Netanyahu ile farkı açıyor. Ukrayna duyurdu: Putin ve Zelenski Cumhurbaşkanı Erdoğan arabuluculuğunda görüşebilir. Rusya'dan veri merkezlerini koruma kararı. İngiltere'den çarpıcı Brexit iddiası: Rusya müdahale etti.",
+      "items": [
+        {
+          "title": "Zelenskiy, Cumhurbaşkanı Erdoğan'ın arabuluculuğu veya Trump'ın katılımıyla Putin ile görüşebilir",
+          "summary": "Ukrayna Devlet Başkanı Zelenski'nin, Cumhurbaşkanı Erdoğan'ın arabuluculuğu ya da ABD Başkanı Trump'ın katılımıyla, Rusya Devlet Başkanı Putin ile görüşebileceği bildirildi. Ukrayna Dışişleri Bakanı Andrii Sybiha, Devlet Başkanı Volodimir Zelenski'nin, ABD Başkanı Donald Trump'ın katılımıyla veya Cumhurbaşkanı Recep Tayyip Erdoğan'ın arabuluculuğuyla Rusya Devlet Başkanı Vladimir Putin ile bir araya gelmesinin mümkün olabileceğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/zelenskiy-cumhurbaskani-erdoganin-arabuluculugu-veya-trumpin-katilimiyla-putin-ile-gorusebilir-1745963"
+        },
+        {
+          "title": "Çin'in AB'ye 7,5 milyar dolarlık hibrit araç ihracatına kota engeli",
+          "summary": "Çin ile Avrupa Birliği, son dönemde hızla büyüyen hibrit araç ihracatına yönelik sınırlama getiren yeni bir mutabakat üzerinde uzlaştı. Çin ile Avrupa Birliği (AB) arasında hibrit araç ihracatını sınırlamaya yönelik varılan mutabakat, iç pazarda satış artışı yavaşlayan ve AB'nin elektrikli araç gümrük vergilerinden muaf tutulan hibrit sevkiyatını artıran Çinli üreticilere yeni bir darbe vurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-cinin-abye-75-milyar-dolarlik-hibrit-arac-ihracatina-kota-engeli-1745964"
+        },
+        {
+          "title": "Yolcu uçağında panik dolu anlar: Hindistan'da yolcular felaketin eşiğinden döndü",
+          "summary": "Hindistan'da bir yolcu uçağının kabininde yangın çıktı. Taşınabilir şarj cihazının (power bank) patlaması sonucu çıkan yangın nedeniyle uçağın acil iniş yaptığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yolcu-ucaginda-panik-dolu-anlar-hindistanda-yolcular-felaketin-esiginden-dondu-43338582"
+        },
+        {
+          "title": "İsrail'de seçim yarışı kızıştı. Eisenkot, Netanyahu ile farkı açıyor",
+          "summary": "İsrail'de 27 Ekim parlamento seçimleri öncesinde yapılan son anket, muhalefetteki Yashar Partisi lideri Gadi Eisenkot'un, başbakanlık yarışında Binyamin Netanyahu ile farkı açtığını ortaya koydu. ANKETE KATILANLARA GÖRE BAŞBAKANLIK İÇİN EN UYGUN ADAY EİSENKOT İsrail devlet televizyonu KAN’ın son anketine göre, muhalefetteki Yashar Partisi'nin lideri Gadi Eisenkot, başbakanlık yarışında Binyamin Netanyahu ile arasındaki farkı giderek açıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israilde-secim-yarisi-kizisti-eisenkot-netanyahu-ile-farki-aciyor-1745957"
+        },
+        {
+          "title": "Ukrayna duyurdu: Putin ve Zelenski Cumhurbaşkanı Erdoğan arabuluculuğunda görüşebilir",
+          "summary": "Ukrayna, Devlet Başkanı Volodimir Zelenski ile Rusya Devlet Başkanı Vladimir Putin'in Cumhurbaşkanı Recep Tayyip Erdoğan'ın arabuluculuğunda bir görüşme gerçekleştirebileceğini belirtti. Barış için bütün fırsatları değerlendireceğini ifade eden Kiev yönetimi, olası görüşmeye ABD Başkanı Donald Trump'ın da katılabileceğini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/ukrayna-duyurdu-putin-ve-zelenski-cumhurbaskani-erdogan-arabuluculugunda-gorusebilir-43338561"
+        },
+        {
+          "title": "Rusya'dan veri merkezlerini koruma kararı",
+          "summary": "Rusya Dijital Kalkınma Bakanı Maksut Şadayev, insansız hava aracı (İHA) saldırılarının hedefi olan Yandex'in veri merkezlerinin korunması için Savunma Bakanlığı ile çalıştıklarını açıkladı. Saldırıların boyutunu gerçek zamanlı takip ettiklerini belirten Şadayev, sektördeki tüm şirketlerin Yandex'in karşılaştığı sorunların çözümüne yardımcı olduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-veri-merkezlerini-koruma-karari-43338552"
+        },
+        {
+          "title": "İngiltere'den çarpıcı Brexit iddiası: Rusya müdahale etti",
+          "summary": "İngiltere Başbakanı Andy Burnham, Rusya'nın Brexit referandumuna müdahale ettiğini öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/ingiltereden-carpici-brexit-iddiasi-rusya-mudahale-etti-43338510"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "Kabine bugün sıcak başlıklarla toplanıyor. Almanya hükümeti 2026 büyüme tahminini yükseltti. İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor.",
       "items": [
         {
           "title": "Kabine bugün sıcak başlıklarla toplanıyor",
           "summary": "KABİNE, Cumhurbaşkanı Tayyip Erdoğan başkanlığında bugün Beştepe’de toplanacak.",
           "source": "https://www.hurriyet.com.tr/gundem/kabine-bugun-sicak-basliklarla-toplaniyor-43338164"
         },
-        {
-          "title": "Birlikte yaşadığı kadını vahşice öldürüp teslim oldu",
-          "summary": "Antalya'nın Kepez ilçesinde bir kişi çıkan tartışmada birlikte yaşadığı kadını boğarak öldürdükten sonra gittiği Konya'da polise teslim olarak cinayeti itiraf eti.",
-          "source": "https://www.hurriyet.com.tr/gundem/birlikte-yasadigi-kadini-vahsice-oldurup-teslim-oldu-43338194"
-        },
-        {
-          "title": "Önce otomobile sonra levhaya çarptı: 50 metre sürüklendi",
-          "summary": "Kayseri’nin Melikgazi ilçesinde önce otomobile ardından da trafik levhasına çarpan motosiklet sürücüsü 50 metre sürüklendi. Kazada yaralanan motosiklet sürücüsünün durumunun ağır olduğu öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/once-otomobile-sonra-levhaya-carpti-50-metre-suruklendi-43338193"
-        },
-        {
-          "title": "335 bin lira ceza kesilince, ‘Dershane param gidecek’ diye ağladı",
-          "summary": "Kayseri'de polisin ‘dur’ ihtarına uymayarak hafif ticari araçla kaçan ve 18 yaşını doldurmasına 4 gün kalan ehliyetsiz sürücü Y.K.’ye (17), toplam 335 bin TL idari para cezası uygulandı. Ceza miktarını öğrenince gözyaşlarına boğulan Y.K., \"Dershane param gidecek\" diyerek sinir krizi geçirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/335-bin-lira-ceza-kesilince-dershane-param-gidecek-diye-agladi-43338192"
-        },
-        {
-          "title": "Kabine toplanıyor. Ana gündem fon soruşturması ve Terörsüz Türkiye",
-          "summary": "Cumhurbaşkanlığı Kabinesi bugün toplanıyor. Toplantının ana gündem başlıklarının fon soruşturması ile Terörsüz Türkiye süreci olması bekleniyor. Kabine toplantısı, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında bugün saat 15.00'te Beştepe'de gerçekleştirilecek. Toplantıda fon soruşturması ve tasfiye süreciyle ilgili değerlendirmeler yapılması bekleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1745835"
-        },
-        {
-          "title": "Dört ülkeden Husi saldırılarına ortak tepki",
-          "summary": "R4 Grubu Devletleri Türkiye, Mısır, Pakistan ve Suudi Arabistan, Riyad'da sivillerin ölümüne neden olan saldırıları kınadı. Türkiye, Mısır, Suudi Arabistan ve Pakistan Dışişleri Bakanlıkları, Husilerin Riyad'daki Kral Halid Uluslararası Havalimanı'nı hedef alan saldırılarına ilişkin ortak açıklama yayımladı.",
-          "source": "https://www.ntv.com.tr/turkiye/dort-ulkeden-husi-saldirilarina-ortak-tepki-1745874"
-        },
-        {
-          "title": "İstanbul Boğazı'nda gemi trafiği açıldı",
-          "summary": "İstanbul Boğazı'nda askıya alınan gemi trafiği, makine arızası yapan Malta bandıralı 110 metre uzunluğundaki tankerin çekilmesinin ardından açıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbul-bogazinda-gemi-trafigi-acildi-43338190"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Kamu parasıyla Trump reklamlarına yargı freni. Yolcunun cihazı uçakta yangın çıkardı. Suudi Arabistan'daki 5 havalimanına 10 saldırı düzenlendi, 19 kişi öldü. Polonya'da Başbakan Tusk'a suikast planı! Şüpheli gözaltında. Hürmüz Boğazı'nda ilerleyen tanker mayına çarptı. Cibuti açıklarındaki gemi kazası. 139 kişi hayatını kaybetti, 84 kişi kayıp. Trump'tan ateşkes mesajı. \"Rusya ve Ukrayna enerji ateşkesinde anlaştı\".",
-      "items": [
-        {
-          "title": "Kamu parasıyla Trump reklamlarına yargı freni",
-          "summary": "ABD'de yargı, kamu kaynaklarıyla finanse edilen ve Başkan Donald Trump'ı öven siyasi reklamların yayımlanmasını durdurdu. ABD'de 3 Kasım ara seçimleri öncesinde Trump yönetiminin kamu kaynaklarıyla yayınladığı reklamlara ilişkin tartışmaya yargı müdahale etti. Manhattan'da görev yapan ABD Bölge Yargıcı Jennifer Rochon, denetim kuruluşu Common Cause'un da aralarında bulunduğu davacıların başvurusu üzerine reklamların yayımlanmasını geçici olarak durdurdu.",
-          "source": "https://www.ntv.com.tr/dunya/kamu-parasiyla-trump-reklamlarina-yargi-freni-1745889"
-        },
-        {
-          "title": "Yolcunun cihazı uçakta yangın çıkardı",
-          "summary": "Delhi-Chennai seferini yapan yolcu uçağında, bir yolcuya ait elektronik cihazın alev almasıyla yangın çıktı. Kabin ekibi alevleri söndürdü, uçak Haydarabad'a acil iniş yaptı. Hindistan merkezli IndiGo havayolu şirketine ait Delhi-Chennai seferini yapan yolcu uçağında bir yolcuya ait elektronik cihazın alev alması üzerine havada panik dolu anlar yaşandı. Airbus A321neo tipi uçakta meydana gelen olayda kabin ekibi, yangın söndürücü kullanarak alevlere müdahale etti.",
-          "source": "https://www.ntv.com.tr/dunya/yolcunun-cihazi-ucakta-yangin-cikardi-1745888"
-        },
-        {
-          "title": "Suudi Arabistan'daki 5 havalimanına 10 saldırı düzenlendi, 19 kişi öldü",
-          "summary": "Suudi Arabistan'da bir haftada 5 havalimanının hedef alındığı 10 saldırıda 19 kişi yaşamını yitirdi, yüzlerce kişi yaralandı. Başkent Riyad'daki Kral Halid Uluslararası Havalimanı, 5 saldırıyla en fazla hedef alınan havalimanı oldu. Saldırılar nedeniyle havalimanındaki operasyonlar geçici olarak durduruldu. Arap Koalisyonu, Kral Halid Uluslararası Havalimanı'nın 4'üncü terminalinin yolcu salonuna kaynağı bilinmeyen bir mühimmatın isabet ettiğini ve yangın çıktığını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/suudi-arabistandaki-5-havalimanina-10-saldiri-duzenlendi-19-kisi-oldu-1745886"
-        },
-        {
-          "title": "Polonya'da Başbakan Tusk'a suikast planı! Şüpheli gözaltında",
-          "summary": "Polonya Başbakanı Donald Tusk ile Başbakan Yardımcısı ve Milli Savunma Bakanı Wladyslaw Kosiniak-Kamysz'a yönelik olası bir saldırı planı hakkında polise bilgi ulaştığı belirtilirken, Tusk \"suikast tehdidi\"nde bulunan kişinin gözaltına alındığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/polonyada-basbakan-tuska-suikast-plani-supheli-gozaltinda-43338075"
-        },
-        {
-          "title": "Hürmüz Boğazı'nda ilerleyen tanker mayına çarptı",
-          "summary": "İran Devrim Muhafızları Ordusu (DMO), Hürmüz Boğazı’nda navigasyon sistemini kapatarak \"izinsiz güzergahta\" ilerleyen petrol yüklü bir süpertankerin deniz mayınına çarptığını ve gemide yangın çıktığını açıkladı. DMO, navigasyon sistemlerini kapatarak ilerleyen tüm gemilerin \"düşman\" olarak tanımlanacağını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-ilerleyen-tanker-mayina-carpti-43338071"
-        },
-        {
-          "title": "Cibuti açıklarındaki gemi kazası. 139 kişi hayatını kaybetti, 84 kişi kayıp",
-          "summary": "Cibuti açıklarında Yemen'e doğru hareket eden 300’den fazla göçmeni taşıyan teknenin alabora olması sonucu 15’i çocuk en az 139 kişi hayatını kaybederken, 84 kişiden ise haber alınamıyor. Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), tarafından yapılan yazılı açıklamada, Cibuti açıklarında 305 kişiyi taşıyan bir teknenin alabora olduğu aktarıldı.",
-          "source": "https://www.ntv.com.tr/dunya/cibuti-aciklarindaki-gemi-kazasi-139-kisi-hayatini-kaybetti-84-kisi-kayip-1745872"
-        },
-        {
-          "title": "Trump'tan ateşkes mesajı. \"Rusya ve Ukrayna enerji ateşkesinde anlaştı\"",
-          "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında bir enerji ateşkesi anlaşması yapıldığını duyurdu. ABD Başkanı Trump, sosyal medya hesabından yaptığı paylaşımla Rusya ile Ukrayna arasındaki anlaşmayı duyurdu. Trump paylaşımında, “Savaşta derhal yürürlüğe girmek üzere, bir enerji ateşkesi sağlanmıştır.\" dedi. İki ülkenin, savaşın devam etmesine rağmen birbirlerinin enerji altyapısına saldırmama taahhüdü verdiğini belirten Trump, \"Her iki taraf da anlaştı. Bunu bozmayın.\" diye ekledi.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-ateskes-mesaji-rusya-ve-ukrayna-enerji-ateskesinde-anlasti-1745863"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "Almanya hükümeti 2026 büyüme tahminini yükseltti. İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor. İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi.",
-      "items": [
         {
           "title": "Almanya hükümeti 2026 büyüme tahminini yükseltti",
           "summary": "Almanya Federal Hükümeti, 2026 yılına ilişkin ekonomik büyüme tahminini önemli ölçüde yukarı çekti. Ekonomi Bakanlığı tarafından açıklanan sonbahar projeksiyonuna göre, gayri safi yurtiçi hasılanın (GSYİH) bu yıl yüzde 1,3 oranında büyümesi bekleniyor. Bu oran, Nisan ayında öngörülen yüzde 0,5'lik tahminin çok üzerinde ve hükümetin ekonomik görünüme ilişkin belirgin şekilde daha iyimser olduğunu gösteriyor.",
@@ -115,17 +120,48 @@
           "title": "TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor",
           "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, fon piyasası genelinin sağlıklı işlemeye devam ettiğini, finansal sistemin genelini etkileyen bir sorun olmadığını değerlendirdiklerini bildirdi.",
           "source": "https://www.hurriyet.com.tr/gundem/tcmb-baskani-karahan-fon-piyasasi-saglikli-islemeye-devam-ediyor-43332002"
-        },
-        {
-          "title": "İstanbul'da 2026'nın ilk 9 aylık suç ve operasyon bilançosu açıklandı: 130 çete çökertildi",
-          "summary": "Vali Davut Gül'ün katılımıyla düzenlenen toplantıda İstanbul'un 9 aylık güvenlik verileri kamuoyuyla paylaşıldı. Vali Gül, organize suç örgütlerine 343 operasyon yapıldığını, mal varlığına karşı işlenen suçlarda ise belirgin düşüşler yaşandığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-2026nin-ilk-9-aylik-suc-ve-operasyon-bilancosu-aciklandi-130-cete-cokertildi-43330059"
         }
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "Mohamed Salah, Trabzonspor formasıyla Avrupa'da ilk gol peşinde. Galatasaray, Avrupa'da 342. kez sahne alacak. Göztepe maçları gollü geçiyor, Atalanta’nın gol serisi dikkat çekiyor! İşte Misli’den günün tüyoları. Barcelona, Galatasaray maçı kamp kadrosunu açıkladı: 4 yıldız, İstanbul'a gelmiyor!. Cristiano Ronaldo: Tüm zamanların en iyisiyim, nokta!. Mourinho'ya çağrı: 'Arda Güler, Real Madrid için karanlıktaki ışık olabilir!'. Aston Villa-Fenerbahçe maçının hakemi belli oldu.",
+      "items": [
+        {
+          "title": "Mohamed Salah, Trabzonspor formasıyla Avrupa'da ilk gol peşinde",
+          "summary": "UEFA Konferans Ligi'nde 15 Ekim Perşembe günü Finlandiya'nın KuPS Kuopio takımı ile deplasmanda karşılaşacak Trabzonspor'da Mısırlı oyuncu Mohamed Salah, gol atması halinde bordo-mavili takım formasıyla Avrupa Kupaları'nda ilki yaşayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mohamed-salah-trabzonspor-formasiyla-avrupada-ilk-gol-pesinde-43338629"
+        },
+        {
+          "title": "Galatasaray, Avrupa'da 342. kez sahne alacak",
+          "summary": "UEFA Şampiyonlar Ligi'nin ikinci haftasında yarın İspanya ekibi Barcelona'yı konuk edecek Galatasaray, Avrupa kupalarındaki 342. karşılaşmasına çıkacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-avrupada-342-kez-sahne-alacak-43338612"
+        },
+        {
+          "title": "Göztepe maçları gollü geçiyor, Atalanta’nın gol serisi dikkat çekiyor! İşte Misli’den günün tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/goztepe-maclari-gollu-geciyor-atalantanin-gol-serisi-dikkat-cekiyor-iste-misliden-gunun-tuyolari-43338598"
+        },
+        {
+          "title": "Barcelona, Galatasaray maçı kamp kadrosunu açıkladı: 4 yıldız, İstanbul'a gelmiyor!",
+          "summary": "Şampiyonlar Ligi'nin ikinci haftasında yarın akşam Galatasaray'a konuk olacak olan Barcelona'da sakatlığı bulunan 4 oyuncu İstanbul kafilesine dahil edilmedi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/barcelona-galatasaray-maci-kamp-kadrosunu-acikladi-4-yildiz-istanbula-gelmiyor-43338547"
+        },
+        {
+          "title": "Cristiano Ronaldo: Tüm zamanların en iyisiyim, nokta!",
+          "summary": "Portekiz'in dünyaca ünlü süperstarı Cristiano Ronaldo, CNN Portekiz'e konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cristiano-ronaldo-tum-zamanlarin-en-iyisiyim-nokta-43338534"
+        },
+        {
+          "title": "Mourinho'ya çağrı: 'Arda Güler, Real Madrid için karanlıktaki ışık olabilir!'",
+          "summary": "La Liga'nın 8. haftasında Villarreal'i 1-0'la geçen Real Madrid'de teknik direktör Jose Mourinho'nun tercihleri ve özellikle Arda Güler'e sahada biçtiği rol tartışma konusu olmaya devam ediyor. İspanyol spor yorumcusu Guille Uzquiano, Portekizli teknik adama, \"Real Madrid'in oyunu ikna edici değil. Arda Güler ikinci yarıda merkezde oynamaya başladığında takımın performansı ciddi şekilde yükseldi, bu bölgede oynamaya devam etmeli.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mourinhoya-cagri-arda-guler-real-madrid-icin-karanliktaki-isik-olabilir-43338446"
+        },
+        {
+          "title": "Aston Villa-Fenerbahçe maçının hakemi belli oldu",
+          "summary": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nde oynayacağı Aston Villa müsabakasının hakemi açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aston-villa-fenerbahce-macinin-hakemi-belli-oldu-43338474"
+        }
+      ]
     },
     "teknoloji": {
       "text": "Trump'tan yapay zeka devlerine İngiltere izni. Hubble yakaladı. Gülümseyen galaksi. Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı.",
@@ -168,8 +204,18 @@
       ]
     },
     "saglik": {
-      "text": "Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor. Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor. Doğada kendiliğinden yetişen kalp dostu meyve. Toplamak için dağların yolunu tuttular. Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş. 100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor. Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış. Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini.",
+      "text": "Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek. Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor. Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor. Doğada kendiliğinden yetişen kalp dostu meyve. Toplamak için dağların yolunu tuttular. Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş. 100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor.",
       "items": [
+        {
+          "title": "Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda",
+          "summary": "Antalya'da botoks yaptırdıktan sonra rahatsızlanan 16 kişi tedavi altına alındı. O kişilerden biri olan F.F, botoks işleminden sonra göz kapağının düştüğünü ardından da yutma güçlüğü yaşamaya başladı. Antalya'da son 3 ayda 16 kişi botoks zehirlenmesi nedeniyle tedaviye alındı. Son 3 ayda botoks yaptırdıktan sonra rahatsızlanan çok sayıda kişi, AÜ Hastanesi'ne başvurdu. Konuşmakta, yutkunmakta ve nefes almakta zorlanan, kaslarında ciddi güçsüzlük yaşayan 16 kişi tedaviye alındı.",
+          "source": "https://www.ntv.com.tr/saglik/antalyada-sahte-botoks-alarmi-16-kisi-hastanelik-oldu-3u-yogun-bakimda-1745947"
+        },
+        {
+          "title": "Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek",
+          "summary": "Süper meyve olarak bilinen aronya, Eskişehir'de toprakla buluştu. Antioksidan değeri en yüksek meyvelerden biri olarak bilinen aronya, sağlığa olan faydalarıyla da dikkat çekiyor. Sağlık açısından sunduğu faydalarla şifali meyvelerden biri olan aronya, özellikle şeker ve kanser hastaları için ek gıda olarak tercih ediliyor. Eskişehir'de yaşayan Erdem Erçam, Eskişehir'in Mihalıççık ilçesine bağlı kırsal Kayı Mahallesi'nde aronya yetiştiriciliği yapıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-super-meyve-toprakla-bulustu-sifa-dagitiyor-antioksidan-degeri-yuksek-1745931"
+        },
         {
           "title": "Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor",
           "summary": "Gaziantep'te kış aylarının gelmesiyle birlikte aktarlarda kış mesaisi başladı. Soğuk algınlığı ve boğaz ağrısı şikayeti yaşayan vatandaşlar bitkisel ürünlere yönelirken, zerdeçal, zencefil, ıhlamur ve hatmi çiçeğinin yanı sıra çeşitli karışımlara da ilgi arttı. Gaziantep'te kış aylarının gelmesi ve yaşanan mevsim geçişleri nedeniyle vatandaşlar, boğaz ağrısı, öksürük, halsizlik ve burun akıntısı gibi şikayetlerle karşılaşıyor.",
@@ -194,16 +240,6 @@
           "title": "100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor",
           "summary": "Tokat'ta geçen yıl 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Tokat'ta kuşburnunda yaşanan bolluk, satış fiyatlarına da yansıdı. Geçen yıl kilogramı 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Fiyatlardaki gerileme, özellikle kış hazırlığı yapan vatandaşların ilgisini artırdı. Kuşburnunun bol çıkması üreticileri sevindirirken, vatandaşlar da geçen yıla göre daha uygun fiyatlarla alışveriş yapma imkânı buldu.",
           "source": "https://www.ntv.com.tr/saglik/galeri-100-tlden-50-tlye-dustu-demleyip-icince-hazimsizligi-gideriyor-1745222"
-        },
-        {
-          "title": "Gençlerde kanser alarmı: 7 kanser türünde dikkat çeken artış",
-          "summary": "Uluslararası veriler, gençlerde kanser vakalarının arttığını ortaya koydu. İngiltere, ABD ve Hollanda verilerinde 7 kanser türünde dikkat çekici artış görüldü. Uzmanlar yaşam tarzına dikkat çekti.",
-          "source": "https://www.ntv.com.tr/saglik/video-genclerde-kanser-alarmi-7-kanser-turunde-dikkat-ceken-artis-1745191"
-        },
-        {
-          "title": "Halk arasında dikenli gül diyorlar. Dallardan tek tek toplanan doğal C vitamini",
-          "summary": "Türkiye'de doğal olarak yetişen 27 kuşburnu türünün 17'sine ev sahipliği yapan Gümüşhane'de, kuşburnu toplama mesaisi başladı. Gümüşhane ile özdeşleşen kuşburnu, kentte eylül ve ekim aylarında olgunlaşıyor. Doğada kendiliğinden yetişen ve halk arasında \"dikenli gül\" olarak da bilinen kuşburnu, özellikle yüksek C vitamini içeriğiyle öne çıkıyor. Gümüşhane'nin iklimi ve doğal yapısının kuşburnunun yetişmesi için uygun olması nedeniyle kent, Türkiye'nin önemli kuşburnu merkezlerinden biri olarak gösteriliyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-halk-arasinda-dikenli-gul-diyorlar-dallardan-tek-tek-toplanan-dogal-c-vitamini-1745187"
         }
       ]
     },
