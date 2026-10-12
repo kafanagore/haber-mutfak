@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-11T16:00:04.983Z",
+  "generatedAt": "2026-10-12T04:00:04.197Z",
   "categories": {
     "gundem": {
-      "text": "İletişim Başkanı Duran'dan İsrailli bakana tepki. Manisa'da katliam gibi kaza: 11 can kaybı var. Manisa'da 11 kişinin öldüğü kaza anı kamerada. İstanbul'da hissedilen bir deprem meydana geldi. Son dakika... AFAD duyurdu! Yalova açıklarında korkunta deprem... İstanbul'da da hissedildi. İstanbul’daki cinayette acılı akrabadan şoke eden iddia: Öldürüp fotoğrafını çekiyorlar. 'İşimiz henüz bitmedi' | Bakan Kurum, Hataylı vatandaşın övgüsünü paylaştı.",
+      "text": "Kabine bugün sıcak başlıklarla toplanıyor. Birlikte yaşadığı kadını vahşice öldürüp teslim oldu. Önce otomobile sonra levhaya çarptı: 50 metre sürüklendi. 335 bin lira ceza kesilince, ‘Dershane param gidecek’ diye ağladı. Kabine toplanıyor. Ana gündem fon soruşturması ve Terörsüz Türkiye. Dört ülkeden Husi saldırılarına ortak tepki. İstanbul Boğazı'nda gemi trafiği açıldı.",
       "items": [
         {
-          "title": "İletişim Başkanı Duran'dan İsrailli bakana tepki",
-          "summary": "İletişim Başkanı Burhanettin Duran, \"İsrail Savunma Bakanı Katz’ın ifadeleri, İsrail’de yaklaşan seçimler öncesinde içine düştükleri siyasi çaresizliğin bir göstergesidir\" dedi. İletişim Başkanı Duran, sosyal medya hesabından yaptığı paylaşımda, İsrail Savunma Bakanı Israel Katz’ın açıklamalrına tepki gösterdi. Duran, “Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan’ı ve ülkemizi hedef alan hadsiz ifadeleri, İsrail’de yaklaşan seçimler öncesinde içine düştükleri siyasi çaresizliğin bir göstergesidir.” dedi.",
-          "source": "https://www.ntv.com.tr/turkiye/iletisim-baskani-durandan-israilli-bakana-tepki-1745870"
+          "title": "Kabine bugün sıcak başlıklarla toplanıyor",
+          "summary": "KABİNE, Cumhurbaşkanı Tayyip Erdoğan başkanlığında bugün Beştepe’de toplanacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/kabine-bugun-sicak-basliklarla-toplaniyor-43338164"
         },
         {
-          "title": "Manisa'da katliam gibi kaza: 11 can kaybı var",
-          "summary": "Manisa'da İzmir-İstanbul otobanında tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi, biri ağır 27 kişi yaralandı. Kazaya karışan iki şoför ve otobüsün sahibi de gözaltına alındı. Manisa'nın Akhisar ilçesinde, saat 11.11 sıralarında Gebze-Orhangazi-İzmir Otoyolu'nun Akhisar Gişeleri mevkisinde tur otobüsü ile çekici çarpıştı. İhbarı üzerine bölgeye çok sayıda ambulans, itfaiye ve polis ekibi sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-manisada-katliam-gibi-kaza-11-can-kaybi-var-1745808"
+          "title": "Birlikte yaşadığı kadını vahşice öldürüp teslim oldu",
+          "summary": "Antalya'nın Kepez ilçesinde bir kişi çıkan tartışmada birlikte yaşadığı kadını boğarak öldürdükten sonra gittiği Konya'da polise teslim olarak cinayeti itiraf eti.",
+          "source": "https://www.hurriyet.com.tr/gundem/birlikte-yasadigi-kadini-vahsice-oldurup-teslim-oldu-43338194"
         },
         {
-          "title": "Manisa'da 11 kişinin öldüğü kaza anı kamerada",
-          "summary": "Manisa'da tur otobüsü ile çekicinin çarpıştığı kazada 11 kişi yaşamını yitirdi. Görüntülerde kavşağı kaçıran otobüs şoförünün, geri geri gitmeye çalıştığı, çekicinin otobüse arkadan çarptığı görülüyor",
-          "source": "https://www.ntv.com.tr/turkiye/video-manisada-11-kisinin-oldugu-kaza-ani-kamerada-1745869"
+          "title": "Önce otomobile sonra levhaya çarptı: 50 metre sürüklendi",
+          "summary": "Kayseri’nin Melikgazi ilçesinde önce otomobile ardından da trafik levhasına çarpan motosiklet sürücüsü 50 metre sürüklendi. Kazada yaralanan motosiklet sürücüsünün durumunun ağır olduğu öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/once-otomobile-sonra-levhaya-carpti-50-metre-suruklendi-43338193"
         },
         {
-          "title": "İstanbul'da hissedilen bir deprem meydana geldi",
-          "summary": "AFAD'dan yapılan açıklamaya göre Marmara Denizi'nde 2,9 büyüklüğünde deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı, Marmara'da saat 18.14'de 2,9 büyüklüğünde deprem meydana geldiğini açıkladı. Depremin merkez üssü Yalova olarak açıklanırken, derinliği 7,16 kilometre. Deprem İstanbul'da birçok noktada da hissedildi.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulda-hissedilen-bir-deprem-meydana-geldi-1745868"
+          "title": "335 bin lira ceza kesilince, ‘Dershane param gidecek’ diye ağladı",
+          "summary": "Kayseri'de polisin ‘dur’ ihtarına uymayarak hafif ticari araçla kaçan ve 18 yaşını doldurmasına 4 gün kalan ehliyetsiz sürücü Y.K.’ye (17), toplam 335 bin TL idari para cezası uygulandı. Ceza miktarını öğrenince gözyaşlarına boğulan Y.K., \"Dershane param gidecek\" diyerek sinir krizi geçirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/335-bin-lira-ceza-kesilince-dershane-param-gidecek-diye-agladi-43338192"
         },
         {
-          "title": "Son dakika... AFAD duyurdu! Yalova açıklarında korkunta deprem... İstanbul'da da hissedildi",
-          "summary": "AFAD, Marmara Denizi Yalova açıklarında 2.9 büyüklüğünde deprem meydana geldiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-hissedilen-bir-deprem-meydana-geldi-43337892"
+          "title": "Kabine toplanıyor. Ana gündem fon soruşturması ve Terörsüz Türkiye",
+          "summary": "Cumhurbaşkanlığı Kabinesi bugün toplanıyor. Toplantının ana gündem başlıklarının fon soruşturması ile Terörsüz Türkiye süreci olması bekleniyor. Kabine toplantısı, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında bugün saat 15.00'te Beştepe'de gerçekleştirilecek. Toplantıda fon soruşturması ve tasfiye süreciyle ilgili değerlendirmeler yapılması bekleniyor.",
+          "source": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1745835"
         },
         {
-          "title": "İstanbul’daki cinayette acılı akrabadan şoke eden iddia: Öldürüp fotoğrafını çekiyorlar",
-          "summary": "Bağcılar'da silahlı saldırıda hayatını kaybeden Emirhan Menteşe'nin akrabası, \"Çocuğa pusu kurup vurdular, şimdi de 'Bu sefer öldün' diyerek fotoğrafını çekiyorlar.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbuldaki-cinayette-acili-akrabadan-soke-eden-iddia-oldurup-fotografini-cekiyorlar-43337857"
+          "title": "Dört ülkeden Husi saldırılarına ortak tepki",
+          "summary": "R4 Grubu Devletleri Türkiye, Mısır, Pakistan ve Suudi Arabistan, Riyad'da sivillerin ölümüne neden olan saldırıları kınadı. Türkiye, Mısır, Suudi Arabistan ve Pakistan Dışişleri Bakanlıkları, Husilerin Riyad'daki Kral Halid Uluslararası Havalimanı'nı hedef alan saldırılarına ilişkin ortak açıklama yayımladı.",
+          "source": "https://www.ntv.com.tr/turkiye/dort-ulkeden-husi-saldirilarina-ortak-tepki-1745874"
         },
         {
-          "title": "'İşimiz henüz bitmedi' | Bakan Kurum, Hataylı vatandaşın övgüsünü paylaştı",
-          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, sosyal medya hesabından Hatay Atatürk Caddesi’ndeki yeni evine taşınan Bülent Artun’un görüntülerini \"Hatay, Asrın İnşası’nda en çok emek verdiğimiz şehirlerdendi. İşimiz henüz bitmedi. Ama şükürler olsun, hemşerilerimiz artık kendi yuvalarında Gerisini ben değil, Bülent abi anlatsın\" notuyla paylaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/isimiz-henuz-bitmedi-bakan-kurum-hatayli-vatandasin-ovgusunu-paylasti-43337835"
+          "title": "İstanbul Boğazı'nda gemi trafiği açıldı",
+          "summary": "İstanbul Boğazı'nda askıya alınan gemi trafiği, makine arızası yapan Malta bandıralı 110 metre uzunluğundaki tankerin çekilmesinin ardından açıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbul-bogazinda-gemi-trafigi-acildi-43338190"
         }
       ]
     },
     "dunya": {
-      "text": "Kral Halid Uluslararası Havalimanı yolcu terminaline saldırı. Trump'tan ateşkes mesajı. \"Rusya ve Ukrayna enerji ateşkesinde anlaştı\". Netanyahu hakkında iddianame hazırlayan eski Başsavcı Mandelblit ifade verdi. Dışişleri Bakanlığı'ndan Riyad saldırısına kınama. Rusya ile Ukrayna arasında ateşkes anlaşması! Zelenski'den seçim mesajı. Hindistan'da gözaltındaki Hamam Böceği Halk Partisi liderleri salıverildi. Papa 14. Leo, akciğerinde kitle tespit edildiğini ve ameliyat olacağını açıkladı.",
+      "text": "Kamu parasıyla Trump reklamlarına yargı freni. Yolcunun cihazı uçakta yangın çıkardı. Suudi Arabistan'daki 5 havalimanına 10 saldırı düzenlendi, 19 kişi öldü. Polonya'da Başbakan Tusk'a suikast planı! Şüpheli gözaltında. Hürmüz Boğazı'nda ilerleyen tanker mayına çarptı. Cibuti açıklarındaki gemi kazası. 139 kişi hayatını kaybetti, 84 kişi kayıp. Trump'tan ateşkes mesajı. \"Rusya ve Ukrayna enerji ateşkesinde anlaştı\".",
       "items": [
         {
-          "title": "Kral Halid Uluslararası Havalimanı yolcu terminaline saldırı",
-          "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Riyad yakınlarındaki Kral Halid Uluslararası Havalimanı'nın 4 numaralı yolcu terminaline düzenlenen saldırı sonrası tesiste yangın çıktığını açıkladı. Yetkililer, Riyad yakınlarında tespit edilen bir füzenin de hava savunma sistemleri tarafından engellendiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kral-halid-uluslararasi-havalimani-yolcu-terminaline-saldiri-43337926"
+          "title": "Kamu parasıyla Trump reklamlarına yargı freni",
+          "summary": "ABD'de yargı, kamu kaynaklarıyla finanse edilen ve Başkan Donald Trump'ı öven siyasi reklamların yayımlanmasını durdurdu. ABD'de 3 Kasım ara seçimleri öncesinde Trump yönetiminin kamu kaynaklarıyla yayınladığı reklamlara ilişkin tartışmaya yargı müdahale etti. Manhattan'da görev yapan ABD Bölge Yargıcı Jennifer Rochon, denetim kuruluşu Common Cause'un da aralarında bulunduğu davacıların başvurusu üzerine reklamların yayımlanmasını geçici olarak durdurdu.",
+          "source": "https://www.ntv.com.tr/dunya/kamu-parasiyla-trump-reklamlarina-yargi-freni-1745889"
+        },
+        {
+          "title": "Yolcunun cihazı uçakta yangın çıkardı",
+          "summary": "Delhi-Chennai seferini yapan yolcu uçağında, bir yolcuya ait elektronik cihazın alev almasıyla yangın çıktı. Kabin ekibi alevleri söndürdü, uçak Haydarabad'a acil iniş yaptı. Hindistan merkezli IndiGo havayolu şirketine ait Delhi-Chennai seferini yapan yolcu uçağında bir yolcuya ait elektronik cihazın alev alması üzerine havada panik dolu anlar yaşandı. Airbus A321neo tipi uçakta meydana gelen olayda kabin ekibi, yangın söndürücü kullanarak alevlere müdahale etti.",
+          "source": "https://www.ntv.com.tr/dunya/yolcunun-cihazi-ucakta-yangin-cikardi-1745888"
+        },
+        {
+          "title": "Suudi Arabistan'daki 5 havalimanına 10 saldırı düzenlendi, 19 kişi öldü",
+          "summary": "Suudi Arabistan'da bir haftada 5 havalimanının hedef alındığı 10 saldırıda 19 kişi yaşamını yitirdi, yüzlerce kişi yaralandı. Başkent Riyad'daki Kral Halid Uluslararası Havalimanı, 5 saldırıyla en fazla hedef alınan havalimanı oldu. Saldırılar nedeniyle havalimanındaki operasyonlar geçici olarak durduruldu. Arap Koalisyonu, Kral Halid Uluslararası Havalimanı'nın 4'üncü terminalinin yolcu salonuna kaynağı bilinmeyen bir mühimmatın isabet ettiğini ve yangın çıktığını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/suudi-arabistandaki-5-havalimanina-10-saldiri-duzenlendi-19-kisi-oldu-1745886"
+        },
+        {
+          "title": "Polonya'da Başbakan Tusk'a suikast planı! Şüpheli gözaltında",
+          "summary": "Polonya Başbakanı Donald Tusk ile Başbakan Yardımcısı ve Milli Savunma Bakanı Wladyslaw Kosiniak-Kamysz'a yönelik olası bir saldırı planı hakkında polise bilgi ulaştığı belirtilirken, Tusk \"suikast tehdidi\"nde bulunan kişinin gözaltına alındığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/polonyada-basbakan-tuska-suikast-plani-supheli-gozaltinda-43338075"
+        },
+        {
+          "title": "Hürmüz Boğazı'nda ilerleyen tanker mayına çarptı",
+          "summary": "İran Devrim Muhafızları Ordusu (DMO), Hürmüz Boğazı’nda navigasyon sistemini kapatarak \"izinsiz güzergahta\" ilerleyen petrol yüklü bir süpertankerin deniz mayınına çarptığını ve gemide yangın çıktığını açıkladı. DMO, navigasyon sistemlerini kapatarak ilerleyen tüm gemilerin \"düşman\" olarak tanımlanacağını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-ilerleyen-tanker-mayina-carpti-43338071"
+        },
+        {
+          "title": "Cibuti açıklarındaki gemi kazası. 139 kişi hayatını kaybetti, 84 kişi kayıp",
+          "summary": "Cibuti açıklarında Yemen'e doğru hareket eden 300’den fazla göçmeni taşıyan teknenin alabora olması sonucu 15’i çocuk en az 139 kişi hayatını kaybederken, 84 kişiden ise haber alınamıyor. Birleşmiş Milletler Uluslararası Göç Örgütü (IOM), tarafından yapılan yazılı açıklamada, Cibuti açıklarında 305 kişiyi taşıyan bir teknenin alabora olduğu aktarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/cibuti-aciklarindaki-gemi-kazasi-139-kisi-hayatini-kaybetti-84-kisi-kayip-1745872"
         },
         {
           "title": "Trump'tan ateşkes mesajı. \"Rusya ve Ukrayna enerji ateşkesinde anlaştı\"",
           "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında bir enerji ateşkesi anlaşması yapıldığını duyurdu. ABD Başkanı Trump, sosyal medya hesabından yaptığı paylaşımla Rusya ile Ukrayna arasındaki anlaşmayı duyurdu. Trump paylaşımında, “Savaşta derhal yürürlüğe girmek üzere, bir enerji ateşkesi sağlanmıştır.\" dedi. İki ülkenin, savaşın devam etmesine rağmen birbirlerinin enerji altyapısına saldırmama taahhüdü verdiğini belirten Trump, \"Her iki taraf da anlaştı. Bunu bozmayın.\" diye ekledi.",
           "source": "https://www.ntv.com.tr/dunya/trumptan-ateskes-mesaji-rusya-ve-ukrayna-enerji-ateskesinde-anlasti-1745863"
-        },
-        {
-          "title": "Netanyahu hakkında iddianame hazırlayan eski Başsavcı Mandelblit ifade verdi",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun yolsuzluktan yargılandığı davanın iddianamesini hazırlayan eski Başsavcı Avichai Mandelblit, bu kez Netanyahu’nun avukatlarının talebiyle savunma tanığı olarak mahkemede tanık kürsüsüne çıktı. Mandelblit, \"polisin kendisine haber vermeden bir iş çevirdiğini düşündüğünü\" belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahu-hakkinda-iddianame-hazirlayan-eski-bassavci-mandelblit-ifade-verdi-43337804"
-        },
-        {
-          "title": "Dışişleri Bakanlığı'ndan Riyad saldırısına kınama",
-          "summary": "Dışişleri Bakanlığı, Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'nın Husiler tarafından bir kere daha hedef alınmasını en güçlü şekilde kınadığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakanligindan-riyad-saldirisina-kinama-43337801"
-        },
-        {
-          "title": "Rusya ile Ukrayna arasında ateşkes anlaşması! Zelenski'den seçim mesajı",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya'ya \"seçim ateşkesi\" önerisinde bulundu. Ukrayna'da 60 günlük geçici ateşkes sağlanması halinde seçim yapılabileceğini ifade eden Zelenski, Rusya'nın ülkesindeki enerji altyapısını hedef almayı bırakması halinde Rus petrol rafinerilerine saldırıları durdurmaya hazır olduklarını kaydetti. ABD Başkanı Donald Trump, Rusya ile Ukrayna'nın derhal uygulanmak üzere ateşkeste anlaştığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusya-ile-ukrayna-arasinda-ateskes-anlasmasi-zelenskiden-secim-mesaji-43337795"
-        },
-        {
-          "title": "Hindistan'da gözaltındaki Hamam Böceği Halk Partisi liderleri salıverildi",
-          "summary": "Hindistan'da seçmen listelerinin yeniden düzenlenmesine karşı organize edilen gösterilerde gözaltına alınan \"Z kuşağı\" internet kullanıcıları öncülüğünde kurulan \"Hamam Böceği Halk Partisi\" adlı siyasi hareketin liderleri serbest bırakıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/hindistanda-gozaltindaki-hamam-bocegi-halk-partisi-liderleri-saliverildi-43337790"
-        },
-        {
-          "title": "Papa 14. Leo, akciğerinde kitle tespit edildiğini ve ameliyat olacağını açıkladı",
-          "summary": "Vatikan Devlet Başkanı Papa 14. Leo, akciğerinde tespit edilen bir kitle nedeniyle birkaç gün içinde ameliyat olacağını açıkladı. Vatikan Devlet Başkanı Papa 14. Leo, Aziz Petrus Meydanı'na bakan ofisinin penceresinden yaptığı geleneksel pazar duasını takip eden konuşmasında, önümüzdeki birkaç gün içinde akciğerinden ameliyat olacağını duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/papa-14-leo-akcigerinde-kitle-tespit-edildigini-ve-ameliyat-olacagini-acikladi-1745857"
         }
       ]
     },
@@ -124,48 +124,22 @@
       ]
     },
     "spor": {
-      "text": "Hull City, Everton karşısında 1 puana razı!. Trabzonspor evinde Bordo Bandırma'yı mağlup etti!. İlhan Palut: 'Sonuçtan dolayı üzgünüz!'. Nuri Şahin: 'İki takımın da 1 puanı hak ettiği bir maç oldu!'. Galatasaray Daikin evinde galip!. Trabzonspor, KuPS Kuopio maçının hazırlıklarına başladı. Tolu Arokodare'den gol sevinci açıklaması: 'Fikir Osimhen'den geldi!'.",
-      "items": [
-        {
-          "title": "Hull City, Everton karşısında 1 puana razı!",
-          "summary": "Hull City, Premier Lig'in 6. haftasında konuk ettiği Everton ile 2-2 berabere kaldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hull-city-everton-karsisinda-1-puana-razi-43337886"
-        },
-        {
-          "title": "Trabzonspor evinde Bordo Bandırma'yı mağlup etti!",
-          "summary": "Basketbol Süper Ligi'nin üçüncü haftasında Trabzonspor, sahasında Bordo Bandırma'yı 83-80 yendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-evinde-bordo-bandirmayi-maglup-etti-43337850"
-        },
-        {
-          "title": "İlhan Palut: 'Sonuçtan dolayı üzgünüz!'",
-          "summary": "Süper Lig'in 7. haftasında konuk ettiği İstanbul Başakşehir ile 0-0 berabere kalan Konyaspor'da teknik direktör İlhan Palut, galibiyeti kaçırdıkları için üzgün olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ilhan-palut-sonuctan-dolayi-uzgunuz-43337845"
-        },
-        {
-          "title": "Nuri Şahin: 'İki takımın da 1 puanı hak ettiği bir maç oldu!'",
-          "summary": "Süper Lig'in 7. haftasında deplasmanda Konyaspor ile 0-0 berabere kalan İstanbul Başakşehir'de teknik direktör Nuri Şahin, iki takımın da 1 puanı hak ettiğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-iki-takimin-da-1-puani-hak-ettigi-bir-mac-oldu-43337837"
-        },
-        {
-          "title": "Galatasaray Daikin evinde galip!",
-          "summary": "Galatasaray Daikin, Sultanlar Ligi'nin ikinci haftasında konuk ettiği Nilüfer Belediyespor Eker'i 3-1 yendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-daikin-evinde-galip-43337819"
-        },
-        {
-          "title": "Trabzonspor, KuPS Kuopio maçının hazırlıklarına başladı",
-          "summary": "Trabzonspor, UEFA Konferans Ligi'nin 1. haftasında 15 Ekim Perşembe günü deplasmanda Finlandiya'nın KuPS Kuopio ekibiyle yapacağı maçın hazırlıklarına başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-kups-kuopio-macinin-hazirliklarina-basladi-43337789"
-        },
-        {
-          "title": "Tolu Arokodare'den gol sevinci açıklaması: 'Fikir Osimhen'den geldi!'",
-          "summary": "Ajax'ın NEC ile 1-1 berabere kaldığı maçta gol atan Tolu Arokodare, sakatlanan takım arkadaşı Kasper Dolberg'e formasını göstererek destek verdi. Nijeryalı oyuncu maçın ardından fikri Victor Osimhen'den aldığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tolu-arokodareden-gol-sevinci-aciklamasi-fikir-osimhenden-geldi-43337742"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
-      "text": "Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı. ChatGPT kullananlar dikkat. Metinde görünmeyecek. Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı.",
+      "text": "Trump'tan yapay zeka devlerine İngiltere izni. Hubble yakaladı. Gülümseyen galaksi. Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı.",
       "items": [
+        {
+          "title": "Trump'tan yapay zeka devlerine İngiltere izni",
+          "summary": "ABD yönetimi, OpenAI ve Anthropic gibi yapay zeka devlerinin yeni modellerini piyasaya sürmeden önce test edilmesi için İngiltere hükümetiyle paylaşmasına izin verme kararı aldı. ABD'li yapay zeka geliştiricileri artık yeni geliştirdikleri modelleri güvenlik testlerinden geçirilmek üzere İngiltere hükümetine erken aşamada sunabilecek.",
+          "source": "https://www.ntv.com.tr/teknoloji/trumptan-yapay-zeka-devlerine-ingiltere-izni-1745891"
+        },
+        {
+          "title": "Hubble yakaladı. Gülümseyen galaksi",
+          "summary": "NASA, Hubble uzay teleskobunun yakaladığı ilginç bir kareyi paylaştı. Kameraya gülümseyen bir galaksi kümesi... ABD Havacılık ve Uzay Ajansı'nın (NASA) Hubble uzay teleskobu, evrenin gizemlerini gözlemlemeyi sürdürüyor. NASA 1990 yılından bu yana yörüngede çalışan Hubbe'ın kaydettiği çarpıcı bir kareyi paylaştı. Fotoğrafta uzayın derinliklerindeki yıldızların gülümseyen bir insan yüzüne benzerliği dikkat çekiyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/hubble-yakaladi-gulumseyen-galaksi-1745890"
+        },
         {
           "title": "Yapay zeka, polise sahte cinayet ihbarı gönderdi",
           "summary": "Anthropic’in kontrolden çıkan bir yapay zeka modelinin Philadelphia polisine sahte faili meçhul cinayet ihbarı göndermesi, tartışmaları alevlendirdi. Son dönemde \"ya kontrolden çıkarsa\" endişelerini artıran siber saldırı ve sızma girişimleriyle gündemden düşmeyen yapay zeka ajanları, ilginç vakalarla tartışılmaya devam ediyor. Son örnek Anthropic’in bir yapay zeka modelinden geldi. Model, ABD'de Philadelphia polisine internet sitesi üzerinden sahte bir cinayet ihbarı yaptı.",
@@ -190,16 +164,6 @@
           "title": "“Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı",
           "summary": "TEKNOFEST kapsamında düzenlenen “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nı kazanan genç öğrencilerden oluşan takımlar ödüllerine TEKNOFEST Güneydoğu’da kavuştu.",
           "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-destekli-lojistik-anahat-optimizasyonu-yarismasinin-kazananlarina-odullerini-aldi-43331184"
-        },
-        {
-          "title": "ChatGPT kullananlar dikkat. Metinde görünmeyecek",
-          "summary": "OpenAI, AB Yapay Zeka Yasası'na uyum sağlamak için ChatGPT ve Codex metin çıktılarına görünmez istatistiksel filigran eklemeye başlıyor. Yapay zeka şirketi OpenAI, Avrupa Birliği'nin (AB) Yapay Zeka Yasası kapsamındaki şeffaflık yükümlülüklerine uyum sağlamak amacıyla geçen aylarda aynı adımı atan Anthropic'i takip ederek ürettiği metinlere görünmez filigran yerleştirmeye başlıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-chatgpt-kullananlar-dikkat-metinde-gorunmeyecek-1745012"
-        },
-        {
-          "title": "Yapay zekada ''ahlak'' tartışması: Sam Altman’dan dikkat çeken uyarı",
-          "summary": "Yapay zeka modellerine \"ahlak\" öğretilmesi veya insan muhakemesinin bu araçlara \"teslim edilmesine\" yönelik çabalar, sektörün öncüleri arasında yeni bir tartışma yarattı. Yapay zeka sohbet robotu ChatGPT'yi geliştiren ABD merkezli teknoloji şirketi OpenAI'ın Üst Yöneticisi (CEO) Sam Altman, konuya ilişkin görüşünü ABD merkezli X şirketinin sosyal medya platformundaki hesabında paylaştı.",
-          "source": "https://www.ntv.com.tr/teknoloji/yapay-zekada-ahlak-tartismasi-sam-altmandan-dikkat-ceken-uyari-1744948"
         }
       ]
     },
