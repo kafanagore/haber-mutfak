@@ -1,20 +1,35 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-12T10:00:06.330Z",
+  "generatedAt": "2026-10-12T16:00:04.841Z",
   "categories": {
     "gundem": {
-      "text": "İSKİ duyurdu: İstanbul'da bazı mahallelere su verilemeyecek. Manisa'daki otobüs kazasında geri manevra hatası: 11 eve ateş düştü! Şoförlerin ifadesi ortaya çıktı. Uludağ'da yeni dönem. Dört mevsim turizm için planlar yürürlükte. Pes dedirten anlar: Otobüs seyir halindeyken şoför değişimi yaptılar. Şanlıurfa’da alevlerin sardığı rezidansta can pazarı: 1 ölü, 1 yaralı. Antalya'da midibüs kaygan yolda devrildi: Yaralılar var. Mersin'de tütün işleme tesisinde yangın.",
+      "text": "PKK Kuzey Irak'taki 4 kampı boşalttı. Mersin'de şiddetli sağanak: Cadde ve sokaklar göle döndü. Cumhurbaşkanı Erdoğan: Gıda israfı olan bir dünyada refahtan söz edemeyiz. İstanbul'da suç örgütlerine operasyon. 30 günde 289 kişi yakalandı. İSKİ duyurdu, yarın başlıyor. Bu mahallelerde 16 saat su kesintisi olacak. Uludağ'da yeni dönem. Dört mevsim turizm için planlar yürürlükte. Pes dedirten anlar: Otobüs seyir halindeyken şoför değişimi yaptılar.",
       "items": [
         {
-          "title": "İSKİ duyurdu: İstanbul'da bazı mahallelere su verilemeyecek",
-          "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ), bölgedeki isale hattında yapılacak çalışmalar nedeniyle Maltepe'nin bazı mahallelerinde 16 saat su kesintisi yaşanacağını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/iski-duyurdu-istanbulda-bazi-mahallelere-su-verilemeyecek-43338599"
+          "title": "PKK Kuzey Irak'taki 4 kampı boşalttı",
+          "summary": "Güvenlik kaynaklarından edinilen bilgiye göre; PKK/KCK Irak'ın kuzeyinde Metina alanında bulunan 4 barınma alanını (Hebat, Yajk, Sabri ve Sason) boşalttı. Terörsüz Türkiye sürecine ilişkin önemli bir gelişme yaşandı. Güvenlik kaynakları, terör örgütü PKK/KCK'nın Irak'ın kuzeyindeki Metina'nın Baze bölgesinde bulunan 4 barınma alanını 8 Ekim'de boşalttığını bildirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/pkk-kuzey-iraktaki-4-kampi-bosaltti-1745976"
         },
         {
-          "title": "Manisa'daki otobüs kazasında geri manevra hatası: 11 eve ateş düştü! Şoförlerin ifadesi ortaya çıktı",
-          "summary": "Manisa Akhisar'da tur otobüsü ile tırın çarpışması sonucu meydana gelen ve 11 kişinin hayatını kaybettiği faciada eşini kaybeden Süleyman Eryılmaz, kazanın otobüsün geri manevrası sırasında yaşandığını açıkladı. Bursa'ya ateş düşüren kazada yaşamını yitiren 11 kişi bugün son yolculuğuna uğurlanırken, kazaya karışan şoförlerin ifadesi de ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/manisadaki-otobus-kazasinda-geri-manevra-hatasi-suruculer-gozaltinda-11-eve-ates-dustu-43338586"
+          "title": "Mersin'de şiddetli sağanak: Cadde ve sokaklar göle döndü",
+          "summary": "Mersin'de Silifke ilçesinde etkili olan sağanak nedeniyle bazı yolları su bastı. İlçede sabah saatlerinde kısa süreli sağanak etkili oldu. Yağış nedeniyle ilçe merkezinin yanı sıra kırsaldaki mahallelerde de su taşkınları yaşandı. İşlek cadde ve sokaklar göle döndü. Trafikteki sürücüler araçlarıyla ilerlemekte güçlük çekerken, alternatif güzergahlarda yoğunluk oluştu. Arızalanan bazı araçlarda mahsur kalanları, çevredekiler kurtardı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-mersinde-siddetli-saganak-cadde-ve-sokaklar-gole-dondu-1745994"
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Gıda israfı olan bir dünyada refahtan söz edemeyiz",
+          "summary": "Cumhurbaşkanı Erdoğan, “Dünya Gıda Forumu Açılış Töreni” programına gönderdiği video mesajında, \"Gıda israfı olan bir dünyada refahtan söz edemeyiz\" dedi. Cumhurbaşkanı Erdoğan, “Dünya Gıda Forumu Açılış Töreni” programına video mesaj gönderdi.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-gida-israfi-olan-bir-dunyada-refahtan-soz-edemeyiz-1745989"
+        },
+        {
+          "title": "İstanbul'da suç örgütlerine operasyon. 30 günde 289 kişi yakalandı",
+          "summary": "İstanbul'da organize suç örgütlerine yönelik son 30 gündeki operasyonlarda 289 şüpheli yakalandı, 175'i tutuklandı. İstanbul genelinde organize suç örgütleri, silah kaçakçıları ve motosikletli suç çetelerine yönelik son 30 günde gerçekleştirilen operasyonlarda 289 şüpheli yakalandı, 175 şüpheli tutuklandı. 51 şüphelinin ise yasal işlemleri devam ediyor.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-suc-orgutlerine-operasyon-30-gunde-289-kisi-yakalandi-1745982"
+        },
+        {
+          "title": "İSKİ duyurdu, yarın başlıyor. Bu mahallelerde 16 saat su kesintisi olacak",
+          "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) vatandaşları yarın 16 saat sürecek planlı su kesintisine karşı uyardı. Hangi ilçe ve mahallelerinde su kesintisi yaşanacak? İSKİ altyapı çalışmaları kapsamında Maltepe'nin 4 mahallesinde uzun süreli su kesintisi yaşanacağını duyurdu. Salı günü saat 10.00 ile çarşamba günü saat 02.00 arasında uygulanacak 16 saatlik kesintiden birçok mahalle doğrudan etkilenecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-iski-duyurdu-yarin-basliyor-bu-mahallelerde-16-saat-su-kesintisi-olacak-1745970"
         },
         {
           "title": "Uludağ'da yeni dönem. Dört mevsim turizm için planlar yürürlükte",
@@ -25,70 +40,65 @@
           "title": "Pes dedirten anlar: Otobüs seyir halindeyken şoför değişimi yaptılar",
           "summary": "Van’dan Bursa’ya gitmekte olan bir yolcu otobüsü seyir halindeyken şoför değişimi yapılması yürekleri ağza getirdi. Van’dan Bursa’ya giden Erciş İtimat firmasına ait yolcu otobüsünde yaşananlar büyük korkuya neden oldu. Polatlı-Eskişehir arasında seyir halindeki otobüsü kullanan şoför, sağa çekmeden koltuktan kalkarak yerini diğer şoföre bıraktı. Dün Manisa’da tur otobüsüyle tırın çarpışması sonucu 11 kişinin hayatını kaybettiği kazanın hemen ardından yaşanan bu durum büyük tepki topladı.",
           "source": "https://www.ntv.com.tr/turkiye/video-pes-dedirten-anlar-otobus-seyir-halindeyken-sofor-degisimi-yaptilar-1745960"
-        },
-        {
-          "title": "Şanlıurfa’da alevlerin sardığı rezidansta can pazarı: 1 ölü, 1 yaralı",
-          "summary": "Şanlıurfa’daki Osmangazi Mahallesi'nde bulunan bir rezidansın üst katında sabaha karşı alevler yükseldi. İtfaiyenin söndürdüğü yangında içeride bulunan otel çalışanı Ezgi Evcil hayatını kaybederken, dumandan etkilenen bir kişi hastanede tedavi altına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sanliurfada-alevlerin-sardigi-rezidansta-can-pazari-1-olu-1-yarali-43338553"
-        },
-        {
-          "title": "Antalya'da midibüs kaygan yolda devrildi: Yaralılar var",
-          "summary": "Antalya'nın Aksu ilçesinde yola dökülen mazot nedeniyle kayganlaşan yolda midibüs devrildi. Yolculardan 17 kişi yaralandı. Kazayla ilgili soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/midibus-kaygan-yolda-devrildi-yaralilar-var-43338545"
-        },
-        {
-          "title": "Mersin'de tütün işleme tesisinde yangın",
-          "summary": "Mersin'in Tarsus ilçesinde bir tütün işleme tesisinde yangın çıktı. Bölgeye itfaiye ekipleri sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mersinde-tutun-isleme-tesisinde-yangin-43338522"
         }
       ]
     },
     "dunya": {
-      "text": "Zelenskiy, Cumhurbaşkanı Erdoğan'ın arabuluculuğu veya Trump'ın katılımıyla Putin ile görüşebilir. Çin'in AB'ye 7,5 milyar dolarlık hibrit araç ihracatına kota engeli. Yolcu uçağında panik dolu anlar: Hindistan'da yolcular felaketin eşiğinden döndü. İsrail'de seçim yarışı kızıştı. Eisenkot, Netanyahu ile farkı açıyor. Ukrayna duyurdu: Putin ve Zelenski Cumhurbaşkanı Erdoğan arabuluculuğunda görüşebilir. Rusya'dan veri merkezlerini koruma kararı. İngiltere'den çarpıcı Brexit iddiası: Rusya müdahale etti.",
+      "text": "Rusya'dan seçim ateşkesine yeşil ışık. Karadeniz'de saldırıya uğrayan gemiye Giresun açıklarında müdahale edildi. Fransa'da 'kızıl cinler' gökyüzünü kapladı: Çıplak gözle görmek imkansız. Güney Kore ordusunda robot dönem. NATO 'zafer teorisini' açıkladı: 'Bize saldırırlarsa savaşırız'. Belçika'da genel grev: Ulaşım felç oldu. Pakistan'da eğitim uçağı düştü: 2 pilot hayatını kaybetti.",
       "items": [
         {
-          "title": "Zelenskiy, Cumhurbaşkanı Erdoğan'ın arabuluculuğu veya Trump'ın katılımıyla Putin ile görüşebilir",
-          "summary": "Ukrayna Devlet Başkanı Zelenski'nin, Cumhurbaşkanı Erdoğan'ın arabuluculuğu ya da ABD Başkanı Trump'ın katılımıyla, Rusya Devlet Başkanı Putin ile görüşebileceği bildirildi. Ukrayna Dışişleri Bakanı Andrii Sybiha, Devlet Başkanı Volodimir Zelenski'nin, ABD Başkanı Donald Trump'ın katılımıyla veya Cumhurbaşkanı Recep Tayyip Erdoğan'ın arabuluculuğuyla Rusya Devlet Başkanı Vladimir Putin ile bir araya gelmesinin mümkün olabileceğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/zelenskiy-cumhurbaskani-erdoganin-arabuluculugu-veya-trumpin-katilimiyla-putin-ile-gorusebilir-1745963"
+          "title": "Rusya'dan seçim ateşkesine yeşil ışık",
+          "summary": "Rusya, Ukrayna'nın seçim yapmak istemesi halinde saldırıları durdurabileceğini kaydetti. Kremlin Sözcüsü Dmitriy Peskov, Rusya Devlet Başkanı Vladimir Putin'in orduya sadece seçim günü geçerli olmak üzere saldırıları durdurma talimatı vermeye hazır olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-secim-ateskesine-yesil-isik-43339095"
         },
         {
-          "title": "Çin'in AB'ye 7,5 milyar dolarlık hibrit araç ihracatına kota engeli",
-          "summary": "Çin ile Avrupa Birliği, son dönemde hızla büyüyen hibrit araç ihracatına yönelik sınırlama getiren yeni bir mutabakat üzerinde uzlaştı. Çin ile Avrupa Birliği (AB) arasında hibrit araç ihracatını sınırlamaya yönelik varılan mutabakat, iç pazarda satış artışı yavaşlayan ve AB'nin elektrikli araç gümrük vergilerinden muaf tutulan hibrit sevkiyatını artıran Çinli üreticilere yeni bir darbe vurdu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-cinin-abye-75-milyar-dolarlik-hibrit-arac-ihracatina-kota-engeli-1745964"
+          "title": "Karadeniz'de saldırıya uğrayan gemiye Giresun açıklarında müdahale edildi",
+          "summary": "Karadeniz'de saldırıya uğrayan Rus bayraklı bir geminin Giresun açıklarına sürüklendiği bildirildi. Dron saldırısına uğrayan Fortis adlı gemiye ekiplerin müdahale ettiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/karadenizde-saldiriya-ugrayan-gemiye-giresun-aciklarinda-mudahale-edildi-43339004"
         },
         {
-          "title": "Yolcu uçağında panik dolu anlar: Hindistan'da yolcular felaketin eşiğinden döndü",
-          "summary": "Hindistan'da bir yolcu uçağının kabininde yangın çıktı. Taşınabilir şarj cihazının (power bank) patlaması sonucu çıkan yangın nedeniyle uçağın acil iniş yaptığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yolcu-ucaginda-panik-dolu-anlar-hindistanda-yolcular-felaketin-esiginden-dondu-43338582"
+          "title": "Fransa'da 'kızıl cinler' gökyüzünü kapladı: Çıplak gözle görmek imkansız",
+          "summary": "Fransa'nın Var bölgesinde, atmosferin üst katmanlarında oluşan ve \"kızıl periler\" ya da \"kızıl cinler\" olarak adlandırılan nadir ışık olayları görüldü. Meteo-Varoise'nin kurucusu Yohan Laurito, gökyüzünde aynı anda beliren iki olayı görüntülemeyi başardı.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-kizil-cinler-gokyuzunu-kapladi-ciplak-gozle-gormek-imkansiz-43338952"
         },
         {
-          "title": "İsrail'de seçim yarışı kızıştı. Eisenkot, Netanyahu ile farkı açıyor",
-          "summary": "İsrail'de 27 Ekim parlamento seçimleri öncesinde yapılan son anket, muhalefetteki Yashar Partisi lideri Gadi Eisenkot'un, başbakanlık yarışında Binyamin Netanyahu ile farkı açtığını ortaya koydu. ANKETE KATILANLARA GÖRE BAŞBAKANLIK İÇİN EN UYGUN ADAY EİSENKOT İsrail devlet televizyonu KAN’ın son anketine göre, muhalefetteki Yashar Partisi'nin lideri Gadi Eisenkot, başbakanlık yarışında Binyamin Netanyahu ile arasındaki farkı giderek açıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-israilde-secim-yarisi-kizisti-eisenkot-netanyahu-ile-farki-aciyor-1745957"
+          "title": "Güney Kore ordusunda robot dönem",
+          "summary": "Güney Kore ordusu, operasyonel verimliliği artırmak ve sahada görev yapan askerlere duyulan ihtiyacı azaltmak için yapay zeka tarafından özel olarak eğitilmiş insansı ve çok bacaklı robotlardan faydalanacak.",
+          "source": "https://www.hurriyet.com.tr/dunya/guney-kore-ordusunda-robot-donem-43338891"
         },
         {
-          "title": "Ukrayna duyurdu: Putin ve Zelenski Cumhurbaşkanı Erdoğan arabuluculuğunda görüşebilir",
-          "summary": "Ukrayna, Devlet Başkanı Volodimir Zelenski ile Rusya Devlet Başkanı Vladimir Putin'in Cumhurbaşkanı Recep Tayyip Erdoğan'ın arabuluculuğunda bir görüşme gerçekleştirebileceğini belirtti. Barış için bütün fırsatları değerlendireceğini ifade eden Kiev yönetimi, olası görüşmeye ABD Başkanı Donald Trump'ın da katılabileceğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ukrayna-duyurdu-putin-ve-zelenski-cumhurbaskani-erdogan-arabuluculugunda-gorusebilir-43338561"
+          "title": "NATO 'zafer teorisini' açıkladı: 'Bize saldırırlarsa savaşırız'",
+          "summary": "NATO, yeni \"zafer teorisi\"ni duyurdu. Yeni yaklaşımın herhangi bir saldırıyı \"engelleme, etkisini kırma ve saldırı sona ermezse saldırıyı gerçekleştiren kuvvetleri etkisiz hale getirmeyi\" amaçladığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/nato-zafer-teorisini-acikladi-bize-saldirirlarsa-savasiriz-43338873"
         },
         {
-          "title": "Rusya'dan veri merkezlerini koruma kararı",
-          "summary": "Rusya Dijital Kalkınma Bakanı Maksut Şadayev, insansız hava aracı (İHA) saldırılarının hedefi olan Yandex'in veri merkezlerinin korunması için Savunma Bakanlığı ile çalıştıklarını açıkladı. Saldırıların boyutunu gerçek zamanlı takip ettiklerini belirten Şadayev, sektördeki tüm şirketlerin Yandex'in karşılaştığı sorunların çözümüne yardımcı olduğunu kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-veri-merkezlerini-koruma-karari-43338552"
+          "title": "Belçika'da genel grev: Ulaşım felç oldu",
+          "summary": "Belçika’da kamu çalışanlarının düzenlediği genel grev, ulaşım başta olmak üzere eğitim, posta, havaalanları ve kamu yayıncılığı hizmetlerinde aksamalara yol açarken, ülke genelinde toplu taşıma ve tren seferleri büyük ölçüde etkilendi.",
+          "source": "https://www.hurriyet.com.tr/dunya/belcikada-genel-grev-ulasim-felc-oldu-43338838"
         },
         {
-          "title": "İngiltere'den çarpıcı Brexit iddiası: Rusya müdahale etti",
-          "summary": "İngiltere Başbakanı Andy Burnham, Rusya'nın Brexit referandumuna müdahale ettiğini öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingiltereden-carpici-brexit-iddiasi-rusya-mudahale-etti-43338510"
+          "title": "Pakistan'da eğitim uçağı düştü: 2 pilot hayatını kaybetti",
+          "summary": "Pakistan ordusuna ait eğitim uçağı, Belucistan eyaletinde düştü. Yaşanan olay sonucu 2 pilotun hayatını kaybettiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/pakistanda-egitim-ucagi-dustu-2-pilot-hayatini-kaybetti-43338798"
         }
       ]
     },
     "ekonomi": {
-      "text": "Kabine bugün sıcak başlıklarla toplanıyor. Almanya hükümeti 2026 büyüme tahminini yükseltti. İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\". Alman şirketleri üretimi beklentinin çok üzerinde artırdı. TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor.",
+      "text": "İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı. Kabine bugün sıcak başlıklarla toplandı. Almanya hükümeti 2026 büyüme tahminini yükseltti. İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi. \"Sanayimizi korurken geleceğe hazırlamalıyız\".",
       "items": [
         {
-          "title": "Kabine bugün sıcak başlıklarla toplanıyor",
-          "summary": "KABİNE, Cumhurbaşkanı Tayyip Erdoğan başkanlığında bugün Beştepe’de toplanacak.",
+          "title": "İlk kazanan Ege olsun",
+          "summary": "Demir ve demir dışı metaller ve maden ihracatçıları, Fas’ın ev sahibi olduğu Dünya Futbol Kupası’nda ilk kazanlar olmak için bu ülkeye sektörel ticaret heyeti düzenleyecek.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ilk-kazanan-ege-olsun-43338968"
+        },
+        {
+          "title": "2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı",
+          "summary": "2026 Nobel Ekonomi Ödülü'nün sahiplerinin, ABD'li ekonomistler Robert Hall ve Michael Woodford olduğu açıklandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/2026-nobel-ekonomi-odulunun-sahipleri-aciklandi-43338645"
+        },
+        {
+          "title": "Kabine bugün sıcak başlıklarla toplandı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Beştepe'de toplanan Kabine'de; fon tasfiyeleri, Terörsüz Türkiye süreci, dış politika ve 2027 bütçe maratonu ele alınıyor.",
           "source": "https://www.hurriyet.com.tr/gundem/kabine-bugun-sicak-basliklarla-toplaniyor-43338164"
         },
         {
@@ -110,62 +120,57 @@
           "title": "\"Sanayimizi korurken geleceğe hazırlamalıyız\"",
           "summary": "EGE Sanayicileri ve İş İnsanları Derneği (ESİAD), sanayinin mevcut sorunlarını ve değişen rekabet koşullarını iş dünyasının deneyimleri üzerinden ele aldığı Sanayi Çalıştayı’nın sonuçlarını rapor haline getirdi.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sanayimizi-korurken-gelecege-hazirlamaliyiz-43334165"
-        },
-        {
-          "title": "Alman şirketleri üretimi beklentinin çok üzerinde artırdı",
-          "summary": "Almanya'da sanayi, inşaat ve enerji şirketleri ağustos ayında üretimlerini beklentilerin dört katı oranında artırdı. Üretim, bir önceki aya göre yüzde 2,0 yükselirken, ekonomistler yalnızca yüzde 0,5'lik artış bekliyordu. Bu, yaklaşık bir buçuk yılın en güçlü artışı oldu.",
-          "source": "https://www.hurriyet.com.tr/avrupa/alman-sirketleri-uretimi-beklentinin-cok-uzerinde-artirdi-43333534"
-        },
-        {
-          "title": "TCMB Başkanı Karahan: Fon piyasası sağlıklı işlemeye devam ediyor",
-          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, fon piyasası genelinin sağlıklı işlemeye devam ettiğini, finansal sistemin genelini etkileyen bir sorun olmadığını değerlendirdiklerini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tcmb-baskani-karahan-fon-piyasasi-saglikli-islemeye-devam-ediyor-43332002"
         }
       ]
     },
     "spor": {
-      "text": "Mohamed Salah, Trabzonspor formasıyla Avrupa'da ilk gol peşinde. Galatasaray, Avrupa'da 342. kez sahne alacak. Göztepe maçları gollü geçiyor, Atalanta’nın gol serisi dikkat çekiyor! İşte Misli’den günün tüyoları. Barcelona, Galatasaray maçı kamp kadrosunu açıkladı: 4 yıldız, İstanbul'a gelmiyor!. Cristiano Ronaldo: Tüm zamanların en iyisiyim, nokta!. Mourinho'ya çağrı: 'Arda Güler, Real Madrid için karanlıktaki ışık olabilir!'. Aston Villa-Fenerbahçe maçının hakemi belli oldu.",
+      "text": "Pau Cubarsi'den Galatasaray taraftarına övgü: 'Tüm dünya biliyor'. Kulüpler Birliği'nden Süper Lig yayın ihalesi için açıklama. Fenerbahçe başantrenörü Sarunas Jasikevicius: 'Kadromuzdan memnun olmalıyız!'. Memorial ve Eczacıbaşı’ndan meme kanseri farkındalık maçı. Nicolo Zaniolo'dan Galatasaray açıklaması!. Zehra Güneş: 'Kupayla başlamak büyük bir motivasyon!'. Samsunspor'da Fink ile yollar ayrıldı.",
       "items": [
         {
-          "title": "Mohamed Salah, Trabzonspor formasıyla Avrupa'da ilk gol peşinde",
-          "summary": "UEFA Konferans Ligi'nde 15 Ekim Perşembe günü Finlandiya'nın KuPS Kuopio takımı ile deplasmanda karşılaşacak Trabzonspor'da Mısırlı oyuncu Mohamed Salah, gol atması halinde bordo-mavili takım formasıyla Avrupa Kupaları'nda ilki yaşayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mohamed-salah-trabzonspor-formasiyla-avrupada-ilk-gol-pesinde-43338629"
+          "title": "Pau Cubarsi'den Galatasaray taraftarına övgü: 'Tüm dünya biliyor'",
+          "summary": "Barcelona'nın savunma oyuncusu Pau Cubarsi, Şampiyonlar Ligi'nde Galatasaray ile oynayacakları maç öncesinde açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/pau-cubarsiden-galatasaray-taraftarina-ovgu-tum-dunya-biliyor-43339149"
         },
         {
-          "title": "Galatasaray, Avrupa'da 342. kez sahne alacak",
-          "summary": "UEFA Şampiyonlar Ligi'nin ikinci haftasında yarın İspanya ekibi Barcelona'yı konuk edecek Galatasaray, Avrupa kupalarındaki 342. karşılaşmasına çıkacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-avrupada-342-kez-sahne-alacak-43338612"
+          "title": "Kulüpler Birliği'nden Süper Lig yayın ihalesi için açıklama",
+          "summary": "Kulüpler Birliği Vakfı, Süper Lig'in yayın hakları ihalesine yönelik hazırlıkların sürdüğünü bildirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kulupler-birliginden-super-lig-yayin-ihalesi-icin-aciklama-43339100"
         },
         {
-          "title": "Göztepe maçları gollü geçiyor, Atalanta’nın gol serisi dikkat çekiyor! İşte Misli’den günün tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/goztepe-maclari-gollu-geciyor-atalantanin-gol-serisi-dikkat-cekiyor-iste-misliden-gunun-tuyolari-43338598"
+          "title": "Fenerbahçe başantrenörü Sarunas Jasikevicius: 'Kadromuzdan memnun olmalıyız!'",
+          "summary": "Fenerbahçe Tarfin, EuroLeague'in 5. haftasında yarın sahasında Zalgiris ile karşılaşacak. Sarı-lacivertlilerde başantrenör Sarunas Jasikevicius, karşılaşma öncesi Litvanya basınına açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-basantrenoru-sarunas-jasikevicius-kadromuzdan-memnun-olmaliyiz-43339026"
         },
         {
-          "title": "Barcelona, Galatasaray maçı kamp kadrosunu açıkladı: 4 yıldız, İstanbul'a gelmiyor!",
-          "summary": "Şampiyonlar Ligi'nin ikinci haftasında yarın akşam Galatasaray'a konuk olacak olan Barcelona'da sakatlığı bulunan 4 oyuncu İstanbul kafilesine dahil edilmedi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/barcelona-galatasaray-maci-kamp-kadrosunu-acikladi-4-yildiz-istanbula-gelmiyor-43338547"
+          "title": "Memorial ve Eczacıbaşı’ndan meme kanseri farkındalık maçı",
+          "summary": "Memorial Sağlık Grubu ile Eczacıbaşı Spor Kulübü, Meme Kanseri Farkındalık Ayı kapsamında düzenledikleri etkinlikle erken tanının önemine dikkat çekti. Eczacıbaşı Peron İstanbul ile Aras Kargo arasında 11 Ekim’de oynanan karşılaşma öncesinde, meme kanserini yenen 15 kadın voleybolcularla birlikte sahaya çıktı. Memorial sağlık çalışanları ve kadınların pembe tişörtlerle yer aldığı tribünlerde, kadınlara kendi sağlıklarını ihmal etmemeleri çağrısı yapıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/memorial-ve-eczacibasindan-meme-kanseri-farkindalik-maci-43339062"
         },
         {
-          "title": "Cristiano Ronaldo: Tüm zamanların en iyisiyim, nokta!",
-          "summary": "Portekiz'in dünyaca ünlü süperstarı Cristiano Ronaldo, CNN Portekiz'e konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cristiano-ronaldo-tum-zamanlarin-en-iyisiyim-nokta-43338534"
+          "title": "Nicolo Zaniolo'dan Galatasaray açıklaması!",
+          "summary": "Galatasaray'dan Udinese'ye transfer olan Nicolo Zaniolo, İtalyan basınına açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nicolo-zaniolodan-galatasaray-aciklamasi-43338922"
         },
         {
-          "title": "Mourinho'ya çağrı: 'Arda Güler, Real Madrid için karanlıktaki ışık olabilir!'",
-          "summary": "La Liga'nın 8. haftasında Villarreal'i 1-0'la geçen Real Madrid'de teknik direktör Jose Mourinho'nun tercihleri ve özellikle Arda Güler'e sahada biçtiği rol tartışma konusu olmaya devam ediyor. İspanyol spor yorumcusu Guille Uzquiano, Portekizli teknik adama, \"Real Madrid'in oyunu ikna edici değil. Arda Güler ikinci yarıda merkezde oynamaya başladığında takımın performansı ciddi şekilde yükseldi, bu bölgede oynamaya devam etmeli.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mourinhoya-cagri-arda-guler-real-madrid-icin-karanliktaki-isik-olabilir-43338446"
+          "title": "Zehra Güneş: 'Kupayla başlamak büyük bir motivasyon!'",
+          "summary": "VakıfBank Voleybol Takımı'nın kaptanı Zehra Güneş, sarı-siyahlı takımla 2026-2027 sezonunu kupayla açtıkları için mutlu olduğunu ve gelecek turnuvalarda da kupayı hedeflediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/zehra-gunes-kupayla-baslamak-buyuk-bir-motivasyon-43338794"
         },
         {
-          "title": "Aston Villa-Fenerbahçe maçının hakemi belli oldu",
-          "summary": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nde oynayacağı Aston Villa müsabakasının hakemi açıklandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aston-villa-fenerbahce-macinin-hakemi-belli-oldu-43338474"
+          "title": "Samsunspor'da Fink ile yollar ayrıldı",
+          "summary": "Süper Lig'de son olarak sahasında Trabzonspor'a 3-0 mağlup olan Samsunspor'da, fatura teknik direktör Fink'e çıktı. Samsunspor, ayrılığı resmen açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/samsunsporda-fink-ile-yollar-ayrildi-43338785"
         }
       ]
     },
     "teknoloji": {
-      "text": "Trump'tan yapay zeka devlerine İngiltere izni. Hubble yakaladı. Gülümseyen galaksi. Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı. “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı.",
+      "text": "Norveç'ten Microsoft'a 12 milyon euro ceza. Trump'tan yapay zeka devlerine İngiltere izni. Hubble yakaladı. Gülümseyen galaksi. Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü. İstanbul Fintech Week 2026 başladı.",
       "items": [
+        {
+          "title": "Norveç'ten Microsoft'a 12 milyon euro ceza",
+          "summary": "Norveç Veri Koruma Kurumu, kişisel verileri izinsiz paylaştığı gerekçesiyle ABD'li teknoloji devi Microsoft'un reklam platformu Xandr'e 12 milyon euro para cezası verdiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/norvecten-microsofta-12-milyon-euro-ceza-43338914"
+        },
         {
           "title": "Trump'tan yapay zeka devlerine İngiltere izni",
           "summary": "ABD yönetimi, OpenAI ve Anthropic gibi yapay zeka devlerinin yeni modellerini piyasaya sürmeden önce test edilmesi için İngiltere hükümetiyle paylaşmasına izin verme kararı aldı. ABD'li yapay zeka geliştiricileri artık yeni geliştirdikleri modelleri güvenlik testlerinden geçirilmek üzere İngiltere hükümetine erken aşamada sunabilecek.",
@@ -195,11 +200,6 @@
           "title": "İstanbul Fintech Week 2026 başladı",
           "summary": "İstanbul Fintech Week 2026’nın 6–7 Ekim ana zirve programı başladı. Açılış konuşmasını Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkan Yardımcısı Prof. Dr. Hatice Karahan yaptı. Nobel ödüllü ekonomist Prof. Dr. Daron Acemoğlu ise 6 Ekim’de (bugün) ana sahnede yer alacak. 5 Ekim’de Sürdürülebilir Finans Zirvesi ile başlayan etkinliğin programında ödemeler, yapay zekâ, otonom finans, dijital bankacılık ve tokenizasyon başlıkları ele alınacak.",
           "source": "https://www.hurriyet.com.tr/teknoloji/istanbul-fintech-week-2026-basladi-43331692"
-        },
-        {
-          "title": "“Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nın kazananlarına ödüllerini aldı",
-          "summary": "TEKNOFEST kapsamında düzenlenen “Yapay Zeka Destekli Lojistik Anahat Optimizasyonu Yarışması”nı kazanan genç öğrencilerden oluşan takımlar ödüllerine TEKNOFEST Güneydoğu’da kavuştu.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka-destekli-lojistik-anahat-optimizasyonu-yarismasinin-kazananlarina-odullerini-aldi-43331184"
         }
       ]
     },
