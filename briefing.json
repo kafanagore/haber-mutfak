@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-13T10:00:03.907Z",
+  "generatedAt": "2026-10-13T16:00:04.555Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul’da facia: Yağmurlu havada çalıştırılan 19 yaşındaki işçi akıma kapılarak can verdi. Raporlu hastaya reçetesiz ilaç. 4 hasta grubu masada. Bursa'dan yürek yakan kaza! Kanepeden düşen 2 aylık Poyraz bebeğin kafatası kırıldı. Medeniyetlerin buluşma noktası Mardin, 9 gün boyunca Türkiye Kültür Yolu Festivali’ne ev sahipliği yapacak. Milyonlarca çalışanı ilgilendiren karar. İstifa etti ama tazminat kazandı. Fon soruşturması! Bakan Göktaş'tan çarpıcı soru: Soruşturma dosyası numaralarına nasıl ulaştılar?. Edirne'de kaybolan 13 çocukla ilgili Bakanlık'tan açıklama.",
+      "text": "Mustafa Şentop: Türkiye bölgede ve dünyanın tamamında önemli bir aktördür, oyun kuran bir ülkedir. Atatürk'e ve Erdoğan'a hakaret eden bir öğretmen açığa alındı. Kurtulmuş, Avrupa Konseyi Parlamenterler Meclisi Başkanı Bayr ile görüştü. Fon Kurulu beşinci kez toplandı. 43 bin 643 yatırımcıya 6,4 milyar lira ödeme yapıldı. Hastaneden taburcu olduktan 1 gün sonra hayatını kaybetmişti… Bebeğin ailesinden ‘yanlış tedavi’ iddiası. Bakan Bolat'tan AB'ye Türkiye'yi dışlamama uyarısı. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler.",
       "items": [
         {
-          "title": "İstanbul’da facia: Yağmurlu havada çalıştırılan 19 yaşındaki işçi akıma kapılarak can verdi",
-          "summary": "Eyüpsultan’daki Kemerburgaz Mahallesi'ndeki şantiyede yağmura rağmen tabela montajına çağrılan işçiler yüksek gerilim kurbanı oldu. Metal çıtanın hatta değmesiyle ağır yaralanan çocukluk arkadaşlarından Mazlum Gürbüz bir haftalık yaşam mücadelesini kaybederken, olayla ilgili işten çıkarılma baskısı ve eldivensiz çalışma iddiaları dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-facia-yagmurlu-havada-calistirilan-19-yasindaki-isci-akima-kapilarak-can-verdi-43339865"
+          "title": "Mustafa Şentop: Türkiye bölgede ve dünyanın tamamında önemli bir aktördür, oyun kuran bir ülkedir",
+          "summary": "Türkiye Büyük Millet Meclisi eski Başkanı Mustafa Şentop, Türkiye’nin iç sorunları nedeniyle uzun yıllar kendi içine kapanık bir dönem yaşadığını ifade ederek, “Türkiye bölgede ve dünyanın tamamında önemli bir aktördür, oyun kuran bir ülkedir” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mustafa-sentop-turkiye-bolgede-ve-dunyanin-tamaminda-onemli-bir-aktordur-oyun-kuran-bir-ulkedir-43340459"
         },
         {
-          "title": "Raporlu hastaya reçetesiz ilaç. 4 hasta grubu masada",
-          "summary": "Sağlık Bakanlığı, raporlu hastaların rapor süresinde reçete yazdırmadan ilaç alabileceği düzenleme üzerinde çalışıyor. Peki uygulama hangi hastalıkları kapsamalı, eczacılar ne diyor? Raporlu hastaların ilaçlarını reçetesiz olarak eczanelerden alabileceği yeni bir dönem başlıyor. Sağlık Bakanı Kemal Memişoğlu, raporlu hastaların sadece reçete yazdırmak için tekrar tekrar hastaneye başvurmasına gerek bırakmayacak yeni bir çalışma başlattıklarını duyurdu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-raporlu-hastaya-recetesiz-ilac-4-hasta-grubu-masada-1746129"
+          "title": "Atatürk'e ve Erdoğan'a hakaret eden bir öğretmen açığa alındı",
+          "summary": "Karabük'te bir okulda görevli öğretmen, Atatürk ve Cumhurbaşkanı Erdoğan hakkında yaptığı hakaret içerikli paylaşım nedeniyle açığa alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ataturke-ve-erdogana-hakaret-eden-bir-ogretmen-aciga-alindi-43340458"
         },
         {
-          "title": "Bursa'dan yürek yakan kaza! Kanepeden düşen 2 aylık Poyraz bebeğin kafatası kırıldı",
-          "summary": "Bursa'nın İnegöl ilçesinde kanepeden düşen 2 aylık Poyraz bebeğin kafatası kırıldı ve beyin kanaması geçirdiği belirlendi. Bebeğin durumunun kritik olduğu öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursadan-yurek-yakan-kaza-kanepeden-dusen-2-aylik-poyraz-bebegin-kafatasi-kirildi-43339769"
+          "title": "Kurtulmuş, Avrupa Konseyi Parlamenterler Meclisi Başkanı Bayr ile görüştü",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, Avrupa Konseyi Parlamenter Meclisi (AKPM) Başkanı Petra Bayr ile TBMM’de bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kurtulmus-avrupa-konseyi-parlamenterler-meclisi-baskani-bayr-ile-gorustu-43340457"
         },
         {
-          "title": "Medeniyetlerin buluşma noktası Mardin, 9 gün boyunca Türkiye Kültür Yolu Festivali’ne ev sahipliği yapacak",
-          "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali kapsamında gerçekleştirilecek Mardin Kültür Yolu Festivali, 17-25 Ekim 2026 tarihleri arasında ikinci kez sanatseverlerle buluşacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/medeniyetlerin-bulusma-noktasi-mardin-9-gun-boyunca-turkiye-kultur-yolu-festivaline-ev-sahipligi-yapacak-43339828"
+          "title": "Fon Kurulu beşinci kez toplandı. 43 bin 643 yatırımcıya 6,4 milyar lira ödeme yapıldı",
+          "summary": "Fon Koordinasyon Kurulu, beşinci kez bir araya geldi. Gelinen aşamada 43 bin 643 yatırımcıya 6,4 milyar lira ödeme yapıldığı belirtildi. Fon Koordinasyon Kurulu beşinci kez bir araya geldi. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında gerçekleşen toplantıya Adalet Bakanlığı ile Hazine ve Maliye Bakanlığı ve bu bakanlıkların ilgili kurum ve kuruluşları katıldı. İletişim Başkanlığı'ndan toplantıya ilişkin yapılan açıklamada gelinen aşamada son durum paylaşıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-kurulu-besinci-kez-toplanti-43-bin-643-yatirimciya-64-milyar-lira-odeme-yapildi-1746180"
         },
         {
-          "title": "Milyonlarca çalışanı ilgilendiren karar. İstifa etti ama tazminat kazandı",
-          "summary": "Çalıştığı özel bankada görev yeri sık sık değiştirilen bankacı, ağır ve haksız işyeri şartları sebebiyle istifa etti. Bankanın kıdem tazminatı ödemeye yanaşmadığı bankacıya müjde Yargıtay’dan geldi. Yüksek Mahkeme milyonlarca çalışanı ilgilendiren bir karara daha imza attı. Özel bir banka şubesinde bireysel bankacılık yönetici yardımcılığı görevinden alınan banka çalışanı, daha düşük bir kadro olan bireysel müşteri ilişkileri yönetici yardımcılığı statüsünde çalıştırılmaya başlandı.",
-          "source": "https://www.ntv.com.tr/turkiye/milyonlarca-calisani-ilgilendiren-karar-istifa-etti-ama-tazminat-kazandi-1746124"
+          "title": "Hastaneden taburcu olduktan 1 gün sonra hayatını kaybetmişti… Bebeğin ailesinden ‘yanlış tedavi’ iddiası",
+          "summary": "ANTALYA'nın Serik ilçesinde yüksek ateş şikayetiyle götürüldüğü hastanede uygulanan tedavinin ardından evine gönderilen 13 aylık Gökçe Kaya, bir gün sonra fenalaşıp hayatını kaybetti. Ölümü şüpheli bulunan bebekleri Gökçe’yi otopsinin ardından gözyaşlarıyla toprağa veren Duygu Nur (25) ve Murat Bahtiyar Kaya (25) çifti, ihmal iddiasıyla şikayetçi oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/hastaneden-taburcu-olduktan-1-gun-sonra-hayatini-kaybetmisti-bebegin-ailesinden-yanlis-tedavi-iddiasi-43340448"
         },
         {
-          "title": "Fon soruşturması! Bakan Göktaş'tan çarpıcı soru: Soruşturma dosyası numaralarına nasıl ulaştılar?",
-          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, sosyal medya düzenlemesinde 15-18 yaş grubuna getirilecek kısıtlamaları anlattı. Kısıtlamalara göre, bu yaş grubundaki çocuklar ekran kaydı alamayacak, canlı yayın açamayacak. Bakan Göktaş, fon soruşturmasında ailesi hakkındaki iddialara da tepki göstererek, \"Ben sınırlı bilgiye erişebilirken onlar dosya numaralarına nasıl ulaştı?\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-bakan-goktastan-carpici-soru-sorusturma-dosyasi-numaralarina-nasil-ulastilar-43339797"
+          "title": "Bakan Bolat'tan AB'ye Türkiye'yi dışlamama uyarısı",
+          "summary": "Ticaret Bakanı Ömer Bolat, Avrupa Birliği'nin (AB) \"Sanayi Hızlandırma Yasası\" fikrine Türkiye'nin saygı duyduğunu, bu yaklaşımı doğal karşıladığını belirterek, \"Üçüncü ülkelerden yapılan çok büyük miktardaki ithalat konusunda biz de aynı ciddi kaygıları taşıyoruz. Bütün bu konularda Avrupa Birliği'ndeki dostlarımızla yakın işbirliği içindeyiz. Ancak çözüm, güvenilir ortakları veya Gümrük Birliği'ni dışlamak olmamalı.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolattan-abye-turkiyeyi-dislamama-uyarisi-43340443"
         },
         {
-          "title": "Edirne'de kaybolan 13 çocukla ilgili Bakanlık'tan açıklama",
-          "summary": "Aile ve Sosyal Hizmetler Bakanlığı, Edirne'de 13 çocuğun kaybolmasına ilişkin açıklama yaptı. Bakanlık, çocukların devlet korumasında olduğu iddiasını yalanladı. Aile ve Sosyal Hizmetler Bakanlığı, Edirne'de kaybolduğu belirtilen çocuklara ilişkin yazılı açıklama yaptı. Bakanlık, düzensiz göç kapsamında tespit edilen 14 refakatsiz yabancı uyruklu çocuğun market izninin ardından kaldıkları kuruluşa dönmediğini, çocuklardan birinin geri geldiğini, diğer 13 çocuğun ise arandığını bildirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/edirnede-kaybolan-13-cocukla-ilgili-bakanliktan-aciklama-1746119"
+          "title": "Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 12.250,68 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsada-yukselis-iste-en-cok-kazandiran-ve-kaybettiren-sektorler-43340437"
         }
       ]
     },
     "dunya": {
-      "text": "Almanya'da bir apartman alevler içinde kaldı: 3 kişi yaşamını yitirdi. Neredeyse hiç kullanılmıyor. Boş ofise servet akıttılar. Yaşam izi o tüpün içinde saklı. Mars'taki gizemli numune Dünya'ya getirilebilecek mi?. Fransa'da siber kabus: Buzdolaplarını fırına çevirdiler... Zarar milyonlarca euro. NATO en kötü senaryoyu açıkladı. \"Ahmakça bir adım olursa savaşırız\". KKTC Cumhurbaşkanı Erhürman, Rum lider Hristodulidis ile görüşecek. Nidal Malik canlı yayında kurşuna dizilecek. Tartışma büyüdü, Trump da endişeli.",
+      "text": "ABD Başkanı Trump: İran konusunda kararımı vereceğim. Yemen'de savaş şiddetlendi. Husilerden Suudi Arabistan'a Aramco tehdidi. İran’dan Hürmüz Boğazı açıklaması: Mutabakata vardık. Dışişleri Bakanı Hakan Fidan, İranlı mevkidaşı Arakçi ile görüştü. Çevreyi \"koklayıp\" dünyaya anlatacak eleman arıyorlar. Maaş 110 bin TL. Şirkete haber vermeden yurt dışından çalışınca kovulmuştu. Davayı kazandı ama tazminat alamadı. Bulgaristan'ın Karadeniz açıklarında İHA saldırısı. İki gemiden biri battı.",
       "items": [
         {
-          "title": "Almanya'da bir apartman alevler içinde kaldı: 3 kişi yaşamını yitirdi",
-          "summary": "Almanya'nın Bochum kentinde bir apartmanda yangın çıktığı bildirildi. Dumanların kapladığı apartmanda 3 kişinin yaşamını yitirdiği, 5 kişinin yaralandığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-bir-apartman-alevler-icinde-kaldi-3-kisi-yasamini-yitirdi-43339866"
+          "title": "ABD Başkanı Trump: İran konusunda kararımı vereceğim",
+          "summary": "ABD Başkanı Trump, İran konusunda kısa süre içerisinde karar vereceğim",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iran-konusunda-kararimi-verecegim-43340454"
         },
         {
-          "title": "Neredeyse hiç kullanılmıyor. Boş ofise servet akıttılar",
-          "summary": "Dünya futbolunu yöneten FIFA'nın, Donald Trump'a ait lüks gökdelende neredeyse hiç kullanılmayan bir daire için 4 milyon dolarlık kiralama sözleşmesi yaptığı ortaya çıktı. Uluslararası Futbol Federasyonları Birliği (FIFA), 2026 Dünya Kupası öncesinde New York'taki Trump Tower gökdeleninde yaklaşık 4 milyon dolar bedelle 7 yılı aşkın süreli bir ofis kiraladı. New York Times (NYT) gazetesinin anlaşmaya doğrudan dahil olan iki yetkiliye ve incelenen belgelere dayandırdığı habere göre, 17.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-neredeyse-hic-kullanilmiyor-bos-ofise-servet-akittilar-1746125"
+          "title": "Yemen'de savaş şiddetlendi. Husilerden Suudi Arabistan'a Aramco tehdidi",
+          "summary": "Yemen'de Suudi Arabistan öncülüğündeki koalisyon güçlerinin saldırıları yoğunlaştı. Husiler, Suudi Arabistan'ın başkenti Riyad'a misilleme tehdidinde bulundu. Yemen'de Suudi Arabistan öncülüğündeki koalisyon güçleri ile İran destekli Husiler arasındaki çatışmalar şiddetleniyor. Başkent Sana başta olmak üzere ülkenin farklı bölgelerinde hava saldırıları düzenlenirken Husiler, Suudi Arabistan'ın petrol tesislerini vurma tehdidinde bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/yemende-savas-siddetlendi-husilerden-suudi-arabistana-aramco-tehdidi-1746179"
         },
         {
-          "title": "Yaşam izi o tüpün içinde saklı. Mars'taki gizemli numune Dünya'ya getirilebilecek mi?",
-          "summary": "NASA'nın Mars'ta araştırmalar yürüten Perseverance keşif aracı tarafından leopar desenli bir kayadan alınan numune, yaşam izi taşıyor olabilir ama asıl soru şu: Dünya'ya getirilebilecek mi? Amerikan Ulusal Havacılık ve Uzay Dairesi'nin (NASA) Mars'taki keşif aracı Perseverance, Dünya dışında yaşam olup olmadığını kanıtlayabilecek leopar benekli bir kayadan aldığı numuneyle büyük bir sırrı hâlâ elinde tutuyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-yasam-izi-o-tupun-icinde-sakli-marstaki-gizemli-numune-dunyaya-getirilebilecek-mi-1746113"
+          "title": "İran’dan Hürmüz Boğazı açıklaması: Mutabakata vardık",
+          "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi Hürmüz Boğazı’ndaki geçiş düzenlemelerine ilişkin, “Umman ile Hürmüz Boğazı için gerekli mutabakata vardıklarını” belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-hurmuz-bogazi-aciklamasi-anlasmaya-vardik-43340422"
         },
         {
-          "title": "Fransa'da siber kabus: Buzdolaplarını fırına çevirdiler... Zarar milyonlarca euro",
-          "summary": "Fransa'da yüzlerce süpermarketin soğutma sistemlerini hedef alan siber saldırıda buzdolaplarının sıcaklığı 50 dereceye kadar yükseltildi. Tonlarca gıdanın çöpe atılmasına yol açan saldırının ülke genelinde milyonlarca euro zarara neden olabileceği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransada-siber-kabus-buzdolaplarini-firina-cevirdiler-zarar-milyonlarca-euro-43339542"
+          "title": "Dışişleri Bakanı Hakan Fidan, İranlı mevkidaşı Arakçi ile görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan'ın İranlı mevkidaşı Abbas Arakçi ile görüştüğü bildirildi. Bakan Fidan ve Arakçi'nin görüşmede bölgedeki son gelişmeleri ele aldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-iranli-mevkidasi-arakci-ile-gorustu-43340359"
         },
         {
-          "title": "NATO en kötü senaryoyu açıkladı. \"Ahmakça bir adım olursa savaşırız\"",
-          "summary": "Varşova Güvenlik Forumu'nda NATO'nun Zafer Teorisi stratejisini açıklayan General Grynkewich, ittifak topraklarına yapılacak her saldırıyı cephe gerisini de kapsayan harekatla kıracaklarını duyurdu. Polonya'nın başkenti Varşova'da düzenlenen bu yılki Varşova Güvenlik Forumu, Rusya ile artan gerilim, hibrit tehditler, nükleer caydırıcılık ve Avrupa'nın savunma tedariki ekseninde değerlendirmelere sahne oldu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-nato-en-kotu-senaryoyu-acikladi-ahmakca-bir-adim-olursa-savasiriz-1746102"
+          "title": "Çevreyi \"koklayıp\" dünyaya anlatacak eleman arıyorlar. Maaş 110 bin TL",
+          "summary": "Finlandiya'nın Turku Takımadaları, sadece bölgeyi koklayıp bunu videolu bir şekilde sosyal medya üzerinden dünyaya anlatacak eleman bulmak için iş ilanı açtı. Turizm tanıtım filmlerinde her destinasyonun gösterilebileceği ancak kokusunun asla aktarılamayacağını fark eden Finlandiya'nın Turku Takımadaları, sadece bölgeyi koklayıp bunu dünyaya tanıtacak adaylar için iş ilanı açtı.",
+          "source": "https://www.ntv.com.tr/dunya/cevreyi-koklayip-dunyaya-anlatacak-eleman-ariyorlar-maas-110-bin-tl-1746174"
         },
         {
-          "title": "KKTC Cumhurbaşkanı Erhürman, Rum lider Hristodulidis ile görüşecek",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman'ın Güney Kıbrıs Rum Yönetimi (GKRY) Lideri Nikos Hristodulidis ile bugün bir araya geleceği bildirildi. İki ismin görüşmede Birleşmiş Milletler'in (BM) ortaya koyduğu güven artırıcı önlemleri ele alacağı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kktc-cumhurbaskani-erhurman-rum-lider-hristodulidis-ile-gorusecek-43339608"
+          "title": "Şirkete haber vermeden yurt dışından çalışınca kovulmuştu. Davayı kazandı ama tazminat alamadı",
+          "summary": "Avustralya'da şirketine haber vermeden Singapur'dan, hatta Bali'den çalıştığı ortaya çıkınca kovulan adam \"haksız işten çıkarma\" davasını kazandı ama tazminat alamadı. Avustralya'nın Sidney kentindeki bir döviz ticareti şirketi, yöneticilerinden izin almadan ve çeşitli mazeretler öne sürerek Singapur'dan çalışan, hatta bir ara Bali'ye gidip oradan da uzaktan bağlanıp çalışmaya devam eden personelini geçen yıl aralık ayında işten çıkarmıştı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-sirkete-haber-vermeden-ulke-disindan-calisinca-kovulmustu-davayi-kazandi-ama-tazminat-alamadi-1746167"
         },
         {
-          "title": "Nidal Malik canlı yayında kurşuna dizilecek. Tartışma büyüdü, Trump da endişeli",
-          "summary": "ABD’de 17 yıl önce askeri üste 13 kişiyi öldüren eski ABD askeri Nidal Malik Hasan’ın kurşuna dizilerek infazının canlı yayınlanma ihtimali ABD'de de, dışarıda da büyük tartışmalara neden oluyor. 2009 yılında Teksas'taki Fort Hood askeri üssüne düzenlediği saldırıda saldırıda 13 kişiyi öldüren, 32 kişiyi de yaralayan Filistin asıllı eski ABD askeri Nidal Malik Hasan'ın kurşuna dizilerek infazına karar verilmişti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-nidal-malik-canli-yayinda-kursuna-dizilecek-tartisma-buyudu-trump-da-endiseli-1746094"
+          "title": "Bulgaristan'ın Karadeniz açıklarında İHA saldırısı. İki gemiden biri battı",
+          "summary": "Bulgaristan'ın Karadeniz kıyıları açıklarında iki gemiye insansız hava araçlarıyla (İHA) saldırı düzenlendi, gemilerden biri battı. NATO ve AB'den tepki gecikmedi. Bulgaristan Başbakanı Rumen Radev, ülkenin Karadeniz kıyıları açıklarında iki gemiye insansız hava araçlarıyla (İHA) saldırı düzenlendiğini, gemilerden birinin battığını bildirdi. Radev, Bakanlar Kuruluna bağlı Güvenlik Konseyinin olağanüstü toplantısında konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/bulgaristanin-karadeniz-aciklarinda-iha-saldirisi-iki-gemiden-biri-batti-1746130"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Zeynep Sönmez, Wuhan Açık'a ilk turda veda etti. NBA yıldızından Galatasaray sürprizi! Geceye damga vurdu. Fenerbahçe EuroLeague'de Zalgiris'i konuk ediyor! Maçın heyecanı canlı yayın ile Misli'de. Galatasaray, Şampiyonlar Ligi'nde Barcelona'yı konuk edecek! Maçın heyecanı canlı sohbet ile Misli'de. Misli yazarları kazandırmaya devam ediyor! İşte Misli’de günün kazanan altılısı…. Galatasaray evinde galibiyet peşinde! Şampiyonlar Ligi’nde taraf bahisleri ön planda! işte Misli’de günün en çok oynanan maçları. Bayern maçlarında gol sağanağı sürüyor! Atletico Madrid gol serisine devam ediyor… İşte Misli’den günün tüyoları.",
+      "text": "Matty Cash'ten Fenerbahçe ve Greenwood açıklaması: 'Kendini kanıtlamak isteyecektir!'. Arda Turan'dan A Milli Takım açıklaması!. Unai Emery'den Fenerbahçe açıklaması: 'Kalite olarak oyuncuları çok yüksek seviyede!'. Anthony Taylor tartışmalı pozisyonları tek tek değerlendirdi!. Fenerbahçe'nin Aston Villa maçı kamp kadrosu belli oldu! İsmail Kartal'dan Lukaku kararı. Barcelona maçı öncesi İspanya'da gündem Galatasaray! 'Cehenneme hazır mısınız? Barça'nın ilk büyük Avrupa mücadelesi'. Dört büyüklerin toplam borcu 108 milyar lirayı aştı!.",
       "items": [
         {
-          "title": "Zeynep Sönmez, Wuhan Açık'a ilk turda veda etti",
-          "summary": "Milli tenisçi Zeynep Sönmez, Çin'de düzenlenen Wuhan Açık'ta Kazak sporcu Yulia Putintseva'ya 2-1 yenilerek ilk turda elendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/zeynep-sonmez-wuhan-acika-ilk-turda-veda-etti-43339849"
+          "title": "Matty Cash'ten Fenerbahçe ve Greenwood açıklaması: 'Kendini kanıtlamak isteyecektir!'",
+          "summary": "Aston Villalı futbolcu Matty Cash, UEFA Şampiyonlar Ligi 2. haftasında yarın Fenerbahçe'yi konuk edecekleri maçın kendileri için önemli olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/matty-cashten-fenerbahce-ve-greenwood-aciklamasi-kendini-kanitlamak-isteyecektir-43340438"
         },
         {
-          "title": "NBA yıldızından Galatasaray sürprizi! Geceye damga vurdu",
-          "summary": "NBA'de 2025 yılında Oklahoma City Thunder ile şampiyonluk yaşayan Atlanta Hawks'ın yeni transferi Luguentz Dort'un Galatasaray hamlesi sosyal medyaya damgasını vurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nba-yildizindan-galatasaray-surprizi-geceye-damga-vurdu-43339735"
+          "title": "Arda Turan'dan A Milli Takım açıklaması!",
+          "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, A Milli Takım iddialarıyla ilgili önemli açıklamalar yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-turandan-a-milli-takim-aciklamasi-43340405"
         },
         {
-          "title": "Fenerbahçe EuroLeague'de Zalgiris'i konuk ediyor! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "Fenerbahçe, EuroLeague'in 5. haftasında bu akşam sahasında Litvanya ekibi Zalgiris ile karşı karşıya gelecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-euroleaguede-zalgirisi-konuk-ediyor-macin-heyecani-canli-yayin-ile-mislide-43339768"
+          "title": "Unai Emery'den Fenerbahçe açıklaması: 'Kalite olarak oyuncuları çok yüksek seviyede!'",
+          "summary": "Aston Villa Teknik Direktör Unai Emery, UEFA Şampiyonlar Ligi 2. haftasında yarın Fenerbahçe ile yapacakları maçın zor geçeceğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/unai-emeryden-fenerbahce-aciklamasi-kalite-olarak-oyunculari-cok-yuksek-seviyede-43340346"
         },
         {
-          "title": "Galatasaray, Şampiyonlar Ligi'nde Barcelona'yı konuk edecek! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında bu akşam sahasında İspanya temsilcisi Barcelona ile karşılaşacak. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-barcelonayi-konuk-edecek-macin-heyecani-canli-sohbet-ile-mislide-43339756"
+          "title": "Anthony Taylor tartışmalı pozisyonları tek tek değerlendirdi!",
+          "summary": "MHK Elit Hakem Direktörü Anthony Taylor, Süper Lig ve 1. Lig'deki tartışmalı pozisyonları yorumladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anthony-taylor-tartismali-pozisyonlari-tek-tek-degerlendirdi-43340144"
         },
         {
-          "title": "Misli yazarları kazandırmaya devam ediyor! İşte Misli’de günün kazanan altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Pazartesi günü koşulan Bursa birinci ve ikinci 6’lı Ganyan koşularında Misli Yazarı Bora Ünal, hazırladığı kuponlarla toplamda 36.103 TL kazandırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/misli-yazarlari-kazandirmaya-devam-ediyor-iste-mislide-gunun-kazanan-altilisi-43339730"
+          "title": "Fenerbahçe'nin Aston Villa maçı kamp kadrosu belli oldu! İsmail Kartal'dan Lukaku kararı",
+          "summary": "UEFA Şampiyonlar Ligi'nin ikinci haftasında yarın akşam İngiltere ekibi Aston Villa ile karşılaşacak olan Fenerbahçe'nin kamp kadrosu belli oldu. Teknik direktör İsmail Kartal, son antrenmanda salonda çalışan Lukaku'yu da listeye dahil etti. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-aston-villa-maci-kamp-kadrosu-belli-oldu-ismail-kartaldan-lukaku-karari-43340036"
         },
         {
-          "title": "Galatasaray evinde galibiyet peşinde! Şampiyonlar Ligi’nde taraf bahisleri ön planda! işte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-evinde-galibiyet-pesinde-sampiyonlar-liginde-taraf-bahisleri-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43339728"
+          "title": "Barcelona maçı öncesi İspanya'da gündem Galatasaray! 'Cehenneme hazır mısınız? Barça'nın ilk büyük Avrupa mücadelesi'",
+          "summary": "Galatasaray Şampiyonlar Ligi’nde bu akşam İspanyol devi Barcelona’yı ağırlayacak. Dev maç öncesi İspanyol medyasında manşetler Galatasaray maçına ayrıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/barcelona-maci-oncesi-ispanyada-gundem-galatasaray-cehenneme-hazir-misiniz-barcanin-ilk-buyuk-avrupa-mucadelesi-43340014"
         },
         {
-          "title": "Bayern maçlarında gol sağanağı sürüyor! Atletico Madrid gol serisine devam ediyor… İşte Misli’den günün tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bayern-maclarinda-gol-saganagi-suruyor-atletico-madrid-gol-serisine-devam-ediyor-iste-misliden-gunun-tuyolari-43339712"
+          "title": "Dört büyüklerin toplam borcu 108 milyar lirayı aştı!",
+          "summary": "Türk futbolunun dört büyük kulübü Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor'un halka açık şirketlerinin toplam borcu, 108 milyar liranın üzerine çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dort-buyuklerin-toplam-borcu-108-milyar-lirayi-asti-43339960"
         }
       ]
     },
     "teknoloji": {
-      "text": "Veri merkezine gerek yok. Ev aletleri yapay zekanın yuvası olabilir. Norveç'ten Microsoft'a 12 milyon euro ceza. Trump'tan yapay zeka devlerine İngiltere izni. Hubble yakaladı. Gülümseyen galaksi. Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu. TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü.",
+      "text": "Yerli ve milli 6G şebeke çözümleri ilk kez sahada denendi. Veri merkezine gerek yok. Ev aletleri yapay zekanın yuvası olabilir. Norveç'ten Microsoft'a 12 milyon euro ceza. Trump'tan yapay zeka devlerine İngiltere izni. Hubble yakaladı. Gülümseyen galaksi. Yapay zeka, polise sahte cinayet ihbarı gönderdi. OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu.",
       "items": [
+        {
+          "title": "Yerli ve milli 6G şebeke çözümleri ilk kez sahada denendi",
+          "summary": "TÜBİTAK ile Turkcell, 6G’ye hazırlık kapsamında stratejik bir iş birliğine imza attı. Her iki kurum, yerli ve milli imkânlarla 6G'nin temel yapı taşlarından olan yeni nesil şebeke çözümlerinin ilk prototiplerini geliştirdi. Söz konusu çözümler, ilk kez ticari nitelikli test altyapısında sahada denendi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yerli-ve-milli-6g-sebeke-cozumleri-ilk-kez-sahada-denendi-43340200"
+        },
         {
           "title": "Veri merkezine gerek yok. Ev aletleri yapay zekanın yuvası olabilir",
           "summary": "Yapay zeka devi Anthropic, küçük yapay zeka modellerinin merkezi veri merkezlerine ihtiyaç duymadan akıllı ev aletleri ve televizyon kutuları üzerinden kendi kendini kopyalayabileceğini duyurdu. Yapay zeka araştırma şirketi Anthropic, görece küçük yapay zeka modellerinin veri merkezlerine ihtiyaç duymadan, internete bağlı ev aletleri ve televizyon kutuları üzerinden kendi kendilerini kopyalayarak yayılma eşiğine yaklaştığını duyurdu.",
@@ -195,11 +200,6 @@
           "title": "OpenAI'da kriz. Üç yapay zeka araştırmacısı kovuldu",
           "summary": "Yapay zeka şirketi OpenAI, gizli şirket bilgilerini sızdırdıkları gerekçesiyle üç güvenlik araştırmacısının işine son verdi. ChatGPT sohbet botunun geliştiricisi olan ABD merkezli teknoloji devi OpenAI, hassas şirket bilgilerinin kullanımıyla ilgili şirket içi kuralları ihlal ettikleri gerekçesiyle üç güvenlik araştırmacısının işine son verdi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-openaida-kriz-uc-yapay-zeka-arastirmacisi-kovuldu-1745509"
-        },
-        {
-          "title": "TEKNOFEST Güneydoğu, 1,5 milyon ziyaretçiyle teknoloji şölenine dönüştü",
-          "summary": "Türkiye’nin milli teknoloji hamlesinde tarihi bir milat daha geride kaldı. Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ile T.C. Sanayi ve Teknoloji Bakanlığı yürütücülüğünde, 157 paydaş kurumun güçlü desteğiyle 30 Eylül - 4 Ekim tarihleri arasında Şanlıurfa GAP Havalimanında düzenlenen TEKNOFEST Güneydoğu, dev bir coşku ve rekor katılımla tamamlandı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/teknofest-guneydogu-1-5-milyon-ziyaretciyle-teknoloji-solenine-donustu-43332659"
         }
       ]
     },
