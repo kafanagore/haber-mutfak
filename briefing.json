@@ -1,70 +1,75 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-14T10:00:04.181Z",
+  "generatedAt": "2026-10-14T16:00:04.459Z",
   "categories": {
     "gundem": {
-      "text": "Bayrampaşa'da sanayi sitesinde korkutan yangın. \"Mutlak kulak\" yeteneğiyle hayran bırakan Duygu'nun hedefi konservatuvar. Aynı gün akrabasına 45 mesaj gönderdi! ‘Kişilerin huzur ve sükununu bozma’ suçundan hapis cezası verildi. Kahramanmaraş’ta bir okulda koku paniği: 20 öğrenci hastaneye kaldırıldı. İstanbul'da iş çıkış saatine dikkat. Fırtına geliyor, Anadolu yakasında hava patlayacak. İstanbul'u sağanak ve fırtına vurdu. Yollar göle döndü, bir kadın suya kapıldı. Silivri'de 98'inci duruşma! Ekrem İmamoğlu sanık kürsüsünde.",
+      "text": "İstanbul'da yarın okullar tatil edildi. Motosikletlerin trafiğe çıkması yasaklandı. Dışişleri Bakanı Hakan Fidan, Azerbaycan’da. Aydın’da DEAŞ operasyonu: 2 tutuklama. Türkiye ve Birleşik Krallık'tan ortak \"düzensiz göç\" açıklaması. Yalova merkezli 6 ilde tefecilik operasyonu; 21 gözaltı. İstanbul'da sağanak yağış ne kadar sürecek?. İBB'ye yönelik 'Yolsuzluk' davasında İmamoğlu savunma yaptı.",
       "items": [
         {
-          "title": "Bayrampaşa'da sanayi sitesinde korkutan yangın",
-          "summary": "İstanbul Bayrampaşa'da bir sanayi sitesindeki iş yerinde çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü. İstanbul'un Bayrampaşa ilçesi Muratpaşa Mahallesi'ndeki 5 katlı Baltaş Kilimci Sanayi Sitesi'nin çatısında henüz belirlenemeyen nedenle yangın çıktı. Alevler kısa sürede büyürken, bölgede yoğun duman oluştu. İhbar üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi. Yangın itfaiyenin müdahalesiyle kontrol altına alınarak söndürüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/bayrampasada-sanayi-sitesinde-korkutan-yangin-1746265"
+          "title": "İstanbul'da yarın okullar tatil edildi. Motosikletlerin trafiğe çıkması yasaklandı",
+          "summary": "İstanbul'da olumsuz hava koşulları nedeniyle okullar yarın tatil edildi. Bugün saat 21.00'dan itibaren motosikletlerin trafiğe çıkmaları da yasaklandı. İstanbul Valiliği, olumsuz hava koşulları nedeniyle alınan tedbirleri paylaştı. Yarın (15 Ekim Perşembe) il genelinde resmi-özel tüm eğitim kurumlarında “yüz yüze eğitim” faaliyetlerine bir gün süreyle ara verildiği açıklandı.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-yarin-okullar-tatil-edildi-1746328"
         },
         {
-          "title": "\"Mutlak kulak\" yeteneğiyle hayran bırakan Duygu'nun hedefi konservatuvar",
-          "summary": "Ankara'da yaşayan 17 yaşındaki mutlak kulak sahibi Duygu Murcak, dinlediği melodileri kısa sürede öğrenebilme yeteneğiyle öne çıkıyor. Liseler arası ses yarışmasında dereceye giren genç yetenek, Türk halk müziği üzerine konservatuvar okuyup büyük sahnelerde yer almayı hayal ediyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/mutlak-kulak-yetenegiyle-hayran-birakan-duygunun-hedefi-konservatuvar-43341160"
+          "title": "Dışişleri Bakanı Hakan Fidan, Azerbaycan’da",
+          "summary": "Dışişleri Bakanı Hakan Fidan, CICA Yedinci Zirvesi için Azerbaycan'a gitti.",
+          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-azerbaycanda-43341729"
         },
         {
-          "title": "Aynı gün akrabasına 45 mesaj gönderdi! ‘Kişilerin huzur ve sükununu bozma’ suçundan hapis cezası verildi",
-          "summary": "Yargıtay 12'nci Ceza Dairesi, akrabasına aynı gün içerisinde 45 mesaj gönderen sanığa, ‘Kişilerin huzur ve sükununu bozma’ suçundan verilen 2 ay 15 gün hapis cezasının oy birliğiyle onanmasına karar verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ayni-gun-akrabasina-45-mesaj-gonderdi-kisilerin-huzur-ve-sukununu-bozma-sucundan-hapis-cezasi-verildi-43341154"
+          "title": "Aydın’da DEAŞ operasyonu: 2 tutuklama",
+          "summary": "Aydın’da polisin terör örgütü DEAŞ’a yönelik düzenlediği operasyonda 1'i Suriye uyruklu 2 şüpheli gözaltına alındı. İşlemlerinin ardından adliyeye sevk edilen şüpheliler tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/aydinda-deas-operasyonu-2-tutuklama-43341727"
         },
         {
-          "title": "Kahramanmaraş’ta bir okulda koku paniği: 20 öğrenci hastaneye kaldırıldı",
-          "summary": "Kahramanmaraş’ta, Zekeriya Tanrıverdi İmam Hatip Ortaokulu’ndan 20 öğrenci, kimyasal bir maddeden etkilendikleri gerekçesiyle hastaneye kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kahramanmarasta-bir-okulda-koku-panigi-20-ogrenci-hastaneye-kaldirildi-43341135"
+          "title": "Türkiye ve Birleşik Krallık'tan ortak \"düzensiz göç\" açıklaması",
+          "summary": "Türkiye Cumhuriyeti ve Birleşik Krallık İçişleri Bakanlığı tarafından yayımlanan ortak açıklamada, düzensiz göçün etkili ve sürdürülebilir bir şekilde yönetilmesi konusunda ortak sorumluluk vurgulandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ve-birlesik-kralliktan-ortak-duzensiz-goc-aciklamasi-43341723"
         },
         {
-          "title": "İstanbul'da iş çıkış saatine dikkat. Fırtına geliyor, Anadolu yakasında hava patlayacak",
-          "summary": "İstanbul'da etkili olan kuvvetli sağanak ve fırtına için yeni uyarı yapıldı. Akşam saatlerine kadar Avrupa yakasında etkili olacak fırtına, 17.00'den sonra Anadolu yakasını etkisi altına alacak. İstanbul'da dün akşam başlayan ve aralıklarla süren sağanak, kent genelinde hayatı olumsuz etkiledi. Meteoroloji Genel Müdürlüğü'nün (MGM) uyarılarının ardından kentteki bazı bölgelerde dün akşam saatlerinden itibaren etkili olan kuvvetli yağış sabah saatlerinde etkini artırdı.",
+          "title": "Yalova merkezli 6 ilde tefecilik operasyonu; 21 gözaltı",
+          "summary": "Yalova merkezli 6 ilde düzenlenen tefecilik operasyonunda 21 şüpheli yakalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yalova-merkezli-6-ilde-tefecilik-operasyonu-21-gozalti-43341715"
+        },
+        {
+          "title": "İstanbul'da sağanak yağış ne kadar sürecek?",
+          "summary": "İstanbul'da yapılan uyarıların ardından kuvvetli sağanak etkili oluyor. Gün içinde Avrupa Yakası'nda etkili olan yağış, akşam ve gece saatlerinde Anadolu Yakası'nda devam edecek. İstanbul'da dün akşam başlayan ve aralıklarla süren sağanak, kent genelinde hayatı olumsuz etkilemeye devam ediyor. Meteoroloji Genel Müdürlüğü'nün (MGM) uyarılarının ardından kentteki bazı bölgelerde dün akşam saatlerinden itibaren etkili olan kuvvetli yağış sabah saatlerinde şiddetini artırdı.",
           "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-hava-patlayacak-1746280"
         },
         {
-          "title": "İstanbul'u sağanak ve fırtına vurdu. Yollar göle döndü, bir kadın suya kapıldı",
-          "summary": "Peş peşe yapılan uyarıların ardından sağanak yağışın şiddetlendiği İstanbul'da yollar göle döndü. Esenyurt'ta suya kapılan kadın, vatandaşların yardımıyla kurtarıldı. Balkanlar üzerinden gelen soğuk havayla birlikte sıcaklık yurt genelinde mevsim normallerinin altına düşüyor, yağış günlük hayatı olumsuz etkiliyor. Sağanak ve fırtınanın gece saatlerinden itibaren etkili olmaya başladığı İstanbul'dan ise dikkati çeken görüntüler gelmeye devam ediyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-saganak-ve-firtina-vurdu-yollar-gole-dondu-bir-kadin-suya-kapildi-1746241"
-        },
-        {
-          "title": "Silivri'de 98'inci duruşma! Ekrem İmamoğlu sanık kürsüsünde",
-          "summary": "İstanbul Büyükşehir Belediyesine yönelik “yolsuzluk” iddiasıyla görülen davanın 2’nci celsesinin 34’üncü gününde Ekrem İmamoğlu savunmasını yapmak için sanık kürsüsüne çıktı. İmamoğlu kimlik tespitinde, yüksek lisans mezunu olduğunu, İstanbul Büyükşehir Belediye Başkanı olduğunu ve aylık gelirinin 250-300 bin olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/silivride-98inci-durusma-ekrem-imamoglu-savunma-yapiyor-43341111"
+          "title": "İBB'ye yönelik 'Yolsuzluk' davasında İmamoğlu savunma yaptı",
+          "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 53’ü tutuklu 436 sanık, 98’inci duruşmada hakim karşısına çıktı. İmamoğlu savunmasında, \"İktidar kendi rakibini seçemez, rakibi millet üretir. Bu kuralın bu ülkedeki ilk büyük kırılması 2019'da İstanbul'da yaşandı ve nasıl bir millet tepkisi yaşandığını da ifade ettim\" dedi. Duruşma yarına ertelendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-imamoglu-savunma-yapti-43341708"
         }
       ]
     },
     "dunya": {
-      "text": "ABD'yi karıştıran büyükelçi krizi. Trump istifasını istedi. Trump'ın yeni sözcüsü Zacharia kimdir, ilk brifingde neden bocaladı?. Hindistan uçağı kaçırılma kodu gönderdi. Brüksel'de bir okulda 18 kişi zehirlendi. Ukrayna: Starlink ordumuzun kullandığı interneti kısıtladı. Rusya'nın en büyük veri merkezine İHA saldırısı. BM'den İnsan Hakları Konseyi'ne 15 yeni üye ülke.",
+      "text": "Türkiye, NATO'nun Kosova'daki Barış Gücü KFOR'un komutasını İtalya'ya devretti. \"Karanlık enerji\" için yeni umut, evrenin uzak geçmişinden gelen bu zayıf parıltı mı?. İsrail ordusu kara harekatına hazır: Katz'dan Lübnan'a saldırı tehdidi. Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu. Macron, protestocu öğrencileri hedef aldı. \"Siyasetçilerin oyuncağı oluyorlar\". Ukrayna: Starlink ordumuzun kullandığı interneti kısıtladı. Trump: Grönland'da petrol, doğal gaz ve maden arama faaliyetleri başlamak üzere.",
       "items": [
         {
-          "title": "ABD'yi karıştıran büyükelçi krizi. Trump istifasını istedi",
-          "summary": "ABD yönetimi, Trump'ın büyük oğlunun eski nişanlısı olan Atina Büyükelçisi Kimberly Guilfoyle'un zengin iş insanlarından maddi menfaat sağladığı iddiaları üzerine istifasını istedi. Beyaz Saray, ABD Başkanı Donald Trump yönetimindeki yetkililere para, hediye ve çeşitli ayrıcalıklar karşılığında erişim sağladığı iddialarıyla gündeme gelen ABD'nin Atina Büyükelçisi Kimberly Guilfoyle'un istifasını istedi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdyi-karistiran-buyukelci-krizi-trump-istifasini-istedi-1746247"
+          "title": "Türkiye, NATO'nun Kosova'daki Barış Gücü KFOR'un komutasını İtalya'ya devretti",
+          "summary": "Türkiye, Ekim 2025'te ikinci defa üstlendiği NATO'nun Kosova'daki Barış Gücünün (KFOR) komutasını İtalya'ya devretti. NATO'nun Kosova'daki Barış Gücünün (KFOR), başkent Priştine'deki ana karargahında düzenlenen devir teslim törenine, Kosova Cumhurbaşkanı Justina Shiroka Pula, Kosova Başbakanı Albin Kurti, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, İtalya Savunma Bakanı Guido Crosetto, NATO Napoli Müşterek Kuvvet Komutanı Oramiral George M. Wikoff ve çok sayıda davetli katıldı.",
+          "source": "https://www.ntv.com.tr/dunya/turkiye-natonun-kosovadaki-baris-gucu-kforun-komutasini-italyaya-devretti-1746322"
         },
         {
-          "title": "Trump'ın yeni sözcüsü Zacharia kimdir, ilk brifingde neden bocaladı?",
-          "summary": "ABD Başkanı Donald Trump, ağustos ayında görevden ayrılan Karoline Leavitt'in yerine Truth Social iletişim danışmanı Katie Zacharia'yı Beyaz Saray Sözcüsü olarak atadı. ABD Başkanı Donald Trump, ağustosta görevinden ayrılan Karoline Leavitt'in yerine Beyaz Saray Sözcülüğüne, Truth Social platformunun iletişim danışmanı Katie Zacharia'yı atadı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trumpin-yeni-sozcusu-zacharia-kimdir-ilk-brifingde-neden-bocaladi-1746279"
+          "title": "\"Karanlık enerji\" için yeni umut, evrenin uzak geçmişinden gelen bu zayıf parıltı mı?",
+          "summary": "Evrenin ivmelenerek genişlemesinin arkasındaki itici güç olan gizemli \"karanlık enerji\"nin doğasını çözümlemek için, kainatın uzak geçmişindeki hidrojenin sönük radyo parıltısı umut ışığı oldu. Hidrojen, kozmostaki çok bulunan element olabilir ancak bilim insanları bunu şimdi eşi benzeri olmayan bir amaç için kullanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-karanlik-enerji-icin-yeni-umut-evrenin-uzak-gecmisinden-gelen-bu-zayif-parilti-mi-1746319"
         },
         {
-          "title": "Hindistan uçağı kaçırılma kodu gönderdi",
-          "summary": "Almanya'nın Frankfurt kentinden Hindistan'ın başkenti New Delhi'ye giden Air India uçağının, şüpheli kaçırılma alarmı gönderdiği belirtildi. Hindistan'ın kuzeybatısındaki Jaipur kentine yönlendirilen uçağa yönelik bomba tehdidi yapıldığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/hindistan-ucagi-kacirilma-kodu-gonderdi-43341110"
+          "title": "İsrail ordusu kara harekatına hazır: Katz'dan Lübnan'a saldırı tehdidi",
+          "summary": "Lübnan'daki işgali genişletme tehdidinde bulunan İsrail Savunma Bakanı Yisrael Katz, Hizbullah'ın İran ile birlikte İsrail'e saldırması halinde ağır bir darbe alacağını belirtti. Katz, İsrail güçlerinin bir kara harekatı gerçekleştirmeye hazır olduğunu ifade ederek, Hizbullah Genel Sekreteri Naim Kasım'ı hedef alabileceklerini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusu-kara-harekatina-hazir-katzdan-lubnana-saldiri-tehdidi-43341414"
         },
         {
-          "title": "Brüksel'de bir okulda 18 kişi zehirlendi",
-          "summary": "Belçika'nın başkenti Brüksel'de bir okulda 17'si çocuk 18 kişi karbonmonoksit gazından etkilendi. Okul tahliye edilirken karbonmonoksit zehirlenmesi yaşayan kişilerin hastaneye kaldırıldığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/brukselde-bir-okulda-18-kisi-zehirlendi-43341085"
+          "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+          "summary": "Akciğerinde tespit edilen kitlenin alınması için dün ameliyat olan Papa 14. Leo'nun akciğer kanseri olduğu doğrulandı. Vatikan Devlet Başkanı Papa 14. Leo'nun, akciğerinde tespit edilen kitle (nodül) nedeniyle dün yapılan ameliyatın başarılı geçtiği ve öncesindeki testlerde şüphelenildiği gibi akciğer kanseri tanısının doğrulandığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu-1746221"
+        },
+        {
+          "title": "Macron, protestocu öğrencileri hedef aldı. \"Siyasetçilerin oyuncağı oluyorlar\"",
+          "summary": "Fransa'da üç haftadır okulları tatil ettiren liseli protestolarına ilişkin konuşan Cumhurbaşkanı Macron, gençlerin meşru taleplerinin siyasi güçlerce istismar edildiğini savundu. Fransa Cumhurbaşkanı Emmanuel Macron, ülke genelinde çok sayıda okulun kapanmasına yol açan ve üç haftadır devam eden lise eylemlerine ilişkin açıklamasında, öğrencilerin meşru talepleri olduğunu ancak bu hareketin siyasi odaklarca istismar edildiğini savunudu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-macron-protestocu-ogrencileri-hedef-aldi-siyasetcilerin-oyuncagi-oluyorlar-1746307"
         },
         {
           "title": "Ukrayna: Starlink ordumuzun kullandığı interneti kısıtladı",
@@ -72,14 +77,9 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-ukrayna-starlink-ordumuzun-kullandigi-interneti-kisitladi-1746273"
         },
         {
-          "title": "Rusya'nın en büyük veri merkezine İHA saldırısı",
-          "summary": "Rus bankası ve teknoloji şirketi Sberbank'ın kullandığı ülkenin en büyük veri merkezi Ukrayna saldırısında vuruldu. Merkezin saldırının ardından çalışmaya devam ettiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rusyanin-en-buyuk-veri-merkezine-iha-saldirisi-43341056"
-        },
-        {
-          "title": "BM'den İnsan Hakları Konseyi'ne 15 yeni üye ülke",
-          "summary": "Birleşmiş Milletler (BM) İnsan Hakları Konseyi’nin 15 yeni üyesi belli oldu. İşte konseye seçilen ülkeler...",
-          "source": "https://www.hurriyet.com.tr/dunya/bmden-insan-haklari-konseyine-15-yeni-uye-ulke-43341055"
+          "title": "Trump: Grönland'da petrol, doğal gaz ve maden arama faaliyetleri başlamak üzere",
+          "summary": "ABD Başkanı Donald Trump, Grönland'da \"devasa\" petrol, doğal gaz ve maden arama faaliyetlerinin başlamak üzere olduğunu duyurdu. ABD Başkanı Donald Trump, sosyal medya hesabından, daha önce ülkesinin kontrolünde olması gerektiğini savunduğu Grönland'a ilişkin açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/trump-gronlandda-petrol-dogal-gaz-ve-maden-arama-faaliyetleri-baslamak-uzere-1746299"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Hoffenheim-Beşiktaş maçı öncesi Vlahovic korkuttu. Şampiyonlar Ligi'nde dev karşılaşma! Manchester City - Paris Saint Germain maçının heyecanı canlı sohbet ile Misli'de. Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de. İspanya, Barça’nın Galatasaray galibiyetini konuşuyor! ‘Ve Yamal 'Yeter' dedi! Cehennemde dans etti’. Lamine Yamal'dan Galatasaray itirafı: 'Soyunma odasında konuştuk! Çok daha zor olabilirdi'. Galatasaray'ın Barcelona yenilgisi sonrası dikkat çeken sözler! 'Aklımıza gelen başımıza geldi! Baş etmek mümkün değil'. Zaferle dön Fenerbahçem.",
+      "text": "Trendyol 1. Lig maçına yağmur engeli!. ÖZEL | Galatasaray'ın eski yıldızı Barcelona maçı öncesi konuştu: 'Pes etmemek DNA’sında var | Yamal için kolay olmayacak!'. UEFA Gençlik Ligi'nde Fenerbahçe, Aston Villa'ya mağlup. Eleştirilerin hedefindeki Sane'den Galatasaray taraftarına mesaj!. Trabzonspor-Beşiktaş derbisi öncesi tarihi karar! 6 yıllık yasak kalktı. Son Ayakta 34.25 Ganyan! 96 TL’ye 66.266 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…. Hoffenheim-Beşiktaş maçı öncesi Ozan Kabak konuştu: Umarım 3 puanla kapatırız.",
       "items": [
         {
-          "title": "Hoffenheim-Beşiktaş maçı öncesi Vlahovic korkuttu",
-          "summary": "Beşikaş'ın UEFA Avrupa Ligi'nde oynayacağı Hoffenheim müsabakası öncesi Vlahovic, son antrenmana katılmadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hoffenheim-besiktas-maci-oncesi-vlahovic-korkuttu-43341097"
+          "title": "Trendyol 1. Lig maçına yağmur engeli!",
+          "summary": "Trendyol 1. Lig'in 10. haftasında oynanan Ümraniyespor - Boluspor müsabakasında yoğun yağmur yağışı nedeniyle yarıda kaldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trendyol-1-lig-macina-yagmur-engeli-43341756"
         },
         {
-          "title": "Şampiyonlar Ligi'nde dev karşılaşma! Manchester City - Paris Saint Germain maçının heyecanı canlı sohbet ile Misli'de",
-          "summary": "UEFA Şampiyonlar Ligi'nin 2. haftasında Manchester City, evinde Paris Saint Germain'i ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-dev-karsilasma-manchester-city-paris-saint-germain-macinin-heyecani-canli-sohbet-ile-mislide-43341030"
+          "title": "ÖZEL | Galatasaray'ın eski yıldızı Barcelona maçı öncesi konuştu: 'Pes etmemek DNA’sında var | Yamal için kolay olmayacak!'",
+          "summary": "Galatasaray'ın eski milli futbolcusu Cihan Haspolatlı, sarı-kırmızılı temsilcimizin önümüzdeki salı günü Avrupa'da oynayacağı dev Barcelona maçı öncesi Spor Arena'ya özel açıklamalarda bulundu. Kendi dönemindeki Barcelona anılarından Okan Buruk'un performansına, takımın yıldızlarından taraftarın etkisine kadar birçok konuyu değerlendiren Haspolatlı, Seyrantepe'deki mücadele için umutlu konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ozel-galatasarayin-eski-yildizi-barcelona-maci-oncesi-konustu-pes-etmemek-dnasinda-var-yamal-icin-kolay-43341734"
         },
         {
-          "title": "Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 2. haftasında İngiliz ekibi Aston Villa ile deplasmanda karşılaşıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-liginde-aston-villa-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43340995"
+          "title": "UEFA Gençlik Ligi'nde Fenerbahçe, Aston Villa'ya mağlup",
+          "summary": "UEFA Gençlik Ligi'nin 2. haftasında Fenerbahçe 19 yaş altı takımı, deplasmanda Aston Villa'ya 2-1 mağlup oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uefa-genclik-liginde-fenerbahce-aston-villaya-maglup-43341724"
         },
         {
-          "title": "İspanya, Barça’nın Galatasaray galibiyetini konuşuyor! ‘Ve Yamal 'Yeter' dedi! Cehennemde dans etti’",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında konuk ettiği İspanya devi Barcelona'ya 4-1 yenildi. İspanyol medyası da takımlarının İstanbul'daki galibiyetini manşetlerine dikkat çeken ifadelerle taşıdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ispanya-barcanin-galatasaray-galibiyetini-konusuyor-ve-yamal-yeter-dedi-cehennemde-dans-etti-43340875"
+          "title": "Eleştirilerin hedefindeki Sane'den Galatasaray taraftarına mesaj!",
+          "summary": "Barcelona maçındaki performansıyla Galatasaray taraftarlarının tepkisini çeken Leroy Sane, yeniden en iyi formuna ulaşmak için çalıştığını vurguladığı bir paylaşım yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/elestirilerin-hedefindeki-saneden-galatasaray-taraftarina-mesaj-43341713"
         },
         {
-          "title": "Lamine Yamal'dan Galatasaray itirafı: 'Soyunma odasında konuştuk! Çok daha zor olabilirdi'",
-          "summary": "Barcelona'nın süper yıldızı Lamine Yamal, 4-1 kazandıkları Galatasaray maçı sonrası dikkat çeken itiraflarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lamine-yamaldan-galatasaray-itirafi-soyunma-odasinda-konustuk-cok-daha-zor-olabilirdi-43340746"
+          "title": "Trabzonspor-Beşiktaş derbisi öncesi tarihi karar! 6 yıllık yasak kalktı",
+          "summary": "Trabzonspor ile Beşiktaş arasında 6 yıldır uygulanan deplasman yasağı uygulaması kaldırıldı. Siyah-beyazlı taraftarlar, Pazartesi günü oynanacak maçta takımlarını tribünden destekleyebileyecek. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-besiktas-derbisi-oncesi-tarihi-karar-6-yillik-yasak-kalkti-43341677"
         },
         {
-          "title": "Galatasaray'ın Barcelona yenilgisi sonrası dikkat çeken sözler! 'Aklımıza gelen başımıza geldi! Baş etmek mümkün değil'",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi’nin 2. haftasında sahasında Barcelona’ya 4-1 mağlup oldu. Temsilcimizin maçını Hürriyet yazarları Güntekin Onay ve Mehmet Ayan değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-barcelona-yenilgisi-sonrasi-dikkat-ceken-sozler-aklimiza-gelen-basimiza-43340725"
+          "title": "Son Ayakta 34.25 Ganyan! 96 TL’ye 66.266 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…",
+          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Leicester Birleşik Krallık 1. 6’lı Ganyan koşularında Misli üyesi, 96 TL’ye 66.266 TL kazandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/son-ayakta-34-25-ganyan-96-tlye-66-266-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43341611"
         },
         {
-          "title": "Zaferle dön Fenerbahçem",
-          "summary": "18 yıl aradan sonra katıldığı Devler Ligi’ndeki ilk maçında Roma ile 1-1 berabere kalan Fenerbahçe, bu akşam deplasmanda karşılaşacağı Aston Villa’yı yenerek ilk galibiyetini almayı hedefliyor. Sarı lacivertlilerde sakatlığı bulunan Mert Müldür dışında eksik yok.",
-          "source": "https://www.hurriyet.com.tr/sporarena/zaferle-don-fenerbahcem-43340691"
+          "title": "Hoffenheim-Beşiktaş maçı öncesi Ozan Kabak konuştu: Umarım 3 puanla kapatırız",
+          "summary": "Beşiktaş'ın UEFA Avrupa Ligi'nde oynayacağı Hoffenheim maçı öncesi teknik direktör Christian Ilzer ve milli oyuncu Ozan Kabak konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hoffenheim-besiktas-maci-oncesi-ozan-kabak-konustu-umarim-3-puanla-kapatiriz-43341528"
         }
       ]
     },
     "teknoloji": {
-      "text": "Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı. ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı. Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti. OpenAI'ın ofisinde gizli dinleme cihazı bulundu: Bir çalışan tutuklandı. Google'dan yapay zeka yarışında yeni hamle: Gemini 4 Argon. Apple'dan akıllı ev hamlesi: HomeView tanıtıldı. Yerli ve milli 6G şebeke çözümleri ilk kez sahada denendi.",
+      "text": "T3 Vakfı’ndan yapay zeka adımı. Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı. ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı. Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti. OpenAI'ın ofisinde gizli dinleme cihazı bulundu: Bir çalışan tutuklandı. Google'dan yapay zeka yarışında yeni hamle: Gemini 4 Argon. Apple'dan akıllı ev hamlesi: HomeView tanıtıldı.",
       "items": [
+        {
+          "title": "T3 Vakfı’ndan yapay zeka adımı",
+          "summary": "Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ve Huawei Türkiye, yapay zeka alanında nitelikli insan kaynağının geliştirilmesine yönelik stratejik iş birliği mutabakatına imza attı. İş birliği kapsamında öğrenciler ve genç profesyonellerin ileri teknoloji alanlarında bilgi ve becerilerini geliştirmeleri, eğitim olanaklarından yararlanmaları ve uluslararası gelişim fırsatlarına erişmeleri amaçlanıyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/t3-vakfindan-yapay-zeka-adimi-43341256"
+        },
         {
           "title": "Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı",
           "summary": "Abonelik ve reklam odaklı yayıncılık modellerine alternatif olarak öne çıkan dakika başına ödeme sistemi, dijital içerik ekonomisinde yeni bir dönemi başlatmayı hedefliyor.",
@@ -195,17 +200,17 @@
           "title": "Apple'dan akıllı ev hamlesi: HomeView tanıtıldı",
           "summary": "Apple, yapay zekâ destekli yeni akıllı ev cihazı HomeView'i tanıttı. Siri AI ile çalışan, 7 inç ekranlı cihaz; evdeki elektronik sistemleri sesli komutlarla yönetebiliyor. ABD merkezli teknoloji devi Apple, yapay zeka destekli yeni akıllı ev cihazı HomeView'i tanıttı. Şirket, yenilenen Siri yapay zeka asistanıyla çalışan cihazla akıllı ev pazarında Amazon ve Google gibi rakipleriyle rekabetini artırmayı hedefliyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-appledan-akilli-ev-hamlesi-homeview-tanitildi-1746189"
-        },
-        {
-          "title": "Yerli ve milli 6G şebeke çözümleri ilk kez sahada denendi",
-          "summary": "TÜBİTAK ile Turkcell, 6G’ye hazırlık kapsamında stratejik bir iş birliğine imza attı. Her iki kurum, yerli ve milli imkânlarla 6G'nin temel yapı taşlarından olan yeni nesil şebeke çözümlerinin ilk prototiplerini geliştirdi. Söz konusu çözümler, ilk kez ticari nitelikli test altyapısında sahada denendi.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yerli-ve-milli-6g-sebeke-cozumleri-ilk-kez-sahada-denendi-43340200"
         }
       ]
     },
     "saglik": {
-      "text": "Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek. Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor. Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor. Doğada kendiliğinden yetişen kalp dostu meyve. Toplamak için dağların yolunu tuttular. Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş. 100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor.",
+      "text": "Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı. Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek. Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor. Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor. Doğada kendiliğinden yetişen kalp dostu meyve. Toplamak için dağların yolunu tuttular. Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş.",
       "items": [
+        {
+          "title": "Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı",
+          "summary": "Zonguldak'ta şiddetli öksürük nöbeti nedeniyle kalp damarı yırtılan 52 yaşındaki kadın, stentle yapay damar yolu oluşturularak hayata bağlandı. Ereğli ilçesinde yaşayan 52 yaşındaki kadın hasta, geçirdiği zatürreye bağlı şiddetli öksürük nöbetinin ardından göğüs ağrısı şikayetiyle hastaneye başvurdu. Muayene sırasında kalp krizi geçirdiği anlaşılan hasta acil olarak anjiyoya alındı.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-milyonda-bir-gorulen-vaka-oksururken-kalp-damari-yirtildi-1746304"
+        },
         {
           "title": "Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda",
           "summary": "Antalya'da botoks yaptırdıktan sonra rahatsızlanan 16 kişi tedavi altına alındı. O kişilerden biri olan F.F, botoks işleminden sonra göz kapağının düştüğünü ardından da yutma güçlüğü yaşamaya başladı. Antalya'da son 3 ayda 16 kişi botoks zehirlenmesi nedeniyle tedaviye alındı. Son 3 ayda botoks yaptırdıktan sonra rahatsızlanan çok sayıda kişi, AÜ Hastanesi'ne başvurdu. Konuşmakta, yutkunmakta ve nefes almakta zorlanan, kaslarında ciddi güçsüzlük yaşayan 16 kişi tedaviye alındı.",
@@ -235,11 +240,6 @@
           "title": "Sadece Kastamonu'da yetişiyor. Magnezyum, potasyum, demir deposuymuş",
           "summary": "Sadece Kastamonu'da yetişen ve Osmanlı mutfağının vazgeçilmez meyvelerinden olan coğrafi işaretli üryani eriğinin hasadına başlandı. Türkiye'de sadece Kastamonu il merkezinde ve Daday ilçesinde yetişen, içerdiği antioksidan maddelerden dolayı sağlıklı yaşam meyveleri arasında ilk sıralarda yer alan üryani eriğinin (ala) hasadı başladı.",
           "source": "https://www.ntv.com.tr/saglik/galeri-sadece-kastamonuda-yetisiyor-magnezyum-potasyum-demir-deposuymus-1745233"
-        },
-        {
-          "title": "100 TL'den 50 TL'ye düştü. Demleyip içince hazımsızlığı gideriyor",
-          "summary": "Tokat'ta geçen yıl 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Tokat'ta kuşburnunda yaşanan bolluk, satış fiyatlarına da yansıdı. Geçen yıl kilogramı 100 TL'den alıcı bulan kuşburnu, bu yıl ürün miktarının artmasıyla 50 TL'ye kadar düştü. Fiyatlardaki gerileme, özellikle kış hazırlığı yapan vatandaşların ilgisini artırdı. Kuşburnunun bol çıkması üreticileri sevindirirken, vatandaşlar da geçen yıla göre daha uygun fiyatlarla alışveriş yapma imkânı buldu.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-100-tlden-50-tlye-dustu-demleyip-icince-hazimsizligi-gideriyor-1745222"
         }
       ]
     },
