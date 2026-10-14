@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-14T04:00:04.388Z",
+  "generatedAt": "2026-10-14T10:00:04.181Z",
   "categories": {
     "gundem": {
-      "text": "Ankara'da taksiciden müşterisine silahlı saldırı: O anlar kamerada. Alkollü sürücü polisten kaçamadı: Basın mensubuna saldırı. DMM'den Resulayn iddialarına yanıt. Ankara'da taksici, müşterisini kurşunladı. Tartıştığı babasını öldürüp, intihar girişiminde bulundu. İstanbul Boğazı'nda gemi arızası. Sürüklenerek ters döndü. İstanbul'da fırtına çıkacak. Saat verip, ilçe ilçe uyarı geldi.",
+      "text": "Bayrampaşa'da sanayi sitesinde korkutan yangın. \"Mutlak kulak\" yeteneğiyle hayran bırakan Duygu'nun hedefi konservatuvar. Aynı gün akrabasına 45 mesaj gönderdi! ‘Kişilerin huzur ve sükununu bozma’ suçundan hapis cezası verildi. Kahramanmaraş’ta bir okulda koku paniği: 20 öğrenci hastaneye kaldırıldı. İstanbul'da iş çıkış saatine dikkat. Fırtına geliyor, Anadolu yakasında hava patlayacak. İstanbul'u sağanak ve fırtına vurdu. Yollar göle döndü, bir kadın suya kapıldı. Silivri'de 98'inci duruşma! Ekrem İmamoğlu sanık kürsüsünde.",
       "items": [
         {
-          "title": "Ankara'da taksiciden müşterisine silahlı saldırı: O anlar kamerada",
-          "summary": "Ankara’nın Yenimahalle ilçesinde, alışveriş sonrası taksiyle evine gelen S.G., eşyalarını bagajdan alıp binaya yürüdüğü sırada şoförün silahlı saldırısına uğradı. Ağır yaralanan S.G. hastaneye kaldırılırken, kaçan şüphelinin yakalanması için çalışma başlatıldı. Saldırı anı güvenlik kamerasına yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-taksiciden-musterisine-silahli-saldiri-o-anlar-kamerada-43340718"
+          "title": "Bayrampaşa'da sanayi sitesinde korkutan yangın",
+          "summary": "İstanbul Bayrampaşa'da bir sanayi sitesindeki iş yerinde çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü. İstanbul'un Bayrampaşa ilçesi Muratpaşa Mahallesi'ndeki 5 katlı Baltaş Kilimci Sanayi Sitesi'nin çatısında henüz belirlenemeyen nedenle yangın çıktı. Alevler kısa sürede büyürken, bölgede yoğun duman oluştu. İhbar üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi. Yangın itfaiyenin müdahalesiyle kontrol altına alınarak söndürüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/bayrampasada-sanayi-sitesinde-korkutan-yangin-1746265"
         },
         {
-          "title": "Alkollü sürücü polisten kaçamadı: Basın mensubuna saldırı",
-          "summary": "Kayseri’nin Kocasinan ilçesinde uygulama yapan polis ekiplerinin ‘dur’ ihtarına uymayan sürücü kovalamaca sonucu yakalandı. Yapılan kontrollerde 1.53 promil alkollü olduğu belirlenen sürücüye 232 bin TL idari para cezası yazıldı. Öte yandan, polisten kaçarak, trafiği tehlikeye sokan sürücü kendisini görüntüleyen basın mensubunun üzerine yürüyerek, görüntü aldırmamak için kamerasına saldırdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/alkollu-surucu-polisten-kacamadi-basin-mensubuna-saldiri-43340717"
+          "title": "\"Mutlak kulak\" yeteneğiyle hayran bırakan Duygu'nun hedefi konservatuvar",
+          "summary": "Ankara'da yaşayan 17 yaşındaki mutlak kulak sahibi Duygu Murcak, dinlediği melodileri kısa sürede öğrenebilme yeteneğiyle öne çıkıyor. Liseler arası ses yarışmasında dereceye giren genç yetenek, Türk halk müziği üzerine konservatuvar okuyup büyük sahnelerde yer almayı hayal ediyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/mutlak-kulak-yetenegiyle-hayran-birakan-duygunun-hedefi-konservatuvar-43341160"
         },
         {
-          "title": "DMM'den Resulayn iddialarına yanıt",
-          "summary": "Türk Silahlı Kuvvetleri'nin Suriye'nin Resulayn bölgesinde bulunan bazı köy sakinlerinin evlerine dönmesini engellediği iddialarına Dezenformasyonla Mücadele Merkezi'nden yalanlama geldi. Dezenformasyonla Mücadele Merkezi'nden yapılan açıklamada, bazı uluslararası basın yayın organları ile sosyal medya hesaplarında yer alan iddianın gerçek olmadığı belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/dmmden-resulayn-iddialarina-yanit-1746212"
+          "title": "Aynı gün akrabasına 45 mesaj gönderdi! ‘Kişilerin huzur ve sükununu bozma’ suçundan hapis cezası verildi",
+          "summary": "Yargıtay 12'nci Ceza Dairesi, akrabasına aynı gün içerisinde 45 mesaj gönderen sanığa, ‘Kişilerin huzur ve sükununu bozma’ suçundan verilen 2 ay 15 gün hapis cezasının oy birliğiyle onanmasına karar verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ayni-gun-akrabasina-45-mesaj-gonderdi-kisilerin-huzur-ve-sukununu-bozma-sucundan-hapis-cezasi-verildi-43341154"
         },
         {
-          "title": "Ankara'da taksici, müşterisini kurşunladı",
-          "summary": "Ankara'nın Yenimahalle ilçesinde bir taksici, yolcusunu varış noktasına bırakmasının ardından müşterisine arkasından tabanca ile ateş etti. Silahlı saldırı sonucunda müşteri ağır yaralandı. Ankara'nın Yenimahalle ilçesine bağlı Demetevler semtinde akşam saatlerinde, S.G isimli vatandaş, alışveriş yaptıktan sonra taksi tarafından evine bırakıldığı esnada kimliği henüz belirlenemeyen taksici tarafından silahlı saldırıya uğradı. Çevre sakinlerinin ihbarı üzerine olay yerine ambulans ve polis ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/ankarada-taksici-musterisini-kursunladi-1746209"
+          "title": "Kahramanmaraş’ta bir okulda koku paniği: 20 öğrenci hastaneye kaldırıldı",
+          "summary": "Kahramanmaraş’ta, Zekeriya Tanrıverdi İmam Hatip Ortaokulu’ndan 20 öğrenci, kimyasal bir maddeden etkilendikleri gerekçesiyle hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kahramanmarasta-bir-okulda-koku-panigi-20-ogrenci-hastaneye-kaldirildi-43341135"
         },
         {
-          "title": "Tartıştığı babasını öldürüp, intihar girişiminde bulundu",
-          "summary": "Kayseri’nin Melikgazi ilçesinde babasını bıçaklayarak öldüren şahıs, daha sonrasında intihara kalkıştı. Şüpheli oğul, ilk müdahalenin ardından polis ekiplerinin eşliğinde hastaneye kaldırıldı. İlçeye bağlı Selçuklu Mahallesi Battalgazi Bulvarı üzerinde bulunan 8 katlı binanın zemin katında yaşayan baba Süleyman Dirik ve oğlu A.D. arasında henüz bilinmeyen bir sebepten tartışma çıktı. Tartışmanın büyümesi üzerine A.D., babası Süleyman Dirik’i bıçaklayarak, öldürdü.",
-          "source": "https://www.ntv.com.tr/turkiye/babasini-oldurup-intihar-girisiminde-bulundu-1746208"
+          "title": "İstanbul'da iş çıkış saatine dikkat. Fırtına geliyor, Anadolu yakasında hava patlayacak",
+          "summary": "İstanbul'da etkili olan kuvvetli sağanak ve fırtına için yeni uyarı yapıldı. Akşam saatlerine kadar Avrupa yakasında etkili olacak fırtına, 17.00'den sonra Anadolu yakasını etkisi altına alacak. İstanbul'da dün akşam başlayan ve aralıklarla süren sağanak, kent genelinde hayatı olumsuz etkiledi. Meteoroloji Genel Müdürlüğü'nün (MGM) uyarılarının ardından kentteki bazı bölgelerde dün akşam saatlerinden itibaren etkili olan kuvvetli yağış sabah saatlerinde etkini artırdı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-hava-patlayacak-1746280"
         },
         {
-          "title": "İstanbul Boğazı'nda gemi arızası. Sürüklenerek ters döndü",
-          "summary": "İstanbul Boğazı'nda arıza yaşayan 147 metrelik kuru yük gemisi kontrolsüzce sürüklendi ve istikametinin tersine döndü. Arıza yaşayan gemi, Kıyı Emniyeti ekipleri eskortluğunda boğazdan ayrıldı. Olay, 21.30 sıralarında İstanbul Boğazı Kuruçeşme açıklarında meydana geldi. İstanbul'dan Derince'ye hareket halinde olan \"Bilbao Trader\" isimli Antigua ve Barbuda bayraklı 147 metrelik kuru yük gemisi arıza yaşayarak seyir halinde olduğu istikametin tersine döndü.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbul-bogazinda-gemi-arizasi-suruklenerek-ters-dondu-1746207"
+          "title": "İstanbul'u sağanak ve fırtına vurdu. Yollar göle döndü, bir kadın suya kapıldı",
+          "summary": "Peş peşe yapılan uyarıların ardından sağanak yağışın şiddetlendiği İstanbul'da yollar göle döndü. Esenyurt'ta suya kapılan kadın, vatandaşların yardımıyla kurtarıldı. Balkanlar üzerinden gelen soğuk havayla birlikte sıcaklık yurt genelinde mevsim normallerinin altına düşüyor, yağış günlük hayatı olumsuz etkiliyor. Sağanak ve fırtınanın gece saatlerinden itibaren etkili olmaya başladığı İstanbul'dan ise dikkati çeken görüntüler gelmeye devam ediyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-saganak-ve-firtina-vurdu-yollar-gole-dondu-bir-kadin-suya-kapildi-1746241"
         },
         {
-          "title": "İstanbul'da fırtına çıkacak. Saat verip, ilçe ilçe uyarı geldi",
-          "summary": "Bu hafta neredeyse her gün sağanak yağış var. İstanbul'da bugün şiddetini iyice artıracak yağışla beraber fırtına bekleniyor. AKOM ve İstanbul Valiliği saat vererek, ilçe ilçe uyarıda bulundu. AKOM’DAN KUVVETLİ YAĞIŞ VE FIRTINA UYARISI Balkanlar üzerinden gelen soğuk havayla birlikte İstanbul dahil bir ilde sıcaklık sert düştü. Hafta sonu 28 derecelere çıkan sıcaklık İstanbul'da bugün 17 dereceye kadar düşerken, Cuma günü ise 14-15 dereceye düşmesi bekleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-firtina-cikacak-saat-verip-ilce-ilce-uyari-geldi-1746206"
+          "title": "Silivri'de 98'inci duruşma! Ekrem İmamoğlu sanık kürsüsünde",
+          "summary": "İstanbul Büyükşehir Belediyesine yönelik “yolsuzluk” iddiasıyla görülen davanın 2’nci celsesinin 34’üncü gününde Ekrem İmamoğlu savunmasını yapmak için sanık kürsüsüne çıktı. İmamoğlu kimlik tespitinde, yüksek lisans mezunu olduğunu, İstanbul Büyükşehir Belediye Başkanı olduğunu ve aylık gelirinin 250-300 bin olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/silivride-98inci-durusma-ekrem-imamoglu-savunma-yapiyor-43341111"
         }
       ]
     },
     "dunya": {
-      "text": "Trump ve Netanyahu savaşı yeniden başlatmayı değerlendiriyor. Yemen'de savaş şiddetlendi. Engellenen füze parçaları Riyad'da 4 kişiyi yaraladı. Papa Leo ameliyat oldu. Vatikan'dan ilk açıklama. Irak Başbakanı Zeydi'den orduya \"en üst düzeyde savaşa hazırlık\" talimatı. ABD Başkanı Donald Trump: Cumhurbaşkanı Erdoğan’a büyük saygı duyuyorum. Trump hükümeti ABD'nin Yunanistan Büyükelçisi Guilfoyle'dan istifasını istedi. ABD Başkanı Trump: İran konusunda kararımı vereceğim.",
+      "text": "ABD'yi karıştıran büyükelçi krizi. Trump istifasını istedi. Trump'ın yeni sözcüsü Zacharia kimdir, ilk brifingde neden bocaladı?. Hindistan uçağı kaçırılma kodu gönderdi. Brüksel'de bir okulda 18 kişi zehirlendi. Ukrayna: Starlink ordumuzun kullandığı interneti kısıtladı. Rusya'nın en büyük veri merkezine İHA saldırısı. BM'den İnsan Hakları Konseyi'ne 15 yeni üye ülke.",
       "items": [
         {
-          "title": "Trump ve Netanyahu savaşı yeniden başlatmayı değerlendiriyor",
-          "summary": "Amerikan Axios haber sitesi, 27 Ekim'deki İsrail seçimleri öncesinde, ABD ve İsrail'in İran'a saldırıları yeniden başlatmayı değerlendirdiğini iddia etti. ABD Başkanı Donald Trump, İran'a seçimlerden önce bir saldırı düzenleneceğini defalarca kez yalanladı. Ancak Amerikan basınına göre, Trump'ın iddiaları doğru değil. Axios haber sitesi, ABD'li yetkililere dayandırdığı haberinde Trump ve İsrail Başbakanı Benyamin Netanyahu'nun ABD'deki ara seçimler öncesi İran'a bir saldırı başlatmayı değerlendirdiğini yazdı.",
-          "source": "https://www.ntv.com.tr/dunya/trump-ve-netanyahu-savasi-yeniden-baslatmayi-degerlendiriyor-1746213"
+          "title": "ABD'yi karıştıran büyükelçi krizi. Trump istifasını istedi",
+          "summary": "ABD yönetimi, Trump'ın büyük oğlunun eski nişanlısı olan Atina Büyükelçisi Kimberly Guilfoyle'un zengin iş insanlarından maddi menfaat sağladığı iddiaları üzerine istifasını istedi. Beyaz Saray, ABD Başkanı Donald Trump yönetimindeki yetkililere para, hediye ve çeşitli ayrıcalıklar karşılığında erişim sağladığı iddialarıyla gündeme gelen ABD'nin Atina Büyükelçisi Kimberly Guilfoyle'un istifasını istedi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abdyi-karistiran-buyukelci-krizi-trump-istifasini-istedi-1746247"
         },
         {
-          "title": "Yemen'de savaş şiddetlendi. Engellenen füze parçaları Riyad'da 4 kişiyi yaraladı",
-          "summary": "Yemen'deki Husiler Suudi Arabistan'ın petrol şirketi Aramco tesislerini bugün de hedef aldı. Saldırıların artarak süreceği duyuruldu. Engellenen Husi füzelerinin parçaları Riyad'da 4 kişiyi yaraladı. Yemen’deki İran destekli Husiler Suudi Arabistan’a yönelik saldırılarını sürdürüyor. Suudi Arabistan Sivil Savunma Müdürlüğü, Husiler tarafından fırlatılan 2 seyir füzesinin hava savunma sistemleri tarafından engellendiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/yemende-savas-siddetlendi-engellenen-fuze-parcalari-riyadda-4-kisiyi-yaraladi-1746179"
+          "title": "Trump'ın yeni sözcüsü Zacharia kimdir, ilk brifingde neden bocaladı?",
+          "summary": "ABD Başkanı Donald Trump, ağustos ayında görevden ayrılan Karoline Leavitt'in yerine Truth Social iletişim danışmanı Katie Zacharia'yı Beyaz Saray Sözcüsü olarak atadı. ABD Başkanı Donald Trump, ağustosta görevinden ayrılan Karoline Leavitt'in yerine Beyaz Saray Sözcülüğüne, Truth Social platformunun iletişim danışmanı Katie Zacharia'yı atadı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trumpin-yeni-sozcusu-zacharia-kimdir-ilk-brifingde-neden-bocaladi-1746279"
         },
         {
-          "title": "Papa Leo ameliyat oldu. Vatikan'dan ilk açıklama",
-          "summary": "Katolik dünyasının 71 yaşındaki lideri Papa Leo, akciğerindeki bir nodülün alınması amacıyla Roma'da ameliyat edildi. Katoliklerin ruhani lideri Papa Leo, akciğerinde tespit edilen küçük bir nodülün alınması amacıyla bugün hastaneye yattı. Hastane yetkililerinin kapıda karşıladığı Papa, binaya yürüyerek girdi. Vatikan Basın Ofisinden akşam saatlerinde yapılan açıklamada ameliyatın başarıyla tamamlandığı belirtildi. Açıklamada, \"Ameliyat başarıyla, planlandığı gibi ve beklendiği üzere tamamlandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-papa-leonun-ameliyati-hakkinda-neler-biliniyor-1746081"
+          "title": "Hindistan uçağı kaçırılma kodu gönderdi",
+          "summary": "Almanya'nın Frankfurt kentinden Hindistan'ın başkenti New Delhi'ye giden Air India uçağının, şüpheli kaçırılma alarmı gönderdiği belirtildi. Hindistan'ın kuzeybatısındaki Jaipur kentine yönlendirilen uçağa yönelik bomba tehdidi yapıldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/hindistan-ucagi-kacirilma-kodu-gonderdi-43341110"
         },
         {
-          "title": "Irak Başbakanı Zeydi'den orduya \"en üst düzeyde savaşa hazırlık\" talimatı",
-          "summary": "Irak Başbakanı ve Silahlı Kuvvetler Komutanı Ali ez-Zeydi, ordunun muharebe hazırlığının en üst seviyeye çıkarılması yönünde talimat verdi. Irak Başbakanlık Basın Ofisinden yapılan açıklamaya göre Zeydi, Başkomutanlık Ofisi Müdürü, Planlama Bakanlığı Müsteşarı, bazı danışmanlar ve askeri kuvvet komutanlarının katılımıyla ülkenin güvenlik durumunu ve silahlı kuvvetlerin hazırlık seviyesini ele aldığı bir toplantı gerçekleştirdi.",
-          "source": "https://www.ntv.com.tr/dunya/irak-basbakani-zeydiden-orduya-en-ust-duzeyde-savasa-hazirlik-talimati-1746183"
+          "title": "Brüksel'de bir okulda 18 kişi zehirlendi",
+          "summary": "Belçika'nın başkenti Brüksel'de bir okulda 17'si çocuk 18 kişi karbonmonoksit gazından etkilendi. Okul tahliye edilirken karbonmonoksit zehirlenmesi yaşayan kişilerin hastaneye kaldırıldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/brukselde-bir-okulda-18-kisi-zehirlendi-43341085"
         },
         {
-          "title": "ABD Başkanı Donald Trump: Cumhurbaşkanı Erdoğan’a büyük saygı duyuyorum",
-          "summary": "ABD Başkanı Donald Trump, Alaska hareketi öncesinde Beyaz Saray’ın bahçesinde basın mensuplarına gündeme ilişkin değerlendirmelerde bulundu ve soruları yanıtladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-donald-trump-cumhurbaskani-erdogana-buyuk-saygi-duyuyorum-43340481"
+          "title": "Ukrayna: Starlink ordumuzun kullandığı interneti kısıtladı",
+          "summary": "Ukrayna; uzay, havacılık ve yapay zeka şirketi SpaceX'in Starlink sisteminin, Ukrayna ordusunun kullandığı \"askeri paket\" internet hizmetinin çalışma hızını kısıtladığını iddia etti. Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin teknoloji danışmanı Sergiy Beskrestnov, gece bazı Starlink internet terminallerinin operasyonlarının daraltıldığını öne sürdü. Danışman Sergiy Beskrestnov, \"Bu gece SpaceX, mobil Starlink terminallerimize hız sınırlaması getirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ukrayna-starlink-ordumuzun-kullandigi-interneti-kisitladi-1746273"
         },
         {
-          "title": "Trump hükümeti ABD'nin Yunanistan Büyükelçisi Guilfoyle'dan istifasını istedi",
-          "summary": "Beyaz Saray Sözcüsü Katie Zacharia, ABD Başkanı Donald Trump hükümetinin ABD'nin Yunanistan Büyükelçisi Kimberly Guilfoyle'dan istifa etmesini istediğini açıkladı. Beyaz Saray'ın açıklamasının ardından Guilfoyle istifa ettiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-hukumeti-abdnin-yunanistan-buyukelcisi-guilfoyledan-istifasini-istedi-43340480"
+          "title": "Rusya'nın en büyük veri merkezine İHA saldırısı",
+          "summary": "Rus bankası ve teknoloji şirketi Sberbank'ın kullandığı ülkenin en büyük veri merkezi Ukrayna saldırısında vuruldu. Merkezin saldırının ardından çalışmaya devam ettiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyanin-en-buyuk-veri-merkezine-iha-saldirisi-43341056"
         },
         {
-          "title": "ABD Başkanı Trump: İran konusunda kararımı vereceğim",
-          "summary": "ABD Başkanı Trump, İran konusunda kısa süre içerisinde karar vereceğim",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iran-konusunda-kararimi-verecegim-43340454"
+          "title": "BM'den İnsan Hakları Konseyi'ne 15 yeni üye ülke",
+          "summary": "Birleşmiş Milletler (BM) İnsan Hakları Konseyi’nin 15 yeni üyesi belli oldu. İşte konseye seçilen ülkeler...",
+          "source": "https://www.hurriyet.com.tr/dunya/bmden-insan-haklari-konseyine-15-yeni-uye-ulke-43341055"
         }
       ]
     },
@@ -124,48 +124,63 @@
       ]
     },
     "spor": {
-      "text": "Sarunas Jasikevicius: 'İyi bir takıma karşı bu galibiyeti aldığımız için memnunuz!'. Azerbaycan ekibi Sabah'tan Devler Ligi'nde tarihi galibiyet!. Aleksey Batrakov, ilk golünü Barcelona’ya karşı attı!. Galatasaray'da Lucas Torreira sakatlandı!. Barcelona Teknik Direktörü Hansi Flick: 'Sonuçtan çok memnunum'. Okan Buruk: 2-0 olsa yükseleceğimiz maç olabilirdi. Galatasaray-Barcelona maçı sonrası Uğurcan Çakır ve Davinson Sanchez konuştu: 2-0'ı bulsaydık farklı olabilirdi.",
+      "text": "Hoffenheim-Beşiktaş maçı öncesi Vlahovic korkuttu. Şampiyonlar Ligi'nde dev karşılaşma! Manchester City - Paris Saint Germain maçının heyecanı canlı sohbet ile Misli'de. Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de. İspanya, Barça’nın Galatasaray galibiyetini konuşuyor! ‘Ve Yamal 'Yeter' dedi! Cehennemde dans etti’. Lamine Yamal'dan Galatasaray itirafı: 'Soyunma odasında konuştuk! Çok daha zor olabilirdi'. Galatasaray'ın Barcelona yenilgisi sonrası dikkat çeken sözler! 'Aklımıza gelen başımıza geldi! Baş etmek mümkün değil'. Zaferle dön Fenerbahçem.",
       "items": [
         {
-          "title": "Sarunas Jasikevicius: 'İyi bir takıma karşı bu galibiyeti aldığımız için memnunuz!'",
-          "summary": "EuroLeague'in 5. haftasında konuk ettiği Litvanya ekibi Zalgiris'i 99-80 yenen Fenerbahçe Tarfin'de başantrenör Sarunas Jasikevicius, takımının maçın genelinde iyi basketbol oynadığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sarunas-jasikevicius-iyi-bir-takima-karsi-bu-galibiyeti-aldigimiz-icin-memnunuz-43340676"
+          "title": "Hoffenheim-Beşiktaş maçı öncesi Vlahovic korkuttu",
+          "summary": "Beşikaş'ın UEFA Avrupa Ligi'nde oynayacağı Hoffenheim müsabakası öncesi Vlahovic, son antrenmana katılmadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hoffenheim-besiktas-maci-oncesi-vlahovic-korkuttu-43341097"
         },
         {
-          "title": "Azerbaycan ekibi Sabah'tan Devler Ligi'nde tarihi galibiyet!",
-          "summary": "Azerbaycan temsilcisi Sabah, Slavia Prag karşısında elde ettiği 2-0'lık sonuçla Şampiyonlar Ligi'ndeki ilk galibiyetini aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/azerbaycan-ekibi-sabahtan-devler-liginde-tarihi-galibiyet-43340669"
+          "title": "Şampiyonlar Ligi'nde dev karşılaşma! Manchester City - Paris Saint Germain maçının heyecanı canlı sohbet ile Misli'de",
+          "summary": "UEFA Şampiyonlar Ligi'nin 2. haftasında Manchester City, evinde Paris Saint Germain'i ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-dev-karsilasma-manchester-city-paris-saint-germain-macinin-heyecani-canli-sohbet-ile-mislide-43341030"
         },
         {
-          "title": "Aleksey Batrakov, ilk golünü Barcelona’ya karşı attı!",
-          "summary": "Galatasaray’ın Rus futbolcusu Aleksey Batrakov, sarı-kırmızılı formayla ilk golünü Barcelona’ya attı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aleksey-batrakov-ilk-golunu-barcelonaya-karsi-atti-43340665"
+          "title": "Fenerbahçe, Şampiyonlar Ligi'nde Aston Villa deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 2. haftasında İngiliz ekibi Aston Villa ile deplasmanda karşılaşıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-sampiyonlar-liginde-aston-villa-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43340995"
         },
         {
-          "title": "Galatasaray'da Lucas Torreira sakatlandı!",
-          "summary": "Galatasaray'ın Uruguaylı futbolcusu Lucas Torreira, Barcelona maçında sakatlandı ve 81. dakikada yerini Renato Nhaga'ya bıraktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-lucas-torreira-sakatlandi-43340660"
+          "title": "İspanya, Barça’nın Galatasaray galibiyetini konuşuyor! ‘Ve Yamal 'Yeter' dedi! Cehennemde dans etti’",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında konuk ettiği İspanya devi Barcelona'ya 4-1 yenildi. İspanyol medyası da takımlarının İstanbul'daki galibiyetini manşetlerine dikkat çeken ifadelerle taşıdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ispanya-barcanin-galatasaray-galibiyetini-konusuyor-ve-yamal-yeter-dedi-cehennemde-dans-etti-43340875"
         },
         {
-          "title": "Barcelona Teknik Direktörü Hansi Flick: 'Sonuçtan çok memnunum'",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin ikinci haftasında konuk ettiği İspanya ekibi Barcelona'ya 4-1 yenildi. Barcelona Teknik Direktörü Hansi Flick ve oyuncular maçın ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/barcelona-teknik-direktoru-hansi-flick-sonuctan-cok-memnunum-43340651"
+          "title": "Lamine Yamal'dan Galatasaray itirafı: 'Soyunma odasında konuştuk! Çok daha zor olabilirdi'",
+          "summary": "Barcelona'nın süper yıldızı Lamine Yamal, 4-1 kazandıkları Galatasaray maçı sonrası dikkat çeken itiraflarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lamine-yamaldan-galatasaray-itirafi-soyunma-odasinda-konustuk-cok-daha-zor-olabilirdi-43340746"
         },
         {
-          "title": "Okan Buruk: 2-0 olsa yükseleceğimiz maç olabilirdi",
-          "summary": "Galatasaray-Barcelona maçı sonrası teknik direktör Okan Buruk açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-2-0-olsa-yukselecegimiz-mac-olabilirdi-43340636"
+          "title": "Galatasaray'ın Barcelona yenilgisi sonrası dikkat çeken sözler! 'Aklımıza gelen başımıza geldi! Baş etmek mümkün değil'",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi’nin 2. haftasında sahasında Barcelona’ya 4-1 mağlup oldu. Temsilcimizin maçını Hürriyet yazarları Güntekin Onay ve Mehmet Ayan değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-barcelona-yenilgisi-sonrasi-dikkat-ceken-sozler-aklimiza-gelen-basimiza-43340725"
         },
         {
-          "title": "Galatasaray-Barcelona maçı sonrası Uğurcan Çakır ve Davinson Sanchez konuştu: 2-0'ı bulsaydık farklı olabilirdi",
-          "summary": "Galatasaray'ın Barcelona'ya 4-1 mağlup olmasının ardından Uğurcan Çakır ve Davinson Sanchez konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-barcelona-maci-sonrasi-ugurcan-cakir-ve-davinson-sanchez-konustu-2-0i-bulsaydik-farkli-olabilirdi-43340628"
+          "title": "Zaferle dön Fenerbahçem",
+          "summary": "18 yıl aradan sonra katıldığı Devler Ligi’ndeki ilk maçında Roma ile 1-1 berabere kalan Fenerbahçe, bu akşam deplasmanda karşılaşacağı Aston Villa’yı yenerek ilk galibiyetini almayı hedefliyor. Sarı lacivertlilerde sakatlığı bulunan Mert Müldür dışında eksik yok.",
+          "source": "https://www.hurriyet.com.tr/sporarena/zaferle-don-fenerbahcem-43340691"
         }
       ]
     },
     "teknoloji": {
-      "text": "OpenAI'ın ofisinde gizli dinleme cihazı bulundu: Bir çalışan tutuklandı. Google'dan yapay zeka yarışında yeni hamle: Gemini 4 Argon. Apple'dan akıllı ev hamlesi: HomeView tanıtıldı. Yerli ve milli 6G şebeke çözümleri ilk kez sahada denendi. Veri merkezine gerek yok. Ev aletleri yapay zekanın yuvası olabilir. Norveç'ten Microsoft'a 12 milyon euro ceza. Trump'tan yapay zeka devlerine İngiltere izni.",
+      "text": "Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı. ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı. Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti. OpenAI'ın ofisinde gizli dinleme cihazı bulundu: Bir çalışan tutuklandı. Google'dan yapay zeka yarışında yeni hamle: Gemini 4 Argon. Apple'dan akıllı ev hamlesi: HomeView tanıtıldı. Yerli ve milli 6G şebeke çözümleri ilk kez sahada denendi.",
       "items": [
+        {
+          "title": "Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı",
+          "summary": "Abonelik ve reklam odaklı yayıncılık modellerine alternatif olarak öne çıkan dakika başına ödeme sistemi, dijital içerik ekonomisinde yeni bir dönemi başlatmayı hedefliyor.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/dijital-yayincilikta-dakika-basina-odeme-sistemi-hazirligi-43341108"
+        },
+        {
+          "title": "ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı",
+          "summary": "ABD'nin başkenti Washington D.C'de 100'den fazla ülkeden temsilcinin katıldığı AUSA 2026 Fuarı'nda, yapay zeka destekli askeri sistemler, insansız araçlar, yeni nesil füze teknolojileri ve gelişmiş radar sistemleri sergilendi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdden-govde-gosterisi-gelecegin-savas-sistemleri-vitrine-cikti-43340992"
+        },
+        {
+          "title": "Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti",
+          "summary": "ABD merkezli teknoloji devi Google, en yeni ve en gelişmiş yapay zeka modellerini 200 Avrupalı araştırmacıya açacağını duyurdu. Bu hamlenin zamanlaması ise dikkat çekti. Google tarafından İrlanda'nın başkenti Dublin'deki yapay zeka zirvesinde yapılan açıklamada, \"Araştırma ekiplerine hayati önem taşıyan işlem gücü ve en son teknoloji araçlarını doğrudan sunduğumuz bu hamlemizle, inovasyonda Avrupa'ya ivme kazandırmayı ve kıtanın bilimsel rekabet gücünü pekiştirmeyi amaçlıyoruz.\" ifadeleri kullanıldı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-google-en-yeni-yapay-zeka-modellerini-200-avrupali-arastirmaciya-aciyor-zamanlama-dikkat-cekti-1746256"
+        },
         {
           "title": "OpenAI'ın ofisinde gizli dinleme cihazı bulundu: Bir çalışan tutuklandı",
           "summary": "ChatGPT'nin geliştiricisi OpenAI, ofislerinden birinde gizli dinleme cihazı tespit edildiğini açıkladı. Yapay zeka şirketi OpenAI, ABD'nin San Francisco kentindeki ofislerinden birinde gizli kayıt cihazı bulunduğunu duyurdu. ChatGPT'nin geliştiricisi olan şirket, gelişmiş bir dinleme cihazının çalışanlardan biri tarafından yerleştirildiğinin tespit edildiğini ve olayın ABD Federal Soruşturma Bürosuna (FBI) bildirildiğini açıkladı.",
@@ -185,21 +200,6 @@
           "title": "Yerli ve milli 6G şebeke çözümleri ilk kez sahada denendi",
           "summary": "TÜBİTAK ile Turkcell, 6G’ye hazırlık kapsamında stratejik bir iş birliğine imza attı. Her iki kurum, yerli ve milli imkânlarla 6G'nin temel yapı taşlarından olan yeni nesil şebeke çözümlerinin ilk prototiplerini geliştirdi. Söz konusu çözümler, ilk kez ticari nitelikli test altyapısında sahada denendi.",
           "source": "https://www.hurriyet.com.tr/teknoloji/yerli-ve-milli-6g-sebeke-cozumleri-ilk-kez-sahada-denendi-43340200"
-        },
-        {
-          "title": "Veri merkezine gerek yok. Ev aletleri yapay zekanın yuvası olabilir",
-          "summary": "Yapay zeka devi Anthropic, küçük yapay zeka modellerinin merkezi veri merkezlerine ihtiyaç duymadan akıllı ev aletleri ve televizyon kutuları üzerinden kendi kendini kopyalayabileceğini duyurdu. Yapay zeka araştırma şirketi Anthropic, görece küçük yapay zeka modellerinin veri merkezlerine ihtiyaç duymadan, internete bağlı ev aletleri ve televizyon kutuları üzerinden kendi kendilerini kopyalayarak yayılma eşiğine yaklaştığını duyurdu.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-veri-merkezine-gerek-yok-ev-aletleri-yapay-zekanin-yuvasi-olabilir-1746121"
-        },
-        {
-          "title": "Norveç'ten Microsoft'a 12 milyon euro ceza",
-          "summary": "Norveç Veri Koruma Kurumu, kişisel verileri izinsiz paylaştığı gerekçesiyle ABD'li teknoloji devi Microsoft'un reklam platformu Xandr'e 12 milyon euro para cezası verdiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/norvecten-microsofta-12-milyon-euro-ceza-43338914"
-        },
-        {
-          "title": "Trump'tan yapay zeka devlerine İngiltere izni",
-          "summary": "ABD yönetimi, OpenAI ve Anthropic gibi yapay zeka devlerinin yeni modellerini piyasaya sürmeden önce test edilmesi için İngiltere hükümetiyle paylaşmasına izin verme kararı aldı. ABD'li yapay zeka geliştiricileri artık yeni geliştirdikleri modelleri güvenlik testlerinden geçirilmek üzere İngiltere hükümetine erken aşamada sunabilecek.",
-          "source": "https://www.ntv.com.tr/teknoloji/trumptan-yapay-zeka-devlerine-ingiltere-izni-1745891"
         }
       ]
     },
