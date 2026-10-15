@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-15T04:00:04.862Z",
+  "generatedAt": "2026-10-15T10:00:03.975Z",
   "categories": {
     "gundem": {
-      "text": "6 ilde okullar tatil edildi. İstanbul Valisi Gül'den \"dışarı çıkmayın\" uyarısı. Annesini bıçakla rehin aldı! Polis operasyon düzenledi. BUDO'nun 12 seferi iptal edildi. İstanbul'u sağanak ve fırtına vurdu. 2 kişi hayatını kaybetti. Bursa'da hayvan çiftliğinde çıkan söndürüldü. Bursa'da dev dalgalar sahildeki taşları yerinden söktü. İzmir’de FETÖ operasyonu: 1 gözaltı.",
+      "text": "Selde elektrik akımına kapılıp can verdi. 14 yaşındaki Mahmut'un hikayesinde acı ayrıntı. İBB davasında 99. duruşması başladı! Ekrem İmamoğlu savunmasını sürdürüyor. Reyhanlı saldırısı faili Mihraç Ural yakalandı. MSB: Beklentimiz CAATSA yaptırımlarının kaldırılmasıdır. Motosikletlere bir ilde daha yasak. Meriç Nehri'nde can pazarı: Alabora olan bottaki 1 çocuk hayatını kaybetti, 2 çocuk aranıyor. MSB'den ABD'ye CAATSA çağrısı: Tüm kısıtlamalar kaldırılmalı.",
       "items": [
         {
-          "title": "6 ilde okullar tatil edildi. İstanbul Valisi Gül'den \"dışarı çıkmayın\" uyarısı",
-          "summary": "İstanbul da dahil 6 ilde şiddetli yağış nedeniyle okullar bugün tatil edildi. Motosikletlerin trafiğe çıkmaları yasaklandı. Vali Gül'den de önemli bir uyarı geldi. İstanbul Valiliği, olumsuz hava koşulları nedeniyle alınan tedbirleri paylaştı. Bugün (15 Ekim Perşembe) il genelinde resmi-özel tüm eğitim kurumlarında “yüz yüze eğitim” faaliyetlerine bir gün süreyle ara verildiği açıklandı.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulda-yarin-okullar-tatil-edildi-1746328"
+          "title": "Selde elektrik akımına kapılıp can verdi. 14 yaşındaki Mahmut'un hikayesinde acı ayrıntı",
+          "summary": "İstanbul'da dün 14 yaşındaki Mahmut Işıldak, su birikintisine bastığı anda elektrik akımına kapılarak hayatını kaybetti. Işıldak'ın ölümünün ardından yürek burkan ayrıntı ortaya çıktı. İstanbul'da dün sabah saatlerinden itibaren altına alan sağanak yağış kısa sürede felakete dönüştü. Yağış binden fazla noktada su baskınına yol açtı, çok sayıda dere taştı. Göle dönen yollarda araçlar suya gömüldü ve vatandaşlar mahsur kaldı. İçişleri Bakanı Mustafa Çiftçi, kentte 2 bin 727 kişinin tahliye edildiğini duyurdu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-selde-elektrik-akimina-kapilip-can-verdi-14-yasindaki-mahmutun-hikayesinde-aci-ayrinti-1746432"
         },
         {
-          "title": "Annesini bıçakla rehin aldı! Polis operasyon düzenledi",
-          "summary": "Bursa'da aile içerisinde yaşanan tartışmada oğlu Hakan Ç. tarafından bıçakla rehin alınan anne Hatice Ç., özel harekat polisin düzenlediği operasyonla kurtarıldı. Etkisiz hale getirilen şüpheli gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/annesini-bicakla-rehin-aldi-polis-operasyon-duzenledi-43342115"
+          "title": "İBB davasında 99. duruşması başladı! Ekrem İmamoğlu savunmasını sürdürüyor",
+          "summary": "53'ü tutuklu 436 sanıklı İBB yolsuzluk ve çıkar amaçlı suç örgütü davasının 99. duruşması başladı. Duruşmada savunma yapan Ekrem İmamoğlu savunmasını sürdürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/ibb-davasinda-99-durusmasi-basladi-ekrem-imamoglu-savunmasini-surduruyor-43342624"
         },
         {
-          "title": "BUDO'nun 12 seferi iptal edildi",
-          "summary": "Bursa Deniz Otobüsleri'nin (BUDO) bugün yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/budonun-12-seferi-iptal-edildi-43342114"
+          "title": "Reyhanlı saldırısı faili Mihraç Ural yakalandı",
+          "summary": "Reyhanlı saldırısı sanığı terörist “Mihraç Ural”ın kaçmaya çalışırken Suriye’de yakalandı. Suriye İçişleri Bakanlığı, \"Mihraç Ural\" olarak bilinen terörist Ali Keyyali'nin yardımcısı Cemal Trablusi’yi yakaladığını duyurdu. Bakanlığın yazılı açıklamasında, Trablusi'nin Terörle Mücadele Şubesi ekiplerince yakalandığı operasyonun nerede ve ne zaman yapıldığına ilişkin ayrıntı verilmedi. Cemal Trablusi, Suriye devriminde Mukaveme Suriyye örgütünün Halep temsilcisi ve büro müdürü olarak görev yapmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/reyhanli-saldirisi-faili-mihrac-ural-yakalandi-1746440"
         },
         {
-          "title": "İstanbul'u sağanak ve fırtına vurdu. 2 kişi hayatını kaybetti",
-          "summary": "Sağanağın şiddetlendiği İstanbul'da yollar göle döndü, hayat adeta durdu. Fatih'te su birikintisinde akıma kapılan çocuk ve Sarıyer'de sel sularını aşmaya çalışırken düşen bir kişi hayatını kaybetti. İstanbul'da sabah saatlerinden itibaren etkisini artıran şiddetli sağanak ve fırtına, kentte günlük yaşamı olumsuz etkiledi. 15 Ekim Perşembe günü il genelinde eğitime bir gün ara verildi. BİR ÇOCUK AKIMA KAPILDI Fatih'te Çukurbostan Parkı’nda 14 yaşındaki M.I.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-saganak-ve-firtina-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-1746241"
+          "title": "MSB: Beklentimiz CAATSA yaptırımlarının kaldırılmasıdır",
+          "summary": "Milli Savunma Bakanlığı (MSB) Amerika Birleşik Devletleri'ne (ABD) müttefiklik ruhuyla bağdaşmayan CAATSA yaptırımlarının kaldırılmasına yönelik bir çağrı yaptı. Milli Savunma Bakanlığınca (MSB), F-35 tedariki ve CAATSA yaptırımlarına ilişkin, \"Daha önce de ifade ettiğimiz üzere, beklentimiz müttefiklik ruhuyla bağdaşmayan CAATSA yaptırımları ile savunma sanayimize yönelik doğrudan veya dolaylı tüm kısıtlamaların kaldırılmasıdır.\" ifadeleri kullanıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/msb-beklentimiz-caatsa-yaptirimlarinin-kaldirilmasidir-1746438"
         },
         {
-          "title": "Bursa'da hayvan çiftliğinde çıkan söndürüldü",
-          "summary": "Bursa’nın İnegöl ilçesinde büyükbaş hayvan çiftliğinde çıkan yangın itfaiye ekiplerinin yaklaşık 1 saat süren müdahalesiyle söndürüldü. Yangında hayvan çiftliği kullanılmaz hale geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursada-hayvan-ciftliginde-cikan-sonduruldu-43342086"
+          "title": "Motosikletlere bir ilde daha yasak",
+          "summary": "Sağanak yağış nedeniyle birçok ilde yollar göle döndü. İstanbul'un ardından Zonguldak'ta da motosikletlerin trafiğe çıkması yasaklandı. Sağanak yağış dün akşam saatlerinden itibaren etkisini artırdı. İstanbul başta olmak üzere birçok kentte yollar göle döndü. Vatandaşlar bulundukları yerde mahsur kaldı, araçlar sel sularında metrelerce sürüklendi. Bu illerden biri de Zonguldak'tı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-motosikletlere-bir-ilde-daha-yasak-1746434"
         },
         {
-          "title": "Bursa'da dev dalgalar sahildeki taşları yerinden söktü",
-          "summary": "Bursa’nın Mudanya ilçesinde etkili olan fırtına ve sağanak nedeniyle sahilde oluşan dev dalgalar, sahili dövdü. Kıyı şeridi sular altında kalırken, kordon boyunca hasar meydana geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursada-dev-dalgalar-sahildeki-taslari-yerinden-soktu-43342085"
+          "title": "Meriç Nehri'nde can pazarı: Alabora olan bottaki 1 çocuk hayatını kaybetti, 2 çocuk aranıyor",
+          "summary": "Edirne'de Yunanistan'a kaçmaya çalışan Iraklı ailenin bulunduğu bot Bosnaköy yakınlarında devrildi. Anne ve baba kurtarılırken, hastaneye kaldırılan 1 çocuk kurtarılamadı; kayıp 2 kardeş için bölgede arama çalışmaları havadan ve karadan devam ediyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/meric-nehrinde-can-pazari-alabora-olan-bottaki-1-cocuk-hayatini-kaybetti-2-cocuk-araniyor-43342572"
         },
         {
-          "title": "İzmir’de FETÖ operasyonu: 1 gözaltı",
-          "summary": "İzmir'in Gaziemir ilçesinde, polis ekiplerinin düzenlediği operasyonda 1 FETÖ şüphelisi gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-feto-operasyonu-1-gozalti-43342060"
+          "title": "MSB'den ABD'ye CAATSA çağrısı: Tüm kısıtlamalar kaldırılmalı",
+          "summary": "Milli Savunma Bakanlığı (MSB), terörle mücadeledeki son durumu açıklarken ABD'ye de kritik bir çağrıda bulundu. MSB, müttefiklik ruhuyla bağdaşmayan CAATSA yaptırımları ile savunma sanayisine yönelik doğrudan ve dolaylı tüm kısıtlamaların kaldırılmasını beklediklerini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/msbden-abdye-caatsa-cagrisi-tum-kisitlamalar-kaldirilmali-43342551"
         }
       ]
     },
     "dunya": {
-      "text": "ABD Başkanı Trump: İran saldırısını sızdıran vurulmalı. İran'a saldırı basına sızdı, B-2'ler geri döndü. Husilerden Suudi petrol devi Aramco'ya saldırı. Türkiye, NATO'nun Kosova'daki Barış Gücü KFOR'un komutasını İtalya'ya devretti. \"Karanlık enerji\" için yeni umut, evrenin uzak geçmişinden gelen bu zayıf parıltı mı?. İsrail ordusu kara harekatına hazır: Katz'dan Lübnan'a saldırı tehdidi. Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu.",
+      "text": "Fransa'dan Trump ile Putin'in anlaşmasına dikkat çeken yorum. İsrail'de olağanüstü hal ABD ara seçimlerine kadar sürecek. AB Liderler Zirvesi Brüksel'de başladı. Türkiye'den Kolombiya'ya 'Kudüs' tepkisi. Almanya, bir robotun 16 yaşındaki kıza cinsel tacizini konuşuyor. Dışişleri Bakanı Fidan, Bakü’de gerçekleştirilen CICA 7. Zirvesi’ne katıldı. Koltuk 90 dakika sahipsiz kaldı. Papa Leo yokken Katolik dünyasını kim yönetiyor?.",
       "items": [
         {
-          "title": "ABD Başkanı Trump: İran saldırısını sızdıran vurulmalı",
-          "summary": "ABD Başkanı Donald Trump, daha önce İran’a karşı planlanan bir saldırıyı zamanlamasının haber kuruluşlarına sızdırılması nedeniyle ertelemek zorunda kaldıklarını belirterek, \"Böyleleri ömür boyu hapiste olmalı. Hatta bana kalırsa bu bilgileri sızdıranlar vurulmalı. Eskiden sızıntı yapanları vururduk\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iran-saldirisini-sizdiran-vurulmali-43342111"
+          "title": "Fransa'dan Trump ile Putin'in anlaşmasına dikkat çeken yorum",
+          "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, Avrupalı ülkelerin Rusya-Ukrayna Savaşı nedeniyle Rus akaryakıtına uyguladığı yaptırımlara rağmen ABD Başkanı Donald Trump'ın Rusya Devlet Başkanı Vladimir Putin ile dizel anlaşması yapmasına ilişkin değerlendirmede bulundu. Barrot, \"birkaç on binlik varilin hiçbir şeyi değiştirmeyeceğini\" kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransadan-trump-ile-putinin-anlasmasina-dikkat-ceken-yorum-43342593"
         },
         {
-          "title": "İran'a saldırı basına sızdı, B-2'ler geri döndü",
-          "summary": "ABD Başkanı Donald Trump, bir süre önce İran'a yönelik bir saldırının zamanlamasının haber kuruluşlarına sızdırılmasının ardından B-2 hayalet uçaklarının geri döndüğünü açıkladı. ABD Başkanı Trump, 3 Kasım seçimleri öncesi mitinglerine devam ediyor. Arizona'da düzenlenen seçim mitinginde gündeme ilişkin açıklamalar yapan Trump, bir süre önce İran'a yönelik bir saldırı planının sızıntı nedeniyle iptal edildiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/irana-saldiri-basina-sizdi-b-2ler-geri-dondu-1746353"
+          "title": "İsrail'de olağanüstü hal ABD ara seçimlerine kadar sürecek",
+          "summary": "İsrail'in aşırı sağcı hükümeti, ülke genelinde olağanüstü hal uygulamasını uzatma kararı aldı. Olağanüstü halin ABD'de 3 Kasım'da gerçekleştirilecek ara seçimlere kadar süreceği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilde-olaganustu-hal-abd-ara-secimlerine-kadar-surecek-43342583"
         },
         {
-          "title": "Husilerden Suudi petrol devi Aramco'ya saldırı",
-          "summary": "Yemen'deki Husiler, Suudi Arabistan'ın petrol devi Aramco'ya ait tesisleri füze ve insansız hava araçlarıyla (İHA) hedef aldıklarını açıkladı. Yemen'deki Husiler ile Suudi Arabistan öncülüğündeki koalisyon arasında çatışmalar şiddetlenirken Husiler, Suudi petrol devi Aramco'nun tesislerine saldırı düzenlediklerini duyurdu. Husilerin askeri sözcüsü Yahya Seri, Dahran kentindeki Aramco tesislerini hedef alan kapsamlı bir askeri operasyon gerçekleştirdiklerini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/husilerden-suudi-petrol-devi-aramcoya-saldiri-1746345"
+          "title": "AB Liderler Zirvesi Brüksel'de başladı",
+          "summary": "Avrupa Birliği (AB) üyesi ülkelerin liderlerini bütçe, enerji fiyatları, Rusya-Ukrayna Savaşı, Orta Doğu'daki gelişmeler ile genişleme süreci ve göç gibi konuları ele almak üzere iki günlüğüne Brüksel'de bir araya getiren AB Liderler Zirvesi başladı. AB liderleri, zirvenin ilk oturumunda, 2026-2027 dönemini kapsayan “Tek Avrupa, Tek Pazar” gündemi ile ekonomi politikalarının hayata geçirilmesinde gelinen aşamayı değerlendirecek.",
+          "source": "https://www.hurriyet.com.tr/dunya/ab-liderler-zirvesi-brukselde-basladi-43342575"
         },
         {
-          "title": "Türkiye, NATO'nun Kosova'daki Barış Gücü KFOR'un komutasını İtalya'ya devretti",
-          "summary": "Türkiye, Ekim 2025'te ikinci defa üstlendiği NATO'nun Kosova'daki Barış Gücünün (KFOR) komutasını İtalya'ya devretti. NATO'nun Kosova'daki Barış Gücünün (KFOR), başkent Priştine'deki ana karargahında düzenlenen devir teslim törenine, Kosova Cumhurbaşkanı Justina Shiroka Pula, Kosova Başbakanı Albin Kurti, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, İtalya Savunma Bakanı Guido Crosetto, NATO Napoli Müşterek Kuvvet Komutanı Oramiral George M. Wikoff ve çok sayıda davetli katıldı.",
-          "source": "https://www.ntv.com.tr/dunya/turkiye-natonun-kosovadaki-baris-gucu-kforun-komutasini-italyaya-devretti-1746322"
+          "title": "Türkiye'den Kolombiya'ya 'Kudüs' tepkisi",
+          "summary": "Dışişleri Bakanlığı, Kolombiya'nın Tel Aviv'deki büyükelçiliğini Kudüs'e taşıma kararını kınadı.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiyeden-kolombiyaya-kudus-tepkisi-43342552"
         },
         {
-          "title": "\"Karanlık enerji\" için yeni umut, evrenin uzak geçmişinden gelen bu zayıf parıltı mı?",
-          "summary": "Evrenin ivmelenerek genişlemesinin arkasındaki itici güç olan gizemli \"karanlık enerji\"nin doğasını çözümlemek için, kainatın uzak geçmişindeki hidrojenin sönük radyo parıltısı umut ışığı oldu. Hidrojen, kozmostaki çok bulunan element olabilir ancak bilim insanları bunu şimdi eşi benzeri olmayan bir amaç için kullanıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-karanlik-enerji-icin-yeni-umut-evrenin-uzak-gecmisinden-gelen-bu-zayif-parilti-mi-1746319"
+          "title": "Almanya, bir robotun 16 yaşındaki kıza cinsel tacizini konuşuyor",
+          "summary": "Alman polisi, 16 yaşındaki bir kız çocuğunun uzaktan kumandalı bir robot tarafından taciz edildiği iddiası üzerine soruşturma başlattı. Tacizi sosyal medyada canlı yayınlayan iki erkek tutuklandı. Almanya'nın Köln kentinde, 16 ve 19 yaşlarındaki olan iki genç erkek tarafından uzaktan kumandayla idare edilen robotun, 16 yaşındaki bir kıza cinsel tacizde bulunduğu olaya ilişkin soruşturma başlatıldı.",
+          "source": "https://www.ntv.com.tr/dunya/almanya-bir-robotun-16-yasindaki-kiza-cinsel-tacizini-konusuyor-1746420"
         },
         {
-          "title": "İsrail ordusu kara harekatına hazır: Katz'dan Lübnan'a saldırı tehdidi",
-          "summary": "Lübnan'daki işgali genişletme tehdidinde bulunan İsrail Savunma Bakanı Yisrael Katz, Hizbullah'ın İran ile birlikte İsrail'e saldırması halinde ağır bir darbe alacağını belirtti. Katz, İsrail güçlerinin bir kara harekatı gerçekleştirmeye hazır olduğunu ifade ederek, Hizbullah Genel Sekreteri Naim Kasım'ı hedef alabileceklerini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusu-kara-harekatina-hazir-katzdan-lubnana-saldiri-tehdidi-43341414"
+          "title": "Dışişleri Bakanı Fidan, Bakü’de gerçekleştirilen CICA 7. Zirvesi’ne katıldı",
+          "summary": "Asya'da İşbirliği ve Güven Artırıcı Önlemler Konferansı'nın (CICA) 7. Zirvesi Azerbaycan'ın başkenti Bakü'de başladı. Zirvede Türkiye'yi Dışişleri Bakanı Hakan Fidan temsil ediyor Bakü Kongre Merkezi'nde düzenlenen zirve öncesinde Azerbaycan Cumhurbaşkanı İlham Aliyev, devlet başkanlarını ve diğer üst düzey yöneticileri karşıladı. Liderler daha sonra aile fotoğrafı için bir araya geldi.",
+          "source": "https://www.ntv.com.tr/dunya/disisleri-bakani-fidan-bakude-gerceklestirilen-cica-7-zirvesine-katildi-1746430"
         },
         {
-          "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
-          "summary": "Akciğerinde tespit edilen kitlenin alınması için dün ameliyat olan Papa 14. Leo'nun akciğer kanseri olduğu doğrulandı. Vatikan Devlet Başkanı Papa 14. Leo'nun, akciğerinde tespit edilen kitle (nodül) nedeniyle dün yapılan ameliyatın başarılı geçtiği ve öncesindeki testlerde şüphelenildiği gibi akciğer kanseri tanısının doğrulandığı bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu-1746221"
+          "title": "Koltuk 90 dakika sahipsiz kaldı. Papa Leo yokken Katolik dünyasını kim yönetiyor?",
+          "summary": "Akciğerindeki kitle nedeniyle ameliyat edilen ve genel anestezi altında kalan Papa Leo'nun operasyonu, yetkinin kime geçtiği tartışmasını beraberinde getirdi. Katolik dünyasının ruhani lideri Papa Leo'nun akciğerindeki kitle nedeniyle salı günü ameliyat masasına yatması ve operasyon sırasında en az 90 dakika genel anestezi altında kalması, bir papanın fiilen görev yapamaz duruma gelmesi halinde kilisenin nasıl yönetileceği sorusunu gündeme getirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-koltuk-90-dakika-sahipsiz-kaldi-papa-leo-yokken-katolik-dunyasini-kim-yonetiyor-1746428"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Unai Emery: 'Fenerbahçe altı gol yemeyi hak etmedi!'. Milan Skriniar, 6-0'lık Aston Villa yenilgisini değerlendirdi: 'Bugün utanç vericiydi!'. İsmail Kartal: 'Hakkı bu değildi, kabul edilir değil!'. Shakhtar Donetsk 3-1 AEK (UEFA Şampiyonlar Ligi) Arda Turan... Greenwood'a İngiltere'de büyük tepki! Protestonun nedeni ortaya çıktı. Aston Villa maçında Vedat Muriqi'nin 30 dakikası olay oldu: Fırsatları tepti, hata yaptı!. Salih Özcan: '3 puanla evimize döneceğiz!'.",
+      "text": "A Milli Kadın Basketbol Takımı'nda Andrea Mazzon dönemi sona erdi!. Ankara'da 10 koşuluk program! İşte Misli'den günün altılı analizi... Fenerbahçe, EuroLeague'de Partizan'ı ağırlıyor! Maçın heyecanı canlı yayın ile Misli'de. Arda Güler, Roma-Real Madrid maçı sonrası İspanya'da kahraman oldu! '3 mucize gerçekleştirdi'. Beşiktaş ve Trabzonspor, Avrupa sahnesinde! Maçların heyecanı canlı sohbet ile Misli'de. Süper Lig'de 8. haftanın perdesi yarın açılacak. Anadolu Efes, Zalgiris Kaunas'a konuk olacak.",
       "items": [
         {
-          "title": "Unai Emery: 'Fenerbahçe altı gol yemeyi hak etmedi!'",
-          "summary": "Aston Villa Teknik Direktörü Unai Emery, Fenerbahçe maçının ardından değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/unai-emery-fenerbahce-alti-gol-yemeyi-hak-etmedi-43342061"
+          "title": "A Milli Kadın Basketbol Takımı'nda Andrea Mazzon dönemi sona erdi!",
+          "summary": "Türkiye Basketbol Federasyonu, A Milli Kadın Takımı'nın İtalyan başantrenörü Andrea Mazzon ile yolların ayrıldığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takiminda-andrea-mazzon-donemi-sona-erdi-43342595"
         },
         {
-          "title": "Milan Skriniar, 6-0'lık Aston Villa yenilgisini değerlendirdi: 'Bugün utanç vericiydi!'",
-          "summary": "Fenerbahçe kaptanı Milan Skriniar, Şampiyonlar Ligi'nin ikinci haftasında alınan 6-0'lık Aston Villa yenilgisini, \"Çok büyük hatalar yaptık bugün. Yüzümüzü göstermeliyiz, saklanmamalıyız. Bugün utanç vericiydi.\" sözleriyle değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/milan-skriniar-6-0lik-aston-villa-yenilgisini-degerlendirdi-bugun-utanc-vericiydi-43342030"
+          "title": "Ankara'da 10 koşuluk program! İşte Misli'den günün altılı analizi...",
+          "summary": "Ankara 75. Yıl Hipodromu, bugün yarışseverleri 10 koşudan oluşan heyecan dolu bir programla buluşturuyor. Günün programında, birbirine denk güçte safkanların mücadele edeceği zorlu handikap koşularının yanı sıra, kalite isimlerin sahne alacağı önemli mücadeleler de dikkat çekiyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-10-kosuluk-program-iste-misliden-gunun-altili-analizi-43342535"
         },
         {
-          "title": "İsmail Kartal: 'Hakkı bu değildi, kabul edilir değil!'",
-          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Aston Villa mağlubiyetinin ardından değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-hakki-bu-degildi-kabul-edilir-degil-43342040"
+          "title": "Fenerbahçe, EuroLeague'de Partizan'ı ağırlıyor! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "Fenerbahçe, EuroLeague'in 6. haftasında Sırbistan temsilcisi Partizan'ı konuk ediyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-euroleaguede-partizani-agirliyor-macin-heyecani-canli-yayin-ile-mislide-43342492"
         },
         {
-          "title": "Shakhtar Donetsk 3-1 AEK (UEFA Şampiyonlar Ligi) Arda Turan...",
-          "summary": "Shakhtar Donetsk'in Yunan ekibi AEK'yı 3-1 yendiği maçta Arda Turan, teknik direktörlük kariyerinin ilk Şampiyonlar Ligi galibiyetini aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/shakhtar-donetsk-3-1-aek-uefa-sampiyonlar-ligi-arda-turan-43342022"
+          "title": "Arda Güler, Roma-Real Madrid maçı sonrası İspanya'da kahraman oldu! '3 mucize gerçekleştirdi'",
+          "summary": "Milli yıldızımız Arda Güler, Real Madrid'in Roma'yı geriden gelip yendiği maça yaptığı asistlerle damga vurdu. İspanya'da adeta kahraman ilan edilen Arda Güler için övgü dolu sözler sarf edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-guler-roma-real-madrid-maci-sonrasi-ispanyada-kahraman-oldu-3-mucize-gerceklestirdi-43342374"
         },
         {
-          "title": "Greenwood'a İngiltere'de büyük tepki! Protestonun nedeni ortaya çıktı",
-          "summary": "Fenerbahçe'nin İngiliz yıldızı Mason Greenwood, Aston Villa deplasmanında tribünlerin tepkisiyle karşılaştı. Maç öncesinde ismi anons edildiği sırada başlayan protestolar, karşılaşma boyunca devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/greenwooda-ingilterede-buyuk-tepki-protestonun-nedeni-ortaya-cikti-43341976"
+          "title": "Beşiktaş ve Trabzonspor, Avrupa sahnesinde! Maçların heyecanı canlı sohbet ile Misli'de",
+          "summary": "Bu akşam temsilcilerimiz Beşiktaş Avrupa Ligi, Trabzonspor ise Konferans Ligi’nde sahaya çıkacak. Beşiktaş'ın Hoffenheim ve Trabzonspor'un KuPS Kuopio maçları canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ve-trabzonspor-avrupa-sahnesinde-maclarin-heyecani-canli-sohbet-ile-mislide-43342450"
         },
         {
-          "title": "Aston Villa maçında Vedat Muriqi'nin 30 dakikası olay oldu: Fırsatları tepti, hata yaptı!",
-          "summary": "UEFA Şampiyonlar Ligi’nin 2. haftasında Aston Villa deplasmanına çıkan Fenerbahçe’de Vedat Muriqi, maçın henüz ilk yarım saatinde önce arka direkteki fırsatı kaçırdı, ardından karşı karşıya pozisyonda golü bulamadı ve son olarak gole sebep olan bir pas hatası yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aston-villa-macinda-vedat-muriqinin-30-dakikasi-olay-oldu-firsatlari-tepti-hata-yapti-43341941"
+          "title": "Süper Lig'de 8. haftanın perdesi yarın açılacak",
+          "summary": "Trendyol Süper Lig'de 8. hafta heyecanı yarın başlıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-8-haftanin-perdesi-yarin-acilacak-43342341"
         },
         {
-          "title": "Salih Özcan: '3 puanla evimize döneceğiz!'",
-          "summary": "UEFA Avrupa Ligi'nin ikinci haftasında yarın deplasmanda Hoffenheim ile karşılaşacak Beşiktaş'ta milli futbolcu Salih Özcan açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/salih-ozcan-3-puanla-evimize-donecegiz-43341920"
+          "title": "Anadolu Efes, Zalgiris Kaunas'a konuk olacak",
+          "summary": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın Zalgiris Kaunas'a konuk olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-zalgiris-kaunasa-konuk-olacak-43342327"
         }
       ]
     },
