@@ -1,51 +1,66 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-14T16:00:04.459Z",
+  "generatedAt": "2026-10-15T04:00:04.862Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da yarın okullar tatil edildi. Motosikletlerin trafiğe çıkması yasaklandı. Dışişleri Bakanı Hakan Fidan, Azerbaycan’da. Aydın’da DEAŞ operasyonu: 2 tutuklama. Türkiye ve Birleşik Krallık'tan ortak \"düzensiz göç\" açıklaması. Yalova merkezli 6 ilde tefecilik operasyonu; 21 gözaltı. İstanbul'da sağanak yağış ne kadar sürecek?. İBB'ye yönelik 'Yolsuzluk' davasında İmamoğlu savunma yaptı.",
+      "text": "6 ilde okullar tatil edildi. İstanbul Valisi Gül'den \"dışarı çıkmayın\" uyarısı. Annesini bıçakla rehin aldı! Polis operasyon düzenledi. BUDO'nun 12 seferi iptal edildi. İstanbul'u sağanak ve fırtına vurdu. 2 kişi hayatını kaybetti. Bursa'da hayvan çiftliğinde çıkan söndürüldü. Bursa'da dev dalgalar sahildeki taşları yerinden söktü. İzmir’de FETÖ operasyonu: 1 gözaltı.",
       "items": [
         {
-          "title": "İstanbul'da yarın okullar tatil edildi. Motosikletlerin trafiğe çıkması yasaklandı",
-          "summary": "İstanbul'da olumsuz hava koşulları nedeniyle okullar yarın tatil edildi. Bugün saat 21.00'dan itibaren motosikletlerin trafiğe çıkmaları da yasaklandı. İstanbul Valiliği, olumsuz hava koşulları nedeniyle alınan tedbirleri paylaştı. Yarın (15 Ekim Perşembe) il genelinde resmi-özel tüm eğitim kurumlarında “yüz yüze eğitim” faaliyetlerine bir gün süreyle ara verildiği açıklandı.",
+          "title": "6 ilde okullar tatil edildi. İstanbul Valisi Gül'den \"dışarı çıkmayın\" uyarısı",
+          "summary": "İstanbul da dahil 6 ilde şiddetli yağış nedeniyle okullar bugün tatil edildi. Motosikletlerin trafiğe çıkmaları yasaklandı. Vali Gül'den de önemli bir uyarı geldi. İstanbul Valiliği, olumsuz hava koşulları nedeniyle alınan tedbirleri paylaştı. Bugün (15 Ekim Perşembe) il genelinde resmi-özel tüm eğitim kurumlarında “yüz yüze eğitim” faaliyetlerine bir gün süreyle ara verildiği açıklandı.",
           "source": "https://www.ntv.com.tr/turkiye/istanbulda-yarin-okullar-tatil-edildi-1746328"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan, Azerbaycan’da",
-          "summary": "Dışişleri Bakanı Hakan Fidan, CICA Yedinci Zirvesi için Azerbaycan'a gitti.",
-          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-azerbaycanda-43341729"
+          "title": "Annesini bıçakla rehin aldı! Polis operasyon düzenledi",
+          "summary": "Bursa'da aile içerisinde yaşanan tartışmada oğlu Hakan Ç. tarafından bıçakla rehin alınan anne Hatice Ç., özel harekat polisin düzenlediği operasyonla kurtarıldı. Etkisiz hale getirilen şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/annesini-bicakla-rehin-aldi-polis-operasyon-duzenledi-43342115"
         },
         {
-          "title": "Aydın’da DEAŞ operasyonu: 2 tutuklama",
-          "summary": "Aydın’da polisin terör örgütü DEAŞ’a yönelik düzenlediği operasyonda 1'i Suriye uyruklu 2 şüpheli gözaltına alındı. İşlemlerinin ardından adliyeye sevk edilen şüpheliler tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/aydinda-deas-operasyonu-2-tutuklama-43341727"
+          "title": "BUDO'nun 12 seferi iptal edildi",
+          "summary": "Bursa Deniz Otobüsleri'nin (BUDO) bugün yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/budonun-12-seferi-iptal-edildi-43342114"
         },
         {
-          "title": "Türkiye ve Birleşik Krallık'tan ortak \"düzensiz göç\" açıklaması",
-          "summary": "Türkiye Cumhuriyeti ve Birleşik Krallık İçişleri Bakanlığı tarafından yayımlanan ortak açıklamada, düzensiz göçün etkili ve sürdürülebilir bir şekilde yönetilmesi konusunda ortak sorumluluk vurgulandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ve-birlesik-kralliktan-ortak-duzensiz-goc-aciklamasi-43341723"
+          "title": "İstanbul'u sağanak ve fırtına vurdu. 2 kişi hayatını kaybetti",
+          "summary": "Sağanağın şiddetlendiği İstanbul'da yollar göle döndü, hayat adeta durdu. Fatih'te su birikintisinde akıma kapılan çocuk ve Sarıyer'de sel sularını aşmaya çalışırken düşen bir kişi hayatını kaybetti. İstanbul'da sabah saatlerinden itibaren etkisini artıran şiddetli sağanak ve fırtına, kentte günlük yaşamı olumsuz etkiledi. 15 Ekim Perşembe günü il genelinde eğitime bir gün ara verildi. BİR ÇOCUK AKIMA KAPILDI Fatih'te Çukurbostan Parkı’nda 14 yaşındaki M.I.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulu-saganak-ve-firtina-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-1746241"
         },
         {
-          "title": "Yalova merkezli 6 ilde tefecilik operasyonu; 21 gözaltı",
-          "summary": "Yalova merkezli 6 ilde düzenlenen tefecilik operasyonunda 21 şüpheli yakalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yalova-merkezli-6-ilde-tefecilik-operasyonu-21-gozalti-43341715"
+          "title": "Bursa'da hayvan çiftliğinde çıkan söndürüldü",
+          "summary": "Bursa’nın İnegöl ilçesinde büyükbaş hayvan çiftliğinde çıkan yangın itfaiye ekiplerinin yaklaşık 1 saat süren müdahalesiyle söndürüldü. Yangında hayvan çiftliği kullanılmaz hale geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-hayvan-ciftliginde-cikan-sonduruldu-43342086"
         },
         {
-          "title": "İstanbul'da sağanak yağış ne kadar sürecek?",
-          "summary": "İstanbul'da yapılan uyarıların ardından kuvvetli sağanak etkili oluyor. Gün içinde Avrupa Yakası'nda etkili olan yağış, akşam ve gece saatlerinde Anadolu Yakası'nda devam edecek. İstanbul'da dün akşam başlayan ve aralıklarla süren sağanak, kent genelinde hayatı olumsuz etkilemeye devam ediyor. Meteoroloji Genel Müdürlüğü'nün (MGM) uyarılarının ardından kentteki bazı bölgelerde dün akşam saatlerinden itibaren etkili olan kuvvetli yağış sabah saatlerinde şiddetini artırdı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-is-cikis-saatine-dikkat-firtina-geliyor-anadolu-yakasinda-hava-patlayacak-1746280"
+          "title": "Bursa'da dev dalgalar sahildeki taşları yerinden söktü",
+          "summary": "Bursa’nın Mudanya ilçesinde etkili olan fırtına ve sağanak nedeniyle sahilde oluşan dev dalgalar, sahili dövdü. Kıyı şeridi sular altında kalırken, kordon boyunca hasar meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-dev-dalgalar-sahildeki-taslari-yerinden-soktu-43342085"
         },
         {
-          "title": "İBB'ye yönelik 'Yolsuzluk' davasında İmamoğlu savunma yaptı",
-          "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 53’ü tutuklu 436 sanık, 98’inci duruşmada hakim karşısına çıktı. İmamoğlu savunmasında, \"İktidar kendi rakibini seçemez, rakibi millet üretir. Bu kuralın bu ülkedeki ilk büyük kırılması 2019'da İstanbul'da yaşandı ve nasıl bir millet tepkisi yaşandığını da ifade ettim\" dedi. Duruşma yarına ertelendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ibbye-yonelik-yolsuzluk-davasinda-imamoglu-savunma-yapti-43341708"
+          "title": "İzmir’de FETÖ operasyonu: 1 gözaltı",
+          "summary": "İzmir'in Gaziemir ilçesinde, polis ekiplerinin düzenlediği operasyonda 1 FETÖ şüphelisi gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmirde-feto-operasyonu-1-gozalti-43342060"
         }
       ]
     },
     "dunya": {
-      "text": "Türkiye, NATO'nun Kosova'daki Barış Gücü KFOR'un komutasını İtalya'ya devretti. \"Karanlık enerji\" için yeni umut, evrenin uzak geçmişinden gelen bu zayıf parıltı mı?. İsrail ordusu kara harekatına hazır: Katz'dan Lübnan'a saldırı tehdidi. Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu. Macron, protestocu öğrencileri hedef aldı. \"Siyasetçilerin oyuncağı oluyorlar\". Ukrayna: Starlink ordumuzun kullandığı interneti kısıtladı. Trump: Grönland'da petrol, doğal gaz ve maden arama faaliyetleri başlamak üzere.",
+      "text": "ABD Başkanı Trump: İran saldırısını sızdıran vurulmalı. İran'a saldırı basına sızdı, B-2'ler geri döndü. Husilerden Suudi petrol devi Aramco'ya saldırı. Türkiye, NATO'nun Kosova'daki Barış Gücü KFOR'un komutasını İtalya'ya devretti. \"Karanlık enerji\" için yeni umut, evrenin uzak geçmişinden gelen bu zayıf parıltı mı?. İsrail ordusu kara harekatına hazır: Katz'dan Lübnan'a saldırı tehdidi. Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu.",
       "items": [
+        {
+          "title": "ABD Başkanı Trump: İran saldırısını sızdıran vurulmalı",
+          "summary": "ABD Başkanı Donald Trump, daha önce İran’a karşı planlanan bir saldırıyı zamanlamasının haber kuruluşlarına sızdırılması nedeniyle ertelemek zorunda kaldıklarını belirterek, \"Böyleleri ömür boyu hapiste olmalı. Hatta bana kalırsa bu bilgileri sızdıranlar vurulmalı. Eskiden sızıntı yapanları vururduk\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iran-saldirisini-sizdiran-vurulmali-43342111"
+        },
+        {
+          "title": "İran'a saldırı basına sızdı, B-2'ler geri döndü",
+          "summary": "ABD Başkanı Donald Trump, bir süre önce İran'a yönelik bir saldırının zamanlamasının haber kuruluşlarına sızdırılmasının ardından B-2 hayalet uçaklarının geri döndüğünü açıkladı. ABD Başkanı Trump, 3 Kasım seçimleri öncesi mitinglerine devam ediyor. Arizona'da düzenlenen seçim mitinginde gündeme ilişkin açıklamalar yapan Trump, bir süre önce İran'a yönelik bir saldırı planının sızıntı nedeniyle iptal edildiğini açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/irana-saldiri-basina-sizdi-b-2ler-geri-dondu-1746353"
+        },
+        {
+          "title": "Husilerden Suudi petrol devi Aramco'ya saldırı",
+          "summary": "Yemen'deki Husiler, Suudi Arabistan'ın petrol devi Aramco'ya ait tesisleri füze ve insansız hava araçlarıyla (İHA) hedef aldıklarını açıkladı. Yemen'deki Husiler ile Suudi Arabistan öncülüğündeki koalisyon arasında çatışmalar şiddetlenirken Husiler, Suudi petrol devi Aramco'nun tesislerine saldırı düzenlediklerini duyurdu. Husilerin askeri sözcüsü Yahya Seri, Dahran kentindeki Aramco tesislerini hedef alan kapsamlı bir askeri operasyon gerçekleştirdiklerini açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/husilerden-suudi-petrol-devi-aramcoya-saldiri-1746345"
+        },
         {
           "title": "Türkiye, NATO'nun Kosova'daki Barış Gücü KFOR'un komutasını İtalya'ya devretti",
           "summary": "Türkiye, Ekim 2025'te ikinci defa üstlendiği NATO'nun Kosova'daki Barış Gücünün (KFOR) komutasını İtalya'ya devretti. NATO'nun Kosova'daki Barış Gücünün (KFOR), başkent Priştine'deki ana karargahında düzenlenen devir teslim törenine, Kosova Cumhurbaşkanı Justina Shiroka Pula, Kosova Başbakanı Albin Kurti, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, İtalya Savunma Bakanı Guido Crosetto, NATO Napoli Müşterek Kuvvet Komutanı Oramiral George M. Wikoff ve çok sayıda davetli katıldı.",
@@ -65,21 +80,6 @@
           "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
           "summary": "Akciğerinde tespit edilen kitlenin alınması için dün ameliyat olan Papa 14. Leo'nun akciğer kanseri olduğu doğrulandı. Vatikan Devlet Başkanı Papa 14. Leo'nun, akciğerinde tespit edilen kitle (nodül) nedeniyle dün yapılan ameliyatın başarılı geçtiği ve öncesindeki testlerde şüphelenildiği gibi akciğer kanseri tanısının doğrulandığı bildirildi.",
           "source": "https://www.ntv.com.tr/dunya/galeri-ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu-1746221"
-        },
-        {
-          "title": "Macron, protestocu öğrencileri hedef aldı. \"Siyasetçilerin oyuncağı oluyorlar\"",
-          "summary": "Fransa'da üç haftadır okulları tatil ettiren liseli protestolarına ilişkin konuşan Cumhurbaşkanı Macron, gençlerin meşru taleplerinin siyasi güçlerce istismar edildiğini savundu. Fransa Cumhurbaşkanı Emmanuel Macron, ülke genelinde çok sayıda okulun kapanmasına yol açan ve üç haftadır devam eden lise eylemlerine ilişkin açıklamasında, öğrencilerin meşru talepleri olduğunu ancak bu hareketin siyasi odaklarca istismar edildiğini savunudu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-macron-protestocu-ogrencileri-hedef-aldi-siyasetcilerin-oyuncagi-oluyorlar-1746307"
-        },
-        {
-          "title": "Ukrayna: Starlink ordumuzun kullandığı interneti kısıtladı",
-          "summary": "Ukrayna; uzay, havacılık ve yapay zeka şirketi SpaceX'in Starlink sisteminin, Ukrayna ordusunun kullandığı \"askeri paket\" internet hizmetinin çalışma hızını kısıtladığını iddia etti. Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin teknoloji danışmanı Sergiy Beskrestnov, gece bazı Starlink internet terminallerinin operasyonlarının daraltıldığını öne sürdü. Danışman Sergiy Beskrestnov, \"Bu gece SpaceX, mobil Starlink terminallerimize hız sınırlaması getirdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ukrayna-starlink-ordumuzun-kullandigi-interneti-kisitladi-1746273"
-        },
-        {
-          "title": "Trump: Grönland'da petrol, doğal gaz ve maden arama faaliyetleri başlamak üzere",
-          "summary": "ABD Başkanı Donald Trump, Grönland'da \"devasa\" petrol, doğal gaz ve maden arama faaliyetlerinin başlamak üzere olduğunu duyurdu. ABD Başkanı Donald Trump, sosyal medya hesabından, daha önce ülkesinin kontrolünde olması gerektiğini savunduğu Grönland'a ilişkin açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/trump-gronlandda-petrol-dogal-gaz-ve-maden-arama-faaliyetleri-baslamak-uzere-1746299"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Trendyol 1. Lig maçına yağmur engeli!. ÖZEL | Galatasaray'ın eski yıldızı Barcelona maçı öncesi konuştu: 'Pes etmemek DNA’sında var | Yamal için kolay olmayacak!'. UEFA Gençlik Ligi'nde Fenerbahçe, Aston Villa'ya mağlup. Eleştirilerin hedefindeki Sane'den Galatasaray taraftarına mesaj!. Trabzonspor-Beşiktaş derbisi öncesi tarihi karar! 6 yıllık yasak kalktı. Son Ayakta 34.25 Ganyan! 96 TL’ye 66.266 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…. Hoffenheim-Beşiktaş maçı öncesi Ozan Kabak konuştu: Umarım 3 puanla kapatırız.",
+      "text": "Unai Emery: 'Fenerbahçe altı gol yemeyi hak etmedi!'. Milan Skriniar, 6-0'lık Aston Villa yenilgisini değerlendirdi: 'Bugün utanç vericiydi!'. İsmail Kartal: 'Hakkı bu değildi, kabul edilir değil!'. Shakhtar Donetsk 3-1 AEK (UEFA Şampiyonlar Ligi) Arda Turan... Greenwood'a İngiltere'de büyük tepki! Protestonun nedeni ortaya çıktı. Aston Villa maçında Vedat Muriqi'nin 30 dakikası olay oldu: Fırsatları tepti, hata yaptı!. Salih Özcan: '3 puanla evimize döneceğiz!'.",
       "items": [
         {
-          "title": "Trendyol 1. Lig maçına yağmur engeli!",
-          "summary": "Trendyol 1. Lig'in 10. haftasında oynanan Ümraniyespor - Boluspor müsabakasında yoğun yağmur yağışı nedeniyle yarıda kaldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trendyol-1-lig-macina-yagmur-engeli-43341756"
+          "title": "Unai Emery: 'Fenerbahçe altı gol yemeyi hak etmedi!'",
+          "summary": "Aston Villa Teknik Direktörü Unai Emery, Fenerbahçe maçının ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/unai-emery-fenerbahce-alti-gol-yemeyi-hak-etmedi-43342061"
         },
         {
-          "title": "ÖZEL | Galatasaray'ın eski yıldızı Barcelona maçı öncesi konuştu: 'Pes etmemek DNA’sında var | Yamal için kolay olmayacak!'",
-          "summary": "Galatasaray'ın eski milli futbolcusu Cihan Haspolatlı, sarı-kırmızılı temsilcimizin önümüzdeki salı günü Avrupa'da oynayacağı dev Barcelona maçı öncesi Spor Arena'ya özel açıklamalarda bulundu. Kendi dönemindeki Barcelona anılarından Okan Buruk'un performansına, takımın yıldızlarından taraftarın etkisine kadar birçok konuyu değerlendiren Haspolatlı, Seyrantepe'deki mücadele için umutlu konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ozel-galatasarayin-eski-yildizi-barcelona-maci-oncesi-konustu-pes-etmemek-dnasinda-var-yamal-icin-kolay-43341734"
+          "title": "Milan Skriniar, 6-0'lık Aston Villa yenilgisini değerlendirdi: 'Bugün utanç vericiydi!'",
+          "summary": "Fenerbahçe kaptanı Milan Skriniar, Şampiyonlar Ligi'nin ikinci haftasında alınan 6-0'lık Aston Villa yenilgisini, \"Çok büyük hatalar yaptık bugün. Yüzümüzü göstermeliyiz, saklanmamalıyız. Bugün utanç vericiydi.\" sözleriyle değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/milan-skriniar-6-0lik-aston-villa-yenilgisini-degerlendirdi-bugun-utanc-vericiydi-43342030"
         },
         {
-          "title": "UEFA Gençlik Ligi'nde Fenerbahçe, Aston Villa'ya mağlup",
-          "summary": "UEFA Gençlik Ligi'nin 2. haftasında Fenerbahçe 19 yaş altı takımı, deplasmanda Aston Villa'ya 2-1 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uefa-genclik-liginde-fenerbahce-aston-villaya-maglup-43341724"
+          "title": "İsmail Kartal: 'Hakkı bu değildi, kabul edilir değil!'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Aston Villa mağlubiyetinin ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-hakki-bu-degildi-kabul-edilir-degil-43342040"
         },
         {
-          "title": "Eleştirilerin hedefindeki Sane'den Galatasaray taraftarına mesaj!",
-          "summary": "Barcelona maçındaki performansıyla Galatasaray taraftarlarının tepkisini çeken Leroy Sane, yeniden en iyi formuna ulaşmak için çalıştığını vurguladığı bir paylaşım yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/elestirilerin-hedefindeki-saneden-galatasaray-taraftarina-mesaj-43341713"
+          "title": "Shakhtar Donetsk 3-1 AEK (UEFA Şampiyonlar Ligi) Arda Turan...",
+          "summary": "Shakhtar Donetsk'in Yunan ekibi AEK'yı 3-1 yendiği maçta Arda Turan, teknik direktörlük kariyerinin ilk Şampiyonlar Ligi galibiyetini aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/shakhtar-donetsk-3-1-aek-uefa-sampiyonlar-ligi-arda-turan-43342022"
         },
         {
-          "title": "Trabzonspor-Beşiktaş derbisi öncesi tarihi karar! 6 yıllık yasak kalktı",
-          "summary": "Trabzonspor ile Beşiktaş arasında 6 yıldır uygulanan deplasman yasağı uygulaması kaldırıldı. Siyah-beyazlı taraftarlar, Pazartesi günü oynanacak maçta takımlarını tribünden destekleyebileyecek. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-besiktas-derbisi-oncesi-tarihi-karar-6-yillik-yasak-kalkti-43341677"
+          "title": "Greenwood'a İngiltere'de büyük tepki! Protestonun nedeni ortaya çıktı",
+          "summary": "Fenerbahçe'nin İngiliz yıldızı Mason Greenwood, Aston Villa deplasmanında tribünlerin tepkisiyle karşılaştı. Maç öncesinde ismi anons edildiği sırada başlayan protestolar, karşılaşma boyunca devam etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/greenwooda-ingilterede-buyuk-tepki-protestonun-nedeni-ortaya-cikti-43341976"
         },
         {
-          "title": "Son Ayakta 34.25 Ganyan! 96 TL’ye 66.266 TL Kazandı! İşte Misli’de Günün Kazanan Altılısı…",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli üyeleri kazanmaya devam ediyor! Dün koşulan Leicester Birleşik Krallık 1. 6’lı Ganyan koşularında Misli üyesi, 96 TL’ye 66.266 TL kazandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/son-ayakta-34-25-ganyan-96-tlye-66-266-tl-kazandi-iste-mislide-gunun-kazanan-altilisi-43341611"
+          "title": "Aston Villa maçında Vedat Muriqi'nin 30 dakikası olay oldu: Fırsatları tepti, hata yaptı!",
+          "summary": "UEFA Şampiyonlar Ligi’nin 2. haftasında Aston Villa deplasmanına çıkan Fenerbahçe’de Vedat Muriqi, maçın henüz ilk yarım saatinde önce arka direkteki fırsatı kaçırdı, ardından karşı karşıya pozisyonda golü bulamadı ve son olarak gole sebep olan bir pas hatası yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aston-villa-macinda-vedat-muriqinin-30-dakikasi-olay-oldu-firsatlari-tepti-hata-yapti-43341941"
         },
         {
-          "title": "Hoffenheim-Beşiktaş maçı öncesi Ozan Kabak konuştu: Umarım 3 puanla kapatırız",
-          "summary": "Beşiktaş'ın UEFA Avrupa Ligi'nde oynayacağı Hoffenheim maçı öncesi teknik direktör Christian Ilzer ve milli oyuncu Ozan Kabak konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hoffenheim-besiktas-maci-oncesi-ozan-kabak-konustu-umarim-3-puanla-kapatiriz-43341528"
+          "title": "Salih Özcan: '3 puanla evimize döneceğiz!'",
+          "summary": "UEFA Avrupa Ligi'nin ikinci haftasında yarın deplasmanda Hoffenheim ile karşılaşacak Beşiktaş'ta milli futbolcu Salih Özcan açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/salih-ozcan-3-puanla-evimize-donecegiz-43341920"
         }
       ]
     },
