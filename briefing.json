@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-17T10:00:03.577Z",
+  "generatedAt": "2026-10-17T16:00:03.594Z",
   "categories": {
     "gundem": {
-      "text": "Osman Gazi gemisi yola çıktı. Cumhurbaşkanı Erdoğan: Gaz üretimi ikiye katlanacak. Zonguldak'ta sağanağın ardından denize sürüklenen çöpler kıyıya vurdu. Gülistan Doku cinayetinde kayıp görüntü muamması. Kafenin üst katındaki kayıtlar silindi mi?. Mardin’in taş sokaklarında festival heyecanı başladı. Breaking Bad dizisi Türkiye'de gerçek oldu. Demirören Yayınları’ndan Mimar Sinan’ın eserlerini bir araya getiren kitap! 266 mimari çizim yer alıyor... Etimesgut Belediyesi soruşturmasında 7 tutuklama.",
+      "text": "Kış erken geldi. Ekim ortasında birçok kent beyaza büründü. Devlet Bahçeli: Türkiye ve Azerbaycan ayrılmaz bir bütündür. Konyaaltı Belediye Başkanı Kotan, Yeni Parti’ye katıldı. Ayazağa'da son durum. Dere yatağındaki binalar yıkılıyor. Düğün yolunda feci kaza: 1 ölü, 4 yaralı. İzmir'de mevsimin ilk karı yağdı. Adana'da sağanak, su baskınlarına neden oldu.",
       "items": [
         {
-          "title": "Osman Gazi gemisi yola çıktı. Cumhurbaşkanı Erdoğan: Gaz üretimi ikiye katlanacak",
-          "summary": "Türkiye'nin ilk yüzer üretim platformu görev yerine uğurlandı. Cumhurbaşkanı Erdoğan, \"Osman Gazi gemisi Mavi Vatan'ın ilk fabrikasıdır. Karadeniz'deki gaz üretimi ikiye katlanacak\" dedi. Osman Gazi Yüzer Üretim Platformu, Karadeniz'deki Sakarya Gaz Sahası'ndaki görev yerine törenle uğurlandı. Cumhurbaşkanı Recep Tayyip Erdoğan, törene video mesaj gönderdi. Mesajında Erdoğan, Osman Gazi gemisinin Mavi Vatan'ın ilk fabrikası olduğunu söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-osman-gazi-gemisi-mavi-vatanin-ilk-fabrikasidir-1746713"
+          "title": "Kış erken geldi. Ekim ortasında birçok kent beyaza büründü",
+          "summary": "Yurdun birçok bölgesine Ekim ayının ortasında kış geldi. Bursa Uludağ, Bolu Kartalkaya gibi Türkiye'nin önemli kış turizm merkezleri karla kaplandı. Yüksek rakımlı yaylalar da beyaza büründü. İZMİR'DE YILIN İLK KARI İzmir’in Ödemiş ilçesine bağlı Bozdağ Mahallesi’nde mevsimin ilk kar yağışı etkili oldu. Yüksek kesimlerde etkisini gösteren yağışın ardından zirve beyaz örtüyle kaplandı. Bozdağ’da etkili olan kar yağışı sonrası zirvede kar kalınlığı 10 santimetreye kadar ulaştı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kis-erken-geldi-ekim-ortasinda-bircok-kent-beyaza-burundu-1746762"
         },
         {
-          "title": "Zonguldak'ta sağanağın ardından denize sürüklenen çöpler kıyıya vurdu",
-          "summary": "Zonguldak’ta iki gündür etkili olan sağanağın ardından denize sürüklenen çöpler kıyıya vurdu. Kozlu Sahili’nde çöp kirliliği oluştu.",
-          "source": "https://www.hurriyet.com.tr/gundem/zonguldakta-saganagin-ardindan-denize-suruklenen-copler-kiyiya-vurdu-43345089"
+          "title": "Devlet Bahçeli: Türkiye ve Azerbaycan ayrılmaz bir bütündür",
+          "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, \"Azerbaycan'ın 18 Ekim Bağımsızlığın Yeniden Sağlanması Günü\" hakkında mesaj paylaştı. MHP Genel Başkanı Devlet Bahçeli, mesajında, “Azerbaycan ve Türkiye hangi konuda olursa olsun birbirinden ayrılmaz bir bütündür.” dedi. “Biz aynı soydan bir ananın iki oğluyuz” diyen Bahçeli, “Ezelden ebede dinimiz, dilimiz, aşkımız, yolumuz birdir” ifadelerini kullandı.",
+          "source": "https://www.ntv.com.tr/turkiye/devlet-bahceli-turkiye-azerbaycan-ayrilmaz-bir-butundur-1746763"
         },
         {
-          "title": "Gülistan Doku cinayetinde kayıp görüntü muamması. Kafenin üst katındaki kayıtlar silindi mi?",
-          "summary": "Gülistan Doku'nun çalıştığı kafede 15 kamera bulunmasına rağmen sorumlu olduğu üst kat görüntülerinin dosyada yer almadığı belirtildi. Tunceli'de Munzur Üniversitesi Çocuk Gelişimi Bölümü 2’nci sınıf öğrencisi Gülistan Doku’nun 5 Ocak 2020’de kaybolmasına ilişkin yürütülen soruşturmada, çalıştığı kafenin güvenlik kameralarına ilişkin yeni ayrıntılar ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-gulistan-doku-cinayetinde-kayip-goruntu-muammasi-kafenin-ust-katindaki-kayitlar-silindi-mi-1746708"
+          "title": "Konyaaltı Belediye Başkanı Kotan, Yeni Parti’ye katıldı",
+          "summary": "CHP'den ihraç talebiyle disipline sevk edilmesinin ardından partiden istifa eden Konyaaltı Belediye Başkanı Cem Kotan, Yeni Parti'ye katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/konyaalti-belediye-baskani-kotan-yeni-partiye-katildi-43345534"
         },
         {
-          "title": "Mardin’in taş sokaklarında festival heyecanı başladı",
-          "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali’nin 23’üncü durağı, Mezopotamya’nın binlerce yıllık tarihine tanıklık eden Mardin, bu kez sanatın, müziğin ve lezzetin buluşma noktası oldu. Taş sokakları, tarihi yapıları ve çok kültürlü yaşamıyla geçmişin izlerini bugüne taşıyan kent, dokuz gün boyunca yaşayan bir kültür sanat sahnesine dönüşecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/mardinin-tas-sokaklarinda-festival-heyecani-basladi-43345087"
+          "title": "Ayazağa'da son durum. Dere yatağındaki binalar yıkılıyor",
+          "summary": "Selin vurduğu Ayazağa Mahallesi'nde dere yatağı üzerine inşa edilmiş yapılar yıkılıyor. İstanbul Valisi Davut Gül, yıkımların yarın tamamlanacağını söyledi. İstanbul, 14 Ekim'de kuvvetli yağışların etkisiyle sele teslim oldu. 84 yılın yağış rekorunun kırılmasıyla yollar göle döndü, yüzlerce araç sel sularına kapılarak metrelerce sürüklendi. Bazı vatandaşlar bulundukları otomobil veya yapıların içinde mahsur kaldı. Felaket sırasında büyük hasar alan noktalardan biri de Sarıyer'in Ayazağa Mahallesi oldu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ayazagada-dere-yatagindaki-binalar-yikiliyor-iste-yikim-calismalari-1746754"
         },
         {
-          "title": "Breaking Bad dizisi Türkiye'de gerçek oldu",
-          "summary": "Televizyon tarihinin efsane yapımlarından Breaking Bad dizisindeki gibi karavanda uyuşturucu üreten şüpheliler, narkotik ekipleri tarafından yakalandı. 213 kilogram uyuşturucu ele geçirildi. Televizyon dünyasının en çok izlenen yapımlarından Breaking Bad dizisi gerçek oldu. İstanbul'da Breaking Bad dizisindeki gibi karavanı uyuşturucu faaliyetlerinde kullanan iki şüpheli tespit edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-breaking-bad-dizisi-turkiyede-gercek-oldu-1746705"
+          "title": "Düğün yolunda feci kaza: 1 ölü, 4 yaralı",
+          "summary": "BURDUR'da düğüne gidenlerin içinde bulunduğu otomobil bariyere ve refüjdeki aydınlatma direğine çarpıp karşı şeride geçti. Kazada 1 kişi öldü, 4 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/dugun-yolunda-feci-kaza-1-olu-4-yarali-43345521"
         },
         {
-          "title": "Demirören Yayınları’ndan Mimar Sinan’ın eserlerini bir araya getiren kitap! 266 mimari çizim yer alıyor...",
-          "summary": "Demirören Yayınları ve Türk Tarih Kurumu iş birliğiyle yayımlanan 'Mimar Sinan Yapıları / The Buildings of Mimar Sinan' adlı kitap, yüksek mimar Ali Saim Ülgen’in Mimar Sinan’ın eserlerine ilişkin hazırladığı 266 rölöve çizimini bir araya getiriyor. Türkçe ve İngilizce olarak hazırlanan 436 sayfalık eser, Mimar Sinan’ın mimari mirasını teknik çizimler ve tarihsel bilgiler eşliğinde ele alıyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/demiroren-yayinlarindan-mimar-sinanin-eserlerini-bir-araya-getiren-kitap-266-mimari-cizim-yer-aliyor-43345056"
+          "title": "İzmir'de mevsimin ilk karı yağdı",
+          "summary": "İzmir’in Ödemiş ilçesinin yüksek kesimlerinde mevsimin ilk kar yağışı etkili oldu. Zirvede kar kalınlığı 10 santimetreye ulaştı. Ödemiş ilçesine bağlı Bozdağ Mahallesi’nde mevsimin ilk kar yağışı etkili oldu. Yüksek kesimlerde etkisini gösteren yağışın ardından zirve beyaz örtüyle kaplandı. Bozdağ’da etkili olan kar yağışı sonrası zirvede kar kalınlığı 10 santimetreye kadar ulaştı.",
+          "source": "https://www.ntv.com.tr/turkiye/izmirde-mevsimin-ilk-kari-yagdi-1746761"
         },
         {
-          "title": "Etimesgut Belediyesi soruşturmasında 7 tutuklama",
-          "summary": "Ankara'da Etimesgut Belediyesi'ne yönelik soruşturma kapsamında gözaltına alınan 25 şüpheliden, 2 belediye başkan yardımcısının da aralarında bulunduğu 7 kişi tutuklandı, 4 şüpheli hakkında ev hapsi kararı verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/etimesgut-belediyesi-sorusturmasinda-7-tutuklama-43345028"
+          "title": "Adana'da sağanak, su baskınlarına neden oldu",
+          "summary": "Adana'da sağanak nedeniyle bazı yollarda su baskınları oluştu, sürücüler ve yayalar zor anlar yaşadı. Kentte öğle saatlerinde şiddetini artıran yağış, hayatı olumsuz etkiledi. Sağanak nedeniyle merkez Seyhan ilçesindeki bazı cadde ve sokaklarda su baskınları oluştu. Yollarda biriken su nedeniyle sürücüler ve yayalar ilerlemekte güçlük çekti. Bir otoparkın daha önce kapatılan bölümüne girmeye çalışan otomobil suyun içinde kaldı.",
+          "source": "https://www.ntv.com.tr/turkiye/adanada-saganak-su-baskinlarina-neden-oldu-1746760"
         }
       ]
     },
     "dunya": {
-      "text": "Almanya bütçesi zorda. Ukrayna'ya yardım için borç kuralı delinecek mi?. Suudi Arabistan'da ikinci alarm! 'Siper alın'. ABD'de orman yangını! Alevler evleri yaktı. Basra Körfezi'nde roketatarlı saldırı! Tanker vuruldu. Kuzey Kore'den yapay zekalı torpido. Endonezya’dan yayılan tehlike: Günlerdir sis altında. Dışişleri Bakanı Hakan Fidan Mısırlı mevkidaşı ile görüştü.",
+      "text": "Papa hastaneden taburcu edildi. Fransa yangın yeri! On binler sokakta: Protestocular belediye binasını bastı. Pezeşkiyan'dan Mekke İttifakı'na yeşil ışık: Hazırız. Fransa'da öğrenci isyanı büyüyor. Sarı yelekliler de sokağa çıktı. Mısır Cumhurbaşkanı Sisi açıkladı: İşte görevi bırakacağı tarih. Milyonlarca telefon tehlikede! Arkasından İsrail çıktı... 'Sadece görünmesi yeterli'. El Niño sıcak suları getirdi. Kaliforniya suları tropik türlerle doldu.",
       "items": [
         {
-          "title": "Almanya bütçesi zorda. Ukrayna'ya yardım için borç kuralı delinecek mi?",
-          "summary": "Almanya Kalkınma Bakanı Reem Alabali Radovan, bütçe kesintileri nedeniyle Ukrayna'ya yönelik sivil desteğin sürmesi için anayasal borçlanma sınırına istisna getirilmesini istedi. Almanya hükümeti, Ukrayna'ya sağladığı sivil yardımların kesilmemesi için anayasadaki borçlanma kuralını esnetmeyi tartışıyor. Kalkınma Bakanı Reem Alabali Radovan, bakanlık bütçesindeki kesintiler nedeniyle Ukrayna'ya verilen desteğin sürdürülemeyeceğini belirterek borç freni mekanizmasında istisna talep etti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-almanya-butcesi-zorda-ukraynaya-yardim-icin-borc-kurali-delinecek-mi-1746712"
+          "title": "Papa hastaneden taburcu edildi",
+          "summary": "Vatikan Devlet Başkanı Papa 14. Leo, 13 Ekim'de akciğerindeki kitlenin (nodül) alınması için geçirdiği operasyonun ardından hastaneden taburcu edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/papa-hastaneden-taburcu-edildi-43345541"
         },
         {
-          "title": "Suudi Arabistan'da ikinci alarm! 'Siper alın'",
-          "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneyindeki Abha ve Hamis Muşayt kentlerinde geceden bu yana ikinci kez erken uyarı sisteminin devreye alındığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistanda-ikinci-alarm-siper-alin-43345125"
+          "title": "Fransa yangın yeri! On binler sokakta: Protestocular belediye binasını bastı",
+          "summary": "Fransa'da düzenlenen protestolarda on binlerce kişi sokaklara çıktı. Gösterilerde tansiyon yükselirken Marsilya’da protestocular belediye binasına girdi, Lyon’da ise bir turizm ofisi ateşe verildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransa-yangin-yeri-on-binler-sokakta-protestocular-belediye-binasini-basti-43345475"
         },
         {
-          "title": "ABD'de orman yangını! Alevler evleri yaktı",
-          "summary": "ABD'nin California eyaletinin güneyinde çıkan orman yangını nedeniyle 6 ev hasar gördü veya yıkıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-orman-yangini-alevler-evleri-yakti-43345122"
+          "title": "Pezeşkiyan'dan Mekke İttifakı'na yeşil ışık: Hazırız",
+          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Mekke İttifakı'na katılmaya hazır olduklarını açıkladı. Pezeşkiyan, Türkiye-Suudi Arabistan-Pakistan arasında varılan ittifaka ilişkin değerlendirmelerde bulunurken Müslüman ülkelere birlik çağrısı yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/pezeskiyandan-mekke-ittifakina-yesil-isik-haziriz-43345413"
         },
         {
-          "title": "Basra Körfezi'nde roketatarlı saldırı! Tanker vuruldu",
-          "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Basra Körfezi’nde bir petrol tankerinin küçük bir tekneden atılan roketle vurulduğunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/basra-korfezinde-roketatarli-saldiri-tanker-vuruldu-43345107"
+          "title": "Fransa'da öğrenci isyanı büyüyor. Sarı yelekliler de sokağa çıktı",
+          "summary": "Fransa'da banliyö liselerindeki öğretmen açığına tepki olarak başlayan eylemler, hayat pahalılığı ve kemer sıkma politikalarını hedef alan ülke çapında şiddetli gösterilere dönüştü. Fransa'da yoksul banliyölerdeki liselerde öğretmen açığı ve bakımsız okullara tepki olarak başlayan öğrenci eylemleri, hayat pahalılığı ve kamu harcamalarını hedef alan ülke çapında kitlesel bir hükümet karşıtı harekete dönüştü.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-ogrenci-isyani-buyuyor-sari-yelekliler-de-sokaga-cikti-1746751"
         },
         {
-          "title": "Kuzey Kore'den yapay zekalı torpido",
-          "summary": "Kuzey Kore, hedef tespit ve güdüm sistemlerinde yapay zekâ teknolojisini kullanan \"Zam-2.0\" adlı süper hızlı yeni torpido sistemini su altında başarıyla test ettiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/kuzey-koreden-yapay-zekali-torpido-43345086"
+          "title": "Mısır Cumhurbaşkanı Sisi açıkladı: İşte görevi bırakacağı tarih",
+          "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, sosyal medyada çıkan iddialara yanıt verdi. Cumhurbaşkanı Sisi, verdiği yanıt ile görevi bırakacağı tarihi açıklamış oldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/misir-cumhurbaskani-sisi-acikladi-iste-gorevi-birakacagi-tarih-43345381"
         },
         {
-          "title": "Endonezya’dan yayılan tehlike: Günlerdir sis altında",
-          "summary": "Endonezya’daki büyük orman yangınlarının yoğun dumanı çevre ülkelere yayılırken, Singapur 12 gündür sis altında ve hava kirliliği tehlikeli seviyelerde.",
-          "source": "https://www.ntv.com.tr/dunya/video-endonezyadan-yayilan-tehlike-gunlerdir-sis-altinda-1746709"
+          "title": "Milyonlarca telefon tehlikede! Arkasından İsrail çıktı... 'Sadece görünmesi yeterli'",
+          "summary": "İsrail merkezli bir şirketin, sıradan internet reklamları üzerinden kullanıcıları casus yazılımlarla hedef alan bir sistemin parçası olduğu tespit edildi. Araştırmacılar, reklama tıklamaya gerek kalmadan cihazlara sızılabildiğini ve hassas verilerin ele geçirilebildiğini belirledi. Sistemin devlet kurumları, gazeteciler ve uluslararası kuruluşların kullandığı ağlara kadar uzanmış olabileceği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/milyonlarca-telefon-tehlikede-arkasindan-israil-cikti-sadece-gorunmesi-yeterli-43345201"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan Mısırlı mevkidaşı ile görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Bağdat'ta Mısırlı mevkidaşı Bedr Abdülati ile görüştü.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-misirli-mevkidasi-ile-gorustu-43344974"
+          "title": "El Niño sıcak suları getirdi. Kaliforniya suları tropik türlerle doldu",
+          "summary": "Güçlü El Niño hava olayı nedeniyle sıcak suların kuzeye taşınması, ABD'nin Kaliforniya eyaleti kıyılarını tropikal deniz canlılarının akınına uğrattı. Pasifik Okyanusu'nda yaşanan sıra dışı sıcak su akıntısı, ABD'nin Kaliforniya eyaleti sahillerini beklenmedik bir tropik akvaryuma çevirdi. Bölgede daha önce hiç kayda geçmeyen türler kıyıya yanaşırken balıkçılar av rekorları kırıyor; eyalet yönetimi ise fırtınaların ve dev dalgaların yol açtığı hasar nedeniyle olağanüstü hal kararı aldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-el-nino-sicak-sulari-getirdi-kaliforniya-sulari-tropik-turlerle-doldu-1746722"
         }
       ]
     },
     "ekonomi": {
-      "text": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler. İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı. Kabine bugün sıcak başlıklarla toplandı.",
+      "text": "İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler. İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı.",
       "items": [
+        {
+          "title": "İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek",
+          "summary": "Türkiye Varlık Fonu (TVF) mülkiyetindeki TVF İzmir Limanı, büyük tonajlı gemilere hizmet verebilmesi ve yük elleçleme kapasitesinin artırılması amacıyla iki fazda toplam 1,5 milyar dolarlık yatırımla modernize edilecek.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmir-limani-1-5-milyar-dolarlik-yatirimla-yenilenecek-43345323"
+        },
         {
           "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek",
           "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
@@ -115,51 +120,46 @@
           "title": "2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı",
           "summary": "2026 Nobel Ekonomi Ödülü'nün sahiplerinin, ABD'li ekonomistler Robert Hall ve Michael Woodford olduğu açıklandı.",
           "source": "https://www.hurriyet.com.tr/dunya/2026-nobel-ekonomi-odulunun-sahipleri-aciklandi-43338645"
-        },
-        {
-          "title": "Kabine bugün sıcak başlıklarla toplandı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Beştepe'de toplanan Kabine'de; fon tasfiyeleri, Terörsüz Türkiye süreci, dış politika ve 2027 bütçe maratonu ele alınıyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kabine-bugun-sicak-basliklarla-toplaniyor-43338164"
         }
       ]
     },
     "spor": {
-      "text": "Basketbol Süper Ligi'nde derbi heyecanı yaşanacak!. Gençlerbirliği Başkanı Arda Çakmak'tan Galatasaray sözleri: 'Kazanmak için elimizden gelen her şeyi yapacağız!'. Gol deyince akla onlar geliyor: Osimhen & Orban! İşte Misli’den günün oyuncu bahisleri. Galatasaray, Gençlerbirliği'ne konuk olacak! Maçın heyecanı canlı sohbet ile Misli'de. Beşiktaş’ın kritik haftası!. Fenerbahçe'de Lukaku kararı için rapor bekleniyor!. Trabzonspor'un yıldızı Mohamed Salah, Haaland'ı yakaladı!.",
+      "text": "Okan Buruk'tan maç sonu TFF'ye çağrı: 'Saha yüzünden sakatlık verdik'. İlkay Gündoğan, sözlerine açıklık getirdi: 'Yanlış anlaşılma oldu!'. Galatasaray'da derbi öncesi Leao alarmı! 16 dakika sonra oyundan çıktı. Trabzonspor'da Beşiktaş maçının hazırlıkları sürüyor!. Serkan Özbalta: 'İnşallah ligi ilk 10 içinde bitiririz!'. Mustafa Dalcı: 'Atak sonlandırmada sorunlar yaşadık!'. Euroleague'de 6. haftanın MVP'si Sasha Vezenkov.",
       "items": [
         {
-          "title": "Basketbol Süper Ligi'nde derbi heyecanı yaşanacak!",
-          "summary": "Basketbol Süper Ligi'nin 4. haftasındaki derbide Beşiktaş, yarın Galatasaray MCT Technic'i konuk edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-derbi-heyecani-yasanacak-43345046"
+          "title": "Okan Buruk'tan maç sonu TFF'ye çağrı: 'Saha yüzünden sakatlık verdik'",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Gençlerbirliği'ni 1-0 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-mac-sonu-tffye-cagri-saha-yuzunden-sakatlik-verdik-43345532"
         },
         {
-          "title": "Gençlerbirliği Başkanı Arda Çakmak'tan Galatasaray sözleri: 'Kazanmak için elimizden gelen her şeyi yapacağız!'",
-          "summary": "Süper Lig'in 8. haftasında Gençlerbirliği, Galatasaray'ı konuk edecek. Maç öncesinde başkent ekibinin başkanı Arda Çakmak, açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-baskani-arda-cakmaktan-galatasaray-sozleri-kazanmak-icin-elimizden-gelen-her-seyi-yapacagiz-43344915"
+          "title": "İlkay Gündoğan, sözlerine açıklık getirdi: 'Yanlış anlaşılma oldu!'",
+          "summary": "Galatasaray'da İlkay Gündoğan, Uğurcan Çakır ve Deniz Gül, Gençlerbirliği galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ilkay-gundogan-sozlerine-aciklik-getirdi-yanlis-anlasilma-oldu-43345526"
         },
         {
-          "title": "Gol deyince akla onlar geliyor: Osimhen & Orban! İşte Misli’den günün oyuncu bahisleri",
-          "summary": "Futbol bülteninde futbolseverleri birbirinden heyecanlı maçlar beklerken oyuncu bahisleriyle maçların keyfi daha da artıyor. İlk günden bu yana büyük bir ilgi gören oyuncu bahisleriyle Misli üyeleri de kazançlarına kazanç katıyor. Oyuncu bahisleriyle İddaacılar, farklı bir oyun deneyimi yaşamaya devam ediyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gol-deyince-akla-onlar-geliyor-osimhen-orban-iste-misliden-gunun-oyuncu-bahisleri-43344870"
+          "title": "Galatasaray'da derbi öncesi Leao alarmı! 16 dakika sonra oyundan çıktı",
+          "summary": "Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile deplasmanda karşılaşan Galatasaray'da Rafael Leao, yaşadığı sakatlık nedeniyle oyuna girdikten yalnızca 16 dakika sonra kenara geldi. Yerine giren Deniz Gül ise galibiyet golüne imza attı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-derbi-oncesi-leao-alarmi-16-dakika-sonra-oyundan-cikti-43345522"
         },
         {
-          "title": "Galatasaray, Gençlerbirliği'ne konuk olacak! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Süper Lig'in 8. haftasında Galatasaray, bugün deplasmanda Gençlerbirliği ile karşılaşacak. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-genclerbirligine-konuk-olacak-macin-heyecani-canli-sohbet-ile-mislide-43344869"
+          "title": "Trabzonspor'da Beşiktaş maçının hazırlıkları sürüyor!",
+          "summary": "Trabzonspor, Trendyol Süper Lig'in 8. haftasında 19 Ekim Pazartesi günü sahasında Beşiktaş ile oynayacağı maçın hazırlıklarına devam etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-besiktas-macinin-hazirliklari-suruyor-43345471"
         },
         {
-          "title": "Beşiktaş’ın kritik haftası!",
-          "summary": "Milli ara sonrası Kocaelispor ve Hoffenheim’ı mağlup eden Beşiktaş’ı kritik bir hafta bekliyor. Siyah-Beyazlılar, 19 Ekim’de Trabzonspor, 22 Ekim’de Crystal Palace ve 26 Ekim’de Başakşehir’le karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-kritik-haftasi-43344838"
+          "title": "Serkan Özbalta: 'İnşallah ligi ilk 10 içinde bitiririz!'",
+          "summary": "Erzurumspor FK Teknik Direktörü Serkan Özbalta, Eyüpspor galibiyetinin ardından yaptığı açıklamada, \"İnşallah bu şekilde devam eder, ligi ilk 10 içerisinde bitiririz. Hayal dünyasına kapılmadan gerçekçi olmak gerekiyor. Süper Lig’de gerçekten zor maçlar oynayacağız. Biz her maça ve her puana talibiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serkan-ozbalta-insallah-ligi-ilk-10-icinde-bitiririz-43345457"
         },
         {
-          "title": "Fenerbahçe'de Lukaku kararı için rapor bekleniyor!",
-          "summary": "Süper Lig'in 8. haftasında bu akşam Alanyaspor'u konuk edecek Fenerbahçe'de teknik heyetin planları son anda değişebilir. Sarı-lacivertlilerde Romelu Lukaku konusunda tüm gözler maç saatinde yapılacak kontrole çevrilirken, alınacak karar ilk 11’i doğrudan etkileyecek. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-lukaku-karari-icin-rapor-bekleniyor-43344832"
+          "title": "Mustafa Dalcı: 'Atak sonlandırmada sorunlar yaşadık!'",
+          "summary": "Eyüpspor Teknik Direktörü Mustafa Dalcı, Erzurumspor FK maçında atak sorunları yaşadıklarını dile getirerek, sonraki karşılaşmalarda bunu çözmeleri gerektiğini ifade etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mustafa-dalci-atak-sonlandirmada-sorunlar-yasadik-43345437"
         },
         {
-          "title": "Trabzonspor'un yıldızı Mohamed Salah, Haaland'ı yakaladı!",
-          "summary": "KuPS Kuopio maçına bir gol ve bir asistle damgasını vuran Trabzonspor'un dünyaca ünlü futbolcusu Mohamed Salah, Avrupa kupalarındaki gol sayısını 65’e yükselterek Erling Haaland’ı yakaladı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yildizi-mohamed-salah-haalandi-yakaladi-43344820"
+          "title": "Euroleague'de 6. haftanın MVP'si Sasha Vezenkov",
+          "summary": "Euroleague'de 6. haftanın en değerli oyuncusu (MVP), Yunan ekibi Olympiakos'un Bulgar basketbolcusu Sasha Vezenkov oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-6-haftanin-mvpsi-sasha-vezenkov-43345406"
         }
       ]
     },
