@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-16T16:00:05.269Z",
+  "generatedAt": "2026-10-17T04:00:03.662Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da hafta sonu bazı sınavlar iptal edildi. 9 ildeki fuhuş operasyonunda yakalanan 11 zanlı tutuklandı. Futbolcu Kubilay Kaan Kundakçı cinayeti davasında karar. 36 il için kuvvetli yağış uyarısı. İstanbul'da alarm seviyesi yükseltildi. Bakan Göktaş: Antalya, Kocaeli ve Sakarya'ya 40 milyon TL kaynak aktardık. Bolu'nun yüksek kesimlerinde lapa lapa kar. Kartalkaya beyaza büründü. Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
+      "text": "45 il için kuvvetli yağış uyarısı. İstanbul'da alarm seviyesi yükseltildi. Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de. SPK'dan yeni kararlar: Hedef Portföy fonları olağan tasfiye sürecine dahil edildi. İstanbul'da hafta sonu bazı sınavlar iptal edildi. BUDO'nun yarın yapılacak 12 seferi iptal edildi. AK Parti Sözcüsü Çelik'ten partisinin eski Isparta Gençlik Kolları Başkanı Ünlü için taziye mesajı. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek.",
       "items": [
         {
-          "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
-          "summary": "İstanbul Valiliği, kentte beklenen şiddetli yağış nedeniyle yarın ve 18 Ekim'de bazı eğitim faaliyetlerine ara verileceğini bildirdi. Valilikten yapılan açıklamada, kent genelinde hafta sonu beklenen şiddetli yağış nedeniyle, İl Umumi Hıfzıssıhha Meclisinin bugünkü toplantısında alınan karar doğrultusunda, yarın ve pazar günü Bilim ve Sanat Merkezleri'nde yapılan yüz yüze eğitimlere ara verileceği belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628"
-        },
-        {
-          "title": "9 ildeki fuhuş operasyonunda yakalanan 11 zanlı tutuklandı",
-          "summary": "Nevşehir merkezli 9 ilde polis ve jandarma ekiplerince düzenlenen eş zamanlı fuhuş operasyonunda gözaltına alınan 28 şüpheliden 11'i tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/9-ildeki-fuhus-operasyonunda-yakalanan-11-zanli-tutuklandi-43344522"
-        },
-        {
-          "title": "Futbolcu Kubilay Kaan Kundakçı cinayeti davasında karar",
-          "summary": "Futbolcu Kubilay Kaan Kundakçı’nın öldürülmesine ilişkin davada karar açıklandı. Mahkeme, Aleyna Kalaycıoğlu beraat ederken, Alaattin Kadayıfçıoğlu müebbet hapis cezasına çarptırıldı. Ümraniye’de 19 Mart’ta silahlı saldırıda öldürülen futbolcu Kubilay Kaan Kundakçı cinayeti davasının karar duruşması Anadolu 27’nci Ağır Ceza Mahkemesi’nde görüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/futbolcu-kubilay-kaan-kundakci-cinayeti-davasinda-karar-1746624"
-        },
-        {
-          "title": "36 il için kuvvetli yağış uyarısı. İstanbul'da alarm seviyesi yükseltildi",
-          "summary": "İstanbul'a yarın için turuncu kod uyarısı verildi. Megakentte saat 18.00'den sonra yağışın kuvvetlenmesi beklenirken yarın öğleden sonra için de vatandaşlara \"dikkatli olun\" çağırısında bulunuldu. Çarşamba günü İstanbul'da son 84 yılın yağış rekoru kırıldı. Kentte metrekareye 278 kilogram yağış düştü ve birçok ev, iş yerinde su baskınları meydana geldi. Göle dönen yollarda metrelerce yüzlerce araç suya battı ve kullanılamaz hale geldi.",
+          "title": "45 il için kuvvetli yağış uyarısı. İstanbul'da alarm seviyesi yükseltildi",
+          "summary": "Meteoroloji 40 ili sarı, İstanbul dahil 5 ili ise turuncu kodla uyardı. İstanbul'da öğleden sonra için de vatandaşlara \"dikkatli olun\" çağrısında bulunuldu. Çarşamba günü İstanbul'da son 84 yılın yağış rekoru kırıldı. Kentte metrekareye 278 kilogram yağış düştü ve birçok ev, iş yerinde su baskınları meydana geldi. Göle dönen yollarda metrelerce yüzlerce araç suya battı ve kullanılamaz hale geldi. Kuvvetli yağışlarda bulundukları otomobil ya da sokaklar mahsur kalan vatandaşlardan 4 kişi hayatını kaybetti.",
           "source": "https://www.ntv.com.tr/turkiye/galeri-36-il-icin-kuvvetli-yagis-uyarisi-istanbulda-alarm-seviyesi-yukseltildi-1746587"
         },
         {
-          "title": "Bakan Göktaş: Antalya, Kocaeli ve Sakarya'ya 40 milyon TL kaynak aktardık",
-          "summary": "AİLE ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Antalya, Kocaeli ve Sakarya'da meydana gelen selden etkilenen vatandaşların temel ihtiyaçlarının karşılanması amacıyla 40 milyon TL tutarında kaynak aktardıklarını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-goktas-3-ile-40-milyon-tl-kaynak-aktardik-43344500"
+          "title": "Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de",
+          "summary": "Resmi Gazete’de yayımlanan Cumhurbaşkanlığı kararlarına göre, Sözleşmeli 31 bin 54 sağlık personeli istihdamı kapsamındaki hizmet birimlerinin tespit edilmesine karar verildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/saglik-personeli-istihdamina-iliskin-karar-resmi-gazetede-43344745"
         },
         {
-          "title": "Bolu'nun yüksek kesimlerinde lapa lapa kar. Kartalkaya beyaza büründü",
-          "summary": "Bolu'nun yüksek kesimlerinde kar etkisini artırdı, Düzce'nin yüksek rakımlarında ise sağanak yerini kara bıraktı. Bolu'da kentin yüksek kesimlerinde sabah saatlerinden itibaren kar yağışı etkisini artırdı. Türkiye'nin önemli kış turizm merkezlerinden biri olan Kartalkaya Kayak Merkezi yolunun yanı sıra kentin gözde doğa alanlarından Sarıalan Yaylası ve Düvenlik Yaylası mevkiilerinde lapa lapa yağan kar, bölgeyi kısa sürede beyaz örtüyle kapladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bolunun-yuksek-kesimlerinde-kar-etkisini-artirdi-1746627"
+          "title": "SPK'dan yeni kararlar: Hedef Portföy fonları olağan tasfiye sürecine dahil edildi",
+          "summary": "SPK, Hedef Portföy'ün tasfiye kapsamındaki fonlarını ara ödeme düzenlemesinden çıkararak tasfiye işlemlerine başlanmasına karar verdi. Kurul ayrıca 37 kişi hakkında suç duyurusunda bulundu. Sermaye Piyasası Kurulu (SPK), yayımladığı yeni bültende, yatırım fonlarına yönelik soruşturma kapsamında Hedef Portföy Yönetimi AŞ'nin kurucusu olduğu fonların tasfiye sürecine ilişkin yeni kararını duyurdu.",
+          "source": "https://www.ntv.com.tr/turkiye/spkdan-yeni-kararlar-37-kisi-hakkinda-suc-duyurusu-1746645"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-kambocya-basbakani-hun-maneti-kabul-etti-43344461"
+          "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
+          "summary": "İstanbul Valiliği ve Kocaeli Valiliği, beklenen şiddetli yağışlar nedeniyle hafta sonu bazı eğitim faaliyetlerine ara verileceğini ve bazı sınavların ertelendiğini bildirdi. Valilikten yapılan açıklamada, kent genelinde hafta sonu beklenen şiddetli yağış nedeniyle, İl Umumi Hıfzıssıhha Meclisinin bugünkü toplantısında alınan karar doğrultusunda, bugün ve yarın Bilim ve Sanat Merkezleri'nde yapılan yüz yüze eğitimlere ara verileceği belirtildi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628"
+        },
+        {
+          "title": "BUDO'nun yarın yapılacak 12 seferi iptal edildi",
+          "summary": "Bursa Deniz Otobüsleri'nin (BUDO) bugün yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi. BUDO'nun internet sitesinden yapılan duyurulara göre bugün yapılacak bazı seferler iptal edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/budonun-yarin-yapilacak-12-seferi-iptal-edildi-1746634"
+        },
+        {
+          "title": "AK Parti Sözcüsü Çelik'ten partisinin eski Isparta Gençlik Kolları Başkanı Ünlü için taziye mesajı",
+          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, vefat eden partisinin önceki dönem Isparta İl Gençlik Kolları Başkanı Yaşar Ünlü'ye Allah'tan rahmet, ailesine başsağlığı diledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-partisinin-eski-isparta-genclik-kollari-baskani-unlu-icin-taziye-mesaji-43344694"
+        },
+        {
+          "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek",
+          "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odenecek-43344687"
         }
       ]
     },
     "dunya": {
-      "text": "Zelenski, Rusya ile diyalog kurmaya çalıştıklarını açıkladı. Fransa ve Almanya uzlaştı. Otomotivde emisyon şartları hafifliyor. Vatikan'dan Papa Leo'nun sağlık durumuna ilişkin açıklama. Kuzey İrlanda'da bir eve bombalı saldırı. İran Hürmüz Boğazı'nı açma şartını duyurdu. Bulgaristan'dan Karadeniz'de Türkiye ve Romanya ile orta strateji çağrısı. Yunanistan'dan Fransa, İtalya ve GKRY ile ortak tatbikat.",
+      "text": "Hindistan'da \"Hamam Böceği Hareketi\" lideri tutuklandı. Arap Koalisyonu: Husilere ait 2 balistik füze rampası imha edildi. Trump'ın sözcüsü görevden alındı. Yalnızca 5 gün görevde kalabildi. Yeni Beyaz Saray Sözcüsü Zacharia'nın görevi 5 gün sürdü: \"Avukatım\" demişti sınavı geçemediği ortaya çıktı. Pakistan'dan İstanbul'daki sel felaketi nedeniyle Türkçe taziye mesajı. CENTCOM: İran'ın en az 25 milyar dolarlık ham petrol ihracatı engellendi. Trump'tan korkunç açıklama: MOAB bombasını kullanabiliriz... \"Tüm bombaların anası olarak biliniyor\".",
       "items": [
         {
-          "title": "Zelenski, Rusya ile diyalog kurmaya çalıştıklarını açıkladı",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, savaşın sonlandırılması amacıyla Rusya ile bir diyalog kanalının oluşturulması için Avrupa'yla da görüşmeler yaptıklarını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/zelenski-rusya-ile-diyalog-kurmaya-calistiklarini-acikladi-43344460"
+          "title": "Hindistan'da \"Hamam Böceği Hareketi\" lideri tutuklandı",
+          "summary": "Hindistan'da seçmenlerin kütüklerden silindiği iddialarıyla milyonları sokağa döken gençlik hareketi \"Hamam Böcekleri\"nin lideri Abhijeet Dipke tutuklandı. Hindistan'da üniversite sınavındaki soru sızıntısına tepki olarak temmuz ayında başlayan Z kuşağı protestolarında internet ortamında mizahi bir hareket olarak doğan ve Narendra Modi hükümetine geri adım attıran \"Cockroach Janta Party\" (Hamam Böceği Halk Partisi) hareketi yine ülkenin baş gündemi.",
+          "source": "https://www.ntv.com.tr/dunya/hindistanda-hamam-bocegi-hareketi-lideri-tutuklandi-1746653"
         },
         {
-          "title": "Fransa ve Almanya uzlaştı. Otomotivde emisyon şartları hafifliyor",
-          "summary": "Fransa ve Almanya, otomobiller için 2035 yılına konulan karbon emisyonu azaltım hedefini ilave şartlar aranmaksızın yüzde 90 seviyesinde tutacak plan üzerinde mutabakata vardı. Avrupa'nın iki büyük gücü Fransa ve Almanya, otomotiv sektörünün geleceğini doğrudan şekillendirecek uzlaşmanın eşiğine geldi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-almanya-uzlasti-otomotivde-emisyon-sartlari-hafifliyor-1746576"
+          "title": "Arap Koalisyonu: Husilere ait 2 balistik füze rampası imha edildi",
+          "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'in Saada kentinde İran destekli Husilere ait 2 balistik füze rampasının imha edildiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/arap-koalisyonu-husilere-ait-2-balistik-fuze-rampasi-imha-edildi-43344814"
         },
         {
-          "title": "Vatikan'dan Papa Leo'nun sağlık durumuna ilişkin açıklama",
-          "summary": "Vatikan, 13 Ekim'de ameliyat olan Papa 14. Leo'nun sağlık durumuna ilişkin bilgi paylaştı. Akciğerinde tespit edilen kitle (nodül) alınan Leo'nun iyileşme sürecini normal şekilde geçirdiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/vatikandan-papa-leonun-saglik-durumuna-iliskin-aciklama-43344331"
+          "title": "Trump'ın sözcüsü görevden alındı. Yalnızca 5 gün görevde kalabildi",
+          "summary": "Amerika Birleşik Devletleri'nde Beyaz Saray Sözcüsü Katie Zacharia görevden alındı. Başkan Donald Trump'ın yeni sözcüsü yalnızca 5 gün görevde kalabildi. ABD Başkanı Donald Trump'ın 9 Ekim'de Beyaz Saray Sözcüsü görevine atadığı Katie Zacharia'nın görevine 5 gün sonra son verildi. Amerikan basınında yer alan ve bir Beyaz Saray yetkilisine dayandırılan haberlere göre, 12 Ekim'de göreve başlayan Zacharia'nın bugün görevden alındığı bildirildi. Ayrılığın resmi gerekçesine ilişkin ayrıntılı bir açıklama yapılmadı.",
+          "source": "https://www.ntv.com.tr/dunya/trumpin-sozcusu-gorevden-alindi-yalnizca-5-gun-gorevde-kalabildi-1746643"
         },
         {
-          "title": "Kuzey İrlanda'da bir eve bombalı saldırı",
-          "summary": "Kuzey İrlanda'nın başkenti Belfast'taki bir evde peş peşe patlamalar meydana geldi. Polis ekipleri, çevredeki konutları boşalttı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kuzey-irlandada-bir-eve-bombali-saldiri-43344327"
+          "title": "Yeni Beyaz Saray Sözcüsü Zacharia'nın görevi 5 gün sürdü: \"Avukatım\" demişti sınavı geçemediği ortaya çıktı",
+          "summary": "ABD Başkanı Donald Trump'ın 12 Ekim'de Beyaz Saray Sözcüsü olarak atadığı Katie Zacharia'nın görevine 5 gün sonra son verildi. Trump'ın Zacharia'yı görevlendirirken kendisini avukat tanıtmasının ardından 2011 yılında hukuk fakültesinden mezun olan Zacharia'nın aynı yıl girdiği avukatlık sınavını geçemediği ortaya çıktı. Trump, \"Ben onun yerinde olsam bu görevi yeniden düşünürdüm\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yeni-beyaz-saray-sozcusu-zacharianin-omru-5-gun-surdu-43344691"
         },
         {
-          "title": "İran Hürmüz Boğazı'nı açma şartını duyurdu",
-          "summary": "Tahran yönetimi, Hürmüz Boğazı'nın açılması için ABD ordusunun bölgeyi terk etmesi gerektiğini belirtti. ABD'nin Orta Doğu'dan ayrılmasıyla güvenliğin bölge ülkeleri tarafından sağlanacağını kaydeden İran Ordusu Sözcüsü Tuğgeneral Muhammed Ekreminiya, bu durumun küresel ekonomi üzerinde olumlu etkileri olacağını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-hurmuz-bogazini-acma-sartini-duyurdu-43344313"
+          "title": "Pakistan'dan İstanbul'daki sel felaketi nedeniyle Türkçe taziye mesajı",
+          "summary": "Pakistan Başbakanı Şahbaz Şerif, İstanbul'da meydana gelen sel felaketi nedeniyle Türkçe taziye mesajı yayımlayarak, Pakistan'ın Türkiye ile dayanışma içinde olduğunu bildirdi. Şerif, sosyal medya platformundaki hesabından İstanbul'da meydana gelen sel felaketine ilişkin Türkçe paylaşım yaptı.",
+          "source": "https://www.ntv.com.tr/dunya/pakistandan-istanbuldaki-sel-felaketi-nedeniyle-turkce-taziye-mesaji-1746640"
         },
         {
-          "title": "Bulgaristan'dan Karadeniz'de Türkiye ve Romanya ile orta strateji çağrısı",
-          "summary": "Bulgaristan Savunma Bakanı Dimitar Stoyanov, Karadeniz'deki ticari gemilere yönelik insansız hava aracı (İHA) saldırılarının yoğunlaşması üzerine ülkesinin savunma kapasitesini güçlendirmek amacıyla NATO'dan destek talep ettiklerini açıkladı. Stoyanov, savunma kapasitesinin güçlendirilmesi için hızlı adım atılmasını umduğunu belirterek, Bulgaristan, Türkiye ve Romanya arasında ortak eylem stratejisi oluşturulmasının önemine dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bulgaristandan-karadenizde-turkiye-ve-romanya-ile-orta-strateji-cagrisi-43344301"
+          "title": "CENTCOM: İran'ın en az 25 milyar dolarlık ham petrol ihracatı engellendi",
+          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediklerini ve yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek verdiklerini savundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/centcom-iranin-en-az-25-milyar-dolarlik-ham-petrol-ihracati-engellendi-43344685"
         },
         {
-          "title": "Yunanistan'dan Fransa, İtalya ve GKRY ile ortak tatbikat",
-          "summary": "Yunanistan'ın 19 Ekim’de, Fransa, İtalya ve Güney Kıbrıs Rum Yönetimi (GKRY) ile birlikte Doğu Akdeniz’de tatbikat yapacağı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunanistandan-fransa-italya-ve-gkry-ile-ortak-tatbikat-43344296"
+          "title": "Trump'tan korkunç açıklama: MOAB bombasını kullanabiliriz... \"Tüm bombaların anası olarak biliniyor\"",
+          "summary": "ABD Başkanı Donald Trump, İran'ın nükleer tesislerine saldırı için \"tüm bombaların anası\" olarak bilinen GBU-43/B (MOAB) bombasının kullanılabileceğine işaret etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-korkunc-acilama-moab-bombasini-kullanabiliriz-tum-bombalarin-anasi-olarak-biliniyor-43344653"
         }
       ]
     },
     "ekonomi": {
-      "text": "Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler. İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı. Kabine bugün sıcak başlıklarla toplandı. Almanya hükümeti 2026 büyüme tahminini yükseltti. İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor. İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi.",
+      "text": "Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler. İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı. Kabine bugün sıcak başlıklarla toplandı. Almanya hükümeti 2026 büyüme tahminini yükseltti.",
       "items": [
+        {
+          "title": "Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar",
+          "summary": "Devlet memurlarının saat başına fazla mesai ücretleri yeni yılda 16 lira 55 kuruştan 19 lira 85 kuruşa çıkacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/memurun-fazla-mesai-ucreti-netlesti-iste-kalem-kalem-rakamlar-43344639"
+        },
+        {
+          "title": "DMM’den BES iddialarına yalanlama",
+          "summary": "İLETİŞİM Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Sermaye piyasalarındaki gelişmeler nedeniyle Bireysel Emeklilik Sistemi'nden (BES) kitlesel çıkışlar yaşandığı yönündeki iddialar tamamen asılsızdır\" açıklamasını yaptı.",
+          "source": "https://www.hurriyet.com.tr/gundem/dmmden-besten-kitlesel-cikislar-yasandigi-iddialarina-yalanlama-43344582"
+        },
         {
           "title": "Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 12.250,68 puandan tamamladı.",
@@ -110,58 +120,12 @@
           "title": "Almanya hükümeti 2026 büyüme tahminini yükseltti",
           "summary": "Almanya Federal Hükümeti, 2026 yılına ilişkin ekonomik büyüme tahminini önemli ölçüde yukarı çekti. Ekonomi Bakanlığı tarafından açıklanan sonbahar projeksiyonuna göre, gayri safi yurtiçi hasılanın (GSYİH) bu yıl yüzde 1,3 oranında büyümesi bekleniyor. Bu oran, Nisan ayında öngörülen yüzde 0,5'lik tahminin çok üzerinde ve hükümetin ekonomik görünüme ilişkin belirgin şekilde daha iyimser olduğunu gösteriyor.",
           "source": "https://www.hurriyet.com.tr/avrupa/almanya-hukumeti-2026-buyume-tahminini-yukseltti-43336377"
-        },
-        {
-          "title": "İmzalar atıldı.... Ziraat Katılım ve Halk Katılım, Türkiye Varlık Fonu'na devrediliyor",
-          "summary": "Türkiye Varlık Fonu (TVF) Katılım Finans Yatırımları AŞ'nin, Ziraat Katılım ve Halk Katılım paylarının tamamını bedelleri ödenmek suretiyle devralmasına ilişkin pay devir sözleşmelerinin imzalandığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/imzalar-atildi-ziraat-katilim-ve-halk-katilim-turkiye-varlik-fonuna-devrediliyor-43335909"
-        },
-        {
-          "title": "İzmir'de dev kaçak tütün baskını: 125,4 milyon TL'lik malzeme ele geçirildi",
-          "summary": "Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğü Tütün ve Tütün Mamulleri Kaçakçılığıyla Mücadele Özel Ekibi ile İzmir Gümrük Muhafaza Kaçakçılık ve İstihbarat Müdürlüğü ekiplerince Kemalpaşa ilçesinde kaçak üretim yapılan fabrikaya düzenlenen operasyonda, 125 milyon 480 bin TL değerinde tütün mamulü üretiminde kullanılan makine ve eşya ele geçirildi. Olayla ilgili 1 şüpheli gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-dev-kacak-tutun-baskini-125-4-milyon-tllik-malzeme-ele-gecirildi-43335060"
         }
       ]
     },
     "spor": {
-      "text": "Chelsea'nin kaptanı Reece James dizinden ameliyat edildi. Jhon Duran'dan Pavlidis açıklaması: 'Herkes onun ilk tercih olduğunu biliyor!'. Galatasaray'da Gianmarco Pozzecco dönemi sona erdi!. Mirza Lagumdzija: 'Bu takımın parçası olmaktan çok mutluyum!'. TFF'den maçlar öncesi saygı duruşu kararı. Galatasaray'ın Gençlerbirliği maçı kamp kadrosu belli oldu. Ülker Basketbol Gençler Ligi'nde sezon yarın başlıyor.",
-      "items": [
-        {
-          "title": "Chelsea'nin kaptanı Reece James dizinden ameliyat edildi",
-          "summary": "Chelsea'nin kaptanı Reece James, dizindeki sakatlık nedeniyle ameliyat edildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/chelseanin-kaptani-reece-james-dizinden-ameliyat-edildi-43344450"
-        },
-        {
-          "title": "Jhon Duran'dan Pavlidis açıklaması: 'Herkes onun ilk tercih olduğunu biliyor!'",
-          "summary": "Benfica, UEFA Avrupa Ligi'nin ikinci haftasında kendi sahasında ağırladığı Celtic'i 4-1 mağlup etti. Karşılaşmada 2 gol atan Jhon Duran, maçın ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jhon-durandan-pavlidis-aciklamasi-herkes-onun-ilk-tercih-oldugunu-biliyor-43344379"
-        },
-        {
-          "title": "Galatasaray'da Gianmarco Pozzecco dönemi sona erdi!",
-          "summary": "Galatasaray MCT Technic, başantrenör Gianmarco Pozzecco ile yolların ayrıldığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-gianmarco-pozzecco-donemi-sona-erdi-43344346"
-        },
-        {
-          "title": "Mirza Lagumdzija: 'Bu takımın parçası olmaktan çok mutluyum!'",
-          "summary": "Fenerbahçe Medicana’nın milli voleybolcusu Mirza Lagumdzija, sarı-lacivertli kulüpte hedefin her zaman şampiyonluk olduğunu vurgulayarak, bu takımda yer aldığı için mutluluğunu dile getirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mirza-lagumdzija-bu-takimin-parcasi-olmaktan-cok-mutluyum-43344273"
-        },
-        {
-          "title": "TFF'den maçlar öncesi saygı duruşu kararı",
-          "summary": "Türkiye Futbol Federasyonu, hafta sonunda oynanacak maçlar öncesinde 1 dakikalık saygı duruşunda bulunulacağını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tffden-maclar-oncesi-saygi-durusu-karari-43344274"
-        },
-        {
-          "title": "Galatasaray'ın Gençlerbirliği maçı kamp kadrosu belli oldu",
-          "summary": "Süper Lig'in 8. haftasında Gençlerbirliği'ne konuk olacak Galatasaray'ın kamp kadrosu açıklandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-genclerbirligi-maci-kamp-kadrosu-belli-oldu-43344249"
-        },
-        {
-          "title": "Ülker Basketbol Gençler Ligi'nde sezon yarın başlıyor",
-          "summary": "Ülker Basketbol Gençler Ligi'nde yeni sezon yarın oynanacak erkekler kategorisi ilk pencere karşılaşmalarıyla başlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ulker-basketbol-gencler-liginde-sezon-yarin-basliyor-43344150"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
       "text": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor. Engellenince pes etmedi: Yapay zeka gizlice harita verisi topladı. Elon Musk, Uçan Tesla'yı tanıttı. Yöneticileri masada yemek yiyordu. Yapay zeka ajanları kendi aralarında ne konuştu?. T3 Vakfı’ndan yapay zeka adımı. Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı. ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı.",
