@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-17T04:00:03.662Z",
+  "generatedAt": "2026-10-17T10:00:03.577Z",
   "categories": {
     "gundem": {
-      "text": "45 il için kuvvetli yağış uyarısı. İstanbul'da alarm seviyesi yükseltildi. Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de. SPK'dan yeni kararlar: Hedef Portföy fonları olağan tasfiye sürecine dahil edildi. İstanbul'da hafta sonu bazı sınavlar iptal edildi. BUDO'nun yarın yapılacak 12 seferi iptal edildi. AK Parti Sözcüsü Çelik'ten partisinin eski Isparta Gençlik Kolları Başkanı Ünlü için taziye mesajı. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek.",
+      "text": "Osman Gazi gemisi yola çıktı. Cumhurbaşkanı Erdoğan: Gaz üretimi ikiye katlanacak. Zonguldak'ta sağanağın ardından denize sürüklenen çöpler kıyıya vurdu. Gülistan Doku cinayetinde kayıp görüntü muamması. Kafenin üst katındaki kayıtlar silindi mi?. Mardin’in taş sokaklarında festival heyecanı başladı. Breaking Bad dizisi Türkiye'de gerçek oldu. Demirören Yayınları’ndan Mimar Sinan’ın eserlerini bir araya getiren kitap! 266 mimari çizim yer alıyor... Etimesgut Belediyesi soruşturmasında 7 tutuklama.",
       "items": [
         {
-          "title": "45 il için kuvvetli yağış uyarısı. İstanbul'da alarm seviyesi yükseltildi",
-          "summary": "Meteoroloji 40 ili sarı, İstanbul dahil 5 ili ise turuncu kodla uyardı. İstanbul'da öğleden sonra için de vatandaşlara \"dikkatli olun\" çağrısında bulunuldu. Çarşamba günü İstanbul'da son 84 yılın yağış rekoru kırıldı. Kentte metrekareye 278 kilogram yağış düştü ve birçok ev, iş yerinde su baskınları meydana geldi. Göle dönen yollarda metrelerce yüzlerce araç suya battı ve kullanılamaz hale geldi. Kuvvetli yağışlarda bulundukları otomobil ya da sokaklar mahsur kalan vatandaşlardan 4 kişi hayatını kaybetti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-36-il-icin-kuvvetli-yagis-uyarisi-istanbulda-alarm-seviyesi-yukseltildi-1746587"
+          "title": "Osman Gazi gemisi yola çıktı. Cumhurbaşkanı Erdoğan: Gaz üretimi ikiye katlanacak",
+          "summary": "Türkiye'nin ilk yüzer üretim platformu görev yerine uğurlandı. Cumhurbaşkanı Erdoğan, \"Osman Gazi gemisi Mavi Vatan'ın ilk fabrikasıdır. Karadeniz'deki gaz üretimi ikiye katlanacak\" dedi. Osman Gazi Yüzer Üretim Platformu, Karadeniz'deki Sakarya Gaz Sahası'ndaki görev yerine törenle uğurlandı. Cumhurbaşkanı Recep Tayyip Erdoğan, törene video mesaj gönderdi. Mesajında Erdoğan, Osman Gazi gemisinin Mavi Vatan'ın ilk fabrikası olduğunu söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-osman-gazi-gemisi-mavi-vatanin-ilk-fabrikasidir-1746713"
         },
         {
-          "title": "Sağlık personeli istihdamına ilişkin karar Resmi Gazete'de",
-          "summary": "Resmi Gazete’de yayımlanan Cumhurbaşkanlığı kararlarına göre, Sözleşmeli 31 bin 54 sağlık personeli istihdamı kapsamındaki hizmet birimlerinin tespit edilmesine karar verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/saglik-personeli-istihdamina-iliskin-karar-resmi-gazetede-43344745"
+          "title": "Zonguldak'ta sağanağın ardından denize sürüklenen çöpler kıyıya vurdu",
+          "summary": "Zonguldak’ta iki gündür etkili olan sağanağın ardından denize sürüklenen çöpler kıyıya vurdu. Kozlu Sahili’nde çöp kirliliği oluştu.",
+          "source": "https://www.hurriyet.com.tr/gundem/zonguldakta-saganagin-ardindan-denize-suruklenen-copler-kiyiya-vurdu-43345089"
         },
         {
-          "title": "SPK'dan yeni kararlar: Hedef Portföy fonları olağan tasfiye sürecine dahil edildi",
-          "summary": "SPK, Hedef Portföy'ün tasfiye kapsamındaki fonlarını ara ödeme düzenlemesinden çıkararak tasfiye işlemlerine başlanmasına karar verdi. Kurul ayrıca 37 kişi hakkında suç duyurusunda bulundu. Sermaye Piyasası Kurulu (SPK), yayımladığı yeni bültende, yatırım fonlarına yönelik soruşturma kapsamında Hedef Portföy Yönetimi AŞ'nin kurucusu olduğu fonların tasfiye sürecine ilişkin yeni kararını duyurdu.",
-          "source": "https://www.ntv.com.tr/turkiye/spkdan-yeni-kararlar-37-kisi-hakkinda-suc-duyurusu-1746645"
+          "title": "Gülistan Doku cinayetinde kayıp görüntü muamması. Kafenin üst katındaki kayıtlar silindi mi?",
+          "summary": "Gülistan Doku'nun çalıştığı kafede 15 kamera bulunmasına rağmen sorumlu olduğu üst kat görüntülerinin dosyada yer almadığı belirtildi. Tunceli'de Munzur Üniversitesi Çocuk Gelişimi Bölümü 2’nci sınıf öğrencisi Gülistan Doku’nun 5 Ocak 2020’de kaybolmasına ilişkin yürütülen soruşturmada, çalıştığı kafenin güvenlik kameralarına ilişkin yeni ayrıntılar ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-gulistan-doku-cinayetinde-kayip-goruntu-muammasi-kafenin-ust-katindaki-kayitlar-silindi-mi-1746708"
         },
         {
-          "title": "İstanbul'da hafta sonu bazı sınavlar iptal edildi",
-          "summary": "İstanbul Valiliği ve Kocaeli Valiliği, beklenen şiddetli yağışlar nedeniyle hafta sonu bazı eğitim faaliyetlerine ara verileceğini ve bazı sınavların ertelendiğini bildirdi. Valilikten yapılan açıklamada, kent genelinde hafta sonu beklenen şiddetli yağış nedeniyle, İl Umumi Hıfzıssıhha Meclisinin bugünkü toplantısında alınan karar doğrultusunda, bugün ve yarın Bilim ve Sanat Merkezleri'nde yapılan yüz yüze eğitimlere ara verileceği belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulda-hafta-sonu-bazi-sinavlar-iptal-edildi-1746628"
+          "title": "Mardin’in taş sokaklarında festival heyecanı başladı",
+          "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali’nin 23’üncü durağı, Mezopotamya’nın binlerce yıllık tarihine tanıklık eden Mardin, bu kez sanatın, müziğin ve lezzetin buluşma noktası oldu. Taş sokakları, tarihi yapıları ve çok kültürlü yaşamıyla geçmişin izlerini bugüne taşıyan kent, dokuz gün boyunca yaşayan bir kültür sanat sahnesine dönüşecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/mardinin-tas-sokaklarinda-festival-heyecani-basladi-43345087"
         },
         {
-          "title": "BUDO'nun yarın yapılacak 12 seferi iptal edildi",
-          "summary": "Bursa Deniz Otobüsleri'nin (BUDO) bugün yapılması planlanan 12 seferi olumsuz hava koşulları nedeniyle iptal edildi. BUDO'nun internet sitesinden yapılan duyurulara göre bugün yapılacak bazı seferler iptal edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/budonun-yarin-yapilacak-12-seferi-iptal-edildi-1746634"
+          "title": "Breaking Bad dizisi Türkiye'de gerçek oldu",
+          "summary": "Televizyon tarihinin efsane yapımlarından Breaking Bad dizisindeki gibi karavanda uyuşturucu üreten şüpheliler, narkotik ekipleri tarafından yakalandı. 213 kilogram uyuşturucu ele geçirildi. Televizyon dünyasının en çok izlenen yapımlarından Breaking Bad dizisi gerçek oldu. İstanbul'da Breaking Bad dizisindeki gibi karavanı uyuşturucu faaliyetlerinde kullanan iki şüpheli tespit edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-breaking-bad-dizisi-turkiyede-gercek-oldu-1746705"
         },
         {
-          "title": "AK Parti Sözcüsü Çelik'ten partisinin eski Isparta Gençlik Kolları Başkanı Ünlü için taziye mesajı",
-          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, vefat eden partisinin önceki dönem Isparta İl Gençlik Kolları Başkanı Yaşar Ünlü'ye Allah'tan rahmet, ailesine başsağlığı diledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-partisinin-eski-isparta-genclik-kollari-baskani-unlu-icin-taziye-mesaji-43344694"
+          "title": "Demirören Yayınları’ndan Mimar Sinan’ın eserlerini bir araya getiren kitap! 266 mimari çizim yer alıyor...",
+          "summary": "Demirören Yayınları ve Türk Tarih Kurumu iş birliğiyle yayımlanan 'Mimar Sinan Yapıları / The Buildings of Mimar Sinan' adlı kitap, yüksek mimar Ali Saim Ülgen’in Mimar Sinan’ın eserlerine ilişkin hazırladığı 266 rölöve çizimini bir araya getiriyor. Türkçe ve İngilizce olarak hazırlanan 436 sayfalık eser, Mimar Sinan’ın mimari mirasını teknik çizimler ve tarihsel bilgiler eşliğinde ele alıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/demiroren-yayinlarindan-mimar-sinanin-eserlerini-bir-araya-getiren-kitap-266-mimari-cizim-yer-aliyor-43345056"
         },
         {
-          "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek",
-          "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odenecek-43344687"
+          "title": "Etimesgut Belediyesi soruşturmasında 7 tutuklama",
+          "summary": "Ankara'da Etimesgut Belediyesi'ne yönelik soruşturma kapsamında gözaltına alınan 25 şüpheliden, 2 belediye başkan yardımcısının da aralarında bulunduğu 7 kişi tutuklandı, 4 şüpheli hakkında ev hapsi kararı verildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/etimesgut-belediyesi-sorusturmasinda-7-tutuklama-43345028"
         }
       ]
     },
     "dunya": {
-      "text": "Hindistan'da \"Hamam Böceği Hareketi\" lideri tutuklandı. Arap Koalisyonu: Husilere ait 2 balistik füze rampası imha edildi. Trump'ın sözcüsü görevden alındı. Yalnızca 5 gün görevde kalabildi. Yeni Beyaz Saray Sözcüsü Zacharia'nın görevi 5 gün sürdü: \"Avukatım\" demişti sınavı geçemediği ortaya çıktı. Pakistan'dan İstanbul'daki sel felaketi nedeniyle Türkçe taziye mesajı. CENTCOM: İran'ın en az 25 milyar dolarlık ham petrol ihracatı engellendi. Trump'tan korkunç açıklama: MOAB bombasını kullanabiliriz... \"Tüm bombaların anası olarak biliniyor\".",
+      "text": "Almanya bütçesi zorda. Ukrayna'ya yardım için borç kuralı delinecek mi?. Suudi Arabistan'da ikinci alarm! 'Siper alın'. ABD'de orman yangını! Alevler evleri yaktı. Basra Körfezi'nde roketatarlı saldırı! Tanker vuruldu. Kuzey Kore'den yapay zekalı torpido. Endonezya’dan yayılan tehlike: Günlerdir sis altında. Dışişleri Bakanı Hakan Fidan Mısırlı mevkidaşı ile görüştü.",
       "items": [
         {
-          "title": "Hindistan'da \"Hamam Böceği Hareketi\" lideri tutuklandı",
-          "summary": "Hindistan'da seçmenlerin kütüklerden silindiği iddialarıyla milyonları sokağa döken gençlik hareketi \"Hamam Böcekleri\"nin lideri Abhijeet Dipke tutuklandı. Hindistan'da üniversite sınavındaki soru sızıntısına tepki olarak temmuz ayında başlayan Z kuşağı protestolarında internet ortamında mizahi bir hareket olarak doğan ve Narendra Modi hükümetine geri adım attıran \"Cockroach Janta Party\" (Hamam Böceği Halk Partisi) hareketi yine ülkenin baş gündemi.",
-          "source": "https://www.ntv.com.tr/dunya/hindistanda-hamam-bocegi-hareketi-lideri-tutuklandi-1746653"
+          "title": "Almanya bütçesi zorda. Ukrayna'ya yardım için borç kuralı delinecek mi?",
+          "summary": "Almanya Kalkınma Bakanı Reem Alabali Radovan, bütçe kesintileri nedeniyle Ukrayna'ya yönelik sivil desteğin sürmesi için anayasal borçlanma sınırına istisna getirilmesini istedi. Almanya hükümeti, Ukrayna'ya sağladığı sivil yardımların kesilmemesi için anayasadaki borçlanma kuralını esnetmeyi tartışıyor. Kalkınma Bakanı Reem Alabali Radovan, bakanlık bütçesindeki kesintiler nedeniyle Ukrayna'ya verilen desteğin sürdürülemeyeceğini belirterek borç freni mekanizmasında istisna talep etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-almanya-butcesi-zorda-ukraynaya-yardim-icin-borc-kurali-delinecek-mi-1746712"
         },
         {
-          "title": "Arap Koalisyonu: Husilere ait 2 balistik füze rampası imha edildi",
-          "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'in Saada kentinde İran destekli Husilere ait 2 balistik füze rampasının imha edildiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/arap-koalisyonu-husilere-ait-2-balistik-fuze-rampasi-imha-edildi-43344814"
+          "title": "Suudi Arabistan'da ikinci alarm! 'Siper alın'",
+          "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneyindeki Abha ve Hamis Muşayt kentlerinde geceden bu yana ikinci kez erken uyarı sisteminin devreye alındığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistanda-ikinci-alarm-siper-alin-43345125"
         },
         {
-          "title": "Trump'ın sözcüsü görevden alındı. Yalnızca 5 gün görevde kalabildi",
-          "summary": "Amerika Birleşik Devletleri'nde Beyaz Saray Sözcüsü Katie Zacharia görevden alındı. Başkan Donald Trump'ın yeni sözcüsü yalnızca 5 gün görevde kalabildi. ABD Başkanı Donald Trump'ın 9 Ekim'de Beyaz Saray Sözcüsü görevine atadığı Katie Zacharia'nın görevine 5 gün sonra son verildi. Amerikan basınında yer alan ve bir Beyaz Saray yetkilisine dayandırılan haberlere göre, 12 Ekim'de göreve başlayan Zacharia'nın bugün görevden alındığı bildirildi. Ayrılığın resmi gerekçesine ilişkin ayrıntılı bir açıklama yapılmadı.",
-          "source": "https://www.ntv.com.tr/dunya/trumpin-sozcusu-gorevden-alindi-yalnizca-5-gun-gorevde-kalabildi-1746643"
+          "title": "ABD'de orman yangını! Alevler evleri yaktı",
+          "summary": "ABD'nin California eyaletinin güneyinde çıkan orman yangını nedeniyle 6 ev hasar gördü veya yıkıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-orman-yangini-alevler-evleri-yakti-43345122"
         },
         {
-          "title": "Yeni Beyaz Saray Sözcüsü Zacharia'nın görevi 5 gün sürdü: \"Avukatım\" demişti sınavı geçemediği ortaya çıktı",
-          "summary": "ABD Başkanı Donald Trump'ın 12 Ekim'de Beyaz Saray Sözcüsü olarak atadığı Katie Zacharia'nın görevine 5 gün sonra son verildi. Trump'ın Zacharia'yı görevlendirirken kendisini avukat tanıtmasının ardından 2011 yılında hukuk fakültesinden mezun olan Zacharia'nın aynı yıl girdiği avukatlık sınavını geçemediği ortaya çıktı. Trump, \"Ben onun yerinde olsam bu görevi yeniden düşünürdüm\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yeni-beyaz-saray-sozcusu-zacharianin-omru-5-gun-surdu-43344691"
+          "title": "Basra Körfezi'nde roketatarlı saldırı! Tanker vuruldu",
+          "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Basra Körfezi’nde bir petrol tankerinin küçük bir tekneden atılan roketle vurulduğunu duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/basra-korfezinde-roketatarli-saldiri-tanker-vuruldu-43345107"
         },
         {
-          "title": "Pakistan'dan İstanbul'daki sel felaketi nedeniyle Türkçe taziye mesajı",
-          "summary": "Pakistan Başbakanı Şahbaz Şerif, İstanbul'da meydana gelen sel felaketi nedeniyle Türkçe taziye mesajı yayımlayarak, Pakistan'ın Türkiye ile dayanışma içinde olduğunu bildirdi. Şerif, sosyal medya platformundaki hesabından İstanbul'da meydana gelen sel felaketine ilişkin Türkçe paylaşım yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/pakistandan-istanbuldaki-sel-felaketi-nedeniyle-turkce-taziye-mesaji-1746640"
+          "title": "Kuzey Kore'den yapay zekalı torpido",
+          "summary": "Kuzey Kore, hedef tespit ve güdüm sistemlerinde yapay zekâ teknolojisini kullanan \"Zam-2.0\" adlı süper hızlı yeni torpido sistemini su altında başarıyla test ettiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/kuzey-koreden-yapay-zekali-torpido-43345086"
         },
         {
-          "title": "CENTCOM: İran'ın en az 25 milyar dolarlık ham petrol ihracatı engellendi",
-          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediklerini ve yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek verdiklerini savundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/centcom-iranin-en-az-25-milyar-dolarlik-ham-petrol-ihracati-engellendi-43344685"
+          "title": "Endonezya’dan yayılan tehlike: Günlerdir sis altında",
+          "summary": "Endonezya’daki büyük orman yangınlarının yoğun dumanı çevre ülkelere yayılırken, Singapur 12 gündür sis altında ve hava kirliliği tehlikeli seviyelerde.",
+          "source": "https://www.ntv.com.tr/dunya/video-endonezyadan-yayilan-tehlike-gunlerdir-sis-altinda-1746709"
         },
         {
-          "title": "Trump'tan korkunç açıklama: MOAB bombasını kullanabiliriz... \"Tüm bombaların anası olarak biliniyor\"",
-          "summary": "ABD Başkanı Donald Trump, İran'ın nükleer tesislerine saldırı için \"tüm bombaların anası\" olarak bilinen GBU-43/B (MOAB) bombasının kullanılabileceğine işaret etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-korkunc-acilama-moab-bombasini-kullanabiliriz-tum-bombalarin-anasi-olarak-biliniyor-43344653"
+          "title": "Dışişleri Bakanı Hakan Fidan Mısırlı mevkidaşı ile görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Bağdat'ta Mısırlı mevkidaşı Bedr Abdülati ile görüştü.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-misirli-mevkidasi-ile-gorustu-43344974"
         }
       ]
     },
     "ekonomi": {
-      "text": "Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler. İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı. Kabine bugün sıcak başlıklarla toplandı. Almanya hükümeti 2026 büyüme tahminini yükseltti.",
+      "text": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler. İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı. Kabine bugün sıcak başlıklarla toplandı.",
       "items": [
+        {
+          "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek",
+          "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odenecek-43344687"
+        },
         {
           "title": "Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar",
           "summary": "Devlet memurlarının saat başına fazla mesai ücretleri yeni yılda 16 lira 55 kuruştan 19 lira 85 kuruşa çıkacak.",
@@ -115,17 +120,48 @@
           "title": "Kabine bugün sıcak başlıklarla toplandı",
           "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Beştepe'de toplanan Kabine'de; fon tasfiyeleri, Terörsüz Türkiye süreci, dış politika ve 2027 bütçe maratonu ele alınıyor.",
           "source": "https://www.hurriyet.com.tr/gundem/kabine-bugun-sicak-basliklarla-toplaniyor-43338164"
-        },
-        {
-          "title": "Almanya hükümeti 2026 büyüme tahminini yükseltti",
-          "summary": "Almanya Federal Hükümeti, 2026 yılına ilişkin ekonomik büyüme tahminini önemli ölçüde yukarı çekti. Ekonomi Bakanlığı tarafından açıklanan sonbahar projeksiyonuna göre, gayri safi yurtiçi hasılanın (GSYİH) bu yıl yüzde 1,3 oranında büyümesi bekleniyor. Bu oran, Nisan ayında öngörülen yüzde 0,5'lik tahminin çok üzerinde ve hükümetin ekonomik görünüme ilişkin belirgin şekilde daha iyimser olduğunu gösteriyor.",
-          "source": "https://www.hurriyet.com.tr/avrupa/almanya-hukumeti-2026-buyume-tahminini-yukseltti-43336377"
         }
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "Basketbol Süper Ligi'nde derbi heyecanı yaşanacak!. Gençlerbirliği Başkanı Arda Çakmak'tan Galatasaray sözleri: 'Kazanmak için elimizden gelen her şeyi yapacağız!'. Gol deyince akla onlar geliyor: Osimhen & Orban! İşte Misli’den günün oyuncu bahisleri. Galatasaray, Gençlerbirliği'ne konuk olacak! Maçın heyecanı canlı sohbet ile Misli'de. Beşiktaş’ın kritik haftası!. Fenerbahçe'de Lukaku kararı için rapor bekleniyor!. Trabzonspor'un yıldızı Mohamed Salah, Haaland'ı yakaladı!.",
+      "items": [
+        {
+          "title": "Basketbol Süper Ligi'nde derbi heyecanı yaşanacak!",
+          "summary": "Basketbol Süper Ligi'nin 4. haftasındaki derbide Beşiktaş, yarın Galatasaray MCT Technic'i konuk edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-derbi-heyecani-yasanacak-43345046"
+        },
+        {
+          "title": "Gençlerbirliği Başkanı Arda Çakmak'tan Galatasaray sözleri: 'Kazanmak için elimizden gelen her şeyi yapacağız!'",
+          "summary": "Süper Lig'in 8. haftasında Gençlerbirliği, Galatasaray'ı konuk edecek. Maç öncesinde başkent ekibinin başkanı Arda Çakmak, açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-baskani-arda-cakmaktan-galatasaray-sozleri-kazanmak-icin-elimizden-gelen-her-seyi-yapacagiz-43344915"
+        },
+        {
+          "title": "Gol deyince akla onlar geliyor: Osimhen & Orban! İşte Misli’den günün oyuncu bahisleri",
+          "summary": "Futbol bülteninde futbolseverleri birbirinden heyecanlı maçlar beklerken oyuncu bahisleriyle maçların keyfi daha da artıyor. İlk günden bu yana büyük bir ilgi gören oyuncu bahisleriyle Misli üyeleri de kazançlarına kazanç katıyor. Oyuncu bahisleriyle İddaacılar, farklı bir oyun deneyimi yaşamaya devam ediyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gol-deyince-akla-onlar-geliyor-osimhen-orban-iste-misliden-gunun-oyuncu-bahisleri-43344870"
+        },
+        {
+          "title": "Galatasaray, Gençlerbirliği'ne konuk olacak! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "Süper Lig'in 8. haftasında Galatasaray, bugün deplasmanda Gençlerbirliği ile karşılaşacak. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-genclerbirligine-konuk-olacak-macin-heyecani-canli-sohbet-ile-mislide-43344869"
+        },
+        {
+          "title": "Beşiktaş’ın kritik haftası!",
+          "summary": "Milli ara sonrası Kocaelispor ve Hoffenheim’ı mağlup eden Beşiktaş’ı kritik bir hafta bekliyor. Siyah-Beyazlılar, 19 Ekim’de Trabzonspor, 22 Ekim’de Crystal Palace ve 26 Ekim’de Başakşehir’le karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-kritik-haftasi-43344838"
+        },
+        {
+          "title": "Fenerbahçe'de Lukaku kararı için rapor bekleniyor!",
+          "summary": "Süper Lig'in 8. haftasında bu akşam Alanyaspor'u konuk edecek Fenerbahçe'de teknik heyetin planları son anda değişebilir. Sarı-lacivertlilerde Romelu Lukaku konusunda tüm gözler maç saatinde yapılacak kontrole çevrilirken, alınacak karar ilk 11’i doğrudan etkileyecek. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-lukaku-karari-icin-rapor-bekleniyor-43344832"
+        },
+        {
+          "title": "Trabzonspor'un yıldızı Mohamed Salah, Haaland'ı yakaladı!",
+          "summary": "KuPS Kuopio maçına bir gol ve bir asistle damgasını vuran Trabzonspor'un dünyaca ünlü futbolcusu Mohamed Salah, Avrupa kupalarındaki gol sayısını 65’e yükselterek Erling Haaland’ı yakaladı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yildizi-mohamed-salah-haalandi-yakaladi-43344820"
+        }
+      ]
     },
     "teknoloji": {
       "text": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor. Engellenince pes etmedi: Yapay zeka gizlice harita verisi topladı. Elon Musk, Uçan Tesla'yı tanıttı. Yöneticileri masada yemek yiyordu. Yapay zeka ajanları kendi aralarında ne konuştu?. T3 Vakfı’ndan yapay zeka adımı. Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı. ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı.",
