@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-17T16:00:03.594Z",
+  "generatedAt": "2026-10-18T04:00:03.841Z",
   "categories": {
     "gundem": {
-      "text": "Kış erken geldi. Ekim ortasında birçok kent beyaza büründü. Devlet Bahçeli: Türkiye ve Azerbaycan ayrılmaz bir bütündür. Konyaaltı Belediye Başkanı Kotan, Yeni Parti’ye katıldı. Ayazağa'da son durum. Dere yatağındaki binalar yıkılıyor. Düğün yolunda feci kaza: 1 ölü, 4 yaralı. İzmir'de mevsimin ilk karı yağdı. Adana'da sağanak, su baskınlarına neden oldu.",
+      "text": "Ayazağa'da son durum. Dere yatağındaki binalar yıkılıyor. Bursa'da sağanak etkili oldu: Köprü çöktü, tarım arazilerini su bastı. Sevgilisiyle birlikte yaşadığı evde göğsünden bıçaklanıp öldü. Bursa'da kız meselesi kanlı bitti: 1 ölü, 2 yaralı. Bektaşi kanaat önderi Ali Haydar Ercan vefat etti... İçişleri Bakanı Çiftçi'den taziye mesajı. Kocaeli’de Namazgah Barajı bölgesinde tahliye kararı. Takasbank'tan TPP ve TEFAS iddialarına ilişkin açıklama.",
       "items": [
         {
-          "title": "Kış erken geldi. Ekim ortasında birçok kent beyaza büründü",
-          "summary": "Yurdun birçok bölgesine Ekim ayının ortasında kış geldi. Bursa Uludağ, Bolu Kartalkaya gibi Türkiye'nin önemli kış turizm merkezleri karla kaplandı. Yüksek rakımlı yaylalar da beyaza büründü. İZMİR'DE YILIN İLK KARI İzmir’in Ödemiş ilçesine bağlı Bozdağ Mahallesi’nde mevsimin ilk kar yağışı etkili oldu. Yüksek kesimlerde etkisini gösteren yağışın ardından zirve beyaz örtüyle kaplandı. Bozdağ’da etkili olan kar yağışı sonrası zirvede kar kalınlığı 10 santimetreye kadar ulaştı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kis-erken-geldi-ekim-ortasinda-bircok-kent-beyaza-burundu-1746762"
-        },
-        {
-          "title": "Devlet Bahçeli: Türkiye ve Azerbaycan ayrılmaz bir bütündür",
-          "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, \"Azerbaycan'ın 18 Ekim Bağımsızlığın Yeniden Sağlanması Günü\" hakkında mesaj paylaştı. MHP Genel Başkanı Devlet Bahçeli, mesajında, “Azerbaycan ve Türkiye hangi konuda olursa olsun birbirinden ayrılmaz bir bütündür.” dedi. “Biz aynı soydan bir ananın iki oğluyuz” diyen Bahçeli, “Ezelden ebede dinimiz, dilimiz, aşkımız, yolumuz birdir” ifadelerini kullandı.",
-          "source": "https://www.ntv.com.tr/turkiye/devlet-bahceli-turkiye-azerbaycan-ayrilmaz-bir-butundur-1746763"
-        },
-        {
-          "title": "Konyaaltı Belediye Başkanı Kotan, Yeni Parti’ye katıldı",
-          "summary": "CHP'den ihraç talebiyle disipline sevk edilmesinin ardından partiden istifa eden Konyaaltı Belediye Başkanı Cem Kotan, Yeni Parti'ye katıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/konyaalti-belediye-baskani-kotan-yeni-partiye-katildi-43345534"
-        },
-        {
           "title": "Ayazağa'da son durum. Dere yatağındaki binalar yıkılıyor",
-          "summary": "Selin vurduğu Ayazağa Mahallesi'nde dere yatağı üzerine inşa edilmiş yapılar yıkılıyor. İstanbul Valisi Davut Gül, yıkımların yarın tamamlanacağını söyledi. İstanbul, 14 Ekim'de kuvvetli yağışların etkisiyle sele teslim oldu. 84 yılın yağış rekorunun kırılmasıyla yollar göle döndü, yüzlerce araç sel sularına kapılarak metrelerce sürüklendi. Bazı vatandaşlar bulundukları otomobil veya yapıların içinde mahsur kaldı. Felaket sırasında büyük hasar alan noktalardan biri de Sarıyer'in Ayazağa Mahallesi oldu.",
+          "summary": "Selin vurduğu Ayazağa Mahallesi'nde dere yatağı üzerine inşa edilmiş yapılar yıkılıyor. İstanbul Valisi Davut Gül, yıkımların bugün tamamlanacağını söyledi. İstanbul, 14 Ekim'de kuvvetli yağışların etkisiyle sele teslim oldu. 84 yılın yağış rekorunun kırılmasıyla yollar göle döndü, yüzlerce araç sel sularına kapılarak metrelerce sürüklendi. Bazı vatandaşlar bulundukları otomobil veya yapıların içinde mahsur kaldı. Felaket sırasında büyük hasar alan noktalardan biri de Sarıyer'in Ayazağa Mahallesi oldu.",
           "source": "https://www.ntv.com.tr/turkiye/galeri-ayazagada-dere-yatagindaki-binalar-yikiliyor-iste-yikim-calismalari-1746754"
         },
         {
-          "title": "Düğün yolunda feci kaza: 1 ölü, 4 yaralı",
-          "summary": "BURDUR'da düğüne gidenlerin içinde bulunduğu otomobil bariyere ve refüjdeki aydınlatma direğine çarpıp karşı şeride geçti. Kazada 1 kişi öldü, 4 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/dugun-yolunda-feci-kaza-1-olu-4-yarali-43345521"
+          "title": "Bursa'da sağanak etkili oldu: Köprü çöktü, tarım arazilerini su bastı",
+          "summary": "Bursa’nın İnegöl ilçesinde etkili olan sağanak nedeniyle dere üzerindeki köprünün çökmesi sonucu yolda mahsur kalan sürücüler, ekiplerin çalışmasıyla kurtarıldı. Ayrıca aşırı yağış nedeniyle tarım arazileri desular altında kaldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-saganak-etkili-oldu-kopru-coktu-tarim-arazilerini-su-basti-43345787"
         },
         {
-          "title": "İzmir'de mevsimin ilk karı yağdı",
-          "summary": "İzmir’in Ödemiş ilçesinin yüksek kesimlerinde mevsimin ilk kar yağışı etkili oldu. Zirvede kar kalınlığı 10 santimetreye ulaştı. Ödemiş ilçesine bağlı Bozdağ Mahallesi’nde mevsimin ilk kar yağışı etkili oldu. Yüksek kesimlerde etkisini gösteren yağışın ardından zirve beyaz örtüyle kaplandı. Bozdağ’da etkili olan kar yağışı sonrası zirvede kar kalınlığı 10 santimetreye kadar ulaştı.",
-          "source": "https://www.ntv.com.tr/turkiye/izmirde-mevsimin-ilk-kari-yagdi-1746761"
+          "title": "Sevgilisiyle birlikte yaşadığı evde göğsünden bıçaklanıp öldü",
+          "summary": "ESKİŞEHİR’DE sevgilisiyle birlikte yaşadığı evde göğsünden bıçaklanan Osman Koçak (45), hayatını kaybetti. Koçak’ın kendi kendini bıçakladığını öne süren sevgilisi, tedavisinin ardından gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sevgilisiyle-birlikte-yasadigi-evde-gogsunden-bicaklanip-oldu-43345786"
         },
         {
-          "title": "Adana'da sağanak, su baskınlarına neden oldu",
-          "summary": "Adana'da sağanak nedeniyle bazı yollarda su baskınları oluştu, sürücüler ve yayalar zor anlar yaşadı. Kentte öğle saatlerinde şiddetini artıran yağış, hayatı olumsuz etkiledi. Sağanak nedeniyle merkez Seyhan ilçesindeki bazı cadde ve sokaklarda su baskınları oluştu. Yollarda biriken su nedeniyle sürücüler ve yayalar ilerlemekte güçlük çekti. Bir otoparkın daha önce kapatılan bölümüne girmeye çalışan otomobil suyun içinde kaldı.",
-          "source": "https://www.ntv.com.tr/turkiye/adanada-saganak-su-baskinlarina-neden-oldu-1746760"
+          "title": "Bursa'da kız meselesi kanlı bitti: 1 ölü, 2 yaralı",
+          "summary": "Bursa'nın İnegöl ilçesinde kız meselesi yüzünden çıktığı öne sürülen bıçaklı kavgada 18 yaşındaki Emre Acar hayatını kaybetti, 2 kişi yaralandı. Olayın şüphelisi Yunus Emre U., yaraladığı arkadaşlarının durumunu öğrenmek için geldiği hastanede polis ekiplerince gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-kiz-meselesi-kanli-bitti-1-olu-2-yarali-43345777"
+        },
+        {
+          "title": "Bektaşi kanaat önderi Ali Haydar Ercan vefat etti... İçişleri Bakanı Çiftçi'den taziye mesajı",
+          "summary": "Bektaşi kanaat önderlerinden \"dedebaba\" Ali Haydar Ercan, İzmir'de tedavi gördüğü hastanede 90 yaşında hayatını kaybetti. İçişleri Bakanı Mustafa Çiftçi, başsağlığı mesajı paylaştı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bektasi-kanaat-onderi-ali-haydar-ercan-vefat-etti-icisleri-bakani-ciftciden-taziye-mesaji-43345775"
+        },
+        {
+          "title": "Kocaeli’de Namazgah Barajı bölgesinde tahliye kararı",
+          "summary": "Kocaeli’de sağanak yağmur nedeniyle Namazgah Barajı’ndan Sarısu Deresi’nin denizle buluştuğu noktaya kadar olan bölgedeki vatandaşların su baskını riski nedeniyle evlerini tahliye etmeleri istendi. Kandıra Belediye Başkanı Erol Ölmez, meteorolojik veriler ile AFAD ve İSU’nun uyarıları doğrultusunda, Namazgah Barajı’ndan Sarısu Deresi’nin denizle buluştuğu noktaya kadar olan bölgede su baskını riski bulunduğunu belirtti.",
+          "source": "https://www.ntv.com.tr/turkiye/kocaelide-namazgah-baraji-bolgesinde-tahliye-karari-1746781"
+        },
+        {
+          "title": "Takasbank'tan TPP ve TEFAS iddialarına ilişkin açıklama",
+          "summary": "Takasbank, Takasbank Para Piyasası (TPP) aracılığıyla belirli kişi ve kuruluşlara finansman sağlandığı yönündeki iddialara ilişkin açıklama yaptı. Takasbank tarafından yapılan açıklamada, son günlerde sosyal medya ve bazı yayın organlarında TPP işlemleri ile Türkiye Elektronik Fon Alım Satım Platformu'na (TEFAS) ilişkin ortaya atılan iddialara açıklık getirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/takasbanktan-tpp-ve-tefas-iddialarina-iliskin-aciklama-1746780"
         }
       ]
     },
     "dunya": {
-      "text": "Papa hastaneden taburcu edildi. Fransa yangın yeri! On binler sokakta: Protestocular belediye binasını bastı. Pezeşkiyan'dan Mekke İttifakı'na yeşil ışık: Hazırız. Fransa'da öğrenci isyanı büyüyor. Sarı yelekliler de sokağa çıktı. Mısır Cumhurbaşkanı Sisi açıkladı: İşte görevi bırakacağı tarih. Milyonlarca telefon tehlikede! Arkasından İsrail çıktı... 'Sadece görünmesi yeterli'. El Niño sıcak suları getirdi. Kaliforniya suları tropik türlerle doldu.",
+      "text": "Araçla futbol sahasına daldı. 2 kişi öldü. Rum lider barış festivaline gölge düşürdü. Hindistan’da festivalde izdiham… Çok sayıda ölü ve yaralı var. Fransa'da sarı yelekliler de sokağa çıktı. Tarihi binalar yakıldı, belediye binası basıldı. Eylemciler polise saldırıyor… Fransa’da sokaklar alev alev!. Suriye Dışişleri Bakanı Şeybani, İsrail'in 8 Aralık 2024 öncesindeki hatlara çekilmesini istedi. Türkiye'nin Bakü Büyükelçiliğinden Bakan Fidan hakkındaki iddialara yalanlama.",
       "items": [
         {
-          "title": "Papa hastaneden taburcu edildi",
-          "summary": "Vatikan Devlet Başkanı Papa 14. Leo, 13 Ekim'de akciğerindeki kitlenin (nodül) alınması için geçirdiği operasyonun ardından hastaneden taburcu edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/papa-hastaneden-taburcu-edildi-43345541"
+          "title": "Araçla futbol sahasına daldı. 2 kişi öldü",
+          "summary": "ABD'de bir sürücü aracıyla futbol maçı sırasında sahaya daldı. Biri çocuk 2 kişi hayatını kaybetti, çok sayıda kişi yaralandı. ABD'nin Kansas Kansas eyaletindeki Wichita kenti, futbol maçı sırasında düzenlenen saldırıyla sarsıldı. Bir sürücü aracıyla Stryker Spor Kompleksi'ndeki futbol sahasına daldı. Biri 6 yaşında çocuk, diğeri de 35 yaşında bir yetişkin olmak üzere 2 kişi hayatını kaybetti, çok sayıda kişi yaralandı. Polis, sürücünün gözaltına alındığını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/aracla-futbol-sahasina-daldi-2-kisi-oldu-1746784"
         },
         {
-          "title": "Fransa yangın yeri! On binler sokakta: Protestocular belediye binasını bastı",
-          "summary": "Fransa'da düzenlenen protestolarda on binlerce kişi sokaklara çıktı. Gösterilerde tansiyon yükselirken Marsilya’da protestocular belediye binasına girdi, Lyon’da ise bir turizm ofisi ateşe verildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransa-yangin-yeri-on-binler-sokakta-protestocular-belediye-binasini-basti-43345475"
+          "title": "Rum lider barış festivaline gölge düşürdü",
+          "summary": "KKTC Cumhurbaşkanı Tufan Erhürman ile Rum Lider Nikos Hristodulidis, iki toplumun bir arada yaşadığı Pile'de Barış Festivali'ne katıldı. Hristodulidis suçlayıcı çıkışlarıyla festivale gölge düşürdü. Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ile Güney Kıbrıs Rum Yönetimi Lideri Nikos Hristodulidis, 6'ncı Pile Barış Festivali'ne katıldı. Festivalin adresi, Kıbrıslı Türkler ve Rumların bir arada yaşadığı Pile köyüydü.",
+          "source": "https://www.ntv.com.tr/dunya/rum-lider-baris-festivaline-golge-dusurdu-1746782"
         },
         {
-          "title": "Pezeşkiyan'dan Mekke İttifakı'na yeşil ışık: Hazırız",
-          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Mekke İttifakı'na katılmaya hazır olduklarını açıkladı. Pezeşkiyan, Türkiye-Suudi Arabistan-Pakistan arasında varılan ittifaka ilişkin değerlendirmelerde bulunurken Müslüman ülkelere birlik çağrısı yaptı.",
-          "source": "https://www.hurriyet.com.tr/dunya/pezeskiyandan-mekke-ittifakina-yesil-isik-haziriz-43345413"
+          "title": "Hindistan’da festivalde izdiham… Çok sayıda ölü ve yaralı var",
+          "summary": "Hindistan’ın Batı Bengal eyaletinin başkenti Kalküta'da düzenlenen festival sırasında yaşanan izdihamda en az 17 kişi hayatını kaybederken, 25 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/hindistanda-festivalde-izdiham-cok-sayida-olu-ve-yarali-var-43345703"
         },
         {
-          "title": "Fransa'da öğrenci isyanı büyüyor. Sarı yelekliler de sokağa çıktı",
+          "title": "Fransa'da sarı yelekliler de sokağa çıktı. Tarihi binalar yakıldı, belediye binası basıldı",
           "summary": "Fransa'da banliyö liselerindeki öğretmen açığına tepki olarak başlayan eylemler, hayat pahalılığı ve kemer sıkma politikalarını hedef alan ülke çapında şiddetli gösterilere dönüştü. Fransa'da yoksul banliyölerdeki liselerde öğretmen açığı ve bakımsız okullara tepki olarak başlayan öğrenci eylemleri, hayat pahalılığı ve kamu harcamalarını hedef alan ülke çapında kitlesel bir hükümet karşıtı harekete dönüştü.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-ogrenci-isyani-buyuyor-sari-yelekliler-de-sokaga-cikti-1746751"
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-sari-yelekliler-de-sokaga-cikti-tarihi-bina-yakildi-belediye-binasi-basildi-1746751"
         },
         {
-          "title": "Mısır Cumhurbaşkanı Sisi açıkladı: İşte görevi bırakacağı tarih",
-          "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, sosyal medyada çıkan iddialara yanıt verdi. Cumhurbaşkanı Sisi, verdiği yanıt ile görevi bırakacağı tarihi açıklamış oldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/misir-cumhurbaskani-sisi-acikladi-iste-gorevi-birakacagi-tarih-43345381"
+          "title": "Eylemciler polise saldırıyor… Fransa’da sokaklar alev alev!",
+          "summary": "Fransa genelinde artan yaşam maliyetleri, akaryakıt fiyatları ve eğitim bütçesine yönelik ülke çapında protestolar devam ediyor. Hayat pahalılığına karşı sokağa inen sarı yelekliler hareketine, liseliler, akaryakıt fiyatlarını protesto eden çiftçiler ve iklim aktivistleri de katıldı. 174 yıllık tarihi bina, araçlar, çöp kovaları ve duraklar ateşe verildi, kamu binaları ve iş yerleri zarar gördü. Eylemciler, Marsilya Belediyesi binasını bastı.",
+          "source": "https://www.hurriyet.com.tr/dunya/eylemciler-polise-saldiriyor-fransada-sokaklar-alev-alev-43345664"
         },
         {
-          "title": "Milyonlarca telefon tehlikede! Arkasından İsrail çıktı... 'Sadece görünmesi yeterli'",
-          "summary": "İsrail merkezli bir şirketin, sıradan internet reklamları üzerinden kullanıcıları casus yazılımlarla hedef alan bir sistemin parçası olduğu tespit edildi. Araştırmacılar, reklama tıklamaya gerek kalmadan cihazlara sızılabildiğini ve hassas verilerin ele geçirilebildiğini belirledi. Sistemin devlet kurumları, gazeteciler ve uluslararası kuruluşların kullandığı ağlara kadar uzanmış olabileceği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/milyonlarca-telefon-tehlikede-arkasindan-israil-cikti-sadece-gorunmesi-yeterli-43345201"
+          "title": "Suriye Dışişleri Bakanı Şeybani, İsrail'in 8 Aralık 2024 öncesindeki hatlara çekilmesini istedi",
+          "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, İsrail ordusunun Suriye'de işgal ettiği topraklardan 8 Aralık 2024 öncesindeki hatlara çekilmesi ve 1974 tarihli Kuvvetlerin Ayrıştırılması Anlaşması'na derhal geri dönmesi gerektiğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriye-disisleri-bakani-seybani-israilin-8-aralik-2024-oncesindeki-hatlara-cekilmesini-istedi-43345653"
         },
         {
-          "title": "El Niño sıcak suları getirdi. Kaliforniya suları tropik türlerle doldu",
-          "summary": "Güçlü El Niño hava olayı nedeniyle sıcak suların kuzeye taşınması, ABD'nin Kaliforniya eyaleti kıyılarını tropikal deniz canlılarının akınına uğrattı. Pasifik Okyanusu'nda yaşanan sıra dışı sıcak su akıntısı, ABD'nin Kaliforniya eyaleti sahillerini beklenmedik bir tropik akvaryuma çevirdi. Bölgede daha önce hiç kayda geçmeyen türler kıyıya yanaşırken balıkçılar av rekorları kırıyor; eyalet yönetimi ise fırtınaların ve dev dalgaların yol açtığı hasar nedeniyle olağanüstü hal kararı aldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-el-nino-sicak-sulari-getirdi-kaliforniya-sulari-tropik-turlerle-doldu-1746722"
+          "title": "Türkiye'nin Bakü Büyükelçiliğinden Bakan Fidan hakkındaki iddialara yalanlama",
+          "summary": "Türkiye'nin Bakü Büyükelçiliği, Dışişleri Bakanı Hakan Fidan'ın Azerbaycan ziyareti sırasında \"gizli görüşme gerçekleştirdiği\"ne ilişkin bazı haberlerde yer alan iddiaların asılsız olduğunu bildirdi. Büyükelçilikten yapılan açıklamada, başta Qafqazinfo olmak üzere bazı haber organlarında yayımlanan \"Hakan Fidan'ın GYF'deki görüşmesinin perde arkası\" başlıklı haberin asılsız iddialara dayandığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/turkiyenin-baku-buyukelciliginden-bakan-fidan-hakkindaki-iddialara-yalanlama-1746768"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Okan Buruk'tan maç sonu TFF'ye çağrı: 'Saha yüzünden sakatlık verdik'. İlkay Gündoğan, sözlerine açıklık getirdi: 'Yanlış anlaşılma oldu!'. Galatasaray'da derbi öncesi Leao alarmı! 16 dakika sonra oyundan çıktı. Trabzonspor'da Beşiktaş maçının hazırlıkları sürüyor!. Serkan Özbalta: 'İnşallah ligi ilk 10 içinde bitiririz!'. Mustafa Dalcı: 'Atak sonlandırmada sorunlar yaşadık!'. Euroleague'de 6. haftanın MVP'si Sasha Vezenkov.",
+      "text": "Ülker Basketbol Gençler Ligi heyecanı başladı!. Romelu Lukaku: 'Adaptasyon sürecim bitti!'. İsmail Kartal: 'Daha fazla atabilirdik, planımız iyi işledi'. Mason Greenwood, 2. kez penaltı kaçırdı!. Fenerbahçe'de sahne ilk kez Romelu Lukaku'nun! Siftahı Kadıköy'de yaptı. Fenerbahçe'de İrfan Can Kahveci'nin talihsiz gecesi! 3 golü de iptal edildi. Manchester City 3-2 Ipswich Town (İngiltere Premier Lig).",
       "items": [
         {
-          "title": "Okan Buruk'tan maç sonu TFF'ye çağrı: 'Saha yüzünden sakatlık verdik'",
-          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Gençlerbirliği'ni 1-0 mağlup ettikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-mac-sonu-tffye-cagri-saha-yuzunden-sakatlik-verdik-43345532"
+          "title": "Ülker Basketbol Gençler Ligi heyecanı başladı!",
+          "summary": "Ülker Basketbol Gençler Ligi (BGL) 2026-2027 sezonu erkekler kategorisi birinci penceresi, 17 Ekim Cumartesi günü Turkcell Basketbol Gelişim Merkezi’nde oynanan karşılaşmalarla başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ulker-basketbol-gencler-ligi-heyecani-basladi-43345670"
         },
         {
-          "title": "İlkay Gündoğan, sözlerine açıklık getirdi: 'Yanlış anlaşılma oldu!'",
-          "summary": "Galatasaray'da İlkay Gündoğan, Uğurcan Çakır ve Deniz Gül, Gençlerbirliği galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ilkay-gundogan-sozlerine-aciklik-getirdi-yanlis-anlasilma-oldu-43345526"
+          "title": "Romelu Lukaku: 'Adaptasyon sürecim bitti!'",
+          "summary": "Fenerbahçe'de Romelu Lukaku, Levent Mercan ve Matteo Guendouzi, Alanyaspor galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/romelu-lukaku-adaptasyon-surecim-bitti-43345649"
         },
         {
-          "title": "Galatasaray'da derbi öncesi Leao alarmı! 16 dakika sonra oyundan çıktı",
-          "summary": "Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile deplasmanda karşılaşan Galatasaray'da Rafael Leao, yaşadığı sakatlık nedeniyle oyuna girdikten yalnızca 16 dakika sonra kenara geldi. Yerine giren Deniz Gül ise galibiyet golüne imza attı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-derbi-oncesi-leao-alarmi-16-dakika-sonra-oyundan-cikti-43345522"
+          "title": "İsmail Kartal: 'Daha fazla atabilirdik, planımız iyi işledi'",
+          "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Alanyaspor'u 3-0 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-daha-fazla-atabilirdik-planimiz-iyi-isledi-43345662"
         },
         {
-          "title": "Trabzonspor'da Beşiktaş maçının hazırlıkları sürüyor!",
-          "summary": "Trabzonspor, Trendyol Süper Lig'in 8. haftasında 19 Ekim Pazartesi günü sahasında Beşiktaş ile oynayacağı maçın hazırlıklarına devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-besiktas-macinin-hazirliklari-suruyor-43345471"
+          "title": "Mason Greenwood, 2. kez penaltı kaçırdı!",
+          "summary": "Fenerbahçe’nin İngiliz futbolcusu Mason Greenwood, Alanyaspor maçında kaçırdığı penaltıyla birlikte bu sezon 2. kez penaltıdan yararlanamadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-2-kez-penalti-kacirdi-43345648"
         },
         {
-          "title": "Serkan Özbalta: 'İnşallah ligi ilk 10 içinde bitiririz!'",
-          "summary": "Erzurumspor FK Teknik Direktörü Serkan Özbalta, Eyüpspor galibiyetinin ardından yaptığı açıklamada, \"İnşallah bu şekilde devam eder, ligi ilk 10 içerisinde bitiririz. Hayal dünyasına kapılmadan gerçekçi olmak gerekiyor. Süper Lig’de gerçekten zor maçlar oynayacağız. Biz her maça ve her puana talibiz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serkan-ozbalta-insallah-ligi-ilk-10-icinde-bitiririz-43345457"
+          "title": "Fenerbahçe'de sahne ilk kez Romelu Lukaku'nun! Siftahı Kadıköy'de yaptı",
+          "summary": "Fenerbahçe’nin Belçikalı forveti Romelu Lukaku, bu sezonki ilk golünü Alanyaspor'a karşı attı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-sahne-ilk-kez-romelu-lukakunun-siftahi-kadikoyde-yapti-43345643"
         },
         {
-          "title": "Mustafa Dalcı: 'Atak sonlandırmada sorunlar yaşadık!'",
-          "summary": "Eyüpspor Teknik Direktörü Mustafa Dalcı, Erzurumspor FK maçında atak sorunları yaşadıklarını dile getirerek, sonraki karşılaşmalarda bunu çözmeleri gerektiğini ifade etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mustafa-dalci-atak-sonlandirmada-sorunlar-yasadik-43345437"
+          "title": "Fenerbahçe'de İrfan Can Kahveci'nin talihsiz gecesi! 3 golü de iptal edildi",
+          "summary": "Trendyol Süper Lig'in 8. haftasında Alanyaspor'u konuk eden Fenerbahçe'de İrfan Can Kahveci, karşılaşmanın en talihsiz isimlerinden biri oldu. Ligde çıktığı son 2 maçta 4 gole katkı sağlayan milli futbolcu, Kadıköy'de topu 3 kez ağlarla buluşturdu ancak hiçbir golü geçerlilik kazanmadı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-irfan-can-kahvecinin-talihsiz-gecesi-3-golu-de-iptal-edildi-43345620"
         },
         {
-          "title": "Euroleague'de 6. haftanın MVP'si Sasha Vezenkov",
-          "summary": "Euroleague'de 6. haftanın en değerli oyuncusu (MVP), Yunan ekibi Olympiakos'un Bulgar basketbolcusu Sasha Vezenkov oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-6-haftanin-mvpsi-sasha-vezenkov-43345406"
+          "title": "Manchester City 3-2 Ipswich Town (İngiltere Premier Lig)",
+          "summary": "Manchester City, İngiltere Premier Lig'in 7. haftasında evinde Ipswich Town'ı 3-2 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/manchester-city-3-2-ipswich-town-ingiltere-premier-lig-43345576"
         }
       ]
     },
