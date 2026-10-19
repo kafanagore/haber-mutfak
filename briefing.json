@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-19T04:00:03.703Z",
+  "generatedAt": "2026-10-19T10:00:03.631Z",
   "categories": {
     "gundem": {
-      "text": "Meclis'te yeni haftada gündem yoğun. Fon teklifi Genel Kurul'a geliyor. Vakalar hızla tırmanıyor, sayı binleri aştı! Bulaştırıcılığı en yüksek virüs... “Bir hasta 18 kişiye bulaştırabiliyor”. ABD’nin İstanbul Başkonsolosu Michael Lally, için kaleme aldı… Bir Saygı Yolculuğu. Kadıköy'de 3 katlı ahşap köşk yandı. Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 10 kayıp. Bursa'da hayır yemeğinden 53 kişiyi hastanelik oldu. Pilav günü etkinliği kâbusa döndü! 100 kişi hastanelik oldu.",
+      "text": "İstanbul'daki sağanak sonrası barajlar son 10 yılın en yüksek seviyesinde. Atatürk'ün Nutuk'u 8 dilde dünyaya açılıyor: Dijital platform erişime sunuldu. İstanbul’da konserde 2 ölüm! Vali Gül sebebini açıkladı. 27 ilde siber suç operasyonu: 643 şüpheli yakalandı, 303 zanlı cezaevinde. Meteoroloji raporu açıkladı! Eylül ayında Türkiye'yi afetler vurdu. Nutuk için bakanlıktan tarihi adım | Muhteşem çalışmayı Bakan Ersoy duyurdu: Milli mücadelenin mirası dünyaya açılıyor. Yazılı Kanyon'da facia: Eğitim için giden İHH ekibinden 1 eğitmen hayatını kaybetti, 10 kişi kurtarılmayı bekliyor.",
       "items": [
         {
-          "title": "Meclis'te yeni haftada gündem yoğun. Fon teklifi Genel Kurul'a geliyor",
-          "summary": "Meclis'te yeni haftada kritik bir düzenleme gündemde olacak. Tasfiyesine karar verilen fonlara ilişkin kanun teklifi Genel Kurul'da görüşülecek. TBMM Genel Kurulu'nda Türk Kızılay Kanunu Teklifi görüşülecek, Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi ele alınacak. Haftalık çalışmalarına 20 Ekim Salı günü başlayacak Genel Kurul, Türk Kızılay Kanunu Teklifi'nin görüşmelerine devam edecek.",
-          "source": "https://www.ntv.com.tr/turkiye/mecliste-yeni-haftada-gundem-yogun-fon-teklifi-genel-kurula-geliyor-1746827"
+          "title": "İstanbul'daki sağanak sonrası barajlar son 10 yılın en yüksek seviyesinde",
+          "summary": "İstanbul'da geçtiğimiz günlerde etkili olan şiddetli yağışlar, kentteki barajların doluluk oranını yükseltti. İSKİ verilerine göre İstanbul’da doluluk oranı yüzde 38’li değerlerden 5 gün içinde yüzde 53,54’e çıktı. Bu değer son 10 yılın Ekim aylarında yapılan ölçümler arasında en yüksek değer olarak kayıtlara geçti. Alibeyköy Barajı'nda 5 gün önce yüzde 34,44 olarak ölçülen doluluk oranı bugün yüzde 76,6’ya yükseldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbuldaki-saganak-sonrasi-barajlar-son-10-yilin-en-yuksek-seviyesinde-43347139"
         },
         {
-          "title": "Vakalar hızla tırmanıyor, sayı binleri aştı! Bulaştırıcılığı en yüksek virüs... “Bir hasta 18 kişiye bulaştırabiliyor”",
-          "summary": "Unutulmaya yüz tutan tehlike sessizce geri döndü. Yıllardır başarıyla kontrol altında tutulan kızamık vakaları 2026’da tırmanışa geçerek binleri aştı. Tek bir hastanın 18 kişiye bulaştırabildiği virüse karşı toplumsal bağışıklık duvarı zayıflıyor; virüs hem çocukları hem yetişkinleri tehdit ediyor. Uzmanlar, bulaştırıcılığı en yüksek enfeksiyonlar arasında ilk sırada yer alan kızamıkta son durum, hastalığın seyri ve hayati risk oluşturan tüm detayları hürriyet.com.tr’ye anlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/vakalar-hizla-tirmaniyor-sayi-binleri-asti-bulastiriciligi-en-yuksek-virus-bir-hasta-18-kisiye-bulastirabiliyor-43340327"
+          "title": "Atatürk'ün Nutuk'u 8 dilde dünyaya açılıyor: Dijital platform erişime sunuldu",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Nutuk Külliyatı Projesi'ni tanıttı. Eser, 8 dildeki özel baskılarının yanı sıra sesli, işaret dilli ve Braille formatlarıyla erişime sunuldu. NUTUK KÜLLİYATI PROJESİ TANITILDI Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazi Mustafa Kemal Atatürk’ün Millî Mücadele yıllarını, bağımsızlığın kazanılmasını ve Cumhuriyet’in kuruluş sürecini belgelere dayalı olarak anlattığı Nutuk’u, yeni bir yayın ve araştırma sürecine taşıyan Nutuk Külliyatı Projesi’ni tanıttı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-ataturkun-nutuku-8-dilde-dunyaya-aciliyor-dijital-platform-erisime-sunuldu-1746984"
         },
         {
-          "title": "ABD’nin İstanbul Başkonsolosu Michael Lally, için kaleme aldı… Bir Saygı Yolculuğu",
-          "summary": "Seksen yıl önce bir Amerikan zırhlısı, Türkiye ile Amerika Birleşik Devletleri’nin yan yana duracağı mesajını taşıyarak İstanbul Boğazı’na girdi. Bu ziyaret 22-28 Ekim tarihleri arasında Beşiktaş’taki Deniz Müzesi’nde düzenlenecek gezici bir sergiyle anılıyor. Bu hikâye, 1946’da olduğu kadar bugün de önemini koruyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/abdnin-istanbul-baskonsolosu-michael-lally-icin-kaleme-aldi-bir-saygi-yolculugu-43346660"
+          "title": "İstanbul’da konserde 2 ölüm! Vali Gül sebebini açıkladı",
+          "summary": "İstanbul Valisi Davut Gül, \"Konsere giden 3 vatandaşımız farklı uyuşturucular kullanmışlar. Bunlar adli tıp raporunda tespit edildi. Uyuşturucudan kaynaklı bir ölüm hadisesi. Ölüm ve yaralı olduğu için adli süreç sürüyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-konserde-2-olum-vali-gul-sebebini-acikladi-43347063"
         },
         {
-          "title": "Kadıköy'de 3 katlı ahşap köşk yandı",
-          "summary": "Kadıköy'de 3 katlı ahşap köşk yangında kullanılamaz hale geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kadikoyde-3-katli-ahsap-kosk-yandi-43346669"
+          "title": "27 ilde siber suç operasyonu: 643 şüpheli yakalandı, 303 zanlı cezaevinde",
+          "summary": "Emniyet Genel Müdürlüğü Siber Suçlarla Mücadele Daire Başkanlığı koordinesinde 27 ilde yasa dışı bahis, nitelikli dolandırıcılık ve çocuk müstehcenliğine yönelik düzenlenen operasyonlarda 643 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 303’ü tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/siber-suclarla-mucadele-6-gunde-643-supheli-yakalandi-43347037"
         },
         {
-          "title": "Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 10 kayıp",
-          "summary": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi hayatını kaybederken, kayıp 13 kişiden 3'ü kurtarıldı. İstanbul İHH İnsani Yardım Vakfı gönüllü grubundan 14 kişi, dün Sütçüler ilçesindeki Yazılı Kanyon'a tatbikata geldi. Ekibin bugün öğle saatlerinde yönünü kaybettiği ihbarında bulunuldu. Bunun üzerine bölgeye çok sayıda kurtarma ekibi yönlendirildi.",
-          "source": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916"
+          "title": "Meteoroloji raporu açıkladı! Eylül ayında Türkiye'yi afetler vurdu",
+          "summary": "Türkiye genelinde eylül ayında kaydedilen 66 meteorolojik afetin yaklaşık yüzde 61'ini şiddetli yağış, sel ve fırtına oluşturdu. Sakarya ve Kocaeli son 66 yılın en yüksek eylül yağışını alırken, eylül sonu ve ekim ayındaki sağanaklar büyük hasara ve can kayıplarına yol açtı.",
+          "source": "https://www.hurriyet.com.tr/gundem/meteoroloji-raporu-acikladi-eylul-ayinda-turkiyeyi-afetler-vurdu-43347022"
         },
         {
-          "title": "Bursa'da hayır yemeğinden 53 kişiyi hastanelik oldu",
-          "summary": "Bursa'nın İnegöl ilçesinde bir hayır etkinliğinde yemek yedikten sonra rahatsızlanan 53 kişi, hastaneye başvurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursada-hayir-yemeginden-53-kisiyi-hastanelik-oldu-43346667"
+          "title": "Nutuk için bakanlıktan tarihi adım | Muhteşem çalışmayı Bakan Ersoy duyurdu: Milli mücadelenin mirası dünyaya açılıyor",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazi Mustafa Kemal Atatürk’ün Millî Mücadele yıllarını, bağımsızlığın kazanılmasını ve Cumhuriyet’in kuruluş sürecini belgelere dayalı olarak anlattığı Nutuk’u, yeni bir yayın ve araştırma sürecine taşıyan Nutuk Külliyatı Projesi’ni tanıttı. Sekiz yabancı dildeki özel baskıları ve dijital platformuyla daha geniş kitlelere ulaştırılan eser, sesli, işaret dilli ve Braille alfabesiyle hazırlanan biçimleriyle de erişime sunuldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/milli-mucadelenin-tarihi-mirasi-nutuk-sekiz-dilde-dunyaya-ulasacak-43346956"
         },
         {
-          "title": "Pilav günü etkinliği kâbusa döndü! 100 kişi hastanelik oldu",
-          "summary": "Bursa’nın İnegöl ilçesinde düzenlenen geleneksel pilav günü etkinliğinde ikram edilen tavuklu pilavı yiyen yaklaşık 100 kişi, mide bulantısı ve kusma şikâyetleriyle hastaneye başvurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/pilav-gunu-etkinligi-kabusa-dondu-100-kisi-hastanelik-oldu-43346628"
+          "title": "Yazılı Kanyon'da facia: Eğitim için giden İHH ekibinden 1 eğitmen hayatını kaybetti, 10 kişi kurtarılmayı bekliyor",
+          "summary": "Isparta Sütçüler'deki kanyonda yönünü kaybeden 14 kişilik İHH gönüllü grubunu arama çalışmalarında acı haber geldi. Ekiplerin ulaşmaya çalıştığı dağlık alanda düşen eğitmen Sinan Yavuz yaşamını yitirirken, gece saatlerinde kurtarılan 3 kişinin ardından kalan 10 kişiyi tahliye operasyonu sabah saatlerinde yeniden başladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yazili-kanyonda-facia-egitim-icin-giden-ihh-ekibinden-1-egitmen-hayatini-kaybetti-10-kisi-kurtarilmayi-bekliyor-43346981"
         }
       ]
     },
     "dunya": {
-      "text": "Guardiola'dan Gazze çağrısı: Unutmayın... Maç öncesi halat şovunda kaza. Amerikan askeri öldü. Gençler Ben-Gvir'i kürsüden indirdi. İran Dışişleri Bakanı Erakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor. Hürmüz Boğazı’nda bir petrol tankeri mayına çarptı. Fransa sokakları alev alev. Lüks mağazalar yağmalandı, Paris'ten can kaybı haberi geldi. Ukrayna'dan İHA saldırısı, Rusya'dan misilleme… Müzakere beklenirken savaş şiddetini arttırdı.",
+      "text": "Fransa enkaz kaldırıyor. Yüz milyonlarca euroluk yağma yapıldı. Canlı yayınlanan ayinde kan donduran anlar: Ekvadorlu papaz hayatını kaybetti. Tel Aviv-Viyana seferi yapan yolcu uçağı bomba ihbarı nedeniyle Bulgaristan'a iniş yaptı. Alman sanayisinde 2019'dan bu yana yarım milyonluk iş kaybı. Romanya'nın başkenti Bükreş'te 4,3 büyüklüğünde deprem. İsrailli Bakan Ben-Gvir'den Fransız Yahudilere ülkeyi terk etme çağrısı. Japonya'dan Kuril Adaları mesajı.",
       "items": [
         {
-          "title": "Guardiola'dan Gazze çağrısı: Unutmayın...",
-          "summary": "Ünlü İspanyol teknik direktör Pep Guardiola, dünyaya Gazze'deki Filistinlileri unutmama çağrısı yaptı: \"Onlar ölmüş değil, katledilmiş insanlar...\" Eski Manchester City teknik direktörü Pep Guardiola İsrail'in Gazze'deki soykırımına karşı bir kez daha sesini yükseltti. Filistinli mültecilere yardım eden Birleşmiş Milletler ajansı UNRWA için kamera karşısına geçen Guardiola \"Onların hayatları da bizimki kadar değerli. Onların acısı yabancı değil. Unutmayalım; Filistin ile dayanışmaya ara verilemez.",
-          "source": "https://www.ntv.com.tr/dunya/guardioladan-gazze-cagrisi-unutmayin-1746931"
+          "title": "Fransa enkaz kaldırıyor. Yüz milyonlarca euroluk yağma yapıldı",
+          "summary": "Fransa'da hafta sonu düzenlenen eylemlerin ardından adeta enkaz kaldırırken, yağmalanan iş yeri sayısının bin 500'ü bulduğu, yüz milyonlarca euroluk da maddi hasar olduğu kaydediliyor. Fransa'da 1 ay önce öğrenci eylemleriyle başlayan ve daha sonra her yıl hayat pahalılığına karşı sokağa inen \"sarı yelekliler\", akaryakıt fiyatlarını protesto eden çiftçiler ve iklim aktivistlerinin de katılımıyla büyüyen gösteriler, hafta sonunda şiddet eylemleri eşliğinde zirve noktasına tırmandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-enkaz-kaldiriyor-yuz-milyonlarca-euroluk-yagma-yapildi-1746977"
         },
         {
-          "title": "Maç öncesi halat şovunda kaza. Amerikan askeri öldü",
-          "summary": "ABD'nin Teksas eyaletinde maç öncesi halatla iniş gösterisi yapan hava kuvvetleri askeri metrelerce yüksekten yere çakıldı. Ağır yaralı olarak hastaneye kaldırılan asker öldü. ABD'nin Teksas eyaletindeki Alamodome Stadyumu'nda oynanacak maç öncesi düzenlenen halatla iniş gösterisi sırasında feci bir kaza meydana geldi. Sosyal medyada paylaşılan görüntülere göre ABD Hava Kuvvetleri'ne bağlı askerin tavana bağlı halatla zemine inerken dengesini kaybettiği ve metrelerce yükseklikten yere çakıldığı görülüyor.",
-          "source": "https://www.ntv.com.tr/dunya/mac-oncesi-halat-sovunda-kaza-amerikan-askeri-oldu-1746930"
+          "title": "Canlı yayınlanan ayinde kan donduran anlar: Ekvadorlu papaz hayatını kaybetti",
+          "summary": "Ekvador'un Guayaquil kentindeki Perpetuo Socorro Kilisesi'nde ayin sırasında büyük bir haç ve üzerindeki İsa Mesih figürü papaz Patricio Alfredo Sanchez Molinari'nin başına düştü. Hem kilisedeki cemaat hem de canlı yayın izleyicileri kan donduran görüntülere şahit oldu. Sağlık ekiplerinin tüm müdahalesine rağmen papaz kurtarılamadı.",
+          "source": "https://www.hurriyet.com.tr/dunya/canli-yayinlanan-ayinde-kan-donduran-anlar-ekvadorlu-papaz-hayatini-kaybetti-43347109"
         },
         {
-          "title": "Gençler Ben-Gvir'i kürsüden indirdi",
-          "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı İtamar Ben-Gvir, Tel Aviv Üniversitesi'nde bir grup öğrenci tarafından protesto edildi. Ben-Gvir salonu terk etmek zorunda kaldı. İsrail'de 27 Ekim'de yapılacak seçim öncesi, iktidarda kalmak için ülkeyi savaşa sürüklemekten kaçınmadığı eleştirilerine muhatap olan Benyamin Netanyahu hükümetinin bakanları da protestolarla karşılaşıyor. Aşırı sağcı Ulusal Güvenlik Bakanı İtamar Ben-Gvir, Tel Aviv Üniversitesi'nin seçim etkinliğinde soruları yanıtlamak için kürsüye çıktı.",
-          "source": "https://www.ntv.com.tr/dunya/gencler-ben-gviri-kursuden-indirdi-1746928"
+          "title": "Tel Aviv-Viyana seferi yapan yolcu uçağı bomba ihbarı nedeniyle Bulgaristan'a iniş yaptı",
+          "summary": "Avusturya Hava Yolları'nın Tel Aviv-Viyana seferini yapan yolcu uçağı, bomba ihbarı nedeniyle Bulgaristan'ın başkenti Sofya'ya iniş yaptı. Avusturya kamu yayın kuruluşu ORF'nin haberine göre; Avusturya Hava Yolları, İsrail'den kalkan, 51 yolcu ve 6 mürettebatın bulunduğu Airbus A320 tipi uçağına ilişkin bomba ihbarı yapıldığını açıkladı. Açıklamada, alınan ihbar nedeniyle uçağın dün gece geç saatlerde Sofya'ya iniş yaptığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/tel-aviv-viyana-seferi-yapan-yolcu-ucagi-bomba-ihbari-nedeniyle-bulgaristana-inis-yapti-1746994"
         },
         {
-          "title": "İran Dışişleri Bakanı Erakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor",
-          "summary": "İran Dışişleri Bakanı Abbas Erakçi, İsrail Başbakanı Binyamin Netanyahu'yu, hapse girmemek için ABD'yi İran ile bir başka savaşa sürüklemekle suçladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-disisleri-bakani-erakci-netanyahu-hapse-girmemek-icin-abdyi-savasa-surukluyor-43346643"
+          "title": "Alman sanayisinde 2019'dan bu yana yarım milyonluk iş kaybı",
+          "summary": "Almanya Ekonomi Araştırma Enstitüsü (Ifo) verilerine göre ülke sanayisi 2019'dan 2025 sonuna kadar yüzde 7,1'lik düşüşle 496 bin çalışanını kaybetti. Almanya Ekonomi Araştırma Enstitüsü (Ifo), ülke sanayisinde 2019 başından 2025 sonuna kadar yaklaşık yarım milyon kişilik istihdam kaybı yaşandığını duyurdu. Üreticilerin artan rekabet baskısıyla karşı karşıya kaldığı ülkede sanayi istihdamı, yüzde 7,1'lik düşüşle 496 bin kişi azaldı. Aynı dönemde hizmet sektöründe 2,2 milyondan fazla yeni istihdam yaratıldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-alman-sanayisinde-2019dan-bu-yana-yarim-milyonluk-is-kaybi-1746993"
         },
         {
-          "title": "Hürmüz Boğazı’nda bir petrol tankeri mayına çarptı",
-          "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın güneyinde İran'ın belirlediği güzergah ve kuralları ihlal ettiği öne sürülen bir petrol tankerinin deniz mayınına çarptığını bildirdi Devrim Muhafızları Ordusundan yapılan yazılı açıklamada, Hürmüz Boğazı'nın güneyindeki bölgede petrol tankerinin deniz mayınına çarpması sonucu patlama ve makine dairesinde yangın meydana geldiği belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-1746923"
+          "title": "Romanya'nın başkenti Bükreş'te 4,3 büyüklüğünde deprem",
+          "summary": "Romanya'nın başkenti Bükreş'te 4,3 büyüklüğünde deprem meydana geldiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/romanyanin-baskenti-bukreste-4-3-buyuklugunde-deprem-43347045"
         },
         {
-          "title": "Fransa sokakları alev alev. Lüks mağazalar yağmalandı, Paris'ten can kaybı haberi geldi",
-          "summary": "Fransa'da ülke çapında yapılan gösteriler pek çok kentte çatışmaya dönüştü. Tarihi binalar yakıldı, lüks mağazalar yağmalandı. Fransa Cumhurbaşkanı Emmanuel Macron, \"Hepimiz öfke duyuyoruz\" dedi. 2 BİN 400'DEN FAZLA GÖZALTI Fransa'da yoksul banliyölerdeki liselerde öğretmen açığı ve bakımsız okullara tepki olarak başlayan ve yaklaşık 1 aydır süren öğrenci eylemlerine, her yıl hayat pahalılığına karşı sokağa inen \"sarı yelekliler\", akaryakıt fiyatlarını protesto eden çiftçiler ve iklim aktivistleri de destek verince",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-sokaklari-alev-alev-luks-magazalar-yagmalandi-paristen-can-kaybi-haberi-geldi-1746793"
+          "title": "İsrailli Bakan Ben-Gvir'den Fransız Yahudilere ülkeyi terk etme çağrısı",
+          "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Fransa'daki Yahudilere İsrail'e göç etme çağrısında bulundu. Ülkede patlak veren protestolara ilişkin mesaj paylaşan Ben-Gvir, Paris yönetiminin Batı Şeria yaptırımlarını gerekçe göstererek nüfusu 500 bini aşan Fransız Yahudinin İsrail'e göç etmesini istedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilli-bakan-ben-gvirden-fransiz-yahudilere-ulkeyi-terk-etme-cagrisi-43347031"
         },
         {
-          "title": "Ukrayna'dan İHA saldırısı, Rusya'dan misilleme… Müzakere beklenirken savaş şiddetini arttırdı",
-          "summary": "Rus yetkililer, Ukrayna'nın St. Petersburg kenti ile Leningrad bölgesine yoğun insansız hava aracı (İHA) saldırıları düzenlediğini, saldırılarda petrol terminali ile teknoloji şirketi VK'ye ait veri merkezinin hedef alındığını bildirdi. Kremlin Sözcüsü Peskov, Ukrayna'nın saldırılarına sistematik cevap verdiklerini belirterek, bununla Kiev'in saldırı kapasitesini azaltmayı amaçladıklarını ve sonuç aldıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ukraynadan-iha-saldirisi-rusyadan-misilleme-muzakere-beklenirken-savas-siddetini-arttirdi-43346534"
+          "title": "Japonya'dan Kuril Adaları mesajı",
+          "summary": "Japonya hükümeti, ihtilafa konu olan adalar üzerindeki toprak anlaşmazlığının çözümü için Rusya ile çalışmaya devam edeceklerini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/japonyadan-kuril-adalari-mesaji-43347006"
         }
       ]
     },
     "ekonomi": {
-      "text": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler.",
+      "text": "'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama.",
       "items": [
+        {
+          "title": "'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'",
+          "summary": "Ticaret Bakanlığı \"2026 yılının ilk 9 ayında gerçekleştirilen 4 bin 890 farklı operasyonda, 91 milyar 720 milyon TL değerinde ticari eşya ve uyuşturucu madde ele geçirildi.\" açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/yilinin-ilk-9-ayinda-91-milyar-720-milyon-tllik-ticari-esya-ve-uyusturucu-ele-gecirildi-43346707"
+        },
         {
           "title": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek",
           "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz başkanlığında 6'ncı Fon Kurulu Toplantısı gerçekleştirildi. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıkların ilgili kurum ve kuruluşları katıldı. Konuya ilişkin Kanun Teklifinin önümüzdeki hafta Genel Kurulda görüşülmesi öngörülüyor.",
@@ -115,51 +120,46 @@
           "title": "DMM’den BES iddialarına yalanlama",
           "summary": "İLETİŞİM Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Sermaye piyasalarındaki gelişmeler nedeniyle Bireysel Emeklilik Sistemi'nden (BES) kitlesel çıkışlar yaşandığı yönündeki iddialar tamamen asılsızdır\" açıklamasını yaptı.",
           "source": "https://www.hurriyet.com.tr/gundem/dmmden-besten-kitlesel-cikislar-yasandigi-iddialarina-yalanlama-43344582"
-        },
-        {
-          "title": "Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 12.250,68 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsada-yukselis-iste-en-cok-kazandiran-ve-kaybettiren-sektorler-43340437"
         }
       ]
     },
     "spor": {
-      "text": "Pota derbisi Beşiktaş'ın! Galatasaray'dan üst üste 3. kayıp. Nuri Şahin ile Orhan Ak arasında gerginlik! Maç sonu ortalık karıştı, kırmızı kart çıktı. Nuri Şahin'den Beşiktaş maçının galibiyet şifresi!. Ertuğrul Doğan’dan Beşiktaş maçı öncesi hakem çıkışı: 'En muzdarip takım Trabzonspor!'. Fenerbahçe Tarfin'e evinde Petkimspor engeli!. Lille'den Berke Özer açıklaması! Galatasaray'a karşı oynayacak mı?. Selçuk İnan: 'Çok çalıştığımız yerden golü yedik'.",
+      "text": "A Milli Kadın Basketbol Takımı’nda Frederic Dusart dönemi. Roberto De Zerbi'den Richarlison'a sert sözler: 'Artık benim sorunum değil!'. Trabzonspor-Beşiktaş maçının VAR'ı belli oldu. Derbide Taraf Tercihleri Trabzonspor’dan Yana! İşte Misli’de Günün En Çok Oynanan Maçları. Galatasaray maçı öncesi oteli yaktılar! UEFA bekleniyor. Lille - Galatasaray maçına Sloven hakem. Fenerbahçe'nin konuğu Slavia Prag! 2 eksik var.",
       "items": [
         {
-          "title": "Pota derbisi Beşiktaş'ın! Galatasaray'dan üst üste 3. kayıp",
-          "summary": "Basketbol Süper Ligi'nin 4'üncü haftasında Beşiktaş sahasında ağırladığı Galatasaray MCT Technic'i 83-80 mağlup etti. Bu sonucun ardından Beşiktaş, 2'nci galibiyetini alırken Galatasaray ise 3'üncü kez mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pota-derbisi-besiktasin-galatasaraydan-ust-uste-3-kayip-43346637"
+          "title": "A Milli Kadın Basketbol Takımı’nda Frederic Dusart dönemi",
+          "summary": "A Milli Kadın Basketbol Takımı'nda başantrenörlük görevine Frederic Dusart getirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takiminda-frederic-dusart-donemi-43347097"
         },
         {
-          "title": "Nuri Şahin ile Orhan Ak arasında gerginlik! Maç sonu ortalık karıştı, kırmızı kart çıktı",
-          "summary": "Başakşehir'in, Gaziantep FK'yi 2-1 mağlup ettiğin maçın bitiş düdüğüyle birlikte iki takımın teknik direktörü Nuri Şahin ile Orhan Ak arasında tansiyon yükseldi. Yaşanan gerginliğin ardından Orhan Ak kırmızı kart gördü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-ile-orhan-ak-arasinda-gerginlik-mac-sonu-ortalik-karisti-kirmizi-kart-cikti-43346595"
+          "title": "Roberto De Zerbi'den Richarlison'a sert sözler: 'Artık benim sorunum değil!'",
+          "summary": "Tottenham Teknik Direktörü Roberto De Zerbi, Richarlison hakkında konuştu. Brezilyalı yıldızın geleceğine ilişkin kararın yönetime ait olduğunu belirten İtalyan teknik adam, “Artık bu benim sorunum değil” ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/roberto-de-zerbiden-richarlisona-sert-sozler-artik-benim-sorunum-degil-43347027"
         },
         {
-          "title": "Nuri Şahin'den Beşiktaş maçının galibiyet şifresi!",
-          "summary": "Başakşehir Teknik Direktörü Nuri Şahin, Gaziantep FK maçının ardından yaptığı açıklamada, \"Beşiktaş’ın stadında maçı kazanmak istiyorsak çok cesur olmamız gerekiyor\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahinden-besiktas-macinin-galibiyet-sifresi-43346591"
+          "title": "Trabzonspor-Beşiktaş maçının VAR'ı belli oldu",
+          "summary": "Süper Lig'in 8. haftasında oynanacak Trabzonspor-Beşiktaş maçının VAR'ı açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-besiktas-macinin-vari-belli-oldu-43347026"
         },
         {
-          "title": "Ertuğrul Doğan’dan Beşiktaş maçı öncesi hakem çıkışı: 'En muzdarip takım Trabzonspor!'",
-          "summary": "Trabzonspor Kulübü Başkanı Ertuğrul Doğan, Beşiktaş ile oynayacakları derbi öncesi canlı yayınında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogandan-besiktas-maci-oncesi-hakem-cikisi-en-muzdarip-takim-trabzonspor-43346583"
+          "title": "Derbide Taraf Tercihleri Trabzonspor’dan Yana! İşte Misli’de Günün En Çok Oynanan Maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/derbide-taraf-tercihleri-trabzonspordan-yana-iste-mislide-gunun-en-cok-oynanan-maclari-43346987"
         },
         {
-          "title": "Fenerbahçe Tarfin'e evinde Petkimspor engeli!",
-          "summary": "Fenerbahçe Tarfin, Türkiye Sigorta Basketbol Süper Ligi'nin 4. haftasında Aliağa Petkimspor'a 82-77 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfine-evinde-petkimspor-engeli-43346524"
+          "title": "Galatasaray maçı öncesi oteli yaktılar! UEFA bekleniyor",
+          "summary": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde Lille ile oynayacağı karşılaşma öncesi Fransa'da olaylar dinmiyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-maci-oncesi-oteli-yaktilar-uefa-bekleniyor-43346961"
         },
         {
-          "title": "Lille'den Berke Özer açıklaması! Galatasaray'a karşı oynayacak mı?",
-          "summary": "Brest ile deplasmanda 1-1 berabere kalan Lille'de teknik direktör Davide Ancelotti, karşılaşmanın ardından milli kaleci Berke Özer'in son durumuna ilişkin açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lilleden-berke-ozer-aciklamasi-galatasaraya-karsi-oynayacak-mi-43346493"
+          "title": "Lille - Galatasaray maçına Sloven hakem",
+          "summary": "Şampiyonlar Ligi'nin 3. haftasında Lille ile Galatasaray arasında oynanacak karşılaşmada Sloven hakem Rade Obrenovic görev yapacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-macina-sloven-hakem-43346943"
         },
         {
-          "title": "Selçuk İnan: 'Çok çalıştığımız yerden golü yedik'",
-          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Göztepe maçının ardından, \"Lig takımlarına hazırlanmak kolay olmuyor. Çok çalıştığımız yerden de maalesef golü yedik\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-cok-calistigimiz-yerden-golu-yedik-43346478"
+          "title": "Fenerbahçe'nin konuğu Slavia Prag! 2 eksik var",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Çekya temsilcisi Slavia Prag'ı ağırlayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-konugu-slavia-prag-2-eksik-var-43346914"
         }
       ]
     },
