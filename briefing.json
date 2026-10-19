@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-18T10:00:04.434Z",
+  "generatedAt": "2026-10-19T04:00:03.703Z",
   "categories": {
     "gundem": {
-      "text": "Adana'da fırtına çatıyı uçurdu! Evin sahibi o anları anlattı: Deprem oldu sandık. Resmi Gazete'de bugün. 18 Ekim 2026 tarihli Resmi Gazete kararları neler?. Baraj doluluk oranları yüzde 50'yi aştı. İstanbul barajları ne kadar, yüzde kaç dolu?. Sarıyer'de sel sularında aracı böyle sürüklenmiş. \"İçinde adam var\". AK Partili Yayman, Hatay'da festivalde konuştu: Çiftçimizin, esnafımızın problemi bizim problemimizdir. Şarkıcı İlyas Yalçıntaş'a uyuşturucu ticaretinden en az 10 yıl hapis istemi. Vali Davut Gül'den Ayazağa açıklaması: 3 kişiyi arama çalışmalarımız sürüyor.",
+      "text": "Meclis'te yeni haftada gündem yoğun. Fon teklifi Genel Kurul'a geliyor. Vakalar hızla tırmanıyor, sayı binleri aştı! Bulaştırıcılığı en yüksek virüs... “Bir hasta 18 kişiye bulaştırabiliyor”. ABD’nin İstanbul Başkonsolosu Michael Lally, için kaleme aldı… Bir Saygı Yolculuğu. Kadıköy'de 3 katlı ahşap köşk yandı. Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 10 kayıp. Bursa'da hayır yemeğinden 53 kişiyi hastanelik oldu. Pilav günü etkinliği kâbusa döndü! 100 kişi hastanelik oldu.",
       "items": [
         {
-          "title": "Adana'da fırtına çatıyı uçurdu! Evin sahibi o anları anlattı: Deprem oldu sandık",
-          "summary": "Adana’da etkili olan sağanak ve kuvvetli rüzgar nedeniyle Davut Şahin’e (61) ait 3 katlı evin en üst katındaki prefabrik yapının çatısı uçtu. Evde 12 kişi olduklarını belirten Şahin, \"Deprem oldu sandık, afetten beter oldu\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/adanada-firtina-catiyi-ucurdu-evin-sahibi-o-anlari-anlatti-deprem-oldu-sandik-43346085"
+          "title": "Meclis'te yeni haftada gündem yoğun. Fon teklifi Genel Kurul'a geliyor",
+          "summary": "Meclis'te yeni haftada kritik bir düzenleme gündemde olacak. Tasfiyesine karar verilen fonlara ilişkin kanun teklifi Genel Kurul'da görüşülecek. TBMM Genel Kurulu'nda Türk Kızılay Kanunu Teklifi görüşülecek, Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi ele alınacak. Haftalık çalışmalarına 20 Ekim Salı günü başlayacak Genel Kurul, Türk Kızılay Kanunu Teklifi'nin görüşmelerine devam edecek.",
+          "source": "https://www.ntv.com.tr/turkiye/mecliste-yeni-haftada-gundem-yogun-fon-teklifi-genel-kurula-geliyor-1746827"
         },
         {
-          "title": "Resmi Gazete'de bugün. 18 Ekim 2026 tarihli Resmi Gazete kararları neler?",
-          "summary": "Resmi Gazete'de 18 Ekim 2026 tarihli kararlar yayımlandı. Günün gündeminde kamu kurumlarının düzenleme ve uygulama yönetmelikleri kararları da yer aldı. Türkiye Cumhuriyeti Resmî Gazetesi'nin 18 Ekim 2026 Pazar tarihli ve 33404 sayılı yeni sayısı yayımlandı. Haftanın son gününde yayımlanan Resmi Gazete'de kamu kurumlarının düzenleme ve uygulama yönetmelikleri, tebliğler, yargı duyuruları ve idari ilanlar yer aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-18-ekim-2026-tarihli-resmi-gazete-kararlari-neler-1746792"
+          "title": "Vakalar hızla tırmanıyor, sayı binleri aştı! Bulaştırıcılığı en yüksek virüs... “Bir hasta 18 kişiye bulaştırabiliyor”",
+          "summary": "Unutulmaya yüz tutan tehlike sessizce geri döndü. Yıllardır başarıyla kontrol altında tutulan kızamık vakaları 2026’da tırmanışa geçerek binleri aştı. Tek bir hastanın 18 kişiye bulaştırabildiği virüse karşı toplumsal bağışıklık duvarı zayıflıyor; virüs hem çocukları hem yetişkinleri tehdit ediyor. Uzmanlar, bulaştırıcılığı en yüksek enfeksiyonlar arasında ilk sırada yer alan kızamıkta son durum, hastalığın seyri ve hayati risk oluşturan tüm detayları hürriyet.com.tr’ye anlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/vakalar-hizla-tirmaniyor-sayi-binleri-asti-bulastiriciligi-en-yuksek-virus-bir-hasta-18-kisiye-bulastirabiliyor-43340327"
         },
         {
-          "title": "Baraj doluluk oranları yüzde 50'yi aştı. İstanbul barajları ne kadar, yüzde kaç dolu?",
-          "summary": "Marmara Bölgesi genelinde hafta ortasından bu yana aralıksız devam eden kuvvetli sağanak yağışlar, İstanbul'un içme suyu kaynaklarına rekor düzeyde canlılık getirdi. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) tarafından baraj doluluk oranları gün gün paylaşılmaya devam ediyor. Geçtiğimiz hafta yüzde 38 seviyelerinde bulunan İstanbul'a su sağlayan barajların doluluk oranlarına ilişkin en güncel veriler belli oldu. Peki, İstanbul barajları ne kadar, yüzde kaç dolu?",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-baraj-doluluk-oranlari-yuzde-50yi-asti-istanbul-barajlari-ne-kadar-yuzde-kac-dolu-1746818"
+          "title": "ABD’nin İstanbul Başkonsolosu Michael Lally, için kaleme aldı… Bir Saygı Yolculuğu",
+          "summary": "Seksen yıl önce bir Amerikan zırhlısı, Türkiye ile Amerika Birleşik Devletleri’nin yan yana duracağı mesajını taşıyarak İstanbul Boğazı’na girdi. Bu ziyaret 22-28 Ekim tarihleri arasında Beşiktaş’taki Deniz Müzesi’nde düzenlenecek gezici bir sergiyle anılıyor. Bu hikâye, 1946’da olduğu kadar bugün de önemini koruyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/abdnin-istanbul-baskonsolosu-michael-lally-icin-kaleme-aldi-bir-saygi-yolculugu-43346660"
         },
         {
-          "title": "Sarıyer'de sel sularında aracı böyle sürüklenmiş. \"İçinde adam var\"",
-          "summary": "İstanbul Sarıyer'de selde kaybolan 63 yaşındaki Ahmet Derin'in aracının sel sularında sürüklendiği anlara ait yeni görüntüler ortaya çıktı. İstanbul’da 14 Ekim Çarşamba günü etkili olan sağanak sırasında Sarıyer ilçesi Ayazağa Mahallesi’nde dere taştı. Çok sayıda ev, iş yeri ve araç sular altında kaldı. Selin ardından kendisinden haber alınamayan Ahmet Derin’in bulunması için arama çalışması başlatıldı. Derin’in aracının sel sularında sürüklendiği anlara ait yeni cep telefonu görüntüleri ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-sariyerde-sel-sularinda-araci-boyle-suruklenmis-icinde-adam-var-1746803"
+          "title": "Kadıköy'de 3 katlı ahşap köşk yandı",
+          "summary": "Kadıköy'de 3 katlı ahşap köşk yangında kullanılamaz hale geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kadikoyde-3-katli-ahsap-kosk-yandi-43346669"
         },
         {
-          "title": "AK Partili Yayman, Hatay'da festivalde konuştu: Çiftçimizin, esnafımızın problemi bizim problemimizdir",
-          "summary": "AK Parti Genel Başkan Yardımcısı Hüseyin Yayman, Hatay'da düzenlenen 10. Altınözü Zeytin, Zeytinyağı ve Gastronomi Festivali'nde yaptığı konuşmada, çiftçi ve esnafın sorunlarını adım adım çözeceklerini belirtti. Deprem bölgesindeki yatırımlara değinen Yayman, yeni anayasa talebini de yineledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-partili-yayman-hatayda-festivalde-konustu-ciftcimizin-esnafimizin-problemi-bizim-problemimizdir-43346061"
+          "title": "Eğitim için Isparta’ya giden ekip kanyonda kayboldu: 1 ölü, 10 kayıp",
+          "summary": "İstanbul'dan Isparta’ya eğitime gelen aralarında gönüllülerin de bulunduğu İHH ekibi kanyonda kayboldu. 1 kişi hayatını kaybederken, kayıp 13 kişiden 3'ü kurtarıldı. İstanbul İHH İnsani Yardım Vakfı gönüllü grubundan 14 kişi, dün Sütçüler ilçesindeki Yazılı Kanyon'a tatbikata geldi. Ekibin bugün öğle saatlerinde yönünü kaybettiği ihbarında bulunuldu. Bunun üzerine bölgeye çok sayıda kurtarma ekibi yönlendirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/egitim-icin-ispartaya-ekip-kanyonda-kayboldu-1-olu-13-kayip-1746916"
         },
         {
-          "title": "Şarkıcı İlyas Yalçıntaş'a uyuşturucu ticaretinden en az 10 yıl hapis istemi",
-          "summary": "Şarkıcı İlyas Yalçıntaş hakkında \"uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama\" suçundan 10 yıldan az olmamak üzere hapis cezası istemiyle iddianame hazırlandı. Bakırköy Cumhuriyet Başsavcılığınca hazırlanan iddianamede, daha önceki soruşturma dosyalarından ve İstanbul İl Jandarma personelince gerçekleştirilen istihbari çalışma ve muhbir görüşmelerinden kamuoyunca tanınan isimlerin uyuşturucu veya uyarıcı madde kullandığı, bunları birbirlerine ikram ederek kullandırdıkları yönünde alınan bilgiler üzeri",
-          "source": "https://www.ntv.com.tr/turkiye/sarkici-ilyas-yalcintasa-uyusturucu-ticaretinden-en-az-10-yil-hapis-istemi-1746820"
+          "title": "Bursa'da hayır yemeğinden 53 kişiyi hastanelik oldu",
+          "summary": "Bursa'nın İnegöl ilçesinde bir hayır etkinliğinde yemek yedikten sonra rahatsızlanan 53 kişi, hastaneye başvurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursada-hayir-yemeginden-53-kisiyi-hastanelik-oldu-43346667"
         },
         {
-          "title": "Vali Davut Gül'den Ayazağa açıklaması: 3 kişiyi arama çalışmalarımız sürüyor",
-          "summary": "İstanbul'daki sel felaketinin ardından sahada inceleme yapan Vali Davut Gül, hasar tespit çalışmalarının tamamına yakınının bittiğini belirtti. Gül, selde kaybolan 3 kişiye ulaşmak için arama kurtarma çalışmalarının aralıksız devam ettiğini vurguladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/vali-davut-gulden-ayazaga-aciklamasi-3-kisiyi-arama-calismalarimiz-suruyor-43346047"
+          "title": "Pilav günü etkinliği kâbusa döndü! 100 kişi hastanelik oldu",
+          "summary": "Bursa’nın İnegöl ilçesinde düzenlenen geleneksel pilav günü etkinliğinde ikram edilen tavuklu pilavı yiyen yaklaşık 100 kişi, mide bulantısı ve kusma şikâyetleriyle hastaneye başvurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/pilav-gunu-etkinligi-kabusa-dondu-100-kisi-hastanelik-oldu-43346628"
         }
       ]
     },
     "dunya": {
-      "text": "Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yılı. Dışişleri Bakanlığı'ndan kutlama mesajı. Fransa sokakları alev alev. Eylemler büyüdü, Paris'ten can kaybı haberi geldi. Trump'ın yardımcısı JD Vance başkan adaylığı sorusunu yanıtladı: 'İhtimal var'. Belçika'daki protestolarda 45 kişiye gözaltı. Dışişleri Bakanlığı'ndan Azerbaycan'a bağımsızlık günü kutlaması. Hindistan'da dini festivaller kana bulandı. Önce izdiham, şimdi de kamyon faciası. Türkiye ile Yunanistan Doğu Akdeniz'de karşı karşıya: Yunan basını, Atina'nın sıradaki adımını yazdı.",
+      "text": "Guardiola'dan Gazze çağrısı: Unutmayın... Maç öncesi halat şovunda kaza. Amerikan askeri öldü. Gençler Ben-Gvir'i kürsüden indirdi. İran Dışişleri Bakanı Erakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor. Hürmüz Boğazı’nda bir petrol tankeri mayına çarptı. Fransa sokakları alev alev. Lüks mağazalar yağmalandı, Paris'ten can kaybı haberi geldi. Ukrayna'dan İHA saldırısı, Rusya'dan misilleme… Müzakere beklenirken savaş şiddetini arttırdı.",
       "items": [
         {
-          "title": "Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yılı. Dışişleri Bakanlığı'ndan kutlama mesajı",
-          "summary": "Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yıl dönümünü, \"Kardeş Azerbaycan'ın bağımsızlığının yeniden tesisinin 35. yıl dönümü kutlu olsun\" paylaşımıyla kutladı. Azerbaycan, SSCB'den ayrılarak 18 Ekim 1991'de bağımsızlığını yeniden ilan etmişti. Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yıl dönümünü kutladı. Bakanlık, NSosyal hesabından, \"Kardeş Azerbaycan'ın bağımsızlığının yeniden tesisinin 35. yıl dönümü kutlu olsun!\" paylaşımı yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/azerbaycanin-bagimsizligini-yeniden-kazanmasinin-35-yili-disisleri-bakanligindan-kutlama-mesaji-1746826"
+          "title": "Guardiola'dan Gazze çağrısı: Unutmayın...",
+          "summary": "Ünlü İspanyol teknik direktör Pep Guardiola, dünyaya Gazze'deki Filistinlileri unutmama çağrısı yaptı: \"Onlar ölmüş değil, katledilmiş insanlar...\" Eski Manchester City teknik direktörü Pep Guardiola İsrail'in Gazze'deki soykırımına karşı bir kez daha sesini yükseltti. Filistinli mültecilere yardım eden Birleşmiş Milletler ajansı UNRWA için kamera karşısına geçen Guardiola \"Onların hayatları da bizimki kadar değerli. Onların acısı yabancı değil. Unutmayalım; Filistin ile dayanışmaya ara verilemez.",
+          "source": "https://www.ntv.com.tr/dunya/guardioladan-gazze-cagrisi-unutmayin-1746931"
         },
         {
-          "title": "Fransa sokakları alev alev. Eylemler büyüdü, Paris'ten can kaybı haberi geldi",
-          "summary": "Fransa'da banliyö liselerindeki öğretmen açığına tepki olarak başlayan ve çeşitli grupların da katılımıyla büyüyen eylemler ülkeyi adeta yangın yerine çevirdi. Paris'te 1 gösterici hayatını kaybetti. Fransa'da yoksul banliyölerdeki liselerde öğretmen açığı ve bakımsız okullara tepki olarak başlayan ve yaklaşık 1 aydır süren öğrenci eylemlerine, her yıl hayat pahalılığına karşı sokağa inen \"sarı yelekliler\", akaryakıt fiyatlarını protesto eden çiftçiler ve iklim aktivistleri de destek verince sokaklar karıştı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-sokaklari-alev-alev-eylemler-buyudu-bircok-kentte-catismalar-gece-boyu-surdu-1746793"
+          "title": "Maç öncesi halat şovunda kaza. Amerikan askeri öldü",
+          "summary": "ABD'nin Teksas eyaletinde maç öncesi halatla iniş gösterisi yapan hava kuvvetleri askeri metrelerce yüksekten yere çakıldı. Ağır yaralı olarak hastaneye kaldırılan asker öldü. ABD'nin Teksas eyaletindeki Alamodome Stadyumu'nda oynanacak maç öncesi düzenlenen halatla iniş gösterisi sırasında feci bir kaza meydana geldi. Sosyal medyada paylaşılan görüntülere göre ABD Hava Kuvvetleri'ne bağlı askerin tavana bağlı halatla zemine inerken dengesini kaybettiği ve metrelerce yükseklikten yere çakıldığı görülüyor.",
+          "source": "https://www.ntv.com.tr/dunya/mac-oncesi-halat-sovunda-kaza-amerikan-askeri-oldu-1746930"
         },
         {
-          "title": "Trump'ın yardımcısı JD Vance başkan adaylığı sorusunu yanıtladı: 'İhtimal var'",
-          "summary": "ABD Başkan Yardımcısı JD Vance, 2028 başkanlık seçiminde aday olup olmayacağına henüz karar vermediğini belirtti. Vance, bu konuyu değerlendirmesi gerektiğini dile getirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumpin-yardimcisi-jd-vance-baskan-adayligi-sorusunu-yanitladi-ihtimal-var-43346024"
+          "title": "Gençler Ben-Gvir'i kürsüden indirdi",
+          "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı İtamar Ben-Gvir, Tel Aviv Üniversitesi'nde bir grup öğrenci tarafından protesto edildi. Ben-Gvir salonu terk etmek zorunda kaldı. İsrail'de 27 Ekim'de yapılacak seçim öncesi, iktidarda kalmak için ülkeyi savaşa sürüklemekten kaçınmadığı eleştirilerine muhatap olan Benyamin Netanyahu hükümetinin bakanları da protestolarla karşılaşıyor. Aşırı sağcı Ulusal Güvenlik Bakanı İtamar Ben-Gvir, Tel Aviv Üniversitesi'nin seçim etkinliğinde soruları yanıtlamak için kürsüye çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/gencler-ben-gviri-kursuden-indirdi-1746928"
         },
         {
-          "title": "Belçika'daki protestolarda 45 kişiye gözaltı",
-          "summary": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikaları ile bütçe kesintilerine karşı dün düzenlenen protestolarda şiddet olayları çıktı. Liege polisi, olayların ardından 45 kişinin gözaltına alındığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/belcikadaki-protestolarda-45-kisiye-gozalti-43346017"
+          "title": "İran Dışişleri Bakanı Erakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor",
+          "summary": "İran Dışişleri Bakanı Abbas Erakçi, İsrail Başbakanı Binyamin Netanyahu'yu, hapse girmemek için ABD'yi İran ile bir başka savaşa sürüklemekle suçladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-disisleri-bakani-erakci-netanyahu-hapse-girmemek-icin-abdyi-savasa-surukluyor-43346643"
         },
         {
-          "title": "Dışişleri Bakanlığı'ndan Azerbaycan'a bağımsızlık günü kutlaması",
-          "summary": "Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yıl dönümüne ilişkin kutlama mesajı paylaştı.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakanligindan-azerbaycana-bagimsizlik-gunu-kutlamasi-43346006"
+          "title": "Hürmüz Boğazı’nda bir petrol tankeri mayına çarptı",
+          "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın güneyinde İran'ın belirlediği güzergah ve kuralları ihlal ettiği öne sürülen bir petrol tankerinin deniz mayınına çarptığını bildirdi Devrim Muhafızları Ordusundan yapılan yazılı açıklamada, Hürmüz Boğazı'nın güneyindeki bölgede petrol tankerinin deniz mayınına çarpması sonucu patlama ve makine dairesinde yangın meydana geldiği belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-1746923"
         },
         {
-          "title": "Hindistan'da dini festivaller kana bulandı. Önce izdiham, şimdi de kamyon faciası",
-          "summary": "Hindistan'daki dini festivallerde dün ve bugün yaşanan iki ayrı faciada onlarca kişi hayatını kaybetti, onlarcası da yaralandı. Hindistan'ın Batı Bengal eyaletinin Kalküta kentinde dün dini festivalde çıkan izdihamda, 13'ü kadın ve 1'i çocuk olmak üzere 17 kişi hayatını kaybetmiş, 25 kişi de yaralanmıştı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-hindistanda-dini-festivaller-kana-bulandi-once-izdiham-simdi-de-kamyon-faciasi-1746823"
+          "title": "Fransa sokakları alev alev. Lüks mağazalar yağmalandı, Paris'ten can kaybı haberi geldi",
+          "summary": "Fransa'da ülke çapında yapılan gösteriler pek çok kentte çatışmaya dönüştü. Tarihi binalar yakıldı, lüks mağazalar yağmalandı. Fransa Cumhurbaşkanı Emmanuel Macron, \"Hepimiz öfke duyuyoruz\" dedi. 2 BİN 400'DEN FAZLA GÖZALTI Fransa'da yoksul banliyölerdeki liselerde öğretmen açığı ve bakımsız okullara tepki olarak başlayan ve yaklaşık 1 aydır süren öğrenci eylemlerine, her yıl hayat pahalılığına karşı sokağa inen \"sarı yelekliler\", akaryakıt fiyatlarını protesto eden çiftçiler ve iklim aktivistleri de destek verince",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-sokaklari-alev-alev-luks-magazalar-yagmalandi-paristen-can-kaybi-haberi-geldi-1746793"
         },
         {
-          "title": "Türkiye ile Yunanistan Doğu Akdeniz'de karşı karşıya: Yunan basını, Atina'nın sıradaki adımını yazdı",
-          "summary": "Türkiye, Yunanistan'ın dört ülkenin katılımıyla Doğu Akdeniz'de düzenlediği Eunomia tatbikatı için yayımladığı duyuruya karşı NAVTEX yayımladı. Ankara, denizaltı kablo projesinin güzergâhıyla örtüşen bölgenin Türkiye'nin yetki alanında olduğunu bildirdi. Atina'nın Doğu Akdeniz'de Ankara'ya karşı yeni bir hamle yapmaya hazırlandığını kaydeden Yunan basını, Türkiye'nin adımını KKTC'ye inşa edilecek doğal gaz boru hattı projesiyle ilişkilendirerek endişeyle takip ediyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/turkiye-ile-yunanistan-dogu-akdenizde-karsi-karsiya-yunan-basini-atinanin-siradaki-adimini-yazdi-43345940"
+          "title": "Ukrayna'dan İHA saldırısı, Rusya'dan misilleme… Müzakere beklenirken savaş şiddetini arttırdı",
+          "summary": "Rus yetkililer, Ukrayna'nın St. Petersburg kenti ile Leningrad bölgesine yoğun insansız hava aracı (İHA) saldırıları düzenlediğini, saldırılarda petrol terminali ile teknoloji şirketi VK'ye ait veri merkezinin hedef alındığını bildirdi. Kremlin Sözcüsü Peskov, Ukrayna'nın saldırılarına sistematik cevap verdiklerini belirterek, bununla Kiev'in saldırı kapasitesini azaltmayı amaçladıklarını ve sonuç aldıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ukraynadan-iha-saldirisi-rusyadan-misilleme-muzakere-beklenirken-savas-siddetini-arttirdi-43346534"
         }
       ]
     },
     "ekonomi": {
-      "text": "İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler. İlk kazanan Ege olsun. 2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı.",
+      "text": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama. Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler.",
       "items": [
+        {
+          "title": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek",
+          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz başkanlığında 6'ncı Fon Kurulu Toplantısı gerçekleştirildi. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıkların ilgili kurum ve kuruluşları katıldı. Konuya ilişkin Kanun Teklifinin önümüzdeki hafta Genel Kurulda görüşülmesi öngörülüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/altinci-fon-kurulu-toplantisi-gerceklesti-43346459"
+        },
+        {
+          "title": "Eroğlu, EBSO yönetiminde",
+          "summary": "CEMER Holding Yönetim Kurulu Başkanı Fuat Eroğlu, Ege Bölgesi Sanayi Odası’nın (EBSO) yeni yönetim kuruluna seçildi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/eroglu-ebso-yonetiminde-43346208"
+        },
         {
           "title": "İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek",
           "summary": "Türkiye Varlık Fonu (TVF) mülkiyetindeki TVF İzmir Limanı, büyük tonajlı gemilere hizmet verebilmesi ve yük elleçleme kapasitesinin artırılması amacıyla iki fazda toplam 1,5 milyar dolarlık yatırımla modernize edilecek.",
@@ -110,56 +120,46 @@
           "title": "Borsada yükseliş… İşte en çok kazandıran ve kaybettiren sektörler",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 12.250,68 puandan tamamladı.",
           "source": "https://www.hurriyet.com.tr/gundem/borsada-yukselis-iste-en-cok-kazandiran-ve-kaybettiren-sektorler-43340437"
-        },
-        {
-          "title": "İlk kazanan Ege olsun",
-          "summary": "Demir ve demir dışı metaller ve maden ihracatçıları, Fas’ın ev sahibi olduğu Dünya Futbol Kupası’nda ilk kazanlar olmak için bu ülkeye sektörel ticaret heyeti düzenleyecek.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/ilk-kazanan-ege-olsun-43338968"
-        },
-        {
-          "title": "2026 Nobel Ekonomi Ödülü'nün sahipleri açıklandı",
-          "summary": "2026 Nobel Ekonomi Ödülü'nün sahiplerinin, ABD'li ekonomistler Robert Hall ve Michael Woodford olduğu açıklandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/2026-nobel-ekonomi-odulunun-sahipleri-aciklandi-43338645"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe'de korkulan oldu! Ameliyat kararı. B.Leverkusen, son maçlarda oldukça formda… Real Madrid’in maçlarında gol yağmuru! İşte Misli’den Günün Tüyoları!. Beşiktaş, Süper Lig'de Trabzonspor'a konuk olacak. Galatasaray'dan Rafael Leao açıklaması!. Potada dev derbi: Beşiktaş, Galatasaray'ı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de. Real Madrid, Sevilla'yı ağırlıyor! Maçın heyecanı canlı yayın ile Misli'de. Fenerbahçe - Slavia Prag maçının hakemi belli oldu!.",
+      "text": "Pota derbisi Beşiktaş'ın! Galatasaray'dan üst üste 3. kayıp. Nuri Şahin ile Orhan Ak arasında gerginlik! Maç sonu ortalık karıştı, kırmızı kart çıktı. Nuri Şahin'den Beşiktaş maçının galibiyet şifresi!. Ertuğrul Doğan’dan Beşiktaş maçı öncesi hakem çıkışı: 'En muzdarip takım Trabzonspor!'. Fenerbahçe Tarfin'e evinde Petkimspor engeli!. Lille'den Berke Özer açıklaması! Galatasaray'a karşı oynayacak mı?. Selçuk İnan: 'Çok çalıştığımız yerden golü yedik'.",
       "items": [
         {
-          "title": "Fenerbahçe'de korkulan oldu! Ameliyat kararı",
-          "summary": "Fenerbahçe'nin İspanyol yıldızı Marco Asensio'nun sakatlığına ilişkin akıbeti belli oldu. İşte ayrıntılar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-korkulan-oldu-ameliyat-karari-43346090"
+          "title": "Pota derbisi Beşiktaş'ın! Galatasaray'dan üst üste 3. kayıp",
+          "summary": "Basketbol Süper Ligi'nin 4'üncü haftasında Beşiktaş sahasında ağırladığı Galatasaray MCT Technic'i 83-80 mağlup etti. Bu sonucun ardından Beşiktaş, 2'nci galibiyetini alırken Galatasaray ise 3'üncü kez mağlup oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/pota-derbisi-besiktasin-galatasaraydan-ust-uste-3-kayip-43346637"
         },
         {
-          "title": "B.Leverkusen, son maçlarda oldukça formda… Real Madrid’in maçlarında gol yağmuru! İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/b-leverkusen-son-maclarda-oldukca-formda-real-madridin-maclarinda-gol-yagmuru-iste-misliden-gunun-tuyolari-43346064"
+          "title": "Nuri Şahin ile Orhan Ak arasında gerginlik! Maç sonu ortalık karıştı, kırmızı kart çıktı",
+          "summary": "Başakşehir'in, Gaziantep FK'yi 2-1 mağlup ettiğin maçın bitiş düdüğüyle birlikte iki takımın teknik direktörü Nuri Şahin ile Orhan Ak arasında tansiyon yükseldi. Yaşanan gerginliğin ardından Orhan Ak kırmızı kart gördü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-ile-orhan-ak-arasinda-gerginlik-mac-sonu-ortalik-karisti-kirmizi-kart-cikti-43346595"
         },
         {
-          "title": "Beşiktaş, Süper Lig'de Trabzonspor'a konuk olacak",
-          "summary": "Beşiktaş, Süper Lig'de 8. haftanın kapanış maçında yarın deplasmanda Trabzonspor ile karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-super-ligde-trabzonspora-konuk-olacak-43346012"
+          "title": "Nuri Şahin'den Beşiktaş maçının galibiyet şifresi!",
+          "summary": "Başakşehir Teknik Direktörü Nuri Şahin, Gaziantep FK maçının ardından yaptığı açıklamada, \"Beşiktaş’ın stadında maçı kazanmak istiyorsak çok cesur olmamız gerekiyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahinden-besiktas-macinin-galibiyet-sifresi-43346591"
         },
         {
-          "title": "Galatasaray'dan Rafael Leao açıklaması!",
-          "summary": "Galatasaray, Rafael Leao'nun kesin durumunun yarın gün içerisinde yapılacak ileri tetkikler sonrası netleşeceğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-rafael-leao-aciklamasi-43346048"
+          "title": "Ertuğrul Doğan’dan Beşiktaş maçı öncesi hakem çıkışı: 'En muzdarip takım Trabzonspor!'",
+          "summary": "Trabzonspor Kulübü Başkanı Ertuğrul Doğan, Beşiktaş ile oynayacakları derbi öncesi canlı yayınında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogandan-besiktas-maci-oncesi-hakem-cikisi-en-muzdarip-takim-trabzonspor-43346583"
         },
         {
-          "title": "Potada dev derbi: Beşiktaş, Galatasaray'ı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "Beşiktaş ve Galatasaray, Basketbol Süper Ligi'nin 4. haftasında karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/potada-dev-derbi-besiktas-galatasarayi-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43346041"
+          "title": "Fenerbahçe Tarfin'e evinde Petkimspor engeli!",
+          "summary": "Fenerbahçe Tarfin, Türkiye Sigorta Basketbol Süper Ligi'nin 4. haftasında Aliağa Petkimspor'a 82-77 mağlup oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfine-evinde-petkimspor-engeli-43346524"
         },
         {
-          "title": "Real Madrid, Sevilla'yı ağırlıyor! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "İspanya La Liga'da 9. haftasında Real Madrid, Santiago Bernabeu'da Sevilla'yı konuk edecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-sevillayi-agirliyor-macin-heyecani-canli-yayin-ile-mislide-43345988"
+          "title": "Lille'den Berke Özer açıklaması! Galatasaray'a karşı oynayacak mı?",
+          "summary": "Brest ile deplasmanda 1-1 berabere kalan Lille'de teknik direktör Davide Ancelotti, karşılaşmanın ardından milli kaleci Berke Özer'in son durumuna ilişkin açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lilleden-berke-ozer-aciklamasi-galatasaraya-karsi-oynayacak-mi-43346493"
         },
         {
-          "title": "Fenerbahçe - Slavia Prag maçının hakemi belli oldu!",
-          "summary": "UEFA Şampiyonlar Ligi'nde Fenerbahçe ile Slavia Prag arasında oynanacak karşılaşmayı İspanyol hakem Ricardo de Burgos yönetecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-slavia-prag-macinin-hakemi-belli-oldu-43345983"
+          "title": "Selçuk İnan: 'Çok çalıştığımız yerden golü yedik'",
+          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Göztepe maçının ardından, \"Lig takımlarına hazırlanmak kolay olmuyor. Çok çalıştığımız yerden de maalesef golü yedik\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-cok-calistigimiz-yerden-golu-yedik-43346478"
         }
       ]
     },
