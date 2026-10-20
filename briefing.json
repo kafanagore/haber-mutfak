@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-20T10:00:08.056Z",
+  "generatedAt": "2026-10-20T16:00:03.989Z",
   "categories": {
     "gundem": {
-      "text": "6 ilde DEAŞ operasyonu: 11 gözaltı. İstanbul'da tarihi palamut bolluğu: \"1987'den beri böylesini görmedim\". Mekke İttifakı Anlaşması Meclis'te. Türkiye'de ilk kez gerçekleştirildi: Sağ böbreği leğen kemiğinde olan hastaya başarılı operasyon. İbn-i Sina'nın torunları Türkiye'de doktor oluyor: Özbek üçüzlerin tıp yolculuğu Gülhane'de devam ediyor. Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada. Yeni Parti ve CHP aday çıkarmadı. Üsküdar Belediyesi Başkanvekili Muhammed Emin Sarıoğlu oldu.",
+      "text": "Tanju Özcan hakkında 7 yıl hapis cezası. Kemer Belediye Başkanı ve 8 meclis üyesi partisinden istifa etti. Borsa günü yükselişle tamamladı. Bakan Çiftçi: Uluslararası toplumdan beklentimiz terör örgütleri arasında ayrım yapılmamasıdır. Gaziosmanpaşa Belediyesi davası. Başkan Hakan Bahçetepe'nin tahliyesi istendi. Hakan Bahçetepe hakkında tahliye talebi. Tarihi miras ayağa kalktı… Topkapı Sarayı'nda 7 yıllık restorasyon tamamlandı: Darphane-i Amire'de 5 yeni müze açılıyor.",
       "items": [
         {
-          "title": "6 ilde DEAŞ operasyonu: 11 gözaltı",
-          "summary": "Mardin merkezli 6 ilde, terör örgütü DEAŞ’ın finans kaynaklarına yönelik operasyonda 11 şüpheli gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/6-ilde-deas-operasyonu-11-gozalti-43348409"
+          "title": "Tanju Özcan hakkında 7 yıl hapis cezası",
+          "summary": "Bolu Belediye Başkanı görevinden uzaklaştırılan Tanju Özcan'ın 7 yıl hapis cezasına çarptırıldığı belirtildi. Bolu Belediyesi’ne yönelik \"irtikap\" davasında görevden uzaklaştırılan Belediye Başkanı Tanju Özcan, marketler olayıyla ilgili 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı. Kurban olayı kapsamında ise 34 mağdur yönünden Tanju Özcan hakkında her mağdur için 1 yıl 15 gün ile 1 yıl 8 ay arasında verilen hapis cezası ertelendi. Dolandırıcılık suçundan ise Özcan beraat etti. Ayrıntılar geliyor…",
+          "source": "https://www.ntv.com.tr/turkiye/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-1747210"
         },
         {
-          "title": "İstanbul'da tarihi palamut bolluğu: \"1987'den beri böylesini görmedim\"",
-          "summary": "İstanbul'da tarihi bir palamut bolluğu yaşanıyor. Balıkçılar, uzun yıllardır bu oranda bolluk görmediklerini anlatırken, palamudun toptan fiyatı 25 liraya kadar geriledi. Palamut avcılığında bu sezon uzun yıllardır görülmeyen bolluk yaşanırken balıkçılar, bu bereketin kasım sonuna kadar sürmesini ve sezonun geri kalanında hamsi, çinekop ve lüfer avında verim bekliyor. Av sezonunun palamuttaki bereketle başlamasının sevincini yaşayan balıkçılar, vatandaşların bu sezon daha çok balık tüketmesini istiyor.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulda-tarihi-palamut-bollugu-1987den-beri-boylesini-gormedim-1747158"
+          "title": "Kemer Belediye Başkanı ve 8 meclis üyesi partisinden istifa etti",
+          "summary": "Kemer Belediye Başkanı Necati Topaloğlu, 8 belediye meclis üyesiyle birlikte Cumhuriyet Halk Partisi (CHP) üyeliğinden istifa ederek görevlerini bağımsız olarak sürdürme kararı aldıklarını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kemer-belediye-baskani-ve-8-meclis-uyesi-partisinden-istifa-etti-43348916"
         },
         {
-          "title": "Mekke İttifakı Anlaşması Meclis'te",
-          "summary": "Mekke İttifakı Anlaşmasına Dair Kanun Teklifi Meclis Başkanlığı'na sunuldu. Türkiye, Suudi Arabistan ve Pakistan arasında ağustos ayında imzalanan Mekke Anlaşması, Türkiye Büyük Millet Meclisi’ne sunuldu. Ayrıntılar geliyor… MEKKE İTTİFAKI ANLAŞMASI NEDİR? Türkiye, ağustos ayında Suudi Arabistan ve Pakistan tarihi nitelikteki Mekke Ortak Savunma Anlaşması'na imza attı.",
-          "source": "https://www.ntv.com.tr/turkiye/mekke-ittifaki-anlasmasi-mecliste-1747154"
+          "title": "Borsa günü yükselişle tamamladı",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915"
         },
         {
-          "title": "Türkiye'de ilk kez gerçekleştirildi: Sağ böbreği leğen kemiğinde olan hastaya başarılı operasyon",
-          "summary": "Giresun’da idrarda kanama şikayetiyle hastaneye başvuran mesane kanseri hastası Fahri Çakır'ın sağ böbreğinin leğen kemiği içinde olduğu belirlendi. Riskli ve zorlu anatomik yapıya rağmen uzman hekimler tarafından başarıyla tamamlanan operasyonla hem kanserli mesane alındı hem de böbrek korundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiyede-ilk-kez-gerceklestirildi-sag-bobregi-legen-kemiginde-olan-hastaya-basarili-operasyon-43348397"
+          "title": "Bakan Çiftçi: Uluslararası toplumdan beklentimiz terör örgütleri arasında ayrım yapılmamasıdır",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Uluslararası toplumdan ve dostlarımızdan beklentimiz, terör örgütleri arasında herhangi bir ayrım yapılmaması ve hiçbirine müsamaha gösterilmemesidir.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-uluslararasi-toplumdan-beklentimiz-teror-orgutleri-arasinda-ayrim-yapilmamasidir-43348911"
         },
         {
-          "title": "İbn-i Sina'nın torunları Türkiye'de doktor oluyor: Özbek üçüzlerin tıp yolculuğu Gülhane'de devam ediyor",
-          "summary": "Buhara'dan Türkiye'ye uzanan başarı hikayesinde üçüz kız kardeşler Sabina, Medine ve Zarina Hamreyava, tıp eğitimlerinin son aşaması olan intörnlüğü Gülhane Eğitim ve Araştırma Hastanesi'nde tamamlıyor. SBÜ Rektörü Prof. Dr. Kemalettin Aydın, bin yıl sonra İbn-i Sina'nın torunlarını Türkiye diplomasıyla mezun edeceklerini belirtti.",
-          "source": "https://www.hurriyet.com.tr/gundem/ibn-i-sinanin-torunlari-turkiyede-doktor-oluyor-ozbek-ucuzlerin-tip-yolculugu-gulhanede-devam-ediyor-43348375"
+          "title": "Gaziosmanpaşa Belediyesi davası. Başkan Hakan Bahçetepe'nin tahliyesi istendi",
+          "summary": "Gaziosmanpaşa Belediyesi davasında savcı mütaalasını açıkladı. Yaklaşık 16 aydır tutuklu olan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'nin tahliyesi istendi. Gaziosmanpaşa Belediyesi davası devam ediyor. Hakan Bahçetepe ve diğer sanıkların yargılandığı dava kapsamında savcılık, celse arasında esas hakkındaki mütalaasını sundu.",
+          "source": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepenin-tahliyesi-istendi-1747199"
         },
         {
-          "title": "Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada",
-          "summary": "Adana’da yola çıkan kediye çarpmamak için motosikletiyle manevra yapan Halil İbrahim (18), aracın devrilmesi sonucu hafif yaralandı. Kaza anı güvenlik kamerasına yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kediye-carpmamak-icin-direksiyonu-kirdi-motosiklet-kazasi-kamerada-43348323"
+          "title": "Hakan Bahçetepe hakkında tahliye talebi",
+          "summary": "Görevinden uzaklaştırılan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'nin yargılandığı davada yeni bir gelişme yaşandı. Bahçetepe hakkında esasa ilişkin mütalaa açıklandı. Savcı mütalaada Bahçetepe’nin tahliyesini talep etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/hakan-bahcetepe-hakkinda-tahliye-talebi-43348885"
         },
         {
-          "title": "Yeni Parti ve CHP aday çıkarmadı. Üsküdar Belediyesi Başkanvekili Muhammed Emin Sarıoğlu oldu",
-          "summary": "Trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin'in yerine Cumhur İttifakı'nın adayı Muhammed Emin Sarıoğlu seçildi. Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin, 15 Ekim'de trafik kazası geçirerek hayatını kaybetti. Belediye Meclisi bugün onun yerine görev yapacak isim için sandığa gitti. Seçim saat 10.00 itibarıyla başladı ve CHP ile Yeni Parti aday çıkarmadı. 23 meclis üyesi bulunan Cumhur İttifakı'nın ortak adayı Muhammed Emin Sarıoğlu olarak belirlendi.",
-          "source": "https://www.ntv.com.tr/turkiye/yeni-parti-ve-chp-aday-cikarmadi-uskudar-belediyesi-baskanvekili-muhammed-emin-sarioglu-oldu-1747095"
+          "title": "Tarihi miras ayağa kalktı… Topkapı Sarayı'nda 7 yıllık restorasyon tamamlandı: Darphane-i Amire'de 5 yeni müze açılıyor",
+          "summary": "Topkapı Sarayı'nın birinci avlusunda yer alan tarihi Darphane-i Amire yerleşkesindeki 17 bin metrekarelik alanda yürütülen çalışmalar sona erdi. 7'nci yüzyıldan 20'nci yüzyıla uzanan 10 bini aşkın eserin sergileneceği 5 müze, 24 Ekim'de Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılacağı törenin ardından 25 Ekim Pazar günü ziyarete açılacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/topkapi-sarayinda-10-bini-askin-eserin-bulundugu-5-muze-ziyarete-aciliyor-43348872"
         }
       ]
     },
     "dunya": {
-      "text": "Rumlar Türk gencini darp etmişti: 1 kişi tutuklandı. Türkiye ve Belçika işbirliğini güçlendirmek için 10 yıl sonra bakanlar düzeyinde bir arada. İspanya vizesinde randevu takvimi ve başvuru şartları değişti. Bir devir sona eriyor, Christiane Amanpour CNN'den ayrılıyor. \"Uykusuz geceler geçirdim\". Suudi Arabistan'ın başkenti Riyad'da art arda patlamalar. Arnavutluk'ta protestocular polis ile karşı karşıya geldi. Kuzey Kore lideri Kim Jong-un'un öldüğü iddia edilmişti: Yanıt gecikmedi.",
+      "text": "Kanada'da tarihi referandum: Yüzde 76'sı ayrılığa karşı çıktı. Amerikan keşif uçaklarından Karadeniz üzerinde devriye uçuşu. Google'daki arıza Avrupa'yı vurdu: Bankacılık durma noktasına geldi. Sahnede Filistin krizi! Kadrodan çıkarıldı. Google Cloud'daki sorun Avrupa'da bankaları da vurdu. Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay. Otobüslerde kulaklıksız müzik dinleyenlere para cezası geliyor.",
       "items": [
         {
-          "title": "Rumlar Türk gencini darp etmişti: 1 kişi tutuklandı",
-          "summary": "Güney Kıbrıs Rum Yönetimi'nin (GKRY) Limasol kentinde 24 yaşında olduğu açıklanan Kıbrıslı Türk gencin kaçırılarak bıçakla yaralanmasına ilişkin soruşturmada 30 yaşındaki bir şüpheli tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/rumlar-turk-gencini-darp-etmisti-1-kisi-tutuklandi-43348309"
+          "title": "Kanada'da tarihi referandum: Yüzde 76'sı ayrılığa karşı çıktı",
+          "summary": "Kanada'nın petrol zengini Alberta eyaletinde düzenlenen referandumda seçmenlerin yüzde 76'sı ülkeden ayrılmaya yönelik sürece karşı çıktı. Kanada'nın batısındaki Alberta eyaletinde, ülkeden ayrılma sürecine ilişkin ilk referandum 19 Ekim'de gerçekleştirildi. Bağlayıcı olmayan referandumda oyların dörtte üçünün sayıldığı salı sabahı itibarıyla seçmenlerin yüzde 76'sı Kanada'nın parçası olarak kalmaktan yana oy kullandı.",
+          "source": "https://www.ntv.com.tr/dunya/kanadada-tarihi-referandum-yuzde-76si-ayriliga-karsi-cikti-1747206"
         },
         {
-          "title": "Türkiye ve Belçika işbirliğini güçlendirmek için 10 yıl sonra bakanlar düzeyinde bir arada",
-          "summary": "Belçika ve Türkiye'den 7 bakan, iki ülke arasındaki ilişkilerde yeniden oluşan ivmeyi güçlendirmek amacıyla bugün Brüksel'de 10 yıl aradan sonra bir araya gelecek. Belçika Dışişleri Bakanlığı Sözcüsü Laurens Soenen, bugün Egmont Sarayı'nda düzenlenecek \"Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı\"na ilişkin yazılı açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/turkiye-ve-belcika-isbirligini-guclendirmek-icin-10-yil-sonra-bakanlar-duzeyinde-yeniden-bir-arada-1747145"
+          "title": "Amerikan keşif uçaklarından Karadeniz üzerinde devriye uçuşu",
+          "summary": "Bulgaristan Savunma Bakanı Dimitar Stoyanov, ABD'ye ait Boeing P-8A Poseidon tipi deniz devriye ve keşif uçağının Karadeniz üzerinde devriye uçuşu yaptığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/amerikan-kesif-ucaklarindan-karadeniz-uzerinde-devriye-ucusu-43348909"
         },
         {
-          "title": "İspanya vizesinde randevu takvimi ve başvuru şartları değişti",
-          "summary": "İspanya vizesi başvurularında randevu takvimi ve başvuru şartları yeniden düzenlendi. İspanya'nın Türkiye'deki resmi vize aracı kurumu BLS International'ın duyurusuna göre, vize randevu kontenjanları, her ayın 1’inde ve 16’sında, TSİ 09:00’da açılacak.",
-          "source": "https://www.ntv.com.tr/dunya/ispanya-vizesinde-randevu-takvimi-ve-basvuru-sartlari-degisti-1747143"
+          "title": "Google'daki arıza Avrupa'yı vurdu: Bankacılık durma noktasına geldi",
+          "summary": "Google Cloud altyapısında yaşanan elektrik kaynaklı teknik sorun, Avrupa genelinde çok sayıda internet hizmetini etkilerken İngiltere'de bankacılık işlemlerinde ciddi aksamalara yol açtı. Revolut, Lloyds ve HSBC gibi bankaların müşterileri para çekme ve transfer işlemlerinde sorun yaşarken Google, hizmetlerin büyük bölümünün normale döndüğünü açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/googledaki-ariza-avrupayi-vurdu-bankacilik-durma-noktasina-geldi-43348871"
         },
         {
-          "title": "Bir devir sona eriyor, Christiane Amanpour CNN'den ayrılıyor. \"Uykusuz geceler geçirdim\"",
-          "summary": "Körfez ve Bosna savaşlarının simge muhabiri Christiane Amanpour, 43 yıldır görev yaptığı CNN'den gelecek yılın haziran ayında ayrılacağını açıkladı. Dünya televizyonculuğunda savaş muhabirliği dendiğinde akla gelen ilk isimlerden Christiane Amanpour, 43 yıldır görev yaptığı CNN televizyonuna veda etmeye hazırlanıyor. Kanalın baş uluslararası haber sunucusu olan 68 yaşındaki gazeteci, Haziran 2027 itibarıyla kurumdan ayrılacağını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-bir-devir-sona-eriyor-christiane-amanpour-cnnden-ayriliyor-uykusuz-geceler-gecirdim-1747141"
+          "title": "Sahnede Filistin krizi! Kadrodan çıkarıldı",
+          "summary": "Kanada’da bir opera oyununda selam verirken sahnede Filistin bayrağı açan oyuncu Gabriel Snchez-Ortega kadrodan çıkarıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/sahnede-filistin-krizi-kadrodan-cikarildi-43348767"
         },
         {
-          "title": "Suudi Arabistan'ın başkenti Riyad'da art arda patlamalar",
-          "summary": "Husilerin hedefindeki Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı verildi. Kentte peş peşe patlama sesleri duyulduğu bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-suudi-arabistanin-baskenti-riyadda-art-arda-patlamalar-43348234"
+          "title": "Google Cloud'daki sorun Avrupa'da bankaları da vurdu",
+          "summary": "Google Cloud'un Batı Avrupa'daki tesislerinde, bankalar ve birçok başka sektörü etkileyen hatalar ve ağ kesintileri yaşandı. Şirket, sorunun elektrik kesintisinden kaynaklandığını açıkladı. Google Cloud'dan yapılan açıklamada, bugün TSİ 09.08 itibarıyla europe-west2 bölgesindeki birden fazla hizmette sorun yaşandığı doğrulanırken, sorunun elektrik kesintisinden kaynaklandığı ve çözüm için çalışıldığı ifade edilmişti. İlerleyen saatlerde aksaklığın giderilmeye başlandığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/google-clouddaki-sorun-avrupada-bankalari-da-vurdu-1747177"
         },
         {
-          "title": "Arnavutluk'ta protestocular polis ile karşı karşıya geldi",
-          "summary": "Arnavutluk'ta hükümet karşıtı gösteriler şiddetlendi. Başkent Tiran'da eylemciler ve polis arasında arbede çıktı.",
-          "source": "https://www.hurriyet.com.tr/dunya/arnavutlukta-protestocular-polis-ile-karsi-karsiya-geldi-43348190"
+          "title": "Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay",
+          "summary": "Libya Temsilciler Meclisi, 2019'da Libya ve Türkiye arasında imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onayladı. Libya Temsilciler Meclisi, Türkiye ile 2019'da imzalanan deniz yetki alanları anlaşmasını oy birliğiyle onayladı. Libya Parlamentosu'ndan yapılan açıklamaya göre meclis böylece, anlaşmayı daha önce reddetme kararı ve Ankara ile siyasi ilişkileri kesme yönündeki kararından geri dönmüş oldu.",
+          "source": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182"
         },
         {
-          "title": "Kuzey Kore lideri Kim Jong-un'un öldüğü iddia edilmişti: Yanıt gecikmedi",
-          "summary": "İngiliz basını, Kuzey Kore lideri Kim Jong-un'un öldüğünü iddia etti. Pyongyang yönetimi, Kim Jong-un'un bir sergiyi ziyaret ettiği görüntüleri paylaşarak iddialara jet hızıyla yanıt verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kuzey-kore-lideri-kim-jong-unun-oldugu-iddia-edilmisti-yanit-gecikmedi-43348188"
+          "title": "Otobüslerde kulaklıksız müzik dinleyenlere para cezası geliyor",
+          "summary": "İngiltere'de otobüslerde yüksek sesli müzik dinleyen ve rahatsız edici davranışlarda bulunanlara 100 sterlin (yaklaşık 6 bin 600 lira) para cezası verilecek. İngiltere Ulaştırma Bakanlığının yayımladığı rehbere göre, İngiltere'deki trenlerde kulaklıksız yüksek sesli müzik dinleyen ve rahatsız edici davranışlarda bulunanlara yönelik 2005'te uygulanmaya başlanan para cezası, otobüslerde de uygulanmaya başlayacak.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-otobuslerde-kulakliksiz-muzik-dinleyenlere-para-cezasi-geliyor-1747192"
         }
       ]
     },
     "ekonomi": {
-      "text": "'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar. DMM’den BES iddialarına yalanlama.",
+      "text": "Egelilerden Madrid çıkarması. 'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar.",
       "items": [
+        {
+          "title": "Egelilerden Madrid çıkarması",
+          "summary": "2026’NIN ocak-eylül döneminde ihracatlarını yüzde 42’lik artışla 3 milyar 170 milyon dolara çıkaran yaş meyve sebze ihracatçıları, yılı sonunda bu rakımı 5 milyar dolara çıkarmak için İspanya’nın başkenti Madrid’de düzenlenen Fruit Attraction Fuarı’na katıldı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egelilerden-madrid-cikarmasi-43348595"
+        },
         {
           "title": "'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'",
           "summary": "Ticaret Bakanlığı \"2026 yılının ilk 9 ayında gerçekleştirilen 4 bin 890 farklı operasyonda, 91 milyar 720 milyon TL değerinde ticari eşya ve uyuşturucu madde ele geçirildi.\" açıklamasında bulundu.",
@@ -115,51 +120,46 @@
           "title": "Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar",
           "summary": "Devlet memurlarının saat başına fazla mesai ücretleri yeni yılda 16 lira 55 kuruştan 19 lira 85 kuruşa çıkacak.",
           "source": "https://www.hurriyet.com.tr/gundem/memurun-fazla-mesai-ucreti-netlesti-iste-kalem-kalem-rakamlar-43344639"
-        },
-        {
-          "title": "DMM’den BES iddialarına yalanlama",
-          "summary": "İLETİŞİM Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), \"Sermaye piyasalarındaki gelişmeler nedeniyle Bireysel Emeklilik Sistemi'nden (BES) kitlesel çıkışlar yaşandığı yönündeki iddialar tamamen asılsızdır\" açıklamasını yaptı.",
-          "source": "https://www.hurriyet.com.tr/gundem/dmmden-besten-kitlesel-cikislar-yasandigi-iddialarina-yalanlama-43344582"
         }
       ]
     },
     "spor": {
-      "text": "Arda Turan, savaşı anlattı: Tüm dünya duysun! Yaşamadan anlayamazsın. Salah'tan Beşiktaş'a göndermeli paylaşım! 'Yüzde 35'. Beşiktaş-Crystal Palace ve Trabzonspor-Hearts maçlarının hakemleri açıklandı. Şampiyonlar Ligi'nde PSG, Barcelona'yı ağırlıyor! Dev maçın heyecanı canlı sohbet ile Misli'de. Les Ferdinand'dan Vlahovic ve Salah övgüsü!. Arda Güler'in Sevilla maçındaki pozisyonu Flick'e soruldu! 'Kendime saklayacağım'. Galatasaray, Lille ile deplasmanda karşılaşacak.",
+      "text": "TFF bahis oynayan yöneticilere verilen cezaları açıkladı! İşte Trabzonspor Başkanı Ertuğrul Doğan'a verilen ceza. TFF resmen açıkladı: MHK’nın yeni başkanı Anthony Taylor oldu. Galatasaray'ın Lille maçının kamp kadrosu açıklandı! Leao yok, Singo listede. Lille-Galatasaray maçı öncesi Alexsandro, konuştu: Osimhen ile savaş gibi olacak. Lille-Galatasaray maçı öncesi Ancelotti konuştu: Takıma yüklenmek istiyorum! Berke 1 numara. Sergen Yalçın, Milli Takım Teknik Direktörlüğünü resmen açıkladı! 'Ay-yıldız her şeyin üzerindedir'. Adana'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
       "items": [
         {
-          "title": "Arda Turan, savaşı anlattı: Tüm dünya duysun! Yaşamadan anlayamazsın",
-          "summary": "Rusya-Ukrayna savaşının ortasında Shakhtar Donetsk'i çalıştıran ve geçtiğimiz sezon şampiyonluğa ulaşan Arda Turan, İtalyan basınına samimi açıklamalarda bulundu. Arda Turan, Ukrayna'da yaşanan trajediyi gözler önüne serdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-turan-savasi-anlatti-tum-dunya-duysun-yasamadan-anlayamazsin-43348350"
+          "title": "TFF bahis oynayan yöneticilere verilen cezaları açıkladı! İşte Trabzonspor Başkanı Ertuğrul Doğan'a verilen ceza",
+          "summary": "Türkiye Futbol Federasyonu (TFF), Süper Lig ve TFF 1. Lig'de mücadele eden kulüplerde son 5 yıl içerisinde idareci olarak görev almış ve görev aldığı dönemde bahis oynadığı tespit edilen isimlerin cezalarını açıkladı. TFF, Trabzonspor Kulübü Başkanı Ertuğrul Doğan'ın bahis eylemi nedeniyle 45 gün hak mahrumiyeti cezası aldığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tff-bahis-oynayan-yoneticilere-verilen-cezalari-acikladi-iste-trabzonspor-baskani-ertugrul-dogana-verilen-ceza-43348844"
         },
         {
-          "title": "Salah'tan Beşiktaş'a göndermeli paylaşım! 'Yüzde 35'",
-          "summary": "Trabzonspor'un dünyaca ünlü yıldızı Mohamed Salah, sosyal medya hesabından Beşiktaş'a göndermeli paylaşımda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/salahtan-besiktasa-gondermeli-paylasim-yuzde-35-43348340"
+          "title": "TFF resmen açıkladı: MHK’nın yeni başkanı Anthony Taylor oldu",
+          "summary": "Türkiye Futbol Federasyonu, Ferhat Gündoğdu’dan boşalan Merkez Hakem Kurulu Başkanlığı’na elit hakem direktörü olarak görev yapan Anthony Taylor’ın getirildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tff-resmen-acikladi-mhknin-yeni-baskani-anthony-taylor-oldu-43348811"
         },
         {
-          "title": "Beşiktaş-Crystal Palace ve Trabzonspor-Hearts maçlarının hakemleri açıklandı",
-          "summary": "UEFA Avrupa Ligi'nde mücadele eden Beşiktaş ve UEFA Konferans Ligi'nde boy gösteren Trabzonspor'un maçlarının hakemleri belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-crystal-palace-ve-trabzonspor-hearts-maclarinin-hakemleri-aciklandi-43348245"
+          "title": "Galatasaray'ın Lille maçının kamp kadrosu açıklandı! Leao yok, Singo listede",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nde oynayacağı Lille maçının kamp kadrosunu duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-lille-macinin-kamp-kadrosu-aciklandi-leao-yok-singo-listede-43348688"
         },
         {
-          "title": "Şampiyonlar Ligi'nde PSG, Barcelona'yı ağırlıyor! Dev maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Paris Saint-Germain, Barcelona'yı konuk ediyor. Dev maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-psg-barcelonayi-agirliyor-dev-macin-heyecani-canli-sohbet-ile-mislide-43348274"
+          "title": "Lille-Galatasaray maçı öncesi Alexsandro, konuştu: Osimhen ile savaş gibi olacak",
+          "summary": "UEFA Şampiyonlar Ligi’nde temsilcimiz Galatasaray’ın karşılaşacağı Lille takımında savunma oyuncusu Alexsandro açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-maci-oncesi-alexsandro-konustu-osimhen-ile-savas-gibi-olacak-43348652"
         },
         {
-          "title": "Les Ferdinand'dan Vlahovic ve Salah övgüsü!",
-          "summary": "Beşiktaş’ın eski futbolcusu Les Ferdinand, siyah beyazlı taraftarların takıma verdiği desteği ‘eşsiz’ olarak nitelendirdi. Ferdinand, \"Beşiktaş Stadyumu gibi stadyumlara gittiğinizde, ortamın baskılı olacağını bilirsiniz. Taraftarların takıma verdiği destek inanılmaz. Beşiktaş taraftarları için her zaman ‘En büyük Beşiktaş, başka büyük yok’\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/les-ferdinanddan-vlahovic-ve-salah-ovgusu-43348261"
+          "title": "Lille-Galatasaray maçı öncesi Ancelotti konuştu: Takıma yüklenmek istiyorum! Berke 1 numara",
+          "summary": "Lille teknik direktörü Davide Ancelotti, Şampiyonlar Ligi’nde oynayacakları Galatasaray maçı öncesi basın toplantısında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-maci-oncesi-ancelotti-konustu-takima-yuklenmek-istiyorum-berke-1-numara-43348616"
         },
         {
-          "title": "Arda Güler'in Sevilla maçındaki pozisyonu Flick'e soruldu! 'Kendime saklayacağım'",
-          "summary": "Real Madrid-Sevilla maçında Arda Güler ve Paque'nin yaşadığı fiziksel mücadele, Barcelona teknik direktörü Hansi Flick'e soruldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulerin-sevilla-macindaki-pozisyonu-flicke-soruldu-kendime-saklayacagim-43348180"
+          "title": "Sergen Yalçın, Milli Takım Teknik Direktörlüğünü resmen açıkladı! 'Ay-yıldız her şeyin üzerindedir'",
+          "summary": "Türkiye Futbol Federasyonu, A Milli Takım Teknik Direktörlüğüne Sergen Yalçın'ın getirildiğini duyurdu. A Milli Futbol Takımı'nda teknik direktörlük görevine getirilen Sergen Yalçın da ilk görüşlerini paylaştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-milli-takim-teknik-direktorlugunu-resmen-acikladi-ay-yildiz-her-seyin-uzerindedir-43348461"
         },
         {
-          "title": "Galatasaray, Lille ile deplasmanda karşılaşacak",
-          "summary": "Galatasaray, Şampiyonlar Ligi'nde yarın Fransa ekibi Lille ile deplasmanda karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-lille-ile-deplasmanda-karsilasacak-43348148"
+          "title": "Adana'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
+          "summary": "Adana Yeşiloba Hipodromu’nda bugün 9 koşudan oluşan birbirinden çekişmeli bir program yarışseverleri bekliyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/adanada-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43348435"
         }
       ]
     },
