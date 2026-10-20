@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-19T10:00:03.631Z",
+  "generatedAt": "2026-10-20T10:00:08.056Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'daki sağanak sonrası barajlar son 10 yılın en yüksek seviyesinde. Atatürk'ün Nutuk'u 8 dilde dünyaya açılıyor: Dijital platform erişime sunuldu. İstanbul’da konserde 2 ölüm! Vali Gül sebebini açıkladı. 27 ilde siber suç operasyonu: 643 şüpheli yakalandı, 303 zanlı cezaevinde. Meteoroloji raporu açıkladı! Eylül ayında Türkiye'yi afetler vurdu. Nutuk için bakanlıktan tarihi adım | Muhteşem çalışmayı Bakan Ersoy duyurdu: Milli mücadelenin mirası dünyaya açılıyor. Yazılı Kanyon'da facia: Eğitim için giden İHH ekibinden 1 eğitmen hayatını kaybetti, 10 kişi kurtarılmayı bekliyor.",
+      "text": "6 ilde DEAŞ operasyonu: 11 gözaltı. İstanbul'da tarihi palamut bolluğu: \"1987'den beri böylesini görmedim\". Mekke İttifakı Anlaşması Meclis'te. Türkiye'de ilk kez gerçekleştirildi: Sağ böbreği leğen kemiğinde olan hastaya başarılı operasyon. İbn-i Sina'nın torunları Türkiye'de doktor oluyor: Özbek üçüzlerin tıp yolculuğu Gülhane'de devam ediyor. Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada. Yeni Parti ve CHP aday çıkarmadı. Üsküdar Belediyesi Başkanvekili Muhammed Emin Sarıoğlu oldu.",
       "items": [
         {
-          "title": "İstanbul'daki sağanak sonrası barajlar son 10 yılın en yüksek seviyesinde",
-          "summary": "İstanbul'da geçtiğimiz günlerde etkili olan şiddetli yağışlar, kentteki barajların doluluk oranını yükseltti. İSKİ verilerine göre İstanbul’da doluluk oranı yüzde 38’li değerlerden 5 gün içinde yüzde 53,54’e çıktı. Bu değer son 10 yılın Ekim aylarında yapılan ölçümler arasında en yüksek değer olarak kayıtlara geçti. Alibeyköy Barajı'nda 5 gün önce yüzde 34,44 olarak ölçülen doluluk oranı bugün yüzde 76,6’ya yükseldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbuldaki-saganak-sonrasi-barajlar-son-10-yilin-en-yuksek-seviyesinde-43347139"
+          "title": "6 ilde DEAŞ operasyonu: 11 gözaltı",
+          "summary": "Mardin merkezli 6 ilde, terör örgütü DEAŞ’ın finans kaynaklarına yönelik operasyonda 11 şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/6-ilde-deas-operasyonu-11-gozalti-43348409"
         },
         {
-          "title": "Atatürk'ün Nutuk'u 8 dilde dünyaya açılıyor: Dijital platform erişime sunuldu",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Nutuk Külliyatı Projesi'ni tanıttı. Eser, 8 dildeki özel baskılarının yanı sıra sesli, işaret dilli ve Braille formatlarıyla erişime sunuldu. NUTUK KÜLLİYATI PROJESİ TANITILDI Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazi Mustafa Kemal Atatürk’ün Millî Mücadele yıllarını, bağımsızlığın kazanılmasını ve Cumhuriyet’in kuruluş sürecini belgelere dayalı olarak anlattığı Nutuk’u, yeni bir yayın ve araştırma sürecine taşıyan Nutuk Külliyatı Projesi’ni tanıttı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ataturkun-nutuku-8-dilde-dunyaya-aciliyor-dijital-platform-erisime-sunuldu-1746984"
+          "title": "İstanbul'da tarihi palamut bolluğu: \"1987'den beri böylesini görmedim\"",
+          "summary": "İstanbul'da tarihi bir palamut bolluğu yaşanıyor. Balıkçılar, uzun yıllardır bu oranda bolluk görmediklerini anlatırken, palamudun toptan fiyatı 25 liraya kadar geriledi. Palamut avcılığında bu sezon uzun yıllardır görülmeyen bolluk yaşanırken balıkçılar, bu bereketin kasım sonuna kadar sürmesini ve sezonun geri kalanında hamsi, çinekop ve lüfer avında verim bekliyor. Av sezonunun palamuttaki bereketle başlamasının sevincini yaşayan balıkçılar, vatandaşların bu sezon daha çok balık tüketmesini istiyor.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-tarihi-palamut-bollugu-1987den-beri-boylesini-gormedim-1747158"
         },
         {
-          "title": "İstanbul’da konserde 2 ölüm! Vali Gül sebebini açıkladı",
-          "summary": "İstanbul Valisi Davut Gül, \"Konsere giden 3 vatandaşımız farklı uyuşturucular kullanmışlar. Bunlar adli tıp raporunda tespit edildi. Uyuşturucudan kaynaklı bir ölüm hadisesi. Ölüm ve yaralı olduğu için adli süreç sürüyor\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-konserde-2-olum-vali-gul-sebebini-acikladi-43347063"
+          "title": "Mekke İttifakı Anlaşması Meclis'te",
+          "summary": "Mekke İttifakı Anlaşmasına Dair Kanun Teklifi Meclis Başkanlığı'na sunuldu. Türkiye, Suudi Arabistan ve Pakistan arasında ağustos ayında imzalanan Mekke Anlaşması, Türkiye Büyük Millet Meclisi’ne sunuldu. Ayrıntılar geliyor… MEKKE İTTİFAKI ANLAŞMASI NEDİR? Türkiye, ağustos ayında Suudi Arabistan ve Pakistan tarihi nitelikteki Mekke Ortak Savunma Anlaşması'na imza attı.",
+          "source": "https://www.ntv.com.tr/turkiye/mekke-ittifaki-anlasmasi-mecliste-1747154"
         },
         {
-          "title": "27 ilde siber suç operasyonu: 643 şüpheli yakalandı, 303 zanlı cezaevinde",
-          "summary": "Emniyet Genel Müdürlüğü Siber Suçlarla Mücadele Daire Başkanlığı koordinesinde 27 ilde yasa dışı bahis, nitelikli dolandırıcılık ve çocuk müstehcenliğine yönelik düzenlenen operasyonlarda 643 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 303’ü tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/siber-suclarla-mucadele-6-gunde-643-supheli-yakalandi-43347037"
+          "title": "Türkiye'de ilk kez gerçekleştirildi: Sağ böbreği leğen kemiğinde olan hastaya başarılı operasyon",
+          "summary": "Giresun’da idrarda kanama şikayetiyle hastaneye başvuran mesane kanseri hastası Fahri Çakır'ın sağ böbreğinin leğen kemiği içinde olduğu belirlendi. Riskli ve zorlu anatomik yapıya rağmen uzman hekimler tarafından başarıyla tamamlanan operasyonla hem kanserli mesane alındı hem de böbrek korundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiyede-ilk-kez-gerceklestirildi-sag-bobregi-legen-kemiginde-olan-hastaya-basarili-operasyon-43348397"
         },
         {
-          "title": "Meteoroloji raporu açıkladı! Eylül ayında Türkiye'yi afetler vurdu",
-          "summary": "Türkiye genelinde eylül ayında kaydedilen 66 meteorolojik afetin yaklaşık yüzde 61'ini şiddetli yağış, sel ve fırtına oluşturdu. Sakarya ve Kocaeli son 66 yılın en yüksek eylül yağışını alırken, eylül sonu ve ekim ayındaki sağanaklar büyük hasara ve can kayıplarına yol açtı.",
-          "source": "https://www.hurriyet.com.tr/gundem/meteoroloji-raporu-acikladi-eylul-ayinda-turkiyeyi-afetler-vurdu-43347022"
+          "title": "İbn-i Sina'nın torunları Türkiye'de doktor oluyor: Özbek üçüzlerin tıp yolculuğu Gülhane'de devam ediyor",
+          "summary": "Buhara'dan Türkiye'ye uzanan başarı hikayesinde üçüz kız kardeşler Sabina, Medine ve Zarina Hamreyava, tıp eğitimlerinin son aşaması olan intörnlüğü Gülhane Eğitim ve Araştırma Hastanesi'nde tamamlıyor. SBÜ Rektörü Prof. Dr. Kemalettin Aydın, bin yıl sonra İbn-i Sina'nın torunlarını Türkiye diplomasıyla mezun edeceklerini belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/ibn-i-sinanin-torunlari-turkiyede-doktor-oluyor-ozbek-ucuzlerin-tip-yolculugu-gulhanede-devam-ediyor-43348375"
         },
         {
-          "title": "Nutuk için bakanlıktan tarihi adım | Muhteşem çalışmayı Bakan Ersoy duyurdu: Milli mücadelenin mirası dünyaya açılıyor",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazi Mustafa Kemal Atatürk’ün Millî Mücadele yıllarını, bağımsızlığın kazanılmasını ve Cumhuriyet’in kuruluş sürecini belgelere dayalı olarak anlattığı Nutuk’u, yeni bir yayın ve araştırma sürecine taşıyan Nutuk Külliyatı Projesi’ni tanıttı. Sekiz yabancı dildeki özel baskıları ve dijital platformuyla daha geniş kitlelere ulaştırılan eser, sesli, işaret dilli ve Braille alfabesiyle hazırlanan biçimleriyle de erişime sunuldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/milli-mucadelenin-tarihi-mirasi-nutuk-sekiz-dilde-dunyaya-ulasacak-43346956"
+          "title": "Kediye çarpmamak için direksiyonu kırdı: Motosiklet kazası kamerada",
+          "summary": "Adana’da yola çıkan kediye çarpmamak için motosikletiyle manevra yapan Halil İbrahim (18), aracın devrilmesi sonucu hafif yaralandı. Kaza anı güvenlik kamerasına yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kediye-carpmamak-icin-direksiyonu-kirdi-motosiklet-kazasi-kamerada-43348323"
         },
         {
-          "title": "Yazılı Kanyon'da facia: Eğitim için giden İHH ekibinden 1 eğitmen hayatını kaybetti, 10 kişi kurtarılmayı bekliyor",
-          "summary": "Isparta Sütçüler'deki kanyonda yönünü kaybeden 14 kişilik İHH gönüllü grubunu arama çalışmalarında acı haber geldi. Ekiplerin ulaşmaya çalıştığı dağlık alanda düşen eğitmen Sinan Yavuz yaşamını yitirirken, gece saatlerinde kurtarılan 3 kişinin ardından kalan 10 kişiyi tahliye operasyonu sabah saatlerinde yeniden başladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yazili-kanyonda-facia-egitim-icin-giden-ihh-ekibinden-1-egitmen-hayatini-kaybetti-10-kisi-kurtarilmayi-bekliyor-43346981"
+          "title": "Yeni Parti ve CHP aday çıkarmadı. Üsküdar Belediyesi Başkanvekili Muhammed Emin Sarıoğlu oldu",
+          "summary": "Trafik kazasında hayatını kaybeden Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin'in yerine Cumhur İttifakı'nın adayı Muhammed Emin Sarıoğlu seçildi. Üsküdar Belediye Başkanvekili Dündar Ziya Gültekin, 15 Ekim'de trafik kazası geçirerek hayatını kaybetti. Belediye Meclisi bugün onun yerine görev yapacak isim için sandığa gitti. Seçim saat 10.00 itibarıyla başladı ve CHP ile Yeni Parti aday çıkarmadı. 23 meclis üyesi bulunan Cumhur İttifakı'nın ortak adayı Muhammed Emin Sarıoğlu olarak belirlendi.",
+          "source": "https://www.ntv.com.tr/turkiye/yeni-parti-ve-chp-aday-cikarmadi-uskudar-belediyesi-baskanvekili-muhammed-emin-sarioglu-oldu-1747095"
         }
       ]
     },
     "dunya": {
-      "text": "Fransa enkaz kaldırıyor. Yüz milyonlarca euroluk yağma yapıldı. Canlı yayınlanan ayinde kan donduran anlar: Ekvadorlu papaz hayatını kaybetti. Tel Aviv-Viyana seferi yapan yolcu uçağı bomba ihbarı nedeniyle Bulgaristan'a iniş yaptı. Alman sanayisinde 2019'dan bu yana yarım milyonluk iş kaybı. Romanya'nın başkenti Bükreş'te 4,3 büyüklüğünde deprem. İsrailli Bakan Ben-Gvir'den Fransız Yahudilere ülkeyi terk etme çağrısı. Japonya'dan Kuril Adaları mesajı.",
+      "text": "Rumlar Türk gencini darp etmişti: 1 kişi tutuklandı. Türkiye ve Belçika işbirliğini güçlendirmek için 10 yıl sonra bakanlar düzeyinde bir arada. İspanya vizesinde randevu takvimi ve başvuru şartları değişti. Bir devir sona eriyor, Christiane Amanpour CNN'den ayrılıyor. \"Uykusuz geceler geçirdim\". Suudi Arabistan'ın başkenti Riyad'da art arda patlamalar. Arnavutluk'ta protestocular polis ile karşı karşıya geldi. Kuzey Kore lideri Kim Jong-un'un öldüğü iddia edilmişti: Yanıt gecikmedi.",
       "items": [
         {
-          "title": "Fransa enkaz kaldırıyor. Yüz milyonlarca euroluk yağma yapıldı",
-          "summary": "Fransa'da hafta sonu düzenlenen eylemlerin ardından adeta enkaz kaldırırken, yağmalanan iş yeri sayısının bin 500'ü bulduğu, yüz milyonlarca euroluk da maddi hasar olduğu kaydediliyor. Fransa'da 1 ay önce öğrenci eylemleriyle başlayan ve daha sonra her yıl hayat pahalılığına karşı sokağa inen \"sarı yelekliler\", akaryakıt fiyatlarını protesto eden çiftçiler ve iklim aktivistlerinin de katılımıyla büyüyen gösteriler, hafta sonunda şiddet eylemleri eşliğinde zirve noktasına tırmandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-enkaz-kaldiriyor-yuz-milyonlarca-euroluk-yagma-yapildi-1746977"
+          "title": "Rumlar Türk gencini darp etmişti: 1 kişi tutuklandı",
+          "summary": "Güney Kıbrıs Rum Yönetimi'nin (GKRY) Limasol kentinde 24 yaşında olduğu açıklanan Kıbrıslı Türk gencin kaçırılarak bıçakla yaralanmasına ilişkin soruşturmada 30 yaşındaki bir şüpheli tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/rumlar-turk-gencini-darp-etmisti-1-kisi-tutuklandi-43348309"
         },
         {
-          "title": "Canlı yayınlanan ayinde kan donduran anlar: Ekvadorlu papaz hayatını kaybetti",
-          "summary": "Ekvador'un Guayaquil kentindeki Perpetuo Socorro Kilisesi'nde ayin sırasında büyük bir haç ve üzerindeki İsa Mesih figürü papaz Patricio Alfredo Sanchez Molinari'nin başına düştü. Hem kilisedeki cemaat hem de canlı yayın izleyicileri kan donduran görüntülere şahit oldu. Sağlık ekiplerinin tüm müdahalesine rağmen papaz kurtarılamadı.",
-          "source": "https://www.hurriyet.com.tr/dunya/canli-yayinlanan-ayinde-kan-donduran-anlar-ekvadorlu-papaz-hayatini-kaybetti-43347109"
+          "title": "Türkiye ve Belçika işbirliğini güçlendirmek için 10 yıl sonra bakanlar düzeyinde bir arada",
+          "summary": "Belçika ve Türkiye'den 7 bakan, iki ülke arasındaki ilişkilerde yeniden oluşan ivmeyi güçlendirmek amacıyla bugün Brüksel'de 10 yıl aradan sonra bir araya gelecek. Belçika Dışişleri Bakanlığı Sözcüsü Laurens Soenen, bugün Egmont Sarayı'nda düzenlenecek \"Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı\"na ilişkin yazılı açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/dunya/turkiye-ve-belcika-isbirligini-guclendirmek-icin-10-yil-sonra-bakanlar-duzeyinde-yeniden-bir-arada-1747145"
         },
         {
-          "title": "Tel Aviv-Viyana seferi yapan yolcu uçağı bomba ihbarı nedeniyle Bulgaristan'a iniş yaptı",
-          "summary": "Avusturya Hava Yolları'nın Tel Aviv-Viyana seferini yapan yolcu uçağı, bomba ihbarı nedeniyle Bulgaristan'ın başkenti Sofya'ya iniş yaptı. Avusturya kamu yayın kuruluşu ORF'nin haberine göre; Avusturya Hava Yolları, İsrail'den kalkan, 51 yolcu ve 6 mürettebatın bulunduğu Airbus A320 tipi uçağına ilişkin bomba ihbarı yapıldığını açıkladı. Açıklamada, alınan ihbar nedeniyle uçağın dün gece geç saatlerde Sofya'ya iniş yaptığı belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/tel-aviv-viyana-seferi-yapan-yolcu-ucagi-bomba-ihbari-nedeniyle-bulgaristana-inis-yapti-1746994"
+          "title": "İspanya vizesinde randevu takvimi ve başvuru şartları değişti",
+          "summary": "İspanya vizesi başvurularında randevu takvimi ve başvuru şartları yeniden düzenlendi. İspanya'nın Türkiye'deki resmi vize aracı kurumu BLS International'ın duyurusuna göre, vize randevu kontenjanları, her ayın 1’inde ve 16’sında, TSİ 09:00’da açılacak.",
+          "source": "https://www.ntv.com.tr/dunya/ispanya-vizesinde-randevu-takvimi-ve-basvuru-sartlari-degisti-1747143"
         },
         {
-          "title": "Alman sanayisinde 2019'dan bu yana yarım milyonluk iş kaybı",
-          "summary": "Almanya Ekonomi Araştırma Enstitüsü (Ifo) verilerine göre ülke sanayisi 2019'dan 2025 sonuna kadar yüzde 7,1'lik düşüşle 496 bin çalışanını kaybetti. Almanya Ekonomi Araştırma Enstitüsü (Ifo), ülke sanayisinde 2019 başından 2025 sonuna kadar yaklaşık yarım milyon kişilik istihdam kaybı yaşandığını duyurdu. Üreticilerin artan rekabet baskısıyla karşı karşıya kaldığı ülkede sanayi istihdamı, yüzde 7,1'lik düşüşle 496 bin kişi azaldı. Aynı dönemde hizmet sektöründe 2,2 milyondan fazla yeni istihdam yaratıldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-alman-sanayisinde-2019dan-bu-yana-yarim-milyonluk-is-kaybi-1746993"
+          "title": "Bir devir sona eriyor, Christiane Amanpour CNN'den ayrılıyor. \"Uykusuz geceler geçirdim\"",
+          "summary": "Körfez ve Bosna savaşlarının simge muhabiri Christiane Amanpour, 43 yıldır görev yaptığı CNN'den gelecek yılın haziran ayında ayrılacağını açıkladı. Dünya televizyonculuğunda savaş muhabirliği dendiğinde akla gelen ilk isimlerden Christiane Amanpour, 43 yıldır görev yaptığı CNN televizyonuna veda etmeye hazırlanıyor. Kanalın baş uluslararası haber sunucusu olan 68 yaşındaki gazeteci, Haziran 2027 itibarıyla kurumdan ayrılacağını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bir-devir-sona-eriyor-christiane-amanpour-cnnden-ayriliyor-uykusuz-geceler-gecirdim-1747141"
         },
         {
-          "title": "Romanya'nın başkenti Bükreş'te 4,3 büyüklüğünde deprem",
-          "summary": "Romanya'nın başkenti Bükreş'te 4,3 büyüklüğünde deprem meydana geldiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/romanyanin-baskenti-bukreste-4-3-buyuklugunde-deprem-43347045"
+          "title": "Suudi Arabistan'ın başkenti Riyad'da art arda patlamalar",
+          "summary": "Husilerin hedefindeki Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı verildi. Kentte peş peşe patlama sesleri duyulduğu bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-suudi-arabistanin-baskenti-riyadda-art-arda-patlamalar-43348234"
         },
         {
-          "title": "İsrailli Bakan Ben-Gvir'den Fransız Yahudilere ülkeyi terk etme çağrısı",
-          "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Fransa'daki Yahudilere İsrail'e göç etme çağrısında bulundu. Ülkede patlak veren protestolara ilişkin mesaj paylaşan Ben-Gvir, Paris yönetiminin Batı Şeria yaptırımlarını gerekçe göstererek nüfusu 500 bini aşan Fransız Yahudinin İsrail'e göç etmesini istedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilli-bakan-ben-gvirden-fransiz-yahudilere-ulkeyi-terk-etme-cagrisi-43347031"
+          "title": "Arnavutluk'ta protestocular polis ile karşı karşıya geldi",
+          "summary": "Arnavutluk'ta hükümet karşıtı gösteriler şiddetlendi. Başkent Tiran'da eylemciler ve polis arasında arbede çıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/arnavutlukta-protestocular-polis-ile-karsi-karsiya-geldi-43348190"
         },
         {
-          "title": "Japonya'dan Kuril Adaları mesajı",
-          "summary": "Japonya hükümeti, ihtilafa konu olan adalar üzerindeki toprak anlaşmazlığının çözümü için Rusya ile çalışmaya devam edeceklerini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/japonyadan-kuril-adalari-mesaji-43347006"
+          "title": "Kuzey Kore lideri Kim Jong-un'un öldüğü iddia edilmişti: Yanıt gecikmedi",
+          "summary": "İngiliz basını, Kuzey Kore lideri Kim Jong-un'un öldüğünü iddia etti. Pyongyang yönetimi, Kim Jong-un'un bir sergiyi ziyaret ettiği görüntüleri paylaşarak iddialara jet hızıyla yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kuzey-kore-lideri-kim-jong-unun-oldugu-iddia-edilmisti-yanit-gecikmedi-43348188"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "A Milli Kadın Basketbol Takımı’nda Frederic Dusart dönemi. Roberto De Zerbi'den Richarlison'a sert sözler: 'Artık benim sorunum değil!'. Trabzonspor-Beşiktaş maçının VAR'ı belli oldu. Derbide Taraf Tercihleri Trabzonspor’dan Yana! İşte Misli’de Günün En Çok Oynanan Maçları. Galatasaray maçı öncesi oteli yaktılar! UEFA bekleniyor. Lille - Galatasaray maçına Sloven hakem. Fenerbahçe'nin konuğu Slavia Prag! 2 eksik var.",
+      "text": "Arda Turan, savaşı anlattı: Tüm dünya duysun! Yaşamadan anlayamazsın. Salah'tan Beşiktaş'a göndermeli paylaşım! 'Yüzde 35'. Beşiktaş-Crystal Palace ve Trabzonspor-Hearts maçlarının hakemleri açıklandı. Şampiyonlar Ligi'nde PSG, Barcelona'yı ağırlıyor! Dev maçın heyecanı canlı sohbet ile Misli'de. Les Ferdinand'dan Vlahovic ve Salah övgüsü!. Arda Güler'in Sevilla maçındaki pozisyonu Flick'e soruldu! 'Kendime saklayacağım'. Galatasaray, Lille ile deplasmanda karşılaşacak.",
       "items": [
         {
-          "title": "A Milli Kadın Basketbol Takımı’nda Frederic Dusart dönemi",
-          "summary": "A Milli Kadın Basketbol Takımı'nda başantrenörlük görevine Frederic Dusart getirildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-kadin-basketbol-takiminda-frederic-dusart-donemi-43347097"
+          "title": "Arda Turan, savaşı anlattı: Tüm dünya duysun! Yaşamadan anlayamazsın",
+          "summary": "Rusya-Ukrayna savaşının ortasında Shakhtar Donetsk'i çalıştıran ve geçtiğimiz sezon şampiyonluğa ulaşan Arda Turan, İtalyan basınına samimi açıklamalarda bulundu. Arda Turan, Ukrayna'da yaşanan trajediyi gözler önüne serdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-turan-savasi-anlatti-tum-dunya-duysun-yasamadan-anlayamazsin-43348350"
         },
         {
-          "title": "Roberto De Zerbi'den Richarlison'a sert sözler: 'Artık benim sorunum değil!'",
-          "summary": "Tottenham Teknik Direktörü Roberto De Zerbi, Richarlison hakkında konuştu. Brezilyalı yıldızın geleceğine ilişkin kararın yönetime ait olduğunu belirten İtalyan teknik adam, “Artık bu benim sorunum değil” ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/roberto-de-zerbiden-richarlisona-sert-sozler-artik-benim-sorunum-degil-43347027"
+          "title": "Salah'tan Beşiktaş'a göndermeli paylaşım! 'Yüzde 35'",
+          "summary": "Trabzonspor'un dünyaca ünlü yıldızı Mohamed Salah, sosyal medya hesabından Beşiktaş'a göndermeli paylaşımda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/salahtan-besiktasa-gondermeli-paylasim-yuzde-35-43348340"
         },
         {
-          "title": "Trabzonspor-Beşiktaş maçının VAR'ı belli oldu",
-          "summary": "Süper Lig'in 8. haftasında oynanacak Trabzonspor-Beşiktaş maçının VAR'ı açıklandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-besiktas-macinin-vari-belli-oldu-43347026"
+          "title": "Beşiktaş-Crystal Palace ve Trabzonspor-Hearts maçlarının hakemleri açıklandı",
+          "summary": "UEFA Avrupa Ligi'nde mücadele eden Beşiktaş ve UEFA Konferans Ligi'nde boy gösteren Trabzonspor'un maçlarının hakemleri belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-crystal-palace-ve-trabzonspor-hearts-maclarinin-hakemleri-aciklandi-43348245"
         },
         {
-          "title": "Derbide Taraf Tercihleri Trabzonspor’dan Yana! İşte Misli’de Günün En Çok Oynanan Maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/derbide-taraf-tercihleri-trabzonspordan-yana-iste-mislide-gunun-en-cok-oynanan-maclari-43346987"
+          "title": "Şampiyonlar Ligi'nde PSG, Barcelona'yı ağırlıyor! Dev maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Paris Saint-Germain, Barcelona'yı konuk ediyor. Dev maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-psg-barcelonayi-agirliyor-dev-macin-heyecani-canli-sohbet-ile-mislide-43348274"
         },
         {
-          "title": "Galatasaray maçı öncesi oteli yaktılar! UEFA bekleniyor",
-          "summary": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde Lille ile oynayacağı karşılaşma öncesi Fransa'da olaylar dinmiyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-maci-oncesi-oteli-yaktilar-uefa-bekleniyor-43346961"
+          "title": "Les Ferdinand'dan Vlahovic ve Salah övgüsü!",
+          "summary": "Beşiktaş’ın eski futbolcusu Les Ferdinand, siyah beyazlı taraftarların takıma verdiği desteği ‘eşsiz’ olarak nitelendirdi. Ferdinand, \"Beşiktaş Stadyumu gibi stadyumlara gittiğinizde, ortamın baskılı olacağını bilirsiniz. Taraftarların takıma verdiği destek inanılmaz. Beşiktaş taraftarları için her zaman ‘En büyük Beşiktaş, başka büyük yok’\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/les-ferdinanddan-vlahovic-ve-salah-ovgusu-43348261"
         },
         {
-          "title": "Lille - Galatasaray maçına Sloven hakem",
-          "summary": "Şampiyonlar Ligi'nin 3. haftasında Lille ile Galatasaray arasında oynanacak karşılaşmada Sloven hakem Rade Obrenovic görev yapacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-macina-sloven-hakem-43346943"
+          "title": "Arda Güler'in Sevilla maçındaki pozisyonu Flick'e soruldu! 'Kendime saklayacağım'",
+          "summary": "Real Madrid-Sevilla maçında Arda Güler ve Paque'nin yaşadığı fiziksel mücadele, Barcelona teknik direktörü Hansi Flick'e soruldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulerin-sevilla-macindaki-pozisyonu-flicke-soruldu-kendime-saklayacagim-43348180"
         },
         {
-          "title": "Fenerbahçe'nin konuğu Slavia Prag! 2 eksik var",
-          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Çekya temsilcisi Slavia Prag'ı ağırlayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-konugu-slavia-prag-2-eksik-var-43346914"
+          "title": "Galatasaray, Lille ile deplasmanda karşılaşacak",
+          "summary": "Galatasaray, Şampiyonlar Ligi'nde yarın Fransa ekibi Lille ile deplasmanda karşılaşacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-lille-ile-deplasmanda-karsilasacak-43348148"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı. 131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı. Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı. Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek. Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor. Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor.",
+      "text": "Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor. Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı. 131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı. Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı. Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek. Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor.",
       "items": [
+        {
+          "title": "Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor",
+          "summary": "Karamuk meyvesi, tezgahta yerini aldı. Birçok hastalığa iyi geldiğine inanılan bu meyvenin kilosu 70-100 TL arasında değişiyor. Sivas'ın ilçe ve köylerinde dağlık bölgelerde ve yüksek kesimlerde yetişen karamuk meyvesi, kısa süren hasat dönemi sonrası tezgahta yerini aldı. Yaklaşık bir aylık tüketim dönemi bulunan meyve, hem taze olarak hem de reçel ve komposto yapımında kullanılıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-tansiyon-seker-ve-kolesterole-iyi-geliyormus-kurutularak-cay-gibi-iciliyor-1747155"
+        },
         {
           "title": "Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı",
           "summary": "Adana'da kabızlık ve karın ağrısı şikayetiyle hastaneye başvuran 64 yaşındaki Meryem İnce, rektum kanseri tanısı aldı. Ev kadını Meryem İnce, 4 ay önce yaşadığı kabızlık ve karın ağrısı şikayeti üzerine hastaneye başvurdu. Tetkiklerin ardından rektum kanseri tanısı alan İnce, kemoterapi ve radyoterapi tedavilerini tamamladı. Ameliyat aşamasına geldiğinde eşi Azmi İnce (66) ile birlikte araştırma yapan İnce, Çukurova Üniversitesi Tıp Fakültesi Balcalı Hastanesi'nde robotik cerrahi yönteminin uygulandığını öğrendi.",
@@ -235,11 +240,6 @@
           "title": "Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor",
           "summary": "Gaziantep'te kış aylarının gelmesiyle birlikte aktarlarda kış mesaisi başladı. Soğuk algınlığı ve boğaz ağrısı şikayeti yaşayan vatandaşlar bitkisel ürünlere yönelirken, zerdeçal, zencefil, ıhlamur ve hatmi çiçeğinin yanı sıra çeşitli karışımlara da ilgi arttı. Gaziantep'te kış aylarının gelmesi ve yaşanan mevsim geçişleri nedeniyle vatandaşlar, boğaz ağrısı, öksürük, halsizlik ve burun akıntısı gibi şikayetlerle karşılaşıyor.",
           "source": "https://www.ntv.com.tr/saglik/galeri-bagisikligini-guclendirmek-isteyen-solugu-orada-aldi-kisin-yogun-ilgi-goruyor-1745805"
-        },
-        {
-          "title": "Astım, bronşit ve kansızlık için faydalıymış. Kazanda kaynatılarak üretiliyor",
-          "summary": "Antalya'nın Manavgat ilçesi Taşkesiği sakinlerinden Gani Şahin, Konya'nın Bozkır, Ahırlı ve Yalıhüyük ilçeleri sınırında bulunan bin 800 rakımlı Taşkesiği Yaylası'na göç ediyor.Burada pekmez üretiyor. Keçileri, tavukları ve kazlarıyla birlikte Toroslar'ın yüksek kesimlerinde yaz sezonunu geçiren Şahin, sahilden getirdiği keçiboynuzlarını (harnup) özel tanklarda ıslatıp beklettikten sonra kazanlarda kaynatarak tamamen organik pekmez üretiyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-astim-bronsit-ve-kansizlik-icin-faydaliymis-kazanda-kaynatilarak-uretiliyor-1745800"
         }
       ]
     },
