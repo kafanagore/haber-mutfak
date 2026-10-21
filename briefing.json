@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-20T16:00:03.989Z",
+  "generatedAt": "2026-10-21T04:00:03.603Z",
   "categories": {
     "gundem": {
-      "text": "Tanju Özcan hakkında 7 yıl hapis cezası. Kemer Belediye Başkanı ve 8 meclis üyesi partisinden istifa etti. Borsa günü yükselişle tamamladı. Bakan Çiftçi: Uluslararası toplumdan beklentimiz terör örgütleri arasında ayrım yapılmamasıdır. Gaziosmanpaşa Belediyesi davası. Başkan Hakan Bahçetepe'nin tahliyesi istendi. Hakan Bahçetepe hakkında tahliye talebi. Tarihi miras ayağa kalktı… Topkapı Sarayı'nda 7 yıllık restorasyon tamamlandı: Darphane-i Amire'de 5 yeni müze açılıyor.",
+      "text": "Polisin üzerine araç sürdü, \"dava açarım\" diyerek tehdit etti. Milli uydu yörüngede. Fergani’nin altıncı uydusu yörüngeye yerleşti. SPK, 3 aracı kurumun faaliyetlerini durdurdu. Boşanma aşamasındaki eşini ve araya giren genci vurdu. Hesaplarında 7,1 milyar lira para hareketi… Yasa dışı bahis operasyonunda 78 şüpheli tutuklandı. Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay. AK Parti Genel Başkan Yardımcısı Zorlu'dan Nutuk paylaşımı.",
       "items": [
         {
-          "title": "Tanju Özcan hakkında 7 yıl hapis cezası",
-          "summary": "Bolu Belediye Başkanı görevinden uzaklaştırılan Tanju Özcan'ın 7 yıl hapis cezasına çarptırıldığı belirtildi. Bolu Belediyesi’ne yönelik \"irtikap\" davasında görevden uzaklaştırılan Belediye Başkanı Tanju Özcan, marketler olayıyla ilgili 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı. Kurban olayı kapsamında ise 34 mağdur yönünden Tanju Özcan hakkında her mağdur için 1 yıl 15 gün ile 1 yıl 8 ay arasında verilen hapis cezası ertelendi. Dolandırıcılık suçundan ise Özcan beraat etti. Ayrıntılar geliyor…",
-          "source": "https://www.ntv.com.tr/turkiye/tanju-ozcan-hakkinda-7-yil-hapis-cezasi-1747210"
+          "title": "Polisin üzerine araç sürdü, \"dava açarım\" diyerek tehdit etti",
+          "summary": "Kayseri’de polis ekiplerinin \"dur\" ihtarına uymayarak üzerlerine araç sürüp, kaçan sürücü, kovalamaca sonucu yakalandı. Alkollü olduğu belirlenen sürücü polisi \"dava açarım\" diyerek, tehdit etti. Melikgazi ilçesine bağlı Hunat Mahallesi Mustafa Kemal Paşa Bulvarı üzerinde Kayseri İl Emniyet Müdürlüğü Trafik Denetleme Şube Müdürlüğü’ne bağlı polis ekipleri O.Ş. yönetimindeki araca “dur” ihtarında bulundu. Ekiplerin ihtarına uymayan O.Ş.",
+          "source": "https://www.ntv.com.tr/turkiye/polisin-uzerine-arac-surdu-dava-acarim-diyerek-tehdit-etti-1747235"
         },
         {
-          "title": "Kemer Belediye Başkanı ve 8 meclis üyesi partisinden istifa etti",
-          "summary": "Kemer Belediye Başkanı Necati Topaloğlu, 8 belediye meclis üyesiyle birlikte Cumhuriyet Halk Partisi (CHP) üyeliğinden istifa ederek görevlerini bağımsız olarak sürdürme kararı aldıklarını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kemer-belediye-baskani-ve-8-meclis-uyesi-partisinden-istifa-etti-43348916"
+          "title": "Milli uydu yörüngede. Fergani’nin altıncı uydusu yörüngeye yerleşti",
+          "summary": "Milli İmkanlarla geliştirilen Fergani Uzay'ın altıncı deneme uydusu uzaya çıktı. Yörüngesine yerleşen uydu göreve başladı. Baykar tarafından yapılan açıklamaya göre, SpaceX'in Bandwagon-5 görevi kapsamında fırlatılan uydu, fırlatmadan yaklaşık 63 dakika sonra, Türkiye saati ile 15.07 itibarıyla fırlatma aracından başarıyla ayrılarak 590 kilometre irtifadaki hedef yörüngesine yerleşti.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-milli-uydu-yorungede-ferganinin-altinci-uydusu-yorungeye-yerlesti-1747233"
         },
+        {
+          "title": "SPK, 3 aracı kurumun faaliyetlerini durdurdu",
+          "summary": "SERMAYE Piyasası Kurulu (SPK), Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım Menkul Değerler AŞ’nin sermaye piyasası faaliyetlerini 21 Ekim 2026 saat 00.01 itibarıyla geçici olarak durdurma kararı aldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/spk-3-araci-kurumun-faaliyetlerini-durdurdu-43349173"
+        },
+        {
+          "title": "Boşanma aşamasındaki eşini ve araya giren genci vurdu",
+          "summary": "Zonguldak'ta boşanma aşamasındaki eşiyle tartışan Ercan D., eşine ve tartışmaya müdahale eden gence silahla ateş açtı. Saldırıda ağır yaralanan 2 kişinin hayati tehlikesi sürüyor. Olay, akşam saatlerinde Çatalağzı beldesi Doğancılar Mahallesi Orta Sokak'ta meydana geldi. İddiaya göre, Ercan D. (48) ile boşanma aşamasındaki eşi Burçin D. (41) arasında sokak ortasında tartışma çıktı. Tartışmaya Emre Ç. (27) de müdahale etti. Tartışmanın ardından Ercan D., silahla eşine ve Emre Ç.'ye ateş açarak olay yerinden kaçtı.",
+          "source": "https://www.ntv.com.tr/turkiye/bosanma-asamasindaki-esini-ve-araya-giren-genci-vurdu-1747229"
+        },
+        {
+          "title": "Hesaplarında 7,1 milyar lira para hareketi… Yasa dışı bahis operasyonunda 78 şüpheli tutuklandı",
+          "summary": "ESKİŞEHİR merkezli 33 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 101 şüpheli adliyeye sevk edildi. Şüphelilerin, banka hesaplarında yapılan incelemede 7,1 milyar liralık işlem hacmi gerçekleştirdikleri tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/7-1-milyar-lira-para-hareketi-yasa-disi-bahis-operasyonunda-78-supheli-tutuklandi-43349165"
+        },
+        {
+          "title": "Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay",
+          "summary": "Libya Temsilciler Meclisi, 2019'da Türkiye ile imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onayladı. Dışişleri, ''Memnuniyet verici.'' açıklamasını yaptı. Libya Temsilciler Meclisi, Türkiye ile 2019'da imzalanan deniz yetki alanları anlaşmasını oy birliğiyle onayladı. Libya Parlamentosu'ndan yapılan açıklamaya göre meclis böylece, anlaşmayı daha önce reddetme kararı ve Ankara ile siyasi ilişkileri kesme yönündeki kararından geri dönmüş oldu.",
+          "source": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182"
+        },
+        {
+          "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Nutuk paylaşımı",
+          "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, \"Milli mücadeleyi, Cumhuriyet'imizin önemini ve Türk milletinin yeniden uyanışını ortaya koyan Nutuk'un nesillerimizce irdelenmesi ve anlaşılması dileğiyle.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-nutuk-paylasimi-43349112"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "İran'dan zenginleştirilmiş uranyum açıklaması. \"Tek bir gramı bile ülkeden çıkarılmayacak\". Ukrayna masası Norveç'te kuruldu. ABD, Rusya'ya yeni bir barış önerisi götürüyor. Fransa ve İtalya'da ordu devreye giriyor. 5 yıla kadar hapis cezası kararı. SpaceX ve Tesla'nın birleşme hazırlığı. 3,5 trilyon dolarlık şirket. Spotify'dan yapay zeka adımı. 50 milyondan fazla parça öneri listesinden çıkarıldı. Trump: Zelenskiy ve Putin’in anlaşma imzalamak için aynı odada bulunmaları gerekmiyor. Bakan Çiftçi, Brüksel'de Türk vatandaşlarıyla bir araya geldi.",
+      "items": [
+        {
+          "title": "İran'dan zenginleştirilmiş uranyum açıklaması. \"Tek bir gramı bile ülkeden çıkarılmayacak\"",
+          "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, \"Zenginleştirilmiş uranyumun tek bir gramı bile İran'dan çıkarılmayacak.\" açıklamasında bulundu. İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, sosyal medya hesabından yaptığı açıklamada ülkesi ve ABD arasında devam eden askeri gerilime ilişkin değerlendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/irandan-zenginlestirilmis-uranyum-aciklamasi-tek-bir-grami-bile-ulkeden-cikarilmayacak-1747238"
+        },
+        {
+          "title": "Ukrayna masası Norveç'te kuruldu. ABD, Rusya'ya yeni bir barış önerisi götürüyor",
+          "summary": "ABD Başkanı Donald Trump'ın özel temsilcisi Steve Witkoff, Ukrayna Devlet Başkanı Volodimir Zelenski ile Oslo'da bir araya geldi. Witkoff, Oslo'dan St. Petersburg'a geçerek Putin ile görüşecek. Ukrayna Devlet Başkanı Volodimir Zelenski Norveç'in başkenti Oslo'da ABD başkanı Donald Trump'ın özel temsilcisi Steve Witkoff ile Rusya-Ukrayna barışını görüştü. Toplantı, Norveç Başbakanı Jonas Gahr Store ile Finlandiya Cumhurbaşkanı Alexander Stubb'un ev sahipliğinde düzenlendi.",
+          "source": "https://www.ntv.com.tr/dunya/ukrayna-masasi-norvecte-kuruldu-abd-rusyaya-yeni-bir-baris-onerisi-goturuyor-1747232"
+        },
+        {
+          "title": "Fransa ve İtalya'da ordu devreye giriyor. 5 yıla kadar hapis cezası kararı",
+          "summary": "Fransa'daki gösteriler İtalya'ya da sıçradı. Yeni gösterilerin beklendiği iki ülkede de asker polise destek verecek. İtalya'da şiddete yönelen göstericilere 5 yıla kadar hapis cezası getirildi. FRANSA'DA ASKER DE GÖREV YAPACAK Fransa'da 17 Ekim'de Paris, Marsilya, Lyon ve diğer kentlerde yaşanan yağma ve şiddet olaylarının ardından hükümet yeni güvenlik önlemlerini duyurdu. Diğer yandan başkent Paris'te bugün de bazı bölgelerde sokağa çıkma yasağı uygulandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransa-ve-italyada-ordu-da-sokaga-iniyor-5-yila-kadar-hapis-cezasi-karari-1747230"
+        },
+        {
+          "title": "SpaceX ve Tesla'nın birleşme hazırlığı. 3,5 trilyon dolarlık şirket",
+          "summary": "Elon Musk, SpaceX ile Tesla'nın olası bir birleşmeyi değerlendirmek üzere özel komiteler kurduğunu duyurdu. Birleşmeyle ortak şirketin piyasa değerinin 3,5 trilyon dolara çıkması bekleniyor. Musk, SpaceX'in üçüncü çeyrek bilançosunu yayımlamasının ardından düzenlenen konferansta, analistler ve yatırımcıların sorularını yanıtladı.",
+          "source": "https://www.ntv.com.tr/dunya/spacex-ve-teslanin-birlesme-hazirligi-35-trilyon-dolarlik-sirket-1747228"
+        },
+        {
+          "title": "Spotify'dan yapay zeka adımı. 50 milyondan fazla parça öneri listesinden çıkarıldı",
+          "summary": "Spotify, bu yıl yapay zeka tarafından üretilen ve \"düşük kaliteli içerik ve spam olarak\" sınıflandırdığı 50 milyondan fazla parçayı önerilenler listesinden çıkardığını bildirdi. Spotify'dan yapılan yazılı açıklamada, yapay zeka çağında sanatçıları ve dinleyicileri aldatıcı içeriklerden korumak amacıyla yürütülen çalışmalar kapsamında, bu yıl yapay zeka tarafından üretilen ve \"düşük kaliteli içerik ve spam olarak\" sınıflandırdığı 50 milyondan fazla parçanın öneri sisteminden çıkarıldığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/spotifydan-yapay-zeka-adimi-50-milyondan-fazla-parca-oneri-listesinden-cikarildi-1747227"
+        },
+        {
+          "title": "Trump: Zelenskiy ve Putin’in anlaşma imzalamak için aynı odada bulunmaları gerekmiyor",
+          "summary": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Vladimir Zelenskiy ve Rusya Devlet Başkanı Vladimir Putin’in bir anlaşma imzalamak için aynı odada mı bulunmaları gerektiği sorusuna, \"Duruma bağlı. Aynı odada olmaları gerekmiyor. Başka bir şekilde de yapabilirler. Aynı odada bulunmaları zor. Nasıl yapılacağı umrumda değil\" diye yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-zelenskiy-ve-putinin-anlasma-imzalamak-icin-ayni-odada-bulunmalari-gerekmiyor-43349141"
+        },
+        {
+          "title": "Bakan Çiftçi, Brüksel'de Türk vatandaşlarıyla bir araya geldi",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Gençlerimizle, çocuklarımızla buluştuk, Emirdağ kekiği çayımızı yudumlayarak memleket havasını Brüksel'de soluduk.\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/bakan-ciftci-brukselde-turk-vatandaslariyla-bir-araya-geldi-43349107"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "Borsa günü yükselişle tamamladı. Egelilerden Madrid çıkarması. 'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek.",
+      "items": [
         {
           "title": "Borsa günü yükselişle tamamladı",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
           "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915"
         },
-        {
-          "title": "Bakan Çiftçi: Uluslararası toplumdan beklentimiz terör örgütleri arasında ayrım yapılmamasıdır",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Uluslararası toplumdan ve dostlarımızdan beklentimiz, terör örgütleri arasında herhangi bir ayrım yapılmaması ve hiçbirine müsamaha gösterilmemesidir.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-uluslararasi-toplumdan-beklentimiz-teror-orgutleri-arasinda-ayrim-yapilmamasidir-43348911"
-        },
-        {
-          "title": "Gaziosmanpaşa Belediyesi davası. Başkan Hakan Bahçetepe'nin tahliyesi istendi",
-          "summary": "Gaziosmanpaşa Belediyesi davasında savcı mütaalasını açıkladı. Yaklaşık 16 aydır tutuklu olan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'nin tahliyesi istendi. Gaziosmanpaşa Belediyesi davası devam ediyor. Hakan Bahçetepe ve diğer sanıkların yargılandığı dava kapsamında savcılık, celse arasında esas hakkındaki mütalaasını sundu.",
-          "source": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepenin-tahliyesi-istendi-1747199"
-        },
-        {
-          "title": "Hakan Bahçetepe hakkında tahliye talebi",
-          "summary": "Görevinden uzaklaştırılan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'nin yargılandığı davada yeni bir gelişme yaşandı. Bahçetepe hakkında esasa ilişkin mütalaa açıklandı. Savcı mütalaada Bahçetepe’nin tahliyesini talep etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/hakan-bahcetepe-hakkinda-tahliye-talebi-43348885"
-        },
-        {
-          "title": "Tarihi miras ayağa kalktı… Topkapı Sarayı'nda 7 yıllık restorasyon tamamlandı: Darphane-i Amire'de 5 yeni müze açılıyor",
-          "summary": "Topkapı Sarayı'nın birinci avlusunda yer alan tarihi Darphane-i Amire yerleşkesindeki 17 bin metrekarelik alanda yürütülen çalışmalar sona erdi. 7'nci yüzyıldan 20'nci yüzyıla uzanan 10 bini aşkın eserin sergileneceği 5 müze, 24 Ekim'de Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılacağı törenin ardından 25 Ekim Pazar günü ziyarete açılacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/topkapi-sarayinda-10-bini-askin-eserin-bulundugu-5-muze-ziyarete-aciliyor-43348872"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Kanada'da tarihi referandum: Yüzde 76'sı ayrılığa karşı çıktı. Amerikan keşif uçaklarından Karadeniz üzerinde devriye uçuşu. Google'daki arıza Avrupa'yı vurdu: Bankacılık durma noktasına geldi. Sahnede Filistin krizi! Kadrodan çıkarıldı. Google Cloud'daki sorun Avrupa'da bankaları da vurdu. Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay. Otobüslerde kulaklıksız müzik dinleyenlere para cezası geliyor.",
-      "items": [
-        {
-          "title": "Kanada'da tarihi referandum: Yüzde 76'sı ayrılığa karşı çıktı",
-          "summary": "Kanada'nın petrol zengini Alberta eyaletinde düzenlenen referandumda seçmenlerin yüzde 76'sı ülkeden ayrılmaya yönelik sürece karşı çıktı. Kanada'nın batısındaki Alberta eyaletinde, ülkeden ayrılma sürecine ilişkin ilk referandum 19 Ekim'de gerçekleştirildi. Bağlayıcı olmayan referandumda oyların dörtte üçünün sayıldığı salı sabahı itibarıyla seçmenlerin yüzde 76'sı Kanada'nın parçası olarak kalmaktan yana oy kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/kanadada-tarihi-referandum-yuzde-76si-ayriliga-karsi-cikti-1747206"
-        },
-        {
-          "title": "Amerikan keşif uçaklarından Karadeniz üzerinde devriye uçuşu",
-          "summary": "Bulgaristan Savunma Bakanı Dimitar Stoyanov, ABD'ye ait Boeing P-8A Poseidon tipi deniz devriye ve keşif uçağının Karadeniz üzerinde devriye uçuşu yaptığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/amerikan-kesif-ucaklarindan-karadeniz-uzerinde-devriye-ucusu-43348909"
-        },
-        {
-          "title": "Google'daki arıza Avrupa'yı vurdu: Bankacılık durma noktasına geldi",
-          "summary": "Google Cloud altyapısında yaşanan elektrik kaynaklı teknik sorun, Avrupa genelinde çok sayıda internet hizmetini etkilerken İngiltere'de bankacılık işlemlerinde ciddi aksamalara yol açtı. Revolut, Lloyds ve HSBC gibi bankaların müşterileri para çekme ve transfer işlemlerinde sorun yaşarken Google, hizmetlerin büyük bölümünün normale döndüğünü açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/googledaki-ariza-avrupayi-vurdu-bankacilik-durma-noktasina-geldi-43348871"
-        },
-        {
-          "title": "Sahnede Filistin krizi! Kadrodan çıkarıldı",
-          "summary": "Kanada’da bir opera oyununda selam verirken sahnede Filistin bayrağı açan oyuncu Gabriel Snchez-Ortega kadrodan çıkarıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/sahnede-filistin-krizi-kadrodan-cikarildi-43348767"
-        },
-        {
-          "title": "Google Cloud'daki sorun Avrupa'da bankaları da vurdu",
-          "summary": "Google Cloud'un Batı Avrupa'daki tesislerinde, bankalar ve birçok başka sektörü etkileyen hatalar ve ağ kesintileri yaşandı. Şirket, sorunun elektrik kesintisinden kaynaklandığını açıkladı. Google Cloud'dan yapılan açıklamada, bugün TSİ 09.08 itibarıyla europe-west2 bölgesindeki birden fazla hizmette sorun yaşandığı doğrulanırken, sorunun elektrik kesintisinden kaynaklandığı ve çözüm için çalışıldığı ifade edilmişti. İlerleyen saatlerde aksaklığın giderilmeye başlandığı bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/google-clouddaki-sorun-avrupada-bankalari-da-vurdu-1747177"
-        },
-        {
-          "title": "Türkiye-Libya deniz yetki alanları mutabakatına Libya Temsilciler Meclisi'nden onay",
-          "summary": "Libya Temsilciler Meclisi, 2019'da Libya ve Türkiye arasında imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırasını onayladı. Libya Temsilciler Meclisi, Türkiye ile 2019'da imzalanan deniz yetki alanları anlaşmasını oy birliğiyle onayladı. Libya Parlamentosu'ndan yapılan açıklamaya göre meclis böylece, anlaşmayı daha önce reddetme kararı ve Ankara ile siyasi ilişkileri kesme yönündeki kararından geri dönmüş oldu.",
-          "source": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182"
-        },
-        {
-          "title": "Otobüslerde kulaklıksız müzik dinleyenlere para cezası geliyor",
-          "summary": "İngiltere'de otobüslerde yüksek sesli müzik dinleyen ve rahatsız edici davranışlarda bulunanlara 100 sterlin (yaklaşık 6 bin 600 lira) para cezası verilecek. İngiltere Ulaştırma Bakanlığının yayımladığı rehbere göre, İngiltere'deki trenlerde kulaklıksız yüksek sesli müzik dinleyen ve rahatsız edici davranışlarda bulunanlara yönelik 2005'te uygulanmaya başlanan para cezası, otobüslerde de uygulanmaya başlayacak.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-otobuslerde-kulakliksiz-muzik-dinleyenlere-para-cezasi-geliyor-1747192"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "Egelilerden Madrid çıkarması. 'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek. Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar.",
-      "items": [
         {
           "title": "Egelilerden Madrid çıkarması",
           "summary": "2026’NIN ocak-eylül döneminde ihracatlarını yüzde 42’lik artışla 3 milyar 170 milyon dolara çıkaran yaş meyve sebze ihracatçıları, yılı sonunda bu rakımı 5 milyar dolara çıkarmak için İspanya’nın başkenti Madrid’de düzenlenen Fruit Attraction Fuarı’na katıldı.",
@@ -115,56 +120,51 @@
           "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek",
           "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
           "source": "https://www.hurriyet.com.tr/gundem/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odenecek-43344687"
-        },
-        {
-          "title": "Memurun fazla mesai ücreti netleşti… İşte kalem kalem rakamlar",
-          "summary": "Devlet memurlarının saat başına fazla mesai ücretleri yeni yılda 16 lira 55 kuruştan 19 lira 85 kuruşa çıkacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/memurun-fazla-mesai-ucreti-netlesti-iste-kalem-kalem-rakamlar-43344639"
         }
       ]
     },
     "spor": {
-      "text": "TFF bahis oynayan yöneticilere verilen cezaları açıkladı! İşte Trabzonspor Başkanı Ertuğrul Doğan'a verilen ceza. TFF resmen açıkladı: MHK’nın yeni başkanı Anthony Taylor oldu. Galatasaray'ın Lille maçının kamp kadrosu açıklandı! Leao yok, Singo listede. Lille-Galatasaray maçı öncesi Alexsandro, konuştu: Osimhen ile savaş gibi olacak. Lille-Galatasaray maçı öncesi Ancelotti konuştu: Takıma yüklenmek istiyorum! Berke 1 numara. Sergen Yalçın, Milli Takım Teknik Direktörlüğünü resmen açıkladı! 'Ay-yıldız her şeyin üzerindedir'. Adana'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
+      "text": "Yunus Akgün: 'Gol yemek oyunumuzu bozabiliyor!'. Okan Buruk'tan 5 maç vurgusu: 'Üst tur için çok kritik!'. Jindrich Trpisovsky: 'Kadıköy'deki ambiyans inanılmazdı, ilk 20 dakika birbirimizi duyamadık!'. İsmail Kartal: 'Çok üzgünüz ama bu futbol!'. Mason Greenwood: 'Futbol bu, baş etmeliyiz!'. Mason Greenwood, 7. golüne ulaştı!. Kadıköy’de hep bir ağızdan ‘İsmail Kartal istifa’ sesleri!.",
       "items": [
         {
-          "title": "TFF bahis oynayan yöneticilere verilen cezaları açıkladı! İşte Trabzonspor Başkanı Ertuğrul Doğan'a verilen ceza",
-          "summary": "Türkiye Futbol Federasyonu (TFF), Süper Lig ve TFF 1. Lig'de mücadele eden kulüplerde son 5 yıl içerisinde idareci olarak görev almış ve görev aldığı dönemde bahis oynadığı tespit edilen isimlerin cezalarını açıkladı. TFF, Trabzonspor Kulübü Başkanı Ertuğrul Doğan'ın bahis eylemi nedeniyle 45 gün hak mahrumiyeti cezası aldığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-bahis-oynayan-yoneticilere-verilen-cezalari-acikladi-iste-trabzonspor-baskani-ertugrul-dogana-verilen-ceza-43348844"
+          "title": "Yunus Akgün: 'Gol yemek oyunumuzu bozabiliyor!'",
+          "summary": "Galatasaraylı futbolcu Yunus Akgün, UEFA Şampiyonlar Ligi'nin 3. haftasında yarın deplasmanda oynayacakları Lille maçını kazanarak çıkış yapmak istediklerini belirterek, hem camiayı hem de taraftarları mutlu etmeyi hedeflediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/yunus-akgun-gol-yemek-oyunumuzu-bozabiliyor-43349082"
         },
         {
-          "title": "TFF resmen açıkladı: MHK’nın yeni başkanı Anthony Taylor oldu",
-          "summary": "Türkiye Futbol Federasyonu, Ferhat Gündoğdu’dan boşalan Merkez Hakem Kurulu Başkanlığı’na elit hakem direktörü olarak görev yapan Anthony Taylor’ın getirildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-resmen-acikladi-mhknin-yeni-baskani-anthony-taylor-oldu-43348811"
+          "title": "Okan Buruk'tan 5 maç vurgusu: 'Üst tur için çok kritik!'",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, UEFA Şampiyonlar Ligi'nin 3. haftasında deplasmanda yarın Fransa temsilcisi Lille ile oynayacakları maçın çok kritik olduğunu belirterek, \"Önümüzdeki beş maç bizim için çok kritik. Bu beş maçın ilki yarın. Üst tura çıkabilmek için bu karşılaşmalarda çok önemli puanlar toplamamız gerekiyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-5-mac-vurgusu-ust-tur-icin-cok-kritik-43349067"
         },
         {
-          "title": "Galatasaray'ın Lille maçının kamp kadrosu açıklandı! Leao yok, Singo listede",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nde oynayacağı Lille maçının kamp kadrosunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-lille-macinin-kamp-kadrosu-aciklandi-leao-yok-singo-listede-43348688"
+          "title": "Jindrich Trpisovsky: 'Kadıköy'deki ambiyans inanılmazdı, ilk 20 dakika birbirimizi duyamadık!'",
+          "summary": "Slavia Prag teknik direktörü Jindrich Trpisovsky, Fenerbahçe ile 2-2 berabere kaldıkları maçın ardından sarı-lacivertli taraftarların harika bir ambiyans yarattığını ancak takımının da aynı güzellikte bir maç çıkardığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/jindrich-trpisovsky-kadikoydeki-ambiyans-inanilmazdi-ilk-20-dakika-birbirimizi-duyamadik-43349063"
         },
         {
-          "title": "Lille-Galatasaray maçı öncesi Alexsandro, konuştu: Osimhen ile savaş gibi olacak",
-          "summary": "UEFA Şampiyonlar Ligi’nde temsilcimiz Galatasaray’ın karşılaşacağı Lille takımında savunma oyuncusu Alexsandro açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-maci-oncesi-alexsandro-konustu-osimhen-ile-savas-gibi-olacak-43348652"
+          "title": "İsmail Kartal: 'Çok üzgünüz ama bu futbol!'",
+          "summary": "Fenerbahçe Teknk Direktörü İsmail Kartal, Slavia Prag beraberliğinin ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-cok-uzgunuz-ama-bu-futbol-43349055"
         },
         {
-          "title": "Lille-Galatasaray maçı öncesi Ancelotti konuştu: Takıma yüklenmek istiyorum! Berke 1 numara",
-          "summary": "Lille teknik direktörü Davide Ancelotti, Şampiyonlar Ligi’nde oynayacakları Galatasaray maçı öncesi basın toplantısında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/lille-galatasaray-maci-oncesi-ancelotti-konustu-takima-yuklenmek-istiyorum-berke-1-numara-43348616"
+          "title": "Mason Greenwood: 'Futbol bu, baş etmeliyiz!'",
+          "summary": "Fenerbahçe'de Mason Greenwood, 2-2'lik Slavia Prag maçının ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-futbol-bu-bas-etmeliyiz-43349054"
         },
         {
-          "title": "Sergen Yalçın, Milli Takım Teknik Direktörlüğünü resmen açıkladı! 'Ay-yıldız her şeyin üzerindedir'",
-          "summary": "Türkiye Futbol Federasyonu, A Milli Takım Teknik Direktörlüğüne Sergen Yalçın'ın getirildiğini duyurdu. A Milli Futbol Takımı'nda teknik direktörlük görevine getirilen Sergen Yalçın da ilk görüşlerini paylaştı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-milli-takim-teknik-direktorlugunu-resmen-acikladi-ay-yildiz-her-seyin-uzerindedir-43348461"
+          "title": "Mason Greenwood, 7. golüne ulaştı!",
+          "summary": "Fenerbahçe’nin İngiliz oyuncusu Mason Greenwood, Slavia Prag karşısında kaydettiği golle bu sezon 7. golüne ulaştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/mason-greenwood-7-golune-ulasti-43349051"
         },
         {
-          "title": "Adana'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
-          "summary": "Adana Yeşiloba Hipodromu’nda bugün 9 koşudan oluşan birbirinden çekişmeli bir program yarışseverleri bekliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/adanada-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43348435"
+          "title": "Kadıköy’de hep bir ağızdan ‘İsmail Kartal istifa’ sesleri!",
+          "summary": "UEFA Şampiyonlar Ligi’nin üçüncü haftasında Slavia Prag maçından 2-2’lik beraberlikle sahadan ayrılan Fenerbahçe'de taraftarlar İsmail Kartal'a tepki gösterdi. Son dakikada gelen beraberlik golünün ardından Kadıköy’de istifa sesleri yükseldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kadikoyde-hep-bir-agizdan-ismail-kartal-istifa-sesleri-43349028"
         }
       ]
     },
     "teknoloji": {
-      "text": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor. Engellenince pes etmedi: Yapay zeka gizlice harita verisi topladı. Elon Musk, Uçan Tesla'yı tanıttı. Yöneticileri masada yemek yiyordu. Yapay zeka ajanları kendi aralarında ne konuştu?. T3 Vakfı’ndan yapay zeka adımı. Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı. ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı.",
+      "text": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor. Engellenince pes etmedi: Yapay zeka gizlice harita verisi topladı. Elon Musk, Uçan Tesla'yı tanıttı. Yöneticileri masada yemek yiyordu. Yapay zeka ajanları kendi aralarında ne konuştu?. Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı. ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı. Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti.",
       "items": [
         {
           "title": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor",
@@ -187,11 +187,6 @@
           "source": "https://www.ntv.com.tr/teknoloji/galeri-yoneticileri-masada-yemek-yiyordu-yapay-zeka-ajanlari-kendi-aralarinda-ne-konustu-1746442"
         },
         {
-          "title": "T3 Vakfı’ndan yapay zeka adımı",
-          "summary": "Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ve Huawei Türkiye, yapay zeka alanında nitelikli insan kaynağının geliştirilmesine yönelik stratejik iş birliği mutabakatına imza attı. İş birliği kapsamında öğrenciler ve genç profesyonellerin ileri teknoloji alanlarında bilgi ve becerilerini geliştirmeleri, eğitim olanaklarından yararlanmaları ve uluslararası gelişim fırsatlarına erişmeleri amaçlanıyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/t3-vakfindan-yapay-zeka-adimi-43341256"
-        },
-        {
           "title": "Dijital yayıncılıkta ‘dakika başına ödeme sistemi’ hazırlığı",
           "summary": "Abonelik ve reklam odaklı yayıncılık modellerine alternatif olarak öne çıkan dakika başına ödeme sistemi, dijital içerik ekonomisinde yeni bir dönemi başlatmayı hedefliyor.",
           "source": "https://www.hurriyet.com.tr/teknoloji/dijital-yayincilikta-dakika-basina-odeme-sistemi-hazirligi-43341108"
@@ -200,6 +195,11 @@
           "title": "ABD'den gövde gösterisi: Geleceğin savaş sistemleri vitrine çıktı",
           "summary": "ABD'nin başkenti Washington D.C'de 100'den fazla ülkeden temsilcinin katıldığı AUSA 2026 Fuarı'nda, yapay zeka destekli askeri sistemler, insansız araçlar, yeni nesil füze teknolojileri ve gelişmiş radar sistemleri sergilendi.",
           "source": "https://www.hurriyet.com.tr/dunya/abdden-govde-gosterisi-gelecegin-savas-sistemleri-vitrine-cikti-43340992"
+        },
+        {
+          "title": "Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti",
+          "summary": "ABD merkezli teknoloji devi Google, en yeni ve en gelişmiş yapay zeka modellerini 200 Avrupalı araştırmacıya açacağını duyurdu. Bu hamlenin zamanlaması ise dikkat çekti. Google tarafından İrlanda'nın başkenti Dublin'deki yapay zeka zirvesinde yapılan açıklamada, \"Araştırma ekiplerine hayati önem taşıyan işlem gücü ve en son teknoloji araçlarını doğrudan sunduğumuz bu hamlemizle, inovasyonda Avrupa'ya ivme kazandırmayı ve kıtanın bilimsel rekabet gücünü pekiştirmeyi amaçlıyoruz.\" ifadeleri kullanıldı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-google-en-yeni-yapay-zeka-modellerini-200-avrupali-arastirmaciya-aciyor-zamanlama-dikkat-cekti-1746256"
         }
       ]
     },
