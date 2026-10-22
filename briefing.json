@@ -1,35 +1,262 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-22T04:00:02.441Z",
+  "generatedAt": "2026-10-22T10:00:05.424Z",
   "categories": {
     "gundem": {
-      "text": "",
-      "items": []
+      "text": "AB'ye Libya tepkisi. MSB: \"Mutabakat uluslararası hukuk temelinde imzalandı\". 1 yıllık şişkinlik şikayetinin altından dev kitle çıktı: Sinsi tehlikeye 4 saatlik operasyon. Küresel PHP açığı! Siber Güvenlik Başkanlığı'ndan açıklama: e-Devlet Kapısı'ndaki güvenlik incelemesi tamamlandı. MSB’den Bedir Mutabakat Zaptı açıklaması: Ortak üretim kapasitesi gelişecek. Köprüdeki kan izleri cinayeti ele verdi: Motosiklet borcu için pusu kurmuş. Korkunç kaza: Drift atarken kazaya neden oldu. Soruşturmada yeni gelişme: Mustafa Sarıgül'ün koruması gözaltına alındı.",
+      "items": [
+        {
+          "title": "AB'ye Libya tepkisi. MSB: \"Mutabakat uluslararası hukuk temelinde imzalandı\"",
+          "summary": "Milli Savunma Bakanlığı, \"AB'nin tek taraflı değerlendirmesi Libya anlaşmasının geçerliliğini ortadan kaldırmaz.\" kaldırmaz tepkisiyle mutabakatın uluslararası hukuk temelinde imzalandığını bildirdi. Milli Savunma Bakanlığı'ndan (MSB) son dönemde imzalanan üç önemli anlaşmaya ilişkin değerlendirmeler geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/abye-libya-tepkisi-msb-mutabakat-uluslararasi-hukuk-temelinde-imzalandi-1747473"
+        },
+        {
+          "title": "1 yıllık şişkinlik şikayetinin altından dev kitle çıktı: Sinsi tehlikeye 4 saatlik operasyon",
+          "summary": "Karın ağrısıyla hastaneye başvuran 74 yaşındaki kadının karnını tamamen dolduran 30 santimetrelik tümör cerrahi müdahaleyle alındı. Çevre organlara da sıçrayan kitleyi ekibiyle birlikte temizleyen Op. Dr. Zafer Kolsuz, \"Over kanseri çok sinsi ilerliyor, menopoz sonrası kasık ağrısı ve şişlik gibi belirtileri asla ertelemeyin.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/1-yillik-siskinlik-sikayetinin-altindan-dev-kitle-cikti-sinsi-tehlikeye-4-saatlik-operasyon-43350864"
+        },
+        {
+          "title": "Küresel PHP açığı! Siber Güvenlik Başkanlığı'ndan açıklama: e-Devlet Kapısı'ndaki güvenlik incelemesi tamamlandı",
+          "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, dünya genelinde kullanılan PHP yazılımında tespit edilen kritik güvenlik açıklarına ilişkin e-Devlet Kapısı'nda gerçekleştirilen güvenlik kontrollerinin tamamlandığını ve hizmetlerin güvenliğini olumsuz etkileyen herhangi bir sorun bulunmadığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kuresel-php-acigi-siber-guvenlik-baskanligindan-aciklama-kritik-guvenlik-aciklarina-iliskin-onleyici-calismalar-suruyor-43350827"
+        },
+        {
+          "title": "MSB’den Bedir Mutabakat Zaptı açıklaması: Ortak üretim kapasitesi gelişecek",
+          "summary": "Millî Savunma Bakanlığı, Kara Kuvvetleri Komutanlığı'na TAYFUN Blok-2 füzesi ile Fırtına-2 obüslerinin teslim edildiğini, Sinop'ta SİPER sistemiyle icra edilen atışların başarıyla tamamlandığını duyurdu. Bakanlık Sözcüsü Tuğamiral Zeki Aktürk; 2 adet HÜRKUŞ-II uçağının kabul sürecinin bittiğini, Libya Meclisi'nin deniz yetki alanları mutabakatını onaylamasının ardından gelen üçüncü taraf itirazlarının hukuken geçersiz olduğunu bildirdi. Bedir Mutabakat Zaptı'nın da güçlü dostluğun göstergesi olacağı işaret edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/msbden-bedir-mutabakat-zapti-aciklamasi-ortak-uretim-kapasitesi-gelisecek-43350828"
+        },
+        {
+          "title": "Köprüdeki kan izleri cinayeti ele verdi: Motosiklet borcu için pusu kurmuş",
+          "summary": "Bartın’da berber Murat Barışık’ın hayatını kaybettiği olayda planlı cinayet ortaya çıktı. Tabancayı 3 gün önceden saklayıp Barışık’ı konuşma bahanesiyle olay yerine çağırdığı tespit edilen köylüsü Ö.Ç., cinayetin ardından suç aletlerini dereye atmasına rağmen jandarma tarafından yakalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/koprudeki-kan-izleri-cinayeti-ele-verdi-motosiklet-borcu-icin-pusu-kurmus-43350782"
+        },
+        {
+          "title": "Korkunç kaza: Drift atarken kazaya neden oldu",
+          "summary": "Bursa'da kavşakta sürücüsünün drift attığı otomobilin motosiklete çarptığı kaza, başka bir motosikletlinin kask kamerasına yansıdı. Kaza, Yıldırım ilçesi Cumalıkızık Mahallesi’nde meydana geldi. Kavşakta sürücüsünün drift atarken kontrolünü yitirdiği otomobil, savrulup hareket halindeki motosiklete çarptı. Kazada motosiklet sürücüsü yaralandı. Bu arada kaza, başka motosiklet sürücüsünün kask kamerasına yansıdı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-korkunc-kaza-drift-atarken-kazaya-neden-oldu-1747465"
+        },
+        {
+          "title": "Soruşturmada yeni gelişme: Mustafa Sarıgül'ün koruması gözaltına alındı",
+          "summary": "İstanbul’da ‘Suçtan kaynaklanan mal varlığı değerlerini aklama’ suçu kapsamında yürütülen soruşturma kapsamında Mustafa Sarıgül’ün koruması Ömer D.’nin aralarında bulunduğu 5 şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/1-milyar-euroluk-fon-iddiasi-emir-sarigulun-korumasi-gozaltina-alindi-43350790"
+        }
+      ]
     },
     "dunya": {
-      "text": "",
-      "items": []
+      "text": "İngiliz istihbaratı, sağlık bakanını 30 yıl izlemiş. Serveti tehlikeye girdiği için taşınmayı planlıyordu. Mark Zuckerberg Silikon Vadisi'nden kaçamadı. Japonya'da yine milli marş skandalı. Belediye başkanı bu kez çileden çıktı. Fransa'daki kentlerde protestolara yasak. İran'dan BM'ye çağrı: ABD'yi kınayın. İstanbul'da 7 bakanlı önemli zirve. Dışişleri Bakanı Hakan Fidan R4 ve E3 toplantılarına ev sahipliği yapacak.",
+      "items": [
+        {
+          "title": "İngiliz istihbaratı, sağlık bakanını 30 yıl izlemiş",
+          "summary": "İngiltere Ulusal Sağlık Sistemi'nin (NHS) mimarı olarak tanınan eski sağlık bakanı Nye Bevan'ın Komünist olduğu şüphesiyle ölene kadar MI5 takibinde tutulduğu ortaya çıktı. İngiltere iç istihbarat teşkilatı MI5'in gizliliği kaldırılan ve Ulusal Arşivler tarafından kamuoyuna açıklanan belgeleri, Nye Bevan'ın 1933'ten 1960'taki ölümüne kadar parlamentodaki faaliyetlerinin, dışarıdaki hareketlerinin ve görüşmelerinin yakından izlendiğini açığa çıkardı.",
+          "source": "https://www.ntv.com.tr/dunya/ingiliz-istihbarati-saglik-bakanini-30-yil-izlemis-1747400"
+        },
+        {
+          "title": "Serveti tehlikeye girdiği için taşınmayı planlıyordu. Mark Zuckerberg Silikon Vadisi'nden kaçamadı",
+          "summary": "ABD'nin Kaliforniya eyaletindeki servet vergisi tasarısı nedeniyle eyaletten ayrılmayı planlayan Meta CEO'su Zuckerberg, sekiz yıl daha Silikon Vadisi'nde kalmayı kabul etti. Sosyal medya devi Meta'nın CEO'su Mark Zuckerberg, şirketin yönetim kuruluyla vardığı anlaşma uyarınca Silikon Vadisi'nde sekiz yıl daha yaşamayı kabul etti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-serveti-tehlikeye-girdigi-icin-tasinmayi-planliyordu-mark-zuckerberg-silikon-vadisinden-kacamadi-1747443"
+        },
+        {
+          "title": "Japonya'da yine milli marş skandalı. Belediye başkanı bu kez çileden çıktı",
+          "summary": "Japonya'da düzenlenen Asya Oyunları'ndaki milli marş skandalının ardından, yine bu ülkede devam eden Asya Para Oyunları'nda aynı kriz yaşanıyor. Bu hafta tam 3 kez yanlış marş çalındı. Paralimpik Oyunları'nın ardından dünyanın en büyük ikinci çok branşlı spor organizasyonu olan Asya Para Oyunları Japonya'nın Nagoya kentinde devam ediyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-japonyada-yine-milli-mars-skandali-belediye-baskani-bu-kez-cileden-cikti-1747472"
+        },
+        {
+          "title": "Fransa'daki kentlerde protestolara yasak",
+          "summary": "Fransa’da geçtiğimiz hafta sonu düzenlenen protestolarda yaşanan şiddet olayları ve yağmaların ardından bugün Paris, Lille, Lyon ve Grenoble şehirlerinde gösteriler yasaklandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransadaki-kentlerde-protestolara-yasak-43350871"
+        },
+        {
+          "title": "İran'dan BM'ye çağrı: ABD'yi kınayın",
+          "summary": "İran, Birleşmiş Milletler'e (BM) mektup göndererek ABD'nin deniz ablukasının kınanması ve askeri eylemlerine derhal son verilmesi çağrısında bulundu. İran'ın BM Daimi Temsilci Yardımcısı Gulamhüseyin Darzi, ablukanın uluslararası hukukun ihlali olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-bmye-cagri-abdyi-kinayin-43350862"
+        },
+        {
+          "title": "İstanbul'da 7 bakanlı önemli zirve",
+          "summary": "İstanbul yarın önemli bir toplantıya ev sahipliği yapacak. 7 ülkenin dışişleri bakanları bir araya gelecek. Türkiye, Mısır, Pakistan ve Suudi Arabistan'dan oluşan ve \"bölgesel dörtlü\" olarak tanımlanan ülkelerinin dışişleri bakanları; İngiltere, Almanya ve Fransa'nın dışişleri bakanları ile toplantı yapacak. MASADAKİ BAŞLIKLAR Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde gerçekleşecek toplantıda, Gazze, Hürmüz'deki son durum, Yemen'deki gelişmeler ve Rusya-Ukrayna savaşı masada olacak.",
+          "source": "https://www.ntv.com.tr/dunya/istanbulda-7-bakanli-onemli-zirve-1747477"
+        },
+        {
+          "title": "Dışişleri Bakanı Hakan Fidan R4 ve E3 toplantılarına ev sahipliği yapacak",
+          "summary": "Dışişleri Bakanı Hakan Fidan, İstanbul'da R4 (Türkiye, Mısır, Pakistan, Suudi Arabistan) ve R4+E3 (Birleşik Krallık, Almanya, Fransa) formatında düzenlenecek Dışişleri Bakanları Toplantıları'na ev sahipliği yapacak. Bakan Fidan'ın, İsrail’in Filistin’de devam eden işgalinin, uluslararası toplumun barış çabalarını sekteye uğratan uzlaşmaz tutumunun ve tüm bölgeye yayılan saldırganlığının Orta Doğu’daki gerilimlerin temel nedeni olduğuna dikkat çekmesi bekleniyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-r4-ve-e3-toplantilarina-ev-sahipligi-yapacak-43350834"
+        }
+      ]
     },
     "ekonomi": {
-      "text": "",
-      "items": []
+      "text": "Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu. Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız. Borsa günü yükselişle tamamladı. Egelilerden Madrid çıkarması. 'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde.",
+      "items": [
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu",
+          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturmalarına ilişkin, \"Yatırımcı ile manipülatörü birbirine karıştırmadan titiz bir şekilde adli ve idari süreçleri hayata geçiriyoruz, geçirmeye devam edeceğiz. İnanıyorum ki mevcut sorunların aşılması ile sermaye piyasalarımız yoluna çok daha güçlü bir şekilde devam edecek, yatırımcılarına da ülke ekonomisine de kazandıracaktır.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-2027-yili-butcesini-meclise-sundu-43350238"
+        },
+        {
+          "title": "Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız",
+          "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin döküm sanayisinde üretim kapasitesinin 3 milyon ton olduğunu belirterek \"Toplam üretimimiz 2025 yılında 2 milyon 300 bin ton olmuştur. Bu üretimin değeri de 8 milyar avro mertebesindedir ve 1 milyon 640 bin ton ihracatımız, 6,1 milyar avro ihracat tutarına ulaşmaktadır.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-dokum-sektorunde-dunyada-7nci-avrupada-2nci-siradayiz-43350222"
+        },
+        {
+          "title": "Borsa günü yükselişle tamamladı",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915"
+        },
+        {
+          "title": "Egelilerden Madrid çıkarması",
+          "summary": "2026’NIN ocak-eylül döneminde ihracatlarını yüzde 42’lik artışla 3 milyar 170 milyon dolara çıkaran yaş meyve sebze ihracatçıları, yılı sonunda bu rakımı 5 milyar dolara çıkarmak için İspanya’nın başkenti Madrid’de düzenlenen Fruit Attraction Fuarı’na katıldı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egelilerden-madrid-cikarmasi-43348595"
+        },
+        {
+          "title": "'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'",
+          "summary": "Ticaret Bakanlığı \"2026 yılının ilk 9 ayında gerçekleştirilen 4 bin 890 farklı operasyonda, 91 milyar 720 milyon TL değerinde ticari eşya ve uyuşturucu madde ele geçirildi.\" açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/yilinin-ilk-9-ayinda-91-milyar-720-milyon-tllik-ticari-esya-ve-uyusturucu-ele-gecirildi-43346707"
+        },
+        {
+          "title": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek",
+          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz başkanlığında 6'ncı Fon Kurulu Toplantısı gerçekleştirildi. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıkların ilgili kurum ve kuruluşları katıldı. Konuya ilişkin Kanun Teklifinin önümüzdeki hafta Genel Kurulda görüşülmesi öngörülüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/altinci-fon-kurulu-toplantisi-gerceklesti-43346459"
+        },
+        {
+          "title": "Eroğlu, EBSO yönetiminde",
+          "summary": "CEMER Holding Yönetim Kurulu Başkanı Fuat Eroğlu, Ege Bölgesi Sanayi Odası’nın (EBSO) yeni yönetim kuruluna seçildi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/eroglu-ebso-yonetiminde-43346208"
+        }
+      ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "Arda Turan'dan Arda Güler sözleri: 'Barcelona tarafındayım!'. Beşiktaş maçları gollü geçiyor, Trabzonspor farklı skorlarla kazanmaya devam ediyor! İşte Misli’den günün tüyoları. Arda Güler'in imzalı formasını alan Real Madrid efsanesi Guti: 'Çok duygulandım, eve asmak için sabırsızlanıyorum!'. Galatasaray'ın Lille galibiyeti Fransız basınında: 'Osimhen savunmanın başına bela oldu! Lille, Galatasaray karşısında dağıldı'. EuroLeague'de Türk derbisi! Anadolu Efes-Beşiktaş maçı canlı yayın ile Misli'de. Beşiktaş ile Trabzonspor, Avrupa sahnesinde! Kritik maçların heyecanı canlı sohbet ile Misli'de. Nihat Kahveci'den Galatasaray yönetimine yıldız futbolcu için ilginç çağrı: 'Papatya çayı içsin!'.",
+      "items": [
+        {
+          "title": "Arda Turan'dan Arda Güler sözleri: 'Barcelona tarafındayım!'",
+          "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, LaLiga'da hafta sonu oynanacak olan Barcelona-Real Madrid maçı ve Arda Güler hakkında konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-turandan-arda-guler-sozleri-barcelona-tarafindayim-43350880"
+        },
+        {
+          "title": "Beşiktaş maçları gollü geçiyor, Trabzonspor farklı skorlarla kazanmaya devam ediyor! İşte Misli’den günün tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-maclari-gollu-geciyor-trabzonspor-farkli-skorlarla-kazanmaya-devam-ediyor-iste-misliden-gunun-tuyolari-43350848"
+        },
+        {
+          "title": "Arda Güler'in imzalı formasını alan Real Madrid efsanesi Guti: 'Çok duygulandım, eve asmak için sabırsızlanıyorum!'",
+          "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında sahasında karşılaştığı RB Leipzig'i 4-1 mağlup eden Real Madrid'de bir gole imzasını atan Arda Güler, maçın ardından formasını imzalayarak eflatun-beyazlı kulübün efsanelerinden Guti'ye hediye etti. Jest karşısında duygulanan Guti, 'çok mutluyum, uzun zamandır istediğim bu formayı eve asmak için sabırsızlanıyorum' dedi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulerin-imzali-formasini-alan-real-madrid-efsanesi-guti-cok-duygulandim-eve-asmak-icin-sabirsizlaniyorum-43350772"
+        },
+        {
+          "title": "Galatasaray'ın Lille galibiyeti Fransız basınında: 'Osimhen savunmanın başına bela oldu! Lille, Galatasaray karşısında dağıldı'",
+          "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Galatasaray, dün akşam deplasmanda karşılaştığı Lille'i 4-2 mağlup etti. Sarı-kırmızılıların bu galibiyeti Fransız basınında geniş yer buldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-lille-zaferi-fransa-basininda-osimhen-savunmanin-basina-bela-oldu-lille-galatasaray-karsisinda-dagildi-43350582"
+        },
+        {
+          "title": "EuroLeague'de Türk derbisi! Anadolu Efes-Beşiktaş maçı canlı yayın ile Misli'de",
+          "summary": "EuroLeague'in 7. haftasında iki Türk takımı karşılaşıyor. Avrupa'daki Türk derbisinde Anadolu Efes, Beşiktaş'ı konuk ediyor. Kritik maçın heyecanı canlı sohbet ve canlı yayın ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-turk-derbisi-anadolu-efes-besiktas-maci-canli-yayin-ile-mislide-43350645"
+        },
+        {
+          "title": "Beşiktaş ile Trabzonspor, Avrupa sahnesinde! Kritik maçların heyecanı canlı sohbet ile Misli'de",
+          "summary": "Avrupa'daki bu akşam iki temsilcimiz bu akşam sahneye çıkıyor. Beşiktaş, UEFA Avrupa Ligi 3. haftasında Crystal Palace'ı, Trabzonspor ise UEFA Konferans Ligi 2. hafta mücadelesinde Hearts ile karşılaşıyor. Maçların heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ile-trabzonspor-avrupa-sahnesinde-kritik-maclarin-heyecani-canli-sohbet-ile-mislide-43350621"
+        },
+        {
+          "title": "Nihat Kahveci'den Galatasaray yönetimine yıldız futbolcu için ilginç çağrı: 'Papatya çayı içsin!'",
+          "summary": "Galatasaray'ın Şampiyonlar Ligi'nde deplasmanda Lille'i 4-2 mağlup ettiği maçın ardından eski futbolcu ve spor yorumcusu Nihat Kahveci, sarı-kırmızılı takımın performansını değerlendirirken Galatasaray yönetimine de dikkat çeken bir çağrıda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-galatasaray-yonetimine-yildiz-futbolcu-icin-olay-yaratan-cagri-papatya-cayi-icsin-43350473"
+        }
+      ]
     },
     "teknoloji": {
-      "text": "",
-      "items": []
+      "text": "Yapay zekanın karanlık yüzü: Su ve elektrik sistemleri risk altında. 15 milyar dolarlık yatırımla halka arza hazırlanıyorlar. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?. İnternetin altyapısında kritik açık: Dünya alarma geçti, Avrupa'da devlet siteleri kapatıldı. Şirketler GTA 6'ya hazırlanıyor. 1,5 milyon çalışan aynı gün izin alabilir. OpenAI'dan ürküten açıklama: YZ yine kendi kendine hareket etmiş. İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor.",
+      "items": [
+        {
+          "title": "Yapay zekanın karanlık yüzü: Su ve elektrik sistemleri risk altında",
+          "summary": "Elektrik şebekeleri ve su sistemlerine yönelik siber saldırıları planlama becerisi test edilen yapay zeka modellerinden bazıları, yüzde 90'a varan başarı gösterdi. Axios'un haberine göre, siber güvenlik şirketi Frenos tarafından yapılan araştırma, gelişmiş yapay zeka modellerinin endüstriyel sistemlere yönelik saldırı planları oluşturabildiğini ve kritik altyapıların siber saldırılara karşı savunmasında zamanın daraldığını ortaya koydu.",
+          "source": "https://www.ntv.com.tr/teknoloji/yapay-zekanin-karanlik-yuzu-su-ve-elektrik-sistemleri-risk-altinda-1747394"
+        },
+        {
+          "title": "15 milyar dolarlık yatırımla halka arza hazırlanıyorlar",
+          "summary": "Çinli yapay zeka girişimi DeepSeek, aralarında CATL ve Tencent'in de yer aldığı yatırımcılardan yaklaşık 15 milyar dolar fon topladı. Çinli yapay zeka girişimi DeepSeek, mevcut ve yeni yatırımcılarından yaklaşık 100 milyar yuan (14,98 milyar dolar) kaynak sağladığı son finansman turunu tamamlamaya hazırlanıyor. Reuters haber ajansına konuşan kaynaklar, fonlama sürecinde sona gelindiğini bildirdi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-15-milyar-dolarlik-yatirimla-halka-arza-hazirlaniyorlar-1747458"
+        },
+        {
+          "title": "Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?",
+          "summary": "Dünya genelinde internet altyapısında kullanılan PHP yazılımındaki güvenlik açıkları nedeniyle Türkiye dahil birçok ülke alarma geçti. Peki nedir bu PHP? Korsanlar nasıl zararlar verebilir? Dün gece dünya çapında büyük bir siber güvenlik alarmı yaşandı. İnternet sitelerinin neredeyse yüzde 70'inde kullanılan PHP (Hypertext Preprocessor - Hiper Metin Önişlemcisi) programlama dilindeki iki kritik güvenlik açığı, çeşitli yapay zeka modelleri tarafından tespit edildi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-dunyada-panik-buyuyor-turkiye-de-alarma-gecti-internetin-kara-ekimiyle-ilgili-neler-biliniyor-1747438"
+        },
+        {
+          "title": "İnternetin altyapısında kritik açık: Dünya alarma geçti, Avrupa'da devlet siteleri kapatıldı",
+          "summary": "Dünya genelinde internette kullanılan PHP yazılımında iki kritik güvenlik açığı tespit edildi. Avrupa'da çok sayıda kamu kurumunun internet sitesi erişime kapatıldı. Türkiye'de de uyarı yapıldı. İnternetin altyapısında yaygın olarak kullanılan PHP programlama dilinde tespit edilen iki kritik güvenlik açığı, dünya genelinde siber güvenlik alarmına yol açtı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-internetin-altyapisinda-kritik-acik-dunya-alarma-gecti-avrupada-devlet-siteleri-kapatildi-1747361"
+        },
+        {
+          "title": "Şirketler GTA 6'ya hazırlanıyor. 1,5 milyon çalışan aynı gün izin alabilir",
+          "summary": "Uzmanlar, GTA 6 oyununun çıkış tarihi olan 19 Kasım günü ABD'de yaklaşık 1,5 milyon çalışanın izin almasını veya rapor almasını bekliyor. Dünya genelinde milyonlarca kişinin merakla beklediği video oyunu Grand Theft Auto VI (GTA 6), piyasaya çıkış tarihi yaklaştıkça yalnızca eğlence dünyasını değil, iş gücü piyasasını da meşgul etmeye başladı. Uzmanlar, yapımın satışa sunulacağı 19 Kasım günü ABD genelinde yaklaşık 1,5 milyon çalışanın işe gitmeyebileceğini hesaplıyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-sirketler-gta-6ya-hazirlaniyor-15-milyon-calisan-ayni-gun-izin-alabilir-1747335"
+        },
+        {
+          "title": "OpenAI'dan ürküten açıklama: YZ yine kendi kendine hareket etmiş",
+          "summary": "ABD'li yapay zeka şirketi OpenAI, GPT-6.1 Sol ve GPT-6 Astra modellerinin şirket içindeki yazılım görevleri sırasında yapay zeka sistemlerindeki uyumsuzlukları tespit eden izleme mekanizmalarını devre dışı bıraktığını ve güvenlik uyarılarını engellediğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zeka/openaidan-urkuten-aciklama-yz-yine-kendi-kendine-hareket-etmis-43349339"
+        },
+        {
+          "title": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor",
+          "summary": "İsrailli bir reklam şirketinin, milyonlarca internet kullanıcısına gösterilen reklamlar aracılığıyla hedefli casus yazılım saldırılarına zemin hazırladığı ortaya çıktı. Kanada'daki Toronto Üniversitesi bünyesinde faaliyet gösteren dijital araştırma kuruluşu Citizen Lab, İsrailli reklam ajansı Discover-Tech'in internet reklamlarını siber gözetleme amacıyla kullanılabilecek bir araca dönüştürdüğünü açıkladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-internet-reklamlarinda-casus-yazilim-tehlikesi-tiklamaya-bile-gerek-yok-1746626"
+        }
+      ]
     },
     "saglik": {
-      "text": "",
-      "items": []
+      "text": "İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi. Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor. Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı. 131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı. Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı. Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek.",
+      "items": [
+        {
+          "title": "İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi",
+          "summary": "Yapılan son araştırmalar, antidepresanlara yanıt vermeyen hastaların, biyolojik saatlerindeki bozukluktan kaynaklanan bir depresyon alt türünün pençesinde olabileceğini ortaya koydu. Avustralyalı bilim insanları, geleneksel antidepresanlardan fayda bulamayan hastaların, kendi biyolojik saatlerindeki bozukluktan kaynaklanan şiddetli bir alt depresyon türünün pençesinde olabileceğini keşfetti.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-ilaclara-yanit-vermeyen-yeni-bir-depresyon-turu-tespit-edildi-1747333"
+        },
+        {
+          "title": "Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor",
+          "summary": "Karamuk meyvesi, tezgahta yerini aldı. Birçok hastalığa iyi geldiğine inanılan bu meyvenin kilosu 70-100 TL arasında değişiyor. Sivas'ın ilçe ve köylerinde dağlık bölgelerde ve yüksek kesimlerde yetişen karamuk meyvesi, kısa süren hasat dönemi sonrası tezgahta yerini aldı. Yaklaşık bir aylık tüketim dönemi bulunan meyve, hem taze olarak hem de reçel ve komposto yapımında kullanılıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-tansiyon-seker-ve-kolesterole-iyi-geliyormus-kurutularak-cay-gibi-iciliyor-1747155"
+        },
+        {
+          "title": "Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı",
+          "summary": "Adana'da kabızlık ve karın ağrısı şikayetiyle hastaneye başvuran 64 yaşındaki Meryem İnce, rektum kanseri tanısı aldı. Ev kadını Meryem İnce, 4 ay önce yaşadığı kabızlık ve karın ağrısı şikayeti üzerine hastaneye başvurdu. Tetkiklerin ardından rektum kanseri tanısı alan İnce, kemoterapi ve radyoterapi tedavilerini tamamladı. Ameliyat aşamasına geldiğinde eşi Azmi İnce (66) ile birlikte araştırma yapan İnce, Çukurova Üniversitesi Tıp Fakültesi Balcalı Hastanesi'nde robotik cerrahi yönteminin uygulandığını öğrendi.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-bu-belirtilere-dikkat-edin-kabizlik-sikayetiyle-gitti-kanser-tanisi-aldi-1746799"
+        },
+        {
+          "title": "131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı",
+          "summary": "Çalışma ve Sosyal Güvenlik Bakanı Prof. Dr. Vedat Işıkhan, 131 ilacın daha geri ödeme listesine alındığını duyurdu. Çalışma ve Sosyal Güvenlik Bakanı Prof. Dr. Vedat Işıkhan, kişisel X hesabında yeni bir duyuru yaptı. 119'u yerli üretim olmak üzere 131 ilacın daha geri ödeme listesine alındığını açıklayan Işıkhan, vatandaşların tedavi imkanlarına ulaşmasını kolaylaştırmak için bu yılın başından itibaren 34'ü kanser ilacı olmak üzere toplam 380 ilacın geri ödeme listesine dahil edildiğini belirtti.",
+          "source": "https://www.ntv.com.tr/saglik/131-ilac-daha-geri-odeme-listesine-alindi-1746586"
+        },
+        {
+          "title": "Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı",
+          "summary": "Zonguldak'ta şiddetli öksürük nöbeti nedeniyle kalp damarı yırtılan 52 yaşındaki kadın, stentle yapay damar yolu oluşturularak hayata bağlandı. Ereğli ilçesinde yaşayan 52 yaşındaki kadın hasta, geçirdiği zatürreye bağlı şiddetli öksürük nöbetinin ardından göğüs ağrısı şikayetiyle hastaneye başvurdu. Muayene sırasında kalp krizi geçirdiği anlaşılan hasta acil olarak anjiyoya alındı.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-milyonda-bir-gorulen-vaka-oksururken-kalp-damari-yirtildi-1746304"
+        },
+        {
+          "title": "Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda",
+          "summary": "Antalya'da botoks yaptırdıktan sonra rahatsızlanan 16 kişi tedavi altına alındı. O kişilerden biri olan F.F, botoks işleminden sonra göz kapağının düştüğünü ardından da yutma güçlüğü yaşamaya başladı. Antalya'da son 3 ayda 16 kişi botoks zehirlenmesi nedeniyle tedaviye alındı. Son 3 ayda botoks yaptırdıktan sonra rahatsızlanan çok sayıda kişi, AÜ Hastanesi'ne başvurdu. Konuşmakta, yutkunmakta ve nefes almakta zorlanan, kaslarında ciddi güçsüzlük yaşayan 16 kişi tedaviye alındı.",
+          "source": "https://www.ntv.com.tr/saglik/antalyada-sahte-botoks-alarmi-16-kisi-hastanelik-oldu-3u-yogun-bakimda-1745947"
+        },
+        {
+          "title": "Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek",
+          "summary": "Süper meyve olarak bilinen aronya, Eskişehir'de toprakla buluştu. Antioksidan değeri en yüksek meyvelerden biri olarak bilinen aronya, sağlığa olan faydalarıyla da dikkat çekiyor. Sağlık açısından sunduğu faydalarla şifali meyvelerden biri olan aronya, özellikle şeker ve kanser hastaları için ek gıda olarak tercih ediliyor. Eskişehir'de yaşayan Erdem Erçam, Eskişehir'in Mihalıççık ilçesine bağlı kırsal Kayı Mahallesi'nde aronya yetiştiriciliği yapıyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-super-meyve-toprakla-bulustu-sifa-dagitiyor-antioksidan-degeri-yuksek-1745931"
+        }
+      ]
     },
     "magazin": {
-      "text": "",
-      "items": []
+      "text": "Sessiz yürüyüş. Muhabirlere ‘aşk’ sözü.",
+      "items": [
+        {
+          "title": "Sessiz yürüyüş",
+          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
+        },
+        {
+          "title": "Muhabirlere ‘aşk’ sözü",
+          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
+        }
+      ]
     }
   }
 }
