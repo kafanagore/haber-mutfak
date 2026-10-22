@@ -1,262 +1,35 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-21T10:00:03.747Z",
+  "generatedAt": "2026-10-22T04:00:02.441Z",
   "categories": {
     "gundem": {
-      "text": "Cumhurbaşkanı Erdoğan: 'Çamur at izi kalsın siyasetine izin vermeyiz. Bakan Gürlek'ten İstanbul'daki OECD zirvesinde Gazze tepkisi: Tarih bu vurdumduymazlığa şahitlik edecek. Murat Kurum'dan Özgür Özel'e sel tepkisi: \"Yalan söyleyerek siyaset yapıyorlar\". Cumhurbaşkanı Erdoğan'dan önemli açıklamalar. Özgür Özel'den Ursula von der Leyen'e tepki: Taraf tutmayın. Yasa dışı üreme hücresi ticaretine operasyon: Gözaltı sayısı 44'e çıktı. CHP'nin kurultay davasında mütalaa.",
-      "items": [
-        {
-          "title": "Cumhurbaşkanı Erdoğan: 'Çamur at izi kalsın siyasetine izin vermeyiz",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefeti fon soruşturması üzerinden eleştirdi. \"Çamur at izi kalsın.\" siyasetine izin vermeyeceklerini söyleyen Erdoğan, \"Biz buna eyvallah demeyiz.\" dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Grup Toplantısı'nda konuşma gerçekleştiriyor. Cumhurbaşkanı Erdoğan'ın konuşmasından satır başları şöyle: - Önemli gelişmelerin yaşandığı hassas bir süreçten geçiyoruz.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-yeni-siyaset-diline-ihtiyac-var-1747330"
-        },
-        {
-          "title": "Bakan Gürlek'ten İstanbul'daki OECD zirvesinde Gazze tepkisi: Tarih bu vurdumduymazlığa şahitlik edecek",
-          "summary": "Adalet Bakanı Akın Gürlek, Filistin Adalet Bakanı'nın çıkışına izin vermeyen İsrail yönetimine ve gelişmiş ülkelerin sessizliğine tepki göstererek, OECD ülkelerini Gazze'de yaşanan trajedi karşısında en yüksek tondan ses çıkarmaya çağırdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/basliksizabakan-gurlekten-istanbuldaki-oecd-zirvesinde-gazze-tepkisi-tarih-bu-vurdumduymazliga-sahitlik-edecek-43349639"
-        },
-        {
-          "title": "Murat Kurum'dan Özgür Özel'e sel tepkisi: \"Yalan söyleyerek siyaset yapıyorlar\"",
-          "summary": "Çevre Şehircilik ve İklim Bakanı Murat Kurum, sel felaketinin ardından eleştirilerde bulunan Yeni Parti Genel Başkanı Özgür Özel'e \"Yalan söyleyerek siyaset yapıyorlar.\" dedi. Çevre Şehircilik ve İklim Bakanı Murat Kurum, AK Parti grup toplantısı öncesinde gazetecilere açıklamalarda bulundu. İstanbul'da yaşanan sel felaketine ilişkin \"Arzu ediyoruz ki bu seller yaşanmasın. Arzu ediyoruz ki vatandaşımızın canından malına zarar gelmesin.\" dedi.",
-          "source": "https://www.ntv.com.tr/turkiye/murat-kurumdan-ozgur-ozele-sel-tepkisi-yalan-soyleyerek-siyaset-yapiyorlar-1747328"
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
-          "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin TBMM Grup Toplantısı'nda açıklamalarda bulunuyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43349387"
-        },
-        {
-          "title": "Özgür Özel'den Ursula von der Leyen'e tepki: Taraf tutmayın",
-          "summary": "Yeni Parti Genel Başkanı Özgür Özel, Türkiye - Libya anlaşmasını eleştiren Avrupa Komisyonu Başkanı Ursula von der Leyen'e tepki gösterdi. Özel, \"Göreviniz gerilimi körüklemek değil.\" dedi. Avrupa Komisyonu Başkanı Ursula von der Leyen, Libya Temsilciler Meclisi'nin Türkiye ile 2019'da imzalanan deniz yetki alanları anlaşmasını onaylamasının ardından yaptığı açıklamada, anlaşmanın üçüncü ülkelerin egemenlik haklarını ihlal ettiğini ve uluslararası deniz hukukuna uygun olmadığını savundu.",
-          "source": "https://www.ntv.com.tr/turkiye/ozgur-ozelden-ursula-von-der-leyene-tepki-taraf-tutmayin-1747326"
-        },
-        {
-          "title": "Yasa dışı üreme hücresi ticaretine operasyon: Gözaltı sayısı 44'e çıktı",
-          "summary": "İstanbul merkezli 14 ilde başlatılan yasa dışı üreme hücresi ticareti soruşturmasında yeni yakalamalar yapıldı. Emniyetteki işlemleri süren 39 şüphelinin ardından 5 zanlının daha yakalanmasıyla gözaltındaki şüpheli sayısı 44'e ulaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yasa-disi-ureme-hucresi-ticaretine-operasyon-gozalti-sayisi-44e-cikti-43349592"
-        },
-        {
-          "title": "CHP'nin kurultay davasında mütalaa",
-          "summary": "CHP kurultay ceza davasında savcı; Ekrem İmamoğlu, Rıza Akpolat ve Özgür Çelik dahil 9 kişi için ceza isterken İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın da beraati talep edildi. CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla yürütülen ceza davasına devam edildi. İstanbul Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu ve İzmir Büyükşehir Belediye Başkanı Cemil Tugay dahil 12 kişi “sanık” olarak yer alıyor. Ankara 26.",
-          "source": "https://www.ntv.com.tr/turkiye/chpnin-kurultay-davasinda-mutalaa-1747325"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "dunya": {
-      "text": "'Tüm bombaların anası'na İran'dan yanıt! 'Bombaların babası'. İsrail işgali altındaki topraklar dahil, ordu mensupları oy kullanmaya başladı. NATO’dan kritik adım! Karadeniz’de harekete geçti. Elon Musk’tan Ukrayna’ya Starlink freni. İngiltere'de kamu borcu ilk kez 3 trilyon sterlin sınırını geçti. ABD'nin 1 trilyon doları aşan faiz faturası bütçeyi zorluyor. Netanyahu'nun planı deşifre oldu: Trump'a takıldı.",
-      "items": [
-        {
-          "title": "'Tüm bombaların anası'na İran'dan yanıt! 'Bombaların babası'",
-          "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, ABD’nin “tüm bombaların anası” olarak bilinen GBU-43/B bombasını kullanabileceği iddialarının gündeme gelmesinin ardından “Bombaların babasını tanıtma aşamasındayız.” yanıtı geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/tum-bombalarin-anasina-irandan-yanit-bombalarin-babasi-43349579"
-        },
-        {
-          "title": "İsrail işgali altındaki topraklar dahil, ordu mensupları oy kullanmaya başladı",
-          "summary": "İsrail'in işgal altında tuttuğu Suriye, Lübnan ve Filistin toprakları dahil, 27 Ekim'de yapılacak parlamento seçimleri için ordu genelinde askerlerin ve komutanların oy kullanma işlemleri başladı. İsrail ordusundan yapılan açıklamada, tüm bölgelerde 850'den fazla merkezde asker ve komutanların oy kullanacağı kaydedildi. Açıklamada, 26'ncı İsrail Meclisi seçimleri için oylamanın bugün itibarıyla askeri üsler ve karakollarda kurulan merkezlerde başladığı belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/israil-isgali-altindaki-topraklar-dahil-ordu-mensuplari-oy-kullanmaya-basladi-1747317"
-        },
-        {
-          "title": "NATO’dan kritik adım! Karadeniz’de harekete geçti",
-          "summary": "NATO, bölgedeki gemilere yönelik insansız hava aracı saldırılarının ardından Karadeniz'e daha fazla deniz devriye uçağı, radar sistemi ve insansız hava aracı göndereceğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/natodan-kritik-adim-karadenizde-harekete-gecti-43349553"
-        },
-        {
-          "title": "Elon Musk’tan Ukrayna’ya Starlink freni",
-          "summary": "Wall Street Journal'ın haberine göre, uzay teknolojileri şirketi SpaceX'in CEO'su Elon Musk, Ukrayna'nın savaş alanındaki iletişim ve insansız hava aracı operasyonlarında kullandığı Starlink uydu hizmetinin askeri amaçlı bir versiyonunun yavaşlatılması talimatını verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/elon-musktan-ukraynaya-starlink-freni-43349542"
-        },
-        {
-          "title": "İngiltere'de kamu borcu ilk kez 3 trilyon sterlin sınırını geçti",
-          "summary": "İngiltere'de tüketici enflasyonu ve kamu borçlanması eylül ayında beklentilerin üzerinde artarak İşçi Partisi hükümeti üzerindeki mali baskıyı tırmandırdı. İngiltere'de hayat pahalılığı ve devletin borçlanma ihtiyacı eylül ayında tahminlerin üzerinde artış kaydetti. Bugün yayımlanan resmi veriler, haftaya ilk bütçesini açıklamaya hazırlanan İşçi Partisi hükümeti üzerindeki mali baskıyı artırdı. Başbakan Andy Burnham hükümetinin ilk bütçesini 28 Ekim'de Maliye Bakanı John Healey sunacak.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ingilterede-kamu-borcu-ilk-kez-3-trilyon-sterlin-sinirini-gecti-1747316"
-        },
-        {
-          "title": "ABD'nin 1 trilyon doları aşan faiz faturası bütçeyi zorluyor",
-          "summary": "ABD'de federal hükümetin ulusal borcu için ödediği net faiz tutarı, 30 Eylül'de sona eren 2026 mali yılında 1 trilyon doları aşarak bütçe üzerindeki yükü ağırlaştırıyor. Ülkenin 40,4 trilyon dolara ulaşan ulusal borcu, federal hükümetin borçlanma maliyetlerini yukarı çekmeye devam ediyor. Son yılların en yüksek seviyelerini gören Hazine tahvili getirileri ise faiz faturasını kabartıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdnin-1-trilyon-dolari-asan-faiz-faturasi-butceyi-zorluyor-1747314"
-        },
-        {
-          "title": "Netanyahu'nun planı deşifre oldu: Trump'a takıldı",
-          "summary": "İngiliz Financial Times gazetesi, İsrail Başbakanı Binyamin Netanyahu'nun, İran’a yönelik yeni saldırılar için hazırlık yaptığı ancak ABD Başkanı Donald Trump tarafından engellendiğini yazdı.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-plani-desifre-oldu-trumpa-takildi-43349415"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "ekonomi": {
-      "text": "Borsa günü yükselişle tamamladı. Egelilerden Madrid çıkarması. 'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde. İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek. Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek.",
-      "items": [
-        {
-          "title": "Borsa günü yükselişle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915"
-        },
-        {
-          "title": "Egelilerden Madrid çıkarması",
-          "summary": "2026’NIN ocak-eylül döneminde ihracatlarını yüzde 42’lik artışla 3 milyar 170 milyon dolara çıkaran yaş meyve sebze ihracatçıları, yılı sonunda bu rakımı 5 milyar dolara çıkarmak için İspanya’nın başkenti Madrid’de düzenlenen Fruit Attraction Fuarı’na katıldı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egelilerden-madrid-cikarmasi-43348595"
-        },
-        {
-          "title": "'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'",
-          "summary": "Ticaret Bakanlığı \"2026 yılının ilk 9 ayında gerçekleştirilen 4 bin 890 farklı operasyonda, 91 milyar 720 milyon TL değerinde ticari eşya ve uyuşturucu madde ele geçirildi.\" açıklamasında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/yilinin-ilk-9-ayinda-91-milyar-720-milyon-tllik-ticari-esya-ve-uyusturucu-ele-gecirildi-43346707"
-        },
-        {
-          "title": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek",
-          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz başkanlığında 6'ncı Fon Kurulu Toplantısı gerçekleştirildi. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıkların ilgili kurum ve kuruluşları katıldı. Konuya ilişkin Kanun Teklifinin önümüzdeki hafta Genel Kurulda görüşülmesi öngörülüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/altinci-fon-kurulu-toplantisi-gerceklesti-43346459"
-        },
-        {
-          "title": "Eroğlu, EBSO yönetiminde",
-          "summary": "CEMER Holding Yönetim Kurulu Başkanı Fuat Eroğlu, Ege Bölgesi Sanayi Odası’nın (EBSO) yeni yönetim kuruluna seçildi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/eroglu-ebso-yonetiminde-43346208"
-        },
-        {
-          "title": "İzmir Limanı 1,5 milyar dolarlık yatırımla yenilenecek",
-          "summary": "Türkiye Varlık Fonu (TVF) mülkiyetindeki TVF İzmir Limanı, büyük tonajlı gemilere hizmet verebilmesi ve yük elleçleme kapasitesinin artırılması amacıyla iki fazda toplam 1,5 milyar dolarlık yatırımla modernize edilecek.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izmir-limani-1-5-milyar-dolarlik-yatirimla-yenilenecek-43345323"
-        },
-        {
-          "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödenecek",
-          "summary": "Genel bütçe kapsamındaki kamu idareleri personeline gelecek yıl 6,3 trilyon lira nakdi ödeme planlanıyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kamu-personeline-gelecek-yil-6-3-trilyon-lira-odenecek-43344687"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "spor": {
-      "text": "Arda Güler için Real Madrid'e 'rol' mesajı: Liderlik etmeli!. Trabzonspor üç eksikle, yarın sahasında Hearts ile karşılaşacak. NBA'de Thunder, sezona Spurs galibiyetiyle başladı. EuroLeague'de 'Türk derbisi'. Fenerbahçe-Slavia Prag maçı sonrası Nihat Kahveci, İsmail Kartal'a seslendi: Bugün istifa et!. Fenerbahçe-Slavia Prag maçı sonrası belli oldu! Ülke puanında son durum. Fenerbahçe-Slavia Prag maçı sonrası Fransa'da Guendouzi manşet oldu: Batırdı!.",
-      "items": [
-        {
-          "title": "Arda Güler için Real Madrid'e 'rol' mesajı: Liderlik etmeli!",
-          "summary": "A Milli Futbol Takımı'mızın ve Real Madrid'in yıldızı Arda Güler için İspanya'da Mourinho'ya önemli bir çağrı geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-guler-icin-real-madride-rol-mesaji-liderlik-etmeli-43349545"
-        },
-        {
-          "title": "Trabzonspor üç eksikle, yarın sahasında Hearts ile karşılaşacak",
-          "summary": "Trabzonspor, UEFA Konferans Ligi'nin ikinci haftasında yarın İskoçya'nın Hearts takımını konuk edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-uc-eksikle-yarin-sahasinda-hearts-ile-karsilasacak-43349614"
-        },
-        {
-          "title": "NBA'de Thunder, sezona Spurs galibiyetiyle başladı",
-          "summary": "NBA'de Oklahoma City Thunder, San Antonio Spurs'ü 116-104 yendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nbade-thunder-sezona-spurs-galibiyetiyle-basladi-43349605"
-        },
-        {
-          "title": "EuroLeague'de 'Türk derbisi'",
-          "summary": "EuroLeague’in 7. haftasında Anadolu Efes, yarın sahasında Beşiktaş ile karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-turk-derbisi-43349594"
-        },
-        {
-          "title": "Fenerbahçe-Slavia Prag maçı sonrası Nihat Kahveci, İsmail Kartal'a seslendi: Bugün istifa et!",
-          "summary": "Fenerbahçe'nin son dakikalarda kalesinde gol görmesi sonrası 2-2'lik beraberlikle sona eren Slavia Prag maçını, Türk futbolunun unutulmaz golcülerinden Nihat Kahveci yorumladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-slavia-prag-maci-sonrasi-nihat-kahveci-ismail-kartala-seslendi-bugun-istifa-et-43349452"
-        },
-        {
-          "title": "Fenerbahçe-Slavia Prag maçı sonrası belli oldu! Ülke puanında son durum",
-          "summary": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nde Slavia Prag ile 2-2 berabere kalmasının ardından ülke puanında son durum ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-slavia-prag-maci-sonrasi-belli-oldu-ulke-puaninda-son-durum-43349386"
-        },
-        {
-          "title": "Fenerbahçe-Slavia Prag maçı sonrası Fransa'da Guendouzi manşet oldu: Batırdı!",
-          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 3. hafta maçında Slavia Prag ile karşı karşıya geldi. Sarı lacivertliler, 89. dakikaya kadar 2-1 önde götürdüğü müsabakanın 90. dakikasında kalesinde gol gördü ve maç 2-2'lik beraberlikle sonuçlandı. Maç sonrası Avrupa basını, mücadeleyi manşetlerine taşırken Kante Matteo ve Guendouzi'ye Fransız basını ayrı bir parantez açtı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-slavia-prag-maci-sonrasi-fransada-guendouzi-manset-oldu-batirdi-43349286"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
-      "text": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor. Engellenince pes etmedi: Yapay zeka gizlice harita verisi topladı. Elon Musk, Uçan Tesla'yı tanıttı. Yöneticileri masada yemek yiyordu. Yapay zeka ajanları kendi aralarında ne konuştu?. Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti. OpenAI'ın ofisinde gizli dinleme cihazı bulundu: Bir çalışan tutuklandı. Google'dan yapay zeka yarışında yeni hamle: Gemini 4 Argon.",
-      "items": [
-        {
-          "title": "İnternet reklamlarında casus yazılım tehlikesi: Tıklamak gerekmiyor",
-          "summary": "İsrailli bir reklam şirketinin, milyonlarca internet kullanıcısına gösterilen reklamlar aracılığıyla hedefli casus yazılım saldırılarına zemin hazırladığı ortaya çıktı. Kanada'daki Toronto Üniversitesi bünyesinde faaliyet gösteren dijital araştırma kuruluşu Citizen Lab, İsrailli reklam ajansı Discover-Tech'in internet reklamlarını siber gözetleme amacıyla kullanılabilecek bir araca dönüştürdüğünü açıkladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-internet-reklamlarinda-casus-yazilim-tehlikesi-tiklamaya-bile-gerek-yok-1746626"
-        },
-        {
-          "title": "Engellenince pes etmedi: Yapay zeka gizlice harita verisi topladı",
-          "summary": "Çinli Tencent, bağımsız modelleri test etmekle görevli yapay zeka ajanlarının şirket planı dışında internette gezinerek Alibaba'nın harita servisinden bilgi çekmeye çalıştığını kabul etti. Yapay zeka modellerinin kendi başlarına internette gezinip hedefe ulaşmak için sınırları zorlaması, teknoloji dünyasında son aylarda tartışma konusu oluyor. Çinli teknoloji devi Tencent, üçüncü taraf modelleri değerlendirmek için kullanılan yapay zeka ajanlarının şirket iradesi dışında internette dolaştığını kabul etti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-engellenince-pes-etmedi-yapay-zeka-gizlice-harita-verisi-topladi-1746552"
-        },
-        {
-          "title": "Elon Musk, Uçan Tesla'yı tanıttı",
-          "summary": "Elon Musk'ın hayali gerçek oldu. Tesla, SpaceX’in roket teknolojisinden yararlanan iticilerle donatılmış yeni nesil uçan Roadster modelini, inanılması güç bir şovla tanıttı. Dünyanın en zengin insanı ve elektrikli araç devi Tesla'nın CEO'su Elon Musk, elektrikli spor otomobili Roadster’ın yeniden tasarlanan versiyonunu bilim kurgu filmlerini aratmayan bir gösteriyle tanıttı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-elon-musk-ucan-teslayi-tanitti-1746518"
-        },
-        {
-          "title": "Yöneticileri masada yemek yiyordu. Yapay zeka ajanları kendi aralarında ne konuştu?",
-          "summary": "New York'ta teknoloji yatırımları yapan 22 sektör temsilcisi restoranda bir araya gelirken kendilerine ait 14 otonom yapay zeka sistemi sanal ortamda eşzamanlı bir araya geldi. İnsanların komut vermesine ihtiyaç duymadan kendi aralarında örgütlenen ve konuşan yeni nesil otonom yazılımlar, dijital dünyada bağımsız bir toplumsal düzen inşa ediyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yoneticileri-masada-yemek-yiyordu-yapay-zeka-ajanlari-kendi-aralarinda-ne-konustu-1746442"
-        },
-        {
-          "title": "Google en yeni yapay zeka modellerini 200 Avrupalı araştırmacıya açıyor. Zamanlama dikkat çekti",
-          "summary": "ABD merkezli teknoloji devi Google, en yeni ve en gelişmiş yapay zeka modellerini 200 Avrupalı araştırmacıya açacağını duyurdu. Bu hamlenin zamanlaması ise dikkat çekti. Google tarafından İrlanda'nın başkenti Dublin'deki yapay zeka zirvesinde yapılan açıklamada, \"Araştırma ekiplerine hayati önem taşıyan işlem gücü ve en son teknoloji araçlarını doğrudan sunduğumuz bu hamlemizle, inovasyonda Avrupa'ya ivme kazandırmayı ve kıtanın bilimsel rekabet gücünü pekiştirmeyi amaçlıyoruz.\" ifadeleri kullanıldı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-google-en-yeni-yapay-zeka-modellerini-200-avrupali-arastirmaciya-aciyor-zamanlama-dikkat-cekti-1746256"
-        },
-        {
-          "title": "OpenAI'ın ofisinde gizli dinleme cihazı bulundu: Bir çalışan tutuklandı",
-          "summary": "ChatGPT'nin geliştiricisi OpenAI, ofislerinden birinde gizli dinleme cihazı tespit edildiğini açıkladı. Yapay zeka şirketi OpenAI, ABD'nin San Francisco kentindeki ofislerinden birinde gizli kayıt cihazı bulunduğunu duyurdu. ChatGPT'nin geliştiricisi olan şirket, gelişmiş bir dinleme cihazının çalışanlardan biri tarafından yerleştirildiğinin tespit edildiğini ve olayın ABD Federal Soruşturma Bürosuna (FBI) bildirildiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-openaiin-ofisinde-gizli-dinleme-cihazi-bulundu-bir-calisan-tutuklandi-1746200"
-        },
-        {
-          "title": "Google'dan yapay zeka yarışında yeni hamle: Gemini 4 Argon",
-          "summary": "Google, yeni nesil yapay zeka modeli Gemini 4 Argon'u dünya genelinde geliştiricilerin, işletmelerin ve ücretli abonelerin kullanımına açtı. ABD merkezli teknoloji devi Google, en gelişmiş yapay zeka modeli olarak tanıttığı Gemini 4 Argon'u dünya genelinde kullanıma sundu. Alphabet çatısı altında faaliyet gösteren şirket, yeni modeliyle OpenAI ve Anthropic gibi rakipleri karşısında üretken yapay zeka pazarındaki konumunu güçlendirmeyi hedefliyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-googledan-yapay-zeka-yarisinda-yeni-hamle-gemini-4-argon-1746196"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "saglik": {
-      "text": "Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor. Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı. 131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı. Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı. Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek. Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor.",
-      "items": [
-        {
-          "title": "Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor",
-          "summary": "Karamuk meyvesi, tezgahta yerini aldı. Birçok hastalığa iyi geldiğine inanılan bu meyvenin kilosu 70-100 TL arasında değişiyor. Sivas'ın ilçe ve köylerinde dağlık bölgelerde ve yüksek kesimlerde yetişen karamuk meyvesi, kısa süren hasat dönemi sonrası tezgahta yerini aldı. Yaklaşık bir aylık tüketim dönemi bulunan meyve, hem taze olarak hem de reçel ve komposto yapımında kullanılıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-tansiyon-seker-ve-kolesterole-iyi-geliyormus-kurutularak-cay-gibi-iciliyor-1747155"
-        },
-        {
-          "title": "Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı",
-          "summary": "Adana'da kabızlık ve karın ağrısı şikayetiyle hastaneye başvuran 64 yaşındaki Meryem İnce, rektum kanseri tanısı aldı. Ev kadını Meryem İnce, 4 ay önce yaşadığı kabızlık ve karın ağrısı şikayeti üzerine hastaneye başvurdu. Tetkiklerin ardından rektum kanseri tanısı alan İnce, kemoterapi ve radyoterapi tedavilerini tamamladı. Ameliyat aşamasına geldiğinde eşi Azmi İnce (66) ile birlikte araştırma yapan İnce, Çukurova Üniversitesi Tıp Fakültesi Balcalı Hastanesi'nde robotik cerrahi yönteminin uygulandığını öğrendi.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-bu-belirtilere-dikkat-edin-kabizlik-sikayetiyle-gitti-kanser-tanisi-aldi-1746799"
-        },
-        {
-          "title": "131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı",
-          "summary": "Çalışma ve Sosyal Güvenlik Bakanı Prof. Dr. Vedat Işıkhan, 131 ilacın daha geri ödeme listesine alındığını duyurdu. Çalışma ve Sosyal Güvenlik Bakanı Prof. Dr. Vedat Işıkhan, kişisel X hesabında yeni bir duyuru yaptı. 119'u yerli üretim olmak üzere 131 ilacın daha geri ödeme listesine alındığını açıklayan Işıkhan, vatandaşların tedavi imkanlarına ulaşmasını kolaylaştırmak için bu yılın başından itibaren 34'ü kanser ilacı olmak üzere toplam 380 ilacın geri ödeme listesine dahil edildiğini belirtti.",
-          "source": "https://www.ntv.com.tr/saglik/131-ilac-daha-geri-odeme-listesine-alindi-1746586"
-        },
-        {
-          "title": "Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı",
-          "summary": "Zonguldak'ta şiddetli öksürük nöbeti nedeniyle kalp damarı yırtılan 52 yaşındaki kadın, stentle yapay damar yolu oluşturularak hayata bağlandı. Ereğli ilçesinde yaşayan 52 yaşındaki kadın hasta, geçirdiği zatürreye bağlı şiddetli öksürük nöbetinin ardından göğüs ağrısı şikayetiyle hastaneye başvurdu. Muayene sırasında kalp krizi geçirdiği anlaşılan hasta acil olarak anjiyoya alındı.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-milyonda-bir-gorulen-vaka-oksururken-kalp-damari-yirtildi-1746304"
-        },
-        {
-          "title": "Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda",
-          "summary": "Antalya'da botoks yaptırdıktan sonra rahatsızlanan 16 kişi tedavi altına alındı. O kişilerden biri olan F.F, botoks işleminden sonra göz kapağının düştüğünü ardından da yutma güçlüğü yaşamaya başladı. Antalya'da son 3 ayda 16 kişi botoks zehirlenmesi nedeniyle tedaviye alındı. Son 3 ayda botoks yaptırdıktan sonra rahatsızlanan çok sayıda kişi, AÜ Hastanesi'ne başvurdu. Konuşmakta, yutkunmakta ve nefes almakta zorlanan, kaslarında ciddi güçsüzlük yaşayan 16 kişi tedaviye alındı.",
-          "source": "https://www.ntv.com.tr/saglik/antalyada-sahte-botoks-alarmi-16-kisi-hastanelik-oldu-3u-yogun-bakimda-1745947"
-        },
-        {
-          "title": "Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek",
-          "summary": "Süper meyve olarak bilinen aronya, Eskişehir'de toprakla buluştu. Antioksidan değeri en yüksek meyvelerden biri olarak bilinen aronya, sağlığa olan faydalarıyla da dikkat çekiyor. Sağlık açısından sunduğu faydalarla şifali meyvelerden biri olan aronya, özellikle şeker ve kanser hastaları için ek gıda olarak tercih ediliyor. Eskişehir'de yaşayan Erdem Erçam, Eskişehir'in Mihalıççık ilçesine bağlı kırsal Kayı Mahallesi'nde aronya yetiştiriciliği yapıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-super-meyve-toprakla-bulustu-sifa-dagitiyor-antioksidan-degeri-yuksek-1745931"
-        },
-        {
-          "title": "Bağışıklığını güçlendirmek isteyen soluğu orada aldı. Kışın yoğun ilgi görüyor",
-          "summary": "Gaziantep'te kış aylarının gelmesiyle birlikte aktarlarda kış mesaisi başladı. Soğuk algınlığı ve boğaz ağrısı şikayeti yaşayan vatandaşlar bitkisel ürünlere yönelirken, zerdeçal, zencefil, ıhlamur ve hatmi çiçeğinin yanı sıra çeşitli karışımlara da ilgi arttı. Gaziantep'te kış aylarının gelmesi ve yaşanan mevsim geçişleri nedeniyle vatandaşlar, boğaz ağrısı, öksürük, halsizlik ve burun akıntısı gibi şikayetlerle karşılaşıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-bagisikligini-guclendirmek-isteyen-solugu-orada-aldi-kisin-yogun-ilgi-goruyor-1745805"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "magazin": {
-      "text": "Sessiz yürüyüş. Muhabirlere ‘aşk’ sözü.",
-      "items": [
-        {
-          "title": "Sessiz yürüyüş",
-          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
-        },
-        {
-          "title": "Muhabirlere ‘aşk’ sözü",
-          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
-        }
-      ]
+      "text": "",
+      "items": []
     }
   }
 }
