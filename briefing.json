@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-22T16:00:03.699Z",
+  "generatedAt": "2026-10-23T04:00:04.120Z",
   "categories": {
     "gundem": {
-      "text": "Trafoya giren zihinsel engelli hayatını kaybetti. Bakan Kacır'dan yerli navigasyon müjdesi... 2027 yılında yerli navigasyon uygulamasına geçmeye hazırlanıyoruz. Nobel ödüllü Aziz Sancar, Diyarbakır’da öğrencilerle buluştu. İletişim Başkanlığı: Güçlü ve mukavemetli Türkiye-Kanada ortaklığı hayati öneme sahiptir. Türkiye ile Kanada arasında 3 anlaşma imzalandı. Bakan Işıkhan: 18 bin 441 öğrencimize 609 milyon lira ödeyeceğiz. İzmir'de vahşet! Polis memuru, avukat nişanlısı Özge Penbegül'ü öldürüp intihar etti.",
+      "text": "Çukurova Belediyesi soruşturması: Başkan Emrah Kozay dahil 34 şüpheli tutuklandı. Fon teklifi Meclis'te kabul edildi. Yatırımcılara ödemeler ne zaman başlayacak?. Trabzonspor'un yıldızı maç sonrası kaza geçirdi. Eyüpsultan’da 5 katlı riskli bina tahliye edilerek mühürlendi. Bakan Kacır: Organize sanayi bölgelerimizi büyütmeye devam ediyoruz. Cemil Tugay, AK Parti'ye geçiş sürecini anlattı: Bir yol ayrımına gelmek zorunda kaldım. Son dakika... Alihan Kuriş suç örgütüne yönelik operasyonda flaş gelişme.",
       "items": [
         {
-          "title": "Trafoya giren zihinsel engelli hayatını kaybetti",
-          "summary": "ANKARA'da trafoya giren zihinsel engelli Durali Yaz (74), elektrik akımına kapılarak hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/trafoya-giren-zihinsel-engelli-hayatini-kaybetti-43351485"
+          "title": "Çukurova Belediyesi soruşturması: Başkan Emrah Kozay dahil 34 şüpheli tutuklandı",
+          "summary": "Çukurova Belediyesi soruşturmasında başkan Emrah Kozay dahil 34 şüpheli tutuklandı",
+          "source": "https://www.hurriyet.com.tr/gundem/cukurova-belediyesi-sorusturmasi-baskan-emrah-kozay-dahil-34-supheli-tutuklandi-43351753"
         },
         {
-          "title": "Bakan Kacır'dan yerli navigasyon müjdesi... 2027 yılında yerli navigasyon uygulamasına geçmeye hazırlanıyoruz",
-          "summary": "SANAYİ ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Yerli harita ve navigasyon uygulamasını önemsiyoruz. Bunu stratejik bir alan olarak görüyoruz. Sivil gördüğümüz uygulamaların aslında veri güvenliği açısından ne kadar önemli olduğunu hepimiz fark ediyoruz. 2027 yılı başından itibaren telefonlarımızdaki yabancı uygulamaların hepsini silmeye ve tümüyle yerli-milli navigasyon uygulaması kullanmaya hazırlanıyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacirdan-yerli-navigasyon-mujdesi-2027-yilinda-yerli-navigasyon-uygulamasina-gecmeye-hazirlaniyoruz-43351473"
+          "title": "Fon teklifi Meclis'te kabul edildi. Yatırımcılara ödemeler ne zaman başlayacak?",
+          "summary": "Fonların tasfiyesine ilişkin kanun teklifi, TBMM Genel Kurulu'nda kabul edildi. Düzenlemeyle, 1 milyon liraya kadar yapılacak ara ödemelerin önü açıldı. Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı. Düzenlemeyle birlikte yatırımları 1 milyon lira ve 1 milyonun liranın altında olanlara yatırımları kadar, üzerinde olanlara ise en fazla 1 milyon lira ödeme yapılacak.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-teklifi-mecliste-kabul-edildi-1747532"
         },
         {
-          "title": "Nobel ödüllü Aziz Sancar, Diyarbakır’da öğrencilerle buluştu",
-          "summary": "Diyarbakır’da Dicle Üniversitesi’nde öğrencilerle bir araya gelen Nobel ödüllü bilim insanı Prof. Dr. Aziz Sancar, ‘Bir ömür bilime, bir ömür insanlığa’ başlıklı söyleşiye katıldı. Sancar, beyin kanseri tedavisine ilişkin yaptığı sunumda, \"Biz tedavi konusunda önemli ilerleme yaptık. Fakat bu insanlarda çalışır mı çalışmaz mı bilmiyorum. Bunu bilmek için daha çok çalışmalar yapmak lazım\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/nobel-odullu-aziz-sancar-diyarbakirda-ogrencilerle-bulustu-43351467"
+          "title": "Trabzonspor'un yıldızı maç sonrası kaza geçirdi",
+          "summary": "Trabzonspor'un kalecisi Andre Onana, UEFA Konferans Ligi'ndeki Hearts maçının ardından evine dönerken zincirleme trafik kazasına karıştı. UEFA Konferans Ligi'nin 2'nci haftasında sahasında İskoç ekibi Hearts'ı 2-0 mağlup eden Trabzonspor'un kalecisi Andre Onana, ailesiyle birlikte evine dönerken trafik kazası geçirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/trabzonsporun-yildizi-mac-sonrasi-kaza-gecirdi-1747555"
         },
         {
-          "title": "İletişim Başkanlığı: Güçlü ve mukavemetli Türkiye-Kanada ortaklığı hayati öneme sahiptir",
-          "summary": "CUMHURBAŞKANLIĞI İletişim Başkanlığı, \"Giderek karmaşıklaşan küresel güvenlik ortamı, artan jeopolitik belirsizlikler ve gelişen insani sınamalar karşısında, ortak tehditleri azaltmak ve yeni fırsatları değerlendirmek için bir temel oluşturan güçlü ve mukavemetli bir Türkiye-Kanada ortaklığı hayati önemdedir\" açıklamasını yaptı.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskanligi-guclu-ve-mukavemetli-turkiye-kanada-ortakligi-hayati-oneme-sahiptir-43351470"
+          "title": "Eyüpsultan’da 5 katlı riskli bina tahliye edilerek mühürlendi",
+          "summary": "İstanbul Eyüpsultan’da 5 katlı binanın kolonlarından ses gelmesi üzerine vatandaşlar tahliye edildi. Çalışma sonrası zabıta ekipleri tedbir amaçlı binayı mühürledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/eyupsultanda-5-katli-riskli-bina-tahliye-edilerek-muhurlendi-43351725"
         },
         {
-          "title": "Türkiye ile Kanada arasında 3 anlaşma imzalandı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Kanada Başbakanı Mark Carney'in huzurunda iki ülke arasında 3 anlaşma imzalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ile-kanada-arasinda-3-anlasma-imzalandi-43351453"
+          "title": "Bakan Kacır: Organize sanayi bölgelerimizi büyütmeye devam ediyoruz",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Burdur Batı Organize Sanayi Bölgesi ile Amasya Gümüşhacıköy Organize Sanayi Bölgesi'ni duyurarak, organize sanayi bölgelerini büyütmeye devam ettiklerini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-organize-sanayi-bolgelerimizi-buyutmeye-devam-ediyoruz-43351684"
         },
         {
-          "title": "Bakan Işıkhan: 18 bin 441 öğrencimize 609 milyon lira ödeyeceğiz",
-          "summary": "ÇALIŞMA ve Sosyal Güvenlik Bakanı Vedat Işıkhan, şehit çocukları ile harp ve vazife malullerine ve çocuklarına yönelik eğitim öğretim yardımı ödemelerinin 23 Ekim'de gerçekleştirileceğini belirterek, 2026- 2027 eğitim öğretim döneminde 18 bin 441 öğrenciye 609 milyon liralık ödeme yapılacağını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-isikhan-18-bin-441-ogrencimize-609-milyon-lira-odeyecegiz-43351448"
+          "title": "Cemil Tugay, AK Parti'ye geçiş sürecini anlattı: Bir yol ayrımına gelmek zorunda kaldım",
+          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, \"Cumhurbaşkanı'mızı Türkiye'nin yetiştirdiği ama özellikle son 25 yılına damgasını vurmuş, en güçlü, birikimli, değerli siyasetçilerinden birisi olarak görüyorum. Bunun tersini zaten kimse söyleyemez. Bu kendisinin çalışmasıyla, aklıyla, becerisiyle olmuştur ve 100-200 yıl sonra da kendisi eminim yaptığı iyi şeylerle, bu ülkeye yaptığı hizmetlerle anılacaktır.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cemil-tugay-ak-partiye-gecis-surecini-anlatti-bir-yol-ayrimina-gelmek-zorunda-kaldim-43351673"
         },
         {
-          "title": "İzmir'de vahşet! Polis memuru, avukat nişanlısı Özge Penbegül'ü öldürüp intihar etti",
-          "summary": "İzmir'in Menemen ilçesinde polis memuru Aykut Erol, 3 Ekim'de nişanlandığı avukat Özge Penbegül'ü tabancayla öldürüp, intihar etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirde-vahset-polis-memuru-avukat-nisanlisi-ozge-penbegulu-oldurup-intihar-etti-43351392"
+          "title": "Son dakika... Alihan Kuriş suç örgütüne yönelik operasyonda flaş gelişme",
+          "summary": "Son dakika haberi... Ankara Cumhuriyet Başsavcılığı koordinesinde, Alihan Kuriş suç örgütüne yönelik operasyonda gözaltına alınan şüphelilerden 19’u tutuklandı, 5’i adli kontrol şartıyla serbest bırakıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-alihan-kuris-suc-orgutune-yonelik-operasyonda-flas-gelisme-43351642"
         }
       ]
     },
     "dunya": {
-      "text": "Trump'tan İran'a suçlama: Seçim öncesi petrol fiyatlarını yükseltmeye çalışıyorlar. Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem. Cumhurbaşkanı Erdoğan: Kanada ile ilişkilerimizi stratejik ortaklığa yükseltiyoruz. Pentagon, Lockheed Martin ile anlaştı. 850 adet F-35 üretilecek. Çok dedikodu yapanlarda bu kişilik özelliği öne çıkıyor. Netanyahu'dan İran talimatı! 'Trump işi bitirmeye hazır'. İlk kez bir insanda tespit edilen Shamonda virüsü Fransa'da can aldı.",
+      "text": "Netanyahu’nun planı tartışma yarattı: Seçime günler kala gelen hamle! ‘1991 Irak’ına benzer görüntüler göreceğiz!’. İstanbul'da 7 bakanlı kritik zirve. İngiltere'de hükümetten halka çağrı. \"3 günlük gıda ve su stoklayın\". Trump bu defa LeBron James'i hedef aldı. \"Özür dilemeli\". Çin'de 7 büyüklüğünde deprem. 16 kişi hayatını kaybetti. Zelenskiy'den ABD'nin Rusya'ya yaptırımları askıya almasının \"Putin'i güçlendireceği\" mesajı. İran’dan ABD’ye mesaj: İran'la savaşın hiçbir faydası olmayacak.",
       "items": [
         {
-          "title": "Trump'tan İran'a suçlama: Seçim öncesi petrol fiyatlarını yükseltmeye çalışıyorlar",
-          "summary": "ABD Başkanı Donald Trump, İran'ı 3 Kasım'daki ara seçimler öncesinde petrol fiyatlarını yükseltmeye çalışmakla suçladı. ABD Başkanı Donald Trump, sosyal medya platformu Truth Social üzerinden yaptığı açıklamada İran yönetimini hedef aldı. İran'ın ABD'de yaklaşan ara seçimler öncesinde petrol fiyatlarını yükseltmek için her yolu denediğini savunan Trump, Tahran yönetiminin saldırılar ve deniz mayınları konusunda gerçeği yansıtmayan iddialar ortaya attığını öne sürdü.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-irana-suclama-petrol-fiyatlarini-yukseltmeye-calisiyorlar-1747527"
+          "title": "Netanyahu’nun planı tartışma yarattı: Seçime günler kala gelen hamle! ‘1991 Irak’ına benzer görüntüler göreceğiz!’",
+          "summary": "İsrail’de seçim yarışı kızışırken Netanyahu’nun gündeme gelen son hamlesi, yalnızca sandığın sonucunu değil, bölgenin geleceğini de etkileyebilir. Ancak bu kez asıl dikkat çeken, atılacak adım kadar perde arkasındaki hesaplar. Washington’ın tutumu, Tahran’ın olası yanıtı ve İsrail’in siyasi geleceği aynı denklemde buluşurken, kritik kararın ne zaman ve nasıl alınacağı merak konusu. Peki, yaklaşan seçimlerin gölgesinde hangi senaryo öne çıkıyor ve bu hamlenin sonuçları nerelere uzanabilir?",
+          "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-plani-tartisma-yaratti-secime-gunler-kala-gelen-hamle-1991-irakina-benzer-goruntuler-gorecegiz-43350896"
         },
         {
-          "title": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem",
-          "summary": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/cinin-tibet-ozerk-bolgesinde-7-buyuklugunde-deprem-43351460"
+          "title": "İstanbul'da 7 bakanlı kritik zirve",
+          "summary": "İstanbul yarın önemli bir toplantıya ev sahipliği yapacak. 7 ülkenin dışişleri bakanları bir araya gelecek. Türkiye, Mısır, Pakistan ve Suudi Arabistan'dan oluşan ve \"bölgesel dörtlü\" olarak tanımlanan ülkelerinin dışişleri bakanları; İngiltere, Almanya ve Fransa'nın dışişleri bakanları ile toplantı yapacak.",
+          "source": "https://www.ntv.com.tr/dunya/istanbulda-7-bakanli-onemli-zirve-1747477"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: Kanada ile ilişkilerimizi stratejik ortaklığa yükseltiyoruz",
-          "summary": "Cumhurbaşkanı Erdoğan, Kanada ile tarihi bir adım atıldığını söyleyerek iki ülke arasındaki ilişkilerin stratejik ortaklığa yükseltildiğini belirtti. Kanada'dan Türkiye'ye başbakan düzeyinde ilk ziyaret bugün gerçekleşti. Kanada Başbakanı Mark Carney'i Cumhurbaşkanı Recep Tayyip Erdoğan resmmi törenle karşıladı. Daha sonra heyetler arası görüşmelere geçildi. Türkiye ve Kanada arasında 3 anlaşma imzalanırken, liderler daha sonra ortak basın toplantısı gerçekleştirdi.",
-          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-kanada-basbakani-carneyi-resmi-torenle-karsiladi-1747503"
+          "title": "İngiltere'de hükümetten halka çağrı. \"3 günlük gıda ve su stoklayın\"",
+          "summary": "İngiliz hükümeti aşırı hava olayları, siber saldırılar ve güvenlik tehditlerine karşı vatandaşlara en az 3 gün yetecek kadar gıda ve su stoku yapmaları tavsiyesinde bulundu. İngiltere hükümeti \"Be Ready (Hazırlıklı Ol)\" kampanyası başlattı. Bu kapsamda hanelerin doğal afetler, siber saldırılar ve kritik altyapılarda meydana gelebilecek aksamalara karşı hazırlıklı olması amaçlanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/ingilterede-hukumetten-halka-cagri-3-gunluk-gida-ve-su-stoklayin-1747554"
         },
         {
-          "title": "Pentagon, Lockheed Martin ile anlaştı. 850 adet F-35 üretilecek",
-          "summary": "ABD Savunma Bakanlığı'nın (Pentagon), Lockheed Martin şirketiyle 10 yılda en az 850 adet \"F-35 Lightning II\" model savaş uçağı üretimini içeren çerçeve anlaşma imzaladığı bildirildi. Pentagon'dan yapılan yazılı açıklamaya göre, F-35 savaş uçaklarının üreticisi Lockheed Martin ile işbirliğinde yeni adım atıldı. Firma ile \"F-35 Lightning II\" model savaş uçaklarının üretimi ve bakımına yönelik çerçeve anlaşmaya varıldı.",
-          "source": "https://www.ntv.com.tr/dunya/pentagon-lockheed-martin-ile-anlasti-850-adet-f-35-uretilecek-1747521"
+          "title": "Trump bu defa LeBron James'i hedef aldı. \"Özür dilemeli\"",
+          "summary": "ABD Başkanı Donald Trump, Amerikan ulusal marşı okunurken marşı dinlemeyerek \"saygısızlık\" yaptığını belirttiği NBA yıldızı LeBron James'in özür dilemesi gerektiğini savundu. ABD Başkanı Trump, salı akşamı oynanan New York Knicks-Philadelphia 76ers maçı öncesinde Amerikan ulusal marşı okunduğu sırada yaptığı hareketlerle gündeme gelen James'e tepki gösterdi.",
+          "source": "https://www.ntv.com.tr/dunya/trump-bu-defa-lebron-jamesi-hedef-aldi-ozur-dilemeli-1747552"
         },
         {
-          "title": "Çok dedikodu yapanlarda bu kişilik özelliği öne çıkıyor",
-          "summary": "Yeni bir araştırma, sık sık dedikodu yapma eğilimi ile bazı kişilik özellikleri arasında bağlantı olduğunu ortaya koydu. Özellikle psikopatik özelliklerin, hem dedikodu sıklığı hem de başkalarının itibarını zedelemeye yönelik konuşmalarla güçlü biçimde ilişkili olduğu belirlendi.",
-          "source": "https://www.hurriyet.com.tr/dunya/cok-dedikodu-yapanlarda-bu-kisilik-ozelligi-one-cikiyor-43351409"
+          "title": "Çin'de 7 büyüklüğünde deprem. 16 kişi hayatını kaybetti",
+          "summary": "Çin'in Tibet bölgesinde 7 büyüklüğünde deprem meydana geldi. Yerin 10 kilometre derinliğinde gerçekleşen depremde 16 kişi hayatını kaybetti, 32 yaralı var. Çin'in güneybatısındaki Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi. Depremde 16 kişi hayatını kaybetti, 32 kişi yaralandı. Çin Deprem Ağları Merkezi (CENC), depremin perşembe günü yerel saatle 22.33'te (TSİ 17.33) kaydedildiğini açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/cinde-7-buyuklugunde-deprem-1747530"
         },
         {
-          "title": "Netanyahu'dan İran talimatı! 'Trump işi bitirmeye hazır'",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu, İsrail ordusu ve Mossad'a da talimat verdiğini açıkladı. Netanyahu, İran'ın “varoluşsal tehdit” olduğunu öne sürdü ve ABD Başkanı Donald Trump'ın İran konusunda “işi bitirmeye hazır” olduğunu iddia etti. Öte yandan İran, Hürmüz Boğazı'nda yer alan internet kablolarını kesmekle tehdit etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahudan-iran-talimati-trump-isi-bitirmeye-hazir-43351325"
+          "title": "Zelenskiy'den ABD'nin Rusya'ya yaptırımları askıya almasının \"Putin'i güçlendireceği\" mesajı",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın Rusya'ya yönelik yaptırımları geçici olarak askıya alması kararının Rusya Devlet Başkanı Vladimir Putin'i \"daha da güçlendireceği\" mesajını verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenskiyden-abdnin-rusyaya-yaptirimlari-askiya-almasinin-putini-guclendirecegi-mesaji-43351620"
         },
         {
-          "title": "İlk kez bir insanda tespit edilen Shamonda virüsü Fransa'da can aldı",
-          "summary": "Fransa'da, normalde hayvanlarda görülen Shamonda virüsü ilk kez bir insanda tespit edildi. Bugüne kadar insanlara bulaşmadığı kabul edilen virüsün tespit edildiği hasta hayatını kaybetti. Fransa Sağlık Bakanlığından yapılan açıklamada, Lyon'da ekim ayı başında yaşamını yitiren bir hastada Shamonda virüsü tespit edildiği belirtildi. Hastanın normalde hayvanlar arasında görülen virüsü sivrisinek ısırığı yoluyla kaptığının düşünüldüğü aktarıldı.",
-          "source": "https://www.ntv.com.tr/dunya/ilk-kez-bir-insanda-tespit-edilen-shamonda-virusu-fransada-can-aldi-1747519"
+          "title": "İran’dan ABD’ye mesaj: İran'la savaşın hiçbir faydası olmayacak",
+          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD yönetimi ve halkına seslenerek, İran'la olası bir savaşın ABD'ye fayda sağlamayacağını aksine ağır sonuçlara yol açacağını söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdye-mesaj-iranla-savasin-hicbir-faydasi-olmayacak-43351571"
         }
       ]
     },
     "ekonomi": {
-      "text": "Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu. Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız. Borsa günü yükselişle tamamladı. Egelilerden Madrid çıkarması. 'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek. Eroğlu, EBSO yönetiminde.",
+      "text": "Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi. Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu. Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız. Borsa günü yükselişle tamamladı. Egelilerden Madrid çıkarması. 'Yılının ilk 9 ayında 91 milyar 720 milyon TL'lik ticari eşya ve uyuşturucu ele geçirildi'. Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek.",
       "items": [
+        {
+          "title": "Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi",
+          "summary": "Son dakika haberi... Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulu'nda kabul edilerek yasalaştı. Düzenlemeye göre, net yatırım tutarı 1 milyon liranın altında olan yatırımcılara net yatırım tutarları kadar, 1 milyon lira ve üzerinde olan yatırımcılar için ise en fazla 1 milyon lira ara ödeme yapılabilecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-bazi-yatirim-fonlari-hakkindaki-kanun-teklifi-mecliste-kabul-edildi-43351547"
+        },
         {
           "title": "Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu",
           "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturmalarına ilişkin, \"Yatırımcı ile manipülatörü birbirine karıştırmadan titiz bir şekilde adli ve idari süreçleri hayata geçiriyoruz, geçirmeye devam edeceğiz. İnanıyorum ki mevcut sorunların aşılması ile sermaye piyasalarımız yoluna çok daha güçlü bir şekilde devam edecek, yatırımcılarına da ülke ekonomisine de kazandıracaktır.\" dedi.",
@@ -115,51 +120,46 @@
           "title": "Fon Kurulu'nun 6'ncı toplantısı sona erdi... Kanun teklifi haftaya TBMM'de görüşülecek",
           "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz başkanlığında 6'ncı Fon Kurulu Toplantısı gerçekleştirildi. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıkların ilgili kurum ve kuruluşları katıldı. Konuya ilişkin Kanun Teklifinin önümüzdeki hafta Genel Kurulda görüşülmesi öngörülüyor.",
           "source": "https://www.hurriyet.com.tr/gundem/altinci-fon-kurulu-toplantisi-gerceklesti-43346459"
-        },
-        {
-          "title": "Eroğlu, EBSO yönetiminde",
-          "summary": "CEMER Holding Yönetim Kurulu Başkanı Fuat Eroğlu, Ege Bölgesi Sanayi Odası’nın (EBSO) yeni yönetim kuruluna seçildi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/eroglu-ebso-yonetiminde-43346208"
         }
       ]
     },
     "spor": {
-      "text": "Bruno Fernandes’ten teknik direktörü Carrick’e taktik eleştirisi. Arsenal'de Saka'nın sakatlığı Arteta'yı endişelendiriyor. Sergen Yalçın'ın A Milli Takım'daki teknik ekibi belli oldu!. Ertuğrul Doğan: 'Kim gerekiyorsa alacağız!'. Yunan basketbolunda şike ve rüşvet skandalı! Ergin Ataman'ın sözleri yeniden gündem oldu. Fenerbahçe Tarfin EuroLeague'de Olympiakos'a konuk olacak!. Alperen Şengün'den sezona double double başlangıç!.",
+      "text": "Olaitan ve Ndidi, Crystal Palace maçı sonrası konuştu: Beşiktaş'ta oynamanın ne demek olduğunu gösterdik. Pierre Sage'den maç sonu Beşiktaş itirafı!. Vincenzo Italiano: 'İyi iş çıkardık, bizim için önemliydi'. Beşiktaş-Crystal Palace maçının kahramanı Olaitan, ilke imza attı! Muhteşem gol. Beşiktaş'ta Miretti şoku! Devam edemedi. Trabzonspor-Hearts maçı sonrası Ozan Tufan, Cenk Özkacar ve Batista Mendy konuştu: Çok iyi arkadaşlarımız var. Thomas Reis: 'Hak ettiğimiz bir galibiyet oldu'.",
       "items": [
         {
-          "title": "Bruno Fernandes’ten teknik direktörü Carrick’e taktik eleştirisi",
-          "summary": "UEFA Şampiyonlar Ligi’nde İtalyan ekibi Como’ya deplasmanda 4-1 yenilen Manchester United'ın kaptanı Bruno Fernandes, maçın ardından teknik direktör Michael Carrick’in oyun planını eleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bruno-fernandesten-teknik-direktoru-carricke-taktik-elestirisi-43351407"
+          "title": "Olaitan ve Ndidi, Crystal Palace maçı sonrası konuştu: Beşiktaş'ta oynamanın ne demek olduğunu gösterdik",
+          "summary": "Beşiktaş'ın Crystal Palace ile oynadığı ve 2-2 berabe kaldığı maç sonrası Olaitan ile Ndidi açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/olaitan-ve-ndidi-crystal-palace-maci-sonrasi-konustu-besiktasta-oynamanin-ne-demek-oldugunu-gosterdik-43351689"
         },
         {
-          "title": "Arsenal'de Saka'nın sakatlığı Arteta'yı endişelendiriyor",
-          "summary": "Premier Lig takımlarından Arsenal'in teknik direktörü Mikel Arteta, Bayern Münih maçında sakatlanan Bukayo Saka'nın durumunun iyi görünmediğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arsenalde-sakanin-sakatligi-artetayi-endiselendiriyor-43351332"
+          "title": "Pierre Sage'den maç sonu Beşiktaş itirafı!",
+          "summary": "Crystal Palace Teknik Direktörü Pierre Sage, maçın genelinde oyunu Beşiktaş’tan daha fazla kontrol ettiklerini ve rakibi oynatmamaya çalıştıklarını söyledi",
+          "source": "https://www.hurriyet.com.tr/sporarena/pierre-sageden-mac-sonu-besiktas-itirafi-43351693"
         },
         {
-          "title": "Sergen Yalçın'ın A Milli Takım'daki teknik ekibi belli oldu!",
-          "summary": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın'ın ekibinde görev yapacak isimler belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcinin-a-milli-takimdaki-teknik-ekibi-belli-oldu-43351286"
+          "title": "Vincenzo Italiano: 'İyi iş çıkardık, bizim için önemliydi'",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Crystal Palace ile 2-2 berabere kaldıkları maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-iyi-is-cikardik-bizim-icin-onemliydi-43351690"
         },
         {
-          "title": "Ertuğrul Doğan: 'Kim gerekiyorsa alacağız!'",
-          "summary": "Trabzonspor Başkanı Ertuğrul Doğan, teknik direktör Thomas Reis, Muhammed Salah ve ara transferle ilgili soruları cevapladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ertugrul-dogan-kim-gerekiyorsa-alacagiz-43351202"
+          "title": "Beşiktaş-Crystal Palace maçının kahramanı Olaitan, ilke imza attı! Muhteşem gol",
+          "summary": "Beşiktaş, 2-1 geriye düştüğü Crystal Palace müsabakasından 2-2'lik eşitlikle ayrıldı ve Avrupa'da yoluna kayıpsız devam etti. Beşiktaş'a maçın kaharamanı ve 2. golü sahibi Olaitan, kariyerinde bir ilki yaşadı. İşte Beşiktaş-Crystal maçına dair önemli ayrıntılar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-crystal-palace-macinin-kahramani-olaitan-ilke-imza-atti-muhtesem-gol-43351676"
         },
         {
-          "title": "Yunan basketbolunda şike ve rüşvet skandalı! Ergin Ataman'ın sözleri yeniden gündem oldu",
-          "summary": "Yunanistan Basketbol Federasyonu Başkanı Vangelis Liolios ile aralarında hakemlerin de bulunduğu 5 kişi şike ve rüşvet suçlamalarıyla gözaltına alınmasının ardından Ergin Ataman'ın sözleri yeniden gündem oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/yunan-basketbolunda-sike-ve-rusvet-skandali-ergin-atamanin-sozleri-yeniden-gundem-oldu-43351000"
+          "title": "Beşiktaş'ta Miretti şoku! Devam edemedi",
+          "summary": "Beşiktaş'ta Orkun Kökçü'nün yokluğunda orta sahada görev alan Fabio Miretti, Crystal Palace maçında sakatlandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-miretti-soku-devam-edemedi-43351638"
         },
         {
-          "title": "Fenerbahçe Tarfin EuroLeague'de Olympiakos'a konuk olacak!",
-          "summary": "Fenerbahçe Tarfin, EuroLeague'in 7. haftasında yarın Olympiakos'la deplasmanda karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-euroleaguede-olympiakosa-konuk-olacak-43350979"
+          "title": "Trabzonspor-Hearts maçı sonrası Ozan Tufan, Cenk Özkacar ve Batista Mendy konuştu: Çok iyi arkadaşlarımız var",
+          "summary": "Trabzonspor'un Hearts'ı 2-0 mağlup ettiği UEFA Konferans Ligi maçı sonrası bordo mavili yıldızlar konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-hearts-maci-sonrasi-ozan-tufan-cenk-ozkacar-ve-batista-mendy-konustu-cok-iyi-arkadaslarimiz-var-43351574"
         },
         {
-          "title": "Alperen Şengün'den sezona double double başlangıç!",
-          "summary": "NBA'de Houston Rockets konuk ettiği Dallas Mavericks'i 128-110 mağlup etti. Houston'da milli basketbolcu Alperen Şengün 23 sayı, 10 ribaund ve 5 asistle oynadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/alperen-sengunden-sezona-double-double-baslangic-43350963"
+          "title": "Thomas Reis: 'Hak ettiğimiz bir galibiyet oldu'",
+          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, Hearts'ı 2-0 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/thomas-reis-hak-ettigimiz-bir-galibiyet-oldu-43351613"
         }
       ]
     },
@@ -244,19 +244,8 @@
       ]
     },
     "magazin": {
-      "text": "Sessiz yürüyüş. Muhabirlere ‘aşk’ sözü.",
-      "items": [
-        {
-          "title": "Sessiz yürüyüş",
-          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
-        },
-        {
-          "title": "Muhabirlere ‘aşk’ sözü",
-          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
-        }
-      ]
+      "text": "",
+      "items": []
     }
   }
 }
