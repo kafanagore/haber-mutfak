@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-23T04:00:04.120Z",
+  "generatedAt": "2026-10-23T10:00:03.709Z",
   "categories": {
     "gundem": {
-      "text": "Çukurova Belediyesi soruşturması: Başkan Emrah Kozay dahil 34 şüpheli tutuklandı. Fon teklifi Meclis'te kabul edildi. Yatırımcılara ödemeler ne zaman başlayacak?. Trabzonspor'un yıldızı maç sonrası kaza geçirdi. Eyüpsultan’da 5 katlı riskli bina tahliye edilerek mühürlendi. Bakan Kacır: Organize sanayi bölgelerimizi büyütmeye devam ediyoruz. Cemil Tugay, AK Parti'ye geçiş sürecini anlattı: Bir yol ayrımına gelmek zorunda kaldım. Son dakika... Alihan Kuriş suç örgütüne yönelik operasyonda flaş gelişme.",
+      "text": "Zonguldak'ta maden ocağında patlama: İşte ilk görüntüler. Ameliyatta ölüm iddiasına suç duyurusu: Liposuction için girdi, yaşamını yitirdi. Emine Erdoğan'dan, Özbekistan ziyaretine ilişkin paylaşım. 4 ayda 18 bin ziyaretçi ağırlayan Makedonya Kule Müzesi Edirne’nin yeni gözdesi. Milas Belediyesi'ne yönelik ihale operasyonunda Başkan Topuz ve oğlu dahil 20 kişi adliyede. Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var. Türkiye Sigorta'nın eski genel müdürü 1 milyon dolar almış, parayı fona yatırmış.",
       "items": [
         {
-          "title": "Çukurova Belediyesi soruşturması: Başkan Emrah Kozay dahil 34 şüpheli tutuklandı",
-          "summary": "Çukurova Belediyesi soruşturmasında başkan Emrah Kozay dahil 34 şüpheli tutuklandı",
-          "source": "https://www.hurriyet.com.tr/gundem/cukurova-belediyesi-sorusturmasi-baskan-emrah-kozay-dahil-34-supheli-tutuklandi-43351753"
+          "title": "Zonguldak'ta maden ocağında patlama: İşte ilk görüntüler",
+          "summary": "Zonguldak'ın Kilimli ilçesinde maden ocağında patlama meydana geldi. Patlamada 3 işçi hayatını kaybetti, 5 işçi ise yaralandı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-zonguldakta-maden-ocaginda-patlama-iste-ilk-goruntuler-1747610"
         },
         {
-          "title": "Fon teklifi Meclis'te kabul edildi. Yatırımcılara ödemeler ne zaman başlayacak?",
-          "summary": "Fonların tasfiyesine ilişkin kanun teklifi, TBMM Genel Kurulu'nda kabul edildi. Düzenlemeyle, 1 milyon liraya kadar yapılacak ara ödemelerin önü açıldı. Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı. Düzenlemeyle birlikte yatırımları 1 milyon lira ve 1 milyonun liranın altında olanlara yatırımları kadar, üzerinde olanlara ise en fazla 1 milyon lira ödeme yapılacak.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-teklifi-mecliste-kabul-edildi-1747532"
+          "title": "Ameliyatta ölüm iddiasına suç duyurusu: Liposuction için girdi, yaşamını yitirdi",
+          "summary": "İstanbul'da bir kadın yağ aldırma ameliyatı (Liposuction) sırasında yaşamını yitirdi. Hastane yönetiminden bir muhatap bulamadıklarını anlatan kadının eşi, sorumlulardan şikayetçi oldu. İstanbul'un Zeytinburnu'nda Tuğba Onur isimli kadın, iddiaya göre özel bir hastanede yağ aldırma ameliyatı olduğu sırada yaşamını yitirdi. Olay, saat 16.00 sıralarında Çırpıcı Mahallesi Profesör Doktor Turan Güneş Caddesi'nde bulunan bir özel hastanede meydana geldi. Tuğba Onur, yağ aldırma ameliyatı sırasında yaşamını yitirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/ameliyatta-olum-iddiasina-suc-duyurusu-liposuction-icin-girdi-yasamini-yitirdi-1747613"
         },
         {
-          "title": "Trabzonspor'un yıldızı maç sonrası kaza geçirdi",
-          "summary": "Trabzonspor'un kalecisi Andre Onana, UEFA Konferans Ligi'ndeki Hearts maçının ardından evine dönerken zincirleme trafik kazasına karıştı. UEFA Konferans Ligi'nin 2'nci haftasında sahasında İskoç ekibi Hearts'ı 2-0 mağlup eden Trabzonspor'un kalecisi Andre Onana, ailesiyle birlikte evine dönerken trafik kazası geçirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/trabzonsporun-yildizi-mac-sonrasi-kaza-gecirdi-1747555"
+          "title": "Emine Erdoğan'dan, Özbekistan ziyaretine ilişkin paylaşım",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Özbekistan ziyaretimizin, çocukların refahını önceleyen yeni adımlara ve ülkelerimiz arasındaki dayanışmanın güçlenmesine vesile olmasını diliyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-ozbekistan-ziyaretine-iliskin-paylasim-43352185"
         },
         {
-          "title": "Eyüpsultan’da 5 katlı riskli bina tahliye edilerek mühürlendi",
-          "summary": "İstanbul Eyüpsultan’da 5 katlı binanın kolonlarından ses gelmesi üzerine vatandaşlar tahliye edildi. Çalışma sonrası zabıta ekipleri tedbir amaçlı binayı mühürledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/eyupsultanda-5-katli-riskli-bina-tahliye-edilerek-muhurlendi-43351725"
+          "title": "4 ayda 18 bin ziyaretçi ağırlayan Makedonya Kule Müzesi Edirne’nin yeni gözdesi",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Edirne’nin Roma döneminden günümüze ulaşan tek sur kulesinde ziyarete açılan Makedonya Kule Müzesi’nde incelemelerde bulundu. Dört ayda 18 bin ziyaretçiyi ağırlayan müze, yaklaşık 2 bin 200 yıllık Odysseus heykel başının da aralarında bulunduğu eserlerle kentin tarihini ziyaretçilerle buluşturuyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/4-ayda-18-bin-ziyaretci-agirlayan-makedonya-kule-muzesi-edirnenin-yeni-gozdesi-43352159"
         },
         {
-          "title": "Bakan Kacır: Organize sanayi bölgelerimizi büyütmeye devam ediyoruz",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Burdur Batı Organize Sanayi Bölgesi ile Amasya Gümüşhacıköy Organize Sanayi Bölgesi'ni duyurarak, organize sanayi bölgelerini büyütmeye devam ettiklerini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-organize-sanayi-bolgelerimizi-buyutmeye-devam-ediyoruz-43351684"
+          "title": "Milas Belediyesi'ne yönelik ihale operasyonunda Başkan Topuz ve oğlu dahil 20 kişi adliyede",
+          "summary": "Muğla merkezli 13 ilde sahte ihale evrakı ve usulsüz iş deneyim belgelerine yönelik düzenlenen operasyonda gözaltına alınan, aralarında Milas Belediye Başkanı Fevzi Topuz ve oğlu D.T.'nin de bulunduğu 20 şüpheli adliyeye sevk edildi. Milyarlarca liralık ihalelerin mercek altına alındığı soruşturmada gözaltındaki diğer 15 şüpheli ise emniyetteki işlemlerinin ardından serbest bırakıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/milas-belediyesine-yonelik-ihale-operasyonunda-baskan-topuz-ve-oglu-dahil-20-kisi-adliyede-43352102"
         },
         {
-          "title": "Cemil Tugay, AK Parti'ye geçiş sürecini anlattı: Bir yol ayrımına gelmek zorunda kaldım",
-          "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, \"Cumhurbaşkanı'mızı Türkiye'nin yetiştirdiği ama özellikle son 25 yılına damgasını vurmuş, en güçlü, birikimli, değerli siyasetçilerinden birisi olarak görüyorum. Bunun tersini zaten kimse söyleyemez. Bu kendisinin çalışmasıyla, aklıyla, becerisiyle olmuştur ve 100-200 yıl sonra da kendisi eminim yaptığı iyi şeylerle, bu ülkeye yaptığı hizmetlerle anılacaktır.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cemil-tugay-ak-partiye-gecis-surecini-anlatti-bir-yol-ayrimina-gelmek-zorunda-kaldim-43351673"
+          "title": "Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var",
+          "summary": "İstanbul Pendik'te hafriyat kamyonu bir eczaneye daldı. İhbar üzerine olay yerine polis, itfaiye ve sağlık ekipleri sevk edildi. Kazada yaralananların olduğu öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/pendikte-feci-kaza-hafriyat-kamyonu-eczaneye-girdi-yaralilar-var-43352148"
         },
         {
-          "title": "Son dakika... Alihan Kuriş suç örgütüne yönelik operasyonda flaş gelişme",
-          "summary": "Son dakika haberi... Ankara Cumhuriyet Başsavcılığı koordinesinde, Alihan Kuriş suç örgütüne yönelik operasyonda gözaltına alınan şüphelilerden 19’u tutuklandı, 5’i adli kontrol şartıyla serbest bırakıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-alihan-kuris-suc-orgutune-yonelik-operasyonda-flas-gelisme-43351642"
+          "title": "Türkiye Sigorta'nın eski genel müdürü 1 milyon dolar almış, parayı fona yatırmış",
+          "summary": "Türkiye Sigorta ve Türkiye Hayat Emeklilik eski Genel Müdürü Taha Çakmak, fon soruşturmasında yeniden gözaltına alındı. Çakmak, bir hafta önce görevinden istifa etmişti. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında yeni bir gelişme yaşandı. Daha önce gözaltına alınıp adli kontrol şartıyla serbest bırakılan eski Türkiye Sigorta ve Türkiye Hayat Emeklilik Genel Müdürü Taha Çakmak yeniden gözaltına alındı.",
+          "source": "https://www.ntv.com.tr/turkiye/turkiye-sigortanin-eski-genel-muduru-1-milyon-dolar-almis-parayi-fona-yatirmis-1747615"
         }
       ]
     },
     "dunya": {
-      "text": "Netanyahu’nun planı tartışma yarattı: Seçime günler kala gelen hamle! ‘1991 Irak’ına benzer görüntüler göreceğiz!’. İstanbul'da 7 bakanlı kritik zirve. İngiltere'de hükümetten halka çağrı. \"3 günlük gıda ve su stoklayın\". Trump bu defa LeBron James'i hedef aldı. \"Özür dilemeli\". Çin'de 7 büyüklüğünde deprem. 16 kişi hayatını kaybetti. Zelenskiy'den ABD'nin Rusya'ya yaptırımları askıya almasının \"Putin'i güçlendireceği\" mesajı. İran’dan ABD’ye mesaj: İran'la savaşın hiçbir faydası olmayacak.",
+      "text": "Ukrayna'da iki askerin ölümüyle sonuçlanan zehirli paket tuzağı. Dev fırtına nedeniyle Tayvan'da hayat durdu. Yaklaşık bin uçuş iptal. 'Stratejik ortaklık' dünyada yankılandı: Türkiye ve Kanada'dan tarihi adım: ABD'nin ötesine bakmaya başladı. Sekiz Dışişleri Bakanı, İstanbul'da buluşuyor. Krizler masada. Cumhurbaşkanı Erdoğan ve Bakan Fidan'dan önemli mesajlar. \"İstanbul diplomasinin merkezi oldu\". Japon yazar Ryu Murakami hayatını kaybetti. Dışişleri Bakanı Hakan Fidan: Libya'da kalıcı çözüme yakınız.",
       "items": [
         {
-          "title": "Netanyahu’nun planı tartışma yarattı: Seçime günler kala gelen hamle! ‘1991 Irak’ına benzer görüntüler göreceğiz!’",
-          "summary": "İsrail’de seçim yarışı kızışırken Netanyahu’nun gündeme gelen son hamlesi, yalnızca sandığın sonucunu değil, bölgenin geleceğini de etkileyebilir. Ancak bu kez asıl dikkat çeken, atılacak adım kadar perde arkasındaki hesaplar. Washington’ın tutumu, Tahran’ın olası yanıtı ve İsrail’in siyasi geleceği aynı denklemde buluşurken, kritik kararın ne zaman ve nasıl alınacağı merak konusu. Peki, yaklaşan seçimlerin gölgesinde hangi senaryo öne çıkıyor ve bu hamlenin sonuçları nerelere uzanabilir?",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-plani-tartisma-yaratti-secime-gunler-kala-gelen-hamle-1991-irakina-benzer-goruntuler-gorecegiz-43350896"
+          "title": "Ukrayna'da iki askerin ölümüyle sonuçlanan zehirli paket tuzağı",
+          "summary": "Ukrayna polisi, Rus istihbaratı adına hareket ederek iki askerin ölümüne yol açan metadon yüklü paketleri cepheye göndermekle suçlanan 17 yaşındaki bir kızı gözaltına aldı. Ukrayna emniyet birimleri, Rus gizli servisleriyle işbirliği yaparak askerlere ölümcül dozda uyuşturucu içeren kargolar ulaştırdığı tespit edilen 17 yaşındaki şüpheliyi yakaladı. Polis teşkilatı tarafından bugün yapılan açıklamada, kargolardaki maddeleri tüketen iki Ukrayna askerinin zehirlenerek yaşamını yitirdiği duyuruldu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ukraynada-iki-askerin-olumuyle-sonuclanan-zehirli-paket-tuzagi-1747624"
         },
         {
-          "title": "İstanbul'da 7 bakanlı kritik zirve",
-          "summary": "İstanbul yarın önemli bir toplantıya ev sahipliği yapacak. 7 ülkenin dışişleri bakanları bir araya gelecek. Türkiye, Mısır, Pakistan ve Suudi Arabistan'dan oluşan ve \"bölgesel dörtlü\" olarak tanımlanan ülkelerinin dışişleri bakanları; İngiltere, Almanya ve Fransa'nın dışişleri bakanları ile toplantı yapacak.",
-          "source": "https://www.ntv.com.tr/dunya/istanbulda-7-bakanli-onemli-zirve-1747477"
+          "title": "Dev fırtına nedeniyle Tayvan'da hayat durdu. Yaklaşık bin uçuş iptal",
+          "summary": "Kuzeydoğu kıyılarına yaklaşan Çampi Tayfunu nedeniyle Tayvan genelinde eğitime, uçuşlara ve piyasalara ara verilirken 1 kişi yaşamını yitirdi, 163 kişi yaralandı. Kuzeydoğu kıyılarına yaklaşan Çampi Tayfunu nedeniyle Tayvan genelinde hayat durma noktasına geldi. Şiddetli rüzgar ve sağanak yağışın adayı etkisi altına almasıyla finans piyasaları kapandı, yaklaşık bin uçak seferi iptal edildi. Yetkililer, fırtına nedeniyle 1 kişinin hayatını kaybettiğini, 163 kişinin yaralandığını bildirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-dev-firtina-nedeniyle-tayvanda-hayat-durdu-yaklasik-bin-ucus-iptal-1747622"
         },
         {
-          "title": "İngiltere'de hükümetten halka çağrı. \"3 günlük gıda ve su stoklayın\"",
-          "summary": "İngiliz hükümeti aşırı hava olayları, siber saldırılar ve güvenlik tehditlerine karşı vatandaşlara en az 3 gün yetecek kadar gıda ve su stoku yapmaları tavsiyesinde bulundu. İngiltere hükümeti \"Be Ready (Hazırlıklı Ol)\" kampanyası başlattı. Bu kapsamda hanelerin doğal afetler, siber saldırılar ve kritik altyapılarda meydana gelebilecek aksamalara karşı hazırlıklı olması amaçlanıyor.",
-          "source": "https://www.ntv.com.tr/dunya/ingilterede-hukumetten-halka-cagri-3-gunluk-gida-ve-su-stoklayin-1747554"
+          "title": "'Stratejik ortaklık' dünyada yankılandı: Türkiye ve Kanada'dan tarihi adım: ABD'nin ötesine bakmaya başladı",
+          "summary": "Türkiye ve Kanada'nın ilişkilerini stratejik ortaklık seviyesine yükseltmesi ve üç anlaşmaya imza atması dünya basınında geniş yankı uyandırdı. İngiliz basını, anlaşmanın NATO müttefikleri arasında gerçekleştiğinin altını çizerken ABC gazetesi ise Kanada'nın ABD'nin ötesine bakmaya başladığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/stratejik-ortaklik-dunyada-yankilandi-turkiye-ve-kanadadan-tarihi-adim-abdnin-otesine-bakmaya-basladi-43352113"
         },
         {
-          "title": "Trump bu defa LeBron James'i hedef aldı. \"Özür dilemeli\"",
-          "summary": "ABD Başkanı Donald Trump, Amerikan ulusal marşı okunurken marşı dinlemeyerek \"saygısızlık\" yaptığını belirttiği NBA yıldızı LeBron James'in özür dilemesi gerektiğini savundu. ABD Başkanı Trump, salı akşamı oynanan New York Knicks-Philadelphia 76ers maçı öncesinde Amerikan ulusal marşı okunduğu sırada yaptığı hareketlerle gündeme gelen James'e tepki gösterdi.",
-          "source": "https://www.ntv.com.tr/dunya/trump-bu-defa-lebron-jamesi-hedef-aldi-ozur-dilemeli-1747552"
+          "title": "Sekiz Dışişleri Bakanı, İstanbul'da buluşuyor. Krizler masada",
+          "summary": "Türkiye'nin girişimiyle İstanbul'da buluşan R4 ve E3 ülkelerinin dışişleri bakanları, Filistin, Hürmüz Boğazı, Kızıldeniz ve Ukrayna krizlerine ortak çözüm arıyor. Türkiye'nin girişimiyle bir araya gelen yedi ülkenin dışişleri bakanları, bölgesel ve küresel krizlere ortak çözüm arayışıyla İstanbul'da toplanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-sekiz-disisleri-bakani-istanbulda-bulusuyor-krizler-masada-1747580"
         },
         {
-          "title": "Çin'de 7 büyüklüğünde deprem. 16 kişi hayatını kaybetti",
-          "summary": "Çin'in Tibet bölgesinde 7 büyüklüğünde deprem meydana geldi. Yerin 10 kilometre derinliğinde gerçekleşen depremde 16 kişi hayatını kaybetti, 32 yaralı var. Çin'in güneybatısındaki Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi. Depremde 16 kişi hayatını kaybetti, 32 kişi yaralandı. Çin Deprem Ağları Merkezi (CENC), depremin perşembe günü yerel saatle 22.33'te (TSİ 17.33) kaydedildiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/cinde-7-buyuklugunde-deprem-1747530"
+          "title": "Cumhurbaşkanı Erdoğan ve Bakan Fidan'dan önemli mesajlar. \"İstanbul diplomasinin merkezi oldu\"",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Dışişleri Bakanı Hakan Fidan, 9. İstanbul Arabuluculuk Konferansı'nın açılışında önemli mesajlar verdi. 9. İstanbul Arabuluculuk Konferansı bugün başladı. İlk olarak Dışişleri Bakanı Hakan Fidan kürsüye çıkarak açılış konuşmasını yaptı. İstanbul'un tarihsel misyonuna değinen Fidan, kentin çok uzun zamandır diyalog ve diplomasinin merkezi kimliğini taşıdığını söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-ve-bakan-fidandan-onemli-mesajlar-istanbul-diplomasinin-merkezi-oldu-1747596"
         },
         {
-          "title": "Zelenskiy'den ABD'nin Rusya'ya yaptırımları askıya almasının \"Putin'i güçlendireceği\" mesajı",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD Başkanı Donald Trump'ın Rusya'ya yönelik yaptırımları geçici olarak askıya alması kararının Rusya Devlet Başkanı Vladimir Putin'i \"daha da güçlendireceği\" mesajını verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/zelenskiyden-abdnin-rusyaya-yaptirimlari-askiya-almasinin-putini-guclendirecegi-mesaji-43351620"
+          "title": "Japon yazar Ryu Murakami hayatını kaybetti",
+          "summary": "Japon yazar Ryu Murakami'nin, 74 yaşında yaşamını yitirdiği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/japon-yazar-ryu-murakami-hayatini-kaybetti-43352038"
         },
         {
-          "title": "İran’dan ABD’ye mesaj: İran'la savaşın hiçbir faydası olmayacak",
-          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD yönetimi ve halkına seslenerek, İran'la olası bir savaşın ABD'ye fayda sağlamayacağını aksine ağır sonuçlara yol açacağını söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-abdye-mesaj-iranla-savasin-hicbir-faydasi-olmayacak-43351571"
+          "title": "Dışişleri Bakanı Hakan Fidan: Libya'da kalıcı çözüme yakınız",
+          "summary": "Dışişleri Bakanı Hakan Fidan, İstanbul'da düzenlenen 9. arabuluculuk konferansında açıklamalarda bulundu. Bakan Fidan konuşmasında, \"Libya'da kalıcı çözüme yakınız\" ifadesini kullandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-libyada-kalici-cozume-yakiniz-43351916"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Olaitan ve Ndidi, Crystal Palace maçı sonrası konuştu: Beşiktaş'ta oynamanın ne demek olduğunu gösterdik. Pierre Sage'den maç sonu Beşiktaş itirafı!. Vincenzo Italiano: 'İyi iş çıkardık, bizim için önemliydi'. Beşiktaş-Crystal Palace maçının kahramanı Olaitan, ilke imza attı! Muhteşem gol. Beşiktaş'ta Miretti şoku! Devam edemedi. Trabzonspor-Hearts maçı sonrası Ozan Tufan, Cenk Özkacar ve Batista Mendy konuştu: Çok iyi arkadaşlarımız var. Thomas Reis: 'Hak ettiğimiz bir galibiyet oldu'.",
+      "text": "Şenol Güneş'ten Sergen Yalçın ve Milli Takım açıklaması: Başarılı olmasını isteriz. İngiliz basını Beşiktaş-Crystal Palace maçını konuşuyor: 'Palace beraberlikle yetinmek zorunda kaldı!'. Fenerbahçe, EuroLeague'de Olympiakos deplasmanında! Maçın heyecanı canlı yayınla Misli'de. Avrupa'da Türk haftası! UEFA ülke puanı güncellendi. Nihat Kahveci'den Ümit Akdağ'a kırmızı kart sitemi: '2 metreden niye uçuyorsun?'. Trabzonspor'un Hearts galibiyeti sonrası açıkladı: 'Ben buradayım abiler' dedi! Dünyanın her yerinde olabiliyor demek ki. Trabzonspor'un süper yıldızı Muhammed Salah rakip tanımıyor!.",
       "items": [
         {
-          "title": "Olaitan ve Ndidi, Crystal Palace maçı sonrası konuştu: Beşiktaş'ta oynamanın ne demek olduğunu gösterdik",
-          "summary": "Beşiktaş'ın Crystal Palace ile oynadığı ve 2-2 berabe kaldığı maç sonrası Olaitan ile Ndidi açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/olaitan-ve-ndidi-crystal-palace-maci-sonrasi-konustu-besiktasta-oynamanin-ne-demek-oldugunu-gosterdik-43351689"
+          "title": "Şenol Güneş'ten Sergen Yalçın ve Milli Takım açıklaması: Başarılı olmasını isteriz",
+          "summary": "Tecrübeli teknik direktör Şenol Güneş, A Milli Futbol Takımı'nın başına Sergen Yalçın'ın getirilmesi sonrası kendisine yöneltilen soruyu cevapladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/senol-gunesten-sergen-yalcin-ve-milli-takim-aciklamasi-basarili-olmasini-isteriz-43352141"
         },
         {
-          "title": "Pierre Sage'den maç sonu Beşiktaş itirafı!",
-          "summary": "Crystal Palace Teknik Direktörü Pierre Sage, maçın genelinde oyunu Beşiktaş’tan daha fazla kontrol ettiklerini ve rakibi oynatmamaya çalıştıklarını söyledi",
-          "source": "https://www.hurriyet.com.tr/sporarena/pierre-sageden-mac-sonu-besiktas-itirafi-43351693"
+          "title": "İngiliz basını Beşiktaş-Crystal Palace maçını konuşuyor: 'Palace beraberlikle yetinmek zorunda kaldı!'",
+          "summary": "Beşiktaş ile Crystal Palace, UEFA Avrupa Ligi'nin üçüncü haftasında 2-2 berabere kaldı. Mücadele İngiliz basınında geniş yer buldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ingiliz-basini-besiktas-crystal-palace-macini-konusuyor-palace-beraberlikle-yetinmek-zorunda-kaldi-43351977"
         },
         {
-          "title": "Vincenzo Italiano: 'İyi iş çıkardık, bizim için önemliydi'",
-          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Crystal Palace ile 2-2 berabere kaldıkları maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-iyi-is-cikardik-bizim-icin-onemliydi-43351690"
+          "title": "Fenerbahçe, EuroLeague'de Olympiakos deplasmanında! Maçın heyecanı canlı yayınla Misli'de",
+          "summary": "Fenerbahçe, EuroLeague'in 7. haftasında Yunan ekibi Olympiakos ile deplasmanda karşılaşıyor. Maçın heyecanı canlı sohbet ve canlı yayınla Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-euroleaguede-olympiakos-deplasmaninda-macin-heyecani-canli-yayinla-mislide-43352023"
         },
         {
-          "title": "Beşiktaş-Crystal Palace maçının kahramanı Olaitan, ilke imza attı! Muhteşem gol",
-          "summary": "Beşiktaş, 2-1 geriye düştüğü Crystal Palace müsabakasından 2-2'lik eşitlikle ayrıldı ve Avrupa'da yoluna kayıpsız devam etti. Beşiktaş'a maçın kaharamanı ve 2. golü sahibi Olaitan, kariyerinde bir ilki yaşadı. İşte Beşiktaş-Crystal maçına dair önemli ayrıntılar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-crystal-palace-macinin-kahramani-olaitan-ilke-imza-atti-muhtesem-gol-43351676"
+          "title": "Avrupa'da Türk haftası! UEFA ülke puanı güncellendi",
+          "summary": "Avrupa kupalarında Türk takımları bu hafta 2 galibiyet ve 2 beraberlik aldı. Maçların sonunda ise ülke puanı güncellendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/avrupada-turk-haftasi-uefa-ulke-puani-guncellendi-43351884"
         },
         {
-          "title": "Beşiktaş'ta Miretti şoku! Devam edemedi",
-          "summary": "Beşiktaş'ta Orkun Kökçü'nün yokluğunda orta sahada görev alan Fabio Miretti, Crystal Palace maçında sakatlandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-miretti-soku-devam-edemedi-43351638"
+          "title": "Nihat Kahveci'den Ümit Akdağ'a kırmızı kart sitemi: '2 metreden niye uçuyorsun?'",
+          "summary": "Beşiktaş ile Crystal Palace, UEFA Avrupa Ligi'nin üçüncü haftasında 2-2 berabere kaldı. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-umit-akdaga-kirmizi-kart-sitemi-2-metreden-niye-ucuyorsun-43351814"
         },
         {
-          "title": "Trabzonspor-Hearts maçı sonrası Ozan Tufan, Cenk Özkacar ve Batista Mendy konuştu: Çok iyi arkadaşlarımız var",
-          "summary": "Trabzonspor'un Hearts'ı 2-0 mağlup ettiği UEFA Konferans Ligi maçı sonrası bordo mavili yıldızlar konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-hearts-maci-sonrasi-ozan-tufan-cenk-ozkacar-ve-batista-mendy-konustu-cok-iyi-arkadaslarimiz-var-43351574"
+          "title": "Trabzonspor'un Hearts galibiyeti sonrası açıkladı: 'Ben buradayım abiler' dedi! Dünyanın her yerinde olabiliyor demek ki",
+          "summary": "Trabzonspor, UEFA Konferans Ligi 2’nci hafta karşılaşmasında sahasında ağırladığı Hearts’ı 2-0 mağlup etti. Bordo-Mavili ekibin galibiyetini Hürriyet yazarı Mehmet Ayan köşe yazısında değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-hearts-galibiyeti-sonrasi-acikladi-ben-buradayim-abiler-dedi-dunyanin-her-yerinde-olabiliyor-demek-ki-43351782"
         },
         {
-          "title": "Thomas Reis: 'Hak ettiğimiz bir galibiyet oldu'",
-          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, Hearts'ı 2-0 mağlup ettikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/thomas-reis-hak-ettigimiz-bir-galibiyet-oldu-43351613"
+          "title": "Trabzonspor'un süper yıldızı Muhammed Salah rakip tanımıyor!",
+          "summary": "KupPS’tan sonra dün de gol-asist dublesi yapan Salah üst üste 3 maçta da golünü attı, Trabzon’da çıktığı 12 maçın 8’inde skora katkı verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-super-yildizi-muhammed-salah-rakip-tanimiyor-43351697"
         }
       ]
     },
@@ -244,8 +244,24 @@
       ]
     },
     "magazin": {
-      "text": "",
-      "items": []
+      "text": "Yıllar sonra. Sessiz yürüyüş. Muhabirlere ‘aşk’ sözü.",
+      "items": [
+        {
+          "title": "Yıllar sonra",
+          "summary": "Helin Avşar uzun aranın ardından Yeniköy’de görüntülendi. 49 yaşındaki ünlü isim, iki örgü yaptığı saçlarıyla dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/kelebek/hayat/yillar-sonra-43351603"
+        },
+        {
+          "title": "Sessiz yürüyüş",
+          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
+        },
+        {
+          "title": "Muhabirlere ‘aşk’ sözü",
+          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
+        }
+      ]
     }
   }
 }
