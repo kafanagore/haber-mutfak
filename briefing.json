@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-23T10:00:03.709Z",
+  "generatedAt": "2026-10-23T16:00:03.784Z",
   "categories": {
     "gundem": {
-      "text": "Zonguldak'ta maden ocağında patlama: İşte ilk görüntüler. Ameliyatta ölüm iddiasına suç duyurusu: Liposuction için girdi, yaşamını yitirdi. Emine Erdoğan'dan, Özbekistan ziyaretine ilişkin paylaşım. 4 ayda 18 bin ziyaretçi ağırlayan Makedonya Kule Müzesi Edirne’nin yeni gözdesi. Milas Belediyesi'ne yönelik ihale operasyonunda Başkan Topuz ve oğlu dahil 20 kişi adliyede. Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var. Türkiye Sigorta'nın eski genel müdürü 1 milyon dolar almış, parayı fona yatırmış.",
+      "text": "Ankara merkezli 7 ilde fuhuş ve müstehcenlik operasyonu: 45 gözaltı. Kütahya merkezli 5 ilde yasa dışı bahis operasyonu: 76 gözaltı. Türkiye ile Slovakya arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı. Sarıyer açıklarında karaya oturan tanker İstanbul Boğazı'ndan geçirildi. 8 ülkenin İstanbul buluşması. Fidan: İran'a yeni bir saldırı olmamalı. Mersin'de sulama kanalında ölü bulundu. 15 milyar liralık yasa dışı bahis trafiği çöktü: 5 ilde eş zamanlı operasyon.",
       "items": [
         {
-          "title": "Zonguldak'ta maden ocağında patlama: İşte ilk görüntüler",
-          "summary": "Zonguldak'ın Kilimli ilçesinde maden ocağında patlama meydana geldi. Patlamada 3 işçi hayatını kaybetti, 5 işçi ise yaralandı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-zonguldakta-maden-ocaginda-patlama-iste-ilk-goruntuler-1747610"
+          "title": "Ankara merkezli 7 ilde fuhuş ve müstehcenlik operasyonu: 45 gözaltı",
+          "summary": "Ankara merkezli 7 ilde düzenlenen müstehcenlik ve fuhuş operasyonunda 45 kişi gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankara-merkezli-7-ilde-fuhus-ve-mustehcenlik-operasyonu-45-gozalti-43352720"
         },
         {
-          "title": "Ameliyatta ölüm iddiasına suç duyurusu: Liposuction için girdi, yaşamını yitirdi",
-          "summary": "İstanbul'da bir kadın yağ aldırma ameliyatı (Liposuction) sırasında yaşamını yitirdi. Hastane yönetiminden bir muhatap bulamadıklarını anlatan kadının eşi, sorumlulardan şikayetçi oldu. İstanbul'un Zeytinburnu'nda Tuğba Onur isimli kadın, iddiaya göre özel bir hastanede yağ aldırma ameliyatı olduğu sırada yaşamını yitirdi. Olay, saat 16.00 sıralarında Çırpıcı Mahallesi Profesör Doktor Turan Güneş Caddesi'nde bulunan bir özel hastanede meydana geldi. Tuğba Onur, yağ aldırma ameliyatı sırasında yaşamını yitirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/ameliyatta-olum-iddiasina-suc-duyurusu-liposuction-icin-girdi-yasamini-yitirdi-1747613"
+          "title": "Kütahya merkezli 5 ilde yasa dışı bahis operasyonu: 76 gözaltı",
+          "summary": "Kütahya merkezli 5 ilde eş zamanlı düzenlenen yasa dışı bahis operasyonunda 76 şüpheli gözaltına alındı. Şüphelilerin banka hesaplarında toplam 14 milyar 928 milyon 530 bin TL işlem hacmi tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kutahya-merkezli-5-ilde-yasa-disi-bahis-operasyonu-76-gozalti-43352712"
         },
         {
-          "title": "Emine Erdoğan'dan, Özbekistan ziyaretine ilişkin paylaşım",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Özbekistan ziyaretimizin, çocukların refahını önceleyen yeni adımlara ve ülkelerimiz arasındaki dayanışmanın güçlenmesine vesile olmasını diliyorum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-ozbekistan-ziyaretine-iliskin-paylasim-43352185"
+          "title": "Türkiye ile Slovakya arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı",
+          "summary": "Enerji ve Tabii Kaynaklar Bakanlığı ile Slovakya Ekonomi Bakanlığı arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ile-slovakya-arasinda-enerji-alaninda-isbirligine-iliskin-mutabakat-zapti-imzalandi-43352708"
         },
         {
-          "title": "4 ayda 18 bin ziyaretçi ağırlayan Makedonya Kule Müzesi Edirne’nin yeni gözdesi",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Edirne’nin Roma döneminden günümüze ulaşan tek sur kulesinde ziyarete açılan Makedonya Kule Müzesi’nde incelemelerde bulundu. Dört ayda 18 bin ziyaretçiyi ağırlayan müze, yaklaşık 2 bin 200 yıllık Odysseus heykel başının da aralarında bulunduğu eserlerle kentin tarihini ziyaretçilerle buluşturuyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/4-ayda-18-bin-ziyaretci-agirlayan-makedonya-kule-muzesi-edirnenin-yeni-gozdesi-43352159"
+          "title": "Sarıyer açıklarında karaya oturan tanker İstanbul Boğazı'ndan geçirildi",
+          "summary": "Sarıyer'de sürüklendikten sonra karaya oturan Liberya bayraklı ‘BANDA’ isimli ham petrol tankeri, kurtarıldıktan sonra İstanbul Boğazı'ndan geçirildi. Tankerin geçişi havadan görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sariyer-aciklarinda-karaya-oturan-tanker-istanbul-bogazindan-gecirildi-43352698"
         },
         {
-          "title": "Milas Belediyesi'ne yönelik ihale operasyonunda Başkan Topuz ve oğlu dahil 20 kişi adliyede",
-          "summary": "Muğla merkezli 13 ilde sahte ihale evrakı ve usulsüz iş deneyim belgelerine yönelik düzenlenen operasyonda gözaltına alınan, aralarında Milas Belediye Başkanı Fevzi Topuz ve oğlu D.T.'nin de bulunduğu 20 şüpheli adliyeye sevk edildi. Milyarlarca liralık ihalelerin mercek altına alındığı soruşturmada gözaltındaki diğer 15 şüpheli ise emniyetteki işlemlerinin ardından serbest bırakıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/milas-belediyesine-yonelik-ihale-operasyonunda-baskan-topuz-ve-oglu-dahil-20-kisi-adliyede-43352102"
+          "title": "8 ülkenin İstanbul buluşması. Fidan: İran'a yeni bir saldırı olmamalı",
+          "summary": "Dışişleri Bakanı Hakan Fidan, 8 ülkenin dışişleri bakanının İstanbul'daki buluşması sonrası yaptığı açıklamada ''İran'a yeni bir saldırı olmamalı.'' dedi. Türkiye'nin girişimiyle bir araya gelen yedi ülkenin dışişleri bakanları, bölgesel ve küresel krizlere ortak çözüm arayışıyla İstanbul'da bir araya geldi. Dışişleri Bakanı Hakan Fidan'ın ev sahipliğindeki görüşmelerde, Türkiye, Mısır, Pakistan ve Suudi Arabistan'dan oluşan R4 formatı ile İngiltere, Almanya ve Fransa'nın yer aldığı E3 grubu aynı masada buluştu.",
+          "source": "https://www.ntv.com.tr/turkiye/8-ulkenin-istanbul-bulusmasi-fidan-israilin-istikrarsizlastirici-rolunu-konustuk-1747670"
         },
         {
-          "title": "Pendik'te feci kaza! Hafriyat kamyonu eczaneye girdi: Yaralılar var",
-          "summary": "İstanbul Pendik'te hafriyat kamyonu bir eczaneye daldı. İhbar üzerine olay yerine polis, itfaiye ve sağlık ekipleri sevk edildi. Kazada yaralananların olduğu öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/pendikte-feci-kaza-hafriyat-kamyonu-eczaneye-girdi-yaralilar-var-43352148"
+          "title": "Mersin'de sulama kanalında ölü bulundu",
+          "summary": "Mersin'in Silifke ilçesindeki sulama kanalında 37 yaşındaki Osman Yüksel'in cansız bedeni bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/mersinde-sulama-kanalinda-olu-bulundu-43352666"
         },
         {
-          "title": "Türkiye Sigorta'nın eski genel müdürü 1 milyon dolar almış, parayı fona yatırmış",
-          "summary": "Türkiye Sigorta ve Türkiye Hayat Emeklilik eski Genel Müdürü Taha Çakmak, fon soruşturmasında yeniden gözaltına alındı. Çakmak, bir hafta önce görevinden istifa etmişti. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında yeni bir gelişme yaşandı. Daha önce gözaltına alınıp adli kontrol şartıyla serbest bırakılan eski Türkiye Sigorta ve Türkiye Hayat Emeklilik Genel Müdürü Taha Çakmak yeniden gözaltına alındı.",
-          "source": "https://www.ntv.com.tr/turkiye/turkiye-sigortanin-eski-genel-muduru-1-milyon-dolar-almis-parayi-fona-yatirmis-1747615"
+          "title": "15 milyar liralık yasa dışı bahis trafiği çöktü: 5 ilde eş zamanlı operasyon",
+          "summary": "Kütahya merkezli 5 ilde yürütülen soruşturmada, organize hareket eden iki ayrı yasa dışı bahis şebekesinin lider kadrosu ve finans ağı deşifre edildi. 84 şüphelinin hedef alındığı operasyonda 76 kişi yakalanırken, zanlılara ait 10 otomobil ve 2 gayrimenkule mahkeme kararıyla el koyma işlemi uygulandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/15-milyar-liralik-yasa-disi-bahis-trafigi-coktu-5-ilde-es-zamanli-operasyon-43352653"
         }
       ]
     },
     "dunya": {
-      "text": "Ukrayna'da iki askerin ölümüyle sonuçlanan zehirli paket tuzağı. Dev fırtına nedeniyle Tayvan'da hayat durdu. Yaklaşık bin uçuş iptal. 'Stratejik ortaklık' dünyada yankılandı: Türkiye ve Kanada'dan tarihi adım: ABD'nin ötesine bakmaya başladı. Sekiz Dışişleri Bakanı, İstanbul'da buluşuyor. Krizler masada. Cumhurbaşkanı Erdoğan ve Bakan Fidan'dan önemli mesajlar. \"İstanbul diplomasinin merkezi oldu\". Japon yazar Ryu Murakami hayatını kaybetti. Dışişleri Bakanı Hakan Fidan: Libya'da kalıcı çözüme yakınız.",
+      "text": "Dışişleri bakanları, İstanbul'da bir araya geldi. Krizler masada. Dışişleri Bakanı Hakan Fidan: İran'a yeni saldırı çatışmayı yayar. Beyaz Saray: Rusya ve Ukrayna yerel ateşkes için anlaştı, Melania Trump da devredeydi. Ürdün'de silahlı saldırı: 7 ölü. Kanada Başbakanı Carney'den Türkiye'ye övgü dolu sözler! 'Almamız gereken dersler var'. Diplomasinin kalbi İstanbul'da atıyor! 7. toplantı gerçekleştirildi. Trump ve Putin anlaştı. Rus yakıtı New York yolunda.",
       "items": [
         {
-          "title": "Ukrayna'da iki askerin ölümüyle sonuçlanan zehirli paket tuzağı",
-          "summary": "Ukrayna polisi, Rus istihbaratı adına hareket ederek iki askerin ölümüne yol açan metadon yüklü paketleri cepheye göndermekle suçlanan 17 yaşındaki bir kızı gözaltına aldı. Ukrayna emniyet birimleri, Rus gizli servisleriyle işbirliği yaparak askerlere ölümcül dozda uyuşturucu içeren kargolar ulaştırdığı tespit edilen 17 yaşındaki şüpheliyi yakaladı. Polis teşkilatı tarafından bugün yapılan açıklamada, kargolardaki maddeleri tüketen iki Ukrayna askerinin zehirlenerek yaşamını yitirdiği duyuruldu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ukraynada-iki-askerin-olumuyle-sonuclanan-zehirli-paket-tuzagi-1747624"
-        },
-        {
-          "title": "Dev fırtına nedeniyle Tayvan'da hayat durdu. Yaklaşık bin uçuş iptal",
-          "summary": "Kuzeydoğu kıyılarına yaklaşan Çampi Tayfunu nedeniyle Tayvan genelinde eğitime, uçuşlara ve piyasalara ara verilirken 1 kişi yaşamını yitirdi, 163 kişi yaralandı. Kuzeydoğu kıyılarına yaklaşan Çampi Tayfunu nedeniyle Tayvan genelinde hayat durma noktasına geldi. Şiddetli rüzgar ve sağanak yağışın adayı etkisi altına almasıyla finans piyasaları kapandı, yaklaşık bin uçak seferi iptal edildi. Yetkililer, fırtına nedeniyle 1 kişinin hayatını kaybettiğini, 163 kişinin yaralandığını bildirdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-dev-firtina-nedeniyle-tayvanda-hayat-durdu-yaklasik-bin-ucus-iptal-1747622"
-        },
-        {
-          "title": "'Stratejik ortaklık' dünyada yankılandı: Türkiye ve Kanada'dan tarihi adım: ABD'nin ötesine bakmaya başladı",
-          "summary": "Türkiye ve Kanada'nın ilişkilerini stratejik ortaklık seviyesine yükseltmesi ve üç anlaşmaya imza atması dünya basınında geniş yankı uyandırdı. İngiliz basını, anlaşmanın NATO müttefikleri arasında gerçekleştiğinin altını çizerken ABC gazetesi ise Kanada'nın ABD'nin ötesine bakmaya başladığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/stratejik-ortaklik-dunyada-yankilandi-turkiye-ve-kanadadan-tarihi-adim-abdnin-otesine-bakmaya-basladi-43352113"
-        },
-        {
-          "title": "Sekiz Dışişleri Bakanı, İstanbul'da buluşuyor. Krizler masada",
-          "summary": "Türkiye'nin girişimiyle İstanbul'da buluşan R4 ve E3 ülkelerinin dışişleri bakanları, Filistin, Hürmüz Boğazı, Kızıldeniz ve Ukrayna krizlerine ortak çözüm arıyor. Türkiye'nin girişimiyle bir araya gelen yedi ülkenin dışişleri bakanları, bölgesel ve küresel krizlere ortak çözüm arayışıyla İstanbul'da toplanıyor.",
+          "title": "Dışişleri bakanları, İstanbul'da bir araya geldi. Krizler masada",
+          "summary": "Türkiye'nin girişimiyle İstanbul'da buluşan R4 ve E3 ülkelerinin dışişleri bakanları, Filistin, Hürmüz Boğazı, Kızıldeniz ve Ukrayna krizlerine ortak çözüm yollarını ele alıyor. Türkiye'nin girişimiyle bir araya gelen yedi ülkenin dışişleri bakanları, bölgesel ve küresel krizlere ortak çözüm arayışıyla İstanbul'da bir araya geldi.",
           "source": "https://www.ntv.com.tr/dunya/galeri-sekiz-disisleri-bakani-istanbulda-bulusuyor-krizler-masada-1747580"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan ve Bakan Fidan'dan önemli mesajlar. \"İstanbul diplomasinin merkezi oldu\"",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Dışişleri Bakanı Hakan Fidan, 9. İstanbul Arabuluculuk Konferansı'nın açılışında önemli mesajlar verdi. 9. İstanbul Arabuluculuk Konferansı bugün başladı. İlk olarak Dışişleri Bakanı Hakan Fidan kürsüye çıkarak açılış konuşmasını yaptı. İstanbul'un tarihsel misyonuna değinen Fidan, kentin çok uzun zamandır diyalog ve diplomasinin merkezi kimliğini taşıdığını söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-ve-bakan-fidandan-onemli-mesajlar-istanbul-diplomasinin-merkezi-oldu-1747596"
+          "title": "Dışişleri Bakanı Hakan Fidan: İran'a yeni saldırı çatışmayı yayar",
+          "summary": "Dışişleri Bakanı Hakan Fidan, İstanbul'da düzenlenen R4+E3 ülkeleri toplantısının ardından açıklamalarda bulundu. Bakan Fidan, yaptığı açıklamada, İran'a yeni saldırıların çatışmaları yayacağını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-irana-yeni-saldiri-catismayi-yayar-43352660"
         },
         {
-          "title": "Japon yazar Ryu Murakami hayatını kaybetti",
-          "summary": "Japon yazar Ryu Murakami'nin, 74 yaşında yaşamını yitirdiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/japon-yazar-ryu-murakami-hayatini-kaybetti-43352038"
+          "title": "Beyaz Saray: Rusya ve Ukrayna yerel ateşkes için anlaştı, Melania Trump da devredeydi",
+          "summary": "Beyaz Saray, Melania Trump'ın girişimleriyle Rusya ve Ukrayna'nın Oleşkıy kentinde yerel ateşkes sağladığını duyurdu. Anlaşma 29 Ekim'de devreye girecek. ABD Başkanı'nın eşi Melania Trump, Rusya'nın kontrolündeki Ukrayna kenti Oleşkıy'da geçerli olacak yerel bir ateşkes sağladı. Beyaz Saray'dan yapılan yazılı açıklamaya göre, 29 Ekim 2026'da yürürlüğe girecek uzlaşmayla Rusya ve Ukrayna kentteki tüm askeri eylemleri geçici olarak durduracak.",
+          "source": "https://www.ntv.com.tr/dunya/beyaz-saray-rusya-ve-ukrayna-yerel-ateskes-icin-anlasti-melania-trump-da-devredeydi-1747661"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan: Libya'da kalıcı çözüme yakınız",
-          "summary": "Dışişleri Bakanı Hakan Fidan, İstanbul'da düzenlenen 9. arabuluculuk konferansında açıklamalarda bulundu. Bakan Fidan konuşmasında, \"Libya'da kalıcı çözüme yakınız\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-libyada-kalici-cozume-yakiniz-43351916"
+          "title": "Ürdün'de silahlı saldırı: 7 ölü",
+          "summary": "Ürdün'ün El-Karak kentindeki bir kiliseye silahlı saldırı düzenlendi. Meydana gelen olayda, 7 kişi hayatını kaybederken 10 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/urdunde-silahli-saldiri-7-olu-43352508"
+        },
+        {
+          "title": "Kanada Başbakanı Carney'den Türkiye'ye övgü dolu sözler! 'Almamız gereken dersler var'",
+          "summary": "Kanada Başbakanı Mark Carney, Türkiye'den askeri kabiliyet tedariki ve savunma sanayisinde ortaklık seçeneklerinin her ikisine de açık olduklarını belirterek, Türkiye'nin savunma sanayisi alanındaki deneyiminden faydalanabileceklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kanada-basbakani-carneyden-turkiyeye-ovgu-dolu-sozler-almamiz-gereken-dersler-var-43352470"
+        },
+        {
+          "title": "Diplomasinin kalbi İstanbul'da atıyor! 7. toplantı gerçekleştirildi",
+          "summary": "Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde, İstanbul'da Türkiye-Mısır-Pakistan-Suudi Arabistan Dışişleri Bakanları Yedinci Toplantısı gerçekleştirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/diplomasinin-kalbi-istanbulda-atiyor-7-toplanti-gerceklestirildi-43352456"
+        },
+        {
+          "title": "Trump ve Putin anlaştı. Rus yakıtı New York yolunda",
+          "summary": "ABD Başkanı Trump ile Rusya Devlet Başkanı Putin'in uzlaşmasıyla yaptırımların esnetilmesinin ardından, yaklaşık 300 bin varil Rus dizeli taşıyan tanker New York'a doğru yola çıktı. Rus dizeli taşıyan bir petrol tankeri, ABD yönetiminin yaptırımları esnetmesi üzerine New York'a gitmek üzere yola çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-ve-putin-anlasti-rus-yakiti-new-york-yolunda-1747656"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Şenol Güneş'ten Sergen Yalçın ve Milli Takım açıklaması: Başarılı olmasını isteriz. İngiliz basını Beşiktaş-Crystal Palace maçını konuşuyor: 'Palace beraberlikle yetinmek zorunda kaldı!'. Fenerbahçe, EuroLeague'de Olympiakos deplasmanında! Maçın heyecanı canlı yayınla Misli'de. Avrupa'da Türk haftası! UEFA ülke puanı güncellendi. Nihat Kahveci'den Ümit Akdağ'a kırmızı kart sitemi: '2 metreden niye uçuyorsun?'. Trabzonspor'un Hearts galibiyeti sonrası açıkladı: 'Ben buradayım abiler' dedi! Dünyanın her yerinde olabiliyor demek ki. Trabzonspor'un süper yıldızı Muhammed Salah rakip tanımıyor!.",
+      "text": "Galatasaray'ın golcüsü Victor Osimhen'den Lille itirafı!. Adi Hütter'den dikkat çeken Can Uzun açıklaması: 'Yoluna taş koyabilir'. PSG-Lyon maçı ertelendi. Sergen Yalçın gerçeği ortaya çıktı: 5 gündür Riva'da!. Obradovic, Yunan basketbolundaki skandala temkinli yaklaştı. İstanbul’da Program Dopdolu! İşte Misli’den Günün Altılı Analizi…. Dortmund'dan devrim gibi proje! 'Taraftar modu' ile telefonlar daha az kullanılacak.",
       "items": [
         {
-          "title": "Şenol Güneş'ten Sergen Yalçın ve Milli Takım açıklaması: Başarılı olmasını isteriz",
-          "summary": "Tecrübeli teknik direktör Şenol Güneş, A Milli Futbol Takımı'nın başına Sergen Yalçın'ın getirilmesi sonrası kendisine yöneltilen soruyu cevapladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/senol-gunesten-sergen-yalcin-ve-milli-takim-aciklamasi-basarili-olmasini-isteriz-43352141"
+          "title": "Galatasaray'ın golcüsü Victor Osimhen'den Lille itirafı!",
+          "summary": "Galatasaray formasıyla eski takımı Lille'e gol atan Victor Osimhen, Fransız ekibinin sitesine konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-golcusu-victor-osimhenden-lille-itirafi-43352704"
         },
         {
-          "title": "İngiliz basını Beşiktaş-Crystal Palace maçını konuşuyor: 'Palace beraberlikle yetinmek zorunda kaldı!'",
-          "summary": "Beşiktaş ile Crystal Palace, UEFA Avrupa Ligi'nin üçüncü haftasında 2-2 berabere kaldı. Mücadele İngiliz basınında geniş yer buldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ingiliz-basini-besiktas-crystal-palace-macini-konusuyor-palace-beraberlikle-yetinmek-zorunda-kaldi-43351977"
+          "title": "Adi Hütter'den dikkat çeken Can Uzun açıklaması: 'Yoluna taş koyabilir'",
+          "summary": "Eintracht Frankfurt Teknik Direktörü Adi Hütter, milli futbolcu Can Uzun hakkında çarpıcı açıklamalar yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/adi-hutterden-dikkat-ceken-can-uzun-aciklamasi-yoluna-tas-koyabilir-43352693"
         },
         {
-          "title": "Fenerbahçe, EuroLeague'de Olympiakos deplasmanında! Maçın heyecanı canlı yayınla Misli'de",
-          "summary": "Fenerbahçe, EuroLeague'in 7. haftasında Yunan ekibi Olympiakos ile deplasmanda karşılaşıyor. Maçın heyecanı canlı sohbet ve canlı yayınla Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-euroleaguede-olympiakos-deplasmaninda-macin-heyecani-canli-yayinla-mislide-43352023"
+          "title": "PSG-Lyon maçı ertelendi",
+          "summary": "Fransa Lig 1'de oynanacak Paris Saint Germain (PSG) - Lyon maçı, ülke genelindeki protestolar nedeniyle ertelendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/psg-lyon-maci-ertelendi-43352615"
         },
         {
-          "title": "Avrupa'da Türk haftası! UEFA ülke puanı güncellendi",
-          "summary": "Avrupa kupalarında Türk takımları bu hafta 2 galibiyet ve 2 beraberlik aldı. Maçların sonunda ise ülke puanı güncellendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/avrupada-turk-haftasi-uefa-ulke-puani-guncellendi-43351884"
+          "title": "Sergen Yalçın gerçeği ortaya çıktı: 5 gündür Riva'da!",
+          "summary": "A Milli Futbol Takımı'mızın yeni teknik direktörü Sergen Yalçın'ın yoğun mesaiye başladığı, 5 gündür Riva'da çalıştığı ortaya çıktı. İşte ayrıntılar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-gercegi-ortaya-cikti-5-gundur-rivada-43352586"
         },
         {
-          "title": "Nihat Kahveci'den Ümit Akdağ'a kırmızı kart sitemi: '2 metreden niye uçuyorsun?'",
-          "summary": "Beşiktaş ile Crystal Palace, UEFA Avrupa Ligi'nin üçüncü haftasında 2-2 berabere kaldı. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-umit-akdaga-kirmizi-kart-sitemi-2-metreden-niye-ucuyorsun-43351814"
+          "title": "Obradovic, Yunan basketbolundaki skandala temkinli yaklaştı",
+          "summary": "Yunanistan Basketbol Ligi takımlarından Panathinaikos'un başantrenörü Zeljko Obradovic, Yunan basketbolundaki şike ve rüşvet skandalıyla ilgili yorum yapmaktan kaçındı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/obradovic-yunan-basketbolundaki-skandala-temkinli-yaklasti-43352574"
         },
         {
-          "title": "Trabzonspor'un Hearts galibiyeti sonrası açıkladı: 'Ben buradayım abiler' dedi! Dünyanın her yerinde olabiliyor demek ki",
-          "summary": "Trabzonspor, UEFA Konferans Ligi 2’nci hafta karşılaşmasında sahasında ağırladığı Hearts’ı 2-0 mağlup etti. Bordo-Mavili ekibin galibiyetini Hürriyet yazarı Mehmet Ayan köşe yazısında değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-hearts-galibiyeti-sonrasi-acikladi-ben-buradayim-abiler-dedi-dunyanin-her-yerinde-olabiliyor-demek-ki-43351782"
+          "title": "İstanbul’da Program Dopdolu! İşte Misli’den Günün Altılı Analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-program-dopdolu-iste-misliden-gunun-altili-analizi-43352573"
         },
         {
-          "title": "Trabzonspor'un süper yıldızı Muhammed Salah rakip tanımıyor!",
-          "summary": "KupPS’tan sonra dün de gol-asist dublesi yapan Salah üst üste 3 maçta da golünü attı, Trabzon’da çıktığı 12 maçın 8’inde skora katkı verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-super-yildizi-muhammed-salah-rakip-tanimiyor-43351697"
+          "title": "Dortmund'dan devrim gibi proje! 'Taraftar modu' ile telefonlar daha az kullanılacak",
+          "summary": "Almanya Bundesliga ekiplerinden Borussia Dortmund, tribünlerde telefon kullanımını azaltmak ve taraftarların maç atmosferini daha fazla yaşamasını sağlamak amacıyla yeni bir uygulamayı hayata geçiriyor. “Taraftar Modu” adı verilen uygulamayla, maç sırasında telefonunu daha az kullanan taraftarlar puan kazanacak ve çeşitli ödüllerin sahibi olma şansı yakalayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dortmunddan-devrim-gibi-proje-taraftar-modu-ile-telefonlar-daha-az-kullanilacak-43352502"
         }
       ]
     },
