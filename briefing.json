@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-24T04:00:03.904Z",
+  "generatedAt": "2026-10-24T10:00:03.658Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı. Kayseri’de kaza yapan otomobil alev aldı, park halindeki 3 araç zarar gördü: 1 yaralı. Bakan Güler'den Mekke İttifakı açıklaması. \"Husilerle çatışmaya girilmeyecek\". Dört yıl süren Martı TAG davasında karar çıktı. Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı. Milas Belediyesi operasyonunda 18 tutuklama. Azerbaycan Büyükelçisi Aslanov'dan MHP Lideri Bahçeli'ye ziyaret.",
+      "text": "Kamu Personel Seçme Sınavı (KPSS) yarın yapılacak. KPSS Ortaöğretim öncesi önemli çağrı. BEDAŞ'tan 13 ilçeye elektrik kesintisi uyarısı. Saat 00.00'da başlayacak. Hatay Havalimanı'nda yenileme çalışmaları sürüyor. Sarıyer'de kırmızı ve mavi bültenle aranan 2 şüpheli yakalandı. Çiğdem'in öldüğü kazada büyük şüphe. İstanbul'da mal varlığı aklama soruşturması: 3 şüpheliye tutuklama, Mustafa Sarıgül'ün korumasına adli kontrol. Tekirdağ'da 1813 yılına tarihlenen mezar taşı kitabesi bulundu.",
       "items": [
         {
-          "title": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı",
-          "summary": "Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-cumhuriyet-bayrami-toren-provasi-nedeniyle-bazi-cadde-ve-yollar-trafige-kapatildi-43353028"
+          "title": "Kamu Personel Seçme Sınavı (KPSS) yarın yapılacak. KPSS Ortaöğretim öncesi önemli çağrı",
+          "summary": "Kamu Personel Seçme Sınavı (KPSS) Ortaöğretim Sınavı yarın yapılacak. KPSS Ortaöğretim Sınavı'nda 3 milyon aday ter dökecek. Sınav öncesinde ÖSYM Başkanı Bayram Ali Ersoy, önemli bir çağrıda bulundu. Kamu Personel Seçme Sınavı (KPSS) Ortaöğretim Sınavı yarın gerçekleşecek. KPSS Ortaöğretim Sınavı'nda Türkiye genelinde 3 milyona yakın aday ter dökecek. Sınava ortaöğretim kurumlarından mezun olanlarla sınavın geçerlilik süresi içerisinde (iki yıl) mezun olabilecek durumda bulunan adaylar katılacak.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kamu-personel-secme-sinavi-kpss-yarin-yapilacak-kpss-ortaogretim-oncesi-onemli-cagri-1747758"
         },
         {
-          "title": "Kayseri’de kaza yapan otomobil alev aldı, park halindeki 3 araç zarar gördü: 1 yaralı",
-          "summary": "Kayseri’nin Kocasinan ilçesinde kaldırıma çarpıp, karşı yola geçerek alev alan otomobil kullanılamaz hale geldi. Kazada otomobil sürücüsü yaralanırken, park halindeki 3 otomobilde alevlerin sıçraması nedeniyle zarar gördü.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayseride-kaza-yapan-otomobil-alev-aldi-park-halindeki-3-arac-zarar-gordu-1-yarali-43353027"
+          "title": "BEDAŞ'tan 13 ilçeye elektrik kesintisi uyarısı. Saat 00.00'da başlayacak",
+          "summary": "İstanbul'un 13 ilçesinde 25 Ekim Pazar günü elektrik kesintisi yaşanacak. BEDAŞ tarafından yapılan açıklamaya göre, bazı ilçelerdeki elektrik kesintisi gece yarısı başlayacak. İstanbul'da 25 Ekim Pazar günü bazı ilçelerde elektrik kesintisi yaşanacak. Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ) tarafından yayınlanan 25 Ekim tarihli elektrik kesintisi programından 13 ilçe etkilenecek. Avrupa Yakası'ndaki bazı ilçelerde yaşanacak elektrik kesintisi gece yarısı 00.00'da başlayacak.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-bedastan-13-ilceye-elektrik-kesintisi-uyarisi-gece-0000da-baslayacak-1747745"
         },
         {
-          "title": "Bakan Güler'den Mekke İttifakı açıklaması. \"Husilerle çatışmaya girilmeyecek\"",
-          "summary": "Milli Savunma Bakanı Yaşar Güler, Mekke İttifakıyla ilgili önemli açıklamalar yaptı. Bakan Güler, Suudi Arabistan'a verilebilecek askeri destek kapsamında \"Husilerle çatışmaya girilmeyecek\" dedi. Milli Savunma Bakanı Yaşar Güler, Star Haber Genel Yönetmeni Nazlı Çelik'in sorularını yanıtladı. Suudi Arabistan, Pakistan ve Türkiye arasında imzalanan Mekke Anlaşması Meclis gündemindeyken, Türkiye'nin Husi saldırılarının sürdüğü Suudi Arabistan'a nasıl bir askeri destek vereceği sorusu gündemde.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-gulerden-mekke-ittifaki-aciklamasi-husilerle-catismaya-girilmeyecek-1747683"
+          "title": "Hatay Havalimanı'nda yenileme çalışmaları sürüyor",
+          "summary": "Bakan Uraloğlu, Hatay Havalimanı'ndaki yenileme çalışmalarının sürdüğünü, yeni tesislerin yıl sonunda tamamlanmasının hedeflendiğini açıkladı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Hatay Havalimanı'nda yeni binaların yapımı ve apron genişletilmesini kapsayan projenin 2026 yılı sonunda tamamlanmasının hedeflendiğini bildirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-hatay-havalimaninda-yenileme-calismalari-suruyor-1747752"
         },
         {
-          "title": "Dört yıl süren Martı TAG davasında karar çıktı",
-          "summary": "Taksiciler Odası'nın Martı TAG'a karşı açılan ve dört yıldır devam eden haksız rekabet davasında mahkeme, anayasada yer alan girişim özgürlüğünün bir sonucu olduğu ve kapatılamayacağına hükmetti. Martı TAG’a karşı, İstanbul Otomobilciler Esnaf Odası ve Antalya Şoförler ve Otomobilciler Odası olmak üzere ondan fazla taksi odası tarafından açılan ve 4 yıldır devam eden haksız rekabet davasında karar çıktı. 14. Bölge Adliye Mahkemesi, Martı TAG’ın mahkeme kararıyla yasaklanamayacağına hükmetti.",
-          "source": "https://www.ntv.com.tr/turkiye/dort-yil-suren-marti-tag-davasinda-karar-cikti-1747698"
+          "title": "Sarıyer'de kırmızı ve mavi bültenle aranan 2 şüpheli yakalandı",
+          "summary": "İstanbul Sarıyer'de düzenlenen operasyonda, uyuşturucu ticareti ve hırsızlık suçlarından uluslararası seviyede aranan 2 şüpheli gözaltına alındı. İstanbul Sarıyer’de düzenlenen operasyonda, uyuşturucu madde ticareti suçundan mavi bültenle aranan M.D. ile hırsızlık suçundan kırmızı bültenle aranan O.O. yakalandı. İstanbul Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şube Müdürlüğü ekipleri, uluslararası seviyede aranan kişilerin yakalanmasına yönelik çalışma yürüttü.",
+          "source": "https://www.ntv.com.tr/turkiye/sariyerde-kirmizi-ve-mavi-bultenle-aranan-2-supheli-yakalandi-1747757"
         },
         {
-          "title": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
-          "summary": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi. IMF'nin Mali Şeffaflık Değerlendirmesi'ne göre, Türkiye kamu mali yönetiminde son yıllarda kaydettiği ilerlemeyle Birleşik Krallık, Finlandiya, İrlanda, Avusturya ve Portekiz'in de olduğu yaklaşık 40 ülke arasında en üst sıralarda yer aldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-43353025"
+          "title": "Çiğdem'in öldüğü kazada büyük şüphe",
+          "summary": "İstanbul'da otomobille çarpışan motosikletteki yolcu Çiğdem Aktaş yaşamını yitirdi. Motosiklet sürücüsünün ağır yaralandığı kazada, otomobilin ters yönde seyrettiği ileri sürüldü. İstanbul Fatih'te meydana gelen trafik kazasında motosiklet sürücüsü ağır yaralandı, yolcu konumundaki 21 yaşındaki Sinem Aktaş yaşamını yitirdi. Kaza, 22 Ekim saat 00.18 sıralarında Molla Gürani Mahallesi Vatan Caddesi'nde meydana geldi. Edinilen bilgiye göre, trafik ışıklarında otomobil ile motosiklet çarpıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/cigdemin-oldugu-kazada-buyuk-suphe-1747751"
         },
         {
-          "title": "Milas Belediyesi operasyonunda 18 tutuklama",
-          "summary": "Muğla'nın Milas belediyesine yönelik Muğla Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gözaltı kararı verilen 35 şüpheliden 18'i tutuklandı. Tutuklananlar arasında Milas Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz da yer alırken, 2 şüpheli hakkında ev hapsi, 15 kişi hakkında ise adli kontrol kararı çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/milas-belediyesi-operasyonunda-18-tutuklama-43353024"
+          "title": "İstanbul'da mal varlığı aklama soruşturması: 3 şüpheliye tutuklama, Mustafa Sarıgül'ün korumasına adli kontrol",
+          "summary": "İstanbul'da 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturmada gözaltına alınan 5 şüpheliden 3'ü çıkarıldıkları hakimlikçe tutuklanırken 2 kişi ise ev hapsi şeklinde adli kontrol şartıyla tahliye edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-mal-varligi-aklama-sorusturmasi-3-supheliye-tutuklama-mustafa-sarigulun-korumasina-adli-kontrol-43353323"
         },
         {
-          "title": "Azerbaycan Büyükelçisi Aslanov'dan MHP Lideri Bahçeli'ye ziyaret",
-          "summary": "Azerbaycan'ın Ankara Büyükelçisi Reşad Aslanov, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/azerbaycan-buyukelcisi-aslanovdan-mhp-lideri-bahceliye-ziyaret-43353023"
+          "title": "Tekirdağ'da 1813 yılına tarihlenen mezar taşı kitabesi bulundu",
+          "summary": "Tekirdağ Bağcılık Araştırma Enstitüsü arazisinde bulunan Osmanlı dönemi Edirne Valisi Şehit Hurşid Paşa’nın kızı Şah-ı Huban Hanım’a ait olduğu değerlendirilen, 1813 yılına tarihlenen mezar taşı kitabesi, Tekirdağ Müze Müdürlüğü’ne teslim edildi. Bulunan kitabenin, yapılacak ayrıntılı incelemelerin ardından Tekirdağ ve çevresinin tarihi mirasına katkı sunması bekleniyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/tekirdagda-1813-yilina-tarihlenen-mezar-tasi-kitabesi-bulundu-43353319"
         }
       ]
     },
     "dunya": {
-      "text": "Rubio'dan Kübalılara çağrı. \"CIA ile işbirliği yapın\". Vanuatu'da 7.2 büyüklüğünde deprem. Avrupa'da protestoların gölgesinde hafta sonu alarmı. Binlerce polis görevlendirildi. ABD'nin İran planı ne? Büyükelçi Barrack saldırıya işaret etti, Trump'tan ilginç bir yanıt geldi. Tom Barrack hafta sonunu işaret etmişti... Trump'tan İran'a saldırı açıklaması. ABD'de Demokratların ara seçimlerden sonra Musk hakkında soruşturma açacağı öne sürüldü. ABD'li yetkililerin Rusya-Ukrayna Savaşı'nın sona erdirilmesi için plan hazırladığı iddiası.",
+      "text": "İstanbul'da buluşmuşlardı. Sekiz ülkenin dışişleri bakanından \"krizlere karşı ortak diyalog\" kararı. Türkiye'den Yunanistan'a tepki: Lozan'ı açıkça hiçe sayıyor. Dışişleri'nden Yunanistan'a Batı Trakya'da seçilmiş müftüleri tanıma çağrısı. 8 ülkeden ortak 'diyalog' ve 'diplomasi' çağrısı. Paris'te yağma korkusu. Vitrinler tahtalarla kapatıldı. İstihbarat notu ortaya çıktı! ABD'den İran alarmı. Servetini geri almak için ülkesine döndü, tutuklandı.",
       "items": [
         {
-          "title": "Rubio'dan Kübalılara çağrı. \"CIA ile işbirliği yapın\"",
-          "summary": "Küba'yı sık sık \"operasyon\" yapmakla tehdit eden Donald Trump'ın ardından, ABD Dışişleri Bakanı Marco Rubio da Kübalılara seslendi: \"CIA ile gizli işbirliği fırsatını değerlendirin.” ABD Başkanı Donald Trump Florida'daki seçim mitinginde, “İran'dan dönerken Küba meselesini halledeceğiz. Sonra Marco Rubio'yu anlaşmayı sonuçlandırması için göndereceğiz.” dedi. Ardından kendisi de Küba kökenli olan Dışişleri Bakanı Marco Rubio'dan da konuya ilişkin açıklama geldi.",
-          "source": "https://www.ntv.com.tr/dunya/rubiodan-kubalilara-cagri-cia-ile-isbirligi-yapin-1747705"
+          "title": "İstanbul'da buluşmuşlardı. Sekiz ülkenin dışişleri bakanından \"krizlere karşı ortak diyalog\" kararı",
+          "summary": "Türkiye, Mısır, Pakistan, Suudi Arabistan, Almanya, Birleşik Krallık, Fransa ve İtalya dışişleri bakanları İstanbul'da bir araya gelerek ortak bildiri yayımladı. Sekiz ülkenin dışişleri bakanları, 9. Arabuluculuk Konferansı kapsamında Ortadoğu'daki sıcak çatışmaları, deniz ticaret yollarındaki riskleri ve Karadeniz'deki gerilimi değerlendirmek üzere İstanbul'da toplandı. Görüşmelerin ardından yayımlanan ortak bildiride, krizlerin çözümü için diplomasi ve müzakere vurgusu öne çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/istanbulda-bulusmuslardi-sekiz-ulkenin-disisleri-bakanindan-krizlere-karsi-ortak-diyalog-karari-1747756"
         },
         {
-          "title": "Vanuatu'da 7.2 büyüklüğünde deprem",
-          "summary": "Pasifik Ateş Çemberi'ndeki ada ülkesi Vanuatu açıklarında 7.2 büyüklüğünde deprem meydana geldi. ABD Jeolojik Araştırmalar Kurumu'nun (USGS) verilerine göre Güney Pasifik'teki Vanuatu'da 7.2 büyüklüğünde deprem oldu. USGS, sarsıntının Vanuatu'nun Sola yerleşiminin yaklaşık 200 kilometre batısındaki deniz açıklarında meydana geldiğini açıkladı. Depremin derinliği ise 10 kilometre olarak ölçüldü.",
-          "source": "https://www.ntv.com.tr/dunya/vanuatuda-72-buyuklugunde-deprem-1747704"
+          "title": "Türkiye'den Yunanistan'a tepki: Lozan'ı açıkça hiçe sayıyor",
+          "summary": "Dışişleri Bakanlığı, Yunanistan’ın Batı Trakya Türk Azınlığının müftülüklerine yönelik uygulamalara tepki gösterdi. Yapılan açıklamada, \"Yunanistan, Lozan Barış Antlaşması'nı açıkça hiçe sayıyor\" ifadesi kullanıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiyeden-yunanistana-tepki-lozani-acikca-hice-sayiyor-43353353"
         },
         {
-          "title": "Avrupa'da protestoların gölgesinde hafta sonu alarmı. Binlerce polis görevlendirildi",
-          "summary": "Avrupa başkentleri, hafta sonu düzenlenecek kitlesel gösterilere hazırlanıyor. Fransa ve İtalya'da hayat pahalılığı ve hükümet politikalarına karşı başlayan protestoların ardından hafta sonu için yeni eylem çağrıları yapıldı. Fransa'da 70 bin güvenlik görevlisi görevlendirilirken İtalya'da çok sayıda kentte güvenlik önlemleri artırıldı. İspanya ve Almanya'da da farklı taleplerle gösteriler düzenlenecek.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-avrupada-protestolarin-golgesinde-hafta-sonu-binlerce-polis-gorevlendirildi-1747688"
+          "title": "Dışişleri'nden Yunanistan'a Batı Trakya'da seçilmiş müftüleri tanıma çağrısı",
+          "summary": "Dışişleri Bakanlığı, Batı Trakya'daki müftülüklere devlet eliyle yapılan son atamaların ardından Yunanistan'a azınlığın seçtiği dini liderleri tanıma çağrısında bulundu. Dışişleri Bakanlığı, Yunanistan'ın Batı Trakya'daki müftülük makamlarına devlet eliyle yaptığı son atamalara tepki göstererek Atina yönetimine Türk azınlığın kendi seçtiği meşru dini liderleri tanıma çağrısında bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/disislerinden-yunanistana-bati-trakyada-secilmis-muftuleri-tanima-cagrisi-1747753"
         },
         {
-          "title": "ABD'nin İran planı ne? Büyükelçi Barrack saldırıya işaret etti, Trump'tan ilginç bir yanıt geldi",
-          "summary": "ABD Başkanı Trump, İran'a operasyon düzenleyebileceklerini söylerken savaşın kısa sürede bitirilebileceğini savundu. Diğer yandan Trump, Barrack'ın operasyon açıklamasına ise ilginç bir yanıt verdi. ABD ile İran arasındaki gerilim sürerken Washington yönetiminden olası yeni bir askeri operasyona ilişkin peş peşe açıklamalar geldi. ABD'nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack, İran'a yönelik yeni bir saldırının bu hafta sonu gerçekleşebileceğini söyledi.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-iran-savasi-aciklamasi-cok-hizli-bitirebiliriz-1747678"
+          "title": "8 ülkeden ortak 'diyalog' ve 'diplomasi' çağrısı",
+          "summary": "Türkiye, Mısır, Pakistan, Suudi Arabistan, Almanya, İngiltere, Fransa ve İtalya, bölgesel çatışmaların sona ermesi için çağrıda bulundu. Yapılan çağrıda, diyalog ve diplomasinin önemi vurgulandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/8-ulkeden-ortak-diyalog-ve-diplomasi-cagrisi-43353297"
         },
         {
-          "title": "Tom Barrack hafta sonunu işaret etmişti... Trump'tan İran'a saldırı açıklaması",
-          "summary": "ABD Başkanı Donald Trump Florida’da düzenlenen mitingde, \"İran'a bir küçük Destansı Öfke operasyonu daha gerçekleştirebiliriz\" dedi. ABD'nin Ankara ve Suriye Özel Temsilcisi Tom Barrack ise saldırıya ilişkin bu hafta sonunu işaret etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/tom-barrack-hafta-sonunu-isaret-etmisti-trumptan-irana-saldiri-aciklamasi-43352991"
+          "title": "Paris'te yağma korkusu. Vitrinler tahtalarla kapatıldı",
+          "summary": "Fransa'da lüks markalar, hafta sonu düzenlenecek gösteriler öncesinde vitrinlerini ahşap panellerle kapatırken bazı mağazalar yağma endişesiyle kepenk indirme kararı aldı. Fransa'da ve Avrupa'da lüks tüketimin kalbi sayılan Paris sokakları, haftasonu düzenlenecek geniş katılımlı protestolar öncesinde vitrinlerini ahşap panellerle kapatan ve kepenk indiren dünyaca ünlü markaların güvenlik tedbirlerine sahne oluyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-pariste-yagma-korkusu-vitrinler-tahtalarla-kapatildi-1747741"
         },
         {
-          "title": "ABD'de Demokratların ara seçimlerden sonra Musk hakkında soruşturma açacağı öne sürüldü",
-          "summary": "ABD'de 3 Kasım’da yapılacak ara seçimlerde Demokratların Kongre'de Senato veya Temsilciler Meclisinde çoğunluğu elde etmesi halinde, ABD'li milyarder iş insanı Elon Musk ve şirketleri hakkında soruşturma başlatmayı planladığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-demokratlarin-ara-secimlerden-sonra-musk-hakkinda-sorusturma-acacagi-one-suruldu-43352805"
+          "title": "İstihbarat notu ortaya çıktı! ABD'den İran alarmı",
+          "summary": "Dışişleri Bakanı Marco Rubio'ya iletilen istihbarat notuna ulaşıldı. Axios'un haberine göre istihbarat notunda, İran'ın ABD personelini hedef almaya yönelik çabalarını artırdığı yer aldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/istihbarat-notu-ortaya-cikti-abdden-iran-alarmi-43353236"
         },
         {
-          "title": "ABD'li yetkililerin Rusya-Ukrayna Savaşı'nın sona erdirilmesi için plan hazırladığı iddiası",
-          "summary": "The Economist, ABD'li yetkililerin, Rusya-Ukrayna Savaşı'nın sona erdirilmesine yönelik Donbas'ta askerden arındırılmış bir bölge oluşturulması, Moskova'ya yönelik yaptırımların hafifletilmesi ve Ukrayna'nın NATO üyeliğinden vazgeçmesi gibi maddeleri içeren plan hazırladığını öne sürdü.​​​​​​​",
-          "source": "https://www.hurriyet.com.tr/dunya/abdli-yetkililerin-rusya-ukrayna-savasinin-sona-erdirilmesi-icin-plan-hazirladigi-iddiasi-43352804"
+          "title": "Servetini geri almak için ülkesine döndü, tutuklandı",
+          "summary": "Venezuela'da eski yönetimin el koyduğu 700 milyon dolarlık karides imparatorluğunu geri almak isteyen iş insanı José Enrique Rincón, ülkesine ayak basar basmaz tutuklanarak hücreye konuldu. Venezuela'da Nicolás Maduro yönetiminin el koyduğu 700 milyon dolarlık karides imparatorluğunu geri alabilme umuduyla ülkesine dönen iş insanı José Enrique Rincón, havaalanına indiği an gözaltına alınarak cezaevine konuldu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-servetini-geri-almak-icin-ulkesine-dondu-tutuklandi-1747735"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Joao Pereira: 'Sahaya çıkmamış gibiydik'. Selçuk İnan: 'Güzel bir galibiyet oldu'. Süper Lig'de derbi heyecanı! Galatasaray - Fenerbahçe. Rus basını transfer gelişmesini duyurdu: Galatasaray görüşüyor, Beşiktaş da ilgileniyor. Bayern Münih'in teknik direktörü Vincent Kompany hastaneye kaldırıldı!. Galatasaray'ın golcüsü Victor Osimhen'den Lille itirafı!. Adi Hütter'den dikkat çeken Can Uzun açıklaması: 'Yoluna taş koyabilir'.",
+      "text": "Shane Larkin'den Ergin Ataman açıklaması: 'Onunla birlikte Panathinaikos'a gitmeyi düşündüm!'. Aziz Yıldırım: '217 milyon Euro kulübe para sokmuşuz!'. Fenerbahçe'de yeni yönetim, yatırım maliyetlerini üstlendi. Fenerbahçe'nin borcu açıklandı!. Şenol Güneş'ten Sergen Yalçın açıklaması!. Müjde! Fenerbahçe'ye karşı ihtimal doğdu. Fenerbahçe'de İsmail Kartal'dan derbi için Greenwood planı!.",
       "items": [
         {
-          "title": "Joao Pereira: 'Sahaya çıkmamış gibiydik'",
-          "summary": "Corendon Alanyaspor Teknik Direktörü Joao Pereira, Kocaelispor’a 2-1 mağlup oldukları maçın ardından yaptığı açıklamada, ilk yarıda takımının mücadele edemediklerini belirterek, \"İlk yarı resmen sahaya çıkmadık. Oyun oynamadık, koşmadık. İlk yarıdan dolayı maçı kaybettik\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-sahaya-cikmamis-gibiydik-43352970"
+          "title": "Shane Larkin'den Ergin Ataman açıklaması: 'Onunla birlikte Panathinaikos'a gitmeyi düşündüm!'",
+          "summary": "Fenerbahçe Tarfin'in yıldız oyuncusu Shane Larkin, Yunan basınına verdiği röportajda sarı-lacivertli ekipteki yeni döneminin yanı sıra Anadolu Efes'te geçirdiği yıllar, Ergin Ataman'la ilişkisi ve kariyerine dair dikkat çeken açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/shane-larkinden-ergin-ataman-aciklamasi-onunla-birlikte-panathinaikosa-gitmeyi-dusundum-43353244"
         },
         {
-          "title": "Selçuk İnan: 'Güzel bir galibiyet oldu'",
-          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Corendon Alanyaspor karşısında aldıkları 2-1’lik galibiyetin hak edilmiş bir sonuç olduğunu belirterek, oyuncularının hafta boyunca çalıştıkları planı sahaya eksiksiz yansıttığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-guzel-bir-galibiyet-oldu-43352965"
+          "title": "Aziz Yıldırım: '217 milyon Euro kulübe para sokmuşuz!'",
+          "summary": "Fenerbahçe Başkanı Aziz Yıldırım, Yüksek Divan Kurulu'nda konuştu. Yıldırım, transferlerden bütçeye, İsmail Kartal'dan 75 bin kişilik stadyum teklifine dair önemli bilgiler verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-217-milyon-euro-kulube-para-sokmusuz-43353305"
         },
         {
-          "title": "Süper Lig'de derbi heyecanı! Galatasaray - Fenerbahçe",
-          "summary": "beIN SPORTS’ta, iki kıtayı rekabetle buluşturan dünya derbisinin heyecanı yaşanıyor. Galatasaray, 26 Ekim Pazartesi günü saat 21.30’da Ali Sami Yen Spor Kompleksi RAMS Park’ta Fenerbahçe’yi ağırlıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-derbi-heyecani-galatasaray-fenerbahce-43352879"
+          "title": "Fenerbahçe'de yeni yönetim, yatırım maliyetlerini üstlendi",
+          "summary": "Fenerbahçe'de başkan Aziz Yıldırım ve yönetim kurulu üyeleri, yenileme çalışmaları ve Maltepe Akademi Tesisleri maliyetini karşıladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-yeni-yonetim-yatirim-maliyetlerini-ustlendi-43353275"
         },
         {
-          "title": "Rus basını transfer gelişmesini duyurdu: Galatasaray görüşüyor, Beşiktaş da ilgileniyor",
-          "summary": "Rus basını, Galatasaray ve Beşiktaş'ın CSKA Moskova'dan Kislyak ile ilgilendiğini duyurdu. Sarı-kırmızılıların görüşmelere başladığı belirtildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/rus-basini-transfer-gelismesini-duyurdu-galatasaray-gorusuyor-besiktas-da-ilgileniyor-43352799"
+          "title": "Fenerbahçe'nin borcu açıklandı!",
+          "summary": "Fenerbahçe, Ağustos 2026 itibarıyla net borcun 164 milyon euro olduğunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-borcu-aciklandi-43353271"
         },
         {
-          "title": "Bayern Münih'in teknik direktörü Vincent Kompany hastaneye kaldırıldı!",
-          "summary": "Bayern Münih Teknik Direktörü Vincent Kompany, bugünkü antrenmanın ardından yere yığıldı. Belçikalı teknik adam, ambulansla hastaneye kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihin-teknik-direktoru-vincent-kompany-hastaneye-kaldirildi-43352747"
+          "title": "Şenol Güneş'ten Sergen Yalçın açıklaması!",
+          "summary": "Trabzon'da dün katıldığı bir etkinlikte A Milli Futbol Takım teknik direktörlüğüne Sergen Yalçın'ın getirilmesi ile ilgili verdiği cevabın yanlış anlaşılmalara neden olmaması için yazılı bir açıklama yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/senol-gunesten-sergen-yalcin-aciklamasi-43353144"
         },
         {
-          "title": "Galatasaray'ın golcüsü Victor Osimhen'den Lille itirafı!",
-          "summary": "Galatasaray formasıyla eski takımı Lille'e gol atan Victor Osimhen, Fransız ekibinin sitesine konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-golcusu-victor-osimhenden-lille-itirafi-43352704"
+          "title": "Müjde! Fenerbahçe'ye karşı ihtimal doğdu",
+          "summary": "Galatasaray'da Fenerbahçe derbisi öncesi sakatlardan iyi haber geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-fenerbahce-maci-oncesi-mujde-derbi-ihtimali-dogdu-43353071"
         },
         {
-          "title": "Adi Hütter'den dikkat çeken Can Uzun açıklaması: 'Yoluna taş koyabilir'",
-          "summary": "Eintracht Frankfurt Teknik Direktörü Adi Hütter, milli futbolcu Can Uzun hakkında çarpıcı açıklamalar yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/adi-hutterden-dikkat-ceken-can-uzun-aciklamasi-yoluna-tas-koyabilir-43352693"
+          "title": "Fenerbahçe'de İsmail Kartal'dan derbi için Greenwood planı!",
+          "summary": "Fenerbahçe'de teknik direktör İsmail Kartal'ın Galatasaray derbisi öncesi Greenwood'u hangi bölgede değerlendireceği belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-ismail-kartaldan-derbi-icin-greenwood-plani-43353068"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi. Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor. Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı. 131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı. Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı. Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda. Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek.",
+      "text": "Anne adayları dikkat, artık MHRS'den randevu alınabiliyor. İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi. Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor. Bu belirtilere dikkat edin. Kabızlık şikayetiyle gitti, kanser tanısı aldı. 131 ilaç daha geri ödeme listesine alındı. 6'sı kanser ilacı. Milyonda bir görülen vaka. Öksürürken kalp damarı yırtıldı. Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda.",
       "items": [
+        {
+          "title": "Anne adayları dikkat, artık MHRS'den randevu alınabiliyor",
+          "summary": "Sigarayı bırakmak isteyen gebe kadınlar, yeni açılan \"Gebe Sigara Bırakma Polikliniği\"nden MHRS üzerinden randevu alabiliyor. Ankara'nın Yenimahalle ilçesindeki Etlik Şehir Hastanesi'nde \"Gebe Sigara Bırakma Polikliniği\" hizmet vermeye başladı. Poliklinikte, gebelerin sigarayı bırakma sürecinde ilaç tedavisi yerine motivasyonel görüşmeler ve psikolojik destek yöntemi uygulanıyor. RİSKLERE DİKKAT Göğüs Hastalıkları Kliniği Eğitim Görevlisi Doç. Dr.",
+          "source": "https://www.ntv.com.tr/saglik/anne-adaylari-dikkat-artik-mhrsden-randevu-alinabiliyor-1747721"
+        },
         {
           "title": "İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi",
           "summary": "Yapılan son araştırmalar, antidepresanlara yanıt vermeyen hastaların, biyolojik saatlerindeki bozukluktan kaynaklanan bir depresyon alt türünün pençesinde olabileceğini ortaya koydu. Avustralyalı bilim insanları, geleneksel antidepresanlardan fayda bulamayan hastaların, kendi biyolojik saatlerindeki bozukluktan kaynaklanan şiddetli bir alt depresyon türünün pençesinde olabileceğini keşfetti.",
@@ -235,11 +240,6 @@
           "title": "Antalya'da sahte botoks alarmı. 16 kişi hastanelik oldu, 3'ü yoğun bakımda",
           "summary": "Antalya'da botoks yaptırdıktan sonra rahatsızlanan 16 kişi tedavi altına alındı. O kişilerden biri olan F.F, botoks işleminden sonra göz kapağının düştüğünü ardından da yutma güçlüğü yaşamaya başladı. Antalya'da son 3 ayda 16 kişi botoks zehirlenmesi nedeniyle tedaviye alındı. Son 3 ayda botoks yaptırdıktan sonra rahatsızlanan çok sayıda kişi, AÜ Hastanesi'ne başvurdu. Konuşmakta, yutkunmakta ve nefes almakta zorlanan, kaslarında ciddi güçsüzlük yaşayan 16 kişi tedaviye alındı.",
           "source": "https://www.ntv.com.tr/saglik/antalyada-sahte-botoks-alarmi-16-kisi-hastanelik-oldu-3u-yogun-bakimda-1745947"
-        },
-        {
-          "title": "Süper meyve toprakla buluştu, şifa dağıtıyor. Antioksidan değeri yüksek",
-          "summary": "Süper meyve olarak bilinen aronya, Eskişehir'de toprakla buluştu. Antioksidan değeri en yüksek meyvelerden biri olarak bilinen aronya, sağlığa olan faydalarıyla da dikkat çekiyor. Sağlık açısından sunduğu faydalarla şifali meyvelerden biri olan aronya, özellikle şeker ve kanser hastaları için ek gıda olarak tercih ediliyor. Eskişehir'de yaşayan Erdem Erçam, Eskişehir'in Mihalıççık ilçesine bağlı kırsal Kayı Mahallesi'nde aronya yetiştiriciliği yapıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-super-meyve-toprakla-bulustu-sifa-dagitiyor-antioksidan-degeri-yuksek-1745931"
         }
       ]
     },
