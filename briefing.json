@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-23T16:00:03.784Z",
+  "generatedAt": "2026-10-24T04:00:03.904Z",
   "categories": {
     "gundem": {
-      "text": "Ankara merkezli 7 ilde fuhuş ve müstehcenlik operasyonu: 45 gözaltı. Kütahya merkezli 5 ilde yasa dışı bahis operasyonu: 76 gözaltı. Türkiye ile Slovakya arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı. Sarıyer açıklarında karaya oturan tanker İstanbul Boğazı'ndan geçirildi. 8 ülkenin İstanbul buluşması. Fidan: İran'a yeni bir saldırı olmamalı. Mersin'de sulama kanalında ölü bulundu. 15 milyar liralık yasa dışı bahis trafiği çöktü: 5 ilde eş zamanlı operasyon.",
+      "text": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı. Kayseri’de kaza yapan otomobil alev aldı, park halindeki 3 araç zarar gördü: 1 yaralı. Bakan Güler'den Mekke İttifakı açıklaması. \"Husilerle çatışmaya girilmeyecek\". Dört yıl süren Martı TAG davasında karar çıktı. Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı. Milas Belediyesi operasyonunda 18 tutuklama. Azerbaycan Büyükelçisi Aslanov'dan MHP Lideri Bahçeli'ye ziyaret.",
       "items": [
         {
-          "title": "Ankara merkezli 7 ilde fuhuş ve müstehcenlik operasyonu: 45 gözaltı",
-          "summary": "Ankara merkezli 7 ilde düzenlenen müstehcenlik ve fuhuş operasyonunda 45 kişi gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankara-merkezli-7-ilde-fuhus-ve-mustehcenlik-operasyonu-45-gozalti-43352720"
+          "title": "İstanbul'da Cumhuriyet Bayramı tören provası nedeniyle bazı cadde ve yollar trafiğe kapatıldı",
+          "summary": "Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-cumhuriyet-bayrami-toren-provasi-nedeniyle-bazi-cadde-ve-yollar-trafige-kapatildi-43353028"
         },
         {
-          "title": "Kütahya merkezli 5 ilde yasa dışı bahis operasyonu: 76 gözaltı",
-          "summary": "Kütahya merkezli 5 ilde eş zamanlı düzenlenen yasa dışı bahis operasyonunda 76 şüpheli gözaltına alındı. Şüphelilerin banka hesaplarında toplam 14 milyar 928 milyon 530 bin TL işlem hacmi tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kutahya-merkezli-5-ilde-yasa-disi-bahis-operasyonu-76-gozalti-43352712"
+          "title": "Kayseri’de kaza yapan otomobil alev aldı, park halindeki 3 araç zarar gördü: 1 yaralı",
+          "summary": "Kayseri’nin Kocasinan ilçesinde kaldırıma çarpıp, karşı yola geçerek alev alan otomobil kullanılamaz hale geldi. Kazada otomobil sürücüsü yaralanırken, park halindeki 3 otomobilde alevlerin sıçraması nedeniyle zarar gördü.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-kaza-yapan-otomobil-alev-aldi-park-halindeki-3-arac-zarar-gordu-1-yarali-43353027"
         },
         {
-          "title": "Türkiye ile Slovakya arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı",
-          "summary": "Enerji ve Tabii Kaynaklar Bakanlığı ile Slovakya Ekonomi Bakanlığı arasında ‘Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptı’ imzalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ile-slovakya-arasinda-enerji-alaninda-isbirligine-iliskin-mutabakat-zapti-imzalandi-43352708"
+          "title": "Bakan Güler'den Mekke İttifakı açıklaması. \"Husilerle çatışmaya girilmeyecek\"",
+          "summary": "Milli Savunma Bakanı Yaşar Güler, Mekke İttifakıyla ilgili önemli açıklamalar yaptı. Bakan Güler, Suudi Arabistan'a verilebilecek askeri destek kapsamında \"Husilerle çatışmaya girilmeyecek\" dedi. Milli Savunma Bakanı Yaşar Güler, Star Haber Genel Yönetmeni Nazlı Çelik'in sorularını yanıtladı. Suudi Arabistan, Pakistan ve Türkiye arasında imzalanan Mekke Anlaşması Meclis gündemindeyken, Türkiye'nin Husi saldırılarının sürdüğü Suudi Arabistan'a nasıl bir askeri destek vereceği sorusu gündemde.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-gulerden-mekke-ittifaki-aciklamasi-husilerle-catismaya-girilmeyecek-1747683"
         },
         {
-          "title": "Sarıyer açıklarında karaya oturan tanker İstanbul Boğazı'ndan geçirildi",
-          "summary": "Sarıyer'de sürüklendikten sonra karaya oturan Liberya bayraklı ‘BANDA’ isimli ham petrol tankeri, kurtarıldıktan sonra İstanbul Boğazı'ndan geçirildi. Tankerin geçişi havadan görüntülendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/sariyer-aciklarinda-karaya-oturan-tanker-istanbul-bogazindan-gecirildi-43352698"
+          "title": "Dört yıl süren Martı TAG davasında karar çıktı",
+          "summary": "Taksiciler Odası'nın Martı TAG'a karşı açılan ve dört yıldır devam eden haksız rekabet davasında mahkeme, anayasada yer alan girişim özgürlüğünün bir sonucu olduğu ve kapatılamayacağına hükmetti. Martı TAG’a karşı, İstanbul Otomobilciler Esnaf Odası ve Antalya Şoförler ve Otomobilciler Odası olmak üzere ondan fazla taksi odası tarafından açılan ve 4 yıldır devam eden haksız rekabet davasında karar çıktı. 14. Bölge Adliye Mahkemesi, Martı TAG’ın mahkeme kararıyla yasaklanamayacağına hükmetti.",
+          "source": "https://www.ntv.com.tr/turkiye/dort-yil-suren-marti-tag-davasinda-karar-cikti-1747698"
         },
         {
-          "title": "8 ülkenin İstanbul buluşması. Fidan: İran'a yeni bir saldırı olmamalı",
-          "summary": "Dışişleri Bakanı Hakan Fidan, 8 ülkenin dışişleri bakanının İstanbul'daki buluşması sonrası yaptığı açıklamada ''İran'a yeni bir saldırı olmamalı.'' dedi. Türkiye'nin girişimiyle bir araya gelen yedi ülkenin dışişleri bakanları, bölgesel ve küresel krizlere ortak çözüm arayışıyla İstanbul'da bir araya geldi. Dışişleri Bakanı Hakan Fidan'ın ev sahipliğindeki görüşmelerde, Türkiye, Mısır, Pakistan ve Suudi Arabistan'dan oluşan R4 formatı ile İngiltere, Almanya ve Fransa'nın yer aldığı E3 grubu aynı masada buluştu.",
-          "source": "https://www.ntv.com.tr/turkiye/8-ulkenin-istanbul-bulusmasi-fidan-israilin-istikrarsizlastirici-rolunu-konustuk-1747670"
+          "title": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
+          "summary": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi. IMF'nin Mali Şeffaflık Değerlendirmesi'ne göre, Türkiye kamu mali yönetiminde son yıllarda kaydettiği ilerlemeyle Birleşik Krallık, Finlandiya, İrlanda, Avusturya ve Portekiz'in de olduğu yaklaşık 40 ülke arasında en üst sıralarda yer aldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-43353025"
         },
         {
-          "title": "Mersin'de sulama kanalında ölü bulundu",
-          "summary": "Mersin'in Silifke ilçesindeki sulama kanalında 37 yaşındaki Osman Yüksel'in cansız bedeni bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/mersinde-sulama-kanalinda-olu-bulundu-43352666"
+          "title": "Milas Belediyesi operasyonunda 18 tutuklama",
+          "summary": "Muğla'nın Milas belediyesine yönelik Muğla Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gözaltı kararı verilen 35 şüpheliden 18'i tutuklandı. Tutuklananlar arasında Milas Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz da yer alırken, 2 şüpheli hakkında ev hapsi, 15 kişi hakkında ise adli kontrol kararı çıktı.",
+          "source": "https://www.hurriyet.com.tr/gundem/milas-belediyesi-operasyonunda-18-tutuklama-43353024"
         },
         {
-          "title": "15 milyar liralık yasa dışı bahis trafiği çöktü: 5 ilde eş zamanlı operasyon",
-          "summary": "Kütahya merkezli 5 ilde yürütülen soruşturmada, organize hareket eden iki ayrı yasa dışı bahis şebekesinin lider kadrosu ve finans ağı deşifre edildi. 84 şüphelinin hedef alındığı operasyonda 76 kişi yakalanırken, zanlılara ait 10 otomobil ve 2 gayrimenkule mahkeme kararıyla el koyma işlemi uygulandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/15-milyar-liralik-yasa-disi-bahis-trafigi-coktu-5-ilde-es-zamanli-operasyon-43352653"
+          "title": "Azerbaycan Büyükelçisi Aslanov'dan MHP Lideri Bahçeli'ye ziyaret",
+          "summary": "Azerbaycan'ın Ankara Büyükelçisi Reşad Aslanov, Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli'yi ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/azerbaycan-buyukelcisi-aslanovdan-mhp-lideri-bahceliye-ziyaret-43353023"
         }
       ]
     },
     "dunya": {
-      "text": "Dışişleri bakanları, İstanbul'da bir araya geldi. Krizler masada. Dışişleri Bakanı Hakan Fidan: İran'a yeni saldırı çatışmayı yayar. Beyaz Saray: Rusya ve Ukrayna yerel ateşkes için anlaştı, Melania Trump da devredeydi. Ürdün'de silahlı saldırı: 7 ölü. Kanada Başbakanı Carney'den Türkiye'ye övgü dolu sözler! 'Almamız gereken dersler var'. Diplomasinin kalbi İstanbul'da atıyor! 7. toplantı gerçekleştirildi. Trump ve Putin anlaştı. Rus yakıtı New York yolunda.",
+      "text": "Rubio'dan Kübalılara çağrı. \"CIA ile işbirliği yapın\". Vanuatu'da 7.2 büyüklüğünde deprem. Avrupa'da protestoların gölgesinde hafta sonu alarmı. Binlerce polis görevlendirildi. ABD'nin İran planı ne? Büyükelçi Barrack saldırıya işaret etti, Trump'tan ilginç bir yanıt geldi. Tom Barrack hafta sonunu işaret etmişti... Trump'tan İran'a saldırı açıklaması. ABD'de Demokratların ara seçimlerden sonra Musk hakkında soruşturma açacağı öne sürüldü. ABD'li yetkililerin Rusya-Ukrayna Savaşı'nın sona erdirilmesi için plan hazırladığı iddiası.",
       "items": [
         {
-          "title": "Dışişleri bakanları, İstanbul'da bir araya geldi. Krizler masada",
-          "summary": "Türkiye'nin girişimiyle İstanbul'da buluşan R4 ve E3 ülkelerinin dışişleri bakanları, Filistin, Hürmüz Boğazı, Kızıldeniz ve Ukrayna krizlerine ortak çözüm yollarını ele alıyor. Türkiye'nin girişimiyle bir araya gelen yedi ülkenin dışişleri bakanları, bölgesel ve küresel krizlere ortak çözüm arayışıyla İstanbul'da bir araya geldi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-sekiz-disisleri-bakani-istanbulda-bulusuyor-krizler-masada-1747580"
+          "title": "Rubio'dan Kübalılara çağrı. \"CIA ile işbirliği yapın\"",
+          "summary": "Küba'yı sık sık \"operasyon\" yapmakla tehdit eden Donald Trump'ın ardından, ABD Dışişleri Bakanı Marco Rubio da Kübalılara seslendi: \"CIA ile gizli işbirliği fırsatını değerlendirin.” ABD Başkanı Donald Trump Florida'daki seçim mitinginde, “İran'dan dönerken Küba meselesini halledeceğiz. Sonra Marco Rubio'yu anlaşmayı sonuçlandırması için göndereceğiz.” dedi. Ardından kendisi de Küba kökenli olan Dışişleri Bakanı Marco Rubio'dan da konuya ilişkin açıklama geldi.",
+          "source": "https://www.ntv.com.tr/dunya/rubiodan-kubalilara-cagri-cia-ile-isbirligi-yapin-1747705"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan: İran'a yeni saldırı çatışmayı yayar",
-          "summary": "Dışişleri Bakanı Hakan Fidan, İstanbul'da düzenlenen R4+E3 ülkeleri toplantısının ardından açıklamalarda bulundu. Bakan Fidan, yaptığı açıklamada, İran'a yeni saldırıların çatışmaları yayacağını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-irana-yeni-saldiri-catismayi-yayar-43352660"
+          "title": "Vanuatu'da 7.2 büyüklüğünde deprem",
+          "summary": "Pasifik Ateş Çemberi'ndeki ada ülkesi Vanuatu açıklarında 7.2 büyüklüğünde deprem meydana geldi. ABD Jeolojik Araştırmalar Kurumu'nun (USGS) verilerine göre Güney Pasifik'teki Vanuatu'da 7.2 büyüklüğünde deprem oldu. USGS, sarsıntının Vanuatu'nun Sola yerleşiminin yaklaşık 200 kilometre batısındaki deniz açıklarında meydana geldiğini açıkladı. Depremin derinliği ise 10 kilometre olarak ölçüldü.",
+          "source": "https://www.ntv.com.tr/dunya/vanuatuda-72-buyuklugunde-deprem-1747704"
         },
         {
-          "title": "Beyaz Saray: Rusya ve Ukrayna yerel ateşkes için anlaştı, Melania Trump da devredeydi",
-          "summary": "Beyaz Saray, Melania Trump'ın girişimleriyle Rusya ve Ukrayna'nın Oleşkıy kentinde yerel ateşkes sağladığını duyurdu. Anlaşma 29 Ekim'de devreye girecek. ABD Başkanı'nın eşi Melania Trump, Rusya'nın kontrolündeki Ukrayna kenti Oleşkıy'da geçerli olacak yerel bir ateşkes sağladı. Beyaz Saray'dan yapılan yazılı açıklamaya göre, 29 Ekim 2026'da yürürlüğe girecek uzlaşmayla Rusya ve Ukrayna kentteki tüm askeri eylemleri geçici olarak durduracak.",
-          "source": "https://www.ntv.com.tr/dunya/beyaz-saray-rusya-ve-ukrayna-yerel-ateskes-icin-anlasti-melania-trump-da-devredeydi-1747661"
+          "title": "Avrupa'da protestoların gölgesinde hafta sonu alarmı. Binlerce polis görevlendirildi",
+          "summary": "Avrupa başkentleri, hafta sonu düzenlenecek kitlesel gösterilere hazırlanıyor. Fransa ve İtalya'da hayat pahalılığı ve hükümet politikalarına karşı başlayan protestoların ardından hafta sonu için yeni eylem çağrıları yapıldı. Fransa'da 70 bin güvenlik görevlisi görevlendirilirken İtalya'da çok sayıda kentte güvenlik önlemleri artırıldı. İspanya ve Almanya'da da farklı taleplerle gösteriler düzenlenecek.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-avrupada-protestolarin-golgesinde-hafta-sonu-binlerce-polis-gorevlendirildi-1747688"
         },
         {
-          "title": "Ürdün'de silahlı saldırı: 7 ölü",
-          "summary": "Ürdün'ün El-Karak kentindeki bir kiliseye silahlı saldırı düzenlendi. Meydana gelen olayda, 7 kişi hayatını kaybederken 10 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/urdunde-silahli-saldiri-7-olu-43352508"
+          "title": "ABD'nin İran planı ne? Büyükelçi Barrack saldırıya işaret etti, Trump'tan ilginç bir yanıt geldi",
+          "summary": "ABD Başkanı Trump, İran'a operasyon düzenleyebileceklerini söylerken savaşın kısa sürede bitirilebileceğini savundu. Diğer yandan Trump, Barrack'ın operasyon açıklamasına ise ilginç bir yanıt verdi. ABD ile İran arasındaki gerilim sürerken Washington yönetiminden olası yeni bir askeri operasyona ilişkin peş peşe açıklamalar geldi. ABD'nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack, İran'a yönelik yeni bir saldırının bu hafta sonu gerçekleşebileceğini söyledi.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-iran-savasi-aciklamasi-cok-hizli-bitirebiliriz-1747678"
         },
         {
-          "title": "Kanada Başbakanı Carney'den Türkiye'ye övgü dolu sözler! 'Almamız gereken dersler var'",
-          "summary": "Kanada Başbakanı Mark Carney, Türkiye'den askeri kabiliyet tedariki ve savunma sanayisinde ortaklık seçeneklerinin her ikisine de açık olduklarını belirterek, Türkiye'nin savunma sanayisi alanındaki deneyiminden faydalanabileceklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kanada-basbakani-carneyden-turkiyeye-ovgu-dolu-sozler-almamiz-gereken-dersler-var-43352470"
+          "title": "Tom Barrack hafta sonunu işaret etmişti... Trump'tan İran'a saldırı açıklaması",
+          "summary": "ABD Başkanı Donald Trump Florida’da düzenlenen mitingde, \"İran'a bir küçük Destansı Öfke operasyonu daha gerçekleştirebiliriz\" dedi. ABD'nin Ankara ve Suriye Özel Temsilcisi Tom Barrack ise saldırıya ilişkin bu hafta sonunu işaret etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/tom-barrack-hafta-sonunu-isaret-etmisti-trumptan-irana-saldiri-aciklamasi-43352991"
         },
         {
-          "title": "Diplomasinin kalbi İstanbul'da atıyor! 7. toplantı gerçekleştirildi",
-          "summary": "Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde, İstanbul'da Türkiye-Mısır-Pakistan-Suudi Arabistan Dışişleri Bakanları Yedinci Toplantısı gerçekleştirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/diplomasinin-kalbi-istanbulda-atiyor-7-toplanti-gerceklestirildi-43352456"
+          "title": "ABD'de Demokratların ara seçimlerden sonra Musk hakkında soruşturma açacağı öne sürüldü",
+          "summary": "ABD'de 3 Kasım’da yapılacak ara seçimlerde Demokratların Kongre'de Senato veya Temsilciler Meclisinde çoğunluğu elde etmesi halinde, ABD'li milyarder iş insanı Elon Musk ve şirketleri hakkında soruşturma başlatmayı planladığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-demokratlarin-ara-secimlerden-sonra-musk-hakkinda-sorusturma-acacagi-one-suruldu-43352805"
         },
         {
-          "title": "Trump ve Putin anlaştı. Rus yakıtı New York yolunda",
-          "summary": "ABD Başkanı Trump ile Rusya Devlet Başkanı Putin'in uzlaşmasıyla yaptırımların esnetilmesinin ardından, yaklaşık 300 bin varil Rus dizeli taşıyan tanker New York'a doğru yola çıktı. Rus dizeli taşıyan bir petrol tankeri, ABD yönetiminin yaptırımları esnetmesi üzerine New York'a gitmek üzere yola çıktı.",
-          "source": "https://www.ntv.com.tr/dunya/trump-ve-putin-anlasti-rus-yakiti-new-york-yolunda-1747656"
+          "title": "ABD'li yetkililerin Rusya-Ukrayna Savaşı'nın sona erdirilmesi için plan hazırladığı iddiası",
+          "summary": "The Economist, ABD'li yetkililerin, Rusya-Ukrayna Savaşı'nın sona erdirilmesine yönelik Donbas'ta askerden arındırılmış bir bölge oluşturulması, Moskova'ya yönelik yaptırımların hafifletilmesi ve Ukrayna'nın NATO üyeliğinden vazgeçmesi gibi maddeleri içeren plan hazırladığını öne sürdü.​​​​​​​",
+          "source": "https://www.hurriyet.com.tr/dunya/abdli-yetkililerin-rusya-ukrayna-savasinin-sona-erdirilmesi-icin-plan-hazirladigi-iddiasi-43352804"
         }
       ]
     },
@@ -124,8 +124,33 @@
       ]
     },
     "spor": {
-      "text": "Galatasaray'ın golcüsü Victor Osimhen'den Lille itirafı!. Adi Hütter'den dikkat çeken Can Uzun açıklaması: 'Yoluna taş koyabilir'. PSG-Lyon maçı ertelendi. Sergen Yalçın gerçeği ortaya çıktı: 5 gündür Riva'da!. Obradovic, Yunan basketbolundaki skandala temkinli yaklaştı. İstanbul’da Program Dopdolu! İşte Misli’den Günün Altılı Analizi…. Dortmund'dan devrim gibi proje! 'Taraftar modu' ile telefonlar daha az kullanılacak.",
+      "text": "Joao Pereira: 'Sahaya çıkmamış gibiydik'. Selçuk İnan: 'Güzel bir galibiyet oldu'. Süper Lig'de derbi heyecanı! Galatasaray - Fenerbahçe. Rus basını transfer gelişmesini duyurdu: Galatasaray görüşüyor, Beşiktaş da ilgileniyor. Bayern Münih'in teknik direktörü Vincent Kompany hastaneye kaldırıldı!. Galatasaray'ın golcüsü Victor Osimhen'den Lille itirafı!. Adi Hütter'den dikkat çeken Can Uzun açıklaması: 'Yoluna taş koyabilir'.",
       "items": [
+        {
+          "title": "Joao Pereira: 'Sahaya çıkmamış gibiydik'",
+          "summary": "Corendon Alanyaspor Teknik Direktörü Joao Pereira, Kocaelispor’a 2-1 mağlup oldukları maçın ardından yaptığı açıklamada, ilk yarıda takımının mücadele edemediklerini belirterek, \"İlk yarı resmen sahaya çıkmadık. Oyun oynamadık, koşmadık. İlk yarıdan dolayı maçı kaybettik\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-sahaya-cikmamis-gibiydik-43352970"
+        },
+        {
+          "title": "Selçuk İnan: 'Güzel bir galibiyet oldu'",
+          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Corendon Alanyaspor karşısında aldıkları 2-1’lik galibiyetin hak edilmiş bir sonuç olduğunu belirterek, oyuncularının hafta boyunca çalıştıkları planı sahaya eksiksiz yansıttığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-guzel-bir-galibiyet-oldu-43352965"
+        },
+        {
+          "title": "Süper Lig'de derbi heyecanı! Galatasaray - Fenerbahçe",
+          "summary": "beIN SPORTS’ta, iki kıtayı rekabetle buluşturan dünya derbisinin heyecanı yaşanıyor. Galatasaray, 26 Ekim Pazartesi günü saat 21.30’da Ali Sami Yen Spor Kompleksi RAMS Park’ta Fenerbahçe’yi ağırlıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-derbi-heyecani-galatasaray-fenerbahce-43352879"
+        },
+        {
+          "title": "Rus basını transfer gelişmesini duyurdu: Galatasaray görüşüyor, Beşiktaş da ilgileniyor",
+          "summary": "Rus basını, Galatasaray ve Beşiktaş'ın CSKA Moskova'dan Kislyak ile ilgilendiğini duyurdu. Sarı-kırmızılıların görüşmelere başladığı belirtildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rus-basini-transfer-gelismesini-duyurdu-galatasaray-gorusuyor-besiktas-da-ilgileniyor-43352799"
+        },
+        {
+          "title": "Bayern Münih'in teknik direktörü Vincent Kompany hastaneye kaldırıldı!",
+          "summary": "Bayern Münih Teknik Direktörü Vincent Kompany, bugünkü antrenmanın ardından yere yığıldı. Belçikalı teknik adam, ambulansla hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihin-teknik-direktoru-vincent-kompany-hastaneye-kaldirildi-43352747"
+        },
         {
           "title": "Galatasaray'ın golcüsü Victor Osimhen'den Lille itirafı!",
           "summary": "Galatasaray formasıyla eski takımı Lille'e gol atan Victor Osimhen, Fransız ekibinin sitesine konuştu.",
@@ -135,37 +160,17 @@
           "title": "Adi Hütter'den dikkat çeken Can Uzun açıklaması: 'Yoluna taş koyabilir'",
           "summary": "Eintracht Frankfurt Teknik Direktörü Adi Hütter, milli futbolcu Can Uzun hakkında çarpıcı açıklamalar yaptı.",
           "source": "https://www.hurriyet.com.tr/sporarena/adi-hutterden-dikkat-ceken-can-uzun-aciklamasi-yoluna-tas-koyabilir-43352693"
-        },
-        {
-          "title": "PSG-Lyon maçı ertelendi",
-          "summary": "Fransa Lig 1'de oynanacak Paris Saint Germain (PSG) - Lyon maçı, ülke genelindeki protestolar nedeniyle ertelendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/psg-lyon-maci-ertelendi-43352615"
-        },
-        {
-          "title": "Sergen Yalçın gerçeği ortaya çıktı: 5 gündür Riva'da!",
-          "summary": "A Milli Futbol Takımı'mızın yeni teknik direktörü Sergen Yalçın'ın yoğun mesaiye başladığı, 5 gündür Riva'da çalıştığı ortaya çıktı. İşte ayrıntılar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-gercegi-ortaya-cikti-5-gundur-rivada-43352586"
-        },
-        {
-          "title": "Obradovic, Yunan basketbolundaki skandala temkinli yaklaştı",
-          "summary": "Yunanistan Basketbol Ligi takımlarından Panathinaikos'un başantrenörü Zeljko Obradovic, Yunan basketbolundaki şike ve rüşvet skandalıyla ilgili yorum yapmaktan kaçındı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/obradovic-yunan-basketbolundaki-skandala-temkinli-yaklasti-43352574"
-        },
-        {
-          "title": "İstanbul’da Program Dopdolu! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-program-dopdolu-iste-misliden-gunun-altili-analizi-43352573"
-        },
-        {
-          "title": "Dortmund'dan devrim gibi proje! 'Taraftar modu' ile telefonlar daha az kullanılacak",
-          "summary": "Almanya Bundesliga ekiplerinden Borussia Dortmund, tribünlerde telefon kullanımını azaltmak ve taraftarların maç atmosferini daha fazla yaşamasını sağlamak amacıyla yeni bir uygulamayı hayata geçiriyor. “Taraftar Modu” adı verilen uygulamayla, maç sırasında telefonunu daha az kullanan taraftarlar puan kazanacak ve çeşitli ödüllerin sahibi olma şansı yakalayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dortmunddan-devrim-gibi-proje-taraftar-modu-ile-telefonlar-daha-az-kullanilacak-43352502"
         }
       ]
     },
     "teknoloji": {
-      "text": "Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?. “Yapay zekayı yöneten kazanacak”. Yapay zekanın karanlık yüzü: Su ve elektrik sistemleri risk altında. 15 milyar dolarlık yatırımla halka arza hazırlanıyorlar. Siber Güvenlik Başkanlığı'ndan ulusal çapta güvenlik uyarısı. İnternetin altyapısında kritik açık: Dünya alarma geçti, Avrupa'da devlet siteleri kapatıldı. Şirketler GTA 6'ya hazırlanıyor. 1,5 milyon çalışan aynı gün izin alabilir.",
+      "text": "Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?. “Yapay zekayı yöneten kazanacak”. Yapay zekanın karanlık yüzü: Su ve elektrik sistemleri risk altında. 15 milyar dolarlık yatırımla halka arza hazırlanıyorlar. Siber Güvenlik Başkanlığı'ndan ulusal çapta güvenlik uyarısı. İnternetin altyapısında kritik açık: Dünya alarma geçti, Avrupa'da devlet siteleri kapatıldı.",
       "items": [
+        {
+          "title": "Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka",
+          "summary": "Microsoft yeni geliştirilen ve doktorlar gibi adım adım ilerleyip hastalık teşhisi koyan yapay zeka aracının, karmaşık vakalarda pratisyen hekimlerin iki katından fazla başarılı olduğunu duyurdu. Son yıllarda inanılması güç bir hızla gelişen ve neredeyse bütün sektörlerde dengeleri değiştiren yapay zeka araçları, tıpta da önemli adımlar atmaya devam ediyor. Teknoloji devi Microsoft'un araştırmacıları, doktorlar gibi adım adım ilerleyerek hastalık teşhisi koyan bir yapay zeka aracı geliştirdiklerini duyurdu.",
+          "source": "https://www.ntv.com.tr/teknoloji/microsoft-gelistirdi-doktor-gibi-teshis-koyan-yapay-zeka-1747703"
+        },
         {
           "title": "Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?",
           "summary": "Dünya genelinde internet altyapısında kullanılan PHP yazılımındaki güvenlik açıkları nedeniyle Türkiye dahil birçok ülke alarma geçti. Peki nedir bu PHP? Korsanlar nasıl zararlar verebilir? Dün gece dünya çapında büyük bir siber güvenlik alarmı yaşandı. İnternet sitelerinin neredeyse yüzde 70'inde kullanılan PHP (Hypertext Preprocessor - Hiper Metin Önişlemcisi) programlama dilindeki iki kritik güvenlik açığı, çeşitli yapay zeka modelleri tarafından tespit edildi.",
@@ -195,11 +200,6 @@
           "title": "İnternetin altyapısında kritik açık: Dünya alarma geçti, Avrupa'da devlet siteleri kapatıldı",
           "summary": "Dünya genelinde internette kullanılan PHP yazılımında iki kritik güvenlik açığı tespit edildi. Avrupa'da çok sayıda kamu kurumunun internet sitesi erişime kapatıldı. Türkiye'de de uyarı yapıldı. İnternetin altyapısında yaygın olarak kullanılan PHP programlama dilinde tespit edilen iki kritik güvenlik açığı, dünya genelinde siber güvenlik alarmına yol açtı.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-internetin-altyapisinda-kritik-acik-dunya-alarma-gecti-avrupada-devlet-siteleri-kapatildi-1747361"
-        },
-        {
-          "title": "Şirketler GTA 6'ya hazırlanıyor. 1,5 milyon çalışan aynı gün izin alabilir",
-          "summary": "Uzmanlar, GTA 6 oyununun çıkış tarihi olan 19 Kasım günü ABD'de yaklaşık 1,5 milyon çalışanın izin almasını veya rapor almasını bekliyor. Dünya genelinde milyonlarca kişinin merakla beklediği video oyunu Grand Theft Auto VI (GTA 6), piyasaya çıkış tarihi yaklaştıkça yalnızca eğlence dünyasını değil, iş gücü piyasasını da meşgul etmeye başladı. Uzmanlar, yapımın satışa sunulacağı 19 Kasım günü ABD genelinde yaklaşık 1,5 milyon çalışanın işe gitmeyebileceğini hesaplıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-sirketler-gta-6ya-hazirlaniyor-15-milyon-calisan-ayni-gun-izin-alabilir-1747335"
         }
       ]
     },
