@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-27T04:00:03.391Z",
+  "generatedAt": "2026-10-27T10:00:05.708Z",
   "categories": {
     "gundem": {
-      "text": "Bahçelievler'de iki binanın zemininde çökme: 20 daire tahliye edildi. İstanbul için sel alarmı. Beklenen yağış başladı. Bahçelievler'de inşaatın istinat duvarı yıkıldı. 2 bina tahliye edildi. Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi. Yol çöktü, araç içine düştü!. Antalya'da hortum işçi konteynerini parçaladı. 4 işçi öldü, 1 işçi yaralandı. İDO ve BUDO'dan sefer iptalleri.",
+      "text": "Hakan Bahçetepe'nin tutukluluğuna devam kararı. Antalya'daki hortum felaketinde yeni ayrıntı: Galatasaray-Fenerbahçe derbisini izlerken yakalandılar. 6 metre derinliğindeki kuyuya düştü, tesadüfen fark edildi. Evlatlarını kurtardı, kendi canından oldu: Üzerine minibüs devrilen anne kurtarılamadı. Kuvvetli sağanak yine İstanbul'u vurdu. Yollar göle döndü, baba ile kız son anda kurtarıldı. Yolcu otobüsü devrildi: 1 ölü, 9 yaralı. 3 gün önce dünyaevine girmişti: Otomobilde korkunç halde bulundu.",
       "items": [
         {
-          "title": "Bahçelievler'de iki binanın zemininde çökme: 20 daire tahliye edildi",
-          "summary": "Bahçelievler'de temel kazısı yapılan inşaatın istinat duvarının yıkılması sonucu bitişiğindeki 2 bina tedbir amacıyla tahliye edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bahcelievlerde-iki-binanin-zemininde-cokme-20-daire-tahliye-edildi-43356092"
+          "title": "Hakan Bahçetepe'nin tutukluluğuna devam kararı",
+          "summary": "Görevinden uzaklaştırılan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe ile 8 sanığın yargılandığı davanın duruşmasına devam edildi. Tutuklu sanıkların tutukluluk hallerinin devamına karar verildi. Duruşma 6 Kasım’a ertelendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/hakan-bahcetepenin-tutukluluguna-devam-karari-43356558"
         },
         {
-          "title": "İstanbul için sel alarmı. Beklenen yağış başladı",
-          "summary": "İstanbul'da art arda gelen kuvvetli yağış uyarılarının ardından sağanak etkiliyor. Şiddetli sağanağın saat 10.00'a kadar sürmesi bekleniyor. İstanbulluların sabah toplu taşıma kullanması öneriliyor. Sel felaketi atlatan İstanbul için yine bir kuvvetli yağış uyarısı yapıldı. Balkanlar üzerinden gelmesi beklenen soğuk hava ile birlikte Orta Akdeniz üzerinden gelen yağışlı sistemler İstanbul başta olmak üzere yurt genelinde birçok ilde etkili olacak.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbul-icin-sel-alarmi-sabah-saatlerine-dikkat-1748107"
+          "title": "Antalya'daki hortum felaketinde yeni ayrıntı: Galatasaray-Fenerbahçe derbisini izlerken yakalandılar",
+          "summary": "Antalya'da meydana gelen hortumda yaşamını yitiren dört kişinin, olaya Galatasaray-Fenerbahçe derbisini izledikleri sırada yakalandıkları öğrenildi. Antalya'da çıkan hortumda yaşamını yitiren dört işçinin, hortuma konteynerde derbiyi izlerken yakalandığı ortaya çıktı. Olay, dün saat 23.00 sıralarında Kepez ilçesine bağlı Fevzi Çakmak Mahallesi 6199 Sokak'ta meydana geldi. Antalya kent merkezinde dün akşam saatlerinde kuvvetli yağışla birlikte hortum çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-antalyadaki-hortum-felaketinde-yeni-ayrinti-galatasaray-fenerbahce-derbisini-izlerken-yakalandilar-1748193"
         },
         {
-          "title": "Bahçelievler'de inşaatın istinat duvarı yıkıldı. 2 bina tahliye edildi",
-          "summary": "Bahçelievler'de temel kazısı yapılan inşaatın istinat duvarının yıkılması sonucu bitişiğindeki 2 bina tedbir amacıyla tahliye edildi. Siyavuşpaşa Mahallesi Çavuşpaşa Caddesi’nde, temel kazısı yapılan inşaatın istinat duvarı henüz bilinmeyen bir nedenle yıkıldı. İnşaatın bitişiğinde bulunan 6 ve 7 katlı iki binada oturanlar panikle dışarı çıkarken, ihbar üzerine olay yerine polis, itfaiye ve zabıta ekipleri sevk edildi. Gelen ekipler, sokağa güvenlik şeridi çekerek yolu araç ve yaya trafiğine kapattı.",
-          "source": "https://www.ntv.com.tr/turkiye/bahcelievlerde-insaatin-istinat-duvari-yikildi-2-bina-tahliye-edildi-1748110"
+          "title": "6 metre derinliğindeki kuyuya düştü, tesadüfen fark edildi",
+          "summary": "İzmir’in Dikili ilçesinde yaklaşık 6 metre derinliğindeki kuyuya düşen köpek, zeytin toplamaya gidenler tarafından tesadüfen fark edildi. İtfaiye ekipleri, köpeği mahsur kaldığı kuyudan kurtardı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-6-metre-derinligindeki-kuyuya-dustu-tesadufen-fark-edildi-1748194"
         },
         {
-          "title": "Fon kanunu Resmi Gazete'de yayımlanarak yürürlüğe girdi",
-          "summary": "Tasfiyesine karar verilen fonlara dair kanun, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Kanunla 1 milyon liraya kadar ara ödemeler yapılacak. Tasfiyesine karar verilen fonlar hakkındaki kanun Resmi Gazete'de yayımlandı. Kanun teklifi, 22 Ekim'de TBMM Genel Kurulunda kabul edilmişti. Bugün Resmi Gazete'de yayımlanarak yürürlüğe girmiş oldu.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-kanunu-resmi-gazetede-yayimlanarak-yururluge-girdi-1748095"
+          "title": "Evlatlarını kurtardı, kendi canından oldu: Üzerine minibüs devrilen anne kurtarılamadı",
+          "summary": "Gaziosmanpaşa'da kaldırıma çıkan minibüsü son anda fark eden anne, iki çocuğunu iterek ölümden kurtardı ancak devrilen aracın altında kaldı. Çevredekilerin aracı kaldırarak altından çıkardığı Canan Erdoğan kaldırıldığı hastanede yaşamını yitirirken, makas atarak hızla geldiği öne sürülen minibüs sürücüsü polis ekiplerince gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/evlatlarini-kurtardi-kendi-canindan-oldu-uzerine-minibus-devrilen-anne-kurtarilamadi-43356549"
         },
         {
-          "title": "Yol çöktü, araç içine düştü!",
-          "summary": "Muğla’nın Menteşe ilçesinde yağış nedeniyle yol çöktü. Seyir halnde iken yoda olışan çöküntüye farketmeyerek çukura düşen araç ise yolda mahsur kaldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yol-coktu-arac-icine-dustu-43356088"
+          "title": "Kuvvetli sağanak yine İstanbul'u vurdu. Yollar göle döndü, baba ile kız son anda kurtarıldı",
+          "summary": "İstanbul'da gece saatlerinden bu yana kuvvetli sağanak etkili oluyor. Alt geçitler ve yollar göle dönerken Pendik'te baba-kız araçlarının içinin su dolmasıyla mahsur kaldı. İstanbul'da uyarıların ardından beklenen kuvvetli sağanak hayatı olumsuz etkiliyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı bugün İstanbul dahil birçok ilde etkili olması beklenen sağanak nedeniyle sel ve su baskınına karşı uyarıda bulunmuş ve İstanbul için sarı kod verildiğini hatırlatmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kuvvetli-saganak-yine-istanbulu-vurdu-yollar-gole-dondu-baba-ile-kiz-son-anda-kurtarildi-1748157"
         },
         {
-          "title": "Antalya'da hortum işçi konteynerini parçaladı. 4 işçi öldü, 1 işçi yaralandı",
-          "summary": "Antalya'nın Kepez ilçesinde etkili olan hortumda parçalanan iki konteynerde bulunan 4 işçi hayatını kaybetti, 1 işçi yaralandı. Meteoroloji Genel Müdürlüğünün sarı kodlu sağanak yağış uyarısında bulunduğu kentte, Kepez ilçesi Fevzi Çakmak Mahallesi'ndeki bir inşaat alanında hortum oluştu. Hortum, inşaat işçilerinin kaldığı iki konteyneri parçaladı. Konteynerlerde bulunan 5 işçi savruldu. İhbar üzerine bölgeye 112 Acil Sağlık, polis ve itfaiye ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/antalyada-hortum-isci-konteynerini-parcaladi-4-isci-oldu-1-isci-yaralandi-1748105"
+          "title": "Yolcu otobüsü devrildi: 1 ölü, 9 yaralı",
+          "summary": "Burdur'un Ağlasun ilçesinde yolcu otobüsü devrildi. Kazada 1 kişi hayatını kaybetti, 9 kişi yaralandı",
+          "source": "https://www.hurriyet.com.tr/gundem/yolcu-otobusu-devrildi-1-olu-7-yarali-43356519"
         },
         {
-          "title": "İDO ve BUDO'dan sefer iptalleri",
-          "summary": "Bugün beklenen kuvvetli yağış nedeniyle İDO ve BUDO'nun bazı seferleri iptal edildi. Bursa Deniz Otobüslerinin (BUDO) 8 seferi, olumsuz hava koşulları nedeniyle gerçekleştirilemeyecek. BUDO'nun internet sayfasındaki duyuruya göre, iptal edilen seferler şöyle: Bursa (Mudanya) -İstanbul(Kabataş), İstanbul (Kabataş) - Bursa (Mudanya), Bursa (Mudanya) - İstanbul (Kabataş), Bursa (Mudanya) - Armutlu (İhlas), Armutlu (İhlas) - İstanbul (Kabataş), İstanbul (Kabataş) - Bursa (Mudanya), İstanbul (Kabataş) - Armutlu (İhlas),",
-          "source": "https://www.ntv.com.tr/turkiye/ido-ve-budodan-sefer-iptalleri-1748097"
+          "title": "3 gün önce dünyaevine girmişti: Otomobilde korkunç halde bulundu",
+          "summary": "Samsun'da dehşete düşüren bir olay yaşandı. 3 gün önce dünyaevine giren 31 yaşındaki diyetisyen otomobilde kanlar içinde bulundu. Diyetisyen S.Ö.'nün karnında bıçak yarası bileğinde kesik tespit edildi. Çiftin bugün balayına gitmeyi planladığı belirtilirken, otomobilin camlarının ise birkaç metre uzaklıkta parçalanmış olduğu tespit edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/3-gun-once-dunyaevine-girmisti-otomobilde-korkunc-halde-bulundu-43356496"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail, hükümeti belirlemek için sandık başına gidiyor. İşte tüm ayrıntılar. Dünyanın en büyük elektrikli gemisi sefere başladı: 2.100 yolcu ve 225 araç taşıyor. ABD'de yolcu uçağı \"terör tehdidi\" ihbarı üzerine havalimanına geri döndü. Ürdün’’den Suriye’ye saldırı: 5 ölü, 2 yaralı. İran: ABD, müzakere konusunda ciddi ise Tahran'ın 7 şartını kabul etmeli. Trump'tan seçimlerde hile ihbarına 1 milyon dolarlık ödül vaadi. Suriye’de mühimmat deposunda patlama.",
+      "text": "Trump'ın golf sahası projesindeki ağaç kesimine yeni yargı freni. İsrail sandık başında. Netanyahu'nun rakipleri arasında en çok eski komutan dikkat çekiyor. İsrail'de iktidar mücadelesi: Seçimin aktörleri kimler?. İlk turda yenilmişti, herkes şaşkın. Lula da Silva nasıl dördüncü kez başkan seçildi?. Oturmak yasak, cepler boş olacak. İşte havalimanı çalışanlarının uyması gereken akılalmaz kurallar. Almanya'da 77 yıllık gelenek değişiyor mu? İlk kadın cumhurbaşkanı gelebilir. ABD'de ara seçimler öncesi dikkat çeken anket sonuçları.",
       "items": [
         {
-          "title": "İsrail, hükümeti belirlemek için sandık başına gidiyor. İşte tüm ayrıntılar",
-          "summary": "İsrail'de Başbakan Binyamin Netanyahu liderliğindeki hükümetin bölgede saldırılara imza attığı dört yıllık döneminin ardından, 1988'den bu yana ilk kez zamanında genel seçim yapılacak. İsrail ordusunun Gazze Şeridi'nde büyük yıkıma yol açan saldırılarının yanı sıra Lübnan'ın güneyini işgali ve ABD ile birlikte İran'a karşı başlattığı savaş sonrası yapılacak ilk seçimde, İsrail Meclisinin 26. döneminde görev yapacak milletvekilleri belirlenecek.",
-          "source": "https://www.ntv.com.tr/dunya/israil-hukumeti-belirlemek-icin-sandik-basina-gidiyor-iste-tum-ayrintilar-1748055"
+          "title": "Trump'ın golf sahası projesindeki ağaç kesimine yeni yargı freni",
+          "summary": "ABD Başkanı Donald Trump'ın çok önem verdiği bir proje kapsamında, başkent Washington'ın göbeğindeki golf sahasında yapılan ağaç kesim işlemleri bir kez daha yargıç tarafından durduruldu. Kendisi de bir golf tutkunu olan ve birçok ülkede golf sahaları bulunan ABD Başkanı Donald Trump'a Amerikan yargısından bir fren daha geldi. TRUMP'IN PROJESİ NE?",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trumpin-golf-sahasi-projesindeki-agac-kesimine-yeni-yargi-freni-1748189"
         },
         {
-          "title": "Dünyanın en büyük elektrikli gemisi sefere başladı: 2.100 yolcu ve 225 araç taşıyor",
-          "summary": "130 metre uzunluğundaki China Zorrilla, Arjantin ile Uruguay arasında ticari seferlerine başladı. Bataryalarla çalışan feribot, aynı anda 2.100 yolcu ve 225 araç taşıyabiliyor. Elektrikli ulaşımın en büyük örneklerinden biri yolcu taşımaya başladı. Avustralyalı Incat Tasmania’nın Buquebus için inşa ettiği China Zorrilla, Buenos Aires ile Uruguay’ın Colonia del Sacramento kenti arasındaki ilk ticari yolculuğunu tamamladı.",
-          "source": "https://www.ntv.com.tr/dunya/dunyanin-en-buyuk-elektrikli-gemisi-sefere-basladi-2100-yolcu-ve-225-arac-tasiyor-1748108"
+          "title": "İsrail sandık başında. Netanyahu'nun rakipleri arasında en çok eski komutan dikkat çekiyor",
+          "summary": "İsrail, 7 Ekim 2023'ten ve ardından gelen savaş yıllarından bu yana ilk kez parlamento seçimleri için sandık başına gidiyor. İsrail, Gazze'deki Filistinli grupların 7 Ekim 2023'teki Aksa Tufanı operasyonundan ve ardından gelen savaş yıllarından bu yana ilk kez salı günü parlamento seçimleri için sandık başına gidiyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israil-sandik-basinda-netanyahunun-rakipleri-arasinda-en-cok-eski-komutan-dikkat-cekiyor-1748135"
         },
         {
-          "title": "ABD'de yolcu uçağı \"terör tehdidi\" ihbarı üzerine havalimanına geri döndü",
-          "summary": "ABD'de, United Airlines hava yolu şirketine ait yolcu uçağı, bir yolcunun \"terör tehdidinde\" bulunduğu ihbarı üzerine kalkıştan kısa süre sonra havalimanına geri döndü. New Jersey eyaletindeki Newark kentine gitmek üzere 24 Ekim Cumartesi günü Nevada eyaletindeki Las Vegas kentinden havalanan yolcu uçağında \"terör tehdidinde\" bulunulduğuna dair ihbar alındı. Uçuş takip platformu Flightradar24'ün verilerine göre, gece yapılması planlanan seferde uçak, kalkışının üstünden bir saat geçmeden Las Vegas'a döndü.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-yolcu-ucagi-teror-tehdidi-ihbari-uzerine-havalimanina-geri-dondu-1748100"
+          "title": "İsrail'de iktidar mücadelesi: Seçimin aktörleri kimler?",
+          "summary": "İsrail’de kritik seçim süreci başladı. İktidar bloku, Netanyahu’yu destekleyen partilerden; muhalefet bloku ise Netanyahu’nun gitmesini isteyen ve onunla koalisyona yanaşmayan partilerden oluşuyor.",
+          "source": "https://www.ntv.com.tr/dunya/video-israilde-iktidar-mucadelesi-secimin-aktorleri-kimler-1748178"
         },
         {
-          "title": "Ürdün’’den Suriye’ye saldırı: 5 ölü, 2 yaralı",
-          "summary": "Ürdün Kraliyet Hava Kuvvetleri’ne ait savaş uçaklarının Suriye’nin güneydoğusundaki bazı noktalara düzenlediği hava saldırısında aralarında kadın ve çocukların da bulunduğu 5 sivil hayatını kaybetti, 2 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/urdunden-suriyeye-saldiri-5-olu-2-yarali-43356013"
+          "title": "İlk turda yenilmişti, herkes şaşkın. Lula da Silva nasıl dördüncü kez başkan seçildi?",
+          "summary": "Brezilya'da sağcı rakibi Flavio Bolsonaro'ya ilk turda yenilen ancak ikinci turu kazanarak dördüncü kez devlet başkanı seçilen Lula da Silva'nın bu sürpriz geri dönüşü dünyayı şaşkına çevirdi. Brezilya'da pazar günü yapılan devlet başkanlığı seçiminin ikinci turunu sürpriz bir şekilde kazanan mevcut solcu başkan Lula da Silva dördüncü kez bu göreve seçildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ilk-turda-yenilmisti-herkes-saskin-lula-da-silva-nasil-dorduncu-kez-baskan-secildi-1748166"
         },
         {
-          "title": "İran: ABD, müzakere konusunda ciddi ise Tahran'ın 7 şartını kabul etmeli",
-          "summary": "İran Ulusal Güvenlik Yüksek Konseyi Başkan Yardımcısı Ali Bakıri, ABD'nin Tahran ile ciddi müzakerelere başlayabilmesi için İran'ın belirlediği 7 şartı kabul edip uygulaması gerektiğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-abd-muzakere-konusunda-ciddi-ise-tahranin-7-sartini-kabul-etmeli-43356012"
+          "title": "Oturmak yasak, cepler boş olacak. İşte havalimanı çalışanlarının uyması gereken akılalmaz kurallar",
+          "summary": "ABD'de kontrol noktalarındaki sandalyelerin kaldırılmasından İngiltere'deki kıyafet ve hediye yasaklarına kadar birçok sert kural personelin mesaisini belirliyor. Havalimanlarında güvenlik kapısından geçerken ya da kontuarda biniş kartını alırken karşılaşılan yüzler, dışarıdan bakıldığında yalnızca rutin bir prosedürü işleten çalışanlar gibi görünüyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-oturmak-yasak-cepler-bos-olacak-iste-havalimanlarindaki-akilalmaz-kurallar-1748174"
         },
         {
-          "title": "Trump'tan seçimlerde hile ihbarına 1 milyon dolarlık ödül vaadi",
-          "summary": "ABD Başkanı Donald Trump, seçimlerde hile yapıldığını ihbar eden kişilere, ihbarın tutuklama ve mahkumiyetle sonuçlanması halinde 1 milyon dolar ödül verileceğini açıkladı. ABD Başkanı Donald Trump, 3 Kasım'da yapılacak Kongre ara seçimleri öncesinde seçimlerde hile yapıldığına ilişkin ihbarlarda bulunanlara 1 milyon dolar ödül verileceğini duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-secimlerde-hile-ihbarina-1-milyon-dolarlik-odul-vaadi-1748092"
+          "title": "Almanya'da 77 yıllık gelenek değişiyor mu? İlk kadın cumhurbaşkanı gelebilir",
+          "summary": "Almanya'da Frank-Walter Steinmeier'in halefini belirleyecek seçim yaklaşırken, 77 yıllık cumhuriyet tarihinde ilk kez bir kadının cumhurbaşkanı seçilmesi yönündeki baskı artıyor. Almanya, kuruluşundan bu yana geçen yetmiş yedi yılda on iki cumhurbaşkanı gördü. Theodor Heuss ile başlayan ve Frank-Walter Steinmeier ile süren bu listenin ortak bir paydası var: Koltuğa oturan isimlerin tamamı erkekti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-77-yillik-gelenek-degisiyor-mu-ilk-kadin-cumhurbaskani-gelebilir-1748167"
         },
         {
-          "title": "Suriye’de mühimmat deposunda patlama",
-          "summary": "Suriye’nin İdlib kentinde mühimmat deposunda patlama meydana geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriyede-muhimmat-deposunda-patlama-43355999"
+          "title": "ABD'de ara seçimler öncesi dikkat çeken anket sonuçları",
+          "summary": "ABD'de 3 Kasım'da yapılacak ara seçimler öncesi yayınlanan son anket sonuçları dikkat çekti. Temsilciler Meclisi'ni kazanması beklenen Demokratların, Senato seçimlerinde de bir sürprize imza atabileceği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-ara-secimler-oncesi-dikkat-ceken-anket-sonuclari-43356213"
         }
       ]
     },
@@ -124,8 +124,44 @@
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "Galatasaray-Fenerbahçe maçı sonrası kavganın faturası ağır olacak! 10 maç riski. Olaylı Galatasaray-Fenerbahçe derbisi dünya basınında! 'Vahşi batı! Osimhen haksız rekabet'. Galatasaray-Fenerbahçe derbisi sonrası Okan Buruk konuştu! 'Mutsuz olan olabiliyor'. Fenerbahçe EuroLeague'de Valencia'ya konuk oluyor! Maçın heyecanı canlı yayın ile Misli'de. Galatasaray-Fenerbahçe derbisindeki pozisyon penaltı mı? Hakemler konuştu!. Alperen Şengün kariyer rekoru kırdı, Rockets kazandı!. Başakşehir galibiyetinin ardından Beşiktaş'ın yıldızına övgü: 'Başakşehir'in dengesini bozdu, kusursuzdu!'.",
+      "items": [
+        {
+          "title": "Galatasaray-Fenerbahçe maçı sonrası kavganın faturası ağır olacak! 10 maç riski",
+          "summary": "Galatasaray ve Fenerbahçe'nin RAMS Park'ta karşı karşıya geldiği mücadele sonrası kavga çıktı. Fiziki müdahalelerin olduğu an sonrası kırmızı kart çıkarken, her iki oyuncuya da verilebilecek muhtemel cezalar belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-maci-sonrasi-kavganin-faturasi-agir-olacak-10-mac-riski-43356567"
+        },
+        {
+          "title": "Olaylı Galatasaray-Fenerbahçe derbisi dünya basınında! 'Vahşi batı! Osimhen haksız rekabet'",
+          "summary": "Süper Lig'de Galatsaray, ezeli rakibi Fenerbahçe'yi mağlup etti. Maç sonrası dünya basını derbiyi manşetlerine taşıdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/olayli-galatasaray-fenerbahce-derbisi-dunya-basininda-vahsi-bati-osimhen-haksiz-rekabet-43356329"
+        },
+        {
+          "title": "Galatasaray-Fenerbahçe derbisi sonrası Okan Buruk konuştu! 'Mutsuz olan olabiliyor'",
+          "summary": "Galatasaray'ın Fenerbahçe'yi 2-1 mağlup ettiği derbi sonrası sarı kırmızılılarda teknik direktör Okan Buruk açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbisi-sonrasi-okan-buruk-konustu-mutsuz-olan-olabiliyor-43356521"
+        },
+        {
+          "title": "Fenerbahçe EuroLeague'de Valencia'ya konuk oluyor! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "Fenerbahçe, EuroLeague'in 8. haftasında bu akşam deplasmanda İspanya ekibi Valencia ile karşı karşıya gelecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-euroleaguede-valenciaya-konuk-oluyor-macin-heyecani-canli-yayin-ile-mislide-43356424"
+        },
+        {
+          "title": "Galatasaray-Fenerbahçe derbisindeki pozisyon penaltı mı? Hakemler konuştu!",
+          "summary": "Galatasaray'ın Fenerbahçe'yi 2-1 mağlup ettiği karşılaşma sonrası eski hakemler, pozisyonları değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbisindeki-pozisyon-penalti-mi-hakemler-konustu-43356366"
+        },
+        {
+          "title": "Alperen Şengün kariyer rekoru kırdı, Rockets kazandı!",
+          "summary": "NBA'de Houston Rockets, Alperen Şengün'ün \"triple-double\"a yaklaştığı maçta Atlanta Hawks'ı yendi",
+          "source": "https://www.hurriyet.com.tr/sporarena/alperen-sengun-kariyer-rekoru-kirdi-rockets-kazandi-43356344"
+        },
+        {
+          "title": "Başakşehir galibiyetinin ardından Beşiktaş'ın yıldızına övgü: 'Başakşehir'in dengesini bozdu, kusursuzdu!'",
+          "summary": "Beşiktaş, Süper Lig'in 9. haftasında dün akşam konuk ettiği Başakşehir'i 2-0 mağlup ederek zirveyi yakından takibini sürdürdü. Siyah-beyazlı takımın maçtaki performansını Hürriyet yazarı Güntekin Onay bugünkü köşe yazısında değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basaksehir-galibiyetinin-ardindan-besiktasin-yildizina-ovgu-basaksehirin-dengesini-bozdu-kusursuzdu-43356128"
+        }
+      ]
     },
     "teknoloji": {
       "text": "İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı. Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?. “Yapay zekayı yöneten kazanacak”. Yapay zekanın karanlık yüzü: Su ve elektrik sistemleri risk altında.",
