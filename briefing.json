@@ -1,55 +1,60 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-27T10:00:05.708Z",
+  "generatedAt": "2026-10-27T16:00:03.899Z",
   "categories": {
     "gundem": {
-      "text": "Hakan Bahçetepe'nin tutukluluğuna devam kararı. Antalya'daki hortum felaketinde yeni ayrıntı: Galatasaray-Fenerbahçe derbisini izlerken yakalandılar. 6 metre derinliğindeki kuyuya düştü, tesadüfen fark edildi. Evlatlarını kurtardı, kendi canından oldu: Üzerine minibüs devrilen anne kurtarılamadı. Kuvvetli sağanak yine İstanbul'u vurdu. Yollar göle döndü, baba ile kız son anda kurtarıldı. Yolcu otobüsü devrildi: 1 ölü, 9 yaralı. 3 gün önce dünyaevine girmişti: Otomobilde korkunç halde bulundu.",
+      "text": "Bakan Kurum, İzmir Büyükşehir Belediye Başkanı Tugay’ı kabul etti. Davayı karara bağlama vadiyle dolandırıcılık yapan sahte başsavcı vekili ve 2 kişi tutuklandı. Bolu Belediyesindeki ‘ihaleye fesat’ operasyonunda 3 tutuklama. Vali Gül: Yıl sonu diye gerekli gereksiz ödeneklerin tamamını harcamak zorunda değiliz. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü. Bahçeli: Türkiye ve Azerbaycan arasındaki kardeşlik köklü ve derindir. Kırmızı bültenle aranıyordu…. Yabancı uyruklu hükümlü Ordu'da yakalandı.",
       "items": [
         {
-          "title": "Hakan Bahçetepe'nin tutukluluğuna devam kararı",
-          "summary": "Görevinden uzaklaştırılan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe ile 8 sanığın yargılandığı davanın duruşmasına devam edildi. Tutuklu sanıkların tutukluluk hallerinin devamına karar verildi. Duruşma 6 Kasım’a ertelendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/hakan-bahcetepenin-tutukluluguna-devam-karari-43356558"
+          "title": "Bakan Kurum, İzmir Büyükşehir Belediye Başkanı Tugay’ı kabul etti",
+          "summary": "ÇEVRE, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ı kabul etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurum-izmir-buyuksehir-belediye-baskani-tugayi-kabul-etti-43357140"
         },
         {
-          "title": "Antalya'daki hortum felaketinde yeni ayrıntı: Galatasaray-Fenerbahçe derbisini izlerken yakalandılar",
-          "summary": "Antalya'da meydana gelen hortumda yaşamını yitiren dört kişinin, olaya Galatasaray-Fenerbahçe derbisini izledikleri sırada yakalandıkları öğrenildi. Antalya'da çıkan hortumda yaşamını yitiren dört işçinin, hortuma konteynerde derbiyi izlerken yakalandığı ortaya çıktı. Olay, dün saat 23.00 sıralarında Kepez ilçesine bağlı Fevzi Çakmak Mahallesi 6199 Sokak'ta meydana geldi. Antalya kent merkezinde dün akşam saatlerinde kuvvetli yağışla birlikte hortum çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-antalyadaki-hortum-felaketinde-yeni-ayrinti-galatasaray-fenerbahce-derbisini-izlerken-yakalandilar-1748193"
+          "title": "Davayı karara bağlama vadiyle dolandırıcılık yapan sahte başsavcı vekili ve 2 kişi tutuklandı",
+          "summary": "Antalya’da devam eden davaları karara bağlama vaadiyle 3 kişiden toplam 1 milyon 829 bin TL alan ve kendisini Antalya Cumhuriyet Başsavcı vekili olarak tanıtan 1 kadın ile suç ortağı 2 kişi tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/davayi-karara-baglama-vadiyle-dolandiricilik-yapan-sahte-bassavci-vekili-ve-2-kisi-tutuklandi-43357134"
         },
         {
-          "title": "6 metre derinliğindeki kuyuya düştü, tesadüfen fark edildi",
-          "summary": "İzmir’in Dikili ilçesinde yaklaşık 6 metre derinliğindeki kuyuya düşen köpek, zeytin toplamaya gidenler tarafından tesadüfen fark edildi. İtfaiye ekipleri, köpeği mahsur kaldığı kuyudan kurtardı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-6-metre-derinligindeki-kuyuya-dustu-tesadufen-fark-edildi-1748194"
+          "title": "Bolu Belediyesindeki ‘ihaleye fesat’ operasyonunda 3 tutuklama",
+          "summary": "Bolu’da jandarma ekipleri tarafından Bolu Belediyesi’ne yönelik düzenlenen ‘ihaleye fesat karıştırma’ ve ‘zimmet’ operasyonunda gözaltına alınan 4 şüpheliden, aralarında Belediye Başkan Yardımcısı'nın da bulunduğu 3 kişi tutuklanarak cezaevine gönderildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bolu-belediyesindeki-ihaleye-fesat-operasyonunda-3-tutuklama-43357135"
         },
         {
-          "title": "Evlatlarını kurtardı, kendi canından oldu: Üzerine minibüs devrilen anne kurtarılamadı",
-          "summary": "Gaziosmanpaşa'da kaldırıma çıkan minibüsü son anda fark eden anne, iki çocuğunu iterek ölümden kurtardı ancak devrilen aracın altında kaldı. Çevredekilerin aracı kaldırarak altından çıkardığı Canan Erdoğan kaldırıldığı hastanede yaşamını yitirirken, makas atarak hızla geldiği öne sürülen minibüs sürücüsü polis ekiplerince gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/evlatlarini-kurtardi-kendi-canindan-oldu-uzerine-minibus-devrilen-anne-kurtarilamadi-43356549"
+          "title": "Vali Gül: Yıl sonu diye gerekli gereksiz ödeneklerin tamamını harcamak zorunda değiliz",
+          "summary": "İstanbul Valisi Davut Gül, İl Koordinasyon Kurulu 3'üncü Dönem Toplantısı’na katıldı. Burada konuşan Vali Gül, \"Yıl sonu diye mutlaka gerekli gereksiz ödeneklerin tamamını harcama zorunda da değiliz. Tasarrufa, şeffaflığa riayet edeceğiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/vali-gul-yil-sonu-diye-gerekli-gereksiz-odeneklerin-tamamini-harcamak-zorunda-degiliz-43357132"
         },
         {
-          "title": "Kuvvetli sağanak yine İstanbul'u vurdu. Yollar göle döndü, baba ile kız son anda kurtarıldı",
-          "summary": "İstanbul'da gece saatlerinden bu yana kuvvetli sağanak etkili oluyor. Alt geçitler ve yollar göle dönerken Pendik'te baba-kız araçlarının içinin su dolmasıyla mahsur kaldı. İstanbul'da uyarıların ardından beklenen kuvvetli sağanak hayatı olumsuz etkiliyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı bugün İstanbul dahil birçok ilde etkili olması beklenen sağanak nedeniyle sel ve su baskınına karşı uyarıda bulunmuş ve İstanbul için sarı kod verildiğini hatırlatmıştı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kuvvetli-saganak-yine-istanbulu-vurdu-yollar-gole-dondu-baba-ile-kiz-son-anda-kurtarildi-1748157"
+          "title": "Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü",
+          "summary": "TİCARET Bakanı Ömer Bolat, Birleşik Krallık'ın Ankara Büyükelçisi Jennifer Elizabeth Anderson ile bir araya geldi. Görüşmede, Serbest Ticaret Anlaşması'nın kapsamının genişletilmesi ve iki ülke arasındaki ekonomik işbirliği imkanları ele alındı. Bakan Bolat sanal medya hesabından yaptığı açıklamada görüşmeye ilişkin şu ifadeleri kullandı:",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-birlesik-krallikin-ankara-buyukelcisi-anderson-ile-gorustu-43357125"
         },
         {
-          "title": "Yolcu otobüsü devrildi: 1 ölü, 9 yaralı",
-          "summary": "Burdur'un Ağlasun ilçesinde yolcu otobüsü devrildi. Kazada 1 kişi hayatını kaybetti, 9 kişi yaralandı",
-          "source": "https://www.hurriyet.com.tr/gundem/yolcu-otobusu-devrildi-1-olu-7-yarali-43356519"
+          "title": "Bahçeli: Türkiye ve Azerbaycan arasındaki kardeşlik köklü ve derindir",
+          "summary": "MHP lideri Bahçeli, Türkiye-Azerbaycan ilişkilerinin köklü ve derin olduğunu vurgulayarak, \"Hiçbir nifak tohumunun aramıza ekilmesine fırsat verilmemelidir\" dedi. Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, Türkiye-Azerbaycan ilişkilerine yönelik yeni açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-ve-azerbaycan-iliskileri-koklu-ve-derindir-1748243"
         },
         {
-          "title": "3 gün önce dünyaevine girmişti: Otomobilde korkunç halde bulundu",
-          "summary": "Samsun'da dehşete düşüren bir olay yaşandı. 3 gün önce dünyaevine giren 31 yaşındaki diyetisyen otomobilde kanlar içinde bulundu. Diyetisyen S.Ö.'nün karnında bıçak yarası bileğinde kesik tespit edildi. Çiftin bugün balayına gitmeyi planladığı belirtilirken, otomobilin camlarının ise birkaç metre uzaklıkta parçalanmış olduğu tespit edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/3-gun-once-dunyaevine-girmisti-otomobilde-korkunc-halde-bulundu-43356496"
+          "title": "Kırmızı bültenle aranıyordu…. Yabancı uyruklu hükümlü Ordu'da yakalandı",
+          "summary": "Ordu'nun Ünye ilçesinde, Interpol tarafından kırmızı bültenle aranan Gürcistan uyruklu hükümlünün yakalandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-araniyordu-yabanci-uyruklu-hukumlu-orduda-yakalandi-43357122"
         }
       ]
     },
     "dunya": {
-      "text": "Trump'ın golf sahası projesindeki ağaç kesimine yeni yargı freni. İsrail sandık başında. Netanyahu'nun rakipleri arasında en çok eski komutan dikkat çekiyor. İsrail'de iktidar mücadelesi: Seçimin aktörleri kimler?. İlk turda yenilmişti, herkes şaşkın. Lula da Silva nasıl dördüncü kez başkan seçildi?. Oturmak yasak, cepler boş olacak. İşte havalimanı çalışanlarının uyması gereken akılalmaz kurallar. Almanya'da 77 yıllık gelenek değişiyor mu? İlk kadın cumhurbaşkanı gelebilir. ABD'de ara seçimler öncesi dikkat çeken anket sonuçları.",
+      "text": "Putin'den Norveç ve Finlandiya liderleriyle sürpriz görüşme. Nijerya'da hücreye atılan 33 madenci, havasızlıktan boğularak can vermiş. İsrail sandık başında. Netanyahu'nun rakipleri arasında en çok eski komutan dikkat çekiyor. ABD Başkan Yardımcısı Vance'ten tartışma yaratan benzin fiyatları çıkışı. Almanya'da araçla katliam girişimi: 3 şüpheli gözaltında. Bir videoyla gelen boykot. Çinli dev markalar Mbappe'yi sildi. Hürmüz Boğazı'nda bir gemi mayına çarptı.",
       "items": [
         {
-          "title": "Trump'ın golf sahası projesindeki ağaç kesimine yeni yargı freni",
-          "summary": "ABD Başkanı Donald Trump'ın çok önem verdiği bir proje kapsamında, başkent Washington'ın göbeğindeki golf sahasında yapılan ağaç kesim işlemleri bir kez daha yargıç tarafından durduruldu. Kendisi de bir golf tutkunu olan ve birçok ülkede golf sahaları bulunan ABD Başkanı Donald Trump'a Amerikan yargısından bir fren daha geldi. TRUMP'IN PROJESİ NE?",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trumpin-golf-sahasi-projesindeki-agac-kesimine-yeni-yargi-freni-1748189"
+          "title": "Putin'den Norveç ve Finlandiya liderleriyle sürpriz görüşme",
+          "summary": "Finlandiya Cumhurbaşkanı Alexander Stubb ve Norveç Başbakanı Jonas Gahr Store, Rusya Devlet Başkanı Vladimir Putin ile telefon görüşmesi gerçekleştirdi. Liderlerin görüşmelerde Ukrayna krizini ele aldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/putinden-norvec-ve-finlandiya-liderleriyle-surpriz-gorusme-43357066"
+        },
+        {
+          "title": "Nijerya'da hücreye atılan 33 madenci, havasızlıktan boğularak can vermiş",
+          "summary": "Nijerya'da yasa dışı altın madenciliği şüphesiyle tutuklanarak bir hücreye atılan ve sonra cansız bedenleri bulunan 33 madencinin, hapishanenin insanlık dışı koşulları nedeniyle öldüğü ortaya çıktı. Nijerya'da geçen ay düzenlenen operasyonda, yasa dışı altın madenciliği yaptıkları iddiasıyla tutuklanarak Niger eyaletinin başkenti Minna'daki bir hücreye atılan 14'ü çocuk yaştaki 33 madencinin daha sonra aynı hücrede cansız bedenleri bulunmuştu.",
+          "source": "https://www.ntv.com.tr/dunya/nijeryada-hucreye-atilan-33-madenci-havasizliktan-bogularak-can-vermis-1748237"
         },
         {
           "title": "İsrail sandık başında. Netanyahu'nun rakipleri arasında en çok eski komutan dikkat çekiyor",
@@ -57,35 +62,35 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-israil-sandik-basinda-netanyahunun-rakipleri-arasinda-en-cok-eski-komutan-dikkat-cekiyor-1748135"
         },
         {
-          "title": "İsrail'de iktidar mücadelesi: Seçimin aktörleri kimler?",
-          "summary": "İsrail’de kritik seçim süreci başladı. İktidar bloku, Netanyahu’yu destekleyen partilerden; muhalefet bloku ise Netanyahu’nun gitmesini isteyen ve onunla koalisyona yanaşmayan partilerden oluşuyor.",
-          "source": "https://www.ntv.com.tr/dunya/video-israilde-iktidar-mucadelesi-secimin-aktorleri-kimler-1748178"
+          "title": "ABD Başkan Yardımcısı Vance'ten tartışma yaratan benzin fiyatları çıkışı",
+          "summary": "ABD Başkan Yardımcısı JD Vance, 3 Kasım'da düzenlenecek ara seçimler öncesi yaptığı bir miting konuşmasında benzin fiyatlarının yükselmesini değerlendirerek, bu durumun eski Başkan Joe Biden döneminde yapılan hatalardan kaynaklı olduğunu belirtti. Vance'in açıklamaları, Trump yönetiminin seçimler öncesi benzin fiyatlarının tartışılmasıyla zor durumda kalabileceği gerekçesiyle tartışma konusu oldu.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskan-yardimcisi-vanceten-tartisma-yaratan-benzin-fiyatlari-cikisi-43356966"
         },
         {
-          "title": "İlk turda yenilmişti, herkes şaşkın. Lula da Silva nasıl dördüncü kez başkan seçildi?",
-          "summary": "Brezilya'da sağcı rakibi Flavio Bolsonaro'ya ilk turda yenilen ancak ikinci turu kazanarak dördüncü kez devlet başkanı seçilen Lula da Silva'nın bu sürpriz geri dönüşü dünyayı şaşkına çevirdi. Brezilya'da pazar günü yapılan devlet başkanlığı seçiminin ikinci turunu sürpriz bir şekilde kazanan mevcut solcu başkan Lula da Silva dördüncü kez bu göreve seçildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ilk-turda-yenilmisti-herkes-saskin-lula-da-silva-nasil-dorduncu-kez-baskan-secildi-1748166"
+          "title": "Almanya'da araçla katliam girişimi: 3 şüpheli gözaltında",
+          "summary": "Almanya'nın Hannover kentinin yakınlarında bir aracın kalabalığın üzerine kasten sürüldüğü olayda en az 5 kişi yaralandı. Araç sahibinin evinde bulunan 3 kişinin gözaltına alındığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-aracla-katliam-girisimi-3-supheli-gozaltinda-43356942"
         },
         {
-          "title": "Oturmak yasak, cepler boş olacak. İşte havalimanı çalışanlarının uyması gereken akılalmaz kurallar",
-          "summary": "ABD'de kontrol noktalarındaki sandalyelerin kaldırılmasından İngiltere'deki kıyafet ve hediye yasaklarına kadar birçok sert kural personelin mesaisini belirliyor. Havalimanlarında güvenlik kapısından geçerken ya da kontuarda biniş kartını alırken karşılaşılan yüzler, dışarıdan bakıldığında yalnızca rutin bir prosedürü işleten çalışanlar gibi görünüyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-oturmak-yasak-cepler-bos-olacak-iste-havalimanlarindaki-akilalmaz-kurallar-1748174"
+          "title": "Bir videoyla gelen boykot. Çinli dev markalar Mbappe'yi sildi",
+          "summary": "Çin'in kurucu lideri Mao ile ilgili diktatör şakası yaptığı ileri sürülen dünyaca ünlü futbolcu Kylian Mbappe, ülkedeki en büyük iki ticari sponsoru tarafından aynı gün içinde kapı dışarı edildi. Dünya futbolunun en tanınan isimlerinden Kylian Mbappe, internette yayılan kısa bir video yüzünden Çin pazarındaki en büyük ticari ortaklıklarını bir günde kaybetti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bir-videoyla-gelen-boykot-cinli-dev-markalar-mbappeyi-sildi-1748129"
         },
         {
-          "title": "Almanya'da 77 yıllık gelenek değişiyor mu? İlk kadın cumhurbaşkanı gelebilir",
-          "summary": "Almanya'da Frank-Walter Steinmeier'in halefini belirleyecek seçim yaklaşırken, 77 yıllık cumhuriyet tarihinde ilk kez bir kadının cumhurbaşkanı seçilmesi yönündeki baskı artıyor. Almanya, kuruluşundan bu yana geçen yetmiş yedi yılda on iki cumhurbaşkanı gördü. Theodor Heuss ile başlayan ve Frank-Walter Steinmeier ile süren bu listenin ortak bir paydası var: Koltuğa oturan isimlerin tamamı erkekti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-almanyada-77-yillik-gelenek-degisiyor-mu-ilk-kadin-cumhurbaskani-gelebilir-1748167"
-        },
-        {
-          "title": "ABD'de ara seçimler öncesi dikkat çeken anket sonuçları",
-          "summary": "ABD'de 3 Kasım'da yapılacak ara seçimler öncesi yayınlanan son anket sonuçları dikkat çekti. Temsilciler Meclisi'ni kazanması beklenen Demokratların, Senato seçimlerinde de bir sürprize imza atabileceği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-ara-secimler-oncesi-dikkat-ceken-anket-sonuclari-43356213"
+          "title": "Hürmüz Boğazı'nda bir gemi mayına çarptı",
+          "summary": "İran ordusu, Hürmüz Boğazı'ndan izinsiz geçmeye çalışan bir tankerin mayına çarptığını bildirdi. Takip sistemleri kapalı şekilde boğazda seyreden tankerde yangın çıktığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-bir-gemi-mayina-carpti-43356928"
         }
       ]
     },
     "ekonomi": {
-      "text": "\"Kısa zamanda çok iş yapalım\". Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız. Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi. Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu. Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız. Borsa günü yükselişle tamamladı. Egelilerden Madrid çıkarması.",
+      "text": "ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. \"Kısa zamanda çok iş yapalım\". Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız. Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi. Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu. Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız. Borsa günü yükselişle tamamladı.",
       "items": [
+        {
+          "title": "ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi",
+          "summary": "ABD'de Conference Board Tüketici Güven Endeksi, ekimde 91,7'ye yükselerek piyasa beklentilerinin üzerinde gerçekleşti.",
+          "source": "https://www.hurriyet.com.tr/gundem/abdde-tuketici-guveni-endeksi-aciklandi-ekimde-beklenti-ustu-geldi-43357144"
+        },
         {
           "title": "\"Kısa zamanda çok iş yapalım\"",
           "summary": "İZMİR Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan’la birlikte Ege Bölgesi Sanayi Odası (EBSO) Başkanı Mustafa Karabağlı ve yönetim kurulu üyelerini de ziyaret etti.",
@@ -115,57 +120,57 @@
           "title": "Borsa günü yükselişle tamamladı",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
           "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915"
-        },
-        {
-          "title": "Egelilerden Madrid çıkarması",
-          "summary": "2026’NIN ocak-eylül döneminde ihracatlarını yüzde 42’lik artışla 3 milyar 170 milyon dolara çıkaran yaş meyve sebze ihracatçıları, yılı sonunda bu rakımı 5 milyar dolara çıkarmak için İspanya’nın başkenti Madrid’de düzenlenen Fruit Attraction Fuarı’na katıldı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/egelilerden-madrid-cikarmasi-43348595"
         }
       ]
     },
     "spor": {
-      "text": "Galatasaray-Fenerbahçe maçı sonrası kavganın faturası ağır olacak! 10 maç riski. Olaylı Galatasaray-Fenerbahçe derbisi dünya basınında! 'Vahşi batı! Osimhen haksız rekabet'. Galatasaray-Fenerbahçe derbisi sonrası Okan Buruk konuştu! 'Mutsuz olan olabiliyor'. Fenerbahçe EuroLeague'de Valencia'ya konuk oluyor! Maçın heyecanı canlı yayın ile Misli'de. Galatasaray-Fenerbahçe derbisindeki pozisyon penaltı mı? Hakemler konuştu!. Alperen Şengün kariyer rekoru kırdı, Rockets kazandı!. Başakşehir galibiyetinin ardından Beşiktaş'ın yıldızına övgü: 'Başakşehir'in dengesini bozdu, kusursuzdu!'.",
+      "text": "Galatasaray'dan Fenerbahçe'ye yanıt: 'Gürültü geçer, gerçekler kalır!'. Beşiktaş'tan Galatasaray-Fenerbahçe derbisi sonrası tepki: Çifte standartın temsili!. Rizespor-Trabzonspor maçı sonrası 3 kişiye işlem yapıldı. Beşiktaşlı Olaitan kariyer rekoru kırdı!. Muslera korkuttu! Maçta fenalaştı. Mbappe'nin bir sözü Çin'i ayağa kaldırdı! Çin Dışişleri'nden tepki, La Liga yayınları askıya alındı. Fenerbahçe'den derbideki olaylarla ilgili TFF'ye çağrı: 'Bu davranışlar cezasız kalmamalıdır!'.",
       "items": [
         {
-          "title": "Galatasaray-Fenerbahçe maçı sonrası kavganın faturası ağır olacak! 10 maç riski",
-          "summary": "Galatasaray ve Fenerbahçe'nin RAMS Park'ta karşı karşıya geldiği mücadele sonrası kavga çıktı. Fiziki müdahalelerin olduğu an sonrası kırmızı kart çıkarken, her iki oyuncuya da verilebilecek muhtemel cezalar belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-maci-sonrasi-kavganin-faturasi-agir-olacak-10-mac-riski-43356567"
+          "title": "Galatasaray'dan Fenerbahçe'ye yanıt: 'Gürültü geçer, gerçekler kalır!'",
+          "summary": "Galatasaray, Fenerbahçe'nin açıklamalarına yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-fenerbahceye-yanit-gurultu-gecer-gercekler-kalir-43357133"
         },
         {
-          "title": "Olaylı Galatasaray-Fenerbahçe derbisi dünya basınında! 'Vahşi batı! Osimhen haksız rekabet'",
-          "summary": "Süper Lig'de Galatsaray, ezeli rakibi Fenerbahçe'yi mağlup etti. Maç sonrası dünya basını derbiyi manşetlerine taşıdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/olayli-galatasaray-fenerbahce-derbisi-dunya-basininda-vahsi-bati-osimhen-haksiz-rekabet-43356329"
+          "title": "Beşiktaş'tan Galatasaray-Fenerbahçe derbisi sonrası tepki: Çifte standartın temsili!",
+          "summary": "Beşiktaş Kulübü'nden, Galatasaray-Fenerbahçe derbisine dair açıklama geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-galatasaray-fenerbahce-derbisi-sonrasi-tepki-cifte-standartin-temsili-43357065"
         },
         {
-          "title": "Galatasaray-Fenerbahçe derbisi sonrası Okan Buruk konuştu! 'Mutsuz olan olabiliyor'",
-          "summary": "Galatasaray'ın Fenerbahçe'yi 2-1 mağlup ettiği derbi sonrası sarı kırmızılılarda teknik direktör Okan Buruk açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbisi-sonrasi-okan-buruk-konustu-mutsuz-olan-olabiliyor-43356521"
+          "title": "Rizespor-Trabzonspor maçı sonrası 3 kişiye işlem yapıldı",
+          "summary": "Süper Lig'de oynanan Rizespor-Trabzonspor maçı sonrası Eminyet'ten açıklama geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rizespor-trabzonspor-maci-sonrasi-3-kisiye-islem-yapildi-43356941"
         },
         {
-          "title": "Fenerbahçe EuroLeague'de Valencia'ya konuk oluyor! Maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "Fenerbahçe, EuroLeague'in 8. haftasında bu akşam deplasmanda İspanya ekibi Valencia ile karşı karşıya gelecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-euroleaguede-valenciaya-konuk-oluyor-macin-heyecani-canli-yayin-ile-mislide-43356424"
+          "title": "Beşiktaşlı Olaitan kariyer rekoru kırdı!",
+          "summary": "Beşiktaş'ın son olarak oynadığı Başakşehir mücadelesinde ağları havalandıran Junior Olaitan, skor katkısı sonrası istatistiklerde kendi rekorunu egale etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasli-olaitan-kariyer-rekoru-kirdi-43356853"
         },
         {
-          "title": "Galatasaray-Fenerbahçe derbisindeki pozisyon penaltı mı? Hakemler konuştu!",
-          "summary": "Galatasaray'ın Fenerbahçe'yi 2-1 mağlup ettiği karşılaşma sonrası eski hakemler, pozisyonları değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbisindeki-pozisyon-penalti-mi-hakemler-konustu-43356366"
+          "title": "Muslera korkuttu! Maçta fenalaştı",
+          "summary": "Galatasaray'ın unutulmaz kalecilerinden Muslera, oynadığı maçta fenalaştı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/muslera-korkuttu-macta-fenalasti-43356794"
         },
         {
-          "title": "Alperen Şengün kariyer rekoru kırdı, Rockets kazandı!",
-          "summary": "NBA'de Houston Rockets, Alperen Şengün'ün \"triple-double\"a yaklaştığı maçta Atlanta Hawks'ı yendi",
-          "source": "https://www.hurriyet.com.tr/sporarena/alperen-sengun-kariyer-rekoru-kirdi-rockets-kazandi-43356344"
+          "title": "Mbappe'nin bir sözü Çin'i ayağa kaldırdı! Çin Dışişleri'nden tepki, La Liga yayınları askıya alındı",
+          "summary": "Çin devlet televizyonu, Kylian Mbappe’nin eski Çin lideri Mao Zedong hakkındaki açıklamalarının ardından La Liga yayınlarını askıya aldı. Çin Dışişleri Bakanlığı da konuyla alakalı bir açıklama yaparak Mbappe'ye tepki gösterdi. Ayrıca Çinli iki büyük marka Fransız yıldızla sponsorluğunu feshettiğini açıkladı. Mbappe yazılı bir açıklama yaparak Çin halkından özür diledi. İşte Mbappe-Çin hattında tüm yaşananlar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/mbappenin-bir-sozu-cini-ayaga-kaldirdi-disislerinden-tepki-la-liga-yayinlari-askiya-alindi-43356578"
         },
         {
-          "title": "Başakşehir galibiyetinin ardından Beşiktaş'ın yıldızına övgü: 'Başakşehir'in dengesini bozdu, kusursuzdu!'",
-          "summary": "Beşiktaş, Süper Lig'in 9. haftasında dün akşam konuk ettiği Başakşehir'i 2-0 mağlup ederek zirveyi yakından takibini sürdürdü. Siyah-beyazlı takımın maçtaki performansını Hürriyet yazarı Güntekin Onay bugünkü köşe yazısında değerlendirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basaksehir-galibiyetinin-ardindan-besiktasin-yildizina-ovgu-basaksehirin-dengesini-bozdu-kusursuzdu-43356128"
+          "title": "Fenerbahçe'den derbideki olaylarla ilgili TFF'ye çağrı: 'Bu davranışlar cezasız kalmamalıdır!'",
+          "summary": "Fenerbahçe, dün akşam Galatasaray'la oynanan derbi maçın ardından yaşanan olaylarda futbolcularına yönelik sözlü ve fiziksel saldırılarda bulunulduğunu belirterek, TFF'ye 'Bu davranışlar cezasız kalmamalıdır' çağrısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-derbinin-ardindan-yasanan-olaylarla-ilgili-aciklama-bu-davranislar-cezasiz-kalmamalidir-43356802"
         }
       ]
     },
     "teknoloji": {
-      "text": "İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı. Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?. “Yapay zekayı yöneten kazanacak”. Yapay zekanın karanlık yüzü: Su ve elektrik sistemleri risk altında.",
+      "text": "Medya devlerinden Meta'ya yapay zekâ davası. İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı. Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?. “Yapay zekayı yöneten kazanacak”.",
       "items": [
+        {
+          "title": "Medya devlerinden Meta'ya yapay zekâ davası",
+          "summary": "Norveç'in önde gelen 10 medya kuruluşu, haberleri ve abonelikli içerikleri yapay zekâ eğitiminde kullanmayı hedefleyen Meta'nın yeni kullanıcı sözleşmesini durdurmak için yargıya başvurdu. Norveç'in önde gelen medya kuruluşları, Meta'nın gazetecilik içeriklerini yapay zekâ modellerini eğitmek amacıyla kullanmasını engellemek için yargıya başvurdu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-medya-devlerinden-metaya-yapay-zeka-davasi-1748234"
+        },
         {
           "title": "İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı",
           "summary": "Roma’daki RoboCup İnsansı Robotlar Futbol Müsabakası’nda HULKs ve whIRLwind Amsterdam takımları karşılaştı İtalya'nın başkenti Roma'da düzenlenen Maker Faire Rome etkinliği kapsamında gerçekleştirilen İtalyan RoboCup İnsansı Robotlar Açık Futbol Müsabakası'nda, orta boy robotlar arasındaki birincilik mücadelesinde Hamburg Teknoloji Üniversitesi'nin HULKs takımı ile whIRLwind Amsterdam takımı karşılaştı.",
@@ -195,11 +200,6 @@
           "title": "“Yapay zekayı yöneten kazanacak”",
           "summary": "Kurumsal yazılım geliştirmede yapay zeka destekli araçlar artık deneme aşamasını geride bırakıyor. Bu araçlar geliştirme sürecinin belirli aşamalarında önemli hız kazanımları sağlarken, kurumlar için yeni soru bu kazanımların yazılım teslimatının bütününe nasıl taşınacağı ve kurumsal ölçekte nasıl sürdürülebilir hale getirileceği oluyor.",
           "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zekayi-yoneten-kazanacak-43351266"
-        },
-        {
-          "title": "Yapay zekanın karanlık yüzü: Su ve elektrik sistemleri risk altında",
-          "summary": "Elektrik şebekeleri ve su sistemlerine yönelik siber saldırıları planlama becerisi test edilen yapay zeka modellerinden bazıları, yüzde 90'a varan başarı gösterdi. Axios'un haberine göre, siber güvenlik şirketi Frenos tarafından yapılan araştırma, gelişmiş yapay zeka modellerinin endüstriyel sistemlere yönelik saldırı planları oluşturabildiğini ve kritik altyapıların siber saldırılara karşı savunmasında zamanın daraldığını ortaya koydu.",
-          "source": "https://www.ntv.com.tr/teknoloji/yapay-zekanin-karanlik-yuzu-su-ve-elektrik-sistemleri-risk-altinda-1747394"
         }
       ]
     },
