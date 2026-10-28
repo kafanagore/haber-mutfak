@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-28T04:00:03.368Z",
+  "generatedAt": "2026-10-28T10:00:03.416Z",
   "categories": {
     "gundem": {
-      "text": "Beyoğlu'nda 5 katlı metruk bina çöktü. Ankara'da şüpheli ölüm! Yol kenarında bir kişinin cansız beden bulundu. İstanbul'da akşam saatleri için yeni uyarı. Yağışlar ne kadar sürecek?. Kocaeli'de 7 katlı bina boşaltıldı. Kolonlarından ses geldi. Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak. TBMM Başkanı Kurtulmuş: Dünya gündeminde etkisi olmayan Türk medyasının, güçlü Türkiye hedefine de katkı sunmayacağı aşikardır. Fon soruşturmasında iki üst düzey yönetici tutuklandı.",
+      "text": "Rize'de kış öncesi gelenek bozulmadı: Çığa karşı minareyi yere yatırdılar. Skandal görüntüler! Türk bayrağına ve Atatürk'e hakaret eden öğretmen tutuklandı. Son Dakika: Mustafa Sarıgül'ün Yeni Parti üyeliği askıya alındı. Bakırköy Belediyesi'ne ihale ve ruhsat operasyonu: 5 başkan yardımcısı dahil 62 gözaltı. Milli Savunma Bakanı Yaşar Güler, üçlü savunma toplantısı için Bulgaristan'da. Türk Devletleri Teşkilatı Zirvesi başlıyor. İstanbul'da yarın bu yollar trafiğe kapanacak.",
       "items": [
         {
-          "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
-          "summary": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verdi. İlk incelemelere göre çökme sebebiyle can kaybı olmadığı öğrenildi. Kalyoncu Kulluğu Mahallesi Kömürcü Zeynel Sokak'ta kentsel dönüşüm sebebiyle boşaltılan 5 katlı bina çöktü. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. BİTİŞİKTEKİ BİNAYA HASAR VERDİ Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine gelen ekipler arama çalışması başlattı.",
-          "source": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267"
+          "title": "Rize'de kış öncesi gelenek bozulmadı: Çığa karşı minareyi yere yatırdılar",
+          "summary": "İkizdere ilçesindeki 2 bin 100 rakımlı Garzavan Yaylası'nda çelik varillerin birleştirilmesiyle inşa edilen 7 metrelik cami minaresi, sert kış şartları ve çığ tehlikesine karşı makaralı sistemle yere yatırılarak korumaya alındı. Minare, bahar aylarında yeniden ayağa kaldırılacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/rizede-kis-oncesi-gelenek-bozulmadi-ciga-karsi-minareyi-yere-yatirdilar-43357944"
         },
         {
-          "title": "Ankara'da şüpheli ölüm! Yol kenarında bir kişinin cansız beden bulundu",
-          "summary": "Ankara-Eskişehir yolu üzerinde Polatlı ilçesinde yol kenarında hareketsiz yatan bir kişinin hayatını kaybettiği belirlendi. İlk incelemelerde, kimliği henüz belirlenemeyen kişiye bir aracın çarptığı ve sürücüsünün olay yerinden kaçtığı değerlendirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-43357416"
+          "title": "Skandal görüntüler! Türk bayrağına ve Atatürk'e hakaret eden öğretmen tutuklandı",
+          "summary": "Balıkesir'in Edremit ilçesinde sosyal medya hesabından Gazi Mustafa Kemal Atatürk'e ve Türk bayrağına hakaret içerikli paylaşım yapan öğretmen tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/skandal-goruntuler-turk-bayragina-ve-ataturke-hakaret-eden-ogretmen-tutuklandi-43357921"
         },
         {
-          "title": "İstanbul'da akşam saatleri için yeni uyarı. Yağışlar ne kadar sürecek?",
-          "summary": "İstanbul'da dün altgeçitleri ve yolları göle çeviren kuvvetli yağışların ardından, bugün akşam saatleri için yeni bir uyarı yapıldı. Ayrıca 19 il için sarı ve turuncu kodlu uyarı verildi. İstanbul'da dün yapılan uyarıların ardından bastıran kuvvetli sağanak hayatı olumsuz etkiledi. Özellikle Anadolu Yakası'nda birçok bölgede cadde ve sokaklar göle döndü. Yağışlar öğleden sonra etkisini kaybetse de hafta boyunca aralıklarla etkili olacak.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-aksam-saatleri-icin-yeni-uyari-yagislar-ne-kadar-surecek-1748268"
+          "title": "Son Dakika: Mustafa Sarıgül'ün Yeni Parti üyeliği askıya alındı",
+          "summary": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün kendisi ve ailesi hakkında yürütülen soruşturmalar sonuçlanana kadar parti üyeliğinin askıya alındı. İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarıyla Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün eski eşi Aylin Kotil, oğulları Ömer ve Emir Sarıgül ile gazeteci Murat Ağırel'in tutuklandığı soruşturma sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-son-dakika-mustafa-sarigul-yeni-parti-uyeligi-askiya-alindi-1748319"
         },
         {
-          "title": "Kocaeli'de 7 katlı bina boşaltıldı. Kolonlarından ses geldi",
-          "summary": "Kocaeli'nin Karamürsel ilçesinde kolon ve kirişlerinden ses geldiği bildirilen 7 katlı bina, tedbiren boşaltıldı. 4 Temmuz Mahallesi Amiral Caddesi'ndeki 7 katlı Cansever Apartmanı'nda oturan bazı kişiler, kolon ve kirişlerinden ses geldiği yönünde 112 Acil Çağrı Merkezi'ne ihbarda bulundu. İhbar üzerine olay yerine AFAD, UMKE, belediye ve polis ekipleri sevk edildi. Etrafında güvenlik önlemleri alınan bina, yapılan ilk incelemenin ardından tedbiren boşaltıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/kocaelide-7-katli-bina-bosaltildi-kolonlarindan-ses-geldi-1748266"
+          "title": "Bakırköy Belediyesi'ne ihale ve ruhsat operasyonu: 5 başkan yardımcısı dahil 62 gözaltı",
+          "summary": "Bakırköy Cumhuriyet Başsavcılığı koordinesinde yürütülen irtikap ve ihaleye fesat soruşturması genişliyor. 2024-2026 yıllarına ait 42 ihalenin ve MASAK raporlarının incelendiği jandarma operasyonunda, verilen ek gözaltı talimatlarıyla gözaltı sayısı 62'ye ulaştı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-ihale-ve-ruhsat-operasyonu-5-baskan-yardimcisi-dahil-62-gozalti-43357916"
         },
         {
-          "title": "Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak",
-          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili 1 milyon liraya kadar ödemeler cuma günü başlayacağını duyurdu. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili yapılacak ödemeler konusunda TBMM'de bilgi verdi. Yılmaz, \"Olağanüstü tasfiyeyle ilgili 1 milyon liraya kadar ödemeler cuma günü itibarıyla İş Bankası ve Ziraat Bankası kanalıyla başlayacak\" dedi. Cumhurbaşkanı Yardımcısı, 23 Ekim itibarıyla toplam 93 fona, 71 bin 899 hesaba 68 milyar lira ödendiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-fonlarla-ilgili-ara-odeme-tarihi-netlesti-1748250"
+          "title": "Milli Savunma Bakanı Yaşar Güler, üçlü savunma toplantısı için Bulgaristan'da",
+          "summary": "Milli Savunma Bakanı Yaşar Güler, Türkiye, Bulgaristan ve Romanya savunma bakanları ile genelkurmay başkanlarının katılacağı toplantı için Sofya'ya gitti. Millî Savunma Bakanı Yaşar Güler, beraberinde Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu ile Türkiye-Bulgaristan-Romanya Savunma Bakanları ve Genelkurmay Başkanları Toplantısı için Bulgaristan’a gitti. Milli Savunma Bakanlığı'nın yaptığı açıklamaya göre, Bakan Güler'e Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu da eşlik etti.",
+          "source": "https://www.ntv.com.tr/turkiye/milli-savunma-bakani-yasar-guler-uclu-savunma-toplantisi-icin-bulgaristanda-1748337"
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş: Dünya gündeminde etkisi olmayan Türk medyasının, güçlü Türkiye hedefine de katkı sunmayacağı aşikardır",
-          "summary": "TBMM Başkanı Numan Kurtulmuş, “Medyası güçlü olmayan, medyasının söylediği sözün itibarı olmayan, medyada dile getirilen konuların Türkiye ve dünya gündeminde etkisi olmayan Türk medyasının, güçlü Türkiye hedefine de katkı sunmayacağı aşikardır\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-dunya-gundeminde-etkisi-olmayan-turk-medyasinin-guclu-turkiye-hedefine-de-katki-sunmayacagi-asikardir-43357357"
+          "title": "Türk Devletleri Teşkilatı Zirvesi başlıyor",
+          "summary": "Türk Devletleri Teşkilatı (TDT) Zirvesi yarın Beştepe'de başlıyor. İki gün sürecek zirvenin teması \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" olacak. Ankara, temmuz ayındaki NATO Zirvesi'nin ardından bir başka uluslararası etkinliğe ev sahipliği yapmaya hazırlanıyor. Bu kapsamda, Türk dünyası liderlerinin bir araya geleceği Türk Devletleri Teşkilatı 13'üncü Zirvesi, 29-30 Ekim'de başkentte yapılacak. NTV muhabiri Ahmet Örsoğlu, zirveye ilişkin bilgi verdi.",
+          "source": "https://www.ntv.com.tr/turkiye/turk-devletleri-teskilati-zirvesi-basliyor-1748342"
         },
         {
-          "title": "Fon soruşturmasında iki üst düzey yönetici tutuklandı",
-          "summary": "Fon soruşturmasında Tera yöneticisi Hakan Gövdere ve Ral Yatırım Holding Yönetim Kurulu Başkanı Rıza Kandemir hakkında tutuklandı. İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması sürüyor. Soruşturmada Tera yöneticisi Hakan Gövdere, Tera Yatırım Finans Grup Direktörü Elif Özüş, Tera Holding Yönetim Kurulu Başkanı Asistanı Elif Değerli, Ral Yatırım Holding Kurucu Ortağı ve Yönetim Kurulu Başkanı Rıza Kandemir gözaltına alınmıştı.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-iki-ust-duzey-yoneticiye-tutuklama-talebi-1748253"
+          "title": "İstanbul'da yarın bu yollar trafiğe kapanacak",
+          "summary": "İstanbul Valiliğinden yapılan açıklamada 29 Ekim Cumhuriyet Bayramı'nın 103. Yıl Dönümü Kutlamaları' nedeniyle İstanbul'da bazı yolların trafiğe kapatılacağı duyuruldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-yarin-bu-yollar-trafige-kapanacak-43357877"
         }
       ]
     },
     "dunya": {
-      "text": "Lula'ya kaybeden Bolsonaro'nun ABD'ye kaçtığı iddia edildi. İsrail seçimlerine rekor katılım. Milletvekili sayılarında eşitlik var. Yemen ordusu: 440 Husi milis daha etkisiz hale getirildi. Yapay zeka saldırıdan vazgeçmedi: Gerçek insanların hedefte olduğu uyarısı da durduramadı. İsrail ordusundan Gazze’ye saldırı: 4 Filistinli öldü. İsrail seçimlerinde sandık çıkış anketlerine göre Netanyahu önde. İsrail Merkez Seçim Komitesi’nden Netanyahu'nun talebine ret.",
+      "text": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?. Japonya'da halka acil çağrı. \"En az üç günlük gıda ve su stoklayın\". İspanya'da iki yüksek hızlı tren çarpıştı. En az 10 kişi hayatını kaybetti. İsrail'de seçiminin baş aktörleri, ilk açıklamalarında neler söyledi?. İngiltere'de 4 Türk öğrencinin yapay zeka destekli akıllı saat projesine ödül. Son dakika... İspanya'da tren kazası: 46 ölü, 150 yaralı. İsrail'in Sırbistan'daki Büyükelçiliği'nde saldırı girişimi.",
       "items": [
         {
-          "title": "Lula'ya kaybeden Bolsonaro'nun ABD'ye kaçtığı iddia edildi",
-          "summary": "Brezilya'da devlet başkanlığı seçimini Lula'ya kaybeden Flavio Bolsonaro'nun, pasaportlarını teslim etmesi yönündeki mahkeme kararına uymayarak ABD'ye gitmek üzere ülkeden ayrıldığı öne sürüldü. Brezilya'da 25 Ekim Pazar günü yapılan devlet başkanlığı seçimini kaybeden eski Devlet Başkanı Jair Bolsonaro'nun oğlu Flavio Bolsonaro'nun ABD'ye gittiği öne sürüldü.",
-          "source": "https://www.ntv.com.tr/dunya/lulaya-kaybeden-bolsonaronun-abdye-kactigi-iddia-edildi-1748257"
+          "title": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?",
+          "summary": "Oy sayımının devam ettiği İsrail'de Başbakan Netanyahu'nun bloku öne geçti ancak taraflar, hükümet kurmak için gereken 61 sandalyeye ulaşamadı. Arap partileri ise 19 sandalye ile rekora uzandı. Gazze soykırımının başladığı 7 Ekim gününden bu yana İsrail'de dün yapılan ilk seçimde oy sayımı sürüyor. Rekorlarla anılacak seçimde, 7.3 milyon seçmenin yüzde 77'si sandığa gitti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israil-secimlerinde-neler-oluyor-iste-3-senaryo-1748286"
         },
         {
-          "title": "İsrail seçimlerine rekor katılım. Milletvekili sayılarında eşitlik var",
-          "summary": "İsrail'de tarihi katılımla gerçekleşen genel seçim sona erdi. Sandık çıkış anketlerine göre, Gadi Eisenkot liderliğindeki muhalefet ile Başbakan Binyamin Netanyahu'nun bloğu eşit milletvekili aldı. Gazze soykırımının başladığı 7 Ekim gününden bu yana İsrail'de ilk seçimde sandıklar kapandı. Rekorlarla anılacak seçimde, 7.3 milyon seçmenin yüzde 77'si sandığa gitti. Sandık çıkış anketleri, Başbakan Binyamin Netanyahu'nun siyasi geleceğine ilişkin belirsizliğin sürdüğünü gösterdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-israil-secimleri-sandik-cikis-anketlerine-gore-hicbir-blok-cogunlugu-saglayamadi-1748259"
+          "title": "Japonya'da halka acil çağrı. \"En az üç günlük gıda ve su stoklayın\"",
+          "summary": "Japon hükümeti, beklenen büyük depremler ve Fuji Dağı'nın patlama ihtimaline karşı vatandaşlarına en az üç günlük gıda, içme suyu ve seyyar tuvalet stoku yapmaları çağrısında bulundu. Japonya hükümeti, ülkeyi sarsması beklenen yıkıcı depremler ve olası bir volkanik patlama öncesinde vatandaşlarına doğrudan ve acil bir çağrıda bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-japonyadan-halka-acil-cagri-en-az-uc-gunluk-gida-ve-su-stoklayin-1748336"
         },
         {
-          "title": "Yemen ordusu: 440 Husi milis daha etkisiz hale getirildi",
-          "summary": "Yemen ordusundan yapılan açıklamada, dünden bu yana Husi hedeflerine yönelik bin 382 hassas saldırı düzenlendiği belirtilerek, \"Bu operasyonlar sonucunda, Husilerin komuta kademesinden ve saha unsurlarından yaklaşık 440 kişi daha etkisiz hale getirilmiş; toplam 146 askeri araç, ağır silah ve muharebe teçhizatı imha edilmiş veya kullanılamaz hale getirilmiştir\" denildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yemen-ordusu-440-husi-milis-daha-etkisiz-hale-getirildi-43357417"
+          "title": "İspanya'da iki yüksek hızlı tren çarpıştı. En az 10 kişi hayatını kaybetti",
+          "summary": "İspanya'da Madrid ile Sevilla arasında sefer yapan iki yüksek hızlı trenin arkadan çarpışması sonucu en az 10 kişi hayatını kaybetti. İspanya'da başkent Madrid ile güneydeki Endülüs bölgesini birbirine bağlayan yüksek hızlı tren hattında iki tren arkadan çarpıştı. Demiryolu altyapı işletmecisi Adif, çarpışmanın ardından Madrid ile Endülüs arasındaki seferlerin durdurulduğunu açıkladı. Kaza, Mora ile Orgaz kasabaları arasındaki demiryolu kesiminde meydana geldi.",
+          "source": "https://www.ntv.com.tr/dunya/ispanyada-iki-yuksek-hizli-tren-carpisti-madrid-endulus-hatti-kapandi-1748347"
         },
         {
-          "title": "Yapay zeka saldırıdan vazgeçmedi: Gerçek insanların hedefte olduğu uyarısı da durduramadı",
-          "summary": "Bir yapay zeka modeline verilen görevi tamamlaması için tanınan hareket alanı, güvenlik sınırlarının aşılmasına yol açtı. Gerçek insanlara zarar verdiği uyarısına rağmen siber saldırıya devam etti. İngiltere Yapay Zeka Güvenliği Enstitüsü’nün (AISI) Temmuz 2026’da tespit ettiği olayda, Anthropic’in Claude Mythos 5 modeli test ortamının dışındaki geliştiricilere yöneldi. Anthropic ve AISI’nin yayımladığı incelemeler, modelin davranışlarını ve sonradan gerçekleştirilen tekrar deneylerini ele alıyor.",
-          "source": "https://www.ntv.com.tr/dunya/yapay-zeka-saldiridan-vazgecmedi-gercek-insanlarin-hedefte-oldugu-uyarisi-da-durduramadi-1748265"
+          "title": "İsrail'de seçiminin baş aktörleri, ilk açıklamalarında neler söyledi?",
+          "summary": "İsrail'de oy sayımı kıran kırana sürerken, iktidar blokunun başındaki Başbakan Binyamin Netanyahu, en yakın rakibi Gadi Eisenkot ve muhalif Demokratlar Partisi lideri Yair Golan açıklamalarda bulundu. NETANYAHU: SİYONİST ÇOĞUNLUK AKLINI BAŞINA TOPLAMALI VE BİRLEŞMELİ İsrail Başbakanı Binyamin Netanyahu, genel seçimlerin ardından yaptığı açıklamada, \"Siyonist çoğunluk aklını başına toplamalı ve birleşmeli.\" ifadesini kullanarak sağ siyasete birlik çağrısında bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israilde-seciminin-bas-aktorleri-ilk-aciklamalarinda-neler-soyledi-1748326"
         },
         {
-          "title": "İsrail ordusundan Gazze’ye saldırı: 4 Filistinli öldü",
-          "summary": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusundan-gazzeye-saldiri-4-filistinli-oldu-43357396"
+          "title": "İngiltere'de 4 Türk öğrencinin yapay zeka destekli akıllı saat projesine ödül",
+          "summary": "İngiltere'de Sheffield Üniversitesi'nde öğrenim gören 4 Türk öğrenci, işitme kaybı yaşayan bireyler için geliştirdikleri yapay zeka destekli akıllı saat projesiyle Londra'da ödül aldı. İngiltere'de Sheffield Üniversitesi'nde öğrenim gören 4 Türk öğrenci, işitme kaybı yaşayan bireyler için yapay zeka destekli bir teknoloji projesi geliştirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-ingilterede-4-turk-ogrencinin-yapay-zeka-destekli-akilli-saat-projesine-odul-1748339"
         },
         {
-          "title": "İsrail seçimlerinde sandık çıkış anketlerine göre Netanyahu önde",
-          "summary": "İsrail, 7 Ekim 2023'ten ve ardından gelen savaş yıllarından bu yana ilk kez parlamento seçimleri için sandık başına gitti. İsrail, Gazze'deki Filistinli grupların 7 Ekim 2023'teki Aksa Tufanı operasyonundan ve ardından gelen savaş yıllarından bu yana ilk kez salı günü parlamento seçimleri için sandık başına gitti. Sandık çıkış anketlerine göre Netanyahu'nun Likud Partisi ilk sırada ancak blok olarak ise muhalefetin önde olduğu görülüyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-israil-sandik-basinda-netanyahunun-rakipleri-arasinda-en-cok-eski-komutan-dikkat-cekiyor-1748135"
+          "title": "Son dakika... İspanya'da tren kazası: 46 ölü, 150 yaralı",
+          "summary": "İspanya'da iki yüksek hızlı tren çarpıştı. İlk belirlemelere göre kaza nedeniyle 46 kişi öldü, 150 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-ispanyada-tren-kazasi-46-olu-150-yarali-43357848"
         },
         {
-          "title": "İsrail Merkez Seçim Komitesi’nden Netanyahu'nun talebine ret",
-          "summary": "İsrail Merkez Seçim Komitesi, mevcut Başbakan Binyamin Netanyahu'nun partisi Likud'un yerel saatle 22.00'de (TSİ 23.00) sona erecek oy kullanma süresinin uzatılması talebini reddetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-merkez-secim-komitesinden-netanyahunun-talebine-ret-43357279"
+          "title": "İsrail'in Sırbistan'daki Büyükelçiliği'nde saldırı girişimi",
+          "summary": "İsrail, Sırbistan'ın başkenti Belgrad'daki büyükelçiliğine yönelik gece saatlerinde saldırı girişiminde bulunulduğunu bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilin-sirbistandaki-buyukelciliginde-saldiri-girisimi-43357802"
         }
       ]
     },
     "ekonomi": {
-      "text": "ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü. \"Kısa zamanda çok iş yapalım\". Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız. Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi.",
+      "text": "Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü. \"Kısa zamanda çok iş yapalım\". Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız.",
       "items": [
+        {
+          "title": "Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı",
+          "summary": "Hatay Büyükşehir Belediye Başkanı Mehmet Öntürk’ün talimatıyla harekete geçen belediye, yerel üreticiden temin ettiği 100 ton mandalinayı öğrencilere ulaştırarak hem kırsal kalkınmaya hem de eğitime destek verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ciftciye-destek-cocuklara-ikram-100-ton-mandalina-dagitildi-43357447"
+        },
         {
           "title": "ASELSAN'ın 9 aylık cirosu açıklandı",
           "summary": "ASELSAN'ın cirosu, yılın 9 ayında geçen yılın aynı dönemine göre yüzde 28 artışla 151,5 milyar liraya ulaştı.",
@@ -115,57 +120,62 @@
           "title": "Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız",
           "summary": "İzmir Esnaf ve Sanatkârlar Odaları Birliği’ni ziyaret eden Büyükşehir Belediye Başkanı Cemil Tugay, su tarifelerinde indirime gidileceğini, toplu ulaşıma da zam yapmayacaklarını açıkladı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/baskan-tugaydan-cifte-mujde-suya-indirim-ulasim-zamsiz-43353537"
-        },
-        {
-          "title": "Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi",
-          "summary": "Son dakika haberi... Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulu'nda kabul edilerek yasalaştı. Düzenlemeye göre, net yatırım tutarı 1 milyon liranın altında olan yatırımcılara net yatırım tutarları kadar, 1 milyon lira ve üzerinde olan yatırımcılar için ise en fazla 1 milyon lira ara ödeme yapılabilecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-bazi-yatirim-fonlari-hakkindaki-kanun-teklifi-mecliste-kabul-edildi-43351547"
         }
       ]
     },
     "spor": {
-      "text": "Joao Pereira: 'Kazanmak bizim için zorunluluktu!'. Alanyaspor, evinde 4 golle turladı!. Portekiz Milli Takımı'nda Ronaldo gelişmesi! Jorge Jesus'tan sürpriz karar. Selçuk İnan: 'Daha heyecanlı maçlar olacak!'. Fenerbahçe'de 4. İsmail Kartal dönemi resmen sona erdi!. Galatasaray'dan Fenerbahçe'ye yanıt: 'Gürültü geçer, gerçekler kalır!'. Beşiktaş'tan Galatasaray-Fenerbahçe derbisi sonrası tepki: Çifte standartın temsili!.",
+      "text": "Fenerbahçeli yıldızlardan İsmail Kartal'a veda paylaşımı. Fenerbahçe'de yıldızlar döküldü! Sadece '18 kez' topa dokunabildi. Beşiktaş ile Anadolu Efes, EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli’de. Trabzonspor, son 16 sezonun en golcü dönemini yaşıyor. Fenerbahçe'den açıklama: Yeni teknik direktör belirlenene kadar sorumlu Dirk Kuyt. Abdülkerim Bardakcı yerine oynayacak! Okan Buruk karatını verdi. Aziz Yıldırım ve İsmail Kartal gece saatlerinde kaza yaptı.",
       "items": [
         {
-          "title": "Joao Pereira: 'Kazanmak bizim için zorunluluktu!'",
-          "summary": "Ziraat Türkiye Kupası 3. Tur mücadelesinde Corendon Alanyaspor, sahasında karşılaştığı 12 Bingölspor’u 4-1 mağlup ederek adını bir üst tura yazdırdı. Karşılaşmanın ardından düzenlenen basın toplantısında değerlendirmelerde bulunan Alanyaspor Teknik Direktörü Joo Pereira, alınan galibiyetin önemine dikkati çekti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-kazanmak-bizim-icin-zorunluluktu-43357374"
+          "title": "Fenerbahçeli yıldızlardan İsmail Kartal'a veda paylaşımı",
+          "summary": "Fenerbahçe'de Nathan Ake, Kerem Aktürkoğlu ve İrfan Can Kahveci, sosyal medya hesaplarından yaptıkları paylaşımlarda İsmai Kartal'a veda etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-yildizlardan-ismail-kartala-veda-paylasimi-43357932"
         },
         {
-          "title": "Alanyaspor, evinde 4 golle turladı!",
-          "summary": "Alanyaspor, Ziraat Türkiye Kupası 3. tur maçında sahasında Bingölspor'u 4-1 mağlup etti ve bir üst tura yükseldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-evinde-4-golle-turladi-43357318"
+          "title": "Fenerbahçe'de yıldızlar döküldü! Sadece '18 kez' topa dokunabildi",
+          "summary": "Fenerbahçe'de Galatasaray mağlubiyetinin rakamları ortaya çıktı. Sarı lacivertlilerin dünyaca ünlü yıldızlarının istatistikleri, görenleri şaşkınlığa uğrattı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-yildizlar-dokuldu-sadece-18-kez-topa-dokunabildi-43357735"
         },
         {
-          "title": "Portekiz Milli Takımı'nda Ronaldo gelişmesi! Jorge Jesus'tan sürpriz karar",
-          "summary": "Portekiz Milli Takımı'nda Cristiano Ronaldo'nun yaşananların ardından yıldız futbolcunun yeniden milli takıma davet edileceği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/portekiz-milli-takiminda-ronaldo-gelismesi-jorge-jesustan-surpriz-karar-43357314"
+          "title": "Beşiktaş ile Anadolu Efes, EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli’de",
+          "summary": "EuroLeague 8. haftasında Beşiktaş, Yunanistan ekibi Olympiakos'u sahasında konuk ederken Anadolu Efes, Hapoel Tel Aviv deplasmanına gidiyor. Maçların heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ile-anadolu-efes-euroleague-sahnesinde-maclarin-heyecani-canli-yayin-ile-mislide-43357777"
         },
         {
-          "title": "Selçuk İnan: 'Daha heyecanlı maçlar olacak!'",
-          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Türkiye Kupası'nın mevcut formatını doğru bulduğunu belirterek, \"Kupanın bu formatı daha doğru. Bu turdan sonraki maçların daha heyecanlı olacağını düşünüyorum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-daha-heyecanli-maclar-olacak-43357266"
+          "title": "Trabzonspor, son 16 sezonun en golcü dönemini yaşıyor",
+          "summary": "Trendyol Süper Lig'de haftayı 4-3'lük Çaykur Rizespor galibiyetiyle kapatan Trabzonspor, son yılların en golcü dönemini yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-son-16-sezonun-en-golcu-donemini-yasiyor-43357763"
         },
         {
-          "title": "Fenerbahçe'de 4. İsmail Kartal dönemi resmen sona erdi!",
-          "summary": "Fenerbahçe, teknik direktör İsmail Kartal ile yolların ayrıldığını resmen duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-4-ismail-kartal-donemi-resmen-sona-erdi-43357161"
+          "title": "Fenerbahçe'den açıklama: Yeni teknik direktör belirlenene kadar sorumlu Dirk Kuyt",
+          "summary": "Fenerbahçe'de İsmail Kartal ile yolların ayrılmasının ardından yeni teknik direktör arayışları sürerken Sarı-Lacivertli kulüpten yeni bir açıklama geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-aciklama-yeni-teknik-direktor-belirlenene-kadar-sorumlu-dirk-kuyt-43357692"
         },
         {
-          "title": "Galatasaray'dan Fenerbahçe'ye yanıt: 'Gürültü geçer, gerçekler kalır!'",
-          "summary": "Galatasaray Spor Kulübü, derbi karşılaşmasının ardından yaşanan olaylara ilişkin açıklama yayımladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-fenerbahceye-yanit-gurultu-gecer-gercekler-kalir-43357133"
+          "title": "Abdülkerim Bardakcı yerine oynayacak! Okan Buruk karatını verdi",
+          "summary": "Olaylı Fenerbahçe maçında kırmızı kart gören Abdülkerim Bardakcı yerine teknik direktör Okan Buruk'un sahaya süreceği isim belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/abdulkerim-bardakci-yerine-oynayacak-okan-buruk-karatini-verdi-43357648"
         },
         {
-          "title": "Beşiktaş'tan Galatasaray-Fenerbahçe derbisi sonrası tepki: Çifte standartın temsili!",
-          "summary": "Beşiktaş Kulübü'nden, Galatasaray-Fenerbahçe derbisine dair açıklama geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-galatasaray-fenerbahce-derbisi-sonrasi-tepki-cifte-standartin-temsili-43357065"
+          "title": "Aziz Yıldırım ve İsmail Kartal gece saatlerinde kaza yaptı",
+          "summary": "Fenerbahçe'de İsmail Kartal ile yolların ayrılmasının ardından önce Başkan Aziz Yıldırım, Samandıra'nın çıkışında ufak bir kaza geçirdi. Ardından da Samandıra'dan Anadolu Kavağı'na doğru giden İsmail Kartal'ın kaza yaptığı öğrenildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-ve-ismail-kartal-gece-saatlerinde-kaza-yapti-43357605"
         }
       ]
     },
     "teknoloji": {
-      "text": "Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı. Medya devlerinden Meta'ya yapay zekâ davası. İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı. Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?.",
+      "text": "Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\". 600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı. Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı. Medya devlerinden Meta'ya yapay zekâ davası. İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı.",
       "items": [
+        {
+          "title": "Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\"",
+          "summary": "Borsaya açılmaya hazırlanan yapay zekâ şirketi Anthropic, kendi sistemlerinin kontrol dışına çıkabileceğini ve insanları manipüle etmek için şantaj benzeri davranışlar sergilediğini açıkladı. Borsaya açılmaya hazırlanan bir şirketin yatırımcılara olası riskleri anlatması olağan bir prosedür. Ancak popüler yapay zekâ robotu Claude'un geliştiricisi Anthropic'in halka arz dosyasına eklediği yaklaşık 100 sayfalık risk listesi, alışıldık finansal uyarıların çok ötesine geçiyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-devinden-korkutan-itiraf-insanliga-santaj-yapabilir-1748344"
+        },
+        {
+          "title": "600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı",
+          "summary": "Yapay zeka girişimi Anthropic, ABD borsalarındaki halka arz için resmi başvuru belgelerini yayımlayarak mali tablolarını kamuoyuyla paylaştı. Yapay zeka sektörünün öncülerinden Anthropic, ABD'deki halka arz başvuru belgelerini yayımlayarak borsaya açılma sürecini resmiyete döktü. Şirket, borçla beslenen devasa harcamalara yönelik endişelerin arttığı son dönemde, yatırımcıların milyarlarca dolarlık yapay zeka faturalarını üstlenmeye ne kadar istekli olduğunu doğrudan test edecek bir piyasa sınavına hazırlanıyor.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-600-milyar-dolarlik-taahhut-halka-arz-belgeleri-acildi-1748303"
+        },
         {
           "title": "Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı",
           "summary": "Apple, yeni nesil M6 işlemcisinden güç alan 14 inç MacBook Pro ve iMac modellerini tanıttı. Şirket yeni bilgisayarların özellikle yapay zeka işlemlerinde önemli performans artışı sağladığını açıkladı. ABD'li teknoloji devi Apple, yeni nesil M6 işlemcisini kullanan 14 inç MacBook Pro ve iMac modellerini duyurdu. Şirket, yeni bilgisayarların özellikle yapay zeka uygulamalarını doğrudan cihaz üzerinde çalıştırma konusunda önceki nesillere kıyasla daha yüksek performans sunduğunu belirtti.",
@@ -190,16 +200,6 @@
           "title": "Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı",
           "summary": "Capcom, çevrim içi üyelik hizmetine düzenlenen saldırıda 11,7 milyondan fazla hesaba ait bilgilerin açığa çıktığını duyurdu. Bazı hesapların şifreleri değiştirilirken şirket kullanıcılarını uyardı. Dünyaca ünlü oyun devi Capcom, uğradığı siber saldırıya dair ayrıntıları açıkladı. Capcom ID kullanıcılarını etkileyen siber saldırıda, şirketin açıkladığı verilere göre dünya genelinde 11 milyon 774 bin 247 hesap etkilendi.",
           "source": "https://www.ntv.com.tr/teknoloji/oyun-devine-siber-saldiri-117-milyon-kullanicinin-verisi-calindi-1747960"
-        },
-        {
-          "title": "Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka",
-          "summary": "Microsoft yeni geliştirilen ve doktorlar gibi adım adım ilerleyip hastalık teşhisi koyan yapay zeka aracının, karmaşık vakalarda pratisyen hekimlerin iki katından fazla başarılı olduğunu duyurdu. Son yıllarda inanılması güç bir hızla gelişen ve neredeyse bütün sektörlerde dengeleri değiştiren yapay zeka araçları, tıpta da önemli adımlar atmaya devam ediyor. Teknoloji devi Microsoft'un araştırmacıları, doktorlar gibi adım adım ilerleyerek hastalık teşhisi koyan bir yapay zeka aracı geliştirdiklerini duyurdu.",
-          "source": "https://www.ntv.com.tr/teknoloji/microsoft-gelistirdi-doktor-gibi-teshis-koyan-yapay-zeka-1747703"
-        },
-        {
-          "title": "Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?",
-          "summary": "Dünya genelinde internet altyapısında kullanılan PHP yazılımındaki güvenlik açıkları nedeniyle Türkiye dahil birçok ülke alarma geçti. Peki nedir bu PHP? Korsanlar nasıl zararlar verebilir? Dün gece dünya çapında büyük bir siber güvenlik alarmı yaşandı. İnternet sitelerinin neredeyse yüzde 70'inde kullanılan PHP (Hypertext Preprocessor - Hiper Metin Önişlemcisi) programlama dilindeki iki kritik güvenlik açığı, çeşitli yapay zeka modelleri tarafından tespit edildi.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-dunyada-panik-buyuyor-turkiye-de-alarma-gecti-internetin-kara-ekimiyle-ilgili-neler-biliniyor-1747438"
         }
       ]
     },
@@ -244,24 +244,8 @@
       ]
     },
     "magazin": {
-      "text": "Yıllar sonra. Sessiz yürüyüş. Muhabirlere ‘aşk’ sözü.",
-      "items": [
-        {
-          "title": "Yıllar sonra",
-          "summary": "Helin Avşar uzun aranın ardından Yeniköy’de görüntülendi. 49 yaşındaki ünlü isim, iki örgü yaptığı saçlarıyla dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/kelebek/hayat/yillar-sonra-43351603"
-        },
-        {
-          "title": "Sessiz yürüyüş",
-          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
-        },
-        {
-          "title": "Muhabirlere ‘aşk’ sözü",
-          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
-        }
-      ]
+      "text": "",
+      "items": []
     }
   }
 }
