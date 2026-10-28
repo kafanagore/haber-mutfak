@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-28T10:00:03.416Z",
+  "generatedAt": "2026-10-28T16:00:03.769Z",
   "categories": {
     "gundem": {
-      "text": "Rize'de kış öncesi gelenek bozulmadı: Çığa karşı minareyi yere yatırdılar. Skandal görüntüler! Türk bayrağına ve Atatürk'e hakaret eden öğretmen tutuklandı. Son Dakika: Mustafa Sarıgül'ün Yeni Parti üyeliği askıya alındı. Bakırköy Belediyesi'ne ihale ve ruhsat operasyonu: 5 başkan yardımcısı dahil 62 gözaltı. Milli Savunma Bakanı Yaşar Güler, üçlü savunma toplantısı için Bulgaristan'da. Türk Devletleri Teşkilatı Zirvesi başlıyor. İstanbul'da yarın bu yollar trafiğe kapanacak.",
+      "text": "AK Parti Sözcüsü Çelik'ten İspanya'daki tren kazasına ilişkin taziye mesajı. Bakan Çiftçi: Dolandırıcılıkla Mücadele Merkezi kuracağız. Çorum’da feci kaza! Otomobil ile cip çarpıştı; 4 ölü, 2 yaralı. Dışişleri Bakanı Hakan Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı. 'Türk Dünyası Diyalog Forumu' düzenlenecek. Aydın'da kanalizasyon kazısında toprak kaydı; 1 ölü. CHP Sözcüsü Sarı’dan seçim açıklaması: 2028'e sarkmış bir seçimi erken seçim olarak görmüyoruz.",
       "items": [
         {
-          "title": "Rize'de kış öncesi gelenek bozulmadı: Çığa karşı minareyi yere yatırdılar",
-          "summary": "İkizdere ilçesindeki 2 bin 100 rakımlı Garzavan Yaylası'nda çelik varillerin birleştirilmesiyle inşa edilen 7 metrelik cami minaresi, sert kış şartları ve çığ tehlikesine karşı makaralı sistemle yere yatırılarak korumaya alındı. Minare, bahar aylarında yeniden ayağa kaldırılacak.",
-          "source": "https://www.hurriyet.com.tr/gundem/rizede-kis-oncesi-gelenek-bozulmadi-ciga-karsi-minareyi-yere-yatirdilar-43357944"
+          "title": "AK Parti Sözcüsü Çelik'ten İspanya'daki tren kazasına ilişkin taziye mesajı",
+          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, İspanya'da iki hızlı trenin çarpıştığı kazada hayatını kaybedenler için taziye mesajı yayımladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-ispanyadaki-tren-kazasina-iliskin-taziye-mesaji-43358539"
         },
         {
-          "title": "Skandal görüntüler! Türk bayrağına ve Atatürk'e hakaret eden öğretmen tutuklandı",
-          "summary": "Balıkesir'in Edremit ilçesinde sosyal medya hesabından Gazi Mustafa Kemal Atatürk'e ve Türk bayrağına hakaret içerikli paylaşım yapan öğretmen tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/skandal-goruntuler-turk-bayragina-ve-ataturke-hakaret-eden-ogretmen-tutuklandi-43357921"
+          "title": "Bakan Çiftçi: Dolandırıcılıkla Mücadele Merkezi kuracağız",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, “İçişleri Bakanlığımız bünyesinde kurmayı planladığımız Dolandırıcılıkla Mücadele Merkezi ile suçla mücadelede yeni bir dönemin kapısını aralıyoruz.” açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-dolandiricilikla-mucadele-merkezi-kuracagiz-43358532"
         },
         {
-          "title": "Son Dakika: Mustafa Sarıgül'ün Yeni Parti üyeliği askıya alındı",
-          "summary": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün kendisi ve ailesi hakkında yürütülen soruşturmalar sonuçlanana kadar parti üyeliğinin askıya alındı. İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarıyla Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün eski eşi Aylin Kotil, oğulları Ömer ve Emir Sarıgül ile gazeteci Murat Ağırel'in tutuklandığı soruşturma sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-son-dakika-mustafa-sarigul-yeni-parti-uyeligi-askiya-alindi-1748319"
+          "title": "Çorum’da feci kaza! Otomobil ile cip çarpıştı; 4 ölü, 2 yaralı",
+          "summary": "Çorum'un Alaca ilçesinde otomobil ile cipin çarpıştığı kazada 4 kişi hayatını kaybetti, 2 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/corumda-feci-kaza-otomobil-ile-cip-carpisti-4-olu-2-yarali-43358530"
         },
         {
-          "title": "Bakırköy Belediyesi'ne ihale ve ruhsat operasyonu: 5 başkan yardımcısı dahil 62 gözaltı",
-          "summary": "Bakırköy Cumhuriyet Başsavcılığı koordinesinde yürütülen irtikap ve ihaleye fesat soruşturması genişliyor. 2024-2026 yıllarına ait 42 ihalenin ve MASAK raporlarının incelendiği jandarma operasyonunda, verilen ek gözaltı talimatlarıyla gözaltı sayısı 62'ye ulaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesine-ihale-ve-ruhsat-operasyonu-5-baskan-yardimcisi-dahil-62-gozalti-43357916"
+          "title": "Dışişleri Bakanı Hakan Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı",
+          "summary": "Dışişleri Bakanı Hakan Fidan, \"Sınır (Frontier) Yapay Zeka Modellerinin Kontrolü\" başlıklı Norveç-Finlandiya ortak çağrısı kapsamında düzenlenen ilk çevrim içi toplantıya katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-sinir-yapay-zeka-modellerinin-kontrolu-toplantisina-katildi-43358529"
         },
         {
-          "title": "Milli Savunma Bakanı Yaşar Güler, üçlü savunma toplantısı için Bulgaristan'da",
-          "summary": "Milli Savunma Bakanı Yaşar Güler, Türkiye, Bulgaristan ve Romanya savunma bakanları ile genelkurmay başkanlarının katılacağı toplantı için Sofya'ya gitti. Millî Savunma Bakanı Yaşar Güler, beraberinde Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu ile Türkiye-Bulgaristan-Romanya Savunma Bakanları ve Genelkurmay Başkanları Toplantısı için Bulgaristan’a gitti. Milli Savunma Bakanlığı'nın yaptığı açıklamaya göre, Bakan Güler'e Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu da eşlik etti.",
-          "source": "https://www.ntv.com.tr/turkiye/milli-savunma-bakani-yasar-guler-uclu-savunma-toplantisi-icin-bulgaristanda-1748337"
+          "title": "'Türk Dünyası Diyalog Forumu' düzenlenecek",
+          "summary": "Türkiye'nin ev sahipliğinde 29-30 Ekim tarihlerinde Ankara’da düzenlenecek olan Türk Devletleri Teşkilatı (TDT) 13'üncü Zirvesi kapsamında, Cumhurbaşkanlığı İletişim Başkanlığı tarafından ‘Türk Dünyası Diyalog Forumu’ başlıklı uluslararası forum gerçekleştirilecek.",
+          "source": "https://www.hurriyet.com.tr/gundem/turk-dunyasi-diyalog-forumu-duzenlenecek-43358528"
         },
         {
-          "title": "Türk Devletleri Teşkilatı Zirvesi başlıyor",
-          "summary": "Türk Devletleri Teşkilatı (TDT) Zirvesi yarın Beştepe'de başlıyor. İki gün sürecek zirvenin teması \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" olacak. Ankara, temmuz ayındaki NATO Zirvesi'nin ardından bir başka uluslararası etkinliğe ev sahipliği yapmaya hazırlanıyor. Bu kapsamda, Türk dünyası liderlerinin bir araya geleceği Türk Devletleri Teşkilatı 13'üncü Zirvesi, 29-30 Ekim'de başkentte yapılacak. NTV muhabiri Ahmet Örsoğlu, zirveye ilişkin bilgi verdi.",
-          "source": "https://www.ntv.com.tr/turkiye/turk-devletleri-teskilati-zirvesi-basliyor-1748342"
+          "title": "Aydın'da kanalizasyon kazısında toprak kaydı; 1 ölü",
+          "summary": "Aydın'ın İncirliova ilçesinde kepçeyle yapılan kanalizasyon kazısı sırasında işçilerden Ercan Az (38), kayan toprağın altında kalarak yaşamını yitirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/aydinda-kanalizasyon-kazisinda-toprak-kaydi-1-olu-43358521"
         },
         {
-          "title": "İstanbul'da yarın bu yollar trafiğe kapanacak",
-          "summary": "İstanbul Valiliğinden yapılan açıklamada 29 Ekim Cumhuriyet Bayramı'nın 103. Yıl Dönümü Kutlamaları' nedeniyle İstanbul'da bazı yolların trafiğe kapatılacağı duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-yarin-bu-yollar-trafige-kapanacak-43357877"
+          "title": "CHP Sözcüsü Sarı’dan seçim açıklaması: 2028'e sarkmış bir seçimi erken seçim olarak görmüyoruz",
+          "summary": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, \"Cumhurbaşkanı adaylarıyla ilgili bir değerlendirmemiz yok. CHP’nin yetkili kurumlarında aday profili, adayın kim olduğu, kimler olabileceğine ilişkin bir tartışma yapılmıyor. Bu tartışmayı erken buluyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/chp-sozcusu-saridan-secim-aciklamasi-2028e-sarkmis-bir-secimi-erken-secim-olarak-gormuyoruz-43358515"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?. Japonya'da halka acil çağrı. \"En az üç günlük gıda ve su stoklayın\". İspanya'da iki yüksek hızlı tren çarpıştı. En az 10 kişi hayatını kaybetti. İsrail'de seçiminin baş aktörleri, ilk açıklamalarında neler söyledi?. İngiltere'de 4 Türk öğrencinin yapay zeka destekli akıllı saat projesine ödül. Son dakika... İspanya'da tren kazası: 46 ölü, 150 yaralı. İsrail'in Sırbistan'daki Büyükelçiliği'nde saldırı girişimi.",
+      "text": "İspanya'da facia. İki yüksek hızlı tren çarpıştı, en az 68 ölü var. Karadeniz için Türkiye, Bulgaristan ve Romanya'dan ortak bildiri. İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?. Japonya ve Almanya, kritik minerallerde Çin tekeline karşı anlaştı. İsrail'de seçiminin baş aktörleri, açıklamalarında neler söyledi?. İsrail basını: Trump, Netanyahu'yu muhalefetle ulusal birlik hükümeti kurmaya zorlayacak. Meta ve Snapchat sanık sandalyesinde. İki genç teknoloji devlerini mahkemeye verdi.",
       "items": [
         {
-          "title": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?",
-          "summary": "Oy sayımının devam ettiği İsrail'de Başbakan Netanyahu'nun bloku öne geçti ancak taraflar, hükümet kurmak için gereken 61 sandalyeye ulaşamadı. Arap partileri ise 19 sandalye ile rekora uzandı. Gazze soykırımının başladığı 7 Ekim gününden bu yana İsrail'de dün yapılan ilk seçimde oy sayımı sürüyor. Rekorlarla anılacak seçimde, 7.3 milyon seçmenin yüzde 77'si sandığa gitti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-israil-secimlerinde-neler-oluyor-iste-3-senaryo-1748286"
-        },
-        {
-          "title": "Japonya'da halka acil çağrı. \"En az üç günlük gıda ve su stoklayın\"",
-          "summary": "Japon hükümeti, beklenen büyük depremler ve Fuji Dağı'nın patlama ihtimaline karşı vatandaşlarına en az üç günlük gıda, içme suyu ve seyyar tuvalet stoku yapmaları çağrısında bulundu. Japonya hükümeti, ülkeyi sarsması beklenen yıkıcı depremler ve olası bir volkanik patlama öncesinde vatandaşlarına doğrudan ve acil bir çağrıda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-japonyadan-halka-acil-cagri-en-az-uc-gunluk-gida-ve-su-stoklayin-1748336"
-        },
-        {
-          "title": "İspanya'da iki yüksek hızlı tren çarpıştı. En az 10 kişi hayatını kaybetti",
-          "summary": "İspanya'da Madrid ile Sevilla arasında sefer yapan iki yüksek hızlı trenin arkadan çarpışması sonucu en az 10 kişi hayatını kaybetti. İspanya'da başkent Madrid ile güneydeki Endülüs bölgesini birbirine bağlayan yüksek hızlı tren hattında iki tren arkadan çarpıştı. Demiryolu altyapı işletmecisi Adif, çarpışmanın ardından Madrid ile Endülüs arasındaki seferlerin durdurulduğunu açıkladı. Kaza, Mora ile Orgaz kasabaları arasındaki demiryolu kesiminde meydana geldi.",
+          "title": "İspanya'da facia. İki yüksek hızlı tren çarpıştı, en az 68 ölü var",
+          "summary": "İspanya'da Madrid - Sevilla arasında sefer yapan iki yüksek hızlı tren çarpıştı. Yerel yönetim ölü sayısını 68 olarak açıkladı. İspanya'da Madrid-Endülüs seferi yapan iki yolcu treninin çarpıştığı kazayla ilgili olarak Castilla la Mancha bölgesel yönetimi, ölü sayısını en az 68 olarak açıkladı. Yerel yönetim, kazada 80 kişinin de yaralandığını duyurmuştu. Ülkede 3 gün ulusal yas ilan edildi.",
           "source": "https://www.ntv.com.tr/dunya/ispanyada-iki-yuksek-hizli-tren-carpisti-madrid-endulus-hatti-kapandi-1748347"
         },
         {
-          "title": "İsrail'de seçiminin baş aktörleri, ilk açıklamalarında neler söyledi?",
+          "title": "Karadeniz için Türkiye, Bulgaristan ve Romanya'dan ortak bildiri",
+          "summary": "TÜRKİYE, Bulgaristan ve Romanya Savunma Bakanları tarafından yayımlanan ortak bildiride, Karadeniz'deki ticari gemilere yönelik tüm saldırılar şiddetle kınandı. Bildiride, bölgede seyrüsefer serbestisi ile güvenliğin korunması için atılacak adımlar üzerinde mutabakata varıldığı belirtildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/karadeniz-icin-turkiye-bulgaristan-ve-romanyadan-ortak-bildiri-43358510"
+        },
+        {
+          "title": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?",
+          "summary": "İsrail seçimlerinde Başbakan Netanyahu'nun bloku öne geçti ancak taraflar hükümet kurmak için gereken 61 sandalyeye ulaşamadı. Arap partileri ise 19 sandalye ile rekora uzandı. Gazze soykırımının başladığı 7 Ekim gününden bu yana İsrail'de dün yapılan ilk seçimde asker, diplomat, mahkum gibi kendi sandığında oy kullanamayan seçmenlerin \"çift zarf\" olarak isimlendirilen oyları hariç, sandıkların hepsinin sayımı tamamlandı. Rekorlarla anılacak seçimde, 7.3 milyon seçmenin yüzde 77'si sandığa gitti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israil-secimlerinde-neler-oluyor-iste-3-senaryo-1748286"
+        },
+        {
+          "title": "Japonya ve Almanya, kritik minerallerde Çin tekeline karşı anlaştı",
+          "summary": "Japonya ve Almanya, Çin'in baskın olduğu kritik mineraller pazarında tek taraflı bağımlılığı kırmak amacıyla tedarik kaynaklarını çeşitlendirme kararı aldı. Japonya Başbakanı Sanae Takaichi ile Almanya Başbakanı Friedrich Merz, Çin'in küresel hakimiyet kurduğu kritik mineraller alanında tedarik kaynaklarını çeşitlendirmek amacıyla işbirliği konusunda uzlaştı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-japonya-ve-almanya-kritik-minerallerde-cin-tekeline-karsi-anlasti-1748385"
+        },
+        {
+          "title": "İsrail'de seçiminin baş aktörleri, açıklamalarında neler söyledi?",
           "summary": "İsrail'de oy sayımı kıran kırana sürerken, iktidar blokunun başındaki Başbakan Binyamin Netanyahu, en yakın rakibi Gadi Eisenkot ve muhalif Demokratlar Partisi lideri Yair Golan açıklamalarda bulundu. NETANYAHU: SİYONİST ÇOĞUNLUK AKLINI BAŞINA TOPLAMALI VE BİRLEŞMELİ İsrail Başbakanı Binyamin Netanyahu, genel seçimlerin ardından yaptığı açıklamada, \"Siyonist çoğunluk aklını başına toplamalı ve birleşmeli.\" ifadesini kullanarak sağ siyasete birlik çağrısında bulundu.",
           "source": "https://www.ntv.com.tr/dunya/galeri-israilde-seciminin-bas-aktorleri-ilk-aciklamalarinda-neler-soyledi-1748326"
         },
         {
-          "title": "İngiltere'de 4 Türk öğrencinin yapay zeka destekli akıllı saat projesine ödül",
-          "summary": "İngiltere'de Sheffield Üniversitesi'nde öğrenim gören 4 Türk öğrenci, işitme kaybı yaşayan bireyler için geliştirdikleri yapay zeka destekli akıllı saat projesiyle Londra'da ödül aldı. İngiltere'de Sheffield Üniversitesi'nde öğrenim gören 4 Türk öğrenci, işitme kaybı yaşayan bireyler için yapay zeka destekli bir teknoloji projesi geliştirdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ingilterede-4-turk-ogrencinin-yapay-zeka-destekli-akilli-saat-projesine-odul-1748339"
+          "title": "İsrail basını: Trump, Netanyahu'yu muhalefetle ulusal birlik hükümeti kurmaya zorlayacak",
+          "summary": "ABD Başkanı Donald Trump'ın, parlamento seçimlerinin yapıldığı İsrail'de muhalefetle ulusal birlik hükümeti kurması için Başbakan Binyamin Netanyahu'ya baskı kuracağı belirtildi. Yedioth Ahronoth gazetesinin ABD Başkanı'na yakın kaynaklara dayandırdığı haberinde, Trump’ın Netanyahu’yu bölge ülkelerinin İsrail’le normalleşmesini içeren Abraham Anlaşmaları’nın genişletilmesine imkan sağlayacak rotasyonlu ulusal birlik hükümeti kurmaya zorlayacağı aktarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/israil-basini-trump-netanyahuyu-muhalefetle-ulusal-birlik-hukumeti-kurmaya-zorlayacak-1748380"
         },
         {
-          "title": "Son dakika... İspanya'da tren kazası: 46 ölü, 150 yaralı",
-          "summary": "İspanya'da iki yüksek hızlı tren çarpıştı. İlk belirlemelere göre kaza nedeniyle 46 kişi öldü, 150 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-ispanyada-tren-kazasi-46-olu-150-yarali-43357848"
-        },
-        {
-          "title": "İsrail'in Sırbistan'daki Büyükelçiliği'nde saldırı girişimi",
-          "summary": "İsrail, Sırbistan'ın başkenti Belgrad'daki büyükelçiliğine yönelik gece saatlerinde saldırı girişiminde bulunulduğunu bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilin-sirbistandaki-buyukelciliginde-saldiri-girisimi-43357802"
+          "title": "Meta ve Snapchat sanık sandalyesinde. İki genç teknoloji devlerini mahkemeye verdi",
+          "summary": "Sosyal medya platformlarının bağımlılık yaratacak biçimde tasarlandığını savunan iki genç, Meta ve Snap'i Los Angeles'ta mahkemeye verdi. Çocuk yaşta ellerine aldıkları akıllı telefonların ekranları başında saatlerce kaybolan iki genç, teknoloji devlerini mahkeme salonunda sanık sandalyesine oturtuyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-meta-ve-snapchat-sanik-sandalyesinde-iki-genc-teknoloji-devlerini-mahkemeye-verdi-1748374"
         }
       ]
     },
     "ekonomi": {
-      "text": "Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü. \"Kısa zamanda çok iş yapalım\". Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız.",
+      "text": "TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü.",
       "items": [
+        {
+          "title": "TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü",
+          "summary": "Yeminli Mali Müşavir ve ekonomi yazarı Abdullah Tolu, TÜBADEF 2026 Başarı Ödülleri kapsamında \"Yılın Ekonomi Yazarı\" ödülüne layık görüldü. Tüm Bağımsız Denetçi Dernekleri Federasyonu (TÜBADEF), 2026 Başarı Ödülleri kapsamında ekonomi, eğitim, meslek kuruluşları ve sivil toplum alanlarında ödüllerini dağıtıyor. Yılın Ekonomi Yazarı Ödülü, ekonomi ve vergi alanında yaptığı çalışmalarla dikkat çeken Abdullah Tolu'ya gitti.",
+          "source": "https://www.ntv.com.tr/ekonomi/tubadef-yilin-ekonomi-yazari-odulu-abdullah-toluya-layik-goruldu-1748400"
+        },
+        {
+          "title": "Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi",
+          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplanan 8'inci Fon Koordinasyon Kurulu'nun ardından yapılan açıklamada, tasfiye sürecindeki fon sayısının 131’den 38’e gerilediği ve bugüne kadar 71 bin 899 hesaba toplam 68 milyar TL ödeme yapıldığı bildirildi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemelerin ise 30 Ekim Cuma günü başlayacağı duyuruldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-koordinasyon-kurulu-toplandi-71-bini-askin-hesaba-68-milyar-tl-odendi-43358043"
+        },
         {
           "title": "Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı",
           "summary": "Hatay Büyükşehir Belediye Başkanı Mehmet Öntürk’ün talimatıyla harekete geçen belediye, yerel üreticiden temin ettiği 100 ton mandalinayı öğrencilere ulaştırarak hem kırsal kalkınmaya hem de eğitime destek verdi.",
@@ -110,62 +120,62 @@
           "title": "Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü",
           "summary": "TİCARET Bakanı Ömer Bolat, Birleşik Krallık'ın Ankara Büyükelçisi Jennifer Elizabeth Anderson ile bir araya geldi. Görüşmede, Serbest Ticaret Anlaşması'nın kapsamının genişletilmesi ve iki ülke arasındaki ekonomik işbirliği imkanları ele alındı. Bakan Bolat sanal medya hesabından yaptığı açıklamada görüşmeye ilişkin şu ifadeleri kullandı:",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-birlesik-krallikin-ankara-buyukelcisi-anderson-ile-gorustu-43357125"
-        },
-        {
-          "title": "\"Kısa zamanda çok iş yapalım\"",
-          "summary": "İZMİR Büyükşehir Belediye Başkanı Cemil Tugay, AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan’la birlikte Ege Bölgesi Sanayi Odası (EBSO) Başkanı Mustafa Karabağlı ve yönetim kurulu üyelerini de ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/kisa-zamanda-cok-is-yapalim-43353543"
-        },
-        {
-          "title": "Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız",
-          "summary": "İzmir Esnaf ve Sanatkârlar Odaları Birliği’ni ziyaret eden Büyükşehir Belediye Başkanı Cemil Tugay, su tarifelerinde indirime gidileceğini, toplu ulaşıma da zam yapmayacaklarını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/baskan-tugaydan-cifte-mujde-suya-indirim-ulasim-zamsiz-43353537"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçeli yıldızlardan İsmail Kartal'a veda paylaşımı. Fenerbahçe'de yıldızlar döküldü! Sadece '18 kez' topa dokunabildi. Beşiktaş ile Anadolu Efes, EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli’de. Trabzonspor, son 16 sezonun en golcü dönemini yaşıyor. Fenerbahçe'den açıklama: Yeni teknik direktör belirlenene kadar sorumlu Dirk Kuyt. Abdülkerim Bardakcı yerine oynayacak! Okan Buruk karatını verdi. Aziz Yıldırım ve İsmail Kartal gece saatlerinde kaza yaptı.",
+      "text": "Fenerbahçe'den telefon! Abdullah Avcı ile görüşme gerçekleşti. Real Madrid, Çin'den özür diledi. Fenerbahçe paylaştı: Kuyt yönetiminde ilk antrenman!. Fenerbahçe'de Alman ekolü! Milli hoca listeye girdi. AC Milan ve Manchester City evinde, Inter deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları... Torreira için geliyorlar! 2027'de transfer teklifi. Türkiye Voleybol Federasyonu, Vodafone ile işbirliğini 3 yıl uzattı.",
       "items": [
         {
-          "title": "Fenerbahçeli yıldızlardan İsmail Kartal'a veda paylaşımı",
-          "summary": "Fenerbahçe'de Nathan Ake, Kerem Aktürkoğlu ve İrfan Can Kahveci, sosyal medya hesaplarından yaptıkları paylaşımlarda İsmai Kartal'a veda etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceli-yildizlardan-ismail-kartala-veda-paylasimi-43357932"
+          "title": "Fenerbahçe'den telefon! Abdullah Avcı ile görüşme gerçekleşti",
+          "summary": "Fenerbahçe yönetimi, teknik direktör adayları konusunda Abdullah Avcı ile görüştü. İşte ayrıntılar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-telefon-abdullah-avci-ile-gorusme-gerceklesti-43358395"
         },
         {
-          "title": "Fenerbahçe'de yıldızlar döküldü! Sadece '18 kez' topa dokunabildi",
-          "summary": "Fenerbahçe'de Galatasaray mağlubiyetinin rakamları ortaya çıktı. Sarı lacivertlilerin dünyaca ünlü yıldızlarının istatistikleri, görenleri şaşkınlığa uğrattı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-yildizlar-dokuldu-sadece-18-kez-topa-dokunabildi-43357735"
+          "title": "Real Madrid, Çin'den özür diledi",
+          "summary": "Real Madrid, Mbappe'nin Mao Zedong hakkındaki açıklamaları için özür diledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-cinden-ozur-diledi-43358298"
         },
         {
-          "title": "Beşiktaş ile Anadolu Efes, EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli’de",
-          "summary": "EuroLeague 8. haftasında Beşiktaş, Yunanistan ekibi Olympiakos'u sahasında konuk ederken Anadolu Efes, Hapoel Tel Aviv deplasmanına gidiyor. Maçların heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ile-anadolu-efes-euroleague-sahnesinde-maclarin-heyecani-canli-yayin-ile-mislide-43357777"
+          "title": "Fenerbahçe paylaştı: Kuyt yönetiminde ilk antrenman!",
+          "summary": "Fenerbahçe, Süper Lig'de Göztepe ile oynayacağı maç öncesi Dirt Kuyt yönetiminde ilk idmanını gerçekleştirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-paylasti-kuyt-yonetiminde-ilk-antrenman-43358264"
         },
         {
-          "title": "Trabzonspor, son 16 sezonun en golcü dönemini yaşıyor",
-          "summary": "Trendyol Süper Lig'de haftayı 4-3'lük Çaykur Rizespor galibiyetiyle kapatan Trabzonspor, son yılların en golcü dönemini yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-son-16-sezonun-en-golcu-donemini-yasiyor-43357763"
+          "title": "Fenerbahçe'de Alman ekolü! Milli hoca listeye girdi",
+          "summary": "Fenerbahçe yönetimi, İsmail Kartal ile yolların ayrılmasının ardından listeye Alman Milli Takımı'nın eski antrenörünü aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-alman-ekolu-milli-hoca-listeye-girdi-43358240"
         },
         {
-          "title": "Fenerbahçe'den açıklama: Yeni teknik direktör belirlenene kadar sorumlu Dirk Kuyt",
-          "summary": "Fenerbahçe'de İsmail Kartal ile yolların ayrılmasının ardından yeni teknik direktör arayışları sürerken Sarı-Lacivertli kulüpten yeni bir açıklama geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-aciklama-yeni-teknik-direktor-belirlenene-kadar-sorumlu-dirk-kuyt-43357692"
+          "title": "AC Milan ve Manchester City evinde, Inter deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları...",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ac-milan-ve-manchester-city-evinde-inter-deplasmanda-kazanir-iste-misli-de-gunun-en-cok-oynanan-maclari-43358200"
         },
         {
-          "title": "Abdülkerim Bardakcı yerine oynayacak! Okan Buruk karatını verdi",
-          "summary": "Olaylı Fenerbahçe maçında kırmızı kart gören Abdülkerim Bardakcı yerine teknik direktör Okan Buruk'un sahaya süreceği isim belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/abdulkerim-bardakci-yerine-oynayacak-okan-buruk-karatini-verdi-43357648"
+          "title": "Torreira için geliyorlar! 2027'de transfer teklifi",
+          "summary": "Galatasaray'ın Uruguaylı yıldızı Lucas Torreira'yı Arjantin devi yeniden gündemine aldı ve bu kez, resmi teklif için tarihi belirledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/torreira-icin-geliyorlar-2027de-transfer-teklifi-43358095"
         },
         {
-          "title": "Aziz Yıldırım ve İsmail Kartal gece saatlerinde kaza yaptı",
-          "summary": "Fenerbahçe'de İsmail Kartal ile yolların ayrılmasının ardından önce Başkan Aziz Yıldırım, Samandıra'nın çıkışında ufak bir kaza geçirdi. Ardından da Samandıra'dan Anadolu Kavağı'na doğru giden İsmail Kartal'ın kaza yaptığı öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-ve-ismail-kartal-gece-saatlerinde-kaza-yapti-43357605"
+          "title": "Türkiye Voleybol Federasyonu, Vodafone ile işbirliğini 3 yıl uzattı",
+          "summary": "Türkiye Voleybol Federasyonu (TVF) ile Vodafone arasındaki Sultanlar Ligi ve Kadın Milli Takımları sponsorluğunun yeni sözleşmesi 3 yıllığına uzatılırken bu işbirliği düzenlenen özel gecede kutlandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-voleybol-federasyonu-vodafone-ile-isbirligini-3-yil-uzatti-43358050"
         }
       ]
     },
     "teknoloji": {
-      "text": "Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\". 600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı. Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı. Medya devlerinden Meta'ya yapay zekâ davası. İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı.",
+      "text": "Yeni EBA’da yapay zekâ dönemi. Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu. Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\". 600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı. Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı. Medya devlerinden Meta'ya yapay zekâ davası. İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı.",
       "items": [
+        {
+          "title": "Yeni EBA’da yapay zekâ dönemi",
+          "summary": "Millî Eğitim Bakanlığı (MEB), Eğitim Bilişim Ağı’nı (EBA) yeni eğitim öğretim yılı için güncelledi. Okul öncesinden liseye kadar farklı kademelere özel arayüzlerle tasarlanan platform; kişiselleştirilmiş içerik, yapay zekâ destekli çalışma planları ve öğrenci gelişimini izlemeye yönelik araçlar sunmayı hedefliyor.",
+          "source": "https://www.hurriyet.com.tr/egitim/yeni-ebada-yapay-zeka-donemi-43358138"
+        },
+        {
+          "title": "Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu",
+          "summary": "Milli Eğitim Bakanı Yusuf Tekin, Eğitim Bilişim Ağı'na (EBA) ilişkin, \"6 milyon civarında aktif kullanıcı sayısı var. Bu, Avrupa ülkeleri arasında açık ara en iyi olduğumuz bir konu.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/milli-egitim-bakani-tekin-avrupa-ulkeleri-arasindan-en-iyi-oldugumuz-konu-43358074"
+        },
         {
           "title": "Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\"",
           "summary": "Borsaya açılmaya hazırlanan yapay zekâ şirketi Anthropic, kendi sistemlerinin kontrol dışına çıkabileceğini ve insanları manipüle etmek için şantaj benzeri davranışlar sergilediğini açıkladı. Borsaya açılmaya hazırlanan bir şirketin yatırımcılara olası riskleri anlatması olağan bir prosedür. Ancak popüler yapay zekâ robotu Claude'un geliştiricisi Anthropic'in halka arz dosyasına eklediği yaklaşık 100 sayfalık risk listesi, alışıldık finansal uyarıların çok ötesine geçiyor.",
@@ -190,16 +200,6 @@
           "title": "İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı",
           "summary": "Roma’daki RoboCup İnsansı Robotlar Futbol Müsabakası’nda HULKs ve whIRLwind Amsterdam takımları karşılaştı İtalya'nın başkenti Roma'da düzenlenen Maker Faire Rome etkinliği kapsamında gerçekleştirilen İtalyan RoboCup İnsansı Robotlar Açık Futbol Müsabakası'nda, orta boy robotlar arasındaki birincilik mücadelesinde Hamburg Teknoloji Üniversitesi'nin HULKs takımı ile whIRLwind Amsterdam takımı karşılaştı.",
           "source": "https://www.ntv.com.tr/teknoloji/video-italyada-sira-disi-futbol-bu-sefer-robotlar-karsilasti-1748040"
-        },
-        {
-          "title": "Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama",
-          "summary": "Anthropic'in yapay zeka modeli Claude, insan onayı olmadan ücret duvarını atlatarak ABD'nin Georgia eyaletindeki toplam oy sayılarına ulaştı. Anthropic'in geliştirdiği yapay zeka modeli Claude, insan onayı olmadan ücretli erişim duvarını aştı ve ABD'nin Georgia eyaletindeki kamuya açık seçmen verilerine ulaştı. İlk olarak Axios sitesinin duyurduğu, ardından şirketin dün yaptığı açıklamayla doğruladığı olayda model, 1 milyondan fazla seçmenin erken oy kullandığı eyaletteki toplam oy sayılarına erişti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-secim-verilerine-sizdi-anthropicten-aciklama-1748035"
-        },
-        {
-          "title": "Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı",
-          "summary": "Capcom, çevrim içi üyelik hizmetine düzenlenen saldırıda 11,7 milyondan fazla hesaba ait bilgilerin açığa çıktığını duyurdu. Bazı hesapların şifreleri değiştirilirken şirket kullanıcılarını uyardı. Dünyaca ünlü oyun devi Capcom, uğradığı siber saldırıya dair ayrıntıları açıkladı. Capcom ID kullanıcılarını etkileyen siber saldırıda, şirketin açıkladığı verilere göre dünya genelinde 11 milyon 774 bin 247 hesap etkilendi.",
-          "source": "https://www.ntv.com.tr/teknoloji/oyun-devine-siber-saldiri-117-milyon-kullanicinin-verisi-calindi-1747960"
         }
       ]
     },
@@ -244,8 +244,24 @@
       ]
     },
     "magazin": {
-      "text": "",
-      "items": []
+      "text": "Yıllar sonra. Sessiz yürüyüş. Muhabirlere ‘aşk’ sözü.",
+      "items": [
+        {
+          "title": "Yıllar sonra",
+          "summary": "Helin Avşar uzun aranın ardından Yeniköy’de görüntülendi. 49 yaşındaki ünlü isim, iki örgü yaptığı saçlarıyla dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/kelebek/hayat/yillar-sonra-43351603"
+        },
+        {
+          "title": "Sessiz yürüyüş",
+          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
+        },
+        {
+          "title": "Muhabirlere ‘aşk’ sözü",
+          "summary": "Saba Tümer önceki akşam Bebek’te bir mekândan ayrılırken objektife yansıdı.",
+          "source": "https://www.hurriyet.com.tr/kelebek/stil/muhabirlere-ask-sozu-43327718"
+        }
+      ]
     }
   }
 }
