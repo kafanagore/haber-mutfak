@@ -1,95 +1,110 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-27T16:00:03.899Z",
+  "generatedAt": "2026-10-28T04:00:03.368Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Kurum, İzmir Büyükşehir Belediye Başkanı Tugay’ı kabul etti. Davayı karara bağlama vadiyle dolandırıcılık yapan sahte başsavcı vekili ve 2 kişi tutuklandı. Bolu Belediyesindeki ‘ihaleye fesat’ operasyonunda 3 tutuklama. Vali Gül: Yıl sonu diye gerekli gereksiz ödeneklerin tamamını harcamak zorunda değiliz. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü. Bahçeli: Türkiye ve Azerbaycan arasındaki kardeşlik köklü ve derindir. Kırmızı bültenle aranıyordu…. Yabancı uyruklu hükümlü Ordu'da yakalandı.",
+      "text": "Beyoğlu'nda 5 katlı metruk bina çöktü. Ankara'da şüpheli ölüm! Yol kenarında bir kişinin cansız beden bulundu. İstanbul'da akşam saatleri için yeni uyarı. Yağışlar ne kadar sürecek?. Kocaeli'de 7 katlı bina boşaltıldı. Kolonlarından ses geldi. Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak. TBMM Başkanı Kurtulmuş: Dünya gündeminde etkisi olmayan Türk medyasının, güçlü Türkiye hedefine de katkı sunmayacağı aşikardır. Fon soruşturmasında iki üst düzey yönetici tutuklandı.",
       "items": [
         {
-          "title": "Bakan Kurum, İzmir Büyükşehir Belediye Başkanı Tugay’ı kabul etti",
-          "summary": "ÇEVRE, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ı kabul etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurum-izmir-buyuksehir-belediye-baskani-tugayi-kabul-etti-43357140"
+          "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+          "summary": "Beyoğlu'nda 5 katlı metruk bina çöktü. Çöken binanın parçaları bitişikteki binaya hasar verdi. İlk incelemelere göre çökme sebebiyle can kaybı olmadığı öğrenildi. Kalyoncu Kulluğu Mahallesi Kömürcü Zeynel Sokak'ta kentsel dönüşüm sebebiyle boşaltılan 5 katlı bina çöktü. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. BİTİŞİKTEKİ BİNAYA HASAR VERDİ Çöken binanın parçaları bitişikteki binaya hasar verirken, olay yerine gelen ekipler arama çalışması başlattı.",
+          "source": "https://www.ntv.com.tr/turkiye/beyoglunda-5-katli-metruk-bina-coktu-1748267"
         },
         {
-          "title": "Davayı karara bağlama vadiyle dolandırıcılık yapan sahte başsavcı vekili ve 2 kişi tutuklandı",
-          "summary": "Antalya’da devam eden davaları karara bağlama vaadiyle 3 kişiden toplam 1 milyon 829 bin TL alan ve kendisini Antalya Cumhuriyet Başsavcı vekili olarak tanıtan 1 kadın ile suç ortağı 2 kişi tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/davayi-karara-baglama-vadiyle-dolandiricilik-yapan-sahte-bassavci-vekili-ve-2-kisi-tutuklandi-43357134"
+          "title": "Ankara'da şüpheli ölüm! Yol kenarında bir kişinin cansız beden bulundu",
+          "summary": "Ankara-Eskişehir yolu üzerinde Polatlı ilçesinde yol kenarında hareketsiz yatan bir kişinin hayatını kaybettiği belirlendi. İlk incelemelerde, kimliği henüz belirlenemeyen kişiye bir aracın çarptığı ve sürücüsünün olay yerinden kaçtığı değerlendirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ankarada-supheli-olum-yol-kenarinda-bir-kisinin-cansiz-beden-bulundu-43357416"
         },
         {
-          "title": "Bolu Belediyesindeki ‘ihaleye fesat’ operasyonunda 3 tutuklama",
-          "summary": "Bolu’da jandarma ekipleri tarafından Bolu Belediyesi’ne yönelik düzenlenen ‘ihaleye fesat karıştırma’ ve ‘zimmet’ operasyonunda gözaltına alınan 4 şüpheliden, aralarında Belediye Başkan Yardımcısı'nın da bulunduğu 3 kişi tutuklanarak cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bolu-belediyesindeki-ihaleye-fesat-operasyonunda-3-tutuklama-43357135"
+          "title": "İstanbul'da akşam saatleri için yeni uyarı. Yağışlar ne kadar sürecek?",
+          "summary": "İstanbul'da dün altgeçitleri ve yolları göle çeviren kuvvetli yağışların ardından, bugün akşam saatleri için yeni bir uyarı yapıldı. Ayrıca 19 il için sarı ve turuncu kodlu uyarı verildi. İstanbul'da dün yapılan uyarıların ardından bastıran kuvvetli sağanak hayatı olumsuz etkiledi. Özellikle Anadolu Yakası'nda birçok bölgede cadde ve sokaklar göle döndü. Yağışlar öğleden sonra etkisini kaybetse de hafta boyunca aralıklarla etkili olacak.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-aksam-saatleri-icin-yeni-uyari-yagislar-ne-kadar-surecek-1748268"
         },
         {
-          "title": "Vali Gül: Yıl sonu diye gerekli gereksiz ödeneklerin tamamını harcamak zorunda değiliz",
-          "summary": "İstanbul Valisi Davut Gül, İl Koordinasyon Kurulu 3'üncü Dönem Toplantısı’na katıldı. Burada konuşan Vali Gül, \"Yıl sonu diye mutlaka gerekli gereksiz ödeneklerin tamamını harcama zorunda da değiliz. Tasarrufa, şeffaflığa riayet edeceğiz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/vali-gul-yil-sonu-diye-gerekli-gereksiz-odeneklerin-tamamini-harcamak-zorunda-degiliz-43357132"
+          "title": "Kocaeli'de 7 katlı bina boşaltıldı. Kolonlarından ses geldi",
+          "summary": "Kocaeli'nin Karamürsel ilçesinde kolon ve kirişlerinden ses geldiği bildirilen 7 katlı bina, tedbiren boşaltıldı. 4 Temmuz Mahallesi Amiral Caddesi'ndeki 7 katlı Cansever Apartmanı'nda oturan bazı kişiler, kolon ve kirişlerinden ses geldiği yönünde 112 Acil Çağrı Merkezi'ne ihbarda bulundu. İhbar üzerine olay yerine AFAD, UMKE, belediye ve polis ekipleri sevk edildi. Etrafında güvenlik önlemleri alınan bina, yapılan ilk incelemenin ardından tedbiren boşaltıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/kocaelide-7-katli-bina-bosaltildi-kolonlarindan-ses-geldi-1748266"
+        },
+        {
+          "title": "Tasfiye edilen fonlarla ilgili 1 milyon TL'ye kadar ödemeler cuma başlayacak",
+          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili 1 milyon liraya kadar ödemeler cuma günü başlayacağını duyurdu. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, tasfiye edilen fonlarla ilgili yapılacak ödemeler konusunda TBMM'de bilgi verdi. Yılmaz, \"Olağanüstü tasfiyeyle ilgili 1 milyon liraya kadar ödemeler cuma günü itibarıyla İş Bankası ve Ziraat Bankası kanalıyla başlayacak\" dedi. Cumhurbaşkanı Yardımcısı, 23 Ekim itibarıyla toplam 93 fona, 71 bin 899 hesaba 68 milyar lira ödendiğini açıkladı.",
+          "source": "https://www.ntv.com.tr/turkiye/tasfiye-edilen-fonlarla-ilgili-ara-odeme-tarihi-netlesti-1748250"
+        },
+        {
+          "title": "TBMM Başkanı Kurtulmuş: Dünya gündeminde etkisi olmayan Türk medyasının, güçlü Türkiye hedefine de katkı sunmayacağı aşikardır",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, “Medyası güçlü olmayan, medyasının söylediği sözün itibarı olmayan, medyada dile getirilen konuların Türkiye ve dünya gündeminde etkisi olmayan Türk medyasının, güçlü Türkiye hedefine de katkı sunmayacağı aşikardır\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-dunya-gundeminde-etkisi-olmayan-turk-medyasinin-guclu-turkiye-hedefine-de-katki-sunmayacagi-asikardir-43357357"
+        },
+        {
+          "title": "Fon soruşturmasında iki üst düzey yönetici tutuklandı",
+          "summary": "Fon soruşturmasında Tera yöneticisi Hakan Gövdere ve Ral Yatırım Holding Yönetim Kurulu Başkanı Rıza Kandemir hakkında tutuklandı. İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması sürüyor. Soruşturmada Tera yöneticisi Hakan Gövdere, Tera Yatırım Finans Grup Direktörü Elif Özüş, Tera Holding Yönetim Kurulu Başkanı Asistanı Elif Değerli, Ral Yatırım Holding Kurucu Ortağı ve Yönetim Kurulu Başkanı Rıza Kandemir gözaltına alınmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-iki-ust-duzey-yoneticiye-tutuklama-talebi-1748253"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Lula'ya kaybeden Bolsonaro'nun ABD'ye kaçtığı iddia edildi. İsrail seçimlerine rekor katılım. Milletvekili sayılarında eşitlik var. Yemen ordusu: 440 Husi milis daha etkisiz hale getirildi. Yapay zeka saldırıdan vazgeçmedi: Gerçek insanların hedefte olduğu uyarısı da durduramadı. İsrail ordusundan Gazze’ye saldırı: 4 Filistinli öldü. İsrail seçimlerinde sandık çıkış anketlerine göre Netanyahu önde. İsrail Merkez Seçim Komitesi’nden Netanyahu'nun talebine ret.",
+      "items": [
+        {
+          "title": "Lula'ya kaybeden Bolsonaro'nun ABD'ye kaçtığı iddia edildi",
+          "summary": "Brezilya'da devlet başkanlığı seçimini Lula'ya kaybeden Flavio Bolsonaro'nun, pasaportlarını teslim etmesi yönündeki mahkeme kararına uymayarak ABD'ye gitmek üzere ülkeden ayrıldığı öne sürüldü. Brezilya'da 25 Ekim Pazar günü yapılan devlet başkanlığı seçimini kaybeden eski Devlet Başkanı Jair Bolsonaro'nun oğlu Flavio Bolsonaro'nun ABD'ye gittiği öne sürüldü.",
+          "source": "https://www.ntv.com.tr/dunya/lulaya-kaybeden-bolsonaronun-abdye-kactigi-iddia-edildi-1748257"
+        },
+        {
+          "title": "İsrail seçimlerine rekor katılım. Milletvekili sayılarında eşitlik var",
+          "summary": "İsrail'de tarihi katılımla gerçekleşen genel seçim sona erdi. Sandık çıkış anketlerine göre, Gadi Eisenkot liderliğindeki muhalefet ile Başbakan Binyamin Netanyahu'nun bloğu eşit milletvekili aldı. Gazze soykırımının başladığı 7 Ekim gününden bu yana İsrail'de ilk seçimde sandıklar kapandı. Rekorlarla anılacak seçimde, 7.3 milyon seçmenin yüzde 77'si sandığa gitti. Sandık çıkış anketleri, Başbakan Binyamin Netanyahu'nun siyasi geleceğine ilişkin belirsizliğin sürdüğünü gösterdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israil-secimleri-sandik-cikis-anketlerine-gore-hicbir-blok-cogunlugu-saglayamadi-1748259"
+        },
+        {
+          "title": "Yemen ordusu: 440 Husi milis daha etkisiz hale getirildi",
+          "summary": "Yemen ordusundan yapılan açıklamada, dünden bu yana Husi hedeflerine yönelik bin 382 hassas saldırı düzenlendiği belirtilerek, \"Bu operasyonlar sonucunda, Husilerin komuta kademesinden ve saha unsurlarından yaklaşık 440 kişi daha etkisiz hale getirilmiş; toplam 146 askeri araç, ağır silah ve muharebe teçhizatı imha edilmiş veya kullanılamaz hale getirilmiştir\" denildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yemen-ordusu-440-husi-milis-daha-etkisiz-hale-getirildi-43357417"
+        },
+        {
+          "title": "Yapay zeka saldırıdan vazgeçmedi: Gerçek insanların hedefte olduğu uyarısı da durduramadı",
+          "summary": "Bir yapay zeka modeline verilen görevi tamamlaması için tanınan hareket alanı, güvenlik sınırlarının aşılmasına yol açtı. Gerçek insanlara zarar verdiği uyarısına rağmen siber saldırıya devam etti. İngiltere Yapay Zeka Güvenliği Enstitüsü’nün (AISI) Temmuz 2026’da tespit ettiği olayda, Anthropic’in Claude Mythos 5 modeli test ortamının dışındaki geliştiricilere yöneldi. Anthropic ve AISI’nin yayımladığı incelemeler, modelin davranışlarını ve sonradan gerçekleştirilen tekrar deneylerini ele alıyor.",
+          "source": "https://www.ntv.com.tr/dunya/yapay-zeka-saldiridan-vazgecmedi-gercek-insanlarin-hedefte-oldugu-uyarisi-da-durduramadi-1748265"
+        },
+        {
+          "title": "İsrail ordusundan Gazze’ye saldırı: 4 Filistinli öldü",
+          "summary": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusundan-gazzeye-saldiri-4-filistinli-oldu-43357396"
+        },
+        {
+          "title": "İsrail seçimlerinde sandık çıkış anketlerine göre Netanyahu önde",
+          "summary": "İsrail, 7 Ekim 2023'ten ve ardından gelen savaş yıllarından bu yana ilk kez parlamento seçimleri için sandık başına gitti. İsrail, Gazze'deki Filistinli grupların 7 Ekim 2023'teki Aksa Tufanı operasyonundan ve ardından gelen savaş yıllarından bu yana ilk kez salı günü parlamento seçimleri için sandık başına gitti. Sandık çıkış anketlerine göre Netanyahu'nun Likud Partisi ilk sırada ancak blok olarak ise muhalefetin önde olduğu görülüyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-israil-sandik-basinda-netanyahunun-rakipleri-arasinda-en-cok-eski-komutan-dikkat-cekiyor-1748135"
+        },
+        {
+          "title": "İsrail Merkez Seçim Komitesi’nden Netanyahu'nun talebine ret",
+          "summary": "İsrail Merkez Seçim Komitesi, mevcut Başbakan Binyamin Netanyahu'nun partisi Likud'un yerel saatle 22.00'de (TSİ 23.00) sona erecek oy kullanma süresinin uzatılması talebini reddetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-merkez-secim-komitesinden-netanyahunun-talebine-ret-43357279"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü. \"Kısa zamanda çok iş yapalım\". Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız. Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi.",
+      "items": [
+        {
+          "title": "ASELSAN'ın 9 aylık cirosu açıklandı",
+          "summary": "ASELSAN'ın cirosu, yılın 9 ayında geçen yılın aynı dönemine göre yüzde 28 artışla 151,5 milyar liraya ulaştı.",
+          "source": "https://www.hurriyet.com.tr/gundem/aselsanin-9-aylik-cirosu-aciklandi-43357255"
+        },
+        {
+          "title": "Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü",
+          "summary": "Fitch Ratings, Türkiye'nin borçlanma sermaye piyasasının büyümeye devam etmesini ve piyasada tedavülde bulunan toplam borçlanma araçlarının büyüklüğünün 2027'ye kadar 550 milyar dolara ulaşmasını bekliyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/fitch-ratingsten-turkiyede-borclanma-piyasasi-ongorusu-43357160"
+        },
+        {
+          "title": "ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi",
+          "summary": "ABD'de Conference Board Tüketici Güven Endeksi, ekimde 91,7'ye yükselerek piyasa beklentilerinin üzerinde gerçekleşti.",
+          "source": "https://www.hurriyet.com.tr/gundem/abdde-tuketici-guveni-endeksi-aciklandi-ekimde-beklenti-ustu-geldi-43357144"
         },
         {
           "title": "Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü",
           "summary": "TİCARET Bakanı Ömer Bolat, Birleşik Krallık'ın Ankara Büyükelçisi Jennifer Elizabeth Anderson ile bir araya geldi. Görüşmede, Serbest Ticaret Anlaşması'nın kapsamının genişletilmesi ve iki ülke arasındaki ekonomik işbirliği imkanları ele alındı. Bakan Bolat sanal medya hesabından yaptığı açıklamada görüşmeye ilişkin şu ifadeleri kullandı:",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-birlesik-krallikin-ankara-buyukelcisi-anderson-ile-gorustu-43357125"
-        },
-        {
-          "title": "Bahçeli: Türkiye ve Azerbaycan arasındaki kardeşlik köklü ve derindir",
-          "summary": "MHP lideri Bahçeli, Türkiye-Azerbaycan ilişkilerinin köklü ve derin olduğunu vurgulayarak, \"Hiçbir nifak tohumunun aramıza ekilmesine fırsat verilmemelidir\" dedi. Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, Türkiye-Azerbaycan ilişkilerine yönelik yeni açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-ve-azerbaycan-iliskileri-koklu-ve-derindir-1748243"
-        },
-        {
-          "title": "Kırmızı bültenle aranıyordu…. Yabancı uyruklu hükümlü Ordu'da yakalandı",
-          "summary": "Ordu'nun Ünye ilçesinde, Interpol tarafından kırmızı bültenle aranan Gürcistan uyruklu hükümlünün yakalandığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-araniyordu-yabanci-uyruklu-hukumlu-orduda-yakalandi-43357122"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Putin'den Norveç ve Finlandiya liderleriyle sürpriz görüşme. Nijerya'da hücreye atılan 33 madenci, havasızlıktan boğularak can vermiş. İsrail sandık başında. Netanyahu'nun rakipleri arasında en çok eski komutan dikkat çekiyor. ABD Başkan Yardımcısı Vance'ten tartışma yaratan benzin fiyatları çıkışı. Almanya'da araçla katliam girişimi: 3 şüpheli gözaltında. Bir videoyla gelen boykot. Çinli dev markalar Mbappe'yi sildi. Hürmüz Boğazı'nda bir gemi mayına çarptı.",
-      "items": [
-        {
-          "title": "Putin'den Norveç ve Finlandiya liderleriyle sürpriz görüşme",
-          "summary": "Finlandiya Cumhurbaşkanı Alexander Stubb ve Norveç Başbakanı Jonas Gahr Store, Rusya Devlet Başkanı Vladimir Putin ile telefon görüşmesi gerçekleştirdi. Liderlerin görüşmelerde Ukrayna krizini ele aldığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/putinden-norvec-ve-finlandiya-liderleriyle-surpriz-gorusme-43357066"
-        },
-        {
-          "title": "Nijerya'da hücreye atılan 33 madenci, havasızlıktan boğularak can vermiş",
-          "summary": "Nijerya'da yasa dışı altın madenciliği şüphesiyle tutuklanarak bir hücreye atılan ve sonra cansız bedenleri bulunan 33 madencinin, hapishanenin insanlık dışı koşulları nedeniyle öldüğü ortaya çıktı. Nijerya'da geçen ay düzenlenen operasyonda, yasa dışı altın madenciliği yaptıkları iddiasıyla tutuklanarak Niger eyaletinin başkenti Minna'daki bir hücreye atılan 14'ü çocuk yaştaki 33 madencinin daha sonra aynı hücrede cansız bedenleri bulunmuştu.",
-          "source": "https://www.ntv.com.tr/dunya/nijeryada-hucreye-atilan-33-madenci-havasizliktan-bogularak-can-vermis-1748237"
-        },
-        {
-          "title": "İsrail sandık başında. Netanyahu'nun rakipleri arasında en çok eski komutan dikkat çekiyor",
-          "summary": "İsrail, 7 Ekim 2023'ten ve ardından gelen savaş yıllarından bu yana ilk kez parlamento seçimleri için sandık başına gidiyor. İsrail, Gazze'deki Filistinli grupların 7 Ekim 2023'teki Aksa Tufanı operasyonundan ve ardından gelen savaş yıllarından bu yana ilk kez salı günü parlamento seçimleri için sandık başına gidiyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-israil-sandik-basinda-netanyahunun-rakipleri-arasinda-en-cok-eski-komutan-dikkat-cekiyor-1748135"
-        },
-        {
-          "title": "ABD Başkan Yardımcısı Vance'ten tartışma yaratan benzin fiyatları çıkışı",
-          "summary": "ABD Başkan Yardımcısı JD Vance, 3 Kasım'da düzenlenecek ara seçimler öncesi yaptığı bir miting konuşmasında benzin fiyatlarının yükselmesini değerlendirerek, bu durumun eski Başkan Joe Biden döneminde yapılan hatalardan kaynaklı olduğunu belirtti. Vance'in açıklamaları, Trump yönetiminin seçimler öncesi benzin fiyatlarının tartışılmasıyla zor durumda kalabileceği gerekçesiyle tartışma konusu oldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskan-yardimcisi-vanceten-tartisma-yaratan-benzin-fiyatlari-cikisi-43356966"
-        },
-        {
-          "title": "Almanya'da araçla katliam girişimi: 3 şüpheli gözaltında",
-          "summary": "Almanya'nın Hannover kentinin yakınlarında bir aracın kalabalığın üzerine kasten sürüldüğü olayda en az 5 kişi yaralandı. Araç sahibinin evinde bulunan 3 kişinin gözaltına alındığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-aracla-katliam-girisimi-3-supheli-gozaltinda-43356942"
-        },
-        {
-          "title": "Bir videoyla gelen boykot. Çinli dev markalar Mbappe'yi sildi",
-          "summary": "Çin'in kurucu lideri Mao ile ilgili diktatör şakası yaptığı ileri sürülen dünyaca ünlü futbolcu Kylian Mbappe, ülkedeki en büyük iki ticari sponsoru tarafından aynı gün içinde kapı dışarı edildi. Dünya futbolunun en tanınan isimlerinden Kylian Mbappe, internette yayılan kısa bir video yüzünden Çin pazarındaki en büyük ticari ortaklıklarını bir günde kaybetti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-bir-videoyla-gelen-boykot-cinli-dev-markalar-mbappeyi-sildi-1748129"
-        },
-        {
-          "title": "Hürmüz Boğazı'nda bir gemi mayına çarptı",
-          "summary": "İran ordusu, Hürmüz Boğazı'ndan izinsiz geçmeye çalışan bir tankerin mayına çarptığını bildirdi. Takip sistemleri kapalı şekilde boğazda seyreden tankerde yangın çıktığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-bir-gemi-mayina-carpti-43356928"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. \"Kısa zamanda çok iş yapalım\". Başkan Tugay’dan çifte müjde: Suya indirim, ulaşım zamsız. Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi. Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu. Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız. Borsa günü yükselişle tamamladı.",
-      "items": [
-        {
-          "title": "ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi",
-          "summary": "ABD'de Conference Board Tüketici Güven Endeksi, ekimde 91,7'ye yükselerek piyasa beklentilerinin üzerinde gerçekleşti.",
-          "source": "https://www.hurriyet.com.tr/gundem/abdde-tuketici-guveni-endeksi-aciklandi-ekimde-beklenti-ustu-geldi-43357144"
         },
         {
           "title": "\"Kısa zamanda çok iş yapalım\"",
@@ -105,67 +120,57 @@
           "title": "Son dakika... Bazı yatırım fonları hakkındaki kanun teklifi Meclis'te kabul edildi",
           "summary": "Son dakika haberi... Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulu'nda kabul edilerek yasalaştı. Düzenlemeye göre, net yatırım tutarı 1 milyon liranın altında olan yatırımcılara net yatırım tutarları kadar, 1 milyon lira ve üzerinde olan yatırımcılar için ise en fazla 1 milyon lira ara ödeme yapılabilecek.",
           "source": "https://www.hurriyet.com.tr/gundem/son-dakika-bazi-yatirim-fonlari-hakkindaki-kanun-teklifi-mecliste-kabul-edildi-43351547"
-        },
-        {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz, 2027 yılı bütçesini Meclis'e sundu",
-          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturmalarına ilişkin, \"Yatırımcı ile manipülatörü birbirine karıştırmadan titiz bir şekilde adli ve idari süreçleri hayata geçiriyoruz, geçirmeye devam edeceğiz. İnanıyorum ki mevcut sorunların aşılması ile sermaye piyasalarımız yoluna çok daha güçlü bir şekilde devam edecek, yatırımcılarına da ülke ekonomisine de kazandıracaktır.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-2027-yili-butcesini-meclise-sundu-43350238"
-        },
-        {
-          "title": "Bakan Bolat: Döküm sektöründe dünyada 7'nci, Avrupa'da 2'nci sıradayız",
-          "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin döküm sanayisinde üretim kapasitesinin 3 milyon ton olduğunu belirterek \"Toplam üretimimiz 2025 yılında 2 milyon 300 bin ton olmuştur. Bu üretimin değeri de 8 milyar avro mertebesindedir ve 1 milyon 640 bin ton ihracatımız, 6,1 milyar avro ihracat tutarına ulaşmaktadır.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-dokum-sektorunde-dunyada-7nci-avrupada-2nci-siradayiz-43350222"
-        },
-        {
-          "title": "Borsa günü yükselişle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-43348915"
         }
       ]
     },
     "spor": {
-      "text": "Galatasaray'dan Fenerbahçe'ye yanıt: 'Gürültü geçer, gerçekler kalır!'. Beşiktaş'tan Galatasaray-Fenerbahçe derbisi sonrası tepki: Çifte standartın temsili!. Rizespor-Trabzonspor maçı sonrası 3 kişiye işlem yapıldı. Beşiktaşlı Olaitan kariyer rekoru kırdı!. Muslera korkuttu! Maçta fenalaştı. Mbappe'nin bir sözü Çin'i ayağa kaldırdı! Çin Dışişleri'nden tepki, La Liga yayınları askıya alındı. Fenerbahçe'den derbideki olaylarla ilgili TFF'ye çağrı: 'Bu davranışlar cezasız kalmamalıdır!'.",
+      "text": "Joao Pereira: 'Kazanmak bizim için zorunluluktu!'. Alanyaspor, evinde 4 golle turladı!. Portekiz Milli Takımı'nda Ronaldo gelişmesi! Jorge Jesus'tan sürpriz karar. Selçuk İnan: 'Daha heyecanlı maçlar olacak!'. Fenerbahçe'de 4. İsmail Kartal dönemi resmen sona erdi!. Galatasaray'dan Fenerbahçe'ye yanıt: 'Gürültü geçer, gerçekler kalır!'. Beşiktaş'tan Galatasaray-Fenerbahçe derbisi sonrası tepki: Çifte standartın temsili!.",
       "items": [
         {
+          "title": "Joao Pereira: 'Kazanmak bizim için zorunluluktu!'",
+          "summary": "Ziraat Türkiye Kupası 3. Tur mücadelesinde Corendon Alanyaspor, sahasında karşılaştığı 12 Bingölspor’u 4-1 mağlup ederek adını bir üst tura yazdırdı. Karşılaşmanın ardından düzenlenen basın toplantısında değerlendirmelerde bulunan Alanyaspor Teknik Direktörü Joo Pereira, alınan galibiyetin önemine dikkati çekti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-kazanmak-bizim-icin-zorunluluktu-43357374"
+        },
+        {
+          "title": "Alanyaspor, evinde 4 golle turladı!",
+          "summary": "Alanyaspor, Ziraat Türkiye Kupası 3. tur maçında sahasında Bingölspor'u 4-1 mağlup etti ve bir üst tura yükseldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-evinde-4-golle-turladi-43357318"
+        },
+        {
+          "title": "Portekiz Milli Takımı'nda Ronaldo gelişmesi! Jorge Jesus'tan sürpriz karar",
+          "summary": "Portekiz Milli Takımı'nda Cristiano Ronaldo'nun yaşananların ardından yıldız futbolcunun yeniden milli takıma davet edileceği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/portekiz-milli-takiminda-ronaldo-gelismesi-jorge-jesustan-surpriz-karar-43357314"
+        },
+        {
+          "title": "Selçuk İnan: 'Daha heyecanlı maçlar olacak!'",
+          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Türkiye Kupası'nın mevcut formatını doğru bulduğunu belirterek, \"Kupanın bu formatı daha doğru. Bu turdan sonraki maçların daha heyecanlı olacağını düşünüyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-daha-heyecanli-maclar-olacak-43357266"
+        },
+        {
+          "title": "Fenerbahçe'de 4. İsmail Kartal dönemi resmen sona erdi!",
+          "summary": "Fenerbahçe, teknik direktör İsmail Kartal ile yolların ayrıldığını resmen duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-4-ismail-kartal-donemi-resmen-sona-erdi-43357161"
+        },
+        {
           "title": "Galatasaray'dan Fenerbahçe'ye yanıt: 'Gürültü geçer, gerçekler kalır!'",
-          "summary": "Galatasaray, Fenerbahçe'nin açıklamalarına yanıt verdi.",
+          "summary": "Galatasaray Spor Kulübü, derbi karşılaşmasının ardından yaşanan olaylara ilişkin açıklama yayımladı.",
           "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-fenerbahceye-yanit-gurultu-gecer-gercekler-kalir-43357133"
         },
         {
           "title": "Beşiktaş'tan Galatasaray-Fenerbahçe derbisi sonrası tepki: Çifte standartın temsili!",
           "summary": "Beşiktaş Kulübü'nden, Galatasaray-Fenerbahçe derbisine dair açıklama geldi.",
           "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-galatasaray-fenerbahce-derbisi-sonrasi-tepki-cifte-standartin-temsili-43357065"
-        },
-        {
-          "title": "Rizespor-Trabzonspor maçı sonrası 3 kişiye işlem yapıldı",
-          "summary": "Süper Lig'de oynanan Rizespor-Trabzonspor maçı sonrası Eminyet'ten açıklama geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/rizespor-trabzonspor-maci-sonrasi-3-kisiye-islem-yapildi-43356941"
-        },
-        {
-          "title": "Beşiktaşlı Olaitan kariyer rekoru kırdı!",
-          "summary": "Beşiktaş'ın son olarak oynadığı Başakşehir mücadelesinde ağları havalandıran Junior Olaitan, skor katkısı sonrası istatistiklerde kendi rekorunu egale etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasli-olaitan-kariyer-rekoru-kirdi-43356853"
-        },
-        {
-          "title": "Muslera korkuttu! Maçta fenalaştı",
-          "summary": "Galatasaray'ın unutulmaz kalecilerinden Muslera, oynadığı maçta fenalaştı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/muslera-korkuttu-macta-fenalasti-43356794"
-        },
-        {
-          "title": "Mbappe'nin bir sözü Çin'i ayağa kaldırdı! Çin Dışişleri'nden tepki, La Liga yayınları askıya alındı",
-          "summary": "Çin devlet televizyonu, Kylian Mbappe’nin eski Çin lideri Mao Zedong hakkındaki açıklamalarının ardından La Liga yayınlarını askıya aldı. Çin Dışişleri Bakanlığı da konuyla alakalı bir açıklama yaparak Mbappe'ye tepki gösterdi. Ayrıca Çinli iki büyük marka Fransız yıldızla sponsorluğunu feshettiğini açıkladı. Mbappe yazılı bir açıklama yaparak Çin halkından özür diledi. İşte Mbappe-Çin hattında tüm yaşananlar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/mbappenin-bir-sozu-cini-ayaga-kaldirdi-disislerinden-tepki-la-liga-yayinlari-askiya-alindi-43356578"
-        },
-        {
-          "title": "Fenerbahçe'den derbideki olaylarla ilgili TFF'ye çağrı: 'Bu davranışlar cezasız kalmamalıdır!'",
-          "summary": "Fenerbahçe, dün akşam Galatasaray'la oynanan derbi maçın ardından yaşanan olaylarda futbolcularına yönelik sözlü ve fiziksel saldırılarda bulunulduğunu belirterek, TFF'ye 'Bu davranışlar cezasız kalmamalıdır' çağrısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-derbinin-ardindan-yasanan-olaylarla-ilgili-aciklama-bu-davranislar-cezasiz-kalmamalidir-43356802"
         }
       ]
     },
     "teknoloji": {
-      "text": "Medya devlerinden Meta'ya yapay zekâ davası. İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı. Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?. “Yapay zekayı yöneten kazanacak”.",
+      "text": "Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı. Medya devlerinden Meta'ya yapay zekâ davası. İtalya'da sıra dışı futbol: Bu sefer robotlar karşılaştı. Yapay zeka seçim verilerine sızdı. Anthropic'ten açıklama. Oyun devine siber saldırı: 11,7 milyon kullanıcının verisi çalındı. Microsoft geliştirdi. Doktor gibi teşhis koyan yapay zeka. Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?.",
       "items": [
+        {
+          "title": "Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı",
+          "summary": "Apple, yeni nesil M6 işlemcisinden güç alan 14 inç MacBook Pro ve iMac modellerini tanıttı. Şirket yeni bilgisayarların özellikle yapay zeka işlemlerinde önemli performans artışı sağladığını açıkladı. ABD'li teknoloji devi Apple, yeni nesil M6 işlemcisini kullanan 14 inç MacBook Pro ve iMac modellerini duyurdu. Şirket, yeni bilgisayarların özellikle yapay zeka uygulamalarını doğrudan cihaz üzerinde çalıştırma konusunda önceki nesillere kıyasla daha yüksek performans sunduğunu belirtti.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-appledan-m6-surprizi-24-saat-pil-omru-5-kat-yapay-zeka-performansi-1748255"
+        },
         {
           "title": "Medya devlerinden Meta'ya yapay zekâ davası",
           "summary": "Norveç'in önde gelen 10 medya kuruluşu, haberleri ve abonelikli içerikleri yapay zekâ eğitiminde kullanmayı hedefleyen Meta'nın yeni kullanıcı sözleşmesini durdurmak için yargıya başvurdu. Norveç'in önde gelen medya kuruluşları, Meta'nın gazetecilik içeriklerini yapay zekâ modellerini eğitmek amacıyla kullanmasını engellemek için yargıya başvurdu.",
@@ -195,11 +200,6 @@
           "title": "Dünyada panik büyüyor, Türkiye de alarma geçti. İnternetin Kara Ekim'iyle ilgili neler biliniyor?",
           "summary": "Dünya genelinde internet altyapısında kullanılan PHP yazılımındaki güvenlik açıkları nedeniyle Türkiye dahil birçok ülke alarma geçti. Peki nedir bu PHP? Korsanlar nasıl zararlar verebilir? Dün gece dünya çapında büyük bir siber güvenlik alarmı yaşandı. İnternet sitelerinin neredeyse yüzde 70'inde kullanılan PHP (Hypertext Preprocessor - Hiper Metin Önişlemcisi) programlama dilindeki iki kritik güvenlik açığı, çeşitli yapay zeka modelleri tarafından tespit edildi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-dunyada-panik-buyuyor-turkiye-de-alarma-gecti-internetin-kara-ekimiyle-ilgili-neler-biliniyor-1747438"
-        },
-        {
-          "title": "“Yapay zekayı yöneten kazanacak”",
-          "summary": "Kurumsal yazılım geliştirmede yapay zeka destekli araçlar artık deneme aşamasını geride bırakıyor. Bu araçlar geliştirme sürecinin belirli aşamalarında önemli hız kazanımları sağlarken, kurumlar için yeni soru bu kazanımların yazılım teslimatının bütününe nasıl taşınacağı ve kurumsal ölçekte nasıl sürdürülebilir hale getirileceği oluyor.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/yapay-zekayi-yoneten-kazanacak-43351266"
         }
       ]
     },
