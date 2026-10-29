@@ -1,60 +1,60 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-28T16:00:03.769Z",
+  "generatedAt": "2026-10-29T04:00:03.586Z",
   "categories": {
     "gundem": {
-      "text": "AK Parti Sözcüsü Çelik'ten İspanya'daki tren kazasına ilişkin taziye mesajı. Bakan Çiftçi: Dolandırıcılıkla Mücadele Merkezi kuracağız. Çorum’da feci kaza! Otomobil ile cip çarpıştı; 4 ölü, 2 yaralı. Dışişleri Bakanı Hakan Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı. 'Türk Dünyası Diyalog Forumu' düzenlenecek. Aydın'da kanalizasyon kazısında toprak kaydı; 1 ölü. CHP Sözcüsü Sarı’dan seçim açıklaması: 2028'e sarkmış bir seçimi erken seçim olarak görmüyoruz.",
+      "text": "İstanbul kapalı yollar listesi. Bakan Gürlek'ten 29 Ekim Cumhuriyet Bayramı mesajı. Sultangazi'de seyir halindeki otomobil alev topuna döndü. Yeni Parti Genel Başkanı Özel: Sarıgül'ün üyeliği bitti, partimizle bir bağı yok. Bakan Çiftçi'den şehit polis memuru Akalan için başsağlığı mesaj. Marmara'daki gemi kazası: 56 gün sonra bir erkek cesedine ulaşıldı. Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü.",
       "items": [
         {
-          "title": "AK Parti Sözcüsü Çelik'ten İspanya'daki tren kazasına ilişkin taziye mesajı",
-          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, İspanya'da iki hızlı trenin çarpıştığı kazada hayatını kaybedenler için taziye mesajı yayımladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-ispanyadaki-tren-kazasina-iliskin-taziye-mesaji-43358539"
+          "title": "İstanbul kapalı yollar listesi",
+          "summary": "Cumhuriyet Bayramı kutlamaları için İstanbul'da bazı yollar kapatılacak. Sürücülerin yola çıkmadan bu listeyi incelemesinde yarar var. İstanbul kapalı yollar listesi. Cumhuriyetin 103. yıl dönümü kutlamaları için bugün İstanbul'da birçok yol trafiğe kapatılacak. İstanbul Valiliği'nin açıklamasına göre, Vatan Caddesi’nde gerçekleştirilecek Cumhuriyet Bayramı kutlama töreni ve tören geçişi nedeniyle 29 Ekim 2026 Perşembe günü yani bugün saat 05.45’ten itibaren yolların kapatılmasına başlanacak.",
+          "source": "https://www.ntv.com.tr/yerel-haberler/istanbul/istanbulda-kapali-yollarin-tam-listesi-kadikoy-uskudar-ve-atasehirde-hangi-yol-ne-zaman-kapali-1748410"
         },
         {
-          "title": "Bakan Çiftçi: Dolandırıcılıkla Mücadele Merkezi kuracağız",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, “İçişleri Bakanlığımız bünyesinde kurmayı planladığımız Dolandırıcılıkla Mücadele Merkezi ile suçla mücadelede yeni bir dönemin kapısını aralıyoruz.” açıklamasında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-dolandiricilikla-mucadele-merkezi-kuracagiz-43358532"
+          "title": "Bakan Gürlek'ten 29 Ekim Cumhuriyet Bayramı mesajı",
+          "summary": "Adalet Bakanı Akın Gürlek, \"Ülkemize çağ atlatan eser ve hizmet siyasetimizin birikimiyle kutlu yürüyüşümüzü sürdürüyoruz. Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın liderliğinde, Cumhuriyetimizin ikinci asrına damga vuracak 2053 ve 2071 Türkiye'sini inşası için var gücümüzle çalışıyoruz.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-29-ekim-cumhuriyet-bayrami-mesaji-43358806"
         },
         {
-          "title": "Çorum’da feci kaza! Otomobil ile cip çarpıştı; 4 ölü, 2 yaralı",
-          "summary": "Çorum'un Alaca ilçesinde otomobil ile cipin çarpıştığı kazada 4 kişi hayatını kaybetti, 2 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/corumda-feci-kaza-otomobil-ile-cip-carpisti-4-olu-2-yarali-43358530"
+          "title": "Sultangazi'de seyir halindeki otomobil alev topuna döndü",
+          "summary": "İstanbul Sultangazi'de seyir halindeki otomobil alev alev yandı. Yangın anı, cep telefonu kamerasına anbean yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sultangazide-seyir-halindeki-otomobil-alev-topuna-dondu-43358784"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan \"Sınır Yapay Zeka Modellerinin Kontrolü\" toplantısına katıldı",
-          "summary": "Dışişleri Bakanı Hakan Fidan, \"Sınır (Frontier) Yapay Zeka Modellerinin Kontrolü\" başlıklı Norveç-Finlandiya ortak çağrısı kapsamında düzenlenen ilk çevrim içi toplantıya katıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-sinir-yapay-zeka-modellerinin-kontrolu-toplantisina-katildi-43358529"
+          "title": "Yeni Parti Genel Başkanı Özel: Sarıgül'ün üyeliği bitti, partimizle bir bağı yok",
+          "summary": "Yeni Parti Genel Başkanı Özgür Özel, Erzincan Milletvekili Mustafa Sarıgül ile ilgili \"Kendisi partimize başvurarak 'üyeliğimi askıya alın' dedi. Siyasi Partiler Kanunu'nda üyeliği askıya almak diye bir şey yok, o istifa olarak değerlendiriliyor. Biz Yargıtay Cumhuriyet Başsavcılığına bugün bildirimini yaptık ve üyeliği bitti, partimizle bir bağı yok.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yeni-parti-genel-baskani-ozel-sarigulun-uyeligi-bitti-partimizle-bir-bagi-yok-43358774"
         },
         {
-          "title": "'Türk Dünyası Diyalog Forumu' düzenlenecek",
-          "summary": "Türkiye'nin ev sahipliğinde 29-30 Ekim tarihlerinde Ankara’da düzenlenecek olan Türk Devletleri Teşkilatı (TDT) 13'üncü Zirvesi kapsamında, Cumhurbaşkanlığı İletişim Başkanlığı tarafından ‘Türk Dünyası Diyalog Forumu’ başlıklı uluslararası forum gerçekleştirilecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/turk-dunyasi-diyalog-forumu-duzenlenecek-43358528"
+          "title": "Bakan Çiftçi'den şehit polis memuru Akalan için başsağlığı mesaj",
+          "summary": "İÇİŞLERİ Bakanı Mustafa Çiftçi, Van Kaçakçılık ve Organize Suçlarla Mücadele Şube Müdürlüğü'nde görevli polis memuru Tayfun Akalan'ın, trafik kazasında yaralanmasının ardından kaldırıldığı hastanede şehit olduğunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-sehit-polis-memuru-akalan-icin-bassagligi-mesaj-43358715"
         },
         {
-          "title": "Aydın'da kanalizasyon kazısında toprak kaydı; 1 ölü",
-          "summary": "Aydın'ın İncirliova ilçesinde kepçeyle yapılan kanalizasyon kazısı sırasında işçilerden Ercan Az (38), kayan toprağın altında kalarak yaşamını yitirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/aydinda-kanalizasyon-kazisinda-toprak-kaydi-1-olu-43358521"
+          "title": "Marmara'daki gemi kazası: 56 gün sonra bir erkek cesedine ulaşıldı",
+          "summary": "Marmara Denizi'nde 2 Eylül'de iki geminin çarpışması sonucu batan Tuğberk İmamoğlu adlı gemiye ilişkin arama kurtarma çalışmalarında, kazadan 56 gün sonra bir erkek cesedi bulundu. Marmara Denizi'nde 2 Eylül 2026 tarihinde M/T ALSU ile Tuğberk İmamoğlu isimli ticari gemilerin çarpışması sonucu meydana gelen kazaya ilişkin yürütülen soruşturma sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/marmaradaki-gemi-faciasi-56-gun-sonra-bir-erkek-cesedine-ulasildi-1748412"
         },
         {
-          "title": "CHP Sözcüsü Sarı’dan seçim açıklaması: 2028'e sarkmış bir seçimi erken seçim olarak görmüyoruz",
-          "summary": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, \"Cumhurbaşkanı adaylarıyla ilgili bir değerlendirmemiz yok. CHP’nin yetkili kurumlarında aday profili, adayın kim olduğu, kimler olabileceğine ilişkin bir tartışma yapılmıyor. Bu tartışmayı erken buluyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/chp-sozcusu-saridan-secim-aciklamasi-2028e-sarkmis-bir-secimi-erken-secim-olarak-gormuyoruz-43358515"
+          "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
+          "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede ikili ilişkiler ile bölgesel ve küresel gelişmeler ele alındı. Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi. İletişim Başkanlığı'ndan yapılan açıklamaya göre görüşmede liderler, Türkiye-ABD ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı. Cumhurbaşkanı Erdoğan görüşmede, gelecek yıl 100.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-1748411"
         }
       ]
     },
     "dunya": {
-      "text": "İspanya'da facia. İki yüksek hızlı tren çarpıştı, en az 68 ölü var. Karadeniz için Türkiye, Bulgaristan ve Romanya'dan ortak bildiri. İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?. Japonya ve Almanya, kritik minerallerde Çin tekeline karşı anlaştı. İsrail'de seçiminin baş aktörleri, açıklamalarında neler söyledi?. İsrail basını: Trump, Netanyahu'yu muhalefetle ulusal birlik hükümeti kurmaya zorlayacak. Meta ve Snapchat sanık sandalyesinde. İki genç teknoloji devlerini mahkemeye verdi.",
+      "text": "ABD ordusundan Hürmüz Boğazı açıklaması. Iraklı Bakan Ağa açıkladı. Kerkük Valiliği yıl sonuna kadar Türkmenlerde kalacak. İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?. İspanya'da facia. İki yüksek hızlı tren çarpıştı, en az 68 ölü var. İngiltere'de hükümetin acil durum çağrısı sonrası satışlar patladı: Halk stok yapmaya başladı. ABD seçimleri öncesi İran diplomasisi: Türkiye'de toplantı iddiası. ABD'ye kaçan Bolsonaro'dan ilk açıklama: Gerçek seçilmiş başkan olarak sesleniyorum.",
       "items": [
         {
-          "title": "İspanya'da facia. İki yüksek hızlı tren çarpıştı, en az 68 ölü var",
-          "summary": "İspanya'da Madrid - Sevilla arasında sefer yapan iki yüksek hızlı tren çarpıştı. Yerel yönetim ölü sayısını 68 olarak açıkladı. İspanya'da Madrid-Endülüs seferi yapan iki yolcu treninin çarpıştığı kazayla ilgili olarak Castilla la Mancha bölgesel yönetimi, ölü sayısını en az 68 olarak açıkladı. Yerel yönetim, kazada 80 kişinin de yaralandığını duyurmuştu. Ülkede 3 gün ulusal yas ilan edildi.",
-          "source": "https://www.ntv.com.tr/dunya/ispanyada-iki-yuksek-hizli-tren-carpisti-madrid-endulus-hatti-kapandi-1748347"
+          "title": "ABD ordusundan Hürmüz Boğazı açıklaması",
+          "summary": "ABD ordusundan yapılan açıklamada, Hürmüz Boğazı’ndan geçen gemilerin deniz mayınlarına çarptığı yönündeki iddiaların gerçeği yansıtmadığı belirtilerek \"Boğazdaki uluslararası anlamda kabul görmüş ana geçiş güzergahları ABD güçleri tarafından deniz mayınlarından temizlenmiştir\" denildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ordusundan-hurmuz-bogazi-aciklamasi-43358809"
         },
         {
-          "title": "Karadeniz için Türkiye, Bulgaristan ve Romanya'dan ortak bildiri",
-          "summary": "TÜRKİYE, Bulgaristan ve Romanya Savunma Bakanları tarafından yayımlanan ortak bildiride, Karadeniz'deki ticari gemilere yönelik tüm saldırılar şiddetle kınandı. Bildiride, bölgede seyrüsefer serbestisi ile güvenliğin korunması için atılacak adımlar üzerinde mutabakata varıldığı belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/karadeniz-icin-turkiye-bulgaristan-ve-romanyadan-ortak-bildiri-43358510"
+          "title": "Iraklı Bakan Ağa açıkladı. Kerkük Valiliği yıl sonuna kadar Türkmenlerde kalacak",
+          "summary": "Irak hükümetinde Devlet Bakanı olarak görev yapan Muhammed Seman Ağa, Kerkük Valiliği'nin anlaşma gereği yıl sonuna kadar Türkmenlerde kalacağını belirtti. Muhammed Seman Ağa, Türkiye'nin Bağdat Büyükelçisi Anıl Bora İnan'ın Kerkük ziyareti nedeniyle düzenlenen ortak basın toplantısında konuştu. Irak Türkmen Cephesi (ITC) Başkanı da olan Ağa, 100 yıl sonra ilk kez Türkmenlere geçen Kerkük Valiliği görevini yıl sonuna kadar sürdüreceklerini vurguladı.",
+          "source": "https://www.ntv.com.tr/dunya/irakli-bakan-aga-acikladi-kerkuk-valiligi-yil-sonuna-kadar-turkmenlerde-kalacak-1748419"
         },
         {
           "title": "İsrail seçim sonucu. İsrail seçimleri ne oldu, kim kazandı?",
@@ -62,30 +62,35 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-israil-secimlerinde-neler-oluyor-iste-3-senaryo-1748286"
         },
         {
-          "title": "Japonya ve Almanya, kritik minerallerde Çin tekeline karşı anlaştı",
-          "summary": "Japonya ve Almanya, Çin'in baskın olduğu kritik mineraller pazarında tek taraflı bağımlılığı kırmak amacıyla tedarik kaynaklarını çeşitlendirme kararı aldı. Japonya Başbakanı Sanae Takaichi ile Almanya Başbakanı Friedrich Merz, Çin'in küresel hakimiyet kurduğu kritik mineraller alanında tedarik kaynaklarını çeşitlendirmek amacıyla işbirliği konusunda uzlaştı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-japonya-ve-almanya-kritik-minerallerde-cin-tekeline-karsi-anlasti-1748385"
+          "title": "İspanya'da facia. İki yüksek hızlı tren çarpıştı, en az 68 ölü var",
+          "summary": "İspanya'da Madrid - Sevilla arasında sefer yapan iki yüksek hızlı tren çarpıştı. Yerel yönetim ölü sayısını 68 olarak açıkladı. İspanya'da Madrid-Endülüs seferi yapan iki yolcu treninin çarpıştığı kazayla ilgili olarak Castilla la Mancha bölgesel yönetimi, ölü sayısını en az 68 olarak açıkladı. Yerel yönetim, kazada 15'İ ağır 80 kişinin de yaralandığını duyurdu. Ülkede 3 gün ulusal yas ilan edildi.",
+          "source": "https://www.ntv.com.tr/dunya/ispanyada-iki-yuksek-hizli-tren-carpisti-madrid-endulus-hatti-kapandi-1748347"
         },
         {
-          "title": "İsrail'de seçiminin baş aktörleri, açıklamalarında neler söyledi?",
-          "summary": "İsrail'de oy sayımı kıran kırana sürerken, iktidar blokunun başındaki Başbakan Binyamin Netanyahu, en yakın rakibi Gadi Eisenkot ve muhalif Demokratlar Partisi lideri Yair Golan açıklamalarda bulundu. NETANYAHU: SİYONİST ÇOĞUNLUK AKLINI BAŞINA TOPLAMALI VE BİRLEŞMELİ İsrail Başbakanı Binyamin Netanyahu, genel seçimlerin ardından yaptığı açıklamada, \"Siyonist çoğunluk aklını başına toplamalı ve birleşmeli.\" ifadesini kullanarak sağ siyasete birlik çağrısında bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-israilde-seciminin-bas-aktorleri-ilk-aciklamalarinda-neler-soyledi-1748326"
+          "title": "İngiltere'de hükümetin acil durum çağrısı sonrası satışlar patladı: Halk stok yapmaya başladı",
+          "summary": "İngiltere hükümetinin olası 72 saatlik acil durum hazırlığı çağrısının ardından konserve gıda, içme suyu ve el feneri satışları arttı. Bazı acil durum ürünlerinin stokları tükendi. İngiltere'de hükümetin halkı olası acil durumlara karşı hazırlıklı olmaya çağırmasının ardından konserve gıda, şişelenmiş su, el feneri ve taşınabilir şarj cihazlarının satışlarında dikkat çekici artışlar kaydedildi.",
+          "source": "https://www.ntv.com.tr/dunya/ingilterede-hukumetin-acil-durum-cagrisi-sonrasi-satislar-patladi-halk-stok-yapmaya-basladi-1748417"
         },
         {
-          "title": "İsrail basını: Trump, Netanyahu'yu muhalefetle ulusal birlik hükümeti kurmaya zorlayacak",
-          "summary": "ABD Başkanı Donald Trump'ın, parlamento seçimlerinin yapıldığı İsrail'de muhalefetle ulusal birlik hükümeti kurması için Başbakan Binyamin Netanyahu'ya baskı kuracağı belirtildi. Yedioth Ahronoth gazetesinin ABD Başkanı'na yakın kaynaklara dayandırdığı haberinde, Trump’ın Netanyahu’yu bölge ülkelerinin İsrail’le normalleşmesini içeren Abraham Anlaşmaları’nın genişletilmesine imkan sağlayacak rotasyonlu ulusal birlik hükümeti kurmaya zorlayacağı aktarıldı.",
-          "source": "https://www.ntv.com.tr/dunya/israil-basini-trump-netanyahuyu-muhalefetle-ulusal-birlik-hukumeti-kurmaya-zorlayacak-1748380"
+          "title": "ABD seçimleri öncesi İran diplomasisi: Türkiye'de toplantı iddiası",
+          "summary": "İran'ın Ortadoğu'daki savaşı sona erdirmek amacıyla hazırladığı yedi günlük planın süresini dört güne indirmek istediği öne sürüldü. İran ile ABD arasında Ortadoğu'daki savaşı sona erdirmeye yönelik diplomatik girişimler sürerken, Tahran yönetiminin daha önce sunduğu yedi günlük barış planının uygulanma süresini dört güne düşürmek istediği iddia edildi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-secimleri-oncesi-iran-diplomasisi-turkiyede-toplanti-iddiasi-1748415"
         },
         {
-          "title": "Meta ve Snapchat sanık sandalyesinde. İki genç teknoloji devlerini mahkemeye verdi",
-          "summary": "Sosyal medya platformlarının bağımlılık yaratacak biçimde tasarlandığını savunan iki genç, Meta ve Snap'i Los Angeles'ta mahkemeye verdi. Çocuk yaşta ellerine aldıkları akıllı telefonların ekranları başında saatlerce kaybolan iki genç, teknoloji devlerini mahkeme salonunda sanık sandalyesine oturtuyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-meta-ve-snapchat-sanik-sandalyesinde-iki-genc-teknoloji-devlerini-mahkemeye-verdi-1748374"
+          "title": "ABD'ye kaçan Bolsonaro'dan ilk açıklama: Gerçek seçilmiş başkan olarak sesleniyorum",
+          "summary": "Brezilya'da seçimleri kaydeden ve ABD'ye kaçan Bolsonaro, \"gerçek seçilmiş başkan\" olarak bir açıklama yaparak, \"Brezilya’nın iyiliği için ayrıldım. Muhalefete buradan liderlik edeceğim\" dedi. Brezilya'da devlet başkanı seçimlerini kaybeden Senatör Flavio Bolsonaro, hakkında yolsuzluk ve kara para aklama soruşturması sürdüğü sırada ülkesinden ayrılarak ABD'nin Florida eyaletine bağlı Miami kentine geldi.",
+          "source": "https://www.ntv.com.tr/dunya/abdye-kacan-bolsonarodan-ilk-aciklama-brezilyanin-iyiligi-icin-ayrildim-1748414"
         }
       ]
     },
     "ekonomi": {
-      "text": "TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi. Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü.",
+      "text": "Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi.",
       "items": [
+        {
+          "title": "Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü",
+          "summary": "TİCARET Bakanı Ömer Bolat, Türk Devletleri Teşkilatı 13'üncü Zirvesi kapsamında Kazakistan Başbakan Yardımcısı ve Ulusal Ekonomi Bakanı Serik Jumangarin ile bir araya geldi. Görüşmede, iki ülke arasındaki 15 milyar dolarlık ticaret hacmi hedefi ve karşılıklı yatırımlar ele alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-kazakistan-basbakan-yardimcisi-jumangarin-ile-gorustu-43358582"
+        },
         {
           "title": "TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü",
           "summary": "Yeminli Mali Müşavir ve ekonomi yazarı Abdullah Tolu, TÜBADEF 2026 Başarı Ödülleri kapsamında \"Yılın Ekonomi Yazarı\" ödülüne layık görüldü. Tüm Bağımsız Denetçi Dernekleri Federasyonu (TÜBADEF), 2026 Başarı Ödülleri kapsamında ekonomi, eğitim, meslek kuruluşları ve sivil toplum alanlarında ödüllerini dağıtıyor. Yılın Ekonomi Yazarı Ödülü, ekonomi ve vergi alanında yaptığı çalışmalarla dikkat çeken Abdullah Tolu'ya gitti.",
@@ -115,51 +120,46 @@
           "title": "ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi",
           "summary": "ABD'de Conference Board Tüketici Güven Endeksi, ekimde 91,7'ye yükselerek piyasa beklentilerinin üzerinde gerçekleşti.",
           "source": "https://www.hurriyet.com.tr/gundem/abdde-tuketici-guveni-endeksi-aciklandi-ekimde-beklenti-ustu-geldi-43357144"
-        },
-        {
-          "title": "Bakan Bolat, Birleşik Krallık’ın Ankara Büyükelçisi Anderson ile görüştü",
-          "summary": "TİCARET Bakanı Ömer Bolat, Birleşik Krallık'ın Ankara Büyükelçisi Jennifer Elizabeth Anderson ile bir araya geldi. Görüşmede, Serbest Ticaret Anlaşması'nın kapsamının genişletilmesi ve iki ülke arasındaki ekonomik işbirliği imkanları ele alındı. Bakan Bolat sanal medya hesabından yaptığı açıklamada görüşmeye ilişkin şu ifadeleri kullandı:",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-birlesik-krallikin-ankara-buyukelcisi-anderson-ile-gorustu-43357125"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe'den telefon! Abdullah Avcı ile görüşme gerçekleşti. Real Madrid, Çin'den özür diledi. Fenerbahçe paylaştı: Kuyt yönetiminde ilk antrenman!. Fenerbahçe'de Alman ekolü! Milli hoca listeye girdi. AC Milan ve Manchester City evinde, Inter deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları... Torreira için geliyorlar! 2027'de transfer teklifi. Türkiye Voleybol Federasyonu, Vodafone ile işbirliğini 3 yıl uzattı.",
+      "text": "Galatasaray'ın yıldızı İsmail Jakobs'tan sürpriz karar!. Fenerbahçe'den Flammes Carolo'ya 10 sayı fark!. Sergen Yalçın'dan talimat: 'Milli Takım'a kazandıralım!' Ay-yıldızlılarda Oğuzhan Özyakup sürprizi. Süper Lig'de teknik direktör kıyımı! 9 haftada 7 takım hoca değiştirdi. Montella'nın Fenerbahçe'den talebi belli oldu!. Gençlerbirliği'nde olağanüstü seçimli genel kurul kararı alındı. Fenerbahçe'den telefon! Abdullah Avcı ile görüşme gerçekleşti.",
       "items": [
+        {
+          "title": "Galatasaray'ın yıldızı İsmail Jakobs'tan sürpriz karar!",
+          "summary": "Galatasaray'ın Senegalli savunma oyuncusu Ismail Jakobs, kulüp kariyerine odaklanmak adına milli formaya veda ettiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-yildizi-ismail-jakobstan-surpriz-karar-43358747"
+        },
+        {
+          "title": "Fenerbahçe'den Flammes Carolo'ya 10 sayı fark!",
+          "summary": "Fenerbahçe Tarfin Kadın Basketbol Takımı, FIBA EuroLeague Women C Grubu üçüncü maçında konuk ettiği Fransa temsilcisi Flammes Carolo Basket'i 81-71 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-flammes-caroloya-10-sayi-fark-43358696"
+        },
+        {
+          "title": "Sergen Yalçın'dan talimat: 'Milli Takım'a kazandıralım!' Ay-yıldızlılarda Oğuzhan Özyakup sürprizi",
+          "summary": "A Milli Takım teknik direktörü Sergen Yalçın, Augsburg forması giyen gurbetçi futbolcu Mert Kömür'ün milli takıma kazandırılmasını istedi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcindan-talimat-milli-takima-kazandiralim-ay-yildizlilarda-oguzhan-ozyakup-surprizi-43358646"
+        },
+        {
+          "title": "Süper Lig'de teknik direktör kıyımı! 9 haftada 7 takım hoca değiştirdi",
+          "summary": "9. haftası geride kalan Süper Lig'de Fenerbahçe'nin İsmail Kartal'la yollarını ayırmasının ardından ligde teknik direktör değişikliğine giden takım sayısı 7'ye yükseldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/super-ligde-teknik-direktor-kiyimi-9-haftada-7-takim-hoca-degistirdi-43358612"
+        },
+        {
+          "title": "Montella'nın Fenerbahçe'den talebi belli oldu!",
+          "summary": "İsmail Kartal'la yollarını ayıran ve teknik direktör arayışlarına hız veren Fenerbahçe'nin listesinde yer alan isimlerden biri de A Milli Takım'ın eski çalıştırıcısı Vincenzo Montella. İtalyan teknik adamın sarı-lacivertli kulüpten beklediği sözleşme ortaya çıktı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/montellanin-fenerbahceden-talebi-belli-oldu-43358588"
+        },
+        {
+          "title": "Gençlerbirliği'nde olağanüstü seçimli genel kurul kararı alındı",
+          "summary": "Süper Lig ekiplerinden Gençlerbirliği'nde olağanüstü seçimli genel kurur yapılması yönünde karar alındı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginde-olaganustu-secimli-genel-kurul-karari-alindi-43358546"
+        },
         {
           "title": "Fenerbahçe'den telefon! Abdullah Avcı ile görüşme gerçekleşti",
           "summary": "Fenerbahçe yönetimi, teknik direktör adayları konusunda Abdullah Avcı ile görüştü. İşte ayrıntılar...",
           "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-telefon-abdullah-avci-ile-gorusme-gerceklesti-43358395"
-        },
-        {
-          "title": "Real Madrid, Çin'den özür diledi",
-          "summary": "Real Madrid, Mbappe'nin Mao Zedong hakkındaki açıklamaları için özür diledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-cinden-ozur-diledi-43358298"
-        },
-        {
-          "title": "Fenerbahçe paylaştı: Kuyt yönetiminde ilk antrenman!",
-          "summary": "Fenerbahçe, Süper Lig'de Göztepe ile oynayacağı maç öncesi Dirt Kuyt yönetiminde ilk idmanını gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-paylasti-kuyt-yonetiminde-ilk-antrenman-43358264"
-        },
-        {
-          "title": "Fenerbahçe'de Alman ekolü! Milli hoca listeye girdi",
-          "summary": "Fenerbahçe yönetimi, İsmail Kartal ile yolların ayrılmasının ardından listeye Alman Milli Takımı'nın eski antrenörünü aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-alman-ekolu-milli-hoca-listeye-girdi-43358240"
-        },
-        {
-          "title": "AC Milan ve Manchester City evinde, Inter deplasmanda kazanır! İşte Misli’ de günün en çok oynanan maçları...",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ac-milan-ve-manchester-city-evinde-inter-deplasmanda-kazanir-iste-misli-de-gunun-en-cok-oynanan-maclari-43358200"
-        },
-        {
-          "title": "Torreira için geliyorlar! 2027'de transfer teklifi",
-          "summary": "Galatasaray'ın Uruguaylı yıldızı Lucas Torreira'yı Arjantin devi yeniden gündemine aldı ve bu kez, resmi teklif için tarihi belirledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/torreira-icin-geliyorlar-2027de-transfer-teklifi-43358095"
-        },
-        {
-          "title": "Türkiye Voleybol Federasyonu, Vodafone ile işbirliğini 3 yıl uzattı",
-          "summary": "Türkiye Voleybol Federasyonu (TVF) ile Vodafone arasındaki Sultanlar Ligi ve Kadın Milli Takımları sponsorluğunun yeni sözleşmesi 3 yıllığına uzatılırken bu işbirliği düzenlenen özel gecede kutlandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-voleybol-federasyonu-vodafone-ile-isbirligini-3-yil-uzatti-43358050"
         }
       ]
     },
