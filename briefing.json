@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-29T16:00:03.472Z",
+  "generatedAt": "2026-10-30T04:00:06.116Z",
   "categories": {
     "gundem": {
-      "text": "Kapadokya'da peribacası çöktü. Üç kişi hayatını kaybetti. Türk Yıldızları'ndan Anıtkabir’de saygı uçuşu. MSB, GÖKTÜRK-1'in objektifinden Anadolu görüntülerini paylaştı. Oyuncağını almak isterken hayatını kaybetti. Marmara Denizi'nde batan gemide bulunan cesedin kimliği belli oldu. Cumhurbaşkanı Erdoğan, Özbekistan Cumhurbaşkanı Mirziyoyev ile görüştü. 5 anlaşma imzalandı. Türkiye’nin İsrail seçimlerine müdahale ettiği iddiasına DMM’den açıklama: Açık bir dezenformasyon kampanyası.",
+      "text": "Çanakkale’de otomobil aydınlatma direğine çarptı: 2 ölü. Gaziosmanpaşa'da sağanak sonrası yolda çökme meydana geldi. Sultanbeyli'de 1 milyon 642 bin sentetik ecza hap ele geçirildi. Mersin'de tütün dolu antrepoda yangın. Özgür Özel: Cumhuriyet, kimsesizlerin kimsesidir. Türkiye'nin Atina Büyükelçisi Erciyes: Türkiye, Yunanistan dahil hiçbir komşusuna tehdit teşkil etmemektedir. 2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri belli oldu.",
       "items": [
         {
-          "title": "Kapadokya'da peribacası çöktü. Üç kişi hayatını kaybetti",
-          "summary": "Kapadokya Göreme Açık Hava Müzesi girişinde peribacası çöktü. Üç kişinin hayatını kaybettiği bildirildi. Yaralı sayısı 5 olarak açıklandı. Nevşehir'de Kapadokya Göreme Açık Hava Müzesi'nin girişindeki bir peribacası çöktü. Kopan kayaların altında kalan 3 kişi hayatını kaybetti, 5 kişi yaralandı. İçişleri Bakanı Mustafa Çiftçi, 18:50'de sosyal medyadan yaptığı açıklamada arama kurtarma çalışmalarının tamamlandığını bildirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kapadokyada-peribacasi-coktu-uc-kisi-hayatini-kaybetti-1748533"
+          "title": "Çanakkale’de otomobil aydınlatma direğine çarptı: 2 ölü",
+          "summary": "Çanakkale’de otomobilin refüjdeki aydınlatma direğine çarptığı kazada sürücü Efehan Uzkuç ile yanındaki Efe Serin hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-43360053"
         },
         {
-          "title": "Türk Yıldızları'ndan Anıtkabir’de saygı uçuşu",
-          "summary": "TÜRK Yıldızları Akrobasi Timi, 29 Ekim Cumhuriyet Bayramı nedeniyle Anıtkabir üzerinde saygı uçuşu gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/turk-yildizlarindan-anitkabirde-saygi-ucusu-43359770"
+          "title": "Gaziosmanpaşa'da sağanak sonrası yolda çökme meydana geldi",
+          "summary": "İstanbul'un Gaziosmanpaşa ilçesinde sağanak sonrası kısmi çökme meydana gelen yol trafiğe kapatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045"
         },
         {
-          "title": "MSB, GÖKTÜRK-1'in objektifinden Anadolu görüntülerini paylaştı",
-          "summary": "Milli Savunma Bakanlığı (MSB), Cumhuriyet'in 103'üncü yıldönümü dolayısıyla GÖKTÜRK-1 uydusunun objektifinden çekilen, Anadolu'daki Türk bayrakları ile Mustafa Kemal Atatürk'ün portresi ve imzasının yer aldığı görüntüleri paylaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/msb-gokturk-1in-objektifinden-anadolu-goruntulerini-paylasti-43359763"
+          "title": "Sultanbeyli'de 1 milyon 642 bin sentetik ecza hap ele geçirildi",
+          "summary": "Sultanbeyli'de narkotik ekiplerinin bir araca düzenlediği operasyonda, 18 koli içerisinde 1 milyon 642 bin adet Pregabalin etken maddeli sentetik ecza hap ele geçirildi. Olayla ilgili gözaltına alınan 2 şüpheli adliyeye sevk edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sultanbeylide-1-milyon-642-bin-sentetik-ecza-hap-ele-gecirildi-43360044"
         },
         {
-          "title": "Oyuncağını almak isterken hayatını kaybetti",
-          "summary": "ADIYAMAN’ın Besni ilçesinde, su birikintisine düşen oyuncağını almak isterken içine düşen Yunus Emre Mutlu (7), kaldırıldığı hastanede hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/oyuncagini-almak-isterken-hayatini-kaybetti-43359764"
+          "title": "Mersin'de tütün dolu antrepoda yangın",
+          "summary": "Mersin'de tütün dolu antrepoda çıkan yangında alevler kısa sürede tüm depoyu sardı. Çok sayıda itfaiye ekibi söndürme çalışmalarını sürdürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/mersinde-tutun-dolu-antrepoda-yangin-43360042"
         },
         {
-          "title": "Marmara Denizi'nde batan gemide bulunan cesedin kimliği belli oldu",
-          "summary": "Marmara Denizi'nde batan Tuğberk İmamoğlu isimli gemide yürütülen arama kurtarma çalışmalarında bulunan cesedin kimliği belli oldu. Marmara Denizi'nde 2 Eylül'de ticari faaliyette bulunan ALSU ile Tuğberk İmamoğlu isimli gemiler çarpışmış, çarpışma sonucu Tuğberk İmamoğlu gemisi batarken, 10 kişilik mürettebat kaybolmuştu. Olayın ardından Silivri Cumhuriyet Başsavcılığı tarafından soruşturma başlatılmıştı.",
-          "source": "https://www.ntv.com.tr/turkiye/marmara-denizinde-batan-gemide-bulunan-cesedin-kimligi-belli-oldu-1748547"
+          "title": "Özgür Özel: Cumhuriyet, kimsesizlerin kimsesidir",
+          "summary": "Kadıköy'de Cumhuriyet'in 103'üncü yıl dönümü büyük bir coşkuyla kutlandı. Kutlamaya katılan Yeni Parti Genel Başkanı Özgür Özel, \"Benim için cumhuriyet bu milletin başının üstündeki yüce bir çatıdır. O çatı, 86 milyonun evidir. İşte bu yüzden cumhuriyet, kimsesizlerin kimsesidir. 103 yıl önce bu ülkeyi kuranlar, ‘imkansız’ denilen bir işi başardılar. Hepsini minnetle anıyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-cumhuriyet-kimsesizlerin-kimsesidir-43360021"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Özbekistan Cumhurbaşkanı Mirziyoyev ile görüştü. 5 anlaşma imzalandı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev ile bir araya geldi. Cumhurbaşkanlığı İletişim Başkanlığı'ndan yapılan açıklamaya göre, Cumhurbaşkanlığı Külliyesi'ndeki görüşmede liderler, Türkiye-Özbekistan ikili ilişkileri ile bölgesel ve küresel konuları ele aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ozbekistan-cumhurbaskani-mirziyoyev-ile-gorustu-5-anlasma-imzalandi-1748545"
+          "title": "Türkiye'nin Atina Büyükelçisi Erciyes: Türkiye, Yunanistan dahil hiçbir komşusuna tehdit teşkil etmemektedir",
+          "summary": "ürkiye'nin Atina Büyükelçisi Çağatay Erciyes, Cumhuriyet'in 103'üncü kuruluş yıl dönümü vesilesiyle Yunanistan'ın başkenti Atina'da düzenlenen törende, Türkiye'nin Yunanistan dahil hiçbir komşusuna tehdit teşkil etmediğini, meşru hak ve menfaatlerini korurken bölgesinde barış, refah, istikrar ve işbirliğini hedeflediğini vurguladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turkiyenin-atina-buyukelcisi-erciyes-turkiye-yunanistan-dahil-hicbir-komsusuna-tehdit-teskil-etmemektedir-43359998"
         },
         {
-          "title": "Türkiye’nin İsrail seçimlerine müdahale ettiği iddiasına DMM’den açıklama: Açık bir dezenformasyon kampanyası",
-          "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Türkiye'nin İsrail'deki seçimlere müdahale ettiği yönündeki iddiaların, kapsamlı ve açık bir dezenformasyon kampanyasının parçası olduğunu açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiyenin-israil-secimlerine-mudahale-ettigi-iddiasina-dmmden-aciklama-acik-bir-dezenformasyon-kampanyasi-43359720"
+          "title": "2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri belli oldu",
+          "summary": "2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri Sabri Koz, Prof. Dr. İlhami Turan, Sibel Eraslan, Burçak Evren, Prof. Dr. Gönül Paçacı ve Ahmed-i Hani oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/2026-cumhurbaskanligi-kultur-ve-sanat-buyuk-odullerinin-sahipleri-belli-oldu-43359997"
         }
       ]
     },
     "dunya": {
-      "text": "Avrupa Birliği 'ortak üyelik' modelini tanıttı. Saç dökülmesine karşı yeni hap geliştirildi. Pakistan'da yolcu otobüsü şarampole yuvarlandı: 5 kişi hayatını kaybetti. Yapay zekanın tavsiyesiyle ilaç dozunu değiştirdiği öne sürülen kadın hayatını kaybetti. Pakistan Başbakanı Şerif'ten 29 Ekim paylaşımı. Yapay zeka uzmanından korkutan uyarı: İnsanlık 10 yıl sonra yok olabilir. Dışişleri Bakanı Hakan Fidan, Ürdünlü mevkidaşı Safedi ile görüştü.",
+      "text": "\"Siber kıyamet\" tehdidi. İran su altı internet kablolarını koparır mı?. ABD'den İsrail'e yeni yığınak. Savaş hazırlığı mı?. Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi. ABD basınından flaş iddia... Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildi. Dizi diplomatik kriz çıkardı. Hello Kitty Çin'den özür diledi. Tarihi eseri yapay zeka sayesinde kurtardılar. Bosna Hersek'te EUFOR'a ait helikopter düştü.",
       "items": [
         {
-          "title": "Avrupa Birliği 'ortak üyelik' modelini tanıttı",
-          "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Kanada için ısrarla önerdiği \"ortak üyelik\" modelinin ayrıntılarını açıklayarak, bu modelin Avrupa dışındaki diğer en yakın ortaklara da açık olacağını bildirdi. Von der Leyen, ortak üyelik modelinin yalnızca Avrupa dışındaki en yakın ortaklarına açık olacağını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/avrupa-birligi-ortak-uyelik-modelini-tanitti-43359732"
+          "title": "\"Siber kıyamet\" tehdidi. İran su altı internet kablolarını koparır mı?",
+          "summary": "ABD'nin İran'a yeni saldırı olasılığı değerlendirilirken, İran'a yakın kaynakların paylaştığı animasyon video, deniz altı veri hatlarına yönelik olası bir sabotajın sinyalini verdi. Hürmüz Boğazı sadece petrol ticaretinin değil, dünya internet trafiğinin de kritik omurgalarından birini oluşturuyor. ABD'nin ara seçimlerden sonra İran'a büyük bir saldırı düzenleyeceği ifade edilirken, Tahran'a yakın hesaplardan paylaşılan yapay zeka üretimi bir animasyon video tartışmalara yeni bir boyut kazandırdı.",
+          "source": "https://www.ntv.com.tr/dunya/siber-kiyamet-tehdidi-iran-su-alti-internet-kablolarini-koparir-mi-1748567"
         },
         {
-          "title": "Saç dökülmesine karşı yeni hap geliştirildi",
-          "summary": "Erkeklerde saç dökülmesine karşı geliştirilen yeni bir ilaç, klinik araştırmalarda dikkat çekici sonuçlar verdi. 536 erkeğin katıldığı çalışmada, altı aylık tedavinin ardından saç yoğunluğunda belirgin artış görüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/sac-dokulmesine-karsi-yeni-hap-gelistirildi-43359717"
+          "title": "ABD'den İsrail'e yeni yığınak. Savaş hazırlığı mı?",
+          "summary": "Donald Trump'ın yanı sıra Netanyahu hükümetinden İran'a yönelik saldırı tehditleri sürerken, ABD'nin İsrail, Ürdün, Suudi Arabistan ve Katar'a askeri nakliye uçaklarıyla sevkiyat yaptığı iddia edildi. Washington yönetimi İran'a yönelik yeni saldırı seçeneklerini değerlendirirken İsrail devlet televizyonu KAN; ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığını iddia etti.",
+          "source": "https://www.ntv.com.tr/dunya/abdden-israile-yeni-yiginak-savas-hazirligi-mi-1748564"
         },
         {
-          "title": "Pakistan'da yolcu otobüsü şarampole yuvarlandı: 5 kişi hayatını kaybetti",
-          "summary": "Pakistan’da bir yolcu otobüsünün şarampole yuvarlandığı kaydedildi. Kazada 5 kişi yaşamını yitirdi, 27 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistanda-yolcu-otobusu-sarampole-yuvarlandi-5-kisi-hayatini-kaybetti-43359716"
+          "title": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
+          "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-43360028"
         },
         {
-          "title": "Yapay zekanın tavsiyesiyle ilaç dozunu değiştirdiği öne sürülen kadın hayatını kaybetti",
-          "summary": "ABD'de yaşayan 31 yaşındaki yazılım mühendisi Bowen Wan'ın ölümünün ardından ailesi, ChatGPT'nin genç kadını doktoruna danışmadan epilepsi ilacının dozunu azaltmaya yönlendirdiğini öne sürerek OpenAI'ye dava açtı. Aile, yapay zekanın verdiği yanıtların kızlarının hayatını tehlikeye attığını savunuyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/yapay-zekanin-tavsiyesiyle-ilac-dozunu-degistirdigi-one-surulen-kadin-hayatini-kaybetti-43359702"
+          "title": "ABD basınından flaş iddia... Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildi",
+          "summary": "ABD Başkanı Donald Trump'ın, İran'a yönelik saldırı seçenekleri hakkında Merkez Kuvvetler Komutanı (CENTCOM) Brad Cooper tarafından bilgilendirildiği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-basinindan-flas-iddia-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildi-43360024"
         },
         {
-          "title": "Pakistan Başbakanı Şerif'ten 29 Ekim paylaşımı",
-          "summary": "Pakistan Başbakanı Şahbaz Şerif, 29 Ekim Cumhuriyet Bayramı dolayısıyla tebrik mesajı yayınladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistan-basbakani-seriften-29-ekim-paylasimi-43359699"
+          "title": "Dizi diplomatik kriz çıkardı. Hello Kitty Çin'den özür diledi",
+          "summary": "Hello Kitty markasının sahibi Japon şirketi Sanrio, Çin karşıtı sahneler barındırdığı gerekçesiyle eleştirilen Vivant adlı casusluk dizisiyle lisanslı ürün ortaklığını sonlandırdı. Dünyaca ünlü Hello Kitty karakterinin sahibi olan Japon şirketi Sanrio, Pekin yönetimini kızdıran bir casusluk dizisiyle yürüttüğü ortaklığı iptal etti. Şirket, Çin kamuoyundan gelen tepkilerin ardından özür dileyerek diziye özel hazırlanan lisanslı ürün işbirliğini tamamen durdurduğunu duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-dizi-diplomatik-kriz-cikardi-hello-kitty-cinden-ozur-diledi-1748513"
         },
         {
-          "title": "Yapay zeka uzmanından korkutan uyarı: İnsanlık 10 yıl sonra yok olabilir",
-          "summary": "ABD'li teknoloji şirketi Google'ın eski mühendisi ve Makine Zekası Araştırma Enstitüsü'nün (MIRI) Başkanı Nate Soares, yapay zeka nedeniyle insanların \"10 yıl sonra var olmayabileceğini, bu nedenle emeklilik için birikim yapmadığını\" belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/yapay-zeka-uzmanindan-korkutan-uyari-insanlik-10-yil-sonra-yok-olabilir-43359666"
+          "title": "Tarihi eseri yapay zeka sayesinde kurtardılar",
+          "summary": "İtalya'da bir antika fuarını gezen polislerin şüphelendiği yağlıboya tablonun, 20 yıl önce bir kiliseden çalınan tarihi eser olduğu yapay zeka sayesinde ortaya çıktı. İtalya'da kolluk kuvvetleri, çalıntı sanat eserlerinin izini sürmek ve yasa dışı ticaretini engellemek amacıyla özel olarak geliştirilen yapay zeka yazılımlarından yararlanıyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-tarihi-eseri-yapay-zeka-sayesinde-kurtardilar-1748501"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan, Ürdünlü mevkidaşı Safedi ile görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Ürdün Başbakan Yardımcısı ve Dışişleri Bakanı Eymen es-Safedi ile telefon görüşmesi gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-urdunlu-mevkidasi-safedi-ile-gorustu-43359663"
+          "title": "Bosna Hersek'te EUFOR'a ait helikopter düştü",
+          "summary": "Bosna Hersek'in kuzeyindeki Brcko'da, Avrupa Birliği (AB) Barış Gücü Misyonuna (EUFOR) ait askeri helikopterin düşmesi sonucu 4 kişi hayatını kaybetti, 11 kişi yaralandı. Yetkililerden alınan bilgiye göre, kazada 4 kişi yaşamını yitirdi, yaralanan 11 kişinin hastanelerdeki tedavisi sürüyor. EUFOR'dan yapılan açıklamada, Brcko bölgesinde rutin bir operasyon sırasında hava araçlarından birinin düştüğü belirtildi. Kaza yerine Brcko polisi, itfaiye ve acil sağlık ekipleri sevk edildi.",
+          "source": "https://www.ntv.com.tr/dunya/bosna-hersekte-eufora-ait-helikopter-dustu-1748560"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Göztepe'de Juan yine transferde gözde. Galatasaray'ın Konyaspor maçı kamp kadrosu açıklandı. Galatasaray'dan ayrıldıktan sonra adeta yeniden doğdu! Performansıyla Avusturya'yı sallıyor!. Beşiktaş, Kasımpaşa maçının hazırlıklarına başladı. Fenerbahçe, Göztepe maçının hazırlıklarına devam etti. Galatasaray, Konyaspor maçının hazırlıklarını tamamladı. Beşiktaş'ta Orkun Kökçü gelişmesi!.",
+      "text": "Inter ve Milan yeni stadyum projesini duyurdu! 650 milyon euroluk gelir. Galatasaray, Kızılyıldız'a direnemedi! ( Galatasaray Çağdaş Faktoring: 68 - Kızılyıldız: 78). Galatasaray'ın Konyaspor maçı kamp kadrosu açıklandı! Osimhen gerçeği. Galatasaray kafilesi, Konya'da. Fenerbahçe'de Dirk Kuyt kararını verdi! İlk 11'i geri dönüyor. Göztepe'de Juan yine transferde gözde. Galatasaray'dan ayrıldıktan sonra adeta yeniden doğdu! Performansıyla Avusturya'yı sallıyor!.",
       "items": [
+        {
+          "title": "Inter ve Milan yeni stadyum projesini duyurdu! 650 milyon euroluk gelir",
+          "summary": "Inter ve Milan, San Siro’nun yerini alacak 71 bin 500 kişilik yeni stadın projesini duyuru. İtalyanların hedefi stadyumu 2031'de bitirip Türkiye'yle ortak yapılacak 2032 Avrupa Futbol Şampiyonası’na yetiştirmek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/inter-ve-milan-yeni-stadyum-projesini-duyurdu-650-milyon-euroluk-gelir-43360012"
+        },
+        {
+          "title": "Galatasaray, Kızılyıldız'a direnemedi! ( Galatasaray Çağdaş Faktoring: 68 - Kızılyıldız: 78)",
+          "summary": "FIBA Kadınlar Avrupa Ligi B Grubu 3. haftasında Galatasaray Çağdaş Faktoring, sahasında Sırbistan temsilcisi Kızılyıldız'a 78-68 mağlup oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kizilyildiza-direnemedi-galatasaray-cagdas-faktoring-68-kizilyildiz-78-43359952"
+        },
+        {
+          "title": "Galatasaray'ın Konyaspor maçı kamp kadrosu açıklandı! Osimhen gerçeği",
+          "summary": "Galatasaray'ın, Süper Lig'in 10. haftasında yarın deplasmanda oynayacağı Konyaspor maçının kamp kadrosu belli oldu. Osimhen'in açıklanan kadroda yer almasına rağmen kafilede bulunmaması kafaları karıştırmıştı. Nedeni ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-konyaspor-maci-kamp-kadrosu-aciklandi-osimhen-gercegi-43359680"
+        },
+        {
+          "title": "Galatasaray kafilesi, Konya'da",
+          "summary": "Galatasaray kafilesi, Süper Lig'in 10’uncu haftasında oynayacağı Konyaspor maçı için geldiği kentte, taraftarın yoğun ilgisiyle karşılandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kafilesi-konyada-43359827"
+        },
+        {
+          "title": "Fenerbahçe'de Dirk Kuyt kararını verdi! İlk 11'i geri dönüyor",
+          "summary": "Süper Lig'in 10. haftasında sahasında Göztepe ile karşı karşıya gelecek Fenerbahçe mücadelenin hazırlıklarına devam etti. Sarı-lacivertlilerde, İsmail Kartal'ın yerine teknik direktörlük görevine getirilen Dirk Kuyt zorlu mücadelenin ilk 11'ini belirledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-dirk-kuyt-kararini-verdi-ilk-11i-geri-donuyor-43359813"
+        },
         {
           "title": "Göztepe'de Juan yine transferde gözde",
           "summary": "Süper Lig'de art arda 3 galibiyetle çıkışa geçen Göztepe'yi golleriyle sırtlayan Brezilyalı golcü Juan, transferde yine gözde oldu.",
           "source": "https://www.hurriyet.com.tr/sporarena/goztepede-juan-yine-transferde-gozde-43359730"
         },
         {
-          "title": "Galatasaray'ın Konyaspor maçı kamp kadrosu açıklandı",
-          "summary": "Galatasaray'ın, Süper Lig'in 10. haftasında yarın deplasmanda oynayacağı Konyaspor maçının kamp kadrosu belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-konyaspor-maci-kamp-kadrosu-aciklandi-43359680"
-        },
-        {
           "title": "Galatasaray'dan ayrıldıktan sonra adeta yeniden doğdu! Performansıyla Avusturya'yı sallıyor!",
           "summary": "Galatasaray'a büyük ümitlerle gelen ancak beklentileri karşılayamayan Yusuf Demir, geçtiğimiz sezonun ortasında transfer olduğu eski takımı Rapid Wien'de adeta yeniden doğdu. İşte detaylar...",
           "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-ayrildiktan-sonra-adeta-yeniden-dogdu-performansiyla-avusturyayi-salliyor-43359636"
-        },
-        {
-          "title": "Beşiktaş, Kasımpaşa maçının hazırlıklarına başladı",
-          "summary": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa ile 1 Kasım Pazar günü deplasmanda karşılaşacak Beşiktaş, müsabakanın hazırlıklarına başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-kasimpasa-macinin-hazirliklarina-basladi-43359590"
-        },
-        {
-          "title": "Fenerbahçe, Göztepe maçının hazırlıklarına devam etti",
-          "summary": "Trendyol Süper Lig'in 10. haftasında 31 Ekim Cumartesi günü Göztepe'yi konuk edecek Fenerbahçe, müsabakanın hazırlıklarına devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-goztepe-macinin-hazirliklarina-devam-etti-43359587"
-        },
-        {
-          "title": "Galatasaray, Konyaspor maçının hazırlıklarını tamamladı",
-          "summary": "Galatasaray, Trendyol Süper Lig'in 10. haftasında yarın TÜMOSAN Konyaspor'a konuk olacağı müsabakanın hazırlıklarını tamamladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-konyaspor-macinin-hazirliklarini-tamamladi-43359582"
-        },
-        {
-          "title": "Beşiktaş'ta Orkun Kökçü gelişmesi!",
-          "summary": "Beşiktaş’ta Orkun Kökçü’nün sakatlığı yakından takip ediliyor. Siyah-beyazlıların sağlık heyeti, milli futbolcunun sahalara dönüşüne onay vermek için tam olarak hazır olmasını hedefliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-orkun-kokcu-gelismesi-43359519"
         }
       ]
     },
