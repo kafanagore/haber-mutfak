@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-30T04:00:06.116Z",
+  "generatedAt": "2026-10-30T10:00:05.891Z",
   "categories": {
     "gundem": {
-      "text": "Çanakkale’de otomobil aydınlatma direğine çarptı: 2 ölü. Gaziosmanpaşa'da sağanak sonrası yolda çökme meydana geldi. Sultanbeyli'de 1 milyon 642 bin sentetik ecza hap ele geçirildi. Mersin'de tütün dolu antrepoda yangın. Özgür Özel: Cumhuriyet, kimsesizlerin kimsesidir. Türkiye'nin Atina Büyükelçisi Erciyes: Türkiye, Yunanistan dahil hiçbir komşusuna tehdit teşkil etmemektedir. 2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri belli oldu.",
+      "text": "Avcılar'da okul önünde trafik kavgası: Bekçi, kendisine saldıran veliyi ayağından vurdu. Hayatını kaybeden eski Devlet Bakanı Ünal Erkan için Emniyet Genel Müdürlüğü'nde tören. İki lise öğrencisi AYM'ye başvurdu | Mahkemeden 'hak ihlali' kararı: Tazminat ödenecek. Derbi biletlerinde bot yazılım oyunu: Biletleri nasıl ele geçirdiklerini anlattılar. Nevzat Aydın'ı tehdit etmişlerdi. Evlerinden otomatik silahlar çıktı. 16 ilde 'Organize Suçlarla Mücadele' operasyonları: 55 şüpheli tutuklandı. 3 kişi can vermişti: Kapadokya'daki facia için 5 bilirkişi görevlendirildi.",
       "items": [
         {
-          "title": "Çanakkale’de otomobil aydınlatma direğine çarptı: 2 ölü",
-          "summary": "Çanakkale’de otomobilin refüjdeki aydınlatma direğine çarptığı kazada sürücü Efehan Uzkuç ile yanındaki Efe Serin hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-43360053"
+          "title": "Avcılar'da okul önünde trafik kavgası: Bekçi, kendisine saldıran veliyi ayağından vurdu",
+          "summary": "İstanbul Avcılar'da bir bekçi, trafik tartışmasına müdahale ederken kendisini darbeden veliyi ayağından vurarak etkisiz hale getirdi. İstanbul'da bir belçi, kendisine saldıran veliyi ayağından vurdu. Olay sabah saat 09.15 sıralarında Avcılar'daki bir ilkokulun önünde meydana geldi. Valilik açıklamasına göre; Ambarlı Mahallesi'nde bulunan bir ilkokulun önünde veliler arasında trafik nedeniyle tartışma çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-avcilarda-okul-onunde-trafik-kavgasi-bekci-kendisine-saldiran-veliyi-ayagindan-vurdu-1748626"
         },
         {
-          "title": "Gaziosmanpaşa'da sağanak sonrası yolda çökme meydana geldi",
-          "summary": "İstanbul'un Gaziosmanpaşa ilçesinde sağanak sonrası kısmi çökme meydana gelen yol trafiğe kapatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gaziosmanpasada-saganak-sonrasi-yolda-cokme-meydana-geldi-43360045"
+          "title": "Hayatını kaybeden eski Devlet Bakanı Ünal Erkan için Emniyet Genel Müdürlüğü'nde tören",
+          "summary": "Ankara'da bir süredir tedavi gördüğü hastanede 84 yaşında hayatını kaybeden eski Devlet Bakanı, Emniyet Genel Müdürü ve Olağanüstü Hal (OHAL) Bölge Valisi Ünal Erkan için Emniyet Genel Müdürlüğü'nde resmi tören düzenlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/hayatini-kaybeden-eski-devlet-bakani-unal-erkan-icin-emniyet-genel-mudurlugunde-toren-43360477"
         },
         {
-          "title": "Sultanbeyli'de 1 milyon 642 bin sentetik ecza hap ele geçirildi",
-          "summary": "Sultanbeyli'de narkotik ekiplerinin bir araca düzenlediği operasyonda, 18 koli içerisinde 1 milyon 642 bin adet Pregabalin etken maddeli sentetik ecza hap ele geçirildi. Olayla ilgili gözaltına alınan 2 şüpheli adliyeye sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/sultanbeylide-1-milyon-642-bin-sentetik-ecza-hap-ele-gecirildi-43360044"
+          "title": "İki lise öğrencisi AYM'ye başvurdu | Mahkemeden 'hak ihlali' kararı: Tazminat ödenecek",
+          "summary": "Öğretmenlere sözlü saldırıda bulunduğu ve sosyal medya üzerinden arkadaşlarını tehdit ettiği iddia edilen iki öğrenci, okul değiştirme cezası aldıktan sonra uygulamanın iptali için AYM'ye başvurdu. Anayasa Mahkemesi (AYM), okul değiştirme cezası verilen iki lise öğrencisinin eğitim haklarının ihlal edildiğine hükmederek 50'şer bin lira manevi tazminat ödenmesini kararlaştırdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/iki-lise-ogrencisi-aymye-basvurdu-mahkemeden-hak-ihlali-karari-tazminat-odenecek-43360368"
         },
         {
-          "title": "Mersin'de tütün dolu antrepoda yangın",
-          "summary": "Mersin'de tütün dolu antrepoda çıkan yangında alevler kısa sürede tüm depoyu sardı. Çok sayıda itfaiye ekibi söndürme çalışmalarını sürdürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/mersinde-tutun-dolu-antrepoda-yangin-43360042"
+          "title": "Derbi biletlerinde bot yazılım oyunu: Biletleri nasıl ele geçirdiklerini anlattılar",
+          "summary": "Derbi biletlerini karaborsada satan şüphelilerin 85 bin lira ödeyerek bot yazılım hazırlattığı belirlendi. Şüphelilerin 8 yıla kadar hapsi istendi. Beşiktaş ile Fenerbahçe arasında 2 Kasım 2025'te oynana derbi maçın deplasman tribünü biletlerinin bot yazılım aracılığıyla ele geçirilerek karaborsada satıldığı tespit edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-derbi-biletlerinde-bot-yazilim-oyunu-biletleri-nasil-ele-gecirdiklerini-anlattilar-1748613"
         },
         {
-          "title": "Özgür Özel: Cumhuriyet, kimsesizlerin kimsesidir",
-          "summary": "Kadıköy'de Cumhuriyet'in 103'üncü yıl dönümü büyük bir coşkuyla kutlandı. Kutlamaya katılan Yeni Parti Genel Başkanı Özgür Özel, \"Benim için cumhuriyet bu milletin başının üstündeki yüce bir çatıdır. O çatı, 86 milyonun evidir. İşte bu yüzden cumhuriyet, kimsesizlerin kimsesidir. 103 yıl önce bu ülkeyi kuranlar, ‘imkansız’ denilen bir işi başardılar. Hepsini minnetle anıyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ozgur-ozel-cumhuriyet-kimsesizlerin-kimsesidir-43360021"
+          "title": "Nevzat Aydın'ı tehdit etmişlerdi. Evlerinden otomatik silahlar çıktı",
+          "summary": "İş insanı Nevzat Aydın ve oğluna yönelik tehdit soruşturmasında dört şüpheli gözaltına alındı. Şüphelilerin adreslerinde otomatik silahlar ele geçirildi. İş insanı Nevzat Aydın'a tehdit soruşturmasında dört şüpheli gözaltına alındı. Soruşturma iş insanı Nevzat Aydın'ın 28 Ekim günü saat 18.00 sıralarında mesajlaşma uygulaması üzerinden Yunanistan'a ait +30 kodlu bir numaradan arandığını belirterek Beykoz Asayiş Büro Amirliği'ne şikayette bulunması üzerine başlatıldı. Aydın, kendisini Çirkinler suç örgütünden K.A.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-nevzat-aydini-tehdit-etmislerdi-evlerinden-otomatik-silahlar-cikti-1748611"
         },
         {
-          "title": "Türkiye'nin Atina Büyükelçisi Erciyes: Türkiye, Yunanistan dahil hiçbir komşusuna tehdit teşkil etmemektedir",
-          "summary": "ürkiye'nin Atina Büyükelçisi Çağatay Erciyes, Cumhuriyet'in 103'üncü kuruluş yıl dönümü vesilesiyle Yunanistan'ın başkenti Atina'da düzenlenen törende, Türkiye'nin Yunanistan dahil hiçbir komşusuna tehdit teşkil etmediğini, meşru hak ve menfaatlerini korurken bölgesinde barış, refah, istikrar ve işbirliğini hedeflediğini vurguladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiyenin-atina-buyukelcisi-erciyes-turkiye-yunanistan-dahil-hicbir-komsusuna-tehdit-teskil-etmemektedir-43359998"
+          "title": "16 ilde 'Organize Suçlarla Mücadele' operasyonları: 55 şüpheli tutuklandı",
+          "summary": "İçişleri Bakanlığı'ndan yapılan açıklamada, \"16 ilde 'Organize Suçlarla Mücadele' kapsamında düzenlenen operasyonlarda 198 şüpheli hakkında adli işlem yapıldı. Şüphelilerden 55'i tutuklandı\" denildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/16-ilde-organize-suclarla-mucadele-operasyonlari-55-supheli-tutuklandi-43360363"
         },
         {
-          "title": "2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri belli oldu",
-          "summary": "2026 Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri'nin sahipleri Sabri Koz, Prof. Dr. İlhami Turan, Sibel Eraslan, Burçak Evren, Prof. Dr. Gönül Paçacı ve Ahmed-i Hani oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/2026-cumhurbaskanligi-kultur-ve-sanat-buyuk-odullerinin-sahipleri-belli-oldu-43359997"
+          "title": "3 kişi can vermişti: Kapadokya'daki facia için 5 bilirkişi görevlendirildi",
+          "summary": "Nevşehir'deki ünlü turizm bölgesi olan Göreme'de, peribacalarından birinin çökmesi sonucu 3 kişi hayatını kaybetmiş, 5 kişi yaralanmıştı. Olaya ilişkin 5 bilirkişi görevlendirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/3-kisi-can-vermisti-kapadokyadaki-facia-icin-5-bilirkisi-gorevlendirildi-43360346"
         }
       ]
     },
     "dunya": {
-      "text": "\"Siber kıyamet\" tehdidi. İran su altı internet kablolarını koparır mı?. ABD'den İsrail'e yeni yığınak. Savaş hazırlığı mı?. Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi. ABD basınından flaş iddia... Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildi. Dizi diplomatik kriz çıkardı. Hello Kitty Çin'den özür diledi. Tarihi eseri yapay zeka sayesinde kurtardılar. Bosna Hersek'te EUFOR'a ait helikopter düştü.",
+      "text": "Filipinler'de Mayon Yanardağı patladı: Üçüncü seviye alarm!. Husiler yalanladı: Mekke'ye saldırmadık. TDT Zirvesi'ne katılan liderlerden dikkat çeken açıklamalar: Türkiye, TDT Dönem Başkanlığı'nı devraldı. İspanya'daki faciada 74 kişi ölmüştü: Çarpışma anındaki hızı açıklandı. Cumhurbaşkanı Erdoğan: Türk dünyasının aile fotoğrafında ayrılığa yer yoktur. Game of Thrones yıldızı sirenler çalınca metro istasyonuna sığındı, katlanır yatakta sabahladı. 6,3 milyar dolar hedefteydi. Kripto devi Binance'e saldırı nasıl başladı, hangi önlemler alındı?.",
       "items": [
         {
-          "title": "\"Siber kıyamet\" tehdidi. İran su altı internet kablolarını koparır mı?",
-          "summary": "ABD'nin İran'a yeni saldırı olasılığı değerlendirilirken, İran'a yakın kaynakların paylaştığı animasyon video, deniz altı veri hatlarına yönelik olası bir sabotajın sinyalini verdi. Hürmüz Boğazı sadece petrol ticaretinin değil, dünya internet trafiğinin de kritik omurgalarından birini oluşturuyor. ABD'nin ara seçimlerden sonra İran'a büyük bir saldırı düzenleyeceği ifade edilirken, Tahran'a yakın hesaplardan paylaşılan yapay zeka üretimi bir animasyon video tartışmalara yeni bir boyut kazandırdı.",
-          "source": "https://www.ntv.com.tr/dunya/siber-kiyamet-tehdidi-iran-su-alti-internet-kablolarini-koparir-mi-1748567"
+          "title": "Filipinler'de Mayon Yanardağı patladı: Üçüncü seviye alarm!",
+          "summary": "Filipinler'de başkent Manila'ya 330 kilometre uzaklıktaki Mayon Yanardağı’nda patlama meydana geldi. Yanardağ, patlama sonucu 3 bin metre yüksekliğe kül bulutu püskürttü.",
+          "source": "https://www.hurriyet.com.tr/dunya/filipinlerde-mayon-yanardagi-patladi-ucuncu-seviye-alarm-43360461"
         },
         {
-          "title": "ABD'den İsrail'e yeni yığınak. Savaş hazırlığı mı?",
-          "summary": "Donald Trump'ın yanı sıra Netanyahu hükümetinden İran'a yönelik saldırı tehditleri sürerken, ABD'nin İsrail, Ürdün, Suudi Arabistan ve Katar'a askeri nakliye uçaklarıyla sevkiyat yaptığı iddia edildi. Washington yönetimi İran'a yönelik yeni saldırı seçeneklerini değerlendirirken İsrail devlet televizyonu KAN; ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığını iddia etti.",
-          "source": "https://www.ntv.com.tr/dunya/abdden-israile-yeni-yiginak-savas-hazirligi-mi-1748564"
+          "title": "Husiler yalanladı: Mekke'ye saldırmadık",
+          "summary": "Yemen'deki İran destekli Husilerin sözcüsü Yahya Seri, Arap Koalisyonu tarafından yapılan açıklamayı yalanladı. Husilerin sözcüsü Seri, Suudi Arabistan'ın Mekke-i Mükerreme bölgesini hedef almadıklarını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/husiler-yalanladi-mekkeye-saldirmadik-43360416"
         },
         {
-          "title": "Putin, Avrupa ile olası savaşta kazanan olmayacağını söyledi",
-          "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa ile savaş istemediklerini ancak böyle bir çatışmaya hazır olduklarını belirterek, olası bir savaşta kazanan olmayacağı uyarısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/putin-avrupa-ile-olasi-savasta-kazanan-olmayacagini-soyledi-43360028"
+          "title": "TDT Zirvesi'ne katılan liderlerden dikkat çeken açıklamalar: Türkiye, TDT Dönem Başkanlığı'nı devraldı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde Ankara'da düzenlenen Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13'üncü Zirvesi'ne katılan liderler, gündeme ilişkin değerlendirmelerde bulundu. Liderler toplantıda Ankara Bildirisi'ni imzaladı. Türkiye, TDT Dönem Başkanlığı'nı Azerbaycan'dan devraldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/tdt-zirvesine-katilan-liderlerden-dikkat-ceken-aciklamalar-43360405"
         },
         {
-          "title": "ABD basınından flaş iddia... Trump'ın, İran'a yönelik saldırı seçenekleri hakkında bilgilendirildi",
-          "summary": "ABD Başkanı Donald Trump'ın, İran'a yönelik saldırı seçenekleri hakkında Merkez Kuvvetler Komutanı (CENTCOM) Brad Cooper tarafından bilgilendirildiği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-basinindan-flas-iddia-trumpin-irana-yonelik-saldiri-secenekleri-hakkinda-bilgilendirildi-43360024"
+          "title": "İspanya'daki faciada 74 kişi ölmüştü: Çarpışma anındaki hızı açıklandı",
+          "summary": "İspanya’da Toledo ile Urda şehirleri arasında meydana gelen ve 74 kişinin hayatını kaybettiği kazanın ön teknik raporunda bekleyen trene çarpan AVE treninin çarpışma anındaki hızının saatte 160 ile 200 kilometre arasında olduğu ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyadaki-faciada-74-kisi-olmustu-carpisma-anindaki-hizi-aciklandi-43360396"
         },
         {
-          "title": "Dizi diplomatik kriz çıkardı. Hello Kitty Çin'den özür diledi",
-          "summary": "Hello Kitty markasının sahibi Japon şirketi Sanrio, Çin karşıtı sahneler barındırdığı gerekçesiyle eleştirilen Vivant adlı casusluk dizisiyle lisanslı ürün ortaklığını sonlandırdı. Dünyaca ünlü Hello Kitty karakterinin sahibi olan Japon şirketi Sanrio, Pekin yönetimini kızdıran bir casusluk dizisiyle yürüttüğü ortaklığı iptal etti. Şirket, Çin kamuoyundan gelen tepkilerin ardından özür dileyerek diziye özel hazırlanan lisanslı ürün işbirliğini tamamen durdurduğunu duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-dizi-diplomatik-kriz-cikardi-hello-kitty-cinden-ozur-diledi-1748513"
+          "title": "Cumhurbaşkanı Erdoğan: Türk dünyasının aile fotoğrafında ayrılığa yer yoktur",
+          "summary": "Türk Devletleri Teşkilatı 13. Liderler Zirvesi, bugün Ankara'da başladı. Cumhurbaşkanı Erdoğan \"Türk dünyasının aile fotoğrafında ayrılığa yer yoktur.\" dedi. Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla bugün Türkiye'nin ev sahipliğinde düzenleniyor.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-turk-dunyasinin-aile-fotografinda-ayriliga-yer-yoktur-1748600"
         },
         {
-          "title": "Tarihi eseri yapay zeka sayesinde kurtardılar",
-          "summary": "İtalya'da bir antika fuarını gezen polislerin şüphelendiği yağlıboya tablonun, 20 yıl önce bir kiliseden çalınan tarihi eser olduğu yapay zeka sayesinde ortaya çıktı. İtalya'da kolluk kuvvetleri, çalıntı sanat eserlerinin izini sürmek ve yasa dışı ticaretini engellemek amacıyla özel olarak geliştirilen yapay zeka yazılımlarından yararlanıyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-tarihi-eseri-yapay-zeka-sayesinde-kurtardilar-1748501"
+          "title": "Game of Thrones yıldızı sirenler çalınca metro istasyonuna sığındı, katlanır yatakta sabahladı",
+          "summary": "Game of Thrones dizisinin başrol oyuncusu Nikolaj Coster-Waldau, Ukrayna'nın başkenti Kiev'e yaptığı ziyarette hava saldırısı sirenleri çalınca metro istasyonuna sığındı. Dünyaca ünlü televizyon dizisi Game of Thrones'ta canlandırdığı Jaime Lannister karakteriyle tanınan Danimarkalı aktör ve Birleşmiş Milletler İyi Niyet Elçisi Nikolaj Coster-Waldau, Ukrayna'nın başkenti Kiev'e gitti. Coster-Waldau, 28 Ekim'de Rusya'nın saldırıları sırasında çalan hava saldırısı sirenleri üzerine Kiev metrosuna sığındı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-game-of-thrones-yildizi-sirenler-calinca-metro-istasyonuna-sigindi-katlanir-yatakta-sabahladi-1748607"
         },
         {
-          "title": "Bosna Hersek'te EUFOR'a ait helikopter düştü",
-          "summary": "Bosna Hersek'in kuzeyindeki Brcko'da, Avrupa Birliği (AB) Barış Gücü Misyonuna (EUFOR) ait askeri helikopterin düşmesi sonucu 4 kişi hayatını kaybetti, 11 kişi yaralandı. Yetkililerden alınan bilgiye göre, kazada 4 kişi yaşamını yitirdi, yaralanan 11 kişinin hastanelerdeki tedavisi sürüyor. EUFOR'dan yapılan açıklamada, Brcko bölgesinde rutin bir operasyon sırasında hava araçlarından birinin düştüğü belirtildi. Kaza yerine Brcko polisi, itfaiye ve acil sağlık ekipleri sevk edildi.",
-          "source": "https://www.ntv.com.tr/dunya/bosna-hersekte-eufora-ait-helikopter-dustu-1748560"
+          "title": "6,3 milyar dolar hedefteydi. Kripto devi Binance'e saldırı nasıl başladı, hangi önlemler alındı?",
+          "summary": "Dünyanın en büyük kripto para borsası Binance, bir mühendisin dizüstü bilgisayarından sızan siber korsanların 6,3 milyar dolarlık dijital varlığı hedef aldığını açıkladı. Dünyanın en büyük kripto para borsası Binance, dün yaptığı açıklamada 6,3 milyar dolar (314 milyar 667 milyon Türk Lirası) değerindeki dijital varlığın tarihin en büyüğü olarak anılabilecek bir siber saldırıya maruz kaldığını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-63-milyar-dolar-hedefteydi-kripto-devi-binancee-saldiri-nasil-basladi-hangi-onlemler-alindi-1748602"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Inter ve Milan yeni stadyum projesini duyurdu! 650 milyon euroluk gelir. Galatasaray, Kızılyıldız'a direnemedi! ( Galatasaray Çağdaş Faktoring: 68 - Kızılyıldız: 78). Galatasaray'ın Konyaspor maçı kamp kadrosu açıklandı! Osimhen gerçeği. Galatasaray kafilesi, Konya'da. Fenerbahçe'de Dirk Kuyt kararını verdi! İlk 11'i geri dönüyor. Göztepe'de Juan yine transferde gözde. Galatasaray'dan ayrıldıktan sonra adeta yeniden doğdu! Performansıyla Avusturya'yı sallıyor!.",
+      "text": "Icardi’den Galatasaray ve transfer açıklaması: 'Cevabımı sahada vermek için sabırsızlanıyorum!'. Fenerbahçe'nin konuğu Göztepe. Darko Kovacevic'den Türkiye, Kenan Yıldız ve Nihat Kahveci sözleri. Trabzonspor Teknik Direktörü Thomas Reis: 'Baskıyı seviyorum!'. Beşiktaş'ta yeniden Willock harekâtı! Yapılacak teklifi duyurdular. Cumhuriyet için koşacaklar. Ferdi Kadıoğlu'ndan Brighton'a iyi haber.",
       "items": [
         {
-          "title": "Inter ve Milan yeni stadyum projesini duyurdu! 650 milyon euroluk gelir",
-          "summary": "Inter ve Milan, San Siro’nun yerini alacak 71 bin 500 kişilik yeni stadın projesini duyuru. İtalyanların hedefi stadyumu 2031'de bitirip Türkiye'yle ortak yapılacak 2032 Avrupa Futbol Şampiyonası’na yetiştirmek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/inter-ve-milan-yeni-stadyum-projesini-duyurdu-650-milyon-euroluk-gelir-43360012"
+          "title": "Icardi’den Galatasaray ve transfer açıklaması: 'Cevabımı sahada vermek için sabırsızlanıyorum!'",
+          "summary": "Galatasaray’dan ayrıldıktan sonra henüz yeni bir kulüple anlaşmayan Mauro Icardi, geleceğine ilişkin konuştu. Arjantinli yıldız, İtalya’ya dönme isteğini dile getirirken sarı-kırmızılı taraftarlarla kurduğu özel bağa da dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/icardiden-galatasaray-ve-transfer-aciklamasi-cevabimi-sahada-vermek-icin-sabirsizlaniyorum-43360434"
         },
         {
-          "title": "Galatasaray, Kızılyıldız'a direnemedi! ( Galatasaray Çağdaş Faktoring: 68 - Kızılyıldız: 78)",
-          "summary": "FIBA Kadınlar Avrupa Ligi B Grubu 3. haftasında Galatasaray Çağdaş Faktoring, sahasında Sırbistan temsilcisi Kızılyıldız'a 78-68 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kizilyildiza-direnemedi-galatasaray-cagdas-faktoring-68-kizilyildiz-78-43359952"
+          "title": "Fenerbahçe'nin konuğu Göztepe",
+          "summary": "Fenerbahçe, Süper Lig'de yarın Göztepe'yi konuk edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-konugu-goztepe-43360478"
         },
         {
-          "title": "Galatasaray'ın Konyaspor maçı kamp kadrosu açıklandı! Osimhen gerçeği",
-          "summary": "Galatasaray'ın, Süper Lig'in 10. haftasında yarın deplasmanda oynayacağı Konyaspor maçının kamp kadrosu belli oldu. Osimhen'in açıklanan kadroda yer almasına rağmen kafilede bulunmaması kafaları karıştırmıştı. Nedeni ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-konyaspor-maci-kamp-kadrosu-aciklandi-osimhen-gercegi-43359680"
+          "title": "Darko Kovacevic'den Türkiye, Kenan Yıldız ve Nihat Kahveci sözleri",
+          "summary": "Real Sociedad forması altında Nihat Kahveci ile yakaladığı uyumla hafızalara kazınan efsane golcü Darko Kovacevic, günümüz futbolunda Nihat - Kovacevic gibi bir ikili bulmanın zor olduğunu söyledi. Kovacevic, Juventus’ta oynayan milli futbolcu Kenan Yıldız’ın da takımın en iyisi olduğunu ve onu izlemekten keyif aldığını sözlerine ekledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/darko-kovacevicden-turkiye-kenan-yildiz-ve-nihat-kahveci-sozleri-43360467"
         },
         {
-          "title": "Galatasaray kafilesi, Konya'da",
-          "summary": "Galatasaray kafilesi, Süper Lig'in 10’uncu haftasında oynayacağı Konyaspor maçı için geldiği kentte, taraftarın yoğun ilgisiyle karşılandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-kafilesi-konyada-43359827"
+          "title": "Trabzonspor Teknik Direktörü Thomas Reis: 'Baskıyı seviyorum!'",
+          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, bordo-mavili kulüpte beklentilerin yüksek olduğunu belirterek, \"Ben baskıyı seviyorum. Benim için en güzel şey, maçtan sonra insanların mutlu olduğunu ve yüzlerinin güldüğünü görmek\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonspor-teknik-direktoru-thomas-reis-baskiyi-seviyorum-43360334"
         },
         {
-          "title": "Fenerbahçe'de Dirk Kuyt kararını verdi! İlk 11'i geri dönüyor",
-          "summary": "Süper Lig'in 10. haftasında sahasında Göztepe ile karşı karşıya gelecek Fenerbahçe mücadelenin hazırlıklarına devam etti. Sarı-lacivertlilerde, İsmail Kartal'ın yerine teknik direktörlük görevine getirilen Dirk Kuyt zorlu mücadelenin ilk 11'ini belirledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-dirk-kuyt-kararini-verdi-ilk-11i-geri-donuyor-43359813"
+          "title": "Beşiktaş'ta yeniden Willock harekâtı! Yapılacak teklifi duyurdular",
+          "summary": "Beşiktaş yaz transfer döneminde kadrosuna katmak isteyip başarılı olamadığı Joe Willock için yeniden harekete geçti. Siyah-beyazlıların sözleşmesi sezon sonunda bitecek olan İngiliz orta saha oyuncusu için kulübü Newcastle United'a yapmaya hazırlandığı teklifin detayları ortaya çıktı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasta-yeniden-willock-harekati-yapilacak-teklifi-duyurdular-43360277"
         },
         {
-          "title": "Göztepe'de Juan yine transferde gözde",
-          "summary": "Süper Lig'de art arda 3 galibiyetle çıkışa geçen Göztepe'yi golleriyle sırtlayan Brezilyalı golcü Juan, transferde yine gözde oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/goztepede-juan-yine-transferde-gozde-43359730"
+          "title": "Cumhuriyet için koşacaklar",
+          "summary": "Türk atçılığının iki köklü organizasyonu Cumhurbaşkanlığı Kupası ve Cumhuriyet Koşusu, 29 Ekim Cumhuriyet Bayramı haftasında Ankara’da düzenlenecek. İngiliz ve Arap safkanların sezon finali niteliğindeki mücadeleleri, 31 Ekim Cumartesi günü 75. Yıl Hipodromu’nda koşulacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cumhuriyet-icin-kosacaklar-43360311"
         },
         {
-          "title": "Galatasaray'dan ayrıldıktan sonra adeta yeniden doğdu! Performansıyla Avusturya'yı sallıyor!",
-          "summary": "Galatasaray'a büyük ümitlerle gelen ancak beklentileri karşılayamayan Yusuf Demir, geçtiğimiz sezonun ortasında transfer olduğu eski takımı Rapid Wien'de adeta yeniden doğdu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-ayrildiktan-sonra-adeta-yeniden-dogdu-performansiyla-avusturyayi-salliyor-43359636"
+          "title": "Ferdi Kadıoğlu'ndan Brighton'a iyi haber",
+          "summary": "Brighton Teknik Direktörü Fabian Hürzeler, Ferdi Kadıoğlu'nun son durumunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ferdi-kadioglundan-brightona-iyi-haber-43360209"
         }
       ]
     },
