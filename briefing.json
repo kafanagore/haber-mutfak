@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-10-31T16:00:03.549Z",
+  "generatedAt": "2026-11-01T04:00:03.588Z",
   "categories": {
     "gundem": {
-      "text": "Bursa'da 350 kilo kaçak midye ele geçirildi. Bir süredir haber alınamıyordu! 80 yaşındaki adamın cansız bedeni Boğaz'da bulundu. Prof. Dr. Aziz Sancar'dan 'KIZILELMA' anısı. İş insanı Nevzat Aydın’a tehdit soruşturmasında 4 şüpheli daha gözaltına alındı. Sosyal medyada yeni dönem. Yarın başlıyor, yapmayanın hesabı kapatılacak. Yeni dönem. BES birikimleri bedelli askerlik ve hac için de kullanılabilecek. Aziz Sancar Bilim Ödülü Özlem Türeci ve Uğur Şahin'e verildi.",
+      "text": "Sosyal medyada yeni dönem. Sarıgül Ailesi’nin ‘kara kutusu’ konuştu: ‘Altın ve elmasları jetle kaçırdılar’. İstanbul’da maraton nedeniyle bazı yollar trafiğe kapatıldı. Bolu'da Cadılar Bayramı partisinde kavga: 4 gözaltı. Türk Dünyası Diyalog Forumu tamamlandı. Sermaye Piyasası Kurulu Başkanlığına Muhsin Atcı atandı. Dışişleri Bakanı Hakan Fidan'dan G20 Dışişleri Bakanları Toplantısı’na ilişkin paylaşım.",
       "items": [
         {
-          "title": "Bursa'da 350 kilo kaçak midye ele geçirildi",
-          "summary": "Bursa'nın Gemlik ilçesine bağlı Gemsaz sahilinde gerçekleştirilen ortak denetimde kaçak midye avcılığı yapan kişilere 182 bin 6 TL idari para cezası uygulandı. Avda kullanılan tekneye ve 350 kilogram midyeye ise el konuldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursada-350-kilo-kacak-midye-ele-gecirildi-43361868"
+          "title": "Sosyal medyada yeni dönem",
+          "summary": "Çocukların sosyal medya kullanımını sınırlandıran ve yetişkinlere e-Devlet üzerinden yaş doğrulama zorunluluğu getiren düzenleme bugün itibarıyla yürürlüğe girdi. Süreç ilk etapta açılacak yeni hesapları kapsarken, mevcut hesaplar için 31 Mart 2027’ye kadar yaklaşık 5 aylık bir geçiş dönemi uygulanacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/sosyal-medyada-yeni-donem-43362059"
         },
         {
-          "title": "Bir süredir haber alınamıyordu! 80 yaşındaki adamın cansız bedeni Boğaz'da bulundu",
-          "summary": "Kağıthane’de evinden ayrıldıktan sonra kendisinden haber alınamayan ve ailesinin kayıp başvurusunda bulunduğu Mustafa Doyan’ın (80) cansız bedeni İstanbul Boğazı’nda bulundu. Doyan’ın cenazesi otopsi işlemleri için Adli Tıp Kurumu morguna götürüldü.",
-          "source": "https://www.hurriyet.com.tr/gundem/bir-suredir-haber-alinamiyordu-80-yasindaki-adamin-cansiz-bedeni-bogazda-bulundu-43361859"
+          "title": "Sarıgül Ailesi’nin ‘kara kutusu’ konuştu: ‘Altın ve elmasları jetle kaçırdılar’",
+          "summary": "Sarıgüllerin para aklama soruşturmasında çarpıcı ifadeler ortaya çıktı. Hürriyet, ailenin ‘kara kutusu’ olarak anılan Cihan Tunç’un 4 sayfalık ifadesine ulaştı. Tunç, ek ifadesinde Sarıgüllerin Kapalıçarşı’dan alınan altın ve pırlantaları özel jetle yurtdışına çıkardıklarını iddia etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-altin-ve-elmaslari-jetle-kacirdilar-43362077"
         },
         {
-          "title": "Prof. Dr. Aziz Sancar'dan 'KIZILELMA' anısı",
-          "summary": "Nobel Kimya Ödülü sahibi Prof. Dr. Aziz Sancar, Baykar Yönetim Kurulu Başkanı ve Teknoloji Lideri Selçuk Bayraktar'ın hediye ettiği Baykar ceketiyle ilgili bir anısını paylaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/prof-dr-aziz-sancardan-kizilelma-anisi-43361838"
+          "title": "İstanbul’da maraton nedeniyle bazı yollar trafiğe kapatıldı",
+          "summary": "İstanbul Maratonu nedeniyle 15 Temmuz Şehitler Köprüsü ve bağlantı yolları ile Avrasya Tüneli, Galata Köprüsü ve parkur üzerindeki çok sayıda cadde ve sokak araç trafiğine kapatıldı. Sürücüler alternatif güzergahlara yönlendirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-maraton-nedeniyle-bazi-yollar-trafige-kapatildi-43362098"
         },
         {
-          "title": "İş insanı Nevzat Aydın’a tehdit soruşturmasında 4 şüpheli daha gözaltına alındı",
-          "summary": "İş insanı Nevzat Aydın’dan haraç istemekle suçlanan ve ‘Çirkinler’ adlı çeteyle bağlantılı oldukları öne sürülen 4 şüphelinin dijitallerinden çıkan deliller doğrultusunda 4 şüphelinin daha gözaltına alındığı öğrenildi. Tehdit soruşturmasında gözaltı sayısı 8’e yükselmiş oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/is-insani-nevzat-aydina-tehdit-sorusturmasinda-4-supheli-daha-gozaltina-alindi-43361807"
+          "title": "Bolu'da Cadılar Bayramı partisinde kavga: 4 gözaltı",
+          "summary": "Bolu’da 14 Burda AVM içerisinde bulunan alkollü bir mekanda düzenlenen Cadılar Bayramı partisinde iki grup arasında çıkan kavgada 4 kişi gözaltına alındı. Kavgayı ayırmaya çalışan bir AVM güvenliği darp edilirken, alkolden etkilenen bir kişi hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/boluda-cadilar-bayrami-partisinde-kavga-4-gozalti-43362093"
         },
         {
-          "title": "Sosyal medyada yeni dönem. Yarın başlıyor, yapmayanın hesabı kapatılacak",
-          "summary": "Türkiye'de 15 yaşından küçük çocuklara sosyal medya yasağı yarın başlıyor. 15-18 yaş arasındaki kullanıcılar ise yaş doğrulama yaptıktan sonra kısıtlı hizmet alabilecek. Sosyal medya kullanımına yönelik yeni düzenleme, 10 Ekim tarihli Resmi Gazete'de yayımlandı. Yönetmelikle sosyal medya platformlarına yaş doğrulama ve çocukların korunmasına yönelik yeni yükümlülükler getirildi. Yönetmeliğe göre, sosyal medya platformları artık 15 yaşını doldurmamış çocuklara hizmet sunamayacak.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-sosyal-medyada-yeni-donem-yarin-basliyor-yapmayanin-hesabi-kapatilacak-1748737"
+          "title": "Türk Dünyası Diyalog Forumu tamamlandı",
+          "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca Türk Devletleri Teşkilatı (TDT) 13. Zirvesi marjında, ‘Türk Dünyası Diyalog Forumu’ başlıklı düzenlenen uluslararası forum tamamlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/turk-dunyasi-diyalog-forumu-tamamlandi-43362092"
         },
         {
-          "title": "Yeni dönem. BES birikimleri bedelli askerlik ve hac için de kullanılabilecek",
-          "summary": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı'na göre, Bireysel Emeklilik Sistemi'nde kısmi ödeme kapsamı genişletilecek. Bedelli askerlik ve hac da uygulamaya dahil edilecek. Bireysel Emeklilik Sistemi'nde (BES), katılımcıların birikimlerinin bir bölümünü sistemden ayrılmadan kullanmasına olanak sağlayan kısmi ödeme uygulamasının kapsamı genişletilecek. Yeni düzenlemeyle bedelli askerlik ve hac harcamaları da uygulamaya dahil edilecek.",
-          "source": "https://www.ntv.com.tr/turkiye/yeni-donem-bes-birikimleri-bedelli-askerlik-ve-hac-icin-de-kullanilabilecek-1748807"
+          "title": "Sermaye Piyasası Kurulu Başkanlığına Muhsin Atcı atandı",
+          "summary": "Sermaye Piyasası Kurulu Başkanlığına Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı. Atama kararları Resmi Gazete'de yayımlandı. Sermaye Piyasası Kurulu (SPK) Başkanlığına, Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı. Başkan Vekilliğine ise Ersin Başar Ekmekci getirildi. Öte yandan Sermaye Piyasası Kurulu üyeliğine ise Yasemin Girici getirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/sermaye-piyasasi-kurulu-baskanligina-muhsin-atci-atandi-1748831"
         },
         {
-          "title": "Aziz Sancar Bilim Ödülü Özlem Türeci ve Uğur Şahin'e verildi",
-          "summary": "Aziz Sancar Bilim Ödülü, küresel sağlığa sundukları katkılar nedeniyle BioNTech kurucu ortakları Özlem Türeci ve Uğur Şahin'e verildi. TÜSEB Aziz Sancar Bilim, Hizmet ve Teşvik Ödülü, BioNTech kurucu ortakları Özlem Türeci ve Uğur Şahin'e verildi. Cumhurbaşkanı Recep Tayyip Erdoğan'ın da katıldığı ödül töreni, İstanbul'da gerçekleşti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-aziz-sancar-bilim-odulu-ozlem-tureci-ve-ugur-sahine-verildi-1748789"
+          "title": "Dışişleri Bakanı Hakan Fidan'dan G20 Dışişleri Bakanları Toplantısı’na ilişkin paylaşım",
+          "summary": "Dışişleri Bakanı Hakan Fidan, “30-31 Ekim 2026 tarihlerinde Atlanta’da düzenlenen G20 Dışişleri Bakanları Toplantısı’na katıldık. Görüştüğümüz mevkidaşlarımızla ikili ilişkilerimizi ve ortak gündemimizi ele aldık” açıklamasında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidandan-g20-disisleri-bakanlari-toplantisina-iliskin-paylasim-43362012"
         }
       ]
     },
     "dunya": {
-      "text": "İran Dışişleri Bakanı Arakçi: ABD'nin uzlaşıya yönelik çabaları olumlu bir adım. Fransa'da protestoların üçüncü dalgası başladı: Yoğun polis eşliğinde yürüyüş. Mısır'da trafik kazası: 10 ölü, 24 yaralı. Kral Charles Karayipler turunda. 56 ülkeli zirve öncesi kölelik krizi. Bangladeş'te dang humması can alıyor. Ölümler aralık ayından önce durmayacak. ABD'den Körfez ülkelerine 4 Kasım tarihli İran uyarısı. 14'üncü Leo, Amerikan seçimlerinde oy kullanan ilk papa oldu.",
+      "text": "ABD’de tüm gözler sandığa kilitlendi. ABD’den Türkiye’nin Karadeniz teklifine yeşil ışık. Seçimleri kaybeden Vucic ve Orban'dan ortak meydan okuma: Geri döneceğiz. Cadılar Bayramı partisine katıldı. \"Donald Trump olarak geldim\". Kölelik krizi. Kral topu hükümete attı. Fransa'da protestoların üçüncü dalgası: Eylemlere polis müdahalesi. Dışişleri Bakanı Hakan Fidan: Artık bu savaş taşınamaz.",
       "items": [
         {
-          "title": "İran Dışişleri Bakanı Arakçi: ABD'nin uzlaşıya yönelik çabaları olumlu bir adım",
-          "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD'nin daha geniş kapsamlı diyalog ve uzlaşıya yönelik çabalarını \"olumlu bir adım\" olarak değerlendirerek, \"Savaş çıkması ihtimalini dışlamıyoruz ve her türlü senaryoya karşı hazırlıklıyız\" dedi. Arakçi, İran'ın Hürmüz Boğazı'nın yeniden açılmasına yönelik teklifinin uygulama süresinin 2 güne indirildiğini de açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-disisleri-bakani-arakci-abdnin-uzlasiya-yonelik-cabalari-olumlu-bir-adim-43361869"
+          "title": "ABD’de tüm gözler sandığa kilitlendi",
+          "summary": "3 Kasım’daki ABD ara seçimleri, Trump’ın Kongre üzerindeki kontrolünü sürdürüp sürdüremeyeceğini belirleyecek. Ulusal anketlerde 8.2 puan önde bulunan Demokratların Temsilciler Meclisi’ni kazanma ihtimali güçlenirken Senato yarışı belirsizliğini koruyor. Demokratlar çoğunluğu ele geçirdikleri takdirde Trump’ın siyasi karar alma süreçlerini baskı altına alabilir.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-tum-gozler-sandiga-kilitlendi-43362051"
         },
         {
-          "title": "Fransa'da protestoların üçüncü dalgası başladı: Yoğun polis eşliğinde yürüyüş",
-          "summary": "Fransa'nın başkenti Paris'te hayat pahalılığı ve eğitim politikalarına karşı düzenlenen yürüyüş yoğun polis varlığıyla başladı. Fransa'da hayat pahalılığına ve eğitim politikalarına karşı düzenlenen protestoların üçüncü dalgası başladı. 17 Ekim'de yaşanan şiddet olaylarının tekrarının önlenmesi amacıyla ülke genelinde geçtiğimiz cumartesi günü olduğu gibi bugün de 70 bin polis ve jandarma görevlendirildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-protestolarin-ucuncu-dalgasi-basladi-yogun-polis-esliginde-yuruyus-1748809"
+          "title": "ABD’den Türkiye’nin Karadeniz teklifine yeşil ışık",
+          "summary": "ABD Dışişleri Bakanı Marco Rubio, uluslararası toplumun Karadeniz’de tahıl sevkiyatının emniyet altına alınması ve bölgesel seyrüsefer güvenliğinin sağlanmasına yönelik ilgisinin hızla arttığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdden-turkiyenin-karadeniz-teklifine-yesil-isik-43362065"
         },
         {
-          "title": "Mısır'da trafik kazası: 10 ölü, 24 yaralı",
-          "summary": "Mısır'ın başkenti Kahire'nin batısında minibüs ile tırın çarpışması sonucu ilk belirlemelere göre 10 kişi hayatını kaybetti, 24 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/misirda-trafik-kazasi-10-olu-24-yarali-43361779"
+          "title": "Seçimleri kaybeden Vucic ve Orban'dan ortak meydan okuma: Geri döneceğiz",
+          "summary": "Sırbistan ve Macaristan’da her ikisi de on yılı aşan iktidarlarını bu yıl yapılan genel seçimlerde kaybeden Sırp lider Aleksandar Vucic ile Macar lider Viktor Orban, ortak görüntü paylaşarak \"Geri döneceğiz\" mesajı verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/secimleri-kaybeden-vucic-ve-orbandan-ortak-meydan-okuma-geri-donecegiz-43362099"
         },
         {
-          "title": "Kral Charles Karayipler turunda. 56 ülkeli zirve öncesi kölelik krizi",
-          "summary": "İngiltere Başbakanı Andy Burnham, ülkesinin transatlantik köle ticaretindeki rolü nedeniyle resmi özür dilemeye açık olduğunu ancak mali tazminat ödemeyeceklerini açıkladı. İngiltere Başbakanı Andy Burnham, bugün yaptığı açıklamada, ülkesinin transatlantik köle ticaretindeki rolü nedeniyle resmi bir özür yayımlamasına \"açık\" olduğunu söylese de mali tazminat ödenmesi ihtimalini reddetti. Karayipler'de düzenlenecek İngiliz Milletler Topluluğu liderler zirvesine katılmadan günler önce ve Kral 3.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-kral-charles-karayipler-turunda-56-ulkeli-zirve-oncesi-kolelik-krizi-1748803"
+          "title": "Cadılar Bayramı partisine katıldı. \"Donald Trump olarak geldim\"",
+          "summary": "Mar-a-Lago malikanesindeki geleneksel kostümlü Cadılar Bayramı partisine katılan ABD Başkanı Donald Trump, kıyafetini gösterdi ve \"Bu gece Donald Trump olarak geldim.\" diyerek espri yaptı. 3 Kasım'da yapılacak Kongre ara seçimleri öncesi miting programına hız veren ABD Başkanı Donald Trump, Florida'daki malikanesi Mar-a-Lago'da düzenlenen kostümlü Cadılar Bayramı (Halloween) partisine katıldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-cadilar-bayrami-partisine-katildi-donald-trump-olarak-geldim-1748837"
         },
         {
-          "title": "Bangladeş'te dang humması can alıyor. Ölümler aralık ayından önce durmayacak",
-          "summary": "Bangladeş'te sivrisineklerin bulaştırdığı dang humması salgınında hayatını kaybedenlerin sayısı ekim sonu itibarıyla 418'e yükseldi. Bangladeş Sağlık Bakanlığı, sivrisinekler yoluyla bulaşan dang humması salgınında bu yıl yaşamını yitirenlerin sayısının 30 Ekim itibarıyla 418'e yükseldiğini duyurdu. Bakanlık verilerine göre ülkede yılbaşından bu yana 133 binden fazla kişi dang humması şüphesi ve teşhisiyle hastanelerde tedavi altına alındı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-bangladeste-dang-hummasi-can-aliyor-olumler-aralik-ayindan-once-durmayacak-1748804"
+          "title": "Kölelik krizi. Kral topu hükümete attı",
+          "summary": "Başbakan Andy Burnham'ın, İngiltere'nin transatlantik köle ticaretindeki rolü için resmen özür dilemeye açık olduğu çıkışına Buckingham Sarayı'ndan yanıt geldi: Bu sarayın değil hükümetin sorumluluğu. Kral 3. Charles'ın üç Karayip ülkesini kapsayan turu devam ederken, İngiltere'nin transatlantik köle ticaretindeki rolü nedeniyle resmi özür dilemesi tartışmaları yeniden alevlendi. İngiltere Başbakanı Andy Burnham'ın özür talebine açık olduğuna ilişkin yazısına kraliyetten yanıt geldi.",
+          "source": "https://www.ntv.com.tr/dunya/kolelik-krizi-kral-topu-hukumete-atti-1748836"
         },
         {
-          "title": "ABD'den Körfez ülkelerine 4 Kasım tarihli İran uyarısı",
-          "summary": "ABD yönetiminin Körfez ülkelerine 4 Kasım'da İran'a dönük kısa ve yoğun bir saldırı dalgası başlayabileceği uyarısında bulunduğu iddia edildi. ABD Başkanı Donald Trump yönetiminin, Körfez ülkelerini 4 Kasım gibi erken bir tarihte İran'a yönelik \"kısa ve yoğun bir saldırı dalgası\" ihtimaline karşı uyardığı ileri sürüldü. Amerikan televizyon kanalı MS Now'a konuşan Körfez ülkelerinden üç yetkili, Washington yönetiminin Körfez başkentlerini bilgilendirdiğini savundu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdden-korfez-ulkelerine-4-kasim-tarihli-iran-uyarisi-1748805"
+          "title": "Fransa'da protestoların üçüncü dalgası: Eylemlere polis müdahalesi",
+          "summary": "Fransa'da başkent Paris başta olmak üzere yine pek çok kentte protestocular yine sokakta. Fransa İçişleri Bakanlığı protestolara 320 bin kişinin katıldığını, 511 kişinin gözaltına alındığını açıkladı. Fransa'da hayat pahalılığına ve eğitim politikalarına karşı düzenlenen protestoların üçüncü dalgası başladı. 17 Ekim'de yaşanan şiddet olaylarının tekrarının önlenmesi amacıyla ülke genelinde geçtiğimiz cumartesi günü olduğu gibi bugün de 70 bin polis ve jandarma görevlendirildi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-protestolarin-ucuncu-dalgasi-basladi-eylemlere-polis-mudahalesi-1748809"
         },
         {
-          "title": "14'üncü Leo, Amerikan seçimlerinde oy kullanan ilk papa oldu",
-          "summary": "Vatikan Devlet Başkanı ve Katolik dünyasının ruhani lideri Chicago doğumlu Papa 14'üncü Leo, ABD ara seçimlerinde posta yoluyla oy kullandı. Tarihin ABD doğumlu ilk papası unvanını taşıyan 14'üncü Leo, bir ilke daha imza attı. Vatikan Basın Ofisi, Papa 14'üncü Leo'nun ABD ara seçimlerinde posta yoluyla oy kullandığını açıkladı. Bu, ABD doğumlu Papa için tarihi bir ilk oldu. Vatikan'dan yapılan açıklamada, \"Uzun süredir devam eden bu sivil katılım geleneğine uygun olarak, Chicago'da posta yoluyla oyunu kullandı.",
-          "source": "https://www.ntv.com.tr/dunya/14uncu-leo-amerikan-secimlerinde-oy-kullanan-ilk-papa-oldu-1748713"
+          "title": "Dışişleri Bakanı Hakan Fidan: Artık bu savaş taşınamaz",
+          "summary": "Dışişleri Bakanı Fidan, Atlanta'daki G20 Dışişleri Bakanları Toplantısı'nın ardından gündemi değerlendirdi. Rusya-Ukrayna Savaşına ilişkin Fidan, \"Yaklaşık 5 yıl olmuş bu savaş başlayalı. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-artik-bu-savas-tasinamaz-43362040"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Beşiktaş, Kasımpaşa maçı hazırlıklarını tamamladı. Galatasaray, Stuttgart maçı hazırlıklarına başladı. Ankara’da 46’ncı Cumhuriyet ve 88’inci Cumhurbaşkanlığı Koşusu heyecanı. Burak Yılmaz: 'Güzel bir süreç yakaladık!'. Türk oyun geliştiricileri Moskova’da işbirliği arıyor. Süper Lig ve Premier Lig’de taraf seçimleri ön planda! İşte Misli’de günün en çok oynanan maçları…. Arda Güler'den Real Madrid'e müjdeli haber!.",
+      "text": "Stoilov'dan Fenerbahçe yorumu: 'Yükselişe geçeceklerdir!'. Dirk Kuyt: 'Özür diliyoruz, elimizden geleni yaptık'. Mattéo Guendouzi: 'Çok zor bir durumdayız!'. Kerem Aktürkoğlu ile Fenerbahçe taraftarı arasında gerginlik! Kadıköy'de ıslık sesleri. Fenerbahçe'de 'yönetim istifa' sesleri: Taraftardan sert protesto. Safkanlardan muhteşem sezon finali!. Selçuk İnan: '1 puan kötünün iyisi!'.",
       "items": [
         {
-          "title": "Beşiktaş, Kasımpaşa maçı hazırlıklarını tamamladı",
-          "summary": "Beşiktaş, Süper Lig'in 10. haftasında Kasımpaşa ile yarın deplasmanda oynayacağı karşılaşmanın hazırlıklarını yaptığı antrenmanla tamamladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-kasimpasa-maci-hazirliklarini-tamamladi-43361834"
+          "title": "Stoilov'dan Fenerbahçe yorumu: 'Yükselişe geçeceklerdir!'",
+          "summary": "Göztepe Teknik Direktörü Stanimir Stoilov, Fenerbahçe karşılaşmasında çok değerli bir galibiyet aldıklarını ve mutlu olduklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/stoilovdan-fenerbahce-yorumu-yukselise-gececeklerdir-43361970"
         },
         {
-          "title": "Galatasaray, Stuttgart maçı hazırlıklarına başladı",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında salı günü evinde Alman ekibi Stuttgart ile oynayacağı maçın hazırlıklarına yaptığı antrenmanla başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-stuttgart-maci-hazirliklarina-basladi-43361831"
+          "title": "Dirk Kuyt: 'Özür diliyoruz, elimizden geleni yaptık'",
+          "summary": "Fenerbahçe Teknik Sorumlusu Dirk Kuyt, Göztepe'ye 2-1 mağlup oldukları maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dirk-kuyt-ozur-diliyoruz-elimizden-geleni-yaptik-43361965"
         },
         {
-          "title": "Ankara’da 46’ncı Cumhuriyet ve 88’inci Cumhurbaşkanlığı Koşusu heyecanı",
-          "summary": "At yarışlarında sezon, son Grup 1 mücadeleleri ile final yaptı. Cumhuriyet Haftası’nda 75’inci Yıl Ankara Hipodromu'nda koşulan 88’inci Cumhurbaşkanlığı Kupası’nı Etsuko isimli safkanla Ayhan Kurşun kazandı. 46’ncı Cumhuriyet Koşusu’nda finişi ilk gören ise Selim Kaya idaresindeki Özmen Bey oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ankarada-46nci-cumhuriyet-ve-88inci-cumhurbaskanligi-kosusu-heyecani-43361829"
+          "title": "Mattéo Guendouzi: 'Çok zor bir durumdayız!'",
+          "summary": "Fenerbahçe'de Kojo Oppong ve Matteo Guendouzi, Göztepe mağlubiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/matteo-guendouzi-cok-zor-bir-durumdayiz-43361962"
         },
         {
-          "title": "Burak Yılmaz: 'Güzel bir süreç yakaladık!'",
-          "summary": "Çorum FK Teknik Direktörü Burak Yılmaz, Erzurumspor FK galibiyetinin kendileri adına çok önemli olduğunu söyleyerek, \"Ayaklarımız yere basacak. Güzel bir süreç yakaladık\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-guzel-bir-surec-yakaladik-43361771"
+          "title": "Kerem Aktürkoğlu ile Fenerbahçe taraftarı arasında gerginlik! Kadıköy'de ıslık sesleri",
+          "summary": "Trendyol Süper Lig'in 10. haftasında evinde Göztepe'ye 2-1 mağlup olan Fenerbahçe'de taraftarlar milli futbolcu Kerem Aktürkoğlu'na tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kerem-akturkoglu-ile-fenerbahce-taraftari-arasinda-gerginlik-kadikoyde-islik-sesleri-43361952"
         },
         {
-          "title": "Türk oyun geliştiricileri Moskova’da işbirliği arıyor",
-          "summary": "Moskova'da, düzenlenen Uluslararası Oyun Haftası kapsamında dünyanın farklı ülkelerinden oyun sektörü temsilcileri bir araya geldi. Yaklaşık 20 ülkeden şirket ve sektör uzmanının katıldığı etkinlikte Türkiye'yi HOGO Games Kurucusu Ahmet Çetinli ile Blackburne Games Studio Kurucu Ortağı ve Oyun Direktörü Mustafa Yaya temsil etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turk-oyun-gelistiricileri-moskovada-isbirligi-ariyor-43361763"
+          "title": "Fenerbahçe'de 'yönetim istifa' sesleri: Taraftardan sert protesto",
+          "summary": "Trendyol Süper Lig'in 10. haftasında Göztepe'ye sahasında 2-1 mağlup olan Fenerbahçe'de taraftarlar, üst üste gelen gollerin ardından yönetime tepki gösterdi. Sarı-lacivertli tribünlerden 'Yönetim istifa' tezahüratları yükseldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-yonetim-istifa-sesleri-taraftardan-sert-protesto-43361946"
         },
         {
-          "title": "Süper Lig ve Premier Lig’de taraf seçimleri ön planda! İşte Misli’de günün en çok oynanan maçları…",
-          "summary": "Misli’de günün iddaa programı içerisinde en çok oynanan bahisleri ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik. Birçok ligin heyecanını Şampiyon Oranlar ile Misli’de yaşayabilirsiniz.",
-          "source": "https://www.hurriyet.com.tr/sporarena/super-lig-ve-premier-ligde-taraf-secimleri-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43361636"
+          "title": "Safkanlardan muhteşem sezon finali!",
+          "summary": "At yarışlarında sezon, son Grup 1 mücadeleleri ile muhteşem bir final yaptı. Cumhuriyet Haftası’nda 75. Yıl Ankara Hipodromu'nda koşulan yarışlar, cumhuriyete yakışan bir şekilde gerçekleşti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/safkanlardan-muhtesem-sezon-finali-43361915"
         },
         {
-          "title": "Arda Güler'den Real Madrid'e müjdeli haber!",
-          "summary": "Real Madrid'de yaşadığı sakatlık nedeniyle Racing Santander maçında forma giyip giymeyeceği merak konusu olan milli futbolcu Arda Güler'den sevindiren haber geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulerden-real-madride-mujdeli-haber-43361589"
+          "title": "Selçuk İnan: '1 puan kötünün iyisi!'",
+          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Çaykur Rizespor maçının ardından yaptığı açıklamada, \"Süper Lig bu sene çok daha kaliteli ve zorlu. Bu ligde her puan çok değerli. 1 puan da kötünün iyisi. Her şey istediğiniz gibi gitmediğinde 1 puan iyidir\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-1-puan-kotunun-iyisi-43361898"
         }
       ]
     },
     "teknoloji": {
-      "text": "Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü. Yeni EBA’da yapay zekâ dönemi. Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu. Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\". 600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı. Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı.",
+      "text": "Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\". Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü. Yeni EBA’da yapay zekâ dönemi. Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu. Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\". 600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı.",
       "items": [
+        {
+          "title": "Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\"",
+          "summary": "OpenAI CEO’su Sam Altman, bellek kaynaklarının kişisel bilgisayarlarda düşük kullanım oranıyla tutulmasını eleştirdi. Altman, arz sıkıntısının yaşandığı bir dönemde RAM'ler için bulutu işaret etti. Sam Altman, Youtube'da Cheeky Pint programında John Collison ile yaptığı söyleşide, yapay zekanın donanım ihtiyacı ve bellek tedarikindeki sıkışıklık hakkında konuştu.",
+          "source": "https://www.ntv.com.tr/teknoloji/sam-altman-kisisel-bilgisayarlardaki-ramlere-goz-dikti-kaynak-israfi-1748813"
+        },
         {
           "title": "Öğrencilerin sınav sonuçları velilerin cebine geliyor",
           "summary": "Millî Eğitim Bakanlığı ve Turkcell’in mesajlaşma uygulaması BiP’in geçtiğimiz yıl gerçekleştirdiği stratejik iş birliği kapsamında Okul Veli Asistanı (OVA) ile öğrencilerin sınav sonuçları, sınav tarihleri, devamsızlık bilgileri ve bakanlık duyuruları gibi detaylara ulaşılabildiği belirtildi",
@@ -195,11 +200,6 @@
           "title": "600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı",
           "summary": "Yapay zeka girişimi Anthropic, ABD borsalarındaki halka arz için resmi başvuru belgelerini yayımlayarak mali tablolarını kamuoyuyla paylaştı. Yapay zeka sektörünün öncülerinden Anthropic, ABD'deki halka arz başvuru belgelerini yayımlayarak borsaya açılma sürecini resmiyete döktü. Şirket, borçla beslenen devasa harcamalara yönelik endişelerin arttığı son dönemde, yatırımcıların milyarlarca dolarlık yapay zeka faturalarını üstlenmeye ne kadar istekli olduğunu doğrudan test edecek bir piyasa sınavına hazırlanıyor.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-600-milyar-dolarlik-taahhut-halka-arz-belgeleri-acildi-1748303"
-        },
-        {
-          "title": "Apple'dan M6 sürprizi: 24 saat pil ömrü, 5 kat yapay zeka performansı",
-          "summary": "Apple, yeni nesil M6 işlemcisinden güç alan 14 inç MacBook Pro ve iMac modellerini tanıttı. Şirket yeni bilgisayarların özellikle yapay zeka işlemlerinde önemli performans artışı sağladığını açıkladı. ABD'li teknoloji devi Apple, yeni nesil M6 işlemcisini kullanan 14 inç MacBook Pro ve iMac modellerini duyurdu. Şirket, yeni bilgisayarların özellikle yapay zeka uygulamalarını doğrudan cihaz üzerinde çalıştırma konusunda önceki nesillere kıyasla daha yüksek performans sunduğunu belirtti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-appledan-m6-surprizi-24-saat-pil-omru-5-kat-yapay-zeka-performansi-1748255"
         }
       ]
     },
