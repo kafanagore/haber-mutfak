@@ -1,75 +1,75 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-02T10:00:03.690Z",
+  "generatedAt": "2026-11-02T16:00:03.852Z",
   "categories": {
     "gundem": {
-      "text": "İşte il olmaya aday 19 ilçe! Bahçeli beklenen listeyi bölge bölge duyurdu. Aynı gerekçe ile ikinci kez eşine boşanma davası açtı. 15 Temmuz Şehitler Köprüsü girişinde kaza. Bursa metrosundaki unutkanlık mutlu bitti | Çantayı görünce sevinçten secdeye kapandı. \"İmamoğlu çıkar amaçlı suç örgütü\" davası | 102. duruşması başladı. Bodrum'da kuvvetli sağanak: 20 noktayı su bastı, otomobil denize sürüklendi. Çalınan gümüşlerini tezgahta gördü: Renk vermeden 45 bin liraya satın alıp polisi aradı.",
+      "text": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 102. duruşması sona erdi. \"Mumya ceset\" cinayetinde 19 yıl sonra itiraf. Buzdolabına sığmayınca parçalamışlar. ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı. Sarıgül soruşturmasında 4 kişi hakkında tutuklama talebi. 57 gün sonra gelen acı haberin ardından aileler seslendi: Tüm imkanlar birleştirilsin. TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı. Bakü'ye gökyüzünden anlamlı mesaj. Erdoğan, Azerbaycan hava sahasında Zafer Günü'nü kutladı.",
       "items": [
         {
-          "title": "İşte il olmaya aday 19 ilçe! Bahçeli beklenen listeyi bölge bölge duyurdu",
-          "summary": "MHP lideri Devlet Bahçeli, Türkiye'nin idari yapısında reform öngören \"100 İl 1000 İlçe\" vizyonunda il potansiyeli taşıyan 19 ilçeyi açıkladı. 78 yeni ilçenin de kurulmasını hedeflediklerini belirten Bahçeli, nihai kararın TBMM iradesinde olduğunu vurgulayarak yerel yönetim mevzuatının yeniden düzenlenmesi gerektiğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/gundem/iste-il-olmaya-aday-19-ilce-bahceli-beklenen-listeyi-bolge-bolge-duyurdu-43363251"
+          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 102. duruşması sona erdi",
+          "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 102. duruşmasında bir kısım tanıklar dinlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-102-durusmasi-sona-erdi-43363658"
         },
         {
-          "title": "Aynı gerekçe ile ikinci kez eşine boşanma davası açtı",
-          "summary": "2006 yılında evlenen ve eşinin kendisini aldattığı iddiasıyla 2017'de boşanan Şeyma U., eski eşiyle 2021 yılında yeniden nikah masasına oturdu. Ancak 2,5 yıl sonra aynı gerekçeyle yeniden boşanma davası açan kadın, ikinci kez mahkemenin yolunu tuttu. İlk boşanmada 125 bin lira tazminata hükmedilen çiftin ikinci boşanma kararı da kesinleşti.",
-          "source": "https://www.hurriyet.com.tr/gundem/avukati-da-saskin-ayni-gerekce-ile-ikinci-kez-esine-bosanma-davasi-acti-43363250"
+          "title": "\"Mumya ceset\" cinayetinde 19 yıl sonra itiraf. Buzdolabına sığmayınca parçalamışlar",
+          "summary": "Mersin'de 2007 yılında kamuoyunda \"Mumya ceset\" olarak bilinen cinayetle ilgili 19 yıl sonra yeni ayrıntılar ortaya çıktı. Mersin'de 2007 yılında bir evin avlusunda üzeri betonla kapatılmış buzdolabında cansız bedeni bulunan ve kamuoyunda 'Mumya ceset’ olarak bilinen Bahaddin Sefer (49) cinayetinin ayrıntıları ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-mumya-ceset-cinayetinde-19-yil-sonra-itiraf-buzdolabina-sigmayinca-parcalamislar-1749078"
         },
         {
-          "title": "15 Temmuz Şehitler Köprüsü girişinde kaza",
-          "summary": "İstanbul'da 15 Temmuz Şehitler Köprüsü'nde beş aracın karıştığı zincirleme trafik kazası nedeniyle trafik yoğunluğu yaşandı. 15 Temmuz Şehitler Köprüsü girişinde, Avrupa Yakası'ndan Anadolu Yakası'na geçiş güzergahında üç otomobil ile iki cip henüz bilinmeyen bir nedenle çarpıştı. İhbar üzerine olay yerine polis, itfaiye ve sağlık ekipleri sevk edildi. Hasarlı kaza nedeniyle 15 Temmuz Şehitler Köprüsü'nün Ankara istikameti ile bağlantı yollarında trafik yoğunluğu meydana geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusu-girisinde-kaza-1749020"
+          "title": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/abd-iran-anlasmasina-yonelik-adimlar-piyasalari-olumlu-etkiledi-borsa-gunu-yukselisle-tamamladi-43363655"
         },
         {
-          "title": "Bursa metrosundaki unutkanlık mutlu bitti | Çantayı görünce sevinçten secdeye kapandı",
-          "summary": "Bursa'da metro vagonunda çantasını unutan Endonezyalı öğrencinin yardımına temizlik görevlisi yetişti. İçinde pasaportu ve dövizi bulunan çantayı teslim alan genç kızın gözyaşları içinde secde ettiği anlar güvenlik kamerasına saniye saniye yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bursa-metrosundaki-unutkanlik-mutlu-bitti-cantayi-gorunce-sevincten-secdeye-kapandi-43363235"
+          "title": "Sarıgül soruşturmasında 4 kişi hakkında tutuklama talebi",
+          "summary": "Mustafa Sarıgül ile ilgili kara para aklama iddialarıyla yürütülen soruşturmada gözaltına alınan 10 kişiden 4'ü hakkında tutuklama talep edildi. İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarıyla Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün eski eşi Aylin Kotil, oğulları Ömer ve Emir Sarıgül ile gazeteci Murat Ağırel'in tutuklandığı soruşturma sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-4-kisi-hakkinda-tutuklama-talebi-1749074"
         },
         {
-          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davası | 102. duruşması başladı",
-          "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 102. duruşması başladı. Duruşma müştekilerin ifadelerinin alınmasıyla devam ediyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasi-102-durusmasi-basladi-43363212"
+          "title": "57 gün sonra gelen acı haberin ardından aileler seslendi: Tüm imkanlar birleştirilsin",
+          "summary": "Silivri açıklarında batan gemide 720 metre derinlikte bulunan ikinci kaptanın cenazesinin çıkarılmasının ardından kayıp denizcilerin yakınları arama çalışmalarının genişletilmesini istedi. Aileler adına konuşan Nusret Mirzaoğlu, derin su operasyonlarında deneyimli gemilerin birlikte çalışması çağrısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/57-gun-sonra-gelen-aci-haberin-ardindan-aileler-seslendi-tum-imkanlar-birlestirilsin-43363626"
         },
         {
-          "title": "Bodrum'da kuvvetli sağanak: 20 noktayı su bastı, otomobil denize sürüklendi",
-          "summary": "Muğla'nın Bodrum ilçesinde metrekareye 46 kilogram yağışın düştüğü kuvvetli sağanak nedeniyle 9 mahallede 17 ev ve 3 iş yerini su bastı, Mazı Mahallesi'nde taşan dereye kapılan bir otomobil denize sürüklendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bodrumda-kuvvetli-saganak-20-noktayi-su-basti-otomobil-denize-suruklendi-43363175"
+          "title": "TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı",
+          "summary": "TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı. Alınan bilgiye göre, TBMM Başkanı Numan Kurtulmuş tarafından, TBMM Genel Sekreterliği görevine Şamlıoğlu getirildi. 1978'de Rize'de doğan Şamlıoğlu, Milli Eğitim Bakanlığı Özel Öğretim Kurumları Genel Müdürlüğü, Ankara Hacı Bayram Veli Üniversitesi Genel Sekreterliği, Cumhurbaşkanlığı Eğitim ve Öğretim Politikaları Kurulu Üyeliği ve Milli Eğitim Bakan Yardımcılığı görevlerinde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/tbmm-genel-sekreterligine-kemal-samlioglu-atandi-1749070"
         },
         {
-          "title": "Çalınan gümüşlerini tezgahta gördü: Renk vermeden 45 bin liraya satın alıp polisi aradı",
-          "summary": "Adana'da 115 kilo gümüşü çalınan esnaf, bir kuyumcunun davetiyle gittiği dükkanda satılmak istenen ürünlerin kendisine ait olduğunu fark etti. Şüpheliyi tedirgin etmemek için 45 bin lira ödeyip kendi gümüşünü geri alan toptancının ihbarıyla yakalanan şahıs tutuklanarak cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/calinan-gumuslerini-tezgahta-gordu-renk-vermeden-45-bin-liraya-satin-alip-polisi-aradi-43363163"
+          "title": "Bakü'ye gökyüzünden anlamlı mesaj. Erdoğan, Azerbaycan hava sahasında Zafer Günü'nü kutladı",
+          "summary": "Güney Kore'ye giden Cumhurbaşkanı Recep Tayyip Erdoğan’ın uçağı Azerbaycan hava sahasından da geçti. Uçağın pilotu, Azerbaycan Cumhurbaşkanı İlham Aliyev'e Erdoğan'ın tebrik mesajını iletti. Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın 8 Kasım Zafer Günü'nü gökyüzünde kutladı. Güney Kore ziyareti için dün İstanbul'dan havalanan Erdoğan'ın uçağı Azerbaycan hava sahasından geçerken pilot, Cumhurbaşkanı Erdoğan'ın bir mesajını okudu.",
+          "source": "https://www.ntv.com.tr/turkiye/bakuye-gokyuzunden-anlamli-mesaj-erdogan-azerbaycan-hava-sahasinda-zafer-gununu-kutladi-1749066"
         }
       ]
     },
     "dunya": {
-      "text": "4 Kasım endişesi: Hedef liste genişliyor! En kritik ayrıntı ortaya çıktı | 'Asıl mesele sanıldığı gibi değil'. Fransa'da tatil bitti, liseliler barikatlarla sokağa döndü. Kafalarındaki kamerayla işlerini yapay zekaya öğretiyorlar. Akdeniz açıklarında 3.8 büyüklüğünde deprem. Netanyahu'nun yeni hükümeti kurmak için Eisenkot ile anlaşmaya çalıştığı iddiası. ABD'de ara seçimler için nefesler tutuldu. Başkan Trump için kritik viraj. İspanya'da tren kazası Sanchez'i vurdu: Madrid hükümetinin oyları eridi.",
+      "text": "İran Cumhurbaşkanı Pezeşkiyan’dan ABD'ye diyalog mesajı: Hamaney hükümete bazı yetkiler verdi. 2,4 milyon euroluk otomobili çaldı, araç sahibi CEO onu eve bırakmak istedi. Netanyahu için sonun başlangıcı: İsrail'de siyasi partilerin tercihleri şekilleniyor! 'Birleşik Arap Listesi kararını verdi'. Türkiye uzay alanında nasıl küresel bir oyuncu olmayı planlıyor? Türkiye'nin ilk Ay görevi dünya basınında. İsrail'de muhalif lider Liberman, Eisenkot'u destekleyeceğini açıkladı. ABD'de ara seçimler için nefesler tutuldu. Başkan Trump için kritik viraj. Yakıt faturası kabardı. Ryanair bilet fiyatlarına çift haneli zam yapacak.",
       "items": [
         {
-          "title": "4 Kasım endişesi: Hedef liste genişliyor! En kritik ayrıntı ortaya çıktı | 'Asıl mesele sanıldığı gibi değil'",
-          "summary": "Orta Doğu’da yeni bir dönemin kapısı mı aralanıyor? Kritik tarihe ilişkin iddialar gündemdeki yerini korurken gelen tehdit mesajları da dikkat çekti. Öne çıkan iki ayrıntı, gelişmelerin boyutuna ilişkin soru işaretlerini artırdı. İşte merak edilen tüm detaylar...",
-          "source": "https://www.hurriyet.com.tr/dunya/4-kasim-endisesi-hedef-liste-genisliyor-en-kritik-ayrinti-ortaya-cikti-asil-mesele-sanildigi-gibi-degil-43363225"
+          "title": "İran Cumhurbaşkanı Pezeşkiyan’dan ABD'ye diyalog mesajı: Hamaney hükümete bazı yetkiler verdi",
+          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD'yle yaşanan savaş riskinin diyalog yoluyla ortadan kaldırılması için ülke lideri Mücteba Hamaney'in hükümete bazı yetkiler verdiğini belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-cumhurbaskani-pezeskiyandan-abdye-diyalog-mesaji-hamaney-hukumete-bazi-yetkiler-verdi-43363663"
         },
         {
-          "title": "Fransa'da tatil bitti, liseliler barikatlarla sokağa döndü",
-          "summary": "Fransa'da iki haftalık tatil dönüşü sokağa çıkan liseliler, hükümetin 4 milyar euroluk tadilat bütçesi ve yeni kontenjan teklifini yetersiz bularak bazı okulları barikatlarla kapattı. Fransa'da iki haftalık sonbahar tatilinin sona ermesiyle liseliler, hükümetin tatil sürecinde açıkladığı taviz paketine rağmen bu sabah bazı okulların girişlerini kapatarak eylemlerine yeniden başladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-tatil-bitti-liseliler-barikatlarla-sokaga-dondu-1749023"
+          "title": "2,4 milyon euroluk otomobili çaldı, araç sahibi CEO onu eve bırakmak istedi",
+          "summary": "Bugatti CEO'su Mate Rimac'ın anahtarlarını üzerinde bıraktığı 2,4 milyon euroluk otomobili çalındı. Aracını Hırvatistan'dan Avusturya'ya kadar takip eden Rimac, yakalanan hırsızdan şikayetçi olmadı. Bugatti ve Rimac'ın CEO'su Mate Rimac, Hırvatistan'daki şirket merkezinde anahtarlarını üzerinde bıraktığı milyonlarca euro değerindeki Bugatti Chiron model aracının çalınmasıyla akıllara durgunluk veren bir olay yaşadı.",
+          "source": "https://www.ntv.com.tr/dunya/24-milyon-euroluk-otomobili-caldi-arac-sahibi-ceo-onu-eve-birakmak-istedi-1749076"
         },
         {
-          "title": "Kafalarındaki kamerayla işlerini yapay zekaya öğretiyorlar",
-          "summary": "Hindistan’da işçiler, kendi hareketlerini kaydederek gelecekte yerlerini alması hedeflenen insansı robotların eğitilmesine veri sağlıyor.",
-          "source": "https://www.ntv.com.tr/dunya/video-kafalarindaki-kamerayla-islerini-yapay-zekaya-ogretiyorlar-1749021"
+          "title": "Netanyahu için sonun başlangıcı: İsrail'de siyasi partilerin tercihleri şekilleniyor! 'Birleşik Arap Listesi kararını verdi'",
+          "summary": "İsrail'de meclise girmeyi başaran Arap partilerinin, muhalefet adayı Gadi Eisenkot'a destek vermeyi planladığı öne sürüldü. Eisenkot, Birleşik Arap Listesi'nin desteğini alması durumunda 67 milletvekili ile mecliste çoğunluğu elde edecek.",
+          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-netanyahu-icin-sonun-baslangici-israilde-siyasi-partilerin-tercihleri-sekilleniyor-birlesik-arap-listesi-kararini-verdi-43363624"
         },
         {
-          "title": "Akdeniz açıklarında 3.8 büyüklüğünde deprem",
-          "summary": "Akdeniz'de Yunanistan'ın Girit Adası açıklarında 3.8 büyüklüğünde deprem meydana geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/akdeniz-aciklarinda-3-8-buyuklugunde-deprem-43363229"
+          "title": "Türkiye uzay alanında nasıl küresel bir oyuncu olmayı planlıyor? Türkiye'nin ilk Ay görevi dünya basınında",
+          "summary": "Middle East Eye (MEE), Türkiye'nin 2027'de Ay'a yapmayı planladığı görevi ve uzay alanındaki hedeflerini mercek altına aldı. Haberde, Ankara'nın teknolojik bağımsızlık hedefiyle yürüttüğü çalışmalara ve Somali'de kurmayı planladığı uzay limanına dikkat çekildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiye-uzay-alaninda-nasil-kuresel-bir-oyuncu-olmayi-planliyor-turkiyenin-ilk-ay-gorevi-dunya-basininda-43363580"
         },
         {
-          "title": "Netanyahu'nun yeni hükümeti kurmak için Eisenkot ile anlaşmaya çalıştığı iddiası",
-          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun 27 Ekim seçimlerinin ardından muhalefet lideri Gadi Eisenkot ile hükümet kurabilmek için bir uzlaşı yolu bulmaya çalıştığı iddia edildi. Netanyahu'nun, \"Meclis Başkanı'nın değiştirilmemesi şartıyla Eisenkot bloğu ile birlik hükümeti kurmak amacıyla görüşme başlatabileceği\" öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-yeni-hukumeti-kurmak-icin-eisenkot-ile-anlasmaya-calistigi-iddiasi-43363219"
+          "title": "İsrail'de muhalif lider Liberman, Eisenkot'u destekleyeceğini açıkladı",
+          "summary": "İsrail'de sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim seçimlerinin ardından muhalif lider Avigdor Liberman, Yashar Partisi lideri Gadi Eisenkot'u başbakanlık için destekleyeceğini açıkladı. Seçimlere ve siyasi pozisyonuna ilişkin basın açıklaması yapan muhalefetteki Evimiz İsrail Partisi lideri Avigdor Liberman, İsrail basınında muhalefet liderleriyle anlaşmazlık yaşadığına ilişkin spekülatif haberlere karşı, hiçbir koşulda İsrail Başbakanı Binyamin Netanyahu ile aynı hükümette görev almayacağını vurguladı.",
+          "source": "https://www.ntv.com.tr/dunya/israilde-muhalif-lider-liberman-eisenkotu-destekleyecegini-acikladi-1749069"
         },
         {
           "title": "ABD'de ara seçimler için nefesler tutuldu. Başkan Trump için kritik viraj",
@@ -77,9 +77,9 @@
           "source": "https://www.ntv.com.tr/dunya/galeri-abdde-ara-secimler-icin-nefesler-tutuldu-baskan-trump-icin-kritik-viraj-1749017"
         },
         {
-          "title": "İspanya'da tren kazası Sanchez'i vurdu: Madrid hükümetinin oyları eridi",
-          "summary": "İspanya'da 28 Ekim'de iki hızlı yolcu treninin çarpıştığı kaza, iktidardaki sosyalistleri olumsuz etkiledi. İspanya Başbakanı Pedro Sanchez'in hükümeti, 69 kişinin yaşamını yitirdiği kazanın ardından anketlerde oy kaybı yaşadı.",
-          "source": "https://www.hurriyet.com.tr/dunya/ispanyada-tren-kazasi-sanchezi-vurdu-madrid-hukumetinin-oylari-eridi-43363168"
+          "title": "Yakıt faturası kabardı. Ryanair bilet fiyatlarına çift haneli zam yapacak",
+          "summary": "İrlandalı hava yolu şirketi Ryanair, İran savaşının uçak yakıtı fiyatlarını artırması nedeniyle gelecek yıl bilet fiyatlarına zam yapacağını ve maaşları dondurabileceğini açıkladı. Merkezi İrlanda'da olan düşük maliyetli hava yolu şirketi Ryanair, İran savaşı nedeniyle tırmanan uçak yakıtı maliyetlerini gerekçe göstererek bilet fiyatlarına zam yapacağını ve kapsamlı bir tasarruf paketi uygulayacağını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-yakit-faturasi-kabardi-ryanair-bilet-fiyatlarina-cift-haneli-zam-yapacak-1749064"
         }
       ]
     },
@@ -124,8 +124,28 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe - Liverpool maçının hakemi açıklandı!. Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nda görkemli kapanış. Arda Güler’in asisti Guti’yi kendinden geçirdi: 'Dahice! Daha topu ayağına almadan pozisyonu kafasında tasarlamıştı!'. Ermedin Demirovic'ten Galatasaray sözleri! 'Özel bir kulüp'. Gençlerbirliği’nde ve Atalanta’da Kötü Gidiş Sürüyor, Kayserispor’un Maçları Bol Gollü Geçiyor… İşte Misli’den Günün Tüyoları!. Bursa’da heyecan dolu 9 koşu! İşte Misli’den günün altılı analizi…. Galatasaray Şampiyonlar Ligi'nde Stuttgart'ı ağırlayacak.",
+      "text": "Galatasaraylı Batrakov için Liverpool açıklaması!. Vitor Pereira: 'Geçmişte kararlarımda bazı hatalar yaptım'. Galatasaray, Stuttgart maçına hazır! Antrenmenda Dursun Özbek sürprizi. Okan Buruk: Fenerbahçe maçında 5-6 gol atabilirdik. Fenerbahçe - Liverpool maçının hakemi açıklandı!. Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nda görkemli kapanış. Arda Güler’in asisti Guti’yi kendinden geçirdi: 'Dahice! Daha topu ayağına almadan pozisyonu kafasında tasarlamıştı!'.",
       "items": [
+        {
+          "title": "Galatasaraylı Batrakov için Liverpool açıklaması!",
+          "summary": "Galatasaray'ın Rus yıldızı Aleksey Batrakov'un menajeri Vladimir Kuzmichev, genç oyuncunun geleceği hakkında açıklamalar yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayli-batrakov-icin-liverpool-aciklamasi-43363657"
+        },
+        {
+          "title": "Vitor Pereira: 'Geçmişte kararlarımda bazı hatalar yaptım'",
+          "summary": "Nottingham Forest'ın eski teknik direktörü Vitor Pereira, mail yoluyla görevine son verildiği süreçle ilgili dikkat çeken açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vitor-pereira-gecmiste-kararlarimda-bazi-hatalar-yaptim-43363600"
+        },
+        {
+          "title": "Galatasaray, Stuttgart maçına hazır! Antrenmenda Dursun Özbek sürprizi",
+          "summary": "Galatasaray Kulüp başkanı Dursun Özbek, sahaya inerek teknik direktör Okan Buruk ile bir süre sohbet etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-stuttgart-macina-hazir-antrenmenda-dursun-ozbek-surprizi-43363383"
+        },
+        {
+          "title": "Okan Buruk: Fenerbahçe maçında 5-6 gol atabilirdik",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk ve savunma oyuncusu Jakobs, Stuttgart maçı öncesi basın toplantısında konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-fenerbahce-macinda-5-6-gol-atabilirdik-43363297"
+        },
         {
           "title": "Fenerbahçe - Liverpool maçının hakemi açıklandı!",
           "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında oynanacak Fenerbahçe - Liverpool karşılaşmasını Fransız hakem Clement Turpin yönetecek.",
@@ -140,26 +160,6 @@
           "title": "Arda Güler’in asisti Guti’yi kendinden geçirdi: 'Dahice! Daha topu ayağına almadan pozisyonu kafasında tasarlamıştı!'",
           "summary": "Real Madrid'in Racing Santander'i 3-0 mağlup ettiği maçta harika bir asiste imza atan Arda Güler, eflatun-beyazlıların efsane oyuncusu Guti'yi bir kez daha kendisine hayran bıraktı. Guti, milli futbolcunun yaptığı asisti daha top kendisine gelmeden kafasında tasarladığını belirterek, \"Bu asist, onun olağanüstü bir oyuncu olduğunun bir başka kanıtı oldu\" ifadelerini kullandı.",
           "source": "https://www.hurriyet.com.tr/sporarena/guti-arda-gulere-bir-kez-daha-hayran-kaldi-yaptigi-dahice-asisti-daha-topu-almadan-kafasinda-tasarlamisti-43363081"
-        },
-        {
-          "title": "Ermedin Demirovic'ten Galatasaray sözleri! 'Özel bir kulüp'",
-          "summary": "Şampiyonlar Ligi'nde 3 Kasım Salı günü Galatasaray ile deplasmanda karşılaşacak Stuttgart'ta Ermedin Demirovic, mücadele öncesi açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ermedin-demirovicten-galatasaray-sozleri-ozel-bir-kulup-43363157"
-        },
-        {
-          "title": "Gençlerbirliği’nde ve Atalanta’da Kötü Gidiş Sürüyor, Kayserispor’un Maçları Bol Gollü Geçiyor… İşte Misli’den Günün Tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginde-ve-atalantada-kotu-gidis-suruyor-kayserisporun-maclari-bol-gollu-geciyor-iste-misliden-gunun-tuyolari-43363160"
-        },
-        {
-          "title": "Bursa’da heyecan dolu 9 koşu! İşte Misli’den günün altılı analizi…",
-          "summary": "Bursa Osmangazi Hipodromu’nda bugün 9 koşudan oluşan birbirinden zorlu yarışlar var. Programın genelinde sürprize açık koşular dikkat çekerken, altılı ganyan severleri oldukça zorlu ve keyifli bir yarış günü bekliyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bursada-heyecan-dolu-9-kosu-iste-misliden-gunun-altili-analizi-43363134"
-        },
-        {
-          "title": "Galatasaray Şampiyonlar Ligi'nde Stuttgart'ı ağırlayacak",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında yarın Almanya'nın Stuttgart takımını konuk edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-stuttgarti-agirlayacak-43363089"
         }
       ]
     },
