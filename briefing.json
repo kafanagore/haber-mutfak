@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-02T04:00:03.717Z",
+  "generatedAt": "2026-11-02T10:00:03.690Z",
   "categories": {
     "gundem": {
-      "text": "Dolandırıcıların yeni yöntemi: ‘El emeği’ tuzağı! Sosyal medyadaki yeni oyunun perde arkası | ‘Üç farklı tehlike söz konusu’. Vaka sayısı 10 bini, can kaybı 5 bini aştı! Kırmızı alarm verildi... Artık tüm ülkeler risk altında. Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı. Resmi Gazete’de yayımlandı… Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek. Tarkan'dan COP31 için anlamlı şarkı. Emir Sarıgül'den ek ifade. Babasının Özgür Özel'e 350 bin dolar verdiğini iddia etti. Tarkan, COP31 için \"Wake Up\" şarkısıyla iklim krizine karşı harekete geçme çağrısı yaptı.",
+      "text": "İşte il olmaya aday 19 ilçe! Bahçeli beklenen listeyi bölge bölge duyurdu. Aynı gerekçe ile ikinci kez eşine boşanma davası açtı. 15 Temmuz Şehitler Köprüsü girişinde kaza. Bursa metrosundaki unutkanlık mutlu bitti | Çantayı görünce sevinçten secdeye kapandı. \"İmamoğlu çıkar amaçlı suç örgütü\" davası | 102. duruşması başladı. Bodrum'da kuvvetli sağanak: 20 noktayı su bastı, otomobil denize sürüklendi. Çalınan gümüşlerini tezgahta gördü: Renk vermeden 45 bin liraya satın alıp polisi aradı.",
       "items": [
         {
-          "title": "Dolandırıcıların yeni yöntemi: ‘El emeği’ tuzağı! Sosyal medyadaki yeni oyunun perde arkası | ‘Üç farklı tehlike söz konusu’",
-          "summary": "Dolandırıcılar kimi zaman sahte yatırım vaatleriyle, kimi zaman gerçek dışı yardım kampanyalarıyla insanların karşısına çıkıyor. Şimdi ise sosyal medyanın başka bir alanı gündemde: el emeği. Peki, sosyal medyada karşımıza çıkan bu satışların ardında nasıl bir gerçek saklı? Üstelik risk, gerçekte var olmayan bir ürünü satın almakla sınırlı da değil. İşte yeni tuzağın ayrıntıları…",
-          "source": "https://www.hurriyet.com.tr/gundem/dolandiricilarin-yeni-yontemi-el-emegi-tuzagi-sosyal-medyadaki-yeni-oyunun-perde-arkasi-uc-farkli-tehlike-soz-konusu-43356466"
+          "title": "İşte il olmaya aday 19 ilçe! Bahçeli beklenen listeyi bölge bölge duyurdu",
+          "summary": "MHP lideri Devlet Bahçeli, Türkiye'nin idari yapısında reform öngören \"100 İl 1000 İlçe\" vizyonunda il potansiyeli taşıyan 19 ilçeyi açıkladı. 78 yeni ilçenin de kurulmasını hedeflediklerini belirten Bahçeli, nihai kararın TBMM iradesinde olduğunu vurgulayarak yerel yönetim mevzuatının yeniden düzenlenmesi gerektiğini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/iste-il-olmaya-aday-19-ilce-bahceli-beklenen-listeyi-bolge-bolge-duyurdu-43363251"
         },
         {
-          "title": "Vaka sayısı 10 bini, can kaybı 5 bini aştı! Kırmızı alarm verildi... Artık tüm ülkeler risk altında",
-          "summary": "Kongo Demokratik Cumhuriyeti'nde patlak veren ve tarihin en büyük ikinci krizine dönüşen sinsi virüs salgını, coğrafi sınırları aşarak Avrupa ve diğer kıtalara sessizce sızmaya başladı. Uzmanlar, aşısı bulunmayan bu tehlikeli varyantın 21 güne kadar uzayabilen kuluçka süresi nedeniyle küresel bir felakete dönüşebileceği uyarısında bulunarak acil önlem çağrısı yapıyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/vaka-sayisi-10-bini-can-kaybi-5-bini-asti-kirmizi-alarm-verildi-artik-tum-ulkeler-risk-altinda-43360253"
+          "title": "Aynı gerekçe ile ikinci kez eşine boşanma davası açtı",
+          "summary": "2006 yılında evlenen ve eşinin kendisini aldattığı iddiasıyla 2017'de boşanan Şeyma U., eski eşiyle 2021 yılında yeniden nikah masasına oturdu. Ancak 2,5 yıl sonra aynı gerekçeyle yeniden boşanma davası açan kadın, ikinci kez mahkemenin yolunu tuttu. İlk boşanmada 125 bin lira tazminata hükmedilen çiftin ikinci boşanma kararı da kesinleşti.",
+          "source": "https://www.hurriyet.com.tr/gundem/avukati-da-saskin-ayni-gerekce-ile-ikinci-kez-esine-bosanma-davasi-acti-43363250"
         },
         {
-          "title": "Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı",
-          "summary": "İstanbul'da \"Daltonlar\" suç örgütüne yönelik yürütülen soruşturmada, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik saldırı hazırlığında oldukları öne sürülen 5 şüpheli hücre evinde yakalandı. İstanbul Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosu tarafından kamuoyunda “Daltonlar” olarak bilinen silahlı suç örgütüne yönelik yürütülen soruşturma sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-cetesi-uyesi-5-supheli-yakalandi-1748960"
+          "title": "15 Temmuz Şehitler Köprüsü girişinde kaza",
+          "summary": "İstanbul'da 15 Temmuz Şehitler Köprüsü'nde beş aracın karıştığı zincirleme trafik kazası nedeniyle trafik yoğunluğu yaşandı. 15 Temmuz Şehitler Köprüsü girişinde, Avrupa Yakası'ndan Anadolu Yakası'na geçiş güzergahında üç otomobil ile iki cip henüz bilinmeyen bir nedenle çarpıştı. İhbar üzerine olay yerine polis, itfaiye ve sağlık ekipleri sevk edildi. Hasarlı kaza nedeniyle 15 Temmuz Şehitler Köprüsü'nün Ankara istikameti ile bağlantı yollarında trafik yoğunluğu meydana geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusu-girisinde-kaza-1749020"
         },
         {
-          "title": "Resmi Gazete’de yayımlandı… Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Güney Kore'ye ziyareti dolayısıyla Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz vekalet edecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/resmi-gazetede-yayimlandi-cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek-43362848"
+          "title": "Bursa metrosundaki unutkanlık mutlu bitti | Çantayı görünce sevinçten secdeye kapandı",
+          "summary": "Bursa'da metro vagonunda çantasını unutan Endonezyalı öğrencinin yardımına temizlik görevlisi yetişti. İçinde pasaportu ve dövizi bulunan çantayı teslim alan genç kızın gözyaşları içinde secde ettiği anlar güvenlik kamerasına saniye saniye yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bursa-metrosundaki-unutkanlik-mutlu-bitti-cantayi-gorunce-sevincten-secdeye-kapandi-43363235"
         },
         {
-          "title": "Tarkan'dan COP31 için anlamlı şarkı",
-          "summary": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi. Birleşmiş Milletler İklim Değişikliği Konferansı’nın 31’incisi olan COP31, 9–20 Kasım tarihlerinde Türkiye’nin ev sahipliğinde Antalya’da düzenlenecek. Konferansta, ülke temsilcileri ve iklim alanında çalışan birçok isim bir araya gelecek. COP31'de sadece iklim krizinin konuşulması değil, alınan kararların uygulamaya geçirilmesi hedefleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/tarkandan-cop31-icin-anlamli-sarki-1748964"
+          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davası | 102. duruşması başladı",
+          "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 102. duruşması başladı. Duruşma müştekilerin ifadelerinin alınmasıyla devam ediyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasi-102-durusmasi-basladi-43363212"
         },
         {
-          "title": "Emir Sarıgül'den ek ifade. Babasının Özgür Özel'e 350 bin dolar verdiğini iddia etti",
-          "summary": "Kara para aklama soruşturmasında tutuklanan Mustafa Sarıgül'ün oğlu Emir Sarıgül'ün savcılık ifadesi ortaya çıktı. Sarıgül, babasının Yeni Parti Genel Başkanı Özel'e 350 bin dolar verdiğini iddia ett. İstanbul Cumhuriyet Başsavcılığınca, yurt içinde ve dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklanmasına yönelik işlemler yapıldığı, bu paranın yatırım sözleşmelerine uygun kullanılmadığı ve suç gelirlerine yasal görünüm kazandırıldığı iddialarına ilişkin soruşturma sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-emir-sarigulden-ek-ifade-babasinin-ozgur-ozele-350-bin-dolar-verdigini-iddia-etti-1748962"
+          "title": "Bodrum'da kuvvetli sağanak: 20 noktayı su bastı, otomobil denize sürüklendi",
+          "summary": "Muğla'nın Bodrum ilçesinde metrekareye 46 kilogram yağışın düştüğü kuvvetli sağanak nedeniyle 9 mahallede 17 ev ve 3 iş yerini su bastı, Mazı Mahallesi'nde taşan dereye kapılan bir otomobil denize sürüklendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bodrumda-kuvvetli-saganak-20-noktayi-su-basti-otomobil-denize-suruklendi-43363175"
         },
         {
-          "title": "Tarkan, COP31 için \"Wake Up\" şarkısıyla iklim krizine karşı harekete geçme çağrısı yaptı",
-          "summary": "Sanatçı Tarkan, Birleşmiş Milletler İklim Değişikliği Konferansı'nın 31'incisi (COP31) kapsamında, 2008 yılında yayımladığı \"Uyan\" şarkısını İngilizce sözler ve yeni müzikal düzenlemeyle yeniden yorumlayarak \"Wake Up\" adıyla dinleyicilerin beğenisine sundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/tarkan-cop31-icin-wake-up-sarkisiyla-iklim-krizine-karsi-harekete-gecme-cagrisi-yapti-43362795"
+          "title": "Çalınan gümüşlerini tezgahta gördü: Renk vermeden 45 bin liraya satın alıp polisi aradı",
+          "summary": "Adana'da 115 kilo gümüşü çalınan esnaf, bir kuyumcunun davetiyle gittiği dükkanda satılmak istenen ürünlerin kendisine ait olduğunu fark etti. Şüpheliyi tedirgin etmemek için 45 bin lira ödeyip kendi gümüşünü geri alan toptancının ihbarıyla yakalanan şahıs tutuklanarak cezaevine gönderildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/calinan-gumuslerini-tezgahta-gordu-renk-vermeden-45-bin-liraya-satin-alip-polisi-aradi-43363163"
         }
       ]
     },
     "dunya": {
-      "text": "Meksika'da avokado krizi. Tonlarca ürünü imha ettiler. DMO: Hürmüz Boğazı'nda 2 tanker deniz mayınına çarparak infilak etti. Yemen ordusu: Son 24 saatte 500 Husi etkisiz hale getirildi. Florida’da özel jet şehrin ortasına düştü. Bulgaristan, cumhurbaşkanını seçti. Yotova ülkenin ilk kadın cumhurbaşkanı olacak. Bulgaristan’da sandık çıkış sonuçlarına göre Cumhurbaşkanı Yotova. İsrail basınının iddiası. \"Netanyahu, Trump'tan İran'a yeni saldırı istiyor\".",
+      "text": "4 Kasım endişesi: Hedef liste genişliyor! En kritik ayrıntı ortaya çıktı | 'Asıl mesele sanıldığı gibi değil'. Fransa'da tatil bitti, liseliler barikatlarla sokağa döndü. Kafalarındaki kamerayla işlerini yapay zekaya öğretiyorlar. Akdeniz açıklarında 3.8 büyüklüğünde deprem. Netanyahu'nun yeni hükümeti kurmak için Eisenkot ile anlaşmaya çalıştığı iddiası. ABD'de ara seçimler için nefesler tutuldu. Başkan Trump için kritik viraj. İspanya'da tren kazası Sanchez'i vurdu: Madrid hükümetinin oyları eridi.",
       "items": [
         {
-          "title": "Meksika'da avokado krizi. Tonlarca ürünü imha ettiler",
-          "summary": "Meksika'nın en önemli ihracat ürünlerinden avokadoda çekirdek kurdu tespit edildi. Dört eyalette sevkiyatlar durdu, onlarca ton ürün toprağa gömerek imha etti. Son yıllarda dünya genelinde popülerliği artan avokadonun anavatanı ve en büyük üreticisi Meksika'da zararlı böcek krizi yaşanıyor. Ülkede avokado üretiminin merkezi olan Michoacan eyaletinde, uluslararası ihracat için hazırlanan büyük miktarda avokadoda çekirdek kurdu tespit edildi.",
-          "source": "https://www.ntv.com.tr/dunya/meksikada-avokado-krizi-tonlarca-urunu-imha-ettiler-1748970"
+          "title": "4 Kasım endişesi: Hedef liste genişliyor! En kritik ayrıntı ortaya çıktı | 'Asıl mesele sanıldığı gibi değil'",
+          "summary": "Orta Doğu’da yeni bir dönemin kapısı mı aralanıyor? Kritik tarihe ilişkin iddialar gündemdeki yerini korurken gelen tehdit mesajları da dikkat çekti. Öne çıkan iki ayrıntı, gelişmelerin boyutuna ilişkin soru işaretlerini artırdı. İşte merak edilen tüm detaylar...",
+          "source": "https://www.hurriyet.com.tr/dunya/4-kasim-endisesi-hedef-liste-genisliyor-en-kritik-ayrinti-ortaya-cikti-asil-mesele-sanildigi-gibi-degil-43363225"
         },
         {
-          "title": "DMO: Hürmüz Boğazı'nda 2 tanker deniz mayınına çarparak infilak etti",
-          "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'ndan izinsiz geçmeye çalışan 2 petrol tankerinin deniz mayınlarına çarparak infilak ettiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/dmo-hurmuz-bogazinda-2-tanker-deniz-mayinina-carparak-infilak-etti-43362851"
+          "title": "Fransa'da tatil bitti, liseliler barikatlarla sokağa döndü",
+          "summary": "Fransa'da iki haftalık tatil dönüşü sokağa çıkan liseliler, hükümetin 4 milyar euroluk tadilat bütçesi ve yeni kontenjan teklifini yetersiz bularak bazı okulları barikatlarla kapattı. Fransa'da iki haftalık sonbahar tatilinin sona ermesiyle liseliler, hükümetin tatil sürecinde açıkladığı taviz paketine rağmen bu sabah bazı okulların girişlerini kapatarak eylemlerine yeniden başladı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-tatil-bitti-liseliler-barikatlarla-sokaga-dondu-1749023"
         },
         {
-          "title": "Yemen ordusu: Son 24 saatte 500 Husi etkisiz hale getirildi",
-          "summary": "Yemen ordusu, son 24 saatte Husilerin mevzi, toplanma alanları ve takviye birliklerine yönelik 1272 operasyon düzenlendiğini, operasyonlarda yaklaşık 500 Husinin etkisiz hale getirildiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yemen-ordusu-son-24-saatte-500-husi-etkisiz-hale-getirildi-43362850"
+          "title": "Kafalarındaki kamerayla işlerini yapay zekaya öğretiyorlar",
+          "summary": "Hindistan’da işçiler, kendi hareketlerini kaydederek gelecekte yerlerini alması hedeflenen insansı robotların eğitilmesine veri sağlıyor.",
+          "source": "https://www.ntv.com.tr/dunya/video-kafalarindaki-kamerayla-islerini-yapay-zekaya-ogretiyorlar-1749021"
         },
         {
-          "title": "Florida’da özel jet şehrin ortasına düştü",
-          "summary": "ABD’nin Florida eyaletinde 9 kişiyi taşıyan Learjet 60 tipi özel uçak, şehir merkezine düştü. Görüntülerde uçağın yere çarptığı ve alev topuna döndüğü görülüyor.",
-          "source": "https://www.ntv.com.tr/dunya/video-floridada-ozel-jet-sehrin-ortasina-dustu-1748966"
+          "title": "Akdeniz açıklarında 3.8 büyüklüğünde deprem",
+          "summary": "Akdeniz'de Yunanistan'ın Girit Adası açıklarında 3.8 büyüklüğünde deprem meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/dunya/akdeniz-aciklarinda-3-8-buyuklugunde-deprem-43363229"
         },
         {
-          "title": "Bulgaristan, cumhurbaşkanını seçti. Yotova ülkenin ilk kadın cumhurbaşkanı olacak",
-          "summary": "Bulgaristan'da Cumhurbaşkanlığı seçimini, sandık çıkış anketine göre iktidarın adayı İliyana Yotova kazandı. 61 yaşındaki Yotova, Bulgaristan'ın ilk kadın Cumhurbaşkanı olacak. Bulgaristan Ulusal Televizyonunda (BNT) yayımlanan gayriresmi sonuçlara göre, cumhurbaşkanı seçimini Yotova açık farkla önde tamamladı. Kamuoyu araştırma şirketi Alpha Research'ün resmi olmayan sonuçlarına göre, Yotova yüzde 57,4 oy alırken, Andrey Gyurov yüzde 39,6'da kaldı.",
-          "source": "https://www.ntv.com.tr/dunya/bulgaristan-cumhurbaskanini-secti-yotova-ulkenin-ilk-kadin-cumhurbaskani-olacak-1748869"
+          "title": "Netanyahu'nun yeni hükümeti kurmak için Eisenkot ile anlaşmaya çalıştığı iddiası",
+          "summary": "İsrail Başbakanı Binyamin Netanyahu'nun 27 Ekim seçimlerinin ardından muhalefet lideri Gadi Eisenkot ile hükümet kurabilmek için bir uzlaşı yolu bulmaya çalıştığı iddia edildi. Netanyahu'nun, \"Meclis Başkanı'nın değiştirilmemesi şartıyla Eisenkot bloğu ile birlik hükümeti kurmak amacıyla görüşme başlatabileceği\" öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/netanyahunun-yeni-hukumeti-kurmak-icin-eisenkot-ile-anlasmaya-calistigi-iddiasi-43363219"
         },
         {
-          "title": "Bulgaristan’da sandık çıkış sonuçlarına göre Cumhurbaşkanı Yotova",
-          "summary": "Bulgaristan’da oy kullanma işleminin sona ermesiyle birlikte açıklanan sandık çıkış anketleri ve resmi olmayan ilk sonuçlara göre seçimi mevcut Cumhurbaşkanı İliyana Yotova kazandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/bulgaristanda-sandik-cikis-sonuclarina-gore-cumhurbaskani-yotova-43362783"
+          "title": "ABD'de ara seçimler için nefesler tutuldu. Başkan Trump için kritik viraj",
+          "summary": "ABD yarın Temsilciler Meclisinin 435 sandalyesinin tamamı ve Senatonun 100 sandalyesinden 35'i için sandık başına gidiyor. Ara seçimler, Trump'ın ikinci döneminin en kritik yarışı olacak. ABD'de yarın yapılacak Kongre ara seçimlerinde milyonlarca seçmen sandık başına gitmeye hazırlanırken, Temsilciler Meclisi ve Senatoda ortaya çıkacak yeni tablo, Başkan Donald Trump'ın kalan iki yılındaki siyasi dengeleri belirleyecek.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abdde-ara-secimler-icin-nefesler-tutuldu-baskan-trump-icin-kritik-viraj-1749017"
         },
         {
-          "title": "İsrail basınının iddiası. \"Netanyahu, Trump'tan İran'a yeni saldırı istiyor\"",
-          "summary": "İsrail basınında, İsrail Başbakanı Binyamin Netanyahu'nun ABD Başkanı Donald Trump'tan ABD'de ara seçimlerinin ardından İran'a yönelik saldırıların yeniden başlatılmasını istediği iddia edildi. İsrail basını, Başbakan Binyamin Netanyahu'nun ABD'de 3 Kasım'da yapılacak ara seçimlerin ardından İran'a yönelik saldırıların derhal yeniden başlatılması çağrısında bulunduğunu öne sürdü.",
-          "source": "https://www.ntv.com.tr/dunya/israil-basininin-iddiasi-netanyahu-trumptan-irana-yeni-saldiri-istiyor-1748955"
+          "title": "İspanya'da tren kazası Sanchez'i vurdu: Madrid hükümetinin oyları eridi",
+          "summary": "İspanya'da 28 Ekim'de iki hızlı yolcu treninin çarpıştığı kaza, iktidardaki sosyalistleri olumsuz etkiledi. İspanya Başbakanı Pedro Sanchez'in hükümeti, 69 kişinin yaşamını yitirdiği kazanın ardından anketlerde oy kaybı yaşadı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyada-tren-kazasi-sanchezi-vurdu-madrid-hukumetinin-oylari-eridi-43363168"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü. ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi.",
+      "text": "Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu. Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü.",
       "items": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu",
+          "summary": "Güney Kore ziyareti kapsamında değerlendirmelerde bulunan Cumhurbaşkanı Recep Tayyip Erdoğan; İHA'lar, motor teknolojileri ve Sinop Nükleer Güç Santrali başta olmak üzere iki ülkenin birçok alanda birlikte önemli başarılara imza atabileceğini söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-guney-kore-mesaji-ileri-muhendislik-ve-nukleer-enerjide-ortak-basari-vurgusu-43363003"
+        },
         {
           "title": "Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü",
           "summary": "TİCARET Bakanı Ömer Bolat, Türk Devletleri Teşkilatı 13'üncü Zirvesi kapsamında Kazakistan Başbakan Yardımcısı ve Ulusal Ekonomi Bakanı Serik Jumangarin ile bir araya geldi. Görüşmede, iki ülke arasındaki 15 milyar dolarlık ticaret hacmi hedefi ve karşılıklı yatırımlar ele alındı.",
@@ -115,57 +120,62 @@
           "title": "Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü",
           "summary": "Fitch Ratings, Türkiye'nin borçlanma sermaye piyasasının büyümeye devam etmesini ve piyasada tedavülde bulunan toplam borçlanma araçlarının büyüklüğünün 2027'ye kadar 550 milyar dolara ulaşmasını bekliyor.",
           "source": "https://www.hurriyet.com.tr/gundem/fitch-ratingsten-turkiyede-borclanma-piyasasi-ongorusu-43357160"
-        },
-        {
-          "title": "ABD'de Tüketici Güveni Endeksi açıklandı, ekimde beklenti üstü geldi",
-          "summary": "ABD'de Conference Board Tüketici Güven Endeksi, ekimde 91,7'ye yükselerek piyasa beklentilerinin üzerinde gerçekleşti.",
-          "source": "https://www.hurriyet.com.tr/gundem/abdde-tuketici-guveni-endeksi-aciklandi-ekimde-beklenti-ustu-geldi-43357144"
         }
       ]
     },
     "spor": {
-      "text": "Hakan Safi'den Aziz Yıldırım'a destek: 'Futbolcular sahaya çıkmak istemiyor!'. Emre Belözoğlu'ndan Fenerbahçe teknik direktörlüğü açıklaması!. Amir Murillo'dan beraberlik itirafı: 'Rahatladık, kaybettik!'. Vincenzo Italiano: 'Çözmemiz lazım, bedelini çok ağır ödüyoruz'. Liverpool'a Fenerbahçe öncesi evinde Arsenal şoku!. Anderson Talisca'dan Ersun Yanal'ın 'neden gönderildin?' sorusuna olay yanıt!. Orhan Ak'tan dikkat çeken Trabzonspor yorumu!.",
+      "text": "Fenerbahçe - Liverpool maçının hakemi açıklandı!. Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nda görkemli kapanış. Arda Güler’in asisti Guti’yi kendinden geçirdi: 'Dahice! Daha topu ayağına almadan pozisyonu kafasında tasarlamıştı!'. Ermedin Demirovic'ten Galatasaray sözleri! 'Özel bir kulüp'. Gençlerbirliği’nde ve Atalanta’da Kötü Gidiş Sürüyor, Kayserispor’un Maçları Bol Gollü Geçiyor… İşte Misli’den Günün Tüyoları!. Bursa’da heyecan dolu 9 koşu! İşte Misli’den günün altılı analizi…. Galatasaray Şampiyonlar Ligi'nde Stuttgart'ı ağırlayacak.",
       "items": [
         {
-          "title": "Hakan Safi'den Aziz Yıldırım'a destek: 'Futbolcular sahaya çıkmak istemiyor!'",
-          "summary": "Fenerbahçe'deki son başkanlık seçiminde aday olan Hakan Safi, Kasımpaşa - Beşiktaş maçının ardından sarı-lacivertlilerin gündemine dair açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hakan-safiden-aziz-yildirima-destek-futbolcular-sahaya-cikmak-istemiyor-43362751"
+          "title": "Fenerbahçe - Liverpool maçının hakemi açıklandı!",
+          "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında oynanacak Fenerbahçe - Liverpool karşılaşmasını Fransız hakem Clement Turpin yönetecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-liverpool-macinin-hakemi-aciklandi-43363239"
         },
         {
-          "title": "Emre Belözoğlu'ndan Fenerbahçe teknik direktörlüğü açıklaması!",
-          "summary": "Kasımpaşa Teknik Direktörü Emre Belözoğlu, 2-2 biten Beşiktaş maçının ardından açıklamalarda bulundu. Belözoğlu, basın toplantısında Fenerbahçe teknik direktörlüğü hakkında konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglundan-fenerbahce-teknik-direktorlugu-aciklamasi-43362741"
+          "title": "Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nda görkemli kapanış",
+          "summary": "Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları, Cumhuriyet'in 103. yılı coşkusu ve İstanbul Boğazı’ndaki nefes kesen final müsabakalarının ardından Fişekhane’de düzenlenen görkemli törenle sona erdi. Sezon boyunca sergiledikleri üstün performansla adını zirveye yazdıran takımlar kupalarına kavuştu. Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları’nın tüm etaplarında büyük başarı gösteren Enka takımı bu yılın şampiyonu oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/cumhurbaskanligi-7-uluslararasi-yat-yarislarinda-gorkemli-kapanis-43363214"
         },
         {
-          "title": "Amir Murillo'dan beraberlik itirafı: 'Rahatladık, kaybettik!'",
-          "summary": "Beşiktaş'ta Amir Murillo ve Taylan Bulut, Kasımpaşa maçının ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/amir-murillodan-beraberlik-itirafi-rahatladik-kaybettik-43362740"
+          "title": "Arda Güler’in asisti Guti’yi kendinden geçirdi: 'Dahice! Daha topu ayağına almadan pozisyonu kafasında tasarlamıştı!'",
+          "summary": "Real Madrid'in Racing Santander'i 3-0 mağlup ettiği maçta harika bir asiste imza atan Arda Güler, eflatun-beyazlıların efsane oyuncusu Guti'yi bir kez daha kendisine hayran bıraktı. Guti, milli futbolcunun yaptığı asisti daha top kendisine gelmeden kafasında tasarladığını belirterek, \"Bu asist, onun olağanüstü bir oyuncu olduğunun bir başka kanıtı oldu\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/guti-arda-gulere-bir-kez-daha-hayran-kaldi-yaptigi-dahice-asisti-daha-topu-almadan-kafasinda-tasarlamisti-43363081"
         },
         {
-          "title": "Vincenzo Italiano: 'Çözmemiz lazım, bedelini çok ağır ödüyoruz'",
-          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Kasımpaşa ile 2-2 berabere kaldıkları maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-cozmemiz-lazim-bedelini-cok-agir-oduyoruz-43362738"
+          "title": "Ermedin Demirovic'ten Galatasaray sözleri! 'Özel bir kulüp'",
+          "summary": "Şampiyonlar Ligi'nde 3 Kasım Salı günü Galatasaray ile deplasmanda karşılaşacak Stuttgart'ta Ermedin Demirovic, mücadele öncesi açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ermedin-demirovicten-galatasaray-sozleri-ozel-bir-kulup-43363157"
         },
         {
-          "title": "Liverpool'a Fenerbahçe öncesi evinde Arsenal şoku!",
-          "summary": "Arsenal, İngiltere Premier Lig'in 9. haftasında Liverpool'u deplasmanda 1-0 mağlup etti ve zirveye yerleşti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/liverpoola-fenerbahce-oncesi-evinde-arsenal-soku-43362723"
+          "title": "Gençlerbirliği’nde ve Atalanta’da Kötü Gidiş Sürüyor, Kayserispor’un Maçları Bol Gollü Geçiyor… İşte Misli’den Günün Tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginde-ve-atalantada-kotu-gidis-suruyor-kayserisporun-maclari-bol-gollu-geciyor-iste-misliden-gunun-tuyolari-43363160"
         },
         {
-          "title": "Anderson Talisca'dan Ersun Yanal'ın 'neden gönderildin?' sorusuna olay yanıt!",
-          "summary": "Ersun Yanal'ın \"Leblebi gibi gol atan Talisca'yı neden gönderdiniz?\" sözlerine Anderson Talisca dikkat çeken bir yorum yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anderson-taliscadan-ersun-yanalin-neden-gonderildin-sorusuna-olay-yanit-43362703"
+          "title": "Bursa’da heyecan dolu 9 koşu! İşte Misli’den günün altılı analizi…",
+          "summary": "Bursa Osmangazi Hipodromu’nda bugün 9 koşudan oluşan birbirinden zorlu yarışlar var. Programın genelinde sürprize açık koşular dikkat çekerken, altılı ganyan severleri oldukça zorlu ve keyifli bir yarış günü bekliyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursada-heyecan-dolu-9-kosu-iste-misliden-gunun-altili-analizi-43363134"
         },
         {
-          "title": "Orhan Ak'tan dikkat çeken Trabzonspor yorumu!",
-          "summary": "Trendyol Süper Lig'in 10. haftasında Trabzonspor'a 2-0 yenilen Gaziantep FK'nin teknik direktörü Orhan Ak, oyunun özellikle ilk yarıda hem savunma hem geçiş hücumu anlamında kendilerini mutlu ettiğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/orhan-aktan-dikkat-ceken-trabzonspor-yorumu-43362701"
+          "title": "Galatasaray Şampiyonlar Ligi'nde Stuttgart'ı ağırlayacak",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında yarın Almanya'nın Stuttgart takımını konuk edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-stuttgarti-agirlayacak-43363089"
         }
       ]
     },
     "teknoloji": {
-      "text": "Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\". Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü. Yeni EBA’da yapay zekâ dönemi. Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu. Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\". 600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı.",
+      "text": "Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar. Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\". Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü. Yeni EBA’da yapay zekâ dönemi. Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu.",
       "items": [
+        {
+          "title": "Maratonda bu kez robot polisler nöbet tuttu",
+          "summary": "Çin’de düzenlenen Hanco Maratonu’nda robot polisler devriye gezdi, trafiği denetledi ve sporcularla fotoğraf çektirdi.",
+          "source": "https://www.ntv.com.tr/teknoloji/video-maratonda-bu-kez-robot-polisler-nobet-tuttu-1749016"
+        },
+        {
+          "title": "378 gün sonra Mars simülasyonundan çıktılar",
+          "summary": "NASA'nın insanlı Mars görevine hazırlık için 3D yazıcılarla ürettiği 158 metrekarelik simülasyonda 378 gün boyunca tecritte yaşayan dört kişilik ekip, \"Dünyaya\" döndü. Amerikan Havacılık ve Uzay Dairesi'nin (NASA) Mars'ta olası bir insanlı keşif görevine hazırlık için gerçekleştirdiği ikinci simülasyon görevi CHAPEA 2'ya (Crew Health and Performance Exploration Analog) katılan dört kişilik ekip, 378 gün sonra dış dünyayla yeniden buluştu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-378-gun-sonra-mars-simulasyonundan-ciktilar-1748971"
+        },
         {
           "title": "Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\"",
           "summary": "OpenAI CEO’su Sam Altman, bellek kaynaklarının kişisel bilgisayarlarda düşük kullanım oranıyla tutulmasını eleştirdi. Altman, arz sıkıntısının yaşandığı bir dönemde RAM'ler için bulutu işaret etti. Sam Altman, Youtube'da Cheeky Pint programında John Collison ile yaptığı söyleşide, yapay zekanın donanım ihtiyacı ve bellek tedarikindeki sıkışıklık hakkında konuştu.",
@@ -190,16 +200,6 @@
           "title": "Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu",
           "summary": "Milli Eğitim Bakanı Yusuf Tekin, Eğitim Bilişim Ağı'na (EBA) ilişkin, \"6 milyon civarında aktif kullanıcı sayısı var. Bu, Avrupa ülkeleri arasında açık ara en iyi olduğumuz bir konu.\" dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/milli-egitim-bakani-tekin-avrupa-ulkeleri-arasindan-en-iyi-oldugumuz-konu-43358074"
-        },
-        {
-          "title": "Yapay zekâ devinden korkutan itiraf. \"İnsanlığa şantaj yapabilir\"",
-          "summary": "Borsaya açılmaya hazırlanan yapay zekâ şirketi Anthropic, kendi sistemlerinin kontrol dışına çıkabileceğini ve insanları manipüle etmek için şantaj benzeri davranışlar sergilediğini açıkladı. Borsaya açılmaya hazırlanan bir şirketin yatırımcılara olası riskleri anlatması olağan bir prosedür. Ancak popüler yapay zekâ robotu Claude'un geliştiricisi Anthropic'in halka arz dosyasına eklediği yaklaşık 100 sayfalık risk listesi, alışıldık finansal uyarıların çok ötesine geçiyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-yapay-zeka-devinden-korkutan-itiraf-insanliga-santaj-yapabilir-1748344"
-        },
-        {
-          "title": "600 milyar dolarlık taahhüt. Halka arz belgeleri açıldı",
-          "summary": "Yapay zeka girişimi Anthropic, ABD borsalarındaki halka arz için resmi başvuru belgelerini yayımlayarak mali tablolarını kamuoyuyla paylaştı. Yapay zeka sektörünün öncülerinden Anthropic, ABD'deki halka arz başvuru belgelerini yayımlayarak borsaya açılma sürecini resmiyete döktü. Şirket, borçla beslenen devasa harcamalara yönelik endişelerin arttığı son dönemde, yatırımcıların milyarlarca dolarlık yapay zeka faturalarını üstlenmeye ne kadar istekli olduğunu doğrudan test edecek bir piyasa sınavına hazırlanıyor.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-600-milyar-dolarlik-taahhut-halka-arz-belgeleri-acildi-1748303"
         }
       ]
     },
