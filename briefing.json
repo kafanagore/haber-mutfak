@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-03T10:00:04.307Z",
+  "generatedAt": "2026-11-03T16:00:03.849Z",
   "categories": {
     "gundem": {
-      "text": "\"Acımız da hayalimiz de ortak\" Şehit aileleri bir şehidin vasiyeti için inşaata girdi. Emine Erdoğan'dan Güney Kore paylaşımı: Sıcaklık ve samimiyet köklü kardeşliğin ifadesidir. Cumhurbaşkanı Erdoğan'dan Ahmet Nazif Zorlu için başsağlığı mesajı. Kaldırımda bekleyen kadına tokat attı: \"Kolum çarptı\" savunması tutmadı. Bahçeli: Siyasette arınma ertelenemez bir gereklilik. 17 ilde kara para operasyonu. 31 gözaltı. Meteorolojiden İstanbul'a uyarı: Kar soğuğu ve yağış için saat belli oldu.",
+      "text": "Okul bahçesindeki ağacı yakıp poz verdiler. İki öğrenci gözaltında. İran’dan açıklama: ABD ile anlaşma konusunda yeni bir gelişme yok. Yunanistan Dışişleri Bakanlığında 3 meslek grubu grevde. Sağlık Bakanı Memişoğlu: Dünyanın 1 numaralı akciğer kanseri olan ülkesiyiz. İstanbul'da trafik kilit. Yoğunluk yüzde 89'a çıktı. \"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programı düzenlendi. Siirt’te mantar yiyen 7 kişi hastaneye kaldırıldı.",
       "items": [
         {
-          "title": "\"Acımız da hayalimiz de ortak\" Şehit aileleri bir şehidin vasiyeti için inşaata girdi",
-          "summary": "Çankırı'nın Ahlat köyünde şehit Emrah Ersoy'un annesi kabrine yakın olsun ve oğlunun vasiyeti yerine gelsin diye başlatılan ev inşaatına şehit aileleri sahip çıktı. Kazma kürek çalışan şehit babaları ve kardeşleri, çatıyı kapatıp evin dış cephesini el birliğiyle tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/acimiz-da-hayalimiz-de-ortak-sehit-aileleri-bir-sehidin-vasiyeti-icin-insaata-girdi-43364372"
+          "title": "Okul bahçesindeki ağacı yakıp poz verdiler. İki öğrenci gözaltında",
+          "summary": "İzmir'de bir grup öğrenci okul bahçesindeki palmiye ağacını yakarak önünde poz verdi. Olayla ilgili 2 öğrenci gözaltına alındı. İzmir'in Konak ilçesinde yer alan Nevvar Salih İşgören Eğitim Kampüsü Çok Programlı Anadolu Lisesi’nde kimliği belirsiz öğrenciler, okul bahçesindeki bir palmiye ağacını ateşe verdi. Ardından öğrenciler, alevlerin karşısına geçerek kahkahalarla poz verdi ve bu anları cep telefonlarıyla kayda aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/okul-bahcesindeki-agaci-yakip-poz-verdiler-iki-ogrenci-gozaltinda-1749256"
         },
         {
-          "title": "Emine Erdoğan'dan Güney Kore paylaşımı: Sıcaklık ve samimiyet köklü kardeşliğin ifadesidir",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Güney Kore'ye gerçekleştirdiği devlet ziyaretine eşlik eden Emine Erdoğan, resmi karşılama törenine ilişkin sosyal medya paylaşımında bulunarak, kendilerini karşılayan samimiyetin iki ülke arasındaki köklü bağların göstergesi olduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-guney-kore-paylasimi-sicaklik-ve-samimiyet-koklu-kardesligin-ifadesidir-43364351"
+          "title": "İran’dan açıklama: ABD ile anlaşma konusunda yeni bir gelişme yok",
+          "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD ile olası bir anlaşmaya ilişkin yeni bir gelişme yaşanmadığını, taraflar arasındaki mesaj alışverişinin arabulucular üzerinden sürdüğünü bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/irandan-aciklama-abd-ile-anlasma-konusunda-yeni-bir-gelisme-yok-43364957"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan Ahmet Nazif Zorlu için başsağlığı mesajı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, hayatını kaybeden Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu için taziye mesajı yayımladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-ahmet-nazif-zorlu-icin-bassagligi-mesaji-43364345"
+          "title": "Yunanistan Dışişleri Bakanlığında 3 meslek grubu grevde",
+          "summary": "Yunanistan Dışişleri Bakanlığına bağlı 3 meslek grubunun, ücretlerde iyileştirme talebiyle 2 günlük greve gittiği belirtildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yunanistan-disisleri-bakanliginda-3-meslek-grubu-grevde-43364955"
         },
         {
-          "title": "Kaldırımda bekleyen kadına tokat attı: \"Kolum çarptı\" savunması tutmadı",
-          "summary": "Nevşehir'de dükkan önünde bekleyen tanımadığı 46 yaşındaki kadına tokat atarak kulağında işitme kaybına yol açan ve polisteki ifadesinde \"Kolum yanlışlıkla çarptı\" diyen 6 suç kayıtlı şüpheli, çıkarıldığı mahkemece tutuklandı. Saldırı anı güvenlik kamerasına yansıdı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kaldirimda-bekleyen-kadina-tokat-atti-kolum-carpti-savunmasi-tutmadi-43364310"
+          "title": "Sağlık Bakanı Memişoğlu: Dünyanın 1 numaralı akciğer kanseri olan ülkesiyiz",
+          "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Bu ülke artık bilimde, sağlıkta her türlü alanda yeni bir şey söylemeyle ilgili bilgiye, insan gücüne ve altyapıya sahip. Onun için yeni şeyler söyleyeceksiniz, icat çıkaracaksınız. Gençlere 'icat çıkarın' diyoruz.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/saglik-bakani-memisoglu-dunyanin-1-numarali-akciger-kanseri-olan-ulkesiyiz-43364952"
         },
         {
-          "title": "Bahçeli: Siyasette arınma ertelenemez bir gereklilik",
-          "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, siyasette arınma ve aklanmanın ertelenemez bir gereklilik olduğunu söyledi. Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, partisinin grup toplantısında gündemdeki konulara ilişkin önemli açıklamalarda bulundu. Terörsüz Türkiye ve terörsüz bölge süreçlerinin Türkiye ve bölge ülkeleri açısından hayati bir öneme sahip olduğunu söyleyen Bahçeli, \"Türk milleti kararını vermiştir, terör bitecek kardeşlik yükselecek.\" dedi.",
-          "source": "https://www.ntv.com.tr/turkiye/bahceli-teror-bitecek-kardeslik-yukselecek-1749185"
+          "title": "İstanbul'da trafik kilit. Yoğunluk yüzde 89'a çıktı",
+          "summary": "İstanbul'da iş çıkışı saatlerinde sağanak yağışın etkili olması nedeniyle trafik durma noktasına geldi. İstanbul'da iş çıkışı saatleri ve sağanak yağışın etkisini göstermesi nedeniyle trafik yoğunluğu oluştu. İstanbul Büyükşehir Belediyesi Trafik Yoğunluğu haritasına göre saat 18.00'da kent genelinde yoğunluk yüzde 89' yükseldi. Kentte mesai bitiminin ardından ana arterler, caddeler ve bağlantı yollarında araçlar güçlükle ilerledi.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-trafik-kilit-yogunluk-yuzde-89a-cikti-1749254"
         },
         {
-          "title": "17 ilde kara para operasyonu. 31 gözaltı",
-          "summary": "İzmir merkezli 17 ilde suç gelirlerinin aklanmasına yönelik düzenlenen operasyonlarda 31 şüpheli yakalandı. Şüphelilerin 2,1 milyar liralık işlem hacmi tespit edildi. Bakanlığın sosyal medya hesabından yapılan açıklamaya göre; İzmir Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şubesi ile İzmir Cumhuriyet Başsavcılığı koordinesinde düzenlenen operasyona 350 personel katıldı. 1 teknoloji tespit köpeğinin kullanıldığı operasyonlarda, 31 şüpheli yakalandı.",
-          "source": "https://www.ntv.com.tr/turkiye/17-ilde-kara-para-operasyonu-31-gozalti-1749212"
+          "title": "\"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programı düzenlendi",
+          "summary": "\"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programında konuşan AK Parti Kültür ve Sanat Politikalarından Sorumlu Genel Başkan Yardımcısı Hüseyin Yayman \"Türkiye'miz bugün dünyanın küresel güçlerinden birisi haline geldi\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kurulusunun-25-iktidara-gelisinin-24-yilinda-ak-parti-programi-duzenlendi-43364941"
         },
         {
-          "title": "Meteorolojiden İstanbul'a uyarı: Kar soğuğu ve yağış için saat belli oldu",
-          "summary": "Rusya kaynaklı soğuk hava dalgası, yurdu etkisi altına alacak. Meteoroloji Genel Müdürlüğü, İstanbul'u fırtına ve sağanak yağmura karşı uyardı. Bazı bölgelerde hafta sonuna doğru kar beklentisi var. Türkiye, Rusya üzerinden gelen soğuk hava dalgasının etkisi altına girecek. Hava sıcaklıklarının yurt genelinde 8 derece düşmesi bekleniyor. İstanbul ve Ankara'da 19-20 derece bandında seyreden hava sıcaklıkları 10-12 dereceye kadar gerileyecek. Bazı şehirler için kar yağışı tahmini de yapıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-kar-sogugu-geliyor-istanbulda-hava-sicakligi-aniden-dusecek-bazi-sehirlerde-kar-bekleniyor-1749141"
+          "title": "Siirt’te mantar yiyen 7 kişi hastaneye kaldırıldı",
+          "summary": "Siirt’in Şirvan ilçesinde mantar yedikten sonra rahatsızlanan 7 kişi hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/siirtte-mantar-yiyen-7-kisi-hastaneye-kaldirildi-43364942"
         }
       ]
     },
     "dunya": {
-      "text": "Güney Kore'yle dört anlaşma imzalandı. Cumhurbaşkanı Erdoğan: Ticaret hedefi 15 milyar dolar. Otomotiv krizinde yeni perde. Dev tedarikçi binlerce kişiyi işten çıkarıyor. ABD'nin NATO'dan kritik silah programına destek talep edeceği iddiası. Boşanma davasında yapay zekaya güvenen kocaya kötü haber. Fazladan para ödeyecek. Nepal'de helikopter kazası: 1 ölü, 3 yaralı. Pakistan'da aşılama ekibini koruyan polislere silahlı saldırı. Trump için referanduma dönüştü. ABD'deki seçimler öncesi anketler ne söylüyor?.",
+      "text": "İsrail Cumhurbaşkanı Herzog, küçük partilerle istişare toplantılarına başlayacak. Kolombiya'da 5,4 büyüklüğünde deprem. MİT Başkanı Kalın'dan BAE'ye ziyaret. ABD'de oy verme işlemi başladı. Başkan Trump için kritik ara seçim. Türkiye'nin Güney Sudan Büyükelçisi Metin Ergin hayatını kaybetti: Dışişleri Bakanı Hakan Fidan'dan başsağlığı mesajı. İsrail muhalefeti harekete geçti: Netanyahu'yu devirme görüşmesi. Almanya'da süpermarketler siber saldırıya hedef oldu.",
       "items": [
         {
-          "title": "Güney Kore'yle dört anlaşma imzalandı. Cumhurbaşkanı Erdoğan: Ticaret hedefi 15 milyar dolar",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyarette bulunduğu Güney Kore Devlet Başkanı Lee Jae Myung ile ortak basın toplantısı düzenledi. Cumhurbaşkanı Recep Tayyip Erdoğan resmi ziyaret için geldiği Güney Kore'nin başkenti Seul'deki Cumhurbaşkanlığı Sarayı'nda Güney Kore Devlet Başkanı Lee tarafından resmi törenle karşılandı. Baş başa ve heyetler arası görüşmelerin ardından iki lider ortak basın toplantısı düzenledi.",
-          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-guney-kore-ile-stratejik-ortagiz-ticaret-hedefi-15-milyar-dolar-1749167"
+          "title": "İsrail Cumhurbaşkanı Herzog, küçük partilerle istişare toplantılarına başlayacak",
+          "summary": "İsrail Cumhurbaşkanı Isaac Herzog'un ülkede 27 Ekim'de yapılan seçimlerin ardından hükümeti kurma yetkisinin kime verileceği ve koalisyon kurulması konularında istişare toplantılarına küçük partilerle başlayacağı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-cumhurbaskani-herzog-kucuk-partilerle-istisare-toplantilarina-baslayacak-43364962"
         },
         {
-          "title": "Otomotiv krizinde yeni perde. Dev tedarikçi binlerce kişiyi işten çıkarıyor",
-          "summary": "Alman otomotiv tedarikçisi Schaeffler, Çin kaynaklı rekabet ve talep daralması gerekçesiyle Avrupa'da yaklaşık 3 bin 500 kişiyi işten çıkaracağını ve beş tesisini kapatacağını duyurdu. Avrupa otomotiv sektöründe yaşanan daralma ve artan maliyetler, tedarik zincirinin kritik halkalarını doğrudan etkiliyor. Almanya merkezli otomotiv ve sanayi parçaları üreticisi Schaeffler, derinleşen sektör krizine gerekçe göstererek Avrupa genelinde yaklaşık 3 bin 500 kişiyi işten çıkaracağını ve beş tesisini kapatacağını duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-otomotiv-krizinde-yeni-perde-alman-parca-devi-binlerce-kisiyi-isten-cikariyor-1749215"
+          "title": "Kolombiya'da 5,4 büyüklüğünde deprem",
+          "summary": "Kolombiya'da meydana gelen 5,4 büyüklüğündeki depremde ilk belirlemelere göre 1 kişi yaralandı, bazı yapılarda hasar oluştu.",
+          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-5-4-buyuklugunde-deprem-43364961"
         },
         {
-          "title": "ABD'nin NATO'dan kritik silah programına destek talep edeceği iddiası",
-          "summary": "ABD yönetiminin, NATO müttefiklerinden Ukrayna'ya yönelik kritik silah tedarik programı konusunda \"daha fazla mali katkıda bulunmalarını\" isteyeceği iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdnin-natodan-kritik-silah-programina-destek-talep-edecegi-iddiasi-43364298"
+          "title": "MİT Başkanı Kalın'dan BAE'ye ziyaret",
+          "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Birleşik Arap Emirlikleri'ne (BAE) ziyarette bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/mit-baskani-kalindan-baeye-ziyaret-43364904"
         },
         {
-          "title": "Boşanma davasında yapay zekaya güvenen kocaya kötü haber. Fazladan para ödeyecek",
-          "summary": "Boşanma ve velayette avukat yerine yapay zekaya danışanlar, uydurma kanun maddeleri ve hatalı taktikler yüzünden mahkemede davayı kaybediyor. Eşinden ayrılmak veya çocuklarının velayetini almak için binlerce dolarlık avukatlık masrafını ödemek istemeyenlerin internetteki yapay zeka sohbet uygulamalarına danışması, adliyelerde daha önce görülmemiş bir karmaşaya yol açıyor. Yasa maddelerini sıralayan ve kullanıcısına duymak istediği haklılığı vadeden algoritmalar, duruşma salonuna girildiğinde gerçeklerle uyuşmuyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-bosanma-davasinda-yapay-zekaya-guvenen-kocaya-kotu-haber-fazladan-para-odeyecek-1749199"
+          "title": "ABD'de oy verme işlemi başladı. Başkan Trump için kritik ara seçim",
+          "summary": "ABD'de bugün 435 sandalyeli Temsilciler Meclisi'nin tamamı ve 100 sandalyeli Senato'nun 35 sandalyesi için ara seçim yapılıyor. Bu seçimler, Trump'ın ikinci döneminin en kritik yarışı olacak. ABD'de Başkan Donald Trump yönetiminin yasama gücünü ve Kongredeki siyasi dengeyi şekillendirecek ara seçimlerde oy verme işlemi başladı. 435 sandalyeli Temsilciler Meclisinin tamamı ile 100 sandalyeli Senatonun 35 sandalyesi için seçime gidiliyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abdde-oy-verme-islemi-basladi-baskan-trump-icin-kritik-ara-secim-1749236"
         },
         {
-          "title": "Nepal'de helikopter kazası: 1 ölü, 3 yaralı",
-          "summary": "Nepal'de helikopter pistine aynı anda iniş yapmaya çalışan iki helikopterin çarpışması sonucu 1 kişi hayatını kaybetti, 3 kişi yaralandı.",
-          "source": "https://www.ntv.com.tr/dunya/video-nepalde-helikopter-kazasi-1-olu-3-yarali-1749205"
+          "title": "Türkiye'nin Güney Sudan Büyükelçisi Metin Ergin hayatını kaybetti: Dışişleri Bakanı Hakan Fidan'dan başsağlığı mesajı",
+          "summary": "Dışişleri Bakanı Hakan Fidan, hayatını kaybeden Türkiye'nin Güney Sudan Büyükelçisi Metin Ergin için başsağlığı mesajı paylaştı. Fidan paylaşımında, \"Ülkemize 35 sene boyunca özveriyle hizmet etmiş olan Büyükelçi Ergin'e Allah’tan rahmet; değerli ailesine, yakınlarına ve camiamıza başsağlığı diliyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiyenin-guney-sudan-buyukelcisi-metin-ergin-hayatini-kaybetti-disisleri-bakani-hakan-fidandan-bassagligi-mesaji-43364738"
         },
         {
-          "title": "Pakistan'da aşılama ekibini koruyan polislere silahlı saldırı",
-          "summary": "Pakistan'ın kuzeybatısındaki Hayber Pahtunhva eyaletinde silahlı şahıslar aşılama ekiplerini koruyan polisleri hedef aldı. Olayda 2 polis yaşamını yitirdi, 1 polis yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/pakistanda-asilama-ekibini-koruyan-polislere-silahli-saldiri-43364185"
+          "title": "İsrail muhalefeti harekete geçti: Netanyahu'yu devirme görüşmesi",
+          "summary": "İsrail'de, sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim seçimlerinin ardından, muhalefet bloku liderleri \"acil hükümet kurma\" gündemiyle bir araya geldi. Muhalefet liderlerinin toplantısından ilk olarak Meclis Başkanını değiştirme ve Yashar Partisi Gadi Eisenkot'u hükümet kurma konusunda destekleme kararı çıktı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-muhalefeti-harekete-gecti-netanyahuyu-devirme-gorusmesi-43364725"
         },
         {
-          "title": "Trump için referanduma dönüştü. ABD'deki seçimler öncesi anketler ne söylüyor?",
-          "summary": "ABD'de bugün düzenlenen ara seçimler öncesinde Cumhuriyetçi Parti, Kongrenin her iki kanadında da çoğunluğu kaybetme riskiyle karşı karşıya. ABD'de 2024 başkanlık seçimlerinin ardından Beyaz Saray'ın yanı sıra Kongrenin her iki kanadını da kontrol eden Cumhuriyetçi Parti, bugün düzenlenen ara seçimler öncesinde kırılgan bir çoğunluk dengesiyle karşı karşıya.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-trump-icin-referanduma-donustu-abddeki-secimler-oncesi-anketler-ne-soyluyor-1749179"
+          "title": "Almanya'da süpermarketler siber saldırıya hedef oldu",
+          "summary": "Avrupa'nın birçok ülkesinde süpermarketlerin ve diğer işletmelerin soğutma sistemlerini hedef alan siber saldırılar, Almanya'daki bazı süpermarketleri de etkiledi. Saldırı sonucunda soğutma sistemlerinin sıcaklıklarının yükseldiğini aktaran Salten, çok sayıda gıda ürününün bozulma riski nedeniyle imha edilmek zorunda kalındığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-supermarketler-siber-saldiriya-hedef-oldu-43364705"
         }
       ]
     },
     "ekonomi": {
-      "text": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı. Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu. Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı.",
+      "text": "Sınır kapılarındaki TIR kuyrukları uzuyor. Çin hedefi 10 milyar dolar. ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı. Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu. Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi.",
       "items": [
+        {
+          "title": "Sınır kapılarındaki TIR kuyrukları uzuyor",
+          "summary": "İzmir Sanayici ve İş İnsanları Derneği (İZSİAD) Yönetim Kurulu Başkanı Alaattin Yüksel, Türkiye’nin Avrupa’ya açılan sınır kapıları Kapıkule, Hamzabeyli ve İpsala’da yaşanan TIR kuyruklarının ekonomiye zarar verecek bir noktaya ulaştığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sinir-kapilarindaki-tir-kuyruklari-uzuyor-43364611"
+        },
+        {
+          "title": "Çin hedefi 10 milyar dolar",
+          "summary": "Türkiye ile Çin arasındaki dış ticaretin dengelenmesi için son yıllarda yoğun bir çalışma yürüten Ege İhracatçı Birlikleri (EİB), 5-10 Kasım 2026 tarihleri arasında Şanghay’da düzenlenecek Çin Uluslararası İthalat Fuarı’na (CIIE) Türkiye Milli Katılım Organizasyonu yapacak.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/cin-hedefi-10-milyar-dolar-43364606"
+        },
         {
           "title": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
@@ -110,56 +120,46 @@
           "title": "Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi",
           "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplanan 8'inci Fon Koordinasyon Kurulu'nun ardından yapılan açıklamada, tasfiye sürecindeki fon sayısının 131’den 38’e gerilediği ve bugüne kadar 71 bin 899 hesaba toplam 68 milyar TL ödeme yapıldığı bildirildi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemelerin ise 30 Ekim Cuma günü başlayacağı duyuruldu.",
           "source": "https://www.hurriyet.com.tr/gundem/fon-koordinasyon-kurulu-toplandi-71-bini-askin-hesaba-68-milyar-tl-odendi-43358043"
-        },
-        {
-          "title": "Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı",
-          "summary": "Hatay Büyükşehir Belediye Başkanı Mehmet Öntürk’ün talimatıyla harekete geçen belediye, yerel üreticiden temin ettiği 100 ton mandalinayı öğrencilere ulaştırarak hem kırsal kalkınmaya hem de eğitime destek verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ciftciye-destek-cocuklara-ikram-100-ton-mandalina-dagitildi-43357447"
-        },
-        {
-          "title": "ASELSAN'ın 9 aylık cirosu açıklandı",
-          "summary": "ASELSAN'ın cirosu, yılın 9 ayında geçen yılın aynı dönemine göre yüzde 28 artışla 151,5 milyar liraya ulaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/aselsanin-9-aylik-cirosu-aciklandi-43357255"
         }
       ]
     },
     "spor": {
-      "text": "Yeşil sahada korkunç ölüm! İspanyol forvet, yapılan sert faul sonrası hayatını kaybetti. Galatasaray'ın yıldızına Avrupa'dan 3 talip! 30 milyon Euro'yu gözden çıkardılar. Yüksel Yıldırım: 'Bu kulübü alt lige düşürmek için değil, Avrupa'ya taşımak için geldim'. Aziz Yıldırım aday değil! Fenerbahçe başkanlığı için Mehmet Ali Aydınlar ve görüşme sürprizi. Devler Ligi'nde Atletico Madrid'in konuğu Bayern Münih! Maçın heyecanı canlı sohbet ile Misli'de. Alperen Şengün'ün son kurbanı Boston Celtics!. Fenerbahçe'de Liverpool maçı öncesi eksikler can sıkıyor.",
+      "text": "Dirk Kuyt: 'Liverpool maçı için çok iyi bir planımız var, bu plana inanmalıyız'. Fenerbahçe, Emre Belözoğlu ile görüşmelere başladı! Conceiçao iptal. Serdar Aziz, teknik direktörlüğe hazırlanıyor: Fenerbahçe'de şampiyonluk yaşayamamak içimde ukde kaldı. Beşiktaş'a Alman, Trabzonspor'a Estonyalı hakem. Dört büyük kulübün futbolcuları KKTC’li oyuncularla dostluk maçına çıkacak. Galatasaray iç sahada favori, Şampiyonlar Ligi’nde taraf bahisleri öne çıkıyor! İşte Misli’de günün en çok oynanan maçları. At Yarışı Tutkusu Adana’da Yükseliyor! İşte Misli’den Günün Altılı Analizi….",
       "items": [
         {
-          "title": "Yeşil sahada korkunç ölüm! İspanyol forvet, yapılan sert faul sonrası hayatını kaybetti",
-          "summary": "Futbol dünyası, İspanya 2. Ligi'nden gelen korkunç bir ölüm haberiyle sarsıldı. Tenerife forveti Jesus de Miguel, Andorra kalecisi Jesús Owono'nun sert faulü sonrasında kaldırıldığı hastanede hayatını kaybetti. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/yesil-sahada-korkunc-olum-ispanyol-forvet-yapilan-sert-faul-sonrasi-hayatini-kaybetti-43364289"
+          "title": "Dirk Kuyt: 'Liverpool maçı için çok iyi bir planımız var, bu plana inanmalıyız'",
+          "summary": "Fenerbahçe teknik sorumlusu Dirk Kuyt, yarın akşam Şampiyonlar Ligi'nde Liverpool ile oynayacakları maç öncesinde düzenlenen basın toplantısında, \"Liverpool maçı Fenerbahçe için, oyuncular için çok büyük bir fırsat. Çok iyi bir planımız var, bu plana inanmalıyız. Dört gözle Kadıköy'de olmayı bekliyorum. Taraftarlarımız arkamızda olacaktır ve en büyük şansımız bu olacaktır.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dirk-kuyt-liverpool-maci-icin-cok-iyi-bir-planimiz-var-bu-plana-inanmaliyiz-43364697"
         },
         {
-          "title": "Galatasaray'ın yıldızına Avrupa'dan 3 talip! 30 milyon Euro'yu gözden çıkardılar",
-          "summary": "Galatasaray'ın Brezilyalı yıldızı Gabriel Sara için yeni bir transfer gelişmesi yaşandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-yildizina-avrupadan-3-talip-30-milyon-euroyu-gozden-cikardilar-43364192"
+          "title": "Fenerbahçe, Emre Belözoğlu ile görüşmelere başladı! Conceiçao iptal",
+          "summary": "İsmail Kartal'la yollarını ayırdıktan sonra teknik direktörlük için Sergio Conceição ile prensip anlaşmasına varan Fenerbahçe, Portekizli teknik adamın taleplerini sonradan değiştirmesi üzerine rotayı yeniden yerli teknik direktöre çevirdi. Sarı lacivertliler bu bağlamda Emre Belözoğlu ile görüşmelere başladı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-emre-belozoglu-gorusmelere-basladi-conceicao-iptal-43364607"
         },
         {
-          "title": "Yüksel Yıldırım: 'Bu kulübü alt lige düşürmek için değil, Avrupa'ya taşımak için geldim'",
-          "summary": "Süper Lig'de oynadığı 8 maçı kaybeden ve küme düşme hattında yer alan Samsunspor'un Başkanı Yüksel Yıldırım, “Bugün Samsunspor'a sahip çıkma günüdür. Ben buradayım. Yönetim burada. Futbolcularımız burada. Kaçan yok, saklanan yok. Bu takımı hep birlikte yeniden ayağa kaldıracağız. Ben bu kulübü bir alt lige düşürmek için değil, Avrupa'ya taşımak için geldim ve tüm yatırımları şimdiye kadar hiç bir tereddüt duymadan yaptım.",
-          "source": "https://www.hurriyet.com.tr/sporarena/yuksel-yildirim-bu-kulubu-alt-lige-dusurmek-icin-degil-avrupaya-tasimak-icin-geldim-43364175"
+          "title": "Serdar Aziz, teknik direktörlüğe hazırlanıyor: Fenerbahçe'de şampiyonluk yaşayamamak içimde ukde kaldı",
+          "summary": "Bir dönem A Milli Takım başta olmak üzere Bursaspor, Galatasaray ve Fenerbahçe’de forma giyen Serdar Aziz, teknik direktörlük için eğitimler almaya başladığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdar-aziz-teknik-direktorluge-hazirlaniyor-fenerbahcede-sampiyonluk-yasayamamak-icimde-ukde-kaldi-43364479"
         },
         {
-          "title": "Aziz Yıldırım aday değil! Fenerbahçe başkanlığı için Mehmet Ali Aydınlar ve görüşme sürprizi",
-          "summary": "Fenerbahçe'de yaklaşan başkanlık seçimleri öncesi Mehmet Ali Aydınlar gelişmesi ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-aday-degil-fenerbahce-baskanligi-icin-mehmet-ali-aydinlar-ve-gorusme-surprizi-43364107"
+          "title": "Beşiktaş'a Alman, Trabzonspor'a Estonyalı hakem",
+          "summary": "Avrupa kupalarındaki temsilcilerimizden Beşiktaş'ın Avrupa Ligi'ndeki Celtic, Trabzonspor'un ise Konferans Ligi'ndeki Freiburg maçlarını yönetecek hakemler belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-alman-trabzonspora-estonyali-hakem-43364539"
         },
         {
-          "title": "Devler Ligi'nde Atletico Madrid'in konuğu Bayern Münih! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "UEFA Şampiyonlar Ligi'den Atletico Madrid, Alman devi Bayern Münih'i ağırlıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/devler-liginde-atletico-madridin-konugu-bayern-munih-macin-heyecani-canli-sohbet-ile-mislide-43364161"
+          "title": "Dört büyük kulübün futbolcuları KKTC’li oyuncularla dostluk maçına çıkacak",
+          "summary": "Türkiye Cumhuriyeti Gençlik ve Spor Bakanlığı ile Kuzey Kıbrıs Türk Cumhuriyeti Başbakanlığı iş birliğinde KKTC Dostluk Kupası düzenlenecek. 7–8 Kasım tarihlerinde KKTC’nin başkenti Lefkoşa’da gerçekleştirilecek organizasyonda Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor’un U15 futbol takımları, Kıbrıs Türk gençleriyle karşılaşacak. Gençlik ve Spor Bakanı Dr. Osman Aşkın Bak, iki ülke sporcularını aynı sahada buluşturmanın mutluluğunu yaşadıklarını belirterek, KKTC Dostluk Kupası’nı çok önemsediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dort-buyuk-kulubun-futbolculari-kktcli-oyuncularla-dostluk-macina-cikacak-43364532"
         },
         {
-          "title": "Alperen Şengün'ün son kurbanı Boston Celtics!",
-          "summary": "NBA'de Houston Rockets, milli oyuncu Alperen Şengün'ün \"double-double\" yaptığı maçta sahasında Boston Celtics'i 109-93 yendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/alperen-sengunun-son-kurbani-boston-celtics-43364103"
+          "title": "Galatasaray iç sahada favori, Şampiyonlar Ligi’nde taraf bahisleri öne çıkıyor! İşte Misli’de günün en çok oynanan maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ic-sahada-favori-sampiyonlar-liginde-taraf-bahisleri-one-cikiyor-iste-mislide-gunun-en-cok-oynanan-maclari-43364491"
         },
         {
-          "title": "Fenerbahçe'de Liverpool maçı öncesi eksikler can sıkıyor",
-          "summary": "Şampiyonlar Ligi'nin 4. haftasında yarın sahasında Liverpool ile karşılaşacak olan Fenerbahçe'de kritik oyuncuların sakatlığı can sıkıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-liverpool-maci-oncesi-eksikler-can-sikiyor-43364044"
+          "title": "At Yarışı Tutkusu Adana’da Yükseliyor! İşte Misli’den Günün Altılı Analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/at-yarisi-tutkusu-adanada-yukseliyor-iste-misliden-gunun-altili-analizi-43364465"
         }
       ]
     },
