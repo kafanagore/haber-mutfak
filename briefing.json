@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-03T04:00:03.648Z",
+  "generatedAt": "2026-11-03T10:00:04.307Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da fırtına ve yağmur. Rusya'dan soğuk hava geliyor. Ticaret Bakanlığı’ndan yanıltıcı reklama 108 bin lira ceza. İstanbul'da şiddetli sağanak. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü. İş insanı Nevzat Aydın’a tehdit soruşturmasında 7 şüpheli tutuklandı. TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor. Diyarbakır’da kamyon ile hafif ticari araç çarpıştı: 2 ölü, 13 yaralı. Sarıgül soruşturmasında 4 tutuklama, 8 adli kontrol.",
+      "text": "\"Acımız da hayalimiz de ortak\" Şehit aileleri bir şehidin vasiyeti için inşaata girdi. Emine Erdoğan'dan Güney Kore paylaşımı: Sıcaklık ve samimiyet köklü kardeşliğin ifadesidir. Cumhurbaşkanı Erdoğan'dan Ahmet Nazif Zorlu için başsağlığı mesajı. Kaldırımda bekleyen kadına tokat attı: \"Kolum çarptı\" savunması tutmadı. Bahçeli: Siyasette arınma ertelenemez bir gereklilik. 17 ilde kara para operasyonu. 31 gözaltı. Meteorolojiden İstanbul'a uyarı: Kar soğuğu ve yağış için saat belli oldu.",
       "items": [
         {
-          "title": "İstanbul'da fırtına ve yağmur. Rusya'dan soğuk hava geliyor",
-          "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili oldu. Yağışın bugün öğleden sonra yeniden kuvvetlenmesi bekleniyor. ÖNCE SAĞANAK, ARDINDAN KAR SOĞUĞU Türkiye, Rusya üzerinden gelen soğuk hava dalgasının etkisine girecek. Sıcaklıkların 8 derece düşmesi bekleniyor. İstanbul'da yağmur bugün öğleden sonra yeniden kuvvetlenecek. Yarın da sağanak şeklinde devam edecek. Bugün 20 derece olan sıcaklık, Perşembe günü ise 12 dereceye kadar inecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096"
+          "title": "\"Acımız da hayalimiz de ortak\" Şehit aileleri bir şehidin vasiyeti için inşaata girdi",
+          "summary": "Çankırı'nın Ahlat köyünde şehit Emrah Ersoy'un annesi kabrine yakın olsun ve oğlunun vasiyeti yerine gelsin diye başlatılan ev inşaatına şehit aileleri sahip çıktı. Kazma kürek çalışan şehit babaları ve kardeşleri, çatıyı kapatıp evin dış cephesini el birliğiyle tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/acimiz-da-hayalimiz-de-ortak-sehit-aileleri-bir-sehidin-vasiyeti-icin-insaata-girdi-43364372"
         },
         {
-          "title": "Ticaret Bakanlığı’ndan yanıltıcı reklama 108 bin lira ceza",
-          "summary": "Ticaret Bakanlığı Reklam Kurulu, Antalya’da bir alışveriş merkezinde bulunan bir mağazada yapılan yanıltıcı \"2. ürüne yüzde 50 indirim\" reklamına 108 bin lira ceza kesti. Ticaret Bakanlığı Reklam Kurulu, tüketicileri yanıltan reklam ve tanıtımlara karşı denetimleri kapsamında Antalya'da bir outlet alışveriş merkezindeki mağazada, \"2. ürüne %50 indirim\" afişlerinin mağaza geneline ve farklı ürün gruplarının bulunduğu reyonlara yerleştirilerek tüm ürünlerde indirim varmış algısı oluşturulduğu tespit edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-108-bin-lira-ceza-1749111"
+          "title": "Emine Erdoğan'dan Güney Kore paylaşımı: Sıcaklık ve samimiyet köklü kardeşliğin ifadesidir",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Güney Kore'ye gerçekleştirdiği devlet ziyaretine eşlik eden Emine Erdoğan, resmi karşılama törenine ilişkin sosyal medya paylaşımında bulunarak, kendilerini karşılayan samimiyetin iki ülke arasındaki köklü bağların göstergesi olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-guney-kore-paylasimi-sicaklik-ve-samimiyet-koklu-kardesligin-ifadesidir-43364351"
         },
         {
-          "title": "İstanbul'da şiddetli sağanak. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü",
-          "summary": "İstanbul'da gök gürültülü sağanak nedeniyle yağışın ardından bazı caddeler ve sokaklar suyla doldu, yollarda çökme meydana geldi. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü.",
-          "source": "https://www.ntv.com.tr/turkiye/video-istanbulda-siddetli-saganak-camlica-kulesi-ve-finans-merkezine-yildirim-dustu-1749108"
+          "title": "Cumhurbaşkanı Erdoğan'dan Ahmet Nazif Zorlu için başsağlığı mesajı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, hayatını kaybeden Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu için taziye mesajı yayımladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-ahmet-nazif-zorlu-icin-bassagligi-mesaji-43364345"
         },
         {
-          "title": "İş insanı Nevzat Aydın’a tehdit soruşturmasında 7 şüpheli tutuklandı",
-          "summary": "İş insanı Nevzat Aydın, oğlunun Trabzonspor-Beşiktaş maçında seremoniye çıkması için 100 milyon lira ödediği yönündeki haberlerin ardından, 'Çirkinler' isimli suç örgütü üyesi olduğunu söyleyen K.A. tarafından arandığını ve 1 milyon avro istendiğini belirterek şikayetçi oldu. Soruşturma kapsamında düzenlenen operasyonda gözaltına alınan 8 şüpheli adliyeye sevk edildi. Şüphelilerden 7'si tutuklanırken, 1 kişi hakkında 'Ev hapsi' şeklinde adli kontrol tedbiri uygulandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/is-insani-nevzat-aydina-tehdit-sorusturmasinda-7-supheli-tutuklandi-43363875"
+          "title": "Kaldırımda bekleyen kadına tokat attı: \"Kolum çarptı\" savunması tutmadı",
+          "summary": "Nevşehir'de dükkan önünde bekleyen tanımadığı 46 yaşındaki kadına tokat atarak kulağında işitme kaybına yol açan ve polisteki ifadesinde \"Kolum yanlışlıkla çarptı\" diyen 6 suç kayıtlı şüpheli, çıkarıldığı mahkemece tutuklandı. Saldırı anı güvenlik kamerasına yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kaldirimda-bekleyen-kadina-tokat-atti-kolum-carpti-savunmasi-tutmadi-43364310"
         },
         {
-          "title": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
-          "summary": "Türkiye'nin Otomobili Girişim Grubu'ndaki (TOGG) AG Anadolu Grubu Holding ve Vestel Elektronik'in paylarının Türkiye Varlık Fonu (TVF) ve Turkcell'e devrine ilişkin sözleşmeler imzalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874"
+          "title": "Bahçeli: Siyasette arınma ertelenemez bir gereklilik",
+          "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, siyasette arınma ve aklanmanın ertelenemez bir gereklilik olduğunu söyledi. Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, partisinin grup toplantısında gündemdeki konulara ilişkin önemli açıklamalarda bulundu. Terörsüz Türkiye ve terörsüz bölge süreçlerinin Türkiye ve bölge ülkeleri açısından hayati bir öneme sahip olduğunu söyleyen Bahçeli, \"Türk milleti kararını vermiştir, terör bitecek kardeşlik yükselecek.\" dedi.",
+          "source": "https://www.ntv.com.tr/turkiye/bahceli-teror-bitecek-kardeslik-yukselecek-1749185"
         },
         {
-          "title": "Diyarbakır’da kamyon ile hafif ticari araç çarpıştı: 2 ölü, 13 yaralı",
-          "summary": "DİYARBAKIR’da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi öldü, 13 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-kamyon-ile-hafif-ticari-arac-carpisti-2-olu-13-yarali-43363872"
+          "title": "17 ilde kara para operasyonu. 31 gözaltı",
+          "summary": "İzmir merkezli 17 ilde suç gelirlerinin aklanmasına yönelik düzenlenen operasyonlarda 31 şüpheli yakalandı. Şüphelilerin 2,1 milyar liralık işlem hacmi tespit edildi. Bakanlığın sosyal medya hesabından yapılan açıklamaya göre; İzmir Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şubesi ile İzmir Cumhuriyet Başsavcılığı koordinesinde düzenlenen operasyona 350 personel katıldı. 1 teknoloji tespit köpeğinin kullanıldığı operasyonlarda, 31 şüpheli yakalandı.",
+          "source": "https://www.ntv.com.tr/turkiye/17-ilde-kara-para-operasyonu-31-gozalti-1749212"
         },
         {
-          "title": "Sarıgül soruşturmasında 4 tutuklama, 8 adli kontrol",
-          "summary": "İSTANBUL Cumhuriyet Başsavcılığı tarafından Sarıgül Ailesi’ne yönelik ‘kara para aklama’ ve ‘cinsel saldırı’ iddialarıyla yürütülen soruşturma kapsamında gözaltına alınan 10 şüpheli emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/sarigul-sorusturmasinda-4-tutuklama-8-adli-kontrol-43363864"
+          "title": "Meteorolojiden İstanbul'a uyarı: Kar soğuğu ve yağış için saat belli oldu",
+          "summary": "Rusya kaynaklı soğuk hava dalgası, yurdu etkisi altına alacak. Meteoroloji Genel Müdürlüğü, İstanbul'u fırtına ve sağanak yağmura karşı uyardı. Bazı bölgelerde hafta sonuna doğru kar beklentisi var. Türkiye, Rusya üzerinden gelen soğuk hava dalgasının etkisi altına girecek. Hava sıcaklıklarının yurt genelinde 8 derece düşmesi bekleniyor. İstanbul ve Ankara'da 19-20 derece bandında seyreden hava sıcaklıkları 10-12 dereceye kadar gerileyecek. Bazı şehirler için kar yağışı tahmini de yapıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-kar-sogugu-geliyor-istanbulda-hava-sicakligi-aniden-dusecek-bazi-sehirlerde-kar-bekleniyor-1749141"
         }
       ]
     },
     "dunya": {
-      "text": "ABD basını: ABD İran’ın Keşm Adası’na saldırılar düzenledi. Umman açıklarındaki ticari gemiye şüpheli saldırı. ABD, Ukrayna ile Rusya arasındaki müzakerelerde arabuluculuk yapacak. Rusya-Ukrayna barış çabaları. Üçlü görüşmenin tarihi ve yeri belli oldu. Eve dönüşü 28 yıl sürdü: Tam 60 bin kilometre yürüdü. Sandık başında cüzdan hesabı. Faiz ve kira yükü Amerikalıları bunalttı. İsrail'de muhalif lider Liberman, Eisenkot'u destekleyeceğini açıkladı.",
+      "text": "Güney Kore'yle dört anlaşma imzalandı. Cumhurbaşkanı Erdoğan: Ticaret hedefi 15 milyar dolar. Otomotiv krizinde yeni perde. Dev tedarikçi binlerce kişiyi işten çıkarıyor. ABD'nin NATO'dan kritik silah programına destek talep edeceği iddiası. Boşanma davasında yapay zekaya güvenen kocaya kötü haber. Fazladan para ödeyecek. Nepal'de helikopter kazası: 1 ölü, 3 yaralı. Pakistan'da aşılama ekibini koruyan polislere silahlı saldırı. Trump için referanduma dönüştü. ABD'deki seçimler öncesi anketler ne söylüyor?.",
       "items": [
         {
-          "title": "ABD basını: ABD İran’ın Keşm Adası’na saldırılar düzenledi",
-          "summary": "ABD basını, ABD ordusunun İran’ın Keşm Adası’na yönelik saldırılar gerçekleştirdiğini yazdı. İran basını da farklı bölgelerden patlama sesleri duyulduğunu bildirdi. ABD ve İran arasındaki askeri gerginlik yeni çatışma endişeleri ve barış umutlarının gölgesinde sürerken, ABD basını dikkat çeken bir iddiayı gündeme taşıdı. The Wall Street Journal (WSJ) gazetesi hükümet kaynaklarına dayandırdığı haberinde ABD ordusunun İran’ın Keşm Adası’na yönelik saldırılar gerçekleştirdiğini bildirdi.",
-          "source": "https://www.ntv.com.tr/dunya/abd-basini-abd-iranin-kesm-adasina-saldirilar-duzenledi-1749115"
+          "title": "Güney Kore'yle dört anlaşma imzalandı. Cumhurbaşkanı Erdoğan: Ticaret hedefi 15 milyar dolar",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyarette bulunduğu Güney Kore Devlet Başkanı Lee Jae Myung ile ortak basın toplantısı düzenledi. Cumhurbaşkanı Recep Tayyip Erdoğan resmi ziyaret için geldiği Güney Kore'nin başkenti Seul'deki Cumhurbaşkanlığı Sarayı'nda Güney Kore Devlet Başkanı Lee tarafından resmi törenle karşılandı. Baş başa ve heyetler arası görüşmelerin ardından iki lider ortak basın toplantısı düzenledi.",
+          "source": "https://www.ntv.com.tr/dunya/cumhurbaskani-erdogan-guney-kore-ile-stratejik-ortagiz-ticaret-hedefi-15-milyar-dolar-1749167"
         },
         {
-          "title": "Umman açıklarındaki ticari gemiye şüpheli saldırı",
-          "summary": "Birleşik Krallık Deniz Ticareti Operasyonları Ajansı (UKMTO), Umman'ın Lima bölgesinin yaklaşık 16,5 kilometre kuzeydoğusunda seyreden bir ticari geminin şüpheli bir saldırıya uğradığını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/umman-aciklarindaki-ticari-gemiye-supheli-saldiri-43363881"
+          "title": "Otomotiv krizinde yeni perde. Dev tedarikçi binlerce kişiyi işten çıkarıyor",
+          "summary": "Alman otomotiv tedarikçisi Schaeffler, Çin kaynaklı rekabet ve talep daralması gerekçesiyle Avrupa'da yaklaşık 3 bin 500 kişiyi işten çıkaracağını ve beş tesisini kapatacağını duyurdu. Avrupa otomotiv sektöründe yaşanan daralma ve artan maliyetler, tedarik zincirinin kritik halkalarını doğrudan etkiliyor. Almanya merkezli otomotiv ve sanayi parçaları üreticisi Schaeffler, derinleşen sektör krizine gerekçe göstererek Avrupa genelinde yaklaşık 3 bin 500 kişiyi işten çıkaracağını ve beş tesisini kapatacağını duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-otomotiv-krizinde-yeni-perde-alman-parca-devi-binlerce-kisiyi-isten-cikariyor-1749215"
         },
         {
-          "title": "ABD, Ukrayna ile Rusya arasındaki müzakerelerde arabuluculuk yapacak",
-          "summary": "ABD'nin, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında çalışma düzeyinde yürütülecek müzakerelere arabuluculuk yapacağı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-ukrayna-ile-rusya-arasindaki-muzakerelerde-arabuluculuk-yapacak-43363880"
+          "title": "ABD'nin NATO'dan kritik silah programına destek talep edeceği iddiası",
+          "summary": "ABD yönetiminin, NATO müttefiklerinden Ukrayna'ya yönelik kritik silah tedarik programı konusunda \"daha fazla mali katkıda bulunmalarını\" isteyeceği iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdnin-natodan-kritik-silah-programina-destek-talep-edecegi-iddiasi-43364298"
         },
         {
-          "title": "Rusya-Ukrayna barış çabaları. Üçlü görüşmenin tarihi ve yeri belli oldu",
-          "summary": "ABD, Ukrayna ve Rusya arasındaki teknik görüşmeler için tarih belirlendi. ABD Başkanı Donald Trump'ın temsilcisi Steve Witkoff Abu Dabi'de yapılması planlanan görüşmeler için 10-11 kasımı işaret etti. ABD Başkanı Donald Trump'ın özel temsilcisi Steve Witkoff, sosyal medya hesabından konuya ilişkin açıklamada bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/rusya-ukrayna-baris-cabalari-uclu-gorusmenin-tarihi-ve-yeri-belli-oldu-1749109"
+          "title": "Boşanma davasında yapay zekaya güvenen kocaya kötü haber. Fazladan para ödeyecek",
+          "summary": "Boşanma ve velayette avukat yerine yapay zekaya danışanlar, uydurma kanun maddeleri ve hatalı taktikler yüzünden mahkemede davayı kaybediyor. Eşinden ayrılmak veya çocuklarının velayetini almak için binlerce dolarlık avukatlık masrafını ödemek istemeyenlerin internetteki yapay zeka sohbet uygulamalarına danışması, adliyelerde daha önce görülmemiş bir karmaşaya yol açıyor. Yasa maddelerini sıralayan ve kullanıcısına duymak istediği haklılığı vadeden algoritmalar, duruşma salonuna girildiğinde gerçeklerle uyuşmuyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bosanma-davasinda-yapay-zekaya-guvenen-kocaya-kotu-haber-fazladan-para-odeyecek-1749199"
         },
         {
-          "title": "Eve dönüşü 28 yıl sürdü: Tam 60 bin kilometre yürüdü",
-          "summary": "İngiliz gezgin Karl Bushby, İngiltere'nin Hull kentindeki evine ulaşmak için 28 yıl önce Şili'de başladığı ve yürüyerek yaptığı kıtalararası yolculuğunu tamamladı. İngiltere medyasında yer alan habere göre Bushby, 29 ülkeyi geçtiği, 28 yıl süren yaklaşık 60 bin kilometrelik kıtalararası yürüyüşün ardından Hull kentinde annesinin yaşadığı eve ulaştı.",
-          "source": "https://www.ntv.com.tr/dunya/eve-donusu-28-yil-surdu-tam-60-bin-kilometre-yurudu-1749106"
+          "title": "Nepal'de helikopter kazası: 1 ölü, 3 yaralı",
+          "summary": "Nepal'de helikopter pistine aynı anda iniş yapmaya çalışan iki helikopterin çarpışması sonucu 1 kişi hayatını kaybetti, 3 kişi yaralandı.",
+          "source": "https://www.ntv.com.tr/dunya/video-nepalde-helikopter-kazasi-1-olu-3-yarali-1749205"
         },
         {
-          "title": "Sandık başında cüzdan hesabı. Faiz ve kira yükü Amerikalıları bunalttı",
-          "summary": "ABD'de Kongre seçimlerine saatler kala seçmenler, son çeyrekte yüzde 3,4 büyüyen ekonomiye rağmen İran savaşı ve gümrük tarifelerinin körüklediği enflasyondan yakınıyor. ABD'de Kongre'yi kimin alacağını belirleyecek ara seçimler öncesinde sandık başına gitmeye hazırlanan seçmenlerin en önemli gündemini, gümrük vergileri ve sekiz aydır süren İran savaşıyla körüklenen hayat pahalılığı oluşturuyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-sandik-basinda-cuzdan-hesabi-faiz-ve-kira-yuku-amerikalilari-bunaltti-1749049"
+          "title": "Pakistan'da aşılama ekibini koruyan polislere silahlı saldırı",
+          "summary": "Pakistan'ın kuzeybatısındaki Hayber Pahtunhva eyaletinde silahlı şahıslar aşılama ekiplerini koruyan polisleri hedef aldı. Olayda 2 polis yaşamını yitirdi, 1 polis yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/pakistanda-asilama-ekibini-koruyan-polislere-silahli-saldiri-43364185"
         },
         {
-          "title": "İsrail'de muhalif lider Liberman, Eisenkot'u destekleyeceğini açıkladı",
-          "summary": "İsrail'de sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim seçimlerinin ardından muhalif lider Avigdor Liberman, Yashar Partisi lideri Gadi Eisenkot'u başbakanlık için destekleyeceğini açıkladı. Seçimlere ve siyasi pozisyonuna ilişkin basın açıklaması yapan muhalefetteki Evimiz İsrail Partisi lideri Avigdor Liberman, İsrail basınında muhalefet liderleriyle anlaşmazlık yaşadığına ilişkin spekülatif haberlere karşı, hiçbir koşulda İsrail Başbakanı Binyamin Netanyahu ile aynı hükümette görev almayacağını vurguladı.",
-          "source": "https://www.ntv.com.tr/dunya/israilde-muhalif-lider-liberman-eisenkotu-destekleyecegini-acikladi-1749069"
+          "title": "Trump için referanduma dönüştü. ABD'deki seçimler öncesi anketler ne söylüyor?",
+          "summary": "ABD'de bugün düzenlenen ara seçimler öncesinde Cumhuriyetçi Parti, Kongrenin her iki kanadında da çoğunluğu kaybetme riskiyle karşı karşıya. ABD'de 2024 başkanlık seçimlerinin ardından Beyaz Saray'ın yanı sıra Kongrenin her iki kanadını da kontrol eden Cumhuriyetçi Parti, bugün düzenlenen ara seçimler öncesinde kırılgan bir çoğunluk dengesiyle karşı karşıya.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-trump-icin-referanduma-donustu-abddeki-secimler-oncesi-anketler-ne-soyluyor-1749179"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Bernd Storck'tan Beşiktaş maçı açıklaması: 'Kaybedecek bir şeyimiz yok'. Joao Pereira: 'Daha akıllı olmamız lazım'. Kayserispor, Muğlaspor'u 6 golle devirdi!. TFF Başkanı İbrahim Hacıosmanoğlu'ndan Ferhat Gündoğdu, bahis ve yayın ihalesi açıklaması!. Anadolu Efes, Aliağa Petkimspor'u deplasmanda devirdi!. Mısır Futbol Federasyonu Başkanı Rida'dan Trabzonspor'a ziyaret. Sebastian Hoeness: 'Galatasaray güçlü bir takım, neler yapabildiklerini biliyoruz'.",
+      "text": "Yeşil sahada korkunç ölüm! İspanyol forvet, yapılan sert faul sonrası hayatını kaybetti. Galatasaray'ın yıldızına Avrupa'dan 3 talip! 30 milyon Euro'yu gözden çıkardılar. Yüksel Yıldırım: 'Bu kulübü alt lige düşürmek için değil, Avrupa'ya taşımak için geldim'. Aziz Yıldırım aday değil! Fenerbahçe başkanlığı için Mehmet Ali Aydınlar ve görüşme sürprizi. Devler Ligi'nde Atletico Madrid'in konuğu Bayern Münih! Maçın heyecanı canlı sohbet ile Misli'de. Alperen Şengün'ün son kurbanı Boston Celtics!. Fenerbahçe'de Liverpool maçı öncesi eksikler can sıkıyor.",
       "items": [
         {
-          "title": "Bernd Storck'tan Beşiktaş maçı açıklaması: 'Kaybedecek bir şeyimiz yok'",
-          "summary": "Trendyol Süper Lig'in 10. haftasında sahasında Corendon Alanyaspor'u 5-0 yenen Gençlerbirliği'nin teknik direktörü Bernd Storck, muhteşem bir galibiyet aldıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bernd-storcktan-besiktas-maci-aciklamasi-kaybedecek-bir-seyimiz-yok-43363868"
+          "title": "Yeşil sahada korkunç ölüm! İspanyol forvet, yapılan sert faul sonrası hayatını kaybetti",
+          "summary": "Futbol dünyası, İspanya 2. Ligi'nden gelen korkunç bir ölüm haberiyle sarsıldı. Tenerife forveti Jesus de Miguel, Andorra kalecisi Jesús Owono'nun sert faulü sonrasında kaldırıldığı hastanede hayatını kaybetti. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/yesil-sahada-korkunc-olum-ispanyol-forvet-yapilan-sert-faul-sonrasi-hayatini-kaybetti-43364289"
         },
         {
-          "title": "Joao Pereira: 'Daha akıllı olmamız lazım'",
-          "summary": "Alanyaspor Teknik Direktörü Joao Pereira, Gençlerbirliği karşılaşmasının ardından, \"Üç maç üst üste mağlup olduk. Oyuncularımı aslında uyarmıştım; daha güçlü, daha akıllı, daha odaklı olmamız lazım diye ama tam tersi ilk dakika 1-0 geriye düştük\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-daha-akilli-olmamiz-lazim-43363802"
+          "title": "Galatasaray'ın yıldızına Avrupa'dan 3 talip! 30 milyon Euro'yu gözden çıkardılar",
+          "summary": "Galatasaray'ın Brezilyalı yıldızı Gabriel Sara için yeni bir transfer gelişmesi yaşandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-yildizina-avrupadan-3-talip-30-milyon-euroyu-gozden-cikardilar-43364192"
         },
         {
-          "title": "Kayserispor, Muğlaspor'u 6 golle devirdi!",
-          "summary": "Kayserispor, Trendyol 1. Lig’in 13. haftasında Muğlaspor'u 6-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/kayserispor-muglasporu-6-golle-devirdi-43363786"
+          "title": "Yüksel Yıldırım: 'Bu kulübü alt lige düşürmek için değil, Avrupa'ya taşımak için geldim'",
+          "summary": "Süper Lig'de oynadığı 8 maçı kaybeden ve küme düşme hattında yer alan Samsunspor'un Başkanı Yüksel Yıldırım, “Bugün Samsunspor'a sahip çıkma günüdür. Ben buradayım. Yönetim burada. Futbolcularımız burada. Kaçan yok, saklanan yok. Bu takımı hep birlikte yeniden ayağa kaldıracağız. Ben bu kulübü bir alt lige düşürmek için değil, Avrupa'ya taşımak için geldim ve tüm yatırımları şimdiye kadar hiç bir tereddüt duymadan yaptım.",
+          "source": "https://www.hurriyet.com.tr/sporarena/yuksel-yildirim-bu-kulubu-alt-lige-dusurmek-icin-degil-avrupaya-tasimak-icin-geldim-43364175"
         },
         {
-          "title": "TFF Başkanı İbrahim Hacıosmanoğlu'ndan Ferhat Gündoğdu, bahis ve yayın ihalesi açıklaması!",
-          "summary": "Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu, gündemki konular hakkında açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-baskani-ibrahim-haciosmanoglundan-ferhat-gundogdu-bahis-ve-yayin-ihalesi-aciklamasi-43363738"
+          "title": "Aziz Yıldırım aday değil! Fenerbahçe başkanlığı için Mehmet Ali Aydınlar ve görüşme sürprizi",
+          "summary": "Fenerbahçe'de yaklaşan başkanlık seçimleri öncesi Mehmet Ali Aydınlar gelişmesi ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aziz-yildirim-aday-degil-fenerbahce-baskanligi-icin-mehmet-ali-aydinlar-ve-gorusme-surprizi-43364107"
         },
         {
-          "title": "Anadolu Efes, Aliağa Petkimspor'u deplasmanda devirdi!",
-          "summary": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi’nin 6. haftasında Aliağa Petkimspor'u deplasmanda 87-77 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-aliaga-petkimsporu-deplasmanda-devirdi-43363717"
+          "title": "Devler Ligi'nde Atletico Madrid'in konuğu Bayern Münih! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "UEFA Şampiyonlar Ligi'den Atletico Madrid, Alman devi Bayern Münih'i ağırlıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/devler-liginde-atletico-madridin-konugu-bayern-munih-macin-heyecani-canli-sohbet-ile-mislide-43364161"
         },
         {
-          "title": "Mısır Futbol Federasyonu Başkanı Rida'dan Trabzonspor'a ziyaret",
-          "summary": "Mısır Futbol Federasyonu Başkanı Hany Abo Rida, Trabzonspor Kulübünü ziyaret etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/misir-futbol-federasyonu-baskani-ridadan-trabzonspora-ziyaret-43363690"
+          "title": "Alperen Şengün'ün son kurbanı Boston Celtics!",
+          "summary": "NBA'de Houston Rockets, milli oyuncu Alperen Şengün'ün \"double-double\" yaptığı maçta sahasında Boston Celtics'i 109-93 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alperen-sengunun-son-kurbani-boston-celtics-43364103"
         },
         {
-          "title": "Sebastian Hoeness: 'Galatasaray güçlü bir takım, neler yapabildiklerini biliyoruz'",
-          "summary": "Stuttgart Teknik Direktörü Sebastian Hoeness, Şampiyonlar Ligi'nde Galatasaray ile oynayacakları maç öncesinde açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sebastian-hoeness-galatasaray-guclu-bir-takim-neler-yapabildiklerini-biliyoruz-43363677"
+          "title": "Fenerbahçe'de Liverpool maçı öncesi eksikler can sıkıyor",
+          "summary": "Şampiyonlar Ligi'nin 4. haftasında yarın sahasında Liverpool ile karşılaşacak olan Fenerbahçe'de kritik oyuncuların sakatlığı can sıkıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-liverpool-maci-oncesi-eksikler-can-sikiyor-43364044"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Bir yılda 50 kilo verdi. Yoğun iş temposu iğne ipliğe çevirdi. Havalar soğudu, grip vakaları arttı. Uzmanı uyardı: Bir haftayı geçiyorsa dikkat. Uzmanlardan kış uyarısı: Bir haftayı geçen şikayetlere dikkat. Alzheimer'da gençlik proteini keşfi. Anne adayları dikkat, artık MHRS'den randevu alınabiliyor. İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi. Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor.",
+      "text": "Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat. Bir yılda 50 kilo verdi. Yoğun iş temposu iğne ipliğe çevirdi. Havalar soğudu, grip vakaları arttı. Uzmanı uyardı: Bir haftayı geçiyorsa dikkat. Uzmanlardan kış uyarısı: Bir haftayı geçen şikayetlere dikkat. Alzheimer'da gençlik proteini keşfi. Anne adayları dikkat, artık MHRS'den randevu alınabiliyor. İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi.",
       "items": [
+        {
+          "title": "Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat",
+          "summary": "Doğada masum görünen bazı mantarlar ölümcül zehirler taşıyor. Bir lokması bile hayati tehlikeye yol açabilen zehirli mantarlar hangileri? Mantar toplarken nelere dikkat edilmeli?",
+          "source": "https://www.ntv.com.tr/saglik/video-bir-lokmasi-olume-goturebilir-dogadaki-olumcul-mantar-tehlikesine-dikkat-1749156"
+        },
         {
           "title": "Bir yılda 50 kilo verdi. Yoğun iş temposu iğne ipliğe çevirdi",
           "summary": "Ankara'da 5 yıldır oto sanayi sitesinde çalışan Mia Uyanık, sanayinin yoğun çalışma temposuyla kilo verdi. Bir yılda 120 kilodan 70 kiloya düştü. Ankara'nın Etimesgut ilçesindeki oto sanayi sitesinde 5 yıldır çalışan Mia Uyanık, sanayinin yoğun çalışma temposuyla fazla kilolarından kurtuldu. Egzozculuk ve lastikçilik gibi farklı alanlarda çalıştıktan sonra mekanik ustalığı yapmaya başlayan Uyanık, gün boyu hareket halinde olduğu işinde hem mesleki deneyim kazandı hem de 50 kilo verdi.",
@@ -235,11 +240,6 @@
           "title": "İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi",
           "summary": "Yapılan son araştırmalar, antidepresanlara yanıt vermeyen hastaların, biyolojik saatlerindeki bozukluktan kaynaklanan bir depresyon alt türünün pençesinde olabileceğini ortaya koydu. Avustralyalı bilim insanları, geleneksel antidepresanlardan fayda bulamayan hastaların, kendi biyolojik saatlerindeki bozukluktan kaynaklanan şiddetli bir alt depresyon türünün pençesinde olabileceğini keşfetti.",
           "source": "https://www.ntv.com.tr/saglik/galeri-ilaclara-yanit-vermeyen-yeni-bir-depresyon-turu-tespit-edildi-1747333"
-        },
-        {
-          "title": "Tansiyon, şeker ve kolesterole iyi geliyormuş. Kurutularak çay gibi içiliyor",
-          "summary": "Karamuk meyvesi, tezgahta yerini aldı. Birçok hastalığa iyi geldiğine inanılan bu meyvenin kilosu 70-100 TL arasında değişiyor. Sivas'ın ilçe ve köylerinde dağlık bölgelerde ve yüksek kesimlerde yetişen karamuk meyvesi, kısa süren hasat dönemi sonrası tezgahta yerini aldı. Yaklaşık bir aylık tüketim dönemi bulunan meyve, hem taze olarak hem de reçel ve komposto yapımında kullanılıyor.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-tansiyon-seker-ve-kolesterole-iyi-geliyormus-kurutularak-cay-gibi-iciliyor-1747155"
         }
       ]
     },
