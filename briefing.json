@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-02T16:00:03.852Z",
+  "generatedAt": "2026-11-03T04:00:03.648Z",
   "categories": {
     "gundem": {
-      "text": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 102. duruşması sona erdi. \"Mumya ceset\" cinayetinde 19 yıl sonra itiraf. Buzdolabına sığmayınca parçalamışlar. ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı. Sarıgül soruşturmasında 4 kişi hakkında tutuklama talebi. 57 gün sonra gelen acı haberin ardından aileler seslendi: Tüm imkanlar birleştirilsin. TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı. Bakü'ye gökyüzünden anlamlı mesaj. Erdoğan, Azerbaycan hava sahasında Zafer Günü'nü kutladı.",
+      "text": "İstanbul'da fırtına ve yağmur. Rusya'dan soğuk hava geliyor. Ticaret Bakanlığı’ndan yanıltıcı reklama 108 bin lira ceza. İstanbul'da şiddetli sağanak. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü. İş insanı Nevzat Aydın’a tehdit soruşturmasında 7 şüpheli tutuklandı. TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor. Diyarbakır’da kamyon ile hafif ticari araç çarpıştı: 2 ölü, 13 yaralı. Sarıgül soruşturmasında 4 tutuklama, 8 adli kontrol.",
       "items": [
         {
-          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasının 102. duruşması sona erdi",
-          "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 46'sı tutuklu 436 sanığın yargılandığı davanın 102. duruşmasında bir kısım tanıklar dinlendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinin-102-durusmasi-sona-erdi-43363658"
+          "title": "İstanbul'da fırtına ve yağmur. Rusya'dan soğuk hava geliyor",
+          "summary": "Kasım ayıyla birlikte kış yüzünü göstermeye başladı. İstanbul'da dün akşamdan itibaren sağanak yağış etkili oldu. Yağışın bugün öğleden sonra yeniden kuvvetlenmesi bekleniyor. ÖNCE SAĞANAK, ARDINDAN KAR SOĞUĞU Türkiye, Rusya üzerinden gelen soğuk hava dalgasının etkisine girecek. Sıcaklıkların 8 derece düşmesi bekleniyor. İstanbul'da yağmur bugün öğleden sonra yeniden kuvvetlenecek. Yarın da sağanak şeklinde devam edecek. Bugün 20 derece olan sıcaklık, Perşembe günü ise 12 dereceye kadar inecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-saganak-basladi-meteorolojiden-sekiz-il-icin-turuncu-ve-sari-uyari-1749096"
         },
         {
-          "title": "\"Mumya ceset\" cinayetinde 19 yıl sonra itiraf. Buzdolabına sığmayınca parçalamışlar",
-          "summary": "Mersin'de 2007 yılında kamuoyunda \"Mumya ceset\" olarak bilinen cinayetle ilgili 19 yıl sonra yeni ayrıntılar ortaya çıktı. Mersin'de 2007 yılında bir evin avlusunda üzeri betonla kapatılmış buzdolabında cansız bedeni bulunan ve kamuoyunda 'Mumya ceset’ olarak bilinen Bahaddin Sefer (49) cinayetinin ayrıntıları ortaya çıktı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-mumya-ceset-cinayetinde-19-yil-sonra-itiraf-buzdolabina-sigmayinca-parcalamislar-1749078"
+          "title": "Ticaret Bakanlığı’ndan yanıltıcı reklama 108 bin lira ceza",
+          "summary": "Ticaret Bakanlığı Reklam Kurulu, Antalya’da bir alışveriş merkezinde bulunan bir mağazada yapılan yanıltıcı \"2. ürüne yüzde 50 indirim\" reklamına 108 bin lira ceza kesti. Ticaret Bakanlığı Reklam Kurulu, tüketicileri yanıltan reklam ve tanıtımlara karşı denetimleri kapsamında Antalya'da bir outlet alışveriş merkezindeki mağazada, \"2. ürüne %50 indirim\" afişlerinin mağaza geneline ve farklı ürün gruplarının bulunduğu reyonlara yerleştirilerek tüm ürünlerde indirim varmış algısı oluşturulduğu tespit edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-108-bin-lira-ceza-1749111"
         },
         {
-          "title": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/abd-iran-anlasmasina-yonelik-adimlar-piyasalari-olumlu-etkiledi-borsa-gunu-yukselisle-tamamladi-43363655"
+          "title": "İstanbul'da şiddetli sağanak. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü",
+          "summary": "İstanbul'da gök gürültülü sağanak nedeniyle yağışın ardından bazı caddeler ve sokaklar suyla doldu, yollarda çökme meydana geldi. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü.",
+          "source": "https://www.ntv.com.tr/turkiye/video-istanbulda-siddetli-saganak-camlica-kulesi-ve-finans-merkezine-yildirim-dustu-1749108"
         },
         {
-          "title": "Sarıgül soruşturmasında 4 kişi hakkında tutuklama talebi",
-          "summary": "Mustafa Sarıgül ile ilgili kara para aklama iddialarıyla yürütülen soruşturmada gözaltına alınan 10 kişiden 4'ü hakkında tutuklama talep edildi. İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarıyla Yeni Parti Erzincan Milletvekili Mustafa Sarıgül'ün eski eşi Aylin Kotil, oğulları Ömer ve Emir Sarıgül ile gazeteci Murat Ağırel'in tutuklandığı soruşturma sürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-4-kisi-hakkinda-tutuklama-talebi-1749074"
+          "title": "İş insanı Nevzat Aydın’a tehdit soruşturmasında 7 şüpheli tutuklandı",
+          "summary": "İş insanı Nevzat Aydın, oğlunun Trabzonspor-Beşiktaş maçında seremoniye çıkması için 100 milyon lira ödediği yönündeki haberlerin ardından, 'Çirkinler' isimli suç örgütü üyesi olduğunu söyleyen K.A. tarafından arandığını ve 1 milyon avro istendiğini belirterek şikayetçi oldu. Soruşturma kapsamında düzenlenen operasyonda gözaltına alınan 8 şüpheli adliyeye sevk edildi. Şüphelilerden 7'si tutuklanırken, 1 kişi hakkında 'Ev hapsi' şeklinde adli kontrol tedbiri uygulandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/is-insani-nevzat-aydina-tehdit-sorusturmasinda-7-supheli-tutuklandi-43363875"
         },
         {
-          "title": "57 gün sonra gelen acı haberin ardından aileler seslendi: Tüm imkanlar birleştirilsin",
-          "summary": "Silivri açıklarında batan gemide 720 metre derinlikte bulunan ikinci kaptanın cenazesinin çıkarılmasının ardından kayıp denizcilerin yakınları arama çalışmalarının genişletilmesini istedi. Aileler adına konuşan Nusret Mirzaoğlu, derin su operasyonlarında deneyimli gemilerin birlikte çalışması çağrısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/57-gun-sonra-gelen-aci-haberin-ardindan-aileler-seslendi-tum-imkanlar-birlestirilsin-43363626"
+          "title": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
+          "summary": "Türkiye'nin Otomobili Girişim Grubu'ndaki (TOGG) AG Anadolu Grubu Holding ve Vestel Elektronik'in paylarının Türkiye Varlık Fonu (TVF) ve Turkcell'e devrine ilişkin sözleşmeler imzalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor-43363874"
         },
         {
-          "title": "TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı",
-          "summary": "TBMM Genel Sekreterliğine Kemal Şamlıoğlu atandı. Alınan bilgiye göre, TBMM Başkanı Numan Kurtulmuş tarafından, TBMM Genel Sekreterliği görevine Şamlıoğlu getirildi. 1978'de Rize'de doğan Şamlıoğlu, Milli Eğitim Bakanlığı Özel Öğretim Kurumları Genel Müdürlüğü, Ankara Hacı Bayram Veli Üniversitesi Genel Sekreterliği, Cumhurbaşkanlığı Eğitim ve Öğretim Politikaları Kurulu Üyeliği ve Milli Eğitim Bakan Yardımcılığı görevlerinde bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/tbmm-genel-sekreterligine-kemal-samlioglu-atandi-1749070"
+          "title": "Diyarbakır’da kamyon ile hafif ticari araç çarpıştı: 2 ölü, 13 yaralı",
+          "summary": "DİYARBAKIR’da kamyon ile hafif ticari aracın çarpıştığı kazada 2 kişi öldü, 13 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-kamyon-ile-hafif-ticari-arac-carpisti-2-olu-13-yarali-43363872"
         },
         {
-          "title": "Bakü'ye gökyüzünden anlamlı mesaj. Erdoğan, Azerbaycan hava sahasında Zafer Günü'nü kutladı",
-          "summary": "Güney Kore'ye giden Cumhurbaşkanı Recep Tayyip Erdoğan’ın uçağı Azerbaycan hava sahasından da geçti. Uçağın pilotu, Azerbaycan Cumhurbaşkanı İlham Aliyev'e Erdoğan'ın tebrik mesajını iletti. Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın 8 Kasım Zafer Günü'nü gökyüzünde kutladı. Güney Kore ziyareti için dün İstanbul'dan havalanan Erdoğan'ın uçağı Azerbaycan hava sahasından geçerken pilot, Cumhurbaşkanı Erdoğan'ın bir mesajını okudu.",
-          "source": "https://www.ntv.com.tr/turkiye/bakuye-gokyuzunden-anlamli-mesaj-erdogan-azerbaycan-hava-sahasinda-zafer-gununu-kutladi-1749066"
+          "title": "Sarıgül soruşturmasında 4 tutuklama, 8 adli kontrol",
+          "summary": "İSTANBUL Cumhuriyet Başsavcılığı tarafından Sarıgül Ailesi’ne yönelik ‘kara para aklama’ ve ‘cinsel saldırı’ iddialarıyla yürütülen soruşturma kapsamında gözaltına alınan 10 şüpheli emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sarigul-sorusturmasinda-4-tutuklama-8-adli-kontrol-43363864"
         }
       ]
     },
     "dunya": {
-      "text": "İran Cumhurbaşkanı Pezeşkiyan’dan ABD'ye diyalog mesajı: Hamaney hükümete bazı yetkiler verdi. 2,4 milyon euroluk otomobili çaldı, araç sahibi CEO onu eve bırakmak istedi. Netanyahu için sonun başlangıcı: İsrail'de siyasi partilerin tercihleri şekilleniyor! 'Birleşik Arap Listesi kararını verdi'. Türkiye uzay alanında nasıl küresel bir oyuncu olmayı planlıyor? Türkiye'nin ilk Ay görevi dünya basınında. İsrail'de muhalif lider Liberman, Eisenkot'u destekleyeceğini açıkladı. ABD'de ara seçimler için nefesler tutuldu. Başkan Trump için kritik viraj. Yakıt faturası kabardı. Ryanair bilet fiyatlarına çift haneli zam yapacak.",
+      "text": "ABD basını: ABD İran’ın Keşm Adası’na saldırılar düzenledi. Umman açıklarındaki ticari gemiye şüpheli saldırı. ABD, Ukrayna ile Rusya arasındaki müzakerelerde arabuluculuk yapacak. Rusya-Ukrayna barış çabaları. Üçlü görüşmenin tarihi ve yeri belli oldu. Eve dönüşü 28 yıl sürdü: Tam 60 bin kilometre yürüdü. Sandık başında cüzdan hesabı. Faiz ve kira yükü Amerikalıları bunalttı. İsrail'de muhalif lider Liberman, Eisenkot'u destekleyeceğini açıkladı.",
       "items": [
         {
-          "title": "İran Cumhurbaşkanı Pezeşkiyan’dan ABD'ye diyalog mesajı: Hamaney hükümete bazı yetkiler verdi",
-          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD'yle yaşanan savaş riskinin diyalog yoluyla ortadan kaldırılması için ülke lideri Mücteba Hamaney'in hükümete bazı yetkiler verdiğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-cumhurbaskani-pezeskiyandan-abdye-diyalog-mesaji-hamaney-hukumete-bazi-yetkiler-verdi-43363663"
+          "title": "ABD basını: ABD İran’ın Keşm Adası’na saldırılar düzenledi",
+          "summary": "ABD basını, ABD ordusunun İran’ın Keşm Adası’na yönelik saldırılar gerçekleştirdiğini yazdı. İran basını da farklı bölgelerden patlama sesleri duyulduğunu bildirdi. ABD ve İran arasındaki askeri gerginlik yeni çatışma endişeleri ve barış umutlarının gölgesinde sürerken, ABD basını dikkat çeken bir iddiayı gündeme taşıdı. The Wall Street Journal (WSJ) gazetesi hükümet kaynaklarına dayandırdığı haberinde ABD ordusunun İran’ın Keşm Adası’na yönelik saldırılar gerçekleştirdiğini bildirdi.",
+          "source": "https://www.ntv.com.tr/dunya/abd-basini-abd-iranin-kesm-adasina-saldirilar-duzenledi-1749115"
         },
         {
-          "title": "2,4 milyon euroluk otomobili çaldı, araç sahibi CEO onu eve bırakmak istedi",
-          "summary": "Bugatti CEO'su Mate Rimac'ın anahtarlarını üzerinde bıraktığı 2,4 milyon euroluk otomobili çalındı. Aracını Hırvatistan'dan Avusturya'ya kadar takip eden Rimac, yakalanan hırsızdan şikayetçi olmadı. Bugatti ve Rimac'ın CEO'su Mate Rimac, Hırvatistan'daki şirket merkezinde anahtarlarını üzerinde bıraktığı milyonlarca euro değerindeki Bugatti Chiron model aracının çalınmasıyla akıllara durgunluk veren bir olay yaşadı.",
-          "source": "https://www.ntv.com.tr/dunya/24-milyon-euroluk-otomobili-caldi-arac-sahibi-ceo-onu-eve-birakmak-istedi-1749076"
+          "title": "Umman açıklarındaki ticari gemiye şüpheli saldırı",
+          "summary": "Birleşik Krallık Deniz Ticareti Operasyonları Ajansı (UKMTO), Umman'ın Lima bölgesinin yaklaşık 16,5 kilometre kuzeydoğusunda seyreden bir ticari geminin şüpheli bir saldırıya uğradığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/umman-aciklarindaki-ticari-gemiye-supheli-saldiri-43363881"
         },
         {
-          "title": "Netanyahu için sonun başlangıcı: İsrail'de siyasi partilerin tercihleri şekilleniyor! 'Birleşik Arap Listesi kararını verdi'",
-          "summary": "İsrail'de meclise girmeyi başaran Arap partilerinin, muhalefet adayı Gadi Eisenkot'a destek vermeyi planladığı öne sürüldü. Eisenkot, Birleşik Arap Listesi'nin desteğini alması durumunda 67 milletvekili ile mecliste çoğunluğu elde edecek.",
-          "source": "https://www.hurriyet.com.tr/dunya/son-dakika-netanyahu-icin-sonun-baslangici-israilde-siyasi-partilerin-tercihleri-sekilleniyor-birlesik-arap-listesi-kararini-verdi-43363624"
+          "title": "ABD, Ukrayna ile Rusya arasındaki müzakerelerde arabuluculuk yapacak",
+          "summary": "ABD'nin, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında çalışma düzeyinde yürütülecek müzakerelere arabuluculuk yapacağı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-ukrayna-ile-rusya-arasindaki-muzakerelerde-arabuluculuk-yapacak-43363880"
         },
         {
-          "title": "Türkiye uzay alanında nasıl küresel bir oyuncu olmayı planlıyor? Türkiye'nin ilk Ay görevi dünya basınında",
-          "summary": "Middle East Eye (MEE), Türkiye'nin 2027'de Ay'a yapmayı planladığı görevi ve uzay alanındaki hedeflerini mercek altına aldı. Haberde, Ankara'nın teknolojik bağımsızlık hedefiyle yürüttüğü çalışmalara ve Somali'de kurmayı planladığı uzay limanına dikkat çekildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/turkiye-uzay-alaninda-nasil-kuresel-bir-oyuncu-olmayi-planliyor-turkiyenin-ilk-ay-gorevi-dunya-basininda-43363580"
+          "title": "Rusya-Ukrayna barış çabaları. Üçlü görüşmenin tarihi ve yeri belli oldu",
+          "summary": "ABD, Ukrayna ve Rusya arasındaki teknik görüşmeler için tarih belirlendi. ABD Başkanı Donald Trump'ın temsilcisi Steve Witkoff Abu Dabi'de yapılması planlanan görüşmeler için 10-11 kasımı işaret etti. ABD Başkanı Donald Trump'ın özel temsilcisi Steve Witkoff, sosyal medya hesabından konuya ilişkin açıklamada bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/rusya-ukrayna-baris-cabalari-uclu-gorusmenin-tarihi-ve-yeri-belli-oldu-1749109"
+        },
+        {
+          "title": "Eve dönüşü 28 yıl sürdü: Tam 60 bin kilometre yürüdü",
+          "summary": "İngiliz gezgin Karl Bushby, İngiltere'nin Hull kentindeki evine ulaşmak için 28 yıl önce Şili'de başladığı ve yürüyerek yaptığı kıtalararası yolculuğunu tamamladı. İngiltere medyasında yer alan habere göre Bushby, 29 ülkeyi geçtiği, 28 yıl süren yaklaşık 60 bin kilometrelik kıtalararası yürüyüşün ardından Hull kentinde annesinin yaşadığı eve ulaştı.",
+          "source": "https://www.ntv.com.tr/dunya/eve-donusu-28-yil-surdu-tam-60-bin-kilometre-yurudu-1749106"
+        },
+        {
+          "title": "Sandık başında cüzdan hesabı. Faiz ve kira yükü Amerikalıları bunalttı",
+          "summary": "ABD'de Kongre seçimlerine saatler kala seçmenler, son çeyrekte yüzde 3,4 büyüyen ekonomiye rağmen İran savaşı ve gümrük tarifelerinin körüklediği enflasyondan yakınıyor. ABD'de Kongre'yi kimin alacağını belirleyecek ara seçimler öncesinde sandık başına gitmeye hazırlanan seçmenlerin en önemli gündemini, gümrük vergileri ve sekiz aydır süren İran savaşıyla körüklenen hayat pahalılığı oluşturuyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-sandik-basinda-cuzdan-hesabi-faiz-ve-kira-yuku-amerikalilari-bunaltti-1749049"
         },
         {
           "title": "İsrail'de muhalif lider Liberman, Eisenkot'u destekleyeceğini açıkladı",
           "summary": "İsrail'de sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim seçimlerinin ardından muhalif lider Avigdor Liberman, Yashar Partisi lideri Gadi Eisenkot'u başbakanlık için destekleyeceğini açıkladı. Seçimlere ve siyasi pozisyonuna ilişkin basın açıklaması yapan muhalefetteki Evimiz İsrail Partisi lideri Avigdor Liberman, İsrail basınında muhalefet liderleriyle anlaşmazlık yaşadığına ilişkin spekülatif haberlere karşı, hiçbir koşulda İsrail Başbakanı Binyamin Netanyahu ile aynı hükümette görev almayacağını vurguladı.",
           "source": "https://www.ntv.com.tr/dunya/israilde-muhalif-lider-liberman-eisenkotu-destekleyecegini-acikladi-1749069"
-        },
-        {
-          "title": "ABD'de ara seçimler için nefesler tutuldu. Başkan Trump için kritik viraj",
-          "summary": "ABD yarın Temsilciler Meclisinin 435 sandalyesinin tamamı ve Senatonun 100 sandalyesinden 35'i için sandık başına gidiyor. Ara seçimler, Trump'ın ikinci döneminin en kritik yarışı olacak. ABD'de yarın yapılacak Kongre ara seçimlerinde milyonlarca seçmen sandık başına gitmeye hazırlanırken, Temsilciler Meclisi ve Senatoda ortaya çıkacak yeni tablo, Başkan Donald Trump'ın kalan iki yılındaki siyasi dengeleri belirleyecek.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdde-ara-secimler-icin-nefesler-tutuldu-baskan-trump-icin-kritik-viraj-1749017"
-        },
-        {
-          "title": "Yakıt faturası kabardı. Ryanair bilet fiyatlarına çift haneli zam yapacak",
-          "summary": "İrlandalı hava yolu şirketi Ryanair, İran savaşının uçak yakıtı fiyatlarını artırması nedeniyle gelecek yıl bilet fiyatlarına zam yapacağını ve maaşları dondurabileceğini açıkladı. Merkezi İrlanda'da olan düşük maliyetli hava yolu şirketi Ryanair, İran savaşı nedeniyle tırmanan uçak yakıtı maliyetlerini gerekçe göstererek bilet fiyatlarına zam yapacağını ve kapsamlı bir tasarruf paketi uygulayacağını duyurdu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-yakit-faturasi-kabardi-ryanair-bilet-fiyatlarina-cift-haneli-zam-yapacak-1749064"
         }
       ]
     },
     "ekonomi": {
-      "text": "Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu. Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı. Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü.",
+      "text": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı. Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu. Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi. Çiftçiye destek, çocuklara ikram: 100 ton mandalina dağıtıldı. ASELSAN'ın 9 aylık cirosu açıklandı.",
       "items": [
+        {
+          "title": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/abd-iran-anlasmasina-yonelik-adimlar-piyasalari-olumlu-etkiledi-borsa-gunu-yukselisle-tamamladi-43363655"
+        },
         {
           "title": "Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu",
           "summary": "Güney Kore ziyareti kapsamında değerlendirmelerde bulunan Cumhurbaşkanı Recep Tayyip Erdoğan; İHA'lar, motor teknolojileri ve Sinop Nükleer Güç Santrali başta olmak üzere iki ülkenin birçok alanda birlikte önemli başarılara imza atabileceğini söyledi.",
@@ -115,51 +120,46 @@
           "title": "ASELSAN'ın 9 aylık cirosu açıklandı",
           "summary": "ASELSAN'ın cirosu, yılın 9 ayında geçen yılın aynı dönemine göre yüzde 28 artışla 151,5 milyar liraya ulaştı.",
           "source": "https://www.hurriyet.com.tr/gundem/aselsanin-9-aylik-cirosu-aciklandi-43357255"
-        },
-        {
-          "title": "Fitch Ratings’ten Türkiye'de borçlanma piyasası öngörüsü",
-          "summary": "Fitch Ratings, Türkiye'nin borçlanma sermaye piyasasının büyümeye devam etmesini ve piyasada tedavülde bulunan toplam borçlanma araçlarının büyüklüğünün 2027'ye kadar 550 milyar dolara ulaşmasını bekliyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/fitch-ratingsten-turkiyede-borclanma-piyasasi-ongorusu-43357160"
         }
       ]
     },
     "spor": {
-      "text": "Galatasaraylı Batrakov için Liverpool açıklaması!. Vitor Pereira: 'Geçmişte kararlarımda bazı hatalar yaptım'. Galatasaray, Stuttgart maçına hazır! Antrenmenda Dursun Özbek sürprizi. Okan Buruk: Fenerbahçe maçında 5-6 gol atabilirdik. Fenerbahçe - Liverpool maçının hakemi açıklandı!. Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nda görkemli kapanış. Arda Güler’in asisti Guti’yi kendinden geçirdi: 'Dahice! Daha topu ayağına almadan pozisyonu kafasında tasarlamıştı!'.",
+      "text": "Bernd Storck'tan Beşiktaş maçı açıklaması: 'Kaybedecek bir şeyimiz yok'. Joao Pereira: 'Daha akıllı olmamız lazım'. Kayserispor, Muğlaspor'u 6 golle devirdi!. TFF Başkanı İbrahim Hacıosmanoğlu'ndan Ferhat Gündoğdu, bahis ve yayın ihalesi açıklaması!. Anadolu Efes, Aliağa Petkimspor'u deplasmanda devirdi!. Mısır Futbol Federasyonu Başkanı Rida'dan Trabzonspor'a ziyaret. Sebastian Hoeness: 'Galatasaray güçlü bir takım, neler yapabildiklerini biliyoruz'.",
       "items": [
         {
-          "title": "Galatasaraylı Batrakov için Liverpool açıklaması!",
-          "summary": "Galatasaray'ın Rus yıldızı Aleksey Batrakov'un menajeri Vladimir Kuzmichev, genç oyuncunun geleceği hakkında açıklamalar yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayli-batrakov-icin-liverpool-aciklamasi-43363657"
+          "title": "Bernd Storck'tan Beşiktaş maçı açıklaması: 'Kaybedecek bir şeyimiz yok'",
+          "summary": "Trendyol Süper Lig'in 10. haftasında sahasında Corendon Alanyaspor'u 5-0 yenen Gençlerbirliği'nin teknik direktörü Bernd Storck, muhteşem bir galibiyet aldıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bernd-storcktan-besiktas-maci-aciklamasi-kaybedecek-bir-seyimiz-yok-43363868"
         },
         {
-          "title": "Vitor Pereira: 'Geçmişte kararlarımda bazı hatalar yaptım'",
-          "summary": "Nottingham Forest'ın eski teknik direktörü Vitor Pereira, mail yoluyla görevine son verildiği süreçle ilgili dikkat çeken açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vitor-pereira-gecmiste-kararlarimda-bazi-hatalar-yaptim-43363600"
+          "title": "Joao Pereira: 'Daha akıllı olmamız lazım'",
+          "summary": "Alanyaspor Teknik Direktörü Joao Pereira, Gençlerbirliği karşılaşmasının ardından, \"Üç maç üst üste mağlup olduk. Oyuncularımı aslında uyarmıştım; daha güçlü, daha akıllı, daha odaklı olmamız lazım diye ama tam tersi ilk dakika 1-0 geriye düştük\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/joao-pereira-daha-akilli-olmamiz-lazim-43363802"
         },
         {
-          "title": "Galatasaray, Stuttgart maçına hazır! Antrenmenda Dursun Özbek sürprizi",
-          "summary": "Galatasaray Kulüp başkanı Dursun Özbek, sahaya inerek teknik direktör Okan Buruk ile bir süre sohbet etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-stuttgart-macina-hazir-antrenmenda-dursun-ozbek-surprizi-43363383"
+          "title": "Kayserispor, Muğlaspor'u 6 golle devirdi!",
+          "summary": "Kayserispor, Trendyol 1. Lig’in 13. haftasında Muğlaspor'u 6-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kayserispor-muglasporu-6-golle-devirdi-43363786"
         },
         {
-          "title": "Okan Buruk: Fenerbahçe maçında 5-6 gol atabilirdik",
-          "summary": "Galatasaray Teknik Direktörü Okan Buruk ve savunma oyuncusu Jakobs, Stuttgart maçı öncesi basın toplantısında konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-fenerbahce-macinda-5-6-gol-atabilirdik-43363297"
+          "title": "TFF Başkanı İbrahim Hacıosmanoğlu'ndan Ferhat Gündoğdu, bahis ve yayın ihalesi açıklaması!",
+          "summary": "Türkiye Futbol Federasyonu Başkanı İbrahim Hacıosmanoğlu, gündemki konular hakkında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tff-baskani-ibrahim-haciosmanoglundan-ferhat-gundogdu-bahis-ve-yayin-ihalesi-aciklamasi-43363738"
         },
         {
-          "title": "Fenerbahçe - Liverpool maçının hakemi açıklandı!",
-          "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında oynanacak Fenerbahçe - Liverpool karşılaşmasını Fransız hakem Clement Turpin yönetecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-liverpool-macinin-hakemi-aciklandi-43363239"
+          "title": "Anadolu Efes, Aliağa Petkimspor'u deplasmanda devirdi!",
+          "summary": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi’nin 6. haftasında Aliağa Petkimspor'u deplasmanda 87-77 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-aliaga-petkimsporu-deplasmanda-devirdi-43363717"
         },
         {
-          "title": "Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları'nda görkemli kapanış",
-          "summary": "Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları, Cumhuriyet'in 103. yılı coşkusu ve İstanbul Boğazı’ndaki nefes kesen final müsabakalarının ardından Fişekhane’de düzenlenen görkemli törenle sona erdi. Sezon boyunca sergiledikleri üstün performansla adını zirveye yazdıran takımlar kupalarına kavuştu. Cumhurbaşkanlığı 7. Uluslararası Yat Yarışları’nın tüm etaplarında büyük başarı gösteren Enka takımı bu yılın şampiyonu oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cumhurbaskanligi-7-uluslararasi-yat-yarislarinda-gorkemli-kapanis-43363214"
+          "title": "Mısır Futbol Federasyonu Başkanı Rida'dan Trabzonspor'a ziyaret",
+          "summary": "Mısır Futbol Federasyonu Başkanı Hany Abo Rida, Trabzonspor Kulübünü ziyaret etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/misir-futbol-federasyonu-baskani-ridadan-trabzonspora-ziyaret-43363690"
         },
         {
-          "title": "Arda Güler’in asisti Guti’yi kendinden geçirdi: 'Dahice! Daha topu ayağına almadan pozisyonu kafasında tasarlamıştı!'",
-          "summary": "Real Madrid'in Racing Santander'i 3-0 mağlup ettiği maçta harika bir asiste imza atan Arda Güler, eflatun-beyazlıların efsane oyuncusu Guti'yi bir kez daha kendisine hayran bıraktı. Guti, milli futbolcunun yaptığı asisti daha top kendisine gelmeden kafasında tasarladığını belirterek, \"Bu asist, onun olağanüstü bir oyuncu olduğunun bir başka kanıtı oldu\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/guti-arda-gulere-bir-kez-daha-hayran-kaldi-yaptigi-dahice-asisti-daha-topu-almadan-kafasinda-tasarlamisti-43363081"
+          "title": "Sebastian Hoeness: 'Galatasaray güçlü bir takım, neler yapabildiklerini biliyoruz'",
+          "summary": "Stuttgart Teknik Direktörü Sebastian Hoeness, Şampiyonlar Ligi'nde Galatasaray ile oynayacakları maç öncesinde açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sebastian-hoeness-galatasaray-guclu-bir-takim-neler-yapabildiklerini-biliyoruz-43363677"
         }
       ]
     },
