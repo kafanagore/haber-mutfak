@@ -1,91 +1,101 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-05T10:00:03.984Z",
+  "generatedAt": "2026-11-05T16:00:03.907Z",
   "categories": {
     "gundem": {
-      "text": "Kuvözdeki 14 dakikalık şiddete ceza: Mahkeme pişmanlığı samimi bulmadı, indirim vermedi. İstanbul'da yasa dışı bahis operasyonu: 6 kişi tutuklandı. İstanbul’un 1600 yıllık mirası Londra’da dünyayla buluşuyor. Sürücüsünün fren yerine gaza bastığı cip bina boşluğuna düştü. Kapıyı tekmeledi, saatlerce gitmedi: Sultangazi'de kadın çalışanların sopalı nöbeti kamerada. Erdoğan'dan fon soruşturması açıklaması: \"Ummadığınız insanlar bu işlerin içine girmiş\". Fon soruşturması: Fatma Betül Sayan Kaya, eşi İlyas Kaya ve İbrahim Ömer Gönül adliyede.",
+      "text": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu. Sancaktepe Belediye Meclisinde 4 CHP'li üye partilerinden istifa etti. Bakanlıktan giyilmiş çoraplarla bağış paylaşımına suç duyurusu. Bakan Fidan'dan peş peşe diplomatik temaslar: Önce Katar, ardından İran. Antalya'daki rüşvet davasında ara karar çıktı: Böcek ailesine tahliye yok. Aylardır tedavi görüyordu: Uzman çavuş hayatını kaybetti. Afyonkarahisar'daki kanlı infazda ölü sayısı 7'ye çıktı.",
       "items": [
         {
-          "title": "Kuvözdeki 14 dakikalık şiddete ceza: Mahkeme pişmanlığı samimi bulmadı, indirim vermedi",
-          "summary": "Yeni doğan yoğun bakım ünitesinde kan aldığı bebeğe şiddet uygulayan ve bacağını kırdığı güvenlik kameralarınca kaydedilen hemşire Hazel Dırık Bağrıyanık hakkında karar açıklandı. Duruşmada \"Türk milletinden özür dilerim\" diyerek tahliyesini isteyen hemşireye hakim, 'samimi pişmanlık görülmediği' gerekçesiyle indirim uygulamadan 5 yıl 10 ay hapis cezası verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kuvozdeki-14-dakikalik-siddete-ceza-mahkeme-pismanligi-samimi-bulmadi-indirim-vermedi-43366941"
+          "title": "Afyonkarahisar'da silahlı saldırı. Üç ayrı noktada 8 ceset bulundu",
+          "summary": "Afyonkarahisar'da farklı noktalarda 8 ceset bulundu. 1 kişinin ise ağır yaralı olduğu öğrenildi. Afyonkarahisar'ın İhsaniye ilçesinde üç farklı noktada 8 kişi silahla öldürülmüş halde bulundu. Ayazini Köyü mevkisinde 3, Kıyır Köyü mevkisinde de 2 cesedin bulunduğu bildirildi. İki farklı nokta arasındaki mesafenin 10 kilometre olduğu öğrenildi. İlk gelen bilgiler 5 kişinin öldüğü yönündeydi. Ancak edinilen bilgilere göre farklı bir noktada 2 kişinin daha cesedi bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559"
         },
         {
-          "title": "İstanbul'da yasa dışı bahis operasyonu: 6 kişi tutuklandı",
-          "summary": "İstanbul'da yasa dışı bahis faaliyetlerinin önlenmesine yönelik düzenlenen operasyonda gözaltına alınan 6 şüpheli mahkemece tutuklanarak cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-yasa-disi-bahis-operasyonu-6-kisi-tutuklandi-43366933"
+          "title": "Sancaktepe Belediye Meclisinde 4 CHP'li üye partilerinden istifa etti",
+          "summary": "Sancaktepe Belediye Meclisinde, 2024 Mahalli İdareler Genel Seçimleri'nde CHP'den seçilen 4 meclis üyesi partilerinden istifa ederek DEM Parti'ye katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sancaktepe-belediye-meclisinde-4-chpli-uye-partilerinden-istifa-etti-43367475"
         },
         {
-          "title": "İstanbul’un 1600 yıllık mirası Londra’da dünyayla buluşuyor",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Londra’daki Victoria and Albert Müzesi’nde ‘Konstantinopolis’ten İstanbul’a: Bir Şehir, İki İmparatorluk’ sergisini ziyaret etti. İstanbul’un yaklaşık 1600 yıllık tarihini 200’ü aşkın eserle anlatan sergiye ilişkin Ersoy, “Ülkemizin kültürel zenginliğini dünyanın önde gelen sanat ve kültür merkezlerinde tanıtmaya, İstanbul’un eşsiz mirasını daha geniş kitlelere ulaştırmaya devam edeceğiz” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulun-1600-yillik-mirasi-londrada-dunyayla-bulusuyor-43366923"
+          "title": "Bakanlıktan giyilmiş çoraplarla bağış paylaşımına suç duyurusu",
+          "summary": "AİLE ve Sosyal Hizmetler Bakanlığı, sanal medya ünlüsü E.D.'nin, bir futbol müsabakasında giydiği çorapları satışa çıkarıp, elde edeceği gelirleri devlet koruması altındaki çocuklara bağışlayacağı yönündeki açıklaması ile ilgili 'Türkiye Cumhuriyeti Devleti'ni alenen aşağılama' suçu kapsamında duyurusunda bulunulduğunu açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakanliktan-giyilmis-coraplarla-bagis-paylasimina-suc-duyurusu-43367469"
         },
         {
-          "title": "Sürücüsünün fren yerine gaza bastığı cip bina boşluğuna düştü",
-          "summary": "Esenyurt'ta sürücüsünün fren yerine gaza bastığı cip, bir iş yerinin merdivenlerine çarptıktan sonra takla atarak bina boşluğuna düştü. Kaza güvenlik kamerasına yansırken, 3 kişi hafif yaralandı. Kaza, saat 14.10 sıralarında Turgut Özal Mahallesi 35'inci Sokak'ta meydana geldi. Edinilen bilgiye göre, sürücüsü S.K.'nin fren yerine gaza bastığı 06 CHZ 28 plakalı cip bir iş yerinin merdivenlerine çarptı. Çarpmanın şiddetiyle takla atan araç, merdivenlerin yanındaki bina boşluğuna düştü.",
-          "source": "https://www.ntv.com.tr/turkiye/video-surucusunun-fren-yerine-gaza-bastigi-cip-bina-bosluguna-dustu-1749520"
+          "title": "Bakan Fidan'dan peş peşe diplomatik temaslar: Önce Katar, ardından İran",
+          "summary": "Dışişleri Bakanı Fidan, Ankara'da Katar Savunma Bakanı Suud bin Abdurahman Al Sani'yi ağırlarken, İran Dışişleri Bakanı Abbas Arakçi ile de telefon görüşmesi gerçekleştirdi. Dışişleri Bakanı Hakan Fidan, diplomatik temaslarını sürdürüyor. Dışişleri Bakanlığı kaynaklarından edinilen bilgiye göre Fidan, Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Suud bin Abdurahman Al Sani ile Ankara'da bir araya geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-fidandan-pes-pese-diplomatik-temaslar-once-katar-ardindan-iran-1749562"
         },
         {
-          "title": "Kapıyı tekmeledi, saatlerce gitmedi: Sultangazi'de kadın çalışanların sopalı nöbeti kamerada",
-          "summary": "Sultangazi Eski Edirne Asfaltı Caddesi üzerindeki bir pastaneye dadanan kimliği belirsiz şahıs, sabahın erken saatlerinden itibaren iş yerinin kapısında bekleyerek içeri girmeye çalıştı. Gülerek kapıyı tekmeleyen ve içeri girmeye çalışan kişiye karşı kapıyı kilitli tutan kadın çalışanlar, ellerindeki sopalarla yardım gelene kadar iş yerinde mahsur kaldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kapiyi-tekmeledi-saatlerce-gitmedi-sultangazide-kadin-calisanlarin-sopali-nobeti-kamerada-43366909"
+          "title": "Antalya'daki rüşvet davasında ara karar çıktı: Böcek ailesine tahliye yok",
+          "summary": "Antalya 6. Ağır Ceza Mahkemesi'nde görülen belediye davasında tansiyon yükseldi. Müteahhit M.S.A.'nın hakediş için milyonlarca lira ve döviz ödemek zorunda kaldığını öne sürdüğü celsede savunma yapan Muhittin Böcek, 15 aydır tutuklu olduğunu ve yalnızca kendisiyle oğlunun cezaevinde kaldığını belirtti. Mahkeme, baba ve oğlunun tutukluluk hallerinin devamına karar verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/antalyadaki-rusvet-davasinda-ara-karar-cikti-bocek-ailesine-tahliye-yok-43367384"
         },
         {
-          "title": "Erdoğan'dan fon soruşturması açıklaması: \"Ummadığınız insanlar bu işlerin içine girmiş\"",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasına ilişkin \"Hiç ummadığınız insanlar, bu işlerin içerisine girmişler.\" diyerek sürecin yakından takip edildiğine işaret etti. Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung davetiyle Seul'e gitti. Temaslarına tamamlayarak yurda dönen Cumhurbaşkanı Erdoğan, gazetecilerin sorularını yanıtladı. Erdoğan'ın temaslarını NTV'den Ahmed Arpat takip etti.",
-          "source": "https://www.ntv.com.tr/turkiye/erdogandan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-islerin-icine-girmis-1749513"
+          "title": "Aylardır tedavi görüyordu: Uzman çavuş hayatını kaybetti",
+          "summary": "35 yaşındaki uzman çavuş Mücahit Yıldız'ın ölümü sevenlerini yasa boğdu. Kars'ta akciğer kanseri nedeniyle tedavi gören Yıldız, tüm müdahalelere rağmen kurtarılamadı. Yıldız, Sarıkamış ilçesinde, törenle son yolculuğuna uğurlandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/aylardir-tedavi-goruyordu-uzman-cavus-hayatini-kaybetti-43367398"
         },
         {
-          "title": "Fon soruşturması: Fatma Betül Sayan Kaya, eşi İlyas Kaya ve İbrahim Ömer Gönül adliyede",
-          "summary": "Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski Sermaye Piyasası Kurulu Başkanı İbrahim Ömer Gönül fon soruşturmasında savcıya ifade veriyor. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında yeni bir gelişme yaşandı. Fatma Betül Sayan Kaya ve eşi İlyas Kaya, savcıya ifade vermek üzere adliyeye geldi. Aynı dakikalarda eski Sermaye Piyasası Kurulu (SPK) Başkanı İbrahim Ömer Gönül de ifade vermek için adliyeye giriş yaptı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasi-fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-vermek-icin-adliyede-1749497"
+          "title": "Afyonkarahisar'daki kanlı infazda ölü sayısı 7'ye çıktı",
+          "summary": "Afyonkarahisar'ın İhsaniye ilçesinde silahla vurulan 7 kişi hayatını kaybetti, 1 kişi yaralandı. 112 Acil Çağrı Merkezi'ne silahla yaralama ihbarı gelmesi üzerine bölgeye jandarma ekipleri sevk edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/afyonkarahisarda-sir-olum-araclar-icinde-5-ceset-bulundu-43367358"
         }
       ]
     },
     "dunya": {
-      "text": "Fransa'da polisten öğrencilere müdahale. Kulisler çalkalanıyor: Başkan konutuna kapandı, ekibi terk etti! İşte Trump’ı kahreden gecede Beyaz Saray’da yaşanan tüm detaylar. Milyarlarca dolarlık veri merkezi projeleri de ABD seçiminde kaybedenler arasında. Senato kalkanı çöktü: 'Azil' alarmı! Trump'ın tek kozu kaldı. Fransa'da yüzbinler yeninden sokakta. 70 bin polis görevlendirildi. Otelde ölü bulunan Bavyera Başbakan Yardımcısı ile ilgili neler biliniyor?. ABD'nin ilk Müslüman Senatörü Sayed'den Kongre'ye savaş yetkilerini kullanma çağrısı.",
+      "text": "Dışişleri Bakanı Hakan Fidan'dan KKTC'ye ziyaret. Eurofighter'larda yeni aşama! 'Türkiye'nin gücünü artıracak'. Avrupa semalarında bomba alarmı. Çok sayıda uçak acil iniş yaptı. Trump'ın İran çıkmazı! İşte önündeki üç seçenek... Demoktratların yeni hedefi Hegseth. New York'ta bir bina alevler içinde kaldı: 6 kişi yaşamını yitirdi. Bob Dylan, Papa ile buluştu. Dünya Dylan'ın kapüşonunu konuştu. ABD'deki deprem Avrupa'yı sarstı. Müttefikleri Trump'a sırt çeviriyor.",
       "items": [
         {
-          "title": "Fransa'da polisten öğrencilere müdahale",
-          "summary": "Fransa'da sendikaların genel grev çağrısı yaptığı ve yüz binlerce kişinin sokaklara dökülmesinin beklendiği eylem öncesinde, eğitim koşullarını protesto eden lise ve üniversite öğrencileri okul önlerinde kuşatma eylemi düzenledi. Polis, göstericilere müdahale etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/fransada-polisten-ogrencilere-mudahale-43366895"
+          "title": "Dışişleri Bakanı Hakan Fidan'dan KKTC'ye ziyaret",
+          "summary": "Dışişleri Bakanı Hakan Fidan, yarın Kuzey Kıbrıs Türk Cumhuriyeti’ne (KKTC) çalışma ziyaretinde bulunacak.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-kktcye-ziyaret-43367447"
         },
         {
-          "title": "Kulisler çalkalanıyor: Başkan konutuna kapandı, ekibi terk etti! İşte Trump’ı kahreden gecede Beyaz Saray’da yaşanan tüm detaylar",
-          "summary": "2026 ara seçim gecesi, Beyaz Saray’da uzun süre hafızalardan silinmeyecek karanlık ve panik dolu anlara sahne oldu. Demokratların sandıktaki ezici üstünlüğü ve ‘Mavi Dalga’nın etkisi netleştikçe, Cumhuriyetçi kanatta hayal kırıklığı yerini hızlıca kaosa bıraktı. Donald Trump’ın kapalı kapılar ardında öfkeyle yalnızlığına çekildiği, danışmanların ve kabine üyelerinin gelebilecek bir ‘tasfiye’ korkusuyla binayı terk ettiği o tarihi gecede yaşanan tüm çarpıcı detaylar basına sızdı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kulisler-calkalaniyor-baskan-konutuna-kapandi-ekibi-terk-etti-iste-trumpi-kahreden-gecede-beyaz-sarayda-yasanan-tum-detaylar-43366623"
+          "title": "Eurofighter'larda yeni aşama! 'Türkiye'nin gücünü artıracak'",
+          "summary": "Türkiye'nin Eurofighter Typhoon savaş uçağının üretiminde önemli bir aşamaya geçildi. BAE Systems, Türk Hava Kuvvetleri için üretilecek uçağın ön gövde montajının İngiltere'de devam ettiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/eurofighterlarda-yeni-asama-turkiyenin-gucunu-artiracak-43367397"
         },
         {
-          "title": "Milyarlarca dolarlık veri merkezi projeleri de ABD seçiminde kaybedenler arasında",
-          "summary": "ABD ara seçimlerinde, çevresel etkileri nedeniyle veri merkezlerine ilişkin yerel öneriler de oylandı. 68 milyar doları bulan projelerin muhalefet nedeniyle aksadığı sektörde düzenleme baskısı arttı. ABD'de teknoloji şirketlerinin yapay zeka altyapısına yönelik milyarlarca dolarlık yatırım planları, 3 Kasım'daki ara seçimlerle eş zamanlı olarak yapılan yerel oylamalarda veri merkezi projelerine yönelik kısıtlama ve yasaklama girişimlerine verilen güçlü seçmen desteğiyle karşı karşıya kaldı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-milyarlarca-dolarlik-veri-merkezi-projeleri-de-abd-seciminde-kaybedenler-arasinda-1749501"
+          "title": "Avrupa semalarında bomba alarmı. Çok sayıda uçak acil iniş yaptı",
+          "summary": "Son günlerde bazı Avrupa başkentleri arasında sefer yapan uçaklara yönelik asılsız bomba ihbarlarına bugün yenileri eklendi. Çok sayıda yolcu uçağı acil iniş yapmak zorunda kaldı. Avrupa'da İtalya, Fransa, Belçika, Çekya ve Bulgaristan dahil birçok ülkede bomba ihbarları nedeniyle en az 16 yolcu uçağı acil iniş yaptı. Polonya'nın başkenti Varşova'dan Belçika'nın başkenti Brüksel'e giden uçak, bomba ihbarı üzerine Brüksel Havalimanı'na güvenli iniş gerçekleştirdi.",
+          "source": "https://www.ntv.com.tr/dunya/avrupa-semalarinda-bomba-alarmi-cok-sayida-ucak-acil-inis-yapti-1749533"
         },
         {
-          "title": "Senato kalkanı çöktü: 'Azil' alarmı! Trump'ın tek kozu kaldı",
-          "summary": "ABD'deki ara seçimlerde Demokratlar, Kongre'nin iki kanadında da çoğunluğu kazandı. Trump, 2018 seçimlerinde Temsilciler Meclisi'ni kaybetmiş ancak Senato'daki Cumhuriyetçi desteğini korumuştu. Peki, bu kez Trump'ı ne bekliyor? İstanbul Aydın Üniversitesi Öğretim Görevlisi Yeliz Albayrak, yeni bir azil sürecinin başlayabileceğine dikkat çekerek, “Bu sefer Senato'da Trump'ı kurtaracak kadar Cumhuriyetçi de yok” dedi. Albayrak, Trump’ın elinde bulunan önemli bir yetki gücüne işaret etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/senato-kalkani-coktu-azil-alarmi-trumpin-tek-kozu-kaldi-43366622"
+          "title": "Trump'ın İran çıkmazı! İşte önündeki üç seçenek... Demoktratların yeni hedefi Hegseth",
+          "summary": "ABD Başkanı Donald Trump, İran savaşının seçimlerdeki yenilgiye neden olduğunu kabul ederken birbirinden her biri ciddi riskler taşıyan 3 seçenek arasında kaldı. ABD merkezli Axios'un haberine göre Trump, elindeki 3 seçeneği değerlendirmeye başladı. Öte yandan Demokratların, Trump yerine Savunma Bakanı Pete Hegseth'i hedef alarak görevden alınması için harekete geçmeye hazırlandığı öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumpin-iran-cikmazi-iste-onundeki-uc-secenek-demoktratlarin-yeni-hedefi-hegseth-43366807"
         },
         {
-          "title": "Fransa'da yüzbinler yeninden sokakta. 70 bin polis görevlendirildi",
-          "summary": "Fransa'da eğitim ve hayat pahalılığına tepki gösteren yüz binler greve giderken, 70 bin polis sokaklarda teyakkuza geçirildi. Fransa genelinde haftalardır devam eden lise ve üniversite eylemleri, sendikaların aldığı grev kararlarıyla birleşti. Gençlerin okullardaki kötü eğitim koşullarını protesto etmesiyle başlayan süreç, artan hayat pahalılığı ve gelir adaletsizliğine duyulan öfkeyle bir araya geldi. Biriken tepkiler, 17 Ekim'de Fransa'nın son yıllarda tanık olduğu en şiddetli sokak olaylarıyla sonuçlandı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-yuzbinler-yeninden-sokakta-70-bin-polis-gorevlendirildi-1749494"
+          "title": "New York'ta bir bina alevler içinde kaldı: 6 kişi yaşamını yitirdi",
+          "summary": "ABD'nin New York kentinin Brooklyn bölgesinde 2 katlı bir evde çıkan yangında ilk belirlemelere göre 6 kişi hayatını kaybetti. Yangında, 3'ü itfaiye görevlisi 7 kişinin yaralandığı kaydedildi",
+          "source": "https://www.hurriyet.com.tr/dunya/new-yorkta-bir-bina-alevler-icinde-kaldi-6-kisi-yasamini-yitirdi-43367278"
         },
         {
-          "title": "Otelde ölü bulunan Bavyera Başbakan Yardımcısı ile ilgili neler biliniyor?",
-          "summary": "Almanya'da Bavyera Eyaleti Başbakan Yardımcısı ve eyaletin Ekonomi Bakanı Hubert Aiwanger dün başkent Berlin'de konakladığı otelde ölü bulundu. Ölüm sebebi halen açıklanmadı. Almanya'da Özgür Seçmenler (Freie Wähler) Partisi Genel Başkanı da olan Bavyera Eyaleti Başbakan Yardımcısı ve eyaletin Ekonomi Bakanı Hubert Aiwanger'in oteldeki ölümüyle ilgili sır perdesi henüz aralanamadı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-otelde-olu-bulunan-bavyera-basbakan-yardimcisi-ile-ilgili-neler-biliniyor-1749489"
+          "title": "Bob Dylan, Papa ile buluştu. Dünya Dylan'ın kapüşonunu konuştu",
+          "summary": "Papa 14. Leo, Nobel ödüllü ABD'li şarkıcı Bob Dylan'ı Vatikan'da kabul etti. Buluşmanın kendisinden çok, tepeden tırnağa siyah giyinen Dylan'ın tarzı ve kapüşonunu çıkarmaması gündem oldu. Nobel ödüllü ABD'li şarkıcı ve söz yazarı Bob Dylan, İtalya turnesinin Roma ayağında, geçen ay akciğerinden tümör aldıran Papa 14. Leo'yu Vatikan'da ziyaret etti. 85 yaşındaki Dylan ve Papa'nın kısa süreli görüşmesinde Papa, Bob Dylan'a tespih takdim ederken; Dylan da kendisine otobiyografisinin imzalı bir nüshasını verdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bob-dylan-papa-ile-bulustu-dunya-dylanin-kapusonunu-konustu-1749549"
         },
         {
-          "title": "ABD'nin ilk Müslüman Senatörü Sayed'den Kongre'ye savaş yetkilerini kullanma çağrısı",
-          "summary": "ABD ara seçimlerinde Michigan'dan ABD Senatörü seçilen Abdul el-Sayed, Kongre'nin savaş yetkilerini kullanması gerektiğini belirtti. Sayed. ABD Başkanı Donald Trump'ın İran savaşını sona erdirmeye yönelik bir plana sahip olmadığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdnin-ilk-musluman-senatoru-sayedden-kongreye-savas-yetkilerini-kullanma-cagrisi-43366682"
+          "title": "ABD'deki deprem Avrupa'yı sarstı. Müttefikleri Trump'a sırt çeviriyor",
+          "summary": "ABD ara seçimlerinde Demokratların kazandığı zaferin ardından Avrupa aşırı sağı Donald Trump ile arasına mesafe koymaya başladı. Avrupa genelindeki aşırı sağcı siyasetçiler, ABD ara seçimlerinde Demokratların elde ettiği zaferin ardından Donald Trump ile aralarına mesafe koymaya başladı. Geçmişte Trump ile ideolojik yakınlıklarını öne çıkaran liderler, doğrudan ABD Başkanı'nı hedef almaktan kaçınsa da seçim yenilgisinin faturasını İran ile yürütülen savaşa ve hayat pahalılığına kesti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-abddeki-deprem-avrupayi-sarsti-muttefikleri-trumpa-sirt-ceviriyor-1749550"
         }
       ]
     },
     "ekonomi": {
-      "text": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı. Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı. Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor. Cumhurbaşkanı Yardımcısı Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz. Bakan Kacır: Selden etkilenen KOBİ'lere 1 milyon TL'ye kadar kredi desteği verilecek. Sınır kapılarındaki TIR kuyrukları uzuyor.",
+      "text": "20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya ve eşi İlyas Kaya adliyede. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı. Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı. Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor. Cumhurbaşkanı Yardımcısı Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz.",
       "items": [
+        {
+          "title": "20 milyar dolara bir adım daha",
+          "summary": "Ege İhracatçı Birlikleri (EİB), ekim ayında ihracatını yüzde 5’lik artışla 1 milyar 713 milyon dolara yükseltti. EİB, 2026 yılında haziran, temmuz ve eylül aylarından sonra dördüncü kez ekim ayında da 1 milyar 700 milyon dolar barajını aşmayı başardı. 2026’nın son çeyreğine moralli giren ihracatçılar, 20 milyar dolar ihracat hedefine bir adım daha yaklaştı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/20-milyar-dolara-bir-adim-daha-43367201"
+        },
+        {
+          "title": "Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya ve eşi İlyas Kaya adliyede",
+          "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasası işlemlerine yönelik yürütülen soruşturma kapsamında şüpheli sıfatıyla ifadeye çağrılan Fatma Betül Sayan Kaya ve eşi İlyas Kaya, adliyeye geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738"
+        },
         {
           "title": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
           "summary": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
@@ -110,22 +120,48 @@
           "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz",
           "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, \"Küresel belirsizliklerin arttığı bir dönemde, ekonomik dayanıklılığımızı güçlendirirken kalıcı fiyat istikrarını sağlamayı, yatırım, üretim, istihdam ve ihracat ekseninde sürdürülebilir büyümeyi ve ekonomik kazanımları toplumun tüm kesimleri için kalıcı refaha dönüştürmeyi hedefliyoruz\" dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kalici-fiyat-istikrarini-saglamayi-hedefliyoruz-43365073"
-        },
-        {
-          "title": "Bakan Kacır: Selden etkilenen KOBİ'lere 1 milyon TL'ye kadar kredi desteği verilecek",
-          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ’lere yönelik yeni destek paketini duyurdu. Bakan Kacır, KOSGEB aracılığıyla hayata geçirilecek Acil Durumlar Desteği kapsamında küçük işletmelere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi imkânı sunulacağını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-selden-etkilenen-kobilere-1-milyon-tlye-kadar-kredi-destegi-verilecek-43365053"
-        },
-        {
-          "title": "Sınır kapılarındaki TIR kuyrukları uzuyor",
-          "summary": "İzmir Sanayici ve İş İnsanları Derneği (İZSİAD) Yönetim Kurulu Başkanı Alaattin Yüksel, Türkiye’nin Avrupa’ya açılan sınır kapıları Kapıkule, Hamzabeyli ve İpsala’da yaşanan TIR kuyruklarının ekonomiye zarar verecek bir noktaya ulaştığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sinir-kapilarindaki-tir-kuyruklari-uzuyor-43364611"
         }
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "TVF, kulüplerin sponsor gelirlerindeki %10'luk payından feragat etti!. Sergen Yalçın'ın 54. yaş günü Riva'da kutlandı. Avrupa devleri, Galatasaray'ın yıldızı için geliyor! Bonservis bedeli belirlendi. Red Bull Pilotu Dario Costa: Ben projelerimde risklerimi kendim seçiyorum. Gençlerbirliği Teknik Direktörü Bernd Storck: 'Hedefimiz her zaman galibiyet'. Burak Yılmaz'dan Fenerbahçe maçı öncesi iddialı açıklama: 'Kazanmak için elimizden gelenin fazlasını yapacağız!'. Alexander Nübel, Almanya Milli Takımı'na davet edildi!.",
+      "items": [
+        {
+          "title": "TVF, kulüplerin sponsor gelirlerindeki %10'luk payından feragat etti!",
+          "summary": "TVF 7. Olağan Mali Genel Kurulu'nda yapılan değişiklik ile kulüplerin sponsor gelirlerindeki %10'luk federasyon payı, %0 olarak revize edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/tvf-kuluplerin-sponsor-gelirlerindeki-10luk-payindan-feragat-etti-43367476"
+        },
+        {
+          "title": "Sergen Yalçın'ın 54. yaş günü Riva'da kutlandı",
+          "summary": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın'ın 54. yaş günü, Türkiye Futbol Federasyonu (TFF) Başkanı İbrahim Ethem Hacıosmanoğlu'nun katılımıyla Riva'daki TFF Hasan Doğan Milli Takımlar Kamp ve Eğitim Tesisleri'nde kutlandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcinin-54-yas-gunu-rivada-kutlandi-43367390"
+        },
+        {
+          "title": "Avrupa devleri, Galatasaray'ın yıldızı için geliyor! Bonservis bedeli belirlendi",
+          "summary": "Galatasaray, gösterdiği performansla Avrupa'dan birçok kulübün radarına giren Brezilyalı orta saha oyuncusu Gabriel Sara'nın bonservis bedelini belirledi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/avrupa-devleri-galatasarayin-yildizi-icin-geliyor-bonservis-bedeli-belirlendi-43367320"
+        },
+        {
+          "title": "Red Bull Pilotu Dario Costa: Ben projelerimde risklerimi kendim seçiyorum",
+          "summary": "Dünyanın en sıra dışı uçuşlarına imza atan Red Bull pilotu ve Guinness Dünya Rekoru sahibi Dario Costa, Brand Week Istanbul 2026 kapsamında katılımcılarla buluştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/red-bull-pilotu-dario-costa-ben-projelerimde-risklerimi-kendim-seciyorum-43367301"
+        },
+        {
+          "title": "Gençlerbirliği Teknik Direktörü Bernd Storck: 'Hedefimiz her zaman galibiyet'",
+          "summary": "Gençlerbirliği Teknik Direktörü Bernd Storck, Trendyol Süper Lig'in 11. haftasında deplasmanda Beşiktaş ile oynayacakları maça ilişkin, \"Elimizden gelenin en iyisini yapıp puan veya puanlar almaya çalışacağız.\" dedi.​​​​​​​",
+          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-teknik-direktoru-bernd-storck-hedefimiz-her-zaman-galibiyet-43367280"
+        },
+        {
+          "title": "Burak Yılmaz'dan Fenerbahçe maçı öncesi iddialı açıklama: 'Kazanmak için elimizden gelenin fazlasını yapacağız!'",
+          "summary": "Süper Lig'in 11. haftasında Fenerbahçe'yi konuk edecek olan Çorum FK'nın teknik direktörü Burak Yılmaz, \"Biz kazanmak için elimizden gelenin fazlasını yapacağız. Alacağımız galibiyet bize özgüven açısından çok büyük katkı sağlayacaktır. Tek hedefimiz kazanmak için sahaya çıkmak.\" şeklinde konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/burak-yilmazdan-fenerbahce-maci-oncesi-iddiali-aciklama-kazanmak-icin-elimizden-gelenin-fazlasini-yapacagiz-43367209"
+        },
+        {
+          "title": "Alexander Nübel, Almanya Milli Takımı'na davet edildi!",
+          "summary": "Beşiktaş'ın sezon başında Bayern Münih'ten kadrosuna kattığı Alexander Nübel, Almanya Milli Takımı'nın UEFA Uluslar A Ligi 2. Grup'ta Sırbistan ve Hollanda ile oynayacağı maçların aday kadrosuna davet edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alexander-nubel-almanya-milli-takimina-davet-edildi-43367188"
+        }
+      ]
     },
     "teknoloji": {
       "text": "1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar. Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\". Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü. Yeni EBA’da yapay zekâ dönemi.",
