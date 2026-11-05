@@ -1,171 +1,140 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-03T16:00:03.849Z",
+  "generatedAt": "2026-11-05T10:00:03.984Z",
   "categories": {
     "gundem": {
-      "text": "Okul bahçesindeki ağacı yakıp poz verdiler. İki öğrenci gözaltında. İran’dan açıklama: ABD ile anlaşma konusunda yeni bir gelişme yok. Yunanistan Dışişleri Bakanlığında 3 meslek grubu grevde. Sağlık Bakanı Memişoğlu: Dünyanın 1 numaralı akciğer kanseri olan ülkesiyiz. İstanbul'da trafik kilit. Yoğunluk yüzde 89'a çıktı. \"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programı düzenlendi. Siirt’te mantar yiyen 7 kişi hastaneye kaldırıldı.",
+      "text": "Kuvözdeki 14 dakikalık şiddete ceza: Mahkeme pişmanlığı samimi bulmadı, indirim vermedi. İstanbul'da yasa dışı bahis operasyonu: 6 kişi tutuklandı. İstanbul’un 1600 yıllık mirası Londra’da dünyayla buluşuyor. Sürücüsünün fren yerine gaza bastığı cip bina boşluğuna düştü. Kapıyı tekmeledi, saatlerce gitmedi: Sultangazi'de kadın çalışanların sopalı nöbeti kamerada. Erdoğan'dan fon soruşturması açıklaması: \"Ummadığınız insanlar bu işlerin içine girmiş\". Fon soruşturması: Fatma Betül Sayan Kaya, eşi İlyas Kaya ve İbrahim Ömer Gönül adliyede.",
       "items": [
         {
-          "title": "Okul bahçesindeki ağacı yakıp poz verdiler. İki öğrenci gözaltında",
-          "summary": "İzmir'de bir grup öğrenci okul bahçesindeki palmiye ağacını yakarak önünde poz verdi. Olayla ilgili 2 öğrenci gözaltına alındı. İzmir'in Konak ilçesinde yer alan Nevvar Salih İşgören Eğitim Kampüsü Çok Programlı Anadolu Lisesi’nde kimliği belirsiz öğrenciler, okul bahçesindeki bir palmiye ağacını ateşe verdi. Ardından öğrenciler, alevlerin karşısına geçerek kahkahalarla poz verdi ve bu anları cep telefonlarıyla kayda aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/okul-bahcesindeki-agaci-yakip-poz-verdiler-iki-ogrenci-gozaltinda-1749256"
+          "title": "Kuvözdeki 14 dakikalık şiddete ceza: Mahkeme pişmanlığı samimi bulmadı, indirim vermedi",
+          "summary": "Yeni doğan yoğun bakım ünitesinde kan aldığı bebeğe şiddet uygulayan ve bacağını kırdığı güvenlik kameralarınca kaydedilen hemşire Hazel Dırık Bağrıyanık hakkında karar açıklandı. Duruşmada \"Türk milletinden özür dilerim\" diyerek tahliyesini isteyen hemşireye hakim, 'samimi pişmanlık görülmediği' gerekçesiyle indirim uygulamadan 5 yıl 10 ay hapis cezası verdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kuvozdeki-14-dakikalik-siddete-ceza-mahkeme-pismanligi-samimi-bulmadi-indirim-vermedi-43366941"
         },
         {
-          "title": "İran’dan açıklama: ABD ile anlaşma konusunda yeni bir gelişme yok",
-          "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD ile olası bir anlaşmaya ilişkin yeni bir gelişme yaşanmadığını, taraflar arasındaki mesaj alışverişinin arabulucular üzerinden sürdüğünü bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/irandan-aciklama-abd-ile-anlasma-konusunda-yeni-bir-gelisme-yok-43364957"
+          "title": "İstanbul'da yasa dışı bahis operasyonu: 6 kişi tutuklandı",
+          "summary": "İstanbul'da yasa dışı bahis faaliyetlerinin önlenmesine yönelik düzenlenen operasyonda gözaltına alınan 6 şüpheli mahkemece tutuklanarak cezaevine gönderildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-yasa-disi-bahis-operasyonu-6-kisi-tutuklandi-43366933"
         },
         {
-          "title": "Yunanistan Dışişleri Bakanlığında 3 meslek grubu grevde",
-          "summary": "Yunanistan Dışişleri Bakanlığına bağlı 3 meslek grubunun, ücretlerde iyileştirme talebiyle 2 günlük greve gittiği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/yunanistan-disisleri-bakanliginda-3-meslek-grubu-grevde-43364955"
+          "title": "İstanbul’un 1600 yıllık mirası Londra’da dünyayla buluşuyor",
+          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Londra’daki Victoria and Albert Müzesi’nde ‘Konstantinopolis’ten İstanbul’a: Bir Şehir, İki İmparatorluk’ sergisini ziyaret etti. İstanbul’un yaklaşık 1600 yıllık tarihini 200’ü aşkın eserle anlatan sergiye ilişkin Ersoy, “Ülkemizin kültürel zenginliğini dünyanın önde gelen sanat ve kültür merkezlerinde tanıtmaya, İstanbul’un eşsiz mirasını daha geniş kitlelere ulaştırmaya devam edeceğiz” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulun-1600-yillik-mirasi-londrada-dunyayla-bulusuyor-43366923"
         },
         {
-          "title": "Sağlık Bakanı Memişoğlu: Dünyanın 1 numaralı akciğer kanseri olan ülkesiyiz",
-          "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Bu ülke artık bilimde, sağlıkta her türlü alanda yeni bir şey söylemeyle ilgili bilgiye, insan gücüne ve altyapıya sahip. Onun için yeni şeyler söyleyeceksiniz, icat çıkaracaksınız. Gençlere 'icat çıkarın' diyoruz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/saglik-bakani-memisoglu-dunyanin-1-numarali-akciger-kanseri-olan-ulkesiyiz-43364952"
+          "title": "Sürücüsünün fren yerine gaza bastığı cip bina boşluğuna düştü",
+          "summary": "Esenyurt'ta sürücüsünün fren yerine gaza bastığı cip, bir iş yerinin merdivenlerine çarptıktan sonra takla atarak bina boşluğuna düştü. Kaza güvenlik kamerasına yansırken, 3 kişi hafif yaralandı. Kaza, saat 14.10 sıralarında Turgut Özal Mahallesi 35'inci Sokak'ta meydana geldi. Edinilen bilgiye göre, sürücüsü S.K.'nin fren yerine gaza bastığı 06 CHZ 28 plakalı cip bir iş yerinin merdivenlerine çarptı. Çarpmanın şiddetiyle takla atan araç, merdivenlerin yanındaki bina boşluğuna düştü.",
+          "source": "https://www.ntv.com.tr/turkiye/video-surucusunun-fren-yerine-gaza-bastigi-cip-bina-bosluguna-dustu-1749520"
         },
         {
-          "title": "İstanbul'da trafik kilit. Yoğunluk yüzde 89'a çıktı",
-          "summary": "İstanbul'da iş çıkışı saatlerinde sağanak yağışın etkili olması nedeniyle trafik durma noktasına geldi. İstanbul'da iş çıkışı saatleri ve sağanak yağışın etkisini göstermesi nedeniyle trafik yoğunluğu oluştu. İstanbul Büyükşehir Belediyesi Trafik Yoğunluğu haritasına göre saat 18.00'da kent genelinde yoğunluk yüzde 89' yükseldi. Kentte mesai bitiminin ardından ana arterler, caddeler ve bağlantı yollarında araçlar güçlükle ilerledi.",
-          "source": "https://www.ntv.com.tr/turkiye/istanbulda-trafik-kilit-yogunluk-yuzde-89a-cikti-1749254"
+          "title": "Kapıyı tekmeledi, saatlerce gitmedi: Sultangazi'de kadın çalışanların sopalı nöbeti kamerada",
+          "summary": "Sultangazi Eski Edirne Asfaltı Caddesi üzerindeki bir pastaneye dadanan kimliği belirsiz şahıs, sabahın erken saatlerinden itibaren iş yerinin kapısında bekleyerek içeri girmeye çalıştı. Gülerek kapıyı tekmeleyen ve içeri girmeye çalışan kişiye karşı kapıyı kilitli tutan kadın çalışanlar, ellerindeki sopalarla yardım gelene kadar iş yerinde mahsur kaldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kapiyi-tekmeledi-saatlerce-gitmedi-sultangazide-kadin-calisanlarin-sopali-nobeti-kamerada-43366909"
         },
         {
-          "title": "\"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programı düzenlendi",
-          "summary": "\"Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti\" programında konuşan AK Parti Kültür ve Sanat Politikalarından Sorumlu Genel Başkan Yardımcısı Hüseyin Yayman \"Türkiye'miz bugün dünyanın küresel güçlerinden birisi haline geldi\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kurulusunun-25-iktidara-gelisinin-24-yilinda-ak-parti-programi-duzenlendi-43364941"
+          "title": "Erdoğan'dan fon soruşturması açıklaması: \"Ummadığınız insanlar bu işlerin içine girmiş\"",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasına ilişkin \"Hiç ummadığınız insanlar, bu işlerin içerisine girmişler.\" diyerek sürecin yakından takip edildiğine işaret etti. Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung davetiyle Seul'e gitti. Temaslarına tamamlayarak yurda dönen Cumhurbaşkanı Erdoğan, gazetecilerin sorularını yanıtladı. Erdoğan'ın temaslarını NTV'den Ahmed Arpat takip etti.",
+          "source": "https://www.ntv.com.tr/turkiye/erdogandan-fon-sorusturmasi-aciklamasi-ummadiginiz-insanlar-bu-islerin-icine-girmis-1749513"
         },
         {
-          "title": "Siirt’te mantar yiyen 7 kişi hastaneye kaldırıldı",
-          "summary": "Siirt’in Şirvan ilçesinde mantar yedikten sonra rahatsızlanan 7 kişi hastaneye kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/siirtte-mantar-yiyen-7-kisi-hastaneye-kaldirildi-43364942"
+          "title": "Fon soruşturması: Fatma Betül Sayan Kaya, eşi İlyas Kaya ve İbrahim Ömer Gönül adliyede",
+          "summary": "Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski Sermaye Piyasası Kurulu Başkanı İbrahim Ömer Gönül fon soruşturmasında savcıya ifade veriyor. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında yeni bir gelişme yaşandı. Fatma Betül Sayan Kaya ve eşi İlyas Kaya, savcıya ifade vermek üzere adliyeye geldi. Aynı dakikalarda eski Sermaye Piyasası Kurulu (SPK) Başkanı İbrahim Ömer Gönül de ifade vermek için adliyeye giriş yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasi-fatma-betul-sayan-kaya-ve-esi-ilyas-kaya-ifade-vermek-icin-adliyede-1749497"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail Cumhurbaşkanı Herzog, küçük partilerle istişare toplantılarına başlayacak. Kolombiya'da 5,4 büyüklüğünde deprem. MİT Başkanı Kalın'dan BAE'ye ziyaret. ABD'de oy verme işlemi başladı. Başkan Trump için kritik ara seçim. Türkiye'nin Güney Sudan Büyükelçisi Metin Ergin hayatını kaybetti: Dışişleri Bakanı Hakan Fidan'dan başsağlığı mesajı. İsrail muhalefeti harekete geçti: Netanyahu'yu devirme görüşmesi. Almanya'da süpermarketler siber saldırıya hedef oldu.",
+      "text": "Fransa'da polisten öğrencilere müdahale. Kulisler çalkalanıyor: Başkan konutuna kapandı, ekibi terk etti! İşte Trump’ı kahreden gecede Beyaz Saray’da yaşanan tüm detaylar. Milyarlarca dolarlık veri merkezi projeleri de ABD seçiminde kaybedenler arasında. Senato kalkanı çöktü: 'Azil' alarmı! Trump'ın tek kozu kaldı. Fransa'da yüzbinler yeninden sokakta. 70 bin polis görevlendirildi. Otelde ölü bulunan Bavyera Başbakan Yardımcısı ile ilgili neler biliniyor?. ABD'nin ilk Müslüman Senatörü Sayed'den Kongre'ye savaş yetkilerini kullanma çağrısı.",
       "items": [
         {
-          "title": "İsrail Cumhurbaşkanı Herzog, küçük partilerle istişare toplantılarına başlayacak",
-          "summary": "İsrail Cumhurbaşkanı Isaac Herzog'un ülkede 27 Ekim'de yapılan seçimlerin ardından hükümeti kurma yetkisinin kime verileceği ve koalisyon kurulması konularında istişare toplantılarına küçük partilerle başlayacağı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-cumhurbaskani-herzog-kucuk-partilerle-istisare-toplantilarina-baslayacak-43364962"
+          "title": "Fransa'da polisten öğrencilere müdahale",
+          "summary": "Fransa'da sendikaların genel grev çağrısı yaptığı ve yüz binlerce kişinin sokaklara dökülmesinin beklendiği eylem öncesinde, eğitim koşullarını protesto eden lise ve üniversite öğrencileri okul önlerinde kuşatma eylemi düzenledi. Polis, göstericilere müdahale etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransada-polisten-ogrencilere-mudahale-43366895"
         },
         {
-          "title": "Kolombiya'da 5,4 büyüklüğünde deprem",
-          "summary": "Kolombiya'da meydana gelen 5,4 büyüklüğündeki depremde ilk belirlemelere göre 1 kişi yaralandı, bazı yapılarda hasar oluştu.",
-          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-5-4-buyuklugunde-deprem-43364961"
+          "title": "Kulisler çalkalanıyor: Başkan konutuna kapandı, ekibi terk etti! İşte Trump’ı kahreden gecede Beyaz Saray’da yaşanan tüm detaylar",
+          "summary": "2026 ara seçim gecesi, Beyaz Saray’da uzun süre hafızalardan silinmeyecek karanlık ve panik dolu anlara sahne oldu. Demokratların sandıktaki ezici üstünlüğü ve ‘Mavi Dalga’nın etkisi netleştikçe, Cumhuriyetçi kanatta hayal kırıklığı yerini hızlıca kaosa bıraktı. Donald Trump’ın kapalı kapılar ardında öfkeyle yalnızlığına çekildiği, danışmanların ve kabine üyelerinin gelebilecek bir ‘tasfiye’ korkusuyla binayı terk ettiği o tarihi gecede yaşanan tüm çarpıcı detaylar basına sızdı.",
+          "source": "https://www.hurriyet.com.tr/dunya/kulisler-calkalaniyor-baskan-konutuna-kapandi-ekibi-terk-etti-iste-trumpi-kahreden-gecede-beyaz-sarayda-yasanan-tum-detaylar-43366623"
         },
         {
-          "title": "MİT Başkanı Kalın'dan BAE'ye ziyaret",
-          "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Birleşik Arap Emirlikleri'ne (BAE) ziyarette bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/mit-baskani-kalindan-baeye-ziyaret-43364904"
+          "title": "Milyarlarca dolarlık veri merkezi projeleri de ABD seçiminde kaybedenler arasında",
+          "summary": "ABD ara seçimlerinde, çevresel etkileri nedeniyle veri merkezlerine ilişkin yerel öneriler de oylandı. 68 milyar doları bulan projelerin muhalefet nedeniyle aksadığı sektörde düzenleme baskısı arttı. ABD'de teknoloji şirketlerinin yapay zeka altyapısına yönelik milyarlarca dolarlık yatırım planları, 3 Kasım'daki ara seçimlerle eş zamanlı olarak yapılan yerel oylamalarda veri merkezi projelerine yönelik kısıtlama ve yasaklama girişimlerine verilen güçlü seçmen desteğiyle karşı karşıya kaldı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-milyarlarca-dolarlik-veri-merkezi-projeleri-de-abd-seciminde-kaybedenler-arasinda-1749501"
         },
         {
-          "title": "ABD'de oy verme işlemi başladı. Başkan Trump için kritik ara seçim",
-          "summary": "ABD'de bugün 435 sandalyeli Temsilciler Meclisi'nin tamamı ve 100 sandalyeli Senato'nun 35 sandalyesi için ara seçim yapılıyor. Bu seçimler, Trump'ın ikinci döneminin en kritik yarışı olacak. ABD'de Başkan Donald Trump yönetiminin yasama gücünü ve Kongredeki siyasi dengeyi şekillendirecek ara seçimlerde oy verme işlemi başladı. 435 sandalyeli Temsilciler Meclisinin tamamı ile 100 sandalyeli Senatonun 35 sandalyesi için seçime gidiliyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-abdde-oy-verme-islemi-basladi-baskan-trump-icin-kritik-ara-secim-1749236"
+          "title": "Senato kalkanı çöktü: 'Azil' alarmı! Trump'ın tek kozu kaldı",
+          "summary": "ABD'deki ara seçimlerde Demokratlar, Kongre'nin iki kanadında da çoğunluğu kazandı. Trump, 2018 seçimlerinde Temsilciler Meclisi'ni kaybetmiş ancak Senato'daki Cumhuriyetçi desteğini korumuştu. Peki, bu kez Trump'ı ne bekliyor? İstanbul Aydın Üniversitesi Öğretim Görevlisi Yeliz Albayrak, yeni bir azil sürecinin başlayabileceğine dikkat çekerek, “Bu sefer Senato'da Trump'ı kurtaracak kadar Cumhuriyetçi de yok” dedi. Albayrak, Trump’ın elinde bulunan önemli bir yetki gücüne işaret etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/senato-kalkani-coktu-azil-alarmi-trumpin-tek-kozu-kaldi-43366622"
         },
         {
-          "title": "Türkiye'nin Güney Sudan Büyükelçisi Metin Ergin hayatını kaybetti: Dışişleri Bakanı Hakan Fidan'dan başsağlığı mesajı",
-          "summary": "Dışişleri Bakanı Hakan Fidan, hayatını kaybeden Türkiye'nin Güney Sudan Büyükelçisi Metin Ergin için başsağlığı mesajı paylaştı. Fidan paylaşımında, \"Ülkemize 35 sene boyunca özveriyle hizmet etmiş olan Büyükelçi Ergin'e Allah’tan rahmet; değerli ailesine, yakınlarına ve camiamıza başsağlığı diliyorum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/turkiyenin-guney-sudan-buyukelcisi-metin-ergin-hayatini-kaybetti-disisleri-bakani-hakan-fidandan-bassagligi-mesaji-43364738"
+          "title": "Fransa'da yüzbinler yeninden sokakta. 70 bin polis görevlendirildi",
+          "summary": "Fransa'da eğitim ve hayat pahalılığına tepki gösteren yüz binler greve giderken, 70 bin polis sokaklarda teyakkuza geçirildi. Fransa genelinde haftalardır devam eden lise ve üniversite eylemleri, sendikaların aldığı grev kararlarıyla birleşti. Gençlerin okullardaki kötü eğitim koşullarını protesto etmesiyle başlayan süreç, artan hayat pahalılığı ve gelir adaletsizliğine duyulan öfkeyle bir araya geldi. Biriken tepkiler, 17 Ekim'de Fransa'nın son yıllarda tanık olduğu en şiddetli sokak olaylarıyla sonuçlandı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-yuzbinler-yeninden-sokakta-70-bin-polis-gorevlendirildi-1749494"
         },
         {
-          "title": "İsrail muhalefeti harekete geçti: Netanyahu'yu devirme görüşmesi",
-          "summary": "İsrail'de, sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim seçimlerinin ardından, muhalefet bloku liderleri \"acil hükümet kurma\" gündemiyle bir araya geldi. Muhalefet liderlerinin toplantısından ilk olarak Meclis Başkanını değiştirme ve Yashar Partisi Gadi Eisenkot'u hükümet kurma konusunda destekleme kararı çıktı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-muhalefeti-harekete-gecti-netanyahuyu-devirme-gorusmesi-43364725"
+          "title": "Otelde ölü bulunan Bavyera Başbakan Yardımcısı ile ilgili neler biliniyor?",
+          "summary": "Almanya'da Bavyera Eyaleti Başbakan Yardımcısı ve eyaletin Ekonomi Bakanı Hubert Aiwanger dün başkent Berlin'de konakladığı otelde ölü bulundu. Ölüm sebebi halen açıklanmadı. Almanya'da Özgür Seçmenler (Freie Wähler) Partisi Genel Başkanı da olan Bavyera Eyaleti Başbakan Yardımcısı ve eyaletin Ekonomi Bakanı Hubert Aiwanger'in oteldeki ölümüyle ilgili sır perdesi henüz aralanamadı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-otelde-olu-bulunan-bavyera-basbakan-yardimcisi-ile-ilgili-neler-biliniyor-1749489"
         },
         {
-          "title": "Almanya'da süpermarketler siber saldırıya hedef oldu",
-          "summary": "Avrupa'nın birçok ülkesinde süpermarketlerin ve diğer işletmelerin soğutma sistemlerini hedef alan siber saldırılar, Almanya'daki bazı süpermarketleri de etkiledi. Saldırı sonucunda soğutma sistemlerinin sıcaklıklarının yükseldiğini aktaran Salten, çok sayıda gıda ürününün bozulma riski nedeniyle imha edilmek zorunda kalındığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-supermarketler-siber-saldiriya-hedef-oldu-43364705"
+          "title": "ABD'nin ilk Müslüman Senatörü Sayed'den Kongre'ye savaş yetkilerini kullanma çağrısı",
+          "summary": "ABD ara seçimlerinde Michigan'dan ABD Senatörü seçilen Abdul el-Sayed, Kongre'nin savaş yetkilerini kullanması gerektiğini belirtti. Sayed. ABD Başkanı Donald Trump'ın İran savaşını sona erdirmeye yönelik bir plana sahip olmadığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdnin-ilk-musluman-senatoru-sayedden-kongreye-savas-yetkilerini-kullanma-cagrisi-43366682"
         }
       ]
     },
     "ekonomi": {
-      "text": "Sınır kapılarındaki TIR kuyrukları uzuyor. Çin hedefi 10 milyar dolar. ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı. Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu. Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü. TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü. Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi.",
+      "text": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı. Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı. Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor. Cumhurbaşkanı Yardımcısı Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz. Bakan Kacır: Selden etkilenen KOBİ'lere 1 milyon TL'ye kadar kredi desteği verilecek. Sınır kapılarındaki TIR kuyrukları uzuyor.",
       "items": [
+        {
+          "title": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
+          "summary": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242"
+        },
+        {
+          "title": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
+          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi-43366219"
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı",
+          "summary": "İSTANBUL'da düzenlenen 19'uncu Milli İrade Buluşması programında konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye ihracatını arttırmaya devam ediyor. 25.9 milyar dolarla ekim ayları için tarihi bir rekor ihracat gerçekleştirmişiz. Yıllıklandırılmış dediğimiz ihracatı, bu ekimden bir önceki ekim ayına kadar götürdüğünüzde 1 yılda ne kadar olmuş diye baktığınızda 285,6 milyar dolara ulaşmışız\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiyenin-ekim-ayi-ihracati-rekor-kirdi-43365117"
+        },
+        {
+          "title": "Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor",
+          "summary": "Küresel altın talebi yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 1 azalarak 1369 tona gerilerken, merkez bankaları ise fiyatlardaki düşüşü fırsata çevirerek rezervlerini artırmaya devam etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/dunya-altin-konseyinden-carpici-altin-raporu-merkez-bankalari-alim-firsati-olarak-goruyor-43365108"
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz",
+          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, \"Küresel belirsizliklerin arttığı bir dönemde, ekonomik dayanıklılığımızı güçlendirirken kalıcı fiyat istikrarını sağlamayı, yatırım, üretim, istihdam ve ihracat ekseninde sürdürülebilir büyümeyi ve ekonomik kazanımları toplumun tüm kesimleri için kalıcı refaha dönüştürmeyi hedefliyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kalici-fiyat-istikrarini-saglamayi-hedefliyoruz-43365073"
+        },
+        {
+          "title": "Bakan Kacır: Selden etkilenen KOBİ'lere 1 milyon TL'ye kadar kredi desteği verilecek",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ’lere yönelik yeni destek paketini duyurdu. Bakan Kacır, KOSGEB aracılığıyla hayata geçirilecek Acil Durumlar Desteği kapsamında küçük işletmelere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi imkânı sunulacağını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-selden-etkilenen-kobilere-1-milyon-tlye-kadar-kredi-destegi-verilecek-43365053"
+        },
         {
           "title": "Sınır kapılarındaki TIR kuyrukları uzuyor",
           "summary": "İzmir Sanayici ve İş İnsanları Derneği (İZSİAD) Yönetim Kurulu Başkanı Alaattin Yüksel, Türkiye’nin Avrupa’ya açılan sınır kapıları Kapıkule, Hamzabeyli ve İpsala’da yaşanan TIR kuyruklarının ekonomiye zarar verecek bir noktaya ulaştığını söyledi.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/sinir-kapilarindaki-tir-kuyruklari-uzuyor-43364611"
-        },
-        {
-          "title": "Çin hedefi 10 milyar dolar",
-          "summary": "Türkiye ile Çin arasındaki dış ticaretin dengelenmesi için son yıllarda yoğun bir çalışma yürüten Ege İhracatçı Birlikleri (EİB), 5-10 Kasım 2026 tarihleri arasında Şanghay’da düzenlenecek Çin Uluslararası İthalat Fuarı’na (CIIE) Türkiye Milli Katılım Organizasyonu yapacak.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/cin-hedefi-10-milyar-dolar-43364606"
-        },
-        {
-          "title": "ABD-İran anlaşmasına yönelik adımlar piyasaları olumlu etkiledi... Borsa günü yükselişle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/abd-iran-anlasmasina-yonelik-adimlar-piyasalari-olumlu-etkiledi-borsa-gunu-yukselisle-tamamladi-43363655"
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan'dan Güney Kore mesajı: İleri mühendislik ve nükleer enerjide ortak başarı vurgusu",
-          "summary": "Güney Kore ziyareti kapsamında değerlendirmelerde bulunan Cumhurbaşkanı Recep Tayyip Erdoğan; İHA'lar, motor teknolojileri ve Sinop Nükleer Güç Santrali başta olmak üzere iki ülkenin birçok alanda birlikte önemli başarılara imza atabileceğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-guney-kore-mesaji-ileri-muhendislik-ve-nukleer-enerjide-ortak-basari-vurgusu-43363003"
-        },
-        {
-          "title": "Bakan Bolat, Kazakistan Başbakan Yardımcısı Jumangarin ile görüştü",
-          "summary": "TİCARET Bakanı Ömer Bolat, Türk Devletleri Teşkilatı 13'üncü Zirvesi kapsamında Kazakistan Başbakan Yardımcısı ve Ulusal Ekonomi Bakanı Serik Jumangarin ile bir araya geldi. Görüşmede, iki ülke arasındaki 15 milyar dolarlık ticaret hacmi hedefi ve karşılıklı yatırımlar ele alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-kazakistan-basbakan-yardimcisi-jumangarin-ile-gorustu-43358582"
-        },
-        {
-          "title": "TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü",
-          "summary": "Yeminli Mali Müşavir ve ekonomi yazarı Abdullah Tolu, TÜBADEF 2026 Başarı Ödülleri kapsamında \"Yılın Ekonomi Yazarı\" ödülüne layık görüldü. Tüm Bağımsız Denetçi Dernekleri Federasyonu (TÜBADEF), 2026 Başarı Ödülleri kapsamında ekonomi, eğitim, meslek kuruluşları ve sivil toplum alanlarında ödüllerini dağıtıyor. Yılın Ekonomi Yazarı Ödülü, ekonomi ve vergi alanında yaptığı çalışmalarla dikkat çeken Abdullah Tolu'ya gitti.",
-          "source": "https://www.ntv.com.tr/ekonomi/tubadef-yilin-ekonomi-yazari-odulu-abdullah-toluya-layik-goruldu-1748400"
-        },
-        {
-          "title": "Fon Koordinasyon Kurulu toplandı: 71 bini aşkın hesaba 68 milyar TL ödendi",
-          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplanan 8'inci Fon Koordinasyon Kurulu'nun ardından yapılan açıklamada, tasfiye sürecindeki fon sayısının 131’den 38’e gerilediği ve bugüne kadar 71 bin 899 hesaba toplam 68 milyar TL ödeme yapıldığı bildirildi. Olağanüstü tasfiye kapsamındaki fonlar için ilk ara ödemelerin ise 30 Ekim Cuma günü başlayacağı duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-koordinasyon-kurulu-toplandi-71-bini-askin-hesaba-68-milyar-tl-odendi-43358043"
         }
       ]
     },
     "spor": {
-      "text": "Dirk Kuyt: 'Liverpool maçı için çok iyi bir planımız var, bu plana inanmalıyız'. Fenerbahçe, Emre Belözoğlu ile görüşmelere başladı! Conceiçao iptal. Serdar Aziz, teknik direktörlüğe hazırlanıyor: Fenerbahçe'de şampiyonluk yaşayamamak içimde ukde kaldı. Beşiktaş'a Alman, Trabzonspor'a Estonyalı hakem. Dört büyük kulübün futbolcuları KKTC’li oyuncularla dostluk maçına çıkacak. Galatasaray iç sahada favori, Şampiyonlar Ligi’nde taraf bahisleri öne çıkıyor! İşte Misli’de günün en çok oynanan maçları. At Yarışı Tutkusu Adana’da Yükseliyor! İşte Misli’den Günün Altılı Analizi….",
-      "items": [
-        {
-          "title": "Dirk Kuyt: 'Liverpool maçı için çok iyi bir planımız var, bu plana inanmalıyız'",
-          "summary": "Fenerbahçe teknik sorumlusu Dirk Kuyt, yarın akşam Şampiyonlar Ligi'nde Liverpool ile oynayacakları maç öncesinde düzenlenen basın toplantısında, \"Liverpool maçı Fenerbahçe için, oyuncular için çok büyük bir fırsat. Çok iyi bir planımız var, bu plana inanmalıyız. Dört gözle Kadıköy'de olmayı bekliyorum. Taraftarlarımız arkamızda olacaktır ve en büyük şansımız bu olacaktır.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dirk-kuyt-liverpool-maci-icin-cok-iyi-bir-planimiz-var-bu-plana-inanmaliyiz-43364697"
-        },
-        {
-          "title": "Fenerbahçe, Emre Belözoğlu ile görüşmelere başladı! Conceiçao iptal",
-          "summary": "İsmail Kartal'la yollarını ayırdıktan sonra teknik direktörlük için Sergio Conceição ile prensip anlaşmasına varan Fenerbahçe, Portekizli teknik adamın taleplerini sonradan değiştirmesi üzerine rotayı yeniden yerli teknik direktöre çevirdi. Sarı lacivertliler bu bağlamda Emre Belözoğlu ile görüşmelere başladı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-emre-belozoglu-gorusmelere-basladi-conceicao-iptal-43364607"
-        },
-        {
-          "title": "Serdar Aziz, teknik direktörlüğe hazırlanıyor: Fenerbahçe'de şampiyonluk yaşayamamak içimde ukde kaldı",
-          "summary": "Bir dönem A Milli Takım başta olmak üzere Bursaspor, Galatasaray ve Fenerbahçe’de forma giyen Serdar Aziz, teknik direktörlük için eğitimler almaya başladığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/serdar-aziz-teknik-direktorluge-hazirlaniyor-fenerbahcede-sampiyonluk-yasayamamak-icimde-ukde-kaldi-43364479"
-        },
-        {
-          "title": "Beşiktaş'a Alman, Trabzonspor'a Estonyalı hakem",
-          "summary": "Avrupa kupalarındaki temsilcilerimizden Beşiktaş'ın Avrupa Ligi'ndeki Celtic, Trabzonspor'un ise Konferans Ligi'ndeki Freiburg maçlarını yönetecek hakemler belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-alman-trabzonspora-estonyali-hakem-43364539"
-        },
-        {
-          "title": "Dört büyük kulübün futbolcuları KKTC’li oyuncularla dostluk maçına çıkacak",
-          "summary": "Türkiye Cumhuriyeti Gençlik ve Spor Bakanlığı ile Kuzey Kıbrıs Türk Cumhuriyeti Başbakanlığı iş birliğinde KKTC Dostluk Kupası düzenlenecek. 7–8 Kasım tarihlerinde KKTC’nin başkenti Lefkoşa’da gerçekleştirilecek organizasyonda Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor’un U15 futbol takımları, Kıbrıs Türk gençleriyle karşılaşacak. Gençlik ve Spor Bakanı Dr. Osman Aşkın Bak, iki ülke sporcularını aynı sahada buluşturmanın mutluluğunu yaşadıklarını belirterek, KKTC Dostluk Kupası’nı çok önemsediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dort-buyuk-kulubun-futbolculari-kktcli-oyuncularla-dostluk-macina-cikacak-43364532"
-        },
-        {
-          "title": "Galatasaray iç sahada favori, Şampiyonlar Ligi’nde taraf bahisleri öne çıkıyor! İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ic-sahada-favori-sampiyonlar-liginde-taraf-bahisleri-one-cikiyor-iste-mislide-gunun-en-cok-oynanan-maclari-43364491"
-        },
-        {
-          "title": "At Yarışı Tutkusu Adana’da Yükseliyor! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/at-yarisi-tutkusu-adanada-yukseliyor-iste-misliden-gunun-altili-analizi-43364465"
-        }
-      ]
+      "text": "",
+      "items": []
     },
     "teknoloji": {
-      "text": "Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar. Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\". Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü. Yeni EBA’da yapay zekâ dönemi. Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu.",
+      "text": "1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar. Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\". Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü. Yeni EBA’da yapay zekâ dönemi.",
       "items": [
+        {
+          "title": "1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor",
+          "summary": "NASA'nın 22 yıl önce alçak Dünya yörüngesine gönderdiği 1.5 tonluk Neil Gehrels Swift Gözlemevi, kontrolsüz bir şekilde Dünya'ya doğru düşmeye başladı. ABD Uzay Kuvvetleri, son birkaç yıldır süren yoğun güneş aktivitesinin artırdığı atmosferik sürüklenmenin sonucu olarak yörüngesi alçalan Swift'in Endonezya yakınlarında atmosfere girdiğini doğruladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/15-tonluk-gozlemevi-kontrolsuz-sekilde-dunyaya-dusuyor-1749435"
+        },
         {
           "title": "Maratonda bu kez robot polisler nöbet tuttu",
           "summary": "Çin’de düzenlenen Hanco Maratonu’nda robot polisler devriye gezdi, trafiği denetledi ve sporcularla fotoğraf çektirdi.",
@@ -195,11 +164,6 @@
           "title": "Yeni EBA’da yapay zekâ dönemi",
           "summary": "Millî Eğitim Bakanlığı (MEB), Eğitim Bilişim Ağı’nı (EBA) yeni eğitim öğretim yılı için güncelledi. Okul öncesinden liseye kadar farklı kademelere özel arayüzlerle tasarlanan platform; kişiselleştirilmiş içerik, yapay zekâ destekli çalışma planları ve öğrenci gelişimini izlemeye yönelik araçlar sunmayı hedefliyor.",
           "source": "https://www.hurriyet.com.tr/egitim/yeni-ebada-yapay-zeka-donemi-43358138"
-        },
-        {
-          "title": "Milli Eğitim Bakanı Tekin: Avrupa ülkeleri arasından en iyi olduğumuz konu",
-          "summary": "Milli Eğitim Bakanı Yusuf Tekin, Eğitim Bilişim Ağı'na (EBA) ilişkin, \"6 milyon civarında aktif kullanıcı sayısı var. Bu, Avrupa ülkeleri arasında açık ara en iyi olduğumuz bir konu.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/milli-egitim-bakani-tekin-avrupa-ulkeleri-arasindan-en-iyi-oldugumuz-konu-43358074"
         }
       ]
     },
@@ -244,17 +208,12 @@
       ]
     },
     "magazin": {
-      "text": "Yıllar sonra. Sessiz yürüyüş.",
+      "text": "Yıllar sonra.",
       "items": [
         {
           "title": "Yıllar sonra",
           "summary": "Helin Avşar uzun aranın ardından Yeniköy’de görüntülendi. 49 yaşındaki ünlü isim, iki örgü yaptığı saçlarıyla dikkat çekti.",
           "source": "https://www.hurriyet.com.tr/kelebek/hayat/yillar-sonra-43351603"
-        },
-        {
-          "title": "Sessiz yürüyüş",
-          "summary": "Levent Özdilek önceki gün Arnavutköy sahilinde bir kadınla birlikte yürüyüş yaparken objektife yansıdı.",
-          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/sessiz-yuruyus-43331366"
         }
       ]
     }
