@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-06T04:00:03.431Z",
+  "generatedAt": "2026-11-06T16:00:03.526Z",
   "categories": {
     "gundem": {
-      "text": "E5'te otomobil alev topuna döndü. Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı. Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı. Mekke Anlaşması TBMM'de kabul edildi. Kütahya Şehir Hastanesi'nde 70 personel gıda zehirlenme şüphesiyle rahatsızlandı. Bolu'da kar yağışı etkili oldu. Yeni Parti Genel Başkanı Özel, Olağan Kurultay tarihini açıkladı.",
+      "text": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan NTV'ye özel açıklamalar. Bakan Göktaş'tan 'Sıfır Atık Kadın Elçiliği' daveti. Bakan Bolat: Türkiye yılda toplam 1.3 milyar dolar ihracat yapıyor. Emine Erdoğan'dan '81 İl, 81 Kadın, 81 Hikaye' programı paylaşımı. Bakan Kacır, KKTC Cumhurbaşkanı Erhürman ile görüştü. Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TRT World Forum 2026'da konuştu. Emine Erdoğan: Kadınların sanatın ve zanaatın atan kalbi olduğunu düşünüyorum.",
       "items": [
         {
-          "title": "E5'te otomobil alev topuna döndü",
-          "summary": "İstanbul Küçükçekmece'de seyir halindeki otomobil bilinmeyen bir nedenle alev alev yandı. Yangın itfaiye ekiplerince söndürülürken, araç kullanılamaz hale geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/e5te-otomobil-alev-topuna-dondu-43367756"
+          "title": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan NTV'ye özel açıklamalar",
+          "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, NTV'de gündeme ilişkin açıklamalarda bulunuyor. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, NTV canlı yayınında gündeme ilişkin açıklamalarda bulunuyor. NTV Ankara Temsilcisi Ahmet Ergen'in sorularını yanıtlayan Yılmaz, fon soruşturmasından tasfiye sürecine, enflasyonda son durumdan emekliye refah düzenlemesine kadar birçok konuda değerlendirmelerde bulunacak. Yılmaz'ın açıklamalarından öne çıkanlar şöyle:",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-cevdet-yilmazdan-ntvye-ozel-aciklamalar-1749713"
         },
         {
-          "title": "Arif Ahmet Denizolgun'un ölümüne ilişkin Adli Tıp raporu çıktı",
-          "summary": "Eski Bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmada, Adli Tıp Kurumu incelemesinde ölümünün yüksek tansiyona bağlı beyin kanaması sonucu meydana geldiği bildirildi. Eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmada Adli Tıp Kurumu raporu çıktı. Adli Tıp Kurumu (ATK) 1.",
-          "source": "https://www.ntv.com.tr/turkiye/arif-ahmet-denizolgunun-olumune-iliskin-adli-tip-raporu-cikti-1749569"
+          "title": "Bakan Göktaş'tan 'Sıfır Atık Kadın Elçiliği' daveti",
+          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, tüm kadınları 'Kadınlarla Atıksız Sürdürülebilir Yaşam Projesi' kapsamında 81 ilde yeşil dönüşümün öncüsü olacak Sıfır Atık Kadın Elçisi olmaya davet etti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-goktastan-sifir-atik-kadin-elciligi-daveti-43368783"
         },
         {
-          "title": "Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı",
-          "summary": "Afyonkarahisar'da 8 kişiyi öldüren, 1 kişiyi de ağır yaralayan şahıs, Eskişehir'de yakalandı. Şüpheli Afyonkarahisar'a götürüldü. Afyonkarahisar'da Arif Sefa Özdemir isimli şahıs, farklı noktalarda gerçekleştirdiği silahlı saldırılarda 8 kişi öldürdü, 1 kişiyi ağır yaraladı. Gaspettiği araçla Eskişehir'e kaçan Özdemir, aracın çamura saplanması sonrası yaya olarak kaçmaya devam etti. Burada başka bir aracı gaspeden şahıs, jandarma tarafından yakalandı. Çatışma sırasında 1 astsubay hafif yaralandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-silahli-saldiri-uc-ayri-noktada-8-ceset-bulundu-1749559"
+          "title": "Bakan Bolat: Türkiye yılda toplam 1.3 milyar dolar ihracat yapıyor",
+          "summary": "UNICERA Uluslararası Seramik Banyo Mutfak Fuarı'nda konuşan Ticaret Bakanı Ömer Bolat, “Türkiye yılda toplam 1.3 milyar dolar ihracat yapıyor ve dünyada özellikle seramik karoda 5. genel seramik ürünlerinde de ilk 10'un içinde ihracat liginde yer alıyor. Biz de Ticaret Bakanlığı olarak prestijli fuar statüsü verdiğimiz seramik fuarının daha da güçlenmesi için her türlü fedakarlığı yapıyoruz bakanlık olarak” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-turkiye-yilda-toplam-1-3-milyar-dolar-ihracat-yapiyor-43368780"
         },
         {
-          "title": "Mekke Anlaşması TBMM'de kabul edildi",
-          "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunmasına ilişkin kanun teklifi TBMM Genel Kurulu'nda kabul edildi. Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulu'nda, Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın onaylanmasına ilişkin kanun teklifi kabul edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/mekke-anlasmasi-tbmmde-kabul-edildi-1749576"
+          "title": "Emine Erdoğan'dan '81 İl, 81 Kadın, 81 Hikaye' programı paylaşımı",
+          "summary": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, AK Parti Genel Merkez Kadın Kolları Başkanlığı ev sahipliğinde düzenlenen '81 İl, 81 Kadın, 81 Hikaye: Bize Özgü Sergisi Açılış Programı'na ilişkin paylaşım yaptı.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-81-il-81-kadin-81-hikaye-programi-paylasimi-43368759"
         },
         {
-          "title": "Kütahya Şehir Hastanesi'nde 70 personel gıda zehirlenme şüphesiyle rahatsızlandı",
-          "summary": "Kütahya Şehir Hastanesi'nde 70 personel, gıda zehirlenmesi şüphesiyle acil servise başvurdu. 60 personelin taburcu edildiği, 10 personelin ise tedavisinin sürdüğü öğrenildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kutahya-sehir-hastanesinde-70-personel-gida-zehirlenme-suphesiyle-rahatsizlandi-43367670"
+          "title": "Bakan Kacır, KKTC Cumhurbaşkanı Erhürman ile görüştü",
+          "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır 17’nci Boğaziçi Zirvesi’ne katılmak üzere İstanbul’da bulunan Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ve eşi Nilden Bektaş Erhürman ile bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-kktc-cumhurbaskani-erhurman-ile-gorustu-43368756"
         },
         {
-          "title": "Bolu'da kar yağışı etkili oldu",
-          "summary": "Bolu'nun Gerede ilçesinde kar yağışı etkili oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/boluda-kar-yagisi-etkili-oldu-43367628"
+          "title": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TRT World Forum 2026'da konuştu",
+          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Dünyanın ihtiyacı yeni bir savaşın galipleri değil, yeni bir barışın kurucularıdır. Geçmişte bir büyük savaştan sonra yapılan kurumsal yenilenmeyi bugün barış içinde gerçekleştirmek, çağımızın en önemli siyasi imtihanıdır.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskanligi-iletisim-baskani-burhanettin-duran-trt-world-forum-2026da-konustu-43368746"
         },
         {
-          "title": "Yeni Parti Genel Başkanı Özel, Olağan Kurultay tarihini açıkladı",
-          "summary": "Yeni Parti Genel Başkanı Özgür Özel, \"14-15 Kasım'da 1. Olağan Kurultayımızı yapacağız. Bu kurultay, yeni nesil siyasetin ilk kurultayıdır. Siyasi kuruluşumuz kurultayımızla tamamlanacak\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/yeni-parti-genel-baskani-ozel-olagan-kurultay-tarihini-acikladi-43367612"
+          "title": "Emine Erdoğan: Kadınların sanatın ve zanaatın atan kalbi olduğunu düşünüyorum",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Zanaatkar Kadınlar Türkiye-81 İl, 81 Kadın, 81 Hikaye\" programında yaptığı konuşmada \"Kültürün gelecek nesillere aktarılmasında ve geleneksel sanatların korunmasında, kadınların vazgeçilmez bir rolü vardır. Kadınların sanatın ve zanaatın atan kalbi olduğunu düşünüyorum.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogan-kadinlarin-sanatin-ve-zanaatin-atan-kalbi-oldugunu-dusunuyorum-43368730"
         }
       ]
     },
     "dunya": {
-      "text": "Hegseth hedefte. Seçim hezimetinin faturası ona mı kesilecek?. Kuzey Irak'ta siyasi kriz. Talabani: IKBY yönetiminden çekiliyoruz. İsrail Cumhurbaşkanı, hükümet kurma görevi için Eisenkot'u işaret etti. İran Devrim Muhafızları: Keşm Adası'nda ABD'ye ait MQM-170 tipi İHA düşürüldü. Bitcoin’de sert satış dalgası… 76 bin doların altını gördü. İran'dan ABD'ye Katar üzerinden nükleer teklifi: Önce 7 şartın karşılanması isteniyor. Paraguay'da bankacılık krizi hükümeti devirdi: Devlet Başkanı istifa etti.",
+      "text": "Dolar, altın, borsa… İşte haftanın en çok kazandıran yatırım araçları. Havada panik.... 2 yolcu uçağı, bomba ihbarı nedeniyle iniş yaptı. Avrupa'da bomba alarmı! İhbarlar peş peşe geldi. İsrail muhalefetinden Netanyahu iddiası! 'Darbe planlıyor'. Dışişleri Bakanı Hakan Fidan KKTC'de: Cumhurbaşkanı Erhürman ile bir araya geldi. Hegseth hedefte. Seçim hezimetinin faturası ona mı kesilecek?. Trump'tan 'süper zeka'ya destek.",
       "items": [
+        {
+          "title": "Dolar, altın, borsa… İşte haftanın en çok kazandıran yatırım araçları",
+          "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 6,72, altının gram fiyatı yüzde 3,57, avro/TL yüzde 0,37 ve dolar/TL yüzde 0,42 değer kazandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/dolar-altin-borsa-iste-haftanin-en-cok-kazandiran-yatirim-araclari-43368785"
+        },
+        {
+          "title": "Havada panik.... 2 yolcu uçağı, bomba ihbarı nedeniyle iniş yaptı",
+          "summary": "Londra ve Brüksel'den kalkan 2 yolcu uçağının, bomba ihbarlarının ardından Sofya'ya güvenli iniş yaptığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/havada-panik-2-yolcu-ucagi-bomba-ihbari-nedeniyle-inis-yapti-43368777"
+        },
+        {
+          "title": "Avrupa'da bomba alarmı! İhbarlar peş peşe geldi",
+          "summary": "Avrupa'da panik yaratan bomba ihbarlarına yenileri eklendi. İrlanda'daki çok sayıda medya kuruluşuna bomba ihbarı içeren e-postalar gönderildi. İhbarlar üzerine binalar tahliye edilirken, güvenlik güçleri geniş çaplı inceleme başlattı. Öte yandan Avrupa'nın farklı ülkelerinde hava trafiğini aksatan bomba ihbarları sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/avrupada-bomba-alarmi-ihbarlar-pes-pese-geldi-43368666"
+        },
+        {
+          "title": "İsrail muhalefetinden Netanyahu iddiası! 'Darbe planlıyor'",
+          "summary": "İsrailli muhalif lider Golan, Netanyahu'yu \"iktidarı ele geçirmek için darbe planlamakla\" suçladı. Golan, Netanyahu'nun güvenlik kurumlarını siyasi hedefleri için kullanmaya çalıştığını savundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-muhalefetinden-netanyahu-iddiasi-darbe-planliyor-43368657"
+        },
+        {
+          "title": "Dışişleri Bakanı Hakan Fidan KKTC'de: Cumhurbaşkanı Erhürman ile bir araya geldi",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ile Dışişleri Bakanı Hakan Fidan bir araya geldi. Bakanı Fidan, Erhürman ile gçrüşmesinin ardından KKTC Başbakanı Ünal Üstel tarafından kabul edildi",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-kktcde-cumhurbaskani-erhurman-ile-bir-araya-geldi-43368600"
+        },
         {
           "title": "Hegseth hedefte. Seçim hezimetinin faturası ona mı kesilecek?",
           "summary": "ABD'de Cumhuriyetçi Parti, seçim hezimetinin muhasebesine girişti. Seçmenin İran Savaşı'na tepkisini ortaya koyan sonuçlar, Savunma Bakanı Pete Hegseth'in görevden alınmasını gündeme getirdi. Amerika Birleşik Devletleri'nde Cumhuriyetçilerin seçim yenilgisinin ardından gözler Savunma Bakanı Pete Hegseth'e çevrildi. Seçim sonuçları, halkın İran Savaşı'na tepkili olduğunu ortaya koyunca Savunma Bakanı'nın görevde kalıp kalmayacağı gündeme geldi.",
           "source": "https://www.ntv.com.tr/dunya/hegseth-hedefte-secim-hezimetinin-faturasi-ona-mi-kesilecek-1749585"
         },
         {
-          "title": "Kuzey Irak'ta siyasi kriz. Talabani: IKBY yönetiminden çekiliyoruz",
-          "summary": "Irak'ta Kürdistan Yurtseverler Birliği (KYB) Partisi Başkanı Bafel Talabani, Irak Kürt Bölgesel Yönetimi hükümetinden çekilme kararı aldıklarını ve meclis kararlarını tanımayacaklarını açıkladı. Irak Kürt Bölgesel Yönetimi (IKBY) Meclisi'nin 2 yıl aradan sonra ilk defa toplanarak başkan ve başkan vekilini seçmesinin ardından bölgedeki siyasi kriz zirveye ulaştı. Meclis oturumunu boykot eden Kürdistan Yurtseverler Birliği (KYB) hükümetten çekildiklerini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/kuzey-irakta-siyasi-kriz-talabani-ikby-yonetiminden-cekiliyoruz-1749583"
-        },
-        {
-          "title": "İsrail Cumhurbaşkanı, hükümet kurma görevi için Eisenkot'u işaret etti",
-          "summary": "Hükümet kurmak için 67 milletvekilinin Eisenkot'a, 47 vekilin Netanyahu'ya destek verdiğini ifade eden İsrail Cumhurbaşkanı Isaac Herzog \"İstişare sonuçları açık görünüyor.\" dedi. İsrail'de 27 Ekim'de yapılan seçimlerde sandıktan çıkan koalisyon belirsizliği devam ediyor.",
-          "source": "https://www.ntv.com.tr/dunya/israil-cumhurbaskani-hukumet-kurma-gorevi-icin-eisenkotu-isaret-etti-1749582"
-        },
-        {
-          "title": "İran Devrim Muhafızları: Keşm Adası'nda ABD'ye ait MQM-170 tipi İHA düşürüldü",
-          "summary": "İran Devrim Muhafızları Ordusu, Keşm Adası semalarında ABD'ye ait MQM-170 tipi insansız hava aracının (İHA) elektronik harp sistemleriyle etkisiz hale getirildiğini öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-devrim-muhafizlari-kesm-adasinda-abdye-ait-mqm-170-tipi-iha-dusuruldu-43367675"
-        },
-        {
-          "title": "Bitcoin’de sert satış dalgası… 76 bin doların altını gördü",
-          "summary": "Bitcoin'in fiyatı, ABD borsalarında teknoloji hisseleri öncülüğünde yaşanan sert satış dalgasının kripto para piyasasına da yayılmasıyla gün içinde 76 bin doların altını gördü.",
-          "source": "https://www.hurriyet.com.tr/dunya/bitcoinde-sert-satis-dalgasi-76-bin-dolarin-altini-gordu-43367665"
-        },
-        {
-          "title": "İran'dan ABD'ye Katar üzerinden nükleer teklifi: Önce 7 şartın karşılanması isteniyor",
-          "summary": "İran, Katar'ın arabuluculuğunda ABD'yle dolaylı görüşmelerde nükleer programla ilgili olarak yeni bir teklif sundu. İran, ABD ile devam eden dolaylı müzakereler kapsamında nükleer programına ilişkin yeni teklifini Katar aracılığıyla Washington yönetimine iletti. Reuters'a konuşan üst düzey bir İranlı yetkili, teklifin ancak ABD'nin Tahran tarafından öne sürülen yedi talebi yerine getirmesinin ardından müzakere edilebileceğini belirtti.",
-          "source": "https://www.ntv.com.tr/dunya/irandan-abdye-katar-uzerinden-nukleer-teklifi-7-talep-karsilaninca-muzakere-edilebilir-1749574"
-        },
-        {
-          "title": "Paraguay'da bankacılık krizi hükümeti devirdi: Devlet Başkanı istifa etti",
-          "summary": "Paraguay Devlet Başkanı Santiago Pena, ülkenin en büyük dijital bankalarından Ueno'nun çöküşüyle başlayan siyasi ve ekonomik krizin ardından istifa ettiğini açıkladı. Paraguay Devlet Başkanı Santiago Pena, ülkenin en büyük dijital bankalarından ueno'nun çöküşüyle başlayan siyasi ve ekonomik krizin ardından istifa ettiğini açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/paraguayda-bankacilik-krizi-hukumeti-devirdi-devlet-baskani-istifa-etti-1749568"
+          "title": "Trump'tan 'süper zeka'ya destek",
+          "summary": "ABD Başkanı Donald Trump, \"süper zekayı\" desteklediğini ve bu teknolojilere sahip olup da bundan kazanç sağlamak isteyen birçok ABD eyaletiyle çalışacağını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-super-zekaya-destek-43368581"
         }
       ]
     },
     "ekonomi": {
-      "text": "20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı. Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı. Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor. Cumhurbaşkanı Yardımcısı Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz.",
+      "text": "40’ıncı yıla özel, ekonomiye katkı analizi. 20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı. Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı. Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor.",
       "items": [
+        {
+          "title": "40’ıncı yıla özel, ekonomiye katkı analizi",
+          "summary": "Türkiye Beyaz Eşya Sanayicileri Derneği (TÜRKBESD), 40’ıncı kuruluş yıl dönümünde “Türkiye Beyaz Eşya Sektörü 40. Yıl Etki Analizi Raporu”nun sonuçlarını paylaştı.",
+          "source": "https://www.hurriyet.com.tr/ik/40inci-yila-ozel-ekonomiye-katki-analizi-43368613"
+        },
         {
           "title": "20 milyar dolara bir adım daha",
           "summary": "Ege İhracatçı Birlikleri (EİB), ekim ayında ihracatını yüzde 5’lik artışla 1 milyar 713 milyon dolara yükseltti. EİB, 2026 yılında haziran, temmuz ve eylül aylarından sonra dördüncü kez ekim ayında da 1 milyar 700 milyon dolar barajını aşmayı başardı. 2026’nın son çeyreğine moralli giren ihracatçılar, 20 milyar dolar ihracat hedefine bir adım daha yaklaştı.",
@@ -115,57 +120,62 @@
           "title": "Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor",
           "summary": "Küresel altın talebi yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 1 azalarak 1369 tona gerilerken, merkez bankaları ise fiyatlardaki düşüşü fırsata çevirerek rezervlerini artırmaya devam etti.",
           "source": "https://www.hurriyet.com.tr/dunya/dunya-altin-konseyinden-carpici-altin-raporu-merkez-bankalari-alim-firsati-olarak-goruyor-43365108"
-        },
-        {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Kalıcı fiyat istikrarını sağlamayı hedefliyoruz",
-          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, \"Küresel belirsizliklerin arttığı bir dönemde, ekonomik dayanıklılığımızı güçlendirirken kalıcı fiyat istikrarını sağlamayı, yatırım, üretim, istihdam ve ihracat ekseninde sürdürülebilir büyümeyi ve ekonomik kazanımları toplumun tüm kesimleri için kalıcı refaha dönüştürmeyi hedefliyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-kalici-fiyat-istikrarini-saglamayi-hedefliyoruz-43365073"
         }
       ]
     },
     "spor": {
-      "text": "Martin O'Neill: 'Her açıdan mükemmel bir galibiyet!'. Vincenzo Italiano: '3 puanı çöpe attık, böyle hediye edemeyiz'. Olaitan fırtınası Celtic'i de vurdu!. Beşiktaş'ın beklediği kırmızı kart çıkmadı! İskoçya'da çok konuşulacak karar. Pablo Laso: 'Skor üretmede sıkıntı yaşadık!'. Sarunas Jasikevicius: 'Gelişmeye devam etmeliyiz!'. Julian Schuster: 'Trabzonspor çok kaliteli ve enerjisi yüksek!'.",
+      "text": "Galatasaray'dan Osimhen için sakatlık açıklaması: 'Operasyon geçirecek!'. Samsunspor’a taraftardan havai fişekli destek!. Trabzonspor'da Alanyaspor maçı mesaisi başladı!. Türkiye Golf Federasyonu Mali Genel Kurulu, Ankara'da yapıldı. Uçan Raketler’in yeni durağı Hatay oldu. Emre Belözoğlu, Fenerbahçe'ye imza attı: 5 sene önceki Emre değilim. Jose Mourinho: 'Yarınki maç beni korkutuyor!'.",
       "items": [
         {
-          "title": "Martin O'Neill: 'Her açıdan mükemmel bir galibiyet!'",
-          "summary": "UEFA Avrupa Ligi'nin 4. haftasında Beşiktaş'ı 3-2 yenerek ilk galibiyetini alan İskoçya ekibi Celtic'te teknik direktör Martin O'Neill, yaptıkları değişikliklerin sonucunu aldıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/martin-oneill-her-acidan-mukemmel-bir-galibiyet-43367734"
+          "title": "Galatasaray'dan Osimhen için sakatlık açıklaması: 'Operasyon geçirecek!'",
+          "summary": "Galatasaray, Victor Osimhen'in sol dizinde esneme tespit edildiğini açıkladı. Nijeryalı golcü operasyon geçirecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-osimhen-icin-sakatlik-aciklamasi-operasyon-gecirecek-43368793"
         },
         {
-          "title": "Vincenzo Italiano: '3 puanı çöpe attık, böyle hediye edemeyiz'",
-          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, UEFA Avrupa Ligi'nde Celtic'e 3-2 yenildikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-3-puani-cope-attik-boyle-hediye-edemeyiz-43367733"
+          "title": "Samsunspor’a taraftardan havai fişekli destek!",
+          "summary": "Trendyol Süper Lig’de üst üste 8 maçını kaybeden Samsunspor’da taraftarlar antrenmana gelerek takıma havai fişek ve meşalelerle destek verdi. Kaptan Emre Kılınç, taraftarlara Konyaspor maçının final maçı olduğunun farkında olduklarını belirterek galibiyet sözü verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/samsunspora-taraftardan-havai-fisekli-destek-43368779"
         },
         {
-          "title": "Olaitan fırtınası Celtic'i de vurdu!",
-          "summary": "Beşiktaş'ta sezonun flaş oyuncusu Junior Olaitan, gollerine İskoçya'da da devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/olaitan-firtinasi-celtici-de-vurdu-43367724"
+          "title": "Trabzonspor'da Alanyaspor maçı mesaisi başladı!",
+          "summary": "Trabzonspor, Corendon Alanyaspor maçının hazırlıklarına başladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-alanyaspor-maci-mesaisi-basladi-43368778"
         },
         {
-          "title": "Beşiktaş'ın beklediği kırmızı kart çıkmadı! İskoçya'da çok konuşulacak karar",
-          "summary": "UEFA Avrupa Ligi'nin 4. haftasında Celtic'e 3-2 mağlup olan temsilcimiz Beşiktaş, rakibinin ilk golünden 2 dakika önce Benjamin Nygren'in Emirhan Topçu'ya müdahalesi sonrası kırmızı kart bekledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasin-bekledigi-kirmizi-kart-cikmadi-iskocyada-cok-konusulacak-karar-43367723"
+          "title": "Türkiye Golf Federasyonu Mali Genel Kurulu, Ankara'da yapıldı",
+          "summary": "Türkiye Golf Federasyonu 10'uncu Mali Genel Kurulu, Ankara'da gerçekleştirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-golf-federasyonu-mali-genel-kurulu-ankarada-yapildi-43368665"
         },
         {
-          "title": "Pablo Laso: 'Skor üretmede sıkıntı yaşadık!'",
-          "summary": "Anadolu Efes Başantrenörü Pablo Laso, Basketbol Avrupa Ligi'nin (EuroLeague) 10. haftasında 95-90 kaybettikleri Paris Basketbol maçını ufak ayrıntılar nedeniyle kaybettiklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pablo-laso-skor-uretmede-sikinti-yasadik-43367688"
+          "title": "Uçan Raketler’in yeni durağı Hatay oldu",
+          "summary": "2018 yılından bu yana devam eden Uçan Raketler projesi, Hatay’da başladı. Türkiye Masa Tenisi Federasyonu iş birliğiyle yürütülen proje kapsamında Hatay’daki devlet okullarında masa tenisi eğitimleri verilecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ucan-raketlerin-yeni-duragi-hatay-oldu-43368702"
         },
         {
-          "title": "Sarunas Jasikevicius: 'Gelişmeye devam etmeliyiz!'",
-          "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 10. haftasında ağırladığı İspanya ekibi Kosner Baskonia'yı 84-65 mağlup eden Fenerbahçe Tarfin'de başantrenör Sarunas Jasikevicius, ilk yarıda çok iyi oynadıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sarunas-jasikevicius-gelismeye-devam-etmeliyiz-43367686"
+          "title": "Emre Belözoğlu, Fenerbahçe'ye imza attı: 5 sene önceki Emre değilim",
+          "summary": "Fenerbahçe, teknik direktörlük koltuğuna resmen Emre Belözoğlu'nu getirdi. Sarı lacivertliler, Belözoğlu için basın toplantısı düzenledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-fenerbahceye-imza-atti-5-sene-onceki-emre-degilim-43368560"
         },
         {
-          "title": "Julian Schuster: 'Trabzonspor çok kaliteli ve enerjisi yüksek!'",
-          "summary": "Freiburg Teknik Direktörü Julian Schuster, Trabzonspor'un çok kaliteli ve enerjik bir takım olduğunu belirterek, böyle bir deplasmanda önemli bir 3 puan aldıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/julian-schuster-trabzonspor-cok-kaliteli-ve-enerjisi-yuksek-43367685"
+          "title": "Jose Mourinho: 'Yarınki maç beni korkutuyor!'",
+          "summary": "Real Madrid teknik direktörü Jose Mourinho, La Liga'nın 12. haftasında yarın Valencia ile karşılaşacakları mücadele öncesi basın toplantısında açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/jose-mourinho-yarinki-mac-beni-korkutuyor-43368494"
         }
       ]
     },
     "teknoloji": {
-      "text": "İki astronot 7 saatlik uzay yürüyüşü yaptı. 1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar. Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\". Öğrencilerin sınav sonuçları velilerin cebine geliyor. Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü.",
+      "text": "ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı. Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı. İki astronot 7 saatlik uzay yürüyüşü yaptı. 1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar. Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\".",
       "items": [
+        {
+          "title": "ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı",
+          "summary": "Yeni teknoloji markası ZEED, İstanbul'da düzenlenen lansmanla tanıtıldı. “A'dan Z'ye, Sana Göre” yaklaşımıyla yola çıkan marka; akıllı telefon, tablet ve aksesuar ürünleriyle farklı kullanıcı ihtiyaçlarına yanıt vermeyi hedefliyor. Erişilebilir teknoloji anlayışını kişiselleştirilmiş kullanıcı deneyimiyle buluşturan ZEED, üç yıl garanti avantajıyla Türkiye pazarında kendine yer açmaya hazırlanıyor.",
+          "source": "https://www.hurriyet.com.tr/advertorial/zeed-adan-zye-sana-gore-yaklasimiyla-turkiye-teknoloji-pazarina-giris-yapti-43368022"
+        },
+        {
+          "title": "Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı",
+          "summary": "İstanbul Bağcılar’da düzenlenen Türkiye Yüzyılı Maarif Modeli Disiplinler Arası Kongresi’nde konuşan Ankara Üniversitesi Emeli Öğretim Üyesi Prof. Dr. Hafize Keser, “Çocukların odası uzay üssü gibi teknolojik cihazlarla donatılmış durumda. Bu çağda hem öğretmenlerin hem de velilerin sorumlulukları arttı” dedi.",
+          "source": "https://www.hurriyet.com.tr/egitim/cocuklarin-odasi-uzay-ussu-gibi-ogretmen-ve-velilerin-sorumluluklari-artti-43367798"
+        },
         {
           "title": "İki astronot 7 saatlik uzay yürüyüşü yaptı",
           "summary": "Astronotlar Anil Menon ve Joshua Kutryk, 6 saat 59 dakikalık uzay yürüyüşüyle Uluslararası Uzay İstasyonu'nun son açılır güneş paneli dizisini kurdu. Uluslararası Uzay İstasyonu'nda (ISS) görev yapan NASA astronotu Anil Menon ve Kanada Uzay Ajansı (CSA) astronotu Joshua Kutryk, bugün 6 saat 59 dakikalık bir uzay yürüyüşü yaptı. İki astronot yürüyüş sırasında ISS'in açılır-kapanır güneş paneli sisteminin (IROSA) sekizinci ve son panelini istasyonun 3B güç kanalına monte ederek devreye aldı.",
@@ -190,16 +200,6 @@
           "title": "Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\"",
           "summary": "OpenAI CEO’su Sam Altman, bellek kaynaklarının kişisel bilgisayarlarda düşük kullanım oranıyla tutulmasını eleştirdi. Altman, arz sıkıntısının yaşandığı bir dönemde RAM'ler için bulutu işaret etti. Sam Altman, Youtube'da Cheeky Pint programında John Collison ile yaptığı söyleşide, yapay zekanın donanım ihtiyacı ve bellek tedarikindeki sıkışıklık hakkında konuştu.",
           "source": "https://www.ntv.com.tr/teknoloji/sam-altman-kisisel-bilgisayarlardaki-ramlere-goz-dikti-kaynak-israfi-1748813"
-        },
-        {
-          "title": "Öğrencilerin sınav sonuçları velilerin cebine geliyor",
-          "summary": "Millî Eğitim Bakanlığı ve Turkcell’in mesajlaşma uygulaması BiP’in geçtiğimiz yıl gerçekleştirdiği stratejik iş birliği kapsamında Okul Veli Asistanı (OVA) ile öğrencilerin sınav sonuçları, sınav tarihleri, devamsızlık bilgileri ve bakanlık duyuruları gibi detaylara ulaşılabildiği belirtildi",
-          "source": "https://www.hurriyet.com.tr/teknoloji/ogrencilerin-sinav-sonuclari-velilerin-cebine-geliyor-43360733"
-        },
-        {
-          "title": "Samsung'dan 80,5 milyar dolarlık rekor kar. Hisseler yine de düştü",
-          "summary": "Samsung Electronics, yapay zeka çiplerine yönelik yoğun taleple üçüncü çeyrekte işletme karını yüzde 780'in üzerinde artırarak 107,4 trilyon wona (80,5 milyar dolar) çıkardı. Yapay zeka çiplerine yönelik devasa talep, Güney Koreli teknoloji devi Samsung Electronics'e perşembe günü açıklanan verilerle rekor çeyreklik kar getirdi. Ancak küresel teknoloji rüzgarının ne kadar süreceğini sorgulayan yatırımcılar bu tabloya ikna olmayınca şirketin hisseleri düşüşe geçti.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-samsungdan-805-milyar-dolarlik-rekor-kar-hisseler-yine-de-dustu-1748470"
         }
       ]
     },
