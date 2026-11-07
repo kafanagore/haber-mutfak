@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-07T04:00:03.476Z",
+  "generatedAt": "2026-11-07T10:00:03.730Z",
   "categories": {
     "gundem": {
-      "text": "İçişleri Bakanı Çiftçi’den fon soruşturmasına ilişkin açıklama: Şu ana kadar 433 şüpheli şahıstan 112'si tutuklanmış durumda. Faizsiz kredi, müstehcenlik ve yasa dışı bahis operasyonu: 17 tutuklama. Sonbahar bitmeden kış geldi. İstanbul'da kar soğuğu, Karadeniz ve Doğu Anadolu'da kar yağışı var. Birçok şehirde yılın ilk karı yağdı. Bakan Çiftçi duyurdu. Okul saldırılarına yeni önlemler eklenecek. SPK’dan 88 kişi hakkında suç duyurusu kararı. Dışişleri Bakanı Hakan Fidan'dan KKTC'ye ziyaretine ilişkin paylaşım.",
+      "text": "Manisa'da annesini ve kardeşini öldüren zanlı tutuklandı! 'Neden tartıştığımızı ve öldürdüğümü hatırlamıyorum'. Sabah mesaiye başlayıp, gece 03.00'e kadar topluyorlar. Kilosu 80 lira, bu yıl bolluk var. Aydın'da mobilya fabrikasında yangın: Ekipler müdahale ediyor. İstanbul'da trafik kavgası: Aracından indi, camı yumrukladı. Adana, 9 gün boyunca festival coşkusu yaşayacak!. Yargıtay'dan boşanma davasında emsal karar. Emine Erdoğan'dan 81 İl, 81 Kadın, 81 Hikaye: Bize Özgü Sergisi Açılış Programı'na ilişkin paylaşım.",
       "items": [
         {
-          "title": "İçişleri Bakanı Çiftçi’den fon soruşturmasına ilişkin açıklama: Şu ana kadar 433 şüpheli şahıstan 112'si tutuklanmış durumda",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, fon soruşturmasına ilişkin, \"Şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda. 186'sı da adli kontrol kaydıyla serbest bırakılmış durumda. 38 firari hakkında da yakalama kararı çıkarılmış durumda. Yine 359 gerçek ve 111 tüzel kişinin mal varlıklarına da blokaj konuldu.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftciden-fon-sorusturmasina-iliskin-aciklama-su-ana-kadar-433-supheli-sahistan-112si-tutuklanmis-durumda-43369056"
+          "title": "Manisa'da annesini ve kardeşini öldüren zanlı tutuklandı! 'Neden tartıştığımızı ve öldürdüğümü hatırlamıyorum'",
+          "summary": "Manisa'nın Yunusemre ilçesinde 73 yaşındaki annesi Hülya Aktaş ile 42 yaşındaki kardeşi Hüseyin Kabaağaç'ı bıçaklayarak öldüren 45 yaşındaki Uğur Kabaağaç tutuklandı. Uğur Kabaağaç, polisteki sorgusunda neden tartıştıklarını ve annesi ile kardeşini öldürdüğünü hatırlamadığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/manisada-annesini-ve-kardesini-olduren-zanli-tutuklandi-neden-tartistigimizi-ve-oldurdugumu-hatirlamiyorum-43369415"
         },
         {
-          "title": "Faizsiz kredi, müstehcenlik ve yasa dışı bahis operasyonu: 17 tutuklama",
-          "summary": "KAYSERİ’de ‘faizsiz kredi dolandırıcılığı’, ‘çevrimiçi müstehcenlik’ ve ‘yasa dışı bahis’ suçlarına yönelik düzenlenen operasyonda gözaltına alınan 26 şüpheliden 17’si tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/faizsiz-kredi-mustehcenlik-ve-yasa-disi-bahis-operasyonu-17-tutuklama-43369055"
+          "title": "Sabah mesaiye başlayıp, gece 03.00'e kadar topluyorlar. Kilosu 80 lira, bu yıl bolluk var",
+          "summary": "Kastamonu'da bu yıl mantar bolluğu yaşanıyor. Sabah saatlerinde mantar toplamaya çıkanların mesaisi bazı günler gece 03.00'e kadar sürüyor. Kastamonu'nun Ağlı ilçesinde yaşayan Bülent Yanıkkaya, vatandaşların doğadan topladığı mantarları satın alarak toptancılara veriyor. Havaların yağışlı ve sıcak gitmesine bağlı olarak bu yıl Kastamonu'da doğada bolca kanlıca ile diğer mantar türleri yetişti. Ağlı ilçesinde restoran işletmeciliği yapan Yanıkkaya, akşam saatlerinde minibüsüyle yola çıkarak köyleri ziyaret ediyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-sabah-mesaiye-baslayip-gece-0300e-kadar-topluyorlar-kilosu-80-lira-bu-yil-bolluk-var-1749806"
         },
         {
-          "title": "Sonbahar bitmeden kış geldi. İstanbul'da kar soğuğu, Karadeniz ve Doğu Anadolu'da kar yağışı var",
-          "summary": "Uzmanlara göre bu yıl kış erken geldi, daha sonbahar bitmeden Türkiye genelinde soğuk hava etkili olmaya başladı. Bazı iller beyaza bürünürken, İstanbul'da hafta sonu sıcaklık 6 dereceye düşecek. Genellikle Aralık ayında etkili olan soğuk havalar ve kar yağışı bu yıl erken geldi. Sıcaklıklar yurt genelinde 10 derece birden düşerken, soğuk havayla birlikte yüksek yerlerde kar yağışı başladı. Kar yurt genelinde hafta sonu etkili olmaya devam edecek. Soğuk hava Ege ve Marmara Bölgesi'nde de etkili olacak.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-sonbahar-bitmeden-kis-geldi-istanbulda-kar-sogugu-karadeniz-ve-dogu-anadoluda-kar-yagisi-var-1749737"
+          "title": "Aydın'da mobilya fabrikasında yangın: Ekipler müdahale ediyor",
+          "summary": "Aydın'ın Kuşadası ilçesinde mobilya fabrikasının deposunda çıkan yangını itfaiye ekipleri söndürmeye çalışıyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/aydinda-mobilya-fabrikasinda-yangin-ekipler-mudahale-ediyor-43369356"
         },
         {
-          "title": "Birçok şehirde yılın ilk karı yağdı",
-          "summary": "Meteorolojinin kar ve sağanak uyarılarının ardından birçok ile yılın ilk karı yağdı. Erzurum'da etkili olan sağanak, yüksek kesimlerde yerini sis ve kara bıraktı. Şiddetini artıran kar, kent merkezini beyaza bürüdü. Karla kaplanan tarihi mekanlar kartpostallık görüntüler oluşturdu. Palandöken Kayak Merkezi'ne çıkan bazı vatandaşlar, yoğun kar yağışı altında çekim yaptı, fotoğraf çekildi. Ardahan'da da yağışla yüksek rakımlı bölgeler beyaza büründü.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bircok-sehirde-yilin-ilk-kari-yagdi-1749736"
+          "title": "İstanbul'da trafik kavgası: Aracından indi, camı yumrukladı",
+          "summary": "İstanbul'da trafikte yaşanan yol tartışması kavgaya dönüştü. Araçtan inen sürücülerden biri, diğer aracın camını yumrukladı. İstanbul'da yol verme tartışmasında aracından inen sürücü, diğer aracın camını yumrukladı. Olay, dün öğle saatlerinde Zeytinburnu'ndaki Litros Yolu Sokak'ta meydana geldi. İddiaya göre, seyir halindeki iki otomobilin sürücüsü arasında yol verme nedeniyle tartışma çıktı. Kendisine küfredildiğini öne süren kadın otomobilinden inerek diğer sürücünün yanına gitti.",
+          "source": "https://www.ntv.com.tr/turkiye/istanbulda-trafik-kavgasi-aracindan-indi-cami-yumrukladi-1749800"
         },
         {
-          "title": "Bakan Çiftçi duyurdu. Okul saldırılarına yeni önlemler eklenecek",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, okul saldırılarının önlenmesine yönelik tedbirler kapsamında, silah ruhsatı almak isteyenlere çelik kasa zorunluluğu getirileceğini söyledi. İçişleri Bakanı Mustafa Çiftçi, TV100 canlı yayınında gündeme ilişkin değerlendirmelerde bulundu, soruları yanıtladı.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-ciftci-duyurdu-okul-saldirilarina-yeni-onlemler-eklenecek-1749735"
+          "title": "Adana, 9 gün boyunca festival coşkusu yaşayacak!",
+          "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali 26’ncı ve son durağı olan Adana’da kültür, sanat ve gastronomi coşkusuna start verdi. 7-15 Kasım tarihleri arasında konserlerden sergilere, tiyatrodan söyleşilere ve çocuk programına uzanan 252 etkinlik Adanalıları ve kent ziyaretçilerini bir araya getirecek. 90’ı aşkın Lezzet Noktası’nda ise Çukurova’nın bereketli topraklarından ve Toros’un yayla kültüründen beslenen Adana mutfağı görünür kılınacak.",
+          "source": "https://www.hurriyet.com.tr/gundem/adana-9-gun-boyunca-festival-coskusu-yasayacak-43369338"
         },
         {
-          "title": "SPK’dan 88 kişi hakkında suç duyurusu kararı",
-          "summary": "Sermaye Piyasası Kurulu (SPK), 3 şirketin pay piyasasındaki işlemleri nedeniyle 88 kişi hakkında suç duyurusunda bulunulmasına ve 2 yıl süreyle işlem yasağı uygulanmasına karar verdi. Sermaye Piyasası Kurulu (SPK), Temapol Polimer Plastik ve İnşaat Sanayi Ticaret AŞ (TMPOL), İsvea Seramik ve Banyo Ürünleri Sanayi AŞ (ISVEA) ve Tera Yatırım Menkul Değerler AŞ (TERA) pay piyasalarında gerçekleştirilen işlemlere ilişkin incelemelerini tamamladı.",
-          "source": "https://www.ntv.com.tr/turkiye/spkdan-88-kisi-hakkinda-suc-duyurusu-karari-1749734"
+          "title": "Yargıtay'dan boşanma davasında emsal karar",
+          "summary": "Yargıtay, eşinin evin ihtiyaçlarını karşılamaması üzerine alışveriş için borçlanan kadını boşanma davasında bu nedenle kusurlu bulmadı. Karabük 1’inci Aile Mahkemesi’nde görülen davada, taraflar karşılıklı boşanma davası açtı. Yargılama sırasında kadının Alanya’da yaşayan ortak çocuklarının yanına giderek bir daha eve dönmemesi ile markete ve tuhafiye dükkanına borç yapması, boşanmaya neden olan olaylar kapsamında değerlendirildi. Mahkeme, erkeği ağır, kadını ise az kusurlu buldu.",
+          "source": "https://www.ntv.com.tr/turkiye/yargitaydan-bosanma-davasinda-emsal-karar-1749791"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan'dan KKTC'ye ziyaretine ilişkin paylaşım",
-          "summary": "Dışişleri Bakanı Hakan Fidan, garantör ülke olarak Kuzey Kıbrıs Türk Cumhuriyeti'ne (KKTC) desteği sürdürdüklerini belirterek, \"Kıbrıs meselesinde en gerçekçi çözümün, Ada'daki iki devletin yan yana var olmasından geçtiğine inanıyoruz.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidandan-kktcye-ziyaretine-iliskin-paylasim-43369022"
+          "title": "Emine Erdoğan'dan 81 İl, 81 Kadın, 81 Hikaye: Bize Özgü Sergisi Açılış Programı'na ilişkin paylaşım",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"81 İl, 81 Kadın, 81 Hikaye: Bize Özgü Sergisi Açılış Programı\"na ilişkin paylaşımda bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-81-il-81-kadin-81-hikaye-bize-ozgu-sergisi-acilis-programina-iliskin-paylasim-43369264"
         }
       ]
     },
     "dunya": {
-      "text": "Sadece 80 kilometre kaldı, çifte darbe: 51 milyar dolarlık hamle! Asıl tehlike füze saldırılarından daha büyük. \"Açlık tarikatı\" liderine 200 yıl hapis cezası. 448 kişinin ölümüne neden oldu. ABD Başkanı Trum’tan kabine değişikliği sinyali. Paraguay'da bankacılık krizi. Azledilen başkan Pena gözaltına alındı. ABD'den 20 milyon dolarlık ödül duyurusu. İran'ın nükleer sırlarının peşinde. Keşm Adası ile Bender Hamir’de patlama sesleri. İran Ordusu açıkladı: ABD'ye ait MQ-9 tipi İHA düşürüldü.",
+      "text": "ABD'den Orta Doğu'daki vatandaşlarına uyarı. Filistin için turne düzenleyecekti. ABD'deki 9 dev arena, ünlü rapçiyi reddetti. Beyaz Saray yakınlarında Trump'ı tehdit eden silahlı zanlı yakalandı. Trump'tan Hürmüz çıkışı: \"İşgalci olabiliriz\". Trump'a suikast girişimi: Aracından cephanelik çıktı. Beyaz Saray’da son iki yılın şifreleri elinde: Yeni güç savaşı! Atamanın arkasındaki büyük plan. Gazze'de saldırılardan kaçan binlerce ailenin çadırını sel bastı.",
       "items": [
         {
-          "title": "Sadece 80 kilometre kaldı, çifte darbe: 51 milyar dolarlık hamle! Asıl tehlike füze saldırılarından daha büyük",
-          "summary": "Yemen’de yıllardır süren savaşta şimdiye kadar görülmemiş bir pazarlık gündeme geldi. Suudi Arabistan’ı hem askerî hem de siyasi açıdan köşeye sıkıştıran Husiler, Riyad’ın önüne öyle bir fatura koydu ki, talebin büyüklüğü kadar arkasındaki hesap da dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/dunya/sadece-80-kilometre-kaldi-cifte-darbe-51-milyar-dolarlik-hamle-asil-tehlike-fuze-saldirilarindan-daha-buyuk-43367202"
+          "title": "ABD'den Orta Doğu'daki vatandaşlarına uyarı",
+          "summary": "ABD, bölgedeki çatışmaların tırmanma ihtimaline karşı Irak, Yemen, İsrail, Suudi Arabistan, Katar, Birleşik Arap Emirlikleri (BAE), Bahreyn, Ürdün ve Lübnan'ın da aralarında bulunduğu Orta Doğu ülkelerindeki vatandaşlarına yönelik güvenlik uyarılarını güncelledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdden-orta-dogudaki-vatandaslarina-uyari-43369409"
         },
         {
-          "title": "\"Açlık tarikatı\" liderine 200 yıl hapis cezası. 448 kişinin ölümüne neden oldu",
-          "summary": "Kenya Mombasa Yüksek Mahkemesi, müritlerini aç bırakarak 448 kişinin ölümüne neden olan \"açlık tarikatı\" liderine 200 yıl hapis cezası verdi. Kenya'da, takipçilerine açlıktan ölmeleri halinde \"Hz. İsa ile buluşacakları\" ve \"cennete gidecekleri\" vaadinde bulunarak 448 kişinin ölümüne neden olmakla suçlanan \"açlık tarikatı\" lideri Paul Mackenzie'nin cezası belli oldu. Mombasa Yüksek Mahkemesi'nde görülen davada hakkındaki suçlamaları reddeden Mackenzie, takipçilerini aç kalmaya zorlamadığını savundu.",
-          "source": "https://www.ntv.com.tr/dunya/aclik-tarikati-liderine-200-yil-hapis-cezasi-448-kisinin-olumune-neden-oldu-1749743"
+          "title": "Filistin için turne düzenleyecekti. ABD'deki 9 dev arena, ünlü rapçiyi reddetti",
+          "summary": "Filistin için yardım turnesi düzenleyen ABD'li rapçi Macklemore, gelirini insani yardım kuruluşlarına bağışlayacağı konserlerin ülkedeki 9 büyük arena tarafından reddedildiğini açıkladı. ABD'li ünlü rapçi Macklemore, tüm gelirini Filistin'e aktarmayı planladığı yardım turnesinin ABD ayağında ülkenin önde gelen 9 büyük konser arenası tarafından engellendiğini duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-filistin-icin-turne-duzenleyecekti-abddeki-9-dev-arena-unlu-rapciyi-reddetti-1749811"
         },
         {
-          "title": "ABD Başkanı Trum’tan kabine değişikliği sinyali",
-          "summary": "ABD Başkanı Donald Trump, Cumhuriyetçilerin Kongre seçimlerini kaybetmesinin ardından kabinesinde bazı değişiklikler yapmayı planladığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumtan-kabine-degisikligi-sinyali-43369061"
+          "title": "Beyaz Saray yakınlarında Trump'ı tehdit eden silahlı zanlı yakalandı",
+          "summary": "ABD'de Beyaz Saray yakınlarında park halindeki araçta tespit edilen ve Donald Trump'ı öldürmekle tehdit ettiği belirlenen şüpheli gözaltına alındı. ABD'de Beyaz Saray yakınlarında, Başkan Donald Trump'ı \"öldürmekle tehdit ettiği\" gerekçesiyle bir şüpheli gözaltına alındı. Fox News kanalının ABD İç Güvenlik Bakanlığı (DHS) kaynaklarına dayandırdığı habere göre, Gizli Servis görevlileri başkent Washington'daki Constitution Caddesi'nde park halindeki araçta bir şüpheli tespit etti.",
+          "source": "https://www.ntv.com.tr/dunya/beyaz-saray-yakinlarinda-trumpi-tehdit-eden-silahli-zanli-yakalandi-1749809"
         },
         {
-          "title": "Paraguay'da bankacılık krizi. Azledilen başkan Pena gözaltına alındı",
-          "summary": "Paraguay'ı sarsan bankacılık krizi sonrası görevden azledilen Devlet Başkanı Santiago Pena ev hapsine alındı. Pena'nın, çöken ülkenin en büyük dijital bankasında hissesi bulunuyor. Senato'da yapılan oylamada 44 lehte oy alan Pena, Haziran 2012'de eski Devlet Başkanı Fernando Lugo'nun görevden uzaklaştırılmasının ardından, ülkenin yakın demokratik tarihinde azil süreci sonucunda görevini kaybeden ikinci devlet başkanı oldu. \"Görevi kötüye kullanmak\" suçundan azledilen Pena, Anayasa'nın 189.",
-          "source": "https://www.ntv.com.tr/dunya/paraguayda-bankacilik-krizi-azledilen-baskan-pena-gozaltina-alindi-1749742"
+          "title": "Trump'tan Hürmüz çıkışı: \"İşgalci olabiliriz\"",
+          "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın kontrollerinde olduğunu savunarak İran'a yönelik askeri harekatı \"işgal\" olarak niteledi. ABD Başkanı Donald Trump, İran'a yönelik askeri harekatların bir savaş niteliği taşımadığını savunarak bölgedeki durumun işgal olarak adlandırılabileceğini kaydetti. Florida eyaletindeki NASA Kennedy Uzay Merkezi'nde yaptığı konuşmanın ardından basın mensuplarının sorularını yanıtlayan Trump, Washington yönetiminin Orta Doğu'daki askeri varlığına ilişkin değerlendirmelerde bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/trumptan-hurmuz-cikisi-isgalci-olabiliriz-1749808"
         },
         {
-          "title": "ABD'den 20 milyon dolarlık ödül duyurusu. İran'ın nükleer sırlarının peşinde",
-          "summary": "ABD yönetimi, İran'ın nükleer programına ilişkin bilgi sağlayanlara 20 milyon dolara kadar ödül vereceğini duyurdu. Duyuru, ABD Merkez Kuvvetler Komutanlığı CENTCOM tarafından yapıldı. Ödül programı kapsamında İran'ın, nükleer tesisleri, ekipmanları ve programıyla bağlantılı kişiler hakkında bilgi aranıyor. Bilgi verenlere ayrıca yer değiştirme imkanı da sunulacak. Açıklamada, Uluslararası Atom Enerjisi Ajansı'nın 2025 raporuna dikkat çekildi. Rapora göre İran, uranyumu yüzde 60 saflıkta zenginleştiriyor.",
-          "source": "https://www.ntv.com.tr/dunya/abdden-20-milyon-dolarlik-odul-duyurusu-iranin-nukleer-sirlarinin-pesinde-1749732"
+          "title": "Trump'a suikast girişimi: Aracından cephanelik çıktı",
+          "summary": "Beyaz Saray yakınlarında gözaltına alınan bir kişinin aracında AR-15 ve MAC-10 tipi silahların yanı sıra mühimmat ele geçirildi. ABD Başkanı Trump'ı öldürmekle tehdit ettiği öne sürülen şüpheli hakkında suikast girişimi suçlamasıyla işlem başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumpa-suikast-girisimi-aracindan-cephanelik-cikti-43369369"
         },
         {
-          "title": "Keşm Adası ile Bender Hamir’de patlama sesleri",
-          "summary": "Hürmüz Boğazı’na yakın Keşm Adası ile Bender Hamir kenti yakınlarında kaynağı belirlenemeyen patlama seslerinin duyulduğu bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kesm-adasi-ile-bender-hamirde-patlama-sesleri-43369060"
+          "title": "Beyaz Saray’da son iki yılın şifreleri elinde: Yeni güç savaşı! Atamanın arkasındaki büyük plan",
+          "summary": "Beyaz Saray’da değişen yalnızca bir koltuk değil, Trump’ın önündeki iki yılın siyasi yol haritası olabilir. Başkanın en güvendiği isimlerden Stephen Miller’ın kritik göreve getirilmesi, Washington’da gözleri perde arkasındaki güç mücadelesine çevirdi. Peki, bu atamanın arkasında hangi hesap yatıyor? Miller’a açılan kapı, Beyaz Saray’da kimlerin etkisini artıracak, kimlerin oyun dışı kalmasına yol açacak? İşte Beyaz Saray’da önümüzdeki iki yılın kaderini değiştirebilecek plana dair detaylar…",
+          "source": "https://www.hurriyet.com.tr/dunya/beyaz-sarayda-son-iki-yilin-sifreleri-elinde-yeni-guc-savasi-atamanin-arkasindaki-buyuk-plan-43369314"
         },
         {
-          "title": "İran Ordusu açıkladı: ABD'ye ait MQ-9 tipi İHA düşürüldü",
-          "summary": "İran Ordusu, ülkenin güneyindeki Hürmüz Boğazı'nda yer alan Keşm Adası üzerinde ABD'ye ait MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemlerince düşürüldüğünü duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-ordusu-acikladi-abdye-ait-mq-9-tipi-iha-dusuruldu-43369059"
+          "title": "Gazze'de saldırılardan kaçan binlerce ailenin çadırını sel bastı",
+          "summary": "İsrail'in abluka ve saldırıları altındaki Gazze Şeridi'nde başlayan şiddetli yağışlar, yerinden edilen sivillerin derme çatma çadırlarını sular altında bıraktı. İsrail'in saldırıları ve yıllardır süren ablukası nedeniyle ağır bir insani krizin yaşandığı Gazze Şeridi'nde etkili olan şiddetli yağışlar, yerinden edilen binlerce sivilin derme çatma barınaklarını sular altında bıraktı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-gazzede-saldirilardan-kacan-binlerce-ailenin-cadirini-sel-basti-1749787"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Dusan Alimpijevic: 'İyi bir efor göstermedik!'. TFF Tahkim Kurulu'ndan Archie Brown kararı!. Antalyaspor ile Bursaspor yenişemedi!. Fenerbahçe'de Çorum FK maçı ilk 11'i şekilleniyor! Emre Belözoğlu kararını verdi. Fenerbahçe'den 4 Nisan saldırısıyla ilgili açıklama!. Galatasaray'dan Osimhen için sakatlık açıklaması: 'Operasyon geçirecek!'. Samsunspor’a taraftardan havai fişekli destek!.",
+      "text": "Sultanlar Ligi'nde derbi heyecanı yaşanacak!. Fenerbahçe'ye, Emre Belözoğlu sonrası ilk transfer! Brezilya'da bulundu. Ronaldo'nun milli takıma vedasında Jorge Jesus etkisi!. Galatasaray ilk yarılardan üstünlüğü kuruyor, Göztepe gol istatistiğiyle dikkat çekiyor! İşte Misli’den Günün Tüyoları. Galatasaray, Amed'i konuk ediyor! Maçın heyecanı canlı sohbet ile Misli'de. Gedson Fernandes'ten Batrakov sözleri: 'Çok iyi bir kulübe gitti!'. Çorum FK, 2 eksikle Fenerbahçe'yi konuk edecek.",
       "items": [
         {
-          "title": "Dusan Alimpijevic: 'İyi bir efor göstermedik!'",
-          "summary": "Basketbol Avrupa Ligi'nin 10. haftasında sahasında Litvanya temsilcisi Zalgiris'e 83-67 yenilen Beşiktaş'ta başantrenör Dusan Alimpijevic, kötü şut attıkları için maçı kaybettiklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dusan-alimpijevic-iyi-bir-efor-gostermedik-43368948"
+          "title": "Sultanlar Ligi'nde derbi heyecanı yaşanacak!",
+          "summary": "Sultanlar Ligi'nin 8. haftasında Galatasaray Daikin, yarın Beşiktaş'ı konuk edecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sultanlar-liginde-derbi-heyecani-yasanacak-43369399"
         },
         {
-          "title": "TFF Tahkim Kurulu'ndan Archie Brown kararı!",
-          "summary": "TFF Tahkim Kurulu, Archie Brown'un cezasını onadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-tahkim-kurulundan-archie-brown-karari-43368940"
+          "title": "Fenerbahçe'ye, Emre Belözoğlu sonrası ilk transfer! Brezilya'da bulundu",
+          "summary": "Fenerbahçe, ara transfer sezonunda kadrosunu güçlendirmek için Brezilya'da keşfe çıktı. Sarı lacivertliler, Emre Belözoğlu'nun teknik direktörlük koltuğuna oturmasının ardından aradığı ismi buldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-emre-belozoglu-sonrasi-ilk-transfer-brezilyada-bulundu-43369350"
         },
         {
-          "title": "Antalyaspor ile Bursaspor yenişemedi!",
-          "summary": "Trendyol 1. Lig'in 14. haftasındaki Antalyaspor-Bursaspor karşılaşması 1-1 eşitlikle sona erdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/antalyaspor-ile-bursaspor-yenisemedi-43368938"
+          "title": "Ronaldo'nun milli takıma vedasında Jorge Jesus etkisi!",
+          "summary": "Dünya futbolunun en önemli yıldızları arasında yer alan Portekizli Cristiano Ronaldo'nun milli takım kariyerini noktalaması, kamuoyunun en önemli gündem maddelerinden biri oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ronaldonun-milli-takima-vedasinda-jorge-jesus-etkisi-43369358"
         },
         {
-          "title": "Fenerbahçe'de Çorum FK maçı ilk 11'i şekilleniyor! Emre Belözoğlu kararını verdi",
-          "summary": "Süper Lig'in 11. haftasında Çorum FK'ye konuk olacak Fenerbahçe'de teknik direktör Emre Belözoğlu'nun sahaya süreceği muhtemel ilk 11 şekillenmeye başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-corum-fk-maci-ilk-11i-sekilleniyor-emre-belozoglu-kararini-verdi-43368868"
+          "title": "Galatasaray ilk yarılardan üstünlüğü kuruyor, Göztepe gol istatistiğiyle dikkat çekiyor! İşte Misli’den Günün Tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ilk-yarilardan-ustunlugu-kuruyor-goztepe-gol-istatistigiyle-dikkat-cekiyor-iste-misliden-gunun-tuyolari-43369318"
         },
         {
-          "title": "Fenerbahçe'den 4 Nisan saldırısıyla ilgili açıklama!",
-          "summary": "Fenerbahçe, 4 Nisan 2015 tarihinde futbol takımını taşıyan otobüse Trabzon'da düzenlenen silahlı saldırıyla ilgili soruşturmanın tamamlanmasının ardından açıklama yayımladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-4-nisan-saldirisiyla-ilgili-aciklama-43368859"
+          "title": "Galatasaray, Amed'i konuk ediyor! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "Galatasaray, Süper Lig'in 11. haftasında Amed ile karşı karşıya gelecek. Maçın heyecanı, canlı sohbet ile Misli'de yaşanacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-amedi-konuk-ediyor-macin-heyecani-canli-sohbet-ile-mislide-43369238"
         },
         {
-          "title": "Galatasaray'dan Osimhen için sakatlık açıklaması: 'Operasyon geçirecek!'",
-          "summary": "Galatasaray, Victor Osimhen'in sol dizinde esneme tespit edildiğini açıkladı. Nijeryalı golcü operasyon geçirecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-osimhen-icin-sakatlik-aciklamasi-operasyon-gecirecek-43368793"
+          "title": "Gedson Fernandes'ten Batrakov sözleri: 'Çok iyi bir kulübe gitti!'",
+          "summary": "Spartak Moskova forması giyen Gedson Fernandes, kulübe verdiği röportajda Galatasaray'ın yıldız oyuncusu Batrakov hakkında konuştu. Portekizli futbolcu, genç yıldızın performansını değerlendirirken Mourinho, Jorge Jesus ve Fatih Terim ile ilgili dikkat çeken açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gedson-fernandesten-batrakov-sozleri-cok-iyi-bir-kulube-gitti-43369229"
         },
         {
-          "title": "Samsunspor’a taraftardan havai fişekli destek!",
-          "summary": "Trendyol Süper Lig’de üst üste 8 maçını kaybeden Samsunspor’da taraftarlar antrenmana gelerek takıma havai fişek ve meşalelerle destek verdi. Kaptan Emre Kılınç, taraftarlara Konyaspor maçının final maçı olduğunun farkında olduklarını belirterek galibiyet sözü verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspora-taraftardan-havai-fisekli-destek-43368779"
+          "title": "Çorum FK, 2 eksikle Fenerbahçe'yi konuk edecek",
+          "summary": "Süper Lig'in 11. haftasında Çorum FK, Fenerbahçe'yi ağırlayacak. Ev sahibi ekipte 2 eksik bulunuyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/corum-fk-2-eksikle-fenerbahceyi-konuk-edecek-43369215"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat. Bir yılda 50 kilo verdi. Yoğun iş temposu iğne ipliğe çevirdi. Havalar soğudu, grip vakaları arttı. Uzmanı uyardı: Bir haftayı geçiyorsa dikkat. Uzmanlardan kış uyarısı: Bir haftayı geçen şikayetlere dikkat. Alzheimer'da gençlik proteini keşfi. Anne adayları dikkat, artık MHRS'den randevu alınabiliyor. İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi.",
+      "text": "Bodrum'da hayat kurtaran ameliyat: \"Yaşım 75 muhtemelen 21 yaşıma döndüm\". Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat. Bir yılda 50 kilo verdi. Yoğun iş temposu iğne ipliğe çevirdi. Havalar soğudu, grip vakaları arttı. Uzmanı uyardı: Bir haftayı geçiyorsa dikkat. Uzmanlardan kış uyarısı: Bir haftayı geçen şikayetlere dikkat. Alzheimer'da gençlik proteini keşfi. Anne adayları dikkat, artık MHRS'den randevu alınabiliyor.",
       "items": [
+        {
+          "title": "Bodrum'da hayat kurtaran ameliyat: \"Yaşım 75 muhtemelen 21 yaşıma döndüm\"",
+          "summary": "Bodrum'da tatil yaptığı sırada bilincini kaybeden 75 yaşındaki İngiliz turist, nefes borusunda oluşan yırtığın Türk doktorlar tarafından ameliyatla onarılmasının ardından sağlığına kavuştu. Tatilde nefes borusu yırtılan İngiliz turist, Türk doktorların müdahalesiyle hayata yeniden tutundu. Eşiyle yaklaşık bir ay önce kruvaziyer turuyla Bodrum'a gelen Bernard Cotterill, gemide henüz belirlenemeyen bir nedenle aniden rahatsızlanarak bilincini kaybetti.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-bodrumda-hayat-kurtaran-ameliyat-yasim-75-muhtemelen-21-yasima-dondum-1749810"
+        },
         {
           "title": "Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat",
           "summary": "Doğada masum görünen bazı mantarlar ölümcül zehirler taşıyor. Bir lokması bile hayati tehlikeye yol açabilen zehirli mantarlar hangileri? Mantar toplarken nelere dikkat edilmeli?",
@@ -235,11 +240,6 @@
           "title": "Anne adayları dikkat, artık MHRS'den randevu alınabiliyor",
           "summary": "Sigarayı bırakmak isteyen gebe kadınlar, yeni açılan \"Gebe Sigara Bırakma Polikliniği\"nden MHRS üzerinden randevu alabiliyor. Ankara'nın Yenimahalle ilçesindeki Etlik Şehir Hastanesi'nde \"Gebe Sigara Bırakma Polikliniği\" hizmet vermeye başladı. Poliklinikte, gebelerin sigarayı bırakma sürecinde ilaç tedavisi yerine motivasyonel görüşmeler ve psikolojik destek yöntemi uygulanıyor. RİSKLERE DİKKAT Göğüs Hastalıkları Kliniği Eğitim Görevlisi Doç. Dr.",
           "source": "https://www.ntv.com.tr/saglik/anne-adaylari-dikkat-artik-mhrsden-randevu-alinabiliyor-1747721"
-        },
-        {
-          "title": "İlaçlara yanıt vermeyen yeni bir depresyon türü tespit edildi",
-          "summary": "Yapılan son araştırmalar, antidepresanlara yanıt vermeyen hastaların, biyolojik saatlerindeki bozukluktan kaynaklanan bir depresyon alt türünün pençesinde olabileceğini ortaya koydu. Avustralyalı bilim insanları, geleneksel antidepresanlardan fayda bulamayan hastaların, kendi biyolojik saatlerindeki bozukluktan kaynaklanan şiddetli bir alt depresyon türünün pençesinde olabileceğini keşfetti.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-ilaclara-yanit-vermeyen-yeni-bir-depresyon-turu-tespit-edildi-1747333"
         }
       ]
     },
