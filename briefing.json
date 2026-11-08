@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-07T16:00:05.870Z",
+  "generatedAt": "2026-11-08T04:00:03.592Z",
   "categories": {
     "gundem": {
-      "text": "Fenerbahçe otobüsünün kurşunlanmasında yeni detaylar ortaya çıktı. \"Saldırı önceden planlandı\". Afyonkarahisar'daki saldırıdan kurtulan öğretmen dehşet anları anlattı: 'Yapma' diye bağırdım. ABD, İran’ın kara sınırları ve Hazar Denizi’ndeki askeri sevkiyatlarına karşı \"Demir Kapı Görev Gücü\"nü kurdu. Burhanettin Duran: Yönümüzü algoritmalara teslim etmek yerine, algoritmalara insani ve etik bir yön vermeliyiz. AK Parti Genel Sekreteri Eyyüp Kadir İnan: Hiçbir koltuk, milletin hakkından ve adaletten üstün değildir. \"İçi boş\" deyip tetiğe bastı. Erzurum'da acı olay. Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa etti.",
+      "text": "18 il için kar ve fırtına uyarısı. Yoğun kar yağışı var. Cumhurbaşkanı Erdoğan bugün Azerbaycan'a gidecek. Yeni Parti'de bugün genel başkanlık ön seçimi yapılacak. Van'da feci kaza. 9 kişi hayatını kaybetti. Malatya'da silah kaçakçılığı operasyonu. Gaziantep’te feci kaza! 2 ölü, 2 ağır yaralı. Ankara'da kar yağışı etkili oldu.",
       "items": [
         {
-          "title": "Fenerbahçe otobüsünün kurşunlanmasında yeni detaylar ortaya çıktı. \"Saldırı önceden planlandı\"",
-          "summary": "Fenerbahçe takım otobüsüne 2015'te yapılan saldırıya ilişkin iddianameden yeni detaylar ortaya çıktı. Saldırının rastgele gerçekleştirilemeyeceği, eylemin önceden planlanlandığı belirtildi. Fenerbahçe takım otobüsüne Nisan 2015'te Trabzon'un Sürmene ilçesinde gerçekleştirilen silahlı saldırıya yönelik 5 şüpheli hakkında düzenlenen iddianameden yeni detaylar ortaya çıktı. İddianemede, eylemin önceden planlanarak yapıldığı belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-fenerbahce-otobusunun-kursunlanmasinda-yeni-detaylar-ortaya-cikti-saldiri-onceden-planlandi-1749858"
+          "title": "18 il için kar ve fırtına uyarısı. Yoğun kar yağışı var",
+          "summary": "Ülkeye kış bu yıl her zamankinden daha erken geldi. Bazı noktalarda dün başlayan yoğun kar yağışı bugün de birçok ilde devam ediyor. Meteoroloji Genel Müdürlüğü, beklenen kuvvetli yağış nedeniyle bugün 18 ile sarı kodlu uyarıda bulundu. Meteorolojik uyarı haritasına göre, bugün Adana, Artvin, Antalya, Bitlis, Burdur, Giresun, Hakkari, Hatay, Isparta, Mersin, Kahramanmaraş, Ordu, Rize, Samsun, Siirt, Trabzon, Şırnak ve Osmaniye için sarı kod uyarısında bulunuldu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-21-il-icin-kar-ve-firtina-uyarisi-yogun-kar-yagisi-var-1749889"
         },
         {
-          "title": "Afyonkarahisar'daki saldırıdan kurtulan öğretmen dehşet anları anlattı: 'Yapma' diye bağırdım",
-          "summary": "AFYONKARAHİSAR'da biçerdöver alışverişi sonrası borç alacak anlaşmazlığı nedeniyle 3 kişiyi öldürdükten sonra kaçış güzergahında kendisine aracını vermek istemeyen 5 kişiyi öldüren Arif Sefa Özdemir'in (28) saldırısından sağ kurtulan beden eğitimi öğretmeni Sultan Sema Gökçe ifadesinde, saldırganın 'Sadece arabayı verin ve gidin' sözlerinden sonra araçtan indiğini anlattı. Gökçe, \"Yapma' diye bağırdım. Araçtaki iki arkadaşım korku ve panik nedeniyle dışarı çıkamadı. Saldırgan 'Üçten geriye sayıyorum.",
-          "source": "https://www.hurriyet.com.tr/gundem/afyonkarahisardaki-saldiridan-kurtulan-ogretmen-dehset-anlari-anlatti-yapma-diye-bagirdim-43369806"
+          "title": "Cumhurbaşkanı Erdoğan bugün Azerbaycan'a gidecek",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan 8 Kasım Zafer Günü dolayısıyla bugün Azerbaycan'ı ziyaret edecek. Erdoğan öncesindeyse Azerbaycan Cumhurbaşkanı İlham Aliyev'e tebrik mektubu gönderdi. İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Erdoğan'ın bugün Karabağ'ı ziyaret edeceğine ilişkin bir açıklama paylaştı.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bugun-azerbaycana-gidecek-1749891"
         },
         {
-          "title": "ABD, İran’ın kara sınırları ve Hazar Denizi’ndeki askeri sevkiyatlarına karşı \"Demir Kapı Görev Gücü\"nü kurdu",
-          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın gelişmiş silah sistemleri ve yaptırımlara tabi diğer malzemeleri kara güzergahları ve Hazar Denizi üzerinden sevk etmesini engellemeye yönelik çalışmalar kapsamında \"Demir Kapı Görev Gücü\"nün kurulduğunu açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/abd-iranin-kara-sinirlari-ve-hazar-denizindeki-askeri-sevkiyatlarina-karsi-demir-kapi-gorev-gucunu-kurdu-43369800"
+          "title": "Yeni Parti'de bugün genel başkanlık ön seçimi yapılacak",
+          "summary": "Yeni Parti'de kurultay öncesinde bugün genel başkanlık ön seçimi yapılacak. Partinin il ve ilçe başkanlıklarında sandıklarda parti üyesi olan herkes oy kullanabilecek. Yeni Parti'de 14-15 Kasım'da gerçekleşecek 1. olağan kurultay öncesi genel başkanlık ön seçimi yapılacak. Partinin 81 ildeki il ve ilçe başkanlıklarında 3 bin sandık kurulacak.",
+          "source": "https://www.ntv.com.tr/turkiye/yeni-partide-bugun-genel-baskanlik-on-secimi-yapilacak-1749890"
         },
         {
-          "title": "Burhanettin Duran: Yönümüzü algoritmalara teslim etmek yerine, algoritmalara insani ve etik bir yön vermeliyiz",
-          "summary": "TRT World Forum’un ikinci gününde konuşan Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Bir gazeteci tanıklarla mülakat yapmak, belgeleri kontrol etmek ve bir haberi doğrulamak için haftalar harcayabilir. İnternette yayımlandığında, haberin erişimi gazetecinin açıklayamadığı kararlar veren bir algoritmaya bağlıdır. Algoritma çağında idarenin kimde olduğunu sorarak başladık. Belki de daha önemli soru, onu kimin kontrol etmesi gerektiğidir. Benim cevabım şudur ki gelecek, insanların elinde kalmalıdır.",
-          "source": "https://www.hurriyet.com.tr/gundem/burhanettin-duran-yonumuzu-algoritmalara-teslim-etmek-yerine-algoritmalara-insani-ve-etik-bir-yon-vermeliyiz-43369778"
+          "title": "Van'da feci kaza. 9 kişi hayatını kaybetti",
+          "summary": "Van'da TIR ile minibüsün çarpıştığı kazada 9 kişi hayatını kaybetti, 5 kişi de yaralandı. Van-Özalp karayolunda TIR ile minibüsün çarpışması sonucu trafik kazası meydana geldi. Karayolunun 49. kilometresinde saat 19.30 sıralarında yoğun yağış nedeniyle kayganlaşan yolda TIR ile İran plakalı yolcu minibüsü çarpıştı. Çarpışmanın şiddetiyle minibüs hurdaya dönerken, kazayı görenlerin ihbarı üzerine olay yerine çok sayıda 112 Acil Sağlık, AFAD, itfaiye, emniyet ve jandarma ekibi sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867"
         },
         {
-          "title": "AK Parti Genel Sekreteri Eyyüp Kadir İnan: Hiçbir koltuk, milletin hakkından ve adaletten üstün değildir",
-          "summary": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, Konak’ta yaptığı açıklamada “Bizim davamızda, AK Parti’nin yolunda kimsenin torpili, kimsenin ayrıcalığı yoktur! Dün hangi koltukta oturmuş olursa olsun, hangi makamı taşımış olursa olsun; bu milletin emanetine yanlış yapan kim varsa, bugün gidip mahkeme önünde hesabını veriyor, bedelini ödüyor! Çünkü bizde hiçbir koltuk, milletin hakkından ve adaletten üstün değildir\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-sekreteri-eyyup-kadir-inan-hicbir-koltuk-milletin-hakkindan-ve-adaletten-ustun-degildir-43369765"
+          "title": "Malatya'da silah kaçakçılığı operasyonu",
+          "summary": "Malatya'da yasa dışı silah ticareti yapan şahıslara yönelik düzenlenen operasyonda 7 ruhsatsız tabanca ele geçirilirken, 2 şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/malatyada-silah-kacakciligi-operasyonu-43370066"
         },
         {
-          "title": "\"İçi boş\" deyip tetiğe bastı. Erzurum'da acı olay",
-          "summary": "Erzurum'da esnaf komşusu tarafından pompalı tüfekle vurulan kişi hayatını kaybetti. Şüpheli, şakalaşma sırasında vurduğunu öne sürdü. Erzurum'da Kevelciler Caddesi'ndeki bir gelinlikçi dükkanının sahibi Hakkıhan G. ile içeri giren bitişikteki iş yerinin sahibi Emirhan Kabanlı gülerek konuşmaya başladı. İş yerinin kapısını açarak çıkmak isteyen Emirhan Kabanlı'ya, Hakkıhan G., içi boş dediği pompalı tüfeği doğrultarak tetiğe bastı. Silahın ateş alması sonucu Kabanlı, karın bölgesinden vuruldu.",
-          "source": "https://www.ntv.com.tr/turkiye/ici-bos-deyip-tetige-basti-erzurumda-aci-olay-1749857"
+          "title": "Gaziantep’te feci kaza! 2 ölü, 2 ağır yaralı",
+          "summary": "Gaziantep’te seyir halindeyken lastiği patlayan hafif ticari araç kontrolden çıkarak üst geçidin ayağına çarptı. Meydana gelen kazada 2 kişi hayatını kaybetti, 2 kişi ise ağır yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gaziantepte-feci-kaza-2-olu-2-agir-yarali-43370064"
         },
         {
-          "title": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa etti",
-          "summary": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa ettiğini açıkladı. Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, sosyal medya hesabında yayınladığı mesajla Yeni Parti'den istifa etti. “Koltuk hesabı için siyaset yapmadığını, hiçbir zaman kişisel ikbal mücadelesine girmediğini” söyleyen Yüceer, \"Ancak üzülerek görüyorum ki bugün bazıları kendi kişisel ikbalinin, makamının ve koltuğunun hesabına düşmüş durumda.\" ifadesini kullandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-tekirdag-buyuksehir-belediye-baskani-candan-yuceer-yeni-partiden-istifa-etti-1749856"
+          "title": "Ankara'da kar yağışı etkili oldu",
+          "summary": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu. Kentte gece saatlerinde etkisini gösteren kar yağışı nedeniyle bazı sokak, cadde ve parklar beyaza büründü. Ankara Büyükşehir Belediyesi ve emniyet ekipleri, olumsuzluklara karşı tedbir aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/ankarada-kar-yagisi-etkili-oldu-1749884"
         }
       ]
     },
     "dunya": {
-      "text": "Polonya'da şehir merkezinde silahlı saldırı. Çok sayıda ölü ve yaralı var. Ermenistan'dan Türkiye itirafı: 70 yıldır yanılgı içinde yaşamışız. Yemen'de kriz büyüyor: 313 bin kişi yerinden edildi. Suudi Arabistan'daki kentlerde alarm. Dışişleri Bakanı Fidan, Mısırlı mevkidaşı Abdulati ile görüştü. ABD'den 20 milyon dolarlık ödül duyurusu. İran'ın nükleer sırlarının peşinde. ABD Başkanı Trump'tan kabine değişikliği hazırlığı.",
+      "text": "Hürmüz Boğazı'nda askeri gerilim. İki tanker mayına çarptı, ABD kargo gemisi vurdu. Kolombiya'da askeri üsse düzenlenen bombalı saldırıda 5 asker öldü, 33 asker yaralandı. Polonya'da tarihi meydanda katliam. Araçtan ateş açıldı, 6 kişi öldü. İsrail'de hükümeti kurma görevi Netanyahu'nun rakibi Ayzenkot'a verildi. Fransa’da 146 bin kişi sokakları doldurdu: 360 kişi gözaltına alındı. ABD, İran'a yönelik deniz ablukasını ihlal ettiği gerekçesiyle ticari gemiyi etkisiz hale getirdiğini duyurdu. Fransa'nın başkenti Paris'te protesto düzenledi.",
       "items": [
         {
-          "title": "Polonya'da şehir merkezinde silahlı saldırı. Çok sayıda ölü ve yaralı var",
-          "summary": "Polonya'da Krokow şehir merkezinde silahlı saldırı gerçekleşti. 5 kişi hayatını kaybetti. Polonya'nın Krakow kenti şehir merkezinde silahlı saldırı meydana geldi. Saldırı 5 kişinin hayatını kaybettiği belirtildi. En az 10 yaralı var. Saldırganın ise kaçmaya çalışırken yakalandığı belirtildi.",
+          "title": "Hürmüz Boğazı'nda askeri gerilim. İki tanker mayına çarptı, ABD kargo gemisi vurdu",
+          "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda 2 tankerin mayına çarptığını duyurdu. Amerikan Merkez Kuvvetler Komutanlığı ise, ablukayı aşmaya çalıştığını öne sürdüğü ticari gemiyi vurdu. ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’a karşı uygulanan deniz ablukasını ihlal ettiği gerekçesiyle Umman Körfezi’nde bir ticari gemiyi etkisiz hale getirdiğini duyurdu.",
+          "source": "https://www.ntv.com.tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-2-petrol-tankeri-mayina-carpti-1749886"
+        },
+        {
+          "title": "Kolombiya'da askeri üsse düzenlenen bombalı saldırıda 5 asker öldü, 33 asker yaralandı",
+          "summary": "Kolombiya'nın güneyindeki Bolivar yönetim bölgesinde askeri üsse düzenlenen bomba yüklü İHA saldırısında 5 asker hayatını kaybetti, 33 asker yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-askeri-usse-duzenlenen-bombali-saldirida-5-asker-oldu-33-asker-yaralandi-43370077"
+        },
+        {
+          "title": "Polonya'da tarihi meydanda katliam. Araçtan ateş açıldı, 6 kişi öldü",
+          "summary": "Polonya'da Krokow şehrinde silahlı saldırı gerçekleşti. Saldırganın şehir meydanında aracıyla ateş açtığı olayda 6 kişi hayatını kaybetti. Saldırganın evinde üç kişinin daha cesedi bulundu. Polonya'nın Krakow kentinde şehir merkezinde bulunan tarihi meydanda silahlı saldırı yaşandı. Polonya basınında yer alan haberlere göre, yerel saatle 15.00 sıralarında Krakov'un merkezindeki Ana Meydan'a aracıyla giren saldırgan, araçtan çevredekilere ateş açtı.",
           "source": "https://www.ntv.com.tr/dunya/polonyada-sehir-merkezinde-silahli-saldiri-1749861"
         },
         {
-          "title": "Ermenistan'dan Türkiye itirafı: 70 yıldır yanılgı içinde yaşamışız",
-          "summary": "Ermenistan Güvenlik Konseyi Sekreteri Alen Simonyan, Türkiye tehdidi söylemiyle Rusya'ya bağımlı bir güvenlik anlayışı benimsediklerini belirtti ve \"70 yıldır yanılgı içindeymişiz\" itirafında bulundu. Simonyan, Türkiye ile ilişkilerin normalleştirilmesi gerektiğini vurguladı. Simonyan yaptığı açıklamada, gelecek nesillere barış mirası bırakılması çağrısında bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/ermenistandan-turkiye-itirafi-70-yildir-yanilgi-icinde-yasamisiz-43369725"
+          "title": "İsrail'de hükümeti kurma görevi Netanyahu'nun rakibi Ayzenkot'a verildi",
+          "summary": "İsrail Cumhurbaşkanı İzak Herzog, seçimlerin ardından hükümeti kurma görevini Gadi Ayzenkot'a verdi. İsrail'de 27 Ekim'de yapılan seçimlerde sandıktan çıkan koalisyon belirsizliği çözülmeye çalışılıyor. İsrail Cumhurbaşkanı İzak Herzog, hükümeti kurma görevini Gadi Ayzenkot'a verdi. İsrail Cumhurbaşkanlığı Ofisinden yapılan açıklamada, Herzog'un, Ayzenkot'u 8 Kasım Pazar günü yerel saatle 17.00'de hükümet kurma yetkisi vermek üzere Ofise davet ettiği belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/israil-medyasi-hukumeti-kurma-gorevi-netanyahunun-rakini-ayzenkota-verildi-1749874"
         },
         {
-          "title": "Yemen'de kriz büyüyor: 313 bin kişi yerinden edildi",
-          "summary": "Yemen'de, temmuzdan bu yana şiddetlenen çatışmalar, milyonlarca kişinin insani yardıma ihtiyaç duyduğu krizi daha da ağırlaştırıyor. Ağustos ayından bu yana yaklaşık 313 bin kişi yerinden edilirken, çatışmalarda hayatını kaybeden veya yaralanan sivillerin üçte birinden fazlasını çocuklar oluşturuyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/yemende-kriz-buyuyor-313-bin-kisi-yerinden-edildi-43369687"
+          "title": "Fransa’da 146 bin kişi sokakları doldurdu: 360 kişi gözaltına alındı",
+          "summary": "Fransa’da hayat pahalılığı ve eğitim politikalarına yönelik devam eden protestolarda 75 bini başkent Paris’te olmak üzere ülke genelinde yaklaşık 146 bin kişi sokaklara çıktı. Fransa’da artan yaşam maliyetleri ve eğitim politikalarına karşı gerçekleştirilen protestolar sürerken, başkent Paris dahil olmak üzere ülkenin çeşitli bölgelerinde yüzbinlerce kişi sokaklara çıktı. İşçi sendikaları ve öğrenci gruplarının katıldığı protestolar kapsamında başkent Paris’te yaklaşık 75 bin kişi yürüyüş düzenledi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-146-bin-kisi-sokaklari-doldurdu-360-kisi-gozaltina-alindi-1749883"
         },
         {
-          "title": "Suudi Arabistan'daki kentlerde alarm",
-          "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneybatısındaki Necran ve Cizan için erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistandaki-kentlerde-alarm-43369681"
+          "title": "ABD, İran'a yönelik deniz ablukasını ihlal ettiği gerekçesiyle ticari gemiyi etkisiz hale getirdiğini duyurdu",
+          "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’a karşı uygulanan deniz ablukasını ihlal ettiği gerekçesiyle Umman Körfezi’nde bir ticari gemiyi etkisiz hale getirdiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-irana-yonelik-deniz-ablukasini-ihlal-ettigi-gerekcesiyle-ticari-gemiyi-etkisiz-hale-getirdigini-duyurdu-43370037"
         },
         {
-          "title": "Dışişleri Bakanı Fidan, Mısırlı mevkidaşı Abdulati ile görüştü",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Mısır Dışişleri Bakanı Bedr Abdulati ile telefon görüşmesi gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-fidan-misirli-mevkidasi-abdulati-ile-gorustu-43369665"
-        },
-        {
-          "title": "ABD'den 20 milyon dolarlık ödül duyurusu. İran'ın nükleer sırlarının peşinde",
-          "summary": "ABD yönetimi, İran'ın nükleer programına ilişkin bilgi sağlayanlara 20 milyon dolara kadar ödül vereceğini duyurdu. Duyuru, ABD Merkez Kuvvetler Komutanlığı CENTCOM tarafından yapıldı. Ödül programı kapsamında İran'ın, nükleer tesisleri, ekipmanları ve programıyla bağlantılı kişiler hakkında bilgi aranıyor. Bilgi verenlere ayrıca yer değiştirme imkanı da sunulacak. Açıklamada, Uluslararası Atom Enerjisi Ajansı'nın 2025 raporuna dikkat çekildi. Rapora göre İran, uranyumu yüzde 60 saflıkta zenginleştiriyor.",
-          "source": "https://www.ntv.com.tr/dunya/abdden-20-milyon-dolarlik-odul-duyurusu-iranin-nukleer-sirlarinin-pesinde-1749732"
-        },
-        {
-          "title": "ABD Başkanı Trump'tan kabine değişikliği hazırlığı",
-          "summary": "ABD Başkanı Donald Trump, Cumhuriyetçilerin Kongre seçimlerini kaybetmesinin ardından kabinesinde bazı değişiklikler yapmayı planladığını belirtti. ABD Başkanı Trump, CBS News kanalına verdiği ve tamamı pazar günü yayınlanacak olan röportajının bir bölümünde ara seçimleri değerlendirdi. Trump, \"60 Minutes\" programında kendisine, kabinesinde herhangi birini görevden almayı planlayıp planlamadığı sorulduğunda, \"Evet, planlıyorum. Birazcık.\" yanıtını verdi. \"Kabinemden çok memnunum.",
-          "source": "https://www.ntv.com.tr/dunya/abd-baskani-trumptan-kabine-degisikligi-hazirligi-1749739"
+          "title": "Fransa'nın başkenti Paris'te protesto düzenledi",
+          "summary": "Fransa'nın başkenti Paris'teki Place de la Nation Meydanı'nda, ülkede devam eden toplumsal hareketlilik kapsamında düzenlenen protesto gösterisinde eylemciler bir araya geldi. Göstericiler ile polis arasında arbede yaşandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransanin-baskenti-pariste-protesto-duzenledi-43370024"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Mustafa Dalcı: 'Puan alamadığımız için üzgünüz!'. Bakan Bak: 'KKTC’li gençlerin önüne engel konulmasını kabul etmiyoruz'. Selçuk İnan: 'Milli araya galibiyetle girmek bizim için önemliydi!'. Derbide kazanan Galatasaray Çağdaş Faktoring!. Gaziantep FK’da Orhan Ak dönemi sona erdi. Trabzonspor'un Alanyaspor maçı kamp kadrosu belli oldu! 6 eksik. Allan Saint-Maximin: 'Sistem benim gibi oyuncuları sevmiyor'.",
+      "text": "Manchester City’den üst üste 3. yenilgi!. Stanimir Stoilov: 'Bugün sahada bir kişi eksik oynadık!'. Nuri Şahin'den Göztepe itirafı: 'Kolay ama uygulaması zor!'. Fenerbahçe Tarfin, Bursa'da farklı galip!. Batrakov fırtınası Amedspor'u da vurdu!. Rafael Leao'dan sakatlık açıklaması!. Okan Buruk: 'Rekorları kırmaya çalışıyoruz, ana hedef şampiyonluk'.",
       "items": [
         {
-          "title": "Mustafa Dalcı: 'Puan alamadığımız için üzgünüz!'",
-          "summary": "Eyüpspor Teknik Direktörü Mustafa Dalcı, Kocaelispor maçının ardından yaptığı açıklamada, \"Ne olursa olsun puan veya puanlar almamız gereken bir süreçteyiz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mustafa-dalci-puan-alamadigimiz-icin-uzgunuz-43369768"
+          "title": "Manchester City’den üst üste 3. yenilgi!",
+          "summary": "İngiltere Premier Lig’in 10. haftasında Manchester City, deplasmanda Nottingham Forest’e 3-1 mağlup olarak üst üste 3. yenilgisini aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/manchester-cityden-ust-uste-3-yenilgi-43369969"
         },
         {
-          "title": "Bakan Bak: 'KKTC’li gençlerin önüne engel konulmasını kabul etmiyoruz'",
-          "summary": "Türkiye Cumhuriyeti Gençlik ve Spor Bakanlığı ile Kuzey Kıbrıs Türk Cumhuriyeti Başbakanlığı iş birliğinde Lefkoşa’da KKTC Dostluk Kupası düzenlendi. Gençlik ve Spor Bakanı Dr. Osman Aşkın Bak’ın da izlediği KKTC Dostluk Kupası’nda; Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor’un U15 futbol takımları ile Kıbrıs Türk gençleri karşılaştı. Bakan Bak, yaptığı konuşmada, “Gençlerin önüne engellerin konulmasını kabul etmiyoruz.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bakan-bak-kktcli-genclerin-onune-engel-konulmasini-kabul-etmiyoruz-43369718"
+          "title": "Stanimir Stoilov: 'Bugün sahada bir kişi eksik oynadık!'",
+          "summary": "Göztepe Teknik Direktörü Stanimir Stoilov, Başakşehir maçının ardından Arda Okan Kurtalan'ın milli takıma çağrılıp çağrılmayacağına ilişkin süreci saçmalık olarak nitelendirerek, bu durumdan etkilenen Arda nedeniyle sahada adeta bir kişi eksik oynadıklarını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/stanimir-stoilov-bugun-sahada-bir-kisi-eksik-oynadik-43369952"
         },
         {
-          "title": "Selçuk İnan: 'Milli araya galibiyetle girmek bizim için önemliydi!'",
-          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Eyüpspor maçı sonrası yaptığı açıklamada; \"İyi bir mücadele ve duruş ile maçı kazanmasını bildik\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inan-milli-araya-galibiyetle-girmek-bizim-icin-onemliydi-43369698"
+          "title": "Nuri Şahin'den Göztepe itirafı: 'Kolay ama uygulaması zor!'",
+          "summary": "Başakşehir FK Teknik Direktörü Nuri Şahin, Göztepe'nin analizi çok kolay ancak uygulaması çok zor bir rakip olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahinden-goztepe-itirafi-kolay-ama-uygulamasi-zor-43369948"
         },
         {
-          "title": "Derbide kazanan Galatasaray Çağdaş Faktoring!",
-          "summary": "Halkbank Kadınlar Basketbol Süper Ligi'nin 7. haftasında Galatasaray Çağdaş Faktoring sahasında Beşiktaş BOA'yı 83-61 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/derbide-kazanan-galatasaray-cagdas-faktoring-43369680"
+          "title": "Fenerbahçe Tarfin, Bursa'da farklı galip!",
+          "summary": "Fenerbahçe Tarfin, Türkiye Sigorta Basketbol Süper Ligi'nin 7. haftasında deplasmanda Bursaspor Basketbol'u 78-59 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-bursada-farkli-galip-43369947"
         },
         {
-          "title": "Gaziantep FK’da Orhan Ak dönemi sona erdi",
-          "summary": "Gaziantep Futbol Kulübü, Teknik Direktör Orhan Ak ile yollarını ayırdığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gaziantep-fkda-orhan-ak-donemi-sona-erdi-43369647"
+          "title": "Batrakov fırtınası Amedspor'u da vurdu!",
+          "summary": "Galatasaray'ın Rus futbolcusu Aleksey Batrakov, yükselen formunu Amed Sportif Faaliyetler maçında da sürdürdü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/batrakov-firtinasi-amedsporu-da-vurdu-43369943"
         },
         {
-          "title": "Trabzonspor'un Alanyaspor maçı kamp kadrosu belli oldu! 6 eksik",
-          "summary": "Trabzonspor, Süper Lig'de oynayacağı Alanyaspor maçının kamp kadrosunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-alanyaspor-maci-kamp-kadrosu-belli-oldu-6-eksik-43369587"
+          "title": "Rafael Leao'dan sakatlık açıklaması!",
+          "summary": "Galatasaray'da Gabriel Sara, Rafael Leao ve Yunus Akgün, Amedspor maçının ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rafael-leaodan-sakatlik-aciklamasi-43369900"
         },
         {
-          "title": "Allan Saint-Maximin: 'Sistem benim gibi oyuncuları sevmiyor'",
-          "summary": "Allan Saint-Maximin, modern futbolda çalım yeteneği yüksek ve taraftarı ayağa kaldıran oyunculara daha az yer verildiğini söyleyerek, \"Sistem artık benim gibi oyuncuları sevmiyor. Bu bir gerçek.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/allan-saint-maximin-sistem-benim-gibi-oyunculari-sevmiyor-43369522"
+          "title": "Okan Buruk: 'Rekorları kırmaya çalışıyoruz, ana hedef şampiyonluk'",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Amed Sportif Faaliyetler'i 4-3 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-rekorlari-kirmaya-calisiyoruz-ana-hedef-sampiyonluk-43369914"
         }
       ]
     },
