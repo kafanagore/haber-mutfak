@@ -1,141 +1,176 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-08T10:00:03.588Z",
+  "generatedAt": "2026-11-08T16:00:06.283Z",
   "categories": {
     "gundem": {
-      "text": "Son dakika: İstanbul'da Hezarfen Havalimanı'nda eğitim uçağı pistten çıktı. Kelepçesini kırıp kuryeyle kaçmıştı: 89 suç kayıtlı firariye özel harekat baskını. İstanbul'da 15 katlı binada yangın paniği!. Hudut kapılarında zehir tacirlerine darbe: 10 ayda 54 tondan fazla uyuşturucu yakalandı. Kayda alan kişi dehşete düştü... 'Allah'ım! Adamı ezdi' | Çığlık çığlığa yardım istedi! Otoyoldaki kazanın görüntüsü ortaya çıktı. Akrobatik hareketler yapıp, havai fişek patlattı: 271 bin lira ceza yedi. 10 Kasım resmi tatil mi, okullar açık mı? 10 Kasım'da bankalar ve devlet daireleri çalışıyor mu?.",
+      "text": "MSB: Dostluk Denizi-2026 Tatbikatı, Mısır'ın ev sahipliğinde İskenderiye'de yapıldı. Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''. Cumhurbaşkanı Erdoğan, Hocalı Soykırım Anıtı'nı ziyaret etti. Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı. Cumhurbaşkanı Erdoğan, Azerbaycan'da onuruna verilen yemeğe katıldı. Sosyal medyada yeni tehlike! Slime akımına uzman uyarısı. Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın elinden sağ kurtulan çift konuştu.",
       "items": [
         {
-          "title": "Son dakika: İstanbul'da Hezarfen Havalimanı'nda eğitim uçağı pistten çıktı",
-          "summary": "İstanbul Çatalca'da Hezarfen Havalimanı'na iniş yapan uçuş okuluna ait eğitim uçağı pistten çıkarak toprak alana girdi. Kazada yara almayan pilot, tedbir amaçlı hastaneye kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/son-dakika-istanbulda-hezarfen-havalimaninda-egitim-ucagi-pistten-cikti-43370363"
+          "title": "MSB: Dostluk Denizi-2026 Tatbikatı, Mısır'ın ev sahipliğinde İskenderiye'de yapıldı",
+          "summary": "Milli Savunma Bakanlığı (MSB), ‘Dostluk Denizi-2026 Tatbikatı’nın Mısır ev sahipliğinde İskenderiye’de gerçekleştirildiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/msb-dostluk-denizi-2026-tatbikati-misirin-ev-sahipliginde-iskenderiyede-yapildi-43370732"
         },
         {
-          "title": "Kelepçesini kırıp kuryeyle kaçmıştı: 89 suç kayıtlı firariye özel harekat baskını",
-          "summary": "Mayıs ayında polisleri darbedip yakınlarının yardımıyla olay yerinden kaçırılan Mert Y.'nin 6 aylık firarı son buldu. Esenyurt polisinin dron ve özel harekat timleriyle düzenlediği operasyonla saklandığı adreste kıskıvrak yakalanan 18 ayrı dosyanın aranan firarisi çıkarıldığı mahkemece tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kelepcesini-kirip-kuryeyle-kacmisti-89-suc-kayitli-firariye-ozel-harekat-baskini-43370356"
+          "title": "Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''",
+          "summary": "Türkiye ve Irak'ın ortak açıklamasında Türkiye'nin Başika-Zilikan askeri yerleşkesini Irak hükümetine kademeli olarak devretmek üzere adım atmaya başlayacağı bildirildi. Cumhurbaşkanlığı İletişim Başkanlığı tarafından yayımlanan Türkiye-Irak ortak basın açıklamasında, iki ülke arasında güvenlik iş birliği kapsamında alınan yeni kararlar kamuoyuyla paylaşıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996"
         },
         {
-          "title": "İstanbul'da 15 katlı binada yangın paniği!",
-          "summary": "Gaziosmanpaşa'da 15 katlı binanın 12'nci katında yangın çıktı. İhbar üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi. Ekiplerin yangına müdahalesi sürüyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-15-katli-binada-yangin-panigi-43370334"
+          "title": "Cumhurbaşkanı Erdoğan, Hocalı Soykırım Anıtı'nı ziyaret etti",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Hocalı Soykırım Anıtı ile Hankendi Zafer Anıtı'na ziyarette bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-hocali-soykirim-anitini-ziyaret-etti-43370711"
         },
         {
-          "title": "Hudut kapılarında zehir tacirlerine darbe: 10 ayda 54 tondan fazla uyuşturucu yakalandı",
-          "summary": "Ticaret Bakanlığı, gümrüklerde 2026'nın ilk 10 ayına ait kaçakçılıkla mücadele verilerini duyurdu. X-Ray sistemleri ve dedektör köpeklerle yapılan denetimlerde 54 ton 480 kilo uyuşturucunun yanı sıra milyonlarca kaçak tütün, sigara ve alkol ürününe el konularak imha süreçleri başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/hudut-kapilarinda-zehir-tacirlerine-darbe-10-ayda-54-tondan-fazla-uyusturucu-yakalandi-43370293"
+          "title": "Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı",
+          "summary": "Fon soruşturması kapsamında Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) 3. Daire Başkanı Bilal Soysal tutuklandı. Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmasının Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) ayağı derinleşiyor. Son olarak dosya kapsamında BDDK 3. Daire Başkanı Bilal Soysal tutuklandı. Dün de Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Uygulama 4. Daire Başkanı Mustafa Alper Taş tutuklanmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973"
         },
         {
-          "title": "Kayda alan kişi dehşete düştü... 'Allah'ım! Adamı ezdi' | Çığlık çığlığa yardım istedi! Otoyoldaki kazanın görüntüsü ortaya çıktı",
-          "summary": "Bolu'da, Anadolu Otoyolu'nda 7 aracın karıştığı zincirleme trafik kazasında 6 kişi yaralanmıştı. Bu kazanın yaşandığı anlara ait görüntüler ortaya çıktı. Bir TIR sürücüsü tarafından kaydedilen görüntülerde kayarak gelen otomobilin kaza yapmış aracın sürücüsüne çarptığı görülüyor. Kaydı yapan TIR sürücüsünün gördükleri karşısında büyük şok yaşayarak \"Of of... Allah'ım! Adamı ezdi\" dediği, yaralanan sürücünün de acı içinde çığlık attığı duyuluyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayda-alan-kisi-dehsete-dustu-allahim-adami-ezdi-ciglik-cigliga-yardim-istedi-otoyoldaki-kazanin-goruntusu-ortaya-cikti-43370280"
+          "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'da onuruna verilen yemeğe katıldı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 8 Kasım Zafer Günü dolayısıyla ziyaret ettiği Azerbaycan'da onuruna verilen akşam yemeğine katıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-azerbaycanda-onuruna-verilen-yemege-katildi-43370687"
         },
         {
-          "title": "Akrobatik hareketler yapıp, havai fişek patlattı: 271 bin lira ceza yedi",
-          "summary": "Hatay'ın İskenderun ilçesinde seyir halindeki plakasız motosikletiyle akrobatik hareketler yapıp, havai fişek patlatan sürücü M.Y.A.'ya 271 bin lira ceza kesildi. İlçede seyir halindeki plakasız motosikletiyle trafikte akrobatik hareketler yapıp, havai fişek patlatan M.Y.A. bu anların görüntülerini sanal medyada paylaştı. Görüntüler üzerine harekete geçen polis ekipleri, sürücüyü gözaltına aldı.",
-          "source": "https://www.ntv.com.tr/turkiye/video-akrobatik-hareketler-yapip-havai-fisek-patlatti-271-bin-lira-ceza-yedi-1749943"
+          "title": "Sosyal medyada yeni tehlike! Slime akımına uzman uyarısı",
+          "summary": "Sosyal medyada izlenme ve bağış toplamak amacıyla saatlerce slime ile temas eden içerik üreticileri dikkat çekiyor. Boraks, tutkal ve çeşitli kimyasallar içerebilen bu karışımların cilt üzerindeki etkilerini Hürriyet'e değerlendiren Dermatoloji Uzmanı Doç. Dr. Elif Afacan Yıldırım, uzun süreli temasın egzama, tahriş ve ciltte yaralara yol açabileceği konusunda uyardı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sosyal-medyada-yeni-tehlike-slime-akimina-uzman-uyarisi-43370652"
         },
         {
-          "title": "10 Kasım resmi tatil mi, okullar açık mı? 10 Kasım'da bankalar ve devlet daireleri çalışıyor mu?",
-          "summary": "Türkiye Cumhuriyeti’nin kurucusu Gazi Mustafa Kemal Atatürk ebediyete intikalinin 88. yılında saygı, minnet ve özlemle anılıyor. 10 Kasım Salı gününe ilişkin resmi tatil bilgisi de merak ediliyor. 10 Kasım Salı günü için resmi tatil araştırmaları öğrenciler, veliler ve kamu çalışanlarının gündeminde yer alıyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-10-kasim-resmi-tatil-mi-okullar-acik-mi-10-kasimda-bankalar-ve-devlet-daireleri-calisiyor-mu-1749938"
+          "title": "Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın elinden sağ kurtulan çift konuştu",
+          "summary": "Afyonkarahisar'daki saldırgan Arif Sefa Özdemir tarafından silah zoruyla aracı gasbedilen Kasım Kırcı, yaşadıkları korku dolu dakikaları paylaştı. Çarpmanın ardından indiklerinde namluyla karşılaştıklarını ve duvar kenarına geçmelerinin söylendiğini aktaran Kırcı, şüphelinin 2 kadın öğretmeni ve diğer kurbanları vurduğunu emniyet güçlerinden öğrendiklerini ifade etti. Kırcı, \"Duyan komşular sanki hacdan ya da umreden gelmişiz gibi ziyaret ediyor.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kaza-sandilar-namluyla-karsilastilar-8-kisiyi-olduren-saldirganin-elinden-sag-kurtulan-cift-konustu-43370643"
         }
       ]
     },
     "dunya": {
-      "text": "Cumhurbaşkanı Erdoğan Zafer Günü için Azerbaycan'da. Aliyev havalimanında karşıladı. Polonya'daki kanlı saldırıyla ilgili yeni ayrıntılar ortaya çıktı. Polonya'yı kana bulayan saldırganın evinden cesetler çıktı. İran'da ocak protestolarına katılan 3 kişi idam edildi. UFC Başkanı White'ın Trump'ın sözcülük teklifini reddettiği iddiası. Kolombiya'da askeri üs İHA ile vuruldu: 5 ölü, 33 yaralı. Japonya'da 5.7 büyüklüğünde deprem: Çok sayıda kişi yaralandı.",
+      "text": "Senegal'de can pazarı: 34 göçmen yaşamını yitirdi. Musluk suyunda gizlenen tehlike!. Mısır'da yolcu treni raydan çıktı: Onlarca kişi yaralandı. Cumhurbaşkanı Erdoğan Azerbaycan'da. \"Kardeşliğimizi zayıflatmak isteyenler emellerine ulaşamayacak\". Zelenski'den dikkat çeken açıklama: Rus saldırıları arttı. İran'dan Hürmüz uyarısı: 'Mayınlar bekliyor'. İsrailli Bakan Katz'dan İran'a saldırı tehdidi.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan Zafer Günü için Azerbaycan'da. Aliyev havalimanında karşıladı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan 8 Kasım Zafer Günü dolayısıyla gittiği Azerbaycan'da, Cumhurbaşkanı İlham Aliyev tarafından havalimanında karşılandı. Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetine icabetle Karabağ'a gitti. Cumhurbaşkanı Erdoğan'ı Azerbaycan Cumhurbaşkanı İlham Aliyev havalimanında karşıladı. HEYETTE KİMLER VAR?",
-          "source": "https://www.ntv.com.tr/dunya/galeri-cumhurbaskani-erdogan-zafer-gunu-icin-azerbaycanda-aliyev-havalimaninda-karsiladi-1749932"
+          "title": "Senegal'de can pazarı: 34 göçmen yaşamını yitirdi",
+          "summary": "Senegal'in kuzeyinde düzensiz göçmenleri taşıyan teknenin alabora olması sonucu 34 kişi hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/senegalde-can-pazari-34-gocmen-yasamini-yitirdi-43370669"
         },
         {
-          "title": "Polonya'daki kanlı saldırıyla ilgili yeni ayrıntılar ortaya çıktı",
-          "summary": "Polonya'nın Krakow kentinde dün düzenlediği silahlı saldırıda 6 kişiyi öldüren, 16 kişiyi yaralayan evinde de üç kişinin cesedi bulunan Michal O.'ya ilişkin yeni detaylar ortaya çıktı. Polonya'nın en büyük ikinci kenti Krakow'da dün bir saldırganın şehir meydanında aracından ateş açarak altı kişiyi öldürmesi, en az 15 kişiyi de yaralamasının ardından, zanlının evinde yapılan aramada üç kişinin daha cesedi bulunmuştu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-polonyadaki-kanli-saldiriyla-ilgili-yeni-ayrintilar-ortaya-cikti-1749949"
+          "title": "Musluk suyunda gizlenen tehlike!",
+          "summary": "ABD'nin Louisiana eyaletinde musluk suyunda da bulunabilen Akantamoeba Keratiti adlı mikroskobik organizmayla bağlantılı 10 enfeksiyon vakası tespit edildi. Beş kişinin kalıcı görme kaybı yaşadığı, bir kişinin ise hayatını kaybettiği olayların ardından sağlık yetkilileri özellikle kontakt lens ve burun temizliğinde musluk suyu kullanılmaması konusunda uyardı.",
+          "source": "https://www.hurriyet.com.tr/dunya/musluk-suyunda-gizlenen-tehlike-43370662"
         },
         {
-          "title": "Polonya'yı kana bulayan saldırganın evinden cesetler çıktı",
-          "summary": "Polonya'nın ikinci büyük kenti Krakow'un merkezinde düzenlenen silahlı saldırıda en az 6 kişi hayatını kaybetti, onlarca kişi yaralandı. Polis, zanlının evinde aramada üç ceset buldu.",
-          "source": "https://www.hurriyet.com.tr/dunya/polonyayi-kana-bulayan-saldirganin-evinden-cesetler-cikti-43370327"
+          "title": "Mısır'da yolcu treni raydan çıktı: Onlarca kişi yaralandı",
+          "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde tren kazası meydana geldi. Kazada ilk belirlemelere göre 64 kişinin yaralandığı bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/misirda-yolcu-treni-raydan-cikti-onlarca-kisi-yaralandi-43370639"
         },
         {
-          "title": "İran'da ocak protestolarına katılan 3 kişi idam edildi",
-          "summary": "İran'da, ocak ayında başlayan yerel para biriminin değer kaybı ve ekonomik duruma tepki protestolarında \"şiddet eylemlerine karıştıkları\" iddiasıyla idama mahkum edilen 3 kişinin cezası infaz edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iranda-ocak-protestolarina-katilan-3-kisi-idam-edildi-43370298"
+          "title": "Cumhurbaşkanı Erdoğan Azerbaycan'da. \"Kardeşliğimizi zayıflatmak isteyenler emellerine ulaşamayacak\"",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan 8 Kasım Zafer Günü için gittiği Azerbaycan'da mevkidaşı İlham Aliyev ile görüştü. Liderler görüşme sonrası düzenledikleri basın toplantısında birlik mesajları verdi. ERDOĞAN: GÖNÜL BİRLİĞİMİZ YARINLARIMIZA IŞIK TUTAN SÖNMEZ BİR MEŞALEDİR Azerbaycan'ın 8 Kasım Zafer Günü için Karabağ'a giden Cumhurbaşkanı Recep Tayyip Erdoğan ve Azerbaycan Cumhurbaşkanı İlham Aliyev, Şuşa'daki ikili görüşmenin ardından ortak basın toplantısı düzenledi. Karabağ Zaferi'nin 6.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-cumhurbaskani-erdogan-ve-aliyevden-ortak-aciklama-1749932"
         },
         {
-          "title": "UFC Başkanı White'ın Trump'ın sözcülük teklifini reddettiği iddiası",
-          "summary": "Ultimate Fighting Championship (UFC) Başkanı ve Üst Yöneticisi (CEO) Dana White'ın, ABD Başkanı Donald Trump'ın Beyaz Saray basın sözcülüğü teklifini reddettiği iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ufc-baskani-whitein-trumpin-sozculuk-teklifini-reddettigi-iddiasi-43370287"
+          "title": "Zelenski'den dikkat çeken açıklama: Rus saldırıları arttı",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun son bir haftada ülkesine yönelik saldırılarda 115 füze, 1900'e yakın güdümlü bomba ve 3 binden fazla insansız hava aracı (İHA) kullandığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenskiden-dikkat-ceken-aciklama-rus-saldirilari-artti-43370574"
         },
         {
-          "title": "Kolombiya'da askeri üs İHA ile vuruldu: 5 ölü, 33 yaralı",
-          "summary": "Kolombiya'nın güneyindeki Bolivar yönetim bölgesinde askeri üsse düzenlenen bomba yüklü İHA saldırısında 5 asker hayatını kaybetti, 33 asker yaralandı. Kolombiya Cumhurbaşkanı Abelardo de la Espriella, ABD merkezli X şirketinin sosyal medya platformundaki hesabından yaptığı açıklamada, terörizmin devleti dize getiremeyeceğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-askeri-us-iha-ile-vuruldu-5-olu-33-yarali-43370278"
+          "title": "İran'dan Hürmüz uyarısı: 'Mayınlar bekliyor'",
+          "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, Hürmüz Boğazı'nda \"mayınların beklediğini\" belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/irandan-hurmuz-uyarisi-mayinlar-bekliyor-43370550"
         },
         {
-          "title": "Japonya'da 5.7 büyüklüğünde deprem: Çok sayıda kişi yaralandı",
-          "summary": "Japonya'da gece saatlerinde 5.7 büyüklüğünde deprem meydana geldiği bildirildi. Ülkenin orta kesimlerinde gerçekleşen depremde 20'den fazla kişinin yaralandığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/japonyada-5-7-buyuklugunde-deprem-cok-sayida-kisi-yaralandi-43370183"
+          "title": "İsrailli Bakan Katz'dan İran'a saldırı tehdidi",
+          "summary": "İsrail Savunma Bakanı Yisrael Katz, Tahran yönetimiyle işlerinin henüz bitmediğini ifade ederek İran'ı yeni saldırılarla vuracakları tehdidinde bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilli-bakan-katzdan-irana-saldiri-tehdidi-43370509"
         }
       ]
     },
     "ekonomi": {
-      "text": "TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü.",
+      "text": "40’ıncı yıla özel, ekonomiye katkı analizi. 20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı. Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı. Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor.",
       "items": [
         {
-          "title": "TÜBADEF Yılın Ekonomi Yazarı Ödülü Abdullah Tolu'ya layık görüldü",
-          "summary": "Yeminli Mali Müşavir ve ekonomi yazarı Abdullah Tolu, TÜBADEF 2026 Başarı Ödülleri kapsamında \"Yılın Ekonomi Yazarı\" ödülüne layık görüldü. Tüm Bağımsız Denetçi Dernekleri Federasyonu (TÜBADEF), 2026 Başarı Ödülleri kapsamında ekonomi, eğitim, meslek kuruluşları ve sivil toplum alanlarında ödüllerini dağıtıyor. Yılın Ekonomi Yazarı Ödülü, ekonomi ve vergi alanında yaptığı çalışmalarla dikkat çeken Abdullah Tolu'ya gitti.",
-          "source": "https://www.ntv.com.tr/ekonomi/tubadef-yilin-ekonomi-yazari-odulu-abdullah-toluya-layik-goruldu-1748400"
+          "title": "40’ıncı yıla özel, ekonomiye katkı analizi",
+          "summary": "Türkiye Beyaz Eşya Sanayicileri Derneği (TÜRKBESD), 40’ıncı kuruluş yıl dönümünde “Türkiye Beyaz Eşya Sektörü 40. Yıl Etki Analizi Raporu”nun sonuçlarını paylaştı.",
+          "source": "https://www.hurriyet.com.tr/ik/40inci-yila-ozel-ekonomiye-katki-analizi-43368613"
+        },
+        {
+          "title": "20 milyar dolara bir adım daha",
+          "summary": "Ege İhracatçı Birlikleri (EİB), ekim ayında ihracatını yüzde 5’lik artışla 1 milyar 713 milyon dolara yükseltti. EİB, 2026 yılında haziran, temmuz ve eylül aylarından sonra dördüncü kez ekim ayında da 1 milyar 700 milyon dolar barajını aşmayı başardı. 2026’nın son çeyreğine moralli giren ihracatçılar, 20 milyar dolar ihracat hedefine bir adım daha yaklaştı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/20-milyar-dolara-bir-adim-daha-43367201"
+        },
+        {
+          "title": "Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı",
+          "summary": "Fon soruşturması kapsamında \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından mahkemeye sevk edilen eski bakan Fatma Betül Sayan Kaya tutuklandı. İlyas Kaya ile Gönül hakkında adli kontrol tedbiri uygulandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738"
+        },
+        {
+          "title": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
+          "summary": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242"
+        },
+        {
+          "title": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
+          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi-43366219"
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı",
+          "summary": "İSTANBUL'da düzenlenen 19'uncu Milli İrade Buluşması programında konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye ihracatını arttırmaya devam ediyor. 25.9 milyar dolarla ekim ayları için tarihi bir rekor ihracat gerçekleştirmişiz. Yıllıklandırılmış dediğimiz ihracatı, bu ekimden bir önceki ekim ayına kadar götürdüğünüzde 1 yılda ne kadar olmuş diye baktığınızda 285,6 milyar dolara ulaşmışız\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiyenin-ekim-ayi-ihracati-rekor-kirdi-43365117"
+        },
+        {
+          "title": "Dünya Altın Konseyinden çarpıcı altın raporu: Merkez bankaları alım fırsatı olarak görüyor",
+          "summary": "Küresel altın talebi yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 1 azalarak 1369 tona gerilerken, merkez bankaları ise fiyatlardaki düşüşü fırsata çevirerek rezervlerini artırmaya devam etti.",
+          "source": "https://www.hurriyet.com.tr/dunya/dunya-altin-konseyinden-carpici-altin-raporu-merkez-bankalari-alim-firsati-olarak-goruyor-43365108"
         }
       ]
     },
     "spor": {
-      "text": "Çorum FK – Fenerbahçe maçında gol bahsi öne çıkıyor, Gençlerbirliği’nin deplasman karnesi zayıf! İşte Misli’den günün tüyoları. Galatasaray'dan Rafael Leao için sakatlık açıklaması!. Trabzonspor’da Muçi gol ve asistlerine devam ediyor! Yamal’ın formu alev aldı… İşte Misli’den günün oyuncu bahisleri. Barcelona, Atletico Madrid'e konuk olacak! Dev maçın heyecanı canlı yayın ile Misli'de. Galatasaray, zorlu fikstürünü mutlu bitirdi. İspanyollardan Arda Güler'e büyük övgü: 'Hiçbir fırsatı kaçırmıyor, Real Madrid'in vitamin kaynağı!'. Enner Valencia, Arjantin'i karıştırdı: Bir taraf 90+6'da şampiyon oldu, diğer taraf şampiyon olduğunu sanıp kutlamalara başladı!.",
+      "text": "Burak Yılmaz: '5-0'ın açıklaması yok, suçlu benim!'. Emre Belözoğlu'ndan galibiyet yorumu: 'Tek kelimeyle mükemmel'. İrfan Can Kahveci'den 200. maçına damga! Greenwood, Emre Belözoğlu ile yeniden coştu. Eczacıbaşı, Göztepe'ye set vermedi!. Suat Maden: 'İç saha maçında da bunun telafisini yapacağız!'. Recep Uçar: '3 puandan da öte önemli bir galibiyet!'. Derbide kazanan Galatasaray Daikin!.",
       "items": [
         {
-          "title": "Çorum FK – Fenerbahçe maçında gol bahsi öne çıkıyor, Gençlerbirliği’nin deplasman karnesi zayıf! İşte Misli’den günün tüyoları",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/corum-fk-fenerbahce-macinda-gol-bahsi-one-cikiyor-genclerbirliginin-deplasman-karnesi-zayif-iste-misliden-gunun-tuyolari-43370383"
+          "title": "Burak Yılmaz: '5-0'ın açıklaması yok, suçlu benim!'",
+          "summary": "Çorum FK Teknik Direktörü Burak Yılmaz, Fenerbahçe yenilgisinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-5-0in-aciklamasi-yok-suclu-benim-43370704"
         },
         {
-          "title": "Galatasaray'dan Rafael Leao için sakatlık açıklaması!",
-          "summary": "Galatasaray, Rafael Leao'nun sağ üst arka adale grubunda ileri derecede zorlanma ve kanama tespit edildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-rafael-leao-icin-sakatlik-aciklamasi-43370375"
+          "title": "Emre Belözoğlu'ndan galibiyet yorumu: 'Tek kelimeyle mükemmel'",
+          "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, Çorum FK'yı 5-0 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglundan-galibiyet-yorumu-tek-kelimeyle-mukemmel-43370718"
         },
         {
-          "title": "Trabzonspor’da Muçi gol ve asistlerine devam ediyor! Yamal’ın formu alev aldı… İşte Misli’den günün oyuncu bahisleri",
-          "summary": "Futbol bülteninde futbolseverleri birbirinden heyecanlı maçlar beklerken oyuncu bahisleriyle maçların keyfi daha da artıyor. İlk günden bu yana büyük bir ilgi gören oyuncu bahisleriyle Misli üyeleri de kazançlarına kazanç katıyor. Oyuncu bahisleriyle İddaacılar, farklı bir oyun deneyimi yaşamaya devam ediyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-muci-gol-ve-asistlerine-devam-ediyor-yamalin-formu-alev-aldi-iste-misliden-gunun-oyuncu-bahisleri-43370382"
+          "title": "İrfan Can Kahveci'den 200. maçına damga! Greenwood, Emre Belözoğlu ile yeniden coştu",
+          "summary": "Trendyol Süper Lig'de deplasmanda Çorum FK'yı 5-0 mağlup eden Fenerbahçe, milli araya galibiyetle girdi. Emre Belözoğlu yönetiminde çıktığı ilk maçta farklı bir şekilde 3 puanın sahibi olan sarı-lacivertlilerde İrfan Can Kahveci ve Mason Greenwood, attıkları 2'şer golle ön plana çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-200-macina-damga-greenwood-emre-belozoglu-ile-yeniden-costu-43370688"
         },
         {
-          "title": "Barcelona, Atletico Madrid'e konuk olacak! Dev maçın heyecanı canlı yayın ile Misli'de",
-          "summary": "İspanya La Liga’nın 12. haftasında lider Barcelona, bu akşam deplasmanda Atletico Madrid ile karşı karşıya gelecek. Dev maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/barcelona-atletico-madride-konuk-olacak-dev-macin-heyecani-canli-yayin-ile-mislide-43370371"
+          "title": "Eczacıbaşı, Göztepe'ye set vermedi!",
+          "summary": "Sultanlar Ligi'nin 8. haftasında Eczacıbaşı, sahasında Göztepe'yi 3-0 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/eczacibasi-goztepeye-set-vermedi-43370647"
         },
         {
-          "title": "Galatasaray, zorlu fikstürünü mutlu bitirdi",
-          "summary": "Galatasaray, geride bıraktığı 30 günlük zorlu fikstürden mutlu bir şekilde çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-zorlu-fiksturunu-mutlu-bitirdi-43370369"
+          "title": "Suat Maden: 'İç saha maçında da bunun telafisini yapacağız!'",
+          "summary": "Erzurumspor FK Teknik Sorumlusu Suat Maden \"Kaybettiğinde de vazgeçmeyen bir Erzurumspor takımı oluşturma hedefindeydik. Bugün o reaksiyonu gösterdik. İnşallah iç saha maçında da bunun telafisini yapacağız\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/suat-maden-ic-saha-macinda-da-bunun-telafisini-yapacagiz-43370642"
         },
         {
-          "title": "İspanyollardan Arda Güler'e büyük övgü: 'Hiçbir fırsatı kaçırmıyor, Real Madrid'in vitamin kaynağı!'",
-          "summary": "La Liga'nın 12. haftasında Real Madrid, Arda Güler'in 1 gol, 1 asistle yıldızlaştığı maçta Valencia'yı deplasmanda 3-0 mağlup etti. İspanyol basını, maçın ardından milli futbolcunun performansından övgüyle bahsetti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ispanyollardan-arda-gulere-buyuk-ovgu-hicbir-firsati-kacirmiyor-real-madridin-vitamin-kaynagi-43370284"
+          "title": "Recep Uçar: '3 puandan da öte önemli bir galibiyet!'",
+          "summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar \"Bugün itibarıyla inşallah bunun da yeni başlayacak güzel bir hikâyenin başlangıç kıvılcımı olmasını ümit ediyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/recep-ucar-3-puandan-da-ote-onemli-bir-galibiyet-43370622"
         },
         {
-          "title": "Enner Valencia, Arjantin'i karıştırdı: Bir taraf 90+6'da şampiyon oldu, diğer taraf şampiyon olduğunu sanıp kutlamalara başladı!",
-          "summary": "Fenerbahçe'nin eski golcüsü Enner Valencia, dün gece 90+6'da attığı golle Boca Juniors'ı şampiyonluğa taşıdı. Ekvadorlu forvetin golünün iptal edildiği yönündeki yanlış bilgi ise Boca'nın şampiyonluk yolundaki en büyük rakibi Rosario Central taraftarlarının sevinçten sahaya inip şampiyonluk kutlamasına neden oldu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/enner-valencia-arjantini-karistirdi-bir-taraf-90-6da-sampiyon-oldu-diger-taraf-sampiyon-oldugunu-sanip-kutlamalara-basladi-43370180"
+          "title": "Derbide kazanan Galatasaray Daikin!",
+          "summary": "Sultanlar Ligi'nin 8. haftasında Galatasaray Daikin, Beşiktaş'ı 3-1 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/derbide-kazanan-galatasaray-daikin-43370573"
         }
       ]
     },
     "teknoloji": {
-      "text": "ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı. Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı. İki astronot 7 saatlik uzay yürüyüşü yaptı. 1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar. Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\".",
+      "text": "İHA'lar için drone otoyolları oluşturulacak. ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı. Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı. İki astronot 7 saatlik uzay yürüyüşü yaptı. 1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar.",
       "items": [
+        {
+          "title": "İHA'lar için drone otoyolları oluşturulacak",
+          "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu \"drone otoyolu\" olarak da bilinen insansız hava aracı (İHA) koridorlarının hukuki altyapısının oluşturulduğunu söyledi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından 30 Temmuz 2026 tarihinde yayımlanan İnsansız Hava Aracı Sistemleri Talimatı (SHT-İHA) kapsamında oluşturulacak İHA koridorlarına ilişkin açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-ihalar-icin-drone-otoyollari-olusturulacak-1749971"
+        },
         {
           "title": "ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı",
           "summary": "Yeni teknoloji markası ZEED, İstanbul'da düzenlenen lansmanla tanıtıldı. “A'dan Z'ye, Sana Göre” yaklaşımıyla yola çıkan marka; akıllı telefon, tablet ve aksesuar ürünleriyle farklı kullanıcı ihtiyaçlarına yanıt vermeyi hedefliyor. Erişilebilir teknoloji anlayışını kişiselleştirilmiş kullanıcı deneyimiyle buluşturan ZEED, üç yıl garanti avantajıyla Türkiye pazarında kendine yer açmaya hazırlanıyor.",
@@ -165,17 +200,17 @@
           "title": "378 gün sonra Mars simülasyonundan çıktılar",
           "summary": "NASA'nın insanlı Mars görevine hazırlık için 3D yazıcılarla ürettiği 158 metrekarelik simülasyonda 378 gün boyunca tecritte yaşayan dört kişilik ekip, \"Dünyaya\" döndü. Amerikan Havacılık ve Uzay Dairesi'nin (NASA) Mars'ta olası bir insanlı keşif görevine hazırlık için gerçekleştirdiği ikinci simülasyon görevi CHAPEA 2'ya (Crew Health and Performance Exploration Analog) katılan dört kişilik ekip, 378 gün sonra dış dünyayla yeniden buluştu.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-378-gun-sonra-mars-simulasyonundan-ciktilar-1748971"
-        },
-        {
-          "title": "Sam Altman, kişisel bilgisayarlardaki RAM'leri eleştirdi. \"Kaynak israfı\"",
-          "summary": "OpenAI CEO’su Sam Altman, bellek kaynaklarının kişisel bilgisayarlarda düşük kullanım oranıyla tutulmasını eleştirdi. Altman, arz sıkıntısının yaşandığı bir dönemde RAM'ler için bulutu işaret etti. Sam Altman, Youtube'da Cheeky Pint programında John Collison ile yaptığı söyleşide, yapay zekanın donanım ihtiyacı ve bellek tedarikindeki sıkışıklık hakkında konuştu.",
-          "source": "https://www.ntv.com.tr/teknoloji/sam-altman-kisisel-bilgisayarlardaki-ramlere-goz-dikti-kaynak-israfi-1748813"
         }
       ]
     },
     "saglik": {
-      "text": "Beyin kanserine karşı yeni yöntem. Bodrum'da hayat kurtaran ameliyat: \"Yaşım 75 muhtemelen 21 yaşıma döndüm\". Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat. Bir yılda 50 kilo verdi. Yoğun iş temposu iğne ipliğe çevirdi. Havalar soğudu, grip vakaları arttı. Uzmanı uyardı: Bir haftayı geçiyorsa dikkat. Uzmanlardan kış uyarısı: Bir haftayı geçen şikayetlere dikkat. Alzheimer'da gençlik proteini keşfi.",
+      "text": "Stres baş ağrısını nasıl tetikliyor?. Beyin kanserine karşı yeni yöntem. Bodrum'da hayat kurtaran ameliyat: \"Yaşım 75 muhtemelen 21 yaşıma döndüm\". Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat. Bir yılda 50 kilo verdi. Yoğun iş temposu iğne ipliğe çevirdi. Havalar soğudu, grip vakaları arttı. Uzmanı uyardı: Bir haftayı geçiyorsa dikkat. Uzmanlardan kış uyarısı: Bir haftayı geçen şikayetlere dikkat.",
       "items": [
+        {
+          "title": "Stres baş ağrısını nasıl tetikliyor?",
+          "summary": "NTV'de yayınlanan Zincirleme Reaksiyon, bu hafta baş ağrısının nedenlerini, stresin vücut üzerindeki etkilerini, migrenin belirtilerini ve bilinçsiz ağrı kesici kullanımının risklerini ele aldı. Stresin baş ağrısına etkisini değerlendiren Prof. Dr. Burcu Örmeci, stres sırasında vücuttaki kasların istemsiz olarak kasıldığını ve bu durumun baş ağrısına neden olabildiğini anlattı.",
+          "source": "https://www.ntv.com.tr/saglik/video-stres-bas-agrisini-nasil-tetikliyor-1749977"
+        },
         {
           "title": "Beyin kanserine karşı yeni yöntem",
           "summary": "ABD'li bilim insanları beyin kanserinin yayılmasını engelleyen yeni bir tedavi yöntemi geliştirdi. Araştırmacılar tedavinin önündeki en büyük engeli aşmayı başardıklarını söylüyor. Ultrasonik ses dalgaları ve nano teknoloji birlikte kullanıldı, beyin tümörlerinin büyümesini tetikleyen genler hedef alındı. Kanser tedavisinde çığır açan araştırma Amerika Birleşik Devletleri'nin (ABD) Virginia Üniversitesi uzmanları tarafından geliştirildi.",
@@ -205,11 +240,6 @@
           "title": "Uzmanlardan kış uyarısı: Bir haftayı geçen şikayetlere dikkat",
           "summary": "Havaların soğumasıyla üst solunum yolu hastalıkları arttı. Uzmanlar, bir haftayı geçen şikayetlere karşı uyarırken; 65 yaş üstü ve kronik hastalığı olanlara grip aşısı öneriyor.",
           "source": "https://www.ntv.com.tr/saglik/video-uzmanlardan-kis-uyarisi-bir-haftayi-gecen-sikayetlere-dikkat-1747853"
-        },
-        {
-          "title": "Alzheimer'da gençlik proteini keşfi",
-          "summary": "Alzheimer'la mücadelede heyecan verici bir gelişme yaşandı. Bilim insanları, beyinde adeta \"temizlikçi\" görevi yapan hücreleri koruyan bir gençlik proteini keşfetti. Alzheimer’ın sırrı çözülüyor mu? Bilim dünyası, beyindeki yaşlanma sürecini tersine çevirebilecek kritik bir keşfe imza attı. Amerika Birleşik Devletleri'nin (ABD) New York kentindeki Mount Sinai Tıp Fakültesi'nden bilim insanları beyindeki bağışıklık hücrelerini koruyan bir \"gençlik proteini\" tespit etti.",
-          "source": "https://www.ntv.com.tr/saglik/alzheimerda-genclik-proteini-kesfi-1747838"
         }
       ]
     },
