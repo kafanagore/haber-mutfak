@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-09T10:00:03.641Z",
+  "generatedAt": "2026-11-09T16:00:03.792Z",
   "categories": {
     "gundem": {
-      "text": "İzmir'de demir çelik fabrikasında patlama. COP31 Antalya'da başladı. Bakan Kurum: Bugüne hazırlanmak için büyük mücadele verdik. TMSF'den gönüllü iade işlemlerine ilişkin duyuru: 31,6 milyar lira tahsil edildi. COP31 katılımcılarına Antalya'daki müze ve ören yerleri ücretsiz olacak. Dışişleri Bakanı Hakan Fidan ile Milli Savunma Bakanı Yaşar Güler Ankara'da bir araya geldi. Adalet Bakanı Gürlek açıkladı. Fonları denetleyenler de incelenecek. Şantiyede can pazarı: Kamyonla duvar arasına sıkışan işçi hayatını kaybetti.",
+      "text": "Cumhurbaşkanı Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti. SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı. Fon soruşturmasında Ömer Murat Gülkan gözaltına alındı. İzmir'deki patlamanın görgü tanıkları dehşeti böyle anlattı: Sanki yer kabuğu altımızdan kaydı. MHP lideri Bahçeli'den 10 Kasım mesajı. İzmir'de demir çelik fabrikasında patlama. Çok sayıda can kaybı var. ''Kısa ve Net'' programı NTV'de başladı.",
       "items": [
         {
-          "title": "İzmir'de demir çelik fabrikasında patlama",
-          "summary": "İzmir'de demir çelik fabrikasında patlama meydana geldi. Patlamanın ardından çıkan yangına ekiplerin müdahalesi devam ediyor. İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası'nda patlama olduğu ihbarı üzerine bölgeye sağlık ve itfaiye ekipleri sevk edildi. Aliağa ilçesindeki bir sanayi tesisinde patlama sesi duyuldu, dumanlar yükseldi. İhbar üzerine bölgeye sağlık ve itfaiye ekipleri yönlendirildi. Sanayi tesisinde çıkan yangının söndürülmesi için çalışma başlatıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/izmirde-demir-celik-fabrikasinda-patlama-1750103"
+          "title": "Cumhurbaşkanı Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti. Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'de çeşitli temaslarda bulunan Apple Yönetim Kurulu Başkanı Tim Cook ile Ankara'da bir araya geldi. Cumhurbaşkanlığı Külliyesi'nde basına kapalı gerçekleştirilen kabulden fotoğraf paylaşıldı. Apple'ın eski CEO'su ve mevcut Yönetim Kurulu Başkanı Tim Cook, dün İstanbul'a gelerek çeşitli ziyaretlerde bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-tim-cooku-kabul-etti-1750158"
         },
         {
-          "title": "COP31 Antalya'da başladı. Bakan Kurum: Bugüne hazırlanmak için büyük mücadele verdik",
-          "summary": "COP31 İklim Zirvesi Antalya'da başladı. Genel Kurul açılışında konuşan Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"Krizlerin birbirini büyüttüğü çağda çözüm sağlamalıyız.\" mesajını verdi. Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler COP31 İklim Değişikliği Konferansı Genel Kurul açılışında konuştu. Bakan Kurum'un açıklamalarından öne çıkanlar şu şekilde: \"Bugüne hazırlanmak için büyük mücadele verdik.",
-          "source": "https://www.ntv.com.tr/turkiye/cop31-antalyada-basladi-bakan-kurum-bugune-hazirlanmak-icin-buyuk-mucadele-verdik-1750093"
+          "title": "SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı",
+          "summary": "Sermaye Piyasası Kurulu (SPK), fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarıda bulundu.",
+          "source": "https://www.hurriyet.com.tr/gundem/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari-43371973"
         },
         {
-          "title": "TMSF'den gönüllü iade işlemlerine ilişkin duyuru: 31,6 milyar lira tahsil edildi",
-          "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), tasfiye edilen yatırım fonlarıyla ilgili sürecin baştan beri kişilere göre değil, elde edilen fahiş kazanca göre belirlenen, açık ve herkese eşit uygulanan kriterler ile yürütüldüğünü duyururken bu kapsamda öncelikli olarak, tasfiye edilen fonlarda şüpheli işlemlerden belli bir rakamın üzerinde fahiş kazanç elde eden tüm yatırımcılar hakkında incelemenin başlatıldığı, bu kişilere gönüllü iade daveti yapıldığı ve yapılmaya devam edildiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tmsfden-gonullu-iade-islemlerine-iliskin-duyuru-31-6-milyar-lira-tahsil-edildi-43371379"
+          "title": "Fon soruşturmasında Ömer Murat Gülkan gözaltına alındı",
+          "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında OMG Capital Advisors Yönetim Kurulu Başkanı Ömer Murat Gülkan gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-omer-murat-gulkan-gozaltina-alindi-43371965"
         },
         {
-          "title": "COP31 katılımcılarına Antalya'daki müze ve ören yerleri ücretsiz olacak",
-          "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, COP31'e katılacak resmi heyetlerin konferans süresince Antalya'daki Bakanlığa bağlı müze ve ören yerlerini ücretsiz gezebileceğini açıkladı. BAKAN ERSOY: COP31, ÜLKEMİZİN KÜLTÜREL ZENGİNLİĞİNİ VE TURİZM POTANSİYELİNİ DÜNYAYA TANITMAK İÇİN ÖNEMLİ BİR FIRSAT Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Antalya’nın ev sahipliği yapacağı COP31 için sürdürülebilir turizmden kültürel mirasa, sanat etkinliklerinden iklim okuryazarlığına uzanan kapsamlı bir program hazırladıklarını",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-cop31-katilimcilarina-antalyadaki-muze-ve-oren-yerleri-ucretsiz-olacak-1750096"
+          "title": "İzmir'deki patlamanın görgü tanıkları dehşeti böyle anlattı: Sanki yer kabuğu altımızdan kaydı",
+          "summary": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda meydana gelen patlamada 10 kişi hayatını kaybetti. Patlamanın görgü tanıkları, dehşet anlarını böyle anlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmirdeki-patlamanin-gorgu-taniklari-dehseti-boyle-anlatti-sanki-yer-kabugu-altimizdan-kaydi-43371958"
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan ile Milli Savunma Bakanı Yaşar Güler Ankara'da bir araya geldi",
-          "summary": "Dışişleri Bakanı Hakan Fidan ve Milli Savunma Bakanı Yaşar Güler'in Ankara'da bir görüşme gerçekleştirdiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-ile-milli-savunma-bakani-yasar-guler-ankarada-bir-araya-geldi-43371360"
+          "title": "MHP lideri Bahçeli'den 10 Kasım mesajı",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, 10 Kasım mesajında, \"Atatürk'ü yaşatmanın doğru yolu, eserine sahip çıkmak ve fikirlerini çağın gerçekleriyle yorumlayarak geliştirmektir.\" dedi. MHP Genel Başkanı Devlet Bahçeli, Gazi Mustafa Kemal Atatürk'ün vefatının 88'inci yıl dönümü dolayısıyla yayımladığı mesajda, \"Atatürk'ü yaşatmanın doğru yolu, eserine sahip çıkmak ve onun fikirlerini çağın gerçekleriyle yorumlayarak geliştirmekle imkâna kavuşur\" ifadelerini kullandı.** MHP Genel Başkanı Devlet Bahçeli, Türkiye Cumhuriyet",
+          "source": "https://www.ntv.com.tr/turkiye/mhp-lideri-bahceliden-10-kasim-mesaji-1750156"
         },
         {
-          "title": "Adalet Bakanı Gürlek açıkladı. Fonları denetleyenler de incelenecek",
-          "summary": "Adalet Bakanı Akın Gürlek fonları denetleyenlerin de inceleneceğini belirterek, \"Soruşturma derinleştikçe denetim mekanizmalarına kadar uzanan bağlantılar da araştırılmaktadır.\" dedi. Adalet Bakanı Akın Gürlek; Türkiye Büyük Millet Meclisi (TBMM) Plan ve Bütçe Komisyonu'nda, bakanlığının 2027 bütçesinin sunumunu yaptı. Bakan Gürlek, burada sermaye piyasalarındaki işlemlere ilişkin yürütülen fon soruşturmasına ilişkin açıklama da yaptı.",
-          "source": "https://www.ntv.com.tr/turkiye/adalet-bakani-gurlek-acikladi-fon-sorusturmasinda-464-supheliden-120si-tutuklu-1750085"
+          "title": "İzmir'de demir çelik fabrikasında patlama. Çok sayıda can kaybı var",
+          "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında patlama sonrası yangın çıktı. Olayda 10 kişi hayatını kaybetti, dördü ağır 15 kişi yaralandı. Dört işçi enkaz altında. İzmir'de Aliağa ilçesi Yeni Foça yolu üzerindeki HABAŞ Demir-Çelik Fabrikası'nda öğle saatlerinde patlama meydana geldi. Patlamanın ardından fabrikada yangın çıktı. İhbar üzerine bölgeye sağlık ve itfaiye ekipleri sevk edildi. İzmir Valisi Süleyman Elban, patlamada 10 kişinin hayatını kaybettiğini dördü ağır 15 kişinin de yaralandığını açıkladı.",
+          "source": "https://www.ntv.com.tr/turkiye/izmirde-demir-celik-fabrikasinda-patlama-cok-sayida-can-kaybi-var-1750103"
         },
         {
-          "title": "Şantiyede can pazarı: Kamyonla duvar arasına sıkışan işçi hayatını kaybetti",
-          "summary": "İstanbul’da meydana gelen kazada, inşaat sahasındaki kamyonun sıkıştırdığı işçi Kenan Özkan ağır yaralandı. Olay yerindeki ilk müdahalenin ardından hastaneye ulaştırılan talihsiz işçi doktorların tüm çabasına rağmen vefat etti; şüpheli şoför hakkında adli işlem başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/santiyede-can-pazari-kamyonla-duvar-arasina-sikisan-isci-hayatini-kaybetti-43371329"
+          "title": "''Kısa ve Net'' programı NTV'de başladı",
+          "summary": "Kısa ve Net programı, NTV ekranlarında 17:55'te başladı. Dünya değişiyor... Hatta iklim değişiyor. İklim krizi yüzünden göç etmek zorunda kalabileceğiniz hiç aklınıza geldi mi? Gündemin nabzını tutan, küresel dönüşümleri ve kritik gelişmeleri yerinden aktaran Kısa ve Net, NTV ekiplerinin özel takibiyle COP31 Türkiye zirvesi boyunca yaşananları anbean ekranlarınıza taşıyor. Haberin tam kalbinden, dünyanın değişen yüzünden son gelişmeler…",
+          "source": "https://www.ntv.com.tr/turkiye/kisa-ve-net-programi-ntvde-basladi-1750155"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail'den Lübnan'ın güneyine art arda saldırılar. Fransa'da 2027 seçim yarışı erken başladı. Sağ ve sol partiler anketlerde ilk sırada. NVIDIA CEO'su Huang'ın Çin casusuyla ilişki yaşadığı iddiasına dair yeni gelişme: 'ABD istihbaratı bilgi notu hazırladı'. İsrail'in kurucu Başbakanı Ben-Gurion: Gazze'nin deniz tarafından yutulmasını isterdim. Japonya'dan Filipinler'e radar ve İHA desteği. 2028’in şifreleri çözülüyor! Başkanlık için yeni hesap: Siyasi kulislerde dikkat çeken hareketlilik. Polonya'yı kana bulamıştı: Hastanede hayatını kaybetti.",
+      "text": "İsrail ordusu Suriye'de gazetecilere saldırdı: 1 yaralı. Suriye Yemen'e asker konuşlandırdığı iddiasını yalanladı. Almanya Başbakanı Merz, Ilse Aigner'in cumhurbaşkanı adaylığını açıkladı. Almanya'da iktidar partisi CDU cumhurbaşkanı adayını belirledi. Macaristan'ın eski başbakanı Orban'ın kardeşine gözaltına alındı. Suriye'de mayın patlaması: 3 çocuk hayatını kaybetti. Türkiye'den Mısır'a taziye mesajı.",
       "items": [
         {
-          "title": "İsrail'den Lübnan'ın güneyine art arda saldırılar",
-          "summary": "İsrail ordusu, Lübnan ile ateşkes ve çerçeve anlaşmasını ihlal etti. İsrail birlikleri, Lübnan'ın güneyini hava ve topçu saldırılarıyla hedef aldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilden-lubnanin-guneyine-art-arda-saldirilar-43371420"
+          "title": "İsrail ordusu Suriye'de gazetecilere saldırdı: 1 yaralı",
+          "summary": "İsrail ordusu, Suriye'nin güneyindeki Kuneytra ilinin kırsalında baskını görüntüleyen bir grup gazeteciyi hedef aldı. İsrail askerlerinin ateş açması sonucu 1 kişinin yaralandığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusu-suriyede-gazetecilere-saldirdi-1-yarali-43371902"
         },
         {
-          "title": "Fransa'da 2027 seçim yarışı erken başladı. Sağ ve sol partiler anketlerde ilk sırada",
-          "summary": "Fransa'da yapılan son cumhurbaşkanlığı anketi, aşırı sağcı Marine Le Pen'in birinci turda yüzde 36'ya, solun adayı Jean-Luc Mélenchon'un ise yüzde 19'a kadar ulaştığını gösterdi. Fransa'da 2027 yılında düzenlenecek cumhurbaşkanlığı seçimine yönelik yayımlanan son kamuoyu araştırması, aşırı sağcı Marine Le Pen ile solun önde gelen ismi Jean-Luc Mélenchon'un oy oranlarını artırdığını gösterdi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-fransada-2027-secim-yarisi-erken-basladi-sag-ve-sol-partiler-anketlerde-ilk-sirada-1750094"
+          "title": "Suriye Yemen'e asker konuşlandırdığı iddiasını yalanladı",
+          "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, Suudi Arabistan ile yaptıkları askeri anlaşmanın Yemen'de Suriye güçlerinin konuşlandırılmasını kapsamadığını belirterek, Yemen'de Suriye güçlerinin konuşlandırıldığı iddiasının gerçeği yansıtmadığını belirtti. Şeybani, Suudi Arabistan ile yapılan askeri anlaşmanın, Suriye güçlerinin Yemen'e konuşlandırılmasını içermediğini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriye-yemene-asker-konuslandirdigi-iddiasini-yalanladi-43371874"
         },
         {
-          "title": "NVIDIA CEO'su Huang'ın Çin casusuyla ilişki yaşadığı iddiasına dair yeni gelişme: 'ABD istihbaratı bilgi notu hazırladı'",
-          "summary": "ABD istihbaratının, Nvidia'nın kurucusu ve üst yöneticisi (CEO) Jensen Huang'ın Çin adına casusluk faaliyetleri yürüttüğü tahmin edilen bir kadınla ilişki yaşadığına ilişkin bilgi notu hazırladığı öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/dunya/nvidia-ceosu-huangin-cin-casusuyla-iliski-yasadigi-iddiasina-dair-yeni-gelisme-abd-istihbarati-bilgi-notu-hazirladi-43371348"
+          "title": "Almanya Başbakanı Merz, Ilse Aigner'in cumhurbaşkanı adaylığını açıkladı",
+          "summary": "Almanya Başbakanı Friedrich Merz, Hristiyan Sosyal Birlik (CSU) üyesi Bavyera Eyalet Parlamentosu Başkanı Ilse Aigner'i 2027'de yapılacak cumhurbaşkanlığı seçimlerinde aday gösterdiklerini açıkladı. Almanya'da görev süresi gelecek yıl 18 Mart'ta sona erecek olan Cumhurbaşkanı Frank-Walter Steinmeier'in halefi için önemli bir aşama geride kaldı.",
+          "source": "https://www.ntv.com.tr/dunya/almanya-basbakani-merz-ilse-aignerin-cumhurbaskani-adayligini-acikladi-1750151"
         },
         {
-          "title": "İsrail'in kurucu Başbakanı Ben-Gurion: Gazze'nin deniz tarafından yutulmasını isterdim",
-          "summary": "İsrail kurucu Başbakanı David Ben-Gurion'un, Gazze Şeridi'nin ilhak edilmesine İsrail'in güvenliği açısından itiraz ettiği ve bölge için \"Deniz tarafından yutulmasını isterdim.\" dediği ortaya çıktı. İsrail Savunma Bakanlığı, 1956 Süveyş Krizi sırasında Sina Yarımadası ile Gazze Şeridi'ni işgal ettikleri dönemde başbakanlık görevini yürüten David Ben-Gurion'un açıklamalarını içeren askeri arşivleri yayımladı.",
-          "source": "https://www.ntv.com.tr/dunya/israilin-kurucu-basbakani-ben-gurion-gazzenin-deniz-tarafindan-yutulmasini-isterdim-1750087"
+          "title": "Almanya'da iktidar partisi CDU cumhurbaşkanı adayını belirledi",
+          "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, Bavyera Eyalet Meclisi Başkanı Ilse Aigner’i, resmen cumhurbaşkanı adayı gösterdiğini belirtti. Merz, Ilse Aigner’in Almanya’nın ilk kadın cumhurbaşkanı olabileceğine dikkat çekerek, \"Benim açımdan ilk kez bir kadının bu en yüksek makama gelmesinin vakti çoktan geldi.\" açıklamasını yaptı.",
+          "source": "https://www.hurriyet.com.tr/dunya/almanyada-iktidar-partisi-cdu-cumhurbaskani-adayini-belirledi-43371847"
         },
         {
-          "title": "Japonya'dan Filipinler'e radar ve İHA desteği",
-          "summary": "Japonya'nın güvenlik yardımı kapsamında Filipinler ordusuna, 27 milyon dolar değerinde kıyı radar sistemi ve insansız hava araçları (İHA) tedarik edeceği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/japonyadan-filipinlere-radar-ve-iha-destegi-43371324"
+          "title": "Macaristan'ın eski başbakanı Orban'ın kardeşine gözaltına alındı",
+          "summary": "Macaristan Başbakanı Peter Magyar, selefi Viktor Orban'ın kardeşi Aron Orban'ın insan kaçakçılığı şüphesiyle gözaltına alındığını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/macaristanin-eski-basbakani-orbanin-kardesine-gozaltina-alindi-43371844"
         },
         {
-          "title": "2028’in şifreleri çözülüyor! Başkanlık için yeni hesap: Siyasi kulislerde dikkat çeken hareketlilik",
-          "summary": "ABD'de 2028 başkanlık seçimleri için adaylık hesapları başladı. Cumhuriyetçilerde Trump sonrası dönemin nasıl şekilleneceği tartışılırken Demokratlarda da birden fazla isim öne çıkıyor. Gözler şimdi iki partinin adaylık yarışına çevrildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-2028-hesaplari-basladi-trumptan-sonra-kim-baskan-olacak-vance-mi-harris-mi-43370584"
+          "title": "Suriye'de mayın patlaması: 3 çocuk hayatını kaybetti",
+          "summary": "Suriye'nin Humus ili kırsalında hayvan otlatılan bölgede mayın patlaması meydana geldi. Olayda 3 çocuğun yaşamını yitirdiği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suriyede-mayin-patlamasi-3-cocuk-hayatini-kaybetti-43371825"
         },
         {
-          "title": "Polonya'yı kana bulamıştı: Hastanede hayatını kaybetti",
-          "summary": "Polonya'nın Krakow kentinde düzenlediği silahlı saldırıda 6 kişiyi öldüren, 15 kişiyi yaralayan Michal Oksinski, tedavi gördüğü hastanede hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/polonyayi-kana-bulamisti-hastanede-hayatini-kaybetti-43371270"
+          "title": "Türkiye'den Mısır'a taziye mesajı",
+          "summary": "Dışişleri Bakanlığı, Mısır'ın Giza vilayetindeki tren kazasında yaşamını yitirenler için taziye mesajı paylaştı.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiyeden-misira-taziye-mesaji-43371812"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Bayern Münih'ten Jamal Musiala açıklaması: 'İkilem içindeyiz!'. Fenerbahçe'de devrim gibi değişim! 5 maddede Emre Belözoğlu. Galatasaray'da zemin alarmı! Oyuncular da rahatsız. Gaziantep FK, Süper Lig'deki en kötü 11 maçlık başlangıcını yaptı. Pistons'ı deviren Lakers'tan üst üste 5. galibiyet!. Arda Turan beraberlik sonrası açıkladı: 'Oyuncularımın bu davranışından mutsuzum!'. Galatasaray'ın eski yıldızı Noa Lang, Napoli'de kriz çıkardı! Taraftarla tartıştı, ocakta yolcu.",
+      "text": "Jose Mourinho, La Liga'da ayın teknik direktörü oldu!. Hidayet Türkoğlu: 'Yönetim olarak kadınlarımıza her anlamda güveniyoruz'. Lucas Torreira'dan Boca Juniors açıklaması!. Emre Belözoğlu'dan karar! Asensio-İrfan Can Kahveci formülü. Real Madrid efsanesinden Arda Güler'e övgü: 'Olağanüstü bir vizyonu, karar verme yeteneği ve top kontrolü var!'. Vlahovic, Sırbistan Milli Takımı'na gitmeyecek!. Olimpiyat şampiyonu judocu Teddy Riner, Fransa cumhurbaşkanlığına adaylığını açıkladı.",
       "items": [
         {
-          "title": "Bayern Münih'ten Jamal Musiala açıklaması: 'İkilem içindeyiz!'",
-          "summary": "Bayern Münih Onursal Başkanı Uli Hoeneß, Jamal Musiala'nın sağlık durumuna ilişkin konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bayern-munihten-jamal-musiala-aciklamasi-ikilem-icindeyiz-43371347"
+          "title": "Jose Mourinho, La Liga'da ayın teknik direktörü oldu!",
+          "summary": "Real Madrid Teknik Direktörü Jose Mourinho, 2026/27 sezonunda LaLiga ekim ayının en iyi teknik direktörü ödülünün sahibi oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/jose-mourinho-la-ligada-ayin-teknik-direktoru-oldu-43371984"
         },
         {
-          "title": "Fenerbahçe'de devrim gibi değişim! 5 maddede Emre Belözoğlu",
-          "summary": "Fenerbahçe'deki yeni kariyerine 5-0 gibi dev bir galibiyetle başlayan Emre Belözoğlu'nun 5 maddede yarattğı fark ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-devrim-gibi-degisim-5-maddede-emre-belozoglu-43371317"
+          "title": "Hidayet Türkoğlu: 'Yönetim olarak kadınlarımıza her anlamda güveniyoruz'",
+          "summary": "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, FIBA 2027 Kadınlar EuroBasket Elemeleri'nde mücadele edeccek olan A Milli Kadın Basketbol Takımı için, \"Yönetim olarak kadınlarımıza her anlamda güveniyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/hidayet-turkoglu-yonetim-olarak-kadinlarimiza-her-anlamda-guveniyoruz-43371945"
         },
         {
-          "title": "Galatasaray'da zemin alarmı! Oyuncular da rahatsız",
-          "summary": "RAMS Park’ın tartışılan zemini için Milli arada yoğun çalışma yapılacak. Futbolcuların da durumundan rahatsız olduğu saha konusunda Galatasaray cephesi yanlış çim serildiğini ileri sürerken, uygulamayı yapan firma bu iddiayı kabul etmiyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-zemin-alarmi-oyuncular-da-rahatsiz-43371001"
+          "title": "Lucas Torreira'dan Boca Juniors açıklaması!",
+          "summary": "Galatasaray'ın orta saha oyuncusu Lucas Torreira, zaman zaman isminin geçtiği Boca Juniors hakkında açıklama yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lucas-torreiradan-boca-juniors-aciklamasi-43371942"
         },
         {
-          "title": "Gaziantep FK, Süper Lig'deki en kötü 11 maçlık başlangıcını yaptı",
-          "summary": "Süper Lig'de 8. sezonunu geçiren Gaziantep FK, ilk 11 maçta topladığı 8 puanla lig tarihindeki en kötü başlangıcını yaparak küme düşme hattına geriledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gaziantep-fk-super-ligdeki-en-kotu-11-maclik-baslangicini-yapti-43371254"
+          "title": "Emre Belözoğlu'dan karar! Asensio-İrfan Can Kahveci formülü",
+          "summary": "Fenerbahçe'nin çiçeği burnunda teknik direktörü Emre Belözoğlu'nun Asensio ve İrfan Can Kahveci plan belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozlogludan-karar-asensio-irfan-can-kahveci-formulu-43371548"
         },
         {
-          "title": "Pistons'ı deviren Lakers'tan üst üste 5. galibiyet!",
-          "summary": "NBA'de Los Angeles Lakers, deplasmanda Detroit Pistons'ı 121-116 yendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pistonsi-deviren-lakerstan-ust-uste-5-galibiyet-43371216"
+          "title": "Real Madrid efsanesinden Arda Güler'e övgü: 'Olağanüstü bir vizyonu, karar verme yeteneği ve top kontrolü var!'",
+          "summary": "Real Madrid'in bu sezonki en göze çarpan isimlerinden olan milli futbolcu Arda Güler, eflatun-beyazlı kulübün efsanelerinden Jorge Valdano'dan övgü aldı. Arjantinli futbol adamı, 'Arda Güler, Real Madrid’in oyununda olağanüstü bir etki yaratıyor' ifadelerini kullandı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-efsanesinden-arda-gulere-ovgu-olaganustu-bir-vizyon-karar-verme-yetenegi-ve-top-kontrolu-var-43371824"
         },
         {
-          "title": "Arda Turan beraberlik sonrası açıkladı: 'Oyuncularımın bu davranışından mutsuzum!'",
-          "summary": "Ukrayna Premier Ligi'nin 12. haftasında Shakhtar Donetsk, sahasında Dinamo Kiev'le karşılaştığı derbide 0-0 berabere kaldı. Arda Turan, karşılaşma sonrası açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-turan-beraberlik-sonrasi-acikladi-oyuncularimin-bu-davranisindan-mutsuzum-43371165"
+          "title": "Vlahovic, Sırbistan Milli Takımı'na gitmeyecek!",
+          "summary": "Beşiktaş'ın golcü oyuncusu Dusan Vlahovic özel durumunu gerekçe göstererek Sırbistan Milli Takımı'na gitmeyecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vlahovic-sirbistan-milli-takimina-gitmeyecek-43371850"
         },
         {
-          "title": "Galatasaray'ın eski yıldızı Noa Lang, Napoli'de kriz çıkardı! Taraftarla tartıştı, ocakta yolcu",
-          "summary": "Geçtiğimiz sezonun 2. yarısında Galatasaray'da forma giyen Noa Lang, Napoli ile iplerini kopardı. Holladalı futbolcu taraftarlarla tartışırken, ocak ayında ayrılığı bekleniyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-eski-yildizi-noa-lang-napolide-kriz-cikardi-taraftarla-tartisti-ocakta-yolcu-43371162"
+          "title": "Olimpiyat şampiyonu judocu Teddy Riner, Fransa cumhurbaşkanlığına adaylığını açıkladı",
+          "summary": "Fransa'nın olimpiyat şampiyonu milli sporcusu Teddy Riner, ülkede gelecek yıl yapılacak cumhurbaşkanı seçiminde aday olduğunu duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/olimpiyat-sampiyonu-judocu-teddy-riner-fransa-cumhurbaskanligina-adayligini-acikladi-43371764"
         }
       ]
     },
