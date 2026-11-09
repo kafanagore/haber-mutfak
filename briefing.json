@@ -1,25 +1,15 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-08T16:00:06.283Z",
+  "generatedAt": "2026-11-09T04:00:03.988Z",
   "categories": {
     "gundem": {
-      "text": "MSB: Dostluk Denizi-2026 Tatbikatı, Mısır'ın ev sahipliğinde İskenderiye'de yapıldı. Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''. Cumhurbaşkanı Erdoğan, Hocalı Soykırım Anıtı'nı ziyaret etti. Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı. Cumhurbaşkanı Erdoğan, Azerbaycan'da onuruna verilen yemeğe katıldı. Sosyal medyada yeni tehlike! Slime akımına uzman uyarısı. Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın elinden sağ kurtulan çift konuştu.",
+      "text": "Çocuklarda gribe bağlı ilk ölüm bildirildi! Bu sene virüs daha mı tehlikeli? Uzmanlardan hayat kurtaran ‘kırmızı bayrak’ uyarıları. Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı. YENİ Parti'de genel başkanlık ön seçimi tamamlandı: Özgür Özel, geçerli oyların tamamını aldı. Minibüsle, otomobil çarpıştı; 1 ölü, 4 yaralı. Cumhurbaşkanı Erdoğan’dan Azerbaycan ziyaretine ilişkin paylaşım. Galata Kulesi ve 15 Temmuz Şehitler Köprüsü, Azerbaycan bayrağının renkleriyle aydınlatıldı. Kayseri’de 3.2 büyüklüğünde deprem.",
       "items": [
         {
-          "title": "MSB: Dostluk Denizi-2026 Tatbikatı, Mısır'ın ev sahipliğinde İskenderiye'de yapıldı",
-          "summary": "Milli Savunma Bakanlığı (MSB), ‘Dostluk Denizi-2026 Tatbikatı’nın Mısır ev sahipliğinde İskenderiye’de gerçekleştirildiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/msb-dostluk-denizi-2026-tatbikati-misirin-ev-sahipliginde-iskenderiyede-yapildi-43370732"
-        },
-        {
-          "title": "Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''",
-          "summary": "Türkiye ve Irak'ın ortak açıklamasında Türkiye'nin Başika-Zilikan askeri yerleşkesini Irak hükümetine kademeli olarak devretmek üzere adım atmaya başlayacağı bildirildi. Cumhurbaşkanlığı İletişim Başkanlığı tarafından yayımlanan Türkiye-Irak ortak basın açıklamasında, iki ülke arasında güvenlik iş birliği kapsamında alınan yeni kararlar kamuoyuyla paylaşıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996"
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan, Hocalı Soykırım Anıtı'nı ziyaret etti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Hocalı Soykırım Anıtı ile Hankendi Zafer Anıtı'na ziyarette bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-hocali-soykirim-anitini-ziyaret-etti-43370711"
+          "title": "Çocuklarda gribe bağlı ilk ölüm bildirildi! Bu sene virüs daha mı tehlikeli? Uzmanlardan hayat kurtaran ‘kırmızı bayrak’ uyarıları",
+          "summary": "2026-2027 grip sezonunda çocuklarda gribe bağlı ilk ölüm vakası, ABD Hastalık Kontrol ve Önleme Merkezleri (CDC) tarafından Ekim 2026'da raporlandı. Erken başlayan ve H1N1 virüsünün baskın olduğu bu yeni sezondaki ilk çocuk ölümü vakası Colorado eyaletinde resmi olarak onaylandı. Hemen ardından ise bir çocuk ölüm vakası daha bildirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/cocuklarda-gribe-bagli-ilk-olum-bildirildi-bu-sene-virus-daha-mi-tehlikeli-uzmanlardan-hayat-kurtaran-kirmizi-bayrak-uyarilari-43367956"
         },
         {
           "title": "Fon soruşturmasında yeni gelişme. BDDK 3. Daire Başkanı Bilal Soysal tutuklandı",
@@ -27,59 +17,69 @@
           "source": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'da onuruna verilen yemeğe katıldı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 8 Kasım Zafer Günü dolayısıyla ziyaret ettiği Azerbaycan'da onuruna verilen akşam yemeğine katıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-azerbaycanda-onuruna-verilen-yemege-katildi-43370687"
+          "title": "YENİ Parti'de genel başkanlık ön seçimi tamamlandı: Özgür Özel, geçerli oyların tamamını aldı",
+          "summary": "YENİ Parti'de 639 bin 454 üyenin oy kullandığı genel başkanlık ön seçimi tamamlandı. Seçimde Genel Başkan Özgür Özel, geçerli oyların tamamını aldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/yeni-partide-genel-baskanlik-on-secimi-tamamlandi-ozgur-ozel-gecerli-oylarin-tamamini-aldi-43370936"
         },
         {
-          "title": "Sosyal medyada yeni tehlike! Slime akımına uzman uyarısı",
-          "summary": "Sosyal medyada izlenme ve bağış toplamak amacıyla saatlerce slime ile temas eden içerik üreticileri dikkat çekiyor. Boraks, tutkal ve çeşitli kimyasallar içerebilen bu karışımların cilt üzerindeki etkilerini Hürriyet'e değerlendiren Dermatoloji Uzmanı Doç. Dr. Elif Afacan Yıldırım, uzun süreli temasın egzama, tahriş ve ciltte yaralara yol açabileceği konusunda uyardı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sosyal-medyada-yeni-tehlike-slime-akimina-uzman-uyarisi-43370652"
+          "title": "Minibüsle, otomobil çarpıştı; 1 ölü, 4 yaralı",
+          "summary": "Kütahya’da minibüs, ara sokaktan çıkan otomobile ve park halindeki 2 araca çarptı. Kazada otomobil sürücüsü Bahadır Gülmez hayatını kaybederken, 4 kişi de yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/minibusle-otomobil-carpisti-1-olu-4-yarali-43370934"
         },
         {
-          "title": "Kaza sandılar, namluyla karşılaştılar: 8 kişiyi öldüren saldırganın elinden sağ kurtulan çift konuştu",
-          "summary": "Afyonkarahisar'daki saldırgan Arif Sefa Özdemir tarafından silah zoruyla aracı gasbedilen Kasım Kırcı, yaşadıkları korku dolu dakikaları paylaştı. Çarpmanın ardından indiklerinde namluyla karşılaştıklarını ve duvar kenarına geçmelerinin söylendiğini aktaran Kırcı, şüphelinin 2 kadın öğretmeni ve diğer kurbanları vurduğunu emniyet güçlerinden öğrendiklerini ifade etti. Kırcı, \"Duyan komşular sanki hacdan ya da umreden gelmişiz gibi ziyaret ediyor.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kaza-sandilar-namluyla-karsilastilar-8-kisiyi-olduren-saldirganin-elinden-sag-kurtulan-cift-konustu-43370643"
+          "title": "Cumhurbaşkanı Erdoğan’dan Azerbaycan ziyaretine ilişkin paylaşım",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan temaslarına ilişkin sanal medya hesabından paylaşımda bulundu. Cumhurbaşkanı Recep Tayyip Erdoğan 8 Kasım Zafer Günü için gittiği Azerbaycan'da mevkidaşı İlham Aliyev ile görüştü. Liderler görüşme sonrası düzenledikleri basın toplantısında birlik mesajları verdi.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogandan-azerbaycan-ziyaretine-iliskin-paylasim-1750014"
+        },
+        {
+          "title": "Galata Kulesi ve 15 Temmuz Şehitler Köprüsü, Azerbaycan bayrağının renkleriyle aydınlatıldı",
+          "summary": "Galata Kulesi ve 15 Temmuz Şehitler Köprüsü, Karabağ Zaferi'nin 6'ncı yıl dönümü nedeniyle Azerbaycan bayrağının renkleri ile aydınlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/galata-kulesi-ve-15-temmuz-sehitler-koprusu-azerbaycan-bayraginin-renkleriyle-aydinlatildi-43370827"
+        },
+        {
+          "title": "Kayseri’de 3.2 büyüklüğünde deprem",
+          "summary": "Kayseri’nin Yahyalı ilçesinde 3.2 büyüklüğünde deprem meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kayseride-3-2-buyuklugunde-deprem-43370804"
         }
       ]
     },
     "dunya": {
-      "text": "Senegal'de can pazarı: 34 göçmen yaşamını yitirdi. Musluk suyunda gizlenen tehlike!. Mısır'da yolcu treni raydan çıktı: Onlarca kişi yaralandı. Cumhurbaşkanı Erdoğan Azerbaycan'da. \"Kardeşliğimizi zayıflatmak isteyenler emellerine ulaşamayacak\". Zelenski'den dikkat çeken açıklama: Rus saldırıları arttı. İran'dan Hürmüz uyarısı: 'Mayınlar bekliyor'. İsrailli Bakan Katz'dan İran'a saldırı tehdidi.",
+      "text": "Teknoloji devinde casusluk skandalı. CEO'ya soruşturma. ABD Hürmüz'ü mü vurdu? Keşm Adası'nda patlama sesleri. Mısır’da iki yolcu treni çarpıştı: 7 ölü, 125 yaralı. Nvidia, CEO'su Huang'ın yabancı istihbaratın hedefi olduğu haberleri üzerine soruşturma başlatıyor. Fransa, Avrupa'nın Abu Dabi'deki Rusya-Ukrayna müzakerelerinde masada olacağını açıkladı. Arakçi: ABD ile görüşmelerde ilerleme kaydedilmedi. Trump'tan seçim sonrası kritik İran açıklaması: Anlaşma sağlanırsa yeni saldırı olmayacak.",
       "items": [
         {
-          "title": "Senegal'de can pazarı: 34 göçmen yaşamını yitirdi",
-          "summary": "Senegal'in kuzeyinde düzensiz göçmenleri taşıyan teknenin alabora olması sonucu 34 kişi hayatını kaybetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/senegalde-can-pazari-34-gocmen-yasamini-yitirdi-43370669"
+          "title": "Teknoloji devinde casusluk skandalı. CEO'ya soruşturma",
+          "summary": "Nvidia, CEO Jensen Huang'ın ilişki yaşadığı kadının Çin'e istihbarat sızdırdığı iddiasıyla sarsıldı. Huang eşini aldattığını doğruladı, özür diledi. Şirket casusluk iddiasına soruşturma başlattı. Geçen yıl piyasa değeri 5 trilyon doları aşan dünyadaki ilk şirket olan ABD'li çip üreticisi Nvidia casusluk skandalıyla sarsıldı.",
+          "source": "https://www.ntv.com.tr/dunya/teknoloji-devinde-casusluk-skandali-ceoya-sorusturma-1750032"
         },
         {
-          "title": "Musluk suyunda gizlenen tehlike!",
-          "summary": "ABD'nin Louisiana eyaletinde musluk suyunda da bulunabilen Akantamoeba Keratiti adlı mikroskobik organizmayla bağlantılı 10 enfeksiyon vakası tespit edildi. Beş kişinin kalıcı görme kaybı yaşadığı, bir kişinin ise hayatını kaybettiği olayların ardından sağlık yetkilileri özellikle kontakt lens ve burun temizliğinde musluk suyu kullanılmaması konusunda uyardı.",
-          "source": "https://www.hurriyet.com.tr/dunya/musluk-suyunda-gizlenen-tehlike-43370662"
+          "title": "ABD Hürmüz'ü mü vurdu? Keşm Adası'nda patlama sesleri",
+          "summary": "Savaşın bitirilmesi için diplomatik çabalar sürerken, ABD Başkanı Donald Trump'ın \"38 köprüyü vururuz\" tehdidinin ardından Hürmüz Boğazı'ndan patlama sesleri yükseldi. İran'ın resmi haber ajansı IRNA'da yer alan habere göre, güneyinde Hürmüz Boğazı'na yakın Keşm Adası'nda dört patlama sesi duyuldu. Haberde, patlama seslerinin nedeninin bilinmediği ancak adanın bazı bölümlerinin vurulmuş olabileceği belirtildi. İran makamlarından henüz bir açıklama yapılmadı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-hurmuzu-mu-vurdu-kesm-adasinda-patlama-sesleri-1750031"
         },
         {
-          "title": "Mısır'da yolcu treni raydan çıktı: Onlarca kişi yaralandı",
-          "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde tren kazası meydana geldi. Kazada ilk belirlemelere göre 64 kişinin yaralandığı bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/misirda-yolcu-treni-raydan-cikti-onlarca-kisi-yaralandi-43370639"
+          "title": "Mısır’da iki yolcu treni çarpıştı: 7 ölü, 125 yaralı",
+          "summary": "Mısır’ın Gize vilayetinde iki yolcu treninin çarpışması sonucu meydana gelen kazada 7 kişi hayatını kaybetti, 125 kişi yaralandı. Mısır’ın Gize vilayetinde iki yolcu treninin karıştığı kaza paniğe neden oldu. Kahire’nin yaklaşık 76 kilometre güneyinde meydana gelen kazada 7 kişi hayatını kaybederken, 125 kişi yaralandı. Demir yolu yetkilileri, Gize-Fayoum seferini yapan trenin Kahire-Aswan seferini gerçekleştiren trene arkadan çarptığını ve çarpışmanın etkisiyle bazı vagonların raydan çıktığını bildirdi.",
+          "source": "https://www.ntv.com.tr/dunya/misirda-iki-yolcu-treni-carpisti-4-olu-88-yarali-1750003"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan Azerbaycan'da. \"Kardeşliğimizi zayıflatmak isteyenler emellerine ulaşamayacak\"",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan 8 Kasım Zafer Günü için gittiği Azerbaycan'da mevkidaşı İlham Aliyev ile görüştü. Liderler görüşme sonrası düzenledikleri basın toplantısında birlik mesajları verdi. ERDOĞAN: GÖNÜL BİRLİĞİMİZ YARINLARIMIZA IŞIK TUTAN SÖNMEZ BİR MEŞALEDİR Azerbaycan'ın 8 Kasım Zafer Günü için Karabağ'a giden Cumhurbaşkanı Recep Tayyip Erdoğan ve Azerbaycan Cumhurbaşkanı İlham Aliyev, Şuşa'daki ikili görüşmenin ardından ortak basın toplantısı düzenledi. Karabağ Zaferi'nin 6.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-cumhurbaskani-erdogan-ve-aliyevden-ortak-aciklama-1749932"
+          "title": "Nvidia, CEO'su Huang'ın yabancı istihbaratın hedefi olduğu haberleri üzerine soruşturma başlatıyor",
+          "summary": "ABD'li çip üreticisi Nvidia, şirketin kurucusu ve üst yöneticisi (CEO) Jensen Huang'ın yabancı istihbarat faaliyetinin hedefi olduğuna ilişkin haberlerin ardından bağımsız soruşturma başlatacağını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/dunya/nvidia-ceosu-huangin-yabanci-istihbaratin-hedefi-oldugu-haberleri-uzerine-sorusturma-baslatiyor-43370927"
         },
         {
-          "title": "Zelenski'den dikkat çeken açıklama: Rus saldırıları arttı",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun son bir haftada ülkesine yönelik saldırılarda 115 füze, 1900'e yakın güdümlü bomba ve 3 binden fazla insansız hava aracı (İHA) kullandığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/zelenskiden-dikkat-ceken-aciklama-rus-saldirilari-artti-43370574"
+          "title": "Fransa, Avrupa'nın Abu Dabi'deki Rusya-Ukrayna müzakerelerinde masada olacağını açıkladı",
+          "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında ABD arabuluculuğunda yapılacak müzakerelerde Avrupa'nın da Barrot, RTL radyosunda, Avrupa'nın 10-11 Kasım'daki müzakerelerde temsil edilip edilmeyeceği sorusunu yanıtladı. Avrupa ve Fransa'nın görüşmelere katılmak üzere Abu Dabi'de bulunacağını vurgulayan Barrot, \"Fransa'yı bu toplantıda kimin temsil edeceğini henüz söyleyemem ancak Fransa kesinlikle orada olacak.\" dedi.",
+          "source": "https://www.ntv.com.tr/dunya/fransa-avrupanin-abu-dabideki-rusya-ukrayna-muzakerelerinde-masada-olacagini-acikladi-1750023"
         },
         {
-          "title": "İran'dan Hürmüz uyarısı: 'Mayınlar bekliyor'",
-          "summary": "İran Devrim Muhafızları Ordusu Sözcüsü Hüseyin Muhibbi, Hürmüz Boğazı'nda \"mayınların beklediğini\" belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/irandan-hurmuz-uyarisi-mayinlar-bekliyor-43370550"
+          "title": "Arakçi: ABD ile görüşmelerde ilerleme kaydedilmedi",
+          "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD-İran arasındaki temaslarda savaşın sonlandırılmasına yönelik herhangi bir ilerleme kaydedilmediğini belirterek, \"Bunun ana sebebi, ABD’de açık bir şekilde herkesi hayrete düşüren seçim sonuçları. Durumun yatışması ve arabulucuların ziyaretlerini sürdürebileceği uygun atmosferin oluşması için biraz zaman geçmesi gerekiyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/arakci-abd-ile-gorusmelerde-ilerleme-kaydedilmedi-43370860"
         },
         {
-          "title": "İsrailli Bakan Katz'dan İran'a saldırı tehdidi",
-          "summary": "İsrail Savunma Bakanı Yisrael Katz, Tahran yönetimiyle işlerinin henüz bitmediğini ifade ederek İran'ı yeni saldırılarla vuracakları tehdidinde bulundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilli-bakan-katzdan-irana-saldiri-tehdidi-43370509"
+          "title": "Trump'tan seçim sonrası kritik İran açıklaması: Anlaşma sağlanırsa yeni saldırı olmayacak",
+          "summary": "ABD basınında yer alan haberlere göre ABD Başkanı Donald Trump, Tahran-Washington arasında çatışmayı sonlandırmaya yönelik görüşmeler ilerlediği sürece İran’a yeni saldırılar düzenlenmesi ihtimalinin düşük olduğunu söyledi. Trump, \"Bu durum, son derece güçlü bir anlaşma imzalayıp imzalamayacaklarına bağlı. Cevap şu ki, büyük ihtimalle yeni saldırılara gerek kalmayacak\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-secimler-sonrasi-kritik-iran-aciklamasi-anlasma-saglanirsa-yeni-saldiri-olmayacak-43370844"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Burak Yılmaz: '5-0'ın açıklaması yok, suçlu benim!'. Emre Belözoğlu'ndan galibiyet yorumu: 'Tek kelimeyle mükemmel'. İrfan Can Kahveci'den 200. maçına damga! Greenwood, Emre Belözoğlu ile yeniden coştu. Eczacıbaşı, Göztepe'ye set vermedi!. Suat Maden: 'İç saha maçında da bunun telafisini yapacağız!'. Recep Uçar: '3 puandan da öte önemli bir galibiyet!'. Derbide kazanan Galatasaray Daikin!.",
+      "text": "Atletico Madrid 1-2 Barcelona (İspanya LaLiga). Erdoğan Demirören Golf Cup 2026’da anlamlı buluşma. Bernd Stock: 'Beşiktaş'ı tebrik etmek lazım!'. Vlahovic'ten Trossard'a övgü!. Vincenzo Italiano: 'Deplasman problemini çözeceğiz'. Galatasaray efsanesi Cevad Prekazi hayatını kaybetti!. Beşiktaş'a Orkun Kökçü'den kötü haber!.",
       "items": [
         {
-          "title": "Burak Yılmaz: '5-0'ın açıklaması yok, suçlu benim!'",
-          "summary": "Çorum FK Teknik Direktörü Burak Yılmaz, Fenerbahçe yenilgisinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-5-0in-aciklamasi-yok-suclu-benim-43370704"
+          "title": "Atletico Madrid 1-2 Barcelona (İspanya LaLiga)",
+          "summary": "Barcelona, İspanya LaLiga'nın 12. haftasında Atletico Madrid'i deplasmanda geriden gelerek 2-1 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/atletico-madrid-1-2-barcelona-ispanya-laliga-43370917"
         },
         {
-          "title": "Emre Belözoğlu'ndan galibiyet yorumu: 'Tek kelimeyle mükemmel'",
-          "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, Çorum FK'yı 5-0 mağlup ettikleri maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglundan-galibiyet-yorumu-tek-kelimeyle-mukemmel-43370718"
+          "title": "Erdoğan Demirören Golf Cup 2026’da anlamlı buluşma",
+          "summary": "Türk iş dünyasının önde gelen isimlerinden, Demirören Holding’in Kurucusu ve Kemer Country Club Başkanı merhum Erdoğan Demirören’in anısını yaşatmak amacıyla düzenlenen Erdoğan Demirören Golf Cup 2026, 6-8 Kasım tarihleri arasında 216 golfçünün katılımıyla gerçekleştirildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/erdogan-demiroren-golf-cup-2026da-anlamli-bulusma-43370900"
         },
         {
-          "title": "İrfan Can Kahveci'den 200. maçına damga! Greenwood, Emre Belözoğlu ile yeniden coştu",
-          "summary": "Trendyol Süper Lig'de deplasmanda Çorum FK'yı 5-0 mağlup eden Fenerbahçe, milli araya galibiyetle girdi. Emre Belözoğlu yönetiminde çıktığı ilk maçta farklı bir şekilde 3 puanın sahibi olan sarı-lacivertlilerde İrfan Can Kahveci ve Mason Greenwood, attıkları 2'şer golle ön plana çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-200-macina-damga-greenwood-emre-belozoglu-ile-yeniden-costu-43370688"
+          "title": "Bernd Stock: 'Beşiktaş'ı tebrik etmek lazım!'",
+          "summary": "Gençlerbirliği Teknik Direktörü Bernd Stock, Beşiktaş’ın üst seviyede bir takım olduğunu ve galibiyeti hak ettiğini söyledi. Stock, amaçlarının milli aradan sonra oynayacakları Gaziantep FK maçını kazanmak olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bernd-stock-besiktasi-tebrik-etmek-lazim-43370893"
         },
         {
-          "title": "Eczacıbaşı, Göztepe'ye set vermedi!",
-          "summary": "Sultanlar Ligi'nin 8. haftasında Eczacıbaşı, sahasında Göztepe'yi 3-0 yendi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/eczacibasi-goztepeye-set-vermedi-43370647"
+          "title": "Vlahovic'ten Trossard'a övgü!",
+          "summary": "Beşiktaş'ta Emmanuel Agbadou, Leandro Trossard ve Dusan Vlahovic, Gençlerbirliği maçının ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vlahovicten-trossarda-ovgu-43370884"
         },
         {
-          "title": "Suat Maden: 'İç saha maçında da bunun telafisini yapacağız!'",
-          "summary": "Erzurumspor FK Teknik Sorumlusu Suat Maden \"Kaybettiğinde de vazgeçmeyen bir Erzurumspor takımı oluşturma hedefindeydik. Bugün o reaksiyonu gösterdik. İnşallah iç saha maçında da bunun telafisini yapacağız\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/suat-maden-ic-saha-macinda-da-bunun-telafisini-yapacagiz-43370642"
+          "title": "Vincenzo Italiano: 'Deplasman problemini çözeceğiz'",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Gençlerbirliği'ni 3-0 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-deplasman-problemini-cozecegiz-43370874"
         },
         {
-          "title": "Recep Uçar: '3 puandan da öte önemli bir galibiyet!'",
-          "summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar \"Bugün itibarıyla inşallah bunun da yeni başlayacak güzel bir hikâyenin başlangıç kıvılcımı olmasını ümit ediyorum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/recep-ucar-3-puandan-da-ote-onemli-bir-galibiyet-43370622"
+          "title": "Galatasaray efsanesi Cevad Prekazi hayatını kaybetti!",
+          "summary": "Galatasaray'ın eski futbolcularından ve kulüp tarihinin unutulmaz isimlerinden Cevad Prekazi, hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-efsanesi-cevad-prekazi-hayatini-kaybetti-43370847"
         },
         {
-          "title": "Derbide kazanan Galatasaray Daikin!",
-          "summary": "Sultanlar Ligi'nin 8. haftasında Galatasaray Daikin, Beşiktaş'ı 3-1 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/derbide-kazanan-galatasaray-daikin-43370573"
+          "title": "Beşiktaş'a Orkun Kökçü'den kötü haber!",
+          "summary": "Trendyol Süper Lig'in 11. haftasında evinde Gençlerbirliği'ni ağırlayan Beşiktaş'ta Orkun Kökçü, gördüğü sarı kartın ardından cezalı duruma düştü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-orkun-kokcuden-kotu-haber-43370845"
         }
       ]
     },
