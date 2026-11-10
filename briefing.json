@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-09T16:00:03.792Z",
+  "generatedAt": "2026-11-10T04:00:06.030Z",
   "categories": {
     "gundem": {
-      "text": "Cumhurbaşkanı Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti. SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı. Fon soruşturmasında Ömer Murat Gülkan gözaltına alındı. İzmir'deki patlamanın görgü tanıkları dehşeti böyle anlattı: Sanki yer kabuğu altımızdan kaydı. MHP lideri Bahçeli'den 10 Kasım mesajı. İzmir'de demir çelik fabrikasında patlama. Çok sayıda can kaybı var. ''Kısa ve Net'' programı NTV'de başladı.",
+      "text": "İzmir'de bir çiftçi tarlasına traktörle \"10 Kasım\" yazdı. ABD Başkanı Trump: Savaşın bitişine dair olumluyuz. COP31 alanında binlerce dronla gösteri. Bakan Gürlek'ten Adalet Bakanlığı bütçesinin kabulüne ilişkin açıklama. Adalet Bakanı Gürlek, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı. Cumhurbaşkanı Erdoğan: Süreci dikkatle ilerletiyoruz. Bakan Kurum'dan COP31 açıklaması: İsrail'e davet göndermedik.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti. Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'de çeşitli temaslarda bulunan Apple Yönetim Kurulu Başkanı Tim Cook ile Ankara'da bir araya geldi. Cumhurbaşkanlığı Külliyesi'nde basına kapalı gerçekleştirilen kabulden fotoğraf paylaşıldı. Apple'ın eski CEO'su ve mevcut Yönetim Kurulu Başkanı Tim Cook, dün İstanbul'a gelerek çeşitli ziyaretlerde bulundu.",
-          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-tim-cooku-kabul-etti-1750158"
+          "title": "İzmir'de bir çiftçi tarlasına traktörle \"10 Kasım\" yazdı",
+          "summary": "İzmir'in Tire ilçesinde bir çiftçi, tarlasına büyük harflerle \"10 Kasım\" yazdı. Mahmutlar Mahallesi'nde çiftçilik yapan Mustafa Sezen, Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yılı dolayısıyla traktörünün pulluğuyla tarlasına \"10 Kasım\" yazdı. Sezen'in tarlasındaki yazı, dronla da görüntülendi. Sosyal medyada paylaşılan görüntü büyük beğeni topladı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-izmirde-bir-ciftci-tarlasina-traktorle-10-kasim-yazdi-1750179"
         },
         {
-          "title": "SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı",
-          "summary": "Sermaye Piyasası Kurulu (SPK), fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarıda bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari-43371973"
+          "title": "ABD Başkanı Trump: Savaşın bitişine dair olumluyuz",
+          "summary": "Katar Başbakanı El Sani ile görüşen ABD Başkanı Donald Trump, \"Görüşme mükemmel geçti, çatışmanın sona ermesine dair olumlu bir ivme görüyoruz.\" dedi. ABD başkanı Trump, sosyal medya platformu Truth Social üzerinden açıklama yaptı. Amerikan basını ABD Başkanı'nın ilk kez, \"savaşın bitişine dair olumlu bir ivme görüyoruz\" ifadelerini kullandığına dikkat çekti. Trump, \"Amerika Birleşik Devletleri hazır ve tetikte. Ancak şu anda bu ihtimal oldukça düşük görünüyor.\" dedi.",
+          "source": "https://www.ntv.com.tr/turkiye/abd-baskani-trump-savasin-bitisine-dair-olumluyuz-1750175"
         },
         {
-          "title": "Fon soruşturmasında Ömer Murat Gülkan gözaltına alındı",
-          "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında OMG Capital Advisors Yönetim Kurulu Başkanı Ömer Murat Gülkan gözaltına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-omer-murat-gulkan-gozaltina-alindi-43371965"
+          "title": "COP31 alanında binlerce dronla gösteri",
+          "summary": "Türkiye’nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi’nin 31’inci Taraflar Konferansı (COP31) için binlerce dronla gösteri düzenlendi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-cop31-alaninda-binlerce-dronla-gosteri-1750174"
         },
         {
-          "title": "İzmir'deki patlamanın görgü tanıkları dehşeti böyle anlattı: Sanki yer kabuğu altımızdan kaydı",
-          "summary": "İzmir'de Aliağa HABAŞ Demir-Çelik Fabrikası’nda meydana gelen patlamada 10 kişi hayatını kaybetti. Patlamanın görgü tanıkları, dehşet anlarını böyle anlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirdeki-patlamanin-gorgu-taniklari-dehseti-boyle-anlatti-sanki-yer-kabugu-altimizdan-kaydi-43371958"
+          "title": "Bakan Gürlek'ten Adalet Bakanlığı bütçesinin kabulüne ilişkin açıklama",
+          "summary": "Adalet Bakanı Akın Gürlek, TBMM Genel Kurulunda kabul edilen Adalet Bakanlığı bütçesinin hayırlı olmasını diledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-adalet-bakanligi-butcesinin-kabulune-iliskin-aciklama-43372192"
         },
         {
-          "title": "MHP lideri Bahçeli'den 10 Kasım mesajı",
-          "summary": "MHP Genel Başkanı Devlet Bahçeli, 10 Kasım mesajında, \"Atatürk'ü yaşatmanın doğru yolu, eserine sahip çıkmak ve fikirlerini çağın gerçekleriyle yorumlayarak geliştirmektir.\" dedi. MHP Genel Başkanı Devlet Bahçeli, Gazi Mustafa Kemal Atatürk'ün vefatının 88'inci yıl dönümü dolayısıyla yayımladığı mesajda, \"Atatürk'ü yaşatmanın doğru yolu, eserine sahip çıkmak ve onun fikirlerini çağın gerçekleriyle yorumlayarak geliştirmekle imkâna kavuşur\" ifadelerini kullandı.** MHP Genel Başkanı Devlet Bahçeli, Türkiye Cumhuriyet",
-          "source": "https://www.ntv.com.tr/turkiye/mhp-lideri-bahceliden-10-kasim-mesaji-1750156"
+          "title": "Adalet Bakanı Gürlek, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı",
+          "summary": "Adalet Bakanı Akın Gürlek, \"Terörsüz Türkiye\" hedefine ilişkin, \"Yol haritamız bellidir. Terör unsurlarının içeride ve dışarıda silah bırakması, ülkemizin huzurunu ve güvenliğini tehdit eden şartların ortadan kalkması ve bunun ilgili devlet kurumlarınca teyit edilmesi esastır. Biz kimseyle pazarlık yapmadık, yapmayız.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/adalet-bakani-gurlek-tbmm-plan-ve-butce-komisyonunda-sorulari-yanitladi-43372191"
         },
         {
-          "title": "İzmir'de demir çelik fabrikasında patlama. Çok sayıda can kaybı var",
-          "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasında patlama sonrası yangın çıktı. Olayda 10 kişi hayatını kaybetti, dördü ağır 15 kişi yaralandı. Dört işçi enkaz altında. İzmir'de Aliağa ilçesi Yeni Foça yolu üzerindeki HABAŞ Demir-Çelik Fabrikası'nda öğle saatlerinde patlama meydana geldi. Patlamanın ardından fabrikada yangın çıktı. İhbar üzerine bölgeye sağlık ve itfaiye ekipleri sevk edildi. İzmir Valisi Süleyman Elban, patlamada 10 kişinin hayatını kaybettiğini dördü ağır 15 kişinin de yaralandığını açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/izmirde-demir-celik-fabrikasinda-patlama-cok-sayida-can-kaybi-var-1750103"
+          "title": "Cumhurbaşkanı Erdoğan: Süreci dikkatle ilerletiyoruz",
+          "summary": "Cumhurbaşkanı Erdoğan, Terörsüz Türkiye süreciyle ilgili ''Büyük ve güçlü Türkiye ülkümüzün lokomotifi olan bu stratejik projeyi başarıyla sonuçlandırmakta kararlıyız.\" dedi. Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı. Yaklaşık iki saat süren toplantı sonrası Cumhurbaşkanı Erdoğan açıklama yaptı. Cumhurbaşkanı Erdoğan, İzmir’in Aliağa ilçesindeki demir çelik fabrikasında meydana gelen patlamada 16 kişinin hayatını kaybettiğini, 2'si ağır, 13 kişinin yaralandığını açıkladı.",
+          "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-sureci-dikkatle-ilerletiyoruz-1750157"
         },
         {
-          "title": "''Kısa ve Net'' programı NTV'de başladı",
-          "summary": "Kısa ve Net programı, NTV ekranlarında 17:55'te başladı. Dünya değişiyor... Hatta iklim değişiyor. İklim krizi yüzünden göç etmek zorunda kalabileceğiniz hiç aklınıza geldi mi? Gündemin nabzını tutan, küresel dönüşümleri ve kritik gelişmeleri yerinden aktaran Kısa ve Net, NTV ekiplerinin özel takibiyle COP31 Türkiye zirvesi boyunca yaşananları anbean ekranlarınıza taşıyor. Haberin tam kalbinden, dünyanın değişen yüzünden son gelişmeler…",
-          "source": "https://www.ntv.com.tr/turkiye/kisa-ve-net-programi-ntvde-basladi-1750155"
+          "title": "Bakan Kurum'dan COP31 açıklaması: İsrail'e davet göndermedik",
+          "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31 Liderler Zirvesi'ne ilişkin \"Liderler zirvesine ev sahibi ülke olarak biz, İsrail'e davet göndermedik. Burada iklimi konuşacağız, iklim adaletini konuşacağız. 'Barışın hakim olmadığı bir yerde iklim adaleti de olmaz' diyoruz. Dolayısıyla Türkiye'nin İsrail devletine, hükümetine karşı bakışını, tutumunu bu toplantı değiştirmeyecek.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurumdan-cop31-aciklamasi-israile-davet-gondermedik-43372178"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail ordusu Suriye'de gazetecilere saldırdı: 1 yaralı. Suriye Yemen'e asker konuşlandırdığı iddiasını yalanladı. Almanya Başbakanı Merz, Ilse Aigner'in cumhurbaşkanı adaylığını açıkladı. Almanya'da iktidar partisi CDU cumhurbaşkanı adayını belirledi. Macaristan'ın eski başbakanı Orban'ın kardeşine gözaltına alındı. Suriye'de mayın patlaması: 3 çocuk hayatını kaybetti. Türkiye'den Mısır'a taziye mesajı.",
+      "text": "Avrupa'da market raflarını boşaltan siber saldırı. Fransa İran'ı suçladı. Al Jazeera: İsrail askerleri sivil kıyafetle Batı Şeria'da Filistinlilere saldırıyor. Bazı ülkeler ve teknoloji şirketlerinden yapay zeka adımı. Güvenlik bildirimi imzalandı. ABD-Rusya-Ukrayna görüşmesi: Taraflar Abu Dabi'de masaya oturacak. Suudi Arabistan'ın güneyine fırlatılan balistik füze engellendi. Papa'dan yapay zeka uyarısı. Gazze'de Uluslararası İstikrar Gücü. İsrail 250 yabancı askerin görev yapmasına onay verdi.",
       "items": [
         {
-          "title": "İsrail ordusu Suriye'de gazetecilere saldırdı: 1 yaralı",
-          "summary": "İsrail ordusu, Suriye'nin güneyindeki Kuneytra ilinin kırsalında baskını görüntüleyen bir grup gazeteciyi hedef aldı. İsrail askerlerinin ateş açması sonucu 1 kişinin yaralandığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israil-ordusu-suriyede-gazetecilere-saldirdi-1-yarali-43371902"
+          "title": "Avrupa'da market raflarını boşaltan siber saldırı. Fransa İran'ı suçladı",
+          "summary": "Başta Fransa olmak üzere Avrupa'da yüzlerce marketteki buzdolaplarını etkileyen siber saldırıların arkasında İran olduğu iddia edildi. G7 dönem başkanlığını yürüten Fransa'nın başkenti Paris'te G7 Dışişleri Bakanları Toplantısı düzenlendi.",
+          "source": "https://www.ntv.com.tr/dunya/avrupada-market-raflarini-bosaltan-siber-saldiri-fransa-irani-sucladi-1750182"
         },
         {
-          "title": "Suriye Yemen'e asker konuşlandırdığı iddiasını yalanladı",
-          "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, Suudi Arabistan ile yaptıkları askeri anlaşmanın Yemen'de Suriye güçlerinin konuşlandırılmasını kapsamadığını belirterek, Yemen'de Suriye güçlerinin konuşlandırıldığı iddiasının gerçeği yansıtmadığını belirtti. Şeybani, Suudi Arabistan ile yapılan askeri anlaşmanın, Suriye güçlerinin Yemen'e konuşlandırılmasını içermediğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriye-yemene-asker-konuslandirdigi-iddiasini-yalanladi-43371874"
+          "title": "Al Jazeera: İsrail askerleri sivil kıyafetle Batı Şeria'da Filistinlilere saldırıyor",
+          "summary": "Al Jazeera televizyonu, İsrail askerlerinin işgal altındaki Batı Şeria'da sivil kıyafetler giyerek Filistin topraklarını gasbeden İsraillilerin silahlı saldırılarına katıldığını ortaya koydu. Katar merkezli kanalın saha araştırmasında, İsrail ordusunda aktif görev yaptıkları ya da saldırılar esnasında askeri üniforma giydikleri tespit edilen Filistin topraklarını gasbeden İsrailli yerleşimcilerin de 14 Filistinliyi öldürdüğü belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/al-jazeera-israil-askerleri-sivil-kiyafetle-bati-seriada-filistinlilere-saldiriyor-1750181"
         },
         {
-          "title": "Almanya Başbakanı Merz, Ilse Aigner'in cumhurbaşkanı adaylığını açıkladı",
-          "summary": "Almanya Başbakanı Friedrich Merz, Hristiyan Sosyal Birlik (CSU) üyesi Bavyera Eyalet Parlamentosu Başkanı Ilse Aigner'i 2027'de yapılacak cumhurbaşkanlığı seçimlerinde aday gösterdiklerini açıkladı. Almanya'da görev süresi gelecek yıl 18 Mart'ta sona erecek olan Cumhurbaşkanı Frank-Walter Steinmeier'in halefi için önemli bir aşama geride kaldı.",
-          "source": "https://www.ntv.com.tr/dunya/almanya-basbakani-merz-ilse-aignerin-cumhurbaskani-adayligini-acikladi-1750151"
+          "title": "Bazı ülkeler ve teknoloji şirketlerinden yapay zeka adımı. Güvenlik bildirimi imzalandı",
+          "summary": "Aralarında Kanada, Fransa ve Norveç'in bulunduğu ülkeler ile Anthropic, Microsoft ve OpenAI gibi teknoloji şirketleri, yapay zeka güvenliği ve emniyetinin sağlanmasına yönelik ortak bildiri imzaladı. Kanada Başbakanlığı tarafından \"Paris Yapay Zeka Emniyeti ve Güvenliği Çağrısı\" isimli bildiriye ilişkin açıklama yapıldı.",
+          "source": "https://www.ntv.com.tr/dunya/bazi-ulkeler-ve-teknoloji-sirketlerinden-yapay-zeka-adimi-guvenlik-bildirimi-imzalandi-1750180"
         },
         {
-          "title": "Almanya'da iktidar partisi CDU cumhurbaşkanı adayını belirledi",
-          "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, Bavyera Eyalet Meclisi Başkanı Ilse Aigner’i, resmen cumhurbaşkanı adayı gösterdiğini belirtti. Merz, Ilse Aigner’in Almanya’nın ilk kadın cumhurbaşkanı olabileceğine dikkat çekerek, \"Benim açımdan ilk kez bir kadının bu en yüksek makama gelmesinin vakti çoktan geldi.\" açıklamasını yaptı.",
-          "source": "https://www.hurriyet.com.tr/dunya/almanyada-iktidar-partisi-cdu-cumhurbaskani-adayini-belirledi-43371847"
+          "title": "ABD-Rusya-Ukrayna görüşmesi: Taraflar Abu Dabi'de masaya oturacak",
+          "summary": "ABD-Rusya ve Ukrayna, Abu Dabi'de masaya oturacak. İki gün sürecek görüşmelerde gündem toprak anlaşmazlıkları ve güvenlik garantileri. ABD, Rusya ve Ukrayna arasında Abu Dabi'deki görüşmenin öncesinde hem Başkan Donald Trump hem de diğer liderlerden açıklamalar geldi. ABD Başkanı, görüşmelerden oldukça umutlu olduklarını vurguladı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-rusya-ukrayna-gorusmesi-taraflar-abu-dabide-masaya-oturacak-1750178"
         },
         {
-          "title": "Macaristan'ın eski başbakanı Orban'ın kardeşine gözaltına alındı",
-          "summary": "Macaristan Başbakanı Peter Magyar, selefi Viktor Orban'ın kardeşi Aron Orban'ın insan kaçakçılığı şüphesiyle gözaltına alındığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/macaristanin-eski-basbakani-orbanin-kardesine-gozaltina-alindi-43371844"
+          "title": "Suudi Arabistan'ın güneyine fırlatılan balistik füze engellendi",
+          "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu Sözcüsü Tuğgeneral Turki el-Maliki, ülkenin güneyine fırlatılan balistik füzenin imha edildiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistanin-guneyine-firlatilan-balistik-fuze-engellendi-43372206"
         },
         {
-          "title": "Suriye'de mayın patlaması: 3 çocuk hayatını kaybetti",
-          "summary": "Suriye'nin Humus ili kırsalında hayvan otlatılan bölgede mayın patlaması meydana geldi. Olayda 3 çocuğun yaşamını yitirdiği kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/suriyede-mayin-patlamasi-3-cocuk-hayatini-kaybetti-43371825"
+          "title": "Papa'dan yapay zeka uyarısı",
+          "summary": "Vatikan Devlet Başkanı Papa 14. Leo, Arjantin ziyareti kapsamında yaptığı konuşmada yapay zeka ve otomasyonun çalışma hayatına etkilerine ilişkin uyarılarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/papadan-yapay-zeka-uyarisi-43372205"
         },
         {
-          "title": "Türkiye'den Mısır'a taziye mesajı",
-          "summary": "Dışişleri Bakanlığı, Mısır'ın Giza vilayetindeki tren kazasında yaşamını yitirenler için taziye mesajı paylaştı.",
-          "source": "https://www.hurriyet.com.tr/dunya/turkiyeden-misira-taziye-mesaji-43371812"
+          "title": "Gazze'de Uluslararası İstikrar Gücü. İsrail 250 yabancı askerin görev yapmasına onay verdi",
+          "summary": "Gazze'de ABD Başkanı Donald Trump'ın barış planı için çalışmalar devam ediyor. İsrail, Uluslararası İstikrar gücü bünyesinde ilk etapta 250 yabancı askerin görev yapmasına onay verdi. Gazze'de Uluslararası İstikrar Gücü'nün göreve başlaması için çalışmalar sürüyor. Merkezi Tel Aviv'de bulunan Walla haber sitesine göre İsrail hükümeti, Amerika Birleşik Devletleri'ne yaklaşık 250 yabancı askerden oluşan ilk çok uluslu gücü konuşlandırma izni verdi.",
+          "source": "https://www.ntv.com.tr/dunya/gazzede-uluslararasi-istikrar-gucu-israil-250-yabanci-askerin-gorev-yapmasina-onay-verdi-1750176"
         }
       ]
     },
@@ -124,8 +124,28 @@
       ]
     },
     "spor": {
-      "text": "Jose Mourinho, La Liga'da ayın teknik direktörü oldu!. Hidayet Türkoğlu: 'Yönetim olarak kadınlarımıza her anlamda güveniyoruz'. Lucas Torreira'dan Boca Juniors açıklaması!. Emre Belözoğlu'dan karar! Asensio-İrfan Can Kahveci formülü. Real Madrid efsanesinden Arda Güler'e övgü: 'Olağanüstü bir vizyonu, karar verme yeteneği ve top kontrolü var!'. Vlahovic, Sırbistan Milli Takımı'na gitmeyecek!. Olimpiyat şampiyonu judocu Teddy Riner, Fransa cumhurbaşkanlığına adaylığını açıkladı.",
+      "text": "Sergen Yalçın, A Milli Takım ile ilk idmanına çıktı!. Kuranyi'den Aleksey Batrakov'a övgü: 'Arda Güler'i hatırlatıyor'. Beşiktaş, Karşıyaka'ya tek farkla kaybetti!. FIFA yılın 11'i açıklandı!. Jose Mourinho, La Liga'da ayın teknik direktörü oldu!. Hidayet Türkoğlu: 'Yönetim olarak kadınlarımıza her anlamda güveniyoruz'. Lucas Torreira'dan Boca Juniors açıklaması!.",
       "items": [
+        {
+          "title": "Sergen Yalçın, A Milli Takım ile ilk idmanına çıktı!",
+          "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi'nde Belçika ve Fransa ile oynayacağı karşılaşmalar için İstanbul'da toplandı ve ilk çalışmasını yaptı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-a-milli-takim-ile-ilk-idmanina-cikti-43372139"
+        },
+        {
+          "title": "Kuranyi'den Aleksey Batrakov'a övgü: 'Arda Güler'i hatırlatıyor'",
+          "summary": "Alman eski golcü Kevin Kuranyi, Galatasaray'da forma giyen Aleksey Batrakov'u överken Rus futbolcuyu, Arda Güler'e benzetti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kuranyiden-aleksey-batrakova-ovgu-arda-guleri-hatirlatiyor-43372112"
+        },
+        {
+          "title": "Beşiktaş, Karşıyaka'ya tek farkla kaybetti!",
+          "summary": "Karşıyaka, Türkiye Sigorta Basketbol Süper Ligi'nin 7. haftasında Beşiktaş’ı 84-83 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-karsiyakaya-tek-farkla-kaybetti-43372085"
+        },
+        {
+          "title": "FIFA yılın 11'i açıklandı!",
+          "summary": "FIFA) ile Uluslararası Profesyonel Futbolcular Birliği (FIFPro) tarafından belirlenen yılın 11'i açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fifa-yilin-11i-aciklandi-43372004"
+        },
         {
           "title": "Jose Mourinho, La Liga'da ayın teknik direktörü oldu!",
           "summary": "Real Madrid Teknik Direktörü Jose Mourinho, 2026/27 sezonunda LaLiga ekim ayının en iyi teknik direktörü ödülünün sahibi oldu.",
@@ -140,32 +160,17 @@
           "title": "Lucas Torreira'dan Boca Juniors açıklaması!",
           "summary": "Galatasaray'ın orta saha oyuncusu Lucas Torreira, zaman zaman isminin geçtiği Boca Juniors hakkında açıklama yaptı.",
           "source": "https://www.hurriyet.com.tr/sporarena/lucas-torreiradan-boca-juniors-aciklamasi-43371942"
-        },
-        {
-          "title": "Emre Belözoğlu'dan karar! Asensio-İrfan Can Kahveci formülü",
-          "summary": "Fenerbahçe'nin çiçeği burnunda teknik direktörü Emre Belözoğlu'nun Asensio ve İrfan Can Kahveci plan belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozlogludan-karar-asensio-irfan-can-kahveci-formulu-43371548"
-        },
-        {
-          "title": "Real Madrid efsanesinden Arda Güler'e övgü: 'Olağanüstü bir vizyonu, karar verme yeteneği ve top kontrolü var!'",
-          "summary": "Real Madrid'in bu sezonki en göze çarpan isimlerinden olan milli futbolcu Arda Güler, eflatun-beyazlı kulübün efsanelerinden Jorge Valdano'dan övgü aldı. Arjantinli futbol adamı, 'Arda Güler, Real Madrid’in oyununda olağanüstü bir etki yaratıyor' ifadelerini kullandı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-efsanesinden-arda-gulere-ovgu-olaganustu-bir-vizyon-karar-verme-yetenegi-ve-top-kontrolu-var-43371824"
-        },
-        {
-          "title": "Vlahovic, Sırbistan Milli Takımı'na gitmeyecek!",
-          "summary": "Beşiktaş'ın golcü oyuncusu Dusan Vlahovic özel durumunu gerekçe göstererek Sırbistan Milli Takımı'na gitmeyecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vlahovic-sirbistan-milli-takimina-gitmeyecek-43371850"
-        },
-        {
-          "title": "Olimpiyat şampiyonu judocu Teddy Riner, Fransa cumhurbaşkanlığına adaylığını açıkladı",
-          "summary": "Fransa'nın olimpiyat şampiyonu milli sporcusu Teddy Riner, ülkede gelecek yıl yapılacak cumhurbaşkanı seçiminde aday olduğunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/olimpiyat-sampiyonu-judocu-teddy-riner-fransa-cumhurbaskanligina-adayligini-acikladi-43371764"
         }
       ]
     },
     "teknoloji": {
-      "text": "İHA'lar için drone otoyolları oluşturulacak. ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı. Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı. İki astronot 7 saatlik uzay yürüyüşü yaptı. 1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu. 378 gün sonra Mars simülasyonundan çıktılar.",
+      "text": "GTA 6 için ön yükleme süreci başladı: 19 Kasım'da oynanabilecek. İHA'lar için drone otoyolları oluşturulacak. ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı. Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı. İki astronot 7 saatlik uzay yürüyüşü yaptı. 1.5 tonluk gözlemevi kontrolsüz şekilde Dünya'ya düşüyor. Maratonda bu kez robot polisler nöbet tuttu.",
       "items": [
+        {
+          "title": "GTA 6 için ön yükleme süreci başladı: 19 Kasım'da oynanabilecek",
+          "summary": "Oyun dünyasının 13 yıldır beklediği Grand Theft Auto VI (GTA 6), 19 Kasım'da piyasaya çıkıyor. Rockstar Games'in oyunu için ön yükleme sürecinin başladığını duyurdu. Oyun dünyasının merakla beklediği Grand Theft Auto VI (GTA 6) için geri sayım başladı. ABD merkezli oyun geliştiricisi Rockstar Games, 19 Kasım'da piyasaya sürülecek oyun bugünden itibaren ön indirmeye açıldı.",
+          "source": "https://www.ntv.com.tr/teknoloji/gta-6-icin-on-yukleme-sureci-basladi-19-kasimda-oynanabilecek-1750160"
+        },
         {
           "title": "İHA'lar için drone otoyolları oluşturulacak",
           "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu \"drone otoyolu\" olarak da bilinen insansız hava aracı (İHA) koridorlarının hukuki altyapısının oluşturulduğunu söyledi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından 30 Temmuz 2026 tarihinde yayımlanan İnsansız Hava Aracı Sistemleri Talimatı (SHT-İHA) kapsamında oluşturulacak İHA koridorlarına ilişkin açıklamalarda bulundu.",
@@ -195,11 +200,6 @@
           "title": "Maratonda bu kez robot polisler nöbet tuttu",
           "summary": "Çin’de düzenlenen Hanco Maratonu’nda robot polisler devriye gezdi, trafiği denetledi ve sporcularla fotoğraf çektirdi.",
           "source": "https://www.ntv.com.tr/teknoloji/video-maratonda-bu-kez-robot-polisler-nobet-tuttu-1749016"
-        },
-        {
-          "title": "378 gün sonra Mars simülasyonundan çıktılar",
-          "summary": "NASA'nın insanlı Mars görevine hazırlık için 3D yazıcılarla ürettiği 158 metrekarelik simülasyonda 378 gün boyunca tecritte yaşayan dört kişilik ekip, \"Dünyaya\" döndü. Amerikan Havacılık ve Uzay Dairesi'nin (NASA) Mars'ta olası bir insanlı keşif görevine hazırlık için gerçekleştirdiği ikinci simülasyon görevi CHAPEA 2'ya (Crew Health and Performance Exploration Analog) katılan dört kişilik ekip, 378 gün sonra dış dünyayla yeniden buluştu.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-378-gun-sonra-mars-simulasyonundan-ciktilar-1748971"
         }
       ]
     },
