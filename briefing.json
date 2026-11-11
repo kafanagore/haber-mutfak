@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-10T16:00:09.163Z",
+  "generatedAt": "2026-11-11T04:00:03.499Z",
   "categories": {
     "gundem": {
-      "text": "Türkiye ile Suudi Arabistan arasında elektrik projelerinde işbirliği mutabakatı imzalandı. MSB'den GÖKTÜRK-1 uydusuyla çekilen Anıtkabir görüntüsü. Azerbaycan Cumhurbaşkanı Aliyev COP31 için Antalya'da. Saldırıda ölen İranlı 168 çocuk COP31 Zirvesi’nde anıldı. Gebze merkezli TIR kaçakçılığı operasyonu: 13 şüpheli yakalandı. Ahmet Şık'ın eşi Yonca Şık ifade verdi. Emine Erdoğan’dan, BM Genel Sekreteri Guterres ile görüşmelerine ilişkin paylaşım.",
+      "text": "Eyüpsultan’da gecekondu alev alev yandı: 1 ölü. Eyüpsultan'da gecekonduda yangın. Bir kişi hayatını kaybetti. Havacılık yakıtında çevreci anlaşma. Ankara'da EGO otobüsü devrildi, şoför yaralandı. Eyüpsultan‘da silahlı saldırı: 3 yaralı. İletişim Başkanı Duran: Sıfır atık girişimi uluslararası boyut kazandı. Merkez Bankası iki elektronik para kuruluşunun faaliyet iznini iptal etti.",
       "items": [
         {
-          "title": "Türkiye ile Suudi Arabistan arasında elektrik projelerinde işbirliği mutabakatı imzalandı",
-          "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan'la Elektrik Projelerinde İşbirliğine İlişkin Mutabakat Zaptı imzalandığını ve ACWA Power tarafından Türkiye'de iki aşamada geliştirilecek toplam 5 bin megavatlık yenilenebilir enerji projelerinin çerçevesini oluşturduklarını bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ile-suudi-arabistan-arasinda-elektrik-projelerinde-isbirligi-mutabakati-imzalandi-43373387"
+          "title": "Eyüpsultan’da gecekondu alev alev yandı: 1 ölü",
+          "summary": "Eyüpsultan’da, gecekonduda çıkan yangın itfaiye ekipleri tarafından söndürüldü. Yangında 1 kişi hayatını kaybederken, çatısı çöken gecekondu kullanılamaz hale geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/eyupsultanda-gecekondu-alev-alev-yandi-1-olu-43373627"
         },
         {
-          "title": "MSB'den GÖKTÜRK-1 uydusuyla çekilen Anıtkabir görüntüsü",
-          "summary": "Milli Savunma Bakanlığı (MSB), 10 Kasım Atatürk'ü Anma Günü dolayısıyla GÖKTÜRK-1 uydusuyla 686 kilometre irtifadan çekilen Anıtkabir görüntüsünü paylaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/msbden-gokturk-1-uydusuyla-cekilen-anitkabir-goruntusu-43373372"
+          "title": "Eyüpsultan'da gecekonduda yangın. Bir kişi hayatını kaybetti",
+          "summary": "Eyüpsultan'da tek katlı metruk gecekonduda çıkan yangında 1 kişi hayatını kaybetti. İslambey Mahallesi Mehmet Aliağa Sokak'taki tek katlı metruk gecekonduda henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine olay yerine polis, itfaiye ve sağlık ekipleri sevk edildi. Yangın sırasında gecekondunun çatısında kısmi çökme meydana geldi. İtfaiye ekiplerinin müdahalesiyle yangın söndürüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/eyupsultanda-gecekonduda-yangin-bir-kisi-hayatini-kaybetti-1750342"
         },
         {
-          "title": "Azerbaycan Cumhurbaşkanı Aliyev COP31 için Antalya'da",
-          "summary": "AZERBAYCAN Cumhurbaşkanı İlham Aliyev, COP31'e katılmak üzere Antalya'ya geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/azerbaycan-cumhurbaskani-aliyev-cop31-icin-antalyada-43373371"
+          "title": "Havacılık yakıtında çevreci anlaşma",
+          "summary": "Antalya'daki COP31 zirvesinde dünyanın havacılık alanında önde gelen şirketlerinden BOEİNG, Türk Hava Yolları ve İTÜ ile birlikte anlaşmaya imza attı. Sivil havacılık Genel Müdürlüğü, Boeing, Türk Hava Yolları ve İTÜ arasında imzalanan Türkiye Sürdürülebilir Havacılık Yakıtı, Yol Haritası İş Birliği Anlaşmasıyla önemli bir adım atılmış oldu. COP31 zirvesi kapsamında düzenlenen imza törenine Ulaştırma ve Altyapı Bakanı Abdülkadir Uraloğlu da katıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/havacilik-yakitinda-cevreci-anlasma-1750340"
         },
         {
-          "title": "Saldırıda ölen İranlı 168 çocuk COP31 Zirvesi’nde anıldı",
-          "summary": "İRAN’ın Minab Kenti’ne düzenlenen saldırıda hayatını kaybeden 168 çocuk, Antalya’da bir kez daha anıldı. COP31 Zirvesi’ndeki İran Pavilyonu’nda, yaşamını yitiren çocukların fotoğrafları ve okul çantaları enkazların arasında sergilendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/saldirida-olen-iranli-168-cocuk-cop31-zirvesinde-anildi-43373362"
+          "title": "Ankara'da EGO otobüsü devrildi, şoför yaralandı",
+          "summary": "Ankara'nın Gölbaşı ilçesinde EGO otobüsünün devrildiği kazada otobüs şoförü yaralandı. Alınan bilgiye göre, Ankara-Konya Yolu'nda seyreden 06 DT 9916 plakalı EGO otobüsü, sürücüsünün kontrolünü kaybetmesi üzerine refüje ve aydınlatma direğine çarparak devrildi. İhbarla olay yerine 112 Acil Sağlık, polis, itfaiye ve belediye ekipleri sevk edildi. Sağlık ekipleri, kazada yaralanan otobüs şoförünü Bilkent Şehir Hastanesi'ne sevk etti. Şoförün hayati tehlikesinin bulunmadığı öğrenildi.",
+          "source": "https://www.ntv.com.tr/turkiye/ankarada-ego-otobusu-devrildi-sofor-yaralandi-1750336"
         },
         {
-          "title": "Gebze merkezli TIR kaçakçılığı operasyonu: 13 şüpheli yakalandı",
-          "summary": "Kocaeli merkezli yürütülen TIR kaçakçılığı soruşturması kapsamında 7 ilde düzenlenen eş zamanlı operasyonlarda 13 şüpheli yakalandı. Yurt dışından Türkiye’ye getirilen TIR’ların plaka ve şasi bilgilerinin değiştirilerek piyasaya sürüldüğü, ihracat yüklerinin ise araçlarla birlikte kaçırıldığı belirlenen soruşturmada, cezaevindeki 1 şüpheliyle birlikte toplam 14 kişi hakkında adli işlem başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gebze-merkezli-tir-kacakciligi-operasyonu-13-supheli-yakalandi-43373361"
+          "title": "Eyüpsultan‘da silahlı saldırı: 3 yaralı",
+          "summary": "Eyüpsultan’da, motosikletle gelen kimliği belirsiz kişiler, sokakta bulunan 3 kişiye silahla ateş açtı. Açılan ateş sonucu yaralanan 3 kişi hastaneye kaldırılırken, polis ekipleri motosikletle kaçan şüphelileri yakalamak için çalışma başlattı.",
+          "source": "https://www.hurriyet.com.tr/gundem/eyupsultanda-silahli-saldiri-3-yarali-43373620"
         },
         {
-          "title": "Ahmet Şık'ın eşi Yonca Şık ifade verdi",
-          "summary": "Türkiye İşçi Partisi (TİP) İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık \"siyasal veya askeri casusluk\" soruşturması kapsamında ifade verdi. TİP İstanbul Milletvekili Ahmet Şık'ın eşi Yonca Verdioğlu Şık'ın \"siyasal veya askeri casusluk\" iddiasıyla hakkında yürütülen soruşturma kapsamında ifadesi alındı. Şık, ifadesinin ardından adli kontrolle serbest bırakıldı. Polis ekipler, sabah saatlerinde Şık çiftinin Beyoğlu'ndaki evine gitti.",
-          "source": "https://www.ntv.com.tr/turkiye/ahmet-sikin-esi-yonca-sik-ifade-verdi-1750284"
+          "title": "İletişim Başkanı Duran: Sıfır atık girişimi uluslararası boyut kazandı",
+          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Sıfır Atık girişiminin uluslararası boyut kazandığını ve Türkiye'nin iklim değişikliği için en somut adımlarından biri haline geldiğini vurguladı. Duran, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamındaki etkinlikler çerçevesinde parlamenterler, düşünce kuruluşlarının temsilcileri, akademisyenler ve araştırmacıların da olduğu bir grupla bir araya geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/iletisim-baskani-duran-sifir-atik-girisimi-uluslararasi-boyut-kazandi-1750332"
         },
         {
-          "title": "Emine Erdoğan’dan, BM Genel Sekreteri Guterres ile görüşmelerine ilişkin paylaşım",
-          "summary": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, “Sayın Guterres’e daha adil ve yaşanabilir bir dünya için yürüttüğü değerli çalışmalar ve kıymetli destekleri dolayısıyla teşekkür ediyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogandan-bm-genel-sekreteri-guterres-ile-gorusmelerine-iliskin-paylasim-43373343"
+          "title": "Merkez Bankası iki elektronik para kuruluşunun faaliyet iznini iptal etti",
+          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Ozan Elektronik Para A.Ş. ile A Ödeme ve Elektronik Para Hizmetleri A.Ş.'nin faaliyet izinlerini iptal etti. Kararlar, Resmi Gazete'de yayımlandı. Türkiye Cumhuriyet Merkez Bankası (TCMB), iki elektronik para kuruluşunun faaliyet izinlerinin iptal edilmesine karar verdi. 11 Kasım 2026 tarihli ve 33427 sayılı Resmi Gazete'de yayımlanan kararlara göre, Ozan Elektronik Para A.Ş.",
+          "source": "https://www.ntv.com.tr/turkiye/merkez-bankasi-iki-elektronik-para-kurulusunun-faaliyet-iznini-iptal-etti-1750331"
         }
       ]
     },
     "dunya": {
-      "text": "ABD Dışişleri Bakanı Rubio’dan İran açıklaması: Yaptırımlar, büyük çaplı askeri harekata gerek bırakmıyor. Dışişleri Bakanlığı'ndan üçlü Kıbrıs görüşmesine ilişkin açıklama: İlerleme Rum tarafının uzlaşmaz tutumunun değişmesiyle mümkün. Danimarka Kraliçesi Mary'den Türk bayraklı paylaşım. İsrail'de 'Arap partiler' anlaşmazlığı. Nvidia ders oldu. Alman istihbaratından şirket yöneticilerine \"bal tuzağı\" uyarısı. Polonya'da katliam yapan saldırgan, Norveç'i kana bulayan Breivik'i araştırmış. ABD Savunma Bakanı Hegseth'ten önemli açıklamalar: Beni siyasi şov için azlediyorlar.",
+      "text": "Letonya ve Litvanya sınırında alarm. NATO savaş uçakları havalandı. Zelenski'den liderler düzeyinde görüşme isteği. \"Oturup toprak meselesini konuşmaya hazırız\". Pete Hegseth azledilmeyecek. Suçlamalar Adalet Komisyonu'na devredildi. ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi. Formula 1'in efsane pilotu Hamilton'dan Refah Sınır Kapısı'na ziyaret. BBC’den Epstein ile ilgili çarpıcı araştırma…. Cinsel istismar ağına uzanan model ajansı bağlantılarını ortaya çıkardı. İngiltere’de, Rusya adına casusluk şüphesiyle ABD askeri gözaltına aldı.",
       "items": [
         {
-          "title": "ABD Dışişleri Bakanı Rubio’dan İran açıklaması: Yaptırımlar, büyük çaplı askeri harekata gerek bırakmıyor",
-          "summary": "ABD Dışişleri Bakanı Marco Rubio, ABD'nin İran'a yönelik uyguladığı ekonomik yaptırımların boyutunun çok büyük olduğunu, Washington yönetiminin bu yüzden Tahran yönetimine yönelik büyük çaplı askeri harekatlara girişmesine gerek kalmadığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-disisleri-bakani-rubiodan-iran-aciklamasi-yaptirimlar-buyuk-capli-askeri-harekata-gerek-birakmiyor-43373384"
+          "title": "Letonya ve Litvanya sınırında alarm. NATO savaş uçakları havalandı",
+          "summary": "Letonya ve Litvanya'da Belarus sınırındaki halk, hava sahasına yönelik tehdit nedeniyle sığınıklara gönderildi. Letonya Ordusu, Belarus sınırındaki Ludza bölgesinde yaşayanlara, hava sahasına yönelik tehdit nedeniyle sığınaklara gitme çağrısı yaptı. Litvanya Ulusal Kriz Yönetim Merkezi de ülkenin ikinci büyük şehri olan Kaunas'ta ve çevresindeki bölgede sığınaklara inme çağrısı yaptı.",
+          "source": "https://www.ntv.com.tr/dunya/letonya-ve-litvanya-sinirinda-alarm-nato-savas-ucaklari-havalandi-1750341"
         },
         {
-          "title": "Dışişleri Bakanlığı'ndan üçlü Kıbrıs görüşmesine ilişkin açıklama: İlerleme Rum tarafının uzlaşmaz tutumunun değişmesiyle mümkün",
-          "summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ve Güney Kıbrıs Rum Yönetimi (GKRY) lideri Nikos Hristodulidis'in Birleşmiş Milletler (BM) öncülüğünde gerçekleştirdiği üçlü görüşmeyi değerlendirdi. Keçeli, görüşmede Türk tarafının hassasiyetle üzerinde durduğu, iki taraf arasında güvenin tesisine yönelik işbirliği alanlarının ele alınmış olmasının olumlu bulunduğunu kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakanligindan-uclu-kibris-gorusmesine-iliskin-aciklama-ilerleme-rum-tarafinin-uzlasmaz-tutumunun-degismesiyle-mumkun-43373312"
+          "title": "Zelenski'den liderler düzeyinde görüşme isteği. \"Oturup toprak meselesini konuşmaya hazırız\"",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rusya Devlet Başkanı Vladimir Putin ile Avrupa ve ABD ara buluculuğunda görüşmeye hazır olduğunu ifade ederek, \"Toprak meselesini konuşmaya hazırız\" dedi. Danimarka ziyareti kapsamında Kopenhag'da basın mensuplarının sorularını yanıtlayan Zelenski, savaşı sonlandırmak için liderler düzeyinde bir toplantıya hazır olduklarını ancak Rusya'nın buna hazır olup olmadığından emin olmadıklarını vurguladı.",
+          "source": "https://www.ntv.com.tr/dunya/zelenskiden-liderler-duzeyinde-gorusme-istegi-oturup-toprak-meselesini-konusmaya-haziriz-1750339"
         },
         {
-          "title": "Danimarka Kraliçesi Mary'den Türk bayraklı paylaşım",
-          "summary": "Danimarka Kraliçesi Mary, COP31'e katılmak için geldiği Antalya'da tekne turuna katıldı. Perge Antik Kenti'ni gezen Mary, sosyal medya hesabından Türk bayraklı pozunu yayınladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/danimarka-kralicesi-maryden-turk-bayrakli-paylasim-43373272"
+          "title": "Pete Hegseth azledilmeyecek. Suçlamalar Adalet Komisyonu'na devredildi",
+          "summary": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi. Hegseth'e yönelik suçlamalar, adalet komisyonunda görüşülecek. Cumhuriyetçi Kongre Üyesi Thomas Massie tarafından sunulan 8 maddelik azil önergesinin ilerlemesini engelleyen karar, Temsilciler Meclisinde 204'e karşı 211 oyla kabul edildi. Hegseth'i eleştiren bazı Cumhuriyetçiler de Bakan'ın eylemlerinin azil için gerekli olan \"ağır suçlar ve kabahatler\" kapsamına girmediğini savundu.",
+          "source": "https://www.ntv.com.tr/dunya/pete-hegseth-azledilmeyecek-suclamalar-adalet-komisyonuna-devredildi-1750337"
         },
         {
-          "title": "İsrail'de 'Arap partiler' anlaşmazlığı",
-          "summary": "İsrail'de seçimlerin ardından hükümet kurmakla görevlendirilen Gadi Eisenkot liderliğindeki \"Değişim Bloğu\"nda İsrail vatandaşı Filistinlileri temsil eden Arap partilerinin koalisyona dahil edilmesine ilişkin anlaşmazlık devam ediyor. İsrail Evimiz Partisi lideri Avigdor Liberman, Demokratlar Partisi lideri Yair Golan'ın Arap partilerin koalisyona dahil edilmesi çağrısına olumsuz yanıt verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilde-arap-partiler-anlasmazligi-43373257"
+          "title": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
+          "summary": "ABD Temsilciler Meclisi, Savunma Bakanı Pete Hegseth'in görevden alınmasına yönelik azil girişimini engelledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi-43373622"
         },
         {
-          "title": "Nvidia ders oldu. Alman istihbaratından şirket yöneticilerine \"bal tuzağı\" uyarısı",
-          "summary": "Alman iç istihbaratı, teknoloji devi Nvidia'daki casusluk iddiaları üzerine, şirket yöneticilerini romantik ilişkiler yoluyla bilgi elde etmeyi amaçlayan casusluk faaliyetlerine karşı uyardı. ABD'li çip üreticisi Nvidia'nın CEO'su Jensen Huang'ın, evlilik dışı ilişki yaşadığı Çin vatandaşı kadınla ilgili casusluk iddiaları, istihbarat teşkilatlarını harekete geçirdi.",
-          "source": "https://www.ntv.com.tr/dunya/nvidia-ders-oldu-alman-istihbaratindan-sirket-yoneticilerine-bal-tuzagi-uyarisi-1750292"
+          "title": "Formula 1'in efsane pilotu Hamilton'dan Refah Sınır Kapısı'na ziyaret",
+          "summary": "7 kez Formula 1 şampiyonu olan Lewis Hamilton, Mısır ile Gazze arasında bulunan Refah Sınır Kapısı'nı ziyaret etti. İngiliz pilot, Gazze'ye ulaştırılması hedeflenen yardımları inceledi. Formula 1'de yedi kez Dünya şampiyonluğu yaşayan başarılı İngiliz pilot Lewis Hamilton, Mısır ile Gazze Şeridi arasında bulunan ve insani yardımlarda kritik bir nokta olan Refah Sınır Kapısı'nı ziyaret ederek incelemelerde bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/formula-1in-efsane-pilotu-hamiltondan-refah-sinir-kapisina-ziyaret-1750333"
         },
         {
-          "title": "Polonya'da katliam yapan saldırgan, Norveç'i kana bulayan Breivik'i araştırmış",
-          "summary": "Polonya'nın Krakow kentindeki ana meydanda aracından ateş açarak katliam yapan saldırganın, 2011'de Norveç'te 77 kişiyi öldüren Anders Behring Breivik'le ilgili sitelerde gezindiği ortaya çıktı. Polonya'nın Krakow kenti meydanında cumartesi günü aracından ateş açarak 6 kişiyi öldüren, 15 kişiyi yaralayan; evinde de annesi, babası ve kız kardeşinin cesedi bulunan Polonya vatandaşı Michal Oksinski, polisle girdiği çatışmanın ardından yaralı kaldırıldığı hastanede dün ölmüştü.",
-          "source": "https://www.ntv.com.tr/dunya/polonyada-katliam-yapan-saldirgan-norveci-kana-bulayan-breiviki-arastirmis-1750310"
+          "title": "BBC’den Epstein ile ilgili çarpıcı araştırma…. Cinsel istismar ağına uzanan model ajansı bağlantılarını ortaya çıkardı",
+          "summary": "İngiliz yayın kuruluşu BBC'nin araştırması, reşit olmayan kız çocuklarına yönelik fuhuş ağı kurduğu iddiasıyla yargılanırken 2019'da hapishanede ölü bulunan ABD'li Jeffrey Epstein'in model ajansları aracılığıyla genç kadınlara ulaştığına ilişkin yeni belgeleri ve mağdur ifadelerini ortaya koydu.",
+          "source": "https://www.hurriyet.com.tr/dunya/bbcden-epstein-ile-ilgili-carpici-arastirma-cinsel-istismar-agina-uzanan-model-ajansi-baglantilarini-ortaya-cikardi-43373618"
         },
         {
-          "title": "ABD Savunma Bakanı Hegseth'ten önemli açıklamalar: Beni siyasi şov için azlediyorlar",
-          "summary": "ABD Savunma Bakanı Pete Hegseth, Washington'da gündeme ilişkin değerlendirmelerde bulundu. Hegseth, Venezuela'da Devlet Başkanı Nicolas Maduro'nun alıkonularak ABD'ye getirilmesini \"büyük bir zafer\" diye tanımladı. İran'a saldırı, Maduro operasyonu ve Karayipler'de teknelerin vurulması emirlerini ABD Başkanı Donald Trump'ın verdiğini ifade eden Hegseth, \"Operasyonların arkasındayım. Yine olsa yine yaparım\" diye konuştu.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-savunma-bakani-hegsethten-onemli-aciklamalar-beni-siyasi-sov-icin-azlediyorlar-43373181"
+          "title": "İngiltere’de, Rusya adına casusluk şüphesiyle ABD askeri gözaltına aldı",
+          "summary": "İngiltere polisi, ABD ordusunda üst düzey görevde bulunan bir askerin, Rus istihbaratına yardım ettiği şüphesiyle gözaltına alındığını açıkladı. İngiltere’de Rusya adına casusluk yaptığından şüphelenilen ABD ordusu mensubu bir kişi gözaltına alındı. İngiliz polisi, söz konusu kişinin 41 yaşında ABD ordusunda üst düzey görevde bulunan bir asker olduğunu belirterek, Rus istihbaratına yardım ettiği şüphelenildiğini ifade etti.",
+          "source": "https://www.ntv.com.tr/dunya/ingilterede-rusya-adina-casusluk-suphesiyle-abd-askeri-gozaltina-aldi-1750328"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Türkiye, Belçika maçına 1 eksikle çalıştı. MHP Genel Başkanı Bahçeli, Fatih Terim'i kabul etti. TFF açıkladı: Süper Lig ve 1. Lig'de Çoklu Top Sistemi başlıyor. Arda Güler'e takım arkadaşı Cucurella'dan övgü: 'Gözden kaçıyor! O sahadayken daha iyi oynuyoruz'. Başakşehir'de Yusuf Sarı, sol dizinden operasyon geçirdi. Berkan Kutlu, Kocaelispor'da kariyerinin en skorer sezonunu yaşıyor. Fenerbahçe Tarfin, Paris Basketbol'a konuk olacak.",
+      "text": "Türkiye maçı öncesi Fransa'da şoke eden sakatlık haberleri! 3 eksik. Trabzonspor'da ayrılık resmen açıklandı. Galatasaray'ın gözü Almanya'da! 40 milyon Euro. Alanyaspor, Uğur Uçar’ı resmen açıkladı. Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi. Alanyaspor, Joao Pereira ile yollarını resmen ayırdı. Emre Belözoğlu rekor kırdı, konuştu: Yeni başlıyor!.",
       "items": [
         {
-          "title": "Türkiye, Belçika maçına 1 eksikle çalıştı",
-          "summary": "Türkiye A Milli Futbol Takımı, Uluslar A Ligi 1. Grup'ta Belçika ile oynayacağı maçın hazırlıklarına devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-belcika-macina-1-eksikle-calisti-43373370"
+          "title": "Türkiye maçı öncesi Fransa'da şoke eden sakatlık haberleri! 3 eksik",
+          "summary": "UEFA Uluslar Ligi'nde Türkiye A Milli Futbol Takımı'mızın rakiplerinden biri olan Fransa'da 3. sakatlık haberi geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turkiye-maci-oncesi-fransada-soke-eden-sakatlik-haberleri-3-eksik-43373614"
         },
         {
-          "title": "MHP Genel Başkanı Bahçeli, Fatih Terim'i kabul etti",
-          "summary": "MHP Genel Başkanı Devlet Bahçeli, A Milli Futbol Takımı'nın eski teknik direktörü Fatih Terim ile bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mhp-genel-baskani-bahceli-fatih-terimi-kabul-etti-43373298"
+          "title": "Trabzonspor'da ayrılık resmen açıklandı",
+          "summary": "Trabzonspor Basketbol Takımı'nda başantrenör Selçuk Ernak'ın görevine son verildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-ayrilik-resmen-aciklandi-43373556"
         },
         {
-          "title": "TFF açıkladı: Süper Lig ve 1. Lig'de Çoklu Top Sistemi başlıyor",
-          "summary": "TFF, Süper Lig'in 12. haftası, 1. Lig'in ise 15. haftasından itibaren oynanacak olan tüm müsabakalarda Çoklu Top Sistemi'nin uygulanmaya başlayacağını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/tff-acikladi-super-lig-ve-1-ligde-coklu-top-sistemi-basliyor-43373211"
+          "title": "Galatasaray'ın gözü Almanya'da! 40 milyon Euro",
+          "summary": "Galatasaray'ın transfer gündeminde dair Almanya'dan sürpriz bir iddia gündeme geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-gozu-almanyada-40-milyon-euro-43373542"
         },
         {
-          "title": "Arda Güler'e takım arkadaşı Cucurella'dan övgü: 'Gözden kaçıyor! O sahadayken daha iyi oynuyoruz'",
-          "summary": "Real Madrid'de bu sezon sergilediği üst düzey performansla dikkatleri üzerine toplayan milli futbolcu Arda Güler'e bir övgü de takım arkadaşı Marc Cucurella'dan geldi. İspanyol savunmacı, Arda Güler sahadayken Real Madrid'in daha iyi bir oyun sergilediğini belirterek, \"Gözden kaçıyor ama çok iyi oynuyor. Beni en çok şaşırtan oyuncu o.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-gulere-takim-arkadasi-cucurelladan-ovgu-gozden-kaciyor-o-sahadayken-daha-iyi-oynuyoruz-43372938"
+          "title": "Alanyaspor, Uğur Uçar’ı resmen açıkladı",
+          "summary": "Süper Lig ekiplerinden Alanyaspor, Joao Pereira’dan boşalan teknik direktörlük koltuğuna Uğur Uçar’ın getirildiğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-ugur-ucari-resmen-acikladi-43373488"
         },
         {
-          "title": "Başakşehir'de Yusuf Sarı, sol dizinden operasyon geçirdi",
-          "summary": "Başakşehir'de milli futbolcu Yusuf Sarı, sol dizinden operasyon geçirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basaksehirde-yusuf-sari-sol-dizinden-operasyon-gecirdi-43372908"
+          "title": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
+          "summary": "Fenerbahçe takım otobüsüne Nisan 2015'te Trabzon'un Sürmene ilçesinde gerçekleştirilen silahlı saldırıya yönelik 2'si tutuklu 5 sanık hakkında düzenlenen iddianame kabul edildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-43373481"
         },
         {
-          "title": "Berkan Kutlu, Kocaelispor'da kariyerinin en skorer sezonunu yaşıyor",
-          "summary": "Kocaelispor'un orta saha oyuncusu Berkan Kutlu, kariyerinin en skorer sezonunu geçiriyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/berkan-kutlu-kocaelisporda-kariyerinin-en-skorer-sezonunu-yasiyor-43372901"
+          "title": "Alanyaspor, Joao Pereira ile yollarını resmen ayırdı",
+          "summary": "Süper Lig ekiplerinden Alanyaspor'da ayrılık gerçekleşti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/alanyaspor-joao-pereira-ile-yollarini-resmen-ayirdi-43373465"
         },
         {
-          "title": "Fenerbahçe Tarfin, Paris Basketbol'a konuk olacak",
-          "summary": "Fenerbahçe Tarfin, Avrupa Ligi'nde yarın Paris Basketbol'a konuk olacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-paris-basketbola-konuk-olacak-43372893"
+          "title": "Emre Belözoğlu rekor kırdı, konuştu: Yeni başlıyor!",
+          "summary": "Fenerbahçe'nin 5-0'lık Çorum FK galibiyeti sonrası teknik direktör Emre Belözoğlu oyuncularına mesaj verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-rekor-kirdi-konustu-yeni-basliyor-43373401"
         }
       ]
     },
