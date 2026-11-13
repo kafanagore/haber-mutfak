@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-12T16:00:03.680Z",
+  "generatedAt": "2026-11-13T10:00:04.606Z",
   "categories": {
     "gundem": {
-      "text": "Emine Erdoğan, lider eşlerini Anadolu'nun lezzetleriyle ağırladı. İletişim Başkanı Duran: Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu. Cevdet Yılmaz: 1 milyar insan, zarar veren pişirme yöntemlerine bağımlıdır. Barış Boyun suç örgütü yöneticisi Azerbaycan'da yakalandı. BIST 100 endeksinde güçlü kapanış. Bakan Göktaş: İklim değişikliği 216 milyon kişiyi yerinden edebilir. Meclis'e sunuldu: 2,2 milyon kişinin GSS borcu silinecek.",
+      "text": "Mustafa Sarıgül’ün oğlu Ömer Sarıgül’ün ifadesi ortaya çıktı. Sarıgül dosyasında yeni gelişmeler: Ömer Sarıgül ek ifade verecek, 15 kişi daha gözaltında. Görevi başında rahatsızlanan asker şehit oldu. Afyonkarahisar'da 8 kişiyi katleden katil zanlısı için yeni karar. Doğadan topladığı mantar Nurcan'ı hayattan kopardı. Psikoloğun paylaşımına tepki yağmıştı | Bakanlık harekete geçti, içeriğe erişim engeli getirildi. 15 Temmuz Şehitler Köprüsü'nde İstanbul trafiğini kilitleyen eylem.",
       "items": [
         {
-          "title": "Emine Erdoğan, lider eşlerini Anadolu'nun lezzetleriyle ağırladı",
-          "summary": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, COP31 kapsamında lider eşlerini Anadolu'nun geleneksel lezzetleriyle ağırladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/emine-erdogan-lider-eslerini-anadolunun-lezzetleriyle-agirladi-43376145"
+          "title": "Mustafa Sarıgül’ün oğlu Ömer Sarıgül’ün ifadesi ortaya çıktı",
+          "summary": "Sarıgül Ailesi’ne yönelik soruşturmada tutuklanan Mustafa Sarıgül’ün oğlu Ömer Sarıgül’ün savcılık ifadesi ortaya çıktı. Emir Sarıgül hakkında iyi şeyler duymadığını söyleyen Ömer Sarıgül, “Ticari ilişkileri ve sosyal hayatında çok yalan söylediği, etrafında ipsiz sapsız insanlarla dolu olduğu benim kulağıma gelen bilgilerdir. Ancak ne iş yaptığını dahi bilmem. Ben babamın şuan ki servetini nasıl edindiğini bilmiyorum çünkü yaş itibarıyla bunu bilebilecek durumda değilim.",
+          "source": "https://www.hurriyet.com.tr/gundem/mustafa-sarigulun-oglu-omer-sarigulun-ifadesi-ortaya-cikti-43376909"
         },
         {
-          "title": "İletişim Başkanı Duran: Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu",
-          "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu.\" ifadesini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-duran-turkiye-iklim-adaletini-konusurken-insani-degerleri-ve-vicdani-da-masaya-koydu-43376138"
+          "title": "Sarıgül dosyasında yeni gelişmeler: Ömer Sarıgül ek ifade verecek, 15 kişi daha gözaltında",
+          "summary": "Kara para aklama iddiasıyla başlatılan soruşturmada tutuklanan Mustafa Sarıgül'ün oğlu Ömer Sarıgül, ek ifade verecek. Dosyada bugün yeni gözaltı kararları da verildi. Erzincan Milletvekili Mustafa Sarıgül ve ailesiyle ilgili kara para aklama iddiasıyla başlatılan soruşturma sürüyor. İstanbul Cumhuriyet Başsavcılığı'nca yürütülen soruşturmada bu sabah 17 şüpheli hakkında gözaltı kararı verildi. Şüphelilerden 15'inin gözaltına alındığı bildirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-sarigul-sorusturmasinda-yeni-operasyon-17-gozalti-karari-1750654"
         },
         {
-          "title": "Cevdet Yılmaz: 1 milyar insan, zarar veren pişirme yöntemlerine bağımlıdır",
-          "summary": "CUMHURBAŞKANI Yardımcısı Cevdet Yılmaz, \"Afrika’da yaklaşık bir milyar insan, yemeklerini hazırlamak için hala sağlığa ve çevreye zarar veren geleneksel yakıtlara ve pişirme yöntemlerine bağımlıdır\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cevdet-yilmaz-1-milyar-insan-zarar-veren-pisirme-yontemlerine-bagimlidir-43376127"
+          "title": "Görevi başında rahatsızlanan asker şehit oldu",
+          "summary": "Milli Savunma Bakanı Yaşar Güler, görevi sırasında rahatsızlanarak şehit olan Mühimmat Er Kaan Öcal için başsağlığı mesajı yayımladı. Milli Savunma Bakanlığı, görev yaptığı sırada rahatsızlanarak şehit olan Mühimmat Er Kaan Öcal için taziye mesajı yayımladı. Bakan Güler, mesajında Mühimmat Er Kaan Öcal'ın 13 Kasım 2026 tarihinde görevi başındayken rahatsızlanarak şehit olduğunu bildirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/gorevi-basinda-rahatsizlanan-asker-sehit-oldu-1750701"
         },
         {
-          "title": "Barış Boyun suç örgütü yöneticisi Azerbaycan'da yakalandı",
-          "summary": "Barış Boyun suç örgütünün üst düzey isimleri arasında gösterilen Mehmet Recep Demir, Azerbaycan'da yakalandı. İstanbul Cumhuriyet Başsavcılığınca, Ulusal ve Uluslararası alanda faaliyet gösteren ve kamuoyunda “Barış Boyun Suç Örgütü” olarak bilinen yeni nesil silahlı suç örgütüne yönelik yürütülen soruşturma devam ediyor. Soruşturma kapsamında örgütün yöneticisi konumunda olan ve hakkında halihazırda 48 yakalama emri bulunan Mehmet Recep Demir Azerbaycan ülkesinde yakalandı.",
-          "source": "https://www.ntv.com.tr/turkiye/baris-boyun-suc-orgutu-yoneticisi-azerbaycanda-yakalandi-1750610"
+          "title": "Afyonkarahisar'da 8 kişiyi katleden katil zanlısı için yeni karar",
+          "summary": "Afyonkarahisar'da 8 kişinin öldüren katil zanlısı tutuklu bulunduğu Afyonkarahisar'daki cezaevinden güvenlik gerekçesiyle İzmir'e nakledildi. Afyonkarahisar'da 30 yaşındaki Arif Sefa Özdemir isimli saldırganın 8 kişiyi öldürdüğü olaya ilişkin soruşturma sürüyor. Katliamın ardından Eskişehir'in Seyitgazi ilçesinde yakalanarak gözaltına alınan Özdemir, İşlemlerinin ardından çıkarıldığı mahkeme tarafından tutuklanarak cezaevine gönderilmişti. 6 Kasım'da tutuklanan katil zanlısı hakkında yeni bir gelişme yaşandı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisiyi-katleden-katil-zanlisi-icin-yeni-karar-1750696"
         },
+        {
+          "title": "Doğadan topladığı mantar Nurcan'ı hayattan kopardı",
+          "summary": "Aydın’ın Nazilli ilçesinde doğadan topladığı mantarı yedikten sonra zehirlenen Nurcan Alp (45), 7 gündür tedavi gördüğü hastanede karaciğer yetmezliğinden hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/dogadan-topladigi-mantar-nurcani-hayattan-kopardi-43376888"
+        },
+        {
+          "title": "Psikoloğun paylaşımına tepki yağmıştı | Bakanlık harekete geçti, içeriğe erişim engeli getirildi",
+          "summary": "Aile ve Sosyal Hizmetler Bakanlığı, sanal medyada psikolog Fatih Reşit Civelekoğlu tarafından yapılan, çocukları silah kullanımına özendirici nitelikteki paylaşıma erişimin engellenmesine karar verildiğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/psikologun-paylasimina-tepki-yagmisti-bakanlik-harekete-gecti-icerige-erisim-engeli-getirildi-43376863"
+        },
+        {
+          "title": "15 Temmuz Şehitler Köprüsü'nde İstanbul trafiğini kilitleyen eylem",
+          "summary": "15 Temmuz Şehitler Köprüsü girişinde bir kişi elinde silah ve bayrakla aracının üzerine çıktı, uzun süren ikna çabaları sonucu aracın üzerinden indirildi. Eylem, İstanbul trafiğini kilitledi. İstanbul'da 15 Temmuz Şehitler Köprüsü üzerinde bir kişi elinde silah ve bayraklarla eylem yaptı. Saat 10.30 sıralarında başlayan protesto, 11.45 sıralarında sona erdi. İkna edilerek aracının üzerinden indirilen Pakistan uyruklu eylemci, gözaltına alınarak polis merkezine götürüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusunde-hareketli-anlar-elinde-silahla-aracinin-uzerine-cikti-trafik-durdu-1750681"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Dünya liderleri Türkiye'de. COP31 yoğun diplomasi trafiğiyle devam ediyor. Abu Dabi görüşmelerine ilişkin dikkat çeken iddia: 'Rusya Finlandiya'nın NATO'dan ayrılmasını istedi'. Güney Kore ile Japonya arasında Sado Adası gerilimi. Hollanda'da vergi krizi. Hükümet dağılma noktasına geldi, ülke seçime gidebilir. Suudi Arabistanlı Bakan Harif'den Türkiye'ye övgü dolu sözler: Öğreneceğimiz çok şey var. Sırbistan'da Öğrenci Listesi İsrail'in üzerini çizdi: 'Silah ticareti kesilecek'. Adı casusluk ve yasak aşk skandalına karışan yönetici küçümsemişti. Yeni Nvidia CEO'su kimdir?.",
+      "items": [
+        {
+          "title": "Dünya liderleri Türkiye'de. COP31 yoğun diplomasi trafiğiyle devam ediyor",
+          "summary": "Türkiye'nin ilk kez ev sahipliği yaptığı ve Avustralya ile başkanlığını paylaştığı COP31, 196 ülke ve Avrupa Birliği'nden 102 lider ile 300'den fazla bakanın katılımıyla Antalya'da devam ediyor. Türkiye'nin ilk kez ev sahipliği yaptığı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), 196 ülke ve Avrupa Birliği'nden gelen temsilcilerin katılımıyla Antalya'da sürüyor. 9-20 Kasım tarihlerindeki konferansa 102 ülkeden lider ve 300'den fazla bakan katılım bildirdi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-dunya-liderleri-turkiyede-cop31-yogun-diplomasi-trafigiyle-devam-ediyor-1750694"
+        },
+        {
+          "title": "Abu Dabi görüşmelerine ilişkin dikkat çeken iddia: 'Rusya Finlandiya'nın NATO'dan ayrılmasını istedi'",
+          "summary": "Ukrayna'daki savaşı sona erdirmek için Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'de yürütülen gayriresmi görüşmeler başladı. Rusya'nın görüşmelerde; Finlandiya'nın NATO'dan ayrılması, Baltık ülkelerinde NATO askeri üslerinin kurulmaması ve Ukrayna'nın işgal altındaki topraklarının tamamını Moskova'ya bırakması gibi kapsamlı taleplerde bulunduğu öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/dunya/abu-dabi-gorusmelerine-iliskin-dikkat-ceken-iddia-rusya-finlandiyanin-natodan-ayrilmasini-istedi-43376887"
+        },
+        {
+          "title": "Güney Kore ile Japonya arasında Sado Adası gerilimi",
+          "summary": "Güney Kore, Japonya'nın İkinci Dünya Savaşı'nın sona ermesinden önce Sado Adası'ndaki altın ve gümüş madeni kompleksinde yaşananları kabul etmesini istedi. Seul hükümeti, Koreli işçilerin madenlerde zorla çalıştırdığını belirterek, Tokyo'yu tarihi gerçeklerle yüzleşmeye çağırdı.",
+          "source": "https://www.hurriyet.com.tr/dunya/guney-kore-ile-japonya-arasinda-sado-adasi-gerilimi-43376853"
+        },
+        {
+          "title": "Hollanda'da vergi krizi. Hükümet dağılma noktasına geldi, ülke seçime gidebilir",
+          "summary": "Hollanda'da dokuz ay önce kurulan azınlık hükümeti, koalisyon ortaklarının vergi politikasında muhalefetle anlaşması üzerine dağılma noktasına geldi. Hollanda'da dokuz ay önce kurulan azınlık koalisyonu, vergi politikası yüzünden dağılma eşiğine geldi. Ülkenin en genç başbakanı olan merkez çizgideki Rob Jetten, hükümetini ayakta tutabilmek için ortaklarıyla bir araya geliyor. Avrupa Birliği'nin (AB) en büyük beşinci ekonomisinde patlak veren siyasi anlaşmazlık, ülkede yeniden erken seçim ihtimalini gündeme taşıdı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-hollandada-vergi-krizi-hukumet-dagilma-noktasina-geldi-ulke-secime-gidebilir-1750683"
+        },
+        {
+          "title": "Suudi Arabistanlı Bakan Harif'den Türkiye'ye övgü dolu sözler: Öğreneceğimiz çok şey var",
+          "summary": "Suudi Arabistan Devlet Bakanı ve Askeri Sanayiler Genel Otoritesi (GAMI) Başkan Vekili Bender bin İbrahim el-Harif, Türkiye'nin savunma sanayisindeki tecrübesinden öğrenecekleri çok şey olduğunu belirterek, bölgedeki gelişmelerin iki ülke arasında sanayide yerlileştirme alanında daha yakın işbirliğini gerekli kıldığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/dunya/suudi-arabistanli-bakan-harifden-turkiyeye-ovgu-dolu-sozler-ogrenecegimiz-cok-sey-var-43376809"
+        },
+        {
+          "title": "Sırbistan'da Öğrenci Listesi İsrail'in üzerini çizdi: 'Silah ticareti kesilecek'",
+          "summary": "Sırbistan seçimlerini kazanan Öğrenci Listesi'nin öne çıkan temsilcilerinden temsilcisi Filip Ubovic, İsrail ile silah ticaretinin durdurulması ve ülkede kurulacak İsrail insansız hava aracı (İHA) fabrikası projesinin iptalini planladıklarını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/sirbistanda-ogrenci-listesi-israilin-uzerini-cizdi-silah-ticareti-kesilecek-43376810"
+        },
+        {
+          "title": "Adı casusluk ve yasak aşk skandalına karışan yönetici küçümsemişti. Yeni Nvidia CEO'su kimdir?",
+          "summary": "Nvidia'nın kurucu ortağı Jensen Huang, casusluk skandalının ardından göreve veda etti ve yerine, Huang'ın kısa süre önce yetersizlikle suçladığı Mali İşler Direktörü Colette Kress getirildi. Dünyanın en değerli çip üreticisi Nvidia'da, iki evlilik dışı ilişkisinin ortaya çıkmasının ardından istifa eden CEO Jensen Huang'ın yerine geçici olarak atanan Mali İşler Direktörü (CFO) Colette Kress'in, yaz aylarında Huang tarafından sert sözlerle eleştirildiği ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-adi-casusluk-ve-yasak-ask-skandalina-karisan-yonetici-kucumsemisti-yeni-nvidia-ceosu-kimdir-1750665"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. 20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı.",
+      "items": [
         {
           "title": "BIST 100 endeksinde güçlü kapanış",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,24 değer kazanarak 11.811,19 puandan tamamladı.",
           "source": "https://www.hurriyet.com.tr/gundem/bist-100-endeksinde-guclu-kapanis-43376123"
         },
-        {
-          "title": "Bakan Göktaş: İklim değişikliği 216 milyon kişiyi yerinden edebilir",
-          "summary": "AİLE ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Dünya Bankası'nın öngörülerine göre 2050 yılına kadar 216 milyon kişinin iklim değişikliği nedeniyle kendi ülkesi içinde yer değiştirmek zorunda kalabileceğini belirterek, “Bu hareketlilik, kırsal nüfusun azalmasından kentlerin hızla büyümesine, hane yapılarından bakım düzenine kadar toplumsal yaşamın pek çok yönünü yeniden şekillendiriyor. Ayrıştırılmış demografik verileri, iklim eyleminin vazgeçilmez bir aracı olarak görüyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-goktas-iklim-degisikligi-216-milyon-kisiyi-yerinden-edebilir-43376117"
-        },
-        {
-          "title": "Meclis'e sunuldu: 2,2 milyon kişinin GSS borcu silinecek",
-          "summary": "AK Parti Grup Başkanı Abdullah Güler, Genel Sağlık Sigortası (GSS) prim borçlarının silinmesini öngören düzenlemenin Türkiye Büyük Millet Meclisi (TBMM) Başkanlığına sunulduğunu açıkladı. AK Parti Grup Başkanı Abdullah Güler, Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi'nin TBMM Başkanlığına sunulduğunu bildirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/meclise-sunuldu-22-milyon-kisinin-gss-borcu-silinecek-1750609"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "Dünyanın konuştuğu yasak aşk ve casusluk skandalında yeni gelişme. Nvidia CEO'su istifa etti. Beyaz Saray yakınlarında silahlı saldırı: Ölü ve yaralılar var. COP31'e damga vurdu. Lula da Silva: Çok duygulandım. ABD Başkanı Trump'tan tansiyonu yükselten açıklama: İran ile anlaşmaya gerek yok. Ermenistan Başbakanı Paşinyan'ın Antalya keyfi: İnce belli bardakta çay içti... Cebinde Anamur muzuyla ayrıldı. Kremlin'de barış pazarlığı. Putin, Trump'ın temsilcileriyle görüştü. İngiliz ekonomisi enerji darboğazına rağmen büyüdü.",
-      "items": [
-        {
-          "title": "Dünyanın konuştuğu yasak aşk ve casusluk skandalında yeni gelişme. Nvidia CEO'su istifa etti",
-          "summary": "Yapay zeka çip devi Nvidia'yı sarsan yasak aşk ve casusluk skandalında yeni bir gelişme yaşandı. CEO Jensen Huang istifa etti. ABD merkezli çip üreticisi Nvidia'nın kurucu ortağı ve Üst Yöneticisi (CEO) Jensen Huang, hakkında ortaya atılan casusluk ve evlilik dışı ilişki iddialarının ardından görevinden istifa etti. Şirketten 12 Kasım Perşembe günü yapılan açıklamada, 63 yaşındaki Huang'ın CEO'luk görevinin yanı sıra yönetim kurulu üyeliğinden de ayrıldığı bildirildi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-dunyanin-konustugu-yasak-ask-ve-casusluk-skandalinda-yeni-gelisme-nvidia-ceosu-istifa-etti-1750606"
-        },
-        {
-          "title": "Beyaz Saray yakınlarında silahlı saldırı: Ölü ve yaralılar var",
-          "summary": "ABD'nin başkenti Washington'da bir spor salonunda başlayan ve çevredeki sokaklara yayılan silahlı saldırıda 1 kişi hayatını kaybetti, 4 kişi yaralandı. Saldırganın kendini vurduğu bildirildi. ABD'nin başkenti Washington'ın Logan Circle semtinde düzenlenen silahlı saldırıda 1 kişi hayatını kaybetti, 4 kişi yaralandı. Washington Metropolitan Polis Departmanı, saldırının perşembe sabahı yerel saatle 08.00 sıralarında, Beyaz Saray'a yaklaşık 1,6 kilometre uzaklıktaki 15.",
-          "source": "https://www.ntv.com.tr/dunya/beyaz-saray-yakinlarinda-silahli-saldiri-yaralilar-var-1750607"
-        },
-        {
-          "title": "COP31'e damga vurdu. Lula da Silva: Çok duygulandım",
-          "summary": "Brezilya'da geçen ay devlet başkanlığı seçiminin ikinci turunu kazanarak dördüncü kez başkan seçilen Brezilya Devlet Başkanı Luiz Inacio Lula da Silva, COP31'de en dikkat çeken liderlerden biri oldu. Güney Amerika'nın en büyük ülkesi Brezilya'da geçen ay yapılan kritik ikinci tur genel seçimlerden zaferle çıkan ve dördüncü kez başkan seçilen Brezilya Devlet Başkanı Luiz Inacio Lula da Silva, Antalya'da devam eden Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-cop31e-damga-vurdu-lula-da-silva-cok-duygulandim-1750599"
-        },
-        {
-          "title": "ABD Başkanı Trump'tan tansiyonu yükselten açıklama: İran ile anlaşmaya gerek yok",
-          "summary": "İran ile görüşmelere ilişkin açıklama yapan ABD Başkanı Donald Trump, Tahran yönetimiyle anlaşmaya ihtiyaç duymadıklarını belirtti. Trump, ABD Başkan Yardımcısı JD Vance'ten İran ile anlaşma yerine \"Demokratların yolsuzluğuna\" odaklanmasını istediğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-tansiyonu-yukselten-aciklama-iran-ile-anlasmaya-gerek-yok-43375970"
-        },
-        {
-          "title": "Ermenistan Başbakanı Paşinyan'ın Antalya keyfi: İnce belli bardakta çay içti... Cebinde Anamur muzuyla ayrıldı",
-          "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında Türkiye'ye gelen Ermenistan Başbakanı Nikol Paşinyan, Antalya'dan İrlanda'nın başkentine giderken yanında Anamur muzu götürdü. Paşinyan, sosyal medya hesabından Türkiye'de ince belli bardaktan çay içtiği anları ve Antalya'daki zirve alanını ilgiyle izlediği görüntüleri paylaştı.",
-          "source": "https://www.hurriyet.com.tr/dunya/ermenistan-basbakani-pasinyanin-antalya-keyfi-ince-belli-bardakta-cay-icti-cebinde-anamur-muzuyla-ayrildi-43375918"
-        },
-        {
-          "title": "Kremlin'de barış pazarlığı. Putin, Trump'ın temsilcileriyle görüştü",
-          "summary": "Rusya Devlet Başkanı Putin, Ukrayna'daki savaşın çözümünü görüşmek üzere ABD Başkanı Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner ile Kremlin'de bir araya geldi. Rusya Devlet Başkanı Vladimir Putin, ABD Başkanı Donald Trump'ın Özel Temsilcisi Steve Witkoff ile Trump'ın damadı ve Özel Temsilcisi Jared Kushner ile Kremlin'de bir araya geldi. Devlet Başkanı Yardımcısı Yuriy Uşakov, görüşmenin gündemini Ukrayna'daki ihtilafın çözümüne yönelik konuların oluşturduğunu açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-kremlinde-baris-pazarligi-putin-trumpin-temsilcileriyle-gorustu-1750601"
-        },
-        {
-          "title": "İngiliz ekonomisi enerji darboğazına rağmen büyüdü",
-          "summary": "İngiltere ekonomisi, ABD ile İran arasındaki savaşın tetiklediği küresel enerji krizine rağmen yapay zeka harcamalarının etkisiyle üçüncü çeyrekte yüzde 0,7 büyüme kaydetti. İngiltere ekonomisi, İran ve Ukrayna'daki savaşların körüklediği enerji maliyetleri ve tedarik aksaklıklarına rağmen yapay zeka harcamalarının etkisiyle üçüncü çeyrekte beklentiler doğrultusunda yüzde 0,7 büyüdü.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-ingiliz-ekonomisi-enerji-darbogazina-ragmen-buyudu-1750597"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. 20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı. Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı.",
-      "items": [
         {
           "title": "Makine ve inşaatın röntgenini çektiler",
           "summary": "İZMİR Sanayici ve İş İnsanları Derneği (İZSİAD), İzmir Defterdarı Ömer Alanlı’yı ziyaret ederek makine ve inşaat sektörlerine yönelik değerlendirme toplantılarında belirlenen sorunları ve çözüm önerilerini paylaştı. İZSİAD heyetinde Yönetim Kurulu Başkanı Alaattin Yüksel, Başkan Yardımcıları İbrahim Baylan ve Salih Özçiftçi ile Yönetim Kurulu Üyesi Mert Şardağ ve üye Taner Telcioğlu yer aldı.",
@@ -115,21 +120,72 @@
           "title": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
           "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
           "source": "https://www.hurriyet.com.tr/gundem/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi-43366219"
-        },
-        {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı",
-          "summary": "İSTANBUL'da düzenlenen 19'uncu Milli İrade Buluşması programında konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye ihracatını arttırmaya devam ediyor. 25.9 milyar dolarla ekim ayları için tarihi bir rekor ihracat gerçekleştirmişiz. Yıllıklandırılmış dediğimiz ihracatı, bu ekimden bir önceki ekim ayına kadar götürdüğünüzde 1 yılda ne kadar olmuş diye baktığınızda 285,6 milyar dolara ulaşmışız\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiyenin-ekim-ayi-ihracati-rekor-kirdi-43365117"
         }
       ]
     },
     "spor": {
-      "text": "",
-      "items": []
+      "text": "PFDK'den 7 Süper Lig kulübüne para cezası. NBA yönetimi, yumruk atan Marcus Smart'a 3 maç men cezası verdi!. Fransa - Türkiye maçının hakemi açıklandı!. Fenerbahçe, İngilizlerin peşinde olduğu Archie Brown'ın yerine alacağı ismi buldu!. Galatasaray'dan RAMS Park zemini için yeni karar!. A Milli Takım'ın mağlubiyeti Belçika basınında: 'Çılgın 4 dakika! Acı içinde gelen mutluluk'. Fenerbahçe Tarfin'de Chris Silva ile yollar ayrıldı!.",
+      "items": [
+        {
+          "title": "PFDK'den 7 Süper Lig kulübüne para cezası",
+          "summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), Trendyol Süper Lig'den 7 kulübe para cezası verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/pfdkden-7-super-lig-kulubune-para-cezasi-43376885"
+        },
+        {
+          "title": "NBA yönetimi, yumruk atan Marcus Smart'a 3 maç men cezası verdi!",
+          "summary": "NBA'de Houston Rockets'ın ABD'li basketbolcusu Marcus Smart'a, rakibinin yüzüne yumruk attığı gerekçesiyle 3 maç men cezası verildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nba-yonetimi-yumruk-atan-marcus-smarta-3-mac-men-cezasi-verdi-43376837"
+        },
+        {
+          "title": "Fransa - Türkiye maçının hakemi açıklandı!",
+          "summary": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'ta 15 Kasım Pazar günü Fransa'ya konuk olacağı altıncı hafta maçını İngiliz hakem Chris Kavanagh yönetecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fransa-turkiye-macinin-hakemi-aciklandi-43376857"
+        },
+        {
+          "title": "Fenerbahçe, İngilizlerin peşinde olduğu Archie Brown'ın yerine alacağı ismi buldu!",
+          "summary": "Özellikle Şampiyonlar Ligi'nde sergilediği performansla ülkesi İngiltere'nin dev kulüplerini peşine takan Archie Brown, Fenerbahçe yönetimini harekete geçirdi. Sarı-lacivertliler, İngiliz sol bekin alternatifini hazırladı. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ingilizlerin-pesinde-oldugu-archie-brownin-yerine-alacagi-ismi-buldu-43376793"
+        },
+        {
+          "title": "Galatasaray'dan RAMS Park zemini için yeni karar!",
+          "summary": "Galatasaray, RAMS Park'ın zemininde yaşanan sorunları kalıcı olarak çözmek için yıl sonunda yeniden değişime gitmeyi planlıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-rams-park-zemini-icin-yeni-karar-43376771"
+        },
+        {
+          "title": "A Milli Takım'ın mağlubiyeti Belçika basınında: 'Çılgın 4 dakika! Acı içinde gelen mutluluk'",
+          "summary": "A Milli Futbol Takımı, UEFA Uluslar Ligi'nde dün akşam konuk ettiği Belçika'ya 2-1 mağlup oldu. Belçika basını, Türkiye karşısında alınan galibiyetin mimarı olarak Jeremy Doku'yu seçerken A Milli Takım'ın tek golünü kaydeden Arda Güler'den de övgü dolu sözlerle bahsedildi. İşte Türkiye - Belçika maçının Belçika basınındaki yansımaları...",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takimin-maglubiyeti-belcika-basininda-cilgin-4-dakika-aci-icinde-gelen-mutluluk-43376658"
+        },
+        {
+          "title": "Fenerbahçe Tarfin'de Chris Silva ile yollar ayrıldı!",
+          "summary": "Fenerbahçe Tarfin, Chris Silva ile yolların ayrıldığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfinde-chris-silva-ile-yollar-ayrildi-43376683"
+        }
+      ]
     },
     "teknoloji": {
-      "text": "5G gücüyle çalışan yerli otonom sistem için geri sayım resmen başladı. COP31'de Doğuş Teknoloji'ye ödül: Dönüşen teknolojik atıklar genç kızların eğitimlerine destek oldu. Tim Cook NTV'ye konuk oldu. Apple'ın Türkiye'deki yeni projesinin ayrıntılarını açıkladı. GTA 6 için ön yükleme süreci başladı: 19 Kasım'da oynanabilecek. İHA'lar için drone otoyolları oluşturulacak. ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı. Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı.",
+      "text": "Vodafone Business, LIFT ile iş ortaklarının uzmanlığını müşterileriyle buluşturacak. Stratejist Jelassi’den teknoloji uyarısı: İnsana yatırım yapın. Microsoft'ta küresel erişim sorunu! 74 ülkede hizmetler aksadı. Microsoft hata verdi. Kullanıcılar ulaşamıyor. 5G gücüyle çalışan yerli otonom sistem için geri sayım resmen başladı. COP31'de Doğuş Teknoloji'ye ödül: Dönüşen teknolojik atıklar genç kızların eğitimlerine destek oldu. Tim Cook NTV'ye konuk oldu. Apple'ın Türkiye'deki yeni projesinin ayrıntılarını açıkladı.",
       "items": [
+        {
+          "title": "Vodafone Business, LIFT ile iş ortaklarının uzmanlığını müşterileriyle buluşturacak",
+          "summary": "Vodafone Business, mevcut ve potansiyel iş ortaklarını MEXT Teknoloji Merkezi’nde düzenlediği Partner Day etkinliğinde buluşturdu. Etkinlikte yeni LIFT Partner Programı tanıtıldı. Vodafone Business, partner ekosistemini güçlendirmek ve birlikte büyüme vizyonunu paylaşmak amacıyla MEXT Teknoloji Merkezi’nde Partner Day etkinliğini gerçekleştirdi.",
+          "source": "https://www.ntv.com.tr/teknoloji/vodafone-business-lift-ile-is-ortaklarinin-uzmanligini-musterileriyle-bulusturacak-1750699"
+        },
+        {
+          "title": "Stratejist Jelassi’den teknoloji uyarısı: İnsana yatırım yapın",
+          "summary": "IMD Strateji ve Teknoloji Yönetimi Profesörü ve UNESCO Eski Genel Direktör Yardımcısı Dr. Tawfik Jelassi, küresel dijital dönüşüm projelerinin yüzde 80’inin başarısız olma nedeninin teknolojik yetersizlik değil, insan unsurunun göz ardı edilmesi olduğunu belirtti.",
+          "source": "https://www.hurriyet.com.tr/ik/stratejist-jelassiden-teknoloji-uyarisi-insana-yatirim-yapin-43376559"
+        },
+        {
+          "title": "Microsoft'ta küresel erişim sorunu! 74 ülkede hizmetler aksadı",
+          "summary": "Microsoft'un bazı hizmetlerinde erişim sorunu yaşandığı bildirildi. 74 ülkede yaşanan sorunun ortaya çıkmasının üzerinden 12 saatten fazla zaman geçmesine rağmen sorun hala çözülemedi. Microsoft, sürecin umdukları gibi gitmediğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/teknoloji/microsoftta-kuresel-erisim-sorunu-74-ulkede-hizmetler-aksadi-43376513"
+        },
+        {
+          "title": "Microsoft hata verdi. Kullanıcılar ulaşamıyor",
+          "summary": "Microsoft, kullanıcıların çok sayıda hizmetini kullanımında sorun yaşadığını duyurdu. Şirket sorunun siber saldırıdan kaynaklanmadığını açıkladı. ABD merkezli teknoloji devi Microsoft'un bir çok ürününde erişim sorunları yaşanıyor. Hizmet kesintilerini takip eden Downdetector sitesinin verilerine göre, Türkiye saatiyle 20.30 itibarıyla Microsoft 365, Outlook ve Teams hizmetlerine erişimde sorun yaşandığına ilişkin kullanıcı bildirimleri alındı.",
+          "source": "https://www.ntv.com.tr/teknoloji/microsoft-hata-verdi-kullanicilar-ulasamiyor-1750637"
+        },
         {
           "title": "5G gücüyle çalışan yerli otonom sistem için geri sayım resmen başladı",
           "summary": "COP31 İklim Zirvesi'nde yerli yazılımla desteklenen otonom araç ve insansı robot teknolojilerini tanıtan Türk Telekom İnnova Genel Müdürü Huzeyfe Yılmaz, kritik projenin detayları paylaştı",
@@ -144,32 +200,17 @@
           "title": "Tim Cook NTV'ye konuk oldu. Apple'ın Türkiye'deki yeni projesinin ayrıntılarını açıkladı",
           "summary": "Apple Yönetim Kurulu Başkanı Tim Cook, NTV’ye özel açıklamalarında Türkiye’deki yeni projelerini anlattı.",
           "source": "https://www.ntv.com.tr/teknoloji/video-tim-cook-ntvye-konuk-oldu-applein-turkiyedeki-yeni-projesinin-ayrintilarini-acikladi-1750276"
-        },
-        {
-          "title": "GTA 6 için ön yükleme süreci başladı: 19 Kasım'da oynanabilecek",
-          "summary": "Oyun dünyasının 13 yıldır beklediği Grand Theft Auto VI (GTA 6), 19 Kasım'da piyasaya çıkıyor. Rockstar Games'in oyunu için ön yükleme sürecinin başladığını duyurdu. Oyun dünyasının merakla beklediği Grand Theft Auto VI (GTA 6) için geri sayım başladı. ABD merkezli oyun geliştiricisi Rockstar Games, 19 Kasım'da piyasaya sürülecek oyun bugünden itibaren ön indirmeye açıldı.",
-          "source": "https://www.ntv.com.tr/teknoloji/gta-6-icin-on-yukleme-sureci-basladi-19-kasimda-oynanabilecek-1750160"
-        },
-        {
-          "title": "İHA'lar için drone otoyolları oluşturulacak",
-          "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu \"drone otoyolu\" olarak da bilinen insansız hava aracı (İHA) koridorlarının hukuki altyapısının oluşturulduğunu söyledi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Sivil Havacılık Genel Müdürlüğü (SHGM) tarafından 30 Temmuz 2026 tarihinde yayımlanan İnsansız Hava Aracı Sistemleri Talimatı (SHT-İHA) kapsamında oluşturulacak İHA koridorlarına ilişkin açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-ihalar-icin-drone-otoyollari-olusturulacak-1749971"
-        },
-        {
-          "title": "ZEED, “A'dan Z'ye, Sana Göre” Yaklaşımıyla Türkiye Teknoloji Pazarına Giriş Yaptı",
-          "summary": "Yeni teknoloji markası ZEED, İstanbul'da düzenlenen lansmanla tanıtıldı. “A'dan Z'ye, Sana Göre” yaklaşımıyla yola çıkan marka; akıllı telefon, tablet ve aksesuar ürünleriyle farklı kullanıcı ihtiyaçlarına yanıt vermeyi hedefliyor. Erişilebilir teknoloji anlayışını kişiselleştirilmiş kullanıcı deneyimiyle buluşturan ZEED, üç yıl garanti avantajıyla Türkiye pazarında kendine yer açmaya hazırlanıyor.",
-          "source": "https://www.hurriyet.com.tr/advertorial/zeed-adan-zye-sana-gore-yaklasimiyla-turkiye-teknoloji-pazarina-giris-yapti-43368022"
-        },
-        {
-          "title": "Çocukların odası uzay üssü gibi... Öğretmen ve velilerin sorumlulukları arttı",
-          "summary": "İstanbul Bağcılar’da düzenlenen Türkiye Yüzyılı Maarif Modeli Disiplinler Arası Kongresi’nde konuşan Ankara Üniversitesi Emeli Öğretim Üyesi Prof. Dr. Hafize Keser, “Çocukların odası uzay üssü gibi teknolojik cihazlarla donatılmış durumda. Bu çağda hem öğretmenlerin hem de velilerin sorumlulukları arttı” dedi.",
-          "source": "https://www.hurriyet.com.tr/egitim/cocuklarin-odasi-uzay-ussu-gibi-ogretmen-ve-velilerin-sorumluluklari-artti-43367798"
         }
       ]
     },
     "saglik": {
-      "text": "ABD'den uyarı: Zayıflama ilaçlarında körlük riski. ABD uyardı. Ozempic ve Mounjaro kör edebilir, üstelik tedavisi de yok. 12 bin hastanın verisi incelendi: İnme riski o saatlerde yüzde 72 artıyor. Stres baş ağrısını nasıl tetikliyor?. Beyin kanserine karşı yeni yöntem. Bodrum'da hayat kurtaran ameliyat: \"Yaşım 75 muhtemelen 21 yaşıma döndüm\". Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat.",
+      "text": "Bu gıdalar mikroplastikleri vücuttan atıyor. ABD'den uyarı: Zayıflama ilaçlarında körlük riski. ABD uyardı. Ozempic ve Mounjaro kör edebilir, üstelik tedavisi de yok. 12 bin hastanın verisi incelendi: İnme riski o saatlerde yüzde 72 artıyor. Stres baş ağrısını nasıl tetikliyor?. Beyin kanserine karşı yeni yöntem. Bodrum'da hayat kurtaran ameliyat: \"Yaşım 75 muhtemelen 21 yaşıma döndüm\".",
       "items": [
+        {
+          "title": "Bu gıdalar mikroplastikleri vücuttan atıyor",
+          "summary": "Çinli bilim insanlarının yeni araştırmasına göre lifli gıdalar \"sindirim sisteminde doğal bir süpürge gibi davranıyor, mikro plastikleri vücuttan uzaklaştırıyor.\" Su, hava ve gıdalar yoluyla her gün vücudumuza aldığımız mikroplastikler artık kaçınılmaz bir küresel sağlık sorunu. Yeni bir araştırma, beslenme düzenimizle ilgili ezber bozan bir detayı ortaya çıkardı. Çinli bilim insanları, lifli gıdalarla beslenmenin mikroplastiklere karşı da koruma sağladığını tespit etti.",
+          "source": "https://www.ntv.com.tr/saglik/bu-gidalar-mikroplastikleri-vucuttan-atiyor-1750642"
+        },
         {
           "title": "ABD'den uyarı: Zayıflama ilaçlarında körlük riski",
           "summary": "ABD FDA, zayıflama iğnelerinin nadir de olsa ciddi göz hastalığına ve görme kaybına yol açabileceği uyarısının ilaç etiketlerine eklenmesini istedi.",
@@ -199,11 +240,6 @@
           "title": "Bodrum'da hayat kurtaran ameliyat: \"Yaşım 75 muhtemelen 21 yaşıma döndüm\"",
           "summary": "Bodrum'da tatil yaptığı sırada bilincini kaybeden 75 yaşındaki İngiliz turist, nefes borusunda oluşan yırtığın Türk doktorlar tarafından ameliyatla onarılmasının ardından sağlığına kavuştu. Tatilde nefes borusu yırtılan İngiliz turist, Türk doktorların müdahalesiyle hayata yeniden tutundu. Eşiyle yaklaşık bir ay önce kruvaziyer turuyla Bodrum'a gelen Bernard Cotterill, gemide henüz belirlenemeyen bir nedenle aniden rahatsızlanarak bilincini kaybetti.",
           "source": "https://www.ntv.com.tr/saglik/galeri-bodrumda-hayat-kurtaran-ameliyat-yasim-75-muhtemelen-21-yasima-dondum-1749810"
-        },
-        {
-          "title": "Bir lokması ölüme götürebilir! Doğadaki ölümcül mantar tehlikesine dikkat",
-          "summary": "Doğada masum görünen bazı mantarlar ölümcül zehirler taşıyor. Bir lokması bile hayati tehlikeye yol açabilen zehirli mantarlar hangileri? Mantar toplarken nelere dikkat edilmeli?",
-          "source": "https://www.ntv.com.tr/saglik/video-bir-lokmasi-olume-goturebilir-dogadaki-olumcul-mantar-tehlikesine-dikkat-1749156"
         }
       ]
     },
