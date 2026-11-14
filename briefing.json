@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-14T04:00:04.939Z",
+  "generatedAt": "2026-11-14T10:00:04.327Z",
   "categories": {
     "gundem": {
-      "text": "Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da dolu ve hortum alarmı. Ulusal Adil Geçiş Stratejisi ve Eylem Planı'na ilişkin genelge Resmi Gazete'de. Mekke Savunma Anlaşması yürürlüğe girdi. Bakan Kacır: Türkiye’nin yeşil dönüşüm hedeflerine erişmesi için çalışıyoruz. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. Bakan Çiftçi'den iki kadına yardım eden polislere teşekkür. Türkiye Sigorta fon kazancını TMSF'ye iade etti.",
+      "text": "Malatya şehitlerine acı veda. Yeni Parti ilk kurultayını yapıyor. Londra Belediye Başkanı Sadiq Khan İstanbul’a hayran kaldı! Sultanahmet’ten Kapalıçarşı’ya şehrin tarihî yerlerini gezdi. Yeni uygulama başlıyor, asıl tehlike 2000 öncesinde: \"Bulamıyoruz\". Yargıtay'dan boşanma davasında dikkat çeken karar. Eski sevgiliyle mesajları silmemek kusur sayıldı. Gaziosmanpaşa'daki bina yangını: 2 apartmana daha sıçradı! Müdahale ediliyor. 7 ilde nitelikli dolandırıcılık operasyonu: 12 gözaltı.",
       "items": [
         {
-          "title": "Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da dolu ve hortum alarmı",
-          "summary": "İstanbul'daki lodos etkili oluyor. Bugün poyrazla birlikte sıcaklık 8 derece düşecek, kent genelinde dolu ve hortum oluşma riski var. İstanbul dahil 11 il için sarı alarm verildi. HORTUM VE DOLU RİSKİ VAR Türkiye genelinde lodosla ılık hava etkisini sürdürüyor. Marmara Bölgesi'nde şiddetli lodos hayatı olumsuz etkilemeye devam ederken dün (13 Kasım Cuma) sabah saatlerinden itibaren etkisini artıran lodos hayatı olumsuz etkiledi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-ruzgar-tersine-donecek-sicaklik-sert-dusecek-istanbulda-dolu-ve-hortum-alarmi-1750734"
+          "title": "Malatya şehitlerine acı veda",
+          "summary": "Malatya'daki helikopter kazasında hayatını kaybeden 4 şehit bugün son yolculuklarına uğurlanıyor. Şehit Pilot Binbaşı Orhun Pınar'ın cenaze törenine MHP lideri Devlet Bahçeli de katıldı. 12 Kasım saat 18.45 sıralarında 2'nci Kara Havacılık Alayı'na ait S-70 tipi helikopter, kalkıştan kısa süre sonra henüz bilinmeyen nedenle Malatya'da Yeşilyurt'a bağlı Samanköy Mahallesi'nde düştü.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-malatya-sehitlerine-aci-veda-1750816"
         },
         {
-          "title": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı'na ilişkin genelge Resmi Gazete'de",
-          "summary": "CUMHURBAŞKANI Recep Tayyip Erdoğan'ın imzasıyla Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) hakkında genelge, Resmi Gazete'de yayımlandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-planina-iliskin-genelge-resmi-gazetede-43377728"
+          "title": "Yeni Parti ilk kurultayını yapıyor",
+          "summary": "Yeni Parti'nin ilk olağan kurultayı yapılıyor. Özgür Özel, genel başkanlık için tek aday olarak seçime giriyor. Parti Meclisi'nde (PM) üye sayısının yükseltilmesi dikkati çekiyor. Yeni Parti'nin 1. Olağan Kurultay'ı, Ankara Arena'da başladı. Genel Başkan Özgür Özel, eşi Didem Özel ve kızı İpek Özel ile birlikte alana geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-yeni-parti-ilk-kurultayini-yapiyor-1750828"
         },
         {
-          "title": "Mekke Savunma Anlaşması yürürlüğe girdi",
-          "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Savunma Anlaşması, Resmi Gazete'de yayımlanarak yürürlüğe girdi. Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması, Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulu'nda onaylanmasının ardından Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-          "source": "https://www.ntv.com.tr/turkiye/mekke-savunma-anlasmasi-yururluge-girdi-1750772"
+          "title": "Londra Belediye Başkanı Sadiq Khan İstanbul’a hayran kaldı! Sultanahmet’ten Kapalıçarşı’ya şehrin tarihî yerlerini gezdi",
+          "summary": "Londra Belediye Başkanı Sadiq Khan, Kültür ve Turizm Bakan Yardımcısı Dr. Coşkun Yılmaz’ın eşlik ettiği İstanbul programında Türk ve İslam Eserleri Müzesi’ni ziyaret etti. Sultanahmet Camii’nde cuma namazı kılan Khan, Divanyolu üzerinden Kapalıçarşı’ya yürüdü. Bakan Yardımcısı Yılmaz, Khan’a Mehmed Şevki Efendi hattıyla yazılmış bir Mushaf-ı Şerif hediye etti. Khan, ziyaretine ilişkin paylaşımında Londra ile İstanbul arasındaki köklü kültürel bağlara dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/gundem/londra-belediye-baskani-sadiq-khan-istanbula-hayran-kaldi-sultanahmetten-kapalicarsiya-sehrin-tarihi-yerlerini-gezdi-43378019"
         },
         {
-          "title": "Bakan Kacır: Türkiye’nin yeşil dönüşüm hedeflerine erişmesi için çalışıyoruz",
-          "summary": "SANAYİ ve Teknoloji Bakanı Mehmet Fatih Kacır 35'e 35 Küresel Elektrifikasyon Taahhüdü Toplantısı’na katıldığını belirterek, “Türkiye’nin yeşil dönüşüm hedeflerine erişmesi için çalışıyoruz” dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kacir-turkiyenin-yesil-donusum-hedeflerine-erismesi-icin-calisiyoruz-43377695"
+          "title": "Yeni uygulama başlıyor, asıl tehlike 2000 öncesinde: \"Bulamıyoruz\"",
+          "summary": "Bina Kimlik Sertifikası uygulamasına ek olarak 1 Ocak'ta yeni bir proje hayata geçecek. Artık her bina beş yılda bir denetlenecek. Ancak uzmanlar başka bir tehlikeye dikkat çekiyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 2021'den itibaren uygulanan Bina Kilik Sertifikası'na ek olarak yeni bir uygulamayı hayata geçirmeye hazırlanıyor. Yeni uygulamayla birlikte yapılara beş yılda bir denetim şartı getirilecek.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-yeni-uygulama-basliyor-asil-tehlike-2000-oncesinde-bulamiyoruz-1750819"
         },
+        {
+          "title": "Yargıtay'dan boşanma davasında dikkat çeken karar. Eski sevgiliyle mesajları silmemek kusur sayıldı",
+          "summary": "Yargıtay, bir boşanma davasında eski sevgiliyle yapılan mesajlaşmaların silinmemesini kusur olarak değerlendirdi. 2020 yılında evlenen çift, bir süre sonra karşılıklı boşanma davası açtı. Aile mahkemesinde görülen davada, boşanmanın yanı sıra velayet, nafaka, tazminat ve çocukla kişisel ilişki kurulması konuları değerlendirildi. Her iki tarafın avukatı da yerel mahkeme ve istinaf kararlarına karşı temyiz başvurusunda bulundu. Dosya, Yargıtay'a taşındı.",
+          "source": "https://www.ntv.com.tr/turkiye/yargitaydan-bosanma-davasinda-dikkat-ceken-karar-eski-sevgiliyle-mesajlari-silmemek-kusur-sayildi-1750818"
+        },
+        {
+          "title": "Gaziosmanpaşa'daki bina yangını: 2 apartmana daha sıçradı! Müdahale ediliyor",
+          "summary": "Gaziosmanpaşa Karadeniz Mahallesi'nde 4 katlı binanın çatısında çıkan yangın, bitişiğindeki 2 apartmana daha sıçradı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gaziosmanpasadaki-bina-yangini-2-apartmana-daha-sicradi-mudahale-ediliyor-43378002"
+        },
+        {
+          "title": "7 ilde nitelikli dolandırıcılık operasyonu: 12 gözaltı",
+          "summary": "İçişleri Bakanlığı: Gaziantep merkezli 7 ilde düzenlenen 'Bilişim sistemlerini kullanarak nitelikli dolandırıcılık' suçuna yönelik operasyonlarda 12 şüpheli yakalandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/7-ilde-nitelikli-dolandiricilik-operasyonu-12-gozalti-43378004"
+        }
+      ]
+    },
+    "dunya": {
+      "text": "Trump, Çin ziyaretinde skandalı gündeme getirmeyecek. ABD Dışişleri Bakanı Rubio: Uluslararası Ceza Mahkemesi gayrimeşru. İki sene mahzende bekletildi, dünyanın en iyisi seçildi. Aynı kalbi paylaşan ve aynı kadına aşık olan iki adamın olağanüstü hikayesi... Ölümleri bile aynı sonla oldu. Microsoft'ta sorun çözüldü: Yeniden hizmette. Skandal Silikon Vadisi'ni belirsizliğe sürükledi. CEO parasıyla birlikte gitti. Akkuyu Nükleer'den milli gelire 50 milyar doları aşan katkı beklentisi.",
+      "items": [
+        {
+          "title": "Trump, Çin ziyaretinde skandalı gündeme getirmeyecek",
+          "summary": "ABD medyası, Başkan Trump'ın APEC Zirvesi için gideceği Çin'de, Nvidia'nın eski CEO'su Jensen Huang ile bağlantılı casusluk iddialarını gündeme getirmeyi planlamadığını yazdı. ABD Başkanı Donald Trump'ın Çin'e yapacağı ziyarette Nvidia'nın eski CEO'su Jensen Huang hakkındaki casusluk iddialarını gündeme getirmeyi planlamadığı ileri sürüldü.",
+          "source": "https://www.ntv.com.tr/dunya/trump-cin-ziyaretinde-skandali-gundeme-getirmeyecek-1750837"
+        },
+        {
+          "title": "ABD Dışişleri Bakanı Rubio: Uluslararası Ceza Mahkemesi gayrimeşru",
+          "summary": "ABD Dışişleri Bakanı Marco Rubio, Ulusal Hukukçular Kongresi'nde yaptığı konuşmada Uluslararası Ceza Mahkemesi'ni \"sahte ve gayrimeşru\" olarak nitelendirdi. ABD Dışişleri Bakanı Marco Rubio, Uluslararası Ceza Mahkemesini (UCM) \"sahte ve gayrimeşru\" olarak nitelendirdi. Rubio, muhafazakar hukukçulardan oluşan Federalist Society'nin düzenlediği Ulusal Hukukçular Kongresi'nde konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/abd-disisleri-bakani-rubio-uluslararasi-ceza-mahkemesi-gayrimesru-1750835"
+        },
+        {
+          "title": "İki sene mahzende bekletildi, dünyanın en iyisi seçildi",
+          "summary": "Fransa'daki Jura Dağları'nda bulunan bir mahzende 24 ay boyunca olgunlaştırılan Comté peyniri, 2026 Dünya Peynir Ödülleri'nde şampiyon oldu. Fransa'nın doğusundaki bir dağ mahzeninde iki yıl boyunca bekletilen bir tekerlek peynir, dünyanın en iyi peyniri seçildi. İspanya'nın Córdoba kentinde önceki gün düzenlenen 2026 Dünya Peynir Ödülleri'nde şampiyonluğa ulaşan bu ürün, 24 ay olgunlaştırılmış bir Comté oldu.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-iki-sene-mahzende-bekletildi-dunyanin-en-iyisi-secildi-1750833"
+        },
+        {
+          "title": "Aynı kalbi paylaşan ve aynı kadına aşık olan iki adamın olağanüstü hikayesi... Ölümleri bile aynı sonla oldu",
+          "summary": "Kalp nakli hayat kurtarır; peki ya bir insanın kalbiyle birlikte ruhunu, hatıralarını ve hatta kaderini de taşıması mümkün mü? Kalp nakliyle hayata tutunan bir adam, donörünün eşine aşık oldu, evlendi ve 13 yıl sonra tıpkı donörü gibi intihar ederek hayatına son verdi. İki adamın yaşam ve ölümünün birbirine bağlandığı bu sarsıcı hikâye, tıp dünyasını ve insan doğasını derinden sarsan çözülememiş bir gizemi gözler önüne seriyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/ayni-kalbi-paylasan-ve-ayni-kadina-asik-olan-iki-adamin-olaganustu-hikayesi-olumleri-bile-ayni-sonla-oldu-43371302"
+        },
+        {
+          "title": "Microsoft'ta sorun çözüldü: Yeniden hizmette",
+          "summary": "Microsoft 365, Outlook ve Teams hizmetlerinde dünya genelinde yaşanan erişim sorunu giderildi. 70'ten fazla ülkede şirketleri ve kamu kurumlarını etkileyen kesintinin ardından hizmetler yeniden kullanıma açılmaya başladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/microsoftta-sorun-cozuldu-yeniden-hizmette-43377982"
+        },
+        {
+          "title": "Skandal Silikon Vadisi'ni belirsizliğe sürükledi. CEO parasıyla birlikte gitti",
+          "summary": "Nvidia CEO'su Jensen Huang'ın skandallar sonrası istifası, şirketin piyasa değerinden yaklaşık 573 milyar doların silinmesine yol açtı. Dünyanın en değerli ikinci şirketi Nvidia'nın CEO'su Jensen Huang, yasak ilişkisi Alice Huang'ın Çin casusu çıkmasının ardından görevinden istifa etti. Huang'ın ani ayrılığı teknoloji dünyasında şok etkisi yaratırken, şirketin hisseleri hafta başından Cuma kapanışına kadar yüzde 12,75 değer kaybetti.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-skandal-silikon-vadisini-belirsizlige-surukledi-ceo-parasiyla-birlikte-gitti-1750813"
+        },
+        {
+          "title": "Akkuyu Nükleer'den milli gelire 50 milyar doları aşan katkı beklentisi",
+          "summary": "Akkuyu Nükleer Anonim Şirketi Yönetim Kurulu Başkanı Anton Dedusenko, santrale yapılan yatırımların Türkiye'nin GSYH'sine 50 milyar ABD dolarını aşan bir etki yapmasının beklendiğini açıkladı. Akkuyu Nükleer Anonim Şirketi Yönetim Kurulu Başkanı Anton Dedusenko, santral yatırımlarının Türkiye'nin gayrisafi yurt içi hasılası (GSYH) üzerinde iki katlık bir etki yarattığını ve bu katkının 50 milyar ABD dolarını aşmasının beklendiğini açıkladı. Dedusenko, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31.",
+          "source": "https://www.ntv.com.tr/dunya/akkuyu-nukleerden-milli-gelire-50-milyar-dolari-asan-katki-beklentisi-1750817"
+        }
+      ]
+    },
+    "ekonomi": {
+      "text": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. 20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi.",
+      "items": [
         {
           "title": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu",
           "summary": "Türkiye ile Katar arasında düzenlenen 12. Yüksek Stratejik Komite Toplantısı ortak bildirisinde, iki ülke arasında birçok alanda süren işbirliklerine ve anlaşmalara işaret edilerek, bölgesel istikrar ve güvenliğe yönelik çağrılarda bulunuldu.",
           "source": "https://www.hurriyet.com.tr/gundem/turkiye-katar-yuksek-stratejik-komite-12-toplantisi-ortak-bildirisi-yayimlandi-terorle-mucadele-ve-isbirlikleri-vurgusu-43377680"
         },
-        {
-          "title": "Bakan Çiftçi'den iki kadına yardım eden polislere teşekkür",
-          "summary": "İçişleri Bakanı Mustafa Çiftçi, Bartın'da gece saatlerinde aracı arızalanarak yolda kalan iki kadına yardım eden polislere teşekkür etti.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftciden-iki-kadina-yardim-eden-polislere-tesekkur-43377648"
-        },
-        {
-          "title": "Türkiye Sigorta fon kazancını TMSF'ye iade etti",
-          "summary": "Türkiye Sigorta AŞ, 1 milyar 599 milyon 887 bin 908 TL'nin iade edilecek kazanç olarak belirlendiğini ve iade tutarının bugün Tasarruf Mevduatı Sigorta Fonu (TMSF) hesabına yatırıldığını bildirdi. Türkiye Sigorta AŞ tarafından Kamuyu Aydınlatma Platformu üzerinden konuya ilişkin açıklama yapıldı. Açıklamada, şirketin 30 Eylül 2026 itibarıyla tasfiyeye konu fonlarda bakiyesi bulunmadığı belirtildi.",
-          "source": "https://www.ntv.com.tr/turkiye/turkiye-sigorta-fon-kazancini-tmsfye-iade-etti-1750763"
-        }
-      ]
-    },
-    "dunya": {
-      "text": "ABD'de havacılık krizi. Uçuş yasağı kaldırıldı. Trump, Şi ve Putin'le üçlü görüşme gerçekleştirecek. ABD'de tanker, kruz gemisini batırdı. ABD'de uçuşları durdurma kararı kaldırıldı. Yapay zekanın babasından yeni uyarı. \"İnsanlık kontrolünü 3 yılda kaybedebilir\". İngiltere’de dron alarmı. ABD askerinin bulunduğu üs personeline sığınaklara geçme talimatı verildi. Avrupa'nın Ukrayna temsilcileri belli oldu. E5 ülkeleri ve AB kurumları masada olacak.",
-      "items": [
-        {
-          "title": "ABD'de havacılık krizi. Uçuş yasağı kaldırıldı",
-          "summary": "ABD'de olağanüstü koşullar ve güvenlik gerekçeleri nedeniyle tüm uçuşlar 4.5 durduruldu. Bir saldırı bulgusu olmadığı, kararın telsiz frekans ve radar kesintisi nedeniyle alındığı belirtiliyor. Amerika Birleşik Devletleri'nde son yılların en büyük havacılık krizini yaşıyor. Federal Havacılık İdaresi, olağanüstü koşullar ve güvenlik gerekçeleri nedeniyle ülke çapında tüm uçuşların durdurulması kararı alındığını açıkladı. Ülke genelinde 10 binden fazla uçuş ertelendi, bin 700'den fazla uçuş ise iptal edildi.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-ulke-genelinde-ucus-yasagi-ilan-edildi-1750773"
-        },
-        {
-          "title": "Trump, Şi ve Putin'le üçlü görüşme gerçekleştirecek",
-          "summary": "ABD Başkanı Donald Trump'ın gelecek hafta Filipinler ve Çin'e bir gezi düzenleyeceği, ziyaretin ikinci ayağında Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile üçlü bir görüşme gerçekleştireceği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-43377730"
-        },
-        {
-          "title": "ABD'de tanker, kruz gemisini batırdı",
-          "summary": "ABD'nin Louisiana eyaletinde Mississippi Nehri'nde bir tankerin çarptığı, 129 kişiyi taşıyan kruz gemisi yan yattı. ABD Basının aktardığı bilgilere göre Atlantic Asphalt isimli tanker, öğleden sonra yolcularını indirmek üzere Mississippi Nehri kıyısında demirleyen American Cruise Lines şirketine ait American Heritage adlı kruz gemisine çarptı. Mürettebatla birlikte 129 kişinin bulunduğu yolcu gemisi, tankerin çarpmasının ardından hızla su almaya başladı.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-tanker-kruz-gemisini-batirdi-1750777"
-        },
-        {
-          "title": "ABD'de uçuşları durdurma kararı kaldırıldı",
-          "summary": "ABD Ulaştırma Bakanı Sean Duffy, ülke genelinde uçuşları durdurma kararının Türkiye saatiyle 04.15 itibarıyla kaldırıldığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-tum-havalimanlarinda-ucuslar-durduruldu-43377712"
-        },
-        {
-          "title": "Yapay zekanın babasından yeni uyarı. \"İnsanlık kontrolünü 3 yılda kaybedebilir\"",
-          "summary": "Nobel ödüllü bilim insanı Geoffrey Hinton, insanlardan daha yetenekli yapay zeka sistemlerinin kontrolü ele geçirmesi konusunda yeni bir uyarıda bulundu. Avrupa Birliği ülkelerinin devlet ve hükümet başkanları, 13 Kasım’da Dublin’de düzenlenen gayriresmi toplantıda ilk kez yapay zekayı ayrı bir stratejik gündem olarak ele aldı.",
-          "source": "https://www.ntv.com.tr/dunya/yapay-zekanin-babasindan-3-yil-uyarisi-insanlik-kontrolunu-kaybedecek-1750770"
-        },
-        {
-          "title": "İngiltere’de dron alarmı. ABD askerinin bulunduğu üs personeline sığınaklara geçme talimatı verildi",
-          "summary": "İngiltere’de ABD askeri unsurlarının bulunduğu Lakenheath Hava Üssü yakınlarında şüpheli dron faaliyeti tespit edilmesi üzerine ABD personeline sığınaklara geçme talimatı verildi. İngiltere’de ABD ordusu unsurlarına ev sahipliği yapan Kraliyet Hava Kuvvetleri (RAF) Lakenheath Askeri Hava Üssü yakınlarında şüpheli bir dron tespit edilmesinin ardından alarm verildi. İngiltere basınına yansıyan haberlerde, muhtemel güvenlik tehdidi nedeniyle ABD askeri personeline sığınaklara geçmeleri talimatı verildiği belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/ingilterede-dron-alarmi-abd-askerinin-bulundugu-us-personeline-siginaklara-gecme-talimati-verildi-1750774"
-        },
-        {
-          "title": "Avrupa'nın Ukrayna temsilcileri belli oldu. E5 ülkeleri ve AB kurumları masada olacak",
-          "summary": "Ukrayna'da barış görüşmelerinde Avrupa'yı temsil edecek ülkeler belli oldu. Almanya, Fransa, İngiltere, İtalya ve Polonya'nın yanı sıra Avrupa Birliği kurumları da görüşmelerde yer alacak. Rusya-Ukrayna görüşmelerinde Avrupa'nın temsili konusunda kriz aşıldı. ABD arabuluculuğunda bir kez daha hız kazanan görüşmelerde Avrupa'nın masada hangi ülkelerce temsil edileceği konusunda karara varıldı.",
-          "source": "https://www.ntv.com.tr/dunya/avrupanin-ukrayna-temsilcileri-belli-oldu-e5-ulkeleri-ve-ab-kurumlari-masada-olacak-1750768"
-        }
-      ]
-    },
-    "ekonomi": {
-      "text": "BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. 20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı.",
-      "items": [
         {
           "title": "BIST 100 endeksinde güçlü kapanış",
           "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,24 değer kazanarak 11.811,19 puandan tamamladı.",
@@ -115,51 +120,46 @@
           "title": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
           "summary": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
           "source": "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242"
-        },
-        {
-          "title": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
-          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi-43366219"
         }
       ]
     },
     "spor": {
-      "text": "Pablo Laso: 'Önemli bir galibiyet!'. Ümit Milli Takım, Çekya'ya mağlup!. Orkun Kökçü'den Beşiktaş açıklaması: 'Haksızlıkmış gibi algılıyorum!'. Fransa'da Türkiye alarmı! İtalya yenilgisi sonrası Zidane'a eleştiri yağmuru: 'Balayı sona erdi!'. Fenerbahçe, Kocaelispor maçı hazırlıklarına başladı!. Galatasaray, Metin Öztürk ve Abdullah Kavukcu'nun istifalarını duyurdu!. A Milli Futbol Takımı, İzmir'den Fransa'ya gitti.",
+      "text": "Jesus de Miguel'in ölümüne sebep olan Owono'nun cezası açıklandı. Beşiktaş'tan 20 milyon euroluk sürpriz transfer hamlesi! İki isimden biri yerine gelecek. İspanyol medyası, Arda Güler'in yeni maaşını duyurdu!. Trabzonspor'un yıldızı Mohamed Salah, Mısır tarihine geçti!. A Milli Futbol Takımı, Fransa deplasmanında. Uluslar Ligi’nin heyecanı canlı sohbet ile Misli’de yaşanıyor!. Basketbol Süper Ligi'nde derbi heyecanı! Fenerbahçe Tarfin, Anadolu Efes ile karşılaşacak.",
       "items": [
         {
-          "title": "Pablo Laso: 'Önemli bir galibiyet!'",
-          "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında ağırladığı İtalya ekibi Virtus Bologna'yı 103-91 mağlup eden Anadolu Efes'te başantrenör Pablo Laso, özellikle ilk yarıda sergiledikleri performansın galibiyette önemli rol oynadığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pablo-laso-onemli-bir-galibiyet-43377677"
+          "title": "Jesus de Miguel'in ölümüne sebep olan Owono'nun cezası açıklandı",
+          "summary": "İspanya 2. Futbol Ligi'nde oynanan karşılaşmada Tenerife forveti Jesus de Miguel'in hayatını kaybetmesine sebep olan sert müdahalesi nedeniyle Andorra kalecisi Jesus Owono'ya 12 maç men cezası verildi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/jesus-de-miguelin-olumune-sebep-olan-owononun-cezasi-aciklandi-43378070"
         },
         {
-          "title": "Ümit Milli Takım, Çekya'ya mağlup!",
-          "summary": "Ümit Milli Futbol Takımı, 2027 UEFA 21 Yaş Altı Avrupa Şampiyonası Elemeleri play-off turu ilk maçında konuk ettiği Çekya'ya 1-0 mağlup oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/umit-milli-takim-cekyaya-maglup-43377673"
+          "title": "Beşiktaş'tan 20 milyon euroluk sürpriz transfer hamlesi! İki isimden biri yerine gelecek",
+          "summary": "Sağ kanat bölgesinde Vaclav Cerny ve Ernest Poku'dan istediği verimi bir türlü alamayan Beşiktaş, devre arasında bu iki oyuncudan biriyle yollarını ayırarak kadrosunu yeni bir isimle güçlendirmek istiyor. İspanya basını, siyah-beyazlıların Real Sociedad'dan Takefusa Kubo'nun transferi için düğmeye bastığını ileri sürdü. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-20-milyon-euroluk-surpriz-transfer-hamlesi-43377780"
         },
         {
-          "title": "Orkun Kökçü'den Beşiktaş açıklaması: 'Haksızlıkmış gibi algılıyorum!'",
-          "summary": "Beşiktaş’ın kaptanı Orkun Kökçü, UEFA’ya özel açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/orkun-kokcuden-besiktas-aciklamasi-haksizlikmis-gibi-algiliyorum-43377671"
+          "title": "İspanyol medyası, Arda Güler'in yeni maaşını duyurdu!",
+          "summary": "Real Madrid'de bu sezon takımın değişmezlerinden biri haline gelen ve sergilediği performans PSG başta olmak üzere birçok Avrupa deviyle ismi anılan milli futbolcu Arda Güler'in eflatun-beyazlı kulüpteki yeni maaşını İspanyol medyası duyurdu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/ispanyol-medyasi-arda-gulerin-yeni-maasini-duyurdu-43377996"
         },
         {
-          "title": "Fransa'da Türkiye alarmı! İtalya yenilgisi sonrası Zidane'a eleştiri yağmuru: 'Balayı sona erdi!'",
-          "summary": "UEFA Uluslar Ligi'nde İtalya'ya 3-1 mağlup olarak Zinédine Zidane dönemindeki ilk yenilgisini alan Fransa'da gözler Türkiye maçına çevrildi. İtalyanlar karşısında alınan mağlubiyet Fransız basınında geniş yankı uyandırırken, ülkenin önde gelen gazeteleri milli takımlarını sert sözlerle eleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fransada-turkiye-alarmi-italya-yenilgisi-sonrasi-zidanea-elestiri-yagmuru-balayi-sona-erdi-43377658"
+          "title": "Trabzonspor'un yıldızı Mohamed Salah, Mısır tarihine geçti!",
+          "summary": "Mohamed Salah, Malavi maçındaki panenka penaltısıyla 70 gole ulaştı ve Mısır Milli Takımı tarihinin en golcü futbolcusu oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yildizi-mohamed-salah-misir-tarihine-gecti-43377991"
         },
         {
-          "title": "Fenerbahçe, Kocaelispor maçı hazırlıklarına başladı!",
-          "summary": "Fenerbahçe, Trendyol Süper Lig'in 12. haftasında 21 Kasım Cumartesi günü deplasmanda Kocaelispor ile oynayacağı karşılaşmanın hazırlıklarına akşam saatlerinde yaptığı antrenmanla başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kocaelispor-maci-hazirliklarina-basladi-43377627"
+          "title": "A Milli Futbol Takımı, Fransa deplasmanında",
+          "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki altıncı ve son maçında yarın deplasmanda Fransa ile karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimi-fransa-deplasmaninda-43377915"
         },
         {
-          "title": "Galatasaray, Metin Öztürk ve Abdullah Kavukcu'nun istifalarını duyurdu!",
-          "summary": "Galatasaray'dan 2'nci Başkan Metin Öztürk ve Galatasaray Yönetim Kurulu Üyesi Abdullah Kavukcu ile ilgili istifa açıklaması yapıldı. Öztürk ve Kavukcu'nun istifaları resmi olarak duyuruldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-metin-ozturk-ve-abdullah-kavukcunun-istifalarini-duyurdu-43377467"
+          "title": "Uluslar Ligi’nin heyecanı canlı sohbet ile Misli’de yaşanıyor!",
+          "summary": "UEFA Uluslar Ligi A Ligi 4. Grubu 5. hafta maçları için sahaya çıkıyor. Norveç'in Galler'i; Portekiz'in ise Danimarka'yı konuk edeceği maçların heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uluslar-liginin-heyecani-canli-sohbet-ile-mislide-yasaniyor-43377888"
         },
         {
-          "title": "A Milli Futbol Takımı, İzmir'den Fransa'ya gitti",
-          "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup altıncı ve son haftasında Fransa ile deplasmanda yapacağı maç için bu ülkeye gitti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimi-izmirden-fransaya-gitti-43377390"
+          "title": "Basketbol Süper Ligi'nde derbi heyecanı! Fenerbahçe Tarfin, Anadolu Efes ile karşılaşacak",
+          "summary": "Basketbol Süper Ligi'nin 8. haftasında Fenerbahçe Tarfin ile Anadolu Efes yarın derbide karşı karşıya gelecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-derbi-heyecani-fenerbahce-tarfin-anadolu-efes-ile-karsilasacak-43377884"
         }
       ]
     },
@@ -244,8 +244,14 @@
       ]
     },
     "magazin": {
-      "text": "",
-      "items": []
+      "text": "Yıllar sonra.",
+      "items": [
+        {
+          "title": "Yıllar sonra",
+          "summary": "Helin Avşar uzun aranın ardından Yeniköy’de görüntülendi. 49 yaşındaki ünlü isim, iki örgü yaptığı saçlarıyla dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/kelebek/hayat/yillar-sonra-43351603"
+        }
+      ]
     }
   }
 }
