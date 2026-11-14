@@ -1,90 +1,90 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-14T10:00:04.327Z",
+  "generatedAt": "2026-11-14T16:00:04.143Z",
   "categories": {
     "gundem": {
-      "text": "Malatya şehitlerine acı veda. Yeni Parti ilk kurultayını yapıyor. Londra Belediye Başkanı Sadiq Khan İstanbul’a hayran kaldı! Sultanahmet’ten Kapalıçarşı’ya şehrin tarihî yerlerini gezdi. Yeni uygulama başlıyor, asıl tehlike 2000 öncesinde: \"Bulamıyoruz\". Yargıtay'dan boşanma davasında dikkat çeken karar. Eski sevgiliyle mesajları silmemek kusur sayıldı. Gaziosmanpaşa'daki bina yangını: 2 apartmana daha sıçradı! Müdahale ediliyor. 7 ilde nitelikli dolandırıcılık operasyonu: 12 gözaltı.",
+      "text": "Binbaşı Arslan Kulaksız'ı şehit eden zanlı yakalandı. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. MSB'den F-16 uçaklarına ilişkin paylaşım. Malatya şehitlerine acı veda. Fırtınada iş yerinin tabelası düştü, anne ve kızı son anda kurtuldu. Yeni Parti'de ilk kurultay. Özgür Özel yeniden genel başkan seçildi. Ankara'da bazı yollar yarın araç trafiğine kapatılacak.",
       "items": [
         {
+          "title": "Binbaşı Arslan Kulaksız'ı şehit eden zanlı yakalandı",
+          "summary": "2015 yılında Muş'un Malazgirt ilçesinde Binbaşı Arslan Kulaksız'ı ailesinin yanında şehit eden zanlılardan biri yakalandı. Firari zanlıya yardım ve yataklık eden iki kişi daha yakalandı. İçişleri Bakanlığı'nın sosyal medya hesabından yapılan açıklamaya göre, 2015 yılında ailesinin yanında Jandarma Binbaşı Arslan Kulaksız’ı şehit eden faillerden biri ile yardım ve yataklık eden iki kişi jandarma ve polisin ortak operasyonuyla yakalandı.",
+          "source": "https://www.ntv.com.tr/turkiye/binbasi-arslan-kulaksizi-sehit-eden-zanli-yakalandi-1750886"
+        },
+        {
+          "title": "Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik",
+          "summary": "ATATÜRK Havalimanı Millet Bahçesi’nde düzenlenen \"Konya İl Tanıtım Günleri\" programında konuşan Ticaret Bakanı Ömer Bolat, \"Türkiye, 24 yılın ortalaması yüzde 5,3 yıllık reel büyüme kaydetti. Dış ticarette 36 milyar dolar mal ihracatı ve 14 milyar dolar hizmet ihracatı ile devraldık 413 milyar dolara yükselttik. 8 kattan fazla ihracatımızı arttırdık. Bugün millî gelirimizin yaklaşık yüzde 24-25, dörtte birini ihracat oluşturuyor\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-mal-ve-hizmet-ihracatimizi-413-milyar-dolara-yukselttik-43378532"
+        },
+        {
+          "title": "MSB'den F-16 uçaklarına ilişkin paylaşım",
+          "summary": "Milli Savunma Bakanlığından (MSB) NATO hava savunma görevi kapsamında Estonya'da konuşlu F-16 uçaklarına ilişkin paylaşım yapıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/msbden-f-16-ucaklarina-iliskin-paylasim-43378521"
+        },
+        {
           "title": "Malatya şehitlerine acı veda",
-          "summary": "Malatya'daki helikopter kazasında hayatını kaybeden 4 şehit bugün son yolculuklarına uğurlanıyor. Şehit Pilot Binbaşı Orhun Pınar'ın cenaze törenine MHP lideri Devlet Bahçeli de katıldı. 12 Kasım saat 18.45 sıralarında 2'nci Kara Havacılık Alayı'na ait S-70 tipi helikopter, kalkıştan kısa süre sonra henüz bilinmeyen nedenle Malatya'da Yeşilyurt'a bağlı Samanköy Mahallesi'nde düştü.",
+          "summary": "Helikopter kazasında hayatını kaybeden pilotlar Binbaşı Orhun Pınar, Binbaşı Erdem Çimen, Astsubay Kıdemli Üstçavuş Hüseyin Zehir ve Astsubay Kıdemli Çavuş Serkan Önder son yolculuklarına uğurlandı. 12 Kasım saat 18.45 sıralarında 2'nci Kara Havacılık Alayı'na ait S-70 tipi helikopter, kalkıştan kısa süre sonra henüz bilinmeyen nedenle Malatya'da Yeşilyurt'a bağlı Samanköy Mahallesi'nde düştü.",
           "source": "https://www.ntv.com.tr/turkiye/galeri-malatya-sehitlerine-aci-veda-1750816"
         },
         {
-          "title": "Yeni Parti ilk kurultayını yapıyor",
-          "summary": "Yeni Parti'nin ilk olağan kurultayı yapılıyor. Özgür Özel, genel başkanlık için tek aday olarak seçime giriyor. Parti Meclisi'nde (PM) üye sayısının yükseltilmesi dikkati çekiyor. Yeni Parti'nin 1. Olağan Kurultay'ı, Ankara Arena'da başladı. Genel Başkan Özgür Özel, eşi Didem Özel ve kızı İpek Özel ile birlikte alana geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-yeni-parti-ilk-kurultayini-yapiyor-1750828"
+          "title": "Fırtınada iş yerinin tabelası düştü, anne ve kızı son anda kurtuldu",
+          "summary": "Bursa’da etkili olan ve saatteki hızı 50 kilometreye ulaşan lodos, yaşamı olumsuz etkilerken, Yıldırım ilçesinde kaldırımda yürüyen anne ile kızı, çatıdan kopan metal parçadan son anda kurtuldu.",
+          "source": "https://www.ntv.com.tr/turkiye/video-firtinada-is-yerinin-tabelasi-dustu-anne-ve-kizi-son-anda-kurtuldu-1750883"
         },
         {
-          "title": "Londra Belediye Başkanı Sadiq Khan İstanbul’a hayran kaldı! Sultanahmet’ten Kapalıçarşı’ya şehrin tarihî yerlerini gezdi",
-          "summary": "Londra Belediye Başkanı Sadiq Khan, Kültür ve Turizm Bakan Yardımcısı Dr. Coşkun Yılmaz’ın eşlik ettiği İstanbul programında Türk ve İslam Eserleri Müzesi’ni ziyaret etti. Sultanahmet Camii’nde cuma namazı kılan Khan, Divanyolu üzerinden Kapalıçarşı’ya yürüdü. Bakan Yardımcısı Yılmaz, Khan’a Mehmed Şevki Efendi hattıyla yazılmış bir Mushaf-ı Şerif hediye etti. Khan, ziyaretine ilişkin paylaşımında Londra ile İstanbul arasındaki köklü kültürel bağlara dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/gundem/londra-belediye-baskani-sadiq-khan-istanbula-hayran-kaldi-sultanahmetten-kapalicarsiya-sehrin-tarihi-yerlerini-gezdi-43378019"
+          "title": "Yeni Parti'de ilk kurultay. Özgür Özel yeniden genel başkan seçildi",
+          "summary": "Yeni Parti'nin ilk olağan kurultayı yapıldı. Tek aday olarak seçime giren Özgür Özel, yeniden genel başkan seçildi. Ankara Arena'da yapılan Yeni Parti'nin 1. Olağan Kurultay'ında Özgür Özel yeniden genel başkan seçildi. , Kayıtlı 1202 delegenin 1157'si oy kullanırken, Özgür Özel oylamada geçerli 1154 delegenin oyunu aldı.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-yeni-partide-ilk-kurultay-ozgur-ozel-yeniden-genel-baskan-secildi-1750828"
         },
         {
-          "title": "Yeni uygulama başlıyor, asıl tehlike 2000 öncesinde: \"Bulamıyoruz\"",
-          "summary": "Bina Kimlik Sertifikası uygulamasına ek olarak 1 Ocak'ta yeni bir proje hayata geçecek. Artık her bina beş yılda bir denetlenecek. Ancak uzmanlar başka bir tehlikeye dikkat çekiyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 2021'den itibaren uygulanan Bina Kilik Sertifikası'na ek olarak yeni bir uygulamayı hayata geçirmeye hazırlanıyor. Yeni uygulamayla birlikte yapılara beş yılda bir denetim şartı getirilecek.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-yeni-uygulama-basliyor-asil-tehlike-2000-oncesinde-bulamiyoruz-1750819"
-        },
-        {
-          "title": "Yargıtay'dan boşanma davasında dikkat çeken karar. Eski sevgiliyle mesajları silmemek kusur sayıldı",
-          "summary": "Yargıtay, bir boşanma davasında eski sevgiliyle yapılan mesajlaşmaların silinmemesini kusur olarak değerlendirdi. 2020 yılında evlenen çift, bir süre sonra karşılıklı boşanma davası açtı. Aile mahkemesinde görülen davada, boşanmanın yanı sıra velayet, nafaka, tazminat ve çocukla kişisel ilişki kurulması konuları değerlendirildi. Her iki tarafın avukatı da yerel mahkeme ve istinaf kararlarına karşı temyiz başvurusunda bulundu. Dosya, Yargıtay'a taşındı.",
-          "source": "https://www.ntv.com.tr/turkiye/yargitaydan-bosanma-davasinda-dikkat-ceken-karar-eski-sevgiliyle-mesajlari-silmemek-kusur-sayildi-1750818"
-        },
-        {
-          "title": "Gaziosmanpaşa'daki bina yangını: 2 apartmana daha sıçradı! Müdahale ediliyor",
-          "summary": "Gaziosmanpaşa Karadeniz Mahallesi'nde 4 katlı binanın çatısında çıkan yangın, bitişiğindeki 2 apartmana daha sıçradı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gaziosmanpasadaki-bina-yangini-2-apartmana-daha-sicradi-mudahale-ediliyor-43378002"
-        },
-        {
-          "title": "7 ilde nitelikli dolandırıcılık operasyonu: 12 gözaltı",
-          "summary": "İçişleri Bakanlığı: Gaziantep merkezli 7 ilde düzenlenen 'Bilişim sistemlerini kullanarak nitelikli dolandırıcılık' suçuna yönelik operasyonlarda 12 şüpheli yakalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/7-ilde-nitelikli-dolandiricilik-operasyonu-12-gozalti-43378004"
+          "title": "Ankara'da bazı yollar yarın araç trafiğine kapatılacak",
+          "summary": "Ankara'da yarın düzenlenecek OYAK 65. Yıl Ankara Koşusu dolayısıyla bazı yollar araç trafiğine kapatılacak. Ankara Emniyet Müdürlüğünden yapılan açıklamaya göre, yarın 09.00'da başlayacak OYAK 65. Yıl Ankara Koşusu dolayısıyla sabah saat 07.30'dan itibaren bazı yollar araç trafiğine kapalı tutulacak.",
+          "source": "https://www.ntv.com.tr/turkiye/ankarada-bazi-yollar-yarin-arac-trafigine-kapatilacak-1750882"
         }
       ]
     },
     "dunya": {
-      "text": "Trump, Çin ziyaretinde skandalı gündeme getirmeyecek. ABD Dışişleri Bakanı Rubio: Uluslararası Ceza Mahkemesi gayrimeşru. İki sene mahzende bekletildi, dünyanın en iyisi seçildi. Aynı kalbi paylaşan ve aynı kadına aşık olan iki adamın olağanüstü hikayesi... Ölümleri bile aynı sonla oldu. Microsoft'ta sorun çözüldü: Yeniden hizmette. Skandal Silikon Vadisi'ni belirsizliğe sürükledi. CEO parasıyla birlikte gitti. Akkuyu Nükleer'den milli gelire 50 milyar doları aşan katkı beklentisi.",
+      "text": "Atina'da bina çöktü: 2 itfaiyeci hayatını kaybetti. Türkiye ve 17 ülkeden İsrail'e kınama. Zelenski'den 'toprak' resti! 'Vazgeçmeyeceğiz'. Araştırma: Avrupa'da ortak ordu isteyenlerin oranı yüzde 71. Türkiye'yle yapılan anlaşmalar Katar basınında geniş yer buldu. \"Yeni bir dönüm noktası\". Körfez'den dünyaya çağrı! 7 binden fazla füze ve İHA saldırısı gerçekleşti. BM'de \"katil robotlar\" zirvesi. Otonom silahlara yasal sınır gelebilir.",
       "items": [
         {
-          "title": "Trump, Çin ziyaretinde skandalı gündeme getirmeyecek",
-          "summary": "ABD medyası, Başkan Trump'ın APEC Zirvesi için gideceği Çin'de, Nvidia'nın eski CEO'su Jensen Huang ile bağlantılı casusluk iddialarını gündeme getirmeyi planlamadığını yazdı. ABD Başkanı Donald Trump'ın Çin'e yapacağı ziyarette Nvidia'nın eski CEO'su Jensen Huang hakkındaki casusluk iddialarını gündeme getirmeyi planlamadığı ileri sürüldü.",
-          "source": "https://www.ntv.com.tr/dunya/trump-cin-ziyaretinde-skandali-gundeme-getirmeyecek-1750837"
+          "title": "Atina'da bina çöktü: 2 itfaiyeci hayatını kaybetti",
+          "summary": "Yunanistan'da yangın çıkan binaya müdahale sırasında bina kısmen çöktü. Atina'da yaşanan olayda 2 itfaiyeci hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/atinada-bina-coktu-2-itfaiyeci-hayatini-kaybetti-43378487"
         },
         {
-          "title": "ABD Dışişleri Bakanı Rubio: Uluslararası Ceza Mahkemesi gayrimeşru",
-          "summary": "ABD Dışişleri Bakanı Marco Rubio, Ulusal Hukukçular Kongresi'nde yaptığı konuşmada Uluslararası Ceza Mahkemesi'ni \"sahte ve gayrimeşru\" olarak nitelendirdi. ABD Dışişleri Bakanı Marco Rubio, Uluslararası Ceza Mahkemesini (UCM) \"sahte ve gayrimeşru\" olarak nitelendirdi. Rubio, muhafazakar hukukçulardan oluşan Federalist Society'nin düzenlediği Ulusal Hukukçular Kongresi'nde konuştu.",
-          "source": "https://www.ntv.com.tr/dunya/abd-disisleri-bakani-rubio-uluslararasi-ceza-mahkemesi-gayrimesru-1750835"
+          "title": "Türkiye ve 17 ülkeden İsrail'e kınama",
+          "summary": "Türkiye ve 17 ülke, İsrail'in Han Yunus'taki Nasser Hastanesi'ne düzenlediği hava saldırısını en güçlü şekilde kınadı.",
+          "source": "https://www.hurriyet.com.tr/dunya/turkiye-ve-17-ulkeden-israile-kinama-43378365"
         },
         {
-          "title": "İki sene mahzende bekletildi, dünyanın en iyisi seçildi",
-          "summary": "Fransa'daki Jura Dağları'nda bulunan bir mahzende 24 ay boyunca olgunlaştırılan Comté peyniri, 2026 Dünya Peynir Ödülleri'nde şampiyon oldu. Fransa'nın doğusundaki bir dağ mahzeninde iki yıl boyunca bekletilen bir tekerlek peynir, dünyanın en iyi peyniri seçildi. İspanya'nın Córdoba kentinde önceki gün düzenlenen 2026 Dünya Peynir Ödülleri'nde şampiyonluğa ulaşan bu ürün, 24 ay olgunlaştırılmış bir Comté oldu.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-iki-sene-mahzende-bekletildi-dunyanin-en-iyisi-secildi-1750833"
+          "title": "Zelenski'den 'toprak' resti! 'Vazgeçmeyeceğiz'",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, ülkesinin topraklarından vazgeçmeyeceklerini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenskiden-toprak-resti-vazgecmeyecegiz-43378342"
         },
         {
-          "title": "Aynı kalbi paylaşan ve aynı kadına aşık olan iki adamın olağanüstü hikayesi... Ölümleri bile aynı sonla oldu",
-          "summary": "Kalp nakli hayat kurtarır; peki ya bir insanın kalbiyle birlikte ruhunu, hatıralarını ve hatta kaderini de taşıması mümkün mü? Kalp nakliyle hayata tutunan bir adam, donörünün eşine aşık oldu, evlendi ve 13 yıl sonra tıpkı donörü gibi intihar ederek hayatına son verdi. İki adamın yaşam ve ölümünün birbirine bağlandığı bu sarsıcı hikâye, tıp dünyasını ve insan doğasını derinden sarsan çözülememiş bir gizemi gözler önüne seriyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/ayni-kalbi-paylasan-ve-ayni-kadina-asik-olan-iki-adamin-olaganustu-hikayesi-olumleri-bile-ayni-sonla-oldu-43371302"
+          "title": "Araştırma: Avrupa'da ortak ordu isteyenlerin oranı yüzde 71",
+          "summary": "Prag merkezli GLOBSEC düşünce kuruluşunun araştırması, 11 AB ülkesinde Avrupa ordusu fikrine güçlü bir destek olduğunu ortaya koydu. Avrupa Birliği'nin (AB) 11 üye ülkesinde yapılan araştırmaya göre katılımcıların yüzde 71'i Birliğin kendi ordusuna sahip olmasını destekliyor. Prag merkezli düşünce kuruluşu GLOBSEC'in \"Trends 2026\" raporu kapsamında hazırlanan araştırmayı HarrisX şirketi yürüttü. 11-19 Mayıs tarihlerinde çevrim içi paneller aracılığıyla yapılan çalışmaya toplam 13 bin 730 kişi katıldı.",
+          "source": "https://www.ntv.com.tr/dunya/arastirma-avrupada-ortak-ordu-isteyenlerin-orani-yuzde-71-1750880"
         },
         {
-          "title": "Microsoft'ta sorun çözüldü: Yeniden hizmette",
-          "summary": "Microsoft 365, Outlook ve Teams hizmetlerinde dünya genelinde yaşanan erişim sorunu giderildi. 70'ten fazla ülkede şirketleri ve kamu kurumlarını etkileyen kesintinin ardından hizmetler yeniden kullanıma açılmaya başladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/microsoftta-sorun-cozuldu-yeniden-hizmette-43377982"
+          "title": "Türkiye'yle yapılan anlaşmalar Katar basınında geniş yer buldu. \"Yeni bir dönüm noktası\"",
+          "summary": "Türkiye ve Katar, İstanbul'da düzenlenen Yüksek Stratejik Komite toplantısında Karşılıklı Savunma Anlaşması dahil 5 anlaşmaya imza attı. Türkiye ile Katar, dış tehditlere karşı ortak duruş sergilemeyi öngören Karşılıklı Savunma Anlaşması'nı imzaladı. Cumhurbaşkanı Recep Tayyip Erdoğan ve Katar Emiri Şeyh Temim bin Hamed Al Sani, İstanbul'daki Cumhurbaşkanlığı Dolmabahçe Ofisi'nde baş başa ve heyetler arası görüşmeler gerçekleştirdi. Türkiye-Katar Yüksek Stratejik Komitesi'nin 12.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-turkiyeyle-yapilan-anlasmalar-katar-basininda-genis-yer-buldu-yeni-bir-donum-noktasi-1750877"
         },
         {
-          "title": "Skandal Silikon Vadisi'ni belirsizliğe sürükledi. CEO parasıyla birlikte gitti",
-          "summary": "Nvidia CEO'su Jensen Huang'ın skandallar sonrası istifası, şirketin piyasa değerinden yaklaşık 573 milyar doların silinmesine yol açtı. Dünyanın en değerli ikinci şirketi Nvidia'nın CEO'su Jensen Huang, yasak ilişkisi Alice Huang'ın Çin casusu çıkmasının ardından görevinden istifa etti. Huang'ın ani ayrılığı teknoloji dünyasında şok etkisi yaratırken, şirketin hisseleri hafta başından Cuma kapanışına kadar yüzde 12,75 değer kaybetti.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-skandal-silikon-vadisini-belirsizlige-surukledi-ceo-parasiyla-birlikte-gitti-1750813"
+          "title": "Körfez'den dünyaya çağrı! 7 binden fazla füze ve İHA saldırısı gerçekleşti",
+          "summary": "Körfez İşbirliği Konseyi (KİK), üye ülkelerin 28 Şubat'tan bu yana İran’dan yapılan 7 binden fazla füze ve insansız hava aracı (İHA) saldırısına maruz kaldığını belirterek uluslararası topluma saldırıların durdurulması için harekete geçme çağrısında bulundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/korfezden-dunyaya-cagri-7-binden-fazla-fuze-ve-iha-saldirisi-gerceklesti-43378331"
         },
         {
-          "title": "Akkuyu Nükleer'den milli gelire 50 milyar doları aşan katkı beklentisi",
-          "summary": "Akkuyu Nükleer Anonim Şirketi Yönetim Kurulu Başkanı Anton Dedusenko, santrale yapılan yatırımların Türkiye'nin GSYH'sine 50 milyar ABD dolarını aşan bir etki yapmasının beklendiğini açıkladı. Akkuyu Nükleer Anonim Şirketi Yönetim Kurulu Başkanı Anton Dedusenko, santral yatırımlarının Türkiye'nin gayrisafi yurt içi hasılası (GSYH) üzerinde iki katlık bir etki yarattığını ve bu katkının 50 milyar ABD dolarını aşmasının beklendiğini açıkladı. Dedusenko, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31.",
-          "source": "https://www.ntv.com.tr/dunya/akkuyu-nukleerden-milli-gelire-50-milyar-dolari-asan-katki-beklentisi-1750817"
+          "title": "BM'de \"katil robotlar\" zirvesi. Otonom silahlara yasal sınır gelebilir",
+          "summary": "Birleşmiş Milletler, Cenevre'de otonom silahlara sınır getirmeyi tartışırken uzmanlar bu alandaki silah yarışının çoktan başladığını söylüyor. Birleşmiş Milletler (BM), \"katil robotlar\" olarak da anılan otonom silahlara sınır getirmek için Pazartesi günü Cenevre'de konferansa başlıyor. Yapay zeka destekli ölümcül otonom silahlar savaşın doğasını kökten değiştirmeye hazırlanırken, bu teknolojiyi denetleyecek yasal bir çerçeve henüz yok.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-bmde-katil-robotlar-zirvesi-otonom-silahlara-yasal-sinir-gelebilir-1750874"
         }
       ]
     },
     "ekonomi": {
-      "text": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. 20 milyar dolara bir adım daha. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi.",
+      "text": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi. TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı.",
       "items": [
         {
           "title": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu",
@@ -107,11 +107,6 @@
           "source": "https://www.hurriyet.com.tr/ik/40inci-yila-ozel-ekonomiye-katki-analizi-43368613"
         },
         {
-          "title": "20 milyar dolara bir adım daha",
-          "summary": "Ege İhracatçı Birlikleri (EİB), ekim ayında ihracatını yüzde 5’lik artışla 1 milyar 713 milyon dolara yükseltti. EİB, 2026 yılında haziran, temmuz ve eylül aylarından sonra dördüncü kez ekim ayında da 1 milyar 700 milyon dolar barajını aşmayı başardı. 2026’nın son çeyreğine moralli giren ihracatçılar, 20 milyar dolar ihracat hedefine bir adım daha yaklaştı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/20-milyar-dolara-bir-adim-daha-43367201"
-        },
-        {
           "title": "Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı",
           "summary": "Fon soruşturması kapsamında \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından mahkemeye sevk edilen eski bakan Fatma Betül Sayan Kaya tutuklandı. İlyas Kaya ile Gönül hakkında adli kontrol tedbiri uygulandı.",
           "source": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738"
@@ -120,46 +115,51 @@
           "title": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
           "summary": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
           "source": "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242"
+        },
+        {
+          "title": "TCMB, Ekim Ayı Fiyat Gelişmeleri Raporu'nu yayımladı",
+          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), tüketici enflasyonunun ana eğiliminin ekim ayında aylık ve üç aylık ortalamalar bazında yataya yakın seyrettiğini, bu görünümün son dönemde ana eğilimde kaydedilen gerilemeyi teyit ettiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tcmb-ekim-ayi-fiyat-gelismeleri-raporunu-yayimladi-43366219"
         }
       ]
     },
     "spor": {
-      "text": "Jesus de Miguel'in ölümüne sebep olan Owono'nun cezası açıklandı. Beşiktaş'tan 20 milyon euroluk sürpriz transfer hamlesi! İki isimden biri yerine gelecek. İspanyol medyası, Arda Güler'in yeni maaşını duyurdu!. Trabzonspor'un yıldızı Mohamed Salah, Mısır tarihine geçti!. A Milli Futbol Takımı, Fransa deplasmanında. Uluslar Ligi’nin heyecanı canlı sohbet ile Misli’de yaşanıyor!. Basketbol Süper Ligi'nde derbi heyecanı! Fenerbahçe Tarfin, Anadolu Efes ile karşılaşacak.",
+      "text": "Emre Belözoğlu merak edilenleri anlattı: Samandıra'da neler değişti, Fenerbahçe nasıl oynayacak?. Rüştü Reçber'den Arda Güler itirafı: 'Sergen Yalçın'ın golünden daha güzeldi!'. Beşiktaş, Konyaspor maçı hazırlıklarını sürdürdü. Bernardo Silva'dan Ronaldo açıklaması. Bruno Fernando'dan Anadolu Efes'e kötü haber. Fenerbahçe Tarfin, Hapoel Tel Aviv ve Maccabi Tel Aviv maçlarını Almanya'da oynayacak. İbrahim Hacıosmanoğlu: 'Bir olumsuzluk var'.",
       "items": [
         {
-          "title": "Jesus de Miguel'in ölümüne sebep olan Owono'nun cezası açıklandı",
-          "summary": "İspanya 2. Futbol Ligi'nde oynanan karşılaşmada Tenerife forveti Jesus de Miguel'in hayatını kaybetmesine sebep olan sert müdahalesi nedeniyle Andorra kalecisi Jesus Owono'ya 12 maç men cezası verildi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jesus-de-miguelin-olumune-sebep-olan-owononun-cezasi-aciklandi-43378070"
+          "title": "Emre Belözoğlu merak edilenleri anlattı: Samandıra'da neler değişti, Fenerbahçe nasıl oynayacak?",
+          "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, sarı-lacivertli takımda kazanma odaklı, net planları olan ve savunma planlarının artacağı bir oyun hedeflediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-merak-edilenleri-anlatti-samandirada-neler-degisti-fenerbahce-nasil-oynayacak-43378539"
         },
         {
-          "title": "Beşiktaş'tan 20 milyon euroluk sürpriz transfer hamlesi! İki isimden biri yerine gelecek",
-          "summary": "Sağ kanat bölgesinde Vaclav Cerny ve Ernest Poku'dan istediği verimi bir türlü alamayan Beşiktaş, devre arasında bu iki oyuncudan biriyle yollarını ayırarak kadrosunu yeni bir isimle güçlendirmek istiyor. İspanya basını, siyah-beyazlıların Real Sociedad'dan Takefusa Kubo'nun transferi için düğmeye bastığını ileri sürdü. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktastan-20-milyon-euroluk-surpriz-transfer-hamlesi-43377780"
+          "title": "Rüştü Reçber'den Arda Güler itirafı: 'Sergen Yalçın'ın golünden daha güzeldi!'",
+          "summary": "A Milli Futbol Takımı'nın eski kalecilerinden Rüştü Reçber, Belçika karşısında alınan mağlubiyeti, Sergen Yalçın dönemini ve Arda Güler'in attığı golü değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/rustu-recberden-arda-guler-itirafi-sergen-yalcinin-golunden-daha-guzeldi-43378519"
         },
         {
-          "title": "İspanyol medyası, Arda Güler'in yeni maaşını duyurdu!",
-          "summary": "Real Madrid'de bu sezon takımın değişmezlerinden biri haline gelen ve sergilediği performans PSG başta olmak üzere birçok Avrupa deviyle ismi anılan milli futbolcu Arda Güler'in eflatun-beyazlı kulüpteki yeni maaşını İspanyol medyası duyurdu. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/ispanyol-medyasi-arda-gulerin-yeni-maasini-duyurdu-43377996"
+          "title": "Beşiktaş, Konyaspor maçı hazırlıklarını sürdürdü",
+          "summary": "Beşiktaş, Süper Lig'in 12. haftasında Konyaspor ile deplasmanda oynayacağı karşılaşmanın hazırlıklarına yaptığı antrenmanla devam etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-konyaspor-maci-hazirliklarini-surdurdu-43378468"
         },
         {
-          "title": "Trabzonspor'un yıldızı Mohamed Salah, Mısır tarihine geçti!",
-          "summary": "Mohamed Salah, Malavi maçındaki panenka penaltısıyla 70 gole ulaştı ve Mısır Milli Takımı tarihinin en golcü futbolcusu oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporun-yildizi-mohamed-salah-misir-tarihine-gecti-43377991"
+          "title": "Bernardo Silva'dan Ronaldo açıklaması",
+          "summary": "Bernardo Silva, Cristiano Ronaldo'nun milli takımı bırakmasıyla ilgili açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bernardo-silvadan-ronaldo-aciklamasi-43378440"
         },
         {
-          "title": "A Milli Futbol Takımı, Fransa deplasmanında",
-          "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki altıncı ve son maçında yarın deplasmanda Fransa ile karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimi-fransa-deplasmaninda-43377915"
+          "title": "Bruno Fernando'dan Anadolu Efes'e kötü haber",
+          "summary": "Anadolu Efes'te Virtus Bologna maçında sakatlanan Bruno Fernando'nun 3-4 hafta parkelerden uzak kalacağı açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bruno-fernandodan-anadolu-efese-kotu-haber-43378397"
         },
         {
-          "title": "Uluslar Ligi’nin heyecanı canlı sohbet ile Misli’de yaşanıyor!",
-          "summary": "UEFA Uluslar Ligi A Ligi 4. Grubu 5. hafta maçları için sahaya çıkıyor. Norveç'in Galler'i; Portekiz'in ise Danimarka'yı konuk edeceği maçların heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uluslar-liginin-heyecani-canli-sohbet-ile-mislide-yasaniyor-43377888"
+          "title": "Fenerbahçe Tarfin, Hapoel Tel Aviv ve Maccabi Tel Aviv maçlarını Almanya'da oynayacak",
+          "summary": "Fenerbahçe Tarfin, EuroLeague'de İsrail ekipleri Hapoel Tel Aviv ve Maccabi Tel Aviv ile olan iç saha maçlarını Almanya'da oynayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-hapoel-tel-aviv-ve-maccabi-tel-aviv-maclarini-almanyada-oynayacak-43378333"
         },
         {
-          "title": "Basketbol Süper Ligi'nde derbi heyecanı! Fenerbahçe Tarfin, Anadolu Efes ile karşılaşacak",
-          "summary": "Basketbol Süper Ligi'nin 8. haftasında Fenerbahçe Tarfin ile Anadolu Efes yarın derbide karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/basketbol-super-liginde-derbi-heyecani-fenerbahce-tarfin-anadolu-efes-ile-karsilasacak-43377884"
+          "title": "İbrahim Hacıosmanoğlu: 'Bir olumsuzluk var'",
+          "summary": "TFF Başkanı İbrahim Hacıosmanoğlu, A Milli Takım'ın UEFA Uluslar Ligi'nde Fransa ile oynanacak maç öncesinde açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ibrahim-haciosmanoglu-bir-olumsuzluk-var-43378308"
         }
       ]
     },
