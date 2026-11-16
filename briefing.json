@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-16T10:00:03.422Z",
+  "generatedAt": "2026-11-16T16:00:04.278Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Kurum: Gerçek sınav COP31'den sonra. Meteoroloji tarih verdi: Kuvvetli sağanak ve fırtına geri geliyor! Günlerce sürecek | İstanbul ve Ankara dahil birçok ilde alarm. KYK burs ödeme takvimi. KYK bursu yattı mı, ne zaman yatacak? 2 aylık toplu ödeme mi yapılacak?. Yasa dışı bahse jandarma baskını: 3 kişi tutuklandı. Trafikte ortalık karıştı: Sürücüye kamp sandalyesi ve sopayla saldırdılar. Antalya'da iğrenç olay! Tamirat için geldiği dairenin banyosuna görüntü kaydetmek için telefon yerleştirdi. 12 il merkezli siber suç operasyonlarında 32 şüpheli tutuklandı.",
+      "text": "Bakırköy Belediyesi'nde ihale usulsüzlüğü soruşturması. 9 şüpheli için iddianame hazırlandı. Ömer Çelik: Fon dolandırıcıları hesap verecek. Sahte pasaportlu 'joker' mirasçılarla dolandırıcılık operasyonu: 5 tutuklama. Bakırköy Belediyesi soruşturmasında dosyalar ayrıldı... “İcbar suretiyle irtikap” iddiasıyla kamu davası açıldı. Sarıgül ailesine kara para soruşturması. 9 şüpheli için tutuklama talep edildi. Cumhurbaşkanı Erdoğan, vefatının 5. yılında Sezai Karakoç'u andı. Müşterisinin tartışması taksiciye patladı: Hem camı hem parmağı kırıldı.",
       "items": [
         {
-          "title": "Bakan Kurum: Gerçek sınav COP31'den sonra",
-          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye'nin COP31 Başkanlığı'nı diyalog, uzlaşı ve aksiyon üzerine kurduğunu söyledi. COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Ülkelerin kalkınma hakkını koruyan, finansmanı ihtiyacın bulunduğu yere ulaştıran, dönüşümün yükünü hakkaniyetle paylaşan bir sistem kurmamız gerekiyor.\" dedi.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-kurum-gercek-sinav-cop31den-sonra-1751113"
+          "title": "Bakırköy Belediyesi'nde ihale usulsüzlüğü soruşturması. 9 şüpheli için iddianame hazırlandı",
+          "summary": "Bakırköy Belediyesi’ne yönelik ihale dosyalarında usulsüzlük soruşturmasında 9 şüpheliye yönelik iddianame hazırlandı. Bakırköy Belediyesi’ne yönelik ihale dosyalarında usulsüzlükler neticesi kamu zararı oluştuğu, işletme sahiplerinden hukuka aykırı şekilde para talep edildiği iddiaları üzerine yürütülen soruşturma tamamlandı. Aralarında belediye başkan yardımcıları, meclis üyeleri ve müdürlerin de bulunduğu 9 şüpheli yönelik hazırlanan iddianame, Bakırköy 24. Ağır Ceza Mahkemesi’ne gönderildi.",
+          "source": "https://www.ntv.com.tr/turkiye/bakirkoy-belediyesinde-ihale-usulsuzlugu-sorusturmasi-9-supheli-icin-iddianame-hazirlandi-1751169"
         },
         {
-          "title": "Meteoroloji tarih verdi: Kuvvetli sağanak ve fırtına geri geliyor! Günlerce sürecek | İstanbul ve Ankara dahil birçok ilde alarm",
-          "summary": "Meteoroloji ve AKOM’dan gelen peş peşe uyarıların ardından Türkiye genelinde sağanak alarmı verildi. Salı gününden itibaren etkisini artırarak hafta sonuna kadar sürecek yağışlar Marmara, Ege, Akdeniz ve İç Anadolu’yu sararken; İstanbul’da şiddetli Lodos fırtınasıyla birlikte hava sıcaklığının 22 dereceye yükseleceği tahmin ediliyor. İşte 5 günlük harita ve sağanak beklenen iller...",
-          "source": "https://www.hurriyet.com.tr/gundem/meteoroloji-tarih-verdi-kuvvetli-saganak-ve-firtina-geri-geliyor-gunlerce-surecek-istanbul-ve-ankara-dahil-bircok-ilde-alarm-43379786"
+          "title": "Ömer Çelik: Fon dolandırıcıları hesap verecek",
+          "summary": "AK Parti Sözcüsü Ömer Çelik, fon dolandırıcılarının eninde sonunda hesap vereceğini ve soruşturmanın hiçbir safhasının faili meçhul kalmayacağını söyledi. AK Parti Merkez Yürütme Kurulu (MYK), Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan'ın başkanlığında toplandı. AK Parti Sözcüsü Ömer Çelik toplantıyla ilgili açıklamalarda bulundu.",
+          "source": "https://www.ntv.com.tr/turkiye/omer-celik-fon-dolandiricilari-hesap-verecek-1751164"
         },
         {
-          "title": "KYK burs ödeme takvimi. KYK bursu yattı mı, ne zaman yatacak? 2 aylık toplu ödeme mi yapılacak?",
-          "summary": "Kredi ve Yurtlar Kurumu (KYK) tarafından öğrencilerin eğitim hayatlarına maddi destek sağlamak amacıyla verilen KYK burslarının ne zaman yatırılacağı merak ediliyor. 2026-2027 KYK burs sonuçlarının 6 Kasım'da açıklanmasıyla birlikte, burs almayı hak eden on binlerce öğrenci için bursların hesaplara yatırılacağı tarih sorgulanmaya başladı. GSB tarafından öğrencilerin hesaplarına yatırılacak olan KYK burslarının kasım ayında yatırılması halinde öğrencilere 2 aylık toplu ödeme yapılacak.",
-          "source": "https://www.ntv.com.tr/turkiye/kyk-burs-odeme-takvimi-kyk-bursu-yatti-mi-ne-zaman-yatacak-2-aylik-toplu-odeme-mi-yapilacak-1751120"
+          "title": "Sahte pasaportlu 'joker' mirasçılarla dolandırıcılık operasyonu: 5 tutuklama",
+          "summary": "İSTANBUL merkezli 3 ilde, yurt dışında hayatını kaybeden veya hakkında gaiplik kararı verilen Türk vatandaşlarının miraslarını sahte belgelerle ele geçirmeye çalışan şüphelilere yönelik operasyon düzenlendi. Operasyonda 11 şüpheliden 10'u gözaltına alınırken, 1 kişinin başka suçlardan cezaevinde bulunduğu öğrenildi. Adliyeye sevk edilen şüphelilerden 5’i tutuklanırken, 5 kişi adli kontrol şartıyla serbest bırakıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/sahte-pasaportlu-joker-mirascilarla-dolandiricilik-operasyonu-5-tutuklama-43380500"
         },
         {
-          "title": "Yasa dışı bahse jandarma baskını: 3 kişi tutuklandı",
-          "summary": "Tekirdağ, Çerkezköy’de yasa dışı bahis soruşturması kapsamında düzenlenen operasyonda 5 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 3’ü tutuklanırken, 2 kişi hakkında adli kontrol kararı verildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahse-jandarma-baskini-3-kisi-tutuklandi-43380007"
+          "title": "Bakırköy Belediyesi soruşturmasında dosyalar ayrıldı... “İcbar suretiyle irtikap” iddiasıyla kamu davası açıldı",
+          "summary": "Bakırköy Belediyesi'ne yönelik yürütülen soruşturmada, “İcbar suretiyle irtikap” suçlamalarına ilişkin dosya ihaleye fesat karıştırma soruşturmasından ayrıldı. 2 ayrı işyerinden baskı yoluyla para talep edildiği iddialarına ilişkin Bakırköy 24. Ağır Ceza Mahkemesi'nde kamu davası açıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesi-sorusturmasinda-dosyalar-ayrildi-icbar-suretiyle-irtikap-iddiasiyla-kamu-davasi-acildi-43380482"
         },
         {
-          "title": "Trafikte ortalık karıştı: Sürücüye kamp sandalyesi ve sopayla saldırdılar",
-          "summary": "Adana'da trafikte çıkan tartışmada araçtan inen kişiler, otomobil sürücüsüne kamp sandalyesi ve sopayla saldırdı. Olay, sabah saatlerinde Seyhan ilçesi Küçükdikili Mahallesi Turhan Cemal Beriker Bulvarı'nda meydana geldi. Trafikte iki sürücü arasında bilinmeyen nedenle tartışma çıktı. Büyüyen tartışmada araçtan inen sürücü ve arkadaşları, direksiyon başındaki otomobil sürücüsüne kamp sandalyesi ve sopayla saldırdı. Çevredekilerin araya girerek sakinleştirmeye çalıştığı kişiler otomobile tekme atarak zarar verdi.",
-          "source": "https://www.ntv.com.tr/turkiye/video-trafikte-ortalik-karisti-surucuye-kamp-sandalyesi-ve-sopayla-saldirdilar-1751121"
+          "title": "Sarıgül ailesine kara para soruşturması. 9 şüpheli için tutuklama talep edildi",
+          "summary": "Sarıgül ailesine yönelik yürütülen kara para aklama soruşturmasında 9 kişi hakkında tutuklama talep edildi. Erzincan Milletvekili Mustafa Sarıgül ve ailesiyle ilgili kara para aklama iddiasıyla başlatılan soruşturma sürüyor. İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturmada haklarında 13 Kasım'da gözaltı kararı verilen 19 şüpheliden 15'i yakalanmıştı. Şüphelilerden ikisinin yurt dışında, diğer ikisinin de yurt içinde firari olduğu öğrenilmişti. Gözaltındaki 15 kişi bugün adliyeye sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-sarigul-ailesine-kara-para-sorusturmasi-15-supheli-adliyede-1751090"
         },
         {
-          "title": "Antalya'da iğrenç olay! Tamirat için geldiği dairenin banyosuna görüntü kaydetmek için telefon yerleştirdi",
-          "summary": "Antalya'nın Manavgat ilçesinde tamirat için geldiği dairenin banyosunda asma tavana delik açıp, görüntü kaydı yapan cep telefonu yerleştirdiği iddiasıyla gözaltına alınan tesisat ustası 40 yaşındaki A.K. tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/antalyada-igrenc-olay-tamirat-icin-geldigi-dairenin-banyosuna-goruntu-kaydetmek-icin-telefon-yerlestirdi-43379974"
+          "title": "Cumhurbaşkanı Erdoğan, vefatının 5. yılında Sezai Karakoç'u andı",
+          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, şair, yazar ve düşünür Sezai Karakoç'u vefatının 5. yılında andı.",
+          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi-43380425"
         },
         {
-          "title": "12 il merkezli siber suç operasyonlarında 32 şüpheli tutuklandı",
-          "summary": "İçişleri Bakanlığı, 'Siber suçlarla mücadele' kapsamında son 5 günde 12 il merkezli düzenlenen operasyonlarda 167 şüphelinin yakalandığını ve 32'sinin tutuklandığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/12-il-merkezli-siber-suc-operasyonlarinda-32-supheli-tutuklandi-43379969"
+          "title": "Müşterisinin tartışması taksiciye patladı: Hem camı hem parmağı kırıldı",
+          "summary": "Zeytinburnu'nda Aksaray'dan getirdiği yolcusunu bekleyen taksi şoförü Servet O., kadının fiyat anlaşmazlığı yaşadığı kişilerden S.K.'nın taşlı saldırısına uğradı. Aracıyla uzaklaşmaya çalıştığı sırada atılan taşla camı kırılan ve eli yaralanan taksici, yaklaşık 30 bin liralık zararı olduğunu ve parmağı kırıldığı için çalışamadığını söyledi. Saldırı anı araç kamerasına yansıdı.",
+          "source": "https://www.hurriyet.com.tr/gundem/musterisinin-tartismasi-taksiciye-patladi-hem-cami-hem-parmagi-kirildi-43380408"
         }
       ]
     },
     "dunya": {
-      "text": "İsrail'in yeni meclis başkanı Avigdor Liberman oldu. Aktör Depardieu'den itiraf. Cinsel saldırı suçunu kabul edip temyizden çekildi. BM: Binlerce Filistinli tutsak, işkence ve sistematik kötü muamele görüyor. Beyin ameliyatı hayatını kabusa çevirdi: İnsanların yüzünde kedisini görüyor. ABD ve 9 ülke arasında yeni yapay zeka anlaşması. Bildiri imzaladılar. Axios: ABD Başkan Yardımcısı Vance, başkan adaylığında kararsız. Güvenlik kameraları artık yapay zeka ile yüz tanıyacak.",
+      "text": "ABD Başkanı Trump'tan sürpriz görüşme duyurusu. Finlandiya Cumhurbaşkanı Stubb: Türkiye Avrupa güvenliğinin önemli bir aktörü. Norveç'ten nükleer felaket uyarısı: Risk son 40 yılın en yüksek seviyesinde. İtalya'da okullara yine bomba ve zehirleme tehdidi içeren e-postalar gönderildi. Dışişleri Bakanı Hakan Fidan, Malta Dışişleri ve Avrupa İşleri Bakanı Fearne ile görüştü. Almanya'da 90 yıllık sığınak 398 bin eurodan satışa çıkarıldı. Avrupa Merkez Bankası'ndan uyarı. \"Yapay zeka balonu\" patlıyor mu?.",
       "items": [
         {
-          "title": "İsrail'in yeni meclis başkanı Avigdor Liberman oldu",
-          "summary": "İsrail'de muhalefet bloğunda yer alan Evimiz İsrail Partisi lideri ve eski Savunma Bakanı Avigdor Liberman, İsrail Meclisi Dışişleri ve Güvenlik Komisyonu başkanlığına atandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilin-yeni-meclis-baskani-avigdor-liberman-oldu-43380008"
+          "title": "ABD Başkanı Trump'tan sürpriz görüşme duyurusu",
+          "summary": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping ile görüşmesinin ardından Kuzey Kore lideri Kim Jong-Un ile de bir araya gelebileceğini kaydetti. Trump, Putin'in Ukrayna konusunda geri adım attığını öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trumptan-surpriz-gorusme-duyurusu-43380449"
         },
         {
-          "title": "Aktör Depardieu'den itiraf. Cinsel saldırı suçunu kabul edip temyizden çekildi",
-          "summary": "Fransız oyuncu Gérard Depardieu, iki kadına cinsel saldırı suçundan aldığı mahkumiyete yaptığı itirazdan vazgeçerek suçunu kabul etti. Fransız sinemasının önde gelen oyuncularından Gérard Depardieu, 2025 yılında cinsel saldırı suçundan aldığı mahkumiyete karşı yaptığı temyiz başvurusunu geri çekti. 77 yaşındaki aktör, bugün yapıtğı açıklamada suçunu kabul etti ve mağdurlardan özür diledi. Temyiz duruşmasının bugün başlaması bekleniyordu ancak bu kararla birlikte mahkemenin ilk hükmü kesinleşti.",
-          "source": "https://www.ntv.com.tr/dunya/aktor-depardieuden-itiraf-cinsel-saldiri-sucunu-kabul-edip-temyizden-cekildi-1751119"
+          "title": "Finlandiya Cumhurbaşkanı Stubb: Türkiye Avrupa güvenliğinin önemli bir aktörü",
+          "summary": "Türkiye’nin Avrupa güvenliğinde önemli bir role sahip olduğunu ifade eden Finlandiya Cumhurbaşkanı Alexander Stubb, ortak çıkarların bulunduğu alanlarda işbirliğinin derinleştirilmesi gerektiğini belirtti. Stubb, ve vazgeçilmez bir NATO müttefiki olduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/finlandiya-cumhurbaskani-stubb-turkiye-avrupa-guvenliginin-onemli-bir-aktoru-43380442"
         },
         {
-          "title": "BM: Binlerce Filistinli tutsak, işkence ve sistematik kötü muamele görüyor",
-          "summary": "BM İnsan Hakları Yüksek Komiserliği Sözcüsü Thameen Al-Kheetan, Filistinli tutukluların, İsrail gözaltı merkezlerinde yaygın ve sistematik işkence ile kötü muameleye maruz kaldıklarını söyledi. Birleşmiş Milletler (BM) İnsan Hakları Yüksek Komiserliği Sözcüsü Thameen Al-Kheetan, İsrail cezaevlerinde tutulan binlerce Filistinlinin yaygın ve sistematik işkence ile kötü muameleye maruz kaldığını belirterek, keyfi olarak alıkonulan tüm Filistinlilerin serbest bırakılması çağrısında bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/bm-binlerce-filistinli-tutsak-iskence-ve-sistematik-kotu-muamele-goruyor-1751114"
+          "title": "Norveç'ten nükleer felaket uyarısı: Risk son 40 yılın en yüksek seviyesinde",
+          "summary": "Norveç Sağlık ve Bakım Hizmetleri Bakanı Jan Christian Vestre, Avrupa'da ciddi bir nükleer kaza riskinin son 40 yılın en yüksek seviyesinde olduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/norvecten-nukleer-felaket-uyarisi-risk-son-40-yilin-en-yuksek-seviyesinde-43380404"
         },
         {
-          "title": "Beyin ameliyatı hayatını kabusa çevirdi: İnsanların yüzünde kedisini görüyor",
-          "summary": "ABD'nin kuzeydoğusunda yaşayan 28 yaşındaki Karl, beyin ameliyatı sonrasında insanların yüzlerinde evcil kedisi Luna'nın özelliklerini görmeye başladı. Karl olarak bilinen hasta, bazen de tam tersini yaşıyor; sabah gördüğü ilk yüz bir insansa, o yüzün özellikleri Luna'ya ve sonraki insanlara yansıyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/beyin-ameliyati-hayatini-kabusa-cevirdi-insanlarin-yuzunde-kedisini-goruyor-43379937"
+          "title": "İtalya'da okullara yine bomba ve zehirleme tehdidi içeren e-postalar gönderildi",
+          "summary": "İtalya'da geçen hafta binlerce okula gönderilen ve asılsız olduğu belirlenen bomba ihbarı e-postalarının ardından bugün de bazı okullara benzer tehdit içerikli e-postalar gönderildi. İtalya'da ulusal basında yer alan haberlere göre, ülkenin farklı şehirlerindeki okullara yeni bomba tehditleri içeren e-postalar ulaştı. Son günlerde gönderilen benzer e-postalarda da görülen, Mikhail Andropov'un baş harflerinden oluşan M.A.",
+          "source": "https://www.ntv.com.tr/dunya/italyada-okullara-yine-bomba-ve-zehirleme-tehdidi-iceren-e-postalar-gonderildi-1751163"
         },
         {
-          "title": "ABD ve 9 ülke arasında yeni yapay zeka anlaşması. Bildiri imzaladılar",
-          "summary": "ABD ile 9 ülke arasında yapay zeka alanında tedarik zinciri ve kritik altyapının güçlendirilmesi konusunda iş birliğini öngören bildiri imzalandı. ABD Dışişleri Bakanlığından yapılan açıklamaya göre, \"silikon tedarik zinciri\" oluşturulmasını hedefleyen uluslararası Pax Silica girişimine taraf olan ülkeler ile ABD arasında yeni bir yapay zeka anlaşmasına varıldı.",
-          "source": "https://www.ntv.com.tr/dunya/abd-ve-9-ulke-arasinda-yeni-yapay-zeka-anlasmasi-bildiri-imzaladilar-1751105"
+          "title": "Dışişleri Bakanı Hakan Fidan, Malta Dışişleri ve Avrupa İşleri Bakanı Fearne ile görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Brüksel'de Malta Dışişleri ve Avrupa İşleri Bakanı Chris Fearne ile bir görüşme gerçekleştirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidan-malta-disisleri-ve-avrupa-isleri-bakani-fearne-ile-gorustu-43380382"
         },
         {
-          "title": "Axios: ABD Başkan Yardımcısı Vance, başkan adaylığında kararsız",
-          "summary": "ABD Başkan Yardımcısı JD Vance'in, 2028'deki başkanlık seçimlerinde aday olma konusunda \"kararsız kaldığı\" ve nihai kararını ancak yeni yıldan sonra verebileceği iddia edildi. Amerikan Axios haber sitesine konuşan ve ismini paylaşmayan yetkililer, ABD Başkan Yardımcısı JD Vance'in 2028'deki başkanlık seçimlerine ilişkin planına dair iddialarda bulundu. Vance'in aday olma konusunda \"kararsız kaldığını\" öne süren kaynaklar, olası bir adaylık konusunu eşi Usha ve ailesiyle görüştüğünü aktardı.",
-          "source": "https://www.ntv.com.tr/dunya/axios-abd-baskan-yardimcisi-vance-baskan-adayliginda-kararsiz-1751100"
+          "title": "Almanya'da 90 yıllık sığınak 398 bin eurodan satışa çıkarıldı",
+          "summary": "Almanya'nın başkenti Berlin'de, İkinci Dünya Savaşı öncesinde 1936 yılında inşa edilen 618 metrekarelik sığınak 398 bin euro başlangıç bedeliyle açık artırmaya çıkarıldı. Almanya'da bir açık artırma sitesinde yer alan ilan kamuoyunda büyük yankı uyandırdı. Almanya'nın başkenti Berlin'de faaliyet gösteren bir açık artırma portalında yer alan bilgilere göre, kentin en lüks semtlerinden biri olan Charlottenburg'da 90 yıllık sığınak satışa çıkarıldı.",
+          "source": "https://www.ntv.com.tr/dunya/almanyada-90-yillik-siginak-398-bin-eurodan-satisa-cikarildi-1751148"
         },
         {
-          "title": "Güvenlik kameraları artık yapay zeka ile yüz tanıyacak",
-          "summary": "Hong Kong polisi, SmartView operasyonu kapsamında kamusal alanlardaki gözetim kameralarına yapay zeka destekli yüz tanıma özelliği ekledi. Hong Kong'da kamusal alanlardaki kapalı devre kameralar, bugün itibarıyla yapay zeka destekli yüz tanıma özellikleriyle çalışmaya başladı. Ulusal güvenlik ve suçun önlenmesi gerekçesiyle devreye alınan sistem, kent genelindeki gözetim ağının kapsamını genişletiyor.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-guvenlik-kameralari-artik-yapay-zeka-ile-yuz-taniyacak-1751110"
+          "title": "Avrupa Merkez Bankası'ndan uyarı. \"Yapay zeka balonu\" patlıyor mu?",
+          "summary": "Avrupa Merkez Bankası Başkan Yardımcısı Vujcic, yapay zekaya yönelik yatırımcı güveninin bozulması halinde piyasalarda ani değer kayıpları yaşanabileceğini açıkladı. Avrupa Merkez Bankası (ECB), yapay zekaya yönelik yatırımcı algısının bozulması halinde piyasalarda ani yeniden fiyatlama ve büyük kayıplar yaşanabileceği uyarısını yaptı. ECB Başkan Yardımcısı Boris Vujcic, bugün Frankfurt'ta katıldığı 29.",
+          "source": "https://www.ntv.com.tr/dunya/avrupa-merkez-bankasindan-uyari-yapay-zeka-balonu-patliyor-mu-1751158"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Carlo Ancelotti'ye büyük tepki: 'Eşyalarını topla ve defol git!'. Beşiktaş’a Afrika’dan sakatlık şoku! Resmen açıklandı. Anadolu Efes, EuroLeague'de Dubai Basketbol'a konuk olacak!. Uluslar Ligi’nde Almanya-Hollanda randevusu! Dev mücadelede üst tercihi ön planda! İşte Misli’de günün en çok oynanan maçları. Fenerbahçe Tarfin, EuroLeague'de LDLC Asvel'i konuk edecek!. Juventus'ta Kenan Yıldız şoku!. Almanya-Hollanda maçları karşılıklı gole sahne oluyor, İsviçre zor gol yiyor… İşte Misli’den günün tüyoları!.",
+      "text": "Galatasaray'ın stadyumu Rams Park'ın zemininin son durumu görüntülendi!. Real Madrid'in Brezilyalı yıldızı, hakeme saldırdı! Skandal harekete hakemin tepkisizliği hayret ettirdi. Bursa’da heyecan dolu 7 koşu! İşte Misli’den günün altılı analizi…. Gaziantep FK, Volkan Demirel'i resmen açıkladı. Galatasaray resmen açıkladı! Samsunspor maçı Başakşehir'de oynanacak. Selçuk İnan'dan Emre Belözoğlu sözleri: 'Saha dışında abim gibi ama 25 yıldır rakibiz!'. Haaland, Manchester City'ye açılan soruşturma hakkında ilk kez konuştu: Cevaplaması zor.",
       "items": [
         {
-          "title": "Carlo Ancelotti'ye büyük tepki: 'Eşyalarını topla ve defol git!'",
-          "summary": "Eski futbolcu Romario, Brezilya Milli Takımı'nın hazırlık maçında Japonya'ya 3-2 mağlup olmasının ardından Carlo Ancelotti'yi sert sözlerle eleştirdi. Sosyal medya hesabından açıklama yapan Romario, İtalyan teknik direktörün görevden alınması çağrısında bulundu. Ancelotti ise düzenlediği basın toplantısında hem kendi performansını değerlendirdi hem de Romario'nun eleştirilerine yanıt verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/carlo-ancelottiye-buyuk-tepki-esyalarini-topla-ve-defol-git-43379990"
+          "title": "Galatasaray'ın stadyumu Rams Park'ın zemininin son durumu görüntülendi!",
+          "summary": "Süper Lig'e verilen milli arayla birlikte hızlandırılan ve gece-gündüz esasıyla çalışma yürütülen RAMS Park zeminindeki son durum ise havadan görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-stadyumu-rams-parkin-zemininin-son-durumu-goruntulendi-43380481"
         },
         {
-          "title": "Beşiktaş’a Afrika’dan sakatlık şoku! Resmen açıklandı",
-          "summary": "Beşiktaş’ın Fildişili yıldızı Agbadou, milli takımda sakatlandı. Konuya ilişkin açıklama geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-afrikadan-sakatlik-soku-resmen-aciklandi-43379809"
+          "title": "Real Madrid'in Brezilyalı yıldızı, hakeme saldırdı! Skandal harekete hakemin tepkisizliği hayret ettirdi",
+          "summary": "Real Madrid'in yıldız isimlerinden Endrick, Japonya ile Brezilya arasında oynanan hazırlık maçında karşılaşmanın hakemine saldırdı. Neye uğradığını şaşıran Singapurlu düdük, Brezilyalı oyuncuya bu hareketi nedeniyle kart göstermedi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madridin-brezilyali-yildizi-hakeme-saldirdi-skandal-harekete-hakemin-tepkisizligi-hayret-ettirdi-43380273"
         },
         {
-          "title": "Anadolu Efes, EuroLeague'de Dubai Basketbol'a konuk olacak!",
-          "summary": "Anadolu Efes, EuroLeague'de 12. haftasında yarın Birleşik Arap Emirlikleri temsilcisi Dubai Basketbol'a konuk olacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-euroleaguede-dubai-basketbola-konuk-olacak-43379924"
+          "title": "Bursa’da heyecan dolu 7 koşu! İşte Misli’den günün altılı analizi…",
+          "summary": "Misli’de heyecan hiç bitmiyor, at yarışıyla beraber katlanarak devam ediyor. Spor bahisleri başta olmak üzere birçok oyunla fark yaratan Misli, şimdi at yarışıyla da kullanıcılarına yeni bir deneyim sunuyor. Misli üyeleri hem yurt içi hem de yurt dışı koşularında kazanmanın tutkusunu yaşıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bursada-heyecan-dolu-7-kosu-iste-misliden-gunun-altili-analizi-43380436"
         },
         {
-          "title": "Uluslar Ligi’nde Almanya-Hollanda randevusu! Dev mücadelede üst tercihi ön planda! İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uluslar-liginde-almanya-hollanda-randevusu-dev-mucadelede-ust-tercihi-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43379923"
+          "title": "Gaziantep FK, Volkan Demirel'i resmen açıkladı",
+          "summary": "Gaziantep FK, teknik direktör Volkan Demirel ile 1,5 yıllık sözleşme imzalandığını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gaziantep-fk-volkan-demireli-resmen-acikladi-43380296"
         },
         {
-          "title": "Fenerbahçe Tarfin, EuroLeague'de LDLC Asvel'i konuk edecek!",
-          "summary": "Fenerbahçe Tarfin, EuroLeague'in 12. haftasında LDLC Asvel'i ağırlayacak",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-euroleaguede-ldlc-asveli-konuk-edecek-43379887"
+          "title": "Galatasaray resmen açıkladı! Samsunspor maçı Başakşehir'de oynanacak",
+          "summary": "Galatasaray, resmi yayın organından yaptığı açıklamada; Samsunspor ile oynayacağı müsabakanın Başakşehir Stadı'nda oynanacağını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-resmen-acikladi-samsunspor-maci-basaksehirde-oynanacak-43380229"
         },
         {
-          "title": "Juventus'ta Kenan Yıldız şoku!",
-          "summary": "Juventus’ta sakatlığı süren Kenan Yıldız’ın iyileşme sürecinin beklenenden yavaş ilerlediği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/juventusta-kenan-yildiz-soku-43379793"
+          "title": "Selçuk İnan'dan Emre Belözoğlu sözleri: 'Saha dışında abim gibi ama 25 yıldır rakibiz!'",
+          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Fenerbahçe Teknik Direktörü Emre Belözoğlu ile arasındaki rekabete ilişkin, \"Emre hoca saha dışında abim gibi ama yaklaşık 25 yıldır da rakibiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inandan-emre-belozoglu-sozleri-saha-disinda-abim-gibi-ama-25-yildir-rakibiz-43380222"
         },
         {
-          "title": "Almanya-Hollanda maçları karşılıklı gole sahne oluyor, İsviçre zor gol yiyor… İşte Misli’den günün tüyoları!",
-          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
-          "source": "https://www.hurriyet.com.tr/sporarena/almanya-hollanda-maclari-karsilikli-gole-sahne-oluyor-isvicre-zor-gol-yiyor-iste-misliden-gunun-tuyolari-43379810"
+          "title": "Haaland, Manchester City'ye açılan soruşturma hakkında ilk kez konuştu: Cevaplaması zor",
+          "summary": "Premier Lig ekibi Manchester City'ye karşı açılan soruşturma hakkında, İngiliz ekibinin golcüsü Erlin Haaland açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/haaland-manchester-cityye-acilan-sorusturma-hakkinda-ilk-kez-konustu-cevaplamasi-zor-43380105"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?. Bu gıdalar mikroplastikleri vücuttan atıyor. ABD'den uyarı: Zayıflama ilaçlarında körlük riski. ABD uyardı. Ozempic ve Mounjaro kör edebilir, üstelik tedavisi de yok. 12 bin hastanın verisi incelendi: İnme riski o saatlerde yüzde 72 artıyor. Stres baş ağrısını nasıl tetikliyor?. Beyin kanserine karşı yeni yöntem.",
+      "text": "Uzmanlar açıkladı: Bitter çikolata insan sağlığına faydalı mı?. Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?. Bu gıdalar mikroplastikleri vücuttan atıyor. ABD'den uyarı: Zayıflama ilaçlarında körlük riski. ABD uyardı. Ozempic ve Mounjaro kör edebilir, üstelik tedavisi de yok. 12 bin hastanın verisi incelendi: İnme riski o saatlerde yüzde 72 artıyor. Stres baş ağrısını nasıl tetikliyor?.",
       "items": [
+        {
+          "title": "Uzmanlar açıkladı: Bitter çikolata insan sağlığına faydalı mı?",
+          "summary": "Sağlıklı yaşam için genellikle uzak durulması önerilen yiyecekler arasında çikolata da yer alıyor. Uzmanlar, ölçülü ve en az yüzde 70 kakao içeren bitter çikolatanın sağlığa fayda sağladığını söylüyor",
+          "source": "https://www.ntv.com.tr/saglik/video-uzmanlar-acikladi-bitter-cikolata-insan-sagligina-faydali-mi-1751128"
+        },
         {
           "title": "Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?",
           "summary": "Amerikan Gıda ve İlaç Dairesi’nin (FDA) 9 Kasım 2026’da ‘zayıflama iğneleri’ olarak bilinen ilaçların güvenli kullanımıyla ilgili bir uyarı yayınladı. FDA, bu gruptaki ilaçların ürün bilgilerine, nadir görülen ancak kalıcı görme kaybına yol açabilen bir göz hastalığına ilişkin bilgi eklenmesini istedi. Yani, sadece olası bir risk artışına dikkat çekiyor; her kullanıcının bu sorunla karşılaşacağı anlamına gelmiyor.",
@@ -235,11 +240,6 @@
           "title": "Stres baş ağrısını nasıl tetikliyor?",
           "summary": "NTV'de yayınlanan Zincirleme Reaksiyon, bu hafta baş ağrısının nedenlerini, stresin vücut üzerindeki etkilerini, migrenin belirtilerini ve bilinçsiz ağrı kesici kullanımının risklerini ele aldı. Stresin baş ağrısına etkisini değerlendiren Prof. Dr. Burcu Örmeci, stres sırasında vücuttaki kasların istemsiz olarak kasıldığını ve bu durumun baş ağrısına neden olabildiğini anlattı.",
           "source": "https://www.ntv.com.tr/saglik/video-stres-bas-agrisini-nasil-tetikliyor-1749977"
-        },
-        {
-          "title": "Beyin kanserine karşı yeni yöntem",
-          "summary": "ABD'li bilim insanları beyin kanserinin yayılmasını engelleyen yeni bir tedavi yöntemi geliştirdi. Araştırmacılar tedavinin önündeki en büyük engeli aşmayı başardıklarını söylüyor. Ultrasonik ses dalgaları ve nano teknoloji birlikte kullanıldı, beyin tümörlerinin büyümesini tetikleyen genler hedef alındı. Kanser tedavisinde çığır açan araştırma Amerika Birleşik Devletleri'nin (ABD) Virginia Üniversitesi uzmanları tarafından geliştirildi.",
-          "source": "https://www.ntv.com.tr/saglik/beyin-kanserine-karsi-yeni-yontem-1749913"
         }
       ]
     },
