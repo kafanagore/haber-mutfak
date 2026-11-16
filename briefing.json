@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-16T04:00:04.356Z",
+  "generatedAt": "2026-11-16T10:00:03.422Z",
   "categories": {
     "gundem": {
-      "text": "Erzurum'da 3,6 büyüklüğünde deprem. Nevşehir’de yolcu otobüsü ata çarptı: 1 ölü, 2 yaralı. KKTC’nin 43. kuruluş yıl dönümünde Cumhurbaşkanlığı’nda resepsiyon düzenlendi. Muş’ta jandarmadan ruhsatsız silah operasyonu. Otobüs ata çarptı. Yedek şoför hayatını kaybetti. Bursa’da 5 ev alevlere teslim oldu. 10 kişi dumandan etkilendi. ASELSAN'dan dronlara karşı EJDERHA. 51 dronu tek tuşla düşürdü.",
+      "text": "Bakan Kurum: Gerçek sınav COP31'den sonra. Meteoroloji tarih verdi: Kuvvetli sağanak ve fırtına geri geliyor! Günlerce sürecek | İstanbul ve Ankara dahil birçok ilde alarm. KYK burs ödeme takvimi. KYK bursu yattı mı, ne zaman yatacak? 2 aylık toplu ödeme mi yapılacak?. Yasa dışı bahse jandarma baskını: 3 kişi tutuklandı. Trafikte ortalık karıştı: Sürücüye kamp sandalyesi ve sopayla saldırdılar. Antalya'da iğrenç olay! Tamirat için geldiği dairenin banyosuna görüntü kaydetmek için telefon yerleştirdi. 12 il merkezli siber suç operasyonlarında 32 şüpheli tutuklandı.",
       "items": [
         {
-          "title": "Erzurum'da 3,6 büyüklüğünde deprem",
-          "summary": "Erzurum'un Pasinler ilçesinde 3,6 büyüklüğünde deprem meydana geldi",
-          "source": "https://www.hurriyet.com.tr/gundem/erzurumda-3-6-buyuklugunde-deprem-43379612"
+          "title": "Bakan Kurum: Gerçek sınav COP31'den sonra",
+          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye'nin COP31 Başkanlığı'nı diyalog, uzlaşı ve aksiyon üzerine kurduğunu söyledi. COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Ülkelerin kalkınma hakkını koruyan, finansmanı ihtiyacın bulunduğu yere ulaştıran, dönüşümün yükünü hakkaniyetle paylaşan bir sistem kurmamız gerekiyor.\" dedi.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-kurum-gercek-sinav-cop31den-sonra-1751113"
         },
         {
-          "title": "Nevşehir’de yolcu otobüsü ata çarptı: 1 ölü, 2 yaralı",
-          "summary": "Nevşehir’de yolcu otobüsünün aniden yola çıkan ata çarpması sonucu meydana gelen kazada yedek şoför hayatını kaybederken, otobüs şoförü ve 1 yolcu yaralandı. Kazada at da telef oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/nevsehirde-yolcu-otobusu-ata-carpti-1-olu-2-yarali-43379610"
+          "title": "Meteoroloji tarih verdi: Kuvvetli sağanak ve fırtına geri geliyor! Günlerce sürecek | İstanbul ve Ankara dahil birçok ilde alarm",
+          "summary": "Meteoroloji ve AKOM’dan gelen peş peşe uyarıların ardından Türkiye genelinde sağanak alarmı verildi. Salı gününden itibaren etkisini artırarak hafta sonuna kadar sürecek yağışlar Marmara, Ege, Akdeniz ve İç Anadolu’yu sararken; İstanbul’da şiddetli Lodos fırtınasıyla birlikte hava sıcaklığının 22 dereceye yükseleceği tahmin ediliyor. İşte 5 günlük harita ve sağanak beklenen iller...",
+          "source": "https://www.hurriyet.com.tr/gundem/meteoroloji-tarih-verdi-kuvvetli-saganak-ve-firtina-geri-geliyor-gunlerce-surecek-istanbul-ve-ankara-dahil-bircok-ilde-alarm-43379786"
         },
         {
-          "title": "KKTC’nin 43. kuruluş yıl dönümünde Cumhurbaşkanlığı’nda resepsiyon düzenlendi",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) kuruluşunun 43. yıl dönümü dolayısıyla Cumhurbaşkanlığı'nda resepsiyon düzenlendi. Cumhurbaşkanı Tufan Erhürman, \"El eleyiz, yürek yüreğiz, gönül gönüleyiz. Hep de böyle olacak. Buna güvenimiz sonsuz. Hep birlikte ileriye yürümeye devam edeceğiz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kktcnin-43-kurulus-yil-donumunde-cumhurbaskanliginda-resepsiyon-duzenlendi-43379607"
+          "title": "KYK burs ödeme takvimi. KYK bursu yattı mı, ne zaman yatacak? 2 aylık toplu ödeme mi yapılacak?",
+          "summary": "Kredi ve Yurtlar Kurumu (KYK) tarafından öğrencilerin eğitim hayatlarına maddi destek sağlamak amacıyla verilen KYK burslarının ne zaman yatırılacağı merak ediliyor. 2026-2027 KYK burs sonuçlarının 6 Kasım'da açıklanmasıyla birlikte, burs almayı hak eden on binlerce öğrenci için bursların hesaplara yatırılacağı tarih sorgulanmaya başladı. GSB tarafından öğrencilerin hesaplarına yatırılacak olan KYK burslarının kasım ayında yatırılması halinde öğrencilere 2 aylık toplu ödeme yapılacak.",
+          "source": "https://www.ntv.com.tr/turkiye/kyk-burs-odeme-takvimi-kyk-bursu-yatti-mi-ne-zaman-yatacak-2-aylik-toplu-odeme-mi-yapilacak-1751120"
         },
         {
-          "title": "Muş’ta jandarmadan ruhsatsız silah operasyonu",
-          "summary": "Muş’un Varto ilçesinde jandarma ekiplerince 4 şüphelinin evinde yapılan aramalarda 4 ruhsatsız tabanca, 3 av tüfeği ve çok sayıda mühimmat ele geçirildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/musta-jandarmadan-ruhsatsiz-silah-operasyonu-43379606"
+          "title": "Yasa dışı bahse jandarma baskını: 3 kişi tutuklandı",
+          "summary": "Tekirdağ, Çerkezköy’de yasa dışı bahis soruşturması kapsamında düzenlenen operasyonda 5 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 3’ü tutuklanırken, 2 kişi hakkında adli kontrol kararı verildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yasa-disi-bahse-jandarma-baskini-3-kisi-tutuklandi-43380007"
         },
         {
-          "title": "Otobüs ata çarptı. Yedek şoför hayatını kaybetti",
-          "summary": "Nevşehir'de karayoluna çıkan ata çarpan şehirlerarası yolcu otobüsünün sürücüsü ile bir yolcu yaralandı, yedek sürücü hayatını kaybetti. Kayseri'den Aksaray istikametine seyreden O.A. idaresindeki yolcu otobüsü, Kayseri-Nevşehir Karayolu Çökek köyü yakınlarında yola çıkan sahipsiz ata çarptı. Kazada otobüs sürücüsü O.A., yedek sürücü Abdullah Gül ile bir yolcu yaralandı. Atın da öldüğü kazanın arıdndan olay yerine polis, sağlık ve itfaiye ekibi sevk edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/otobus-ata-carpti-yedek-sofor-hayatini-kaybetti-1751047"
+          "title": "Trafikte ortalık karıştı: Sürücüye kamp sandalyesi ve sopayla saldırdılar",
+          "summary": "Adana'da trafikte çıkan tartışmada araçtan inen kişiler, otomobil sürücüsüne kamp sandalyesi ve sopayla saldırdı. Olay, sabah saatlerinde Seyhan ilçesi Küçükdikili Mahallesi Turhan Cemal Beriker Bulvarı'nda meydana geldi. Trafikte iki sürücü arasında bilinmeyen nedenle tartışma çıktı. Büyüyen tartışmada araçtan inen sürücü ve arkadaşları, direksiyon başındaki otomobil sürücüsüne kamp sandalyesi ve sopayla saldırdı. Çevredekilerin araya girerek sakinleştirmeye çalıştığı kişiler otomobile tekme atarak zarar verdi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-trafikte-ortalik-karisti-surucuye-kamp-sandalyesi-ve-sopayla-saldirdilar-1751121"
         },
         {
-          "title": "Bursa’da 5 ev alevlere teslim oldu. 10 kişi dumandan etkilendi",
-          "summary": "Bursa’nın İnegöl ilçesinde bir evde çıkan ve 4 eve daha sıçrayan yangında 10 kişi dumandan etkilendi. Evler, güvenlik gerekçesiyle belediye ekiplerince yıkıldı. İnegöl’ün kırsal Turgutalp Mahallesi’nde, bir evde henüz belirlenemeyen nedenle yangın çıktı. Kısa sürede büyüyen alevler bitişikte bulunan 4 eve daha sıçrarken, dumandan 10 kişi etkilendi. İnegöl Belediyesi, Bursa Büyükşehir Belediyesi İtfaiyesi, Orman Müdürlüğü ve BUSKİ ekipleri, 5 evi etkileyen yangının söndürülmesi için seferber oldu.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033"
+          "title": "Antalya'da iğrenç olay! Tamirat için geldiği dairenin banyosuna görüntü kaydetmek için telefon yerleştirdi",
+          "summary": "Antalya'nın Manavgat ilçesinde tamirat için geldiği dairenin banyosunda asma tavana delik açıp, görüntü kaydı yapan cep telefonu yerleştirdiği iddiasıyla gözaltına alınan tesisat ustası 40 yaşındaki A.K. tutuklandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/antalyada-igrenc-olay-tamirat-icin-geldigi-dairenin-banyosuna-goruntu-kaydetmek-icin-telefon-yerlestirdi-43379974"
         },
         {
-          "title": "ASELSAN'dan dronlara karşı EJDERHA. 51 dronu tek tuşla düşürdü",
-          "summary": "51 dronun aynı anda havalandırıldığı denemede, EJDERHA Yüksek Güçlü Elektromanyetik (HPEM) İHA Savunma Sistemi, tüm hedefleri saniyeler içerisinde eş zamanlı olarak etkisiz hale getirdi. Şirketten yapılan yazılı açıklamaya göre, 51. kuruluş yıl dönümünde, ASELSAN'ın Gölbek Atış ve Test Merkezinde rekor denemesi gerçekleştirildi. Vakum elektroniği teknolojisiyle yüksek güçlü elektromanyetik dalgalar üreten EJDERHA, ilk aşamada iki farklı kablolu dronu yaklaşık bin metre mesafeden etkisiz hale getirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/aselsandan-dronlara-karsi-ejderha-51-dronu-tek-tusla-dusurdu-1751028"
+          "title": "12 il merkezli siber suç operasyonlarında 32 şüpheli tutuklandı",
+          "summary": "İçişleri Bakanlığı, 'Siber suçlarla mücadele' kapsamında son 5 günde 12 il merkezli düzenlenen operasyonlarda 167 şüphelinin yakalandığını ve 32'sinin tutuklandığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/12-il-merkezli-siber-suc-operasyonlarinda-32-supheli-tutuklandi-43379969"
         }
       ]
     },
     "dunya": {
-      "text": "\"Kartellerin Vaftiz Babası\" öldü. ‘Tinder Avcısı’na benzetildi... İsrail’de muhalefetin kapısı Netanyahu’ya kapalı. Yeni saldırı hazırlığı mı? ABD, Ortadoğu’ya yeni uçak gemisi gönderiyor. ABD'deki uçuş aksaklıkları üçüncü gününde devam ediyor: 5 bin 200’den fazla sefer etkilendi. Teknik sorun giderildi, ABD'deki havacılık krizi bitmedi. NYT: USS Theodore Roosevelt uçak gemisi, Orta Doğu’daki görevine başlıyor. Babülmendep'te kontrol Husilere geçiyor. Hükümet güçleri geri çekildi.",
+      "text": "İsrail'in yeni meclis başkanı Avigdor Liberman oldu. Aktör Depardieu'den itiraf. Cinsel saldırı suçunu kabul edip temyizden çekildi. BM: Binlerce Filistinli tutsak, işkence ve sistematik kötü muamele görüyor. Beyin ameliyatı hayatını kabusa çevirdi: İnsanların yüzünde kedisini görüyor. ABD ve 9 ülke arasında yeni yapay zeka anlaşması. Bildiri imzaladılar. Axios: ABD Başkan Yardımcısı Vance, başkan adaylığında kararsız. Güvenlik kameraları artık yapay zeka ile yüz tanıyacak.",
       "items": [
         {
-          "title": "\"Kartellerin Vaftiz Babası\" öldü",
-          "summary": "Meksika'nın en büyük uyuşturucu kartellerinden Guadalajara'nın \"Kartellerin Vaftiz Babası\", \"El Padrino\" ve \"Patronların patronu\" lakaplı kurucusu Felix Gallardo, 80 yaşında öldü. Meksika'da uyuşturucu ticareti tarihinin en güçlü suç örgütü elebaşlarından biri olarak bulunan Guadalajara Karteli'nin kurucusu ve lideri Felix Gallardo'nun 80 yıllık ömrü hapisten çıkmaya yetmedi.",
-          "source": "https://www.ntv.com.tr/dunya/kartellerin-vaftiz-babasi-oldu-1751053"
+          "title": "İsrail'in yeni meclis başkanı Avigdor Liberman oldu",
+          "summary": "İsrail'de muhalefet bloğunda yer alan Evimiz İsrail Partisi lideri ve eski Savunma Bakanı Avigdor Liberman, İsrail Meclisi Dışişleri ve Güvenlik Komisyonu başkanlığına atandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilin-yeni-meclis-baskani-avigdor-liberman-oldu-43380008"
         },
         {
-          "title": "‘Tinder Avcısı’na benzetildi... İsrail’de muhalefetin kapısı Netanyahu’ya kapalı",
-          "summary": "İsrail’de seçimin ardından hükümet kurma görüşmeleri devam ederken, Başbakan Binyamin Netanyahu’nun son günlerde sık sık tekrarladığı “ulusal birlik hükümeti” çağrısına muhalefetten sert tepki geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/tinder-avcisina-benzetildi-israilde-muhalefetin-kapisi-netanyahuya-kapali-43379561"
+          "title": "Aktör Depardieu'den itiraf. Cinsel saldırı suçunu kabul edip temyizden çekildi",
+          "summary": "Fransız oyuncu Gérard Depardieu, iki kadına cinsel saldırı suçundan aldığı mahkumiyete yaptığı itirazdan vazgeçerek suçunu kabul etti. Fransız sinemasının önde gelen oyuncularından Gérard Depardieu, 2025 yılında cinsel saldırı suçundan aldığı mahkumiyete karşı yaptığı temyiz başvurusunu geri çekti. 77 yaşındaki aktör, bugün yapıtğı açıklamada suçunu kabul etti ve mağdurlardan özür diledi. Temyiz duruşmasının bugün başlaması bekleniyordu ancak bu kararla birlikte mahkemenin ilk hükmü kesinleşti.",
+          "source": "https://www.ntv.com.tr/dunya/aktor-depardieuden-itiraf-cinsel-saldiri-sucunu-kabul-edip-temyizden-cekildi-1751119"
         },
         {
-          "title": "Yeni saldırı hazırlığı mı? ABD, Ortadoğu’ya yeni uçak gemisi gönderiyor",
-          "summary": "İran'a yönelik yeni saldırı iddialarının yalanlanmasına rağmen ABD, USS Theodore Roosevelt uçak gemisini yeniden Ortadoğu'ya gönderiyor. ABD'nin bölgedeki uçak gemisi sayısı tekrar üçe yükselecek. Seçim yenilgisinin ardından ABD Başkanı Donald Trump İran'a yönelik olası saldırıları ertelemeyi değerlendirdiği iddialarının gölgesinde örtülü diplomasi sürerken, Washington'dan gerilimi yeniden artıracak bir adım daha geldi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-yeni-saldiri-hazirligi-mi-abd-ortadoguya-yeni-ucak-gemisi-gonderiyor-1751051"
+          "title": "BM: Binlerce Filistinli tutsak, işkence ve sistematik kötü muamele görüyor",
+          "summary": "BM İnsan Hakları Yüksek Komiserliği Sözcüsü Thameen Al-Kheetan, Filistinli tutukluların, İsrail gözaltı merkezlerinde yaygın ve sistematik işkence ile kötü muameleye maruz kaldıklarını söyledi. Birleşmiş Milletler (BM) İnsan Hakları Yüksek Komiserliği Sözcüsü Thameen Al-Kheetan, İsrail cezaevlerinde tutulan binlerce Filistinlinin yaygın ve sistematik işkence ile kötü muameleye maruz kaldığını belirterek, keyfi olarak alıkonulan tüm Filistinlilerin serbest bırakılması çağrısında bulundu.",
+          "source": "https://www.ntv.com.tr/dunya/bm-binlerce-filistinli-tutsak-iskence-ve-sistematik-kotu-muamele-goruyor-1751114"
         },
         {
-          "title": "ABD'deki uçuş aksaklıkları üçüncü gününde devam ediyor: 5 bin 200’den fazla sefer etkilendi",
-          "summary": "ABD’de cuma günü sivil havacılık altyapısında meydana gelen ve ülke genelindeki havacılık faaliyetlerini etkileyen aksaklık üçüncü gününde devam ediyor. Uçuş verilerinin takip edildiği çevrim içi kaynaklara göre bugün ülke genelinde 5 bin 200’den fazla sefer etkilendi. ABD Ulaştırma Bakanı Sean Duffy, uçuşların bugün itibarıyla normalleşeceğini ve muhtemelen yarın itibarıyla bütün faaliyetlerin normale döneceğini savundu.",
-          "source": "https://www.hurriyet.com.tr/dunya/abddeki-ucus-aksakliklari-ucuncu-gununde-devam-ediyor-5-bin-200den-fazla-sefer-etkilendi-43379609"
+          "title": "Beyin ameliyatı hayatını kabusa çevirdi: İnsanların yüzünde kedisini görüyor",
+          "summary": "ABD'nin kuzeydoğusunda yaşayan 28 yaşındaki Karl, beyin ameliyatı sonrasında insanların yüzlerinde evcil kedisi Luna'nın özelliklerini görmeye başladı. Karl olarak bilinen hasta, bazen de tam tersini yaşıyor; sabah gördüğü ilk yüz bir insansa, o yüzün özellikleri Luna'ya ve sonraki insanlara yansıyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/beyin-ameliyati-hayatini-kabusa-cevirdi-insanlarin-yuzunde-kedisini-goruyor-43379937"
         },
         {
-          "title": "Teknik sorun giderildi, ABD'deki havacılık krizi bitmedi",
-          "summary": "ABD'de hava ulaşımını felç eden kriz üçüncü gününe girdi. Teknik sorun giderildi ama dün de 5 bin 200'den fazla sefer iptal edildi ya da ertelendi. Uçuşların hafta başında normale dönmesi bekleniyor. Amerika Birleşik Devletleri'nde cuma günü hava kontrol sistemlerinde yaşanan arızanın etkileri sürüyor. Havacılık veri sitesi FlightAware'in verilerine göre, pazar günü bin 600'den fazla uçuş iptal edildi, yaklaşık 3 bin 600 uçuş ise ertelendi.",
-          "source": "https://www.ntv.com.tr/dunya/galeri-teknik-sorun-giderildi-abddeki-havacilik-krizi-bitmedi-1751050"
+          "title": "ABD ve 9 ülke arasında yeni yapay zeka anlaşması. Bildiri imzaladılar",
+          "summary": "ABD ile 9 ülke arasında yapay zeka alanında tedarik zinciri ve kritik altyapının güçlendirilmesi konusunda iş birliğini öngören bildiri imzalandı. ABD Dışişleri Bakanlığından yapılan açıklamaya göre, \"silikon tedarik zinciri\" oluşturulmasını hedefleyen uluslararası Pax Silica girişimine taraf olan ülkeler ile ABD arasında yeni bir yapay zeka anlaşmasına varıldı.",
+          "source": "https://www.ntv.com.tr/dunya/abd-ve-9-ulke-arasinda-yeni-yapay-zeka-anlasmasi-bildiri-imzaladilar-1751105"
         },
         {
-          "title": "NYT: USS Theodore Roosevelt uçak gemisi, Orta Doğu’daki görevine başlıyor",
-          "summary": "ABD ordusuna ait USS Theodore Roosevelt uçak gemisinin birkaç gün içinde Orta Doğu'ya ulaşarak görevine başlayacağı iddia edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/nyt-uss-theodore-roosevelt-ucak-gemisi-orta-dogudaki-gorevine-basliyor-43379582"
+          "title": "Axios: ABD Başkan Yardımcısı Vance, başkan adaylığında kararsız",
+          "summary": "ABD Başkan Yardımcısı JD Vance'in, 2028'deki başkanlık seçimlerinde aday olma konusunda \"kararsız kaldığı\" ve nihai kararını ancak yeni yıldan sonra verebileceği iddia edildi. Amerikan Axios haber sitesine konuşan ve ismini paylaşmayan yetkililer, ABD Başkan Yardımcısı JD Vance'in 2028'deki başkanlık seçimlerine ilişkin planına dair iddialarda bulundu. Vance'in aday olma konusunda \"kararsız kaldığını\" öne süren kaynaklar, olası bir adaylık konusunu eşi Usha ve ailesiyle görüştüğünü aktardı.",
+          "source": "https://www.ntv.com.tr/dunya/axios-abd-baskan-yardimcisi-vance-baskan-adayliginda-kararsiz-1751100"
         },
         {
-          "title": "Babülmendep'te kontrol Husilere geçiyor. Hükümet güçleri geri çekildi",
-          "summary": "Yemen'de Suudi Arabistan destekli hükümet güçleri, İran destekli Husiler karşısında stratejik Babülmendep Boğazı çevresinden çekilerek Aden'in savunmasına yöneldi. Yemen'de İran destekli Husilere karşı savaşan Suudi Arabistan destekli hükümet güçleri, stratejik öneme sahip Babülmendep Boğazı çevresindeki mevzilerinden çekildi. Birliklerin, ülkenin güneyindeki geçici başkent Aden'in savunmasını güçlendirmek amacıyla yeniden konuşlandırıldığı açıklandı.",
-          "source": "https://www.ntv.com.tr/dunya/babulmendepte-kontrol-husilere-geciyor-hukumet-gucleri-geri-cekildi-1751041"
+          "title": "Güvenlik kameraları artık yapay zeka ile yüz tanıyacak",
+          "summary": "Hong Kong polisi, SmartView operasyonu kapsamında kamusal alanlardaki gözetim kameralarına yapay zeka destekli yüz tanıma özelliği ekledi. Hong Kong'da kamusal alanlardaki kapalı devre kameralar, bugün itibarıyla yapay zeka destekli yüz tanıma özellikleriyle çalışmaya başladı. Ulusal güvenlik ve suçun önlenmesi gerekçesiyle devreye alınan sistem, kent genelindeki gözetim ağının kapsamını genişletiyor.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-guvenlik-kameralari-artik-yapay-zeka-ile-yuz-taniyacak-1751110"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Zinedine Zidane'dan Türkiye itirafı: 'Zor duruma düşürüldük!'. Berke Özer: 'Geleceğe umutlu bakmalıyız!'. İngiltere'den tarihi galibiyet: İspanya'nın yenilmezliği son buldu!. Sergen Yalçın: 'Umut ediyorum ilerisi daha güzel olacak'. A Milli Takım, Uluslar A Ligi'nde nasıl kalır? Tek bir ihtimal var!. Berke Özer'den müthiş geri dönüş: 522 gün sonra kaleye geçti, Fransa karşısında büyüdü!. Berke Özer 522 gün sonra milli formayı giydi!.",
+      "text": "Carlo Ancelotti'ye büyük tepki: 'Eşyalarını topla ve defol git!'. Beşiktaş’a Afrika’dan sakatlık şoku! Resmen açıklandı. Anadolu Efes, EuroLeague'de Dubai Basketbol'a konuk olacak!. Uluslar Ligi’nde Almanya-Hollanda randevusu! Dev mücadelede üst tercihi ön planda! İşte Misli’de günün en çok oynanan maçları. Fenerbahçe Tarfin, EuroLeague'de LDLC Asvel'i konuk edecek!. Juventus'ta Kenan Yıldız şoku!. Almanya-Hollanda maçları karşılıklı gole sahne oluyor, İsviçre zor gol yiyor… İşte Misli’den günün tüyoları!.",
       "items": [
         {
-          "title": "Zinedine Zidane'dan Türkiye itirafı: 'Zor duruma düşürüldük!'",
-          "summary": "UEFA Uluslar A Ligi son maçında Türkiye'yi 2-1 yenen Fransa'da teknik direktör Zinedine Zidane, ilk yarıda iyi olmadıklarını, ikinci yarıda gösterdikleri reaksiyonla sonuca gittiklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-turkiye-itirafi-zor-duruma-dusurulduk-43379599"
+          "title": "Carlo Ancelotti'ye büyük tepki: 'Eşyalarını topla ve defol git!'",
+          "summary": "Eski futbolcu Romario, Brezilya Milli Takımı'nın hazırlık maçında Japonya'ya 3-2 mağlup olmasının ardından Carlo Ancelotti'yi sert sözlerle eleştirdi. Sosyal medya hesabından açıklama yapan Romario, İtalyan teknik direktörün görevden alınması çağrısında bulundu. Ancelotti ise düzenlediği basın toplantısında hem kendi performansını değerlendirdi hem de Romario'nun eleştirilerine yanıt verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/carlo-ancelottiye-buyuk-tepki-esyalarini-topla-ve-defol-git-43379990"
         },
         {
-          "title": "Berke Özer: 'Geleceğe umutlu bakmalıyız!'",
-          "summary": "A Milli Futbol Takımı'nda Emirhan Topçu, Merih Demiral ve Berke Özer, 2-1'lik Fransa mağlubiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/berke-ozer-gelecege-umutlu-bakmaliyiz-43379596"
+          "title": "Beşiktaş’a Afrika’dan sakatlık şoku! Resmen açıklandı",
+          "summary": "Beşiktaş’ın Fildişili yıldızı Agbadou, milli takımda sakatlandı. Konuya ilişkin açıklama geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-afrikadan-sakatlik-soku-resmen-aciklandi-43379809"
         },
         {
-          "title": "İngiltere'den tarihi galibiyet: İspanya'nın yenilmezliği son buldu!",
-          "summary": "UEFA Uluslar Ligi'nin 6. haftası 8 maçla başladı. İngiltere deplasmanda İspanya'yı 3-2 mağlup ederek rakibinin 43 maçlık yenilmezlik serisine son verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ingiltereden-tarihi-galibiyet-ispanyanin-yenilmezligi-son-buldu-43379593"
+          "title": "Anadolu Efes, EuroLeague'de Dubai Basketbol'a konuk olacak!",
+          "summary": "Anadolu Efes, EuroLeague'de 12. haftasında yarın Birleşik Arap Emirlikleri temsilcisi Dubai Basketbol'a konuk olacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-euroleaguede-dubai-basketbola-konuk-olacak-43379924"
         },
         {
-          "title": "Sergen Yalçın: 'Umut ediyorum ilerisi daha güzel olacak'",
-          "summary": "A Milli Takım Teknik Direktörü Sergen Yalçın, Fransa'ya 2-1 kaybedilen maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-umut-ediyorum-ilerisi-daha-guzel-olacak-43379585"
+          "title": "Uluslar Ligi’nde Almanya-Hollanda randevusu! Dev mücadelede üst tercihi ön planda! İşte Misli’de günün en çok oynanan maçları",
+          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+          "source": "https://www.hurriyet.com.tr/sporarena/uluslar-liginde-almanya-hollanda-randevusu-dev-mucadelede-ust-tercihi-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43379923"
         },
         {
-          "title": "A Milli Takım, Uluslar A Ligi'nde nasıl kalır? Tek bir ihtimal var!",
-          "summary": "A Milli Takım'ın, UEFA Uluslar A Ligi'nde kalma ihtimali sürüyor. Peki A Ligi’nde nasıl kalırız?",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-uluslar-a-liginde-nasil-kalir-tek-bir-ihtimal-var-43379584"
+          "title": "Fenerbahçe Tarfin, EuroLeague'de LDLC Asvel'i konuk edecek!",
+          "summary": "Fenerbahçe Tarfin, EuroLeague'in 12. haftasında LDLC Asvel'i ağırlayacak",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-euroleaguede-ldlc-asveli-konuk-edecek-43379887"
         },
         {
-          "title": "Berke Özer'den müthiş geri dönüş: 522 gün sonra kaleye geçti, Fransa karşısında büyüdü!",
-          "summary": "522 gün sonra A Milli Takım formasıyla ilk 11'de sahaya çıkan Berke Özer, Fransa karşısında ilk yarıda yaptığı kritik kurtarışlarla ön plana çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/berke-ozerden-muthis-geri-donus-522-gun-sonra-kaleye-gecti-fransa-karsisinda-buyudu-43379539"
+          "title": "Juventus'ta Kenan Yıldız şoku!",
+          "summary": "Juventus’ta sakatlığı süren Kenan Yıldız’ın iyileşme sürecinin beklenenden yavaş ilerlediği öne sürüldü.",
+          "source": "https://www.hurriyet.com.tr/sporarena/juventusta-kenan-yildiz-soku-43379793"
         },
         {
-          "title": "Berke Özer 522 gün sonra milli formayı giydi!",
-          "summary": "A Milli Futbol Takımı’nda Fransa maçına 11 başlayan Berke Özer, yaklaşık 1.5 yıl sonra milli formayı giydi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/berke-ozer-522-gun-sonra-milli-formayi-giydi-43379538"
+          "title": "Almanya-Hollanda maçları karşılıklı gole sahne oluyor, İsviçre zor gol yiyor… İşte Misli’den günün tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/almanya-hollanda-maclari-karsilikli-gole-sahne-oluyor-isvicre-zor-gol-yiyor-iste-misliden-gunun-tuyolari-43379810"
         }
       ]
     },
