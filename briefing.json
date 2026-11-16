@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-15T10:00:06.475Z",
+  "generatedAt": "2026-11-16T04:00:04.356Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Göktaş'tan \"Sıfır Atık Kadın Elçileri\" için başvuru çağrısı. COP31 Başkanı Kurum, CNN International’a konuştu: Antalya'da işler değişti diyebileceğimiz bir COP Başkanlığı bizim için başarı. Polis adım adım izledi, zula evinin kapısında yakaladı: Motosikletli şüpheli cezaevine gönderildi. Deplasmana giden takım otobüsü alev aldı. 30 kişilik kafile kıl payı kurtuldu. DMM'den 'Türkiye'ye gönderilecekler' iddiasına yalanlama. Bahçeli'den 50 maddelik Terörsüz Türkiye mesajı. Futbol kulübünün otobüsü alev alev yandı: Oyuncular son anda kurtuldu.",
+      "text": "Erzurum'da 3,6 büyüklüğünde deprem. Nevşehir’de yolcu otobüsü ata çarptı: 1 ölü, 2 yaralı. KKTC’nin 43. kuruluş yıl dönümünde Cumhurbaşkanlığı’nda resepsiyon düzenlendi. Muş’ta jandarmadan ruhsatsız silah operasyonu. Otobüs ata çarptı. Yedek şoför hayatını kaybetti. Bursa’da 5 ev alevlere teslim oldu. 10 kişi dumandan etkilendi. ASELSAN'dan dronlara karşı EJDERHA. 51 dronu tek tuşla düşürdü.",
       "items": [
         {
-          "title": "Bakan Göktaş'tan \"Sıfır Atık Kadın Elçileri\" için başvuru çağrısı",
-          "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Sıfır Atık Kadın Elçileri\" için başvuru çağrısında bulundu. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Sıfır Atık Vakfı işbirliğinde yürüttüğümüz 'Kadınlarla Atıksız Sürdürülebilir Yaşam Projesi' ile 1 milyon kadına ulaşmayı hedefliyoruz.\" ifadesini kullandı. Göktaş, sosyal medya hesabından yaptığı açıklamada, 81 ilde yeşil dönüşüme öncülük edecek \"Sıfır Atık Kadın Elçileri\"ni aradıklarını belirtti.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-goktastan-sifir-atik-kadin-elcileri-icin-basvuru-cagrisi-1750973"
+          "title": "Erzurum'da 3,6 büyüklüğünde deprem",
+          "summary": "Erzurum'un Pasinler ilçesinde 3,6 büyüklüğünde deprem meydana geldi",
+          "source": "https://www.hurriyet.com.tr/gundem/erzurumda-3-6-buyuklugunde-deprem-43379612"
         },
         {
-          "title": "COP31 Başkanı Kurum, CNN International’a konuştu: Antalya'da işler değişti diyebileceğimiz bir COP Başkanlığı bizim için başarı",
-          "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen COP31 İklim Zirvesi, diplomatik gündemde önemli bir yer edinirken, COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'un açıklamaları da uluslararası medyada manşetlere taşınıyor. CNN International’dan Becky Anderson’a röportaj veren Kurum, COP31 Başkanlığı’nın \"2035'e kadar enerjide yüzde 35 elektrifikasyon” hedefini anlattı.",
-          "source": "https://www.hurriyet.com.tr/gundem/cop31-baskani-kurum-cnn-internationala-konustu-antalyada-isler-degisti-diyebilecegimiz-bir-cop-baskanligi-bizim-icin-basari-43379052"
+          "title": "Nevşehir’de yolcu otobüsü ata çarptı: 1 ölü, 2 yaralı",
+          "summary": "Nevşehir’de yolcu otobüsünün aniden yola çıkan ata çarpması sonucu meydana gelen kazada yedek şoför hayatını kaybederken, otobüs şoförü ve 1 yolcu yaralandı. Kazada at da telef oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/nevsehirde-yolcu-otobusu-ata-carpti-1-olu-2-yarali-43379610"
         },
         {
-          "title": "Polis adım adım izledi, zula evinin kapısında yakaladı: Motosikletli şüpheli cezaevine gönderildi",
-          "summary": "Kağıthane Asayiş Büro ekipleri, sokaklarda motosikletle uyuşturucu ticareti yapan 28 yaşındaki Ö.F.A.'yı Şişli'deki zula adresine geldiği sırada gözaltına aldı. Evde yapılan aramalarda yüklü miktarda uyuşturucu ve silah bulunurken, mahkemeye çıkarılan zanlı tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/polis-adim-adim-izledi-zula-evinin-kapisinda-yakaladi-motosikletli-supheli-cezaevine-gonderildi-43379016"
+          "title": "KKTC’nin 43. kuruluş yıl dönümünde Cumhurbaşkanlığı’nda resepsiyon düzenlendi",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) kuruluşunun 43. yıl dönümü dolayısıyla Cumhurbaşkanlığı'nda resepsiyon düzenlendi. Cumhurbaşkanı Tufan Erhürman, \"El eleyiz, yürek yüreğiz, gönül gönüleyiz. Hep de böyle olacak. Buna güvenimiz sonsuz. Hep birlikte ileriye yürümeye devam edeceğiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/kktcnin-43-kurulus-yil-donumunde-cumhurbaskanliginda-resepsiyon-duzenlendi-43379607"
         },
         {
-          "title": "Deplasmana giden takım otobüsü alev aldı. 30 kişilik kafile kıl payı kurtuldu",
-          "summary": "Karaman FK futbolcularını deplasman maçına götüren takım otobüsü seyir halindeyken alev aldı. Yaklaşık 30 kişilik kafile yangından son anda kurtuldu. Yangın, sabah saat 08.30 sıralarında Karaman-Konya karayolu şehir girişinde meydana geldi. TFF 3. Lig 3. Grup'ta mücadele eden Karaman FK, bugün saat 13.00'te Mersin'in Silifke ilçesinde oynanacak Yeni Mersin İdman Yurdu karşılaşması için Kazımkarabekir ilçesinden belediyeye ait otobüsle yola çıktı. Memiş B.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-deplasmana-giden-takim-otobusu-alev-aldi-30-kisilik-kafile-kil-payi-kurtuldu-1750948"
+          "title": "Muş’ta jandarmadan ruhsatsız silah operasyonu",
+          "summary": "Muş’un Varto ilçesinde jandarma ekiplerince 4 şüphelinin evinde yapılan aramalarda 4 ruhsatsız tabanca, 3 av tüfeği ve çok sayıda mühimmat ele geçirildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/musta-jandarmadan-ruhsatsiz-silah-operasyonu-43379606"
         },
         {
-          "title": "DMM'den 'Türkiye'ye gönderilecekler' iddiasına yalanlama",
-          "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), 'Almanya ile Türkiye anlaşmaya vardı. Her hafta Almanya'da yasal ikamet hakkı bulunmayan 500 kişi özel uçak seferleriyle Türkiye'ye gönderilecek' iddialarının gerçeği yansıtmadığını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/dmmden-turkiyeye-gonderilecekler-iddiasina-yalanlama-43379004"
+          "title": "Otobüs ata çarptı. Yedek şoför hayatını kaybetti",
+          "summary": "Nevşehir'de karayoluna çıkan ata çarpan şehirlerarası yolcu otobüsünün sürücüsü ile bir yolcu yaralandı, yedek sürücü hayatını kaybetti. Kayseri'den Aksaray istikametine seyreden O.A. idaresindeki yolcu otobüsü, Kayseri-Nevşehir Karayolu Çökek köyü yakınlarında yola çıkan sahipsiz ata çarptı. Kazada otobüs sürücüsü O.A., yedek sürücü Abdullah Gül ile bir yolcu yaralandı. Atın da öldüğü kazanın arıdndan olay yerine polis, sağlık ve itfaiye ekibi sevk edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/otobus-ata-carpti-yedek-sofor-hayatini-kaybetti-1751047"
         },
         {
-          "title": "Bahçeli'den 50 maddelik Terörsüz Türkiye mesajı",
-          "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, Terörsüz Türkiye hedefini 50 maddede anlattı. MHP Genel Başkanı Devlet Bahçeli, Türkgün gazetesine Terörsüz Türkiye sürecine ilişkin açıklamalarda bulundu. Devlet Bahçeli, dünyanın, ağır bunalımların yaşandığı tarihi bir dönemden geçtiğini, bu süreçte yeni bir akla, rasyonel bir stratejiye, milli vicdana ve siyasi sorumluluğa ihtiyaç duyulduğunu dile getirdi.",
-          "source": "https://www.ntv.com.tr/turkiye/bahceliden-50-maddelik-terorsuz-turkiye-mesaji-1750964"
+          "title": "Bursa’da 5 ev alevlere teslim oldu. 10 kişi dumandan etkilendi",
+          "summary": "Bursa’nın İnegöl ilçesinde bir evde çıkan ve 4 eve daha sıçrayan yangında 10 kişi dumandan etkilendi. Evler, güvenlik gerekçesiyle belediye ekiplerince yıkıldı. İnegöl’ün kırsal Turgutalp Mahallesi’nde, bir evde henüz belirlenemeyen nedenle yangın çıktı. Kısa sürede büyüyen alevler bitişikte bulunan 4 eve daha sıçrarken, dumandan 10 kişi etkilendi. İnegöl Belediyesi, Bursa Büyükşehir Belediyesi İtfaiyesi, Orman Müdürlüğü ve BUSKİ ekipleri, 5 evi etkileyen yangının söndürülmesi için seferber oldu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033"
         },
         {
-          "title": "Futbol kulübünün otobüsü alev alev yandı: Oyuncular son anda kurtuldu",
-          "summary": "TFF 3'üncü Lig'de mücadele eden Karaman Futbol Kulübü kafilesini taşıyan otobüs, belirlenemeyen nedenle alev aldı. Futbolcular, teknik ekip ve kulüp çalışanları otobüsü tahliye ederken, spor malzemeleri ve otobüste tamamen yandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/futbol-kulubunun-otobusu-alev-alev-yandi-oyuncular-son-anda-kurtuldu-43378989"
+          "title": "ASELSAN'dan dronlara karşı EJDERHA. 51 dronu tek tuşla düşürdü",
+          "summary": "51 dronun aynı anda havalandırıldığı denemede, EJDERHA Yüksek Güçlü Elektromanyetik (HPEM) İHA Savunma Sistemi, tüm hedefleri saniyeler içerisinde eş zamanlı olarak etkisiz hale getirdi. Şirketten yapılan yazılı açıklamaya göre, 51. kuruluş yıl dönümünde, ASELSAN'ın Gölbek Atış ve Test Merkezinde rekor denemesi gerçekleştirildi. Vakum elektroniği teknolojisiyle yüksek güçlü elektromanyetik dalgalar üreten EJDERHA, ilk aşamada iki farklı kablolu dronu yaklaşık bin metre mesafeden etkisiz hale getirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/aselsandan-dronlara-karsi-ejderha-51-dronu-tek-tusla-dusurdu-1751028"
         }
       ]
     },
     "dunya": {
-      "text": "Orta Doğu'da dengeleri değiştiren anlaşma: 'Türkiye kilit rol oynuyor'. WSJ: Savaşa rağmen İran'ın 2 bin 500'e yakın füzesi var. Kolombiya'da yolcu otobüsü devrildi: 6 kişi hayatını kaybetti. ABD'de havacılık krizinin çözümü için çalışmalar hızlandı. Japonya'da tren rezervasyon sistemine siber saldırı. 3,37 milyon kişinin verisi risk altında. Dışişleri'nden KKTC'nin kuruluşunun 43. yıl dönümü için kutlama mesajı. ABD'de iki uçak çarpıştı.",
+      "text": "\"Kartellerin Vaftiz Babası\" öldü. ‘Tinder Avcısı’na benzetildi... İsrail’de muhalefetin kapısı Netanyahu’ya kapalı. Yeni saldırı hazırlığı mı? ABD, Ortadoğu’ya yeni uçak gemisi gönderiyor. ABD'deki uçuş aksaklıkları üçüncü gününde devam ediyor: 5 bin 200’den fazla sefer etkilendi. Teknik sorun giderildi, ABD'deki havacılık krizi bitmedi. NYT: USS Theodore Roosevelt uçak gemisi, Orta Doğu’daki görevine başlıyor. Babülmendep'te kontrol Husilere geçiyor. Hükümet güçleri geri çekildi.",
       "items": [
         {
-          "title": "Orta Doğu'da dengeleri değiştiren anlaşma: 'Türkiye kilit rol oynuyor'",
-          "summary": "Türkiye ve Katar, cuma günü İstanbul'da tarihi bir karşılıklı savunma anlaşması imzaladı. Cumhurbaşkanı Recep Tayyip Erdoğan ile Katar Emiri Şeyh Temim bin Hamed Al Sani'nin eş başkanlık ettiği Yüksek Stratejik Komite toplantısında kabul edilen anlaşma, taraflardan birine yönelik dış saldırı karşısında \"birleşik bir pozisyon\" almayı öngörüyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/orta-doguda-dengeleri-degistiren-anlasma-turkiye-kilit-rol-oynuyor-43378996"
+          "title": "\"Kartellerin Vaftiz Babası\" öldü",
+          "summary": "Meksika'nın en büyük uyuşturucu kartellerinden Guadalajara'nın \"Kartellerin Vaftiz Babası\", \"El Padrino\" ve \"Patronların patronu\" lakaplı kurucusu Felix Gallardo, 80 yaşında öldü. Meksika'da uyuşturucu ticareti tarihinin en güçlü suç örgütü elebaşlarından biri olarak bulunan Guadalajara Karteli'nin kurucusu ve lideri Felix Gallardo'nun 80 yıllık ömrü hapisten çıkmaya yetmedi.",
+          "source": "https://www.ntv.com.tr/dunya/kartellerin-vaftiz-babasi-oldu-1751053"
         },
         {
-          "title": "WSJ: Savaşa rağmen İran'ın 2 bin 500'e yakın füzesi var",
-          "summary": "ABD'deki istihbarat değerlendirmelerinin, savaşa rağmen İran'ın hala bin 500 ile 2 bin 500 füzeye sahip olduğunu gösterdiği iddia edildi. The Wall Street Journal (WSJ) gazetesinin haberine göre, ismi paylaşılmayan ABD'li yetkililer, ülkedeki istihbarat değerlendirmelerine ilişkin açıklama yaptı.",
-          "source": "https://www.ntv.com.tr/dunya/wsj-savasa-ragmen-iranin-2-bin-500e-yakin-fuzesi-var-1750953"
+          "title": "‘Tinder Avcısı’na benzetildi... İsrail’de muhalefetin kapısı Netanyahu’ya kapalı",
+          "summary": "İsrail’de seçimin ardından hükümet kurma görüşmeleri devam ederken, Başbakan Binyamin Netanyahu’nun son günlerde sık sık tekrarladığı “ulusal birlik hükümeti” çağrısına muhalefetten sert tepki geldi.",
+          "source": "https://www.hurriyet.com.tr/dunya/tinder-avcisina-benzetildi-israilde-muhalefetin-kapisi-netanyahuya-kapali-43379561"
         },
         {
-          "title": "Kolombiya'da yolcu otobüsü devrildi: 6 kişi hayatını kaybetti",
-          "summary": "Kolombiya'nın güneyinde bir yolcu otobüsünün devrildiği bildirildi. Kazada 6 kişi yaşamını yitirdi, 11 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-yolcu-otobusu-devrildi-6-kisi-hayatini-kaybetti-43378944"
+          "title": "Yeni saldırı hazırlığı mı? ABD, Ortadoğu’ya yeni uçak gemisi gönderiyor",
+          "summary": "İran'a yönelik yeni saldırı iddialarının yalanlanmasına rağmen ABD, USS Theodore Roosevelt uçak gemisini yeniden Ortadoğu'ya gönderiyor. ABD'nin bölgedeki uçak gemisi sayısı tekrar üçe yükselecek. Seçim yenilgisinin ardından ABD Başkanı Donald Trump İran'a yönelik olası saldırıları ertelemeyi değerlendirdiği iddialarının gölgesinde örtülü diplomasi sürerken, Washington'dan gerilimi yeniden artıracak bir adım daha geldi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-yeni-saldiri-hazirligi-mi-abd-ortadoguya-yeni-ucak-gemisi-gonderiyor-1751051"
         },
         {
-          "title": "ABD'de havacılık krizinin çözümü için çalışmalar hızlandı",
-          "summary": "ABD Ulusal Hava Sahası Sistemini destekleyen iletişim altyapısını yenileme çalışmalarına hız verildi. Federal Havacılık İdaresi'nin (FAA) iletişim altyapısından sorumlu yüklenici şirket L3Harris Technologies, çalışmaların yüzde 70'inden fazlasının tamamlandığını kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-havacilik-krizinin-cozumu-icin-calismalar-hizlandi-43378930"
+          "title": "ABD'deki uçuş aksaklıkları üçüncü gününde devam ediyor: 5 bin 200’den fazla sefer etkilendi",
+          "summary": "ABD’de cuma günü sivil havacılık altyapısında meydana gelen ve ülke genelindeki havacılık faaliyetlerini etkileyen aksaklık üçüncü gününde devam ediyor. Uçuş verilerinin takip edildiği çevrim içi kaynaklara göre bugün ülke genelinde 5 bin 200’den fazla sefer etkilendi. ABD Ulaştırma Bakanı Sean Duffy, uçuşların bugün itibarıyla normalleşeceğini ve muhtemelen yarın itibarıyla bütün faaliyetlerin normale döneceğini savundu.",
+          "source": "https://www.hurriyet.com.tr/dunya/abddeki-ucus-aksakliklari-ucuncu-gununde-devam-ediyor-5-bin-200den-fazla-sefer-etkilendi-43379609"
         },
         {
-          "title": "Japonya'da tren rezervasyon sistemine siber saldırı. 3,37 milyon kişinin verisi risk altında",
-          "summary": "Japonya'da Skyliner ekspres tren hattının rezervasyon sistemine yetkisiz erişim sağlandığı ve yaklaşık 3,37 milyon müşterinin verilerinin sızdırılmış olabileceği bildirildi. Son zamanlarda finans kuruluşlarını ve firmaları hedef alan siber saldırılara bir yenisi daha eklendi.",
-          "source": "https://www.ntv.com.tr/dunya/japonyada-tren-rezervasyon-sistemine-siber-saldiri-337-milyon-kisinin-verisi-risk-altinda-1750947"
+          "title": "Teknik sorun giderildi, ABD'deki havacılık krizi bitmedi",
+          "summary": "ABD'de hava ulaşımını felç eden kriz üçüncü gününe girdi. Teknik sorun giderildi ama dün de 5 bin 200'den fazla sefer iptal edildi ya da ertelendi. Uçuşların hafta başında normale dönmesi bekleniyor. Amerika Birleşik Devletleri'nde cuma günü hava kontrol sistemlerinde yaşanan arızanın etkileri sürüyor. Havacılık veri sitesi FlightAware'in verilerine göre, pazar günü bin 600'den fazla uçuş iptal edildi, yaklaşık 3 bin 600 uçuş ise ertelendi.",
+          "source": "https://www.ntv.com.tr/dunya/galeri-teknik-sorun-giderildi-abddeki-havacilik-krizi-bitmedi-1751050"
         },
         {
-          "title": "Dışişleri'nden KKTC'nin kuruluşunun 43. yıl dönümü için kutlama mesajı",
-          "summary": "Dışişleri Bakanlığı, Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) kuruluşunun 43. yıl dönümünü kutladı. Dışişleri Bakanlığı, NSosyal hesabından KKTC'nin kuruluşunun 43. yıl dönümüne ilişkin paylaşım yaptı. Paylaşımda, \"Kıbrıs Türk halkının egemenlik ve varoluş destanının en anlamlı simgesi Kuzey Kıbrıs Türk Cumhuriyeti'nin kuruluşunun 43. yıl dönümü kutlu olsun!",
-          "source": "https://www.ntv.com.tr/dunya/disislerinden-kktcnin-kurulusunun-43-yil-donumu-icin-kutlama-mesaji-1750944"
+          "title": "NYT: USS Theodore Roosevelt uçak gemisi, Orta Doğu’daki görevine başlıyor",
+          "summary": "ABD ordusuna ait USS Theodore Roosevelt uçak gemisinin birkaç gün içinde Orta Doğu'ya ulaşarak görevine başlayacağı iddia edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/nyt-uss-theodore-roosevelt-ucak-gemisi-orta-dogudaki-gorevine-basliyor-43379582"
         },
         {
-          "title": "ABD'de iki uçak çarpıştı",
-          "summary": "ABD'nin Florida eyaletinde iki uçağın pistte çarpıştığı bildirildi. Miami kentinde meydana gelen kazaya bir kargo uçağı ile hava yolu şirketine ait dar gövdeli bir yolcu uçağının karıştığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-iki-ucak-carpisti-43378872"
+          "title": "Babülmendep'te kontrol Husilere geçiyor. Hükümet güçleri geri çekildi",
+          "summary": "Yemen'de Suudi Arabistan destekli hükümet güçleri, İran destekli Husiler karşısında stratejik Babülmendep Boğazı çevresinden çekilerek Aden'in savunmasına yöneldi. Yemen'de İran destekli Husilere karşı savaşan Suudi Arabistan destekli hükümet güçleri, stratejik öneme sahip Babülmendep Boğazı çevresindeki mevzilerinden çekildi. Birliklerin, ülkenin güneyindeki geçici başkent Aden'in savunmasını güçlendirmek amacıyla yeniden konuşlandırıldığı açıklandı.",
+          "source": "https://www.ntv.com.tr/dunya/babulmendepte-kontrol-husilere-geciyor-hukumet-gucleri-geri-cekildi-1751041"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı. Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi.",
+      "text": "İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı.",
       "items": [
+        {
+          "title": "İZSU’da gündem suda indirim",
+          "summary": "İZSU Genel Müdürlüğü, 2027 yılı su ve atık su tarifelerinde indirime gitmeye hazırlanıyor. Komisyona sunulan teklifin kabul edilmesi halinde 10 metreküpe kadar su kullanan vatandaşlar yüzde 63’e varan indirimden yararlanacak.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izsuda-gundem-suda-indirim-43379201"
+        },
         {
           "title": "Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik",
           "summary": "ATATÜRK Havalimanı Millet Bahçesi’nde düzenlenen \"Konya İl Tanıtım Günleri\" programında konuşan Ticaret Bakanı Ömer Bolat, \"Türkiye, 24 yılın ortalaması yüzde 5,3 yıllık reel büyüme kaydetti. Dış ticarette 36 milyar dolar mal ihracatı ve 14 milyar dolar hizmet ihracatı ile devraldık 413 milyar dolara yükselttik. 8 kattan fazla ihracatımızı arttırdık. Bugün millî gelirimizin yaklaşık yüzde 24-25, dörtte birini ihracat oluşturuyor\" dedi.",
@@ -115,57 +120,62 @@
           "title": "Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı",
           "summary": "Fon soruşturması kapsamında \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından mahkemeye sevk edilen eski bakan Fatma Betül Sayan Kaya tutuklandı. İlyas Kaya ile Gönül hakkında adli kontrol tedbiri uygulandı.",
           "source": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738"
-        },
-        {
-          "title": "Brent petrolün varil fiyatı, 94 dolar seviyesine geriledi",
-          "summary": "Brent petrolün varil fiyatı, ABD'deki ara seçimlerin etkisiyle uluslararası vadeli piyasalarda yaklaşık yüzde 9 düşüşle 94,28 dolar seviyesine geriledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/brent-petrolun-varil-fiyati-94-dolar-seviyesine-geriledi-43366242"
         }
       ]
     },
     "spor": {
-      "text": "Torreira, Boca Juniors'a mesaj gönderdi! 'Maçını izleyeceğim'. Ernest Muçi: 'Umarım Salah beni Liverpool'a önerir!'. Miami Heat, Pistons'ı yenerek üst üste 4. maçını kazandı!. Jorge Jesus'tan Ronaldo sözleri: 'Onu nasıl özleyeyim? Artık milli takımda değil'. Fenerbahçe, ilk temasları kurdu! Brezilyalı milli futbolcu hedefte. Uluslar Ligi’nde dev karşılaşma! İspanya-İngiltere maçının heyecanı canlı sohbet ile Misli’de. A Milli Takım, Fransa deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de.",
+      "text": "Zinedine Zidane'dan Türkiye itirafı: 'Zor duruma düşürüldük!'. Berke Özer: 'Geleceğe umutlu bakmalıyız!'. İngiltere'den tarihi galibiyet: İspanya'nın yenilmezliği son buldu!. Sergen Yalçın: 'Umut ediyorum ilerisi daha güzel olacak'. A Milli Takım, Uluslar A Ligi'nde nasıl kalır? Tek bir ihtimal var!. Berke Özer'den müthiş geri dönüş: 522 gün sonra kaleye geçti, Fransa karşısında büyüdü!. Berke Özer 522 gün sonra milli formayı giydi!.",
       "items": [
         {
-          "title": "Torreira, Boca Juniors'a mesaj gönderdi! 'Maçını izleyeceğim'",
-          "summary": "Galatasasaray'ın Uruguaylı yıldızı Torreira, Arjantin'i 2-1 mağlup ettikleri hazırlık maçının oynandığı stadyum olan La Bombonera'ya övgüler yağdırdı. Boca Juniors hayranlığı ile bilinen Torreira, kazandıkları zaferin ardından Boca Juniors maçını izleyeceğini ifade etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/torreira-boca-juniorsa-mesaj-gonderdi-macini-izleyecegim-43379003"
+          "title": "Zinedine Zidane'dan Türkiye itirafı: 'Zor duruma düşürüldük!'",
+          "summary": "UEFA Uluslar A Ligi son maçında Türkiye'yi 2-1 yenen Fransa'da teknik direktör Zinedine Zidane, ilk yarıda iyi olmadıklarını, ikinci yarıda gösterdikleri reaksiyonla sonuca gittiklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-turkiye-itirafi-zor-duruma-dusurulduk-43379599"
         },
         {
-          "title": "Ernest Muçi: 'Umarım Salah beni Liverpool'a önerir!'",
-          "summary": "Arnavutluk'un Finlandiya'yı 2-0 mağlup ettiği maçta gol atan Ernest Muçi, gelecekte Avrupa'nın en büyük liglerinde forma giymek istediğini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ernest-muci-umarim-salah-beni-liverpoola-onerir-43378999"
+          "title": "Berke Özer: 'Geleceğe umutlu bakmalıyız!'",
+          "summary": "A Milli Futbol Takımı'nda Emirhan Topçu, Merih Demiral ve Berke Özer, 2-1'lik Fransa mağlubiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/berke-ozer-gelecege-umutlu-bakmaliyiz-43379596"
         },
         {
-          "title": "Miami Heat, Pistons'ı yenerek üst üste 4. maçını kazandı!",
-          "summary": "NBA'de Miami Heat, Detroit Pistons'ı 137-117 yenerek art arda 4. galibiyetini aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/miami-heat-pistonsi-yenerek-ust-uste-4-macini-kazandi-43378941"
+          "title": "İngiltere'den tarihi galibiyet: İspanya'nın yenilmezliği son buldu!",
+          "summary": "UEFA Uluslar Ligi'nin 6. haftası 8 maçla başladı. İngiltere deplasmanda İspanya'yı 3-2 mağlup ederek rakibinin 43 maçlık yenilmezlik serisine son verdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ingiltereden-tarihi-galibiyet-ispanyanin-yenilmezligi-son-buldu-43379593"
         },
         {
-          "title": "Jorge Jesus'tan Ronaldo sözleri: 'Onu nasıl özleyeyim? Artık milli takımda değil'",
-          "summary": "UEFA Uluslar Ligi A Ligi 4. Grup'ta Portekiz ile Danimarka, karşı karşıya geldi. Milli takımı bıraktığını açıklayan Cristiano Ronaldo olmadan ilk resmi maçına çıkan Portekiz, 4-1 mağlup oldu. Jorge Jesus, karşılaşma sonrası açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/jorge-jesustan-ronaldo-sozleri-onu-nasil-ozleyeyim-artik-milli-takimda-degil-43378860"
+          "title": "Sergen Yalçın: 'Umut ediyorum ilerisi daha güzel olacak'",
+          "summary": "A Milli Takım Teknik Direktörü Sergen Yalçın, Fransa'ya 2-1 kaybedilen maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-umut-ediyorum-ilerisi-daha-guzel-olacak-43379585"
         },
         {
-          "title": "Fenerbahçe, ilk temasları kurdu! Brezilyalı milli futbolcu hedefte",
-          "summary": "Fenerbahçe, ara transfer sezonunda kadrosuna Brezilya'dan 2 isim katmak istiyor. Sarı lacivertlilerin hedefindeki isimlerden biri, Brezilya Milli Takımı'nda oynuyor. Kanarya bu bağlamda, oyuncuların menajerleri ile ilk temasları kurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ilk-temaslari-kurdu-brezilyali-milli-futbolcu-hedefte-43378848"
+          "title": "A Milli Takım, Uluslar A Ligi'nde nasıl kalır? Tek bir ihtimal var!",
+          "summary": "A Milli Takım'ın, UEFA Uluslar A Ligi'nde kalma ihtimali sürüyor. Peki A Ligi’nde nasıl kalırız?",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-uluslar-a-liginde-nasil-kalir-tek-bir-ihtimal-var-43379584"
         },
         {
-          "title": "Uluslar Ligi’nde dev karşılaşma! İspanya-İngiltere maçının heyecanı canlı sohbet ile Misli’de",
-          "summary": "UEFA Uluslar Ligi A Ligi 3. Grup'ta İspanya, İngiltere'yi ağırlıyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/uluslar-liginde-dev-karsilasma-ispanya-ingiltere-macinin-heyecani-canli-sohbet-ile-mislide-43378830"
+          "title": "Berke Özer'den müthiş geri dönüş: 522 gün sonra kaleye geçti, Fransa karşısında büyüdü!",
+          "summary": "522 gün sonra A Milli Takım formasıyla ilk 11'de sahaya çıkan Berke Özer, Fransa karşısında ilk yarıda yaptığı kritik kurtarışlarla ön plana çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/berke-ozerden-muthis-geri-donus-522-gun-sonra-kaleye-gecti-fransa-karsisinda-buyudu-43379539"
         },
         {
-          "title": "A Milli Takım, Fransa deplasmanında! Maçın heyecanı canlı sohbet ile Misli'de",
-          "summary": "A Milli Takım, UEFA Uluslar A Ligi 1. Grup'taki son maçında Fransa ile deplasmanda karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-fransa-deplasmaninda-macin-heyecani-canli-sohbet-ile-mislide-43378796"
+          "title": "Berke Özer 522 gün sonra milli formayı giydi!",
+          "summary": "A Milli Futbol Takımı’nda Fransa maçına 11 başlayan Berke Özer, yaklaşık 1.5 yıl sonra milli formayı giydi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/berke-ozer-522-gun-sonra-milli-formayi-giydi-43379538"
         }
       ]
     },
     "teknoloji": {
-      "text": "‘Bence merakımız varsa her türlü olur’. Starship fırlatma kulesine döndü. Mekanik kollar havada yakaladı. Ay yolculuğunda kritik gün. 15'inci test uçuşu başladı. Microsoft'ta büyük kesinti. 74 ülkede sistemler çöktü, maliyet 7 milyar doları aşabilir. Vodafone Business, LIFT ile iş ortaklarının uzmanlığını müşterileriyle buluşturacak. Stratejist Jelassi’den teknoloji uyarısı: İnsana yatırım yapın. Microsoft'ta küresel erişim sorunu! 74 ülkede hizmetler aksadı.",
+      "text": "Vulcan roketi havada arızalandı, uzay kargosu kayboldu. GTA 6 ne zaman çıkacak? Oyunseverler için geri sayım başladı. ‘Bence merakımız varsa her türlü olur’. Starship fırlatma kulesine döndü. Mekanik kollar havada yakaladı. Ay yolculuğunda kritik gün. 15'inci test uçuşu başladı. Microsoft'ta büyük kesinti. 74 ülkede sistemler çöktü, maliyet 7 milyar doları aşabilir. Vodafone Business, LIFT ile iş ortaklarının uzmanlığını müşterileriyle buluşturacak.",
       "items": [
+        {
+          "title": "Vulcan roketi havada arızalandı, uzay kargosu kayboldu",
+          "summary": "Boeing ve Lockheed Martin'in Vulcan roketi, uzaya fırlatıldıktan 10 dakika sonra arızalandı. Roketin taşıdığı Amazon'un 40 internet uydusu yok oldu. ABD'li havacılık ve savunma şirketleri Boeing ile Lockheed Martin'in ortak girişimi United Launch Alliance'a (ULA) ait Vulcan roketi, Florida'daki Cape Canaveral Uzay Kuvvetleri Üssü'nden fırlatıldıktan kısa süre sonra arızalandı. Roket havalandıktan yaklaşık 10 dakika sonra meydana gelen arızanın nedeni henüz belirlenemedi.",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-vulcan-roketi-havada-arizalandi-uzay-kargosu-kayboldu-1751052"
+        },
+        {
+          "title": "GTA 6 ne zaman çıkacak? Oyunseverler için geri sayım başladı",
+          "summary": "Oyun dünyasının gelmiş geçmiş en büyük ve en çok beklenen yapımlarından biri olan Grand Theft Auto VI (GTA 6) için heyecan dorukta. Vice City sokaklarına geri dönüşü müjdeleyen yapım öncesinde milyonlarca oyuncu arama motorlarında \"GTA 6 ne zaman çıkacak, çıkış tarihi kesinleşti mi, GTA 6 hangi platformlara gelecek, PC sürümü aynı anda çıkacak mı?\" sorularına yanıt arıyor. İşte Rockstar Games belirtilen GTA 6 çıkış tarihi GTA 6 NE ZAMAN ÇIKACAK?",
+          "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-ne-zaman-cikacak-oyunseverler-icin-geri-sayim-basladi-1750998"
+        },
         {
           "title": "‘Bence merakımız varsa her türlü olur’",
           "summary": "Hakkâri’nin Derecik ilçesinde yaşayan 16 yaşındaki Aram Kaynak hayallerinin peşinden koşan bir genç. Drone’lara ilgisi maddi sebeplerle engele takılınca pes etmemiş ve kendi drone’larını yapmaya karar vermiş. Kendi imkânlarıyla maket uçaklar da yapan genç mucitle teknoloji merakını ve hayallerini konuştuk.",
@@ -190,16 +200,6 @@
           "title": "Vodafone Business, LIFT ile iş ortaklarının uzmanlığını müşterileriyle buluşturacak",
           "summary": "Vodafone Business, mevcut ve potansiyel iş ortaklarını MEXT Teknoloji Merkezi’nde düzenlediği Partner Day etkinliğinde buluşturdu. Etkinlikte yeni LIFT Partner Programı tanıtıldı. Vodafone Business, partner ekosistemini güçlendirmek ve birlikte büyüme vizyonunu paylaşmak amacıyla MEXT Teknoloji Merkezi’nde Partner Day etkinliğini gerçekleştirdi.",
           "source": "https://www.ntv.com.tr/teknoloji/vodafone-business-lift-ile-is-ortaklarinin-uzmanligini-musterileriyle-bulusturacak-1750699"
-        },
-        {
-          "title": "Stratejist Jelassi’den teknoloji uyarısı: İnsana yatırım yapın",
-          "summary": "IMD Strateji ve Teknoloji Yönetimi Profesörü ve UNESCO Eski Genel Direktör Yardımcısı Dr. Tawfik Jelassi, küresel dijital dönüşüm projelerinin yüzde 80’inin başarısız olma nedeninin teknolojik yetersizlik değil, insan unsurunun göz ardı edilmesi olduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/ik/stratejist-jelassiden-teknoloji-uyarisi-insana-yatirim-yapin-43376559"
-        },
-        {
-          "title": "Microsoft'ta küresel erişim sorunu! 74 ülkede hizmetler aksadı",
-          "summary": "Microsoft'un bazı hizmetlerinde erişim sorunu yaşandığı bildirildi. 74 ülkede yaşanan sorunun ortaya çıkmasının üzerinden 12 saatten fazla zaman geçmesine rağmen sorun hala çözülemedi. Microsoft, sürecin umdukları gibi gitmediğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/teknoloji/microsoftta-kuresel-erisim-sorunu-74-ulkede-hizmetler-aksadi-43376513"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "items": [
         {
           "title": "Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?",
-          "summary": "Amerikan Gıda ve İlaç Dairesi’nin (FDA) 9 Kasım 2026’da ‘zayıflama iğneleri’ olarak bilinen ilaçların güvenli kullanımıyla ilgili bir uyarı yayınladı. FDA, bu gruptaki ilaçların ürün bilgilerine, nadir görülen ancak kalıcı görme kaybına yol açabilen bir göz hastalığına ilişkin bilgi eklenmesini istedi. yarı sadece olası bir risk artışına dikkat çekiyor; her kullanıcının bu sorunla karşılaşacağı anlamına gelmiyor.",
+          "summary": "Amerikan Gıda ve İlaç Dairesi’nin (FDA) 9 Kasım 2026’da ‘zayıflama iğneleri’ olarak bilinen ilaçların güvenli kullanımıyla ilgili bir uyarı yayınladı. FDA, bu gruptaki ilaçların ürün bilgilerine, nadir görülen ancak kalıcı görme kaybına yol açabilen bir göz hastalığına ilişkin bilgi eklenmesini istedi. Yani, sadece olası bir risk artışına dikkat çekiyor; her kullanıcının bu sorunla karşılaşacağı anlamına gelmiyor.",
           "source": "https://www.ntv.com.tr/yazarlar/sahin-senay/yeni-nesil-obezite-ilaclari-ve-kalp-sagligi-kullanirken-nelere-dikkat-edelim-1750958"
         },
         {
