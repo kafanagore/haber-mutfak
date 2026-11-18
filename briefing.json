@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-18T10:00:03.440Z",
+  "generatedAt": "2026-11-18T16:00:03.928Z",
   "categories": {
     "gundem": {
-      "text": "Cumhurbaşkanı Erdoğan: Gazze'de katliam devam ediyor. Cumhurbaşkanı Erdoğan'dan önemli açıklamalar. Bakan Gürlek'ten fon soruşturması açıklaması: İade hesabına cezaevinden de başvuru var. Fon soruşturmasında Şahap Kavcıoğlu hakkında soruşturma izni istendi. Fon soruşturmaları | Bakan Gürlek: Gönüllü iadelerde sayı artıyor, cezaevinden de başvuru var. 2 bin 130 sayfalık gerekçeli karar çıktı: Örgüt suçlarından beraat detayı. Bakan Yaşar Güler: Mekke’de imzalanan anlaşma tarihi bir adımdır.",
+      "text": "Fon soruşturmasında yeni gelişme. Mustafa Yazıcı ifadeye çağrıldı. Bakan Kurum, COP31'de ülke temsilcileri ile ikili görüşmeler yaptı. Cem Küçük ve Tahir Sarıkaya için 5 yıl 3 aya kadar hapis talebi. Emekli maaşı düzenlemesi... Cumhurbaşkanı Erdoğan açıkladı: Sene başından önce hayata geçirilecek. TBMM Başkanı Kurtulmuş, Yeni Parti Genel Başkanı lideri Özel ile görüştü. Ev hanımını 13 milyon lira dolandırdılar: 5 gözaltı. Manisa'da kahreden olay! Çöken duvarın altında kalan 9 yaşındaki çocuk, hayatını kaybetti.",
       "items": [
         {
-          "title": "Cumhurbaşkanı Erdoğan: Gazze'de katliam devam ediyor",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Gazze'de katliamların devam ettiğini belirterek, \"Başkaları gözlerini ve kulaklarını kapatsa bile biz bu zulme sessiz kalmayacağız.” mesajını verdi. Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, TBMM'de partisinin grup toplantısında açıklamalarda bulunuyor.",
+          "title": "Fon soruşturmasında yeni gelişme. Mustafa Yazıcı ifadeye çağrıldı",
+          "summary": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu Mustafa Yazıcı da fon soruşturması kapsamında ifadeye vermek üzere adliyeye geldi. İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu'nca, sermaye piyasalarındaki işlemlere yönelik yürütülen soruşturma kapsamında Mustafa Yazıcı da ifadeye çağrıldı. Yazıcı, saat 16.20 sularında ifade vermek üzere Çağlayan'daki İstanbul Adalet Sarayı'na geldi. Yazıcı'nın adliyedeki ifade işlemi başladı.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-mustafa-yazici-ifadeye-cagrildi-1751473"
+        },
+        {
+          "title": "Bakan Kurum, COP31'de ülke temsilcileri ile ikili görüşmeler yaptı",
+          "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya'da devam eden COP31 Zirvesi’nin 10'uncu gününde de ülke temsilcileriyle ikili görüşmeler yaptı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurum-cop31de-ulke-temsilcileri-ile-ikili-gorusmeler-yapti-43382963"
+        },
+        {
+          "title": "Cem Küçük ve Tahir Sarıkaya için 5 yıl 3 aya kadar hapis talebi",
+          "summary": "Cem Küçük ve Tahir Sarıkaya'nın \"Halkı yanıltıcı bilgiyi alenen yayma\" suçundan yargılandıkları soruşturma tamamlandı. İki isim için 5 yıl 3 aya kadar hapis cezası talep edildi. İstanbul Cumhuriyet Başsavcılığı tarafından Cem Küçük ve Tahir Sarıkaya hakkında yürütülen soruşturma tamamlandı.",
+          "source": "https://www.ntv.com.tr/turkiye/cem-kucuk-ve-tahir-sarikaya-icin-5-yil-3-aya-kadar-hapis-talebi-1751499"
+        },
+        {
+          "title": "Emekli maaşı düzenlemesi... Cumhurbaşkanı Erdoğan açıkladı: Sene başından önce hayata geçirilecek",
+          "summary": "Cumhurbaşkanı Erdoğan, bütün emeklileri kapsayacak maaş düzenlemesinin yaş ve prim sayısı dikkate alınarak yılbaşından önce hayata geçirileceğini açıkladı. Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, TBMM'de partisinin grup toplantısında açıklamalarda bulundu.",
           "source": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-gazzede-katliam-devam-ediyor-1751435"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan önemli açıklamalar",
-          "summary": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin TBMM Grup toplantısında açıklamalarda bulunuyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogandan-onemli-aciklamalar-43382215"
+          "title": "TBMM Başkanı Kurtulmuş, Yeni Parti Genel Başkanı lideri Özel ile görüştü",
+          "summary": "TBMM Başkanı Numan Kurtulmuş, Yeni Parti Genel Başkanı Özgür Özel ile görüştü. Özel, TBMM'de kurulacak izleme komisyonuna ilişkin, \"Biz bu işin içinde yokuz. Bizim bu işlerin içinde olmamızı isteyenler önce bu ülkeye tarih önünde verdikleri sözleri tutacaklar. Rapor orada, komisyon orada, bundan sonra tek başına demokrasicilik oynayanlar, buyursun oynasınlar\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmus-yeni-parti-genel-baskani-lideri-ozel-ile-gorustu-43382942"
         },
         {
-          "title": "Bakan Gürlek'ten fon soruşturması açıklaması: İade hesabına cezaevinden de başvuru var",
-          "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasında sürecin işlemeye devam ettiğini belirtti. Gürlek, TMSF'nin açıkladığı gönüllü iade hesabına cezaevinden de başvuru olduğunu söyledi. Sermaye piyasalarındaki gelişmelere ilişkin başlatılan fon soruşturması sürüyor. Adalet Bakanı Akın Gürlek, haksız kazanç elde ettiği belirlenen isimlerin açıklanıp açıklanmayacağına ilişkin soruyu yanıtladı.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-iade-hesabina-cezaevinden-de-basvuru-var-1751436"
+          "title": "Ev hanımını 13 milyon lira dolandırdılar: 5 gözaltı",
+          "summary": "Çorum'un Osmancık ilçesinde, telefonla aradıkları ev hanımı S.E.'yi (70) yaklaşık 13 milyon lira dolandıran 5 şüpheli gözaltına alındı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ev-hanimini-13-milyon-lira-dolandirdilar-5-gozalti-43382938"
         },
         {
-          "title": "Fon soruşturmasında Şahap Kavcıoğlu hakkında soruşturma izni istendi",
-          "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında eski Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu hakkında soruşturma izni talep edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-sahap-kavcioglu-hakkinda-sorusturma-izni-istendi-43382350"
-        },
-        {
-          "title": "Fon soruşturmaları | Bakan Gürlek: Gönüllü iadelerde sayı artıyor, cezaevinden de başvuru var",
-          "summary": "Adalet Bakanı Bakan Gürlek, fon soruşturmalarıyla ilgili olarak gönüllü iadelerde TMSF bünyesinde bilinen isimler olduğunu, sayının arttığını, cezaevinden de başvuru geldiğini ve sürecin işlediğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmalari-bakan-gurlek-gonullu-iadelerde-sayi-artiyor-cezaevinden-de-basvuru-var-43382334"
-        },
-        {
-          "title": "2 bin 130 sayfalık gerekçeli karar çıktı: Örgüt suçlarından beraat detayı",
-          "summary": "İstanbul 1. Ağır Ceza Mahkemesi, 24 Ağustos’ta Rıza Akpolat, Zeydan Karalar ve Oya Tekin’in de aralarında bulunduğu belediye başkanlarına verilen hapis cezalarının ve beraat kararlarının gerekçesini açıkladı. 63 eylemin incelendiği kararda, sanıkların örgüt kurma, üye olma ve yardım etme suçlarını işlemediklerinin sabit olduğu vurgulandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/2-bin-130-sayfalik-gerekceli-karar-cikti-orgut-suclarindan-beraat-detayi-43382316"
-        },
-        {
-          "title": "Bakan Yaşar Güler: Mekke’de imzalanan anlaşma tarihi bir adımdır",
-          "summary": "Milli Savunma Bakanı Yaşar Güler, Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Savunma Anlaşması'nı tarihi bir adım olarak değerlendirdi. TBMM Plan ve Bütçe Komisyonu'nda, Milli Savunma Bakanlığı'nın 2027 yılı bütçesinin görüşmeleri başladı. Komisyon, AK Parti Samsun Milletvekili Mehmet Muş başkanlığında toplandı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-bakan-yasar-guler-mekkede-imzalanan-anlasma-tarihi-bir-adimdir-1751433"
+          "title": "Manisa'da kahreden olay! Çöken duvarın altında kalan 9 yaşındaki çocuk, hayatını kaybetti",
+          "summary": "Manisa'nın Yunusemre ilçesinde zeytinlikteki hayvan damında oyun oynarken çöken duvarın altında kalan 9 yaşındaki İbrahim Öz, hayatını kaybetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/manisada-kahreden-olay-coken-duvarin-altinda-kalan-9-yasindaki-cocuk-hayatini-kaybetti-43382939"
         }
       ]
     },
     "dunya": {
-      "text": "İrlandalı Filistin aktivisti, ABD askeri uçağını baltayla paramparça etti. ABD Başkanı Donald Trump Çin'de. Ankara'nın hamlesi İsrail basınında: 54 kübitlik Türk canavarı. ABD'de Trump'a suikast planlamakla suçlanan sanığa 27 yıl 6 ay hapis. Rus yetkili tarihi açıkladı! Akkuyu NGS'de geri sayım başladı. Nefesler tutuldu. Voyager 1 uzay aracı, Dünya'dan bir ışık günü uzaklaşarak tarihe geçecek. Putin: Üçlü zirve çok faydalı olacak.",
+      "text": "Mısır ile Suriye, doğrudan uçuşların yeniden başlatılması için protokol imzaladı. İspanya'nın KAAN aşkı! 'En iyi seçenek'. Merakla beklenen zirve öncesi üç lider aynı karede. GTA 6'da Yeni Zelanda hilesi. Oyunu erken açmak isteyen hesaplara ceza iddiası. ABD askeri uçağına baltalı saldırı! Milyonlarca dolarlık hasar verdi. Avrupa'da 40 kentten 37'si AB'nin yeni hava kirliliği sınırlarını karşılayamadı. Şarkıcı Julio Iglesias hakkında cinsel istismar soruşturması.",
       "items": [
         {
-          "title": "İrlandalı Filistin aktivisti, ABD askeri uçağını baltayla paramparça etti",
-          "summary": "İrlanda'da gizlice girdiği havalimanında ABD ordusuna ait C-130 nakliye uçağını baltayla kullanılamaz hale getiren Filistin yanlısı İrlandalı aktivist, 10 yıl hapis cezasıyla karşı karşıya. İrlanda'da 11 Nisan'da yaşanan olayda, Filistin yanlısı bir aktivist olduğu belirtilen 48 yaşındaki Daithi O'Corrain (diğer ismiyle David Curran), Shannon Havalimanı'na sızarak, burada park halinde bulunan ABD Ulusal Hava Muhafızları'na ait C-130 Hercules tipi askeri kargo uçağının içine girdi.",
-          "source": "https://www.ntv.com.tr/dunya/irlandali-filistin-aktivisti-abd-askeri-ucagini-baltayla-paramparca-etti-1751438"
+          "title": "Mısır ile Suriye, doğrudan uçuşların yeniden başlatılması için protokol imzaladı",
+          "summary": "Mısır ile Suriye, yaklaşık 15 yıldır yapılamayan doğrudan uçuşların yeniden başlatılmasına yönelik protokol imzaladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/misir-ile-suriye-dogrudan-ucuslarin-yeniden-baslatilmasi-icin-protokol-imzaladi-43382967"
         },
         {
-          "title": "ABD Başkanı Donald Trump Çin'de",
-          "summary": "ABD Başkanı Donald Trump, katılacağı APEC zirvesi kapsamında Çin'e geldi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-donald-trump-cinde-43382325"
+          "title": "İspanya'nın KAAN aşkı! 'En iyi seçenek'",
+          "summary": "İspanyol basını, Madrid yönetiminin altıncı nesil savaş uçağı arayışındaki seçeneklerin giderek daraldığını yazdı. Analizde, Türkiye'nin milli muharip uçağı KAAN'ın, Madrid için \"en iyi seçenek\" olduğu vurgulandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanyanin-kaan-aski-en-iyi-secenek-43382905"
         },
         {
-          "title": "Ankara'nın hamlesi İsrail basınında: 54 kübitlik Türk canavarı",
-          "summary": "Türkiye'nin 2027 yılında faaliyete geçirmeyi planladığı 54 kübit kapasiteli kuantum bilgisayar projesi, İsrail basınında geniş yankı uyandırdı. Maariv gazetesi, Ankara'nın teknoloji hamlesini \"54 kübitlik Türk canavarı\" sözleriyle duyururken projenin bölgedeki siber güvenlik ve istihbarat dengelerini değiştirebileceğine dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ankaranin-hamlesi-israil-basininda-54-kubitlik-turk-canavari-43382089"
+          "title": "Merakla beklenen zirve öncesi üç lider aynı karede",
+          "summary": "Çin'de yarın düzenlenecek ABD, Rusya ve Çin üçlü zirvesi öncesinde bu ülkelerin liderleri APEC liderleri onuruna verilen resepsiyonda bir araya geldi. Yarın gerçekleştirilecek Rusya, ABD, Çin zirvesi öncesinde Çin Devlet Başkanı Şi Cinping, ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin, Çin'in Shenzhen kentinde düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC) Ekonomik Liderleri onuruna verilen resmi resepsiyona katıldı.",
+          "source": "https://www.ntv.com.tr/dunya/merakla-beklenen-zirve-oncesi-uc-lider-ayni-karede-1751495"
         },
         {
-          "title": "ABD'de Trump'a suikast planlamakla suçlanan sanığa 27 yıl 6 ay hapis",
-          "summary": "ABD'de, aralarında Başkan Donald Trump'ın da bulunduğu birkaç siyasetçiye yönelik suikast planlamakla suçlanan Pakistanlı sanık Asif Merchant, 27 yıl 6 ay hapis cezasına çarptırıldı. Pakistanlı sanık Asif Merchant, terör ve kiralık katil tutma suçlamalarıyla New York'un Brooklyn bölgesindeki federal mahkemenin karşısına çıktı. Mahkeme kararında, kiralık katil tutma suçunu kabul eden Merchant'a 27 yıl 6 ay hapis cezası verildiği kaydedildi.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-trumpa-suikast-planlamakla-suclanan-saniga-27-yil-6-ay-hapis-1751421"
+          "title": "GTA 6'da Yeni Zelanda hilesi. Oyunu erken açmak isteyen hesaplara ceza iddiası",
+          "summary": "ABD'deki Xbox kullanıcıları konsol konumunu değiştirerek 19 Kasım'da çıkacak GTA 6'ya yerel saatten 18 saat önce girmeyi başardı. PlayStation cephesinde saat dilimi değiştirmek sonuç vermedi. Rockstar Games imzalı Grand Theft Auto VI (GTA 6), küresel çıkış takvimindeki saat farkları nedeniyle erken erişim yöntemleriyle gündeme geldi. Oyun yarın her bölgede yerel saatle gece yarısı açılırken, ABD'deki bazı Xbox oyuncuları konsol ayarlarını değiştirerek Vice City'ye saatler öncesinden girdi.",
+          "source": "https://www.ntv.com.tr/dunya/gta-6da-yeni-zelanda-hilesi-oyunu-erken-acmak-isteyen-hesaplara-ceza-iddiasi-1751494"
         },
         {
-          "title": "Rus yetkili tarihi açıkladı! Akkuyu NGS'de geri sayım başladı",
-          "summary": "Rusya Devlet Nükleer Enerji Kuruluşu Rosatom Genel Müdürü Aleksey Likhachev, Akkuyu Nükleer Güç Santrali'nin (NGS) ilk ünitesinde gelinen aşamayı duyurdu. Likhachev, yaptığı açıklamada, \"Önümüzdeki yıl, nükleer enerjiden üretilen ilk kilovatsaatlerin Türkiye elektrik şebekesine verileceği yıl olacak\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/rus-yetkili-tarihi-acikladi-akkuyu-ngsde-geri-sayim-basladi-43382181"
+          "title": "ABD askeri uçağına baltalı saldırı! Milyonlarca dolarlık hasar verdi",
+          "summary": "İrlanda'da Shannon Havalimanı'na gizlice giren bir kişi, ABD ordusuna ait 60 milyon dolarlık askeri kargo uçağına kimyasal madde ve baltayla saldırı düzenleyerek zarar verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-askeri-ucagina-baltali-saldiri-milyonlarca-dolarlik-hasar-verdi-43382809"
         },
         {
-          "title": "Nefesler tutuldu. Voyager 1 uzay aracı, Dünya'dan bir ışık günü uzaklaşarak tarihe geçecek",
-          "summary": "NASA'nın 1977'de uzaya gönderdiği Voyager 1 uzay aracı, bugün TSİ 13.16.07'de Dünya'dan 1 ışık günü (25,9 milyar kilometre) mesafeye ulaşan ilk insan yapımı nesne olacak. ABD Ulusal Havacılık ve Uzay Dairesi (NASA) tarafından 5 Eylül 1977'de uzaya gönderilen Voyager 1 uzay aracı, yaklaşık 49 yıldır ilerlediği uzay boşluğunda bugün Dünya'dan yaklaşık 26 milyar kilometre uzaklaşarak yerküreye \"1 ışık günü\" mesafeye ulaşarak tarihe geçecek.",
-          "source": "https://www.ntv.com.tr/dunya/nefesler-tutuldu-voyager-1-uzay-araci-dunyadan-bir-isik-gunu-uzaklasarak-tarihe-gececek-1751409"
+          "title": "Avrupa'da 40 kentten 37'si AB'nin yeni hava kirliliği sınırlarını karşılayamadı",
+          "summary": "Avrupa’da incelenen 40 büyük kentten 37’sinin, Avrupa Birliği’nin (AB) 2030’dan itibaren uygulayacağı hava kirliliği sınırlarından en az birini mevcut ölçümlere göre karşılayamadığı belirlendi. Sürdürülebilir kent ulaşımı alanında çalışan STK'lerin oluşturduğu Brüksel merkezli \"Clean Cities\" kuruluşu, \"2026 Kent Sıralaması\"nda azot dioksit ve ince partikül madde düzeylerini AB’nin 2030’da uygulayacağı günlük ve yıllık sınır değerlerle karşılaştırdı.",
+          "source": "https://www.ntv.com.tr/dunya/avrupada-40-kentten-37si-abnin-yeni-hava-kirliligi-sinirlarini-karsilayamadi-1751491"
         },
         {
-          "title": "Putin: Üçlü zirve çok faydalı olacak",
-          "summary": "Yarın Çin'de gerçekleştirilecek Rusya, ABD, Çin zirvesi öncesi konuşan Rusya Devlet Başkanı Vladimir Putin, \"Üçlü zirve çok faydalı olacak\" dedi. Putin bugün Çin Devlet Başkanı Şi ile de görüştü. Yarın dünyanın gözü Çin'in başkenti Pekin'de olacak. Amerika Birleşik Devletleri Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping tarihi bir zirvede buluşacak. Bu önemli zirve öncesinde Putin'den bir açıklama geldi.",
-          "source": "https://www.ntv.com.tr/dunya/putin-uclu-zirve-cok-faydali-olacak-1751370"
+          "title": "Şarkıcı Julio Iglesias hakkında cinsel istismar soruşturması",
+          "summary": "İspanya'daki Audiencia Nacional mahkemesi, ocak ayında yetkisizlik gerekçesiyle rafa kaldırılan şikayetin ardından 83 yaşındaki Julio Iglesias hakkında cinsel istismar soruşturması başlattı. İspanya'daki Audiencia Nacional mahkemesi, şarkıcı Julio Iglesias hakkında cinsel istismar soruşturması açtı. Daha önce Iglesias'ın iki eski kadın çalışanı cinsel istismar suçlamasıyla şikayette bulunmuştu.",
+          "source": "https://www.ntv.com.tr/dunya/sarkici-julio-iglesias-hakkinda-cinsel-istismar-sorusturmasi-1751492"
         }
       ]
     },
     "ekonomi": {
-      "text": "İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi. Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı.",
+      "text": "Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi.",
       "items": [
+        {
+          "title": "Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi",
+          "summary": "Boğaziçi Ventures Üst Yöneticisi (CEO) Barış Özistek, yapay zeka destekli temiz teknoloji girişimlerine yatırım yapmak amacıyla oluşturdukları GreenWise fonunda 50 milyon dolarlık büyüklüğe ulaşmayı hedeflediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/temiz-teknoloji-girisimleri-icin-50-milyon-dolarlik-yatirim-fonu-hedefi-43382684"
+        },
         {
           "title": "İZSU’da gündem suda indirim",
           "summary": "İZSU Genel Müdürlüğü, 2027 yılı su ve atık su tarifelerinde indirime gitmeye hazırlanıyor. Komisyona sunulan teklifin kabul edilmesi halinde 10 metreküpe kadar su kullanan vatandaşlar yüzde 63’e varan indirimden yararlanacak.",
@@ -115,51 +120,46 @@
           "title": "40’ıncı yıla özel, ekonomiye katkı analizi",
           "summary": "Türkiye Beyaz Eşya Sanayicileri Derneği (TÜRKBESD), 40’ıncı kuruluş yıl dönümünde “Türkiye Beyaz Eşya Sektörü 40. Yıl Etki Analizi Raporu”nun sonuçlarını paylaştı.",
           "source": "https://www.hurriyet.com.tr/ik/40inci-yila-ozel-ekonomiye-katki-analizi-43368613"
-        },
-        {
-          "title": "Sermaye piyasası soruşturması! Fatma Betül Sayan Kaya tutuklandı",
-          "summary": "Fon soruşturması kapsamında \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından mahkemeye sevk edilen eski bakan Fatma Betül Sayan Kaya tutuklandı. İlyas Kaya ile Gönül hakkında adli kontrol tedbiri uygulandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-fatma-betul-sayan-ve-esi-ilyas-kaya-adliyede-43366738"
         }
       ]
     },
     "spor": {
-      "text": "Fenerbahçe Tarfin EuroLeague'de Olimpia Milan'a konuk olacak!. Naim Süleymanoğlu kabri başında anıldı. Thomas Reis, Trabzonspor'da kariyerinin en iyi dönemini yaşıyor. Hakan Çalhanoğlu, başkan ile görüştü! Anadolu yolcusu. Fenerbahçe'de Shane Larkin tarihe geçti! 15 dakikada 25 sayı. Futbol dünyasını kahreden ölüm! 16 yaşında yaşamını yitirdi. Fenerbahçe, Arda Okan Kurtulan için teklif yapıyor! Ayrılacak isim belli oldu.",
+      "text": "Galatasaray'dan Başakşehir Fatih Terim Stadı'ndaki Samsunspor maçı için bilet açıklaması. Volkan Demirel: 'Ben Hatayspor'u düşürmedim'. A Milli Futbol Takımı, FIFA dünya sıralamasında iki basamak geriledi. Fenerbahçe Tarfin'den Nicolo Melli ve Braxton Key için açıklama!. Kylian Mbappe’den Arda Güler paylaşımı: 'Bu gece daha iyi uyuyacağım!'. Kadınlar Şampiyonlar Ligi’nde beklenti gollü maçlar! İşte Misli’den Günün Tüyoları. İstanbul'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
       "items": [
         {
-          "title": "Fenerbahçe Tarfin EuroLeague'de Olimpia Milan'a konuk olacak!",
-          "summary": "Fenerbahçe Tarfin, EuroLeague'in 13. haftasında yarın İtalya temsilcisi Armani Olimpia Milan'a konuk olacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-euroleaguede-olimpia-milana-konuk-olacak-43382389"
+          "title": "Galatasaray'dan Başakşehir Fatih Terim Stadı'ndaki Samsunspor maçı için bilet açıklaması",
+          "summary": "Galatasaray, Süper Lig'in 12. haftasında Başakşehir Fatih Terim Stadı'nda oynanacak Samsunspor mücadelesi için kombine kart sahibi taraftarlarına öncelikli bilet hakkı tanınacağını açıkladı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-basaksehir-fatih-terim-stadindaki-samsunspor-maci-icin-bilet-aciklamasi-43382949"
         },
         {
-          "title": "Naim Süleymanoğlu kabri başında anıldı",
-          "summary": "Türkiye Halter Federasyonu, dünya ve Türk sporunun efsane ismi Naim Süleymanoğlu'nun vefatının 9. yılında kabri başında anma töreni düzenledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/naim-suleymanoglu-kabri-basinda-anildi-43382368"
+          "title": "Volkan Demirel: 'Ben Hatayspor'u düşürmedim'",
+          "summary": "Süper Lig ekiplerinden Gaziantep FK'nin teknik direktörü Volkan Demirel, takımdaki oyuncuların kalitesine ve şehrin desteğine güvendiğini belirterek, kırmızı-siyahlı ekibi üst sıralara taşımak istediklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/volkan-demirel-ben-hataysporu-dusurmedim-43382893"
         },
         {
-          "title": "Thomas Reis, Trabzonspor'da kariyerinin en iyi dönemini yaşıyor",
-          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, bordo-mavili takımda kariyerinin en iyi dönemini geçiriyor. Alman çalıştırıcı, daha önce görev aldığı takımlarda üst üste 6 galibiyet sevinci yaşamadı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/thomas-reis-trabzonsporda-kariyerinin-en-iyi-donemini-yasiyor-43382359"
+          "title": "A Milli Futbol Takımı, FIFA dünya sıralamasında iki basamak geriledi",
+          "summary": "A Milli Futbol Takımımız, FIFA tarafından açıklanan Kasım ayı dünya sıralamasında 1.556 puanla 33. sırada yer aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimi-fifa-dunya-siralamasinda-iki-basamak-geriledi-43382803"
         },
         {
-          "title": "Hakan Çalhanoğlu, başkan ile görüştü! Anadolu yolcusu",
-          "summary": "A Milli Futbol Takımı'mızın kaptanı ve Inter'in yıldızı Hakan Çalhanoğlu için transfer iddiası gündeme geldi. Buna göre tecrübeli yıldız, Süper Lig devinin başkanı ile görüşme gerçekleştirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/hakan-calhanoglu-baskan-ile-gorustu-anadolu-yolcusu-43382293"
+          "title": "Fenerbahçe Tarfin'den Nicolo Melli ve Braxton Key için açıklama!",
+          "summary": "Fenerbahçe Tarfin, Nicolo Melli ve Braxton Key’in sağlık durumları hakkında açıklamada bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfinden-nicolo-melli-ve-braxton-key-icin-aciklama-43382707"
         },
         {
-          "title": "Fenerbahçe'de Shane Larkin tarihe geçti! 15 dakikada 25 sayı",
-          "summary": "Fenerbahçe Tarfin, EuroLeague'in 12. haftasında sahasında LDLC Asvel'i 115-81 mağlup etti. Shane Larkin, 15 dakikada attığı 25 sayıyla EuroLeague tarihine geçti. Larkin, 25 sayıya en az sürede ulaşan oyuncu oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-shane-larkin-tarihe-gecti-15-dakikada-25-sayi-43382251"
+          "title": "Kylian Mbappe’den Arda Güler paylaşımı: 'Bu gece daha iyi uyuyacağım!'",
+          "summary": "Real Madrid, milli futbolcu Arda Güler'in sözleşmesinin 30 Haziran 2032'ye kadar uzatıldığını açıkladı. Arda Güler'e takım arkadaşı Kylian Mbappe'den de destek geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kylian-mbappeden-arda-guler-paylasimi-bu-gece-daha-iyi-uyuyacagim-43382667"
         },
         {
-          "title": "Futbol dünyasını kahreden ölüm! 16 yaşında yaşamını yitirdi",
-          "summary": "Arjantin futbolu, altyapı düzeyinde oynanan bir maçta yaşanan trajik olayla sarsıldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/futbol-dunyasini-kahreden-olum-16-yasinda-yasamini-yitirdi-43382262"
+          "title": "Kadınlar Şampiyonlar Ligi’nde beklenti gollü maçlar! İşte Misli’den Günün Tüyoları",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/kadinlar-sampiyonlar-liginde-beklenti-gollu-maclar-iste-misliden-gunun-tuyolari-43382666"
         },
         {
-          "title": "Fenerbahçe, Arda Okan Kurtulan için teklif yapıyor! Ayrılacak isim belli oldu",
-          "summary": "Fenerbahçe, ara transfer sezonunda Portekizli futbolcu Semedo ile yollarını ayırmayı planlarken, yerine Arda Okan Kurtulan'ı kadrosuna katmak istiyor. Bu bağlamda sarı lacivertlilerin planı ortaya çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-arda-okan-kurtulan-icin-teklif-yapiyor-ayrilacak-isim-belli-oldu-43381969"
+          "title": "İstanbul'da 9 koşuluk program! İşte Misli'den günün altılı analizi...",
+          "summary": "İstanbul Veliefendi Hipodromu’nda bugün 9 koşudan oluşan birbirinden çekişmeli bir program yarışseverleri bekliyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/istanbulda-9-kosuluk-program-iste-misliden-gunun-altili-analizi-43382658"
         }
       ]
     },
