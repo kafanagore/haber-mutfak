@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-19T04:00:11.712Z",
+  "generatedAt": "2026-11-19T16:00:03.621Z",
   "categories": {
     "gundem": {
-      "text": "KPSS ortaöğretim sonuçları açıklandı. Enerjiye ilişkin düzenlemeleri içeren kanun teklifi, komisyonda kabul edildi. BUDO'nun 12 seferi iptal edildi. Pilot Lisans Yönetmeliği'nde değişiklik. Fon soruşturmasında yeni gelişme. İfade veren Mustafa Yazıcı için adli kontrol talebi. COP31'de 100'e yakın bakanın katılımıyla 'Divan' toplantısı gerçekleştirildi. Bakan Güler: 2030 sonuna kadar 20 adet KAAN teslim edilecek.",
+      "text": "Kırmızı bültenle aranan 2 kişi Bulgaristan'dan Türkiye'ye iade edildi. Türkiye’nin ilk insansız savaş uçağı KIZILELMA envantere girdi. Bakan Çiftçi: Firariler için çember daralıyor. MHP Genel Başkanı Devlet Bahçeli: Türkiye ve Erdoğan görmezden gelinemez. Bahçeli: Trump-Şi-Putin zirvesinde Erdoğan da yer almalıydı. Batan Kafkametler Gemisi'ndeki 12 denizci, facianın yıl dönümünde anıldı. \"Fon soruşturması\"nda gözaltına alınan 7 şüpheli adliyede.",
       "items": [
         {
-          "title": "KPSS ortaöğretim sonuçları açıklandı",
-          "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), Kamu Personeli Seçme Sınavı (2026-KPSS) ortaöğretim sonuçlarını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/kpss-ortaogretim-sonuclari-aciklandi-43383187"
+          "title": "Kırmızı bültenle aranan 2 kişi Bulgaristan'dan Türkiye'ye iade edildi",
+          "summary": "İçişleri Bakanlığı, kırmızı bültenle uluslararası seviyede aranan Emre Yalvan ve Murat Saydam'ın Bulgaristan'dan Türkiye'ye iadesinin sağlandığını duyurdu. Bakanlıktan yapılan açıklamaya göre, İçişleri Bakanı Mustafa Çiftçi'nin girişimleriyle, Emniyet Genel Müdürlüğü Interpol Europol Daire Başkanlığı, İstihbarat, Narkotik Suçlarla Mücadele ve KOM başkanlıkları, İstanbul İl Emniyet Müdürlüğü Organize Suçlarla Mücadele Şube Müdürlüğü ile Adalet Bakanlığı koordinesinde çalışma yürütüldü.",
+          "source": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi-1751664"
         },
         {
-          "title": "Enerjiye ilişkin düzenlemeleri içeren kanun teklifi, komisyonda kabul edildi",
-          "summary": "TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonu'nda, enerjiye ilişkin düzenlemeleri de içeren, 'Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun' ile 'Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi' kabul edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/enerjiye-iliskin-duzenlemeleri-iceren-kanun-teklifi-komisyonda-kabul-edildi-43383185"
+          "title": "Türkiye’nin ilk insansız savaş uçağı KIZILELMA envantere girdi",
+          "summary": "Baykar tarafından milli ve özgün olarak geliştirilen Türkiye’nin ilk insansız savaş uçağı KIZILELMA, başarıyla tamamlanan kabul testlerinin ardından güvenlik güçlerinin envanterine girdi. Baykar'dan yapılan açıklamaya göre, şirketin tamamen öz kaynaklarıyla yürüttüğü çalışmalar sonucunda milli ve özgün olarak geliştirdiği KIZILELMA, tarihi bir eşiği daha geride bıraktı. Proje kapsamında yapılan test ve eğitim faaliyetlerinde bugüne kadar toplam 600 sorti gerçekleştirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-1751663"
         },
         {
-          "title": "BUDO'nun 12 seferi iptal edildi",
-          "summary": "BUDO'nun 12 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/budonun-12-seferi-iptal-edildi-43383175"
+          "title": "Bakan Çiftçi: Firariler için çember daralıyor",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, yeni nesil organize suç örgütü yöneticisi Emre Yalvan ile kırmızı bültenle uluslararası seviyede aranan Murat Saydam'ın Bulgaristan'dan iade edileceğini duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-firariler-icin-cember-daraliyor-43384203"
         },
         {
-          "title": "Pilot Lisans Yönetmeliği'nde değişiklik",
-          "summary": "Pilot Lisans Yönetmeliği'nde yapılan değişiklik kapsamında, pilot lisansı için başvuru yapacak adayların, 'göçmen kaçaklığı ve insan ticareti', 'cinsel dokunulmazlığa karşı' suçlar, 'uyuşturucu veya uyarıcı madde imal ve ticareti' gibi suçlardan hüküm giymemiş olması gerekecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/pilot-lisans-yonetmeliginde-degisiklik-43383174"
+          "title": "MHP Genel Başkanı Devlet Bahçeli: Türkiye ve Erdoğan görmezden gelinemez",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, APEC Toplantısı'na ilişkin açıklamalarda bulundu. Bahçeli, \"Dünyada savaş, çatışma ve terör bitsin isteniyorsa kadim devlet geleneğine ve tecrübeye sahip, barış ve huzur diplomasisinin merkezi konumunda bulunan Türkiye göz ardı edilemez. Küresel düzen ve uluslararası kuruluşlardaki çarpıklık, adaletsizlik giderilmek isteniyorsa “Dünya beşten büyüktür” diyerek ön alan Türkiye ve Sayın Recep Tayyip Erdoğan görmezden gelinemez.",
+          "source": "https://www.hurriyet.com.tr/gundem/mhp-genel-baskani-devlet-bahceli-turkiye-ve-erdogan-gormezden-gelinemez-43384197"
         },
         {
-          "title": "Fon soruşturmasında yeni gelişme. İfade veren Mustafa Yazıcı için adli kontrol talebi",
-          "summary": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu Mustafa Yazıcı da fon soruşturması kapsamında ifade verdi. Mustafa Yazıcı için adli kontrol talep edildi. İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu'nca, sermaye piyasalarındaki işlemlere yönelik yürütülen soruşturma kapsamında Mustafa Yazıcı da ifadeye çağrıldı. Yazıcı, saat 16.20 sularında ifade vermek üzere Çağlayan'daki İstanbul Adalet Sarayı'na geldi.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-mustafa-yazici-ifadeye-cagrildi-1751473"
+          "title": "Bahçeli: Trump-Şi-Putin zirvesinde Erdoğan da yer almalıydı",
+          "summary": "MHP lideri Devlet Bahçeli, Çin'in Shenzhen kentindeki zirvede Cumhurbaşkanı Erdoğan'ın da yer alması gerektiğini belirterek, \"Zirve üçlü değil, dörtlü olmalıydı\" dedi. MHP Genel Başkanı Devlet Bahçeli, Çin'in Shenzhen kentinde düzenlendiğini belirttiği Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi'ne ilişkin açıklama yaptı.",
+          "source": "https://www.ntv.com.tr/turkiye/bahceli-trump-si-putin-zirvesinde-erdogan-da-yer-almaliydi-1751662"
         },
         {
-          "title": "COP31'de 100'e yakın bakanın katılımıyla 'Divan' toplantısı gerçekleştirildi",
-          "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, 100’den fazla ülkeden bakanın katıldığı Divan Toplantısı’na ev sahipliği yaptı. 4 saat süren toplantıda konuşan Kurum, \"Bizim arzumuz geleceğe ilişkin güzel bir miras bırakmak. Bizim arzumuz ‘Antalya'da bir şeyler değişti, evet hep birlikte kararlar aldık’ diyebilmektir\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/cop31de-100e-yakin-bakanin-katilimiyla-divan-toplantisi-gerceklestirildi-43383140"
+          "title": "Batan Kafkametler Gemisi'ndeki 12 denizci, facianın yıl dönümünde anıldı",
+          "summary": "Zonguldak'ın Ereğli ilçesinde 3 yıl önce fırtınada mendireğe çarparak batan Kafkametler Gemisi'ndeki 12 denizci, facianın yıl dönümünde düzenlenen törenle anıldı. Ereğli Kaymakamı Fatih Yılmaz, törende yaptığı konuşmada, aradan geçen 3 yıla rağmen 7 denizcinin naaşına ulaşılamadığını belirterek, bunun ailelerin acısını daha da artırdığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/batan-kafkametler-gemisindeki-12-denizci-facianin-yil-donumunde-anildi-43384189"
         },
         {
-          "title": "Bakan Güler: 2030 sonuna kadar 20 adet KAAN teslim edilecek",
-          "summary": "Milli Savunma Bakanı Yaşar Güler, 2030 yılı sonuna kadar Hava Kuvvetleri Komutanlığı'na 20 adet uçağın teslim edileceğini, 2035 yılı sonunda ise bu sayının 100’e ulaşağını belirtti. Milli Savunma Bakanı Yaşar Güler, TBMM’de katıldığı Plan ve Bütçe Komisyonu’nda milletvekillerinin değerlendirmeleri ile eleştirilerini dinledi ve kendisine yöneltilen soruları cevapladı.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-guler-2030da-20-adet-kaan-teslim-edilecek-1751514"
+          "title": "\"Fon soruşturması\"nda gözaltına alınan 7 şüpheli adliyede",
+          "summary": "Sermaye piyasalarında yapılan işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında gözaltına alınan 7 şüpheli, adliyeye sevk edildi. İstanbul Cumhuriyet Başsavcılığınca sermaye piyasalarında gerçekleştirilen işlemlere ilişkin \"fon soruşturması\" sürüyor. Soruşturma kapsamında gözaltına alınan 7 şüphelinin daha emniyetteki işlemleri tamamlandı. Şüpheliler sağlık kontrolünün ardından Çağlayan'daki İstanbul Adliyesi'ne sevk edildi. Zanlıların savcılıkta ifadelerinin alınmasına devam ediliyor.",
+          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-gozaltina-alinan-7-supheli-adliyede-1751661"
         }
       ]
     },
     "dunya": {
-      "text": "Sessiz katil: Bir avuç toprak ölümüne neden oldu! Tozunu solumak bile yetiyor, teşhis etmesi ise çok zor. Trump'tan tarihi zirve öncesi İran mesajı. \"Yardım istemeyeceğim\". Riyad'da patlama sesleri: Husiler havalimanını hedef aldı. AB'den Rusya'ya yeni yaptırım uyarısı. ABD DNI: Son dönemdeki hizmet kesintileri \"koordineli\" veya \"devlet destekli\" saldırılar değil. Mısır ile Suriye, doğrudan uçuşların yeniden başlatılması için protokol imzaladı. İspanya'nın KAAN aşkı! 'En iyi seçenek'.",
+      "text": "Gürcistan'da beş katlı apartman alevlere teslim oldu: 4 kişi ağır yaralandı. AB Komisyonu siber saldırıya hedef oldu: Uygulamalar devre dışı kaldı. Gönüllüler Koalisyonu Berlin'de toplandı. Elon Musk yaptığına pişman oldu: Aptal gibi hissediyorum. Zelenski'den üçlü liderler zirvesine sert tepki. Putin, Şi Cinping ve Trump görüştü. \"Bu zirve tarihe geçti\". Uluslararası Adalet Divanı: Myanmar, Arakanlı Müslümanlara karşı soykırım yaptı.",
       "items": [
         {
-          "title": "Sessiz katil: Bir avuç toprak ölümüne neden oldu! Tozunu solumak bile yetiyor, teşhis etmesi ise çok zor",
-          "summary": "Bahçeyle uğraşmak, toprakla temas etmek ve bitki yetiştirmek; milyonlarca insan için günün stresinden uzaklaşmanın en huzurlu, en masum yollarından biridir. Ancak İngiltere’den gelen sarsıcı bir haber, her bahçe severin evinde bulundurduğu sıradan bir torba kompost toprağının, ölümcül bir tehlikeyi sessizce barındırabileceğini gözler önüne serdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/sessiz-katil-bir-avuc-toprak-olumune-neden-oldu-tozunu-solumak-bile-yetiyor-teshis-etmesi-ise-cok-zor-43375595"
+          "title": "Gürcistan'da beş katlı apartman alevlere teslim oldu: 4 kişi ağır yaralandı",
+          "summary": "Gürcistan’ın başkenti Tiflis’te, beş katlı bir apartmanda yangın çıktı. Binada meydana gelen patlama sonucu biri ağır 4 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/gurcistanda-bes-katli-apartman-alevlere-teslim-oldu-4-kisi-agir-yaralandi-43384188"
         },
         {
-          "title": "Trump'tan tarihi zirve öncesi İran mesajı. \"Yardım istemeyeceğim\"",
-          "summary": "Dünyanın gözü Çin'deki tarihi üçlü zirveye çevrildi. ABD Başkanı Donald Trump, Rusya ve Çin liderleriyle görüşmesi öncesinde İran ve Ukrayna savaşlarına ilişkin dikkat çekici mesajlar verdi. Çin, Şıncın kenti 33'üncü Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi'ne ev sahipliği yapıyor.",
-          "source": "https://www.ntv.com.tr/dunya/trumptan-tarihi-zirve-oncesi-iran-mesaji-yardim-istemeyecegim-1751522"
+          "title": "AB Komisyonu siber saldırıya hedef oldu: Uygulamalar devre dışı kaldı",
+          "summary": "Avrupa Birliği (AB) Komisyonu, sistemlerine yapay zeka destekli siber saldırı düzenlendiğini bildirdi. Saldırı nedeniyle bazı uygulamalarının geçici olarak devre dışı bırakıldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ab-komisyonu-siber-saldiriya-hedef-oldu-uygulamalar-devre-disi-kaldi-43384184"
         },
         {
-          "title": "Riyad'da patlama sesleri: Husiler havalimanını hedef aldı",
-          "summary": "Suudi Arabistan'ın başkenti Riyad'da şiddetli bir patlama meydana geldi. Suudi Arabistan öncülüğündeki koalisyon, Husilerin fırlattığı füze ve İHA'ların engellendiğini duyurdu. Suudi Arabistan'ın başkenti Riyad'da şiddetli bir patlama meydana geldi. Yemen'deki İran destekli Husilerin Suudi Arabistan'a yönelik saldırılarını sürdürdüğü bir dönemde yaşanan patlama, kentte paniğe neden oldu. AFP muhabirleri ve bölge sakinleri, 18 Kasım Çarşamba günü meydana gelen patlamanın şiddetiyle evlerin sarsıldığını bildirdi.",
-          "source": "https://www.ntv.com.tr/dunya/riyadda-patlama-sesleri-husiler-havalimanini-hedef-aldi-1751518"
+          "title": "Gönüllüler Koalisyonu Berlin'de toplandı",
+          "summary": "Ukrayna'ya destek veren ülkelerden oluşan \"Gönüllüler Koalisyonu\" Almanya’nın başkenti Berlin’de bir araya geldi. Milli Savunma Bakanı Yaşar Güler, Türkiye'yi temsilen toplantıya katıldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/gonulluler-koalisyonu-berlinde-toplandi-43384171"
         },
         {
-          "title": "AB'den Rusya'ya yeni yaptırım uyarısı",
-          "summary": "Avrupa Birliği (AB), Rusya'ya Ukrayna'da kimyasal silah kullandığı iddiaları üzerine bu tür silahların kullanımını derhal durdurma çağrısında bulunarak, sorumlulara yönelik yeni yaptırımlar uygulamaya hazır olduğunu bildirdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abden-rusyaya-yeni-yaptirim-uyarisi-43383058"
+          "title": "Elon Musk yaptığına pişman oldu: Aptal gibi hissediyorum",
+          "summary": "ABD'li iş insanı Elon Musk, Cumhuriyetçilerin ara seçimleri kazanması için yaptığı harcamalardan pişmanlık duyduğunu belirtti. Musk, çok fazla para harcadığı için kendisini aptal gibi hissettiğini kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/elon-musk-yaptigina-pisman-oldu-aptal-gibi-hissediyorum-43384164"
         },
         {
-          "title": "ABD DNI: Son dönemdeki hizmet kesintileri \"koordineli\" veya \"devlet destekli\" saldırılar değil",
-          "summary": "ABD Ulusal İstihbarat Direktörü (DNI) Jay Clayton, son günlerde teknoloji şirketlerinin hizmetlerinde peş peşe yaşanan kesintilerin \"koordineli\" veya \"devlet destekli\" saldırılar olmadığını belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-dni-son-donemdeki-hizmet-kesintileri-koordineli-veya-devlet-destekli-saldirilar-degil-43383057"
+          "title": "Zelenski'den üçlü liderler zirvesine sert tepki",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping'in katıldığı üçlü liderler zirvesine tepki gösterdi. Zelenski, Ukrayna'nın yer almadığı bir toplantıda ülkesi hakkında görüşmeler yapıldığına dikkat çekerek, bunun bir hata olduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/zelenskiden-uclu-liderler-zirvesine-sert-tepki-43384151"
         },
         {
-          "title": "Mısır ile Suriye, doğrudan uçuşların yeniden başlatılması için protokol imzaladı",
-          "summary": "Mısır ile Suriye, yaklaşık 15 yıldır yapılamayan doğrudan uçuşların yeniden başlatılmasına yönelik protokol imzaladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/misir-ile-suriye-dogrudan-ucuslarin-yeniden-baslatilmasi-icin-protokol-imzaladi-43382967"
+          "title": "Putin, Şi Cinping ve Trump görüştü. \"Bu zirve tarihe geçti\"",
+          "summary": "Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Şi Cinping ve ABD Başkanı Donald Trump, APEC Zirvesi'nde bir araya geldi. Trump, \"Bence birçok açıdan gerçekten tarih yazıyoruz.\" dedi. Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Şi Cinping ve ABD Başkanı Donald Trump, Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi marjında Çin'in Şıncın kentinde buluştu. Liderler, Qilin Shanzhuang Devlet Konukevi'nde tarihte ilk kez düzenlenen üçlü zirve gerçekleştirdi.",
+          "source": "https://www.ntv.com.tr/dunya/putin-si-cinping-ve-trump-gorustu-bu-zirve-tarihe-gecti-1751592"
         },
         {
-          "title": "İspanya'nın KAAN aşkı! 'En iyi seçenek'",
-          "summary": "İspanyol basını, Madrid yönetiminin altıncı nesil savaş uçağı arayışındaki seçeneklerin giderek daraldığını yazdı. Analizde, Türkiye'nin milli muharip uçağı KAAN'ın, Madrid için \"en iyi seçenek\" olduğu vurgulandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/ispanyanin-kaan-aski-en-iyi-secenek-43382905"
+          "title": "Uluslararası Adalet Divanı: Myanmar, Arakanlı Müslümanlara karşı soykırım yaptı",
+          "summary": "Uluslararası Adalet Divanı (UAD), Myanmar'ın Arakanlı Müslümanlara karşı soykırım suçu işlediğine hükmederek tarihinde ilk kez bir devleti soykırımdan sorumlu tuttu. Birleşmiş Milletlerin yargı organı olan Lahey'deki Uluslararası Adalet Divanı (UAD), Myanmar'ın Arakanlı Müslümanlara karşı soykırım suçu işlediğine hükmetti.",
+          "source": "https://www.ntv.com.tr/dunya/uluslararasi-adalet-divani-myanmar-arakanli-muslumanlara-karsi-soykirim-yapti-1751634"
         }
       ]
     },
     "ekonomi": {
-      "text": "Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler. 40’ıncı yıla özel, ekonomiye katkı analizi.",
+      "text": "Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış. Makine ve inşaatın röntgenini çektiler.",
       "items": [
+        {
+          "title": "Tütün iki aydır ihracat rekoru kırıyor",
+          "summary": "TÜTÜN sektörünün ihracattaki başarısı ekim ayında da devam etti. Ekim 2025’te 82 milyon dolarlık ihracata imza atan sektör, bu yılın aynı döneminde ihracatını yüzde 59’luk yükselişle 130 milyon dolara taşıdı.",
+          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/tutun-iki-aydir-ihracat-rekoru-kiriyor-43383940"
+        },
         {
           "title": "Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi",
           "summary": "Boğaziçi Ventures Üst Yöneticisi (CEO) Barış Özistek, yapay zeka destekli temiz teknoloji girişimlerine yatırım yapmak amacıyla oluşturdukları GreenWise fonunda 50 milyon dolarlık büyüklüğe ulaşmayı hedeflediklerini söyledi.",
@@ -115,57 +120,57 @@
           "title": "Makine ve inşaatın röntgenini çektiler",
           "summary": "İZMİR Sanayici ve İş İnsanları Derneği (İZSİAD), İzmir Defterdarı Ömer Alanlı’yı ziyaret ederek makine ve inşaat sektörlerine yönelik değerlendirme toplantılarında belirlenen sorunları ve çözüm önerilerini paylaştı. İZSİAD heyetinde Yönetim Kurulu Başkanı Alaattin Yüksel, Başkan Yardımcıları İbrahim Baylan ve Salih Özçiftçi ile Yönetim Kurulu Üyesi Mert Şardağ ve üye Taner Telcioğlu yer aldı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/makine-ve-insaatin-rontgenini-cektiler-43375821"
-        },
-        {
-          "title": "40’ıncı yıla özel, ekonomiye katkı analizi",
-          "summary": "Türkiye Beyaz Eşya Sanayicileri Derneği (TÜRKBESD), 40’ıncı kuruluş yıl dönümünde “Türkiye Beyaz Eşya Sektörü 40. Yıl Etki Analizi Raporu”nun sonuçlarını paylaştı.",
-          "source": "https://www.hurriyet.com.tr/ik/40inci-yila-ozel-ekonomiye-katki-analizi-43368613"
         }
       ]
     },
     "spor": {
-      "text": "Beşiktaş, Fenerbahçe ve Galatasaray'ın istediği Kim Min-Jae'nin bonservis bedeli belli oldu!. Galatasaray MCT Technic 88-81 Legia Varşova (Basketbol Şampiyonlar Ligi). Toni Kroos'tan yıllar sonra gelen Galatasaray itirafı: 'Çok özel ve harikaydı, halâ unutamadım!'. Galatasaray'dan Başakşehir Fatih Terim Stadı'ndaki Samsunspor maçı için bilet açıklaması. Volkan Demirel: 'Ben Hatayspor'u düşürmedim'. A Milli Futbol Takımı, FIFA dünya sıralamasında iki basamak geriledi. Fenerbahçe Tarfin'den Nicolo Melli ve Braxton Key için açıklama!.",
+      "text": "Matteo Guendouzi'den Emre Belözoğlu itirafı: 'Çok net ve keskin planları var'. EuroLeague'de 12. haftanın MVP'si Sasha Vezenkov!. Real Madrid, Tchouameni'nin sözleşmesini uzattı. Aras Kargo'nun oyuncuları ve teknik ekibi gıda zehirlenmesi şüphesiyle tedavi altına alındı!. NBA Europe projesi tam gaz yola devam: 2027’den itibaren hayata geçecek!. Vincent Kompany 'Sağlık durumum çok iyi!'. Lukaku'nun maaşı belli oldu! Fenerbahçe'den ayrılık ihtimali.",
       "items": [
         {
-          "title": "Beşiktaş, Fenerbahçe ve Galatasaray'ın istediği Kim Min-Jae'nin bonservis bedeli belli oldu!",
-          "summary": "Bayern Münih, Süper Lig devlerinden Beşiktaş, Fenerbahçe ve Galatasaray'ın talip olduğu Güney Koreli stoperi Kim Min-Jae'nin bonservis bedelini belirledi. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-fenerbahce-ve-galatasarayin-istedigi-kim-min-jaenin-bonservis-bedeli-belli-oldu-43383142"
+          "title": "Matteo Guendouzi'den Emre Belözoğlu itirafı: 'Çok net ve keskin planları var'",
+          "summary": "Fenerbahçe'nin orta saha oyuncusu Matteo Guendouzi, teknik direktör Emre Belözoğlu'na övgülerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/matteo-guendouziden-emre-belozoglu-itirafi-cok-net-ve-keskin-planlari-var-43384221"
         },
         {
-          "title": "Galatasaray MCT Technic 88-81 Legia Varşova (Basketbol Şampiyonlar Ligi)",
-          "summary": "Şampiyonlar Ligi B Grubu'nun 4. haftasında Galatasaray, konuk ettiği Polonya temsilcisi Legia Varşova'yı 88-81 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-mct-technic-88-81-legia-varsova-basketbol-sampiyonlar-ligi-43383089"
+          "title": "EuroLeague'de 12. haftanın MVP'si Sasha Vezenkov!",
+          "summary": "EuroLeague'de 12. hafta maçlarının en değerli oyuncusu (MVP), Olympiakos forması giyen Sasha Vezenkov oldu",
+          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-12-haftanin-mvpsi-sasha-vezenkov-43384163"
         },
         {
-          "title": "Toni Kroos'tan yıllar sonra gelen Galatasaray itirafı: 'Çok özel ve harikaydı, halâ unutamadım!'",
-          "summary": "Real Madrid ve Almanya'nın efsane oyuncularından Toni Kroos, katıldığı bir programda Galatasaray taraftarının yarattığı atmosfere övgüler yağdırdı. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/toni-kroostan-yillar-sonra-gelen-galatasaray-itirafi-cok-ozel-ve-harikaydi-hala-unutamadim-43383035"
+          "title": "Real Madrid, Tchouameni'nin sözleşmesini uzattı",
+          "summary": "İspanya LaLiga ekiplerinden Real Madrid, 26 yaşındaki Kamerun asıllı Fransız orta saha oyuncusu Aurelien Tchouameni'nin sözleşmesinin 2032'ye kadar uzatıldığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madrid-tchouameninin-sozlesmesini-uzatti-43384073"
         },
         {
-          "title": "Galatasaray'dan Başakşehir Fatih Terim Stadı'ndaki Samsunspor maçı için bilet açıklaması",
-          "summary": "Galatasaray, Süper Lig'in 12. haftasında Başakşehir Fatih Terim Stadı'nda oynanacak Samsunspor mücadelesi için kombine kart sahibi taraftarlarına öncelikli bilet hakkı tanınacağını açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-basaksehir-fatih-terim-stadindaki-samsunspor-maci-icin-bilet-aciklamasi-43382949"
+          "title": "Aras Kargo'nun oyuncuları ve teknik ekibi gıda zehirlenmesi şüphesiyle tedavi altına alındı!",
+          "summary": "Sultanlar Ligi ekiplerinden Aras Kargo, oyuncular ve teknik ekibin gıda zehirlenmesi şüphesiyle tedavi altına alındığını ve 21 Kasım Cumartesi günü oynayacakları Fenerbahçe Medicana maçının ertelenmesi için başvuruda bulunulduğunu bildirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/aras-kargonun-oyunculari-ve-teknik-ekibi-gida-zehirlenmesi-suphesiyle-tedavi-altina-alindi-43384048"
         },
         {
-          "title": "Volkan Demirel: 'Ben Hatayspor'u düşürmedim'",
-          "summary": "Süper Lig ekiplerinden Gaziantep FK'nin teknik direktörü Volkan Demirel, takımdaki oyuncuların kalitesine ve şehrin desteğine güvendiğini belirterek, kırmızı-siyahlı ekibi üst sıralara taşımak istediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/volkan-demirel-ben-hataysporu-dusurmedim-43382893"
+          "title": "NBA Europe projesi tam gaz yola devam: 2027’den itibaren hayata geçecek!",
+          "summary": "NBA Başkan Yardımcısı Mark Tatum, NBA Europe projesi için 2027 kararlılığını tekrarlarken, EuroLeague ile anlaşma olmaması durumunda da yola devam edeceklerinin altını çizdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nba-europe-projesi-tam-gaz-yola-devam-2027den-itibaren-hayata-gececek-43383795"
         },
         {
-          "title": "A Milli Futbol Takımı, FIFA dünya sıralamasında iki basamak geriledi",
-          "summary": "A Milli Futbol Takımımız, FIFA tarafından açıklanan Kasım ayı dünya sıralamasında 1.556 puanla 33. sırada yer aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimi-fifa-dunya-siralamasinda-iki-basamak-geriledi-43382803"
+          "title": "Vincent Kompany 'Sağlık durumum çok iyi!'",
+          "summary": "Bayern Münih Teknik Direktörü Vincent Kompany, cumartesi günü oynayacakları Köln maçı öncesi açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincent-kompany-saglik-durumum-cok-iyi-43383963"
         },
         {
-          "title": "Fenerbahçe Tarfin'den Nicolo Melli ve Braxton Key için açıklama!",
-          "summary": "Fenerbahçe Tarfin, Nicolo Melli ve Braxton Key’in sağlık durumları hakkında açıklamada bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfinden-nicolo-melli-ve-braxton-key-icin-aciklama-43382707"
+          "title": "Lukaku'nun maaşı belli oldu! Fenerbahçe'den ayrılık ihtimali",
+          "summary": "Fenerbahçe'nin sezon başında kadrosuna kattığı Lukaku, şimdiye dek isteneni veremedi. Bununla beraber Lukaku için Belçika basınından transfer iddiası gündeme geldi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/lukakunun-maasi-belli-oldu-fenerbahceden-ayrilik-ihtimali-43383855"
         }
       ]
     },
     "teknoloji": {
-      "text": "GTA 6 çılgınlığı dünyayı sardı. GTA 6 heyecanı sürerken PlayStation'da erişim sorunu. Saç çıkartan tarak icat edildi. 28 günde yüzde 98'i geri çıkıyor. GTA 6 çıkmadan dünyayı ayağa kaldırdı. Oyuna saatler önce girmek için 'Yeni Zelanda Hilesi' patladı. OpenAI'a Hugging Face davası: Halkı tehlikeye attığı ileri sürüldü. Vulcan roketi havada arızalandı, uzay kargosu kayboldu. GTA 6 ne zaman çıkacak? Oyunseverler için geri sayım başladı.",
+      "text": "Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat. GTA 6 çılgınlığı dünyayı sardı. GTA 6 heyecanı sürerken PlayStation'da erişim sorunu. Saç çıkartan tarak icat edildi. 28 günde yüzde 98'i geri çıkıyor. GTA 6 çıkmadan dünyayı ayağa kaldırdı. Oyuna saatler önce girmek için 'Yeni Zelanda Hilesi' patladı. OpenAI'a Hugging Face davası: Halkı tehlikeye attığı ileri sürüldü. Vulcan roketi havada arızalandı, uzay kargosu kayboldu.",
       "items": [
+        {
+          "title": "Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat",
+          "summary": "Fotoğraf ve video paylaşım uygulaması Instagram, paylaşımdan sonra hikayelerde düzenleme yapılmasına imkan tanıyan özelliği hayata geçirdiğini ancak 15 dakikalık zaman sınırı olduğunu duyurdu. Instagram'ın son güncellemesiyle artık kullanıcılar, gönderdikleri bir hikaye üzerinde 15 dakika içinde düzeltme, düzenleme yapabilecek.",
+          "source": "https://www.ntv.com.tr/teknoloji/instagram-hikayeleri-artik-paylasimdan-sonra-duzenlenebilecek-zaman-sinirina-dikkat-1751626"
+        },
         {
           "title": "GTA 6 çılgınlığı dünyayı sardı",
           "summary": "Oyun dünyasının yıllardır beklediği gün geldi. Dünyanın dört bir yanında kademeli olarak piyasaya sürülen GTA 6, Türkiye'de gece yarısı itibarıyla erişime açıldı. Oyunseverlerin 13 yıllık bekleyişi sona erdi. Rockstar Games'in merakla beklenen oyunu Grand Theft Auto VI'yı (GTA 6), dünyanın dört bir yanında, ülkelerin yerel saatlerine göre kademeli olarak oynanabilir hale gelmeye başladı. Hayranları, Türkiye'de erişime açılmasıyla birlikte oyun kafelere giderek yıllardır yolunu gözledikleri GTA 6'yı oynadı.",
@@ -195,17 +200,17 @@
           "title": "Vulcan roketi havada arızalandı, uzay kargosu kayboldu",
           "summary": "Boeing ve Lockheed Martin'in Vulcan roketi, uzaya fırlatıldıktan 10 dakika sonra arızalandı. Roketin taşıdığı Amazon'un 40 internet uydusu yok oldu. ABD'li havacılık ve savunma şirketleri Boeing ile Lockheed Martin'in ortak girişimi United Launch Alliance'a (ULA) ait Vulcan roketi, Florida'daki Cape Canaveral Uzay Kuvvetleri Üssü'nden fırlatıldıktan kısa süre sonra arızalandı. Roket havalandıktan yaklaşık 10 dakika sonra meydana gelen arızanın nedeni henüz belirlenemedi.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-vulcan-roketi-havada-arizalandi-uzay-kargosu-kayboldu-1751052"
-        },
-        {
-          "title": "GTA 6 ne zaman çıkacak? Oyunseverler için geri sayım başladı",
-          "summary": "Oyun dünyasının gelmiş geçmiş en büyük ve en çok beklenen yapımlarından biri olan Grand Theft Auto VI (GTA 6) için heyecan dorukta. Vice City sokaklarına geri dönüşü müjdeleyen yapım öncesinde milyonlarca oyuncu arama motorlarında \"GTA 6 ne zaman çıkacak, çıkış tarihi kesinleşti mi, GTA 6 hangi platformlara gelecek, PC sürümü aynı anda çıkacak mı?\" sorularına yanıt arıyor. İşte Rockstar Games belirtilen GTA 6 çıkış tarihi GTA 6 NE ZAMAN ÇIKACAK?",
-          "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-ne-zaman-cikacak-oyunseverler-icin-geri-sayim-basladi-1750998"
         }
       ]
     },
     "saglik": {
-      "text": "Balık nasıl saklanır? Temizleyip, poşete sarıyorsanız dikkat. En doğru ve sağlıklı yöntem buymuş. Avrupa Birliği pankreas kanserine karşı yeni ilaca onay verdi. Uzmanlar açıkladı: Bitter çikolata insan sağlığına faydalı mı?. Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?. Bu gıdalar mikroplastikleri vücuttan atıyor. ABD'den uyarı: Zayıflama ilaçlarında körlük riski. ABD uyardı. Ozempic ve Mounjaro kör edebilir, üstelik tedavisi de yok.",
+      "text": "Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor. Balık nasıl saklanır? Temizleyip, poşete sarıyorsanız dikkat. En doğru ve sağlıklı yöntem buymuş. Avrupa Birliği pankreas kanserine karşı yeni ilaca onay verdi. Uzmanlar açıkladı: Bitter çikolata insan sağlığına faydalı mı?. Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?. Bu gıdalar mikroplastikleri vücuttan atıyor. ABD'den uyarı: Zayıflama ilaçlarında körlük riski.",
       "items": [
+        {
+          "title": "Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor",
+          "summary": "Sivas'ta havaların soğumasıyla beraber bağışıklığı güçlendiren ve antibiyotik özelliği bulunan sofraların vazgeçilmezi turşular tezgahlardaki yerini aldı. Sivas'ta havanın soğumasıyla birlikte sofralarda salataların yerini turşular almaya başladı. Mevsiminde toplanan taze meyve ve sebzelerden kurulan turşular, vatandaşların yoğun ilgisini görüyor. Kış aylarına hazırlık sürecinin başlamasıyla birlikte şehirdeki turşu tezgâhları hareketlendi.",
+          "source": "https://www.ntv.com.tr/saglik/dogal-antibiyotik-tezgahta-bagisikligini-guclendirmek-isteyenler-yogun-ilgi-gosteriyor-1751603"
+        },
         {
           "title": "Balık nasıl saklanır? Temizleyip, poşete sarıyorsanız dikkat. En doğru ve sağlıklı yöntem buymuş",
           "summary": "Balık vücut sağlığı için oldukça önemli bir besin. Bu nedenle bilinçli ve zamanında tüketilmesi gerekiyor. Ancak balığın tüketimi kadar doğru saklama koşulları da sağlık açısından büyük önem taşıyor. Balık yüksek besin değeriyle vücut sağlığı için gerekli besin kaynakları arasında yer alıyor. Protein, omega-3 ve omega-6 yağ asitlerini içinde barındıran D, B, A ve E vitaminleri bakımından zengin olan balık bağışıklık sisteminden, Alzheimer hastalığına kadar pek çok faydasıyla dikkat çekiyor.",
@@ -235,17 +240,17 @@
           "title": "ABD'den uyarı: Zayıflama ilaçlarında körlük riski",
           "summary": "ABD FDA, zayıflama iğnelerinin nadir de olsa ciddi göz hastalığına ve görme kaybına yol açabileceği uyarısının ilaç etiketlerine eklenmesini istedi.",
           "source": "https://www.ntv.com.tr/saglik/video-abdden-uyari-zayiflama-ilaclarinda-korluk-riski-1750508"
-        },
-        {
-          "title": "ABD uyardı. Ozempic ve Mounjaro kör edebilir, üstelik tedavisi de yok",
-          "summary": "Dünyada ve Türkiye'de kullanımı giderek artan zayıflama iğneleri ve ilaçlarıyla ilgili ABD'den bir uyarı geldi. İlaçların çok nadir de olsa görme kaybına yol açabileceği belirtiliyor. Amerika Birleşik Devletleri (ABD) Gıda ve İlaç Dairesi FDA Ozempic, Wegovy ve Mounjaro gibi diyabet ve kilo verme tedavisinde kullanılan ilaçlara yeni bir güvenlik uyarısı getirdi.",
-          "source": "https://www.ntv.com.tr/saglik/galeri-abdden-uyari-geldi-ozempic-ve-mounjaro-kor-edebilir-ustelik-tedavisi-de-yok-1750500"
         }
       ]
     },
     "magazin": {
-      "text": "Yıllar sonra.",
+      "text": "Önce sohbet sonra çekim. Yıllar sonra.",
       "items": [
+        {
+          "title": "Önce sohbet sonra çekim",
+          "summary": "Anıl Altan önceki gün Galataport İstanbul’da görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/kelebek/televizyon/once-sohbet-sonra-cekim-43383758"
+        },
         {
           "title": "Yıllar sonra",
           "summary": "Helin Avşar uzun aranın ardından Yeniköy’de görüntülendi. 49 yaşındaki ünlü isim, iki örgü yaptığı saçlarıyla dikkat çekti.",
