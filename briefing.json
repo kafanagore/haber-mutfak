@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-20T10:00:03.715Z",
+  "generatedAt": "2026-11-21T16:00:04.523Z",
   "categories": {
     "gundem": {
-      "text": "Alacak verecek kavgasında iş insanını öldüren sanığa kendini koruduğu gerekçesiyle beraat. Sözcü soruşturmasında yeni gelişme. Kayıp araması yasak aşk cinayetini ortaya çıkardı: Öldürüp varilde yakmaya çalıştılar, Asi Nehri'ne attılar. Hatay'da vahşet: Varilin içinde yok etmeye çalıştılar. Cumhurbaşkanı Erdoğan, Yüreğir Belediye Başkan Vekili Tarık Özünal ile görüştü. Diyarbakır'da çekişmeli boşanma davasında karar: Tam kusurlu bulunan eşe, 10 milyon lira tazminat cezası. 33 ilde uyuşturucu operasyonu: 159 kişi tutuklandı.",
+      "text": "AK Parti Genel Sekreteri İnan: Dokunulmazlık zırhının arkasına saklanıyorlar. Güngören'de toprak altında kalan işçi kurtarıldı. MİT Başkanı İbrahim Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü. Bakan Gürlek: Faili meçhul olayların ve çözülemeyen davaların bir bir aydınlatıldığı bir aşamaya geldik. Rize'de Değirmendere kırmızı aktı. Bir işletmeye ceza kesildi. Niğde'de 25 yaşındaki genç, evinde ölü bulundu. Bilal Erdoğan: Arakan Müslümanlarının durumu içler acısı.",
       "items": [
         {
-          "title": "Alacak verecek kavgasında iş insanını öldüren sanığa kendini koruduğu gerekçesiyle beraat",
-          "summary": "Pendik'te alacak verecek tartışmasında çekmecesinden iki tabanca çıkaran iş adamı, arbede sırasında silahlardan birinin el değiştirmesiyle vurularak öldü. Sanık hakkında beraat kararı verildi. Olay, 10 Haziran 2025'te saat 17.00 sıralarında Sülüntepe Mahallesi'nde meydana geldi. İş insanı Aykut Karagöz ile arasında alacak verecek anlaşmazlığı bulunan Hamza Karaman, Karagöz'ün ofisine gelerek burada bulunan kişilerle görüşmeye başladı.",
-          "source": "https://www.ntv.com.tr/turkiye/alacak-verecek-kavgasinda-is-insanini-olduren-saniga-kendini-korudugu-gerekcesiyle-beraat-1751759"
+          "title": "AK Parti Genel Sekreteri İnan: Dokunulmazlık zırhının arkasına saklanıyorlar",
+          "summary": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, “Milletin malına uzanan kirli elleri korumak, rüşvet iddialarını ve mali skandalları örtmek için dokunulmazlıklar bir kalkan olamaz. Özgür Özel ve yakın ekibi, milletin alın teriyle ve belediye kaynaklarıyla anılan bu ağır rüşvet ve usulsüzlük iddiaları karşısında çıkıp hesap vermek yerine, korkakça dokunulmazlık zırhının arkasına saklanıyorlar\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-sekreteri-inan-dokunulmazlik-zirhinin-arkasina-saklaniyorlar-43386410"
         },
         {
-          "title": "Sözcü soruşturmasında yeni gelişme",
-          "summary": "Sözcü TV sahibi Burak Akbay'a yönelik yürütülen FETÖ soruşturması kapsamında gözaltına alınan kanal yetkilileri adliyeye sevk edildi. Sözcü TV binasına 17 Kasım'da operasyon düzenlendi. İstanbul Cumhuriyet Başsavcılığı'nın konuya ilişkin yaptığı açıklamada kanalın sahibi Burak Akbay hakkında geçmişte sürdürülen soruşturmalarla ilgili yeni ihbarların geldiği ve FETÖ ile bağlantılı para hareketleri olduğu iddialarına yer verildi.",
-          "source": "https://www.ntv.com.tr/turkiye/sozcu-sorusturmasinda-yeni-gelisme-1751735"
+          "title": "Güngören'de toprak altında kalan işçi kurtarıldı",
+          "summary": "Güngören'de bir inşaatın temel çalışmaları sırasında toprak altında kalan işçi kurtarılarak hastaneye kaldırıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/gungorende-toprak-altinda-kalan-isci-kurtarildi-43386399"
         },
         {
-          "title": "Kayıp araması yasak aşk cinayetini ortaya çıkardı: Öldürüp varilde yakmaya çalıştılar, Asi Nehri'ne attılar",
-          "summary": "Hatay'da polis ekiplerinin kayıp olarak aradığı 40 yaşındaki Ahmet Nuri Bezar'ın, görüştüğü M.K. ve eşi E.C.K. tarafından planlı şekilde bıçaklanarak öldürüldüğü belirlendi. Dalgıç polislerin Asi Nehri'nde çuval içinde bulduğu cesetle ilgili karı koca ve 5 aile üyesi adliyeye sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kayip-aramasi-yasak-ask-cinayetini-ortaya-cikardi-oldurup-varilde-yakmaya-calistilar-asi-nehrine-attilar-43384909"
+          "title": "MİT Başkanı İbrahim Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
+          "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul’da Hamas Siyasi Büro Başkanı Halil el-Hayye başkanlığındaki üst düzey heyetle bir araya geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/mit-baskani-ibrahim-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu-43386373"
         },
         {
-          "title": "Hatay'da vahşet: Varilin içinde yok etmeye çalıştılar",
-          "summary": "Hatay'da kayıp olarak aranan adamın, ilişki yaşadığı kadın ve eşi tarafından varil içinde yakılmaya çalışıldığı ortaya çıktı. Şüphelilerin yok edemedikleri cesedi, Asi Nehri'ne attıkları belirlendi. Hatay'da kayıp olarak aranan adamın korkunç bir cinayete kurban gittiği belirlendi. Kars'ta yaşayan 40 yaşındaki Ahmet Nuri Bezar, birliktelik yaşadığı M.K. isimli kadınla görüşmek için Antakya ilçesine geldi. Görüşme üzerine M.K. isimli kadının eşi E.C.K., Bezar ve eşinin arasında ilişki olduğunu öğrendi.",
-          "source": "https://www.ntv.com.tr/turkiye/hatayda-vahset-varilin-icinde-yok-etmeye-calistilar-1751760"
+          "title": "Bakan Gürlek: Faili meçhul olayların ve çözülemeyen davaların bir bir aydınlatıldığı bir aşamaya geldik",
+          "summary": "Adalet Bakanı Akın Gürlek, \"Adliyelerimizin teknolojik yatırımlarla donatıldığı, personel sorunlarının tamamen ortadan kaldırıldığı, insan onuruna yakışır fiziki şartların oluşturulduğu, vatandaşımızın 'Alo 135' hattı ile yargısal bilgilendirmeleri anında aldığı, dijital kolaylıklarla süreçlerin daha kolay işlediği, kriminal inceleme ve adli tıp birimlerinin en donanımlı hale geldiği, faili meçhul olayların ve çözülemeyen davaların bir bir aydınlatıldığı bir aşamaya geldik.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-faili-mechul-olaylarin-ve-cozulemeyen-davalarin-bir-bir-aydinlatildigi-bir-asamaya-geldik-43386364"
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Yüreğir Belediye Başkan Vekili Tarık Özünal ile görüştü",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Yüreğir Belediye Başkan Vekili Tarık Özünal’ı kabul etti. Tarık Özünal, görüşmede Yüreğir'de yapılan hizmetler ve hayata geçirilecek yeni projeler hakkında bilgi sundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-yuregir-belediye-baskan-vekili-tarik-ozunal-ile-gorustu-43384905"
+          "title": "Rize'de Değirmendere kırmızı aktı. Bir işletmeye ceza kesildi",
+          "summary": "Rize kent merkezinden geçerek Karadeniz'e dökülen Değirmendere, kırmızı renkte akmaya başladı. Rize Valiliği, kontrolsüz deşarj gerçekleştiren bir tesisin tespit edildiğini açıkladı. Edinilen bilgiye göre olay, Rize merkez güzergâhında öğle saatlerinde meydana geldi. Şehir merkezinden geçerek denize ulaşan Değirmendere Deresi'nin suyunun rengi aniden kırmızıya döndü. Görüntülerin ilgili birimlere ulaşmasının ardından Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ekiplerince bölgede denetim gerçekleştirildi.",
+          "source": "https://www.ntv.com.tr/turkiye/rizede-degirmendere-kirmizi-akti-bir-isletmeye-ceza-kesildi-1751945"
         },
         {
-          "title": "Diyarbakır'da çekişmeli boşanma davasında karar: Tam kusurlu bulunan eşe, 10 milyon lira tazminat cezası",
-          "summary": "Diyarbakır'da çekişmeli boşanma davasında, mahkeme çifti boşanmaya götüren olaylarda kocayı, \"sözlü şiddet, hakaret, tehdit ve güven sarsıcı hareketleri\" nedeniyle tam kusurlu buldu. Kararı değerlendiren avukat Zeynep Aysan, \"Anneye velayeti verilen çocuklar lehine iştirak ve tedbir, müvekkilim lehine de yoksulluk nafakasına hükmedilmiştir. Kocanın 10 milyon lira tazminat ödemesine hükmedildi. Mahkeme emsal mahiyetteki miktarda tazminata hükmetmiştir\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-cekismeli-bosanma-davasinda-karar-tam-kusurlu-bulunan-ese-10-milyon-lira-tazminat-cezasi-43384879"
+          "title": "Niğde'de 25 yaşındaki genç, evinde ölü bulundu",
+          "summary": "Niğde'nin Sazlıca beldesinde 25 yaşındaki Kuddusi Yılmaz, ailesiyle yaşadığı evinde ölü bulundu. Olaya ilişkin soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/nigdede-25-yasindaki-genc-evinde-olu-bulundu-43386335"
         },
         {
-          "title": "33 ilde uyuşturucu operasyonu: 159 kişi tutuklandı",
-          "summary": "İçişleri Bakanlığı, 33 ilde 'Uyuşturucu madde satıcılarına ve yasa dışı kenevir ekimine' yönelik düzenlenen operasyonlarda 254 şüphelinin yakalandığını, 159'unun tutuklandığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/33-ilde-uyusturucu-operasyonu-159-kisi-tutuklandi-43384878"
+          "title": "Bilal Erdoğan: Arakan Müslümanlarının durumu içler acısı",
+          "summary": "İstanbul'da 25-28 Kasım'da düzenlenecek 5. Uluslararası Sivil Toplum Kuruluşları (STK) Fuarı'nın detayları, Türkiye Gönüllü Teşekküller Vakfı (TGTV) Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan'ın katıldığı basın toplantısında paylaşıldı. Öte yandan bir gazetecinin sorusunu yanıtlayan Bilal Erdoğan, 'Arakan Müslümanlarının yaşadıklarının bir soykırım olduğunu ve bunun bir devlet tarafından organize edildiğini mahkeme, Uluslararası Adalet Divanı kararlaştırmış oldu.",
+          "source": "https://www.hurriyet.com.tr/gundem/bilal-erdogan-arakan-muslumanlarinin-durumu-icler-acisi-43386331"
         }
       ]
     },
     "dunya": {
-      "text": "Polonya hava sahasında alarm: Tanımlanamayan cisim tespit edildi. İyi bir uyku çekmenin yeni yöntemi: Ezberleri bozan araştırma sonuçları yayınlandı. Çin basını, APEC liderler zirvesini nasıl değerlendirdi?. Kuzey Kore lideri Kim Trump'ı görmezden geldi: ABD Başkanı'na 'sessiz' yanıt. California'da 5 büyüklüğünde deprem. Anne babasını huzurevine gitmesinler diye öldürdü: Cinayet yöntemi 'pes' dedirtti. Şapka yutan su aygırı hayatını kaybetti.",
+      "text": "İran, ABD'ye ait F-16 savaş uçağının vurulduğunu iddia etti, ABD yalanladı. Japonya'da kar fırtınası: Bin 400 kişi mahsur kaldı. Aldatan eşini robot süpürgeyle kaydeden kocaya hapis cezası. Japonya'da yanardağ patlaması: Dumanlar bin 200 metre yüksekliğe ulaştı. İran Cumhurbaşkanı Pezeşkiyan: 'Sessiz savaş veriyoruz'. Finlandiya Körfezi'nde İHA saldırısı. FBI'a ikinci siber saldırı.",
       "items": [
         {
-          "title": "Polonya hava sahasında alarm: Tanımlanamayan cisim tespit edildi",
-          "summary": "Polonya'da hava sahasının ihlal edilmesi nedeniyle alarm verildi. Tanımlanamayan bir cismin Ukrayna sınırı yakınlarında düştüğü şüphesiyle arama çalışmaları başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/polonya-hava-sahasinda-alarm-tanimlanamayan-cisim-tespit-edildi-43384901"
+          "title": "İran, ABD'ye ait F-16 savaş uçağının vurulduğunu iddia etti, ABD yalanladı",
+          "summary": "İran Ordusu dün akşam ülkenin güneyinde ABD’ye ait bir F-16 savaş uçağına füze ile atış yapıldığını ve uçağın zarar gördüğünü öne sürdü. CENTCOM ise bu iddiaları yalanladı. İran devlet televizyonunun İran Ordusu’nun açıklamasına dayandırdığı haberinde, ABD’ye ait bir F-16 savaş uçağına füze ile atış yapıldığı ve uçağın zarar gördüğü belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/iran-abdye-ait-f-16-savas-ucaginin-vuruldugunu-iddia-etti-abd-yalanladi-1751948"
         },
         {
-          "title": "İyi bir uyku çekmenin yeni yöntemi: Ezberleri bozan araştırma sonuçları yayınlandı",
-          "summary": "Bilim insanları, beynin gece boyunca çalışan temizleme sistemini güçlendirmenin dahiyane bir yolunu keşfetti. Beyinde biriken atık maddelerin temizlenmesi için geliştirilen yöntem, uyku bozukluğundan Alzheimer ve Parkinson hastalıklarının tedavisine kadar pek çok hastalığın tedavisinde umut vadediyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/iyi-bir-uyku-cekmenin-yeni-yontemi-ezberleri-bozan-arastirma-sonuclari-yayinlandi-43384875"
+          "title": "Japonya'da kar fırtınası: Bin 400 kişi mahsur kaldı",
+          "summary": "Japonya'nın kuzeydoğusundaki Fukuşima eyaleti yoğun kar yağışının etkisi altına girdi. Kar yağışı nedeniyle bölgede ağaçlar devrildi, yollar kapadı. Eyalette 700 haneye elektrik verilemezken 1400 kişinin mahsur kaldığı kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/japonyada-kar-firtinasi-bin-400-kisi-mahsur-kaldi-43386378"
         },
         {
-          "title": "Çin basını, APEC liderler zirvesini nasıl değerlendirdi?",
-          "summary": "ABD, Çin ve Rusya liderlerinin Shenzhen kentinde gerçekleştirdiği üçlü görüşme, Çin medyasında Şi Cinping'in barış çabalarının sonucu olarak geniş yer buldu. ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin'in Shenzhen kentinde bu hafta gerçekleştirdiği üçlü görüşme, Çin basınında geniş yer tuttu. Çin medyası, ilk kez düzenlenen bu zirveyi Şi'nin barışa olan bağlılığı sayesinde gerçekleşen \"verimli\" ve tarihi buluşma olarak öne çıkardı.",
-          "source": "https://www.ntv.com.tr/dunya/cin-basini-apec-liderler-zirvesini-nasil-degerlendirdi-1751756"
+          "title": "Aldatan eşini robot süpürgeyle kaydeden kocaya hapis cezası",
+          "summary": "Eşine şaka yapmak için evdeki robot süpürgeye uzaktan bağlanan adam hayatının şokunu yaşadı. Süpürgenin kaydettiği görüntülerde eşinin başka birisiyle birlikte olduğunu gören koca, tazminat davası için mahkemeye başvurduğunda beklemediği bir sonuçla karşılaştı.",
+          "source": "https://www.hurriyet.com.tr/dunya/aldatan-esini-robot-supurgeyle-kaydeden-kocaya-hapis-cezasi-43386053"
         },
         {
-          "title": "Kuzey Kore lideri Kim Trump'ı görmezden geldi: ABD Başkanı'na 'sessiz' yanıt",
-          "summary": "ABD Başkanı Donald Trump, Kuzey Kore lideri Kim Jong Un ile görüşmek için Pyongyang'ın kapısını defalarca çaldı. Ancak Kim bir kayak merkezini, kutsal bir dağı ve ardından bir denizcilik üniversitesini ziyaret etmekle meşguldü. Trump, Çin ve Rusya başkanlarıyla gerçekleştirdiği tarihi üçlü görüşmenin ardından perşembe günü geç saatlerde Kim ile görüşme yapmadan Asya'dan ayrıldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kuzey-kore-lideri-kim-trumpi-gormezden-geldi-abd-baskanina-sessiz-yanit-43384808"
+          "title": "Japonya'da yanardağ patlaması: Dumanlar bin 200 metre yüksekliğe ulaştı",
+          "summary": "Japonya'daki Sakurajima Yanardağı'nda patlama meydana geldi. Yanardağ bin 200 metre yüksekliğe ulaşan duman püskürttü.",
+          "source": "https://www.hurriyet.com.tr/dunya/japonyada-yanardag-patlamasi-dumanlar-bin-200-metre-yukseklige-ulasti-43386343"
         },
         {
-          "title": "California'da 5 büyüklüğünde deprem",
-          "summary": "ABD'nin California eyaletinde 5 büyüklüğünde deprem meydana geldiği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/californiada-5-buyuklugunde-deprem-43384755"
+          "title": "İran Cumhurbaşkanı Pezeşkiyan: 'Sessiz savaş veriyoruz'",
+          "summary": "İran'ın ekonomik anlamda bir \"sessiz savaş\" verdiğini belirten Cumhurbaşkanı Mesud Pezeşkiyan, ülkede üretim ve yatırımın sürdürülmesi için halkın ortak çaba göstermesi gerektiğini belirtti. Pezeşkiyan, ekonomik cephedeki savaşın \"füzeler atılan bir savaştan çok daha zor olduğunu\" kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-cumhurbaskani-pezeskiyan-sessiz-savas-veriyoruz-43386327"
         },
         {
-          "title": "Anne babasını huzurevine gitmesinler diye öldürdü: Cinayet yöntemi 'pes' dedirtti",
-          "summary": "Anne babasını insülin iğnesiyle öldüren kadın cinayetleri Tanrı'ya itiraf etti. Dinleme cihazına yakalanan itiraf anında korkunç planını açıklayan şahıs suçlu bulunarak cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/anne-babasini-huzurevine-gitmesinler-diye-oldurdu-cinayet-yontemi-pes-dedirtti-43384713"
+          "title": "Finlandiya Körfezi'nde İHA saldırısı",
+          "summary": "Rusya, Finlandiya Körfezi'nde bir yük gemisinin Kaliningrad şehrine doğru seyrettiği sırada 2 insansız hava aracına (İHA) hedef olduğunu kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/finlandiya-korfezinde-iha-saldirisi-43386300"
         },
         {
-          "title": "Şapka yutan su aygırı hayatını kaybetti",
-          "summary": "Meşhur su aygırı Fiona yuttuğu şapkanın sindirim sistemini bozması nedeniyle yaşamını yitirdi. ABD'nin Ohio eyaletindeki Cincinnati Hayvanat Bahçesi'nde yaşayan Fiona, tüm müdahalelere rağmen kurtarılmadı.",
-          "source": "https://www.hurriyet.com.tr/dunya/sapka-yutan-su-aygiri-hayatini-kaybetti-43384674"
+          "title": "FBI'a ikinci siber saldırı",
+          "summary": "ABD İç istihbarat teşkilatı FBI, bir haftada ikinci siber saldırının hedefi oldu. Korsanlar FBI'ın ulusal suçlu bilgileri veri tabanını hackledi. Washington yönetimi hava ulaşımı, bankacılık ve ulusal güvenlik sistemlerini kilitleyen kesinti ve hacker saldırılarının ardından Beyaz Saray Ulusal Siber Direktörü Sean Cairncross'un görevden alınması sonrası yeni bir siber güvenlik krizi yaşıyor. ABD İç istihbarat teşkilatı FBI bir hafta içinde ikinci kez siber saldırıya hedef oldu.",
+          "source": "https://www.ntv.com.tr/dunya/fbia-ikinci-siber-saldiri-1751838"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Fenerbahçe Başkanı Aziz Yıldırım'dan Arda Güler'e tebrik mektubu!. Fenerbahçe'nin transfer hedefi için bonservis belirlendi! Yüzde 70'e 20 milyon. Galatasaray'ın konuğu Samsunspor!. Fenerbahçe'de Kocaelispor maçı öncesi 3 eksik!. Beşiktaş ile Anadolu Efes, EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli’de. Valencia'dan Tammy Abraham hamlesi!. Fenerbahçe, Bayern Münih ile görüştü! Kiralama seçeneği masada.",
+      "text": "Samsunspor Başkanı Yüksel Yıldırım'dan tepki: 'VAR'da doğradılar'. Galatasaray'dan 42 maçlık rekor!. Uğurcan Çakır: 'Bu ay zor ve kritik!'. Okan Buruk, Beşiktaş derbisinde yok! Son düdükle kırmızı kart: 'Elini sıkmadı diye'. Galatasaray-Samsunspor maçında ofsayt tartışması! Çok konuşulan karar. Bernd Storck: 'Bu galibiyeti biz hak ettik!'. Gökhan Kağıtçıoğlu: 'Golü bulamadık, kaybettik!'.",
       "items": [
         {
-          "title": "Fenerbahçe Başkanı Aziz Yıldırım'dan Arda Güler'e tebrik mektubu!",
-          "summary": "Real Madrid ile sözleşmesi 2032 yılına kadar uzatılan Arda Güler'e Fenerbahçe Başkanı Aziz Yıldırım tebrik mektubu yazdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-baskani-aziz-yildirimdan-arda-gulere-tebrik-mektubu-43384902"
+          "title": "Samsunspor Başkanı Yüksel Yıldırım'dan tepki: 'VAR'da doğradılar'",
+          "summary": "Samsunspor Başkanı Yüksel Yıldırım, Galatasaray'a 2-1 mağlup oldukları maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-baskani-yuksel-yildirimdan-tepki-varda-dogradilar-43386411"
         },
         {
-          "title": "Fenerbahçe'nin transfer hedefi için bonservis belirlendi! Yüzde 70'e 20 milyon",
-          "summary": "Fenerbahçe'nin ocak ayında kadrosuna katmak istediği genç futbolcu için kulüp yönetimi kararını verdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-transfer-hedefi-icin-bonservis-belirlendi-yuzde-70e-20-milyon-43384752"
+          "title": "Galatasaray'dan 42 maçlık rekor!",
+          "summary": "Galatasaray, Samsunspor maçıyla bu sezon üst üste 7. galibiyetini elde ederken, ligde iç sahadaki yenilmezliğini de 42 maça çıkardı ve kulüp rekorunu kırdı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-42-maclik-rekor-43386409"
         },
         {
-          "title": "Galatasaray'ın konuğu Samsunspor!",
-          "summary": "Lider Galatasaray, Süper Lig'in 12. haftasında yarın Samsunspor'u konuk edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-konugu-samsunspor-43384721"
+          "title": "Uğurcan Çakır: 'Bu ay zor ve kritik!'",
+          "summary": "Galatasaray'da Wilfried Singo, Uğurcan Çakır ve Kaan Ayhan, Samsunspor galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ugurcan-cakir-bu-ay-zor-ve-kritik-43386401"
         },
         {
-          "title": "Fenerbahçe'de Kocaelispor maçı öncesi 3 eksik!",
-          "summary": "Fenerbahçe, Süper Lig'in 12. haftasında yarın Kocaelispor'la deplasmanda karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-kocaelispor-maci-oncesi-3-eksik-43384687"
+          "title": "Okan Buruk, Beşiktaş derbisinde yok! Son düdükle kırmızı kart: 'Elini sıkmadı diye'",
+          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Samsunspor maçının bitiş düdüğünün ardından kırmızı kart gördü. Buruk, gelecek hafta oynanacak Beşiktaş derbisinde kulübedeki yerini alamayacak.",
+          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-besiktas-derbisinde-yok-son-dudukle-kirmizi-kart-elini-sikmadi-diye-43386387"
         },
         {
-          "title": "Beşiktaş ile Anadolu Efes, EuroLeague sahnesinde! Maçların heyecanı canlı yayın ile Misli’de",
-          "summary": "EuroLeague'in 13. haftasında temsilcilerimiz Anadolu Efes ve Beşiktaş parkeye çıkıyor. Maçların heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ile-anadolu-efes-euroleague-sahnesinde-maclarin-heyecani-canli-yayin-ile-mislide-43384700"
+          "title": "Galatasaray-Samsunspor maçında ofsayt tartışması! Çok konuşulan karar",
+          "summary": "Trendyol Süper Lig'in 12. haftasında Samsunspor ile karşılaşan Galatasaray'da Lucas Torreira'nın henüz 4. dakikada attığı gol, ofsayt tartışmalarına yol açtı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-samsunspor-macinda-ofsayt-tartismasi-cok-konusulan-karar-43386351"
         },
         {
-          "title": "Valencia'dan Tammy Abraham hamlesi!",
-          "summary": "Valencia'nın, Tammy Abraham'ı kiralamak için Aston Villa ile temasa geçtiği öne sürüldü.",
-          "source": "https://www.hurriyet.com.tr/sporarena/valenciadan-tammy-abraham-hamlesi-43384626"
+          "title": "Bernd Storck: 'Bu galibiyeti biz hak ettik!'",
+          "summary": "Gençlerbirliği Teknik Direktörü Bernd Storck, Gaziantep FK müsabakasının ardından, \"Bence bu galibiyeti biz hak ettik, bir mücadele ruhu ortaya koyduğumuzu düşünüyorum\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/bernd-storck-bu-galibiyeti-biz-hak-ettik-43386333"
         },
         {
-          "title": "Fenerbahçe, Bayern Münih ile görüştü! Kiralama seçeneği masada",
-          "summary": "Fenerbahçe, ara transfer sezonu için vites artırdı. Bu bağlamda Kanarya, Bayern Münih ile görüşmelere başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-bayern-munih-ile-gorustu-kiralama-secenegi-masada-43384559"
+          "title": "Gökhan Kağıtçıoğlu: 'Golü bulamadık, kaybettik!'",
+          "summary": "Gaziantep FK Teknik Sorumlusu Gökhan Kağıtçıoğlu, Gençlerbirliği karşılaşmasının ardından, \"İkinci yarı yine bir pozisyonumuz var; bir iki tane, özellikle Serdar'ın kafa vuruşu. Ama sonuç olarak golü bulamadık, kaybettik\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/gokhan-kagitcioglu-golu-bulamadik-kaybettik-43386294"
         }
       ]
     },
