@@ -1,55 +1,70 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-21T16:00:04.523Z",
+  "generatedAt": "2026-11-22T04:00:03.958Z",
   "categories": {
     "gundem": {
-      "text": "AK Parti Genel Sekreteri İnan: Dokunulmazlık zırhının arkasına saklanıyorlar. Güngören'de toprak altında kalan işçi kurtarıldı. MİT Başkanı İbrahim Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü. Bakan Gürlek: Faili meçhul olayların ve çözülemeyen davaların bir bir aydınlatıldığı bir aşamaya geldik. Rize'de Değirmendere kırmızı aktı. Bir işletmeye ceza kesildi. Niğde'de 25 yaşındaki genç, evinde ölü bulundu. Bilal Erdoğan: Arakan Müslümanlarının durumu içler acısı.",
+      "text": "Eskişehir'de parkta çıkan tartışma bıçaklı kavgaya dönüştü: 1 yaralı. Hatay’da 5 aracın karıştığı zincirleme kaza: 1 ölü, 10 yaralı. Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı. Bakan Fidan'dan vize açıklaması: Birkaç konunun Meclis'ten geçmesi gerekiyor. Bakan Kurum: Antalya Mutabakatı'nın son metnini sekretaryaya gönderdik. ‘Terörsüz Türkiye’de 3T formülü. MSB acı haberi duyurdu… Silah kazasında yaralanan Astsubay şehit oldu.",
       "items": [
         {
-          "title": "AK Parti Genel Sekreteri İnan: Dokunulmazlık zırhının arkasına saklanıyorlar",
-          "summary": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, “Milletin malına uzanan kirli elleri korumak, rüşvet iddialarını ve mali skandalları örtmek için dokunulmazlıklar bir kalkan olamaz. Özgür Özel ve yakın ekibi, milletin alın teriyle ve belediye kaynaklarıyla anılan bu ağır rüşvet ve usulsüzlük iddiaları karşısında çıkıp hesap vermek yerine, korkakça dokunulmazlık zırhının arkasına saklanıyorlar\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-sekreteri-inan-dokunulmazlik-zirhinin-arkasina-saklaniyorlar-43386410"
+          "title": "Eskişehir'de parkta çıkan tartışma bıçaklı kavgaya dönüştü: 1 yaralı",
+          "summary": "Tepebaşı ilçesi Batıkent Mahallesi'ndeki parkta karşılaşan iki grup arasında bilinmeyen nedenle çıkan tartışma kavgaya döndü. Saat 02.00 sıralarındaki olayda bıçakla yaralanan Bedirhan Y. hastaneye kaldırılırken, polis ekiplerinin olayla ilgili başlattığı soruşturma devam ediyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/eskisehirde-parkta-cikan-tartisma-bicakli-kavgaya-donustu-1-yarali-43386633"
         },
         {
-          "title": "Güngören'de toprak altında kalan işçi kurtarıldı",
-          "summary": "Güngören'de bir inşaatın temel çalışmaları sırasında toprak altında kalan işçi kurtarılarak hastaneye kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/gungorende-toprak-altinda-kalan-isci-kurtarildi-43386399"
+          "title": "Hatay’da 5 aracın karıştığı zincirleme kaza: 1 ölü, 10 yaralı",
+          "summary": "HATAY’ın Antakya ilçesinde 5 aracın karıştığı zincirleme kazada Elif Reyhan Örez (9) hayatını kaybetti, 2'si ağır 10 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/hatayda-5-aracin-karistigi-zincirleme-kaza-1-olu-10-yarali-43386632"
         },
         {
-          "title": "MİT Başkanı İbrahim Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
-          "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul’da Hamas Siyasi Büro Başkanı Halil el-Hayye başkanlığındaki üst düzey heyetle bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mit-baskani-ibrahim-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu-43386373"
+          "title": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı",
+          "summary": "Ticaret Bakanlığı, yanıltıcı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen ve \"Hep Ucuz\" ifadesini içeren reklamlar nedeniyle bir zincir markete 1 milyon 83 bin lira ceza verildi. Ticaret Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, sanal medya hesabından yaptığı açıklamada, Reklam Kurulu tarafından bir zincir marketin “Hep Ucuz” sloganıyla yayımladığı reklamların incelemeye alındığını belirtti.",
+          "source": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964"
         },
         {
-          "title": "Bakan Gürlek: Faili meçhul olayların ve çözülemeyen davaların bir bir aydınlatıldığı bir aşamaya geldik",
-          "summary": "Adalet Bakanı Akın Gürlek, \"Adliyelerimizin teknolojik yatırımlarla donatıldığı, personel sorunlarının tamamen ortadan kaldırıldığı, insan onuruna yakışır fiziki şartların oluşturulduğu, vatandaşımızın 'Alo 135' hattı ile yargısal bilgilendirmeleri anında aldığı, dijital kolaylıklarla süreçlerin daha kolay işlediği, kriminal inceleme ve adli tıp birimlerinin en donanımlı hale geldiği, faili meçhul olayların ve çözülemeyen davaların bir bir aydınlatıldığı bir aşamaya geldik.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-faili-mechul-olaylarin-ve-cozulemeyen-davalarin-bir-bir-aydinlatildigi-bir-asamaya-geldik-43386364"
+          "title": "Bakan Fidan'dan vize açıklaması: Birkaç konunun Meclis'ten geçmesi gerekiyor",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Schengen vizesi sorununun çözümüne ilişkin, “Tamamlamamız gereken birkaç konu var, Meclis’ten geçmesi gerekiyor, Cumhurbaşkanımız da talimat verdi.\" dedi. Dışişleri Bakanı Hakan Fidan, TGRT Haber canlı yayınında gündemi değerlendirdi. Bakan Fidan, Avrupa ile vize sorununun çözülebilmesi için Cumhurbaşkanı Erdoğan'ın talimat verdiğini belirterek, tamamlanması gereken birkaç tane konu olduğunu ve Meclis'ten geçmesi gerektiğini söyledi.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-fidandan-vize-aciklamasi-birkac-konu-meclisten-gecmesi-gerekiyor-1751968"
         },
         {
-          "title": "Rize'de Değirmendere kırmızı aktı. Bir işletmeye ceza kesildi",
-          "summary": "Rize kent merkezinden geçerek Karadeniz'e dökülen Değirmendere, kırmızı renkte akmaya başladı. Rize Valiliği, kontrolsüz deşarj gerçekleştiren bir tesisin tespit edildiğini açıkladı. Edinilen bilgiye göre olay, Rize merkez güzergâhında öğle saatlerinde meydana geldi. Şehir merkezinden geçerek denize ulaşan Değirmendere Deresi'nin suyunun rengi aniden kırmızıya döndü. Görüntülerin ilgili birimlere ulaşmasının ardından Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ekiplerince bölgede denetim gerçekleştirildi.",
-          "source": "https://www.ntv.com.tr/turkiye/rizede-degirmendere-kirmizi-akti-bir-isletmeye-ceza-kesildi-1751945"
+          "title": "Bakan Kurum: Antalya Mutabakatı'nın son metnini sekretaryaya gönderdik",
+          "summary": "COP31'de müzakereler ikinci geceye uzarken, COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya Mutabakatı'nın son karar metnini sekretaryaya gönderdiklerini açıkladı. Fosil yakıtlar ve uyum finansmanı konularında önemli ilerleme sağlandığını belirten Kurum, \"Sabah 10-1 0.30 itibarıyla genel kurulumuza örtü kararımızı getirmek istiyoruz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurum-antalya-mutabakatinin-son-metnini-sekretaryaya-gonderdik-43386630"
         },
         {
-          "title": "Niğde'de 25 yaşındaki genç, evinde ölü bulundu",
-          "summary": "Niğde'nin Sazlıca beldesinde 25 yaşındaki Kuddusi Yılmaz, ailesiyle yaşadığı evinde ölü bulundu. Olaya ilişkin soruşturma başlatıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/nigdede-25-yasindaki-genc-evinde-olu-bulundu-43386335"
+          "title": "‘Terörsüz Türkiye’de 3T formülü",
+          "summary": "Bakan Çiftçi, Terörsüz Türkiye hedefi kapsamında 3T diye ifade edilen “tespit, takip ve tasfiye” formülüne dayalı üç aşamalı güvenlik süreci yürüttüklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/terorsuz-turkiyede-3t-formulu-43386628"
         },
         {
-          "title": "Bilal Erdoğan: Arakan Müslümanlarının durumu içler acısı",
-          "summary": "İstanbul'da 25-28 Kasım'da düzenlenecek 5. Uluslararası Sivil Toplum Kuruluşları (STK) Fuarı'nın detayları, Türkiye Gönüllü Teşekküller Vakfı (TGTV) Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan'ın katıldığı basın toplantısında paylaşıldı. Öte yandan bir gazetecinin sorusunu yanıtlayan Bilal Erdoğan, 'Arakan Müslümanlarının yaşadıklarının bir soykırım olduğunu ve bunun bir devlet tarafından organize edildiğini mahkeme, Uluslararası Adalet Divanı kararlaştırmış oldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/bilal-erdogan-arakan-muslumanlarinin-durumu-icler-acisi-43386331"
+          "title": "MSB acı haberi duyurdu… Silah kazasında yaralanan Astsubay şehit oldu",
+          "summary": "MİLLİ Savunma Bakanlığı (MSB), Şırnak'ın Şenoba bölgesindeki 48'inci Hudut Tugay Komutanlığında meydana gelen silah kazasında yaralanan İstihbarat Astsubay Çavuş Yalın Gergün'ün kaldırıldığı hastanede şehit olduğunu duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/msb-aci-haberi-duyurdu-silah-kazasinda-yaralanan-astsubay-sehit-oldu-43386584"
         }
       ]
     },
     "dunya": {
-      "text": "İran, ABD'ye ait F-16 savaş uçağının vurulduğunu iddia etti, ABD yalanladı. Japonya'da kar fırtınası: Bin 400 kişi mahsur kaldı. Aldatan eşini robot süpürgeyle kaydeden kocaya hapis cezası. Japonya'da yanardağ patlaması: Dumanlar bin 200 metre yüksekliğe ulaştı. İran Cumhurbaşkanı Pezeşkiyan: 'Sessiz savaş veriyoruz'. Finlandiya Körfezi'nde İHA saldırısı. FBI'a ikinci siber saldırı.",
+      "text": "Fransa'da sokaklar yine karıştı. İran, Bahreyn'deki ABD üslerini hedef aldı. Batı Azerbaycan'da üst üste depremler. Trump’tan İran açıklaması: Kalıcı bir anlaşma yapacağım. Japonya'da kar fırtınası: Bin 400 kişi mahsur kaldı. Aldatan eşini robot süpürgeyle kaydeden kocaya hapis cezası. Japonya'da yanardağ patlaması: Dumanlar bin 200 metre yüksekliğe ulaştı.",
       "items": [
         {
-          "title": "İran, ABD'ye ait F-16 savaş uçağının vurulduğunu iddia etti, ABD yalanladı",
-          "summary": "İran Ordusu dün akşam ülkenin güneyinde ABD’ye ait bir F-16 savaş uçağına füze ile atış yapıldığını ve uçağın zarar gördüğünü öne sürdü. CENTCOM ise bu iddiaları yalanladı. İran devlet televizyonunun İran Ordusu’nun açıklamasına dayandırdığı haberinde, ABD’ye ait bir F-16 savaş uçağına füze ile atış yapıldığı ve uçağın zarar gördüğü belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/iran-abdye-ait-f-16-savas-ucaginin-vuruldugunu-iddia-etti-abd-yalanladi-1751948"
+          "title": "Fransa'da sokaklar yine karıştı",
+          "summary": "Avrupa'nın 25 ülkesine yayılan protestolar Fransa'da devam ediyor. Ülkenin en az 5 şehrinde polisle göstericiler karşı karşıya geldi, 144 kişi gözaltına alındı, onlarca yaralı var. Fransa'da hayat pahalılığı, eğitimin ücretli ve niteliksiz hale gelmesi, gelir adaletsizliği nedeniyle başlayan protestolar sürüyor. Eylül ayının başında başlayan eylemler son günlerde aralıksız devam etti. Ülke genelinde tansiyon gün geçtikçe daha da arttı.",
+          "source": "https://www.ntv.com.tr/dunya/fransada-sokaklar-yine-karisti-1751982"
+        },
+        {
+          "title": "İran, Bahreyn'deki ABD üslerini hedef aldı",
+          "summary": "Körfez bölgesinde gerginlik yükseliyor. İran Devrim Muhafızları, Bahreyn'deki iki ABD üssünü hedef aldığını duyurdu. Bahreyn BMGK'ya başvurdu. Devrim Muhafızları Ordusu, ABD üslerine yönelik saldırılara ilişkin bildiri yayımladı. Bildiride, ABD'ye ait MQ-1 ve MQ-9 tipi iki İHA'nın İran'ın hava sahasını ihlal etmesine karşılık, Bahreyn'de bulunan 2 ABD üssündeki Patriot hava savunma sistemlerine ait 2 radarın İHA ve füzelerle hedef alındığı ifade edildi.",
+          "source": "https://www.ntv.com.tr/dunya/iran-bahreyndeki-abd-uslerini-hedef-aldi-1751948"
+        },
+        {
+          "title": "Batı Azerbaycan'da üst üste depremler",
+          "summary": "İran'ın Batı Azerbaycan eyaletinde, Türkiye sınırına 35-40 kilometre mesafede en büyüğü 4.5 büyüklüğünde üç ayrı deprem meydana geldi. AFAD Deprem Dairesi'nin verilerine göre İran'ın Batı Azerbaycan eyaletinde saat 22.21'de 3.6, 00.25'te 4.5, 00.42'de ise 4.0 büyüklüğünde üç deprem oldu. İran sınırındaki Van'ın Özalp ilçesine 35 ila 40 kilometre mesafedeki depremler bölge genelinde de hissedildi. Derinliği 7 kilometre civarında olan depremlerin ardından herhangi bir olumsuzluk bildirilmedi.",
+          "source": "https://www.ntv.com.tr/dunya/bati-azerbaycanda-ust-uste-siddetli-depremler-1751977"
+        },
+        {
+          "title": "Trump’tan İran açıklaması: Kalıcı bir anlaşma yapacağım",
+          "summary": "ABD Başkanı Donald Trump, İran ile \"kalıcı\" bir anlaşma yapmak istediğini belirterek, \"Gelecek 4 yıl, 15 yıl ya da 20 yıl içinde başarısız bir başkanımız olursa diye 'kalıcı' olacak bir anlaşma yapacağım. Kimsenin İran’ın nükleer silah sahibi olmasını sağlamasına izin vermeyeceğim\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/trumptan-iran-aciklamasi-kalici-bir-anlasma-yapacagim-43386532"
         },
         {
           "title": "Japonya'da kar fırtınası: Bin 400 kişi mahsur kaldı",
@@ -65,21 +80,6 @@
           "title": "Japonya'da yanardağ patlaması: Dumanlar bin 200 metre yüksekliğe ulaştı",
           "summary": "Japonya'daki Sakurajima Yanardağı'nda patlama meydana geldi. Yanardağ bin 200 metre yüksekliğe ulaşan duman püskürttü.",
           "source": "https://www.hurriyet.com.tr/dunya/japonyada-yanardag-patlamasi-dumanlar-bin-200-metre-yukseklige-ulasti-43386343"
-        },
-        {
-          "title": "İran Cumhurbaşkanı Pezeşkiyan: 'Sessiz savaş veriyoruz'",
-          "summary": "İran'ın ekonomik anlamda bir \"sessiz savaş\" verdiğini belirten Cumhurbaşkanı Mesud Pezeşkiyan, ülkede üretim ve yatırımın sürdürülmesi için halkın ortak çaba göstermesi gerektiğini belirtti. Pezeşkiyan, ekonomik cephedeki savaşın \"füzeler atılan bir savaştan çok daha zor olduğunu\" kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-cumhurbaskani-pezeskiyan-sessiz-savas-veriyoruz-43386327"
-        },
-        {
-          "title": "Finlandiya Körfezi'nde İHA saldırısı",
-          "summary": "Rusya, Finlandiya Körfezi'nde bir yük gemisinin Kaliningrad şehrine doğru seyrettiği sırada 2 insansız hava aracına (İHA) hedef olduğunu kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/finlandiya-korfezinde-iha-saldirisi-43386300"
-        },
-        {
-          "title": "FBI'a ikinci siber saldırı",
-          "summary": "ABD İç istihbarat teşkilatı FBI, bir haftada ikinci siber saldırının hedefi oldu. Korsanlar FBI'ın ulusal suçlu bilgileri veri tabanını hackledi. Washington yönetimi hava ulaşımı, bankacılık ve ulusal güvenlik sistemlerini kilitleyen kesinti ve hacker saldırılarının ardından Beyaz Saray Ulusal Siber Direktörü Sean Cairncross'un görevden alınması sonrası yeni bir siber güvenlik krizi yaşıyor. ABD İç istihbarat teşkilatı FBI bir hafta içinde ikinci kez siber saldırıya hedef oldu.",
-          "source": "https://www.ntv.com.tr/dunya/fbia-ikinci-siber-saldiri-1751838"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Samsunspor Başkanı Yüksel Yıldırım'dan tepki: 'VAR'da doğradılar'. Galatasaray'dan 42 maçlık rekor!. Uğurcan Çakır: 'Bu ay zor ve kritik!'. Okan Buruk, Beşiktaş derbisinde yok! Son düdükle kırmızı kart: 'Elini sıkmadı diye'. Galatasaray-Samsunspor maçında ofsayt tartışması! Çok konuşulan karar. Bernd Storck: 'Bu galibiyeti biz hak ettik!'. Gökhan Kağıtçıoğlu: 'Golü bulamadık, kaybettik!'.",
+      "text": "Real Madrid'den geri dönüş! Bernabeu'da 3 puan. Podyumdan teknik direktörlük koltuğuna!. Selçuk İnan'dan Emre Belözoğlu sözleri: 'Fenerbahçe baskılı oynayacaktı, biliyorduk!'. Vedat Muriqi: 'Şapkamızı önümüze koyacağız!'. Emre Belözoğlu'ndan maç sonu hakem eleştirisi: 'Net bir faul atlandı'. Fenerbahçe-Kocaelispor maçına duran toplar damga vurdu! Frikik öncesi yaşananlar gündem oldu. Almanya Bundesliga'nın yeni lideri Dortmund!.",
       "items": [
         {
-          "title": "Samsunspor Başkanı Yüksel Yıldırım'dan tepki: 'VAR'da doğradılar'",
-          "summary": "Samsunspor Başkanı Yüksel Yıldırım, Galatasaray'a 2-1 mağlup oldukları maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/samsunspor-baskani-yuksel-yildirimdan-tepki-varda-dogradilar-43386411"
+          "title": "Real Madrid'den geri dönüş! Bernabeu'da 3 puan",
+          "summary": "Real Madrid, LaLiga'nın 13. haftasında sahasında Celta Vigo'yu 2-1 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/real-madridden-geri-donus-bernabeuda-3-puan-43386589"
         },
         {
-          "title": "Galatasaray'dan 42 maçlık rekor!",
-          "summary": "Galatasaray, Samsunspor maçıyla bu sezon üst üste 7. galibiyetini elde ederken, ligde iç sahadaki yenilmezliğini de 42 maça çıkardı ve kulüp rekorunu kırdı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraydan-42-maclik-rekor-43386409"
+          "title": "Podyumdan teknik direktörlük koltuğuna!",
+          "summary": "Model, dizi oyuncusu, eski kadın futbolcu ve kulüp başkanı Nevide Çiçek, teknik direktörlük kariyerine başladı. Çiçek, İstanbul 2. Amatör Lig ekiplerinden İstanbul Gençlergücü ile anlaşarak takımın başına geçti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/podyumdan-teknik-direktorluk-koltuguna-43386552"
         },
         {
-          "title": "Uğurcan Çakır: 'Bu ay zor ve kritik!'",
-          "summary": "Galatasaray'da Wilfried Singo, Uğurcan Çakır ve Kaan Ayhan, Samsunspor galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ugurcan-cakir-bu-ay-zor-ve-kritik-43386401"
+          "title": "Selçuk İnan'dan Emre Belözoğlu sözleri: 'Fenerbahçe baskılı oynayacaktı, biliyorduk!'",
+          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Fenerbahçe maçının ardından, \"Planımız rakibi doğru şekilde durdurmaktı. Galibiyete çok yaklaşmışken, bütün uzun oyuncularımız sahadayken o golle kaçırmak çok üzücü. Bence maçın kırılma anı Levent Mercan’a ikinci sarı kartın verilmemesiydi\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inandan-emre-belozoglu-sozleri-fenerbahce-baskili-oynayacakti-biliyorduk-43386548"
         },
         {
-          "title": "Okan Buruk, Beşiktaş derbisinde yok! Son düdükle kırmızı kart: 'Elini sıkmadı diye'",
-          "summary": "Galatasaray Teknik Direktörü Okan Buruk, Samsunspor maçının bitiş düdüğünün ardından kırmızı kart gördü. Buruk, gelecek hafta oynanacak Beşiktaş derbisinde kulübedeki yerini alamayacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/okan-buruk-besiktas-derbisinde-yok-son-dudukle-kirmizi-kart-elini-sikmadi-diye-43386387"
+          "title": "Vedat Muriqi: 'Şapkamızı önümüze koyacağız!'",
+          "summary": "Fenerbahçe'de Kojo Oppong, Mason Greenwood ve Vedat Muriqi, 2-2'lik Kocaelispor beraberliğinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-sapkamizi-onumuze-koyacagiz-43386516"
         },
         {
-          "title": "Galatasaray-Samsunspor maçında ofsayt tartışması! Çok konuşulan karar",
-          "summary": "Trendyol Süper Lig'in 12. haftasında Samsunspor ile karşılaşan Galatasaray'da Lucas Torreira'nın henüz 4. dakikada attığı gol, ofsayt tartışmalarına yol açtı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-samsunspor-macinda-ofsayt-tartismasi-cok-konusulan-karar-43386351"
+          "title": "Emre Belözoğlu'ndan maç sonu hakem eleştirisi: 'Net bir faul atlandı'",
+          "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, Kocaelispor ile 2-2 berabere kaldıkları maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglundan-mac-sonu-hakem-elestirisi-net-bir-faul-atlandi-43386512"
         },
         {
-          "title": "Bernd Storck: 'Bu galibiyeti biz hak ettik!'",
-          "summary": "Gençlerbirliği Teknik Direktörü Bernd Storck, Gaziantep FK müsabakasının ardından, \"Bence bu galibiyeti biz hak ettik, bir mücadele ruhu ortaya koyduğumuzu düşünüyorum\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bernd-storck-bu-galibiyeti-biz-hak-ettik-43386333"
+          "title": "Fenerbahçe-Kocaelispor maçına duran toplar damga vurdu! Frikik öncesi yaşananlar gündem oldu",
+          "summary": "Trendyol Süper Lig'in 12. haftasında oynanan Kocaelispor - Fenerbahçe maçı 2-2 beraberlikle sona ererken, atılan tüm golleri duran toptan gelmesi dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kocaelispor-macina-duran-toplar-damga-vurdu-frikik-oncesi-yasananlar-gundem-oldu-43386475"
         },
         {
-          "title": "Gökhan Kağıtçıoğlu: 'Golü bulamadık, kaybettik!'",
-          "summary": "Gaziantep FK Teknik Sorumlusu Gökhan Kağıtçıoğlu, Gençlerbirliği karşılaşmasının ardından, \"İkinci yarı yine bir pozisyonumuz var; bir iki tane, özellikle Serdar'ın kafa vuruşu. Ama sonuç olarak golü bulamadık, kaybettik\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gokhan-kagitcioglu-golu-bulamadik-kaybettik-43386294"
+          "title": "Almanya Bundesliga'nın yeni lideri Dortmund!",
+          "summary": "Almanya 1. Futbol Ligi'nin (Bundesliga) zirve mücadelesinde Bayern Münih'in Köln ile berabere kaldığı haftada Borussia Dortmund deplasmanda Borussia Mönchengladbach'ı 1-0 yenerek zirveye çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/almanya-bundesliganin-yeni-lideri-dortmund-43386467"
         }
       ]
     },
@@ -244,17 +244,12 @@
       ]
     },
     "magazin": {
-      "text": "Önce sohbet sonra çekim. Yıllar sonra.",
+      "text": "Önce sohbet sonra çekim.",
       "items": [
         {
           "title": "Önce sohbet sonra çekim",
           "summary": "Anıl Altan önceki gün Galataport İstanbul’da görüntülendi.",
           "source": "https://www.hurriyet.com.tr/kelebek/televizyon/once-sohbet-sonra-cekim-43383758"
-        },
-        {
-          "title": "Yıllar sonra",
-          "summary": "Helin Avşar uzun aranın ardından Yeniköy’de görüntülendi. 49 yaşındaki ünlü isim, iki örgü yaptığı saçlarıyla dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/kelebek/hayat/yillar-sonra-43351603"
         }
       ]
     }
