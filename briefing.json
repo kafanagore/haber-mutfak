@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-22T04:00:03.958Z",
+  "generatedAt": "2026-11-22T16:00:04.001Z",
   "categories": {
     "gundem": {
-      "text": "Eskişehir'de parkta çıkan tartışma bıçaklı kavgaya dönüştü: 1 yaralı. Hatay’da 5 aracın karıştığı zincirleme kaza: 1 ölü, 10 yaralı. Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı. Bakan Fidan'dan vize açıklaması: Birkaç konunun Meclis'ten geçmesi gerekiyor. Bakan Kurum: Antalya Mutabakatı'nın son metnini sekretaryaya gönderdik. ‘Terörsüz Türkiye’de 3T formülü. MSB acı haberi duyurdu… Silah kazasında yaralanan Astsubay şehit oldu.",
+      "text": "Bakan Gürlek'ten fon soruşturması açıklaması: 9 ülkeye kaçırılan 13 milyar TL donduruldu. Bolivya Cumhurbaşkanı Pereira'dan ASELSAN'a övgü: İleri teknolojiye sahip bir şirket. DEM Parti heyetinden İmralı'ya yeni ziyaret. Bozcaada ve Gökçeada hattındaki bazı feribot seferleri iptal edildi. Hatay sahilinde bulunan el bombası böyle imha edildi. İki bozayının vurulmasıyla ilgili soruşturma başlatıldı. Adalet Bakanı Gürlek fon soruşturması ile ilgili merak edilen her detayı açıkladı.",
       "items": [
         {
-          "title": "Eskişehir'de parkta çıkan tartışma bıçaklı kavgaya dönüştü: 1 yaralı",
-          "summary": "Tepebaşı ilçesi Batıkent Mahallesi'ndeki parkta karşılaşan iki grup arasında bilinmeyen nedenle çıkan tartışma kavgaya döndü. Saat 02.00 sıralarındaki olayda bıçakla yaralanan Bedirhan Y. hastaneye kaldırılırken, polis ekiplerinin olayla ilgili başlattığı soruşturma devam ediyor.",
-          "source": "https://www.hurriyet.com.tr/gundem/eskisehirde-parkta-cikan-tartisma-bicakli-kavgaya-donustu-1-yarali-43386633"
+          "title": "Bakan Gürlek'ten fon soruşturması açıklaması: 9 ülkeye kaçırılan 13 milyar TL donduruldu",
+          "summary": "Adalet Bakanı Akın Gürlek fon soruşturmasında, 9 ülkeye kaçırılan yaklaşık 13 milyar TL'lik varlığın dondurulduğunu açıkladı. Gürlek ayrıca 44 milyar 580 milyon TL'nin iade edildiğini duyurdu. Sosyal medya hesabından fon soruşturmasında gelinen noktaya ilişkin açıklamalarda bulunan Adalet Bakanı Akın Gürlek, 632 şüpheli bulunduğunu, 91 şirkete kayyım atanarak TMSF'ye devredildiğini, 181 tüzel kişi ile 551 gerçek kişinin mal varlıklarına el konulduğunu ve banka hesaplarının dondurulduğunu duyurdu.",
+          "source": "https://www.ntv.com.tr/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-9-ulkeye-kacirilan-13-milyar-tl-donduruldu-1752084"
         },
         {
-          "title": "Hatay’da 5 aracın karıştığı zincirleme kaza: 1 ölü, 10 yaralı",
-          "summary": "HATAY’ın Antakya ilçesinde 5 aracın karıştığı zincirleme kazada Elif Reyhan Örez (9) hayatını kaybetti, 2'si ağır 10 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/hatayda-5-aracin-karistigi-zincirleme-kaza-1-olu-10-yarali-43386632"
+          "title": "Bolivya Cumhurbaşkanı Pereira'dan ASELSAN'a övgü: İleri teknolojiye sahip bir şirket",
+          "summary": "Bolivya Cumhurbaşkanı Rodrigo Paz Pereira, Ankara'daki programı kapsamında ziyaret ettiği ASELSAN'dan övgüyle bahsetti.",
+          "source": "https://www.hurriyet.com.tr/gundem/bolivya-cumhurbaskani-pereiradan-aselsan-ovgusu-ileri-teknolojiye-sahip-bir-sirket-43387245"
         },
         {
-          "title": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza. \"Hep Ucuz\" iddiası doğrulanamadı",
-          "summary": "Ticaret Bakanlığı, yanıltıcı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen ve \"Hep Ucuz\" ifadesini içeren reklamlar nedeniyle bir zincir markete 1 milyon 83 bin lira ceza verildi. Ticaret Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, sanal medya hesabından yaptığı açıklamada, Reklam Kurulu tarafından bir zincir marketin “Hep Ucuz” sloganıyla yayımladığı reklamların incelemeye alındığını belirtti.",
-          "source": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964"
+          "title": "DEM Parti heyetinden İmralı'ya yeni ziyaret",
+          "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK elebaşı Abdullah Öcalan ile görüştü. DEM Parti İmralı Heyeti, Abdullah Öcalan ile İmralı Adası'nda görüştü. DEM Parti heyetinde; Türkiye Büyük Millet Meclisi (TBMM) Başkanvekili ve DEM Parti Van Milletvekili Pervin Buldan, DEM Parti Şanlıurfa Milletvekili Mithat Sancar ve Avukat Özgür Faik Erol yer aldı. Heyetin, görüşmeye dair yarın açıklama yapması bekleniyor. Heyet, İmralı Adası'na son ziyaretini 13 Eylül'de gerçekleştirmişti.",
+          "source": "https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-imraliya-yeni-ziyaret-1752059"
         },
         {
-          "title": "Bakan Fidan'dan vize açıklaması: Birkaç konunun Meclis'ten geçmesi gerekiyor",
-          "summary": "Dışişleri Bakanı Hakan Fidan, Schengen vizesi sorununun çözümüne ilişkin, “Tamamlamamız gereken birkaç konu var, Meclis’ten geçmesi gerekiyor, Cumhurbaşkanımız da talimat verdi.\" dedi. Dışişleri Bakanı Hakan Fidan, TGRT Haber canlı yayınında gündemi değerlendirdi. Bakan Fidan, Avrupa ile vize sorununun çözülebilmesi için Cumhurbaşkanı Erdoğan'ın talimat verdiğini belirterek, tamamlanması gereken birkaç tane konu olduğunu ve Meclis'ten geçmesi gerektiğini söyledi.",
-          "source": "https://www.ntv.com.tr/turkiye/bakan-fidandan-vize-aciklamasi-birkac-konu-meclisten-gecmesi-gerekiyor-1751968"
+          "title": "Bozcaada ve Gökçeada hattındaki bazı feribot seferleri iptal edildi",
+          "summary": "Çanakkale’nin Bozcaada ve Gökçeada ilçelerine yarın yapılması planlanan bazı feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bozcaada-ve-gokceada-hattindaki-bazi-feribot-seferleri-iptal-edildi-43387240"
         },
         {
-          "title": "Bakan Kurum: Antalya Mutabakatı'nın son metnini sekretaryaya gönderdik",
-          "summary": "COP31'de müzakereler ikinci geceye uzarken, COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya Mutabakatı'nın son karar metnini sekretaryaya gönderdiklerini açıkladı. Fosil yakıtlar ve uyum finansmanı konularında önemli ilerleme sağlandığını belirten Kurum, \"Sabah 10-1 0.30 itibarıyla genel kurulumuza örtü kararımızı getirmek istiyoruz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurum-antalya-mutabakatinin-son-metnini-sekretaryaya-gonderdik-43386630"
+          "title": "Hatay sahilinde bulunan el bombası böyle imha edildi",
+          "summary": "HATAY’ın Samandağ ilçesinde sahilde vatandaş tarafından bulunan el bombası, bomba imha ekiplerince kontrollü şekilde patlatılarak imha edildi. Patlama anı, cep telefonu kamerasıyla görüntülendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/hatay-sahilinde-bulunan-el-bombasi-boyle-imha-edildi-43387239"
         },
         {
-          "title": "‘Terörsüz Türkiye’de 3T formülü",
-          "summary": "Bakan Çiftçi, Terörsüz Türkiye hedefi kapsamında 3T diye ifade edilen “tespit, takip ve tasfiye” formülüne dayalı üç aşamalı güvenlik süreci yürüttüklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/gundem/terorsuz-turkiyede-3t-formulu-43386628"
+          "title": "İki bozayının vurulmasıyla ilgili soruşturma başlatıldı",
+          "summary": "TARIM Tarım ve Orman Bakanlığı, Ankara'nın Kızılcahamam ilçesinde bulunan Soğuksu Milli Parkı'nda iki bozayının vurulmasına ilişkin idari soruşturma başlatıldığını duyurdu.",
+          "source": "https://www.hurriyet.com.tr/gundem/iki-bozayinin-vurulmasiyla-ilgili-sorusturma-baslatildi-43387233"
         },
         {
-          "title": "MSB acı haberi duyurdu… Silah kazasında yaralanan Astsubay şehit oldu",
-          "summary": "MİLLİ Savunma Bakanlığı (MSB), Şırnak'ın Şenoba bölgesindeki 48'inci Hudut Tugay Komutanlığında meydana gelen silah kazasında yaralanan İstihbarat Astsubay Çavuş Yalın Gergün'ün kaldırıldığı hastanede şehit olduğunu duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/msb-aci-haberi-duyurdu-silah-kazasinda-yaralanan-astsubay-sehit-oldu-43386584"
+          "title": "Adalet Bakanı Gürlek fon soruşturması ile ilgili merak edilen her detayı açıkladı",
+          "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmalarında şimdiye kadar 632 şüphelinin bulunduğunu, gönüllü iade ve geri kazanım kapsamında 85 kişiden toplam 44,58 milyar lira tahsil edildiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/adalet-bakani-gurlek-fon-sorusturmasi-ile-ilgili-merak-edilen-her-detayi-acikladi-43387219"
         }
       ]
     },
     "dunya": {
-      "text": "Fransa'da sokaklar yine karıştı. İran, Bahreyn'deki ABD üslerini hedef aldı. Batı Azerbaycan'da üst üste depremler. Trump’tan İran açıklaması: Kalıcı bir anlaşma yapacağım. Japonya'da kar fırtınası: Bin 400 kişi mahsur kaldı. Aldatan eşini robot süpürgeyle kaydeden kocaya hapis cezası. Japonya'da yanardağ patlaması: Dumanlar bin 200 metre yüksekliğe ulaştı.",
+      "text": "İran, ABD ve 4 Avrupa ülkesinde, savaş suçları iddiasıyla hukuki süreç başlattı. İran Cumhurbaşkanı Pezeşkiyan: \"Savaş halindeki hiçbir ülkede kalkınma gerçekleşmez\". Fransa cumhurbaşkanı adayı Le Pen'den partisine bilgi sızdırıldığı iddiasına yalanlama. Elektronik sigara akciğerlerde kalıcı hasara yol açabilir. Mutsuz evliliklerin beyin sağlığı üzerindeki etkileri araştırıldı. Rusya'dan Almanya ile İngiltere'ye sert eleştiri. Belçika'dan Rusya'ya Polonya ve Ukrayna tepkisi.",
       "items": [
         {
-          "title": "Fransa'da sokaklar yine karıştı",
-          "summary": "Avrupa'nın 25 ülkesine yayılan protestolar Fransa'da devam ediyor. Ülkenin en az 5 şehrinde polisle göstericiler karşı karşıya geldi, 144 kişi gözaltına alındı, onlarca yaralı var. Fransa'da hayat pahalılığı, eğitimin ücretli ve niteliksiz hale gelmesi, gelir adaletsizliği nedeniyle başlayan protestolar sürüyor. Eylül ayının başında başlayan eylemler son günlerde aralıksız devam etti. Ülke genelinde tansiyon gün geçtikçe daha da arttı.",
-          "source": "https://www.ntv.com.tr/dunya/fransada-sokaklar-yine-karisti-1751982"
+          "title": "İran, ABD ve 4 Avrupa ülkesinde, savaş suçları iddiasıyla hukuki süreç başlattı",
+          "summary": "İran'da Hukuk İşlerinden Sorumlu Cumhurbaşkanı Yardımcısı Mecid Ensari, ülkesine karşı savaş suçları işlendiği gerekçesiyle ABD ve 4 Avrupa ülkesinin mahkemelerinde hukuki süreç başlattıklarını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-abd-ve-4-avrupa-ulkesinde-savas-suclari-iddiasiyla-hukuki-surec-baslatti-43387238"
         },
         {
-          "title": "İran, Bahreyn'deki ABD üslerini hedef aldı",
-          "summary": "Körfez bölgesinde gerginlik yükseliyor. İran Devrim Muhafızları, Bahreyn'deki iki ABD üssünü hedef aldığını duyurdu. Bahreyn BMGK'ya başvurdu. Devrim Muhafızları Ordusu, ABD üslerine yönelik saldırılara ilişkin bildiri yayımladı. Bildiride, ABD'ye ait MQ-1 ve MQ-9 tipi iki İHA'nın İran'ın hava sahasını ihlal etmesine karşılık, Bahreyn'de bulunan 2 ABD üssündeki Patriot hava savunma sistemlerine ait 2 radarın İHA ve füzelerle hedef alındığı ifade edildi.",
-          "source": "https://www.ntv.com.tr/dunya/iran-bahreyndeki-abd-uslerini-hedef-aldi-1751948"
+          "title": "İran Cumhurbaşkanı Pezeşkiyan: \"Savaş halindeki hiçbir ülkede kalkınma gerçekleşmez\"",
+          "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, savaş koşullarında hiçbir ülkede kalkınmanın mümkün olmadığını belirterek çatışmaların ekonomik kısıtlamaları artırdığını söyledi. İran'ın resmi ajansı IRNA'da yer alan habere göre, İran Cumhurbaşkanı Mesud Pezeşkiyan, başkent Tahran'da bir grup vaiz ve din adamıyla düzenlenen istişare toplantısında konuştu.",
+          "source": "https://www.ntv.com.tr/dunya/iran-cumhurbaskani-pezeskiyan-savas-halindeki-hicbir-ulkede-kalkinma-gerceklesmez-1752086"
         },
         {
-          "title": "Batı Azerbaycan'da üst üste depremler",
-          "summary": "İran'ın Batı Azerbaycan eyaletinde, Türkiye sınırına 35-40 kilometre mesafede en büyüğü 4.5 büyüklüğünde üç ayrı deprem meydana geldi. AFAD Deprem Dairesi'nin verilerine göre İran'ın Batı Azerbaycan eyaletinde saat 22.21'de 3.6, 00.25'te 4.5, 00.42'de ise 4.0 büyüklüğünde üç deprem oldu. İran sınırındaki Van'ın Özalp ilçesine 35 ila 40 kilometre mesafedeki depremler bölge genelinde de hissedildi. Derinliği 7 kilometre civarında olan depremlerin ardından herhangi bir olumsuzluk bildirilmedi.",
-          "source": "https://www.ntv.com.tr/dunya/bati-azerbaycanda-ust-uste-siddetli-depremler-1751977"
+          "title": "Fransa cumhurbaşkanı adayı Le Pen'den partisine bilgi sızdırıldığı iddiasına yalanlama",
+          "summary": "Fransa’da Ulusal Birlik'in (RN) gelecek yıl yapılacak cumhurbaşkanı seçimlerindeki adayı Marine Le Pen, Centre-Val de Loire ve Loiret Valisi'nin İçişleri Bakanlığı'ndan partisine gizli bilgi sızdırdığına ilişkin iddiaları reddetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/fransa-cumhurbaskani-adayi-le-penden-partisine-bilgi-sizdirildigi-iddiasina-yalanlama-43387192"
         },
         {
-          "title": "Trump’tan İran açıklaması: Kalıcı bir anlaşma yapacağım",
-          "summary": "ABD Başkanı Donald Trump, İran ile \"kalıcı\" bir anlaşma yapmak istediğini belirterek, \"Gelecek 4 yıl, 15 yıl ya da 20 yıl içinde başarısız bir başkanımız olursa diye 'kalıcı' olacak bir anlaşma yapacağım. Kimsenin İran’ın nükleer silah sahibi olmasını sağlamasına izin vermeyeceğim\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/trumptan-iran-aciklamasi-kalici-bir-anlasma-yapacagim-43386532"
+          "title": "Elektronik sigara akciğerlerde kalıcı hasara yol açabilir",
+          "summary": "Elektronik sigaranın sağlık üzerindeki etkilerini inceleyen yeni bir araştırma, genç yetişkinlerde yalnızca bir yıl içinde akciğer fonksiyonlarının belirgin şekilde azaldığını ortaya koydu. Uzmanlar, uzun süreli kullanımın geri dönüşü olmayan akciğer hasarlarına ve kronik solunum yolu hastalıklarına yol açabileceği konusunda uyardı.",
+          "source": "https://www.hurriyet.com.tr/dunya/elektronik-sigara-akcigerlerde-kalici-hasara-yol-acabilir-43387183"
         },
         {
-          "title": "Japonya'da kar fırtınası: Bin 400 kişi mahsur kaldı",
-          "summary": "Japonya'nın kuzeydoğusundaki Fukuşima eyaleti yoğun kar yağışının etkisi altına girdi. Kar yağışı nedeniyle bölgede ağaçlar devrildi, yollar kapadı. Eyalette 700 haneye elektrik verilemezken 1400 kişinin mahsur kaldığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/japonyada-kar-firtinasi-bin-400-kisi-mahsur-kaldi-43386378"
+          "title": "Mutsuz evliliklerin beyin sağlığı üzerindeki etkileri araştırıldı",
+          "summary": "Fransa'da yapılan yeni bir araştırma, uzun süreli yalnızlığın bunama riskini yüzde 38 artırabileceğini ortaya koydu. Araştırmacılar, evli olmanın veya bir aile üyesiyle yaşamanın yalnızlık hissini önlemek için tek başına yeterli olmadığına dikkat çekti.",
+          "source": "https://www.hurriyet.com.tr/dunya/mutsuz-evliliklerin-beyin-sagligi-uzerindeki-etkileri-arastirildi-43387174"
         },
         {
-          "title": "Aldatan eşini robot süpürgeyle kaydeden kocaya hapis cezası",
-          "summary": "Eşine şaka yapmak için evdeki robot süpürgeye uzaktan bağlanan adam hayatının şokunu yaşadı. Süpürgenin kaydettiği görüntülerde eşinin başka birisiyle birlikte olduğunu gören koca, tazminat davası için mahkemeye başvurduğunda beklemediği bir sonuçla karşılaştı.",
-          "source": "https://www.hurriyet.com.tr/dunya/aldatan-esini-robot-supurgeyle-kaydeden-kocaya-hapis-cezasi-43386053"
+          "title": "Rusya'dan Almanya ile İngiltere'ye sert eleştiri",
+          "summary": "İngiltere Savunma Bakanı Wes Streeting ile Almanya Savunma Bakanı Boris Pistorius'un Ukrayna'ya destek açıklamalarına yanıt veren Rusya Dışişleri Bakanı Sergey Lavrov, iki bakanın \"akıllarının yerinde olmadığını\" belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/rusyadan-almanya-ile-ingiltereye-sert-elestiri-43387152"
         },
         {
-          "title": "Japonya'da yanardağ patlaması: Dumanlar bin 200 metre yüksekliğe ulaştı",
-          "summary": "Japonya'daki Sakurajima Yanardağı'nda patlama meydana geldi. Yanardağ bin 200 metre yüksekliğe ulaşan duman püskürttü.",
-          "source": "https://www.hurriyet.com.tr/dunya/japonyada-yanardag-patlamasi-dumanlar-bin-200-metre-yukseklige-ulasti-43386343"
+          "title": "Belçika'dan Rusya'ya Polonya ve Ukrayna tepkisi",
+          "summary": "Belçika Dışişleri Bakanı Maxime Prevot, hava sahası ihlal edilen Polonya'ya destek mesajı verdi. Danimarka'da Ukraynalı rapçi Kyivstoner'e yönelik suikast girişimi iddialarına da tepki gösteren Prevot, Kiev ile dayanışma içinde olduklarını kaydetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/belcikadan-rusyaya-polonya-ve-ukrayna-tepkisi-43387140"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Real Madrid'den geri dönüş! Bernabeu'da 3 puan. Podyumdan teknik direktörlük koltuğuna!. Selçuk İnan'dan Emre Belözoğlu sözleri: 'Fenerbahçe baskılı oynayacaktı, biliyorduk!'. Vedat Muriqi: 'Şapkamızı önümüze koyacağız!'. Emre Belözoğlu'ndan maç sonu hakem eleştirisi: 'Net bir faul atlandı'. Fenerbahçe-Kocaelispor maçına duran toplar damga vurdu! Frikik öncesi yaşananlar gündem oldu. Almanya Bundesliga'nın yeni lideri Dortmund!.",
+      "text": "Serdal Adalı'dan MHK'ya sert tepki: 'Bulandırıp, bozmasınlar!'. Fenerbahçe maçı öncesi Shakhtar Donetsk'te büyük kriz: 8 futbolcu sınırda kaldı!. Barcelona fırtınası ikinci yarıda esti: 2-0'dan döndü!. Anadolu Efes, Trabzonspor'u deplasmanda yendi. Galatasaray Daikin, Zerenspor karşısında galip. Stanimir Stoilov: 'Bu galibiyet bizim adımıza çok önemli!'. Vlahovic, Beşiktaş tarihine geçti! İlhan Mansız'ın rekorunu kırdı.",
       "items": [
         {
-          "title": "Real Madrid'den geri dönüş! Bernabeu'da 3 puan",
-          "summary": "Real Madrid, LaLiga'nın 13. haftasında sahasında Celta Vigo'yu 2-1 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/real-madridden-geri-donus-bernabeuda-3-puan-43386589"
+          "title": "Serdal Adalı'dan MHK'ya sert tepki: 'Bulandırıp, bozmasınlar!'",
+          "summary": "Beşiktaş Başkanı Serdal Adalı, Konyaspor maçının ardından açıklamalarda bulundu. Adalı, \"Bulandırıp bozmasınlar\" diyerek MHK'ya tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-mhkya-sert-tepki-bulandirip-bozmasinlar-43387246"
         },
         {
-          "title": "Podyumdan teknik direktörlük koltuğuna!",
-          "summary": "Model, dizi oyuncusu, eski kadın futbolcu ve kulüp başkanı Nevide Çiçek, teknik direktörlük kariyerine başladı. Çiçek, İstanbul 2. Amatör Lig ekiplerinden İstanbul Gençlergücü ile anlaşarak takımın başına geçti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/podyumdan-teknik-direktorluk-koltuguna-43386552"
+          "title": "Fenerbahçe maçı öncesi Shakhtar Donetsk'te büyük kriz: 8 futbolcu sınırda kaldı!",
+          "summary": "Shakhtar Donetsk'te 8 oyuncu, Fenerbahçe maçı öncesi takımla Londra'ya gidemedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-maci-oncesi-shakhtar-donetskte-buyuk-kriz-8-futbolcu-sinirda-kaldi-43387241"
         },
         {
-          "title": "Selçuk İnan'dan Emre Belözoğlu sözleri: 'Fenerbahçe baskılı oynayacaktı, biliyorduk!'",
-          "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Fenerbahçe maçının ardından, \"Planımız rakibi doğru şekilde durdurmaktı. Galibiyete çok yaklaşmışken, bütün uzun oyuncularımız sahadayken o golle kaçırmak çok üzücü. Bence maçın kırılma anı Levent Mercan’a ikinci sarı kartın verilmemesiydi\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/selcuk-inandan-emre-belozoglu-sozleri-fenerbahce-baskili-oynayacakti-biliyorduk-43386548"
+          "title": "Barcelona fırtınası ikinci yarıda esti: 2-0'dan döndü!",
+          "summary": "İspanya LaLiga'nın 13. haftasında Barcelona, ilk yarısını 2-0 geride kapattığı maçta Villarreal'i evinde ikinci yarıda bulduğu gollerle 3-2 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/barcelona-firtinasi-ikinci-yarida-esti-2-0dan-dondu-43387224"
         },
         {
-          "title": "Vedat Muriqi: 'Şapkamızı önümüze koyacağız!'",
-          "summary": "Fenerbahçe'de Kojo Oppong, Mason Greenwood ve Vedat Muriqi, 2-2'lik Kocaelispor beraberliğinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-sapkamizi-onumuze-koyacagiz-43386516"
+          "title": "Anadolu Efes, Trabzonspor'u deplasmanda yendi",
+          "summary": "Basketbol Süper Ligi'nin 9. haftasında Anadolu Efes, deplasmanda karşılaştığı Trabzonspor'u 77-70 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-trabzonsporu-deplasmanda-yendi-43387217"
         },
         {
-          "title": "Emre Belözoğlu'ndan maç sonu hakem eleştirisi: 'Net bir faul atlandı'",
-          "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, Kocaelispor ile 2-2 berabere kaldıkları maçın ardından konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglundan-mac-sonu-hakem-elestirisi-net-bir-faul-atlandi-43386512"
+          "title": "Galatasaray Daikin, Zerenspor karşısında galip",
+          "summary": "Sultanlar Ligi'nin 10. haftasında Galatasaray, Zerenspor'u 3-1 yendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-daikin-zerenspor-karsisinda-galip-43387105"
         },
         {
-          "title": "Fenerbahçe-Kocaelispor maçına duran toplar damga vurdu! Frikik öncesi yaşananlar gündem oldu",
-          "summary": "Trendyol Süper Lig'in 12. haftasında oynanan Kocaelispor - Fenerbahçe maçı 2-2 beraberlikle sona ererken, atılan tüm golleri duran toptan gelmesi dikkat çekti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kocaelispor-macina-duran-toplar-damga-vurdu-frikik-oncesi-yasananlar-gundem-oldu-43386475"
+          "title": "Stanimir Stoilov: 'Bu galibiyet bizim adımıza çok önemli!'",
+          "summary": "Süper Lig'in 12. haftasında deplasmanda Erzurumspor FK'yi 1-0 yenen Göztepe'de teknik direktör Stanimir Stoilov, önemli bir karşılaşmadan galip ayrıldıkları için mutlu olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/stanimir-stoilov-bu-galibiyet-bizim-adimiza-cok-onemli-43387196"
         },
         {
-          "title": "Almanya Bundesliga'nın yeni lideri Dortmund!",
-          "summary": "Almanya 1. Futbol Ligi'nin (Bundesliga) zirve mücadelesinde Bayern Münih'in Köln ile berabere kaldığı haftada Borussia Dortmund deplasmanda Borussia Mönchengladbach'ı 1-0 yenerek zirveye çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/almanya-bundesliganin-yeni-lideri-dortmund-43386467"
+          "title": "Vlahovic, Beşiktaş tarihine geçti! İlhan Mansız'ın rekorunu kırdı",
+          "summary": "Beşiktaş'ın Sırp yıldızı Dusan Vlahovic, Konyaspor deplasmanında attığı gollerle kulüp tarihine geçti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vlahovic-besiktas-tarihine-gecti-ilhan-mansizin-rekorunu-kirdi-43387198"
         }
       ]
     },
     "teknoloji": {
-      "text": "\"Ay toprağında\" patates hasadı. Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat. GTA 6 çılgınlığı dünyayı sardı. GTA 6 heyecanı sürerken PlayStation'da erişim sorunu. Saç çıkartan tarak icat edildi. 28 günde yüzde 98'i geri çıkıyor. GTA 6 çıkmadan dünyayı ayağa kaldırdı. Oyuna saatler önce girmek için 'Yeni Zelanda Hilesi' patladı. OpenAI'a Hugging Face davası: Halkı tehlikeye attığı ileri sürüldü.",
+      "text": "HÜRKUŞ'a yeni yazılım. İşte yeni sistemin özellikleri. \"Ay toprağında\" patates hasadı. Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat. GTA 6 çılgınlığı dünyayı sardı. GTA 6 heyecanı sürerken PlayStation'da erişim sorunu. Saç çıkartan tarak icat edildi. 28 günde yüzde 98'i geri çıkıyor. GTA 6 çıkmadan dünyayı ayağa kaldırdı. Oyuna saatler önce girmek için 'Yeni Zelanda Hilesi' patladı.",
       "items": [
+        {
+          "title": "HÜRKUŞ'a yeni yazılım. İşte yeni sistemin özellikleri",
+          "summary": "HAVELSAN, HÜRKUŞ eğitim ve hafif taarruz uçağı için geliştirilen Görev Planlama Yazılımı'nın proje kapsamındaki kabul süreçlerinin tamamlandığını duyurdu. HAVELSAN, Türk Havacılık ve Uzay Sanayii (TUSAŞ) tarafından geliştirilen HÜRKUŞ eğitim ve hafif taarruz uçağı için kritik öneme sahip Görev Planlama Yazılımı’nın HÜRKUŞ Projesi kapsamındaki kabul süreçlerini tamamladı.",
+          "source": "https://www.ntv.com.tr/teknoloji/hurkusa-yeni-yazilim-iste-yeni-sistemin-ozellikleri-1752019"
+        },
         {
           "title": "\"Ay toprağında\" patates hasadı",
           "summary": "Dünya'nın en önemli tarım ürünlerinden patates, yakın gelecekte ay görevleri için de kritik hale gelebilir. Bilim insanları simüle edilmiş Ay toprağında güvenli ve besleyici patates yetiştirdi. ABD ve Çin, önümüzdeki yıllarda Ay yüzeyine astronot göndermeyi ve burada uzun süreli üsler kurmayı planlıyor. Uzmanlara göre Ay'da görev yapacak insanları sürdürülebilir şekilde beslemek için yerel gıda üretimi kritik önem taşıyor. Çünkü ihtiyaç duyulan tüm gıdanın Dünya'dan taşınması pek mümkün görülmüyor.",
@@ -195,17 +200,27 @@
           "title": "GTA 6 çıkmadan dünyayı ayağa kaldırdı. Oyuna saatler önce girmek için 'Yeni Zelanda Hilesi' patladı",
           "summary": "Grand Theft Auto VI'yı (GTA 6) 13 yıldır bekleyen hayranlar, oyuna ilk erişebilmek için yeni konsol satın almak, yıllık izinlerini kullanmak ve konum değişikliği gibi yöntemlere başvuruyor. Rockstar Games tarafından geliştirilen ve uzun bir bekleyişin ardından 19 Kasım 00.00'da piyasaya sürülmesi planlanan GTA 6'ya yönelik yoğun ilgi, hayranlarını oyunu ilk oynayanlar arasında yer alabilmek için farklı yöntemler aramaya yöneltti.",
           "source": "https://www.ntv.com.tr/teknoloji/galeri-gta-6-cikmadan-dunyayi-ayaga-kaldirdi-oyuna-saatler-once-girmek-icin-yeni-zelanda-hilesi-patladi-1751319"
-        },
-        {
-          "title": "OpenAI'a Hugging Face davası: Halkı tehlikeye attığı ileri sürüldü",
-          "summary": "ABD'de, yapay zeka modellerini yeterli güvenlik önlemleri olmadan geliştirdiği ve test ettiği, bu süreçte kamu güvenliğini tehlikeye attığı iddiasıyla OpenAI'ye dava açıldı. California Başsavcısı Rob Bonta tarafından yapılan açıklamada, şirketin kamu güvenliğini korumak için gerekli güvenlik önlemlerini ve denetim mekanizmalarını oluşturmadan gelişmiş yapay zeka modellerini bilerek geliştirdiği ve test ettiği, bu yolla kamuoyunu yanılttığı ve halkı tehlikeye attığı ileri sürüldü.",
-          "source": "https://www.ntv.com.tr/teknoloji/openaia-hugging-face-davasi-halki-tehlikeye-attigi-ileri-suruldu-1751194"
         }
       ]
     },
     "saglik": {
-      "text": "3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi. Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor. Balık nasıl saklanır? Temizleyip, poşete sarıyorsanız dikkat. En doğru ve sağlıklı yöntem buymuş. Avrupa Birliği pankreas kanserine karşı yeni ilaca onay verdi. Uzmanlar açıkladı: Bitter çikolata insan sağlığına faydalı mı?. Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?. Bu gıdalar mikroplastikleri vücuttan atıyor.",
+      "text": "Sağlıklı uykunun sırrı: Kaç saat uyumalısınız?. Çocuk hastalarda bir ilk: 7 günde ayağa kalktı. Botoksta ölümcül tehlike: 3 ayda 15 vaka. 3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi. Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor. Balık nasıl saklanır? Temizleyip, poşete sarıyorsanız dikkat. En doğru ve sağlıklı yöntem buymuş. Avrupa Birliği pankreas kanserine karşı yeni ilaca onay verdi.",
       "items": [
+        {
+          "title": "Sağlıklı uykunun sırrı: Kaç saat uyumalısınız?",
+          "summary": "Her Cuma NTV'de yayınlanan Zincirleme Reaksiyon, bu hafta sağlıklı uykunun önemini, uyku süresinin insan sağlığı üzerindeki etkilerini ve uyku bozukluklarını ele aldı. Programın konuklarından Nörolog Prof. Dr. Taşkın Duman, Psikolog Dr. Hicran Tülüce ve Müzisyen Pınar Aylin, uyku alışkanlıklarını ve uyku kalitesini etkileyen faktörleri değerlendirdi. Sağlıklı uyku süresinin yaşa göre değiştiğini belirten Prof. Dr. Taşkın Duman, yetişkinlerin günde 7 ila 9 saat uyuması gerektiğini söyledi.",
+          "source": "https://www.ntv.com.tr/saglik/video-saglikli-uykunun-sirri-kac-saat-uyumalisiniz-1752052"
+        },
+        {
+          "title": "Çocuk hastalarda bir ilk: 7 günde ayağa kalktı",
+          "summary": "Ankara Üniversitesi Cebeci Hastanesi’nde 10 yaşındaki bir çocuk, ECMO cihazına bağlıyken bilinci açık şekilde yürütüldü.",
+          "source": "https://www.ntv.com.tr/saglik/video-cocuk-hastalarda-bir-ilk-7-gunde-ayaga-kalkti-1752006"
+        },
+        {
+          "title": "Botoksta ölümcül tehlike: 3 ayda 15 vaka",
+          "summary": "Son dönemde botoks zehirlenmesi nedeniyle acil başvuruları artıyor. Özellikle merdiven altı uygulamalar hayati risk oluşturuyor. Çukurova Üniversitesi Acil Servisi’ne son 3 ayda 15 hasta başvurdu.",
+          "source": "https://www.ntv.com.tr/saglik/video-botoksta-olumcul-tehlike-3-ayda-15-vaka-1751990"
+        },
         {
           "title": "3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi",
           "summary": "Bilim insanları, yaptıkları bir çalışmada, kronik yalnızlık yaşayan 65 yaş üstü kişilerde demans (bunama) riskinin yüzde 38 arttığını tespit etti. Fransa'daki Bordeaux Üniversitesi araştırmacılarının yaptığı çalışmada, 1988-2018 yıllarında 65 yaş üstündeki 3 bin 777 kişi incelendi. Katılımcılar \"hiç yalnız olmayanlar\", \"ara sıra yalnızlık yaşayanlar\" ile \"kronik yalnızlık yaşayanlar\" olmak üzere üç gruba ayrıldı. Çalışmada kronik yalnızlık grubundakilerin yüzde 49'unda demans gelişti.",
@@ -225,21 +240,6 @@
           "title": "Avrupa Birliği pankreas kanserine karşı yeni ilaca onay verdi",
           "summary": "Avrupa Birliği (AB) Komisyonu, vücudun çeşitli bölgelerine yayılmış pankreas kanserinin tedavisinde kullanılacak Daraxonrasib adlı ilaca pazarlama izni verdi. AB Komisyonu, metastatik pankreas kanserine yönelik yeni bir tedavi olan Daraxonrasib için AB genelinde pazarlama izni verildiğini açıkladı. Açıklamada, ilacın daha önce en az bir tedavi almış yetişkin hastalarda kullanılabileceği belirtildi.",
           "source": "https://www.ntv.com.tr/saglik/avrupa-birligi-pankreas-kanserine-karsi-yeni-ilaca-onay-verdi-1751324"
-        },
-        {
-          "title": "Uzmanlar açıkladı: Bitter çikolata insan sağlığına faydalı mı?",
-          "summary": "Sağlıklı yaşam için genellikle uzak durulması önerilen yiyecekler arasında çikolata da yer alıyor. Uzmanlar, ölçülü ve en az yüzde 70 kakao içeren bitter çikolatanın sağlığa fayda sağladığını söylüyor",
-          "source": "https://www.ntv.com.tr/saglik/video-uzmanlar-acikladi-bitter-cikolata-insan-sagligina-faydali-mi-1751128"
-        },
-        {
-          "title": "Yeni nesil obezite ilaçları ve kalp sağlığı: Kullanırken nelere dikkat edelim?",
-          "summary": "Amerikan Gıda ve İlaç Dairesi’nin (FDA) 9 Kasım 2026’da ‘zayıflama iğneleri’ olarak bilinen ilaçların güvenli kullanımıyla ilgili bir uyarı yayınladı. FDA, bu gruptaki ilaçların ürün bilgilerine, nadir görülen ancak kalıcı görme kaybına yol açabilen bir göz hastalığına ilişkin bilgi eklenmesini istedi. Yani, sadece olası bir risk artışına dikkat çekiyor; her kullanıcının bu sorunla karşılaşacağı anlamına gelmiyor.",
-          "source": "https://www.ntv.com.tr/yazarlar/sahin-senay/yeni-nesil-obezite-ilaclari-ve-kalp-sagligi-kullanirken-nelere-dikkat-edelim-1750958"
-        },
-        {
-          "title": "Bu gıdalar mikroplastikleri vücuttan atıyor",
-          "summary": "Çinli bilim insanlarının yeni araştırmasına göre lifli gıdalar \"sindirim sisteminde doğal bir süpürge gibi davranıyor, mikro plastikleri vücuttan uzaklaştırıyor.\" Su, hava ve gıdalar yoluyla her gün vücudumuza aldığımız mikroplastikler artık kaçınılmaz bir küresel sağlık sorunu. Yeni bir araştırma, beslenme düzenimizle ilgili ezber bozan bir detayı ortaya çıkardı. Çinli bilim insanları, lifli gıdalarla beslenmenin mikroplastiklere karşı da koruma sağladığını tespit etti.",
-          "source": "https://www.ntv.com.tr/saglik/bu-gidalar-mikroplastikleri-vucuttan-atiyor-1750642"
         }
       ]
     },
