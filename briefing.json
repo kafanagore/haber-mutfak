@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-24T04:00:04.367Z",
+  "generatedAt": "2026-11-24T10:00:03.867Z",
   "categories": {
     "gundem": {
-      "text": "İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken çıkıyor. Bakan Gürlek, 24 Kasım Öğretmenler Günü’nü kutladı. 407 internet sitesine erişim engellendi. Eber Gölü'nde dört farklı noktada yangın çıktı. Bahçeli'den Öğretmenler Günü mesajı. Fon soruşturmasında gözaltına alınan 4 şüpheliye tutuklama talebi. 2026 yılı yeniden değerleme oranı belli oldu.",
+      "text": "Kartonların arasında oynayan 3 yaşındaki Volkan’ın üzerinden kamyonet geçti. COP31’in perde arkası: İklim zirvesinde kim neden geri adım attı? ‘Avrupa Birliği ikili oynadı’. Beşiktaş'ta bir kişi devrilen ağacın altında kalmaktan son anda kurtuldu. AK Parti Sözcüsü Çelik'ten 'Öğretmenler Günü' mesajı. İstanbul'da aslan alarmı: Jandarmanın bekleyişi sürüyor! Belgrad Ormanı yaya ve araç trafiğine açıldı. Bahis, dolandırıcılık ve mal varlığı değerlerini aklama suçlarına yönelik 5 soruşturmada 245 gözaltı. Yurt dışında yakalanan 44 kişi Türkiye'ye getirildi.",
       "items": [
         {
-          "title": "İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken çıkıyor",
-          "summary": "İstanbul'da dün 20 derecelerde seyreden sıcaklıklar Balkanlardan gelen soğuk hava ile birlikte sıcaklık 0 dereceye kadar düşecek. İstanbul Valiliği'nden buzlanma ve don uyarısı geldi. İstanbul'da bahar havası yerini Balkanlar üzerinden gelen soğuk havaya bıraktı. Lodosun karayele dönmesiyle birlikte sıcaklıklar 12 derece birden düştü. İstanbul'da gece saatlerinde 6 dereceye kadar inen sıcaklığın, bugün gün içinde 7-8 derecelerde olması bekleniyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-iki-gunluk-kis-atki-bere-ve-eldivenler-erken-cikiyor-1752274"
+          "title": "Kartonların arasında oynayan 3 yaşındaki Volkan’ın üzerinden kamyonet geçti",
+          "summary": "İnegöl Refah Sokak’taki kazada ağır yaralanan Volkan T., çevredekilerin uyarısıyla duran sürücü tarafından İnegöl Devlet Hastanesi’ne götürüldü. Bursa Yüksek İhtisas Eğitim ve Araştırma Hastanesi’ne sevk edilen çocuğun durumu ciddiyetini korurken, kazayla ilgili soruşturma başlatıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/kartonlarin-arasinda-oynayan-3-yasindaki-volkanin-uzerinden-kamyonet-gecti-43389170"
         },
         {
-          "title": "Bakan Gürlek, 24 Kasım Öğretmenler Günü’nü kutladı",
-          "summary": "Adalet Bakanı Akın Gürlek, 24 Kasım Öğretmenler Günü dolayısıyla bir kutlama mesajı yayımladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-24-kasim-ogretmenler-gununu-kutladi-43388657"
+          "title": "COP31’in perde arkası: İklim zirvesinde kim neden geri adım attı? ‘Avrupa Birliği ikili oynadı’",
+          "summary": "Türkiye'nin uzlaşma sağlamak amacıyla karar taslağında birkaç kez değişikliğe gitmesine rağmen, COP31'de ortak bir metin üzerinde anlaşmaya varılamadı. Zirveyi yerinde takip eden Çevre ve Sürdürülebilirlik Uzmanı Umay Yılmaz, kapanış oturumunda gerilim yaratan Avrupa Birliği’nin çıkışının ardındaki iddiaları anlattı. 'AB’nin ikili oynadığı' görüşündeki Yılmaz’a göre Brüksel, Panama’dan önce davranarak 'COP’un kahramanı' olmak istedi'.",
+          "source": "https://www.hurriyet.com.tr/gundem/cop31in-perde-arkasi-iklim-zirvesinde-kim-neden-geri-adim-atti-avrupa-birligi-ikili-oynadi-43388541"
         },
         {
-          "title": "407 internet sitesine erişim engellendi",
-          "summary": "Ankara İl Jandarma Komutanlığınca yürütülen sanal devriye faaliyetlerinde yasa dışı bahis, dolandırıcılık ve müstehcen içerikli paylaşım yaptığı belirlenen 407 internet sitesine erişim engellendi.",
-          "source": "https://www.hurriyet.com.tr/gundem/407-internet-sitesine-erisim-engellendi-43388656"
+          "title": "Beşiktaş'ta bir kişi devrilen ağacın altında kalmaktan son anda kurtuldu",
+          "summary": "Beşiktaş'ta bir kişinin devrilen ağacın altında kalmaktan son anda kurtulması güvenlik kamerasınca kaydedildi. Levent Mahallesi Fulyalı Sokak'ta dün etkili olan kuvvetli rüzgar nedeniyle bir çam ağacı park halindeki otomobilin üzerine devrildi. Bu sırada yolda telefonla konuşan kişi ağacın altında kalmaktan son anda kurtuldu. Olay nedeniyle bir otomobilde hasar meydana geldi.",
+          "source": "https://www.ntv.com.tr/turkiye/video-besiktasta-bir-kisi-devrilen-agacin-altinda-kalmaktan-son-anda-kurtuldu-1752374"
         },
         {
-          "title": "Eber Gölü'nde dört farklı noktada yangın çıktı",
-          "summary": "Türkiye'nin en büyük göllerinden birisi olan Eber gönlün Afyonkarahisar sınırları içerisinde kalan 4 farklı noktasında yangın çıktı. Kuvvetli rüzgarın da etkisiyle yayılan yangınların söndürülmesi için çalışma başlatıldı. Türkiye'nin 12'nci büyük gölü olan Eber'de akşam saatlerinde Sultandağı ilçesi sınırlarındaki farklı bölgelerde eşzamanlı yangınlar çıktı. 4 farklı noktada çıkan yangınlar kuvvetli rüzgarın da etkisiyle hızla yayıldı.",
-          "source": "https://www.ntv.com.tr/turkiye/eber-golunde-dort-farkli-noktada-yangin-cikti-1752272"
+          "title": "AK Parti Sözcüsü Çelik'ten 'Öğretmenler Günü' mesajı",
+          "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, 24 Kasım Öğretmenler Günü'ne ilişkin mesaj yayımladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-celikten-ogretmenler-gunu-mesaji-43389021"
         },
         {
-          "title": "Bahçeli'den Öğretmenler Günü mesajı",
-          "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"Bütün öğretmenlerimizin 24 Kasım Öğretmenler Günü'nü kutluyor, kendilerine en içten sevgi ve saygılarımı sunuyorum\" dedi. MHP Genel Başkanı Bahçeli, 24 Kasım Öğretmenler Günü dolayısıyla bir kutlama mesajı yayımladı. Bahçeli mesajında, \"Öğretmenlik, bir ömrü binlerce hayatta yaşatmaktır.",
-          "source": "https://www.ntv.com.tr/turkiye/bahceliden-ogretmenler-gunu-mesaji-1752270"
+          "title": "İstanbul'da aslan alarmı: Jandarmanın bekleyişi sürüyor! Belgrad Ormanı yaya ve araç trafiğine açıldı",
+          "summary": "İstanbul Valiliğinin Sarıyer'de aslan bulunduğuna dair somut bir bulguya rastlanmadığını açıklamasının ardından jandarma ekiplerinin bölgede tedbiren bekleyişi sürüyor.",
+          "source": "https://www.hurriyet.com.tr/gundem/istanbulda-aslan-alarmi-jandarmanin-bekleyisi-suruyor-belgrad-ormani-yaya-ve-arac-trafigine-acildi-43389133"
         },
         {
-          "title": "Fon soruşturmasında gözaltına alınan 4 şüpheliye tutuklama talebi",
-          "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında gözaltına alınan 7 şüpheliden 4'ü tutuklama talebiyle sulh ceza hakimliğine sevk edildi. İstanbul Cumhuriyet Başsavcılığınca sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" sürüyor. Soruşturma kapsamında 7 şüpheli daha gözaltına alındı. Şüphelilerden 6'sı emniyetteki işlemlerin ardından Çağlayan'daki İstanbul Adliyesi'ne götürüldü.",
-          "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-adliyeye-sevk-edildiler-1752193"
+          "title": "Bahis, dolandırıcılık ve mal varlığı değerlerini aklama suçlarına yönelik 5 soruşturmada 245 gözaltı",
+          "summary": "Yasa dışı bahis, nitelikli dolandırıcılık ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlarından yürütülen 5 ayrı soruşturmada 245 şüpheli gözaltına alındı. Adalet Bakanı Akın Gürlek, yasa dışı bahis, nitelikli dolandırıcılık ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlarından yürütülen 5 ayrı soruşturmada haklarında adli işlem yapılan 332 kişiden 245'inin gözaltına alındığını bildirdi.",
+          "source": "https://www.ntv.com.tr/turkiye/bahis-dolandiricilik-ve-mal-varligi-degerlerini-aklama-suclarina-yonelik-5-sorusturmada-245-gozalti-1752360"
         },
         {
-          "title": "2026 yılı yeniden değerleme oranı belli oldu",
-          "summary": "Hazine ve Maliye Bakanlığı, 2026 yılı için yeniden değerleme oranını yüzde 27,83 olarak belirledi. Karar, Vergi Usul Kanunu Genel Tebliği ile duyuruldu. Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı tarafından yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 599) ile 2026 yılı yeniden değerleme oranı belli oldu. Tebliğe göre, 2026 yılı için yeniden değerleme oranı yüzde 27,83 olarak tespit edildi. Cumhurbaşkanının bazı vergi ve harçlarda yeniden değerleme oranını değiştirme yetkisi bulunuyor.",
-          "source": "https://www.ntv.com.tr/turkiye/2026-yili-yeniden-degerleme-orani-belli-oldu-1752267"
+          "title": "Yurt dışında yakalanan 44 kişi Türkiye'ye getirildi",
+          "summary": "İçişleri Bakanlığı 44 kişinin 9 ülkede yakalanarak Türkiye'ye getirildiğini duyurdu. İçişleri Bakanlığı, 22'si kırmızı bültenle, 22'si ulusal seviyede aranan toplam 44 kişinin Türkiye'ye getirildiğini açıkladı. Açıklamaya göre, aranan kişilerden 26'sı Gürcistan, 4'ü Yunanistan, 2'si Bulgaristan, 4'ü Almanya, 4'ü Hollanda, diğer 4'ü ise ABD, Arnavutluk, Kazakistan ve Romanya'da yakalandı. İlgili ülkelerin kolluk birimleriyle yürütülen işbirliği sonucunda yakalanan 44 kişinin Türkiye'ye iadesi sağlandı.",
+          "source": "https://www.ntv.com.tr/turkiye/yurt-disinda-yakalanan-44-kisi-turkiyeye-getirildi-1752361"
         }
       ]
     },
     "dunya": {
-      "text": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi. Nvidia'da Jensen Huang yeniden CEO oldu. Belçika'da grev hayatı felç etti. Tüm uçuşlar iptal, kamu hizmetleri aksadı. \"Japonya Başbakanı, çevrim içi G7 Zirvesi'ne alkollü olduğu için katılmadı\" iddiası. Ukrayna Devlet Başkanı Zelenskiy’den ‘NATO’ açıklaması. Trump, Huang için Nvidia'yı ikna etti… Demokrat senatörde tepki geldi. Okullarda cep telefonu kararı: İzin verilmeyecek.",
+      "text": "Hürmüz krizinin Körfez ülkelerinde yol açtığı kaybın bilançosu açıklandı. Trump kefil oldu, Jensen Huang Nvidia'ya geri döndü. Beyaz Saray'ın 72 saatlik gizli operasyonu. Nvidia çiplerini Çin'e kaçırdığı öne sürülen Megaspeed ABD'de kara listeye girdi. Papa Francis'in gizli günlüğü yayınlandı. \"Şeytanı üç kez gördüm\". Hürmüz Boğazı'nda 2 tanker mayına çarptı. Kamp yapmaya giden genç öldürüldü. İsrail basınından dikkat çeken iddia: Tel Aviv'de savaş hazırlıkları başladı.",
       "items": [
         {
-          "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
-          "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda izin verilmeyen güzergahları kullanan 3 petrol tankerinin deniz mayınlarına çarpması sonucu patlayarak alev aldığını duyurdu. İran Devrim Muhafızları Ordusu tarafından konuya ilişkin yazılı açıklama yapıldı. Açıklamada, Hürmüz Boğazı'nda izin verilmeyen güzergahları kullanan 3 petrol tankerinin deniz mayınlarına çarpması sonucu patlamalar ve şiddetli yangın meydana geldiği belirtildi.",
-          "source": "https://www.ntv.com.tr/dunya/hurmuz-bogazinda-3-petrol-tankerinde-patlama-meydana-geldi-1752276"
+          "title": "Hürmüz krizinin Körfez ülkelerinde yol açtığı kaybın bilançosu açıklandı",
+          "summary": "Hürmüz Boğazı krizi Körfez ülkelerinin enerji gelirlerinde milyarlarca dolarlık kayıplara yol açarken, Umman, coğrafi konum ve alternatif güzergahların avantajıyla gelirini artırdı. Hürmüz Boğazı'ndaki kriz, Körfez ülkelerinin petrol ve doğal gaz sevkiyatını aksatarak enerji gelirlerinde milyarlarca dolarlık kayıplara yol açarken, alternatif ihracat güzergahlarına erişim ve yükselen enerji fiyatları ülkeler arasındaki farkı belirledi.",
+          "source": "https://www.ntv.com.tr/dunya/hurmuz-krizinin-korfez-ulkelerinde-yol-actigi-kaybin-bilancosu-aciklandi-1752372"
         },
         {
-          "title": "Nvidia'da Jensen Huang yeniden CEO oldu",
-          "summary": "ABD'li çip üreticisi Nvidia, Jensen Huang'ın derhal geçerli olmak üzere yeniden CEO görevine getirildiğini açıkladı. Huang, 12 Kasım'da görevinden ayrılmıştı. Yapay zeka çipleri üreticisi Nvidia'da üst yönetim yeniden değişti. Şirket, kurucusu Jensen Huang'ın derhal geçerli olmak üzere yeniden Üst Yönetici (CEO) ve yönetim kurulu üyesi olarak görevlendirildiğini açıkladı. Nvidia yönetim kurulu, Huang ile yapılan görüşmelerin ardından yeniden atanması yönünde oy birliğiyle karar alındığını bildirdi.",
-          "source": "https://www.ntv.com.tr/dunya/nvidiada-jensen-huang-yeniden-ceo-oldu-1752245"
+          "title": "Trump kefil oldu, Jensen Huang Nvidia'ya geri döndü. Beyaz Saray'ın 72 saatlik gizli operasyonu",
+          "summary": "ABD Başkanı Trump'ın, borsadaki düşüşü durdurmak amacıyla 11 gün önce istifa eden Jensen Huang'ın Nvidia CEO'luğuna dönmesi için şirketin yönetim kuruluna baskı yaptığı ortaya çıktı. ABD Başkanı Donald Trump'ın, borsadaki şiddetli düşüşü durdurmak amacıyla 11 gün önce istifa eden Jensen Huang'ın Nvidia CEO'luğuna geri dönmesi için şirketin yönetim kuruluna karşı bizzat devreye girdiği ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/trump-kefil-oldu-jensen-huang-nvidiaya-geri-dondu-beyaz-sarayin-72-saatlik-gizli-operasyonu-1752335"
         },
         {
-          "title": "Belçika'da grev hayatı felç etti. Tüm uçuşlar iptal, kamu hizmetleri aksadı",
-          "summary": "Belçika'da çalışanların, hükümetin kemer sıkma politikalarına karşı başlattığı bir günlük grev nedeniyle kamu hizmetleri ve toplu taşıma aksadı, havalimanlarından sefer yapılmadı. Belçika'daki büyük işçi sendikaları CSC, FGTB ve Synova'nın çağrısıyla çalışanlar, federal hükümetin sosyal harcamalarda yapacağı kesintiler ile alım güçlerinin azalmasını protesto etmek için bir günlüğüne iş bıraktı. Grev nedeniyle ülke genelinde kamu ve özel sektör hizmetleri önemli ölçüde aksarken hayat durma noktasına geldi.",
-          "source": "https://www.ntv.com.tr/dunya/belcikada-grev-hayati-felc-etti-tum-ucuslar-iptal-kamu-hizmetleri-aksadi-1752219"
+          "title": "Nvidia çiplerini Çin'e kaçırdığı öne sürülen Megaspeed ABD'de kara listeye girdi",
+          "summary": "Yapay zeka çip devi Nvidia'daki CEO Jensen Huang'ın istifasıyla sonuçlanan yasak aşk ve casusluk skandalının odağındaki Çinli iş kadınının eski şirketi Megaspeed ABD'de kara listeye alındı. Yapay zeka çiplerini Çin'e yönlendirdiği şüphesiyle 2024'ten bu yana ABD makamlarınca soruşturulan .",
+          "source": "https://www.ntv.com.tr/dunya/nvidia-ciplerini-cine-kacirdigi-one-surulen-megaspeed-abdde-kara-listeye-girdi-1752355"
         },
         {
-          "title": "\"Japonya Başbakanı, çevrim içi G7 Zirvesi'ne alkollü olduğu için katılmadı\" iddiası",
-          "summary": "Japonya Başbakanı Takaiçi Sanae'nin, ekim başında çevrim içi düzenlenen G7 Zirvesi'ne \"hemen öncesinde içkili bir toplantıda ve alkol etkisinde olduğu\" gerekçesiyle katılmadığı iddia edildi. Ulusal düzeyde haftalık yayımlanan aktüel Şuukan Gendai dergisinin iktidar partisi yetkililerine dayandırdığı haberinde, Takaiçi'nin 2 Ekim'deki çevrim içi G7 Zirvesi'nde yer almamasına dair yeni iddialar paylaşıldı.",
-          "source": "https://www.ntv.com.tr/dunya/japonya-basbakani-cevrim-ici-g7-zirvesine-alkollu-oldugu-icin-katilmadi-iddiasi-1752230"
+          "title": "Papa Francis'in gizli günlüğü yayınlandı. \"Şeytanı üç kez gördüm\"",
+          "summary": "Hayatını kaybeden Papa Francis'in kişisel günlüğünden derlenen yeni kitap, eski papanın şeytanla üç kez karşılaştığını ve cehennemin kapılarını gördüğünü yazdığı notları gün yüzüne çıkardı. Hayatını kaybeden Papa Francis'in 1992-2024 yılları arasında tuttuğu kişisel günlüğünden derlenen ve bugün yayınlanan yeni kitapta, eski papanın şeytanı üç kez gördüğünü ve bir gece de \"cehennemin kapılarına\" tanık olduğunu yazdığı ortaya çıktı.",
+          "source": "https://www.ntv.com.tr/dunya/papa-francisin-gizli-gunlugu-yayinlandi-seytani-uc-kez-gordum-1752366"
         },
         {
-          "title": "Ukrayna Devlet Başkanı Zelenskiy’den ‘NATO’ açıklaması",
-          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, “Güvenlik garantisi açısından Ukrayna’nın NATO'ya kabul edilmesi daha etkili olabilir” dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/ukrayna-devlet-baskani-zelenskiyden-nato-aciklamasi-43388529"
+          "title": "Hürmüz Boğazı'nda 2 tanker mayına çarptı",
+          "summary": "Hürmüz Boğazı'nda deniz mayınlarına çarpan 2 tankerde patlama meydana geldi. İran, tankerlerde yangın çıktığını belirtti.",
+          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-2-tanker-mayina-carpti-43389111"
         },
         {
-          "title": "Trump, Huang için Nvidia'yı ikna etti… Demokrat senatörde tepki geldi",
-          "summary": "ABD Başkanı Donald Trump, Nvidia Yönetim Kurulu ile görüştüğünü ve Jensen Huang'ı yeniden üst yöneticilik (CEO) görevine getirmelerine ikna ettiğini söyledi. ABD'de Demokrat Senatör Chuck Schumer, Nvidia'nın Huang'ı yeniden CEO'luk görevine getirmesini eleştirerek Trump'ı maddi çıkarlarını \"ulusal güvenliğin\" önüne koymakla suçladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/trump-huangi-ceoluk-gorevine-dondurmek-icin-nvidiayi-ikna-etti-demokrat-senatorde-tepki-geldi-43388519"
+          "title": "Kamp yapmaya giden genç öldürüldü",
+          "summary": "Arkadaşlarıyla kamp tatiline çıkan üniversite öğrencisi, çadırına isabet eden kurşunun kurbanı oldu. Polis, çadıra ateş açıldıktan sonra olay yerinden uzaklaşan bir aracı aradığını bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kamp-yapmaya-giden-genc-olduruldu-43389040"
         },
         {
-          "title": "Okullarda cep telefonu kararı: İzin verilmeyecek",
-          "summary": "Danimarka, 2027-2028 eğitim öğretim yılından itibaren ilkokul ve ortaokullarda cep telefonu kullanımına izin verilmeyeceğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/dunya/okullarda-cep-telefonu-karari-izin-verilmeyecek-43388495"
+          "title": "İsrail basınından dikkat çeken iddia: Tel Aviv'de savaş hazırlıkları başladı",
+          "summary": "Tel Aviv'in ABD ile İran arasındaki gelişmeleri yakından izlediğini duyuran İsrail basını, gerilimin hızla tırmanması ihtimaline karşı ordunun hazırlık yaptığını iddia etti. ABD'nin İran'a saldırı düzenlememesi halinde İsrail'in tek başına harekete geçebileceği kaydedildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israil-basinindan-dikkat-ceken-iddia-tel-avivde-savas-hazirliklari-basladi-43388967"
         }
       ]
     },
     "ekonomi": {
-      "text": "Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu. BIST 100 endeksinde güçlü kapanış.",
+      "text": "Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu.",
       "items": [
+        {
+          "title": "Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, partisinin TBMM grup toplantısında adalet, yolsuzlukla mücadele, orta sınıfın kayıpları ve Terörsüz Türkiye sürecine ilişkin açıklamalarda bulundu. Bahçeli, bakan veya belediye başkanı ayırt etmeksizin yolsuzluğa müsamaha göstermeyeceklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yol-haritamiz-belli-mhp-genel-baskani-bahceli-bolgesel-huzurun-en-onemli-adimi-terorsuz-turkiye-43388828"
+        },
         {
           "title": "Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler",
           "summary": "Beşiktaş'ta yaklaşık 17 iş yerinin tabelası İBB ekipleri tarafından gece saatlerinde söküldü. Başvurularının sonuçlanmadığını belirten esnaf, kırılarak indirilen tabelalar ve 50 bin TL'lik ceza iddiasına tepki gösterdi.",
@@ -115,51 +120,46 @@
           "title": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu",
           "summary": "Türkiye ile Katar arasında düzenlenen 12. Yüksek Stratejik Komite Toplantısı ortak bildirisinde, iki ülke arasında birçok alanda süren işbirliklerine ve anlaşmalara işaret edilerek, bölgesel istikrar ve güvenliğe yönelik çağrılarda bulunuldu.",
           "source": "https://www.hurriyet.com.tr/gundem/turkiye-katar-yuksek-stratejik-komite-12-toplantisi-ortak-bildirisi-yayimlandi-terorle-mucadele-ve-isbirlikleri-vurgusu-43377680"
-        },
-        {
-          "title": "BIST 100 endeksinde güçlü kapanış",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,24 değer kazanarak 11.811,19 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bist-100-endeksinde-guclu-kapanis-43376123"
         }
       ]
     },
     "spor": {
-      "text": "Nuri Şahin maç sonu açıkladı: 'Sezonu kapattı'. Burak Yılmaz: 'Kötü adam olup maçı bitirmeyi öğrenmeliyiz'. Fenerbahçe'de Shakhtar maçı mesaisi!. Özel Röportaj | Adana Demirspor futbolcusu Sefa Gülay'dan dikkat çekici ifadeler. Unai Emery: 'Galatasaray farklı, Türkiye'nin en iyi takımı'. Orkun Kökçü'den geleceği hakkında açıklama ve Beşiktaş itirafı!. CAF'tan başkanlık seçiminde Infantino'ya destek!.",
+      "text": "Fransız basınından olay Greenwood iddiası: 'PSG talip, Fenerbahçe'den ayrılmak istiyor!'. Fenerbahçe'nin Shakhtar Donetsk maçının kadrodsu belli oldu. EuroLeague'de Fenerbahçe ve Beşiktaş parkeye çıkıyor! Maçların heyecanı canlı yayın ile Misli'de. Nainggolan'dan Lukaku iddiası: 'Kırgın ve öfkeli! Yakında bombaları patlatacak'. Galatasaray, Şampiyonlar Ligi'nde Aston Villa'yı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de. Şampiyonlar Ligi'nde gollerin adresi: Real Madrid ve Manchester City! İşte Misli’den günün tüyoları!. Fenerbahçe maçı öncesi Arda Turan'ın Shakhtar Donetsk'ine çifte şok!.",
       "items": [
         {
-          "title": "Nuri Şahin maç sonu açıkladı: 'Sezonu kapattı'",
-          "summary": "Başakşehir Teknik Direktörü Nuri Şahin, Çoruım FK maçının ardından Emin Bayram'ın yüksek ihtimalle sezonu kapattığını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-mac-sonu-acikladi-sezonu-kapatti-43388606"
+          "title": "Fransız basınından olay Greenwood iddiası: 'PSG talip, Fenerbahçe'den ayrılmak istiyor!'",
+          "summary": "Khvicha Kvaratskhelia ve Desire Doue gibi üst düzey kanat oyuncularını sakatlığa kurban veren PSG, gözünü Fenerbahçe'ye dikti. Fransız devinin ara transfer döneminde Mason Greenwood için teklifte bulunacağı iddia edildi. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fransiz-basinindan-olay-greenwood-iddiasi-psg-talip-fenerbahceden-ayrilmak-istiyor-43389041"
         },
         {
-          "title": "Burak Yılmaz: 'Kötü adam olup maçı bitirmeyi öğrenmeliyiz'",
-          "summary": "Çorum FK Teknik Direktörü Burak Yılmaz, baskı altında oyun oynamayı ve skoru korumayı öğrenmeleri gerektiğini vurgulayarak, \"Kötü adam olup maçı bitirmeyi öğrenmeliyiz\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-kotu-adam-olup-maci-bitirmeyi-ogrenmeliyiz-43388579"
+          "title": "Fenerbahçe'nin Shakhtar Donetsk maçının kadrodsu belli oldu",
+          "summary": "Fenerbahçe'nin Şampiyonlar Ligi'nde deplasmanda oynayacağı Shakhtar Donetsk maçının kadrodsu belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-shakhtar-donetsk-macinin-kadrodsu-belli-oldu-43389030"
         },
         {
-          "title": "Fenerbahçe'de Shakhtar maçı mesaisi!",
-          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 5. haftasında 25 Kasım Çarşamba günü Ukrayna ekibi Shakhtar Donetsk ile karşılaşacağı mücadelenin hazırlıklarına devam etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-shakhtar-maci-mesaisi-43388482"
+          "title": "EuroLeague'de Fenerbahçe ve Beşiktaş parkeye çıkıyor! Maçların heyecanı canlı yayın ile Misli'de",
+          "summary": "EuroLeague'in 14. haftasında temsilcilerimiz Fenerbahçe ile Beşiktaş sahaya çıkıyor. Maçların heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/euroleaguede-fenerbahce-ve-besiktas-parkeye-cikiyor-maclarin-heyecani-canli-yayin-ile-mislide-43389002"
         },
         {
-          "title": "Özel Röportaj | Adana Demirspor futbolcusu Sefa Gülay'dan dikkat çekici ifadeler",
-          "summary": "2. Lig A Grubu’nda -55 puanla yer alan Adana Demirspor’un en skorer ismi Sefa Gülay, Hürriyet Spor Arena’dan Selen Cansu Aksoy’a kulübün güncel durumu ve geleceğine yönelik açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ozel-roportaj-adana-demirspor-futbolcusu-sefa-gulaydan-dikkat-cekici-ifadeler-43388466"
+          "title": "Nainggolan'dan Lukaku iddiası: 'Kırgın ve öfkeli! Yakında bombaları patlatacak'",
+          "summary": "Belçikalı eski futbolcu Radja Nainggolan, milli takım kariyerini noktalayan Fenerbahçe'nin tecrübeli golcüsü Romelu Lukaku'nun yakın zamanda bomba açıklamalar yapacağını belirterek, \"Pek çok konuda kırgın, hayal kırıklığına uğramış ve öfkeliydi. Daha fazlasını söylemeyeceğim. Bunu kendisi açıklayacak.\" ifadelerini kullandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nainggolandan-lukaku-iddiasi-kirgin-ve-ofkeli-yakinda-bombalari-patlatacak-43388924"
         },
         {
-          "title": "Unai Emery: 'Galatasaray farklı, Türkiye'nin en iyi takımı'",
-          "summary": "Aston Villa Teknik Direktörü Unai Emery, Şampiyonlar Ligi'nde oynayacakları maç öncesinde Galatasaray'a övgülerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/unai-emery-galatasaray-farkli-turkiyenin-en-iyi-takimi-43388478"
+          "title": "Galatasaray, Şampiyonlar Ligi'nde Aston Villa'yı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 5. haftasında İngiliz ekibi Aston Villa'yı konuk ediyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-sampiyonlar-liginde-aston-villayi-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43388899"
         },
         {
-          "title": "Orkun Kökçü'den geleceği hakkında açıklama ve Beşiktaş itirafı!",
-          "summary": "Beşiktaş kaptanı Orkun Kökçü, siyah-beyazlı takımdaki geleceği hakkında konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/orkun-kokcuden-gelecegi-hakkinda-aciklama-ve-besiktas-itirafi-43388456"
+          "title": "Şampiyonlar Ligi'nde gollerin adresi: Real Madrid ve Manchester City! İşte Misli’den günün tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-gollerin-adresi-real-madrid-ve-manchester-city-iste-misliden-gunun-tuyolari-43388856"
         },
         {
-          "title": "CAF'tan başkanlık seçiminde Infantino'ya destek!",
-          "summary": "CAF, FIFA'nın 2027'deki başkanlık seçiminde Infantino'yu destekleme kararı aldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/caftan-baskanlik-seciminde-infantinoya-destek-43388411"
+          "title": "Fenerbahçe maçı öncesi Arda Turan'ın Shakhtar Donetsk'ine çifte şok!",
+          "summary": "Şampiyonlar Ligi'nde yarın akşam Fenerbahçe ile İngiltere'de karşı karşıya gelecek olan Arda Turan'ın çalıştırdığı Ukrayna ekibi Shakhtar Donetsk'te peş peşe yaşanan olumsuzluklar moralleri bozdu. İşte detaylar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-maci-oncesi-arda-turanin-shakhtar-donetskine-cifte-sok-43388740"
         }
       ]
     },
@@ -204,8 +204,18 @@
       ]
     },
     "saglik": {
-      "text": "Sağlıklı uykunun sırrı: Kaç saat uyumalısınız?. Çocuk hastalarda bir ilk: 7 günde ayağa kalktı. Botoksta ölümcül tehlike: 3 ayda 15 vaka. 3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi. Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor. Balık nasıl saklanır? Temizleyip, poşete sarıyorsanız dikkat. En doğru ve sağlıklı yöntem buymuş. Avrupa Birliği pankreas kanserine karşı yeni ilaca onay verdi.",
+      "text": "Tek bir kuruş bile almıyor. İlaçsız, tamamen doğal yetiştirip kanser hastalarına hediye ediyor. Hastalıklara karşı direnç kazanmak isteyen tüketiyor. 16 saatte hazırlanıp, gün boyu tok tutuyor. Sağlıklı uykunun sırrı: Kaç saat uyumalısınız?. Çocuk hastalarda bir ilk: 7 günde ayağa kalktı. Botoksta ölümcül tehlike: 3 ayda 15 vaka. 3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi. Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor.",
       "items": [
+        {
+          "title": "Tek bir kuruş bile almıyor. İlaçsız, tamamen doğal yetiştirip kanser hastalarına hediye ediyor",
+          "summary": "Bilecik'te emekli olduktan sonra hobi olarak aronya üretmeyen başlayan kişi, kanser hastalarına iyi geldiği belirtilen bu meyveyi, tüketmeleri için talep edenlere ücretsiz olarak gönderiyor. Emekli olduktan sonra Kocaeli Gebze'den gelerek 700 rakımlı Bilecik'in Osmaneli ilçesine bağlı Adliye Köyü'nde yerleşen edebiyat öğretmeni Sıtkı Akçayır, hobi olarak aronya meyveyi yetiştirmeye başladı.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-tek-bir-kurus-bile-almiyor-ilacsiz-tamamen-dogal-yetistirip-kanser-hastalarina-hediye-ediyor-1752369"
+        },
+        {
+          "title": "Hastalıklara karşı direnç kazanmak isteyen tüketiyor. 16 saatte hazırlanıp, gün boyu tok tutuyor",
+          "summary": "Sivas'ta havaların soğumasıyla hastalıklara karşı bağışıklık sistemlerini güçlendirmek isteyenlerin kelleye olan ilgisi arttı. Yöresel lezzetlerden Sivas kellesi, havaların soğumasıyla yoğun ilgi görmeye başladı. Gün boyu tok tutma ve şifa deposu olan Sivas kellesi, genelde sabah kahvaltısı olarak tüketiliyor. 16 saat süren zahmetli hazırlık sürecinin ardından odun ateşinde pişirilen kuzu kellesi fiyatıyla da sevenlerini cezbediyor.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-hastaliklara-karsi-direnc-kazanmak-isteyen-tuketiyor-16-saatte-hazirlanip-gun-boyu-tok-tutuyor-1752346"
+        },
         {
           "title": "Sağlıklı uykunun sırrı: Kaç saat uyumalısınız?",
           "summary": "Her Cuma NTV'de yayınlanan Zincirleme Reaksiyon, bu hafta sağlıklı uykunun önemini, uyku süresinin insan sağlığı üzerindeki etkilerini ve uyku bozukluklarını ele aldı. Programın konuklarından Nörolog Prof. Dr. Taşkın Duman, Psikolog Dr. Hicran Tülüce ve Müzisyen Pınar Aylin, uyku alışkanlıklarını ve uyku kalitesini etkileyen faktörleri değerlendirdi. Sağlıklı uyku süresinin yaşa göre değiştiğini belirten Prof. Dr. Taşkın Duman, yetişkinlerin günde 7 ila 9 saat uyuması gerektiğini söyledi.",
@@ -230,16 +240,6 @@
           "title": "Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor",
           "summary": "Sivas'ta havaların soğumasıyla beraber bağışıklığı güçlendiren ve antibiyotik özelliği bulunan sofraların vazgeçilmezi turşular tezgahlardaki yerini aldı. Sivas'ta havanın soğumasıyla birlikte sofralarda salataların yerini turşular almaya başladı. Mevsiminde toplanan taze meyve ve sebzelerden kurulan turşular, vatandaşların yoğun ilgisini görüyor. Kış aylarına hazırlık sürecinin başlamasıyla birlikte şehirdeki turşu tezgâhları hareketlendi.",
           "source": "https://www.ntv.com.tr/saglik/dogal-antibiyotik-tezgahta-bagisikligini-guclendirmek-isteyenler-yogun-ilgi-gosteriyor-1751603"
-        },
-        {
-          "title": "Balık nasıl saklanır? Temizleyip, poşete sarıyorsanız dikkat. En doğru ve sağlıklı yöntem buymuş",
-          "summary": "Balık vücut sağlığı için oldukça önemli bir besin. Bu nedenle bilinçli ve zamanında tüketilmesi gerekiyor. Ancak balığın tüketimi kadar doğru saklama koşulları da sağlık açısından büyük önem taşıyor. Balık yüksek besin değeriyle vücut sağlığı için gerekli besin kaynakları arasında yer alıyor. Protein, omega-3 ve omega-6 yağ asitlerini içinde barındıran D, B, A ve E vitaminleri bakımından zengin olan balık bağışıklık sisteminden, Alzheimer hastalığına kadar pek çok faydasıyla dikkat çekiyor.",
-          "source": "https://www.ntv.com.tr/saglik/balik-nasil-saklanir-temizleyip-posete-sariyorsaniz-dikkat-en-dogru-ve-saglikli-yontem-buymus-1751408"
-        },
-        {
-          "title": "Avrupa Birliği pankreas kanserine karşı yeni ilaca onay verdi",
-          "summary": "Avrupa Birliği (AB) Komisyonu, vücudun çeşitli bölgelerine yayılmış pankreas kanserinin tedavisinde kullanılacak Daraxonrasib adlı ilaca pazarlama izni verdi. AB Komisyonu, metastatik pankreas kanserine yönelik yeni bir tedavi olan Daraxonrasib için AB genelinde pazarlama izni verildiğini açıkladı. Açıklamada, ilacın daha önce en az bir tedavi almış yetişkin hastalarda kullanılabileceği belirtildi.",
-          "source": "https://www.ntv.com.tr/saglik/avrupa-birligi-pankreas-kanserine-karsi-yeni-ilaca-onay-verdi-1751324"
         }
       ]
     },
