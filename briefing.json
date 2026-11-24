@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-23T10:00:04.116Z",
+  "generatedAt": "2026-11-24T04:00:04.367Z",
   "categories": {
     "gundem": {
-      "text": "Fon soruşturmasında yeni gelişme: Gözaltına alınan 6 şüpheli adliyede. Sarıyer'de aslan alarmı: Yollar kapatıldı, aslan her yerde aranıyor. Fon soruşturmasında yeni gelişme: Adliyeye sevk edildiler. Şifa vadiyle 3 milyon lira dolandırdı, kadına cinsel saldırıda bulundu. Otoparkta ilk üç saat kuralına uymayanlara ceza yağdı. COP31'de neden uzlaşı çıkmadı? Körfez ülkeleri ile AB arasında fosil yakıt anlaşmazlığı. VGM burs sonuçları sorgulama ekranı 2026. VGM yükseköğrenim burs sonuçları açıklandı.",
+      "text": "İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken çıkıyor. Bakan Gürlek, 24 Kasım Öğretmenler Günü’nü kutladı. 407 internet sitesine erişim engellendi. Eber Gölü'nde dört farklı noktada yangın çıktı. Bahçeli'den Öğretmenler Günü mesajı. Fon soruşturmasında gözaltına alınan 4 şüpheliye tutuklama talebi. 2026 yılı yeniden değerleme oranı belli oldu.",
       "items": [
         {
-          "title": "Fon soruşturmasında yeni gelişme: Gözaltına alınan 6 şüpheli adliyede",
-          "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" kapsamında gözaltına alınan 7 şüpheliden 6'sı adliyeye sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-gozaltina-alinan-6-supheli-adliyede-43387935"
+          "title": "İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken çıkıyor",
+          "summary": "İstanbul'da dün 20 derecelerde seyreden sıcaklıklar Balkanlardan gelen soğuk hava ile birlikte sıcaklık 0 dereceye kadar düşecek. İstanbul Valiliği'nden buzlanma ve don uyarısı geldi. İstanbul'da bahar havası yerini Balkanlar üzerinden gelen soğuk havaya bıraktı. Lodosun karayele dönmesiyle birlikte sıcaklıklar 12 derece birden düştü. İstanbul'da gece saatlerinde 6 dereceye kadar inen sıcaklığın, bugün gün içinde 7-8 derecelerde olması bekleniyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-istanbulda-iki-gunluk-kis-atki-bere-ve-eldivenler-erken-cikiyor-1752274"
         },
         {
-          "title": "Sarıyer'de aslan alarmı: Yollar kapatıldı, aslan her yerde aranıyor",
-          "summary": "Sarıyer'de görülen aslanı yakalama çalışmaları sürüyor. Uskumruköy'de bazı yollar kapatıldı. Ekipler ormanlık alana yoğunlaştı. Aslanın sahibinin tespit edilmesi için soruşturma başlatıldı. İstanbul'un Sarıyer ilçesinde görünen aslanı yakalama çalışmaları sürüyor. Uskumruköy'de dün akşam saatlerinde 112 Acil Çağrı Merkezi'ni arayan bir kişi, aslan gördüğünü söyleyerek ihbarda bulundu. Bölgede çalışma başlatan ekipler, güvenlik kamerası görüntülerinde dişi aslan olduğu değerlendirilen bir hayvanı tespit etti.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-sariyerde-aslan-alarmi-uskumrukoy-yaya-ve-arac-girisine-kapatildi-aslan-her-yerde-araniyor-1752168"
+          "title": "Bakan Gürlek, 24 Kasım Öğretmenler Günü’nü kutladı",
+          "summary": "Adalet Bakanı Akın Gürlek, 24 Kasım Öğretmenler Günü dolayısıyla bir kutlama mesajı yayımladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-24-kasim-ogretmenler-gununu-kutladi-43388657"
         },
         {
-          "title": "Fon soruşturmasında yeni gelişme: Adliyeye sevk edildiler",
-          "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında gözaltına alınan altı şüpheli, adliyeye sevk edildi. Sermaye piyasalarındaki gelişmelere ilişkin başlatılan fon soruşturması sürüyor. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada son olarak altı şüpheli daha gözaltına alınmıştı. Emniyete götürülen şüphelilerin buradaki işlemleri tamamlandı. Altı şüpheli, Çağlayan'daki İstanbul Adalet Sarayı'na sevk edildi. Şüpheliler soruşturmayı yürüten savcıya ifade verecek.",
+          "title": "407 internet sitesine erişim engellendi",
+          "summary": "Ankara İl Jandarma Komutanlığınca yürütülen sanal devriye faaliyetlerinde yasa dışı bahis, dolandırıcılık ve müstehcen içerikli paylaşım yaptığı belirlenen 407 internet sitesine erişim engellendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/407-internet-sitesine-erisim-engellendi-43388656"
+        },
+        {
+          "title": "Eber Gölü'nde dört farklı noktada yangın çıktı",
+          "summary": "Türkiye'nin en büyük göllerinden birisi olan Eber gönlün Afyonkarahisar sınırları içerisinde kalan 4 farklı noktasında yangın çıktı. Kuvvetli rüzgarın da etkisiyle yayılan yangınların söndürülmesi için çalışma başlatıldı. Türkiye'nin 12'nci büyük gölü olan Eber'de akşam saatlerinde Sultandağı ilçesi sınırlarındaki farklı bölgelerde eşzamanlı yangınlar çıktı. 4 farklı noktada çıkan yangınlar kuvvetli rüzgarın da etkisiyle hızla yayıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/eber-golunde-dort-farkli-noktada-yangin-cikti-1752272"
+        },
+        {
+          "title": "Bahçeli'den Öğretmenler Günü mesajı",
+          "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"Bütün öğretmenlerimizin 24 Kasım Öğretmenler Günü'nü kutluyor, kendilerine en içten sevgi ve saygılarımı sunuyorum\" dedi. MHP Genel Başkanı Bahçeli, 24 Kasım Öğretmenler Günü dolayısıyla bir kutlama mesajı yayımladı. Bahçeli mesajında, \"Öğretmenlik, bir ömrü binlerce hayatta yaşatmaktır.",
+          "source": "https://www.ntv.com.tr/turkiye/bahceliden-ogretmenler-gunu-mesaji-1752270"
+        },
+        {
+          "title": "Fon soruşturmasında gözaltına alınan 4 şüpheliye tutuklama talebi",
+          "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında gözaltına alınan 7 şüpheliden 4'ü tutuklama talebiyle sulh ceza hakimliğine sevk edildi. İstanbul Cumhuriyet Başsavcılığınca sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen \"fon soruşturması\" sürüyor. Soruşturma kapsamında 7 şüpheli daha gözaltına alındı. Şüphelilerden 6'sı emniyetteki işlemlerin ardından Çağlayan'daki İstanbul Adliyesi'ne götürüldü.",
           "source": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-adliyeye-sevk-edildiler-1752193"
         },
         {
-          "title": "Şifa vadiyle 3 milyon lira dolandırdı, kadına cinsel saldırıda bulundu",
-          "summary": "İzmir'de akıllara durgunluk veren olay yaşandı. Kendisini 'mehdi' olarak tanıtan kişi, şifa vaadiyle bir aileyi 3 milyon lira dolandırdı. Şüphelinin ailedeki kadına cinsel saldırıda bulunduğu ve 3 buçuk yaşındaki çocuğa da fiziksel temasının olduğu öne sürüldü",
-          "source": "https://www.hurriyet.com.tr/gundem/sifa-vadiyle-3-milyon-lira-dolandirdi-kadina-cinsel-saldirida-bulundu-43387874"
-        },
-        {
-          "title": "Otoparkta ilk üç saat kuralına uymayanlara ceza yağdı",
-          "summary": "İstanbul'da otoparklarında ilk üç saat ücretsiz kuralına uymayan 50 alışveriş, iş ve ticaret merkezine toplamda 2 milyon 426 bin 775 lira para cezası kesildi. İstanbul Büyükşehir Belediyesinden yapılan açıklamaya göre, İBB Zabıta Dairesi Başkanlığı, Ulaşım Koordinasyon Merkezinin (UKOME) yürürlükteki kararı doğrultusunda İstanbul genelindeki alışveriş, iş ve ticaret merkezi otoparklarındaki denetimlerini sürdürüyor.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-otoparkta-ilk-uc-saat-kuralina-uymayanlara-ceza-yagdi-1752188"
-        },
-        {
-          "title": "COP31'de neden uzlaşı çıkmadı? Körfez ülkeleri ile AB arasında fosil yakıt anlaşmazlığı",
-          "summary": "Antalya'nın ev sahipliğinde düzenlenen COP31 zirvesi dün akşam sona erdi. Zirvede Körfez ülkeleri ile AB arasında yaşanan anlaşmazlık nedeniyle uzlaşı çıkmadı. Peki müzakere sürecinde neler yaşandı? Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Konferansı COP31 ülkelerin uzayan görüşmelerde bir anlaşmaya varamamasının ardından 22 Kasım 2026 akşamı yani dün akşam saatlerinde sona erdi.",
-          "source": "https://www.ntv.com.tr/turkiye/cop31de-neden-uzlasi-cikmadi-korfez-ulkeleri-ile-ab-arasinda-fosil-yakit-anlasmazligi-1752179"
-        },
-        {
-          "title": "VGM burs sonuçları sorgulama ekranı 2026. VGM yükseköğrenim burs sonuçları açıklandı",
-          "summary": "Vakıflar Genel Müdürlüğü (VGM) tarafından üniversite öğrencilerine sağlanan karşılıksız yükseköğrenim bursu için haftalardır süren heyecanlı bekleyiş sona erdi ve sonuçlar açıklandı. 22-31 Ekim 2026 tarihleri arasında elektronik ortamda başvurularını tamamlayan ön lisans ve lisans öğrencilerinin değerlendirme işlemleri tamamlandı ve 2026-2027 VGM yükseköğrenim burs sonuçları açıklandı. Sonuç duyurusunun hemen ardından öğrenciler ve aileleri, VGM burs sonuçları için sorgulama ekranına giriş yapmaya başladı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-vgm-burs-sonuclari-sorgulama-ekrani-2026-vgm-yuksekogrenim-burs-sonuclari-aciklandi-1752183"
+          "title": "2026 yılı yeniden değerleme oranı belli oldu",
+          "summary": "Hazine ve Maliye Bakanlığı, 2026 yılı için yeniden değerleme oranını yüzde 27,83 olarak belirledi. Karar, Vergi Usul Kanunu Genel Tebliği ile duyuruldu. Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı tarafından yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 599) ile 2026 yılı yeniden değerleme oranı belli oldu. Tebliğe göre, 2026 yılı için yeniden değerleme oranı yüzde 27,83 olarak tespit edildi. Cumhurbaşkanının bazı vergi ve harçlarda yeniden değerleme oranını değiştirme yetkisi bulunuyor.",
+          "source": "https://www.ntv.com.tr/turkiye/2026-yili-yeniden-degerleme-orani-belli-oldu-1752267"
         }
       ]
     },
     "dunya": {
-      "text": "Çinli devlet yetkilisine casusluktan idam cezası. Endonezya'daki fabrika yangınında kaybolan 34 işçiyi arama çalışmaları devam ediyor. Ermenistan'ın yeni anayasa taslağında toprak iddiası içeren bildirgeye yer verilmedi. Ukrayna savaşında yeni eşik! Zelenski sorumluluğu üstlendi: Hedef vuruldu. 1992'den bu yana ilk. Demokratlar, Temsilciler Meclisi'nde en büyük çoğunluğu kazandı. 6,7'lik depremde haber sunmaya devam etti. Yılın elemanı olmaya aday. İngiltere'de bilinmeyen madde paniği: Geniş çaplı acil durum uyarısı.",
+      "text": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi. Nvidia'da Jensen Huang yeniden CEO oldu. Belçika'da grev hayatı felç etti. Tüm uçuşlar iptal, kamu hizmetleri aksadı. \"Japonya Başbakanı, çevrim içi G7 Zirvesi'ne alkollü olduğu için katılmadı\" iddiası. Ukrayna Devlet Başkanı Zelenskiy’den ‘NATO’ açıklaması. Trump, Huang için Nvidia'yı ikna etti… Demokrat senatörde tepki geldi. Okullarda cep telefonu kararı: İzin verilmeyecek.",
       "items": [
         {
-          "title": "Çinli devlet yetkilisine casusluktan idam cezası",
-          "summary": "Çin'de bakanlık görevlisi, devlet sırlarını yabancı istihbarat kuruluşuna sızdırdığı suçlamasıyla idam cezasına çarptırıldı. Yabancı bir devletin şantajı sonucu casusluk yapmayı kabul eden yetkilinin \"işbirliği sözleşmesi\" imzaladığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/cinli-devlet-yetkilisine-casusluktan-idam-cezasi-43387911"
+          "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
+          "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda izin verilmeyen güzergahları kullanan 3 petrol tankerinin deniz mayınlarına çarpması sonucu patlayarak alev aldığını duyurdu. İran Devrim Muhafızları Ordusu tarafından konuya ilişkin yazılı açıklama yapıldı. Açıklamada, Hürmüz Boğazı'nda izin verilmeyen güzergahları kullanan 3 petrol tankerinin deniz mayınlarına çarpması sonucu patlamalar ve şiddetli yangın meydana geldiği belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/hurmuz-bogazinda-3-petrol-tankerinde-patlama-meydana-geldi-1752276"
         },
         {
-          "title": "Endonezya'daki fabrika yangınında kaybolan 34 işçiyi arama çalışmaları devam ediyor",
-          "summary": "Endonezya'nın Banten bölgesinde şekerleme üretim fabrikasında çıkan yangında kayıp 34 işçiyi arama çalışmaları sürüyor.",
-          "source": "https://www.hurriyet.com.tr/dunya/endonezyadaki-fabrika-yangininda-kaybolan-34-isciyi-arama-calismalari-devam-ediyor-43387895"
+          "title": "Nvidia'da Jensen Huang yeniden CEO oldu",
+          "summary": "ABD'li çip üreticisi Nvidia, Jensen Huang'ın derhal geçerli olmak üzere yeniden CEO görevine getirildiğini açıkladı. Huang, 12 Kasım'da görevinden ayrılmıştı. Yapay zeka çipleri üreticisi Nvidia'da üst yönetim yeniden değişti. Şirket, kurucusu Jensen Huang'ın derhal geçerli olmak üzere yeniden Üst Yönetici (CEO) ve yönetim kurulu üyesi olarak görevlendirildiğini açıkladı. Nvidia yönetim kurulu, Huang ile yapılan görüşmelerin ardından yeniden atanması yönünde oy birliğiyle karar alındığını bildirdi.",
+          "source": "https://www.ntv.com.tr/dunya/nvidiada-jensen-huang-yeniden-ceo-oldu-1752245"
         },
         {
-          "title": "Ermenistan'ın yeni anayasa taslağında toprak iddiası içeren bildirgeye yer verilmedi",
-          "summary": "Ermenistan hükümeti tarafından yayımlanan yeni anayasa taslağında, ülkenin mevcut sınırları dışında toprak iddiaları öngören \"Bağımsızlık Bildirgesi\"ne atıf ifadeleri yer bulmadı. Ermenistan hükümeti, yeni anayasa taslağını hükümetin resmi internet sayfasında yayımladı. Taslakta, Başbakan Nikol Paşinyan'ın daha önce bilgisini verdiği şekilde, \"23 Ağustos 1990 tarihli Ermenistan Bağımsızlık Bildirgesi\"ne atıf içeren ifadeler kullanılmadı.",
-          "source": "https://www.ntv.com.tr/dunya/ermenistanin-yeni-anayasa-taslaginda-toprak-iddiasi-iceren-bildirgeye-yer-verilmedi-1752182"
+          "title": "Belçika'da grev hayatı felç etti. Tüm uçuşlar iptal, kamu hizmetleri aksadı",
+          "summary": "Belçika'da çalışanların, hükümetin kemer sıkma politikalarına karşı başlattığı bir günlük grev nedeniyle kamu hizmetleri ve toplu taşıma aksadı, havalimanlarından sefer yapılmadı. Belçika'daki büyük işçi sendikaları CSC, FGTB ve Synova'nın çağrısıyla çalışanlar, federal hükümetin sosyal harcamalarda yapacağı kesintiler ile alım güçlerinin azalmasını protesto etmek için bir günlüğüne iş bıraktı. Grev nedeniyle ülke genelinde kamu ve özel sektör hizmetleri önemli ölçüde aksarken hayat durma noktasına geldi.",
+          "source": "https://www.ntv.com.tr/dunya/belcikada-grev-hayati-felc-etti-tum-ucuslar-iptal-kamu-hizmetleri-aksadi-1752219"
         },
         {
-          "title": "Ukrayna savaşında yeni eşik! Zelenski sorumluluğu üstlendi: Hedef vuruldu",
-          "summary": "Rusya ile Ukrayna arasındaki savaş, pazar günü Libya'nın Bingazi limanında düzenlenen saldırıyla Akdeniz'e sıçradı. Rus savaş gemisi Merkury'nin batırıldığı olaya ilişkin sessizliğini bozan Ukrayna saldırıyı üstlendi. Ukrayna Devlet Başkanı Volodimir Zelenski, 7 insansız hava araçlarıyla (İHA) hedef alınan savaş gemisinin battığını, bir başka Rus gemisinin de saldırıda vurulduğunu belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ukrayna-savasinda-yeni-esik-zelenski-sorumlulugu-ustlendi-hedef-vuruldu-43387819"
+          "title": "\"Japonya Başbakanı, çevrim içi G7 Zirvesi'ne alkollü olduğu için katılmadı\" iddiası",
+          "summary": "Japonya Başbakanı Takaiçi Sanae'nin, ekim başında çevrim içi düzenlenen G7 Zirvesi'ne \"hemen öncesinde içkili bir toplantıda ve alkol etkisinde olduğu\" gerekçesiyle katılmadığı iddia edildi. Ulusal düzeyde haftalık yayımlanan aktüel Şuukan Gendai dergisinin iktidar partisi yetkililerine dayandırdığı haberinde, Takaiçi'nin 2 Ekim'deki çevrim içi G7 Zirvesi'nde yer almamasına dair yeni iddialar paylaşıldı.",
+          "source": "https://www.ntv.com.tr/dunya/japonya-basbakani-cevrim-ici-g7-zirvesine-alkollu-oldugu-icin-katilmadi-iddiasi-1752230"
         },
         {
-          "title": "1992'den bu yana ilk. Demokratlar, Temsilciler Meclisi'nde en büyük çoğunluğu kazandı",
-          "summary": "ABD'de 3 Kasım'da yapılan ara seçimlerde Demokrat Parti, Kuzey Carolina'daki zaferin ardından Temsilciler Meclisi'nde 258 sandalyeye ulaşarak 1992'den bu yana en büyük çoğunluğunu elde etti. ABD'de 3 Kasım'da yapılan ara seçimlerde Demokrat Parti, Kuzey Carolina'daki sandalye kazanımının ardından Temsilciler Meclisi'nde 258 sandalyeye ulaşarak 1992'den bu yana en büyük meclis çoğunluğunu elde etti.",
-          "source": "https://www.ntv.com.tr/dunya/1992den-bu-yana-ilk-demokratlar-temsilciler-meclisinde-en-buyuk-cogunlugu-kazandi-1752172"
+          "title": "Ukrayna Devlet Başkanı Zelenskiy’den ‘NATO’ açıklaması",
+          "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, “Güvenlik garantisi açısından Ukrayna’nın NATO'ya kabul edilmesi daha etkili olabilir” dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ukrayna-devlet-baskani-zelenskiyden-nato-aciklamasi-43388529"
         },
         {
-          "title": "6,7'lik depremde haber sunmaya devam etti. Yılın elemanı olmaya aday",
-          "summary": "Peru'da meydana gelen 6,7 büyüklüğündeki depremde yaşanan sarsıntıya rağmen paniğe kapılmadan canlı yayını sürdürerek halka sakin olma çağrısı yapan spiker Carla Harada, yılın personeli olmaya aday. Peru'nun And Dağları'ndaki Junin bölgesinde geçtiğimiz cuma günü meydana gelen 6,7 büyüklüğündeki depreme canlı yayında yakalanan Exitosa Noticias kanalı spikeri Carla Harada'nın sakinliği takdirle karşılandı.",
-          "source": "https://www.ntv.com.tr/dunya/67lik-depremde-haber-sunmaya-devam-etti-yilin-elemani-olmaya-aday-1752166"
+          "title": "Trump, Huang için Nvidia'yı ikna etti… Demokrat senatörde tepki geldi",
+          "summary": "ABD Başkanı Donald Trump, Nvidia Yönetim Kurulu ile görüştüğünü ve Jensen Huang'ı yeniden üst yöneticilik (CEO) görevine getirmelerine ikna ettiğini söyledi. ABD'de Demokrat Senatör Chuck Schumer, Nvidia'nın Huang'ı yeniden CEO'luk görevine getirmesini eleştirerek Trump'ı maddi çıkarlarını \"ulusal güvenliğin\" önüne koymakla suçladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/trump-huangi-ceoluk-gorevine-dondurmek-icin-nvidiayi-ikna-etti-demokrat-senatorde-tepki-geldi-43388519"
         },
         {
-          "title": "İngiltere'de bilinmeyen madde paniği: Geniş çaplı acil durum uyarısı",
-          "summary": "İngiltere'nin en büyük canlı eğlence arenası Co-op Live'deki rap konseri sırasında seyirciler, 'bilinmeyen bir madde' nedeniyle çeşitli semptomlar göstermeye başladı. Olay yerini karantinaya alan polis, bölgede acil durum ilan etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/ingilterede-bilinmeyen-madde-panigi-genis-capli-acil-durum-uyarisi-43387694"
+          "title": "Okullarda cep telefonu kararı: İzin verilmeyecek",
+          "summary": "Danimarka, 2027-2028 eğitim öğretim yılından itibaren ilkokul ve ortaokullarda cep telefonu kullanımına izin verilmeyeceğini açıkladı.",
+          "source": "https://www.hurriyet.com.tr/dunya/okullarda-cep-telefonu-karari-izin-verilmeyecek-43388495"
         }
       ]
     },
@@ -124,48 +124,53 @@
       ]
     },
     "spor": {
-      "text": "Beşiktaş Fuzul, EuroLeague'de Paris Basketbol'u konuk edecek. Trabzonspor'da Thomas Reis tarihe geçti. Fenerbahçe Tarfin, EuroLeague'de Barcelona'ya konuk olacak. Bursa’da Kıran Kırana 9 Koşu ! İşte Misli’den Günün Altılı Analizi…. Shakhtar Donetsk-Fenerbahçe maçının hakemi açıklandı!. İşte Galatasaray-Aston Villa maçı öncesi zeminin son durumu. Sabit ihtimallerle nokta atışı: Misli yazarları at yarışında yine kazandırdı!.",
+      "text": "Nuri Şahin maç sonu açıkladı: 'Sezonu kapattı'. Burak Yılmaz: 'Kötü adam olup maçı bitirmeyi öğrenmeliyiz'. Fenerbahçe'de Shakhtar maçı mesaisi!. Özel Röportaj | Adana Demirspor futbolcusu Sefa Gülay'dan dikkat çekici ifadeler. Unai Emery: 'Galatasaray farklı, Türkiye'nin en iyi takımı'. Orkun Kökçü'den geleceği hakkında açıklama ve Beşiktaş itirafı!. CAF'tan başkanlık seçiminde Infantino'ya destek!.",
       "items": [
         {
-          "title": "Beşiktaş Fuzul, EuroLeague'de Paris Basketbol'u konuk edecek",
-          "summary": "Beşiktaş Fuzul, EuroLeague'in 14. haftasında yarın sahasında Fransa temsilcisi Paris Basketbol ile karşılaşacak.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-fuzul-euroleaguede-paris-basketbolu-konuk-edecek-43387930"
+          "title": "Nuri Şahin maç sonu açıkladı: 'Sezonu kapattı'",
+          "summary": "Başakşehir Teknik Direktörü Nuri Şahin, Çoruım FK maçının ardından Emin Bayram'ın yüksek ihtimalle sezonu kapattığını söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/nuri-sahin-mac-sonu-acikladi-sezonu-kapatti-43388606"
         },
         {
-          "title": "Trabzonspor'da Thomas Reis tarihe geçti",
-          "summary": "Trabzonspor, Süper Lig'in 12'nci haftasında sahasında Eyüpspor'u 1-0 mağlup ederek ligdeki galibiyet serisini 7 maça çıkardı. Bordo-mavililer, Teknik Direktör Thomas Reis yönetiminde yakaladığı başarılı performansla zirve yarışındaki iddiasını sürdürürken Alman teknik adam kulüp tarihine geçti. Karadeniz ekibi, iç sahada da 41 yıl sonra bir sezona 6'da 6 yaparak başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-thomas-reis-tarihe-gecti-43387917"
+          "title": "Burak Yılmaz: 'Kötü adam olup maçı bitirmeyi öğrenmeliyiz'",
+          "summary": "Çorum FK Teknik Direktörü Burak Yılmaz, baskı altında oyun oynamayı ve skoru korumayı öğrenmeleri gerektiğini vurgulayarak, \"Kötü adam olup maçı bitirmeyi öğrenmeliyiz\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/burak-yilmaz-kotu-adam-olup-maci-bitirmeyi-ogrenmeliyiz-43388579"
         },
         {
-          "title": "Fenerbahçe Tarfin, EuroLeague'de Barcelona'ya konuk olacak",
-          "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, EuroLeague'de 14. haftasında yarın İspanyol ekibi Barcelona ile deplasmanda karşı karşıya gelecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-tarfin-euroleaguede-barcelonaya-konuk-olacak-43387879"
+          "title": "Fenerbahçe'de Shakhtar maçı mesaisi!",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 5. haftasında 25 Kasım Çarşamba günü Ukrayna ekibi Shakhtar Donetsk ile karşılaşacağı mücadelenin hazırlıklarına devam etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-shakhtar-maci-mesaisi-43388482"
         },
         {
-          "title": "Bursa’da Kıran Kırana 9 Koşu ! İşte Misli’den Günün Altılı Analizi…",
-          "summary": "Bursa Osmangazi Hipodromu’nda bugün yarışseverleri oldukça zorlu ve mücadele gücü yüksek bir program bekliyor. 9 koşuluk Bursa programında özellikle denk güçteki safkanların bir araya geldiği yarışlar, altılı ganyan kurgularını bir hayli zorlaştıracak gibi görünüyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/bursada-kiran-kirana-9-kosu-iste-misliden-gunun-altili-analizi-43387860"
+          "title": "Özel Röportaj | Adana Demirspor futbolcusu Sefa Gülay'dan dikkat çekici ifadeler",
+          "summary": "2. Lig A Grubu’nda -55 puanla yer alan Adana Demirspor’un en skorer ismi Sefa Gülay, Hürriyet Spor Arena’dan Selen Cansu Aksoy’a kulübün güncel durumu ve geleceğine yönelik açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/ozel-roportaj-adana-demirspor-futbolcusu-sefa-gulaydan-dikkat-cekici-ifadeler-43388466"
         },
         {
-          "title": "Shakhtar Donetsk-Fenerbahçe maçının hakemi açıklandı!",
-          "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında oynanacak Shakhtar Donetsk-Fenerbahçe karşılaşmasını İngiliz hakem Michael Oliver yönetecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/shakhtar-donetsk-fenerbahce-macinin-hakemi-aciklandi-43387867"
+          "title": "Unai Emery: 'Galatasaray farklı, Türkiye'nin en iyi takımı'",
+          "summary": "Aston Villa Teknik Direktörü Unai Emery, Şampiyonlar Ligi'nde oynayacakları maç öncesinde Galatasaray'a övgülerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/unai-emery-galatasaray-farkli-turkiyenin-en-iyi-takimi-43388478"
         },
         {
-          "title": "İşte Galatasaray-Aston Villa maçı öncesi zeminin son durumu",
-          "summary": "Galatasaray, UEFA Şampiyonlar Ligi’nin 5’inci haftasında Aston Villa’yı konuk edeceği karşılaşma öncesinde Rams Park zeminindeki çalışmalar tüm hızıyla sürüyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/iste-galatasaray-aston-villa-maci-oncesi-zeminin-son-durumu-42667267"
+          "title": "Orkun Kökçü'den geleceği hakkında açıklama ve Beşiktaş itirafı!",
+          "summary": "Beşiktaş kaptanı Orkun Kökçü, siyah-beyazlı takımdaki geleceği hakkında konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/orkun-kokcuden-gelecegi-hakkinda-aciklama-ve-besiktas-itirafi-43388456"
         },
         {
-          "title": "Sabit ihtimallerle nokta atışı: Misli yazarları at yarışında yine kazandırdı!",
-          "summary": "Misli’de heyecan hiç bitmiyor! Spor bahislerinin yanı sıra sunduğu farklı oyun seçenekleriyle kullanıcılarına zengin bir deneyim yaşatan Misli, at yarışıyla heyecanı daha da artırıyor. Misli üyeleri, yurt içi ve yurt dışındaki yarışları takip ederek at yarışı tutkusunu uzman yazarlarla doyasıya yaşıyor.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sabit-ihtimallerle-nokta-atisi-misli-yazarlari-at-yarisinda-yine-kazandirdi-43387841"
+          "title": "CAF'tan başkanlık seçiminde Infantino'ya destek!",
+          "summary": "CAF, FIFA'nın 2027'deki başkanlık seçiminde Infantino'yu destekleme kararı aldı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/caftan-baskanlik-seciminde-infantinoya-destek-43388411"
         }
       ]
     },
     "teknoloji": {
-      "text": "Bolivya Cumhurbaşkanı Pereira'dan ASELSAN'a övgü: İleri teknolojiye sahip bir şirket. HÜRKUŞ'a yeni yazılım. İşte yeni sistemin özellikleri. \"Ay toprağında\" patates hasadı. Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat. GTA 6 çılgınlığı dünyayı sardı. GTA 6 heyecanı sürerken PlayStation'da erişim sorunu. Saç çıkartan tarak icat edildi. 28 günde yüzde 98'i geri çıkıyor.",
+      "text": "GTA 6'yı sızdıran hacker'a 7 yıl hapis cezası : Otel odasından milyonluk saldırı yaptı. Bolivya Cumhurbaşkanı Pereira'dan ASELSAN'a övgü: İleri teknolojiye sahip bir şirket. HÜRKUŞ'a yeni yazılım. İşte yeni sistemin özellikleri. \"Ay toprağında\" patates hasadı. Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat. GTA 6 çılgınlığı dünyayı sardı. GTA 6 heyecanı sürerken PlayStation'da erişim sorunu.",
       "items": [
+        {
+          "title": "GTA 6'yı sızdıran hacker'a 7 yıl hapis cezası : Otel odasından milyonluk saldırı yaptı",
+          "summary": "İngiltere'de, Grand Theft Auto VI (GTA 6) oyununun görüntülerini piyasaya sürülmesinden yıllar önce internete sızdıran 21 yaşındaki hacker Arion Kurtaj, yedi yıl hapis cezasına çarptırıldı. İngiltere'de bir mahkeme, GTA 6'nın görüntülerini sızdırmasıyla tanınan İngiliz hacker Arion Kurtaj'ı, büyük şirketlere yönelik bir dizi siber saldırı nedeniyle yedi yıl hapis cezasına çarptırdı.",
+          "source": "https://www.ntv.com.tr/teknoloji/gta-6yi-sizdiran-hackera-7-yil-hapis-cezasi-otel-odasindan-milyonluk-saldiri-yapti-1752261"
+        },
         {
           "title": "Bolivya Cumhurbaşkanı Pereira'dan ASELSAN'a övgü: İleri teknolojiye sahip bir şirket",
           "summary": "Bolivya Cumhurbaşkanı Rodrigo Paz Pereira, Ankara'daki programı kapsamında ziyaret ettiği ASELSAN'dan övgüyle bahsetti.",
@@ -195,11 +200,6 @@
           "title": "GTA 6 heyecanı sürerken PlayStation'da erişim sorunu",
           "summary": "Grand Theft Auto VI'nın (GTA 6) dünya genelinde kademeli olarak erişime açılmasıyla birlikte PlayStation Network'te teknik sorun yaşandığına ilişkin şikayetler arttı. Oyun dünyasının merakla beklediği Grand Theft Auto VI (GTA 6), ilk olarak Yeni Zelanda'da oyuncularla buluşurken, PlayStation Network'te (PSN) teknik sorun yaşandığına ilişkin şikayetler arttı.",
           "source": "https://www.ntv.com.tr/teknoloji/gta-6-heyecani-surerken-playstationda-erisim-sorunu-1751511"
-        },
-        {
-          "title": "Saç çıkartan tarak icat edildi. 28 günde yüzde 98'i geri çıkıyor",
-          "summary": "Bilim insanları, 28 günde saçların yüzde 97,85 oranında yeniden çıkışını sağlayan bir tedavi yöntemi üzerinde çalışıyor. Çin başkenti Pekin'de Beihang Üniversitesi'nden bir araştırma ekibi tarafından yüzde 97,85 oranında saçların yeniden çıkışını sağlayan bir tedavi geliştirildi. Deneysel aşamada olan tedavi yöntemi fareler üzerinde yapıldı ve standart ilaçlardan daha başarılı sonuçlar verdi. \"Detangle\" adı verilen biyoelektronik tarak, kel fareler üzerinde 28 gün boyunca test edildi.",
-          "source": "https://www.ntv.com.tr/teknoloji/sac-cikartan-tarak-icat-edildi-28-gunde-yuzde-98i-geri-cikiyor-1751355"
         }
       ]
     },
