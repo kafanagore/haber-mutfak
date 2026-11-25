@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-25T04:00:03.932Z",
+  "generatedAt": "2026-11-25T10:00:04.131Z",
   "categories": {
     "gundem": {
-      "text": "Çorum'da kadın cinayeti. Boşanma aşamasında olduğu eşini 3 çocuğunun önünde öldürdü. Trabzon'da cadde ve sokaklar göle döndü. Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu. Uçurumdan yuvarlanan ATV sürücüsü 6 saatte kurtarıldı. Polis aracına çarpıp kaçan otomobil sürücüsüne 650 bin TL ceza. İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı. Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı.",
+      "text": "Korku dolu anlar; TIR'dan uçtu, motosikletlinin kaskına yapıştı. Eskişehir'de helikopter kazası: 5 eve ateş düştü! Şehit olan askerlerden geriye bu görüntüler kaldı. Yeni Parti MYK üyelerini belirledi. İşte Özgür Özel'in A takımı. Yeni Parti'de MYK belli oldu. Danıştay 8. Dairesi kararı onadı. İmamoğlu'nun diploması iptal edildi. DEM Parti İmralı heyeti üyeleri, Bakan Gürlek ile görüştü. Şile Belediyesi davası | Haluk Levent: Yeliz Kaya yerine benim tutuklanmam gerekiyor.",
       "items": [
         {
-          "title": "Çorum'da kadın cinayeti. Boşanma aşamasında olduğu eşini 3 çocuğunun önünde öldürdü",
-          "summary": "Çorum'da boşanma aşamasında olduğu eşi Esin Özdemir’i 3 çocuğunun gözü önünde öldüren saldırgan, 11 saat polise direndikten sonra intihara teşebbüs etti. Çamlık Caddesi'ndeki bir apartmanda dün akşam saatlerinde silahla ateş edildiği ihbarı üzerine bölgeye polis ve sağlık ekipleri yönlendirildi. Polis ekiplerince yapılan incelemede, Esin Özdemir'in boşanma aşamasındaki eşi Gökhan Özdemir tarafından silahla öldürüldüğü belirlendi. Çiftin olay sırasında evde bulunan 3 çocuğu ekiplerce tahliye edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/corumda-kadin-cinayeti-bosanma-asamasinda-oldugu-esini-3-cocugunun-onunde-oldurdu-1752453"
+          "title": "Korku dolu anlar; TIR'dan uçtu, motosikletlinin kaskına yapıştı",
+          "summary": "Bursa'da otoyolda seyreden TIR'ın dorsesinden uçan karton, arkadaki motosikletlinin kaskına yapıştı. Motosiklet sürücüsünün önünü görmeden ilerlediği anlar, kask kamerasına yansıdı. Bursa-İstanbul Otoyolu’nda hareket halinde olan motosikletin sürücüsü, önünde ilerleyen geri dönüşüm malzemesi taşıyan TIR'ın dorsesinden uçan karton parçasının başındaki kaska yapışmasıyla zor durumda kaldı. O anlar, kask kamerasına yansıdı.",
+          "source": "https://www.ntv.com.tr/turkiye/video-korku-dolu-anlar-tirdan-uctu-motosikletlinin-kaskina-yapisti-1752545"
         },
         {
-          "title": "Trabzon'da cadde ve sokaklar göle döndü",
-          "summary": "Trabzon'un Ortahisar ilçesinde şiddetli yağış nedeniyle birçok noktada su baskınları yaşandı. Bir istinat duvarının çökmesi sonucu 5 araç zarar gördü. Sürmene ve Yomra' da dereler taştı. Ortahisar ilçesinde akşam saatlerinde etkisini artıran yağış nedeniyle cadde ve sokaklarda su birikintileri oluştu. Bazı mahallelerdeki rögarlar taştı, araçlar trafikte ilerlemekte güçlük çekti.",
-          "source": "https://www.ntv.com.tr/turkiye/trabzonda-cadde-ve-sokaklar-gole-dondu-1752451"
+          "title": "Eskişehir'de helikopter kazası: 5 eve ateş düştü! Şehit olan askerlerden geriye bu görüntüler kaldı",
+          "summary": "Eskişehir’de eğitim uçuşu sırasında kaza kırıma uğrayan Hava Kuvvetlerine ait helikopterde görevli 5 asker şehit oldu. Naaşları adli tıp işlemleri için Ankara’ya getirilen şehitlerin babaevlerinde yas yaşanırken, şehit Hava Piyade Astsubay Kıdemli Çavuş Mehmet Alp Gürdağ ile şehit Hava Pilot Astsubay Başçavuş Volkan Demirhan’ın son paylaşımları yürekleri dağladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/eskisehirde-helikopter-kazasi-5-eve-ates-dustu-sehit-olan-askerlerden-geriye-bu-goruntuler-kaldi-43390539"
         },
         {
-          "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
-          "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu. Milli Savunma Bakanlığı (MSB), Eskişehir’de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 askerin şehit olduğunu açıkladı.",
-          "source": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423"
+          "title": "Yeni Parti MYK üyelerini belirledi. İşte Özgür Özel'in A takımı",
+          "summary": "Yeni Parti Genel Başkanı Özgür Özel, Merkez Yönetim Kurulu (MYK) üyelerini belirledi. Genel Sekreter bir kez daha Selin Sayek Böke oldu. Parti Sözcüsü ise değişti. Yeni Parti, 1. Olağan Kurultay sonrası ilk Parti Meclisi (PM) toplantısını gerçekleştirdi. Genel Başkan Özgür Özel başkanlığında toplanan PM üyeleri içinden Merkez Yönetim Kurulu (MYK) belirlendi. 28 kişiden oluşan MYK'da Genel Sekreter Selin Sayek Böke, Parti Sözcüsü ise Salih Uzun seçildi.",
+          "source": "https://www.ntv.com.tr/turkiye/yeni-parti-myk-uyelerini-belirledi-iste-ozgur-ozelin-a-takimi-1752544"
         },
         {
-          "title": "Uçurumdan yuvarlanan ATV sürücüsü 6 saatte kurtarıldı",
-          "summary": "Yalova’da sürücüsünün direksiyon hakimiyetini kaybettiği ATV uçurumdan yuvarlanandı. Ekiplerin yaklaşık 6 saat süren çalışmasının ardından sürücü yaralı olarak kurtarıldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ucurumdan-yuvarlanan-atv-surucusu-6-saatte-kurtarildi-43390104"
+          "title": "Yeni Parti'de MYK belli oldu",
+          "summary": "Yeni Parti'de MYK belli oldu. Genel Sekreter Selin Sayek Böke, Parti Sözcüsü Salih Uzun olarak belirlendi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yeni-partide-myk-belli-oldu-43390493"
         },
         {
-          "title": "Polis aracına çarpıp kaçan otomobil sürücüsüne 650 bin TL ceza",
-          "summary": "Kayseri’de ‘Dur’ ihtarına uymayıp polis aracına çarpıp kaçan otomobil sürücüsü, yaklaşık 30 dakika süren kovalamaca sonucu yakalandı. Gözaltına alınan sürücü Ş.T.’ye 650 bin TLceza uygulandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/polis-aracina-carpip-kacan-otomobil-surucusune-650-bin-tl-ceza-43390103"
+          "title": "Danıştay 8. Dairesi kararı onadı. İmamoğlu'nun diploması iptal edildi",
+          "summary": "Danıştay, 8. Dairesi Ekrem İmamoğlu'nun üniversite diplomasının iptali kararını onadı. 23 Mart 2025'te tutuklandıktan sonra İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu'nun üniversite diplomasının iptali kesinleşti. Kararı Danıştay 8. Dairesi onadı. Söz konusu yargılama süreci, İmamoğlu'nun 1990 yılında Girne Amerikan Üniversitesi'nden İstanbul Üniversitesi'ne yatay geçişinde usulsüzlük olduğu iddiasını konu ediniyordu.",
+          "source": "https://www.ntv.com.tr/turkiye/danistay-8-dairesi-karari-onadi-imamoglunun-diplomasi-iptal-edildi-1751606"
         },
         {
-          "title": "İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı",
-          "summary": "Bursa'da işçi servisi ile hafif ticari aracın çarpıştığı kazada 8 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/isci-servisi-ile-hafif-ticari-arac-carpisti-8-yarali-43390102"
+          "title": "DEM Parti İmralı heyeti üyeleri, Bakan Gürlek ile görüştü",
+          "summary": "DEM Parti İmralı heyeti üyeleri Pervin Buldan, Mithat Sancar ve Faik Özgür Erol, Adalet Bakanı Akın Gürlek ile görüştü.",
+          "source": "https://www.hurriyet.com.tr/gundem/dem-parti-imrali-heyeti-uyeleri-bakan-gurlek-ile-gorustu-43390570"
         },
         {
-          "title": "Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı",
-          "summary": "Çin'in Dünya yörüngesinde kurduğu Tiengong (Gök Sarayı) Uzay İstasyonu'nda görev yapacak yeni astronot ekibi yola çıktı. Xinhua'nın haberine göre, Çinli astronotlar Tang Hongbo ve Vu Yi ile Pakistanlı Muhammed Zişan Ali'yi taşıyan Şıncou-24 uzay mekiği, Long March 2F roketiyle ülkenin kuzeybatısındaki Ciuçüen Uydu Merkezi'nden fırlatıldı. Yükleme uzmanı olarak sefere katılan 40 yaşındaki Ali, Çin'in insanlı uzay programında yer alan ilk yabancı astronot ve Dünya yörüngesine çıkan ilk Pakistan vatandaşı oldu.",
-          "source": "https://www.ntv.com.tr/turkiye/cin-tiengong-uzay-istasyonuna-yeni-astronot-ekibini-yolladi-1752448"
+          "title": "Şile Belediyesi davası | Haluk Levent: Yeliz Kaya yerine benim tutuklanmam gerekiyor",
+          "summary": "Ahbap Derneği soruşturmasında tutuklu bulunan Haluk Levent, Şile Belediyesi davasında tutuklanan asistanı Yeliz Kaya'nın suçsuz olduğunu, bu dosyada kendisinin tutuklanması gerektiğini ileri sürdü. Şile Belediyesi'ne yönelik yolsuzluk suçlamasıyla açılan davanın 11'inci duruşması bugün görülüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-haluk-levent-sile-davasinda-tanik-olarak-dinlendi-yeliz-kaya-yerine-benim-tutuklanmam-gerekiyor-1752542"
         }
       ]
     },
     "dunya": {
-      "text": "Kolombiya'da rehine krizi: Marketteki 30 kişiden 10’u serbest bırakıldı. ABD'de yeni siber saldırı. CIA'den bazı gizli olmayan bilgiler sızdırıldı. İran: Yeni saldırılara karşılık verme konusunda kararlıyız. ABD Başkanı Trump, iki hindiyi affetti. Kolombiya’da silahlı saldırı: 25 kişi rehin alındı. Polonya, Rusya'ya nota verdi. Kıbrıs'ta Erhürman ile Hristodulidis görüşmesinden 2 ortak projeye onay çıktı.",
+      "text": "2,5 milyar dolarlık F-35 alarmı: Pentagon’un sorumlu ofisinden Hürriyet.com.tr’ye açıklama: 17 bin parça nasıl bulunacak?. Kolombiya'daki kriz operasyonla sona erdi: Tüm rehineler kurtarıldı. Fransa'da çıraklık teşvik programında milyarlarca euroluk yolsuzluk skandalı. 5 milyondan fazla hesap kapatıldı. Hindistan'da muhalefet Meta'yı protesto ediyor. Kuzey Kore'den İsviçre'ye 48 saat süre: İsviçreli diplomat 'istenmeyen kişi' ilan edildi. \"Dünya savaşı\" söylentileri panik alışverişini tetikledi. Konserve satışları yüzde 40 arttı. İsrailli rakibini 1 saniyede yenen milli sporcu: 'Daha maça çıkmadan sevindim'.",
       "items": [
         {
-          "title": "Kolombiya'da rehine krizi: Marketteki 30 kişiden 10’u serbest bırakıldı",
-          "summary": "Kolombiya polisi, silahlı saldırganların başarısız bir soygun girişiminin ardından süpermarkette rehin aldıkları 30 kişiden 10'unu serbest bıraktığını açıkladı. Kolombiya'nın Cartagena kentindeki Paseo de la Castellana alışveriş merkezinde rehine krizi yaşanıyor. Kolombiya Ulusal Polis Teşkilatı’ndan yapılan son açıklamada, Exito adlı süpermarkette silahlı saldırganlar tarafından rehin alınan 30 kişiden 5'inin daha serbest bırakıldığı ve serbest kalanların toplam sayısının 10'a ulaştığı bildirildi.",
+          "title": "2,5 milyar dolarlık F-35 alarmı: Pentagon’un sorumlu ofisinden Hürriyet.com.tr’ye açıklama: 17 bin parça nasıl bulunacak?",
+          "summary": "ABD'nin F-35 programında yaklaşık 2,5 milyar dolar değerindeki 17 bin yedek parçanın kayıt ve takibinde ortaya çıkan eksikliklere ilişkin Pentagon'un sorumlu ofisinden Hürriyet.com.tr'ye açıklama geldi. Uçakların geliştirilmesi, üretimi ve programın yürütülmesinden sorumlu F-35 Ortak Program Ofisi, rapordaki dört tavsiyenin tamamının kabul edildiğini bildirirken, parça kayıplarını azaltmak için alınan önlemleri ve denetim sisteminde yapılacak değişiklikleri anlattı.",
+          "source": "https://www.hurriyet.com.tr/dunya/2-5-milyar-dolarlik-f-35-alarmi-pentagonun-sorumlu-ofisinden-hurriyet-com-trye-aciklama-17-bin-parca-nasil-bulunacak-43388642"
+        },
+        {
+          "title": "Kolombiya'daki kriz operasyonla sona erdi: Tüm rehineler kurtarıldı",
+          "summary": "Kolombiya'da, başarısız soygun girişiminin ardından silahlı saldırganların 30 kişiyi rehin aldığı süpermarkete operasyon düzenlendi. Tüm rehineler kurtarılırken, zanlılardan biri ölü ele geçirildi. Kolombiya'nın Cartagena kentindeki Paseo de la Castellana alışveriş merkezinde yaşanan rehine krizi, güvenlik güçlerinin operasyonuyla sona erdi.",
           "source": "https://www.ntv.com.tr/dunya/kolombiyada-rehine-krizi-marketteki-30-kisiden-10u-serbest-birakildi-1752452"
         },
         {
-          "title": "ABD'de yeni siber saldırı. CIA'den bazı gizli olmayan bilgiler sızdırıldı",
-          "summary": "ABD merkezi istihbarat teşkilatı CIA bazı gizli olmayan verilerin sızmasına yol açan bir siber güvenlik ihlali tespit etti. The New York Times (NYT) gazetesinin konuya yakın kaynaklara dayandırdığı haberine göre, son dönemde sistem arızaları ve siber güvenlik endişeleri ile gündeme gelen ABD'de son günlerde yeni bir olay yaşandı. Gazeteye konuşan yetkililere göre, güvenlik ihlali hem CIA hem de Ulusal İstihbarat Direktörlüğü'nü etkiledi.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-yeni-siber-saldiri-ciaden-bazi-gizli-olmayan-bilgiler-sizdirildi-1752449"
+          "title": "Fransa'da çıraklık teşvik programında milyarlarca euroluk yolsuzluk skandalı",
+          "summary": "Fransa'da, şirketleri çırak çalıştırmaya teşvik eden program kapsamında devlet tarafından aktarılan bütçeden milyarlarca euronun yolsuzluk ve suistimale kurban gittiği ortaya çıktı. Fransa'da gençler arasındaki işsizlik krizini hafifletmek amacıyla Cumhurbaşkanı Emmanuel Macron tarafından sıkı bir şekilde uygulanan çıraklık teşvik sisteminde yolsuzluk skandalı patlak verdi.",
+          "source": "https://www.ntv.com.tr/dunya/fransada-ciraklik-tesvik-programinda-milyarlarca-euroluk-yolsuzluk-skandali-1752537"
         },
         {
-          "title": "İran: Yeni saldırılara karşılık verme konusunda kararlıyız",
-          "summary": "İran Yüksek Ulusal Güvenlik Konseyi Sekreteri Muhsin Rızai, ABD’nin ablukasına ve muhtemel yeni saldırılarına karşı koyma konusunda kararlı olduklarını belirterek \"ABD Başkanı Donald Trump ve yenilgiye uğramış ekibinin İran’ı ablukaya alma planları, başarısız savaş stratejileri kadar gerçeklikten uzaktır ve sonuçsuz kalmaya mahkûmdur. İran halkı, silahlı kuvvetleri ve devlet aygıtı, ablukayı kırma ve yeni bir saldırganlık girişimine tüm gücüyle karşılık verme kararlılığını sürdürmektedir\" dedi.",
-          "source": "https://www.hurriyet.com.tr/dunya/iran-yeni-saldirilara-karsilik-verme-konusunda-kararliyiz-43390092"
+          "title": "5 milyondan fazla hesap kapatıldı. Hindistan'da muhalefet Meta'yı protesto ediyor",
+          "summary": "Meta 2026'nın ilk yarısında ülkede 5,4 milyondan fazla paylaşım veya hesabı kısıtlarken muhalefet, iktidardaki BJP'nin kayırıldığını öne sürerek Meta'ya yedi günlük ültimatom verdi. Facebook, Instagram ve WhatsApp'ın çatı şirketi Meta'nın Hindistan'daki üst düzey yöneticileri, şirketin içerik denetimi uygulamalarına yönelik protestoları yatıştırmak için muhalefetteki Kongre Partisi ile kapalı kapılar ardında görüştü.",
+          "source": "https://www.ntv.com.tr/dunya/5-milyondan-fazla-hesap-kapatildi-hindistanda-muhalefet-metayi-protesto-ediyor-1752534"
         },
         {
-          "title": "ABD Başkanı Trump, iki hindiyi affetti",
-          "summary": "ABD Başkanı Donald Trump, geleneksel olarak düzenlenen etkinlikte Şükran Günü (Thanksgiving) dolayısıyla \"Freedom\" ve \"Feathers\" adlı iki hindiyi affetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iki-hindiyi-affetti-43389981"
+          "title": "Kuzey Kore'den İsviçre'ye 48 saat süre: İsviçreli diplomat 'istenmeyen kişi' ilan edildi",
+          "summary": "Kuzey Kore, İsviçre'ye ülkedeki diplomatik temsilciliğini kapatılması için 48 saat süre verdi. Pyongyang, misyonun başındaki İsviçreli diplomatı \"istenmeyen kişi\" ilan ettiğini bildirdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kuzey-koreden-isvicreye-48-saat-sure-isvicreli-diplomat-istenmeyen-kisi-ilan-edildi-43390482"
         },
         {
-          "title": "Kolombiya’da silahlı saldırı: 25 kişi rehin alındı",
-          "summary": "Kolombiya’da silahlı saldırganlar başarısız soygun girişiminin ardından girdikleri süpermarkette 25 kişiyi rehin aldı.",
-          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-43389911"
+          "title": "\"Dünya savaşı\" söylentileri panik alışverişini tetikledi. Konserve satışları yüzde 40 arttı",
+          "summary": "Sosyal medyada yayılan Üçüncü Dünya Savaşı teorileri zincir marketlerde panik alışverişini tetikledi ve konserve satışları yüzde 40 arttı. Sosyal medyada yayılan dünya savaşı ve kıyamet teorileri, dünyanın farklı bölgelerindeki tüketicileri zincir marketlerde acil durum malzemesi stoklamaya yöneltti. Şiddetli hava olayları ile Ukrayna ve İran'daki uzun süreli savaşların yarattığı baskıya karşı Birleşik Krallık ve Japonya gibi ülkeler, hanelere en az üç günlük temel ihtiyaç bulundurmalarını tavsiye etti.",
+          "source": "https://www.ntv.com.tr/dunya/dunya-savasi-soylentileri-panik-alisverisini-tetikledi-konserve-satislari-yuzde-40-artti-1752513"
         },
         {
-          "title": "Polonya, Rusya'ya nota verdi",
-          "summary": "Polonya Dışişleri Bakanlığı, Rusya'nın Ukrayna'ya yönelik saldırısı sırasında Rusya'ya ait 3 seyir füzesinin Polonya hava sahasını ihlal ederek ülke topraklarına düşmesi nedeniyle Rusya'ya nota verdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/polonya-rusyaya-nota-verdi-43389899"
-        },
-        {
-          "title": "Kıbrıs'ta Erhürman ile Hristodulidis görüşmesinden 2 ortak projeye onay çıktı",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ile Güney Kıbrıs Rum Yönetimi (GKRY) lideri Nikos Hristodulidis'in bugün yaptıkları görüşmede, Kıbrıs'ta kurulması öngörülen hızlı müdahale mekanizmasına ilişkin metin üzerinde anlaştıkları ve iki ortak projeyi onayladıkları bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/kibrista-erhurman-ile-hristodulidis-gorusmesinden-2-ortak-projeye-onay-cikti-43389801"
+          "title": "İsrailli rakibini 1 saniyede yenen milli sporcu: 'Daha maça çıkmadan sevindim'",
+          "summary": "Milli bilek güreşçi Beytullah Macit, Hindistan'da düzenlenen dünya şampiyonasında İsrailli rakibinin elini sıkmadığı olaya ilişkin açıklama yaptı. İsrailli sporcuyla kişisel bir problemi olmadığını belirten Macit, \"\"Orada tabelada ismimizi gördüğümüz zaman daha maça çıkmadan önce sevindim çünkü onu yenip bu zulme karşı bir şey yapacağımdan emin gibiydim. \" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilli-rakibini-1-saniyede-yenen-milli-sporcu-daha-maca-cikmadan-sevindim-43390436"
         }
       ]
     },
     "ekonomi": {
-      "text": "Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar. Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik.",
+      "text": "Bahçeli’den orta sınıf uyarısı. Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar. Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim.",
       "items": [
+        {
+          "title": "Bahçeli’den orta sınıf uyarısı",
+          "summary": "MHP Lideri Bahçeli, “Orta sınıfın zayıflaması, ekonomiden siyasete, eğitimden demografik yapıya kadar toplumun bütün temel sütunlarında zincirleme yapısal sorunlara yol açacaktır. Buna karşı tedbirler üretmek zorunluluk” dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bahceliden-orta-sinif-uyarisi-43389999"
+        },
         {
           "title": "Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar",
           "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, bölgeler arasındaki bağların güçlendirilmesi ve bölgesel istikrara katkıda bulunulmasının herkesin yararına olduğunu belirterek, \"Türkiye ile Umman'ın tarih boyunca üstlendikleri çok önemli bir rol var. Her iki ülke de bulundukları coğrafyalar arasında ticaretin ve kültürel etkileşimin gelişmesine büyük katkı sağlıyor.\" dedi.",
@@ -115,51 +120,46 @@
           "title": "İZSU’da gündem suda indirim",
           "summary": "İZSU Genel Müdürlüğü, 2027 yılı su ve atık su tarifelerinde indirime gitmeye hazırlanıyor. Komisyona sunulan teklifin kabul edilmesi halinde 10 metreküpe kadar su kullanan vatandaşlar yüzde 63’e varan indirimden yararlanacak.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/izsuda-gundem-suda-indirim-43379201"
-        },
-        {
-          "title": "Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik",
-          "summary": "ATATÜRK Havalimanı Millet Bahçesi’nde düzenlenen \"Konya İl Tanıtım Günleri\" programında konuşan Ticaret Bakanı Ömer Bolat, \"Türkiye, 24 yılın ortalaması yüzde 5,3 yıllık reel büyüme kaydetti. Dış ticarette 36 milyar dolar mal ihracatı ve 14 milyar dolar hizmet ihracatı ile devraldık 413 milyar dolara yükselttik. 8 kattan fazla ihracatımızı arttırdık. Bugün millî gelirimizin yaklaşık yüzde 24-25, dörtte birini ihracat oluşturuyor\" dedi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-mal-ve-hizmet-ihracatimizi-413-milyar-dolara-yukselttik-43378532"
         }
       ]
     },
     "spor": {
-      "text": "Sarunas Jasikevicius: 'Karakter gösterdik!'. Dusan Alimpijevic: 'Bugün iyi bir iş çıkaramadık!'. PFDK sevkleri açıklandı! Beşiktaş, Galatasaray ve Fenerbahçeli yöneticiler sevk edildi. Yunus Akgün: 'Şampiyonlar Ligi’nde hedeflerimiz çok yüksek!'. Eczacıbaşı, CEV Şampiyonlar Ligi’ne galibiyetle başladı!. Deniz Gül ameliyat olacak. Galatasaray-Aston Villa maçı sonrası Emery'den itiraf! 'Durduramadık'.",
+      "text": "Arda Güler, İspanya'da manşetlerde: İnanılmaz! kasırgaya dönüştü. Anadolu Efes EuroLeague'de Baskonia deplasmanında! Maçın heyecanı canlı yayın ile Misli'de. Fenerbahçe, Shakhtar Donetsk ile İngiltere'de karşılaşıyor! Maçın heyecanı canlı sohbet ile Misli'de. Galatasaray'ın Aston Villa galibiyeti sonrası ülke puanı değişti! İşte Türkiye'nin son sıralaması. Galatasaray-Aston Villa maçında Deniz Gül ve Bülent Korkmaz benzetmesi! Tarihin şaşırtan cilvesi yaşandı. Galatasaray'ın Aston Villa zaferi sonrası övgü yağdı! 'Büyük satranç ustalığı! 62'de kalkan tabela...'. Devler Ligi'nde Türk gecesi.",
       "items": [
         {
-          "title": "Sarunas Jasikevicius: 'Karakter gösterdik!'",
-          "summary": "Fenerbahçe Tarfin, EuroLeague'in 14. haftasında Barcelona’yı 83-77 mağlup etti. Başantrenör Sarunas Jasikevicius, karşılaşma sonrası açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sarunas-jasikevicius-karakter-gosterdik-43390062"
+          "title": "Arda Güler, İspanya'da manşetlerde: İnanılmaz! kasırgaya dönüştü",
+          "summary": "Real Madrid'in PSV'yi 5-1'lik skorla devirdiği geceye Arda Güler damga vurdu. Milli yıldızımız, yaptığı 2 asistle Real'e galibiyeti getirdi. Arda Güler, maç sonrası İspanyol spor basınında manşetleri süsledi. İşte ayrıntılar...",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-guler-ispanyada-mansetlerde-inanilmaz-kasirgaya-donustu-43390577"
         },
         {
-          "title": "Dusan Alimpijevic: 'Bugün iyi bir iş çıkaramadık!'",
-          "summary": "Beşiktaş Fuzul Başantrenörü Dusan Alimpijevic, Paris Basketball maçının ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dusan-alimpijevic-bugun-iyi-bir-is-cikaramadik-43390040"
+          "title": "Anadolu Efes EuroLeague'de Baskonia deplasmanında! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "Anadolu Efes, EuroLeague'in 14. haftasında İspanya temsilcisi Baskonia ile deplasmanda karşı karşıya geliyor. Maçın heyecanı canlı yayın ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/anadolu-efes-euroleaguede-baskonia-deplasmaninda-macin-heyecani-canli-yayin-ile-mislide-43390354"
         },
         {
-          "title": "PFDK sevkleri açıklandı! Beşiktaş, Galatasaray ve Fenerbahçeli yöneticiler sevk edildi",
-          "summary": "Türkiye Futbol Federasyonu, PFDK'ya sevk edilen isimleri duyurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/pfdk-sevkleri-aciklandi-besiktas-galatasaray-ve-fenerbahceli-yoneticiler-sevk-edildi-43390028"
+          "title": "Fenerbahçe, Shakhtar Donetsk ile İngiltere'de karşılaşıyor! Maçın heyecanı canlı sohbet ile Misli'de",
+          "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 5. haftasında Ukrayna ekibi Shakhtar Donetsk ile İngiltere'de karşı karşıya geliyor. Maçın heyecanı canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-shakhtar-donetsk-ile-ingilterede-karsilasiyor-macin-heyecani-canli-sohbet-ile-mislide-43390318"
         },
         {
-          "title": "Yunus Akgün: 'Şampiyonlar Ligi’nde hedeflerimiz çok yüksek!'",
-          "summary": "Galatasaraylı futbolcu Yunus Akgün, UEFA Şampiyonlar Ligi'nde hedeflerinin çok yüksek olduğunu söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/yunus-akgun-sampiyonlar-liginde-hedeflerimiz-cok-yuksek-43390034"
+          "title": "Galatasaray'ın Aston Villa galibiyeti sonrası ülke puanı değişti! İşte Türkiye'nin son sıralaması",
+          "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında sahasında Aston Villa'yı 1-0 mağlup eden Galatasaray, Avrupa'da önemli bir galibiyete imza attı. Sarı-Kırmızılıların elde ettiği zafer, UEFA ülke puanı sıralamasına da yansıdı. Türkiye'nin Hollanda ile arasındaki puan farkı azalırken güncel sıralama belli oldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-aston-villa-galibiyeti-sonrasi-ulke-puani-degisti-iste-turkiyenin-son-siralamasi-43390204"
         },
         {
-          "title": "Eczacıbaşı, CEV Şampiyonlar Ligi’ne galibiyetle başladı!",
-          "summary": "Eczacıbaşı Peron İstanbul, CEV Şampiyonlar Ligi D grubu ilk maçında, evinde OK TENT Obrenovac’ı konuk ederek rakibini 25-19, 25-19 ve 25-10’luk set skorlarıyla 3-0 mağlup etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/eczacibasi-cev-sampiyonlar-ligine-galibiyetle-basladi-43390020"
+          "title": "Galatasaray-Aston Villa maçında Deniz Gül ve Bülent Korkmaz benzetmesi! Tarihin şaşırtan cilvesi yaşandı",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nde İngiliz temsilcisi Aston Villa'yı Deniz Gül'ün golü ile mağlup etti. Gol esnasında tekmeye kafa atan Deniz Gül, sarı kırmızılıların efsane kaptanı Bülent Korkmaz'a benzetildi. İki isim arasındaki tarih tesadüfü de ortaya çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-aston-villa-macinda-deniz-gul-ve-bulent-korkmaz-benzetmesi-tarihin-sasirtan-cilvesi-yasandi-43389965"
         },
         {
-          "title": "Deniz Gül ameliyat olacak",
-          "summary": "Galatasaray'ın Aston Villa zaferinin mimarı Deniz Gül'ün burnuna aldığı darbe sonrası karar çıktı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/deniz-gul-ameliyat-olacak-43390025"
+          "title": "Galatasaray'ın Aston Villa zaferi sonrası övgü yağdı! 'Büyük satranç ustalığı! 62'de kalkan tabela...'",
+          "summary": "Galatasaray, UEFA Şampiyonlar Ligi’nin 5’inci haftasında sahasında Aston Villa’yı 1-0 mağlup etti. Hürriyet yazarları Uğur Meleke, Banu Yelkovan ve Mehmet Ayan Sarı-Kırmızılı temsilcimizin İngiliz rakibi karşısındaki galibiyetini değerlendirdi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayin-aston-villa-zaferi-sonrasi-ovgu-yagdi-buyuk-satranc-ustaligi-62de-kalkan-tabela-43390115"
         },
         {
-          "title": "Galatasaray-Aston Villa maçı sonrası Emery'den itiraf! 'Durduramadık'",
-          "summary": "Galatasaray'a 1-0 mağlup olan Aston Villa'da tenik direktör Unai Emery konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-aston-villa-maci-sonrasi-emeryden-itiraf-durduramadik-43390007"
+          "title": "Devler Ligi'nde Türk gecesi",
+          "summary": "Londra’daki Stamford Bridge’de TSİ 23.00’te başlayacak maç, Şampiyonlar Ligi’nde iki Türk teknik adamı karşı karşıya getiren ilk müsabaka olarak tarihe geçecek. Maç öncesi Fenerbahçe’nin 5, Shakhtar Donetsk’in 4 puanı bulunuyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/devler-liginde-turk-gecesi-43390069"
         }
       ]
     },
