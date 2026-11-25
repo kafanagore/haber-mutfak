@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-24T16:00:03.907Z",
+  "generatedAt": "2026-11-25T04:00:03.932Z",
   "categories": {
     "gundem": {
-      "text": "Muğla'da 4,6 büyüklüğünde deprem. Otomotiv servisinde tüketiciyi yanıltan uygulamalara ceza. Eski CHP Genel Başkanı Hikmet Çetin hayatını kaybetti. AK Parti Genel Başkan Yardımcısı Hüseyin Yayman'dan Yeni Parti Genel Başkanı Özel'e tepki. Diyarbakır’da mağarada çok sayıda insan kafatası ve kemik bulundu! Soruşturma başlatıldı. Ankara'da AVM otoparkında çöken yola düşen kamyonun sürücüsü kepçeyle kurtarıldı. Yol açmak için korna çalan ambulansa dönüş yolunda saldırı: O anlar kamerada.",
+      "text": "Çorum'da kadın cinayeti. Boşanma aşamasında olduğu eşini 3 çocuğunun önünde öldürdü. Trabzon'da cadde ve sokaklar göle döndü. Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu. Uçurumdan yuvarlanan ATV sürücüsü 6 saatte kurtarıldı. Polis aracına çarpıp kaçan otomobil sürücüsüne 650 bin TL ceza. İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı. Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı.",
       "items": [
         {
-          "title": "Muğla'da 4,6 büyüklüğünde deprem",
-          "summary": "Muğla'nın Milas ilçesinde saat 18.39'da 4,6 büyüklüğünde deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığının (AFAD) internet sitesinde yer alan bilgiye göre, merkez üssü Muğla'nın Milas ilçesi olan 4,6 büyüklüğünde deprem kaydedildi. Saat 18.39'da meydana gelen depremin yerin 7,28 kilometre derinliğinde gerçekleştiği belirlendi.",
-          "source": "https://www.ntv.com.tr/gundem/muglada-46-buyuklugunde-deprem-1752419"
+          "title": "Çorum'da kadın cinayeti. Boşanma aşamasında olduğu eşini 3 çocuğunun önünde öldürdü",
+          "summary": "Çorum'da boşanma aşamasında olduğu eşi Esin Özdemir’i 3 çocuğunun gözü önünde öldüren saldırgan, 11 saat polise direndikten sonra intihara teşebbüs etti. Çamlık Caddesi'ndeki bir apartmanda dün akşam saatlerinde silahla ateş edildiği ihbarı üzerine bölgeye polis ve sağlık ekipleri yönlendirildi. Polis ekiplerince yapılan incelemede, Esin Özdemir'in boşanma aşamasındaki eşi Gökhan Özdemir tarafından silahla öldürüldüğü belirlendi. Çiftin olay sırasında evde bulunan 3 çocuğu ekiplerce tahliye edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/corumda-kadin-cinayeti-bosanma-asamasinda-oldugu-esini-3-cocugunun-onunde-oldurdu-1752453"
         },
         {
-          "title": "Otomotiv servisinde tüketiciyi yanıltan uygulamalara ceza",
-          "summary": "Ticaret Bakanlığı, şikayet üzerine denetim yapılan İstanbul'un Şişli'deki otomotiv servisi hakkında, tespit edilen aykırılıklarla ilgili cezai işlem uygulandığını duyurdu.",
-          "source": "https://www.hurriyet.com.tr/gundem/otomotiv-servisinde-tuketiciyi-yaniltan-uygulamalara-ceza-43389761"
+          "title": "Trabzon'da cadde ve sokaklar göle döndü",
+          "summary": "Trabzon'un Ortahisar ilçesinde şiddetli yağış nedeniyle birçok noktada su baskınları yaşandı. Bir istinat duvarının çökmesi sonucu 5 araç zarar gördü. Sürmene ve Yomra' da dereler taştı. Ortahisar ilçesinde akşam saatlerinde etkisini artıran yağış nedeniyle cadde ve sokaklarda su birikintileri oluştu. Bazı mahallelerdeki rögarlar taştı, araçlar trafikte ilerlemekte güçlük çekti.",
+          "source": "https://www.ntv.com.tr/turkiye/trabzonda-cadde-ve-sokaklar-gole-dondu-1752451"
         },
         {
-          "title": "Eski CHP Genel Başkanı Hikmet Çetin hayatını kaybetti",
-          "summary": "Türk siyasetinin deneyimli isimlerinden, eski CHP Genel Başkanı ve TBMM Başkanı Hikmet Çetin hayatını kaybetti. Eski CHP Genel Başkanı, Türkiye Büyük Millet Meclisi (TBMM) Başkanı ve Dışişleri Bakanı Hikmet Çetin, 89 yaşında yaşamını yitirdi. Bir süredir sağlık sorunları nedeniyle tedavi gören Çetin'in vefat haberini Yeni Parti Genel Başkanı Özgür Özel duyurdu. Özel, Çetin'in devlet adamlığı, siyasi nezaketi, bilgi ve birikimiyle herkese örnek olan müstesna bir isim olduğunu belirtti.",
-          "source": "https://www.ntv.com.tr/otomobil/eski-chp-genel-baskani-hikmet-cetin-hayatini-kaybetti-1752414"
+          "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
+          "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu. Milli Savunma Bakanlığı (MSB), Eskişehir’de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 askerin şehit olduğunu açıkladı.",
+          "source": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423"
         },
         {
-          "title": "AK Parti Genel Başkan Yardımcısı Hüseyin Yayman'dan Yeni Parti Genel Başkanı Özel'e tepki",
-          "summary": "AK Parti Genel Başkan Yardımcısı Hüseyin Yayman, \"Yeni Parti'nin grup toplantısında Sayın Cumhurbaşkanımız Recep Tayyip Erdoğan'a karşı kullanılan ifadeler ve atılan sloganlar, siyasi rekabetin sınırlarını aşan bir anlayışın göstergesidir.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-huseyin-yaymandan-yeni-parti-genel-baskani-ozele-tepki-43389724"
+          "title": "Uçurumdan yuvarlanan ATV sürücüsü 6 saatte kurtarıldı",
+          "summary": "Yalova’da sürücüsünün direksiyon hakimiyetini kaybettiği ATV uçurumdan yuvarlanandı. Ekiplerin yaklaşık 6 saat süren çalışmasının ardından sürücü yaralı olarak kurtarıldı.",
+          "source": "https://www.hurriyet.com.tr/gundem/ucurumdan-yuvarlanan-atv-surucusu-6-saatte-kurtarildi-43390104"
         },
         {
-          "title": "Diyarbakır’da mağarada çok sayıda insan kafatası ve kemik bulundu! Soruşturma başlatıldı",
-          "summary": "Diyarbakır’ın Silvan ilçesindeki bir mağarada çok sayıda insan kafatası ve kemiği bulundu. Olayla ilgili soruşturma başlatılırken, kemik parçaları, incelemenin ardından Adli Tıp Kurumu’na gönderilecek.",
-          "source": "https://www.hurriyet.com.tr/gundem/diyarbakirda-magarada-cok-sayida-insan-kafatasi-ve-kemik-bulundu-sorusturma-baslatildi-43389718"
+          "title": "Polis aracına çarpıp kaçan otomobil sürücüsüne 650 bin TL ceza",
+          "summary": "Kayseri’de ‘Dur’ ihtarına uymayıp polis aracına çarpıp kaçan otomobil sürücüsü, yaklaşık 30 dakika süren kovalamaca sonucu yakalandı. Gözaltına alınan sürücü Ş.T.’ye 650 bin TLceza uygulandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/polis-aracina-carpip-kacan-otomobil-surucusune-650-bin-tl-ceza-43390103"
         },
         {
-          "title": "Ankara'da AVM otoparkında çöken yola düşen kamyonun sürücüsü kepçeyle kurtarıldı",
-          "summary": "Yenimahalle’deki bir AVM’nin açık otoparkında yolun çökmesiyle oluşan çukura düşen hafriyat kamyonunun kabini havaya kalktı. Araçta mahsur kalan sürücü kepçeyle kurtarılırken, AVM yönetimi bölgede güvenlik önlemleri aldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/ankarada-avm-otoparkinda-coken-yola-dusen-kamyonun-surucusu-kepceyle-kurtarildi-43389713"
+          "title": "İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı",
+          "summary": "Bursa'da işçi servisi ile hafif ticari aracın çarpıştığı kazada 8 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/isci-servisi-ile-hafif-ticari-arac-carpisti-8-yarali-43390102"
         },
         {
-          "title": "Yol açmak için korna çalan ambulansa dönüş yolunda saldırı: O anlar kamerada",
-          "summary": "İzmir Konak’ta çift şeritli yoldaki park araçları nedeniyle korna çalan acil tıp teknisyeni, hastasını bıraktıktan sonra kırmızı ışıkta darbedildi. İş yeri kamerasına yansıyan olayın ardından çenesinden yaralanan şoför darp raporu aldı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yol-acmak-icin-korna-calan-ambulansa-donus-yolunda-saldiri-o-anlar-kamerada-43389658"
+          "title": "Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı",
+          "summary": "Çin'in Dünya yörüngesinde kurduğu Tiengong (Gök Sarayı) Uzay İstasyonu'nda görev yapacak yeni astronot ekibi yola çıktı. Xinhua'nın haberine göre, Çinli astronotlar Tang Hongbo ve Vu Yi ile Pakistanlı Muhammed Zişan Ali'yi taşıyan Şıncou-24 uzay mekiği, Long March 2F roketiyle ülkenin kuzeybatısındaki Ciuçüen Uydu Merkezi'nden fırlatıldı. Yükleme uzmanı olarak sefere katılan 40 yaşındaki Ali, Çin'in insanlı uzay programında yer alan ilk yabancı astronot ve Dünya yörüngesine çıkan ilk Pakistan vatandaşı oldu.",
+          "source": "https://www.ntv.com.tr/turkiye/cin-tiengong-uzay-istasyonuna-yeni-astronot-ekibini-yolladi-1752448"
         }
       ]
     },
     "dunya": {
-      "text": "Sarkozy ve eşi \"suç işlemek amacıyla örgüt kurma\" suçundan yargılanacak. Irak'tan IKBY'ye bağlı sınır kapıları ve petrol sahalarını merkezi yönetime bağlama adımı: Barzani'den Bağdat'a tepki. Bulgaristan'ın yeni cumhurbaşkanı Yotova mazbatasını aldı. Mısır Sudan'da barış için devrede. Yunanistan'da İsrail ile ortak askeri eğitim gerilimi. Yılbaşından bu yana 15 kişi hayatını kaybetti. Gazze'de salgın alarmı verildi. İran: “7 şart yerine getirilmeden hiçbir adım atılmayacak ve müzakere olmayacak”.",
+      "text": "Kolombiya'da rehine krizi: Marketteki 30 kişiden 10’u serbest bırakıldı. ABD'de yeni siber saldırı. CIA'den bazı gizli olmayan bilgiler sızdırıldı. İran: Yeni saldırılara karşılık verme konusunda kararlıyız. ABD Başkanı Trump, iki hindiyi affetti. Kolombiya’da silahlı saldırı: 25 kişi rehin alındı. Polonya, Rusya'ya nota verdi. Kıbrıs'ta Erhürman ile Hristodulidis görüşmesinden 2 ortak projeye onay çıktı.",
       "items": [
         {
-          "title": "Sarkozy ve eşi \"suç işlemek amacıyla örgüt kurma\" suçundan yargılanacak",
-          "summary": "Eski Fransa Cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni-Sarkozy'nin \"suç işlemek amacıyla örgüt kurmak\" suçundan 2027'de yargılanacakları bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/sarkozy-ve-esi-suc-islemek-amaciyla-orgut-kurma-sucundan-yargilanacak-43389769"
+          "title": "Kolombiya'da rehine krizi: Marketteki 30 kişiden 10’u serbest bırakıldı",
+          "summary": "Kolombiya polisi, silahlı saldırganların başarısız bir soygun girişiminin ardından süpermarkette rehin aldıkları 30 kişiden 10'unu serbest bıraktığını açıkladı. Kolombiya'nın Cartagena kentindeki Paseo de la Castellana alışveriş merkezinde rehine krizi yaşanıyor. Kolombiya Ulusal Polis Teşkilatı’ndan yapılan son açıklamada, Exito adlı süpermarkette silahlı saldırganlar tarafından rehin alınan 30 kişiden 5'inin daha serbest bırakıldığı ve serbest kalanların toplam sayısının 10'a ulaştığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/kolombiyada-rehine-krizi-marketteki-30-kisiden-10u-serbest-birakildi-1752452"
         },
         {
-          "title": "Irak'tan IKBY'ye bağlı sınır kapıları ve petrol sahalarını merkezi yönetime bağlama adımı: Barzani'den Bağdat'a tepki",
-          "summary": "Irak hükümeti, Irak Kürt Bölgesel Yönetimi'ndeki (IKBY) sınır kapıları ile petrol sahalarının kontrolünün merkezi hükümete devredilmesi için çalışma başlattı. IKBY Başbakanı Mesrur Barzani, kararın şaşırtıcı olduğunu ve “hiçbir şekilde kabul edilemeyeceğini” kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/iraktan-ikbyye-bagli-sinir-kapilari-ve-petrol-sahalarini-merkezi-yonetime-baglama-adimi-barzaniden-bagdata-tepki-43389715"
+          "title": "ABD'de yeni siber saldırı. CIA'den bazı gizli olmayan bilgiler sızdırıldı",
+          "summary": "ABD merkezi istihbarat teşkilatı CIA bazı gizli olmayan verilerin sızmasına yol açan bir siber güvenlik ihlali tespit etti. The New York Times (NYT) gazetesinin konuya yakın kaynaklara dayandırdığı haberine göre, son dönemde sistem arızaları ve siber güvenlik endişeleri ile gündeme gelen ABD'de son günlerde yeni bir olay yaşandı. Gazeteye konuşan yetkililere göre, güvenlik ihlali hem CIA hem de Ulusal İstihbarat Direktörlüğü'nü etkiledi.",
+          "source": "https://www.ntv.com.tr/dunya/abdde-yeni-siber-saldiri-ciaden-bazi-gizli-olmayan-bilgiler-sizdirildi-1752449"
         },
         {
-          "title": "Bulgaristan'ın yeni cumhurbaşkanı Yotova mazbatasını aldı",
-          "summary": "Bulgaristan'da 1 Kasım'da yapılan cumhurbaşkanlığı seçimlerinin ikinci turunda galip gelen Bulgaristan Cumhurbaşkanı İliyana Yotova mazbatasını aldı. Yotova, mazbata töreninde yaptığı konuşmada, Bulgaristan'ın Avrupa ve uluslararası arenada güçlü, saygın ve özgüvenli bir ülke olması gerektiğini belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bulgaristanin-yeni-cumhurbaskani-yotova-mazbatasini-aldi-43389707"
+          "title": "İran: Yeni saldırılara karşılık verme konusunda kararlıyız",
+          "summary": "İran Yüksek Ulusal Güvenlik Konseyi Sekreteri Muhsin Rızai, ABD’nin ablukasına ve muhtemel yeni saldırılarına karşı koyma konusunda kararlı olduklarını belirterek \"ABD Başkanı Donald Trump ve yenilgiye uğramış ekibinin İran’ı ablukaya alma planları, başarısız savaş stratejileri kadar gerçeklikten uzaktır ve sonuçsuz kalmaya mahkûmdur. İran halkı, silahlı kuvvetleri ve devlet aygıtı, ablukayı kırma ve yeni bir saldırganlık girişimine tüm gücüyle karşılık verme kararlılığını sürdürmektedir\" dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/iran-yeni-saldirilara-karsilik-verme-konusunda-kararliyiz-43390092"
         },
         {
-          "title": "Mısır Sudan'da barış için devrede",
-          "summary": "Mısır Cumhurbaşkanı Abdulfettah es-Sisi, Kahire'nin Sudan'daki iç savaşı sona erdirmek için çalıştığını belirtti. Sisi, anlaşmazlıklara siyasi çözüm bulunması, savaşın durdurulması ve acıların sona erdirilmesi için çabalarının sürdürdüğünü belirtti.",
-          "source": "https://www.hurriyet.com.tr/dunya/misir-sudanda-baris-icin-devrede-43389701"
+          "title": "ABD Başkanı Trump, iki hindiyi affetti",
+          "summary": "ABD Başkanı Donald Trump, geleneksel olarak düzenlenen etkinlikte Şükran Günü (Thanksgiving) dolayısıyla \"Freedom\" ve \"Feathers\" adlı iki hindiyi affetti.",
+          "source": "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iki-hindiyi-affetti-43389981"
         },
         {
-          "title": "Yunanistan'da İsrail ile ortak askeri eğitim gerilimi",
-          "summary": "Yunanistan'da muhalefetteki Yeni Sol Partisi, Yunan askerlerinin İsrail’de Kfir Tugayı ile eğitime katıldığına ilişkin iddialar üzerine harekete geçti. Muhalefet partisi, Savunma Bakanlığı'ndan söz konusu iddialar hakkında açıklama talep etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/yunanistanda-israil-ile-ortak-askeri-egitim-gerilimi-43389649"
+          "title": "Kolombiya’da silahlı saldırı: 25 kişi rehin alındı",
+          "summary": "Kolombiya’da silahlı saldırganlar başarısız soygun girişiminin ardından girdikleri süpermarkette 25 kişiyi rehin aldı.",
+          "source": "https://www.hurriyet.com.tr/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-43389911"
         },
         {
-          "title": "Yılbaşından bu yana 15 kişi hayatını kaybetti. Gazze'de salgın alarmı verildi",
-          "summary": "Gazze'de menenjit vakalarındaki artış ve yılbaşından bu yana 15 kişinin menenjit nedeniyle hayatını kaybetmesi üzerine salgın alarmı verildi. İsrail'in saldırıları nedeniyle altyapısının yüzde 90'ından fazlası yıkılan ve sağlık sistemi büyük ölçüde çöken Gazze Şeridi'nde menenjitin yayılmasının başta çocuklar olmak üzere yüz binlerce Filistinlinin sağlığı açısından ciddi risk oluşturduğu uyarısında bulunuldu.",
-          "source": "https://www.ntv.com.tr/dunya/gazzede-salgin-alarmi-verildi-1752384"
+          "title": "Polonya, Rusya'ya nota verdi",
+          "summary": "Polonya Dışişleri Bakanlığı, Rusya'nın Ukrayna'ya yönelik saldırısı sırasında Rusya'ya ait 3 seyir füzesinin Polonya hava sahasını ihlal ederek ülke topraklarına düşmesi nedeniyle Rusya'ya nota verdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/polonya-rusyaya-nota-verdi-43389899"
         },
         {
-          "title": "İran: “7 şart yerine getirilmeden hiçbir adım atılmayacak ve müzakere olmayacak”",
-          "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, Tahran yönetimince açıklanan 7 şart yerine getirilmeden Washington ile müzakereler konusunda herhangi bir adım atılmayacağını söyledi. İran Meclis Başkanı Muhammed Bakır Kalibaf, meclis açık oturumunda, ABD ile yaşanan gerilime ilişkin açıklamalarda bulundu.",
-          "source": "https://www.ntv.com.tr/dunya/iran-7-sart-yerine-getirilmeden-hicbir-adim-atilmayacak-ve-muzakere-olmayacak-1752343"
+          "title": "Kıbrıs'ta Erhürman ile Hristodulidis görüşmesinden 2 ortak projeye onay çıktı",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman ile Güney Kıbrıs Rum Yönetimi (GKRY) lideri Nikos Hristodulidis'in bugün yaptıkları görüşmede, Kıbrıs'ta kurulması öngörülen hızlı müdahale mekanizmasına ilişkin metin üzerinde anlaştıkları ve iki ortak projeyi onayladıkları bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/kibrista-erhurman-ile-hristodulidis-gorusmesinden-2-ortak-projeye-onay-cikti-43389801"
         }
       ]
     },
     "ekonomi": {
-      "text": "Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik. Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu.",
+      "text": "Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar. Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi. İZSU’da gündem suda indirim. Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik.",
       "items": [
+        {
+          "title": "Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar",
+          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, bölgeler arasındaki bağların güçlendirilmesi ve bölgesel istikrara katkıda bulunulmasının herkesin yararına olduğunu belirterek, \"Türkiye ile Umman'ın tarih boyunca üstlendikleri çok önemli bir rol var. Her iki ülke de bulundukları coğrafyalar arasında ticaretin ve kültürel etkileşimin gelişmesine büyük katkı sağlıyor.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-simsek-turkiye-umman-ticaret-hacmimiz-5-milyar-dolar-43389930"
+        },
         {
           "title": "Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'",
           "summary": "MHP Genel Başkanı Devlet Bahçeli, partisinin TBMM grup toplantısında adalet, yolsuzlukla mücadele, orta sınıfın kayıpları ve Terörsüz Türkiye sürecine ilişkin açıklamalarda bulundu. Bahçeli, bakan veya belediye başkanı ayırt etmeksizin yolsuzluğa müsamaha göstermeyeceklerini söyledi.",
@@ -115,57 +120,57 @@
           "title": "Bakan Bolat: Mal ve hizmet ihracatımızı 413 milyar dolara yükselttik",
           "summary": "ATATÜRK Havalimanı Millet Bahçesi’nde düzenlenen \"Konya İl Tanıtım Günleri\" programında konuşan Ticaret Bakanı Ömer Bolat, \"Türkiye, 24 yılın ortalaması yüzde 5,3 yıllık reel büyüme kaydetti. Dış ticarette 36 milyar dolar mal ihracatı ve 14 milyar dolar hizmet ihracatı ile devraldık 413 milyar dolara yükselttik. 8 kattan fazla ihracatımızı arttırdık. Bugün millî gelirimizin yaklaşık yüzde 24-25, dörtte birini ihracat oluşturuyor\" dedi.",
           "source": "https://www.hurriyet.com.tr/gundem/bakan-bolat-mal-ve-hizmet-ihracatimizi-413-milyar-dolara-yukselttik-43378532"
-        },
-        {
-          "title": "Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı Ortak Bildirisi yayımlandı… Terörle mücadele ve işbirlikleri vurgusu",
-          "summary": "Türkiye ile Katar arasında düzenlenen 12. Yüksek Stratejik Komite Toplantısı ortak bildirisinde, iki ülke arasında birçok alanda süren işbirliklerine ve anlaşmalara işaret edilerek, bölgesel istikrar ve güvenliğe yönelik çağrılarda bulunuldu.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-katar-yuksek-stratejik-komite-12-toplantisi-ortak-bildirisi-yayimlandi-terorle-mucadele-ve-isbirlikleri-vurgusu-43377680"
         }
       ]
     },
     "spor": {
-      "text": "Inter'de Hakan Çalhanoğlu şoku!. Vincenzo Montella'dan Dünya Kupası itirafı!. CAS, Senegal'i 2025 Afrika Uluslar Kupası'nın şampiyonu ilan etti!. Şampiyonlar Ligi’nde taraf bahisleri ön planda! İşte Misli’de günün en çok oynanan maçları. Nefes kesen koşularda Misli yazarlarından tam isabet!. Dursun Özbek: 'Netanyahu bizi UEFA'ya şikayet etmiş! Filistin halkının yaşadığı acılara sessiz kalmamaya devam edeceğiz'. Fenerbahçe transferde gözünü Ada'ya dikti: Hedef Arsenal'in 40 milyon euroluk yıldızı!.",
+      "text": "Sarunas Jasikevicius: 'Karakter gösterdik!'. Dusan Alimpijevic: 'Bugün iyi bir iş çıkaramadık!'. PFDK sevkleri açıklandı! Beşiktaş, Galatasaray ve Fenerbahçeli yöneticiler sevk edildi. Yunus Akgün: 'Şampiyonlar Ligi’nde hedeflerimiz çok yüksek!'. Eczacıbaşı, CEV Şampiyonlar Ligi’ne galibiyetle başladı!. Deniz Gül ameliyat olacak. Galatasaray-Aston Villa maçı sonrası Emery'den itiraf! 'Durduramadık'.",
       "items": [
         {
-          "title": "Inter'de Hakan Çalhanoğlu şoku!",
-          "summary": "Inter, Hakan Çalhanoğlu'nun sağ uyluk fleksör kaslarında zorlanma tespit edildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/interde-hakan-calhanoglu-soku-43389756"
+          "title": "Sarunas Jasikevicius: 'Karakter gösterdik!'",
+          "summary": "Fenerbahçe Tarfin, EuroLeague'in 14. haftasında Barcelona’yı 83-77 mağlup etti. Başantrenör Sarunas Jasikevicius, karşılaşma sonrası açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/sarunas-jasikevicius-karakter-gosterdik-43390062"
         },
         {
-          "title": "Vincenzo Montella'dan Dünya Kupası itirafı!",
-          "summary": "A Milli Futbol Takımı'nın eski teknik direktörü Vincenzo Montella, Dünya Kupası öncesinde beklentilerin yükseldiğini belirterek sonuç anlamında iyi işler yapamadıklarını söyledi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-montelladan-dunya-kupasi-itirafi-43389706"
+          "title": "Dusan Alimpijevic: 'Bugün iyi bir iş çıkaramadık!'",
+          "summary": "Beşiktaş Fuzul Başantrenörü Dusan Alimpijevic, Paris Basketball maçının ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/dusan-alimpijevic-bugun-iyi-bir-is-cikaramadik-43390040"
         },
         {
-          "title": "CAS, Senegal'i 2025 Afrika Uluslar Kupası'nın şampiyonu ilan etti!",
-          "summary": "CAS, Senegal'i 2025 Afrika Uluslar Kupası şampiyonu ilan etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cas-senegali-2025-afrika-uluslar-kupasinin-sampiyonu-ilan-etti-43389712"
+          "title": "PFDK sevkleri açıklandı! Beşiktaş, Galatasaray ve Fenerbahçeli yöneticiler sevk edildi",
+          "summary": "Türkiye Futbol Federasyonu, PFDK'ya sevk edilen isimleri duyurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/pfdk-sevkleri-aciklandi-besiktas-galatasaray-ve-fenerbahceli-yoneticiler-sevk-edildi-43390028"
         },
         {
-          "title": "Şampiyonlar Ligi’nde taraf bahisleri ön planda! İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/sampiyonlar-liginde-taraf-bahisleri-on-planda-iste-mislide-gunun-en-cok-oynanan-maclari-43389572"
+          "title": "Yunus Akgün: 'Şampiyonlar Ligi’nde hedeflerimiz çok yüksek!'",
+          "summary": "Galatasaraylı futbolcu Yunus Akgün, UEFA Şampiyonlar Ligi'nde hedeflerinin çok yüksek olduğunu söyledi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/yunus-akgun-sampiyonlar-liginde-hedeflerimiz-cok-yuksek-43390034"
         },
         {
-          "title": "Nefes kesen koşularda Misli yazarlarından tam isabet!",
-          "summary": "At yarışı tutkusu Misli’de yaşanıyor, Misli yazarları kuponlarıyla şov yapıyor! Dün koşulan Bursa 1. ve 2. 6’lı Ganyan koşularında Misli yazarı Uğur Kocabaşoğlu, hazırladığı kuponlarla toplamda 64.868 TL kazandırırken Misli yazarı Ahmet Torkak’ın sabit ihtimalli önerileri de yarışseverleri sevindirdi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/nefes-kesen-kosularda-misli-yazarlarindan-tam-isabet-43389567"
+          "title": "Eczacıbaşı, CEV Şampiyonlar Ligi’ne galibiyetle başladı!",
+          "summary": "Eczacıbaşı Peron İstanbul, CEV Şampiyonlar Ligi D grubu ilk maçında, evinde OK TENT Obrenovac’ı konuk ederek rakibini 25-19, 25-19 ve 25-10’luk set skorlarıyla 3-0 mağlup etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/eczacibasi-cev-sampiyonlar-ligine-galibiyetle-basladi-43390020"
         },
         {
-          "title": "Dursun Özbek: 'Netanyahu bizi UEFA'ya şikayet etmiş! Filistin halkının yaşadığı acılara sessiz kalmamaya devam edeceğiz'",
-          "summary": "Galatasaray Başkanı Dursun Özbek, taraftarların Filistin halkına destek amacıyla açtığı pankartlar nedeniyle İsrail Geçici Başbakanı Binyamin Netanyahu'nun kendilerini UEFA'ya şikayet ettiğini belirterek, \"Filistin halkının yaşadığı acılara sessiz kalmamaya devam edeceğiz. Temennimiz, UEFA’nın da bu hassasiyeti aynı anlayışla değerlendirmesi ve siyasi saiklerle yapılan bu şikâyete itibar etmemesidir.\" ifadelerini kullandı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/dursun-ozbek-netanyahu-bizi-uefaya-sikayet-etmis-filistin-halkinin-yasadigi-acilara-sessiz-kalmamaya-devam-edecegiz-43389524"
+          "title": "Deniz Gül ameliyat olacak",
+          "summary": "Galatasaray'ın Aston Villa zaferinin mimarı Deniz Gül'ün burnuna aldığı darbe sonrası karar çıktı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/deniz-gul-ameliyat-olacak-43390025"
         },
         {
-          "title": "Fenerbahçe transferde gözünü Ada'ya dikti: Hedef Arsenal'in 40 milyon euroluk yıldızı!",
-          "summary": "Süper Lig'de 12 hafta sonunda lider Galatasaray'ın 11 puan gerisine düşen Fenerbahçe, devre arası transfer döneminde savunmasını güçlendirmek için çalışmalara başladı. Sarı-lacivertliler gözünü Arsenal'ın genç stoperi Cristhian Mosquera'ya dikti. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahce-transferde-gozunu-adaya-dikti-hedef-arsenalin-40-milyon-euroluk-yildizi-43389402"
+          "title": "Galatasaray-Aston Villa maçı sonrası Emery'den itiraf! 'Durduramadık'",
+          "summary": "Galatasaray'a 1-0 mağlup olan Aston Villa'da tenik direktör Unai Emery konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-aston-villa-maci-sonrasi-emeryden-itiraf-durduramadik-43390007"
         }
       ]
     },
     "teknoloji": {
-      "text": "Üst düzey teknoloji yöneticileri İstanbul’da buluştu. GTA 6'yı sızdıran hacker'a 7 yıl hapis cezası : Otel odasından milyonluk saldırı yaptı. Bolivya Cumhurbaşkanı Pereira'dan ASELSAN'a övgü: İleri teknolojiye sahip bir şirket. HÜRKUŞ'a yeni yazılım. İşte yeni sistemin özellikleri. \"Ay toprağında\" patates hasadı. Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat. GTA 6 çılgınlığı dünyayı sardı.",
+      "text": "Bir gecede her şey değişti! Dönüşün sır perdesi... Trump'ın planı ne?. Üst düzey teknoloji yöneticileri İstanbul’da buluştu. GTA 6'yı sızdıran hacker'a 7 yıl hapis cezası : Otel odasından milyonluk saldırı yaptı. Bolivya Cumhurbaşkanı Pereira'dan ASELSAN'a övgü: İleri teknolojiye sahip bir şirket. HÜRKUŞ'a yeni yazılım. İşte yeni sistemin özellikleri. \"Ay toprağında\" patates hasadı. Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat.",
       "items": [
+        {
+          "title": "Bir gecede her şey değişti! Dönüşün sır perdesi... Trump'ın planı ne?",
+          "summary": "Yasak aşk ve Çin casusluğu iddiaları nedeniyle 12 Kasım’da Nvidia CEO’luğundan ayrılan Jensen Huang, ABD Başkanı Donald Trump’ın perde arkasındaki müdahalesiyle sürpriz biçimde görevine döndü. JD Vance’in yürüttüğü gizli görüşmeler ve Beyaz Saray’ın verdiği ulusal güvenlik ile hukuki güvenceler anlaşmanın önünü açarken, karar borsalarda sert yükseliş ve Nvidia hisselerinde yaklaşık 1 trilyon dolarlık değer kazancı getirdi. Peki CEO koltuğuna geri dönüşün perde arkasında neler yaşandı?",
+          "source": "https://www.hurriyet.com.tr/dunya/bir-gecede-her-sey-degisti-donusun-sir-perdesi-trumpin-plani-ne-43388898"
+        },
         {
           "title": "Üst düzey teknoloji yöneticileri İstanbul’da buluştu",
           "summary": "Farklı sektörlerden şirketlerin üst düzey teknoloji yöneticileri, İstanbul’da düzenlenen İşTurkcell Teknoloji Liderleri Buluşması’nda bir araya geldi.",
@@ -195,11 +200,6 @@
           "title": "Instagram hikayeleri artık paylaşımdan sonra düzenlenebilecek. Zaman sınırına dikkat",
           "summary": "Fotoğraf ve video paylaşım uygulaması Instagram, paylaşımdan sonra hikayelerde düzenleme yapılmasına imkan tanıyan özelliği hayata geçirdiğini ancak 15 dakikalık zaman sınırı olduğunu duyurdu. Instagram'ın son güncellemesiyle artık kullanıcılar, gönderdikleri bir hikaye üzerinde 15 dakika içinde düzeltme, düzenleme yapabilecek.",
           "source": "https://www.ntv.com.tr/teknoloji/instagram-hikayeleri-artik-paylasimdan-sonra-duzenlenebilecek-zaman-sinirina-dikkat-1751626"
-        },
-        {
-          "title": "GTA 6 çılgınlığı dünyayı sardı",
-          "summary": "Oyun dünyasının yıllardır beklediği gün geldi. Dünyanın dört bir yanında kademeli olarak piyasaya sürülen GTA 6, Türkiye'de gece yarısı itibarıyla erişime açıldı. Oyunseverlerin 13 yıllık bekleyişi sona erdi. Rockstar Games'in merakla beklenen oyunu Grand Theft Auto VI'yı (GTA 6), dünyanın dört bir yanında, ülkelerin yerel saatlerine göre kademeli olarak oynanabilir hale gelmeye başladı. Hayranları, Türkiye'de erişime açılmasıyla birlikte oyun kafelere giderek yıllardır yolunu gözledikleri GTA 6'yı oynadı.",
-          "source": "https://www.ntv.com.tr/teknoloji/gta-6-cilginligi-dunyayi-sardi-1751523"
         }
       ]
     },
