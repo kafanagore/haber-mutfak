@@ -1,91 +1,96 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-25T16:00:06.646Z",
+  "generatedAt": "2026-11-26T04:00:06.517Z",
   "categories": {
     "gundem": {
-      "text": "Ünlülere uyuşturucu soruşturmasında yeni dalga: Özcan Deniz, Deniz Çakır, Burcu Özberk de gözaltında. Bakan Çiftçi, öğrencilerle buluştu. Depremde 31 kişi hayatını kaybetmişti… 2 blokun yıkılmasına ilişkin davada karar çıktı. MHP, İzleme Komisyonu üyelerini belirledi. Kepez Belediyesi operasyonunda 24 şüpheli adliyede: Eski başkan ve müdürler de listede. Mardin’de durdurulan TIR’ın tabanından gizli bölme çıktı: 80 göçmen yakalandı, 1 tutuklama. Yabani ot tüketen kadın hayatını kaybetti.",
+      "text": "Aralık ayının ilk günlerine dikkat: Kar heyecanı! İstanbul'da ne zaman başlayacak? Adil Tek gün gün açıkladı. Burdur'da feci kaza! 1 ölü, 2'si ağır 5 yaralı. Avcılar'da korkutan anlar! Elektrikli cip alev topuna döndü. \"Hayalet Arıza\" oyunu. Şikayetler arttı, her yıl yüz binlerce kişi kandırılıyor. Sosyal medyada tanışıp ormanda tuzağa düşürdüler. Sahte \"mehdi\" tutuklandı. Şifa vaadi ile dolandırıcılık ve cinsel istismar suçlaması. Villayı uyuşturucu serasını çevirmiş. Bir kişi gözaltında.",
       "items": [
         {
-          "title": "Ünlülere uyuşturucu soruşturmasında yeni dalga: Özcan Deniz, Deniz Çakır, Burcu Özberk de gözaltında",
-          "summary": "Ünlülere yönelik düzenlenen uyuşturucu operasyonunda ifadesi alınan 10 kişiden 1'i tutuklama 9'u ise adli kontrol talebiyle mahkemeye sevk edildi. Ünlülere yönelik uyuşturucu soruşturmasında yeni bir operasyon düzenlendi. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada 35 şüpheli hakkında gözaltı kararı verildi. Aralarında şarkıcı Özcan Deniz, oyuncu Deniz Çakır ve Burcu Özbek ile organizatör Erdal Bozkuş ve internet ünlülerinin de bulunduğu 24 kişi gözaltına alındı.",
-          "source": "https://www.ntv.com.tr/turkiye/galeri-unlulere-uyusturucu-sorusturmasinda-yeni-dalga-ozcan-deniz-deniz-cakir-burcu-ozberk-de-gozaltinda-1752499"
+          "title": "Aralık ayının ilk günlerine dikkat: Kar heyecanı! İstanbul'da ne zaman başlayacak? Adil Tek gün gün açıkladı",
+          "summary": "Son günlerde sosyal medyadan hava durumu bültenlerine kadar her yerde tek bir cümle dolaşıyor: \"Kar geliyor!\" Peki bu iddialar ne kadar gerçekçi, aralık başı için işaret edilen tarihler megakentte beyaz örtü oluşturmaya yetecek mi? Küresel iklim modellerinin ve bölgesel atmosfer verilerinin neye işaret ettiğini Meteoroloji Uzmanı Adil Tek ile konuştuk. İşte İstanbul'dan Ankara'ya, yeni yıl beklentisinden hafta sonu tahminlerine kadar önümüzdeki günlerin merak edilen hava raporu...",
+          "source": "https://www.hurriyet.com.tr/gundem/aralik-ayinin-ilk-gunlerine-dikkat-kar-heyecani-istanbulda-ne-zaman-baslayacak-adil-tek-gun-gun-acikladi-43390858"
         },
         {
-          "title": "Bakan Çiftçi, öğrencilerle buluştu",
-          "summary": "İÇİŞLERİ Bakanı Mustafa Çiftçi, mezunu olduğu Ankara Üniversitesi Siyasal Bilgiler Fakültesi'nde öğrencilerle bir araya gelerek mesleki tecrübelerini paylaştı.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-ogrencilerle-bulustu-43391091"
+          "title": "Burdur'da feci kaza! 1 ölü, 2'si ağır 5 yaralı",
+          "summary": "Burdur'da ters yönden giden otomobilin karıştığı kazada 1 kişi hayatını kaybetti, 2'si ağır 5 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/burdurda-feci-kaza-1-olu-2si-agir-5-yarali-43391339"
         },
         {
-          "title": "Depremde 31 kişi hayatını kaybetmişti… 2 blokun yıkılmasına ilişkin davada karar çıktı",
-          "summary": "Malatya'da, 6 Şubat 2023'teki Kahramanmaraş'ın Pazarcık ilçesi merkezli 7,7 büyüklüğündeki depremde 31 kişinin hayatını kaybettiği, 11 kişinin yaralandığı Bulutlar Sitesi'nin A ve B blokların yıkılmasına ilişkin 8 tutuksuz sanığın yargılandığı davada karar çıktı.",
-          "source": "https://www.hurriyet.com.tr/gundem/depremde-31-kisi-hayatini-kaybetmisti-2-blokun-yikilmasina-iliskin-davada-karar-cikti-43391084"
+          "title": "Avcılar'da korkutan anlar! Elektrikli cip alev topuna döndü",
+          "summary": "Avcılar E-5 Karayolu’nda seyir halindeki elektrikli cip alevlere teslim oldu. Yangın nedeniyle E-5’in Beylikdüzü istikameti araç trafiğine kapatılırken, cip kullanılamaz hale geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/avcilarda-korkutan-anlar-elektrikli-cip-alev-topuna-dondu-43391338"
         },
         {
-          "title": "MHP, İzleme Komisyonu üyelerini belirledi",
-          "summary": "MHP, ‘Terörsüz Türkiye’ süreci kapsamında kurulması planlanan İzleme Komisyonu üyelikleri için Genel Başkan Yardımcısı ve İstanbul Milletvekili Feti Yıldız ile Sakarya Milletvekili Muhammed Levent Bülbül'ün görevlendirildiğini açıkladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/mhp-izleme-komisyonu-uyelerini-belirledi-43391058"
+          "title": "\"Hayalet Arıza\" oyunu. Şikayetler arttı, her yıl yüz binlerce kişi kandırılıyor",
+          "summary": "İstanbul’daki bir lastik servisinde yaşanan aldatmaca olayı Türkiye'deki \"hayalet arıza\" vurgununu gözler önüne serdi. Her yıl yüz binlerce müşteri bu kandırmaca ile mağdur oluyor. Haber: Osman Terkan İstanbul'da Şişli'de daha fazla ücret almak için araç lastiklerinde sorun varmış gibi gösteren kişilerin yaptıkları aldatmaca araç kamerasına yansıyan görüntülerle ortaya çıktı. Şahısların \"Ayarı elleme, ‘bozuk’ de” gibi ifadeleri araç kamerasında açıkça duyuldu.",
+          "source": "https://www.ntv.com.tr/turkiye/hayalet-ariza-oyunu-her-yil-yuzbinlerce-kisi-kandiriliyor-nelere-dikkat-edilmeli-1752602"
         },
         {
-          "title": "Kepez Belediyesi operasyonunda 24 şüpheli adliyede: Eski başkan ve müdürler de listede",
-          "summary": "22 Kasım’da Kepez Belediyesi’ne yönelik operasyonda, eski başkan E.Ö. ile belediye başkanı adına rüşvet aldığı öne sürülen Y.N. dahil 24 kişi gözaltına alındı. Dijital materyallerine el konulan şüpheliler akşam saatlerinde adliyeye sevk edildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/kepez-belediyesi-operasyonunda-24-supheli-adliyede-eski-baskan-ve-mudurler-de-listede-43391042"
+          "title": "Sosyal medyada tanışıp ormanda tuzağa düşürdüler",
+          "summary": "Ankara'da sosyal medyada tanıştığı erkekleri orman alana çağırarak gasp ve santaj yapan bir kadın ile erkek suç ortakları yakalandı. Ankara Cumhuriyet Başsavcılığı koordinesinde, Asayiş Şube Müdürlüğü Gasp Büro Amirliği ekiplerince yürütülen çalışmada, kadın şüphelinin sanal medya üzerinden tanıştığı kişileri birlikte olma vaadiyle ormanlık alana çağırdığı belirlendi.",
+          "source": "https://www.ntv.com.tr/turkiye/sosyal-medyada-tanisip-ormanda-tuzaga-dusurduler-1752601"
         },
         {
-          "title": "Mardin’de durdurulan TIR’ın tabanından gizli bölme çıktı: 80 göçmen yakalandı, 1 tutuklama",
-          "summary": "Seyir halindeki TIR’ı durdurup detaylı arama yapan polis, dorsenin tabanında profil demirlerle kurulan gizli bölmeleri ortaya çıkardı. Bölmelere saklanan 80 düzensiz göçmen yakalanırken, gözaltına alınan 1 şüpheli cezaevine gönderildi.",
-          "source": "https://www.hurriyet.com.tr/gundem/mardinde-durdurulan-tirin-tabanindan-gizli-bolme-cikti-80-gocmen-yakalandi-1-tutuklama-43391016"
+          "title": "Sahte \"mehdi\" tutuklandı. Şifa vaadi ile dolandırıcılık ve cinsel istismar suçlaması",
+          "summary": "İzmir'de kendisini \"mehdi\" olarak tanıtarak şifa vaaden kişi, bir aileyi 3 milyon TL dolandırmak ve cinsel istismarda bulunduğu suçlamasıyla tutuklandı. İzmir'de kendisini ‘Mehdi’ olarak tanıtan kişinin bir aileyi 'şifa' vaadiyle yaklaşık 3 milyon TL dolandırarak, kadına yönelik cinsel istismarda bulunduğu ve 3,5 yaşındaki çocuğa şiddet uyguladığı iddia edildi.",
+          "source": "https://www.ntv.com.tr/turkiye/sahte-mehdi-tutuklandi-sifa-vaadi-ile-dolandiricilik-ve-cinsel-istismar-suclamasi-1752600"
         },
         {
-          "title": "Yabani ot tüketen kadın hayatını kaybetti",
-          "summary": "Mersin’in Tarsus ilçesinde topladıkları yabani otu yiyen kuzenlerden biri öldü, diğeri yoğun bakımda tedavi altına alındı.",
-          "source": "https://www.hurriyet.com.tr/gundem/yabani-ot-tuketen-kadin-hayatini-kaybetti-43391010"
+          "title": "Villayı uyuşturucu serasını çevirmiş. Bir kişi gözaltında",
+          "summary": "Beykoz'da 3 katlı villaya düzenlenen uyuşturucu operasyonunda 1 kişi gözaltına alındı. İstanbul Emniyet Müdürlüğü Beykoz İlçe Emniyet Müdürlüğü ekiplerince, uyuşturucu madde imal ve ticaretinin önlenmesine yönelik yürütülen çalışmalarda; Riva Mahallesi’nde bulunan müstakil 3 katlı villada uyuşturucu madde yetiştirildiği yönünde edinilen bilgiler üzerine operasyon gerçekleştirildi. Operasyonda 1 şüpheli yakalandı.",
+          "source": "https://www.ntv.com.tr/turkiye/villayi-uyusturucu-serasini-cevirmis-bir-kisi-gozaltinda-1752599"
         }
       ]
     },
     "dunya": {
-      "text": "Hürmüz Boğazı'nda bir tanker mayına çarptı. ABD'den AB üyeleri ve Çin dahil 14 ülkeye ek vergi hamlesi. Filistin destekçisi Emde, Sol Parti'nin Berlin Eyalet Meclis Grubu'ndan ihraç edildi. İsrail'de koalisyon görüşmelerinde son aşama: 'Netanyahu'nun bir haftası kaldı'. ABD'de yeni siber saldırı. CIA'den bazı gizli olmayan bilgiler sızdırıldı. Husiler Suudi Arabistan'ın Hudeyde Limanı'nı vurduğunu duyurdu. Avrupa Birliği'nden kuantum ve yapay zekaya 50 milyar euro fon hazırlığı.",
+      "text": "60 gün içinde fırlatılabilir iddiası! Gözler Putin'in planında! Dünyanın korktuğu senaryo gerçek mi oluyor?. Mısır'daki feci kazada can kaybı 30'a yükseldi. Mısır'da yakıt tankerinde yangın: 30 ölü, 15 yaralı. Suriye'nin Haseke kentinde bomba yüklü motosiklet patladı. Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 2 balistik füze imha edildi. Avrupa Birliği'nden kuantum ve yapay zekaya 50 milyar euro fon hazırlığı. ABD'de 5 tonluk mühimmat patlatıldı.",
       "items": [
         {
-          "title": "Hürmüz Boğazı'nda bir tanker mayına çarptı",
-          "summary": "İran ordusu, Hürmüz Boğazı'nın doğusunda \"izinsiz güzergahı\" kullanan bir petrol tankerinin deniz mayınına çarptığını bildirdi. Tankerin alev aldığı kaydedildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-bir-tanker-mayina-carpti-43391036"
+          "title": "60 gün içinde fırlatılabilir iddiası! Gözler Putin'in planında! Dünyanın korktuğu senaryo gerçek mi oluyor?",
+          "summary": "Dünya, Rusya ile NATO arasında yaşanabilecek olası bir çatışmanın yeni ve oldukça tehlikeli bir boyutuyla karşı karşıya. Moskova’nın bugüne kadar alışılmış savaş stratejilerinin dışında kalan bir hamle üzerinde çalıştığı iddia edilirken, Batı’dan gelen istihbarat bilgileri endişeleri artırdı. Peki, Vladimir Putin’in uzayla ilgili planı ne? Tek bir hamle, modern dünyanın vazgeçilmez teknolojilerini nasıl tehdit edebilir? İşte kafaları karıştıran iddialar ve uzmanların dikkat çektiği olası senaryonun ayrıntıları...",
+          "source": "https://www.hurriyet.com.tr/dunya/60-gun-icinde-firlatilabilir-iddiasi-gozler-putinin-planinda-dunyanin-korktugu-senaryo-gercek-mi-oluyor-43390461"
         },
         {
-          "title": "ABD'den AB üyeleri ve Çin dahil 14 ülkeye ek vergi hamlesi",
-          "summary": "ABD hükümeti, üretim kapasitesi fazlası nedeniyle Çin ve Avrupa Birliği (AB) üyeleri dahil 14 ülkeye yüzde 15 ila yüzde 35 oranında gümrük vergisi uygulanmasını önerdi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdden-ab-uyeleri-ve-cin-dahil-14-ulkeye-ek-vergi-hamlesi-43391011"
+          "title": "Mısır'daki feci kazada can kaybı 30'a yükseldi",
+          "summary": "Mısır'ın başkenti Kahire'nin çevre yolunda petrol ürünleri taşıyan bir aracın devrilmesi sonucu çıkan yangında en az 30 kişi hayatını kaybetti, 15 kişi yaralandı. Mısır'da petrol ürünleri taşıyan bir aracın devrilmesi sonucu çıkan yangında can kaybı arttı. Mısır Sağlık Bakanlığı, kazada en az 30 kişinin hayatını kaybettiğini, 15 kişinin de yaralandığını açıkladı.",
+          "source": "https://www.ntv.com.tr/dunya/misirda-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti-1752578"
         },
         {
-          "title": "Filistin destekçisi Emde, Sol Parti'nin Berlin Eyalet Meclis Grubu'ndan ihraç edildi",
-          "summary": "Almanya'nın başkenti Berlin'de Yeşiller ve Sosyal Demokrat Parti (SPD) ile eyalet hükümeti kurmak için koalisyon görüşmelerini sürdüren Sol Parti, Filistin'e verdiği destek ve İsrail karşıtı görüşleriyle tanınan Vanessa Emde'yi Eyalet Meclis Grubu'ndan ihraç etti. Emde, kararın Sol Parti için bir dönüm noktası olduğunu belirterek, partiyi terk etmeyeceğini kaydetti.",
-          "source": "https://www.hurriyet.com.tr/dunya/filistin-destekcisi-emde-sol-partinin-berlin-eyalet-meclis-grubundan-ihrac-edildi-43390975"
+          "title": "Mısır'da yakıt tankerinde yangın: 30 ölü, 15 yaralı",
+          "summary": "MISIR'ın Giza kentinde petrol ürünleri taşıyan bir tankerde çıkan yangında 30 kişi hayatını kaybetti, 15 kişi yaralandı.",
+          "source": "https://www.hurriyet.com.tr/dunya/misirda-yakit-tankerinde-yangin-30-olu-15-yarali-43391330"
         },
         {
-          "title": "İsrail'de koalisyon görüşmelerinde son aşama: 'Netanyahu'nun bir haftası kaldı'",
-          "summary": "İsrail'de hükümeti kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot'un, gelecek haftanın sonuna kadar yeni hükümeti göreve getirmeyi hedeflediği bildirildi. İsrail Evimiz Partisi lideri Avigdor Lieberman ise Geçici Başbakan Binyamin Netanyahu ile Savunma Bakanı Yisrael Katz'ın iktidar hırsıyla çıldırdığını söyledi. Lieberman, İsrail istihbarat kurumlarının muhalefet liderlerine karşı kullanılmış olabileceğini öne sürdü.",
-          "source": "https://www.hurriyet.com.tr/dunya/israilde-koalisyon-gorusmelerinde-son-asama-netanyahunun-bir-haftasi-kaldi-43390929"
+          "title": "Suriye'nin Haseke kentinde bomba yüklü motosiklet patladı",
+          "summary": "Suriye'nin kuzeydoğusundaki Haseke kentinde bomba yüklü motosikletin patladığı bildirildi. Suriye İhbariye televizyonunun haberine göre, Haseke'nin Müşeyrife Mahallesi'nde bomba yüklü bir motosiklet infilak etti. Olayda ölen ya da yaralanan olup olmadığına ilişkin henüz bilgi verilmedi. Olayın ardından İç Güvenlik Güçlerinin patlamayla ilgili soruşturma başlattığı kaydedildi.",
+          "source": "https://www.ntv.com.tr/dunya/suriyenin-haseke-kentinde-bomba-yuklu-motosiklet-patladi-1752590"
         },
         {
-          "title": "ABD'de yeni siber saldırı. CIA'den bazı gizli olmayan bilgiler sızdırıldı",
-          "summary": "ABD merkezi istihbarat teşkilatı CIA bazı gizli olmayan verilerin sızmasına yol açan bir siber güvenlik ihlali tespit etti. The New York Times (NYT) gazetesinin konuya yakın kaynaklara dayandırdığı haberine göre, son dönemde sistem arızaları ve siber güvenlik endişeleri ile gündeme gelen ABD'de son günlerde yeni bir olay yaşandı. Gazeteye konuşan yetkililere göre, güvenlik ihlali hem CIA hem de Ulusal İstihbarat Direktörlüğü'nü etkiledi.",
-          "source": "https://www.ntv.com.tr/dunya/abdde-yeni-siber-saldiri-ciaden-bazi-gizli-olmayan-bilgiler-sizdirildi-1752449"
-        },
-        {
-          "title": "Husiler Suudi Arabistan'ın Hudeyde Limanı'nı vurduğunu duyurdu",
-          "summary": "Suudi Arabistan'ın, Yemen'in Kızıldeniz kıyısında Husilerin kontrolünde bulunan Hudeyde Limanı'na hava saldırısı düzenlediği bildirildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/husiler-suudi-arabistanin-hudeyde-limanini-vurdugunu-duyurdu-43390872"
+          "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 2 balistik füze imha edildi",
+          "summary": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki İran destekli Husilerin başkent Riyad'a fırlattığı 2 balistik füzenin imha edildiğini duyurdu. Koalisyon Sözcüsü Tuğgeneral Turki el-Maliki, ABD merkezli X şirketinin sosyal medya platformundaki hesabından yaptığı açıklamada, Husilerin Riyad'ı balistik füzeyle hedef almaya çalıştıklarını belirtti.",
+          "source": "https://www.ntv.com.tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-2-balistik-fuze-imha-edildi-1752589"
         },
         {
           "title": "Avrupa Birliği'nden kuantum ve yapay zekaya 50 milyar euro fon hazırlığı",
           "summary": "Avrupa Komisyonu, 2030 yılına kadar kuantum teknolojisinde küresel lider olmak amacıyla 50 milyar euroluk özkaynak finansman fonu önerdi. Avrupa Komisyonu, kıtayı 2030 yılına kadar kuantum teknolojisinde küresel lider yapmayı hedefleyen 50 milyar euroluk (54,73 milyar dolar) özkaynak finansman fonu önerdi. Brüksel'de açıklanan Kuantum Yasası taslağı, kamu ihalelerinde Avrupa şirketlerine öncelik tanıyan düzenlemeler de içeriyor.",
           "source": "https://www.ntv.com.tr/dunya/avrupa-birliginden-kuantum-ve-yapay-zekaya-50-milyar-euro-fon-hazirligi-1752564"
+        },
+        {
+          "title": "ABD'de 5 tonluk mühimmat patlatıldı",
+          "summary": "ABD'nin Iowa eyaletinde, orduya ait bir mühimmat fabrikasında bulunan yaklaşık 5 ton kurşun azit stoku kontrollü şekilde imha edildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/abdde-5-tonluk-muhimmat-patlatildi-43391184"
         }
       ]
     },
     "ekonomi": {
-      "text": "Kemalpaşalı sanayiciler ABD pazarını hedefliyor. Bahçeli’den orta sınıf uyarısı. Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar. Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor. Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi.",
+      "text": "Aralarında Çin ve AB de var… ABD yönetiminden 14 ekonomiye ek tarife önerisi. Kemalpaşalı sanayiciler ABD pazarını hedefliyor. Bahçeli’den orta sınıf uyarısı. Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar. Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor.",
       "items": [
+        {
+          "title": "Aralarında Çin ve AB de var… ABD yönetiminden 14 ekonomiye ek tarife önerisi",
+          "summary": "ABD yönetimi, imalat sektörlerinde yapısal kapasite fazlası ve üretime ilişkin politikaları nedeniyle Çin ve Avrupa Birliği'nin (AB) de aralarında bulunduğu 14 ekonomiye yönelik ek gümrük vergileri getirilmesini önerdi.",
+          "source": "https://www.hurriyet.com.tr/dunya/aralarinda-cin-ve-ab-de-var-abd-yonetiminden-14-ekonomiye-ek-tarife-onerisi-abd-yonetimi-imalat-sektorlerinde-yapisal-kapasite-fazlasi-43391157"
+        },
         {
           "title": "Kemalpaşalı sanayiciler ABD pazarını hedefliyor",
           "summary": "İZMİR Kemalpaşa Sanayici ve İş İnsanları Derneği (KESİAD), üyelerinin ABD pazarındaki ticaret ve yatırım fırsatlarını değerlendirmesi, iki ülke arasındaki ekonomik ilişkilerin geliştirilmesi ve ilçe sanayisinin uluslararası pazarlardaki etkinliğinin artırılması amacıyla önemli bir buluşmaya ev sahipliği yaptı.",
@@ -115,51 +120,46 @@
           "title": "Tütün iki aydır ihracat rekoru kırıyor",
           "summary": "TÜTÜN sektörünün ihracattaki başarısı ekim ayında da devam etti. Ekim 2025’te 82 milyon dolarlık ihracata imza atan sektör, bu yılın aynı döneminde ihracatını yüzde 59’luk yükselişle 130 milyon dolara taşıdı.",
           "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/tutun-iki-aydir-ihracat-rekoru-kiriyor-43383940"
-        },
-        {
-          "title": "Temiz teknoloji girişimleri için 50 milyon dolarlık yatırım fonu hedefi",
-          "summary": "Boğaziçi Ventures Üst Yöneticisi (CEO) Barış Özistek, yapay zeka destekli temiz teknoloji girişimlerine yatırım yapmak amacıyla oluşturdukları GreenWise fonunda 50 milyon dolarlık büyüklüğe ulaşmayı hedeflediklerini söyledi.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/temiz-teknoloji-girisimleri-icin-50-milyon-dolarlik-yatirim-fonu-hedefi-43382684"
         }
       ]
     },
     "spor": {
-      "text": "Beşiktaş'a hava muhalefeti engeli! Uçak Batum'a inemedi. Filenin Sultanları'nın Voleybol Milletler Ligi 2027'deki rakipleri belli oldu. CSKA Sofya teknik direktörü Gisdol: Maç başladığında dostluk bitmiş oluyor. ‘Gelecek 100 yılın ligi’, salon devrimiyle gerçekleşecek. Galatasaray, Beşiktaş'a çalıştı. Galatasaray, Ali Şansalan'ı şikayet edecek! Dilekçenin ayrıntıları ortaya çıktı. Belçika'dan Lukaku'ya mesaj var: Kapımız açık.",
+      "text": "Arda Turan: 'Bu cehennemi yaşayacağız!'. Emre Belözoğlu: 'Fenerbahçe'nin Şampiyonlar Ligi'nde olması yakışıyor!'. Vedat Muriqi: 'İyi yoldayız, çalışmaya devam!'. Vedat Muriqi'den tarihi gece: Fenerbahçe'nin 22 yıllık hasretini bitirdi!. Fabinho: 'Hedef Konferans Ligi'nde ilk 8!'. Thomas Reis'ten Konferans Ligi için ilk 8 açıklaması!. Ran Kozuch: 'Beşiktaş çok kaliteli bir takım'.",
       "items": [
         {
-          "title": "Beşiktaş'a hava muhalefeti engeli! Uçak Batum'a inemedi",
-          "summary": "Beşiktaş kafilesini taşıyan uçak, Batum’daki olumsuz hava koşulları sebebiyle Rize’ye iniş yaptı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktasa-hava-muhalefeti-engeli-ucak-batuma-inemedi-43391054"
+          "title": "Arda Turan: 'Bu cehennemi yaşayacağız!'",
+          "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, Fenerbahçe yenilgisinin ardından değerlendirmelerde bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/arda-turan-bu-cehennemi-yasayacagiz-43391324"
         },
         {
-          "title": "Filenin Sultanları'nın Voleybol Milletler Ligi 2027'deki rakipleri belli oldu",
-          "summary": "VOLEYBOL Milletler Ligi'nin son şampiyonu A Milli Kadın Voleybol Takımı'nın, 2027 FIVB Voleybol Milletler Ligi’nde (VNL) mücadele edeceği etaplar, gruplar ve organizasyonların tarihi belli oldu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlarinin-voleybol-milletler-ligi-2027deki-rakipleri-belli-oldu-43391001"
+          "title": "Emre Belözoğlu: 'Fenerbahçe'nin Şampiyonlar Ligi'nde olması yakışıyor!'",
+          "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, Shakhtar Donetsk galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-fenerbahcenin-sampiyonlar-liginde-olmasi-yakisiyor-43391325"
         },
         {
-          "title": "CSKA Sofya teknik direktörü Gisdol: Maç başladığında dostluk bitmiş oluyor",
-          "summary": "UEFA Konferans Ligi'nin 4. haftasında 26 Kasım Perşembe akşamı Trabzonspor'u konuk edecek Bulgaristan temsilcisi CSKA Sofya'da teknik direktör Markus Gisdol, \"Yarın Thomas Reis ile görüşeceğimiz için mutluyum. Ama oyun başladığında dostluk bitmiş oluyor ve oyun bittiğinde dostluk tekrar devam ediyor.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/cska-sofya-teknik-direktoru-gisdol-mac-basladiginda-dostluk-bitmis-oluyor-43390996"
+          "title": "Vedat Muriqi: 'İyi yoldayız, çalışmaya devam!'",
+          "summary": "Fenerbahçe'nin Devler Ligi'nde Shakhtar Donetsk'i 1-0 mağlup ettiği maçta 3 puanı getiren gole imzasını atan Vedat Muriqi, galibiyeti Londra'daki tribünleri dolduran sarı-lacivertli taraftarlara armağan etti.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-iyi-yoldayiz-calismaya-devam-43391318"
         },
         {
-          "title": "‘Gelecek 100 yılın ligi’, salon devrimiyle gerçekleşecek",
-          "summary": "NBA’in “Gelecek 100 yılın ligi” olarak tanımladığı NBA Europe projesinde tarihi bir adım atıldı. Dünyanın önde gelen yatırımcılarını bir araya getiren NBA, Avrupa’da yeni basketbol salonları inşa etmek, mevcut salonları yenilemek ve çevrelerini yıl boyu yaşayan cazibe merkezlerine dönüştürmek için en az 10 milyar Euro finansman hedefleyen bir girişim planı açıkladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/gelecek-100-yilin-ligi-salon-devrimiyle-gerceklesecek-43390997"
+          "title": "Vedat Muriqi'den tarihi gece: Fenerbahçe'nin 22 yıllık hasretini bitirdi!",
+          "summary": "Fenerbahçe'ye Shakhtar Donetsk karşısında galibiyeti getiren Vedat Muriqi, üst üste ikinci maçında da fileleri havalandırırken hem performansıyla hem de kırdığı rekorlarla geceye damga vurdu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqiden-tarihi-gece-fenerbahcenin-22-yillik-hasretini-bitirdi-43391312"
         },
         {
-          "title": "Galatasaray, Beşiktaş'a çalıştı",
-          "summary": "Galatasaray, Beşiktaş derbisinin hazırlıklarına ara vermeden başladı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-besiktasa-calisti-43390991"
+          "title": "Fabinho: 'Hedef Konferans Ligi'nde ilk 8!'",
+          "summary": "Trabzonspor'un Brezilyalı oyuncusu Fabinho, UEFA Konferans Ligi'ne ilişkin olarak, \"Hedefimiz ilk 8’de olmak. Evimizde oynadığımız son maçı iyi oynamamıza rağmen kaybettik. Dolayısıyla bu organizasyonda yeniden kazanmak bizim için önemli. Çünkü hedefimiz ilk 8’de yer almak.\" dedi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/fabinho-hedef-konferans-liginde-ilk-8-43391160"
         },
         {
-          "title": "Galatasaray, Ali Şansalan'ı şikayet edecek! Dilekçenin ayrıntıları ortaya çıktı",
-          "summary": "Galatasaray, Samsunspor maçı sonrası Okan Buruk'a kırmızı kart gösteren hakem Ali Şansalan'ı etik kuruluna şikayet edecek.",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaray-ali-sansalani-sikayet-edecek-dilekcenin-ayrintilari-ortaya-cikti-43390866"
+          "title": "Thomas Reis'ten Konferans Ligi için ilk 8 açıklaması!",
+          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, UEFA Konferans Ligi'nin 4. haftasında oynayacakları CSKA Sofya maçı öncesi Bulgaristan'ın başkenti Sofya'da düzenlenen basın toplantısında konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/thomas-reisten-konferans-ligi-icin-ilk-8-aciklamasi-43391129"
         },
         {
-          "title": "Belçika'dan Lukaku'ya mesaj var: Kapımız açık",
-          "summary": "Kısa süre önce Belçika Milli Takımı'nı bıraktığını açıklayan Fenerbahçe'nin golcüsü Lukaku'ya, ülkesinden mesaj geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/belcikadan-lukakuya-mesaj-var-kapimiz-acik-43390714"
+          "title": "Ran Kozuch: 'Beşiktaş çok kaliteli bir takım'",
+          "summary": "UEFA Avrupa Ligi'nin 5. haftasında yarın Gürcistan'da Beşiktaş ile karşılaşacak Hapoel Beer Sheva'nın teknik direktörü Ran Kozuch, Beşiktaş çok kaliteli bir takım olduğunu belirterek, siyah-beyazlılar karşısında oyun felsefelerini sahaya yansıtmak istediklerini söyledi.,",
+          "source": "https://www.hurriyet.com.tr/sporarena/ran-kozuch-besiktas-cok-kaliteli-bir-takim-43391136"
         }
       ]
     },
