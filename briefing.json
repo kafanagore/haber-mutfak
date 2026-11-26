@@ -1,85 +1,85 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-26T04:00:06.517Z",
+  "generatedAt": "2026-11-26T10:00:07.078Z",
   "categories": {
     "gundem": {
-      "text": "Aralık ayının ilk günlerine dikkat: Kar heyecanı! İstanbul'da ne zaman başlayacak? Adil Tek gün gün açıkladı. Burdur'da feci kaza! 1 ölü, 2'si ağır 5 yaralı. Avcılar'da korkutan anlar! Elektrikli cip alev topuna döndü. \"Hayalet Arıza\" oyunu. Şikayetler arttı, her yıl yüz binlerce kişi kandırılıyor. Sosyal medyada tanışıp ormanda tuzağa düşürdüler. Sahte \"mehdi\" tutuklandı. Şifa vaadi ile dolandırıcılık ve cinsel istismar suçlaması. Villayı uyuşturucu serasını çevirmiş. Bir kişi gözaltında.",
+      "text": "Eskişehir şehitlerine acı veda. Anayasa Mahkemesi'nden Ekrem İmamoğlu kararı. Bağcılar'da feci kaza! Otomobil kaldırımdaki yayalara çarptı: 2 ağır yaralı. AYM'den Ekrem İmamoğlu'na ret. Yengesi ve onun annesini öldüren sanıktan duruşmada konuştu: Diyecek bir şeyim yok. DEM Parti heyeti Devlet Bahçeli ile görüştü. DJ Burak Yeter uyuşturucu soruşturmasında gözaltına alındı.",
       "items": [
         {
-          "title": "Aralık ayının ilk günlerine dikkat: Kar heyecanı! İstanbul'da ne zaman başlayacak? Adil Tek gün gün açıkladı",
-          "summary": "Son günlerde sosyal medyadan hava durumu bültenlerine kadar her yerde tek bir cümle dolaşıyor: \"Kar geliyor!\" Peki bu iddialar ne kadar gerçekçi, aralık başı için işaret edilen tarihler megakentte beyaz örtü oluşturmaya yetecek mi? Küresel iklim modellerinin ve bölgesel atmosfer verilerinin neye işaret ettiğini Meteoroloji Uzmanı Adil Tek ile konuştuk. İşte İstanbul'dan Ankara'ya, yeni yıl beklentisinden hafta sonu tahminlerine kadar önümüzdeki günlerin merak edilen hava raporu...",
-          "source": "https://www.hurriyet.com.tr/gundem/aralik-ayinin-ilk-gunlerine-dikkat-kar-heyecani-istanbulda-ne-zaman-baslayacak-adil-tek-gun-gun-acikladi-43390858"
+          "title": "Eskişehir şehitlerine acı veda",
+          "summary": "Eskişehir'de helikopter kazasında şehit olan 5 asker, için 1. Ana Jet Üs Komutanlığı'nda tören düzenlendi. Şehitler, bugün memleketlerinde son yolculuğa uğurlanacak. Eskişehir'in Tepebaşı ilçesinde eğitim uçuşu için havalanan bir askeri helikopter 24 Kasım akşam saatlerinde kaza kırıma uğradı. Hava Pilot Albay Mehmet Çöl, Hava Pilot Kıdemli Üsteğmen Halil Karabulut, Hava Uçak Bakım Astsubay Başçavuş Muhammed Nurullah Erarslan, ve Hava Piyade Astsubay Başçavuş Volkan Demirhan şehit oldu.",
+          "source": "https://www.ntv.com.tr/turkiye/galeri-eskisehir-sehitlerine-aci-veda-1752678"
         },
         {
-          "title": "Burdur'da feci kaza! 1 ölü, 2'si ağır 5 yaralı",
-          "summary": "Burdur'da ters yönden giden otomobilin karıştığı kazada 1 kişi hayatını kaybetti, 2'si ağır 5 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/burdurda-feci-kaza-1-olu-2si-agir-5-yarali-43391339"
+          "title": "Anayasa Mahkemesi'nden Ekrem İmamoğlu kararı",
+          "summary": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun tutukluluğunun hak ihlali olduğu iddiasıyla yaptığı başvuruyu reddetti. Anayasa Mahkemesi, görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun tutukluluğuna yaptığı itirazı reddetti. İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik yolsuzluk suçlamasıyla başlatılan soruşturma kapsamında 23 Mart 2025 tarihinde tutuklanan İmamoğlu, avukatları aracılığıyla AYM'ye hak ihlali başvurusunda bulunmuştu.",
+          "source": "https://www.ntv.com.tr/turkiye/anayasa-mahkemesinden-ekrem-imamoglu-karari-1752708"
         },
         {
-          "title": "Avcılar'da korkutan anlar! Elektrikli cip alev topuna döndü",
-          "summary": "Avcılar E-5 Karayolu’nda seyir halindeki elektrikli cip alevlere teslim oldu. Yangın nedeniyle E-5’in Beylikdüzü istikameti araç trafiğine kapatılırken, cip kullanılamaz hale geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/avcilarda-korkutan-anlar-elektrikli-cip-alev-topuna-dondu-43391338"
+          "title": "Bağcılar'da feci kaza! Otomobil kaldırımdaki yayalara çarptı: 2 ağır yaralı",
+          "summary": "İstanbul Bağcılar'da meydana gelen kazada otomobil ve motosiklet çarpıştı. Ardından otomobil kaldırımdaki yayalara çarptı. Kazada 2 kişi ağır yaralandı.",
+          "source": "https://www.hurriyet.com.tr/gundem/bagcilarda-feci-kaza-otomobil-kaldirimdaki-yayalara-carpti-2-agir-yarali-43391815"
         },
         {
-          "title": "\"Hayalet Arıza\" oyunu. Şikayetler arttı, her yıl yüz binlerce kişi kandırılıyor",
-          "summary": "İstanbul’daki bir lastik servisinde yaşanan aldatmaca olayı Türkiye'deki \"hayalet arıza\" vurgununu gözler önüne serdi. Her yıl yüz binlerce müşteri bu kandırmaca ile mağdur oluyor. Haber: Osman Terkan İstanbul'da Şişli'de daha fazla ücret almak için araç lastiklerinde sorun varmış gibi gösteren kişilerin yaptıkları aldatmaca araç kamerasına yansıyan görüntülerle ortaya çıktı. Şahısların \"Ayarı elleme, ‘bozuk’ de” gibi ifadeleri araç kamerasında açıkça duyuldu.",
-          "source": "https://www.ntv.com.tr/turkiye/hayalet-ariza-oyunu-her-yil-yuzbinlerce-kisi-kandiriliyor-nelere-dikkat-edilmeli-1752602"
+          "title": "AYM'den Ekrem İmamoğlu'na ret",
+          "summary": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun bireysel başvurusunu ele aldı. 2 saat 34 dakika süren toplantıda İmamoğlu için 'ret' kararı çıktı. AYM'den yapılan açıklamada \"Ekrem İmamoğlu'nun tutukluluğunda hak ihlali bulunmuyor\" ifadesine yer verildi,.",
+          "source": "https://www.hurriyet.com.tr/gundem/aymden-ekrem-imamogluna-ret-43391800"
         },
         {
-          "title": "Sosyal medyada tanışıp ormanda tuzağa düşürdüler",
-          "summary": "Ankara'da sosyal medyada tanıştığı erkekleri orman alana çağırarak gasp ve santaj yapan bir kadın ile erkek suç ortakları yakalandı. Ankara Cumhuriyet Başsavcılığı koordinesinde, Asayiş Şube Müdürlüğü Gasp Büro Amirliği ekiplerince yürütülen çalışmada, kadın şüphelinin sanal medya üzerinden tanıştığı kişileri birlikte olma vaadiyle ormanlık alana çağırdığı belirlendi.",
-          "source": "https://www.ntv.com.tr/turkiye/sosyal-medyada-tanisip-ormanda-tuzaga-dusurduler-1752601"
+          "title": "Yengesi ve onun annesini öldüren sanıktan duruşmada konuştu: Diyecek bir şeyim yok",
+          "summary": "Mersin’de yengesi Aygül Çınar ile annesi Türkan Söylemez’i öldürdüğü gerekçesiyle 2 kez ağırlaştırılmış müebbet hapsi istenen Ömer Can Çınar’ın yargılanmasına devam edildi. SEGBİS’le duruşmaya katılan sanık \"Diyecek bir şeyim yok\" dedi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yengesi-ve-onun-annesini-olduren-saniktan-durusmada-konustu-diyecek-bir-seyim-yok-43391793"
         },
         {
-          "title": "Sahte \"mehdi\" tutuklandı. Şifa vaadi ile dolandırıcılık ve cinsel istismar suçlaması",
-          "summary": "İzmir'de kendisini \"mehdi\" olarak tanıtarak şifa vaaden kişi, bir aileyi 3 milyon TL dolandırmak ve cinsel istismarda bulunduğu suçlamasıyla tutuklandı. İzmir'de kendisini ‘Mehdi’ olarak tanıtan kişinin bir aileyi 'şifa' vaadiyle yaklaşık 3 milyon TL dolandırarak, kadına yönelik cinsel istismarda bulunduğu ve 3,5 yaşındaki çocuğa şiddet uyguladığı iddia edildi.",
-          "source": "https://www.ntv.com.tr/turkiye/sahte-mehdi-tutuklandi-sifa-vaadi-ile-dolandiricilik-ve-cinsel-istismar-suclamasi-1752600"
+          "title": "DEM Parti heyeti Devlet Bahçeli ile görüştü",
+          "summary": "DEM Parti İmralı heyeti, terörsüz Türkiye sürecine ilişkin MHP Genel Başkanı Devlet Bahçeli ile bir görüşme gerçekleştirdi. Terörsüz Türkiye sürecinde bugün önemli bir görüşme vardı. Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, DEM Parti İmralı heyetiyle bir araya geldi. Türkiye Büyük Millet Meclisi'ndeki (TBMM) görüşme yaklaşık 40 dakika sürdü. DÜN DE ADALET BAKANI GÜRLEK İLE BİR ARAYA GELMİŞLERDİ DEM Parti heyeti dün de Adalet Bakanı Akın Gürlek ile bir görüşme gerçekleştirmişti.",
+          "source": "https://www.ntv.com.tr/turkiye/dem-parti-heyeti-devlet-bahceli-ile-gorusecek-1752652"
         },
         {
-          "title": "Villayı uyuşturucu serasını çevirmiş. Bir kişi gözaltında",
-          "summary": "Beykoz'da 3 katlı villaya düzenlenen uyuşturucu operasyonunda 1 kişi gözaltına alındı. İstanbul Emniyet Müdürlüğü Beykoz İlçe Emniyet Müdürlüğü ekiplerince, uyuşturucu madde imal ve ticaretinin önlenmesine yönelik yürütülen çalışmalarda; Riva Mahallesi’nde bulunan müstakil 3 katlı villada uyuşturucu madde yetiştirildiği yönünde edinilen bilgiler üzerine operasyon gerçekleştirildi. Operasyonda 1 şüpheli yakalandı.",
-          "source": "https://www.ntv.com.tr/turkiye/villayi-uyusturucu-serasini-cevirmis-bir-kisi-gozaltinda-1752599"
+          "title": "DJ Burak Yeter uyuşturucu soruşturmasında gözaltına alındı",
+          "summary": "Ünlülere yönelik uyuşturucu soruşturmasında DJ Burak Yeter gözaltına alındı. Dün gözaltına alınan 15 şüpheli ise adliyeye sevk edildi. Ünlülere yönelik uyuşturucu soruşturması sürüyor. Son olarak DJ ve müzik yapımcısı Burak Yeter gözaltına alındı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen dosyada dün de aralarında şarkıcı Özcan Deniz, oyuncular Deniz Çakır ve Burcu Özberk'in de aralarında bulunduğu 24 kişi gözaltına alınmıştı.",
+          "source": "https://www.ntv.com.tr/turkiye/dj-burak-yeter-uyusturucu-sorusturmasinda-gozaltina-alindi-1752682"
         }
       ]
     },
     "dunya": {
-      "text": "60 gün içinde fırlatılabilir iddiası! Gözler Putin'in planında! Dünyanın korktuğu senaryo gerçek mi oluyor?. Mısır'daki feci kazada can kaybı 30'a yükseldi. Mısır'da yakıt tankerinde yangın: 30 ölü, 15 yaralı. Suriye'nin Haseke kentinde bomba yüklü motosiklet patladı. Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 2 balistik füze imha edildi. Avrupa Birliği'nden kuantum ve yapay zekaya 50 milyar euro fon hazırlığı. ABD'de 5 tonluk mühimmat patlatıldı.",
+      "text": "Yerli Amerikalı ünlü model ve aktivist Coyote, CNN Türk'e konuştu: Şükran Günü’nde soykırımı kutlamayın. Avrupa'ya vizesiz seyahat için son 6 adım. Tayland'da korkutan patlama! Siyah dumanlar yükseldi. Hackerlar dünyanın en büyük şifre yönetim yazılımına sızdı. İsrail'den İran'a ABD olmadan saldırı mesajı: 'Her an harekete geçebiliriz'. Trump'ın doğuştan vatandaşlığı kısıtlayan kararnamelerine mahkeme freni. İspanya açıklarında tanker battı: 1 ölü.",
       "items": [
         {
-          "title": "60 gün içinde fırlatılabilir iddiası! Gözler Putin'in planında! Dünyanın korktuğu senaryo gerçek mi oluyor?",
-          "summary": "Dünya, Rusya ile NATO arasında yaşanabilecek olası bir çatışmanın yeni ve oldukça tehlikeli bir boyutuyla karşı karşıya. Moskova’nın bugüne kadar alışılmış savaş stratejilerinin dışında kalan bir hamle üzerinde çalıştığı iddia edilirken, Batı’dan gelen istihbarat bilgileri endişeleri artırdı. Peki, Vladimir Putin’in uzayla ilgili planı ne? Tek bir hamle, modern dünyanın vazgeçilmez teknolojilerini nasıl tehdit edebilir? İşte kafaları karıştıran iddialar ve uzmanların dikkat çektiği olası senaryonun ayrıntıları...",
-          "source": "https://www.hurriyet.com.tr/dunya/60-gun-icinde-firlatilabilir-iddiasi-gozler-putinin-planinda-dunyanin-korktugu-senaryo-gercek-mi-oluyor-43390461"
+          "title": "Yerli Amerikalı ünlü model ve aktivist Coyote, CNN Türk'e konuştu: Şükran Günü’nde soykırımı kutlamayın",
+          "summary": "ABD, bugün Şükran Günü’nü kutluyor ama bu etkinliklere Yerli Amerikalılardan tepki var. Ülkenin ünlü Yerli Amerikalı modellerinden Coyote, “Şükran Günü’nde soykırımı kutlamayın” diye seslendi. CNN Türk’ten Serdar Korucu’ya konuşan Coyote, “Şükran Günü bizim için yas günüdür. Yaşanan katliamla yüzleşilmesi gerekli” dedi.",
+          "source": "https://www.hurriyet.com.tr/dunya/yerli-amerikali-unlu-model-ve-aktivist-coyote-cnn-turke-konustu-sukran-gununde-soykirimi-kutlamayin-43391777"
         },
         {
-          "title": "Mısır'daki feci kazada can kaybı 30'a yükseldi",
-          "summary": "Mısır'ın başkenti Kahire'nin çevre yolunda petrol ürünleri taşıyan bir aracın devrilmesi sonucu çıkan yangında en az 30 kişi hayatını kaybetti, 15 kişi yaralandı. Mısır'da petrol ürünleri taşıyan bir aracın devrilmesi sonucu çıkan yangında can kaybı arttı. Mısır Sağlık Bakanlığı, kazada en az 30 kişinin hayatını kaybettiğini, 15 kişinin de yaralandığını açıkladı.",
-          "source": "https://www.ntv.com.tr/dunya/misirda-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti-1752578"
+          "title": "Avrupa'ya vizesiz seyahat için son 6 adım",
+          "summary": "Türkiye ile Avrupa Birliği (AB) arasındaki vize serbestisi sürecinde henüz karşılanmayan 6 kriterden biri için Meclis'te yeni bir adım atılması bekleniyor. Kişisel Verilerin Korunması Kanunu'nun AB standartlarına uyumlu hale getirilmesini öngören düzenlemenin, bütçe görüşmelerinin tamamlanmasının ardından TBMM Başkanlığı'na sunulması öngörülüyor.",
+          "source": "https://www.hurriyet.com.tr/dunya/avrupaya-vizesiz-seyahat-icin-son-6-adim-43391721"
         },
         {
-          "title": "Mısır'da yakıt tankerinde yangın: 30 ölü, 15 yaralı",
-          "summary": "MISIR'ın Giza kentinde petrol ürünleri taşıyan bir tankerde çıkan yangında 30 kişi hayatını kaybetti, 15 kişi yaralandı.",
-          "source": "https://www.hurriyet.com.tr/dunya/misirda-yakit-tankerinde-yangin-30-olu-15-yarali-43391330"
+          "title": "Tayland'da korkutan patlama! Siyah dumanlar yükseldi",
+          "summary": "Tayland'ın başkenti Bangkok'ta büyük bir petrol tesisinde patlama meydana geldiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/taylandda-korkutan-patlama-siyah-dumanlar-yukseldi-43391718"
         },
         {
-          "title": "Suriye'nin Haseke kentinde bomba yüklü motosiklet patladı",
-          "summary": "Suriye'nin kuzeydoğusundaki Haseke kentinde bomba yüklü motosikletin patladığı bildirildi. Suriye İhbariye televizyonunun haberine göre, Haseke'nin Müşeyrife Mahallesi'nde bomba yüklü bir motosiklet infilak etti. Olayda ölen ya da yaralanan olup olmadığına ilişkin henüz bilgi verilmedi. Olayın ardından İç Güvenlik Güçlerinin patlamayla ilgili soruşturma başlattığı kaydedildi.",
-          "source": "https://www.ntv.com.tr/dunya/suriyenin-haseke-kentinde-bomba-yuklu-motosiklet-patladi-1752590"
+          "title": "Hackerlar dünyanın en büyük şifre yönetim yazılımına sızdı",
+          "summary": "Dünyanın en büyük şifre yönetimi platformu 1Password, bir çalışanının kurumsal GitHub hesabına yetkisiz erişim sağlanması sonucu siber saldırıya uğradığını açıkladı. Dünyanın en büyük şifre yönetimi platformu 1Password, bir çalışanının kurumsal GitHub hesabına yetkisiz erişim sağlandığını ve siber saldırıya uğradığını açıkladı. Şirketin yayınladığı blog yazısında, 19 Kasım'da tespit edilen ihlalin ardından soruşturma başlatıldığı belirtildi.",
+          "source": "https://www.ntv.com.tr/dunya/hackerlar-dunyanin-en-buyuk-sifre-yonetim-yazilimina-sizdi-1752689"
         },
         {
-          "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 2 balistik füze imha edildi",
-          "summary": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki İran destekli Husilerin başkent Riyad'a fırlattığı 2 balistik füzenin imha edildiğini duyurdu. Koalisyon Sözcüsü Tuğgeneral Turki el-Maliki, ABD merkezli X şirketinin sosyal medya platformundaki hesabından yaptığı açıklamada, Husilerin Riyad'ı balistik füzeyle hedef almaya çalıştıklarını belirtti.",
-          "source": "https://www.ntv.com.tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-2-balistik-fuze-imha-edildi-1752589"
+          "title": "İsrail'den İran'a ABD olmadan saldırı mesajı: 'Her an harekete geçebiliriz'",
+          "summary": "İsrail Ordu Sözcüsü Effie Defrin, İran'a ABD'nin desteği olmadan saldırı düzenlemeye hazır olduklarını belirtti. \"Her an kendi başlarına harekete geçebileceklerini ifade eden Defrin, İran'ın İsrail'i yok etmek istediğini öne sürdü.",
+          "source": "https://www.hurriyet.com.tr/dunya/israilden-irana-abd-olmadan-saldiri-mesaji-her-an-harekete-gecebiliriz-43391632"
         },
         {
-          "title": "Avrupa Birliği'nden kuantum ve yapay zekaya 50 milyar euro fon hazırlığı",
-          "summary": "Avrupa Komisyonu, 2030 yılına kadar kuantum teknolojisinde küresel lider olmak amacıyla 50 milyar euroluk özkaynak finansman fonu önerdi. Avrupa Komisyonu, kıtayı 2030 yılına kadar kuantum teknolojisinde küresel lider yapmayı hedefleyen 50 milyar euroluk (54,73 milyar dolar) özkaynak finansman fonu önerdi. Brüksel'de açıklanan Kuantum Yasası taslağı, kamu ihalelerinde Avrupa şirketlerine öncelik tanıyan düzenlemeler de içeriyor.",
-          "source": "https://www.ntv.com.tr/dunya/avrupa-birliginden-kuantum-ve-yapay-zekaya-50-milyar-euro-fon-hazirligi-1752564"
+          "title": "Trump'ın doğuştan vatandaşlığı kısıtlayan kararnamelerine mahkeme freni",
+          "summary": "ABD'de federal mahkeme, Başkan Donald Trump'ın doğuştan vatandaşlığı kısıtlamayı amaçlayan yeni kararnamelerinin uygulanmasını durdurdu. Washington'daki Federal Bölge Mahkemesi Yargıcı Christopher Cooper, Başkan Trump'ın konuya dair 6 Ağustos'ta imzaladığı yeni kararnamelere yönelik ihtiyati tedbir kararı verdi. Karar, federal kurumların Trump'ın doğuştan vatandaşlığın kapsamını daraltmayı ve \"doğum turizmi\" olarak adlandırılan uygulamayı hedef alan yeni kararnamelerini uygulamasını engelliyor.",
+          "source": "https://www.ntv.com.tr/dunya/trumpin-dogustan-vatandasligi-kisitlayan-kararnamelerine-mahkeme-freni-1752681"
         },
         {
-          "title": "ABD'de 5 tonluk mühimmat patlatıldı",
-          "summary": "ABD'nin Iowa eyaletinde, orduya ait bir mühimmat fabrikasında bulunan yaklaşık 5 ton kurşun azit stoku kontrollü şekilde imha edildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/abdde-5-tonluk-muhimmat-patlatildi-43391184"
+          "title": "İspanya açıklarında tanker battı: 1 ölü",
+          "summary": "İspanya'nın doğusundaki İbiza Adası açıklarında ham petrol yüklü tankerin batması sonucu 1 denizcinin hayatını kaybettiği bildirildi.",
+          "source": "https://www.hurriyet.com.tr/dunya/ispanya-aciklarinda-tanker-batti-1-olu-43391570"
         }
       ]
     },
@@ -124,42 +124,42 @@
       ]
     },
     "spor": {
-      "text": "Arda Turan: 'Bu cehennemi yaşayacağız!'. Emre Belözoğlu: 'Fenerbahçe'nin Şampiyonlar Ligi'nde olması yakışıyor!'. Vedat Muriqi: 'İyi yoldayız, çalışmaya devam!'. Vedat Muriqi'den tarihi gece: Fenerbahçe'nin 22 yıllık hasretini bitirdi!. Fabinho: 'Hedef Konferans Ligi'nde ilk 8!'. Thomas Reis'ten Konferans Ligi için ilk 8 açıklaması!. Ran Kozuch: 'Beşiktaş çok kaliteli bir takım'.",
+      "text": "Beşiktaş - Galatasaray derbisinin hakemi açıklandı!. Fenerbahçe'ye Şampiyonlar Ligi'nden dev gelir! İşte kasaya giren para. Osimhen ve transfer kararı! Beklemeye geçti, tarih belli oldu. Beşiktaş ve Trabzonspor Maçlarında Goller Bekleniyor! İşte Misli’den Günün Tüyoları!. Antalya'da 7 koşuluk program! İşte Misli'den günün altılı analizi... Galatasaray'da sakatlık şoku! Ocak ayına kadar yok. A Milli Basketbol Takımı, Dünya Kupası Elemeleri'nde İtalya karşısında! Maçın heyecanı canlı yayın ile Misli'de.",
       "items": [
         {
-          "title": "Arda Turan: 'Bu cehennemi yaşayacağız!'",
-          "summary": "Shakhtar Donetsk Teknik Direktörü Arda Turan, Fenerbahçe yenilgisinin ardından değerlendirmelerde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/arda-turan-bu-cehennemi-yasayacagiz-43391324"
+          "title": "Beşiktaş - Galatasaray derbisinin hakemi açıklandı!",
+          "summary": "Süper Lig'in 13. haftasında 30 Kasım Pazartesi günü Beşiktaş ile Galatasaray'ın karşı karşıya geleceği derbi maçı hakem Oğuzhan Çakır'ın yöneteceği açıklandı.",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-galatasaray-derbisinin-hakemi-aciklandi-43391794"
         },
         {
-          "title": "Emre Belözoğlu: 'Fenerbahçe'nin Şampiyonlar Ligi'nde olması yakışıyor!'",
-          "summary": "Fenerbahçe Teknik Direktörü Emre Belözoğlu, Shakhtar Donetsk galibiyetinin ardından açıklamalarda bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/emre-belozoglu-fenerbahcenin-sampiyonlar-liginde-olmasi-yakisiyor-43391325"
+          "title": "Fenerbahçe'ye Şampiyonlar Ligi'nden dev gelir! İşte kasaya giren para",
+          "summary": "Şampiyonlar Ligi'nin 5. haftasında dün akşam Shakhtar Donetsk'i dış sahada 1-0 mağlup etmeyi başaran Fenerbahçe, UEFA'dan hatırı sayılır bir meblağı da kasaya koydu. İşte Fenerbahçe'nin bu sezon Devler Ligi'nden kazandığı toplam para ödülü...",
+          "source": "https://www.hurriyet.com.tr/sporarena/fenerbahceye-sampiyonlar-liginden-dev-gelir-iste-kasaya-giren-para-43391746"
         },
         {
-          "title": "Vedat Muriqi: 'İyi yoldayız, çalışmaya devam!'",
-          "summary": "Fenerbahçe'nin Devler Ligi'nde Shakhtar Donetsk'i 1-0 mağlup ettiği maçta 3 puanı getiren gole imzasını atan Vedat Muriqi, galibiyeti Londra'daki tribünleri dolduran sarı-lacivertli taraftarlara armağan etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-iyi-yoldayiz-calismaya-devam-43391318"
+          "title": "Osimhen ve transfer kararı! Beklemeye geçti, tarih belli oldu",
+          "summary": "Galatasaray'ın Nijeryalı golcüsü Victor Osimhen'in transfer tercihi, İngiliz basını tarafından duyuruldu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/osimhen-ve-transfer-karari-beklemeye-gecti-tarih-belli-oldu-43391675"
         },
         {
-          "title": "Vedat Muriqi'den tarihi gece: Fenerbahçe'nin 22 yıllık hasretini bitirdi!",
-          "summary": "Fenerbahçe'ye Shakhtar Donetsk karşısında galibiyeti getiren Vedat Muriqi, üst üste ikinci maçında da fileleri havalandırırken hem performansıyla hem de kırdığı rekorlarla geceye damga vurdu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/vedat-muriqiden-tarihi-gece-fenerbahcenin-22-yillik-hasretini-bitirdi-43391312"
+          "title": "Beşiktaş ve Trabzonspor Maçlarında Goller Bekleniyor! İşte Misli’den Günün Tüyoları!",
+          "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-ve-trabzonspor-maclarinda-goller-bekleniyor-iste-misliden-gunun-tuyolari-43391660"
         },
         {
-          "title": "Fabinho: 'Hedef Konferans Ligi'nde ilk 8!'",
-          "summary": "Trabzonspor'un Brezilyalı oyuncusu Fabinho, UEFA Konferans Ligi'ne ilişkin olarak, \"Hedefimiz ilk 8’de olmak. Evimizde oynadığımız son maçı iyi oynamamıza rağmen kaybettik. Dolayısıyla bu organizasyonda yeniden kazanmak bizim için önemli. Çünkü hedefimiz ilk 8’de yer almak.\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/fabinho-hedef-konferans-liginde-ilk-8-43391160"
+          "title": "Antalya'da 7 koşuluk program! İşte Misli'den günün altılı analizi...",
+          "summary": "Antalya Hipodromu, bugün yarışseverleri 7 koşudan oluşan heyecan dolu bir programla buluşturuyor. Günün programında, birbirine denk güçte safkanların mücadele edeceği zorlu handikap koşularının yanı sıra, kalite isimlerin sahne alacağı önemli mücadeleler de dikkat çekiyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/antalyada-7-kosuluk-program-iste-misliden-gunun-altili-analizi-43391631"
         },
         {
-          "title": "Thomas Reis'ten Konferans Ligi için ilk 8 açıklaması!",
-          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, UEFA Konferans Ligi'nin 4. haftasında oynayacakları CSKA Sofya maçı öncesi Bulgaristan'ın başkenti Sofya'da düzenlenen basın toplantısında konuştu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/thomas-reisten-konferans-ligi-icin-ilk-8-aciklamasi-43391129"
+          "title": "Galatasaray'da sakatlık şoku! Ocak ayına kadar yok",
+          "summary": "Galatasaray'da sakatlara dair son durum belli oldu. Yıldız futbolcu, ocak ayında sahalara dönebilecek.",
+          "source": "https://www.hurriyet.com.tr/sporarena/galatasarayda-sakatlik-soku-ocak-ayina-kadar-yok-43391536"
         },
         {
-          "title": "Ran Kozuch: 'Beşiktaş çok kaliteli bir takım'",
-          "summary": "UEFA Avrupa Ligi'nin 5. haftasında yarın Gürcistan'da Beşiktaş ile karşılaşacak Hapoel Beer Sheva'nın teknik direktörü Ran Kozuch, Beşiktaş çok kaliteli bir takım olduğunu belirterek, siyah-beyazlılar karşısında oyun felsefelerini sahaya yansıtmak istediklerini söyledi.,",
-          "source": "https://www.hurriyet.com.tr/sporarena/ran-kozuch-besiktas-cok-kaliteli-bir-takim-43391136"
+          "title": "A Milli Basketbol Takımı, Dünya Kupası Elemeleri'nde İtalya karşısında! Maçın heyecanı canlı yayın ile Misli'de",
+          "summary": "A Milli Erkek Basketbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri 2. Tur J Grubu'ndaki 3. maçında İtalya deplasmanına çıkıyor. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanıyor.",
+          "source": "https://www.hurriyet.com.tr/sporarena/a-milli-basketbol-takimi-dunya-kupasi-elemelerinde-italya-karsisinda-macin-heyecani-canli-yayin-ile-mislide-43391559"
         }
       ]
     },
@@ -204,8 +204,13 @@
       ]
     },
     "saglik": {
-      "text": "Tek bir kuruş bile almıyor. İlaçsız, tamamen doğal yetiştirip kanser hastalarına hediye ediyor. Hastalıklara karşı direnç kazanmak isteyen tüketiyor. 16 saatte hazırlanıp, gün boyu tok tutuyor. Sağlıklı uykunun sırrı: Kaç saat uyumalısınız?. Çocuk hastalarda bir ilk: 7 günde ayağa kalktı. Botoksta ölümcül tehlike: 3 ayda 15 vaka. 3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi. Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor.",
+      "text": "Uzmanı uyardı: Birbirine çok benzeyen zehirli türler var. Tek bir kuruş bile almıyor. İlaçsız, tamamen doğal yetiştirip kanser hastalarına hediye ediyor. Hastalıklara karşı direnç kazanmak isteyen tüketiyor. 16 saatte hazırlanıp, gün boyu tok tutuyor. Sağlıklı uykunun sırrı: Kaç saat uyumalısınız?. Çocuk hastalarda bir ilk: 7 günde ayağa kalktı. Botoksta ölümcül tehlike: 3 ayda 15 vaka. 3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi.",
       "items": [
+        {
+          "title": "Uzmanı uyardı: Birbirine çok benzeyen zehirli türler var",
+          "summary": "Yağışların artması ve hava sıcaklıklarının mevsim normallerinin üzerinde seyretmesiyle birlikte doğada mantar bolluğu yaşanırken, uzmanlardan vatandaşlara zehirli mantar uyarısı geldi. Yağışlar arttı, doğada mantar bolluğu yaşandı. Ancak mantarlı toplarken ve tüketirken son derece dikkatli olmak gerekiyor. Muğla Sıtkı Koçman Üniversitesi Fen Fakültesi Biyoloji Bölümü Öğretim Üyesi Doç. Dr.",
+          "source": "https://www.ntv.com.tr/saglik/galeri-uzmani-uyardi-birbirine-cok-benzeyen-zehirli-turler-var-1752686"
+        },
         {
           "title": "Tek bir kuruş bile almıyor. İlaçsız, tamamen doğal yetiştirip kanser hastalarına hediye ediyor",
           "summary": "Bilecik'te emekli olduktan sonra hobi olarak aronya üretmeyen başlayan kişi, kanser hastalarına iyi geldiği belirtilen bu meyveyi, tüketmeleri için talep edenlere ücretsiz olarak gönderiyor. Emekli olduktan sonra Kocaeli Gebze'den gelerek 700 rakımlı Bilecik'in Osmaneli ilçesine bağlı Adliye Köyü'nde yerleşen edebiyat öğretmeni Sıtkı Akçayır, hobi olarak aronya meyveyi yetiştirmeye başladı.",
@@ -235,11 +240,6 @@
           "title": "3 bin 777 kişi, 30 yıl boyunca incelendi: Demans riskini artıran faktör belirlendi",
           "summary": "Bilim insanları, yaptıkları bir çalışmada, kronik yalnızlık yaşayan 65 yaş üstü kişilerde demans (bunama) riskinin yüzde 38 arttığını tespit etti. Fransa'daki Bordeaux Üniversitesi araştırmacılarının yaptığı çalışmada, 1988-2018 yıllarında 65 yaş üstündeki 3 bin 777 kişi incelendi. Katılımcılar \"hiç yalnız olmayanlar\", \"ara sıra yalnızlık yaşayanlar\" ile \"kronik yalnızlık yaşayanlar\" olmak üzere üç gruba ayrıldı. Çalışmada kronik yalnızlık grubundakilerin yüzde 49'unda demans gelişti.",
           "source": "https://www.ntv.com.tr/saglik/3-bin-777-kisi-30-yil-boyunca-incelendi-demans-riskini-artiran-faktor-belirlendi-1751667"
-        },
-        {
-          "title": "Doğal antibiyotik tezgahta. Bağışıklığını güçlendirmek isteyenler yoğun ilgi gösteriyor",
-          "summary": "Sivas'ta havaların soğumasıyla beraber bağışıklığı güçlendiren ve antibiyotik özelliği bulunan sofraların vazgeçilmezi turşular tezgahlardaki yerini aldı. Sivas'ta havanın soğumasıyla birlikte sofralarda salataların yerini turşular almaya başladı. Mevsiminde toplanan taze meyve ve sebzelerden kurulan turşular, vatandaşların yoğun ilgisini görüyor. Kış aylarına hazırlık sürecinin başlamasıyla birlikte şehirdeki turşu tezgâhları hareketlendi.",
-          "source": "https://www.ntv.com.tr/saglik/dogal-antibiyotik-tezgahta-bagisikligini-guclendirmek-isteyenler-yogun-ilgi-gosteriyor-1751603"
         }
       ]
     },
