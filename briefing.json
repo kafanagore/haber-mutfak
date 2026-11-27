@@ -1,51 +1,61 @@
 {
   "app": "haber-saati",
   "version": 1,
-  "generatedAt": "2026-11-26T16:00:04.102Z",
+  "generatedAt": "2026-11-27T04:00:03.894Z",
   "categories": {
     "gundem": {
-      "text": "Bakan Uraloğlu, İzmir Büyükşehir Belediye Başkanı Tugay'la görüştü. Borsa günü yükselişle tamamladı… İşte en çok kazandıran ve kaybettiren sektörler. Türkiye ile Suudi Arabistan arasında savunma sanayinde iş birliği mutabakatı imzalandı. MGK'dan Terörsüz Türkiye ve bölgesel güvenlik mesajı. Kütahya'da kayıp olarak aranıyordu! Ormanda ölü bulundu. Şile Belediyesi ‘yolsuzluk' davasında 5 sanık tahliye edildi! Haluk Levent’in kardeşi de var. İzmir’den Aydın’a getirdi, yolda yürürken yakalandı: Üzerinden 1100 hap çıktı.",
+      "text": "İzmir açıklarında 4.1 büyüklüğünde deprem. BDDK Başkanlığına Yusuf Kenan Bağır atandı. Ünlülere uyuşturucu soruşturmasında 3 kişi hakkında tutuklama talebi. Bakan Kurum: Antalya’da hiçbir ülkenin dayatmasına boyun eğmedik. TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar. Bakan Çiftçi, Batum'da taraftarlara yönelik müdahaleyi Gürcü mevkidaşıyla görüştü. İletişim Başkanı Duran'dan AP'nin kararına tepki.",
       "items": [
         {
-          "title": "Bakan Uraloğlu, İzmir Büyükşehir Belediye Başkanı Tugay'la görüştü",
-          "summary": "ULAŞTIRMA ve Altyapı Bakanı Abdulkadir Uraloğlu, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'la bakanlıkta bir araya geldi.",
-          "source": "https://www.hurriyet.com.tr/gundem/bakan-uraloglu-izmir-buyuksehir-belediye-baskani-tugayla-gorustu-43392344"
+          "title": "İzmir açıklarında 4.1 büyüklüğünde deprem",
+          "summary": "İzmir'in Seferihisar ilçesi açıklarında Richter ölçeğine göre 4.1 büyüklüğünde deprem meydana geldi.",
+          "source": "https://www.hurriyet.com.tr/gundem/izmir-aciklarinda-4-1-buyuklugunde-deprem-43392628"
         },
         {
-          "title": "Borsa günü yükselişle tamamladı… İşte en çok kazandıran ve kaybettiren sektörler",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
-          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-iste-en-cok-kazandiran-ve-kaybettiren-sektorler-43392329"
+          "title": "BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+          "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) başkanlığına Yusuf Kenan Bağır atandı. Bankacılık Düzenleme ve Denetleme Kurulu Başkanlığı'na beklenen atama gerçekleştirildi. Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan atama kararına göre, Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) başkanlığına Yusuf Kenan Bağır atandı. Kararla, Mahmut Esfa Emek de BDDK üyesi olarak atandı.",
+          "source": "https://www.ntv.com.tr/turkiye/bddk-baskanligina-yusuf-kenan-bagir-atandi-1752770"
         },
         {
-          "title": "Türkiye ile Suudi Arabistan arasında savunma sanayinde iş birliği mutabakatı imzalandı",
-          "summary": "SAVUNMA Sanayii Başkanlığı (SSB) ile Suudi Arabistan Krallığı Savunma Geliştirme Genel Otoritesi (GADD) arasında savunma Ar-Ge ve inovasyon iş birliği mutabakat zaptı imzalandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/turkiye-ile-suudi-arabistan-arasinda-is-birligi-mutabakati-imzalandi-43392322"
+          "title": "Ünlülere uyuşturucu soruşturmasında 3 kişi hakkında tutuklama talebi",
+          "summary": "İstanbul'da ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltı süresi uzatılan şüphelilerden 3'ü hakkında tutuklama, 10 kişi için ise adli kontrol istendi. İstanbul Cumhuriyet Başsavcılığınca \"fuhuş\", \"uyuşturucu veya uyarıcı madde ticareti\", \"uyuşturucu veya uyarıcı madde temin etme\" ile \"uyuşturucu madde kullanma veya bulundurma\" suçlarına yönelik yürütülen soruşturma sürüyor.",
+          "source": "https://www.ntv.com.tr/turkiye/unlulere-uyusturucu-sorusturmasinda-3-kisi-hakkinda-tutuklama-talebi-1752774"
         },
         {
-          "title": "MGK'dan Terörsüz Türkiye ve bölgesel güvenlik mesajı",
-          "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplanan Milli Güvenlik Kurulu (MGK), Terörsüz Türkiye süreci kapsamında yürütülen faaliyetlerin kararlılıkla sürdürüleceğini bildirdi. Milli Güvenlik Kurulu (MGK), Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı. İki saat 20 dakika süren toplantının ardından yayımlanan dokuz maddelik bildiride, terörle mücadele, Terörsüz Türkiye süreci, organize suç örgütleriyle mücadele ve bölgesel gelişmelere ilişkin değerlendirmelere yer verildi.",
-          "source": "https://www.ntv.com.tr/turkiye/mgkdan-terorsuz-turkiye-ve-bolgesel-guvenlik-mesaji-1752732"
+          "title": "Bakan Kurum: Antalya’da hiçbir ülkenin dayatmasına boyun eğmedik",
+          "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Tapu ve Kadastro Genel Müdürlüğü, Meteoroloji Genel Müdürlüğü, İklim Değişikliği Başkanlığı ve Kentsel Dönüşüm Başkanlığı’nın 2027 yılı bütçeleri TBMM Plan ve Bütçe Komisyonu’nda kabul edildi. Komisyonda milletvekillerinin sorularını yanıtlayan Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türkiye’nin ev sahipliğinde Antalya’da düzenlenen COP31 Zirvesi’ne yönelik muhalefetin eleştirilerine tepki gösterdi.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-kurum-antalyada-hicbir-ulkenin-dayatmasina-boyun-egmedik-43392587"
         },
         {
-          "title": "Kütahya'da kayıp olarak aranıyordu! Ormanda ölü bulundu",
-          "summary": "Kütahya’nın Tavşanlı ilçesinde, kayıp olarak aranan 55 yaşındaki Mehmet Er'in ormanlık alanda cansız bedeni bulundu.",
-          "source": "https://www.hurriyet.com.tr/gundem/kutahyada-kayip-olarak-araniyordu-ormanda-olu-bulundu-43392245"
+          "title": "TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
+          "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likidite yönetimi ve makroihtiyati çerçeveye ilişkin yeni kararlar aldı. TCMB'nin Türk lirası likidite yönetimine ve makroihtiyati çerçeveye ilişkin basın duyuruları Bankanın internet sitesinde yayımlandı. Buna göre, açık piyasa işlemleri kapsamında gerçekleştirilen bir hafta vadeli repo ihalelerine geçici olarak ara verilmesi kararlaştırıldı.",
+          "source": "https://www.ntv.com.tr/turkiye/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar-1752756"
         },
         {
-          "title": "Şile Belediyesi ‘yolsuzluk' davasında 5 sanık tahliye edildi! Haluk Levent’in kardeşi de var",
-          "summary": "Şile Belediyesi'ne yönelik yürütülen rüşvet ve yolsuzluk soruşturması kapsamında tutuklanan ve görevinden uzaklaştırılan Şile Belediye Başkanı Özgür Kabadayı hakkında 33 yıl 3 aydan 92 yıla kadar hapis istemiyle açılan davada 12. duruşma görüldü. Ara kararı açıklayan mahkeme, aralarında Haluk Levent’in kardeşi Berkant Acil'in de bulunduğu 5 sanığın tahliyesine karar verdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/sile-belediyesi-yolsuzluk-davasinda-5-sanik-tahliye-edildi-haluk-leventin-kardesi-de-var-43392238"
+          "title": "Bakan Çiftçi, Batum'da taraftarlara yönelik müdahaleyi Gürcü mevkidaşıyla görüştü",
+          "summary": "İçişleri Bakanı Mustafa Çiftçi, Gürcistan İçişleri Bakanı Sulkhan Tamazaşvili ile Beşiktaş'ın Batum'da oynadığı karşılaşmada yaşanan olaylara ilişkin görüştü.",
+          "source": "https://www.hurriyet.com.tr/gundem/bakan-ciftci-batumda-taraftarlara-yonelik-mudahaleyi-gurcu-mevkidasiyla-gorustu-43392482"
         },
         {
-          "title": "İzmir’den Aydın’a getirdi, yolda yürürken yakalandı: Üzerinden 1100 hap çıktı",
-          "summary": "Aydın’ın Efeler ilçesinde İzmir’den uyuşturucu getirdiği istihbaratıyla takibe alınan kadın şüpheli R.A. yolda yürürken durduruldu. Üzerinde 1100 sentetik hap ele geçirilen R.A., çıkarıldığı mahkemece tutuklandı.",
-          "source": "https://www.hurriyet.com.tr/gundem/izmirden-aydina-getirdi-yolda-yururken-yakalandi-uzerinden-1100-hap-cikti-43392225"
+          "title": "İletişim Başkanı Duran'dan AP'nin kararına tepki",
+          "summary": "İletişim Başkanı Burhanettin Duran, Avrupa Parlamentosu (AP) Genel Kurulu'nun Türkiye ile Libya arasında 2019 yılında imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul ettiği kararın hukuki dayanaktan yoksun olduğunu belirtti",
+          "source": "https://www.hurriyet.com.tr/gundem/iletisim-baskani-durandan-apnin-kararina-tepki-43392457"
         }
       ]
     },
     "dunya": {
-      "text": "Husilerden Suudi Arabistan'a yeni rafineri saldırısı. Trump'ın temsilcisi Kushner'den skandal Gazze açıklaması. İsrail Lübnan'ın güneyini vurdu: Savaş uçakları ve topçular 4 bölgeyi hedef aldı. Suudi Arabistan'ın Cazan bölgesine saldırı. İsrail muhalefetinden Netanyahu'ya karşı yeni hamle: Tartışmalı yasaların iptali gündemde. Bilim insanları sahte gülümsemenin mutluluk üzerindeki etkisini araştırdı. Yaşam tarzınız köpeğinizin bağırsak sağlığını etkiliyor olabilir.",
+      "text": "AB liderleri yeni bütçede anlaşma sağlayamadı. Irak'ta IKBY kontrolündeki Beşte ve el-Velid sınır kapıları kapatıldı. Husilerden Suudi Arabistan'a yeni rafineri saldırısı. Trump'ın temsilcisi Kushner'den skandal Gazze açıklaması. İsrail Lübnan'ın güneyini vurdu: Savaş uçakları ve topçular 4 bölgeyi hedef aldı. Suudi Arabistan'ın Cazan bölgesine saldırı. İsrail muhalefetinden Netanyahu'ya karşı yeni hamle: Tartışmalı yasaların iptali gündemde.",
       "items": [
+        {
+          "title": "AB liderleri yeni bütçede anlaşma sağlayamadı",
+          "summary": "Avrupa Birliği (AB) üyesi 27 ülkenin liderleri, Birliğin 2028-2034 dönemine ilişkin uzun vadeli bütçesinin boyutu konusunda anlaşma sağlayamadı.",
+          "source": "https://www.hurriyet.com.tr/dunya/ab-liderleri-yeni-butcede-anlasma-saglayamadi-43392625"
+        },
+        {
+          "title": "Irak'ta IKBY kontrolündeki Beşte ve el-Velid sınır kapıları kapatıldı",
+          "summary": "Irak Sınır Muhafızları, Irak'ta Irak Kürt Bölgesel Yönetimi (IKBY) kontrolünde bulunan Beşte ve el-Velid sınır kapılarını kapattı. Irak haber ajansı INA'nın aktardığına göre, ülkenin kuzeyindeki Halepçe kentinde yer alan, IKBY denetimindeki ve İran'a açılan Beşte Sınır Kapısı kapatıldı. Irak ile Suriye arasındaki, yine IKBY kontrolündeki el-Velid Sınır Kapısı'nın da kapatıldığı bildirildi.",
+          "source": "https://www.ntv.com.tr/dunya/irakta-ikby-kontrolundeki-beste-ve-el-velid-sinir-kapilari-kapatildi-1752760"
+        },
         {
           "title": "Husilerden Suudi Arabistan'a yeni rafineri saldırısı",
           "summary": "Husiler, Suudi Arabistan'ın güneybatısında yer alan Cazan Petrol Rafinerisi'ne saldırdı. Arap Koalisyonu Sözcüsü Tuğgeneral Turki el-Maliki, ABD merkezli X şirketinin sosyal medya platformundaki hesabından yaptığı açıklamada, Husilerin Suudi Arabistan'da sivilleri ve sivil alanları hedef almaya devam ettiğini belirtti.",
@@ -70,22 +80,17 @@
           "title": "İsrail muhalefetinden Netanyahu'ya karşı yeni hamle: Tartışmalı yasaların iptali gündemde",
           "summary": "İsrail'de yeni hükümeti kurmaya hazırlanan \"Değişim Bloğu\", geçici Başbakan Binyamin Netanyahu liderliğindeki koalisyonun çıkardığı tartışmalı yasaları yürürlükten kaldırmak için harekete geçti. İsrail vatandaşı Filistinlilerin temsilcisi olan partilerin desteğiyle Mecliste sayısal üstünlüğü ele geçiren blok, bu yöndeki yasama çalışmalarına başladı.",
           "source": "https://www.hurriyet.com.tr/dunya/israil-muhalefetinden-netanyahuya-karsi-yeni-hamle-tartismali-yasalarin-iptali-gundemde-43392255"
-        },
-        {
-          "title": "Bilim insanları sahte gülümsemenin mutluluk üzerindeki etkisini araştırdı",
-          "summary": "Yaklaşık 1200 kişinin katıldığı yeni bir araştırma, içten gelmese bile gülümsemenin insanları daha mutlu hissettirebildiğini ortaya koydu. Ancak araştırmacılar, kişinin sürekli gülümsemeye zorlanması durumunda bu etkinin tersine dönebildiğini ve öfke duygusunun artabildiğini tespit etti.",
-          "source": "https://www.hurriyet.com.tr/dunya/bilim-insanlari-sahte-gulumsemenin-mutluluk-uzerindeki-etkisini-arastirdi-43392239"
-        },
-        {
-          "title": "Yaşam tarzınız köpeğinizin bağırsak sağlığını etkiliyor olabilir",
-          "summary": "Dört farklı ülkede 250'den fazla köpeğin incelendiği yeni bir araştırma, insanların yaşam tarzının köpeklerinin bağırsak mikrobiyomunu şekillendirebileceğini ortaya koydu. Beslenme alışkanlıkları, dışarıda geçirilen süre ve yaşanılan çevrenin bu farklılıklarda önemli rol oynayabileceği belirtildi.",
-          "source": "https://www.hurriyet.com.tr/dunya/yasam-tarziniz-kopeginizin-bagirsak-sagligini-etkiliyor-olabilir-43392231"
         }
       ]
     },
     "ekonomi": {
-      "text": "İzmir Bridal Week’te moda rüzgaları esti. Aralarında Çin ve AB de var… ABD yönetiminden 14 ekonomiye ek tarife önerisi. Kemalpaşalı sanayiciler ABD pazarını hedefliyor. Bahçeli’den orta sınıf uyarısı. Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar. Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler. Tütün iki aydır ihracat rekoru kırıyor.",
+      "text": "Borsa günü yükselişle tamamladı… İşte en çok kazandıran ve kaybettiren sektörler. İzmir Bridal Week’te moda rüzgaları esti. Aralarında Çin ve AB de var… ABD yönetiminden 14 ekonomiye ek tarife önerisi. Kemalpaşalı sanayiciler ABD pazarını hedefliyor. Bahçeli’den orta sınıf uyarısı. Bakan Şimşek: Türkiye-Umman ticaret hacmimiz 5 milyar dolar. Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'.",
       "items": [
+        {
+          "title": "Borsa günü yükselişle tamamladı… İşte en çok kazandıran ve kaybettiren sektörler",
+          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
+          "source": "https://www.hurriyet.com.tr/gundem/borsa-gunu-yukselisle-tamamladi-iste-en-cok-kazandiran-ve-kaybettiren-sektorler-43392329"
+        },
         {
           "title": "İzmir Bridal Week’te moda rüzgaları esti",
           "summary": "İZMİR Büyükşehir Belediyesi ev sahipliğinde, İZFAŞ tarafından 24-26 Kasım tarihlerinde ilk kez düzenlenen İzmir Bridal Week, ilk gününde üç defileyle moda dünyasını bir araya getirdi. 52 firmanın 166 farklı tasarımının sergilendiği defilelerde gelinlik, abiye ve damatlık koleksiyonları moda tutkunlarıyla buluşturuldu.",
@@ -112,54 +117,49 @@
           "source": "https://www.hurriyet.com.tr/gundem/bakan-simsek-turkiye-umman-ticaret-hacmimiz-5-milyar-dolar-43389930"
         },
         {
-          "title": "Beşiktaş'ta gece yarısı tabela gerginliği: Başvurumuz bitmeden söktüler",
-          "summary": "Beşiktaş'ta yaklaşık 17 iş yerinin tabelası İBB ekipleri tarafından gece saatlerinde söküldü. Başvurularının sonuçlanmadığını belirten esnaf, kırılarak indirilen tabelalar ve 50 bin TL'lik ceza iddiasına tepki gösterdi.",
-          "source": "https://www.hurriyet.com.tr/gundem/besiktasta-gece-yarisi-tabela-gerginligi-basvurumuz-bitmeden-soktuler-43384566"
-        },
-        {
-          "title": "Tütün iki aydır ihracat rekoru kırıyor",
-          "summary": "TÜTÜN sektörünün ihracattaki başarısı ekim ayında da devam etti. Ekim 2025’te 82 milyon dolarlık ihracata imza atan sektör, bu yılın aynı döneminde ihracatını yüzde 59’luk yükselişle 130 milyon dolara taşıdı.",
-          "source": "https://www.hurriyet.com.tr/yerel-haberler/izmir/tutun-iki-aydir-ihracat-rekoru-kiriyor-43383940"
+          "title": "Yol haritamız belli | MHP Genel Başkanı Bahçeli: Bölgesel huzurun en önemli adımı 'Terörsüz Türkiye'",
+          "summary": "MHP Genel Başkanı Devlet Bahçeli, partisinin TBMM grup toplantısında adalet, yolsuzlukla mücadele, orta sınıfın kayıpları ve Terörsüz Türkiye sürecine ilişkin açıklamalarda bulundu. Bahçeli, bakan veya belediye başkanı ayırt etmeksizin yolsuzluğa müsamaha göstermeyeceklerini söyledi.",
+          "source": "https://www.hurriyet.com.tr/gundem/yol-haritamiz-belli-mhp-genel-baskani-bahceli-bolgesel-huzurun-en-onemli-adimi-terorsuz-turkiye-43388828"
         }
       ]
     },
     "spor": {
-      "text": "Mika Hakkinen: 'İstanbul Park çok zorlu ama harika bir pist'. Gençlerbirliği'nin transfer yasağı kaldırıldı. MHK Başkanı Anthony Taylor: 'Galatasaray'ın attığı golün iptal edilmesi gerekirdi!'. AYM'den spor müsabakalarında seyir yasağı tedbirine ilişkin iptal kararı. Ersin Destanoğlu şaştı kaldı! Olmadığı pozisyonda kart gördü. Beşiktaş Batum’da, Trabzonspor Sofya’da galibiyet peşinde! İşte Misli’de günün en çok oynanan maçları. Galatasaray'a derbi öncesi sakat oyunculardan iyi haber.",
+      "text": "Chibuike Nwaiwu: 'Hedefimiz her zaman en yukarısı!'. Thomas Reis: 'Önemli bir galibiyet aldık'. Avrupa'da Türk fırtınası! 4'te 4 yaptık, ülke puanı güncellendi. Orkun Kökçü: 'Yaşananlar kabul edilebilir değil!'. Vincenzo Italiano: 'Oyuncular çok istekliydi, hedefimiz üst tur'. Serdal Adalı: 'Maceralı bir galibiyet oldu!'. Türk kulüplerinden Beşiktaş taraftarına destek ve UEFA'ya tepki!.",
       "items": [
         {
-          "title": "Mika Hakkinen: 'İstanbul Park çok zorlu ama harika bir pist'",
-          "summary": "Formula 1'in dünya şampiyonlarından Finlandiyalı eski pilot Mika Hakkinen, İstanbul Park'ın çok zorlu ancak keyifli bir pist olduğunu belirterek, \"Eminim buraya gelecek Formula 1 pilotları da yarışı büyük bir heyecanla bekliyorlardır\" dedi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/mika-hakkinen-istanbul-park-cok-zorlu-ama-harika-bir-pist-43392283"
+          "title": "Chibuike Nwaiwu: 'Hedefimiz her zaman en yukarısı!'",
+          "summary": "Trabzonspor'da Chibuike Nwaiwu ve Andre Onana, CSKA Sofia galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/chibuike-nwaiwu-hedefimiz-her-zaman-en-yukarisi-43392600"
         },
         {
-          "title": "Gençlerbirliği'nin transfer yasağı kaldırıldı",
-          "summary": "Süper Lig ekiplerinden Gençlerbirliği'ne FIFA tarafından uygulanan geçici transfer yasağı kaldırıldı.",
-          "source": "https://www.hurriyet.com.tr/sporarena/genclerbirliginin-transfer-yasagi-kaldirildi-43392204"
+          "title": "Thomas Reis: 'Önemli bir galibiyet aldık'",
+          "summary": "Trabzonspor Teknik Direktörü Thomas Reis, CSKA Sofia'yı 2-1 mağlup ettileri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/thomas-reis-onemli-bir-galibiyet-aldik-43392597"
         },
         {
-          "title": "MHK Başkanı Anthony Taylor: 'Galatasaray'ın attığı golün iptal edilmesi gerekirdi!'",
-          "summary": "MHK Başkanı Anthony Taylor, Süper Lig ve 1. Lig'deki tartışmalı pozisyonları yorumladı. Taylor, büyük tartışmalara neden olan Galatasaray'ın Samsunspor'a attığı ilk gol için hakemin ve VAR'ın yanlış karar verdiğini belirterek, \"Golün iptal edilmesi gerekirdi.\" değerlendirmesinde bulundu.",
-          "source": "https://www.hurriyet.com.tr/sporarena/anthony-taylor-tartismali-pozisyonlari-tek-tek-degerlendirdi-galatasarayin-attigi-golun-iptal-edilmesi-gerekirdi-43392099"
+          "title": "Avrupa'da Türk fırtınası! 4'te 4 yaptık, ülke puanı güncellendi",
+          "summary": "Avrupa kupalarında ülkemizi temsil eden Galatasaray, Fenerbahçe, Beşiktaş ve Trabzonspor, haftayı dört galibiyetle tamamladı. Temsilcilerimizin aldığı sonuçların ardından UEFA ülke puanı sıralaması da güncellendi.",
+          "source": "https://www.hurriyet.com.tr/sporarena/avrupada-turk-firtinasi-4te-4-yaptik-ulke-puani-guncellendi-43392582"
         },
         {
-          "title": "AYM'den spor müsabakalarında seyir yasağı tedbirine ilişkin iptal kararı",
-          "summary": "Anayasa Mahkemesi (AYM), 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun'da yer alan \"seyirden yasaklama\" tedbirini, \"kamusal yarar\" ile \"kişilerin menfaatleri\" arasındaki makul dengeyi sağlamadığı gerekçesiyle iptal etti.",
-          "source": "https://www.hurriyet.com.tr/sporarena/aymden-spor-musabakalarinda-seyir-yasagi-tedbirine-iliskin-iptal-karari-43392047"
+          "title": "Orkun Kökçü: 'Yaşananlar kabul edilebilir değil!'",
+          "summary": "Beşiktaş'ta Doğan Alemdar, Salih Özcan ve Orkun Kökçü, Hapoel Beer-Sheva galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/orkun-kokcu-yasananlar-kabul-edilebilir-degil-43392539"
         },
         {
-          "title": "Ersin Destanoğlu şaştı kaldı! Olmadığı pozisyonda kart gördü",
-          "summary": "Milli kaleci Ersin Destanoğlu'nun takımı Al-Jazira ile Golgohar'ın karşı karşıya geldiği maçta hakemden skandal bir hareket geldi.",
-          "source": "https://www.hurriyet.com.tr/sporarena/ersin-destanoglu-sasti-kaldi-olmadigi-pozisyonda-kart-gordu-43391951"
+          "title": "Vincenzo Italiano: 'Oyuncular çok istekliydi, hedefimiz üst tur'",
+          "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Hapoel Beer Sheva'yı 2-1 mağlup ettikleri maçın ardından konuştu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/vincenzo-italiano-oyuncular-cok-istekliydi-hedefimiz-ust-tur-43392537"
         },
         {
-          "title": "Beşiktaş Batum’da, Trabzonspor Sofya’da galibiyet peşinde! İşte Misli’de günün en çok oynanan maçları",
-          "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-          "source": "https://www.hurriyet.com.tr/sporarena/besiktas-batumda-trabzonspor-sofyada-galibiyet-pesinde-iste-mislide-gunun-en-cok-oynanan-maclari-43391980"
+          "title": "Serdal Adalı: 'Maceralı bir galibiyet oldu!'",
+          "summary": "Beşiktaş Başkanı Serdal Adalı, Hapoel Beer Sheva galibiyetinin ardından açıklamalarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/serdal-adali-macerali-bir-galibiyet-oldu-43392522"
         },
         {
-          "title": "Galatasaray'a derbi öncesi sakat oyunculardan iyi haber",
-          "summary": "Galatasaray'da Beşiktaş derbisi öncesinde sakatlığı bulunan futbolcular, yavaş yavaş takıma dahil olacak. Durumu en çok merak edilen isimlerden Victor Osimhen'in de maçın geniş kadrosunda olması bekleniyor. İşte detaylar...",
-          "source": "https://www.hurriyet.com.tr/sporarena/galatasaraya-derbi-oncesi-sakat-oyunculardan-iyi-haber-43391957"
+          "title": "Türk kulüplerinden Beşiktaş taraftarına destek ve UEFA'ya tepki!",
+          "summary": "Türk kulüpleri, Beşiktaş taraftarlarına Gürcistan polisinin müdahale etmesine tepki gösterdi. Kulüpler, sosyal medya hesaplarından paylaşımlarda bulundu.",
+          "source": "https://www.hurriyet.com.tr/sporarena/turk-kuluplerinden-besiktas-taraftarina-destek-ve-uefaya-tepki-43392440"
         }
       ]
     },
